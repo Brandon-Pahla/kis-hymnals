@@ -192,10 +192,10 @@ See `index.json` for the complete list.
 ## Contributing
 
 ### Found a typo?
-Please open a new [issue](https://github.com/TinasheMzondiwa/cis-hymnals/issues/new/choose).
+Please open a new [issue](https://github.com/Brandon-Pahla/kis-hymnals/issues/new/choose).
 
 ### New language?
-Please open a new [issue](https://github.com/TinasheMzondiwa/cis-hymnals/issues/new/choose) with the suggested language.
+Please open a new [issue](https://github.com/Brandon-Pahla/kis-hymnals/issues/new/choose) with the suggested language.
 
 ### Know a translation?
 If you can verify that a hymn in one language is a translation of a hymn in another language, please open an issue or PR to add it to `cross-references.json`.
