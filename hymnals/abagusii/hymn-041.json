@@ -1,0 +1,35 @@
+{
+  "number": 41,
+  "language": "guz",
+  "title": "41 'Se Kalvari",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Se Kalvari yes'agakwa,'Monen'one akabambwa;'S'amanying'ay' akangora,Erio nyore amabera."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Kalvari y'omosunte,Ase Yeso ankwerete; (inche)O Kalvari 'sesenirie!Nao 'Motori'ankwerete."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Bitare bigatandoka,'Rioba rikab'omosunte;'Getambaa gotandokabikarag'ogotoreka."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Monen'one naki yare,Ay'okang'a obogima;'Kabogori' omosalaba,N'oboror'aria Kalwari."
+      ],
+      "number": 4
+    }
+  ]
+}

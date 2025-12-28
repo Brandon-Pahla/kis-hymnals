@@ -1,0 +1,56 @@
+{
+  "number": 45,
+  "language": "ve",
+  "title": "45 Mphe Bivhili",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:272",
+        "AH:164"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mphe Bivhili ya tshedza tsha-vhudi, uri ndi takadze na vhaeni,",
+        "A hu na gole li tsireledzaho, Kha Yesu a daho u ri tshidza."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mphe Bivhili, Murunwa Mukhethwa,",
+        "Uri na nne i mbonetshele-vho.",
+        "Fulufhedziso na lufuno lwawe,",
+        "Zwi dzula zwothe nga hu sa fheli."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mphe Bivhili matunguni anga, na musi muya wanga wo neta.",
+        "Mphe maipfi a ambaho Yesu, Uri ndi vhone Mutshidzi wanga."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mphe Bivhili i vhonetshelaho, uri ndi vhone khombo dzothe ndilani",
+        "Ndi denzhe li vhonetshela zwavhudi, uri ndi vhone ndi mu tevhele."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mphe Bivhili ya tshedza tsha vhudi, tshi do vhonetshela livhIdani,",
+        "Tshedza tshayo tshi bvaho ngei tadulu, henengei seli ha Yorodane."
+      ],
+      "number": 5
+    }
+  ]
+}

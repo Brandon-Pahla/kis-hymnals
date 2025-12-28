@@ -1,0 +1,48 @@
+{
+  "number": 66,
+  "language": "fr",
+  "title": "Torrents d’amour",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Torrents d’amour et de grâce,",
+        "Amour du Sauveur en croix!",
+        "À ce grand fleuve qui passe,",
+        "Je m’abandonne et je crois."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Je crois à ton sacrifice,",
+        "Ô Jésus, Agneau de Dieu ;",
+        "Et couvert par ta justice,",
+        "J’entrerai dans le saint lieu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ah ! que partout se répande",
+        "Ce fleuve à la grande voix :",
+        "Que tout l’univers entende",
+        "L’appel qui vient de la croix!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que toute âme condamnée,",
+        "Pour qui tu versas ton sang,",
+        "Soit au Père ramenée",
+        "Par ton amour tout puissant!"
+      ],
+      "number": 4
+    }
+  ]
+}

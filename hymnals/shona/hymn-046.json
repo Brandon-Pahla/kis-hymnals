@@ -1,0 +1,42 @@
+{
+  "number": 46,
+  "language": "sn",
+  "title": "46 Mazwi Anoshamisa E Upenyu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Imba, imbazve kuneni, Mazwi e upenyu,",
+        "Ngandione kunaka’wo, Mazwi e upenyu",
+        "Mazwi akanaka,anondidzidzisa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mazwi aya akanaka, Mazwi e upenyu,",
+        "Mazwi aya akanaka, Mazwi e upenyu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kristu anoapa vese, Mazwi e upenyu,",
+        "Inzwanyi imwi vatadzi, Mazwi e upenyu",
+        "Anotipa tese, tinozova vake"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Raurazve vhangeri’ro, Mazwi e upenyu,",
+        "Vese vachasunungurwa, Jesu Muponesi,",
+        "Unotichenura, tipinde kumusha"
+      ],
+      "number": 4
+    }
+  ]
+}

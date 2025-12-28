@@ -1,0 +1,64 @@
+{
+  "number": 9,
+  "language": "sn",
+  "title": "9 Jesu Unouya-Zve!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ridzanyi Tsuri neizwi guru;",
+        "Jesu unouya zve!",
+        "Farai vafambi, tendai, imbanyi;",
+        "Jesu unouya zve!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unouya, unouya, Jesu unouya zve!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ungiranyizve makomo imwi;",
+        "Jesu unouya zve!",
+        "Nyenye yakafa ive nembiri;",
+        "Jesu unouya zve!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyanza taura nemananda’yo;",
+        "Jesu unouya zve!",
+        "Apo pajecha kunyika dzese;",
+        "Jesu unouya zve!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pasi rinoti nekuteneka;",
+        "Jesu unouya zve!",
+        "Champupuri’cho nekuvhuvhuta;",
+        "Jesu unouya zve!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndudzi dzepasi dzinoshatirwa;",
+        "Jesu unouya zve!",
+        "Ngwaru hwawanda, vanhu vafamba;",
+        "Jesu unouya zve!"
+      ],
+      "number": 6
+    }
+  ]
+}

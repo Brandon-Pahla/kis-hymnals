@@ -1,0 +1,46 @@
+{
+  "number": 4,
+  "language": "fr",
+  "title": "L'amour de Dieu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "L'amour de Dieu gonfle la voile blanche",
+        "Du bateau qui vogue vers l'horizon.",
+        "Il ne tient pas la coque qui s'élance,",
+        "L'amour de Dieu n'est pas une prison."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "L'amour de Dieu gonfle la voile blanche",
+        "Du bateau qui vogue vers l'horizon."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous connaissons bien cette voie royale,",
+        "Celle qui mène au pays liberté.",
+        "Si en chemin tu tombes ou tu défailles,",
+        "La main de Dieu pourra te relever."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Viens nous aider, Seigneur, toi qui nous aimes,",
+        "À désirer transformer notre vie.",
+        "Nous ne saurions résoudre nos problèmes",
+        "Si tu ne viens. Seigneur, je t'ai choisi."
+      ],
+      "number": 4
+    }
+  ]
+}

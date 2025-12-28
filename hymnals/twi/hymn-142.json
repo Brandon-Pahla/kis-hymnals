@@ -1,0 +1,54 @@
+{
+  "number": 142,
+  "language": "tw",
+  "title": "Yɛtee Abɔfo Nne S'ro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛtee abɔfo nne s'ro,",
+        "Wɔ anadwo dwonto mu;",
+        "Na mmepɔ no nso gyee so,",
+        "De ky'rɛɛ anigye mm'roso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Anuonyam nka Nyame wɔ s'ros'ro,",
+        "Anuonyam nka Nyame wɔ s'ros'ro."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nguanhwɛfo, 'h'rusi yi ɛ?",
+        "'Dɛw nnwom yi ase ne dɛn?",
+        "Hann kɛse bɛn na muhui?",
+        "'Nigyesɛm bɛn na motee?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mommra Betlehem mmɛhwɛ",
+        "Nea 'bɔfo to N'awo dwom;",
+        "Mommra mmɛkoto nsom Noɔ",
+        "Kristo, 'Hen a wɔawo No."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hwɛ, ɔda mmoa 'didibea",
+        "Nea abɔfo som No s'ro;",
+        "Maria, Yosef, mommoa yɛn,",
+        "Brč a yɛma yɛn koma so'i."
+      ],
+      "number": 4
+    }
+  ]
+}

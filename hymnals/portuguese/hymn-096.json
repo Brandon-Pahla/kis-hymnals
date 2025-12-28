@@ -1,0 +1,56 @@
+{
+  "number": 96,
+  "language": "pt",
+  "title": "A Cristo Eu Amo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A Cristo Eu Amo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo Jesus é meu bom Salvador,",
+        "Desejo amá-Lo mais;",
+        "Todos os dias Ele é meu Pastor;",
+        "Desejo amá-Lo mais."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "A Cristo eu amo; oh, quanto o amo!",
+        "Na cruz a vida Ele deu!",
+        "Com Seu sangue, Jesus me salvou, assim,",
+        "E em gratidão sou Seu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! que alegria é servir a Jesus;",
+        "Desejo amá-Lo mais;",
+        "Sempre com Ele, eu vivo na luz;",
+        "Desejo amá-Lo mais."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bem cedo ao Céu Ele me levará,",
+        "Desejo amá-Lo mais;",
+        "Eternamente Ele me guiará;",
+        "Desejo amá-Lo mais."
+      ],
+      "number": 5
+    }
+  ]
+}

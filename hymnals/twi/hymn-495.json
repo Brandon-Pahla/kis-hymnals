@@ -1,0 +1,46 @@
+{
+  "number": 495,
+  "language": "tw",
+  "title": "Beae Bi Wɔ Hō a Home Pa Wɔ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Beae bi wɔ hō a home pa wɔ",
+        "Ͻbɛn Nyame komam';",
+        "Ͻhɔ na bɔne ntumi nhaw,",
+        "Ͻbɛn Nyame komam'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, Yesu Gyefo hy'rafo",
+        "Wufi Nyame Komam';",
+        "Fa yɛn a yɛretwɛn Wo'i,",
+        "Bɛn Nyame koma mu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Beae bi wɔ hō a ɔdɛw pa wɔ",
+        "Ͻbɛn Nyame komam'",
+        "Beae a yehyia yɛn Agyenkwa,",
+        "Ͻbɛn Nyame komam'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Beae bi wɔ hō a 'hofadi wɔ,",
+        "Ͻbɛn Nyame komam'.",
+        "Anigye ne 'somdwoe wɔ hɔ,",
+        "Ͻbɛn Nyame komam'."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 13,
+  "language": "xh",
+  "title": "13 Mhlophe Kune-Khephu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O Nkosi, ndinga ndinga gqibelela;",
+        "Ndithanda ukuba uhlale nam,",
+        "Yaphula zonke izithixo zam,",
+        "Ndihlambe ndibe mhlophe kune-Khephu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kune-Khephu, kwo, kune-khephu!",
+        "Ndihlambe ndibe mhlophe kune-khephu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu ndiqondele use zulwini,",
+        "Ndincede ndizenz’ idini lenene;",
+        "Ndiya zinikela ngokuphelela,",
+        "Ndihlambe ndibe mhlophe kune-khephu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu ndiya zithoba ndikucenga",
+        "Enyaweni zaKho ezinenxeba,",
+        "Ndizinikela noko endinako,",
+        "Ndihlambe ndibe mhlophe kune-khephu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu ndilinda ngomond’ ozeleyo;",
+        "Yiza ndidale intliziyo entsha;",
+        "Kulowo ukufunayo akwali,",
+        "Ndihlambe ndibe mhlophe kune-khephu"
+      ],
+      "number": 4
+    }
+  ]
+}

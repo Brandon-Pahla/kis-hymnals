@@ -1,0 +1,43 @@
+{
+  "number": 194,
+  "language": "fr",
+  "title": "Ô mon Dieu, je cherche",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ô mon Dieu! Je cherche ta face",
+        "Aux clartés de l'aube du jour;",
+        "Je cherche ta paix et ta grâce,",
+        "Le vrai bonheur dans ton amour;",
+        "Je cherche ta paix et ta grâce,",
+        "Le vrai bonheur dans ton amour."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ô mon Dieu! Fais luire en mon âme",
+        "Le flambeau divin de ta loi.",
+        "Oh! gagne mon coeur et l'enflamme",
+        "D'une vivante et sainte foi.",
+        "Oh! gagne mon coeur et l'enflamme",
+        "D'une vivante et sainte foi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ô mon Dieu! Bénis mes pensées,",
+        "Mes paroles et mes travaux.",
+        "Qu'après mes terrestres journées,",
+        "En toi, je trouve un doux repos.",
+        "Qu'après mes terrestres journées,",
+        "En toi, je trouve un doux repos."
+      ],
+      "number": 3
+    }
+  ]
+}

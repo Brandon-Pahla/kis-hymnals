@@ -1,0 +1,49 @@
+{
+  "number": 279,
+  "language": "tn",
+  "title": "279 Pelo E Futsafetseng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Pelo E Futsafetseng, Matlho A Eletsang.",
+        "Boipelo go dumelang; Lesedi go Jeso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tlang (e tlang) kwano go nna, (Lona) Lotlhe ba lo lapileng,",
+        "Lo imelwang (moyeng) Ke tla lo lapolosa: (Tlang lo)",
+        "Itseeleng",
+        "Jokwe wa me, Ithuteng ga me, Gonne ke bonolo,",
+        "Boingotlo pelong; Lo tla iponela tapologo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsa Selefatshe Ga Di Kake Tsa Kgorisa;",
+        "Re lekanya lorato, Lorato ga lo swe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kgomotso E’boitshepo Go Kreste M’fodisi;",
+        "Ao seketswe tatlho? Ikwatlhae O tshele."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kagiso Ya ’Gwe Noka, Rato Lwa ’Gwe Pina;",
+        "Jokwe wa ’Gwe, motlhofo; Mo letsatsing jotlhe."
+      ],
+      "number": 4
+    }
+  ]
+}

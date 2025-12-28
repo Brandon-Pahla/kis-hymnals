@@ -1,0 +1,56 @@
+{
+  "number": 458,
+  "language": "pt",
+  "title": "Vinde, Meninos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Vinde, Meninos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vinde meninos, vinde a Jesus;",
+        "Ele ganhou-vos bênçãos na cruz.",
+        "Os pequeninos Ele conduz;",
+        "Oh, vinde ao Salvador!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Que alegria, sem pecado ou mal,",
+        "Reunir-nos todos, afinal,",
+        "Juntos na pátria celestial,",
+        "Perto do Salvador!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Já, sem demora, muito convém",
+        "Ir caminhando à glória de além.",
+        "Cristo vos chama, quer vosso bem;",
+        "Oh, vinde ao Salvador!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que ama aos meninos, Cristo vos diz;",
+        "Quer receber-vos nesse país,",
+        "Quer conceder-vos vida feliz;",
+        "Oh, vinde ao Salvador!"
+      ],
+      "number": 5
+    }
+  ]
+}

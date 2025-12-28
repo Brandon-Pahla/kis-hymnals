@@ -1,0 +1,41 @@
+{
+  "number": 123,
+  "language": "nd",
+  "title": "123 Ibizo Elingcwele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ibiz’ elithandekayo Ngoba li dlul’ amanye",
+        "Lanikezwa nguY’ uBaba eNdodaneni yAkhe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lona li yiNgcwele, Li yiNgcwele, Ngcwele",
+        "Lavela kuBaba, leza lapha",
+        "Leza ngengelosi, Lona ebusuku",
+        "Ibizo leNkos’ uJesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Li letha okuhle kimi Yiloba ‘ngoma yami;",
+        "Ngi vuma ibizo lAkhe Ngize ngi libabaze."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi hlokomisa indaba Yothando nokuhlengwa,",
+        "Lona ngizolidumisa Ibizo lika Jesu."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 177,
+  "language": "sn",
+  "title": "177 Hakuna Usiku Uko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "M’nyika isingaperi,",
+        "Mune guta dzwene",
+        "Haizombopfuuri",
+        "Hakuna usiku"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mwari achapukuta, Masodzi avo vese",
+        "Hakuna kutya nerufo, Hakuna usiku"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mazambara \\‘nokosha",
+        "Muneguta dzvene",
+        "Nzira ngedze ndarama",
+        "Hakuna usiku"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mazambara Ha’pfigwi",
+        "Mune guta dzvene",
+        "Nzira ngedze ndarama",
+        "Hakuna usiku"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zuva harizopenyi",
+        "Mumusha mutsvene",
+        "Nyenye ndiyo kupenya",
+        "Hakuna usiku"
+      ],
+      "number": 5
+    }
+  ]
+}

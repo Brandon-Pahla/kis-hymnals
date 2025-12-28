@@ -1,0 +1,35 @@
+{
+  "number": 3,
+  "language": "guz",
+  "title": "3 Motogie Tat'Okorir' Amanene",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Motogie Tat'okorir' amanene,Agancha'ens agato' Omwan'oye,Akerua gokwa atosibi' ebibe,Oyoranche anyore Obogima."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mobake 'Monene, Ense emoigwe,Mobake 'Monene, Abanto bagoke;Inchwo ase Tata Yes'abarete,Momotogie okorir' amanene."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Okoborigwa ogoikeranu,oyobwanchire nare na eiraMosari'onde bwensi oramwegene,Kegim'ere nanyore okwaberwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Okorire na kwegeri'amanene,Twagokire ime y'Omwana Yeso,Nkob'ogokumia 'bochenu, 'bonene,Tomoroche gator'as' orogendo."
+      ],
+      "number": 4
+    }
+  ]
+}

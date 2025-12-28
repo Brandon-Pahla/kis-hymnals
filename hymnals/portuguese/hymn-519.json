@@ -1,0 +1,44 @@
+{
+  "number": 519,
+  "language": "pt",
+  "title": "O Pão da Vida",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### O Pão da Vida"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó Tu que deste o pão, lá junto ao mar,",
+        "Vem dá-lo a mim também, Jesus, vem dar!",
+        "Pois, na Palavra, ó Deus, pão busco achar,",
+        "O santo pão que me há de sustentar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem Tua bênção dar, vem, ó Senhor;",
+        "Vem e revela, então, o Teu amor.",
+        "Pai, muitas graças dou por este pão,",
+        "Luz que provém do Céu e traz perdão."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "É vida o Teu falar, sim, ao que crer.",
+        "Eu quero a lei guardar, e em Ti viver,",
+        "Mas fraco sou, Senhor, vem me ajudar,",
+        "Sim, sempre até ao lar de além chegar."
+      ],
+      "number": 4
+    }
+  ]
+}

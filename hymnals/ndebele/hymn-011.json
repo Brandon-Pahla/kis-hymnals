@@ -1,0 +1,55 @@
+{
+  "number": 11,
+  "language": "nd",
+  "title": "11 Ngi Zokulandela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngokulandela, Msindisi, Kuzo zonk’ izinsizi;",
+        "Laph’ u khona ngolandela, Yebo ngi zolandela"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngokulandela, Msindisi, Wen’ owacith’ igazi",
+        "Noma bonke bekudela, Ngomsa ngi zolandela"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Noma indlel’ i nameva, Njengolwandle lugubha",
+        "Wayihamba leyondlela, Ngako ngi zolandela"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nakuzo izinhlupheko, Noma ngi lingwa ngazo",
+        "‘Nkosi walingwa impela, Ngako ngi zolandela"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U ngi hol’ ezinhlungwini, Nakhon’ ebupofwini",
+        "Wahlushwa waze wadelwa, Noko ngokulandela"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nom’ iJordan’ ebilayo, I ngeyesabekayo;",
+        "Loku wena wayiwela, Nami ngokulandela"
+      ],
+      "number": 6
+    }
+  ]
+}

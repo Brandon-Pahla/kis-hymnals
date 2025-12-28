@@ -1,0 +1,58 @@
+{
+  "number": 100,
+  "language": "nso",
+  "title": " 100 RE NA LE MOGWERA GO JESO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 100 RE NA LE MOGWERA GO JESO",
+        "АН 271 CH 320",
+        "WHAT A FRIEND WE HAVE IN JESUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re na le mogwera Jeso,",
+        "O rewaletše dibe,",
+        "Nako e botse go iša",
+        "go Modimo thapelong.",
+        "Gantši re hloka boikhutšo,",
+        "Ka mo go sa swanelang,",
+        "Ka ge re sa iše tšohle,",
+        "Go Modimo thapelong;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A re lekwa mehla yohle?",
+        "A re ne matshwenyego?",
+        "Re seke ra nyema mmoko,",
+        "Go rapela Modimo,",
+        "Re ka hwetša kae mogwera,",
+        "Ya re kwelang bohloko,",
+        "Jeso o tseba makowa,",
+        "Ge re rapela yena;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ge re na le go imelwa,",
+        "Ke merwalo ya rena,",
+        "Jeso 'Mphološi phemelo,",
+        "Ge re rapela yena,",
+        "Ge o nyatšwa ke dithaka,",
+        "bolela le Morena,",
+        "Mme o tlo go šireletša,",
+        "O tlo humana khutšo;"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 76,
+  "language": "tn",
+  "title": "76 Bolokang Ba Ba Swang",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bolokang Ba Ba Swang, Ba Babaleleng,",
+        "Ba phamoleng sebeng le bobipong;",
+        "Lelelang batlodi, Tsosang ba’ oleng,",
+        "Ba boleleleng Jeso Mmoloki."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Bolokang ba ba swang, Ba babaleleng,",
+        "Jeso O tshwaro O tla boloka."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lefa Ba Mo Nyatsa, O Ba Letile,",
+        "O letile ba ba sokologang.",
+        "Ba lekeng ka thata, Le ka bonolo;",
+        "O tla itshwarela ba ba dumelang."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mo Pelong Ya Motho Yo O Raelwang,",
+        "Go fitlhilwe se se ka bolokwang;",
+        "B’ angwa ka lorato, Le pelonomi,",
+        "Ba tla boela ba tsoga gape."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bolokang Ba Ba Swang, Go Lo Tshwanetse,",
+        "Morena O tla lo na’a nonofo",
+        "Tseleng e tshesane Ka boitshoko;",
+        "Ba reeng lo re Mmoloki O sule."
+      ],
+      "number": 4
+    }
+  ]
+}

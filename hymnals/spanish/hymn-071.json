@@ -1,0 +1,65 @@
+{
+  "number": 71,
+  "language": "es",
+  "title": "Cada cosa hermosa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cada cosa hermosa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A cada flor que se abre,",
+        "al ave musical,",
+        "vistió de tonos bellos,",
+        "el Padre Celestial."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Cada cosa hermosa aquí",
+        "y todo su esplendor,",
+        "es la obra sin igual",
+        "del grande Creador."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Montañas majestuosas,",
+        "el río al correr,",
+        "la paz del sol poniente,",
+        "el bello amanecer."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "El viento del invierno,",
+        "la brisa estival,",
+        "los frutos en el huerto,",
+        "el fresco manantial."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nos concedió la vista",
+        "y labios para hablar",
+        "del Creador eterno",
+        "que tanto pudo amar."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "number": 375,
+  "language": "fr",
+  "title": "Moi et ma maison",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Moi et ma maison, nous servirons l'Éternel.",
+        "Moi et ma maison, nous servirons le Seigneur.",
+        "Qu'il est doux de célébrer ton nom, réunis en famille.",
+        "Qu'il est doux de célébrer ton nom, réunis en famille."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qu'il est bon de goûter à ta paix, unis dans ton amour.",
+        "Qu'il est bon de goûter à ta paix, unis dans ton amour."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qu'il est beau de prier en famille, dans ta communion.",
+        "Qu'il est beau de prier en famille, dans ta communion."
+      ],
+      "number": 3
+    }
+  ]
+}

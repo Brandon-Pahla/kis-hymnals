@@ -1,0 +1,47 @@
+{
+  "number": 119,
+  "language": "sn",
+  "title": "119 Nanda Rinochenisa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinoona nanda dzvuku Tsime rakadzama,",
+        "Jesu Tenzi Muponesi Wakatifirayo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsime iro ndoriwona Iro rinondichenesa;",
+        "Kudza Tenzi! Rochenesa, Kudza Tenzi rochenesa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nda wona upenyu hutswa Ndanzwa ropa Rake;",
+        "Zwitema zwese zwapera Apo patsimero."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndamuka ndaitwa mutswa Nembiri yedenga;",
+        "Ne mwoyo nenguwo chenaa Na Kristu mandiri"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chishamiso tsitsi dzake, Ropa Rake pasi;",
+        "Muziwenyi Jesu chete wakati nunura."
+      ],
+      "number": 5
+    }
+  ]
+}

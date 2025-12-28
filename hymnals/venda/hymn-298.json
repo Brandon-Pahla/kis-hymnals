@@ -1,0 +1,55 @@
+{
+  "number": 298,
+  "language": "ve",
+  "title": "298. A Huna Zwanga, Zwothe Ndi Zwau",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kha ndi late mbilaelo; Ndi dzule ndo khuthala!",
+        "Ndi tshi khoda Yesu ndi ri: Zwithu zwothe ndi zwaU;",
+        "nne a thi na tshithu; Zwanga zwothe ndi zwaU.",
+        "Ndi tshi mu khoda ndi ralo: Zwothe zwanga ndi zwaU."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndo swika nda Mu vhona kha tshifhambano tsha danda,",
+        "Mbilu yanga ya ri khaE: Ndi nga mulandu wanga;",
+        "Ndi nga mulandu wanga, Ndi nga mulandu wanga.",
+        "Mbilu yanga ya ri khaE: Ndi nga mulandu wanga."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. maduvha othe Wo ntoda, Nda latwa ndi do shona,",
+        "Ndi di-tikifhadza nda ri: Thakha ndi yaU yothe.",
+        "Thakha ndi yaU yothe, nne a thi na tshithu.",
+        "Ndi di-tikifhadza nda ri: Thakha ndi yaU yothe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Lwo lapfa lwa ya tadulu, Lwo tsa lwa fhira lwanzhe,",
+        "Lufuno lwaU lwo kunda; nne a thi na tshithu.",
+        "nne a thi na tshithu, nne a thi na tshithu.",
+        "Lufuno lwaU lwa hula; Lwanga ndi lu tukusa."
+      ],
+      "number": 5
+    }
+  ]
+}

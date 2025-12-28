@@ -1,0 +1,47 @@
+{
+  "number": 615,
+  "language": "tw",
+  "title": "Monsɔr' Nyame Mmanin",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Monsɔr' Nyame mmanin",
+        "Na 'hemman no rekyɛ;",
+        "Momfa 'nuadɔ 'dekyee no mmra,",
+        "Na bɔne 'nadwo nnyae."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Momma mmaa ny'naa nsɔre,",
+        "Ntow nneɛma hun' ny'naa ngu;",
+        "Momfa koma, 'hoɔden nč adwen",
+        "Nsom ahen' mu Hen' no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Monsɔr, mo mmabun no,",
+        "Asafon' retwɛn mo;",
+        "N'ahoɔden sua ma 'dwuma no,",
+        "Monsɔr' nyɛ no kɛse."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Momma 'sɛnnua no so",
+        "Munni Kristo akyi;",
+        "Onipa Ba no asuafo,",
+        "Monsɔr' Nyamč Asafo."
+      ],
+      "number": 4
+    }
+  ]
+}

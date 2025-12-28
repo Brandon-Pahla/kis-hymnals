@@ -1,0 +1,68 @@
+{
+  "number": 324,
+  "language": "tum",
+  "title": " 324 Timbe Sumu Yakukondweska",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 324 Timbe Sumu Yakukondweska",
+        "Sing A Lovely Hymn"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Timbe sumu yakukondweska pa nthowa",
+        "luwiro tamfika kukaya,",
+        "Cnisi chzam zgoka ungweru wandanda",
+        "luwiro tamfika kukaya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kwa sono sono, kwa sono",
+        "sono tamujumpha mayigha,",
+        "Tamukumana chimphupulu chamaa,",
+        "luiro tamfika kukaya."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Tam'teweta mlimo uwo tamusanga",
+        "luwiro tamfika kukaya,",
+        "Wezi wa Chiuta ukutichinthiska",
+        "luwiro tamfika kukaya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Tamunozga nthowa ya awo wavuka",
+        "luwiro tamfika kukaya,",
+        "Chitemwa chitandazge fuzi yiwemi",
+        "luwiro tamfika kukaya."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Tampumula nadi kukwenjerwa kose",
+        "luwiro tamfika kukaya,",
+        "Masozi kulije ku musumba uwo",
+        "luwiro tamfika kukaya."
+      ],
+      "number": 5
+    }
+  ]
+}

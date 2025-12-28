@@ -1,0 +1,54 @@
+{
+  "number": 38,
+  "language": "tw",
+  "title": "Sɔre, Me Kra Sɔre!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɔre, me kra sɔre!",
+        "Twe w' mu kɔ s'ro nneɛma ho,",
+        "Na yɛ ntɛm kɔ wo Gyefo Nyame nan ase;",
+        "'Nipá ani nhu No de,",
+        "ɔte hann nwanwaso mu.",
+        "Monsom No 'hobrɛasem'",
+        "Na momfre No Wura."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne dɔ apontow retwɛn mo s'ro hɔ;",
+        "ɔma yɛte saa apontow no nka fam ha!",
+        "Di dɛw, me kra, di dɛw,",
+        "Ma wo nne so kɔ s'ro:",
+        "Haleluya, haleluya, haleluya!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Afei tie s'ro nsanku!",
+        "O, tie nkonimdi dwom no,",
+        "Dwom a wonwie to da a egyigye wɔ wim!",
+        "Wɔmfa mmaa nnipa sɛ",
+        "Wɔnto 'nuonyam dwom sei bi;",
+        "Nso yɛbetum' ato y'ayeyi dwom fam ha!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne mogya tɔɔ yɛn, Nyame aponfo;",
+        "ɔno na daa tumi ne nkonim yɛ Ne de.",
+        "Momma Amen kɛse n'",
+        "Nnyigye wɔ soro bio:",
+        "Haleluya, haleluya, haleluya!"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "number": 22,
+  "language": "pt",
+  "title": "Bem de Manhã",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Bem de Manhã"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bem de manhã, sereno surge o dia;",
+        "Já aves mil entoam seu louvor.",
+        "Luz vem encher o mundo de alegria.",
+        "Bem de manhã, contigo estou, Senhor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bem de manhã, alegre, a natureza",
+        "Dá seu louvor ao Deus da criação.",
+        "Só, com fervor, eu busco mais pureza;",
+        "Eu venho a Ti, ó Deus, em oração."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pai, quando enfim a luz fugir do mundo,",
+        "Já quando o céu escuro e negro for,",
+        "Vem conceder, em Teu amor profundo,",
+        "Luz, proteção, descanso em Ti, Senhor."
+      ],
+      "number": 4
+    }
+  ]
+}

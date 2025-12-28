@@ -1,0 +1,29 @@
+{
+  "number": 128,
+  "language": "fr",
+  "title": "Dieu, je te loue",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dieu, je te loue car tu m’as répondu,",
+        "Et tu m’as envoyé ton salut.",
+        "Dieu, je te loue, car tu m’as répondu,",
+        "Et tu m’as envoyé ton salut.",
+        "Pierre rejetée par la main des ouvriers,",
+        "Elle est devenue la pierre d’angle.",
+        "Divin envoyé, par les hommes méprisé,",
+        "Il est devenu le premier.",
+        "Voici le jour que Dieu a fait,",
+        "Soyons dans la joie et l’allégresse,",
+        "Voici le jour que Dieu a fait,",
+        "Chantons notre joie sans cesse.",
+        "Pierre rejetée par la main des ouvriers,",
+        "Elle est devenue la pierre d’angle.",
+        "Divin envoyé, par les hommes méprisé,",
+        "Il est devenu le premier."
+      ],
+      "number": 1
+    }
+  ]
+}

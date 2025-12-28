@@ -1,0 +1,57 @@
+{
+  "number": 427,
+  "language": "es",
+  "title": "Lleva todo tu pesar a Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Lleva todo tu pesar a Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lleva todo tu pesar a Cristo,",
+        "el mejor amigo para ti;",
+        "te consuela y siempre está",
+        "cercano,",
+        "quiere bendecirte en tu vivir."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Lleva tu pesar a Cristo;",
+        "él lo cargará y tus fuerzas",
+        "repondrá.",
+        "Lleva tu pesar a Cristo;",
+        "en las pruebas él te sostendrá."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si la ingratitud te hiere el alma;",
+        "si amargura viene al corazón;",
+        "mira que Jesús está a tu lado",
+        "y te da consuelo en la aflicción."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo te comprende en tus dolores;",
+        "quiere tu alma enferma restaurar.",
+        "Oh, confía en su amor inmenso;",
+        "solo él te puede aliviar."
+      ],
+      "number": 5
+    }
+  ]
+}

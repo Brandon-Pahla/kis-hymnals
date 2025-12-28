@@ -1,0 +1,47 @@
+{
+  "number": 136,
+  "language": "ve",
+  "title": "136. Ndi Humbula Khalivari",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi ya hune a do nyisa, ndo fulufhela Ene-vho,",
+        "Ndi humbula thama yanga,",
+        "O faho kha tshifhambano."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndi Yesu a nndededzaho, vhusiku na masiari,",
+        "Ene ndi shaka vhusiku, ndi humbula khalivari."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi funa mulayo wawe, ndi kungwa nga tshanda tshawe,",
+        "Lufuno lwawe lwa-vhudi, O mpfela khalivari."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. A huna u tima-tima, ndi tshi ya ha Yesu wanga,",
+        "Ndi fulufhela u vhona o mpfelaho khalivari."
+      ],
+      "number": 4
+    }
+  ]
+}

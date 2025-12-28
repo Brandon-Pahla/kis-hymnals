@@ -1,0 +1,37 @@
+{
+  "number": 519,
+  "language": "fr",
+  "title": "Suivons notre Maître",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Suivons notre Maître sur le dur sentier.",
+        "Acceptons de n'être que ses équipiers.",
+        "En suivant sa trace, nous nous rapprochons",
+        "Toujours par sa grâce de notre maison."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dans notre voyage, nous sommes l'objet",
+        "De haine et de rage et de quolibets.",
+        "Même sous l'orage, nous allons toujours",
+        "Vers notre héritage, vers le Dieu d'amour."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le chemin s'étire, le combat s'étend;",
+        "Déjà le ciel vire aux tons du levant.",
+        "Au bout du voyage, oui, Jésus m'attend;",
+        "Je vois son visage pur et bienveillant."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "number": 343,
+  "language": "tum",
+  "title": " 343 Tiri Pafupi Na Kwithu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 343 Tiri Pafupi Na Kwithu",
+        "CM 201"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Msumba wakutowa wa Chiuta,",
+        "ukuwoneka ku sirya la mapiri",
+        "Nanga tikwere na vyakulema,",
+        "Tiwonengeko kwithu kwa nyengo zose."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "S&T:",
+        "Tiri pafupi kufika kwithu",
+        "Kung'azima kwa msumba kuk'wonekera;",
+        "Lawiska uchindami mvipata",
+        "B&T:",
+        "Pafupi na kwithu pafupi kwithu",
+        "Tinjirengemo sono sono,",
+        "PuLikizga wangeLo Wakwimba mu Musumba",
+        "S&A:",
+        "Tiri pafupi",
+        "S&A:",
+        "Tiri pałupi kwithu"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Vyakulemba vya zinchimi vikuyowoya",
+        "za msumba wula wagolide,",
+        "Nachimwemwe mmboniwoni tawona viliwa vya yasipi vyakutowa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Wachoko waka ndiwo wam'kunjira,",
+        "Awo waku Sunga dango la Fumu.",
+        "Tizam kwezga mazgu nyengo Zose, Pakumwimbira sumu na Masalimo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "M'bale na m'dumbu kasi tamukumana",
+        "m'charu cha kuwala chakutowa?",
+        "Pokera ivangeli la Fumu, Pakwiza Yesu wizam'kuchema iwe."
+      ],
+      "number": 5
+    }
+  ]
+}

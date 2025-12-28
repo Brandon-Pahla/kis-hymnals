@@ -1,0 +1,47 @@
+{
+  "number": 532,
+  "language": "pt",
+  "title": "Bem-vindo o Sábado",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Bem-vindo o Sábado"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bem-vindo é a nós, o sábado feliz!",
+        "Do grande amor de Deus, de Seu poder nos diz.",
+        "Bem longe põe o mundo vil,",
+        "A luta, a dor, trabalhos mil;",
+        "O amor e a doce paz do Céu nos traz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem Príncipe dos Céus, renova-nos o ser,",
+        "Até se achar em nós justiça, amor, poder.",
+        "Por Teu amor que é sem igual,",
+        "Oh, livra-nos de todo o mal,",
+        "E dá-nos proteção, e salvação."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Com Teu poder, oh, vem, bendize-nos, Senhor;",
+        "Conserva-nos no bem, na luz do Teu amor.",
+        "A cada um concede, então,",
+        "O Teu favor e o Teu perdão,",
+        "E lá no bom país, um lar feliz."
+      ],
+      "number": 4
+    }
+  ]
+}

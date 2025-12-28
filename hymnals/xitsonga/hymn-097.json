@@ -1,0 +1,22 @@
+{
+  "number": 97,
+  "language": "ts",
+  "title": "97. HI TWE HUNGU RA TNSAKO YESU WA PONISA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WE HAVE HEARD A JOYFUL SOUND",
+        "1. Hi Twe Hungu Ra Ntsako, Yesu Wa Ponisa, Ri Vuleni Hinkwako, Yesu Wa Ponisa,",
+        "Mi Nga Siyi Na Ndhawu, Tintshaveni Hinkwako, Hosi Ya Hi Lerisa, Yesu Wa Ponisa.",
+        "2. Emalwandle Vulani, Yesu Wa Ponisa, Tivisani Vadyohi, Yesu Wa Ponisa;",
+        "Swihlaleni Hinkwaswo, Hambi Emakorhweni, Misava Yi Ta Tsaka, Yesu Wa Ponisa.",
+        "3. Hi Nkarhi Wa Tinyimpi, Ri Twakariseni, Hi Rifu Ni Vutomi, Yesu Wa Ponisa;",
+        "Hambi Eswirilweni, Loko Hi Hele Ntamu, Hi Ta Ri Hlula Sirha, Yesu Wa Ponisa.",
+        "4. A Ri Twale Hinkwako, Yesu Wa Ponisa, Matiko A Ya Tsake, Yesu Wa Ponisa;",
+        "Huwelelani Vutomi, Tintshaveni Hinkwato, I Risimu Ro Hlula, Yesu Wa Ponisa."
+      ],
+      "number": 1
+    }
+  ]
+}

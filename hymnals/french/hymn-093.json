@@ -1,0 +1,46 @@
+{
+  "number": 93,
+  "language": "fr",
+  "title": "Entendez-vous...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Entendez-vous la dernière trompette",
+        "Qui retentit là-haut dans le saint lieu?",
+        "Alléluia! Le ciel entier s’apprête",
+        "À faire escorte au puissant Fils de Dieu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Oh! Gloire, gloire à l’Éternel,",
+        "Gloire au Sauveur qui vient du ciel!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il vient, il vient, bientôt il va paraître,",
+        "Le Roi divin, vêtu de majesté.",
+        "Les rachetés pourront le reconnaître",
+        "Et rendre hommage à sa grande bonté."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Du jour sans fin, viens saluer l’aurore,",
+        "Sois dans la joie, ô peuple racheté,",
+        "Le Roi des rois de sa gloire t’honore,",
+        "Il t’introduit dans la sainte cité."
+      ],
+      "number": 4
+    }
+  ]
+}

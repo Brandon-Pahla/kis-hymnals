@@ -1,0 +1,22 @@
+{
+  "number": 202,
+  "language": "ts",
+  "title": "202. MUPONISI NDZI LETELE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "JESUS, SAVIOUR, PILOT ME",
+        "1. Muponisi Ndzi Letele, Ka Mheho Ya Vutomi,",
+        "Magandlati Yo Tika, We(na) U Tiva Hinkwaswo, Ndzi Letele Xikwembu.",
+        "2.U Nga (Ri) Miyeta Lwandle, Magandlati Yo Tika,",
+        "Ku Fana Na Manana, Mufumi Wa (Wo) Malwandle,",
+        "Ndzi Letele Xikwembu.",
+        "3.Loko Ndzi Fika Tsungeni, Ndzi Nga Kuma Ku Rhula,",
+        "Xifuveni Xa Wena, Hi Marito (Yo) Tiyisa,",
+        "Ndzi Kona U Nga Chavi."
+      ],
+      "number": 1
+    }
+  ]
+}

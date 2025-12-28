@@ -1,0 +1,22 @@
+{
+  "number": 71,
+  "language": "ts",
+  "title": "71. RIFUMU RA MISAVA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "IS MY NAME WRITTEN THERE",
+        "1. Rifumu Ra Misava Na Yona Minsuku, A Hi Ndzaka Yo Tiya Yo Tlula Vutomi,",
+        "Swa Antswa Ku Tsariwa; Bukwini Ya Hosi, Rikona Vito Ranga; Bukwin Ya Vutomi.",
+        "CHORUS",
+        "Ritsariwile Ke? Bukwin Leyo Basa? Bukwin Ya Vutomi, Ri Tsariwile Ke?",
+        "2. Hosi Ndzi Na Swidyoho; Switele Bya Sava, Swinga Susiwa Ntsena Hi Ngati Ya Yesu,",
+        "Hikuva Yona Hosi Yi Hi Tshembisile, Hambi Mi Dyohe Ngopfu; Ndzi Ta Mi Basisa.",
+        "3. Kuna Muti Wo Xonga, Ndhawin Yo Kwetsima, Ya Vo Va Kwetsimi, Va Ambele Swo Basa,",
+        "Kona A Ku Nga Ngheni, Nchumu Lowo Biha, Tintsumi Ti Rindzile, Xana U Ta Nghena."
+      ],
+      "number": 1
+    }
+  ]
+}

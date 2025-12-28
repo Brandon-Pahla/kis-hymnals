@@ -1,0 +1,55 @@
+{
+  "number": 21,
+  "language": "tn",
+  "title": "21 Ke Etla Kwa Mokgorong",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Etla Kwa Mokgorong Lehumeng, Phoufalong;",
+        "Tsotlhe ke ya di latlha, Ke tla bona poloko."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke ikanya Morena Kwana ya Khalefari:",
+        "Ke obama mokgorong, Mpoloka Jeso janong.",
+        "(Jeso O ya mpoloka.) 5th Bofelong."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Go Tlhologeletswe, Sebe Se Ntse Se Mpusa;",
+        "Jeso O nthaya A re, \"Nna ke tla go tlhapisa\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Go Fa Tsotlhe Tsa Me, Ditsala Le Dikhumo;",
+        "Moya mmele ’nna’a tsa ’Go, Tsotlhe ka bosakhutleng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "K’ikanya Tsholofetso, Janong Ke Utlwa Madi;",
+        "Ke namaletse fatshe, Ke bapotswe le Jeso."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso O Ntlatsa Moeeng, Mme Ke Itekanetse;",
+        "Gotlhe k’itekanetse; Kgalalelo go Kwana."
+      ],
+      "number": 5
+    }
+  ]
+}

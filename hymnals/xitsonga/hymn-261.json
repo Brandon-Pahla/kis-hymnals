@@ -1,0 +1,23 @@
+{
+  "number": 261,
+  "language": "ts",
+  "title": "261. KU NA NKOVA LOWO XONGA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BEAUTIFUL VALLEY OF JORDAN",
+        "1. Ku Na Nkova Lowo Xonga, Edeni Wo Rhula;",
+        "Muwisisi Wa Nhlomulo. Murhi Wo Horisa.",
+        "CHORUS",
+        "Ku Na Nkova Lowo Xonga, Kaya Ra Vatengi;",
+        "Na Minkarhi Ya Ku Tika, Ndzi Wisa Eka Wena.",
+        "2. Embilwini Ya Murili, U Tisa Masana;",
+        "Hi Tinsimu Ta Tintsumi, Ta Le Henhla-henhla.",
+        "3. Ekaya Ka Muponisi, Ndzi Vona Wo Ntshungu;",
+        "Lowu Nga Hlantswa Hi Ngati, Wu Yimba Tinsimu."
+      ],
+      "number": 1
+    }
+  ]
+}

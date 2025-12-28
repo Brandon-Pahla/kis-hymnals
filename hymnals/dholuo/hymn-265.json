@@ -1,0 +1,35 @@
+{
+  "number": 265,
+  "language": "luo",
+  "title": "265 Adwaro Bedo But Pi Ngima",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Adwaro bedo but pi ngima,Yesu e pi ngima,Oritowa mondo oruakwakanyono ma Entie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Adwaro bedo but pi ngima,pi mochwer e yadh Kalwari;Yesu En soko mar pigno,Anabed bute pile."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kwaol ka wawuotho e wang`yo,owinjore wayue,Ka ma nitie pigno mar ngima,Manyalo miwa mor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ka riyo loyi, bi ir Yesu,eka riyo norum;Yesu Owuon e pi ngima,modhe mondo ikwo."
+      ],
+      "number": 4
+    }
+  ]
+}

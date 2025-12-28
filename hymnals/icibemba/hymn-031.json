@@ -1,0 +1,36 @@
+{
+  "number": 31,
+  "language": "bem",
+  "title": "31 - MWE KATULA WATEMWIKWA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SUN OF MY SOUL"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mwe Katula wate-mwikwa",
+        "Ulubuto nga mu-lipo;",
+        "Mwileka fintu fya calo",
+        "Kufisha ku menso yesu.",
+        "2. Lintu napo-na mu tulo",
+        "Mumpempule no-luse;",
+        "Mupele kutontonkanya",
+        "Kutemwa kwa Mupu-sushi.",
+        "3. Mube na ine 'nshiku pe,",
+        "Kwabula Imwe nshi-kala;",
+        "Lintu bushiku bwaila",
+        "Mube na ine Ka-tula.",
+        "4. Mumpale ine lucelo",
+        "Lintu nshate-ndeke ncito;",
+        "Nga lintu Yesu abwela",
+        "Nkekale nankwe ku mulu."
+      ],
+      "number": 2
+    }
+  ]
+}

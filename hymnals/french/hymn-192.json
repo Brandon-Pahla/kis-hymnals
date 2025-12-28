@@ -1,0 +1,37 @@
+{
+  "number": 192,
+  "language": "fr",
+  "title": "Au réveil, je veux louer...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Au réveil, je veux louer mon Dieu,",
+        "Au réveil, je veux louer mon Dieu,",
+        "Alléluia, Alléluia, Alléluia,",
+        "À genoux, je t'apporte le don de mon cœur."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "À midi, je veux chanter Jésus,",
+        "À midi, je veux chanter Jésus,",
+        "Alléluia, Alléluia, Alléluia,",
+        "À genoux, je t'adore, pénètre en mon cœur."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Et, le soir, je veux prier l'Esprit,",
+        "Et, le soir, je veux prier l'Esprit,",
+        "Alléluia, Alléluia, Alléluia,",
+        "À genoux, je réclame ton feu dans mon cœur."
+      ],
+      "number": 3
+    }
+  ]
+}

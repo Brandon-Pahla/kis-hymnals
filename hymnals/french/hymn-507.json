@@ -1,0 +1,47 @@
+{
+  "number": 507,
+  "language": "fr",
+  "title": "Du Seigneur la grâce",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Du Seigneur la grâce baigne l'univers",
+        "Et sur tout l'espace son œil est ouvert.",
+        "Glorieux, immense, ainsi que les cieux,",
+        "Éternel, intense est l'amour de Dieu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dans la transparence des jours sans danger,",
+        "La reconnaissance de nos cœurs légers,",
+        "Monte, spontanée, au plus haut des cieux",
+        "Et chante, inspirée, la bonté de Dieu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Père, les nuages se font menaçants.",
+        "Qu'à travers l'orage, ton regard aimant",
+        "Donne l'assurance et le réconfort.",
+        "Que cette espérance nous rende plus forts."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Dieu, si le doute effleure nos cœurs,",
+        "Montre-nous la route et réduis nos peurs.",
+        "Mets-nous en mémoire que ton Fils mourut",
+        "Pour mener l'histoire au terme voulu."
+      ],
+      "number": 4
+    }
+  ]
+}

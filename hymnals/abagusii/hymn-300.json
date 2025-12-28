@@ -1,0 +1,35 @@
+{
+  "number": 300,
+  "language": "guz",
+  "title": "300 Yeso Ningotunyane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yeso ningotunyane,Naigur'okorangeria;Nachire nkwegenete,Ondae gochia nka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ningotunyane,Ningotunyane;Ningotunyane,gochi'as'orandae."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yes'otantang'aneti,Nigo ndasir'enchera;Nche n'omwor' omorosu,Aye n'Omonguru."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Boror' okoremerwa,'Bibe mbintang'enchera;Korende nkogutunya,Nimbe n'oboremu."
+      ],
+      "number": 4
+    }
+  ]
+}

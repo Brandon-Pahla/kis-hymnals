@@ -1,0 +1,56 @@
+{
+  "number": 466,
+  "language": "tw",
+  "title": "Anadwo Yi, Wɔ me Honhom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Anadwo yi, wɔ me honhom bun ase tɔnn,",
+        "Na dwon a ɛyɛ dɛ kyɛn so fi;",
+        "Egyigye daa te sɛ dwon a efi soro",
+        "Wɔ me kra so te sɛ 'somdwoe pa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "'Somdwoe! 'somdwoe nwanwā a",
+        "Efi Agya no nkyɛn soro ba;",
+        "Mesrɛ sɛ betwiw fa me honhom so daa",
+        "Wɔ dɔ a enni kabea mu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hwɛ 'gyapade a mewɔ saa 'somdwoe yi mu",
+        "Asie wɔ me kra bun ase pɛɛ,",
+        "Tumi biara rentumi mmetutu n'ase",
+        "Bere a daapem mfe resen yi!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Minim sɛ mikodu saa 'somdwoe man no mu,",
+        "Na mihu 'somdwoe Wura no a,",
+        "Dwom biako a wɔn a wɔagye wɔn no bɛto",
+        "Wɔ saa s'ro 'hemman no mu bɛyɛ:"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔkra brɛfo a wunni 'nigye ne home,",
+        "A wonam ɔbra kwan fo no so!",
+        "Yɛ 'Gyenkwan' w'adamfo ansa na sum aba;",
+        "O gye saa asomdwoe nwanwa yi."
+      ],
+      "number": 4
+    }
+  ]
+}

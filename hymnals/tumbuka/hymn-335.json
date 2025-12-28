@@ -1,0 +1,57 @@
+{
+  "number": 335,
+  "language": "tum",
+  "title": " 335 Kupenjapenja M'masimbo Ghake",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 335 Kupenjapenja M'masimbo Ghake",
+        "Searching The Scriptures"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Kupenjapenja m'masimbo ghake",
+        "kupenja vya Muponosk,",
+        "Tikupulikamo vya Fumu Baibo",
+        "likuti wuli 'mwe?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ruta kapenje yati Fumu",
+        "chifukwa cha iwe na 'ne,",
+        "Ruta khung'uska Iwiji",
+        "Lwake ndiko wamukupumuLa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Kupenjapenja mmasimbo ghake",
+        "tikukhumba nthowa yake,",
+        "Kuya ku msumba wakutowa Baibo",
+        "likuti wuli 'mwe"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Kupenjapenja m'masimbo ghake",
+        "kupenja awo wazgee",
+        "Kuwalongozgera kwa Fumu Baibo",
+        "likuti wuli 'mwe?"
+      ],
+      "number": 4
+    }
+  ]
+}

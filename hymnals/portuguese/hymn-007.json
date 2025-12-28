@@ -1,0 +1,44 @@
+{
+  "number": 7,
+  "language": "pt",
+  "title": "Sejas Louvado",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Sejas Louvado"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sejas louvado, Rei Criador da natura!",
+        "Louva, minha alma, louva com zelo e ternura!",
+        "Louva ao Senhor pelo insondável amor,",
+        "Cálido amor que perdura!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sejas louvado, Tu que o Universo conduzes!",
+        "Sob Tuas asas, paz e conforto produzes!",
+        "Haja louvor pelo Teu dom redentor,",
+        "Príncipe eterno das luzes!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sejas louvado, pelo cuidado paterno!",
+        "sobre a verdade ergues Teu reino superno!",
+        "Teu, o louvor seja somente, Senhor,",
+        "Por Teu amor sempiterno!"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 225,
+  "language": "nd",
+  "title": "225 Yima Nje Ngeqhawe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "uMsindis’ uthi, Wena mKrestu vuka!",
+        "Nesihlangu, nenkemba esandleni,",
+        "Ukulwa nomling’ u boya nges’ bindi,",
+        "Yima njenge qhawe, qaphel’ isitha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yima, yima, njenge qhawe,",
+        "Yima, u si qaphele isitha"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Loko okuy’ ingozi ku qaphele;",
+        "U ngahlehli nok’ ihawu lingekho,",
+        "Uma u zozehlul’ izitha zakho,",
+        "Yima njenge qhawe, u ziqaphele."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yilwel’ indaba yeNkosi ngamandla;",
+        "U lwe kuze kube sekupheleni,",
+        "Yilandele noma ikusa ngaphi,",
+        "U lwe njenge qhawe qaphel’ isitha."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qhubeka, iNkosi yakho ikhona;",
+        "Ikunika umusa nesibindi,",
+        "Lunje ngomfula uthando lweNkosi,",
+        "Ngako, yima uqaphele isitha."
+      ],
+      "number": 5
+    }
+  ]
+}

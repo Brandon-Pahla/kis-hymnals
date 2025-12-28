@@ -1,0 +1,47 @@
+{
+  "number": 336,
+  "language": "fr",
+  "title": "Joyeusement nous saluons",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Joyeusement nous saluons",
+        "Le saint jour du Seigneur.",
+        "Avec bonheur nous adorons",
+        "Dieu, notre rédempteur."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dans ta maison tous rassemblés",
+        "Nous t'offrons notre cœur;",
+        "Reçois nos hommages sacrés,",
+        "Ô notre Dieu sauveur !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Avec ton Église ici-bas,",
+        "Tous guidés par l'Esprit,",
+        "Nous prendrons part aux saints combats",
+        "Du Seigneur Jésus-Christ."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Salut, ô jour saint et béni !",
+        "Donné par le Seigneur,",
+        "Où tout son peuple réuni",
+        "Le loue avec ferveur."
+      ],
+      "number": 4
+    }
+  ]
+}

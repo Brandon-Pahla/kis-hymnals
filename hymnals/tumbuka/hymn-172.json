@@ -1,0 +1,48 @@
+{
+  "number": 172,
+  "language": "tum",
+  "title": " 172 Fumu Yithu Yesu Mwizenge Pauli?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 172 Fumu Yithu Yesu Mwizenge Pauli?",
+        "C.H. 354 HOW LONG?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ka Fumu yithu Yesu mwizenge pauli?",
+        "Tavuka kulindizga mukuchedwerachi?",
+        "Dazi laumaliro lizenge pauli?",
+        "Apo walunji wose wizamukukondwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mulekenge nyumba yinu mpaka pauli?",
+        "M'kuziulika Fumu wanandi wakuwa,",
+        "wademwera na charu wateweti winu,",
+        "wakhalapo pachoko wakumlindizgani."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Wuskani wanthu winu tumaninge mazgu,",
+        "Wapharazge ku wose Fumu yikwizaso,",
+        "Tikozge nyali zithu tivware mahomwa,",
+        "inozge mtima withu tikumane namwe."
+      ],
+      "number": 4
+    }
+  ]
+}

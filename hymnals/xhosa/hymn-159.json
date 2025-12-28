@@ -1,0 +1,46 @@
+{
+  "number": 159,
+  "language": "xh",
+  "title": "159 Ndikufuna Kakhulu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kukhulu ngenene Nkosi, Endikuswele ngako!",
+        "Ndiyimfama, ndikhokkele, Ndibe nokomelela."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nkosi yam, Nkosi yam, Ndikufuna ngokukhulu!",
+        "Nkosi yam, Nkosi yam, Ndigcine, Msindisi wam."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndibabale ngobulali, Ingubo zam zimdaka;",
+        "Ndazis’ ubuthathaka bam, Ndicel’ amandla kuWe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndikhokhele ’ze ndinqabe:--Ngokwam andingenzi nto!",
+        "Hamba nam kulamaxauka, Nguwe ukukhanya kwam."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kungade kufike ntoni, Uvuyo kwa nosizi,",
+        "Noko mna ndothi-nca kuwe, Nguwe um-Khululi wam."
+      ],
+      "number": 4
+    }
+  ]
+}

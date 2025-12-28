@@ -1,0 +1,46 @@
+{
+  "number": 432,
+  "language": "fr",
+  "title": "Pour la terre...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Pour la terre et sa beauté,",
+        "Pour la majesté des cieux,",
+        "Pour l'amour illimité",
+        "Que tu répands en tous lieux,"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Père, nous t'offrons ce chant",
+        "D'un accent reconnaissant."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pour l'amour des bien-aimés,",
+        "Les amis chers à nos cœurs,",
+        "Le partage et la bonté,",
+        "Avant-goût du vrai bonheur,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pour l'espoir, en Jésus-Christ,",
+        "D'une éternité sans pleurs,",
+        "Pour le fruit du Saint-Esprit",
+        "Par qui nous serons vainqueurs."
+      ],
+      "number": 4
+    }
+  ]
+}

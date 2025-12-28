@@ -1,0 +1,76 @@
+{
+  "number": 323,
+  "language": "es",
+  "title": "He de conocerle entonces",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### He de conocerle entonces"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando aquí los afanes de mi vida",
+        "cesen ya",
+        "y amanezca bella aurora celestial,",
+        "en las playas eternas mi llegada",
+        "esperará",
+        "el Señor con bienvenida paternal."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "He de conocerle entonces,",
+        "redimido, a su lado cuando esté;",
+        "por las señas de los clavos",
+        "en sus manos a Jesús conoceré."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh!, qué gozo supremo cuando",
+        "pueda ver su faz",
+        "y en eterna vida estar con mi",
+        "Señor;",
+        "de su lado ya nunca me podrán",
+        "quitar jamás",
+        "los halagos de mi artero tentador."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "He de ver a los míos que en la tierra",
+        "ya perdí",
+        "cuando en brazos de la muerte los",
+        "dejé;",
+        "y aunque de ellos entonces con",
+        "dolor me despedí,",
+        "junto al trono de Jesús los hallaré."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Al entrar por las puertas, en la célica",
+        "ciudad,",
+        "me uniré con los que allá triunfantes",
+        "van;",
+        "y del himno que alabe de mi Dios la",
+        "majestad,",
+        "los acentos por los siglos sonarán."
+      ],
+      "number": 6
+    }
+  ]
+}

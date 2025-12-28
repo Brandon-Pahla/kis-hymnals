@@ -1,0 +1,67 @@
+{
+  "number": 521,
+  "language": "es",
+  "title": "Al Cristo ved",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Al Cristo ved"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Al Cristo ved,",
+        "de Dios el Hijo eterno;",
+        "ved al Señor,",
+        "el grande Creador;",
+        "todo abandona",
+        "por vivir cual siervo,",
+        "del mal rodeado",
+        "y presa del dolor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Por ti todo esto",
+        "hizo Jesús;",
+        "¿cómo respondes",
+        "a su divino amor?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En oración",
+        "tu alma hoy derrama",
+        "ante su trono",
+        "por el pecador;",
+        "lleva la luz",
+        "de su Palabra santa",
+        "a los que ignoran",
+        "el divino amor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Consagra fiel",
+        "tus bienes, mayordomo,",
+        "que del Señor",
+        "manejas el caudal,",
+        "para que puedan",
+        "por el mundo todo",
+        "salvarse almas",
+        "del poder del mal."
+      ],
+      "number": 5
+    }
+  ]
+}

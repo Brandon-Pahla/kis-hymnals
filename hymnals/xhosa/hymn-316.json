@@ -1,0 +1,46 @@
+{
+  "number": 316,
+  "language": "xh",
+  "title": "316 U-Yehova Kukukhanya Kwam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U-Yehova kuko ukukhanya kwam; Ekho-nje ndingaba ndoyika-ni?",
+        "Ulusindiso lwam elusizini; Ngu-Moya oza kum nelithamsanqa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U-Yehova nguye ingoma yam; Endikhokela ngamaxa onke.",
+        "U-Yehova nguye ingoma yam; Endikhokela ngamaxa onke."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U-Yehova kuko ukukhanya kwam; Ngokholo ndizuz’ ukomelela;",
+        "Ndibon’ uYes’ elaula ngozuko, Ndingathin’ ukuhlala emnyameni?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U-Yehova kuko ukukhanya kwam; undinik’ amandla okoyisa;",
+        "Lowo ngumsebenzi wenceba yaKhe, ndihamba ngokholo Yen’ undigcina."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U-Yehova kuko ukukhanya kwam; phambi kwakhe akukho bumnyama;",
+        "Ungu-mkhululi wam, u-Kumkani wam; Ndimdumisa nabangcwele ne-ngelos’."
+      ],
+      "number": 4
+    }
+  ]
+}

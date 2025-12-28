@@ -1,0 +1,35 @@
+{
+  "number": 92,
+  "language": "fr",
+  "title": "Dans tous nos cœurs",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dans tous nos cœurs, brûle cette espérance",
+        "Du retour de notre Sauveur.",
+        "Et nous mettons notre ardente confiance",
+        "Dans les promesses du Seigneur.",
+        "Bientôt du monde en émoi, tous les peuples réveillés",
+        "Se lèveront pour chanter : Alléluia! Christ est Roi!",
+        "Dans tous nos cœurs, brûle cette espérance",
+        "Du retour de notre Sauveur."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Soyons unis en Christ, notre Seigneur",
+        "Et motivés par son amour.",
+        "Prions pour ceux qui vivent dans la peur,",
+        "Et parlons-leur de son retour.",
+        "C’est l’objet de notre foi : Jésus-Christ apparaîtra",
+        "Et l’Église chantera : « Alléluia! Christ est Roi! »",
+        "Soyons unis en Christ, notre Seigneur",
+        "Et motivés par son retour."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 20,
+  "language": "tn",
+  "title": "20 Tsoga Moya Wa Me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tsoga Moya Wa Me Dira, O Nne Tlhaga Tirong",
+        "Sianela legodimong, Serwalong se’ sa sweng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Bidiwa Ke Modimo, Ka Ntswe Je Tshedileng;",
+        "Ke One O neelang tuelo, Keletsong ya gago"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leru Ja Basupi Le Teng, Je Le Go Bolokang;",
+        "Lebala kgato e fetileng, Tswela pele tseleng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mmoloki O Simolotse Tshiano Ya Rona;",
+        "Re se’ re rwesitswe phenyo, Re rola diako."
+      ],
+      "number": 4
+    }
+  ]
+}

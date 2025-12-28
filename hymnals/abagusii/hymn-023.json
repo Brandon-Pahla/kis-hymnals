@@ -1,0 +1,35 @@
+{
+  "number": 23,
+  "language": "guz",
+  "title": "23 Ngwanchete",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ngwanchete, Ngwanchete,Ngwanchet' Omonda,Ngwanchet' Omotoria,Ngwanchete Nyasae.Ngwanchete, Ngwanchete,kwamanyir' Aye,Bikorwa biorokie,buna Ngwanchete."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ngogete, Ngogete,Mono kobua,Ntenen' egetunwa,ngoke botambeNyerore enibo,agwo ndamenye,Yeso, malaika,n'abaya bonsi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yes' Omotori'one,'R'ogotoreka;Bogima, mogoko,n'ogotimoka;Ndiatore erieta,nter' obwanchani;Buya bwao bokunebogima bwane"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ning'o ogwekaine,'Mogamb' omuya;Anyancha, nsasoka,Ang'ogotera;Mobake mobake,goter'okuya;'Ndoche chi'omogoko,Enkor' etere."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 31,
+  "language": "tw",
+  "title": "Me Kra, Kamfo Aw'rade Kɛseyɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me kra, kamfo Aw'rade kɛseyɛ:",
+        "Ne nhy'ra pii ma me honhom nya nkanyan;",
+        "N'asɛm mu bɔhyɛ ma me ahoɔden;",
+        "Me koma, bɔ 'se 'Gyenkwa Nyame mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me kra, kamfo Ne din no kɛseyɛ:",
+        "Ky'rɛ Ne tumi, nea Ne basa ayɛ;",
+        "N'adɔe wɔ hɔ awo ntoatoaso ny'naam',",
+        "Ne din kronkron, Aw'rade Tumfo no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me kra, kamfo Ne tumi kɛseyɛ:",
+        "Atumfo de wɔn anuonyam to nkyɛn;",
+        "Ahantan koma ne ɔpɛ ny'naa guan,",
+        "Nea 'kɔm de mee, wɔma 'wiɛmfo so."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me kra, kamfo N'asɛm no anuonyam:",
+        "Ne bɔhyɛ tim hɔ, N'adɔe wɔ hɔ daa;",
+        "Me kra, kamfo Aw'rade kɛseyɛ",
+        "Ky'rɛ awo ntoatoaso kosi daapem."
+      ],
+      "number": 4
+    }
+  ]
+}

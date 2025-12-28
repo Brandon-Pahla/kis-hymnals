@@ -1,0 +1,63 @@
+{
+  "number": 135,
+  "language": "ny",
+  "title": "135 - Ndikonda Inu, Mbuyanga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I LOVE THEE BETTER, LORD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndikonda Inu, Mbuyanga,",
+        "Koposa zonsezo;",
+        "Chifukwa mwandipatsatu",
+        "Mtendere wanuwo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sanazinene zonsezo (zonsezo),",
+        "Za nsisi zakezo;",
+        "Sanazinene zonsezo (zonsezo)",
+        "Watsuka inenso."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mukhala mfupi ndineyo,",
+        "Koposa onsewo;",
+        "Ndikonda kuganiza ’Nu",
+        "Koposa zinazo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mwandikondwetsa, Mbuyanga,",
+        "Ndisangalaladi;",
+        "Popanda nsisi zanuzo",
+        "Sindingakondwei."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ambuye wanga, Yesuyo,",
+        "Mkayenda nanedi,",
+        "Masiku onse pansipo",
+        "Ndidzakondweradi."
+      ],
+      "number": 5
+    }
+  ]
+}

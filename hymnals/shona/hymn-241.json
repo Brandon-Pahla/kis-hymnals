@@ -1,0 +1,48 @@
+{
+  "number": 241,
+  "language": "sn",
+  "title": "241 Nyika Ye Kenani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kune nyika yakanaka, Rufaro rwayo ngerwangu",
+        "Kune zuva rinopenya, Dima repasi rapera"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyika iyo yeKenani!, Ndinodisa kusvikayo",
+        "Ndichaona zvakanaka zvenyikayo iri yangu",
+        "Ine dzimba dzagadzirirwa ini iko kudenga"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi ozofamba neni, Kusangana kweukama!",
+        "Ndiye anotungamira, Munyika’yo yerufaro"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kunhuwira kwakanaka, Kunozobva kune miti",
+        "Nemaruva akanaka, Kune mvura yeupenyu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Denga rese rozara, Nenzwiyo dzakanaka kwazvo",
+        "Ngirosi dzoimba pamwepo, Nechita chevatsvene"
+      ],
+      "number": 5
+    }
+  ]
+}

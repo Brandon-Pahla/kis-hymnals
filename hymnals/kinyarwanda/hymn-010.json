@@ -1,0 +1,39 @@
+{
+  "number": 10,
+  "language": "rw",
+  "title": " 10 Duhurire Ku Mugezi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 10 Duhurire Ku Mugezi",
+        "**1**",
+        "Duhurire ku mugezi,",
+        "Dusang'abamarayika;",
+        "Amazi yaw'atunganye,",
+        "Atemb'av'imbere y'Imana.",
+        "**Gusubiramo:**",
+        "Nuko tujye ku mugezi!",
+        "Duhurire n'abera ku mugezi!",
+        "Ku mugez'utunganye w'Imana,",
+        "Utemb'uv'imbere y'intebe.",
+        "**2**",
+        "Ku nkombe y'uwo mugezi,",
+        "Niho tuzatambagira,",
+        "Turamy'Umwami w'iteka,",
+        "Mu gihe cyiza kidashira.",
+        "**3**",
+        "Tuzagera ku mugezi,",
+        "Dutur'imitwaro yacu;",
+        "Tuzakirishw'imbabazi,",
+        "Duhabw'umwambaro n'ikamba.",
+        "**4**",
+        "Ubw'umugez'uri hafi,",
+        "Urugendo ruzashira;",
+        "Tuzishima mu mitima,",
+        "N'indirimbo z'umunezero."
+      ],
+      "number": 1
+    }
+  ]
+}

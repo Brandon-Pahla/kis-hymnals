@@ -1,0 +1,43 @@
+{
+  "number": 236,
+  "language": "st",
+  "title": "236 Mosa Oa Hae O Lerato.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tsohela thabong moea oa ka ’Me, Bina poko ea Molopolli,",
+        "O batla thoko ho ’na, Rato la hae le mosa,",
+        "Moea oa hae, Moea oa Hae, Ke lerato le leholo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A mpona ke le ts’enyehong, ’Me a nthata hona teng,",
+        "A mpoloka tahlehong, Mosa oa Hae o lerato.",
+        "Mosa oa ae, Mosa oa Hae, Ke lerato le leholo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leha lira li le ngata, Lefu le thiba tsela,",
+        "O nkhula ka ka paballo, Mosa oa hae o lerato,",
+        "Mosa oa Hae, Ke lerato le leholo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha tsietsi joale ka leru, Le lets’o e tla e luma,",
+        "O ema haaufi le ’na, Mosa oa Hae o lerato,",
+        "Mosa oa Hae, Mosa oa Hae, Ke lerato le leholo."
+      ],
+      "number": 4
+    }
+  ]
+}

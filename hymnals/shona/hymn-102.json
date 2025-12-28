@@ -1,0 +1,47 @@
+{
+  "number": 102,
+  "language": "sn",
+  "title": "102 Rega Apinde",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kune mweni pam’siwo za ... rura (Rega apinde Jesu apinde)",
+        "Ange aripo kare za ... rura (Rega apinde Jesu apinde)",
+        "Zarura achiripo Zarurira Mutswene Jesu mwana wa Mwari Za ... rura",
+        "(Rega apinde Jesu apinde)"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zarura mwoyo wako za ... rura (Rega apinde Jesu apinde)",
+        "Zarura anga ende Za ... rura (Rega apinde Jesu apinde)",
+        "Zarurira shamwari Ano kurWira mweya’ Owa newe narini Za ... rura",
+        "(Rega apinde Jesu apinde)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inzwa onyengerera Za ... rura (Rega apinde Jesu apinde)",
+        "Zwino sarudza Iye Za ... rura (Rega apinde Jesu apinde)",
+        "Akamira pam’siwo Ano kupa rufaro Zita Rake rokudzwa Za ... rura",
+        "(Rega apinde Jesu apinde)"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gashira Wekudenga Za ... rura (Rega apinde Jesu apinde)",
+        "Achaku’tira m’tambo Za ... rura (Rega apinde Jesu apinde)",
+        "Achakusunungura Zwepasi: zwazopera Okutora kumusha Za ... rura",
+        "(Rega apinde Jesu apinde)"
+      ],
+      "number": 4
+    }
+  ]
+}

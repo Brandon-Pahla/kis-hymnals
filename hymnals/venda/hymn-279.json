@@ -1,0 +1,61 @@
+{
+  "number": 279,
+  "language": "ve",
+  "title": "279. Idani Kha nne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mbilu yanga takala, Naho lo swifhala.",
+        "U tende u ri Yesu u do disa tshedza."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Idani kha nne no netaho:",
+        "(Idani kha nne, musi no neta):",
+        "Inwi no netaho, ndi do ni awedza.",
+        "(Idani nangwe no neta, ni do awedzwa)",
+        "Hwalani dzhogo yanga ni funziwe nga nne.",
+        "(Ni hwale dzhogo-vho, andi ni funze).",
+        "Ndi vhulenda, Ndo vuda, Idani ni wane dzawelo.",
+        "(Ndo vuda, ndi vhulenda, Ndo vuda, Ndi na vhulenda,",
+        "Idani ni wane dzawelo)."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Lupfumo na dakalo a zwi thusi muthu.",
+        "Muthu u thuswa ngalwo lufuno luhulu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Phumudzo i re khulu yo diswa nga Yesu:",
+        "No no handululwa naa? Idani ni si fe!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Fhumula sa mulambo, U imbe dzinyimbo.",
+        "Zwi lemelaho zwi do leluwa vhukuma."
+      ],
+      "number": 5
+    }
+  ]
+}

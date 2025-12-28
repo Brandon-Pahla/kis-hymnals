@@ -1,0 +1,55 @@
+{
+  "number": 200,
+  "language": "tw",
+  "title": "A W'rade Reba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Aw'rade reba, ma 'yi nyɛ",
+        "Ne mmae no ho ah'rusi dwom;",
+        "Sɛ yehyia na yɛtete mų a,",
+        "Ma 'yi nyɛ koma mu nkyea."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Aw'rade reba, ma 'yi nyɛ",
+        "Ne mmae no ho ah'rusi dwom,",
+        "Ne mmae no ho ah'rusi dwom."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aw'rade reba, pae mu ka,",
+        "Wɔ wiase afanan nyinaa;",
+        "Yɛ ntɛm ka anigye no",
+        "Sɛnea N'adɔfo w'rɛ renhow."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aw'rade reba no ntɛm so,",
+        "N'atemmu nyinaa begyina;",
+        "Obi ntum' nguan mfi N'abufuwm',",
+        "Nea ɔnnante kwan teaa noso."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Sase ne ne mfomso dodo",
+        "Bɛdan ato anuonyam nnwom;",
+        "Yɛne 'bɔde nyinaa bebom",
+        "Ato 'h'rusi nnwom hann man nom'."
+      ],
+      "number": 4
+    }
+  ]
+}

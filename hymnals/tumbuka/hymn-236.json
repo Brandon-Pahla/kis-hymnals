@@ -1,0 +1,77 @@
+{
+  "number": 236,
+  "language": "tum",
+  "title": " 236 Wuka, Moyo Wane, Kondwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 236 Wuka, Moyo Wane, Kondwa",
+        "C.H. 667 HIS LOVING KINDNESS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Wuka, moyo wane,",
+        "kondwa umwimbirenge Mponoski,",
+        "Ndimwimbirenge zisumu",
+        "lusungu lwake ndukuru."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "NgwaLusungu, ngwaLusungu",
+        "Lusungu Iwake ndukuru!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Wakandiwona ndazgewa",
+        "wakanditemwa ndipera,",
+        "Wakandiwezgako 'mwe",
+        "mu lusungu lwake lukuru"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Warwani mbanandinandi",
+        "nanga charu chingasuska,",
+        "Iyo wakun'sungirira",
+        "lusungu lwake ndukuru."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Suzgo nga bingu likuru",
+        "liungane na kugunda,",
+        "Wakwima pafupi nane",
+        "lusungu lwake nduweme."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Mweneko charu pakwiza",
+        "kwizakawatola wake,",
+        "Ndamkwimba padazi ilo",
+        "lusungu Iwake kwandandal"
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 156,
+  "language": "es",
+  "title": "A Cristo coronad",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A Cristo coronad"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Cristo coronad",
+        "divino Salvador.",
+        "Sentado en alta majestad",
+        "es digno de loor.",
+        "Al Rey de gloria y paz",
+        "loores tributad,",
+        "y bendecid al Inmortal",
+        "por toda eternidad."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Cristo coronad",
+        "Señor de nuestro amor,",
+        "al Triunfante celebrad,",
+        "glorioso Vencedor.",
+        "Potente Rey de paz",
+        "el triunfo consumó,",
+        "y por su muerte en la cruz",
+        "su grande amor mostró."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Cristo coronad",
+        "Señor de vida y luz;",
+        "con alabanzas proclamad",
+        "los triunfos de la cruz.",
+        "A él, pues, adorad,",
+        "Señor de salvación;",
+        "loor eterno tributad",
+        "de todo corazón."
+      ],
+      "number": 4
+    }
+  ]
+}

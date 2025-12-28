@@ -1,0 +1,49 @@
+{
+  "number": 455,
+  "language": "fr",
+  "title": "Jésus, ma lumière",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus, ma lumière",
+        "Dans la sombre nuit,",
+        "Sois ma joie suprême,",
+        "Quand le matin luit !",
+        "Éclaire mon âme,",
+        "Guide mon chemin;",
+        "Garde-moi du doute,",
+        "Tiens-moi par la main !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sois ma délivrance",
+        "Dans la tentation,",
+        "Et mon assurance",
+        "Dans la confusion !",
+        "Ta parole sainte",
+        "Est mon conseiller,",
+        "Ta chère présence,",
+        "Mon sûr bouclier."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Conduit par ta grâce,",
+        "Je vis chaque jour;",
+        "J'ai déjà ma place",
+        "Au divin séjour.",
+        "Et plein d'allégresse,",
+        "Je chante l'amour",
+        "Dont la douce flamme",
+        "Brûlera toujours."
+      ],
+      "number": 3
+    }
+  ]
+}

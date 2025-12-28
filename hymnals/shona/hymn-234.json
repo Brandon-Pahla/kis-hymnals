@@ -1,0 +1,47 @@
+{
+  "number": 234,
+  "language": "sn",
+  "title": "234 Jesu Mwenje Wepasi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngirosi dzinoimba, Jesu mwenje wepasi",
+        "Mbiri kunaye mambo, Jesu mwenje wepasi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Famba mumwenje, Uya kumadonhwe ane tsitsi",
+        "Uti penyere nguva nenguva, Jesu mwenje wepasi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndudzi dzese farayi, Jesu mwenje wepasi",
+        "Farayi newedenga, Jesu mwenje wepasi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wedenga womukudza, Jesu mwenje wepasi",
+        "Kristu Tenzi narini, Jesu mwenje wepasi"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muchinda werukudzo, Jesu mwenje wepasi",
+        "Zuva rekururama, Jesu mwenje wepasi"
+      ],
+      "number": 5
+    }
+  ]
+}

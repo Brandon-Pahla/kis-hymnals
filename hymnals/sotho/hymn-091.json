@@ -1,0 +1,39 @@
+{
+  "number": 91,
+  "language": "st",
+  "title": "91 Mosebetsi oa Matsatsi A Tseletseng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ho felile ho sebetsa Re se re qala Sabbatha;",
+        "Moea o tle o tlo thaba Ke tsatsi le halalelang."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tlong re leboheng Morena, Ka phomolo e monate;",
+        "Mahlohololo re a filoe, Kajeno le mehla eohle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eka khopolo ea rona, E ka leboha Morena;",
+        "Re tla fumana bo Kreste Moea o halalelang."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ho thaba ho leng ka pelong, Ke ts’epo le ho phomola;",
+        "Ho neiloeng balumeli, Ho fihlela bosafeleng."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 365,
+  "language": "tw",
+  "title": "O Sion, Yɛ Ntɛm Na Wie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O Sion, yɛ ntɛm na wie w'adwuma no,",
+        "Ka no wiase ny'naa sɛ Nyame yɛ hann;",
+        "Ky'rɛ wɔn sɛ Nea ɔbɔɔ amn nyinaa no",
+        "Mpɛ sɛ ɔkra bɛy'ra sum mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ka 'nigyesɛm no, asomdwoesɛm,",
+        "Yesu ho nsɛm, ɔgye ne ahofadi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka ky'rɛ aman, kasa ne nnipa nyinaa",
+        "Sɛ Nyame a wɔte Ne mu yɛ dɔ;",
+        "Ka sɛnea ɔbrɛɛ Ne ho ase gyee wɔn,",
+        "Na Owui sɛnea nnipa bɛtra s'ro."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma wo mma no nsoa anuonyam nkrasɛm no,",
+        "Fa w'ahode no pia wɔn wɔ kwan so;",
+        "Fa nkotosrɛ bɔ mpae ma wonni nkonim,",
+        "Nea wohw're no, Yesu bɛhyɛw' anan."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔreba bio, O Sion, siesie wo ho,",
+        "Ka Ne gye 'dom no ky'rɛ koma biara;",
+        "Ma Obiará a Wagye no mma No 'kwaaba.",
+        "Woanyɛ saá a worentumi nhu N'anim."
+      ],
+      "number": 4
+    }
+  ]
+}

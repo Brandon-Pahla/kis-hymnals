@@ -1,0 +1,57 @@
+{
+  "number": 310,
+  "language": "tum",
+  "title": " 310 Nkhukhumba Kukhala Na Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 310 Nkhukhumba Kukhala Na Yesu",
+        "Want To Live Closer To Jesus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nkhukhumba kukhala na Yesu",
+        "kulawiska chene chake,",
+        "Wazuzge uchizi mu mtima wane",
+        "nkhukhumba kukhala nayo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "KhaLa pafupi-fupi na Yesu",
+        "pa Lwande Lwa Mponoski,",
+        "KudodoLiska chene chakutowa",
+        "nkhukhumba kukhaLa nayo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nkhukhumba kukhala na Yesu",
+        "kumurondezga pafupi,",
+        "Kupulika lyo wakuyowoya",
+        "phangano lake kwa ine."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nkhukhumba kukhala na Yesu",
+        "pafupi madazi ghose,",
+        "Kukora woko la nkhongono zake",
+        "nkhanjire m'ufumu wake."
+      ],
+      "number": 4
+    }
+  ]
+}

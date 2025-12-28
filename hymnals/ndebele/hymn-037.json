@@ -1,0 +1,47 @@
+{
+  "number": 37,
+  "language": "nd",
+  "title": "37 Eduze, Nkosi Yami, kuWe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Eduze, Nkosi yam’ ‘duze kuWe! Nom’ isiphambano ngi sithwele",
+        "Yon’ ingoma yami, lapha yoba yile; Eduze, Nkosi yam’, ‘duze kuWe!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Noma mina ngi njengesihambi, Itshe li be umqamelo wami",
+        "Kodw’ amaphupho am’ yila njalo athi; Eduze, Nkosi, yam’, ‘duze kuWe!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Indlela yami i khanya kahle-U thumela ngomsa kimi konke",
+        "Nengelosi zAkho zona zi ngi hole; Eduze, Nkosi yam’, ‘duze kuWe!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngokubonga ngomcabango wami, Osizini lwami olubanzi",
+        "Njalw’ enhluphekweni ngohlabela ngithi; Eduze, Nkosi yam’, ‘duze kuWe!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lapha se ngi phaphela phezulu, Se ngi dlule ilanga nenyanga",
+        "Ngohlabel’ ingoma, ngi bheke phezulu; Eduze, Nkosi yam’, ‘duze kuWe!"
+      ],
+      "number": 5
+    }
+  ]
+}

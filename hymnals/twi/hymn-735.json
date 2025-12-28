@@ -1,0 +1,46 @@
+{
+  "number": 735,
+  "language": "tw",
+  "title": "N40 God Sees The Sparrow",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame hu ‘patuprɔ ‘sehwe,",
+        "Ne yam hyehye ma no;",
+        "Sε Nyame dɔ nnomaa nkumaa~a,",
+        "Minim ɔdɔ me nso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ɔdɔ me nso, ɔdɔ me nso,",
+        "Minim ɔdɔ me nso;",
+        "‘Fisε ɔdɔ nneεma nkumaa,",
+        "Minim ɔdɔ me nso."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ofura sukooko ntama,",
+        "Ɔma no ho yε huam;",
+        "Sε ɔdɔ n-hwiren nkumaa~a",
+        "Minim ɔdɔ me nso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame yεε nnomaa ne nhwiren",
+        "Ne nneεma nyinaa nso;",
+        "Ne werε remfi Ne mmofra,",
+        "Minim ɔdɔ me nso."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "number": 85,
+  "language": "en",
+  "title": "85 I Sing The Mighty Power.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I sing the mighty power of God,",
+        "That made the mountains rise,",
+        "That spread the flowing seas abroad,",
+        "And built the lofty skies;",
+        "I sing the wisdom that ordained,",
+        "The sun to rule the day;",
+        "The moon shines full at his command,",
+        "And all the stars obey."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I sing the goodness of the Lord,",
+        "That filled the earth with food;",
+        "He formed the creatures with his word,",
+        "And then pronounced them good.",
+        "Lord how thy wonders are displayed,",
+        "Where’er I turn my eye.",
+        "If I survey the ground I tread,",
+        "O gaze upon the sky."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "There’s not a plant or flow’rs below,",
+        "But makes thy glories known;",
+        "And clouds arise, and tempests blow,",
+        "By order from thy throne.",
+        "Creatures that borrow life from thee,",
+        "Are subject to thy care,",
+        "There’s not a place where we can flee,",
+        "But God is present there."
+      ],
+      "number": 3
+    }
+  ]
+}

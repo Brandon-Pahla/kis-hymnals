@@ -1,0 +1,39 @@
+{
+  "number": 20,
+  "language": "st",
+  "title": "20 Tsoha Khothala Moea Oa Ka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tsoha moea u sebetse, U be mafolo-folo;",
+        "Phakisetsa leholimong, Moqhakeng o sa shoeng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Molimo O ea U bitsa, Ka lentsoe le utloalang;",
+        "Ke Eena ea fang moputso, Litakatsong tsa hao"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leru la lipaki le teng Le ka u bolokang",
+        "Lebala tse kamorao, Tsoela pele tseleng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke ’Moloki Ea qalileng Lebelo la rona,",
+        "Re tla bea maotong a hae Moputso oa rona."
+      ],
+      "number": 4
+    }
+  ]
+}

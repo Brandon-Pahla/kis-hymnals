@@ -1,0 +1,24 @@
+{
+  "number": 591,
+  "language": "pt",
+  "title": "Ofertório",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ofertório"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Săo Teus, ó Pai, os dízimos",
+        "Daquilo que nos dás;",
+        "E ofertas que Te damos",
+        "De coraçăo, Aceitarás."
+      ],
+      "number": 2
+    }
+  ]
+}

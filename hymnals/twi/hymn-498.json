@@ -1,0 +1,47 @@
+{
+  "number": 498,
+  "language": "tw",
+  "title": "Me Ne Wo Da So Wɔ Hɔ Adekyee B'rem",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me ne Wo da so wɔ hɔ adekyee b'rem;",
+        "B're a nnomaa nyan' na 'sum guan kɔ no;",
+        "Nanso nea ɛyɛ fɛ sen 'dekyee hann yi,",
+        "Ne nkā a mete sɛ me ne Wo wɔ hɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me ne Wo nko wɔ sunsum nwanwa no mu,",
+        "Abɔde foforo kommyɛ no mu;",
+        "Me ne Wo nko wɔ hɔ nkamfo kɛse mu,",
+        "Anɔpa bosu ne fof'royɛ mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me ne Wo da so wɔ hɔ 'nɔpa biara",
+        "Woda so de soro hann pa ma me;",
+        "Saa na nhyira atenka ne nkanyan yi",
+        "Twe me bɛn s'ro ne Wo nkyɛn da biara."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Saa na ɛbɛyɛ anɔpa fof'ro nom'",
+        "B're a kra benyan' na sunsuma kɔ;",
+        "Saa b're nō ɛyɛ fɛ sen 'dekyee hann no,",
+        "Bɛyɛ 'nuonyam fisɛ me neW' wɔ hɔ."
+      ],
+      "number": 4
+    }
+  ]
+}

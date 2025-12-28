@@ -1,0 +1,35 @@
+{
+  "number": 273,
+  "language": "guz",
+  "title": "273 Nkorengereria Nde",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nkorengereria nde Ens' eria engiya,Ndaike k'erioba rikogwa;As' obuya bwa Yeso ntenene aria,Ninyor' eng'enang'eni gose?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ninyore eng'enang'eni as'egutwaMogorob' erioba rikogwa(rikogwa)Gonkoboka n'abachenu as'omochi' oria,Ninyor' eng'enang'eni gose?(Ninyore?)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ase chinguru chiaye Yeso nindandie,Nindende mobu' omobisa;Erio ching'enang'eni nachib' echiane,Okobakwa kwaye koigweke."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Naki ndagok' ekero nche ndamorore,Nintung'ame komosasima;'Moy'one nogok' omochie bw'edhahabu,'Ninyor' eng'enang'eni gose?"
+      ],
+      "number": 4
+    }
+  ]
+}

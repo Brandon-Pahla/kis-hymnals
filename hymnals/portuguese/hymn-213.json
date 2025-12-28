@@ -1,0 +1,56 @@
+{
+  "number": 213,
+  "language": "pt",
+  "title": "Graça de Deus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Graça de Deus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Graça de Deus, infinito amor!",
+        "Graça do Céu, dom divinal!",
+        "Por Sua morte em amarga dor,",
+        "Cristo me trouxe este amor real."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Graça, graça,",
+        "Fonte de paz que Jesus me deu;",
+        "Graça, graça,",
+        "Graça maior que o pecado meu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fardos me oprimem, de angústia e dor,",
+        "Quando me vêm ondas do mal,",
+        "Mas pela graça do Salvador,",
+        "Tenho poder para ser leal."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quão insondável o amor de Deus!",
+        "Traz salvação ao pecador.",
+        "Por esta graça que vem dos Céus",
+        "Sei que estarei com o meu Senhor."
+      ],
+      "number": 5
+    }
+  ]
+}

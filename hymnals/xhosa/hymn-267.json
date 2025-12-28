@@ -1,0 +1,54 @@
+{
+  "number": 267,
+  "language": "xh",
+  "title": "267 Masihlwayele Imbewu Yokulunga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Masikhe iintyatyambo ezintle ngasendleleni;",
+        "Masibuthe ingqolowa siwulahle umdiza.",
+        "Masizonwabise ngentsikelelo zale mini;",
+        "Ngesandla esicengayo masisuse ameva."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sifaka imbew’ entle, Imbewu yokulunga,",
+        "Phambili sakuvuna Isiqhamo esihle."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa sisiv’ ingom’ emnandi, Siqonda yakuphela;",
+        "Asinalwazi ngobuhle Bude budlule bonke.",
+        "Liyadlula ihlobo Singabuboni ubuhle,",
+        "Sekungathi bubusika Xa kusiwa ikhephu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ukuthamba kwabancinci Nako kunesiphelo;",
+        "Izandla ezincinci Zoyek’ ukukhathaza,",
+        "Sibonakala sinjani Kumehlo ezihlobo?",
+        "Silindelwe kokubi na Endaweni yokuhle?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ezo zandla zincinci Zisikhumbuza emva,",
+        "Kuzo izenzo namazwi Esazenza kudala.",
+        "Ngoku sesikhumbula, Xa sisenza umsebenzi,",
+        "Masihlwayele okuhle Ukuze sikuvune."
+      ],
+      "number": 4
+    }
+  ]
+}

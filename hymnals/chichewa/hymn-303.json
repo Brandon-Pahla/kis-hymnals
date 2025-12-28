@@ -1,0 +1,30 @@
+{
+  "number": 303,
+  "language": "ny",
+  "title": "303 - Kale Anthu M’kholamo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHO IS HE IN YONDER STALL?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Kale anthu m’kholamo, Napembedza Mwanayo",
+        "CHORUS:",
+        "Ndiye Mbuye, Mfuma yanga, Ndiye Mbuye, wakumwamba,",
+        "Amgwadire anthuwo, Timtamande Mfumuyo.",
+        "2. Wosauka Iyedi, Anagwira ntchitozi.",
+        "3. Ndani kodi munthuyo, Woyesedwa m’bwinjamo?",
+        "4. Analira ndaniyo, Pomwalira bwenzilo?",
+        "5. M’munda muna ndaniyo, Mwazi wace dotho do?",
+        "6. Iye ndani m’ndamo, Anafera ’daniwo?",
+        "7. Mkuca wace ndaniyo, Waturuka m’mandamo?",
+        "8. Ndani alikudzako, Mponda wakuyeramo?"
+      ]
+    }
+  ]
+}

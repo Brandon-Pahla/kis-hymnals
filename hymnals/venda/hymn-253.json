@@ -1,0 +1,40 @@
+{
+  "number": 253,
+  "language": "ve",
+  "title": "253 Vhona Mulisa Wa Isiraele Wa Ndele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Vhona Mulisa wa Isiraele O ima;",
+        "Ipfa A tshi vhidza nngu, na u dzi takula."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. U ri: ’Litsha dzi de fhano;",
+        "U songo dzi thatha;",
+        "Ngauri ndo dela u fhatuthsedza vhenevha.’"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri vha disa nga dakalo, Kha Iwe Murena;",
+        "Ri takalela uri ri vhana vhaU tshothe."
+      ],
+      "number": 4
+    }
+  ]
+}

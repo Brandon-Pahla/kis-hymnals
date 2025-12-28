@@ -1,0 +1,24 @@
+{
+  "number": 77,
+  "language": "ts",
+  "title": "77. A HI LANDZENI LA VO LAHLEKA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SEEKING THE LOST",
+        "1. A Hi Landzeni La Vo Lahleka, Hi Va Vuyisa Tintswalweni,",
+        "Hi Va Nyika Marito Ya Yesu, La Nge Tanani Namuntlha.",
+        "CHORUS",
+        "Fambani Kulekule Etintshaveni, Mi Va Vuyisa Lava Nga Lahleka, Entlhambini Wa Muponisi Werhu, Yesu La Feleke Vaendla Swivi.",
+        "Bass: Fambani Kulekule Etintshaveni Va Vuyiseni",
+        "Entlhambini Va Lava Lahlekeke Yesu Nyimpfana Ya Vudyohi.",
+        "2. A Hi Landzeni Lavo Lahleka, Mi Va Vuyisa Eka Yesu,",
+        "Mi Va Kombeta Ndlela Yo Vuya, Leyi Yaka Eka Xikwembu.",
+        "3. Loko Yesu A Va Vitanile,",
+        "Va Ta N’wi Landza Hi Minkarhi, A Hi landzeni Lava Lovaka, Va Vuya Hinkwavo Ka Yesu."
+      ],
+      "number": 1
+    }
+  ]
+}

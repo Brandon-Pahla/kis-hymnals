@@ -1,0 +1,35 @@
+{
+  "number": 68,
+  "language": "luo",
+  "title": "68 Yesu Nowara",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu nowara, koro amor,To osedonjo omenyo chunya;Koro kadwaro wacho ni ji,Ok anamung` ngang` ok analing`."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mano e morna, mano wenda,Kapako nyinge ndalo duto;Mano e morna, mano wenda,kapako nyinge ndalo duto."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yesu nopuonja hero Nyasaye;an koro adwaro puonjo jopiny,Kata gikwero, kata giyie,Ok anamung` ngang`, ok analing`."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Koro kageno Ruoth Jakonya,Yesu e berna bende e lerna;Ka tichne rumo, ka piny ogik,Eka nobi mond` okaw joge."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "number": 11,
+  "language": "st",
+  "title": "11 Ke Tla U Latela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tla latela ’Moloki, Hohle moo A nkisang teng’",
+        "Moo A eang ke tla ea teng, E Morena ke tla ea"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "b>CHORUS",
+        "Ke tla latela ’Moloki, Ea nchoeteng sefapanong;",
+        "Leha ba bang ba u lahla, Ka mohau ke latele."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leha ke le khathatsehong, Ke lekoa habohloko;",
+        "Ke hopola le ka Uena, ’Me ke tla ke thabile."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke leba nqa Jordane, Serameng le botebong;",
+        "U ts’etse pele ho ’na, ’Me ke tla ho latela."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha u ka ntlohella botubong, Ke le mo bofutsaneng;",
+        "U ne u se na lehae, ’Me ke ea ho latela."
+      ],
+      "number": 5
+    }
+  ]
+}

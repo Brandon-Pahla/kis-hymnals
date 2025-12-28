@@ -1,0 +1,53 @@
+{
+  "number": 39,
+  "language": "ny",
+  "title": "39 - Thanthwe Lolimba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "MY HOPE IS BUILT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Chiyembekezo changatu, Chili mwa Yesu Woyera",
+        "Sindikhulupira wina Koma dzina la Yesuyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndaima pa Khristu Thanthwe, Nthaka yonse ndiyo mchenga,",
+        "Nthaka yonse ndiyo mchenga."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Pondiphimba ine mdima, Ndipumula mwa Iyeyo,",
+        "M’namondwe ndi m’mphepo zonse, Ndithawira kwa Iyeyo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Pangano lake ndi mwazi, Zinditchinjiriza ine,",
+        "Ndikalepheratu pena, Ndidzakhalatu mwa Iye."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Pamene Iye adzadza, Ndidzapezeke mwa Iye,",
+        "Ndiri m’chilungamo chake, Wopanda naye chifukwa."
+      ],
+      "number": 5
+    }
+  ]
+}

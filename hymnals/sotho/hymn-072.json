@@ -1,0 +1,39 @@
+{
+  "number": 72,
+  "language": "st",
+  "title": "72 Kahlolo E Beiloe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kahlolo e teng khoro li butsoe; Re tla ema joang tsatsing leo,",
+        "Ho ahloloa bobe le botle; Moahloli ha tla ahlola."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re tla ema joang tsatsing leo, Re tla ema joang tsatsing leo;",
+        "Na ekaba re tla fumanoa Re haelloa kapa re hlatsoitsoe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kahlolo ea tla qala ka bafu, Ba phelang ba tla latela;",
+        "Kahlolo ea Hae e tla ema, Teng khorong tsona tsa Molimo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re tla ema joang ho batlisisoeng, Libe tsa rona ba li senoloa,",
+        "Melato e ahlotsoe hohle—hohle; Ho se teng boikarabelo."
+      ],
+      "number": 4
+    }
+  ]
+}

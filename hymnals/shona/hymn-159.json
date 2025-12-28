@@ -1,0 +1,57 @@
+{
+  "number": 159,
+  "language": "sn",
+  "title": "159 Ndinomudai Zvikuru",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi ndinom’da kwazvo",
+        "Ndine ubofu ne’rombo",
+        "Nditungamire ndisimbe",
+        "Kunemwi kunesimba"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nguva dzese nguva dzese,",
+        "Tenzi ndinomudisisa;",
+        "Nguva dzese Nguva dzese,",
+        "M’ponesi ndichengete"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndipfekedzenyi kupfava",
+        "Nguwo yangu yaipa",
+        "Ndidzidzise nekusimba",
+        "Ndokumbira kusimba"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nditungamire ndifare",
+        "Musipo ndoputsika",
+        "Fambanyi muneni kwese",
+        "Muri zvese kuneni"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Handichatyi chinouya",
+        "Kufara kana nhamo",
+        "Mweya wangu unomuda",
+        "Munondi nunura"
+      ],
+      "number": 5
+    }
+  ]
+}

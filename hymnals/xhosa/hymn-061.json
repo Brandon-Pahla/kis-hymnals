@@ -1,0 +1,46 @@
+{
+  "number": 61,
+  "language": "xh",
+  "title": "61 Qokela Ngo-Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngakumbi, ngo-Yesu iNkos’, Ndize ndifundis’ abanye.",
+        "Ndibon’ usindiso lwaKhe, Nothando londifeleyo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ngakumbi ngo-Yesu, KwaKhona ngo-Yesu;",
+        "Ngakumbi ngosindiso kum, Ngothando londifeleyo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xela kwaKhona ngo-Yesu, Xela nangengqondo yaKhe;",
+        "Moya ka-Thixo ndiphe-ke, Ukwazi ngay’ u-Kristu wam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Funda kwaKhona ngo-Yesu, Sondela ngokuthandaza;",
+        "Mamela ilizwi laKhe, Yazisa abanye ngaYe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngakumbi ngo-Yes’ i-Nkosi, Ngesihlalo sobukhosi;",
+        "Lungqine udaba olo, Ngokubuya kwabangcwele."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 627,
+  "language": "tw",
+  "title": "Yɛref'ro Yakob Atwere",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛref'ro Yakob atwere,",
+        "Yɛref'ro Yakob atwere;",
+        "Yɛref'ro Yakob atwere,",
+        "'Sɛnnua ho nsraafo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anammɔn biara kɔ soro,",
+        "Anammɔn biara kɔ soro;",
+        "Anammɔn biara kɔ soro",
+        "'Sɛnnua ho nsraafo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bɔn'yɛfo, so wodɔ Yesu?",
+        "Bɔn'yɛfo, so wodɔ Yesu?",
+        "Bɔn'yɛfo, so wodɔ Yesu?",
+        "'Sɛnnua ho nsraafo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻnde dɛn nti na wonsom No?",
+        "Ͻnde dɛn nti na wonsom No?",
+        "Ͻnde dɛn nti na wonsom No?",
+        "'Sɛnnua ho nsraafo."
+      ],
+      "number": 4
+    }
+  ]
+}

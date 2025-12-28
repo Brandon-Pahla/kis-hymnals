@@ -1,0 +1,47 @@
+{
+  "number": 719,
+  "language": "tw",
+  "title": "N24 This is the Day of Rest",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "´Yi ne ɔhome da:",
+        "Hyε yεn mmerεwyε den:",
+        "Tɔ Wo bosu nwinwin no gu",
+        "Komá a ab´rε no so"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "´Yi ne asomdwoe da;",
+        "W´asomdwoe nhyε yεn den;",
+        "Ma manso manso no to ntwa,",
+        "Ma ap´rep´rε nyε dinn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "´Yi ne m-paebɔ da:",
+        "Ma s´ro ne sase mmεn;",
+        "Ma yεn koma so ma yenhuW´,",
+        "Sian bra behyia yεn ha"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nna mu da pa no ni;",
+        "Wo nkwa home no mm´ra,",
+        "Ma krá a wɔawu nnyan nyiW´ ayε,",
+        "´Wu so nkonimdifo"
+      ],
+      "number": 4
+    }
+  ]
+}

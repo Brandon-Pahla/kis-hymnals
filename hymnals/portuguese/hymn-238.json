@@ -1,0 +1,58 @@
+{
+  "number": 238,
+  "language": "pt",
+  "title": "Amor nos Faz markdownes",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Amor nos Faz markdownes"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amor nos faz markdownes,",
+        "Amor nos dá prazer.",
+        "E para a lei cumprirmos",
+        "O amor nos dá poder."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Deus é bom, Seus filhinhos somos.",
+        "Deus é bom, quer o nosso amor.",
+        "Amor nos faz markdownes,",
+        "Amor nos dá prazer,",
+        "E para a lei cumprirmos",
+        "O amor nos dá poder."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O mundo tem tristezas",
+        "E cheio está de dor.",
+        "Depressa, pois, busquemos",
+        "Perdidos ao Senhor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E quando, enfim, a vida",
+        "De lutas se acabar,",
+        "No Céu também iremos",
+        "Ao nosso Deus louvar."
+      ],
+      "number": 5
+    }
+  ]
+}

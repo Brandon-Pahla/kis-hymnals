@@ -1,0 +1,41 @@
+{
+  "number": 244,
+  "language": "ny",
+  "title": "244 - Idza Kwa Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "COME TO THE SAVIOUR"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. ’Dza kwa YEsu, ’dza kwa Yesu",
+        "’Dza kwa Yesu lero, lero, ’dza kwa Yesu,",
+        "’Dza kwa Yesu lero.",
+        "2. Pulumuka, pulumuka,",
+        "Pulumuka lero, lero pulumuka,",
+        "Pulumuka lero.",
+        "3. Akhozadi, akhozadi,",
+        "Akhozadi lero, lero akhozadi,",
+        "Akhozadi lero.",
+        "4. Muitane, muitane,",
+        "Muitane lero, lero muitane,",
+        "Muitane lero.",
+        "5. Alindira, alindira",
+        "Alindira lero, lero alindira,",
+        "Alindira lero.",
+        "6. Mkhulupire, mkhulupire,",
+        "Mkhulupire lero, lero mkhulupire",
+        "Mkhulupire lero.",
+        "7. Adalitsa, adalitsa,",
+        "Adalitsa iwe, iwe adalitsa,",
+        "Adalitsa iwe."
+      ],
+      "number": 2
+    }
+  ]
+}

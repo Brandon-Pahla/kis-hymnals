@@ -1,0 +1,35 @@
+{
+  "number": 80,
+  "language": "bem",
+  "title": "80 - TULEYA KUBOMBA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TO THE WORK"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tuleya kubomba tuli bamilimo,",
+        "Konkeni mu nshila Yesu aendele;",
+        "Na mashiwi aletupela amaka,",
+        "Tukacita maka 'ncito atupela",
+        "CHORUS:",
+        "Tuleya Kubomba Tuleya ... kubomba",
+        "Sumina pempula Bomba milimo ya Mfumu.",
+        "2. Tuleya kubomba kulisha bansala,",
+        "Sendeni banaka kuminwe ya mweo,",
+        "Ululumbi lwesu pa lupanda lwakwe,",
+        "Bebeni bonse bupususho apela.",
+        "3. Tuleya kubomba, mu nakila nomba;",
+        "Pantu inshita ikesa ukusepa;",
+        "Katula wesu ateyanye cifulo,",
+        "Lwimbo lwesu lwape ku ubupususho"
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 178,
+  "language": "sn",
+  "title": "178 Kristu Anouya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Angave mangwanani zuva robuda",
+        "Apo kupenya kwave kudzinga dima",
+        "Apo Jesu anowuya nembiri",
+        "Nemakore kutora vake"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Jesu ndirini rini, Tisati taimba",
+        "Anouya Hariruya! Hariruya! Amen",
+        "Hariruya! Amen"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Angave masikati kana manheru",
+        "Zvimwe pangave pakati peusiku",
+        "Ku’ye kujeka wembiri yake Tenzi",
+        "Owuya kutora vake"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Apo masangano odana Hosana",
+        "Anodzika nevatsvene nengirosi",
+        "Anetsitsi pahuma yake nembiri",
+        "Jesu ogashira vake"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O rufaroyi! Uko kusina kufa,",
+        "Nekurwara, nekusuwa nekuchema",
+        "Tozokumbana naTenzi kumakore",
+        "Owuya kuzotora vake"
+      ],
+      "number": 5
+    }
+  ]
+}

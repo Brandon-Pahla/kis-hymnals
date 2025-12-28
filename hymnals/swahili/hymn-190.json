@@ -1,0 +1,47 @@
+{
+  "number": 190,
+  "language": "sw",
+  "title": "190 - Raha Yangu Yote, Bwana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Raha yangu yote Bwana, i mbavuni pako,",
+        "Mimi sina haja tena, ila kifo chako."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Mwokozi uliyekufa, nawe ndiwe Mungu,",
+        "Kifo chako ni kwa dhambi, ziondoe zangu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Nioshe na niwe wako, nawe uwe wangu,",
+        "Nioshe damuni mwako, liwe fungu langu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Nioshe si miguu tu, osha tangu nyayo,",
+        "Hata kichwa changu juu, na ndani ya moyo,"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "Na iwe kafara damu, nifanyapo kazi,",
+        "Hata imani itimu, nikuone Mwokozi."
+      ]
+    }
+  ]
+}

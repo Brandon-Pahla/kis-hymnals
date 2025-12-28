@@ -1,0 +1,28 @@
+{
+  "number": 189,
+  "language": "es",
+  "title": "Cristo muy pronto vendrá",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cristo muy pronto vendrá"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo muy pronto vendrá;",
+        "ya vuelve con poder.",
+        "Prometió que volverá,",
+        "y cumplirá.",
+        "Quiero con Cristo morar",
+        "por la eternidad.",
+        "Él me promete en el cielo vivir,",
+        "pues vida abundante hay allí."
+      ],
+      "number": 2
+    }
+  ]
+}

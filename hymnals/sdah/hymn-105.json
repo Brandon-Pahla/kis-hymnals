@@ -1,0 +1,28 @@
+{
+  "number": 105,
+  "language": "en-sdah",
+  "title": "105 Sing to the Great Jehovah’s Praise",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Sing to the great Jehovah's praise! All praise to Him belongs; Who kindly lengthens out our days, Inspires our choicest songs, Inspires our choicest songs."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. His providence hath brought us through Another various year; We all, with vows and anthems new Before our God appear, Before our God appear."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. O God, Thy mercies past we own, And Thy continued care To Thee presenting through Thy Son Whate'er we have and are, Whate'er we have and are."
+      ],
+      "number": 3
+    }
+  ]
+}

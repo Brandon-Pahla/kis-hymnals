@@ -1,0 +1,51 @@
+{
+  "number": 122,
+  "language": "st",
+  "title": "122 Haufi-Ufi.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Haufi-ufi le Morena,",
+        "Nkhule Jesu oa ka ea ntatileng;",
+        "Nts’ike nkatametse ho Uena,",
+        "Mpate haha la ka la phomolo;",
+        "Mpate haha la ka la phomolo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Haufi-ufi ha ho letho,",
+        "Lee ka bang sehabelo ho Jesu;",
+        "Pelo ke ena e nang le pako,",
+        "A k’u ntlhatsoe maling a Hao Jesu;",
+        "A k’u ntlhatsoe maling a Hao Jesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Haufi-ufi Jesu nkuke,",
+        "Ke tele sebe bobe ba sona;",
+        "Ho ikhohomosa hohle ho tlosoe,",
+        "U mphe Jesu ea thakhisitsoeng;",
+        "U mphe Jesu ea thakhisitsoeng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Haufi-ufi ha ke phetse,",
+        "Ts’epo ea ka e be khalalelong;",
+        "Le ka lilemo tse li sa feleng,",
+        "Ke ba haufi le Uena ’Moloki;",
+        "Ke be haufi le Uena ’Moloki."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 199,
+  "language": "tw",
+  "title": "Ti a Wɔhyɛɛ No Nsɔekyɛw No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ti a wɔhyɛɛ no nsɔekyɛw no,",
+        "Wɔahyɛ No 'nuonyam kyɛw",
+        "Wɔde ahenkyɛw ahyɛ Nea",
+        "Wadi nkonim kɛse."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nea ɛk'rɔn kyɛn so wɔ s'ro no,",
+        "Yɛ ɔno ara de;",
+        "Ahen' mu Hen', aw'ra mu W'ra,",
+        "ɔne ɔs'ro daa hann."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔn a wɔte s'ro anigye,",
+        "Ne fam hafo nso de;",
+        "Wɔn na Oyi Ne dɔ ky'rɛ wɔn",
+        "Ma wohu Ne din no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔde 'sɛnnua no ho 'niwu",
+        "Ne ho dom no ma wɔn,",
+        "Ma wɔn din a ɛtra hɔ daa",
+        "Ne ɔs'ro anigye."
+      ],
+      "number": 4
+    }
+  ]
+}

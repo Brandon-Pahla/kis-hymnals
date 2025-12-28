@@ -1,0 +1,46 @@
+{
+  "number": 182,
+  "language": "xh",
+  "title": "182 Imitha Yalo Ntsasa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Intsasa entle iya khauleza; Yesu uyeza",
+        "Kuthabatha abantwana bakhe, Abas’ ekhaya."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, sibona imitha yalontsasa Ichitha ubumnyama!",
+        "O, sibona imitha yalontsasa Ivul’ ingcwaba."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ubizo lwevangeli lofika Kubantu bonke,",
+        "Angabi salibal’ u-Myeni, Litsh’ ixilongo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ephahlwa zi-ngelos’ zikhazimla Umgweb’ uyeza",
+        "Ukuthabath’ abakhe abase Ekhayen’ labo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abathandw’ abahlulwa kukufa, Bakubonana;",
+        "Kwa nezo nyembezi zibuhlungu Zothi zisulwe."
+      ],
+      "number": 4
+    }
+  ]
+}

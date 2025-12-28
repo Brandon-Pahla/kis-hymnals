@@ -1,0 +1,37 @@
+{
+  "number": 86,
+  "language": "fr",
+  "title": "C’est en Sion",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "C’est en Sion qu’il règne, le Dieu de l’univers.",
+        "Autour de lui, nous, ses enfants, chantons-le de concert.",
+        "Nos cœurs, nos voix s’unissent pour le glorifier.",
+        "Dans sa maison, tous sont venus l’aimer, le rencontrer."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "C’est en Sion qu’il règne, le Dieu des continents.",
+        "Il a créé les hauts sommets et les grands océans.",
+        "Il est le Dieu unique. À qui le comparer?",
+        "Car sa bonté n’a pas de fin : il veut tous nous sauver."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "C’est en Sion qu’il règne, le temps lui appartient.",
+        "Portons-lui donc en son saint lieu l’honneur qui lui revient.",
+        "Que dans son sanctuaire chacun tombe à genoux.",
+        "Il tient dans sa main nos destins : il est Seigneur de tous."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "number": 155,
+  "language": "fr",
+  "title": "Bénissons Dieu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bénissons Dieu par nos cantiques,",
+        "Exaltons-le d'un même coeur.",
+        "Chantons ses exploits magnifiques,",
+        "Son grand amour, son bras vainqueur."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Louons, chantons",
+        "Louons le grand nom du Seigneur",
+        "Louons, chantons",
+        "Louons notre Dieu rédempteur !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pour nous il a donné sa vie,",
+        "Nous sommes son peuple à jamais,",
+        "Louons donc sa grâce infinie,",
+        "Chantons son amour, ses bienfaits."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ensemble donnons gloire au Père",
+        "Qui des cieux nous a visités,",
+        "Au Sauveur qui sur le Calvaire,",
+        "Par son sang nous a rachetés."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Reçois, ô Dieu, tout notre hommage;",
+        "Reste à jamais notre secours.",
+        "Ton amour dure d'âge en âge;",
+        "Ta bonté subsiste à toujours."
+      ],
+      "number": 5
+    }
+  ]
+}

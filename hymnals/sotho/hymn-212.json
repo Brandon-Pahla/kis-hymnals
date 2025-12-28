@@ -1,0 +1,51 @@
+{
+  "number": 212,
+  "language": "st",
+  "title": "212 Khotso E Monate",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ho kena pelong ea ka. (ea ka)",
+        "Thabo le boikhutso (thabo),",
+        "Ke e bina hape-hape khotso ea Molimo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Khotso neo e tsoang holimo,",
+        "Khotso e makatsang,",
+        "Khotso ea Molimo"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka Jesu khotso e teng (e teng)",
+        "Molato oa ka o lefiloe, (lefiloe)",
+        "Ha ho motheo o sele, oa neo ea lerato."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke tlotlisitse Jesu (Jesu)",
+        "Ke bona khotso pelong (pelong).",
+        "Ho Eena ke thola leruo, neo ea lerato."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ho Jesu ke lutse khotsong(khotsong),",
+        "Ke lutse haufi le Eena (Eena),",
+        "Ke bona khotso feela lerato la Molimo."
+      ],
+      "number": 4
+    }
+  ]
+}

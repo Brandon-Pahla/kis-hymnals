@@ -1,0 +1,32 @@
+{
+  "number": 245,
+  "language": "ny",
+  "title": "245 - Palibe Dzina Lina",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NO OTHER NAME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Dzina lokhalo la Yesu, Ndilo dzina lokoma;",
+        "Likondwetsa ’ngelo m’mwamba, Ndi Akhristu tonsefe.",
+        "CHORUS:",
+        "Dzina, dzina, Palibe longa la Yesu,",
+        "Dzina, dzina, Palibe longa la Yesu.",
+        "2. Dzina lokha ndi la Yesu, Pamene ndibvutika;",
+        "Dzina lokha ndi la Yesu pamene ndikondwera.",
+        "3. Ndikufuna kudzamwona, Podza mu’lemerero,",
+        "Ndidzamve Wacita bwino, Ndidzakondwererako.",
+        "4. Ngat’ afuna ngwire ntchito, M’munda wace wa mpesa,",
+        "Kuli bwino Yesu yekha, ’Dalitse ntchito zanga.",
+        "5. Ngat’afuna kuti ndife, Akhudze thupi langa,",
+        "Kukhale bwino ndi Yesu, Ndikhulupira mwa’ye."
+      ]
+    }
+  ]
+}

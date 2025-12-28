@@ -1,0 +1,20 @@
+{
+  "number": 142,
+  "language": "ts",
+  "title": "142. RI HLAWULEKILE SIKU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOW SWEET UPON THIS SACRED DAY!",
+        "1. Ri Hlawulekile Siku, Ri Tlula Hinkwaswo;",
+        "Ro Ehleketa Xikwembu, Ku Nga Ri Misava.",
+        "2. Hungu Ro Rhula Na Ntsako, Ro Sula Mihloti;",
+        "I Nyiko Ya Muponisi, Ri Yisa Tilweni.",
+        "3. Loko Mina Ndzi Tsandzeka, Ku Sukela Swivi;",
+        "U Tiva Mbilu Ya Mina, Wena Wa Ndzi Pfuna."
+      ],
+      "number": 1
+    }
+  ]
+}

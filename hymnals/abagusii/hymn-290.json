@@ -1,0 +1,35 @@
+{
+  "number": 290,
+  "language": "guz",
+  "title": "290 Yes'Omosani Bw'Abana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yes'Omosani bw'abana,'Be 'Mosani'one;Mbwat 'okoboko mbe naye,Botambe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nyegerie nkine n'obuya,'Matuk'onsi;Aye nkwabet'omwana,Nomanyete."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndae ker'enchera,As'obosae bwane;Ng'ainie nkong'a'as'ekeene kiao."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tontuguta, korend'ay'ob'omosani'one;Ninkoganetie botambeas'obogima."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "number": 572,
+  "language": "tw",
+  "title": "Fa W'ade Tit'riw Ma 'W'ra No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Fa w'ade tit'riw ma 'W'ra no;",
+        "Wo mmabun b'rem' ahoɔden;",
+        "Fa wo kra nnamyɛ fof'to no,",
+        "Kɔ nokware ko no mu.",
+        "Yesu ama yɛn nhwɛso pa,",
+        "Sɛ 'babun kokod'rufo;",
+        "Fa wo ho ma No nokwarem'",
+        "Fa w'ade  tit'riw ma No."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Fa w'ade tit'riw ma 'W'ra no,",
+        "Wo mmabun b'rem' ahoaden;",
+        "Fa nkwagye akode no hyɛ",
+        "Sɔ nokware ko no mu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa w'rade  tit'riw ma 'w'ra no,",
+        "Ma Onni hen' wo komam'",
+        "Ma Onim kan wɔ wo som mu,",
+        "Dan ne nyinaa hyɛ Ne nsa.",
+        "Ma, no wɔbɛma wo nso biɔɔ",
+        "Nyame de Ne dɔ Ba mae;",
+        "Wode nnaase resom no yi,",
+        "Fa w'ade tit'riw ma No."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa w'ade tit'riw ma 'W'ra no,",
+        "B'ribi fof'ro nsɛ Ne dɔ;",
+        "ɔde Ne ho mae gyee wo nkwa,",
+        "Ogyaw Ne s'ro 'nuonyam hɔ,",
+        "De Ne kra too hɔ ɔpɛ mu,",
+        "Gyee wo fii bɔne sɛe mu,",
+        "Fa wo komam' nkamfo ma No,",
+        "Fa w'ade tit'riw ma No."
+      ],
+      "number": 3
+    }
+  ]
+}

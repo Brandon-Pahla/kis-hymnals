@@ -1,0 +1,24 @@
+{
+  "number": 98,
+  "language": "ts",
+  "title": "98. TANA YESU MUPONISI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I MUST HAVE THE SAVIOUR WITH ME",
+        "1. Tana Yesu Muponisi,",
+        "A Ndzi Nge Fambi Ndzexe, A Ndzi N’wi Twe Kusuhani, A Ndzi Anga Mavokwen.",
+        "CHORUS",
+        "A Ndzi Nge Chavi Nchumu, Ndzi Ya La A Rhandzaka; Ndzi Ta Ya Ndzi Nga Vileri, Loko Ndzi N’wi Landzela.",
+        "2. Tana Yesu Muponisi, Hikuva Ndzi Tsanile,",
+        "U Chavelela Hi Rito, Leri Pfuxelelaka.",
+        "3. Tana Yesu Muponisi, Rendzweni Ra Vutomi,",
+        "Miringweni, Ku Tsakeni, Na Kona Tinyimpini.",
+        "4. Tana Yesu Muponisi, U Ta Ndzi Komba Ndlela,",
+        "Ku Fikela Eyordani, Loko Ndzi Pela Nambu."
+      ],
+      "number": 1
+    }
+  ]
+}

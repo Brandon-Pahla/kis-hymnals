@@ -1,0 +1,46 @@
+{
+  "number": 343,
+  "language": "tw",
+  "title": "Mɛto Me Gyefo No Ho Dwom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mɛto me Gyefo no ho dwom,",
+        "N'anwanwa dɔ kɛse no;",
+        "Ohuu amane dua no so,",
+        "Faa mmusu mu de gyee me."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mɛto me Gyefo no ho dwom,",
+        "ɔde Ne mogya tɔɔ me;",
+        "Maa me faf'ri 'sɛnnua no so",
+        "Na minyaa ahofadi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mɛka 'nwanwasɛm no aky'rɛ",
+        "Sɛ me nɔkwagye no nti,",
+        "Ofi dɔ ne mmɔb'rɔhun' mu",
+        "Yɛɛ mpata maa bɔne kwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mɛto me Gyefo no ho dwom,",
+        "Ne soro dɔ kɛse no;",
+        "ɔde me fi wum' aba nkwam'",
+        "Na Wayɛ me Nyame ba."
+      ],
+      "number": 3
+    }
+  ]
+}

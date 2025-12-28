@@ -1,0 +1,54 @@
+{
+  "number": 34,
+  "language": "tn",
+  "title": "34 Fa Kagiso E Le Mo Tseleng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Kagiso E Le Mo Tseleng Ya Me,",
+        "Fa bohutsana bo le teng",
+        "Lefa go nna jang, O nthutile, go re,",
+        "Ke re \"Go sego moeng wa me.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Go sego Mo moeng,",
+        "Go sego, go sego mo moeng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Satane A Ntshwenya, Go Tla Diteko,",
+        "Ke nne le mogopolo o,",
+        "Gore Jeso o nkutlwela botlhoko,",
+        "O ntshololetse madi a ’Gwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka Boleo Ke Tletse Boitumelo:",
+        "Boleo jwa me ka bojotlhe",
+        "Bo kokothetswe mokgorong wa Gagwe;",
+        "Baka Morena moya wa me."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso Akofisa Pono’a Tumelo,",
+        "Le ya go tlos’wa ga maru",
+        "’Naka lo lele Morena’ fologe,",
+        "Le gone go sego mo moeng."
+      ],
+      "number": 4
+    }
+  ]
+}

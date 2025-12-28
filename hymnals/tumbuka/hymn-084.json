@@ -1,0 +1,57 @@
+{
+  "number": 84,
+  "language": "tum",
+  "title": " 84 M'mawoko Ghake",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 84 M'mawoko Ghake",
+        "UNDER HIS WINGS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "M'mapapindo ghake nkhubisama;",
+        "Nanga masuzgo ghandizingizge;",
+        "Nkhumugomezga watindisungenge;",
+        "Wandithaska ndine mwana Wake."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mmapapindo, m'mapapindo;",
+        "Wangandifumyamo njani?",
+        "M'mapapindo ghake ndikaLe",
+        "Inya kwa muyirayira"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "M'mapapindo ndi linga mumasuzgo;",
+        "Ndiko kuli kuvukuka mtima.",
+        "Pala charu chilijeso wovwiri,",
+        "Ndiko nkhusangwa nak'tumbikika."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "M'mapapindo ghake muli chimwemwe",
+        "N'bisame mpaka suzgo limare.",
+        "Wali nane wakundivikirira,",
+        "Inya mwa Yesu nkhupumula swi."
+      ],
+      "number": 4
+    }
+  ]
+}

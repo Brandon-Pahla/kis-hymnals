@@ -1,0 +1,37 @@
+{
+  "number": 293,
+  "language": "xh",
+  "title": "293 Nkqonkqo! Nkqonkqo!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nkqonkqo! Nkqonkqo! Ngubani? Umi, Umi, O, ’Buhle!",
+        "Ngumhambi onesidima, AkaKho onjengaYe.",
+        "Mpefumlo wam, Ngalo mbono",
+        "Akungevul’ emnyango? Akungevul’ emnyango?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkqonkqo! Nkqonkqo! Usekho. Umi, umi, Yinzwana.",
+        "Ucango aluvuleki, Ubobo, kwanaw’ ameva,",
+        "Amahlahla kunye nengca,",
+        "Zivale aph’ emnyango; Zivale aph’ emnyango."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkqonkqo! Nkqonkqo! Usemi? Umi, umi, emhle!",
+        "Isandla esinenxeba Sisankqonkqoza njalo;",
+        "Namehlo akukhangele;",
+        "’Msindisi ulindile; Yini ungavuli nje?"
+      ],
+      "number": 3
+    }
+  ]
+}

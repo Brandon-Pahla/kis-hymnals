@@ -1,0 +1,40 @@
+{
+  "number": 235,
+  "language": "st",
+  "title": "235 Hape Ho Boea Tsatsi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hape ho tla boea tsatsi la phomolo, le halalelitsoe ke Jehova,",
+        "Ha a re laetse mosebetsi, ’me bohle Ba tle ba be le khotso"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A re emisetseng letsatsi le ho, ithuta thato ea hae, re utloe,",
+        "’Me O tla utloa ha re hlahisa lithapelo, Le kopo tsa rona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena oa mafats’e, O mamele, Utloa, Ntsoe la bana ba ’u",
+        "mohaung,",
+        "Lits’episo ts hau li tiile, tlisa ts’epo bahalaleling."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ntata’ ts’epo ea rona holimo, matla, taelo ea hau lia re hula,",
+        "Bophelong ke molisa le thuso, Khalalelo, boholo ke tsa hau."
+      ],
+      "number": 4
+    }
+  ]
+}

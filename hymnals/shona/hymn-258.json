@@ -1,0 +1,34 @@
+{
+  "number": 258,
+  "language": "sn",
+  "title": "258 Kune Rudairo Rumwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kune rudairo rumwe,Handizhinjiba kwete",
+        "Rwuri chishangu chaMwari",
+        "Runoda mabasa chete"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Tenzi regererayi,Mtemo wenyu wasvibiswa;",
+        "Iwo wakachena asi,",
+        "Chitema chausvibisa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sunungura kusachema, Bvisa kusachema m’mwoyo",
+        "Tibatsire kuchengeta",
+        "M’temo wenyu wese Tenzi"
+      ],
+      "number": 3
+    }
+  ]
+}

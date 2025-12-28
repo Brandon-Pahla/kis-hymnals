@@ -1,0 +1,35 @@
+{
+  "number": 220,
+  "language": "ny",
+  "title": "220 - Kwathu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE HOMELAND"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndilakalaka kwathu! Dziko laufulu!",
+        "Kwathu kopanda mdima, Kulibe usiku;",
+        "Ndiri kulira kwathu, Mtima suli bwino;",
+        "Kulibe z owawa kwathu, Ndayandikirako;",
+        "Kulibe zowawa kwathu, Ndayandikirako.",
+        "2. Mbuyanga ali kwathu, Angelo abwino;",
+        "Kulibe chimo kwathu, Mayeso kulibe;",
+        "Nyimbozo za kwathuko Ndiri kuzimvatu",
+        "Ndikaganiza za kwathu Ndilira misozi",
+        "Ndikaganiza za kwathu Ndilira misozi",
+        "3. Anthu okhala kwathu Andikodolane,",
+        "Kopanda zacisoni Kwa okhala mommo;",
+        "Komomadi kwathuko! Kwa mtendere uko!",
+        "Kristu atifitsa kwathu Mwini wotikonda;",
+        "Kristu atifitsa kwathu Mwini wotikonda."
+      ],
+      "number": 2
+    }
+  ]
+}

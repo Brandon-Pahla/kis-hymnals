@@ -1,0 +1,28 @@
+{
+  "number": 58,
+  "language": "luo",
+  "title": "58 Muya Maler Jatendwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Muya Maler, Jatendwa,Ibedo butwa pile;Telnwa mos e wang`yori,Wan jowuoth e piny marach;Ji gimor ka giwinjoDwol mamit kokonigi:\"Jawuoth, dak ibi ira;Lu bang`a, anatelni.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. In Jakonya, Osiepa chutho,Mantie kodwa pile ka;Kik iwewa gi parruok,Ka wabedo e mudho;Ka yembe kudho matek,Chunywa bedo kod luoro;Luongwa, \"Jawuoth, bi ira;Lu bang`a anatelni.\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ka tichwa oserumo,Wagombo yudo yueyo;Onge gi ma waritoMak mana polo kende;Onge gi ma wagenoTo mana remb Jawarwa;Luongwa, \"Jawuoth, lu bang`a,Iniyud yueyo malo.\""
+      ],
+      "number": 3
+    }
+  ]
+}

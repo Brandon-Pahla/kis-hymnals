@@ -1,0 +1,38 @@
+{
+  "number": 72,
+  "language": "xh",
+  "title": "72 Ukugweba Sekuqalile",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sekuqalile ukugweba khona, Azi siya kuma njani",
+        "Xa amazwi nengcinga nezenzo u-Thixo wokhetha?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Siya kuma sithinina? Siya kuma sithinina?",
+        "Siya kuma sifuna yena Oza kusimela thina?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Umsebenzi woqala kwabafayo, Kulandel’ abaphilayo;",
+        "’Ze balahlwe abagwetywayo, Abadela u-Thixo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, sothinina xa ehlolisiswa konke uku khohlisisa!",
+        "Angab’ uya kusisindisa? Kuhle simnxuse namhla."
+      ],
+      "number": 3
+    }
+  ]
+}

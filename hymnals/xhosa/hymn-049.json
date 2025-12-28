@@ -1,0 +1,38 @@
+{
+  "number": 49,
+  "language": "xh",
+  "title": "49 Ingcinga Eyolileyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Inkumbul’ emnandi Iyandifikela,",
+        "Ndikufuphi nekhaya lam Kuna sekuqalen’."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kufuphi kum, kwikhaya lam; Kufuphi kum,",
+        "Namhla, namhla, Kuna sekuqalen’."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kufuphi ku-Bawo, Kuwo lamakhaya;",
+        "Kukufuphi nesihlalo Sobukhosi bakhe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kufuph’ ukuhamba, Ndilahle lomthwalo,",
+        "Nokushiya inkathazo Kuna sekuqalen’."
+      ],
+      "number": 3
+    }
+  ]
+}

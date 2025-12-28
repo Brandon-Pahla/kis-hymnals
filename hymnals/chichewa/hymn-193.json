@@ -1,0 +1,53 @@
+{
+  "number": 193,
+  "language": "ny",
+  "title": "193 - Kodi Ungakhale Moyo Wonga Wacewo?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HIS WAY WITH THEE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kodi ungakhale moyo wonga Wakewo?",
+        "Kumayenda naye m’njira monsemo?",
+        "Ungamlole Iye kunyamula nkhawazo?",
+        "Mlole atsogole ’Ye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mwa mphamvu Yake udzakhalatu,",
+        "Wakumasuka, inde, m’mwazi ’ke.",
+        "Chikondi ’ke chidzaze mtimako,",
+        "Poyenda nawe zidamkonda ’Ye."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ungamlole kuti Iye amasule ’we?",
+        "Kuti umutsate poitana ’Ye?",
+        "Ungamlole kukutchinjiriza Mbuyeyo?",
+        "Mlole atsogole ’Ye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Monga ukapeza malo mu ufumuwo?",
+        "Ungamyese akusamalire ’we?",
+        "Ungagwire ntchito Yake kopambanadi?",
+        "Mlole atsogole ’Ye."
+      ],
+      "number": 4
+    }
+  ]
+}

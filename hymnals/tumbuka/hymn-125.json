@@ -1,0 +1,57 @@
+{
+  "number": 125,
+  "language": "tum",
+  "title": " 125 Pali Zuwa Pa Lupiri",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 125 Pali Zuwa Pa Lupiri",
+        "SUNLIGHT IN THE HEART"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Pali zuwa pa lupiri pali zuwa pa nyanja,",
+        "Ungweru ukuwoneka na pa utheka wuwo.",
+        "Kweni ungweru ukulu uli mu mtima wane,",
+        "Fumu mukukhala mumo mbungweru winu pera."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ungweru, ungweru wa zu wa,",
+        "Ungweru wa mu mtima,",
+        "Yesu wafumye chitima,",
+        "MuLi zuwa mu mtima."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ndati ndireke chitima na vyakuvwala vyane,",
+        "Mndivwalikenge chimwemwe nakundipa 'ne nchindi,",
+        "Ndipo kwithu kwa kutowa uko mwandinozgera,",
+        "Nkhukhumbiska kufikako nditimrondezganinge."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Fumu yane mwandigula umoyo wane ngwinu,",
+        "Nyali ya chitemwa chinu yimgolerani imwe,",
+        "Ndipo kwithu kwa kutowa uko mwandinozgera,",
+        "Nkhukhumbiska kufikako nditimrondezganinge."
+      ],
+      "number": 4
+    }
+  ]
+}

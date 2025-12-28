@@ -1,0 +1,45 @@
+{
+  "number": 284,
+  "language": "sn",
+  "title": "284 Mazuva Opfuura",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kune mwoyo asurukirwa, mazuva opfuura",
+        "Kane mwoyo yakaneta, mazuva opfuura",
+        "Kana tichingafara, tiri murwendo rwedu",
+        "Tiite zvakanaka, mazuva opfuura"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Opfu’ra, opfu’ra, opfu’ra, opfu’ra",
+        "Tiite zvakanaka, mazuva opfu’ra"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hakuchina kutukana, mazuva opfuura",
+        "Reg’ usu hwako hwupenye, mazuva opfuura",
+        "Pasi rineurombo, rizere nekuchema",
+        "Simudza vaputsika, mazuva opfuura"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mapfundo ese erudo, mazuva opfuura",
+        "Toasiya mumasure, mazuva opfuura",
+        "Mbeu’dzo tinodya, Dzinovamba kukura",
+        "Dzojekesa mumwoyo, mazuva opfuura"
+      ],
+      "number": 4
+    }
+  ]
+}

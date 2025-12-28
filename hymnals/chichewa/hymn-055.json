@@ -1,0 +1,63 @@
+{
+  "number": 55,
+  "language": "ny",
+  "title": "55 - Kodi Mwalandira Yesu?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HAVE YOU BEEN TO JESUS?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kodi mwalandira Yesu Mbuyeyo?",
+        "Kodi mwasamba mmwazi wake?",
+        "Mwakhulupirira mwa chisomo ’ke?",
+        "Kodi mwasamba mmwazi wake?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kodi mwasambamo,",
+        "Mmwazi wabwino wa Yesuyo?",
+        "Kodi mwayeretsa mtima wanuwo?",
+        "Kodi mwasamba mmwazi wake?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kodi mukuyenda ndi Ambuyeyo?",
+        "Kodi mwasamba mmwazi wake?",
+        "Mwapumula mwa Wopachikidwayo?",
+        "Kodi mwasamba mmwazi wake?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kodi mwakonzeka pa kubwera ’Ye?",
+        "Kodi mwasamba mmwazi wake?",
+        "Kuti mukalowe m’malo abwino,",
+        "Kodi mwasamba mmwazi wake?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tayanitu zakunyansa zanuzo,",
+        "Kodi mwasamba mmwazi wake?",
+        "Wakuchotsa tchimo lanu lonselo,",
+        "Kodi mwasamba mmwazi wake?"
+      ],
+      "number": 5
+    }
+  ]
+}

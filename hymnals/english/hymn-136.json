@@ -1,0 +1,46 @@
+{
+  "number": 136,
+  "language": "en",
+  "title": "136 I Remember Calvary.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Where He may lead me I will go,",
+        "For I have learned to trust Him so,",
+        "And I remember ‘twas for me,",
+        "That He was slain on Calvary."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesus shall lead me night and day,",
+        "Jesus shall lead me all the way",
+        "He is the truest friend to me,",
+        "For I remember Calvary."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O I delight in His command,",
+        "Love to be led by His dear hand,",
+        "His divine will is sweet to me,",
+        "Hallowed by blood-stained Calvary."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Onward I go, nor doubt, nor fear,",
+        "Happy with Christ, my Saviour dear,",
+        "Trusting that I some day shall see,",
+        "Jesus my Friend, of Calvary."
+      ],
+      "number": 3
+    }
+  ]
+}

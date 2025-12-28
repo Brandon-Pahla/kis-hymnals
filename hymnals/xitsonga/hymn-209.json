@@ -1,0 +1,22 @@
+{
+  "number": 209,
+  "language": "ts",
+  "title": "209. FAMBA NA MINA XIKWEMBU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O FOR A CLOSER WALK",
+        "1. Famba Na Xikwembu, U Tele Ku Rhula;",
+        "Ndzi Voningele Ndleleni, Ya Nyimpfana Yesu.",
+        "2. Moya Wo Kwetsima Tana, Ndzi Venga Swidyoho;",
+        "Susa Swidyoho Ka Mina, Moya Wo Kwetsima.",
+        "3. Mina Ndzi Vile Na Ntsako, Ndza Ha Wu Hleketa;",
+        "Ndhawu Yaku A Xi Kona, Xi Nga Yi Pfalaka.",
+        "4. Susa Swikwembu Swa Mina, U Nga Siyi Nchumu;",
+        "Ndzi Tshinete Xiluvelwen, Ndzi Dzunisa Wena."
+      ],
+      "number": 1
+    }
+  ]
+}

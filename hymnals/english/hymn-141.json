@@ -1,0 +1,48 @@
+{
+  "number": 141,
+  "language": "en",
+  "title": "141 Wholly Thine.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I would be, dear Saviour, wholly Thine;",
+        "Teach me how, teach me how;",
+        "I would do thy will, O Lord, not mine,",
+        "Help me, help me now."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wholly thine, ……. Wholly thine,",
+        "(O Lord) (O Lord)",
+        "Wholly thine this is my vow,",
+        "Wholly thine, ……. Wholly thine,",
+        "(O Lord) (O Lord)",
+        "Wholly thine O Lord just now."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "What is worldly pleasure, wealth or fame,",
+        "Without thee, without thee?",
+        "I will leave them all for thy dear name,",
+        "This my wealth shall be."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "As I cast earth’s transient joys behind,",
+        "Come thou near, come thou near;",
+        "In thy presence all in all I find,",
+        "‘Tis my comfort here."
+      ],
+      "number": 3
+    }
+  ]
+}

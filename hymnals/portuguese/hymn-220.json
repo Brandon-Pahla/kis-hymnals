@@ -1,0 +1,58 @@
+{
+  "number": 220,
+  "language": "pt",
+  "title": "É Prazer Servir a Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### É Prazer Servir a Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "É prazer servir a Cristo",
+        "Nesta vida terreal;",
+        "Enche a vida de louvores,",
+        "De alegria divinal!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Há prazer na vida por Jesus,",
+        "E afasta o coração do mal.",
+        "Cada instante é prazer",
+        "Sob a mão do Seu poder;",
+        "No viver com Cristo",
+        "Há prazer real."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "É prazer servir a Cristo,",
+        "Sobrepuja toda dor,",
+        "Pois maiores sofrimentos",
+        "Suportou o Salvador."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "É prazer servir a Cristo,",
+        "Alegria perenal,",
+        "Pois expulsa as trevas d'alma",
+        "Com a luz celestial."
+      ],
+      "number": 5
+    }
+  ]
+}

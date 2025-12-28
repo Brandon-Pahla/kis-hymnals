@@ -1,0 +1,58 @@
+{
+  "number": 325,
+  "language": "tum",
+  "title": " 325 Pakuromba Ise Pano",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 325 Pakuromba Ise Pano",
+        "While We Pray"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Pakuromba ise pano pakuchema pa Fumu,",
+        "Pakujisanda mu mtima iza kwa Fumu yako."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Za sono, za sono kwa Yesu Fumu yako,",
+        "Za sono, 'za sono Iza kwa Yesu sono."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ndiwe wakwananga nadi wazgewera kutali,",
+        "Ukuchedwerachi kwiza pakulindizga Yesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "M'charu ichi pasi pano ntha tiusange kanthu,",
+        "Kakukukwaniska m'mtima iza kwa Fumu yako."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Jivumbule vyose vyako vyabisika mu mtima,",
+        "Wati wakutozge iwe m'ndopa zake Mponoski."
+      ],
+      "number": 5
+    }
+  ]
+}

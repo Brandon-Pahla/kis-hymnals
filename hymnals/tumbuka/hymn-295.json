@@ -1,0 +1,57 @@
+{
+  "number": 295,
+  "language": "tum",
+  "title": " 295 Lizgani Mbata Mrwani Wafika",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 295 Lizgani Mbata Mrwani Wafika",
+        "C.H. 499 SOUND THE BATTLE CRY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Lizgani mbata mrwani wafika.",
+        "Kwezgani zina la Fumu",
+        "M'ware zikhore M'thaze na kwimba.",
+        "Mwike mtima pa mazgu ghake."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wukani mwe wankhondo wa Khristu.",
+        "Pizganinge mazgu gha Fumu.",
+        "Rutaninge na kwimba \"Hosana.",
+        "Khristu ndiyo mrongozgi withu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Tikumanenge na mrwani withu.",
+        "Tikhwime nadi m'mitima.",
+        "Titore mahomwa gha Chiuta.",
+        "Nakurwera wanangwa withu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Chiuta withu mutipulike.",
+        "M'uchizi winu m'tovwire.",
+        "Para nkhondo yamara tatonda.",
+        "Tikavware mphumphu ya moyo."
+      ],
+      "number": 4
+    }
+  ]
+}

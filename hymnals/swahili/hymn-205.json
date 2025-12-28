@@ -1,0 +1,31 @@
+{
+  "number": 205,
+  "language": "sw",
+  "title": "205 Msifu Mungu Ee Watoto",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Msifu Mungu, ee watoto wote, yu pendo, Yu pendo,",
+        "Msifu, Msifu, ee watoto wote Mungu ni upendo."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Tunampenda, ee watoto wote, yu pendo, Yu pendo,",
+        "Tunampenda, ee watoto wote Mungu ni upendo."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Tumikeni, ee watoto wote. yu pendo, Yu pendo,",
+        "Tumikeni, ee watoto wote Mungu ni upendo."
+      ]
+    }
+  ]
+}

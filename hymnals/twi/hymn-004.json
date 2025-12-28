@@ -1,0 +1,55 @@
+{
+  "number": 4,
+  "language": "tw",
+  "title": "Me Kra Yi Soro Hen' Ayɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me kra yi soro Hen' ayɛ,",
+        "Fa wo tow no bra N'anim;",
+        "Wapɔn wo, de wo ho akyɛ w'",
+        "Ͻnsɛ sɛ wuyi N'ayɛ?",
+        "Yi No ayɛ, yi No ayɛ!",
+        "Yi daa Hene no ayɛ!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yi N'ayɛ, ɔkyerɛɛ Ne dom,",
+        "Agyanom ahohia mu;",
+        "Yi n'ayɛ na ɔnsakra da;",
+        "ɔtea nyaa, ɔyɛ ntɛm hy'ra:",
+        "Yi No ayɛ, yi No ayɛ!",
+        "ɔyɛ 'nuonyamfo ampa!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔhwɛ yɛn so sɛ agya pa,",
+        "Onim yɛn mm'rɛwyɛ nyinaa;",
+        "ɔsoa yɛn Ne basa so brɛoo,",
+        "Gye yɛn fi y'atamfo nsam:",
+        "Yi no ayɛ, yi No ayɛ!",
+        "Sɛnea Ne dom sian ba no!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abɔfo mmoa yɛn N'ayeyi m'",
+        "Mo na muhu n'anim daa;",
+        "'Wia ne'sram, monkoto N'anim,",
+        "Nea 'Indeɔ ny'naa yi N'ayɛ:",
+        "Yi No ayɛ, yi No ayɛ!",
+        "Yi Nyame domfo N'ayɛ!"
+      ],
+      "number": 4
+    }
+  ]
+}

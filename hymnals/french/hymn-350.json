@@ -1,0 +1,55 @@
+{
+  "number": 350,
+  "language": "fr",
+  "title": "Jugement, jour...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jugement, jour de merveilles,",
+        "La terre entière est avertie;",
+        "La trompette à nos oreilles",
+        "Dit le retour de Jésus-Christ :",
+        "Elle sonne, elle sonne,",
+        "Seul le rebelle est surpris."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Voici le Seigneur en gloire :",
+        "Jésus descend vers nous des cieux;",
+        "C'est en lui qu'est la victoire,",
+        "Nous reconnaissons notre Dieu.",
+        "Ô bon Sauveur, ô bon Sauveur,",
+        "Pour nous miséricordieux."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "À sa voix, à sa lumière,",
+        "Les morts retrouvent leur vigueur;",
+        "La nature toute entière",
+        "Frémit devant son Créateur.",
+        "Devant Jésus, devant Jésus,",
+        "Tous les hommes sont pécheurs."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Et pourtant à tous les êtres",
+        "Qui auront voulu ici-bas",
+        "Aimer et servir leur maître,",
+        "Dans sa bonté, Jésus dira :",
+        "Je vous donne la couronne,",
+        "Venez, entrez dans ma joie."
+      ],
+      "number": 4
+    }
+  ]
+}

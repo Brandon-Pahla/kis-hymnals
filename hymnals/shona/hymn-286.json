@@ -1,0 +1,39 @@
+{
+  "number": 286,
+  "language": "sn",
+  "title": "286 O Nditakure",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndoona rini’ko musi, Apo vaponeswa Vaswika Zioni",
+        "Musha werufaro kwazvo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O nditakure, nditakure, kuZioni",
+        "O chinditakura kuguta’ro revatsvene"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O ndichanzva Hariruya, Rwoimbwa nechita",
+        "Nerufaro chichaimba, Rwiyo rwenunuro"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Onayi mbiri yosvika, Iyo m’fambi anoda",
+        "Inonyaradza vachemi, Rufaro rwosvika"
+      ],
+      "number": 4
+    }
+  ]
+}

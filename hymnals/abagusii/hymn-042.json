@@ -1,0 +1,42 @@
+{
+  "number": 42,
+  "language": "guz",
+  "title": "42 'Gwancha Tikogokwaneka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bwanchani Yes'anyanchete,Agankwer'omosalaba;Erio nyaberwe ebibe,Tibogokwaneka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bwanchani mbogokwaneka(Gokwaneka),Bwanachani mbogokwaneka(Gokwaneka);Bwanchani Yes'anyanchete,Tibogokwaneka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Boror' obong'anyorete,Gatwekw'engata y'amagwa;Erio mbe moyo botambe,Tibogokwaneka."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Morembe mbwate as'Are,Ansororera Nyasae;Bobui as'amanying'aye,Tibogokwaneka."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mogoko mbwate Kar'ang'e,Ko ndaire tindi kwoboa;Gosemeria mbwate as'are,Tikogokwaneka."
+      ],
+      "number": 5
+    }
+  ]
+}

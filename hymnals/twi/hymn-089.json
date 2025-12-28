@@ -1,0 +1,43 @@
+{
+  "number": 89,
+  "language": "tw",
+  "title": "Ma Wɔn a Wɔte Wiase Ny'naa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ma wɔn a wɔte wiase ny'naa",
+        "Nto Yehowa Tumfo 'yeyi,",
+        "Nhyira Ne din kronkron;",
+        "Ma nkurɔfo nhu N'anuonyam,",
+        "Kyerɛ aman N'anwanwade,",
+        "Ka Ne nkwagye dom no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔyɛɛ asase ne ewim,",
+        "ɔyɛɛ wim 'bɔde a ɛhy'rɛn",
+        "Odi hen' 'nuonyam mu:",
+        "Ne nhyerɛmma di mu ma hann;",
+        "Sɛnea ɔhy'rɛn ahoɔfɛ mu",
+        "Na N'atrae yɛ fɛ fɛ!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bra, anuonyam da kɛse no,",
+        "B'rč a 'sase bɛte Ne gye nka",
+        "Na 'man ny'naa sųro Ne din;",
+        "Ͻno na nnipa mma bɛpaem",
+        "Aka N'ahokeka kronkron",
+        "Ne Ne nkwagye dom no."
+      ],
+      "number": 3
+    }
+  ]
+}

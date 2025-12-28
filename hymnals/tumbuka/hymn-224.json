@@ -1,0 +1,51 @@
+{
+  "number": 224,
+  "language": "tum",
+  "title": " 224 Nyali Zinu Zigolere",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 224 Nyali Zinu Zigolere",
+        "CH 628 LET THE LOWER LIGHTS BE BURNING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Lusungu lwa Fumu yithu kufumira kuchanya,",
+        "Kwa ise watisungiska nyali zakugolera."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain:",
+        "NyaLL zinu zigoLere ziLongorenge nthowa,",
+        "Kwa wakusuzgika m'nyanja kuti waponoskeke."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Kwananga kwazura m'charu mayigha ghakalipa,",
+        "Wamsuzgo wakulindizga nyali zakurongozga."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Gozga nyali yako m'bali yunji wakusuzgika,",
+        "Kuti wafike k'ungweru kufumamo mu chisI."
+      ],
+      "number": 5
+    }
+  ]
+}

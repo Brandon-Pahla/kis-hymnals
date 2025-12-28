@@ -1,0 +1,58 @@
+{
+  "number": 263,
+  "language": "st",
+  "title": "263 Tlisang Tsa Boshome",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Utloang lentsoe la bibele kamehla, \\\"Tlisang tsa boshome",
+        "polokelong\\\",",
+        "Etsang boinehelo bo-sa-feleng, Le ts’epe lits’episo tsa Hae."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tlisang tsa boshome polokelong, Le nteke \\\"Ho bua Jehova.\\\"",
+        "Ke tla le hlohonolofatsa, Ka tekanyo e fetisang tsohle."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le batla tsebo ea moe’ o Halalelang? \\\"Tlisang tsa boshome",
+        "polokelong.\\\"",
+        "’Me le tla phela le Oona setsoalleng, O tla le fa hlohonolo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le arohanngoa ke eng le Morena? \\\" Tlisang tsa boshome",
+        "polokelong.\\\"Li tliseng joalokaha li ts’episitsoe. O tla le neha moputso."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phahamisetsang Morena lipelo,\\\"Tlisang tsa boshome",
+        "polokelong.\\\"",
+        "Le bokeng ka bots’epehi le ka limpho. Pelong tseo le li ruileng."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phahamisetsang poko maholimong, \\\"Tlisang tsa boshome",
+        "polokelong\\\"",
+        "Re bineng Alleluya thabong, Monateng hobane re na le ts’epo"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "number": 108,
+  "language": "ny",
+  "title": "108 - Mbusa Wabwino, Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LOVINGLY, TENDERLY CALLING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mbusa wabwino, Yesu, Ati idzanitu,",
+        "M’khola mulowe nonse, Malo alipodi.",
+        "’Dzani akulu inu, Ndi anyamatanso,",
+        "’Dzani, mulowe m’khola, M’njira ya choonadi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Akuitana mwa nsisi zake,",
+        "Wakusochera ’we, idza kwa ’Ne;",
+        "Mbusa wabwino aima mwa phee!",
+        "Kukulindiratu ’we."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mbusa wabwino, Yesu, Anakufera ’we;",
+        "Aitanabe lero, Akusochera ’nu.",
+        "Kuli zoopsya kunja, Idza, atero ’Ye;",
+        "’Dzani, mulowe m’khola, Malo opuma du."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Inu msachedwe konse, Kuli mimbuluyo,",
+        "Ili kufuna nkhosa Kuti iziphetu.",
+        "Mbusa wabwino, Yesu, Akuitanabe,",
+        "’Dzani, mulowe m’khola, Malo alipomu."
+      ],
+      "number": 4
+    }
+  ]
+}

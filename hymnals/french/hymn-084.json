@@ -1,0 +1,47 @@
+{
+  "number": 84,
+  "language": "fr",
+  "title": "Chrétiens, mes frères, sonnez",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Chrétiens, mes frères, sonnez le clairon !",
+        "Oui, c’est Jésus qui revient !",
+        "Et que la foule chante à l’unisson :",
+        "Oui, c’est Jésus qui revient !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Oui, il revient !",
+        "Oui, il revient !",
+        "C’est le Seigneur qui revient !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Monts et vallées, criez le bien haut :",
+        "Oui, c’est Jésus qui revient !",
+        "Il vient en gloire, le Vainqueur, l’Agneau!",
+        "Oui, c’est Jésus qui revient !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fleuves et déserts, clamez tout autour :",
+        "Oui, c’est Jésus qui revient !",
+        "Vents et tempêtes, annoncez le jour :",
+        "Oui, c’est Jésus qui revient !"
+      ],
+      "number": 4
+    }
+  ]
+}

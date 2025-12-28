@@ -1,0 +1,57 @@
+{
+  "number": 181,
+  "language": "tum",
+  "title": " 181 Nyengo Yakwiza Ntha Timanye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 181 Nyengo Yakwiza Ntha Timanye",
+        "C.H. 542 WAITING AND WATCHING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nyengo yakwiza Fumu ntha tikumanya,",
+        "Vimanyikwiro vikuphara wakwiza,",
+        "Kuti wizengeso n'phangano liweme,",
+        "Nyengo ntha timanye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wizenge (wizenge) tinozgeke, tiLinde,",
+        "Wizenge (wizenge)HaLeLuya! HaLeLuya!",
+        "Wizenge m'mabingu muchindami wa wiske;",
+        "Nyengo ntha timanye."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Kuli chiponosko kwa wakuchipenja,",
+        "Unenesko uli m'mazgu gha Chiuta,",
+        "Uchimi wose ukulongola suzgo,",
+        "Nyengo ntha timanye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Titirombenge nyali zikugolera,",
+        "Tirindizgenge yisuke Fumu yize,",
+        "Titiyimbenge kumanya suzgo mnthazi,",
+        "Nyengo ntha timanye."
+      ],
+      "number": 4
+    }
+  ]
+}

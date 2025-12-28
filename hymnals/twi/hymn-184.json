@@ -1,0 +1,56 @@
+{
+  "number": 184,
+  "language": "tw",
+  "title": "Yesu Tuaa Ne Ny'naa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Metee Gyefo nne sɛ:",
+        "'W'ahoɔden sua ampa;",
+        "Mmɔb'rɔni, wɛn bɔ mpae,",
+        "Fa Me yɛ W'ade ny'naa'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu tuaa ne ny'naa,",
+        "Ne ny'naa fi Ne nsam;",
+        "Bɔne guu me ho fi yie,",
+        "ɔhoh'roo no fitaa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, afei na mahu",
+        "Sɛ Wo tumi nkutoo",
+        "Na etum' sa kwata,",
+        "Na ɛnan' bo koma."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Papa bi nni me mų a",
+        "Mede bɛgye Wo dom;",
+        "Mɛh'ro me ntade ny'naa",
+        "Guammaa no mogya mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Midu 'henguan' anim,",
+        "Gyina N'anim hɔ a,",
+        "Mede m'akyɛde ny'naa",
+        "Begu Ne nan ase."
+      ],
+      "number": 4
+    }
+  ]
+}

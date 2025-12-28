@@ -1,0 +1,53 @@
+{
+  "number": 144,
+  "language": "ny",
+  "title": "144 - Ndipitabe Mtsogolomo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HIGHER GROUND"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndipitabe mtsogolomo,",
+        "Ndikwera nthawi zonsezo;",
+        "Ndipempha Inu, Mbuyanga,",
+        "Mndikweze ’ne Pamwambapo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mndikwezetu ndiime ’ne,",
+        "Pamwamba nsiku zonsezo;",
+        "Pamene sin’nafikepo,",
+        "Mndikweze ’ne pamwambapo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Sin’funatu kukhalabe",
+        "Kumene kuli nkhawazo;",
+        "Ngakhale ena ’khaleko,",
+        "Mndikweze ’ne pamwambapo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndikhalebe pamwambapo,",
+        "Ngakhale ndiyesedwa ’ne;",
+        "Ndikhulupira kutitu,",
+        "Mndikweza ’ne pamwambapo."
+      ],
+      "number": 4
+    }
+  ]
+}

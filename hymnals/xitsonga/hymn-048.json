@@ -1,0 +1,22 @@
+{
+  "number": 48,
+  "language": "ts",
+  "title": "48. EMAKUN’WINI HI TA TSAKA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O THERE’LL BE JOY",
+        "1. Emakun’wini Hi Ta Tsaka, Vatshoveri Va Ta Fika;",
+        "Nimadyambu Ni Tshovelo, Kona Eyerusalem",
+        "CHORUS",
+        "Ntsa…ko Ku Ta Va Ni Ntsako, Ntsa…ko Lowu Nga Heriki; Vatshoveri Va Ta Tsaka, Va Hlangana Ekaya.",
+        "2. Hi Ta Yimba Tona Tinsimu, Hi Timbilu Ta Ku Tsaka;",
+        "Hi Bonga Yesu Muferi, Kona Eyerusalem",
+        "3. Ku Tsaka Ku Hi Rindzerile, Emutini Wa Wo Nsuku;",
+        "Mutini Wo Hlawuleka, Wona Wa Yerusalem"
+      ],
+      "number": 1
+    }
+  ]
+}

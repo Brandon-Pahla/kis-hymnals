@@ -1,0 +1,47 @@
+{
+  "number": 195,
+  "language": "nd",
+  "title": "195 O, Yeka Umlilo Lowo!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yafuna lowo mlilo,",
+        "Wabangcwele basendulo;",
+        "Wabaqondis’ ezulwini,",
+        "Benesibind’ engozini."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U phi Nkosi lowo Moya",
+        "Ophawul’ uAbrahama;",
+        "Owathambis’ uPaule,",
+        "Wazuz’ amandla ezulu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amandl’ abe kuElijah,",
+        "A saphela yini namhla?;",
+        "A khazimlis’ uMosisi,",
+        "uJobe wabekezela.,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi, khumbula endulo,",
+        "Pind’ u thele umsa wAkho;",
+        "Nxa si zibhekise kuWe,",
+        "Thel’ uMoya wAkh’ oNgcwele."
+      ],
+      "number": 4
+    }
+  ]
+}

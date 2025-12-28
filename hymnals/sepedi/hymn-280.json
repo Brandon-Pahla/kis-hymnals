@@ -1,0 +1,67 @@
+{
+  "number": 280,
+  "language": "nso",
+  "title": " 280 KOŠA TŠA LETHABO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 280 KOŠA TŠA LETHABO",
+        "CS 256",
+        "OUR KING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Koša tša lethabo,",
+        "Letšatšing le lebotse,",
+        "Re tlo reta M'phološi,",
+        "Bophelo le tsela,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Re opela tumišo",
+        "Tša Kgoši (ya rena),",
+        "Re opela kgalalelo",
+        "'a Kgoši,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O ratile le bana,",
+        "Ge a sa le lefaseng,",
+        "Le kua legodimong o",
+        "Sa rata re 'a tseba,"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re rata tumišo tša",
+        "'Gwe, Le go kwa ditaba,",
+        "Tša ge'a le Galelia,",
+        "Ya bogologolo,"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M'phološi wa mahlatse,",
+        "Re khunama mokhwi,",
+        "Re tlo go kgopela thušo,",
+        "Go phelela Wena;"
+      ],
+      "number": 6
+    }
+  ]
+}

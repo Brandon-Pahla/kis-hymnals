@@ -1,0 +1,37 @@
+{
+  "number": 287,
+  "language": "nd",
+  "title": "287 Ngesikhathi Sokulingwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nges’khathi sok’ lingwa;",
+        "Baba ng’ph’amandla; Funa ngikuphike, ngidede kuWe",
+        "Nxa ngithengezela ng’bambe ngesandla",
+        "Ngothando lwAkho ungavumi ngiwe"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngokuzitika ngingadonswa yizwe",
+        "Ububi busa yekile ukung’ bamba",
+        "Ngothando lwAkho Baba mangi gcinwe",
+        "Kuchithwe izitha kanye nolaka"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uma kuvela kuWe inhlupheko",
+        "Noma buhlungu bung’phath’ emhlabeni",
+        "Vuma ngisibone isandla sAkho",
+        "Ngencike kuWe ekuhluphekeni. Amen"
+      ],
+      "number": 3
+    }
+  ]
+}

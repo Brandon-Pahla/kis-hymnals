@@ -1,0 +1,60 @@
+{
+  "number": 92,
+  "language": "tum",
+  "title": " 92 Zuwa Lakupumula",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 92 Zuwa Lakupumula",
+        "O DAY OF REST AND GLADNESS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Zuwa lakupumula,",
+        "zuwa la chimwemwe,",
+        "Likuchimbizga wofi,",
+        "na mawyewye ghose,",
+        "Walala na waniche,",
+        "timujikamire,",
+        "Timwimbire mutuwa,",
+        "kwa myirayira swi!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Sabata ndi luwigho,",
+        "lwa wose mvisuzgo,",
+        "Mronga wa maji ghara,",
+        "maji gha umoyo,",
+        "Ndicho chisimi chawo,",
+        "wose wana nyota,",
+        "Ndi lupiri lutali,",
+        "tiwone kusirya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Zuwa lachikumbusko",
+        "lapika ku wanthu,",
+        "LUwa lakukumbuka,",
+        "vyakuchanya kura,",
+        "pokere vya wezi,",
+        "pazuwa lituwa,",
+        "ampumulaso kura,",
+        "pakufika Fumu."
+      ],
+      "number": 4
+    }
+  ]
+}

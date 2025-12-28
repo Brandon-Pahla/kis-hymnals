@@ -1,0 +1,46 @@
+{
+  "number": 150,
+  "language": "st",
+  "title": "150 Ba Kae Bakotuli?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ba kae bakotuli ba kotulang, mangata a molemo masimong",
+        "Nkang sekele tsa ’nete le sebetse le se tlohe teng ho eso phuthoe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ba kae bakotuli?ho tla tla mang ho neoa khalalelo le bona,",
+        "Ke mang ea tla thusa ho bokella ngata tse tsoang masimong a sebe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsoelang mapatlelong le a batle mabele a ka ba teng maholeng,",
+        "Batlang litseleng se feteng letho, bokellang tsohle hae holimo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Masimo a butsoa hole-hole, lefats’e le emetse kotulo;",
+        "Bakotuli ba sieo empa he, mosebetsi oona o moholo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tlang ka sekele bana ba batho, ’me le bokelle tlhaku tsa gauda;",
+        "Sebetsang mong-a-teng A be A tle thabang le eena kotulong ea Hae."
+      ],
+      "number": 4
+    }
+  ]
+}

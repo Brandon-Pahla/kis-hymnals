@@ -1,0 +1,46 @@
+{
+  "number": 15,
+  "language": "st",
+  "title": "15 Jesu Oa Nthata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu oa nthata e ’na, ho rialo mangolo,",
+        "Ba ba’nyane ke ba Hae, ba fokola, O matla."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "E Jes’oa nthata, E Jes’oa nthata,",
+        "E Jes’oa nthata, ke joetsoa lengolong."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu oa nthata O nchoetse, khoro e butsoe holimo;",
+        "’Me O tla ntlhatsoa libe, ke lumelloe ho kena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu oa nthata, haholo, le ha ke le masoabing;",
+        "O tsoa troneng holimo, ho mpona mo ke leng teng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E Jesu O oa nthata, O tla tsamaea le ’na;",
+        "Le ’na ha ke Mo rata, O tla nkisa holimo."
+      ],
+      "number": 4
+    }
+  ]
+}

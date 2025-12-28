@@ -1,0 +1,55 @@
+{
+  "number": 128,
+  "language": "sn",
+  "title": "128 Yakakomborerwa Nguwa Yemunamato",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nguwa yekunamata mwoyo uno pfawa",
+        "Touya kuna Jesu M’ponesi wedu",
+        "Nekutenda touya, Kuchishangu chedu",
+        "Orapa wakaneta, Zvakanaka kuwayo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mukunamata Tinokomborerwa",
+        "Orapa wakaneta Zvakanaka kuwayo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nguwa yekunamata, Tenzi oswedera",
+        "Ane tsitsi kunzwa vana vachichema",
+        "Zvese tinozviisa pamakumbo ake",
+        "Orapa wakaneta, Zvakanaka kuwayo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nguwa yekunamata, apo vano yedzwa",
+        "Toisa kuna Tenzi anobatsira",
+        "Nemwoyo wekunzwira obvisa zvinetso",
+        "Orapa wakaneta, Zvakanaka kuwayo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Panguwa yem’namato Tinomusimbira",
+        "Zwikomborero zwese tinozwiwana;",
+        "Mukusimbira iye hakuna dambudzo",
+        "Orapa wakaneta, Zvakanaka kuwayo."
+      ],
+      "number": 5
+    }
+  ]
+}

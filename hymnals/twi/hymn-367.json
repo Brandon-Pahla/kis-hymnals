@@ -1,0 +1,46 @@
+{
+  "number": 367,
+  "language": "tw",
+  "title": "Gye Wɔn a Wɔrey'ra",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Gye wɔn a wɔrey'ra, Hwɛ wɔn' a wɔr'wu,",
+        "Fa 'yamhyehye hwim wɔn fi bɔn' ne wum';",
+        "Su ma akwantofo: Ma wɔn so fi fam",
+        "Ka Yesu, ɔgyefo, ho nsɛm ky'rɛ wɔn."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Gye wɔn a wɔrey'ra,",
+        "Hwɛ wɔn a wɔrewu,",
+        "Yesu yɛ mmɔb'rɔhun',",
+        "Yesu gye nkwa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔmfa No nyɛ hwee de, Nso ɔwɛn ara;",
+        "ɔretwɛn ahonufo agye wɔn;",
+        "Frɛ wɔn anib're so, Ka  wɔn brɛbrɛ bra;",
+        "Sɛ wɔgye di nkō a ɔde bef'ri wɔn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gye wɔn a wɔrey'ra, Ͻyɛ w'asede,",
+        "Awurade bɛma wo ahoɔden;",
+        "San kɔ kwan teaa no so, Gye wɔn boasetɔm",
+        "Ka 'Gyenkwa wu ky'rɛ wɔn a wɔafom kwan."
+      ],
+      "number": 3
+    }
+  ]
+}

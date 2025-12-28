@@ -1,0 +1,49 @@
+{
+  "number": 281,
+  "language": "tw",
+  "title": "Mede Me Nkwa Maa Wo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mede Me nkwa maa wo,",
+        "Hwiee mogya dehye gui,",
+        "Sɛ wɔmfa nnye wo nkwa",
+        "Nnyan wo mfi owu mu.",
+        "Mede Me nkwa too hɔ maa wo;",
+        "Dɛn na wode ama Me?",
+        "Mede Me nkwa too hɔ maa wo;",
+        "Dɛn na wode ama Me?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M'Agya fie a ɛhy'rɛn,",
+        "M'anuonyam 'hengua no,",
+        "Migyaw bɛfaa ha sum",
+        "Nantebrɛ ne 'w'rɛhowm'",
+        "Ampa, Migyaw ne ny'naa maa Wo;",
+        "Dɛn na woagyaw ama me?",
+        "Ampa, Migyaw ne ny'naa maa Wo;",
+        "Dɛn na woagyaw ama me?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mihuu 'mane maa wo,",
+        "Nea ano ntumi nky'rɛ",
+        "Yaw a enni kabea",
+        "De gyeew' fii asaman",
+        "Ampa, Mesoaa ne ny'naa maa wo;",
+        "Dɛn na woasoa ama me?",
+        "Ampa, Mesoaa ne ny'naa maa wo;",
+        "Dɛn na woasoa ama me?"
+      ],
+      "number": 3
+    }
+  ]
+}

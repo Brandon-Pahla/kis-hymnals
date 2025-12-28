@@ -1,0 +1,35 @@
+{
+  "number": 252,
+  "language": "guz",
+  "title": "252 Rituko Rinene Ngochicha Rire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Rituko rinene,Ngochicha rire,'Go rikonagosuka gocha;Abachenu n'abanyabibembaatananwe,Nore ang' ase rituk'erio?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nore ang'e, Nore ang'e,Nore ang'e rituko ri'ekina?Nore ang'e, Nore ang'e,'Se rituk'erio?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ituko rikomesa,Ngochicha rire,'Go rikonagosuka gocha;'Borabu bwaye bocher'-abanchet'Omonene,Nore ang' ase rituk'erio?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ituko ri'omoichano,Ngochicha rire,'Go rikonagosuka gocha;'Ker'ababe baraigwe\"Genda timbamanyeti\",Nore ang' ase rituk'erio?"
+      ],
+      "number": 4
+    }
+  ]
+}

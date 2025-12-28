@@ -1,0 +1,34 @@
+{
+  "number": 184,
+  "language": "tn",
+  "title": "184 Boipelo Morena Oe Tla",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Boipelo Morena O E Tla; Tsholang Kgosi’a Lona;",
+        "Pelo tsotlhe di mmakanyetse bonno, Popo di opele,",
+        "Popo di opele, Popo di opele, Popo, popo di opele."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Boipelo Morena ’Busa; Batho Ba Opele;",
+        "Masimo, metse, majwe, mabala A bolela tumo,",
+        "A bolela tumo, A bolela tumo, A bo-a bolela tumo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Tloga A Busa Fatshing, Batho Batla Supa",
+        "Kgalalelo, tshiamo ya’Gwe, Kgakgamatso’a rato,",
+        "Kgakgamatso’a rato, Kgakgamatso ya lorato."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 579,
+  "language": "en-sdah",
+  "title": "579 ‘Tis Love That Makes Us Happy",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tis love that makes us happy,'Tis love that smooths the way; It helps us mind, it makes us kind To others every day."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain : God is love; we're His little children. God is love, we would be like Him. 'Tis love that makes us happy, 'Tis love that smooths the way; It helps us mind, it makes us kind To others every day."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. This world is full of sorrow, Of sickness, death, and sin; With loving heart we'll do our part, And try some soul to win."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. And when this life is over, And we are called above Our song shall be, eternally, Of Jesus and His love."
+      ],
+      "number": 4
+    }
+  ]
+}

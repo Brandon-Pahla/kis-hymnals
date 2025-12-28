@@ -1,0 +1,47 @@
+{
+  "number": 123,
+  "language": "ny",
+  "title": "123 - Dzina Lopambana Mmwamba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOLIEST NAME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Dzina lopambana m’mwamba, Ndi pa dziko lonselo,",
+        "Lomwe ’Tate anamutcha Mwana wake mmodziyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dzina loyeratu (loyera), Dzina lofatsanso (lofatsa),",
+        "Lomwe nalinena angelowo.",
+        "Pa usiku uja (dzinalo), Dzina lokomatu (dzinalo),",
+        "Ndilo la Ambuye Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Dzinalo lipatsa dalo, Ndi chimwemwe mtimanga,",
+        "Ndidzauza anthu ena Za chokoma chakecho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Moyo wanga udzayimba Za chikondi chakecho;",
+        "Ndidzatamandabe dzina, Lopambana onsewo."
+      ],
+      "number": 4
+    }
+  ]
+}

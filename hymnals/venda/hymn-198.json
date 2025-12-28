@@ -1,0 +1,58 @@
+{
+  "number": 198,
+  "language": "ve",
+  "title": "198. Khonani Vhukuma Ndi Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Khonani vhukuma ndi Yesu, U tshi delwa nga dzi-khakhathi,",
+        "U u fhumudza mbilu a u nekedza Maanda,",
+        "Khonani yavhudi ndi Yesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Khonani ndi Ene Yesu, Khonani ndi Ene Yesu.",
+        "U ri thusa ri sa we, U a pfa ri tshi vhidza.",
+        "O! Yesu ndi Ene khonani."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi wana khonani kha Yesu, Nda diselwa zwi mphumudzaho.",
+        "Ndi do di farelela a thi nga ofhi vhuvhi,vKhonani yavhudi ndi Yesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Naho matungu a tshi swika, Na magabelo a Yorodani,",
+        "A thi nga ofhi tshithu Mutshidzi a tshee hone,",
+        "Khonani yavhudi ndi Yesu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nga duvha ri tshi ya hayani, Na vhakhethwa vho ri siaho.",
+        "Ri do imba dzingosha, U ya nga hu sa fheli.",
+        "Khonani yavhudi ndi Yesu."
+      ],
+      "number": 5
+    }
+  ]
+}

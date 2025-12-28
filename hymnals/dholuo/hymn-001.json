@@ -1,0 +1,28 @@
+{
+  "number": 1,
+  "language": "luo",
+  "title": "1 Nyasachwa Man Malo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nyasachwa man malo,Wuon teko dutoOnge teko moromak tekone adier;Onge ng`ato moromiporo go Nyasaye.En Ruoth ruodhi, beNyasach nyiseche."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Hera mar Nyasachwa,Hera adieriEn nooro Yesunikech noherowa;Ne Yesu othonwamondo kik walal ngang`,To wanaherekak` owinjore."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ng`wono mar Nyasachwa,ng`wono mochwere;Oloso ji duto,okonyogi pile;Kik wacha Nyasachwa,to wamiye duong` chuth,En Wuon ng`wono,gi hera, gi teko."
+      ],
+      "number": 3
+    }
+  ]
+}

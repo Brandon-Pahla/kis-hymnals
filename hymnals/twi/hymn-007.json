@@ -1,0 +1,49 @@
+{
+  "number": 7,
+  "language": "tw",
+  "title": "Aw'rade Di Hen' Sion",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Aw'rade di hen' Sion,",
+        "Ma wiase ny'naa nni dɛw,",
+        "Momfa ahurusi koma",
+        "Mmra Ne dom 'henguá anim;",
+        "Aw'rade di hen' Sion,",
+        "N'ayeyi bɛwoso;",
+        "Ahen' mma bɛkoto N'anim,",
+        "Ná ahen' ahyɛ N' 'nuonyam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aw'rade di hen' Sion,",
+        "Hena ná ɔne No sɛ?",
+        "Wiase abun' ny'naa wɔ Ne nsam',",
+        "Odi po kɛse so;",
+        "Monhyɛ Ne din anuonyam",
+        "Na munhim Ne frankaa;",
+        "Kosi sɛ nsupɔw ny'naa benya",
+        "Ne nkwagye tumi no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aw'rade di hen' Sion,",
+        "Saa mm're yi yɛ Ne de;",
+        "Monhyɛn' N'asɔrefi no mu,",
+        "Na nnwonto nhyɛ hɔ ma;",
+        "N'adehye frankaa n'ase",
+        "Abɔde ny'naa nkoto,",
+        "Momma S'ro ne 'sase Hen' so",
+        "Nhyɛ N'ade ny'naa so Hen'"
+      ],
+      "number": 3
+    }
+  ]
+}

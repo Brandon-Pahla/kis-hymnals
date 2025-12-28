@@ -1,0 +1,35 @@
+{
+  "number": 47,
+  "language": "guz",
+  "title": "47 Yeso Omotoria Bethlehemu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yes' Omotoria Bethlehemu,'S'obweri bw'ororo n'obosoku;Nakumirie buna antoririe,Agacha kondigia.Agatha kondigia,Agacha kondigiaNakumirie buna antoririe,Agacha kondigia."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yes' Omotoria ase Kalwari,Agaakan' esir' akamboria;Naichanire ng'aki yabete bo,Ere agankweraEre agankwera,Ere agankweraNaichanire ng'aki yabete bo,Ere akandigia."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yes' Omotori' one korwa kare,'Kandigia konare gotayayaAs' obwororo agansorora,Er' akandangeriaEr' akandangeria,Er' akandangeriaAs' obwororo agansorora,Er' akandangeria."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Motori'one nache korw' Igoro,Bun'eira yaye egotebaO nimorore ere kagocha,Gochicha konyoyiaGochicha konyoyia,Gochicha konyoyiaO nimorore ere kagocha,Gochicha konyoyia."
+      ],
+      "number": 4
+    }
+  ]
+}

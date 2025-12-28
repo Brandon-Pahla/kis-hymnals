@@ -1,0 +1,54 @@
+{
+  "number": 144,
+  "language": "ve",
+  "title": "144. Ndila Yanga I Ya Gonya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:625",
+        "AH:317"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndila yanga I ya gonya, misi yothe I ya gonya,",
+        "Ndi rabela nga dakalo, Murena ndi da ha Iwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ntakuse ndi ime Yesu, nga lutendo ndi de na nne,",
+        "U fhirisa zwa u thoma, Murena ndi ya tadulu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. A thi funi u vha afha, hu re na u tima-tima,",
+        "Naho vhanwe vha nga dzula, nyise shangoni tadulu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi tshidzwe-vho nga tshilidzi, kha zwikwekwe zwa sathane,",
+        "Ndi a tenda nga zwirendo zwa luimbo lwa vhakhethwa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndi tama-vho ngei tadulu, uri ndi vhone vhugala,",
+        "Ndi rabela u vha hone, ntakule Murena wanga."
+      ],
+      "number": 5
+    }
+  ]
+}

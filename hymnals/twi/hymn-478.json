@@ -1,0 +1,49 @@
+{
+  "number": 478,
+  "language": "tw",
+  "title": "Mpaebɔ B're Pā a",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mpaebɔ b're pa, mpaebɔ b're pā a",
+        "Ͻfrɛm' fi wiase dadwen mu,",
+        "Sɛ memfa m'ahiade nyinaa",
+        "Mmra m'Agya 'hengua no anim!",
+        "'W'rɛhow ne basamtu b're mu",
+        "Me kra nya 'hotɔ wɔ Wo mu;",
+        "Miguan' fi sɔhwɛfo no mf'rim",
+        "B'rč a wosan ba, mpaebɔ b're pa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mpaebɔ b're pa, mpaebɔ b're pa,",
+        "Wo ntaban bɛsoa m'adesrɛ,",
+        "Akɔ Nokwafo a Ohy'ra",
+        "ɔkra a ɔretwɛn no nkyɛn;",
+        "B'rč a ɔse me sɛ menhwehwɛ",
+        "N'anim, minnye N'asɛm nni no,",
+        "Mede me haw ny'naa bɛma No,",
+        "Na matwɛn wo, mpaebɔ b're pa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mpaebɔ b're pa, mpaebɔ b're pa!",
+        "Ma miinya w'aw'rɛkyekye no,",
+        "Kosi sɛ mifi Pisga so",
+        "Behu me fie, matu akɔ;",
+        "Mede honam a ɛmp'rɔ da",
+        "Mɛkɔ akɔgye 'katua no;",
+        "B'rč a menam wim no mɛteam sɛ",
+        "\\\"Makra wo, O, mpaebɔ b're pa!\\\""
+      ],
+      "number": 3
+    }
+  ]
+}

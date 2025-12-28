@@ -1,0 +1,35 @@
+{
+  "number": 454,
+  "language": "tw",
+  "title": "So Wunhu Sɛ Yesu Reba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "So wunhu sɛ Yesu reba",
+        "Wɔ soro munumkum mu?",
+        "Abɔfo mpempem ka Ne ho,",
+        "Hwɛ sɛ wɔatwa Ne ho 'hyia!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Merekɔ ahenni nom,",
+        "Wo ne me bɛkɔ 'nuonyam mu?",
+        "Haleluya! Kamfo Aw'rade."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wunhu sɛ hotefo rekɔ?",
+        "Tie sɛ wɔreteam wɔ wim,",
+        "Yesu serew, t'robɛnto bom,",
+        "Wobenya N'anuonyam bi."
+      ],
+      "number": 2
+    }
+  ]
+}

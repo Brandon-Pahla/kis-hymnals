@@ -1,0 +1,55 @@
+{
+  "number": 119,
+  "language": "es",
+  "title": "De su trono, mi Jesús",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### De su trono, mi Jesús"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De su trono, mi Jesús,",
+        "a morir aquí bajó,",
+        "y clavado en la cruz,",
+        "mis pecados él pagó."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Sí, Cristo me ama;",
+        "sí, Cristo me ama;",
+        "sí, Cristo me ama,",
+        "la Biblia dice así."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bien me quiere el Salvador",
+        "que sufrió por mi maldad.",
+        "¡Te bendigo, mi Señor,",
+        "reconozco tu bondad!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Guarda fiel mi corazón",
+        "tú, que velas sobre mí;",
+        "y con toda devoción",
+        "haz que viva yo por ti."
+      ],
+      "number": 5
+    }
+  ]
+}

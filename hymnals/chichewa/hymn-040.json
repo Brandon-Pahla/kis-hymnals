@@ -1,0 +1,38 @@
+{
+  "number": 40,
+  "language": "ny",
+  "title": "40 - Poyenda Ndi Mbuye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TRUST AND OBEY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Poyenda ndi Mbuye, mkuwala kwakeko, Aunikira m’njira mwathu;",
+        "Pakugwira ntchito amakhala nafe, Ndi onse amene amvera.",
+        "CHORUS:",
+        "Khulupira, palibenso njira, Yakukondwa mwa Yesu,",
+        "Komatu kumvera.",
+        "2. Mthunzi sungagwetu, pena mtambo mmwamba, Komatu azipirikitsa;",
+        "Nkhawa ndi chisoni zidzachoka ngati, Tikhulupira ndi kumvera.",
+        "3. Chifukwa cha ntchito ndi zisoni zathu, Adzatilipira mokwana;",
+        "Kopandanso imfa, kapena kukwiya, Tidzadalitsika pomvera."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Sitingadziwetu zachikondi chake, Mpaka titadziperekatu;",
+        "Chifukwa chifundo ndi chimwemwe chake, Amapatsa anthu omvera.",
+        "5. Pompo m’chiyanjano tidzakhala naye, Kapena kuyenda ndi Iye;",
+        "Ndipo tidzachita chifuniro chake, Tidzakhala omvera ndithu."
+      ],
+      "number": 2
+    }
+  ]
+}

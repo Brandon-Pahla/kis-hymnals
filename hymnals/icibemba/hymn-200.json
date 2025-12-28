@@ -1,0 +1,32 @@
+{
+  "number": 200,
+  "language": "bem",
+  "title": "200 - ULI WA MUSHILO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOLY, HOLY, HOLY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Uli wa mushilo, Lesa wa maka!",
+        "Ulucelo celo twakulamwimbila;",
+        "Uli wa mushilo, Wa luse Mfumu!",
+        "Mwine wa fyonse, Uwa pe na pe.",
+        "2. Uli wa mushilo, Pano pa calo;",
+        "Bangeli bawila pa makasa yenu,",
+        "Bonse ba kumulu ba la mupepa;",
+        "Niwe fye weka uwa pe na pe.",
+        "3. Nangu wingafimbwa ne mfifi 'kulu,",
+        "Ne linso lya muntu teti limumone,",
+        "Uli wa mushilo, Umbi takuli;",
+        "Wa luse wa ma-ka, Wa mushilo."
+      ],
+      "number": 2
+    }
+  ]
+}

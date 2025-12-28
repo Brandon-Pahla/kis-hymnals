@@ -1,0 +1,49 @@
+{
+  "number": 51,
+  "language": "fr",
+  "title": "Ma richesse, ma gloire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ma richesse, ma gloire",
+        "Et ma félicité,",
+        "Ô Jésus, c'est de croire",
+        "Que tu m'as racheté.",
+        "Rempli de confiance",
+        "En toi, divin Sauveur,",
+        "Je vis dans l'espérance",
+        "Et je marche sans peur."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rien n'ôte les souillures,",
+        "Rien ne guérit le coeur,",
+        "Sinon les meurtrissures",
+        "Et le sang du Sauveur.",
+        "Oui, Jésus seul nous lave",
+        "De toute iniquité,",
+        "Et procure à l'esclave",
+        "L'heureuse liberté."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! Que toute la terre",
+        "Apporte à ce Sauveur",
+        "Ses péchés, sa misère!",
+        "Il fait grâce au pécheur.",
+        "Son amour insondable",
+        "Lui fit quitter le ciel,",
+        "Pour donner au coupable",
+        "Un salut éternel."
+      ],
+      "number": 3
+    }
+  ]
+}

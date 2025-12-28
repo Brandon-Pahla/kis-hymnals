@@ -1,0 +1,46 @@
+{
+  "number": 7,
+  "language": "en",
+  "title": "7 When He Cometh",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "When he cometh, when he cometh,",
+        "To make up his jewels,",
+        "All his jewels, precious jewels,",
+        "His loved and his own."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Like the stars of the morning,",
+        "His bright crown adorning,",
+        "They shall shine in their beauty,",
+        "Bright gems for his own."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "He will gather, he will gather,",
+        "The gems for his kingdom,",
+        "All the pure ones, all the bright ones,",
+        "His loved and his own."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Little children, little children,",
+        "Who love their redeemer,",
+        "Are the jewels, precious jewels,",
+        "His loved and his own."
+      ],
+      "number": 3
+    }
+  ]
+}

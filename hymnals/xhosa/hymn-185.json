@@ -1,0 +1,47 @@
+{
+  "number": 185,
+  "language": "xh",
+  "title": "185 Ukuba Khona!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sitsho futhi ngelo lizwe Libengezelayo lihle,",
+        "Siluvum’ uzuko lwalo, Kodwa, Hai, ukuba khona!",
+        "Nangendlela zegolide, Iindonga zihonjisiwe,",
+        "Ubumnandi butshatshele, Kodwa, Hai, ukuba khona!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Apho asikho isono, Sikhululw’ elusizini,",
+        "Sikhululw’ ezilingweni, Kodwa, Hayi, ukuba khona!",
+        "Kwanay’ inkonzo yothando, Nezambatho zabangcwele,",
+        "Nebandla lamazibulo, Kodwa, Hai, ukuba khona!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kophela konk’ ukukhala, Xa sivuselw’ ebomini;",
+        "Sobon’ ikhaya elitsha, Elilungiswe yiNkosi.",
+        "Apho kulo mzi ungcwele, Kukho nempepho emnandi,",
+        "Apho akukho lusizi, Akukho kufa khon’ apho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Naphakathi kwaba Yeha, Lungel’ izulu moya wam,",
+        "Kamsinya ndiyakwazi nam, Ndikwazi ukuba khona.",
+        "Siyaphila kulo mazwe, Sinobo buhle bezulu,",
+        "Nabangcwele, nengelosi, NoYesu woba khon’ apho."
+      ],
+      "number": 4
+    }
+  ]
+}

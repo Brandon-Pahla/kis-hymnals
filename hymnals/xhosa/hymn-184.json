@@ -1,0 +1,43 @@
+{
+  "number": 184,
+  "language": "xh",
+  "title": "184 Luvuyo Ehlabathini",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Luvuyo, yofika iNkos’! Iza inguKumkan’",
+        "Mazivulek’ iintliziyo, Imculel’ indalo;",
+        "Imculel’ indalo, Kwanezulu limculele."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Luvuyo, yolaul’ iNkosi! Mabavum’ abantu;",
+        "Ziz’ iinduli nemilambo, Zitsho ngentlokoma,",
+        "Zitsho ngentlokoma, Ziphinde zitsho ngengoma."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Sono asinakulaula, Umhlaba woba mtsha;",
+        "Kophela bonke ububi Sisikeleleke,",
+        "Sisikeleleke, Kuphel’ isiqalekiso."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wohl’ aphathe ngobabalo, Zibone izizwe",
+        "Uzuko nobulungisa, Nenqaba zothando,",
+        "Nenqaba zothando, Nenqaba zothando lwaKhe."
+      ],
+      "number": 4
+    }
+  ]
+}

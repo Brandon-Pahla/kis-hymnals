@@ -1,0 +1,44 @@
+{
+  "number": 288,
+  "language": "xh",
+  "title": "288 Into Yokupha U-Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Beza nezipho kuye Babek’ ezinyawen’;",
+        "Uthando kumsindisi Wabenza ke bamphe;",
+        "Ngesisa nangamazwi, Nokuzis’ abanye,",
+        "Konke uyakubala, Kube kuhle kuye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Uzisile kuYesu isipho esihle,",
+        "Wathi, \"Nats’ intliziyo,\" Wabek’ enyaweni."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwakukho ke umhambi Owayemi mgama,",
+        "Wazibona izipho, Zabalwa zabantle;",
+        "Wayefuna kakhulu ukuza nesipho,",
+        "Kodwa wema kufuphi Engenayo nento."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wakhala wathi, \"Nkosi, Ndiyaz’ unenceba,",
+        "Thabatha konke okwam, Nentliziyo embi.\"",
+        "U-Yesu waphendula Wathi: \"Sipho saKho",
+        "Sihle kunazo zonke, Ezaziswayo kum.\""
+      ],
+      "number": 3
+    }
+  ]
+}

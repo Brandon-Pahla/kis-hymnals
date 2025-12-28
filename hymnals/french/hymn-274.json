@@ -1,0 +1,68 @@
+{
+  "number": 274,
+  "language": "fr",
+  "title": "Longtemps perdu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Longtemps perdu, j’errais Seigneur,",
+        "Je reviens à toi,",
+        "Portant le poids de mon malheur,",
+        "Je reviens, Seigneur."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Je reviens, je reviens,",
+        "Oui, j’entends ta voix.",
+        "Dans tes bras, oh! quel bonheur,",
+        "Je reviens, Seigneur."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mes larmes disent mon chagrin,",
+        "Je reviens à toi,",
+        "Pour tout ce temps sans loi, sans frein,",
+        "Je reviens, Seigneur."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je suis lassé du mal, mon Dieu,",
+        "Je reviens à toi,",
+        "Auprès de toi je suis heureux,",
+        "Je reviens, Seigneur."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu viens briser mon cœur si dur,",
+        "Je reviens à toi,",
+        "Verser ton sang, me rendre pur,",
+        "Je reviens, Seigneur."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mon seul espoir, ma seule envie,",
+        "Je reviens à toi,",
+        "C’est d’être au ciel, dans ma patrie,",
+        "Je reviens, Seigneur."
+      ],
+      "number": 6
+    }
+  ]
+}

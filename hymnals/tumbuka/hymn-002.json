@@ -1,0 +1,68 @@
+{
+  "number": 2,
+  "language": "tum",
+  "title": " 2 Fumu Yithu Yikwizaso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 2 Fumu Yithu Yikwizaso",
+        "THE COMING KING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Fumu yithu yikwizaso,",
+        "Lyo yikafwira ise:",
+        "Kweni watuwa mu mtima,",
+        "Wazamruta nayo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Inya, mwe, pamryango,",
+        "Yesu wali nadi pamryango;",
+        "Wakwizaso (nadi) Wakwizaso (Fumu)",
+        "Inya wali pa mryango."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Vimanyikwiro vyakeso,",
+        "Vikufiskika nadi 'mwe;",
+        "Luwiro tamkumuwona,",
+        "Wakwiza m'mabingu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mungalawiskanga m'charu,",
+        "Kupenja penja mutende;",
+        "Pakwiza kwa Fumu Yesu,",
+        "Yizam'mazga nyifwa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Pakunjira m'charu chipya,",
+        "Tamkhala kwa myirayira;",
+        "Kulje nthenda na nyifwa,",
+        "Kwa mtatakuya swi."
+      ],
+      "number": 5
+    }
+  ]
+}

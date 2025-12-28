@@ -1,0 +1,57 @@
+{
+  "number": 190,
+  "language": "sn",
+  "title": "190 Zita Rino Kosha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tora zita rake Jesu",
+        "Iwe mwana wenhamo",
+        "Rinozokupa zororo",
+        "Tora ufambe naro"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zita ri... nokosha",
+        "Rinotipa rufaro",
+        "Zita ri...nokosha",
+        "Rinotipa rufaro"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tora zita rake Jesu",
+        "Riwe chidziwiriro",
+        "Kana wave muzviyedzo",
+        "Ridane mum’namato"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tora zita rake Jesu,",
+        "Rinofadza mumwoyo",
+        "Apo achitigashira,",
+        "Tichazomuimbira"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tichapfugamira Jesu",
+        "Towa pamberi pake",
+        "Tomupfekedza chirenba",
+        "Tapedza rwendo rwedu"
+      ],
+      "number": 5
+    }
+  ]
+}

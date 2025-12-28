@@ -1,0 +1,42 @@
+{
+  "number": 22,
+  "language": "luo",
+  "title": "22 Kik Ibarna, Yaye Jakonya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kik ibarna, yaye Jakonya,Winji yuak mara;In Kiluongo jo mamagi,Mond` iluonga be."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, Yesu,Winji yuak mara;In Kiluongo jo mamagi,mond` iluonga be."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. An kaparo ng`wono marichunya yudo kuwe;Ka agoni chonga piny ka,Jawarna, Konya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. An ageno nyingi kende,Adwaro neni;Changi chunya moseketho,Wara gi rembi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Miwaso ohewa kodi,To agombi nga`ng;Ere ng`a maromo kodiE piny gi polo?"
+      ],
+      "number": 5
+    }
+  ]
+}

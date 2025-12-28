@@ -1,0 +1,37 @@
+{
+  "number": 287,
+  "language": "tn",
+  "title": "287 Mo Nakong Ya Teko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mo Nakong Ya Teko Rara Nnonotsha;",
+        "Ke se ’Go itatole Ka tswa go Wena.",
+        "Mpona ke reketla, O mpitse sesha,",
+        "O se ntese ka wa Ratong lwa Gago."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka Tse Di Ditsweng ’Fatshe Je Le Ka",
+        "Leka go nkgogela, Go ntira Kotsi;",
+        "Rara ntshegetsa ka Rato lwa Gago;",
+        "Thiba baba ba me Le Kgatlheg’a me."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Tshwaro Ya ’Go E Ka Mpha Tlalelo,",
+        "Kana bofutsana, Mo tseleng ya me:",
+        "Nna’a atla sa Go ke Tshware ka metlha;",
+        "Ke latlhele ’rwalo Wa me go Wena."
+      ],
+      "number": 3
+    }
+  ]
+}

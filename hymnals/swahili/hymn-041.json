@@ -1,0 +1,37 @@
+{
+  "number": 41,
+  "language": "sw",
+  "title": "41 - Roho Mtakatifu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Roho Mtakatifu, kiongozi amini,",
+        "Utushike mkono, tulio wasafiri,",
+        "Utupe kusikia, sauti ya upole,",
+        "“Msafiri fuata, naongoza nyumbani.”"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Wewe ndiwe rafiki, msaada karibu,",
+        "‘Situache shakani, Na tukiwa gizani,",
+        "Utupe kusikia, sauti ya upole,",
+        "“Msafiri fuata, naongoza nyumbani.”"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Siku zetu za kazi, zikiwa zimekwisha,",
+        "Wala hatuna tamaa, ila mbingu na sala,",
+        "Utupe kusikia, sauti ya upole,",
+        "“Msafiri fuata, naongoza nyumbani.”"
+      ]
+    }
+  ]
+}

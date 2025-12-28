@@ -1,0 +1,38 @@
+{
+  "number": 105,
+  "language": "sn",
+  "title": "105 Anokwanisa Kununura",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Angatinunura! Daidzira kwese; Ano vanunura vanonzwa;",
+        "Mumoyo mukuru, wevanyangadzi, Jesu onunura ano uyayo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anotinunura, Anoponesa. Uri hama yangu, Dawira Jesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Angatinunura! Ngezwedi here? Kune Simba here ringanunura",
+        "Ndiudze neidi aka urawa Angandiponesa kuna Satani"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Angakununura shinga usatye, Mushandire Jesu; Anoponesa",
+        "Usatye Satani, Simba na Jesu, Usazopokane shinga umire"
+      ],
+      "number": 4
+    }
+  ]
+}

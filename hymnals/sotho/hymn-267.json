@@ -1,0 +1,54 @@
+{
+  "number": 267,
+  "language": "st",
+  "title": "267 Re Jaleng Peo Tsa Mosa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ha re phutheng lipalesa, Tse tletseng hohle hohle,",
+        "Ha re bolokeng mabele, Re lahleng meutloa, eohle",
+        "Ha re fihleleng phomolo, Lehlohononong la joale,",
+        "Ha re tloseng ka boitelo, Meutloa eohle tseleng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Re jaleng mosa, Khotsong, Re jaleng mosa, Khotsong,",
+        "Re jaleng mosa, khotsong. Re kotula ka mosa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke’ng re sa rateng lipina, tse tsoang linonyaneng?",
+        "Ke’ng ha re sa hlokomele, lipalesa tse ratoang?",
+        "Ha re rateng lehlabula, Ha re sa le ho lona,",
+        "Joalekaha re le mariheng, Nakong ee ea serame."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hoja re tseba le ngoana, eo ea re senyelitseng,",
+        "O na tla tsoha’ timetse, Re se hlole le eena,",
+        "Re hanelang ho bonoa, Re mo sheba masoabing?",
+        "Leha a entse ts’enyo, o lokeloa ke ts’oarelo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha re ’mona a robetse, A qhaqhasela lefung,",
+        "O kile a re bolella, tsa nako e fetileng.",
+        "O kile a re buisa, A re shoela lefung.",
+        "Jalang hle mosa khotsong, Re tla kotula mosa."
+      ],
+      "number": 4
+    }
+  ]
+}

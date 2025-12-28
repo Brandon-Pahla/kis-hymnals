@@ -1,0 +1,47 @@
+{
+  "number": 102,
+  "language": "tw",
+  "title": "Mmepɔ a Atwā Ahyia Yi Na Mema",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mmepɔ a atwā ahyia yi na mema M'ani so ky'rɛ?",
+        "Hefa na me nkwagye befi aba? Efi hefa?",
+        "Me mmoa fi Awurade Nyame nkyɛn,",
+        "Nyame a ɔbɔɔ s'ro ne asase."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔremma wo nan nwat'ri ara da, Wubedi yie.",
+        "ɔrentɔ nko na ɔrenná ara da, Nea ɔhwɛw' no.",
+        "Hwɛ yɛn Awurade Nyame no nko,",
+        "Nea ɔhwɛ Israel wɔ kronkronyɛm' no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yehowa n'ara ne wo Hwɛfo no, Wo nwini no;",
+        "Yehowa ankasa ne wo banbɔ, Wo nifa so;",
+        "Owia renhye wo awiabere mu,",
+        "Na ɔsram nso renhye wo anadwo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Obeyi wo kra 'fi mmusu biaram', Bɔne biaram';",
+        "Yehowa bɛhwɛ w'adifi nyinaa, New' fi ba so.",
+        "Nea yɛdo No no, ɔbɛhwɛ wo so,",
+        "ɔbɛkora wo so de kosi daa."
+      ],
+      "number": 4
+    }
+  ]
+}

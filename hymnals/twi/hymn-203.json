@@ -1,0 +1,52 @@
+{
+  "number": 203,
+  "language": "tw",
+  "title": "Yi Ne Nokwar' Mmiɛnsá a",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yi Ne Nokwar' Mmiɛnsá a"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yi ne nokwar' mmiɛnsá a",
+        "Yɛn gyidi gyina so;",
+        "Saa 'nigyesɛm yi ne",
+        "Som mfiase ne awiei."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kristo wui!",
+        "Kristo sɔree!",
+        "Kristo bɛba bio!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Yi na ɛma yɛn so,",
+        "B're a w'rɛhow woso",
+        "Yɛn Kristom ahoɔden,",
+        "Na aka ɔdom nko."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Yi ne nokwar' mmiɛnsá a",
+        "Sɛ yɛsɔ mu den a,",
+        "Ͻbɛsesa wiase,",
+        "De yɛn akod'ru fie."
+      ],
+      "number": 4
+    }
+  ]
+}

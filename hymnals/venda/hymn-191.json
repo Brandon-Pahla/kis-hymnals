@@ -1,0 +1,46 @@
+{
+  "number": 191,
+  "language": "ve",
+  "title": "191. Fulufhelo likhethwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:462",
+        "AH:260"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu wanga u fulufhelo na vhugala ha ngei tadulu",
+        "Ndi mulaifa wa u tshidzwa, Ndo bebiwa nga Muya wawe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Luimbo lwanga thendo yanga, Ndi do renda Mutshidzi wanga",
+        "Luimbo lwanga thendo yanga, Ndi do renda Mutshidzi wanga"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi ya nekedza tshothe nne, Ndi na mahono a ntakadzaho",
+        "Vharunwa vha da na tshilidzi, Vha tshi ntsunbedza na lufuno."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi nekedza dzaweloni, Ndi takalele Mutshidzi wanga",
+        "Ndi lavhelese ngei tadulu, Ndo dadzwa nga lufuno lwawe."
+      ],
+      "number": 4
+    }
+  ]
+}

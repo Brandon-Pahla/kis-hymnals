@@ -1,0 +1,89 @@
+{
+  "number": 764,
+  "language": "tw",
+  "title": "NG14 Sɔ Me Mu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "M’Ayenkwa pa Yesu,",
+        "Kae me m’akwantu yim’,",
+        "Menni ‘wirεkyekyefo bi",
+        "Sε Wo nko b’re a menam yi’",
+        "Ɔbra kwan yi so de,",
+        "Me nko mentumi mfa so (sɔ me mu)"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "M’Ayenkwa pa Yesu,",
+        "Kae me m’akwantu yim’,",
+        "Menni ‘wirεkyekyefo bi",
+        "Sε Wo nko b’re a menam yi’",
+        "Ɔbra kwan yi so de,",
+        "Me nko mentumi mfa so (sɔ me mu)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mεhwε m’anim ara,",
+        "Mεkɔ m’anim tee;",
+        "Nea mesrε Wo ne sε,",
+        "Ma menn’ru ‘kwantu yi awiei,",
+        "Anka mεda W’ase",
+        "Akamfo Wo din kronkron."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Menim, Woka me ho,",
+        "Me bo rentu da;",
+        "Sε ‘bonsam de haw ny’naa",
+        "Ba me so a me bo rentu da;",
+        "Me mpaebɔ ara ne sε:",
+        "Nyame, ma εnsi me yie."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M’aw’rεkyekye Nyame, Me Hann ne me Nkwagye;",
+        "Mesrε Wo Agya pa,",
+        "Hyerεn di m’anim kyerε me kwan,",
+        "Nea menam biara no,",
+        "Mesrε, Agya, di m’anim kan."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Atamfo ani hwε,",
+        "As’refo repε as’re;",
+        "Fεwdifo nso retwεn,",
+        "Nanso menim sε wɔbεfεre;",
+        "‘Fisε menim sε me",
+        "Dimafo Nyame te ase daa."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sε m’akwantu yi",
+        "Bεsi me yie a,",
+        "Sε mede nkonimdi",
+        "Bεkɔ fie a ne nyinaa firi Wo;",
+        "Ao me Nkwagye Nyame",
+        "Kae me ma εnsi me yie"
+      ],
+      "number": 6
+    }
+  ]
+}

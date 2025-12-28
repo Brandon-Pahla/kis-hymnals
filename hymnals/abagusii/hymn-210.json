@@ -1,0 +1,35 @@
+{
+  "number": 210,
+  "language": "guz",
+  "title": "210 Aye Nobe Buna Yeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Aye nobe buna Yeso Omochenu pi?Notare n'Ere nchera enyerere?Aye nomoe chigurube chiao chionsi?Ancha agotang'ane."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chinguru chiaye nchibe as'ore,Amanyinga aye nagosibie;Obwanchani Bwaye nobonyore,Ng'a mbuya, bwanche akorae bo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nabwanche agosibore omotunyane?Nomanyete omoremb' okonyora?Nabwanche agokony' erio tocha gosira?Ancha agotang'ane."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nonyore obomenyo as' obonda Bwaye?Nabwanche komanya chinguru Chiaye?Botambe nokor' emeremo ne chinguru?Ancha agotang'ane."
+      ],
+      "number": 4
+    }
+  ]
+}

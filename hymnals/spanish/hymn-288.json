@@ -1,0 +1,65 @@
+{
+  "number": 288,
+  "language": "es",
+  "title": "Al contemplarte, mi Salvador",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Al contemplarte, mi Salvador"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Al contemplarte, mi Salvador,",
+        "y al meditar en tu gran amor,",
+        "veo en mi vida mucho pecar.",
+        "Tómala, Cristo, quiero triunfar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Cubre mi vida, Cristo Jesús.",
+        "Blanca cual nieve la hace tu luz.",
+        "Tuya es mi vida, soy pecador,",
+        "pero en tu nombre soy vencedor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hondas heridas de transgresión",
+        "manchan mi vida sin tu perdón.",
+        "Cúbreme, Cristo, mora en mí,",
+        "vive tu vida, vívela en mí."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dame la dicha de tu perdón,",
+        "dame tu manto de salvación;",
+        "Cristo, lo acepto, dejo el pecar,",
+        "dame las fuerzas para triunfar."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Reconciliado por tu morir,",
+        "justificado por tu vivir,",
+        "santificado por tu poder,",
+        "glorificado al verte volver."
+      ],
+      "number": 6
+    }
+  ]
+}

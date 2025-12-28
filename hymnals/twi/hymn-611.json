@@ -1,0 +1,47 @@
+{
+  "number": 611,
+  "language": "tw",
+  "title": "Me Kra, Nyan, Bɔ Mmɔden Biara",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me kra, nyan bɔ mmɔden biara,",
+        "Kɔ w'anim hoɔden so'",
+        "S'ro mm'rikatu hia mmɔdenbɔ",
+        "Ne 'henkyɛw a ɛnsɛe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻyɛ Nyame nne a nkwa wom'",
+        "Na efi s'ro frɛ wo;",
+        "Ne nsa na ɛde 'katua no",
+        "Ky'rɛ 'nidaso 'niwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Adansefo mununkum no",
+        "Ani tua nea woyɛ;",
+        "Ma wo w'rɛ mfi 'nammɔn dedaw,",
+        "Na kɔ w'anim ara."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Agyenkwa pa, Woadi yɛn kan",
+        "Yɛn mm'rika no mfiase;",
+        "Yɛde yɛn nkonimdi bo no",
+        "Begu Wo nan ase."
+      ],
+      "number": 4
+    }
+  ]
+}

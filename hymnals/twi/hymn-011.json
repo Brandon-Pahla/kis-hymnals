@@ -1,0 +1,49 @@
+{
+  "number": 11,
+  "language": "tw",
+  "title": "Kamfō Abraham Nyame",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kamfō Abraham Nyame,",
+        "Nea Odi hen' s'ro no;",
+        "ɔyɛ Tetekwaframoa",
+        "ne ɔdo Nyame;",
+        "Yehowa! Meara no!",
+        "ɔs'ro ne 'sase ntie;",
+        "Mekoto hy'ra din kronkron no,",
+        "Nhy'ra nka No daa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kamfō Abraham Nyame,",
+        "Nea N'ahyɛde mu no,",
+        "Mesɔr' hwehwɛ 'niká a ɛwɔ",
+        "Ne nifa no,",
+        "Enti mepow wiase,",
+        "Nyansa, din ne tumi;",
+        "ɔno ne me kyɛfa,",
+        "me kyɛm, M'abankɛse."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mo nkonim dɔm nyinaa,",
+        "Monna s'ro Nyamč ase;",
+        "Wɔteam daa sɛ: Mo! Agyā,",
+        "ɔba, Honhom Kronkron;",
+        "Mo ne s'ro bom to sɛ:",
+        "Mo! Abraham Nyame,",
+        "Tumi, kɛseyɛ, ne nkamfo",
+        "Yɛ Wo de daa"
+      ],
+      "number": 3
+    }
+  ]
+}

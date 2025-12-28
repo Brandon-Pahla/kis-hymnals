@@ -1,0 +1,21 @@
+{
+  "number": 200,
+  "language": "ts",
+  "title": "200. WA KWETSIMA WENA HOSI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOLY HOLY HOLY",
+        "1. Wa Kwetsima Wena, Hosi Xikwembu,",
+        "Ni Mixo Hi Ku Yimbela Tinsimu, Wa Kwetsima Wena La Nga Na Tintswalo,",
+        "Wa Fuma Hi Masiku Hinkwawo.",
+        "2. Wa Kwetsima, Tintsumi Ta Dzunisa, Ta Khinsama Ti Veka Tiharhi Hansi,",
+        "Madzana Ni Ma Dzana Ma Ku Khongela, Wena La Nga Kona Hi Masiku.",
+        "3. Wa Kwetsima Hambi Exinyamini, Hambi Mahlo Ya Vanhu Ya Nga Ku Voni,",
+        "Ku Hava Un’wanyana, Hi Wena Ntsena, Xikwembu Xa Matimba Hinkwawo."
+      ],
+      "number": 1
+    }
+  ]
+}

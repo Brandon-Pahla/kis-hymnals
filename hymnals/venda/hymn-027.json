@@ -1,0 +1,62 @@
+{
+  "number": 27,
+  "language": "ve",
+  "title": "27 Ri Renda Khotsi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:157"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ri renda Khotsi nga Murwa wawe-vho,",
+        "Nga Yesu we a fela-vho na rine."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Haleluya, Haleluya, Haleluya, Amen.",
+        "Haleluya, Haleluya, Ri vusuluswe"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ri renda Khotsi, nga Muya waWe,",
+        "We a ri vhonisa Mutshidzi washu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Dzithendo dzothe, kha yone Ngwana-vho,",
+        "Ye ya hwala zwivhi zwothe zwa shango."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ri fhembeledzwa nga lufuno lwawe,",
+        "Vhutshilo hashu vhu vusuluswe-vho."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Khuliso yothe na dzithendo dzothe,",
+        "Kha Uyo we a ri rengulula-vho."
+      ],
+      "number": 6
+    }
+  ]
+}

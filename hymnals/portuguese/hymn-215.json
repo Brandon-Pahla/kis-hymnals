@@ -1,0 +1,56 @@
+{
+  "number": 215,
+  "language": "pt",
+  "title": "Remido",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Remido"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Remido, eu vou proclamar,",
+        "Remido por preço real.",
+        "Remido por Cristo na morte,",
+        "Eu tenho a paz eternal."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Remido! Remido",
+        "No sangue do meu Salvador.",
+        "Remido pra sempre por Cristo",
+        "Fui salvo por Seu santo amor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Remido e feliz, com Jesus",
+        "Eu vivo e posso cantar.",
+        "Na luz da presença de Cristo,",
+        "Pra sempre eu vou caminhar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pensando no meu Redentor,",
+        "Pensando, vou sempre orar.",
+        "Vivendo, eu quero servi-Lo,",
+        "E um dia no Céu vou morar."
+      ],
+      "number": 5
+    }
+  ]
+}

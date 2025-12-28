@@ -1,0 +1,66 @@
+{
+  "number": 347,
+  "language": "es",
+  "title": "Con gozo canto al Señor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Con gozo canto al Señor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Con gozo canto al Señor",
+        "desde que salvo soy,",
+        "pues es mi Rey, mi Salvador,",
+        "desde que salvo soy."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Desde que salvo soy,",
+        "desde que salvo soy",
+        "solo en él me gloriaré;",
+        "desde que salvo soy",
+        "en mi Redentor me gloriaré."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yo amo a Dios por su bondad,",
+        "desde que salvo soy,",
+        "y quiero hacer su voluntad,",
+        "desde que salvo soy."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Un gozo tengo que es sin par",
+        "desde que salvo soy;",
+        "a Cristo alabo sin cesar",
+        "desde que salvo soy."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yo tengo hogar, al cual iré,",
+        "desde que salvo soy;",
+        "y allí seguro viviré,",
+        "desde que salvo soy."
+      ],
+      "number": 6
+    }
+  ]
+}

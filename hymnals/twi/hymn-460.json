@@ -1,0 +1,49 @@
+{
+  "number": 460,
+  "language": "tw",
+  "title": "Sɛnea Nsu Dwudwo Sukɔm",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnea nsu dwudwo sukɔm,",
+        "'Niwa hwɛ 'fɛfɛde,",
+        "'Hoɔden di mm'rɛwyɛ akyi",
+        "Nokwar' sė at'ro anan;",
+        "Dwonto ne fefɛ mm're",
+        "Hwɛ huhub're kwan no,",
+        "Sɛ m'Aw'rade Teasefo no",
+        "Te ma me nso ne no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ ap'rep're ano dwo,",
+        "'Somdwoe di yaw akyi,",
+        "Ntetewmdi akyi nhyiamdi,",
+        "'Sutɔ akyi 'wihy'rɛn,",
+        "ɔsram ne ns'romma hann",
+        "Ne po so 'wia hann no,",
+        "Sɛ m'Aw'rade Teasefo no,",
+        "Te ma me nso ne no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ nna di 'hoɔmm'rɛ akyi,",
+        "Sika pa sen dɔte,",
+        "Nnommum akyi 'hofadi,",
+        "Owipuei ma 'dekyee;",
+        "Ofie ma 'kwantuni",
+        "Ne nea ɔtwɛn ny'naa no,",
+        "Sɛ m'Aw'rade Teasefo no,",
+        "Te ma me nso ne no."
+      ],
+      "number": 3
+    }
+  ]
+}

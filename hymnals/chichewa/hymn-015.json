@@ -1,0 +1,30 @@
+{
+  "number": 15,
+  "language": "ny",
+  "title": "15 - Yesu Andikonda ’Ne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "JESUS LOVES ME!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Yesu andikonda ’ne, Amatero m’bukhumo.",
+        "Akafoka mwana ’ke, Amlimbitsa Yesuyo.",
+        "CHORUS:",
+        "Yesu akonda, akonda ine,",
+        "Akonda ine, Atero m’bukhumo.",
+        "2. Nandifera Yesuyo, Nagonjetsa tchimolo,",
+        "Natsegula khomolo, Kuti ndinke kwawoko.",
+        "3. Yesu andikonda ’ne, Nkana ndikudwalatu,",
+        "Mmene ndifookanso, Andisamalira ’ne.",
+        "4. Yesu andikonda ’ne, Ndikamkonda Iyeyo,",
+        "’Dzanditenga inetu, Ndikakhale nayedi."
+      ]
+    }
+  ]
+}

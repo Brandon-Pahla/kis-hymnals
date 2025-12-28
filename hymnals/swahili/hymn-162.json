@@ -1,0 +1,39 @@
+{
+  "number": 162,
+  "language": "sw",
+  "title": "162 - Tumaini Liko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Tumaini liko la thamani kuu,",
+        "Kupita anasa tupu zake ulimwengu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Pana nyota nzuri nuru itoayo,",
+        "Kwetu wakati wa kifo ndio ufufuo."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Zikiumwa roho na hofu mashaka,",
+        "Sauti hutuambia Mungu hutupenda."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Kutoka Kalwari sauti hunena,",
+        "Nyota ni nuru ya mbingu tumaini letu."
+      ]
+    }
+  ]
+}

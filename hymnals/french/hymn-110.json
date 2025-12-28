@@ -1,0 +1,37 @@
+{
+  "number": 110,
+  "language": "fr",
+  "title": "Descends, Esprit",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Descends, Esprit du Dieu vivant,",
+        "Tourne vers nous ta face;",
+        "Demeure en nous, et retrouvons,",
+        "Sur le chemin, ta trace."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Donne-nous des langues de feu,",
+        "L’unité fraternelle,",
+        "Qui ramène les coeurs à Dieu",
+        "Par la bonne nouvelle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De nos ténèbres, fais le jour,",
+        "Du chaos, l'harmonie.",
+        "Chasse la haine par l'amour,",
+        "Et la mort par la vie!"
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "number": 200,
+  "language": "rw",
+  "title": "200 Ur'Uwera Wera",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 200 Ur'Uwera Wera",
+        "**1**",
+        "Ur'Uwera wera, Man'ikomeye!",
+        "Mu gitondo tujye tukuririmbira.",
+        "Nubw'ukomey'ute, Ugir'imbabazi;",
+        "Ingoma yawe ntizahanguka.",
+        "**2**",
+        "Ur'Uwera wera, Abera bose,",
+        "Baguhimbazanya n'abamarayika!",
+        "Ibyaremwe byose bikuramye,",
+        "Mwami, Wahozeho, Kand'uzahoraho.",
+        "**3**",
+        "Ur'Uwera wera, Ubwiza bwawe,",
+        "N'ubwo butarebwa n'inkozi z'ibibi,",
+        "Uhor'ur'Uwera, Nta wundi mwahwana,",
+        "Kugira neza, No gutungana."
+      ],
+      "number": 1
+    }
+  ]
+}

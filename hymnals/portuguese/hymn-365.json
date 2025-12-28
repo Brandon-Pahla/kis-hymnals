@@ -1,0 +1,44 @@
+{
+  "number": 365,
+  "language": "pt",
+  "title": "Vede o Lírio a Florescer",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Vede o Lírio a Florescer"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vede o lírio a florescer, terna e bela flor do prado!",
+        "Quem assim o fez crescer, e por ele tem cuidado?",
+        "Quem assim o adornou, de beleza o dotou,",
+        "Pra viver no lindo prado, sim, no lindo prado?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Deus foi quem o fez crescer, e lhe deu graça e beleza,",
+        "Pra alegrar nosso viver e afastar-nos a tristeza;",
+        "Para a todos ensinar que a Deus devem olhar,",
+        "E confiar em Sua graça, sim, em Sua graça."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eia, pois, meu coração, abandona teus cuidados;",
+        "Deixa teus anseios vãos, Deus é nosso Pai amado.",
+        "Quem os lírios faz crescer, não nos deixa perecer;",
+        "Somos pelo Pai lembrados, sim, do Pai lembrados."
+      ],
+      "number": 4
+    }
+  ]
+}

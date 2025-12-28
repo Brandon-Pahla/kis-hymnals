@@ -1,0 +1,62 @@
+{
+  "number": 77,
+  "language": "ve",
+  "title": "77 Mafhungo A tadulu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:457",
+        "AH:095"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mafungo a tadulu, a a ntakadzesa;",
+        "Na lufuno lwa hone, lune lwa ntakadzesa,",
+        "Luno lu na tshilidzi, luno lu na ngoho,",
+        "Ndi a fushea nne, u fhirisa zwothe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mafhungo a tadulu, zwo naka u a pfa-vho,",
+        "Nga Yesu Mukololo, Ene ndi Mutshidzi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mafhungo a tadulu, ndi a mangadzaho;",
+        "Lufuno lwa hone, lu fhirisa na dzindoro,",
+        "Zwo naka u tevhela, we a tshidza nne,",
+        "Ndi zwine nda di renda, nd i renda kufuno."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Thi fhidzi u imba, mafhungo a difhaho,",
+        "Naho a dovhololwa, a kha di do takadza,",
+        "Zwo naka ri sa shayi, mafhungo madifha,",
+        "Mafhungo a u tshidza, Manwalo Makhethwa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mafhungo a difhaho, a a ntakadza,",
+        "Ndi pfa ndala khulu, ya mafhungo awe Yesu,",
+        "Na ngei makoleni, ndi do imba hone,",
+        "Mafhungo a lufuno, mafhungo a kale."
+      ],
+      "number": 5
+    }
+  ]
+}

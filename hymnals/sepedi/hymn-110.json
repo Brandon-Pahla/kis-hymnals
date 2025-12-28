@@ -1,0 +1,56 @@
+{
+  "number": 110,
+  "language": "nso",
+  "title": " 110 BA ŠEGOFADITŠWE BA DIRAGO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 110 BA ŠEGOFADITŠWE BA DIRAGO",
+        "BLESSED ARE THEY THAT DO"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ekwa mantšu a M'phološi,",
+        "Ke mantšu a bophelo,",
+        "Theetša, O gopole Jeso o rile:",
+        "\"Ba šegofaditšwe ba dirago\","
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Ba šegofaditšwe ba dirago melao,",
+        "Ke ba mašoto, ba masoto,",
+        "Ba šegofaditšwe ba dirago molao,",
+        "Ke ba mašoto, ba mašoto;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke lefela ge re ekwa",
+        "Melao le ditshepišo,",
+        "Ge re sa phethe tšohle tšeo,",
+        "Ba mašoto ba dirago;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bona batlo tšea meetseng,",
+        "Ba lokolotšwe sebeng,",
+        "Ba hlatswitšwe ba tsebjwa,",
+        "Ba je dienywa tša bophelo;"
+      ],
+      "number": 5
+    }
+  ]
+}

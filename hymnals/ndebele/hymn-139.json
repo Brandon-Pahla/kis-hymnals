@@ -1,0 +1,47 @@
+{
+  "number": 139,
+  "language": "nd",
+  "title": "139 Se Ngi Fumene uMhlobo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Se ngi fumene uMhlobo, Wang’ thanda ngi ngamazi;",
+        "Ngadonswa ngalo uthando, Nje wangibopha kuYe;",
+        "Kuyo inhliziyo yami: Les’bopho si qinile.",
+        "Jesu, ngi ngowAkho mina Kuze kube nanini."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se ngi fumene uMhlobo, Wopha wangisindisa;",
+        "Kungasikuphila kodwa, Kepha waz’dela Yena.",
+        "Konke enginako mina Ngi kuphathel’ uMniki;",
+        "Inhliziyo nenhlalo yam’ OkwAkhe naphakade."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se ngi fumene uMhlobo, Onk’ amandla waphiwa;",
+        "Uma engelinda mina Ngendlela yaphezulu;",
+        "Ku yakhanya udumo le: Olungiqinisayo;",
+        "A ngi linde ngi sebenze Phambilii ngophumula."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se ngi fumene uMhlobo, Onomusa nothando;",
+        "U yongiqondisa mina Ngi yofik’ ezulwini;",
+        "Ku wena ongithandayo Ngi yawathol’ amandla",
+        "Si ngahlukaniswa ‘kufa! Qha ngi ngowAkho mina"
+      ],
+      "number": 4
+    }
+  ]
+}

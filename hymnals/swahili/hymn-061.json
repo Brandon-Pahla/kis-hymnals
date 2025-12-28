@@ -1,0 +1,47 @@
+{
+  "number": 61,
+  "language": "sw",
+  "title": "61 - Nimemwona Rafiki",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Nimemwona rafiki, wa thamani kubwa,",
+        "Ananipenda kwa ‘pole, kwa pendo amini,",
+        "Kuishi kutengwa naye, la, huku siwezi,",
+        "Tunakaa pamoja, Bwana nami."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Pengine ninachoka, mimi mdhaifu,",
+        "Ndipo ninamtegemea, alivyoalika,",
+        "Huniongoza njiani, pahali pa nuru,",
+        "Twatembea pamoja Bwana nami."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Namweleza huzuni, mimi mdhaifu,",
+        "Vile vinavyosumbua, vinavyopendeza,",
+        "Huniagiza kutenda, yanayonipasa,",
+        "Twatembea pamoja, Bwana nami."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Ajua natamani, kuwavuta watu,",
+        "Hivyo ananipeleka, kutangaza Neno,",
+        "Nitangaze pendo lake, kwa nini akafa,",
+        "Twahubiri pamoja, Bwana nami."
+      ]
+    }
+  ]
+}

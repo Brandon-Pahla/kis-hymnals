@@ -1,0 +1,22 @@
+{
+  "number": 345,
+  "language": "ny",
+  "title": "345 - Mmene Tipita Kwathu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "DISMISS US, LORD, WITH BLESSING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mmene tipita kwathu, Mbuye, Mutidalitse m’njira zathu;",
+        "Mtisogolere tsiku lonse, Kuti tilowe kumwambako."
+      ],
+      "number": 2
+    }
+  ]
+}

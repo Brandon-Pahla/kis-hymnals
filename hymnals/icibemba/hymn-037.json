@@ -1,0 +1,37 @@
+{
+  "number": 37,
+  "language": "bem",
+  "title": "37 - LESA MFUMU Y ANDI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NEARER, MY GOD TO THEE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Lesa Mfumu yandi kampalame,",
+        "Nangu kulupanda naninikwa;",
+        "Elyo, lwimbo lwandi nkamupalamina",
+        "CHORUS:",
+        "Nkamupalamina Lesa wandi.",
+        "2. Nangu ngo mweni fye naililwa,",
+        "Bushiku bwafita, ine neka;",
+        "Lelo mufiloto nkamupalamina,",
+        "3. Mu nshila ya cine ndefwaisha,",
+        "Fyonse wantumina ifya luse;",
+        "Bangeli bangafwa kumupalamina,",
+        "4. Elyo, nashibuka, nkamutasha,",
+        "Nangu mubulanda nkamutota;",
+        "Elyo mu machusho nkamupalamina",
+        "5. Elyo, Imfwa yapwa nkaya kwesu,",
+        "Munshila ku mulu nkemba cine;",
+        "Ulwimbo lwakale lwakupalamina,"
+      ],
+      "number": 2
+    }
+  ]
+}

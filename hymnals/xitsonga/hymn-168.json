@@ -1,0 +1,22 @@
+{
+  "number": 168,
+  "language": "ts",
+  "title": "168. YESU I MURISI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE LORD IS MY SHEPHERD",
+        "1. Yesu I Murisi, Ndzi Nge Pfumali; Ndzi Xurha Madyelweni Yaku Rhula;",
+        "Ndzi Le Kusuhi Na Mati Yo Rhula; Hambi Ku Karhala Wa Ndzi Wisisa.",
+        "2. Hambi Nkoveni Wa Ndzhuti Wa Rifu, U Muhlayisi, A Ndzi Nga Chavi Nchumu;",
+        "Nhonga Ya Wena Ya Ndzi Sirheleta, Ku Hava Xo Biha, U Le Kusuhi.",
+        "3. Na Le Maxangwini Wa Ndzi Phamela, Ndzheko Wu Khapa Minkateko Yaku;",
+        "U Tote Nhloko Yanga Hi Mafurha, Ncini Xana Ndzi Nga Xi Kombelaka.",
+        "4. Vunene Na Nsovo Swa Xikwembu, Ndzi Le Ndlelen Ku Kondza Ndzi Ku Vona;",
+        "Ndzi Letele, Ndzi Famba Endleleni, Ndzi Kongomise Tikweni Ra Rirhandzu."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "number": 574,
+  "language": "pt",
+  "title": "Deus Está Presente",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Deus Está Presente"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Deus está presente, Vamos adorá-lo",
+        "Com fervor e zelo sem par;",
+        "Sim, humildemente, Em silêncio, honrá-lo:",
+        "Rei dos Céus, da Terra e do mar.",
+        "Vamos, pois, Lhe prestar",
+        "Culto reverente.",
+        "Deus está presente."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "number": 571,
+  "language": "tw",
+  "title": "Dɛn Na 'W'rade Hwehwɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dɛn na 'W'rade hwehwɛ Sɛ afɔrebɔde?",
+        "Afɔrebɔde bɛn Na wode rebrɛ No?",
+        "Wo ne Nyame nnantew Trenee ne 'hobrɛasem'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mansodifo, muntie! So mummu 'tɛntrenee?",
+        "Nyame betie mo frɛ, B'rč a t'rimmɔden kɔ so?",
+        "Mo ne Nyame nnantew Trenee ne 'hobrɛasem."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn bra bɛyɛ dɛn na Adi Nyame mm'ra so?",
+        "Ma Kristo mfa ɔdom Nhyɛ yɛn pɛ no den na",
+        "Yɛne Nyamč anantew Trenee ne 'hobrɛasem."
+      ],
+      "number": 3
+    }
+  ]
+}

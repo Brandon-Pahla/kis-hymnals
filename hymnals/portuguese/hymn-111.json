@@ -1,0 +1,66 @@
+{
+  "number": 111,
+  "language": "pt",
+  "title": "Não Há Amigo Igual a Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Não Há Amigo Igual a Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Não há amigo igual a Cristo!",
+        "Não, nenhum! Não, nenhum!",
+        "Outro não há que minh'alma salve!",
+        "Não, nenhum! Não, nenhum!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Cristo sabe das nossas lutas;",
+        "Té o fim nos irá guiar.",
+        "Não há amigo igual a Cristo!",
+        "Não, nenhum! Não, nenhum!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Não há amigo tão nobre e santo!",
+        "Não, nenhum! Não, nenhum!",
+        "Não há também tão humilde e manso!",
+        "Não, nenhum! Não, nenhum!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Não há momento em que me abandone!",
+        "Não, nenhum! Não, nenhum!",
+        "Não há desgosto que não suavize!",
+        "Não, nenhum! Não, nenhum!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Crente nenhum é desamparado!",
+        "Não, nenhum! Não, nenhum!",
+        "Não há aflito que é rejeitado!",
+        "Não, nenhum! Não, nenhum!"
+      ],
+      "number": 6
+    }
+  ]
+}

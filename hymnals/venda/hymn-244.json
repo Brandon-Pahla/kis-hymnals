@@ -1,0 +1,75 @@
+{
+  "number": 244,
+  "language": "ve",
+  "title": "244. Ida Kha Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. ’da kha Yesu, ’da kha Yesu,",
+        "’da kha Yesu zwino;",
+        "Zwino Ida khae, Ida khae zwino."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. U do tshidzwa, U do tshidzwa,",
+        "U do tshidzwa zwino;",
+        "Zwino U do tshidzwa Ida khae zwino."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. U na Maanda, U na Maanda,",
+        "U na Maanda, zwino.",
+        "Zwino U na Maanda, Ida khae zwino."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mu humbele, Mu humbele, Mu humbele zwino;",
+        "Zwino, Mu humbele, Ida khae zwino."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. O lindela, O lindela, O lindela zwino;",
+        "Zwino, O lindela Ida khae zwino."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "6. Fulufhela, Fulufhela, Fulufhela zwino;",
+        "Zwino, Fulufhela, Ida khae zwino."
+      ],
+      "number": 7
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "7. Fhatutshedzwa, Fhatutshedzwa,",
+        "Fhatutshedzwa zwino;",
+        "Zwino, Fhatutshedzwa, Ida khae zwino."
+      ],
+      "number": 8
+    }
+  ]
+}

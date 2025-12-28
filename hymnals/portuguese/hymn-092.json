@@ -1,0 +1,44 @@
+{
+  "number": 92,
+  "language": "pt",
+  "title": "Eu Te Amo, Meu Mestre",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Eu Te Amo, Meu Mestre"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu Te amo, meu Mestre, meu bom Salvador;",
+        "Năo posso em palavras contar este amor.",
+        "Eu Te amo deveras, pra sempre direi;",
+        "E pelos meus atos o confirmarei."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que grande ventura, que glória, meu Deus,",
+        "Saber que em breve eu vou para os Céus!",
+        "De longe diviso as glórias do além;",
+        "Oh, como eu almejo fruí-las também!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Teu nome eu exalto, ó Rei de Salém,",
+        "Pois sempre Teus filhos nos braços susténs.",
+        "Eu quero louvar-Te, cantar Teu amor.",
+        "Eu Te amo, meu Mestre, meu bom Salvador."
+      ],
+      "number": 4
+    }
+  ]
+}

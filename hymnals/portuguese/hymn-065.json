@@ -1,0 +1,44 @@
+{
+  "number": 65,
+  "language": "pt",
+  "title": "Oh! Fronte Ensangüentada!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Oh! Fronte Ensangüentada!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! fronte ensangüentada, em sofrimento e dor!",
+        "Cruel coroa fere Tua fronte, ó Salvador!",
+        "A turba escarnece de Tua condição,",
+        "E zomba destas dores, ferindo o coração!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sem luz estão Teus olhos; não brilham mais, assim;",
+        "Por que, Senhor, se apagam? Oh! sim, bem sei : por mim!",
+        "Tão grandes sofrimentos os meus pecados vis",
+        "Causaram ao meu Mestre, que o Sol brilhar não quis."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus, meu grande Amigo, morreste em meu lugar!",
+        "Em dor desfaleceste, a fim de me salvar!",
+        "Palavras não expressam a minha gratidão",
+        "Por Tua imensa graça, bendita redenção!"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "number": 216,
+  "language": "ts",
+  "title": "216. A NDZO VA SWANGA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NEVER ALONE",
+        "1. A Ndzo Va Swanga, U Kona Yesu Ka Mina, I Ntsako Wanga, U Kona Ndza Swi Tiva;",
+        "Xivundza E-E, Yena Yesu I Nakulorhi, Yesu Ntiyiso, Wa Minkarhi Hinkwayo.",
+        "CHORUS",
+        "E-E, A Ndzi Swanga, E-E, A Ndzi SWanga;",
+        "A Nge Ndzi Siyi Swanga, Yesu A Nge Ndzi Siyi.",
+        "T&B E-E Mhe A Ndzi Swanga, E-E A Ndzi Swanga;",
+        "A Nge Ndzi Siyi Swanga, Yesu A Nge Ndzi Siyi.",
+        "2. Ndzi Vukarhiwe Hi Yesu A Ndzi Na Ku Wa, Ndzi Korwisiwe Ndzi Tshinela Ku Wiseni; Ku Nga Heriki, Hi Ku Pfuna Hi Yena Yesu,",
+        "Evokweni Rakwe Ndzi Nga Tiseketela.",
+        "3. Ndzi Nge Karhali Ku Rindzela Yena Yesu, Xana Hosi Yi Hlwerisiwa Hi Yini?",
+        "Swa Tsokombela Swi Nga Swi Nga Ka Swi Nga Hlamuseleki, Masungulo Ya Yesu Ma Tele Ntsako."
+      ],
+      "number": 1
+    }
+  ]
+}

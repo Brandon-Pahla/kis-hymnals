@@ -1,0 +1,37 @@
+{
+  "number": 95,
+  "language": "sn",
+  "title": "95 Tachengetwa Viki Rese",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mwari watichengeta muiri viki rese",
+        "Nhasi tiri kutsvaka chikomborero chake",
+        "Sabata rakanaka kupinda rimwe zuva",
+        "Sabata rakanaka kupinda rimwe zuva"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tirikutswaka mutsa ngezita’ro raJesu",
+        "Touya kubatsirwa, bvisa zvitema zvedu",
+        "Tinozorora nhasi kubva basa reviki",
+        "Tinozorora nhasi kubva basa reviki"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndizvo maSabata’o angadaro kunesu",
+        "Tichabatsirwa navo, kunaka muupenyu",
+        "Dakara tichatorwa kuna Jesu kudenga",
+        "Dakara tichatorwa kuna Jesu kudenga"
+      ],
+      "number": 3
+    }
+  ]
+}

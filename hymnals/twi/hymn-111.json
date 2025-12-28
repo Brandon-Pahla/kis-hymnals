@@ -1,0 +1,46 @@
+{
+  "number": 111,
+  "language": "tw",
+  "title": "M'agya Nyankopɔn Yɛ Tumfo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "M'agya Nyankopɔn yɛ Tumfo",
+        "Worentum' nnye ho kyim;",
+        "Nyame a ɔyɛ 'nwanwade,",
+        "Yehu wɔ wim nyinaa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Anwanwa kwan so na ɔyɛɛ s'ro nsoromma,",
+        "Anwanwa kwan so na ɔdee wiase tim hɔ.",
+        "Na ɔgyee me kra nkwa tew me ho no de,",
+        "ɔde 'dɔ ne 'dɔm nwanwa na ɛyɛe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "N'anuonyam no da adi ha,",
+        "Nanso yɛretum' nhu;",
+        "N'anwanwa tumi no nyinaa,",
+        "Ͻbɛfa daa daapem."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ky'rɛw Kronkron no ka Ne tumi",
+        "Ne Ne nyansa ky'rɛ yɛn;",
+        "Nnomaa nketewa ne nhwiren",
+        "Di Ne ho adanse."
+      ],
+      "number": 3
+    }
+  ]
+}

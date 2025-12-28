@@ -1,0 +1,46 @@
+{
+  "number": 213,
+  "language": "tn",
+  "title": "213 Morekolodi Wa Me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Morekolodi Wa Me, O Kopelo Ya Me,",
+        "Mmoloki Monkgomotsi, Ke le mafutsaneng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Morekolodi wa me, Ke opela Wena;",
+        "Ga ke na tsala epe, E e tshwanang le Wena."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Tsholofelo Ya Me, Ka Dingwaga Tsotlhe,",
+        "Fa lefifi le mpipa, Keledi di rotha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Ikanya Mmoloki Tsala Ya Me Ruri,",
+        "Gonne ke ya Go rata Bogolo go tsotlhe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Boitumelo Jwa Me Fatshing Je Ja Sebe,",
+        "O tla nna boitumelo Jwa me legodimong."
+      ],
+      "number": 4
+    }
+  ]
+}

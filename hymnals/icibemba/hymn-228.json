@@ -1,0 +1,35 @@
+{
+  "number": 228,
+  "language": "bem",
+  "title": "228 - MULUMBANYENI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "PRAISE HIM PRAISE HIM"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Lumbanyeni Yesu uwatulubula;",
+        "Mwimbe bonse ukutemwa kwakwe;",
+        "Cindikeni umungeli mukalamba,",
+        "E wamaka natumucindike",
+        "CHORUS:",
+        "Mulumbeni! Lumbuleni ubukulu;",
+        "Mulumbeni! Mu lwimbo no kwanga.",
+        "2. Lumbanyeni Yesu watulubula,",
+        "Fibi fyesu efyo aculile;",
+        "Wene libwe lyesu ilyabupususho,",
+        "Mulumbeni Yesu watanikwe.",
+        "3. Lumbanyeni Yesu uwatulubwile;",
+        "Mwimbileni bonse bakumulu;",
+        "Yesu Mfumu aleteko muyayaya,",
+        "Asamikwe shimapepo Mfumu;"
+      ],
+      "number": 2
+    }
+  ]
+}

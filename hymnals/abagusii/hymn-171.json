@@ -1,0 +1,42 @@
+{
+  "number": 171,
+  "language": "guz",
+  "title": "171 Kwarosir' Aye?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kwarosir' aye na gochandeka?Motebie Yeso, Motebie Yeso;Gwechander' ayakona goeta?Motebie Yeso bweka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Motebie Yeso, Motebie Yeso;N'omosani 'manyire,Tori na Mosani onde bun' Ere,Motebie Yeso bweka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nig'okonakoiyeri' amariga?Motebie Yeso, Motebie Yeso;Nobwate ebibe bia bobisi?Motebie Yeso bweka."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kwoboire emechand' emenge,Motebie Yeso, motebie Yeso;Nig'ogwechandera aya ankio,Motebie Yeso bweka."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nigo kwarengereirie ogokwa?Motebie Yeso, motebie Yeso;Kwaganiri' obogambi bwa Kristo,Motebie Yeso bweka."
+      ],
+      "number": 5
+    }
+  ]
+}

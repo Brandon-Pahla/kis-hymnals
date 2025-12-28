@@ -1,0 +1,47 @@
+{
+  "number": 405,
+  "language": "tw",
+  "title": "Nyamč a Wonhu Wo Nso Wobɛn",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyamč a wonhu Wo nso Wobɛn,",
+        "Yi Wo hō adi seesei;",
+        "B'rč a yɛde dɔ a suro nnim",
+        "Koto W'anuonyam no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma Wo nkurɔfo nokwafo",
+        "Nhu Wo dɔ mu nhy'ra ha;",
+        "Nsuten a ɛsen sare so,",
+        "Mana a efi s'ro."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "W'asɛm ho setieyem' yɛaba",
+        "Rebedi s'ro aduan;",
+        "'W'rade honam ne yɛn aduan,",
+        "Ne mogya ne yɛn nsa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma yɛnyɛ W'asɛm ho setie,",
+        "'Fisɛ yɛwɔW', Nyame;",
+        "Na yɛmfa anigye mfi ha",
+        "ɔs'ro fof'royɛ mu."
+      ],
+      "number": 4
+    }
+  ]
+}

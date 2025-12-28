@@ -1,0 +1,32 @@
+{
+  "number": 293,
+  "language": "bem",
+  "title": "293 - KUNTA, KUNTA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "KNOCKING, KNOCKING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kunta, Kunia niw'ani-? Linda linda cawama,",
+        "Mulendo mweni ni Mfu-mu, Tatwatala tumumo--na",
+        "Wapapa umutima. Bushe teti wisule-?",
+        "Bushe teti wisule.",
+        "2. Kunta, Kunta ep'ali-, Linda. Linda cawama-,",
+        "Lelo cibi naciko-sa Nseku shakosha ici-bi",
+        "Mishimba naifula, Cibi cakakatila-.",
+        "Nacikano kwisuka.",
+        "3. Kunta, Kunta ep'ali-, Linda, Linda cawama-,",
+        "Walashilwe ‘li pa mwi-nshi, Ku mutwe afwele myu--nga",
+        "Menso yalolekesha, Alepembela iwe-,",
+        "Bushe teti wisule."
+      ],
+      "number": 2
+    }
+  ]
+}

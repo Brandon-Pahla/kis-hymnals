@@ -1,0 +1,37 @@
+{
+  "number": 57,
+  "language": "bem",
+  "title": "57 - BONSE BALEUMFWA AMASHIWI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHOSOEVER HEARETH"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bonse baleumfwa amashiwi,",
+        "Tumeni ilandwe mu calo conse,",
+        "Soseni ilandwe kuli bonse,",
+        "\"Iseni bonse mwandi",
+        "CHORUS:",
+        "\"Iseni bonse mwe balubile,\"",
+        "Yesu alefwaya bonse ukwisa;",
+        "Tata watemwika atwita nomba,",
+        "\"Iseni bonse mwandi.\"",
+        "2. Imwe muleisa mwikokola,",
+        "Lesa amupela inshita nomba;",
+        "Yesu Mupusushi ali nshila,",
+        "\"Iseni bonse nomba.\"",
+        "3. Amashiwi aya e yacine,",
+        "Lesa asosele kuli ‘mwe bonse;",
+        "\"Ndefwayo kupelo mweo pe na pe,",
+        "Iseni bonse nomba.\""
+      ],
+      "number": 2
+    }
+  ]
+}

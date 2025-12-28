@@ -1,0 +1,57 @@
+{
+  "number": 372,
+  "language": "tw",
+  "title": "Wɔn Nan Ase Yɛ Fɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔn nan ase yɛ fɛ,",
+        "Wɔn a wogy'na Sion",
+        "Bepɔ so ka nkwagye 'sɛmpa",
+        "Yi asomdwoe ky'rɛ no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnea wɔn nne yɛ dɛ,",
+        "Na nsɛm no nso yɛ dɛ;",
+        "Sion, hwɛ wo Hen' 'Gyenkwa no,",
+        "Odi hen nkonim mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nigye hyɛ y'asom ma",
+        "B'rč a yɛte dɛw nnyigyei",
+        "A nhemfo ne 'diyifo twɛn",
+        "Hwehwɛe nso wɔanhu no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nhyira ne yɛn ani",
+        "A ehu s'ro hann yi;",
+        "'Diyifo ne nhemfo hwehwɛe",
+        "Nso wɔanhu de kɔɔ 'wum."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Awɛmfo ka wɔn nne",
+        "Bom to dwom ɔdɛw mu;",
+        "Yerusalem nso to nnwom ma",
+        "Anweatam di 'h'rusi."
+      ],
+      "number": 5
+    }
+  ]
+}

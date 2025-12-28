@@ -1,0 +1,39 @@
+{
+  "number": 31,
+  "language": "st",
+  "title": "31 Tsatsi La Moea Oa Ka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tsatsi la moea oa ka ’Moloki, Ha ho bosiu ha u le teng;",
+        "Ho se ke hoa ba teng maru, Ho U pata mahlong a ka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke tleloa ke boroko, Mahlo a ka a otsela;",
+        "Mohopolo oa ka fubeng, Sa ’Moloki O tla phomola."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lula le ’na mantsiboeng, Ha ke le mong nke ke ka phela;",
+        "Lula le ’na ka bosiu, Hoba ha ke batle ho shoa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ntlhohonolofatse mesong, Ke tsamaee mo lefats’eng;",
+        "Leratong la Hao ke be ke, Kene hona teng leholimong."
+      ],
+      "number": 4
+    }
+  ]
+}

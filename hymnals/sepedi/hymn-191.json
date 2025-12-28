@@ -1,0 +1,57 @@
+{
+  "number": 191,
+  "language": "nso",
+  "title": " 191 KA NNETE JESO KE WA KA!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 191 KA NNETE JESO KE WA KA!",
+        "AH 250 CH 608",
+        "BLESSED ASSURANCE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso ke wa ka e le ruri,",
+        "Tatso 'e monate ya Godimo,",
+        "Bjale le nna ke mojalefa,",
+        "Ke tšwetšwe ka moya le madi;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Tshwantšhišong ya ka le kopelong,",
+        "Ke reta M'phološi ka mehla,",
+        "Tshwantšhišong ya ka le kopelong,",
+        "Ke reta M'phološi ka mehla,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Boineelo bjo phethagetšeng,",
+        "Le lethabo ka phethagalo,",
+        "Mangeloi a tšwa legodimong,",
+        "Ka kgaugelo le lerato;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Boineelo boikhutšo,",
+        "Ke go M'phološi ke thabile,",
+        "Ke lebeletše legodimong,",
+        "Ke tletše toko le lerato;"
+      ],
+      "number": 5
+    }
+  ]
+}

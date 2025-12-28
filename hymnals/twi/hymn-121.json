@@ -1,0 +1,50 @@
+{
+  "number": 121,
+  "language": "tw",
+  "title": "Monkɔla No Mmepɔ So",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "B’re a nguanhwɛfo",
+        "Rewɛn Wɔn nguankuw ‘nadwo no,",
+        "Hwɛ ɔsoro hɔ nyinaa,",
+        "Hann Kronkron bi hy’rɛn hɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Monkɔka no mmepɔ so",
+        "Nɔkoko so ne baabiara;",
+        "Monkɔka no mmepɔ so",
+        "Wɔawo Yesu Kristo",
+        "B're a nguanhwɛfo rewɛn",
+        "Wɔn nguankuw 'nadwo no,",
+        "Hwɛ ɔsoro hɔ nyinaa,",
+        "Hann Kronkron bi hy'rɛn hɔ."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nguanhwɛfo no ho popoe'",
+        "B're a ɔsoro hɔ",
+        "Abɔfo nnwom no wosoe",
+        "Sɛ wɔawo 'Gyenkwa no!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mmoa adididan bi mu,",
+        "Wɔwoo 'kokoaa Kristo,",
+        "De Nyame nkwagye brɛɛ yɛn",
+        "Bųronya anɔpa no."
+      ],
+      "number": 3
+    }
+  ]
+}

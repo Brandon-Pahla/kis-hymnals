@@ -1,0 +1,28 @@
+{
+  "number": 58,
+  "language": "guz",
+  "title": "58 Omoika Omochenu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Omoika Omochenu,Omorai 'Mwegenwa;Tobwate okoboko,Abator' abatari;Toche as'ore toigwe,Eriogi ri'obwororo,\"'Motari, nchwo ase nde,Ningoikie Igoro.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Naye or'Omosani,'Gokonywa kore ang'e;Tototiga emechando,N'ase omosunt' ime;K'emerind' ekogusa,Chinkoro chikwoboa,Monyerere \"'Motari,Inchuo ningotang'ane.\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Meremo gekoera,Togany'ogotimoka;Totari n' okogania,Tatiga Igoro oka;Titori n'okogania,Manyinga a Yes'oka,Monyerere \"'Motari,Notimoke Igoro.\""
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 113,
+  "language": "ve",
+  "title": "113. Yesu U A Ni Vhidza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:181"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu u a ni vhidza nga vhulenda, U vhidza iwe na nne;",
+        "Vothini la mbilu o di lindela, U sedza iwe na nne."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ida haya, Wo neta Ida haya;",
+        "Yesu u a ni vhidza nga vhulenda,",
+        "U vhidza iwe na nne."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ni lengelani ni Yesu a tshi vhidza, U vhidza iwe na nne;",
+        "Ni lengelani na nyadza tshilidzi, Tshilidzi kha ’we na nne."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tshifhinga na zwikhathi zwi a fhira, zwi fhira iwe na nne;",
+        "Mirunzi i tshi da na lufu lwa da, Lu swika kha ’we na nne."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Humbula fulufhedziso, lufuno, ndi la iwe na nne-vho;",
+        "Naho ro tshinya u do ri hangwela, U ri hangwela rothe."
+      ],
+      "number": 5
+    }
+  ]
+}

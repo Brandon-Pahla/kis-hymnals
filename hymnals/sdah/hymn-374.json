@@ -1,0 +1,35 @@
+{
+  "number": 374,
+  "language": "en-sdah",
+  "title": "374 Jesus, With Thy Church Abide",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Jesus, with Thy church abide; Be her Saviour, Lord, and Guide, While on earth her faith is tried: We beseech Thee, hear us."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. May her voice be ever clear, Warning of a judgment near, Telling of a Saviour dear: We beseech Thee, hear us."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. May she guide the poor and blind, Seek the lost until she find, And the broken-hearted bind: We beseech Thee, hear us."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. May she holy triumphs win Overthrow the hosts of sin, Gather all the nations in: We beseech Thee, hear us."
+      ],
+      "number": 4
+    }
+  ]
+}

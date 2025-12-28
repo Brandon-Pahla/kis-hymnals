@@ -1,0 +1,44 @@
+{
+  "number": 18,
+  "language": "es",
+  "title": "Load al Padre",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Load al Padre"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Load al Padre por su gracia eterna;",
+        "quien tiernamente cuida de sus hijos.",
+        "Ángeles, alabad. Alabadle, cielos.",
+        "Load a Jehová."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Load al Hijo, Salvador amante,",
+        "que compasivo vela por sus hijos.",
+        "Ancianos, jóvenes, padres, niños alabad",
+        "a cristo el Redentor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Load al Santo Espíritu divino,",
+        "que fue enviado para bendecirnos.",
+        "Que tu presencia llene nuestras vidas,",
+        "Santo Consolador."
+      ],
+      "number": 4
+    }
+  ]
+}

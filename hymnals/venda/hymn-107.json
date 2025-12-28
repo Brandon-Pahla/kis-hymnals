@@ -1,0 +1,52 @@
+{
+  "number": 107,
+  "language": "ve",
+  "title": "107. Mmbudze Mafhungo A Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:152",
+        "AH:082"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mmbudze mafhungo a Yesu, nwala mbiluni yanga,",
+        "Mmbudze mafhungo mahulu, a vhudi a sa dihwi;",
+        "Bulani zwe na vharunwa vha imba a tshi bebwa,",
+        "Thendo kha Mudzimu khotsi, na mulalo kha vhathu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mmbudze mafhungo a Yesu, nwala mbiluni yanga,",
+        "Mmbudze mafhungo mahulu, avhudi a sa dihwi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. O didzima E sogani, bula misi ya hone,",
+        "O lingelwa zwivhi zwashu, a fhedza nga u kunda;",
+        "Bula nga mishumo yawe, na vhutungu he a pfa,",
+        "O nyadzwa a rwiwa, a shaya haya, a naledzwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Amba nga u vhambwa hawe, na nga u vhaisala,",
+        "Na zwa tshalo he a switwa, na nga u vuwa hawe;",
+        "Zwothe zwi amba lufuno, lune lwa sathu u vhonwa,",
+        "Ndi a lila ndi tshi zwi pfa lufuno lwo nthengaho."
+      ],
+      "number": 4
+    }
+  ]
+}

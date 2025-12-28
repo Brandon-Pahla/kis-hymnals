@@ -1,0 +1,37 @@
+{
+  "number": 495,
+  "language": "fr",
+  "title": "Céleste Père",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Céleste Père, Dieu d'amour, fidèle et tendre ami,",
+        "Nos voix s'élèvent jusqu'à toi, conduis nos pas, nos vies.",
+        "Mais tu n'as pas besoin des mots que dicte notre cœur,",
+        "Car tous nos faits, nos simples vœux, engagent tes faveurs."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le bien, le mal, tu peux les voir au fond de notre cœur,",
+        "Nos plans secrets, nos fausses voies, nos rêves fous, nos peurs.",
+        "De nos desseins, oh ! daigne ôter la marque du péché;",
+        "Vers toi, toujours, nous t'en prions, dirige nos pensées."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Notre âme aspire chaque jour à vivre auprès de toi,",
+        "Pour bien connaître ton amour, ouïr ta douce voix;",
+        "En toi placer tous nos désirs, guérir nos cœurs mauvais;",
+        "Trouver, enfin, le vrai repos, et vivre dans ta paix."
+      ],
+      "number": 3
+    }
+  ]
+}

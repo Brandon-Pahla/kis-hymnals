@@ -1,0 +1,23 @@
+{
+  "number": 109,
+  "language": "ts",
+  "title": "109. LOKO HI TA KARIWA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WEIGHED AND WANTING",
+        "1. Loko Hi Ta Kariwa, Muavanyisi A Hi Hlela;",
+        "Hi Ta Fana Na Nsuku, Kumbe Hi Fana Na Mungu?",
+        "CHORUS",
+        "Hi Kariwile Hi Hosi, Yo! Ha Vevuka;",
+        "U Avanyise Hi Nawu, Yo! Ha Vevuka.",
+        "2. Xana Ha Amukelwa, Eku Avanyisiweni?",
+        "Hi Ahlulelwa Rifu, Hikuva Hi Na Milandzu.",
+        "3. Nkarhi Wa Ha Ri Kona, Twana Moya Wo Kwetsima;",
+        "Hosi Yi Nga Si Vula: “Se Mi Cukumetiwike”"
+      ],
+      "number": 1
+    }
+  ]
+}

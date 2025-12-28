@@ -1,0 +1,25 @@
+{
+  "number": 174,
+  "language": "ts",
+  "title": "174. RA TLHAVULA TSHEMBHA RA MUKRISTE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOW CHEERING",
+        "1. Ra Tlavula Tshemba Ra Mukriste, Ntirhweni Laha Misaveni;",
+        "Hambi Emananga,",
+        "Hi Tiyisela Ndleleni Hambi Yi Nonon’hwa.",
+        "2. Ri Hi Komba Tikweni Ro Wisa,",
+        "Yesu Fuma Na Vakwetsimi; Hi Ta Vona Vamakwerhu, Hi Ta Vona Vamakwerhu, Hi Ta Tshama Swin’we, Hi Laha Kunga Heriki, Hi Nge He Hambani.",
+        "3. Xidyoho Xi Nge Kumeki Kona, Miringo Yi Nge Vi Kona;",
+        "Masiku Hinkwawo Ku Ta Tshamiwa Hi Ntsako, Xo Tsanisa Moya A Xi Nge Kumeki Kona.",
+        "4. Ku Ta Hela Gome Na Mihloto, Ndhawu Ya Rifu Ku Hava;",
+        "Hinkwawo Lava Nghenaka Tikweni Ra Hosi, Va Ta Fuma Na Tinstumi Va Nga Ka Va Nga Fi.",
+        "5. Nkarhi Hatlisa U Fika Sweswi, Muponisi Fika Sweswi;",
+        "Hi Navela Ku Ku Vona Mutini Wo Xonga, Hi Navela Ku Ku Vona Mutini Wa Ntsako."
+      ],
+      "number": 1
+    }
+  ]
+}

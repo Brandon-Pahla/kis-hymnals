@@ -1,0 +1,28 @@
+{
+  "number": 122,
+  "language": "guz",
+  "title": "122 Rituko Ri' Omogoko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Rituko ri'omogoko,Rire ri'amasaseEriagi ri'omoichano,Ri'ekieni rigiya'S'ore', banene, 'bake,'Bacha gosasimaBatera Omochenu,O kare na kare."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Aye nekiambokero,'S' emerind' etache'Mogondo bwe chinsoko,Chingiya chia IgoroEnsoko y'ogokendia,Bogima bokong'u'S' ore negetengero,Gia ense y'omwando."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Rituko ri'okomesia,Naye bw'obwanchaniRikoboki' amaiga,Y'ebinto bia IgoroTonyor'obuy'oboyia,As' ogotimokaTorigi' ogotimoka,Ogosesenirie."
+      ],
+      "number": 3
+    }
+  ]
+}

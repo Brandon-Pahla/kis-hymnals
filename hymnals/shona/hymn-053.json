@@ -1,0 +1,49 @@
+{
+  "number": 53,
+  "language": "sn",
+  "title": "53 Mudzimu unoyera",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mudzimu unoyera,",
+        "Unotitungamire",
+        "Uripetyo maKristu,",
+        "Vateweri vaJesu",
+        "Vaneti vanofara,",
+        "M’dzimu unodayidza",
+        "Wati, Vafambi uya,",
+        "Nditewere kumusha"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unesu dzese nguva,",
+        "Unoda kubatsira",
+        "Musatisiye tega,",
+        "Tirikufamba m’dima",
+        "Dambudzo rinouya,",
+        "Mwoyo inozoneta",
+        "Wati, Vafambi uya,",
+        "Nditewere kumusha"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Apo edu mazuva,",
+        "E mabasa apera",
+        "Basi kunozosara,",
+        "Kuyenda’ko kudenga",
+        "Kufunga ngemazita,",
+        "Kuti isu tanyorwa?",
+        "Vati,Vafambi uya,",
+        "Nditewere kumusha"
+      ],
+      "number": 3
+    }
+  ]
+}

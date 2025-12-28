@@ -1,0 +1,51 @@
+{
+  "number": 129,
+  "language": "ny",
+  "title": "129 - Yesu Mnalonjeza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "JESUS, COME AND BLESS US"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu mnalonjeza, Kuti komwetu",
+        "Asonkhana ’tatu, Muli komweko;",
+        "Tikukhulupira, Tigwadira ’Nu;",
+        "Yesu, mtidalitse, Mkhale nafetu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu, mtidalitse Popemphera ’fe;",
+        "Yesu, mtidalitse, Mkhale mfupimo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mnasonkhana nafe Nthawi zonsezo,",
+        "Tikusowaninso Mpaka mapeto;",
+        "’Dzani, Mpulumutsi, Mtidalitsenso;",
+        "Mutimvere ife, Tikupempha ’Nu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yesu, mtithangate Poyimbira ’Nu,",
+        "Pempho lili lonse Mlilandiretu;",
+        "Chikh’lupiro chathu Mchikulitsenso;",
+        "Mdzaze ’fe chikondi, Ndi ku’nikanso."
+      ],
+      "number": 4
+    }
+  ]
+}

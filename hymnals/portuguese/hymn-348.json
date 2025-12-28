@@ -1,0 +1,54 @@
+{
+  "number": 348,
+  "language": "pt",
+  "title": "Quantos Fiéis Descansam do Labor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Quantos Fiéis Descansam do Labor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quantos fiéis descansam do labor!",
+        "Por sua fé, por seu exemplo e amor,",
+        "A Ti, Jesus, nós damos o louvor.",
+        "Aleluia! Aleluia!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu foste a Rocha forte, sem igual,",
+        "E na batalha, grande General;",
+        "Nas densas trevas, brilho divinal.",
+        "Aleluia! Aleluia!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que nós, Senhor, lutemos com valor,",
+        "Iguais aos santos, nobres, com vigor,",
+        "Até galgarmos o eternal fulgor.",
+        "Aleluia! Aleluia!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Um mais glorioso dia irá surgir,",
+        "E os santos todos hão de ao Céu subir.",
+        "Ao Rei da glória irão, fiéis, servir.",
+        "Aleluia! Aleluia!"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "number": 44,
+  "language": "ve",
+  "title": "44 Musi Mushumo Wanga Wo No Fhela.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Musi mushumo wanga wo fhela fhano fhasi,",
+        "Muvhili wo ambadzwa u sa sina,",
+        "Zwenezwo Mutshidzi wanga ndi do mu divhesa,",
+        "Ene a takala a tshi mmbona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nda mu divha, nda mu divha, ndi do ima tsini-tsini hawe,",
+        "Nda mu divha, nda mu divha, nga dzintho zwandani zwawe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi do takala ndi tshi vho vhona tshifhatuwo,",
+        "Na ito lawe li na vhuthu kha nne,",
+        "Na mbilu yanga i do livhuha nga lufuno,",
+        "Lwe lwa nndugiselela-vho vhudzulo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. rine ri vho do vhona vho faho kale-kale,",
+        "A ri tsha do dovha ra fhambana-vho,",
+        "A ri tsha do dovha ra fhambana ngei tadulu,",
+        "Ndi tama u vhona Murena wanga."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Na nne ndi do dzhena mudini nga nguvho tshena,",
+        "Ndi do vha afho hu sina zwililo,",
+        "Ndi do imba luimbo lwa vhothe vho tshidzwaho,",
+        "Musi ndi thsi vhona Mutshidzi wanga."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "number": 429,
+  "language": "es",
+  "title": "Él puede",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Él puede"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Él puede, él puede, yo sé que",
+        "él puede;",
+        "yo sé que Cristo puede salvarme",
+        "del mal.",
+        "Él puede, él puede, yo sé que él",
+        "puede;",
+        "yo sé que Cristo puede salvarme",
+        "del mal.",
+        "Sanó al quebrantado, al muerto",
+        "levantó;",
+        "él hizo al cojo caminar, y al ciego",
+        "vista dio.",
+        "Él puede, él puede, yo sé que él",
+        "puede;",
+        "yo sé que Cristo puede salvarme",
+        "del mal."
+      ],
+      "number": 2
+    }
+  ]
+}

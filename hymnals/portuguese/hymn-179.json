@@ -1,0 +1,56 @@
+{
+  "number": 179,
+  "language": "pt",
+  "title": "Vinde a Mim",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Vinde a Mim"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Convite bom e amável vos faz o Salvador;",
+        "Quer dar-vos Suas bênçãos e Seu sublime amor.",
+        "Com meiga voz, maviosa, Jesus vos chama, sim,",
+        "A todos vós, aflitos, e diz-vos: \"Vinde a Mim.\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "\"Vinde, vinde a Mim! Vinde, vinde a Mim!",
+        "Tristes, carregados, vinde, vinde a Mim!",
+        "Vinde, vinde a Mim! Vinde, vinde a Mim!",
+        "Fracos e cansados, vinde, vinde a Mim!\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por que viver tão longe do meigo e bom Jesus?",
+        "Por que vagar nas trevas, podendo andar na luz?",
+        "Da vida sem proveito, da culpa e da aflição,",
+        "Corramos para a senda da eterna salvação."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se o denso véu da angústia trouxer tribulação,",
+        "Oh, não temais, pois Cristo dará consolação.",
+        "E assim vereis, na vida, o alento que produz,",
+        "No coração submisso, O \"Vinde\" de Jesus."
+      ],
+      "number": 5
+    }
+  ]
+}

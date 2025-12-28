@@ -1,0 +1,57 @@
+{
+  "number": 339,
+  "language": "tum",
+  "title": " 339 Ulendo Wakuluta Kwithu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 339 Ulendo Wakuluta Kwithu",
+        "CM 1988"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ndaleka kuyenda mu nthowa za uheni,",
+        "M'charu ichi vyose n'vyawaka;",
+        "Nanyamuka ulendo kuluta kukwithu",
+        "Ku charu icho ncha uchindami."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Waphya uLendo, kuLuta kwithu,",
+        "ULendo nadi kuLuta kwithu;",
+        "Sono sono ndiwonenge vipata vya msumba",
+        "Uko ndamkukhaLa nyengo zose."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nanga nthowa njifinyi yakuphapatizga",
+        "Yesu ndi Murongozgi wane,",
+        "nkhuluta nawo awo wakumtemwa nadi",
+        "Ku charu cha uchindami wake"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Ndili kufupi ku msumba wa uchindami",
+        "Ku malo uko ndamkukhala",
+        "Pa umaliro ndizamkuwona Yesu",
+        "M'charu chira cha uchindami."
+      ],
+      "number": 4
+    }
+  ]
+}

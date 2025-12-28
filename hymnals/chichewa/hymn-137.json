@@ -1,0 +1,63 @@
+{
+  "number": 137,
+  "language": "ny",
+  "title": "137 - Dziko Ai, Koma Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "GIVE ME JESUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Dziko ai, koma Yesu,",
+        "Dziko ndi lachabetu;",
+        "Nsisi zake zikhalitsa",
+        "Nthawi zonse yemweyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nsisi zake n’zazikulu,",
+        "Ndi chikondi chakenso;",
+        "Chiombolo chozizwitsa,",
+        "Moyotu wosathawo!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Dziko ai, koma Yesu,",
+        "Wondisangalatsa ’ne;",
+        "Iye andiyang’anira,",
+        "Nkana m’vuto ndi’mbabe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Dziko ai, koma Yesu,",
+        "Ndiyang’ane Iyeyo;",
+        "Pa ulendo wanga wonse,",
+        "Andiunikira ’ne."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Dziko ai, koma Yesu,",
+        "Mtandawo ndigwiradi;",
+        "Mpakatu maso ndi maso,",
+        "Ndidzamone Mbuyeyo."
+      ],
+      "number": 5
+    }
+  ]
+}

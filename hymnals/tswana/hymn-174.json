@@ -1,0 +1,52 @@
+{
+  "number": 174,
+  "language": "tn",
+  "title": "174 Tsholofelo Ya Mokeresete",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tsholofelo Ya Mokreste, Tirong Fano Tlase.",
+        "E re thusa mo lefatshing Je ja bofutsana.",
+        "E re thusa mo lefatshing Je ja bofutsana."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E Re Supetsa Boikhutso Pusong Ya Ga Kreste,",
+        "Kwa re tla nnang le baratwa Re sa kgaogane,",
+        "Kwa re tla nnang le baratwa Re sa kgaogane,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwa Boleo Bo Sa Tseneng Teng, Teko Ga Di Tshwenye,",
+        "Kwa boitumelo bo ntseng teng, Mme jo bo sa khutleng.",
+        "Kwa boitumelo bo ntseng teng, Mme jo bo sa khutleng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Teng Ga Go Na Dikeledi, Mme Ga Go Loso Teng;",
+        "Gonne ba ba tsenang gone, Ba jaaka ba’ngele.",
+        "Gonne ba ba tsenang gone, Ba jaaka ba’ngele"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Itlhaganele Lobaka, Wena Mmoloki Tla;",
+        "Re eletsa go Go bona Mme re tsene kwa gae.",
+        "Re eletsa go Go bona Mme re tsene kwa gae."
+      ],
+      "number": 5
+    }
+  ]
+}

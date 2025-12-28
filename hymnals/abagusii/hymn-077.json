@@ -1,0 +1,35 @@
+{
+  "number": 77,
+  "language": "guz",
+  "title": "77 Tori' Abagosiria",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tori' abagosira, Gweni' abagokwa,Taboria korw' embera y'ebibeRer 'abakomocha, 'Moki' abakogwa,Batebie Yeso ner'Omotoria.Tori' abagosira, Gweni' abagokwaYes' omonyamaber' abatorie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nonya bachayete, Nabaganyete,'Ganyete oyom'ogoonchokaBakurere mono, Baebererie,Nababere kabaramwegene."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Motemi'osaririe, chinkoro chiabo,'Buya bokony' ebirengererio'Bwanchani, Bwororo, Bikun'enkoro,Nebe moyo ase Omonene."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tori' abagosira, Nab'eganeirie,'Monene ere nakoe chinguru'S'oboremereria, obairanie,Batebi' Omotori' obakwereire."
+      ],
+      "number": 4
+    }
+  ]
+}

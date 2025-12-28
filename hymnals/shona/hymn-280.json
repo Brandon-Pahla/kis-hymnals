@@ -1,0 +1,47 @@
+{
+  "number": 280,
+  "language": "sn",
+  "title": "280 Mambo Wedu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngoma dzakanakisa, Nemusi mutsvene",
+        "Tinotenda M’ponesi, Upenyu nenzira"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenda, Tenda, Muponesi wedu",
+        "Tenda, Tenda, Tenda mambo wedu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Waidisa vapwere, Apo ari pasi",
+        "Kana ari kudenga, Achirukutida"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tinoda kumukudza, Nekunzwa nenyaya",
+        "Dzake achirimo, MuGarire rekare"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Tenzi muponesi, Tomupfugamira",
+        "Kuti muti batsire, Kuponera imwi"
+      ],
+      "number": 5
+    }
+  ]
+}

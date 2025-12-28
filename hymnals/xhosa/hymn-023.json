@@ -1,0 +1,46 @@
+{
+  "number": 23,
+  "language": "xh",
+  "title": "23 Ndizalise Ngoku",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndizalise O Mkhululi, Ngo-Moya Oyingcwele;",
+        "Ungumhlobo wethu, Mfeli, Yiza, ngena uhlale."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Moya Oyingcwele Thina sikunxanelwe;",
+        "Sizalise ke ngokwaKho, Yiza usizalise."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ungandizalisa wena - Akungexelelwe ndim;",
+        "Ufuneka kakhulu kum, Ngothando ndizalise."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndizele bubuthathaka; Ndiguqa engyaweni;",
+        "Wena unawo amandla, Ndisize ndiyatshona."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thuthuzela undihlambe. Ndihlambe intliziyo;",
+        "Mthuthuzeli, ndisindise, Wen’ undizalisayo."
+      ],
+      "number": 4
+    }
+  ]
+}

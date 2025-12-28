@@ -1,0 +1,54 @@
+{
+  "number": 25,
+  "language": "ve",
+  "title": "25 Ndi nekedza Zwothe Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:309",
+        "AH:190"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi nekedza zwothe Yesu, ndi zwi nekedza Iwe,",
+        "Ndi tshi fulufhela Iwe, ndi do shuma na Iwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndi a nekedza, ndi a nekedza,",
+        "Zwothe ndi do zwi sia ha Iwe Murena."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi nekedza zwothe Yesu, phanda hau ndo khotha,",
+        "Zwa shangoni ndo zwi lata, ntanganedze Murena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi isa zwothe ha Yesu, nnyite-vho Mukhethwa nne,,",
+        "Mphe-vho Muya Mukhethwa, u vhe wanga vhukuma."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndi nekedza zwothe Yesu, ndi pfa mulalo Wau,",
+        "Ndi takalela u tshidzwa, ndi do renda Murena."
+      ],
+      "number": 5
+    }
+  ]
+}

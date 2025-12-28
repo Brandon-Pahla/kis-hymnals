@@ -1,0 +1,28 @@
+{
+  "number": 99,
+  "language": "luo",
+  "title": "99 Chunya, Mond` Iritri",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Chunya, mond` iritri,Wasigu lworoi;Gitemo loyoi pileMondo itim richo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ritri galam; kedi,Ni kik ogoyi piny;Kedi matek ndalo duto,Kikwayo kony Nyasaye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Locho pod ni nyime,Rit gi lwenji maber;Tim kinda, Lweny ok enorumNyaka`iyud osimbo."
+      ],
+      "number": 3
+    }
+  ]
+}

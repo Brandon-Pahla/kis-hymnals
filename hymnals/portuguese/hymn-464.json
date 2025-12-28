@@ -1,0 +1,56 @@
+{
+  "number": 464,
+  "language": "pt",
+  "title": "Belas Mãozinhas",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Belas Mãozinhas"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Com as minhas duas mãos",
+        "Posso a Bíblia segurar;",
+        "Com os dois olhinhos meus,",
+        "Sua lições estudar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Lindas, mui lindas as tenras mãos",
+        "Que trabalham para Deus;",
+        "Belos, mui belos os olhos são,",
+        "Quando contemplam os Céus."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Com os dois olhinhos meus,",
+        "Mil coisinhas posso ver;",
+        "Com as minhas duas mãos,",
+        "Muitas coisinhas fazer."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Minhas pequeninas mãos",
+        "Pra Jesus trabalharão;",
+        "E estes dois olhinhos meus",
+        "O bom caminho verão."
+      ],
+      "number": 5
+    }
+  ]
+}

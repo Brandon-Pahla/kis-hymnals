@@ -1,0 +1,68 @@
+{
+  "number": 107,
+  "language": "tum",
+  "title": " 107 Mundiphalire Vya Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 107 Mundiphalire Vya Yesu",
+        "TELL ME THE STORY OF JESUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mundiphalire vya Yesu,",
+        "vilembeke pa mtima,",
+        "M'phale nkhani ya kunozga,",
+        "na yakuluska zose",
+        "M'phale sumu ya wangelo,",
+        "pakubabika Yesu,",
+        "Uchindami kwa Chiuta,",
+        "mtende pa charu chose."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "MundiphaLire vya Yesu,",
+        "viLembeke pa mtima,",
+        "MphaLe nkhani ya kunozga,",
+        "na yakuLuska zose."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Muphale vya mumapopa",
+        "wakaziwizga kurya,",
+        "Wakanjira mkuyezgeka,",
+        "kweni 'yo wakatonda,",
+        "Phalani vya mlimo wake,",
+        "na kusuzgika kwake,",
+        "Nadi wakatombozgeka",
+        "mu charu cha uheni."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "M'ndiphalire vya mphinjika,",
+        "na vyakuwinya vyake,",
+        "Muphale vya dindi lake,",
+        "na vyakuwuka kwake,",
+        "M'nkhani nkhuwona chinthemwa cha Yesu Fumu yane,",
+        "Pakupulika nkhulira,",
+        "wakandithaska ine."
+      ],
+      "number": 4
+    }
+  ]
+}

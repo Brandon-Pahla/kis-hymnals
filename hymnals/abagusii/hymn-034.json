@@ -1,0 +1,28 @@
+{
+  "number": 34,
+  "language": "guz",
+  "title": "34 Motoria Twabak'Erieta Riao",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Motoria twabak'erieta riao,As'ogotera kw'ogotigana;Gatwakorire ogosasima,Twatung'ama kogany'omorembe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Toe 'morembe gatokogenda,Twachaka twakora ituko naye;Rend'emenwa n'enchinkoro chiaito,Abwo bagwatoir'as'enyomb'eye"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Toe' morembe gator'ens' eye,Riog' as 'obororo n'amatemwa;Ker'orachik'esegi eere,Toe 'moremb' okare na kare."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "number": 188,
+  "language": "xh",
+  "title": "188 Umoni Omkhulu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndingumoni omkhulu, U-Yesu wandifela,",
+        "Ukuze ndidle ubom, Ngingamfumani kufa;",
+        "Njenge-sebe emthini, Ndingo wakhe ungo wam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, thando luka-Yesu! Luphakamel’ izulu,",
+        "Lunzulu kuno lwandle, Lumi ngonaphakade;",
+        "Thando olwandizuza! Ndandinga lufuni mna."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndingumoni omkhulu, ’Kristu unto zonke kum;",
+        "Uyazaz’ intsizi zam, Nentswelo zam zezakhe;",
+        "Nakuwo lamadabi Ubuxhas’ ubomi bam."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 193,
+  "language": "ve",
+  "title": "193. Lufuno Lwa Mutshidzi Kha Inwi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ni funa u tshila na Yesu o tshena naa?",
+        "A dzule mihumbuloni yanu naa?",
+        "A ni hwalele mihwalo yanu yothe naa?",
+        "Tenda lufuno lwawe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Maanda awe a nga ni shandula;",
+        "Malofha awe ndi mbofholowo,",
+        "Lufuno lwawe lu ni dadze,",
+        "Tendani ni lu tanganedze tshothe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. No tenda mbolowo, na mu pfa kha zwothe?",
+        "Ni funa mulalo, no nala zwothe?",
+        "Ni funa u tshidzwa ni si tsha vhuya na wa?",
+        "Ita lufuno lwawe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ni funa u netuluwa muvhusoni naa?",
+        "Ni divha tshine a ni thusa ngatsho?",
+        "Ni nga mu shumela nga manda anu othe?",
+        "Ita lufuno lwawe."
+      ],
+      "number": 4
+    }
+  ]
+}

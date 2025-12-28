@@ -1,0 +1,46 @@
+{
+  "number": 297,
+  "language": "xh",
+  "title": "297 Zibethelelwe Emthini Izono Zam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kwakukhon’ owavuma Ukufela mna,",
+        "Ukuz’ ongafanel’ aphile.",
+        "’Ndlela yomnqamlezo Wayihamba yena,",
+        "’Zekuxolelwe Izono zam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Zibethelw’ emthini, Zibethelw’ emthini;",
+        "O, wandithwalela Kakhulu.",
+        "U-Yesu ngentlungu, Wayemnqamlezweni",
+        "Ethwele zonke izono zam."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unothando nocengo, Nonyamezelo,",
+        "Uyandihlamba intliziyo.",
+        "Akusekho kugwetywa, Undikhulule,",
+        "Kub’ izono zam Zibethelwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndobambelela kuYe U-Msindisi wam,",
+        "Ndivuye yonke indlela yam.",
+        "Ndivume ngeli lizwi Nale ntliziyo,",
+        "Ndith’, \"Izono zam Zisusiwe.\""
+      ],
+      "number": 3
+    }
+  ]
+}

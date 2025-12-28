@@ -1,0 +1,55 @@
+{
+  "number": 69,
+  "language": "tw",
+  "title": "'W'ra, Yɛ Yɛn Kronkronfo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, yɛ yɛn kronkronfo;",
+        "'W'ra, yɛ yɛn kronkronfo;",
+        "'W'ra, yɛ yɛn kronkronfo,",
+        "Kosi sɛ yebehyiam.",
+        "'W'ra, yɛ yɛn kronkronfo,",
+        "Kosi sɛ yebehyiam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, yɛ yɛn nokwafo;",
+        "'W'ra, yɛ yɛn nokwafo;",
+        "'W'ra, yɛ yɛn nokwafo,",
+        "Kosi sɛ yebehyiam.",
+        "'W'ra, yɛ yɛn nokwafo,",
+        "Kosi sɛ yebehyiam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, ma yɛn 'hobrɛase;",
+        "'W'ra, ma yɛn 'hobrɛase;",
+        "'W'ra, ma yɛn 'hobrɛase,",
+        "Kosi sɛ yebehyiam.",
+        "'W'ra, ma yɛn 'hobrɛase,",
+        "Kosi sɛ yebehyiam."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, ma yɛnnɔ kɛse;",
+        "'W'ra, ma yɛnnɔ kɛse;",
+        "'W'ra, ma yɛnnɔ kɛse;",
+        "Kosi sɛ yebehyiam.",
+        "Sɛ Yesu, 'Gyenkwa no,",
+        "Kosi sɛ yebehyiam."
+      ],
+      "number": 4
+    }
+  ]
+}

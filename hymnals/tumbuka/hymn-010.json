@@ -1,0 +1,58 @@
+{
+  "number": 10,
+  "language": "tum",
+  "title": " 10 Ka Tamkongana Pa Mronga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 10 Ka Tamkongana Pa Mronga",
+        "SHALL WE GATHER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ka tamkongana pa mronga, Wangelo wakwendamo?",
+        "Ukwenda na kujeduka pa chizumbe cha Leza."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Inya, tamkongana papo, Pa mronga wakutowa wa Fumu,",
+        "Tam 'kuwonana na watuwa, pa muronga 'mwe kuchanya."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Pa mronga wakung'azima kayilole wa Fumu,",
+        "Watuwa wa mkwimba wezi, Hyengo za myirayira."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Tindafike pa muronga tam'thula wakatundu,",
+        "Tamkutaskika mu wezi, Na kupokera mphumphu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Luwiro tayam'fikako, Pa kumara kwa lwendo,",
+        "Mitima yithu yam'kondwa kwimba sumu za mtende."
+      ],
+      "number": 5
+    }
+  ]
+}

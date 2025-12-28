@@ -1,0 +1,39 @@
+{
+  "number": 553,
+  "language": "tw",
+  "title": "Yesu, Ky'rɛ Yɛn Kwan",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, ky'rɛ yɛn kwan",
+        "Kɔ dā a ɛnsa nom':",
+        "Saa na yɛrentwentwɛn bio na",
+        "Yɛadi W'akyi, atie Wo nne:",
+        "Sɔ yɛn nsa fa yɛn Kɔ yɛn Agya fie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ yehyia mmusų a",
+        "Ma yengy'na pintinn;",
+        "'W'ra, kora yɛn fi anwiinwiim'",
+        "B're a sum aduru yɛn no;",
+        "Yɛnam ahohiam' Na ɛba Wo nkyɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Siesie yɛn akwan Kosi yɛn wuda:",
+        "Yɛn nnwuma mu, fa mmoa b'rɛ yɛn,",
+        "Ahohia mu nso hyɛ yɛn den;",
+        "Na yɛakodu yɛn Agya fie hɔ dwoo."
+      ],
+      "number": 3
+    }
+  ]
+}

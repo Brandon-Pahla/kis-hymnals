@@ -1,0 +1,36 @@
+{
+  "number": 123,
+  "language": "rw",
+  "title": "123 Har'Izina Rihebuje",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 123 Har'Izina Rihebuje",
+        "**1**",
+        "Har'izina rihebuje,",
+        "Rirut'ayandi yose nzi;",
+        "Ni ry'Imana yaturemye",
+        "yis'Umwana way'ikunda.",
+        "**Gusubiramo:**",
+        "Ni ryo zina ryera (izina);",
+        "Ni ryo zina ryera (ryera de)!",
+        "Ryakomotse ku Mana, Riza mw'isi,",
+        "Maze riririmbwa (izina)",
+        "n'abamarayika (ryera de).",
+        "Iryo zina n'irya Yesu.",
+        "**2**",
+        "Niryo rimpesh'umugisha;",
+        "Nkunda kuryogez'iteka.",
+        "Simpwema kuriririmba,",
+        "Mvug'ukuntu rihebuje.",
+        "**3**",
+        "Icyampa nkaririmbana",
+        "n'abamarayika bera,",
+        "Nkajya nsingiza rya zina",
+        "rihebuj'ayandi yose!"
+      ],
+      "number": 1
+    }
+  ]
+}

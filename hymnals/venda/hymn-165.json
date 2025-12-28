@@ -1,0 +1,55 @@
+{
+  "number": 165,
+  "language": "ve",
+  "title": "165. Ndi A U Funa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:236",
+        "AH:357"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi a u funa kha nne Yesu wanga",
+        "Iwe Mutshidzi na Mudzimu wanga",
+        "Ndi u funa zwihulu u a divha",
+        "Fhedzi mishumo yanga i do amba."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndo pfa ndo takala lwa u takala",
+        "Ndo takala musi ndo da kha thavha.",
+        "Ndi vhone lupfumo ndi vhe henefho",
+        "Na Yesu, vharunwa mashaka othe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yesu Mutshidzi u a mphathutshedza",
+        "Ndo wana u tshidzwa na u awela.",
+        "Ndi do imbelela nga dzina lawe",
+        "Na tshilidzi tshawe nga hu sa fheli."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Haho ane a nga Mutshidzi wanga",
+        "U mpfuna a mpfunza na u mu renda",
+        "Ndi do dzula ndi tshi mu renda nne",
+        "Nga dakalo ngomu mbiluni yanga."
+      ],
+      "number": 5
+    }
+  ]
+}

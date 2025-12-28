@@ -1,0 +1,37 @@
+{
+  "number": 172,
+  "language": "nd",
+  "title": "172 Koze Kube Nini?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi, se koba nini, U ngafikile na?",
+        "Inhliziy’ ikhathele, Ngokwephuza kwAkho;",
+        "Soba nin’ isikhathi, Esihle kakhulu,",
+        "Ukukhazimla kwAkho, Ku qhamke kwabAkho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ku nini Nkosi yomsa, U phune ekhaya?",
+        "Sewulibele kade, Bambalw’ ebalindi,",
+        "Nkos’ izinceku zAkho, Zi cwil’ ebubini.",
+        "Yingcosan’ elungile, Ekujabulele."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O vus’ abaleleyo, Tum’ izwi ba vuke.",
+        "Abangcwele maba thi, \\\"uJesu’ u sondele.\\\"",
+        "Mazivuth’ izibani, Zi boshw’ izinkalo.",
+        "Bonke ba lingisele, Injabul’ enkulu!"
+      ],
+      "number": 3
+    }
+  ]
+}

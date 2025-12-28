@@ -1,0 +1,55 @@
+{
+  "number": 277,
+  "language": "tw",
+  "title": "Wo Nwoma Pa Kronkron No Ho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wo nwoma pa kronkron no ho,",
+        "Wɔn a wɔsom Wo yie ny'naa",
+        "Wɔ aky'rɛw, banbɔ ne nky'rɛasem'",
+        "Sɛnea emu nsɛm bɛka.",
+        "'Dɔ kɛse a Wowɔ ma",
+        "Wo mma nti, yɛda W'ase."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo nwoma pa kronkron no ho,",
+        "Wɔn a wɔsom Wo nnɛ yi;",
+        "Sɛnea 'kra a wɔwɔ mmaa ny'naa",
+        "Bɛkenkan adi akyi,",
+        "Ahu dɔ a Wowɔ ma",
+        "Wo mma nti, yɛda W'ase."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo nwoma pan' ho, 'seda nka W',",
+        "Ma 'mu nsɛm nyɛ yɛn kwanky'rɛ,",
+        "Na ma yennya mm'ra horow a",
+        "Ͻwɔ mu no mu ntease;",
+        "Ne Wo dɔ ne Wo tema",
+        "A Wowɔ ma akra ny'naa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo Ky'rɛwsɛm nti yɛda W'ase;",
+        "Ma mu nsɛm a 'wɔ komam',",
+        "Mma yenhu wɔ Yesu m' seesei",
+        "'Dom a W'asɛm de ma ny'naa,",
+        "Ne Wo dɔ ne Wo tema",
+        "A Wowɔ ma Wo mma ny'naa."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 113,
+  "language": "fr",
+  "title": "Ô Saint-Esprit!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Saint-Esprit! Descends, descends",
+        "Sur cette assemblée en prière;",
+        "En nos coeurs faibles, languissants,",
+        "Répands ta force et ta lumière"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Saint-Esprit! À ta clarté",
+        "Nous voulons tous marcher sans crainte",
+        "Sur un chemin de saintété.",
+        "Conduis-nous vers la cité sainte."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Saint-Esprit! Rends-nous vainqueurs",
+        "Dans nos combats, dans nos détresses,",
+        "Et pour armer nos faibles coeurs",
+        "Verse en eux toutes tes richesses."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oui, pour rester toujours debout,",
+        "Ce qu'il nous faut, c'est ta puissance;",
+        "Par elle seule, jusqu'au bout",
+        "Nous lutterons sans défaillance."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Saint-Esprit! viens comme au jour",
+        "De la première Pentecôte,",
+        "Et par ta grâce, ô Dieu d'amour",
+        "Que ce lieu soit la chambre haute!"
+      ],
+      "number": 5
+    }
+  ]
+}

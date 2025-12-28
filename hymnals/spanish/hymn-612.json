@@ -1,0 +1,45 @@
+{
+  "number": 612,
+  "language": "es",
+  "title": "Jesús te necesita hoy",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Jesús te necesita hoy"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesús te necesita hoy, cristiana juventud;",
+        "tu fuerza solicita, tu celo y tu virtud.",
+        "La frente, pues, levanta y empuña con valor",
+        "la enseña sacrosanta de Cristo, tu Señor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Adelante, cristiana juventud;",
+        "adelante, vamos, vamos todos con valor.",
+        "Adelante, cristiana juventud;",
+        "adelante, jóvenes, ¡id a luchar!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A noble lucha llama hoy Jesús tu Salvador;",
+        "levántate y proclama los dones de su amor.",
+        "Si siembra desalientos el malo con su voz,",
+        "oculta tus lamentos, que va contigo Dios."
+      ],
+      "number": 4
+    }
+  ]
+}

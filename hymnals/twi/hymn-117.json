@@ -1,0 +1,47 @@
+{
+  "number": 117,
+  "language": "tw",
+  "title": "Yɛn Nyamč a Wɔawo No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn Nyamč a wɔawo No,",
+        "Yɛde mpaebɔ kyea No;",
+        "Na yɛde nnwonto hyia No kwan",
+        "Sɛ Ommedi hene."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Ba a ɔtč ase daa,",
+        "Bɛmaa yɛn faw'hodi",
+        "Enti ɔfaa akoa tebea",
+        "De tɔɔ y'ahofadi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Obepue s'ro hann nom,",
+        "Aba sɛ Temmufo",
+        "Abɛboa Ne nk'rɔfo ano",
+        "Akodi hen' ɔs'ro."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Yeyi nka Nyame Ba",
+        "A ɔbɛgye yɛn nkwa",
+        "ɔne Agya ne Honhom no",
+        "Baakō a Wɔte hɔ daa."
+      ],
+      "number": 4
+    }
+  ]
+}

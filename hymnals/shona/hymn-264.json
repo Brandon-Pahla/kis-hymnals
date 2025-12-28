@@ -1,0 +1,55 @@
+{
+  "number": 264,
+  "language": "sn",
+  "title": "264 Zororo RaJehova",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Musi wakomborerwa, Jehova azorora",
+        "Wechinomwe wevhiki, Wasarudzwa Mutsvene"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tinofara, Tinofara",
+        "Tinofara nemusi, zororo raJehova"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mwari wakapedzisa, Basa rake kusika",
+        "Ndizvo wakayerisa, Musi wake Sabata"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vamwe vakapindura, Vanoda wekutanga",
+        "Kuti idi munoda, Tsvakayi mumatsamba"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vese vane’di voti, Vanhu vakapindura",
+        "Mubhuku hamunaba Kuti vakapindura"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndizvozvo ndakatsvaka, Ndakavona Sabata",
+        "Ndakatevera Mwari, Kuchengeta’ro idi"
+      ],
+      "number": 6
+    }
+  ]
+}

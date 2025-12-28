@@ -1,0 +1,42 @@
+{
+  "number": 229,
+  "language": "st",
+  "title": "229 Ke Mang Ea Leng Moreneng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke mang ea Moreneng? A khethe;",
+        "Ka nqa tse peli, u eme kae?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Khetha, joale, Botle kapa bobe u eme kae?",
+        "Khetha, joale, Botle kapa bobe u eme kae?",
+        "Ke mang ea leng Moreneng.",
+        "(T.&B)",
+        "Ke mang ea leng Moreneng.",
+        "Botle, kapa bobeng u eme kae."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bongata ha bo khethe botle,",
+        "’Me ha se hona ho nepiloeng."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ema ka Moreneng; bakeng la’ng",
+        "Tsela poloko feela nakong e tlang."
+      ],
+      "number": 3
+    }
+  ]
+}

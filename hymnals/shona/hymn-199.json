@@ -1,0 +1,47 @@
+{
+  "number": 199,
+  "language": "sn",
+  "title": "199 Mbiri Ngaiwe Kuna Mwari",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mbiri kuna Mwari nezva’kaita",
+        "Wakada pasi Wakapa M’rumbwana",
+        "Wakafira izvo zvitema zvedu",
+        "Wazarura m’siwo tipinde tese"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kudzayi M’ponesi, Pasi ngarimunzwe",
+        "Kudzayi M’ponesi, Vanhu ngavafare",
+        "Uyai kuna Baba neMurumbwana",
+        "Mumupenyi mbiri Nezv’Akaita"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O ruponeso rwatenga ropa",
+        "Chitsidzo chaMwari kuvadaviri",
+        "Munyangadzi m’kuru anodaira",
+        "Jesu anosunungura ipapo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvikuru waita wazvidzikisira",
+        "Tofara zvikuru nayeM’rumbwana",
+        "Asi kushama nekufamba kwedu",
+        "Kunokura apo taona Jesu"
+      ],
+      "number": 4
+    }
+  ]
+}

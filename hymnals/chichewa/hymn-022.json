@@ -1,0 +1,29 @@
+{
+  "number": 22,
+  "language": "ny",
+  "title": "22 - Inenso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LORD, I HEAR"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Mbuye ndamva muchitira, Anthu ena zabwino;",
+        "Muli kuwadalitsira, Mudalitse inenso.",
+        "CHORUS:",
+        "Inenso, inenso, Mudalitse inenso.",
+        "2. Tate m’sandipitirire, Ndimaipa mtimamo;",
+        "Ndiyenera imfa, koma Chitireni chifundo.",
+        "3. Ndinagona mwa zoipa, Ndinakunyozanitu,",
+        "Dziko lino ndinakonda, Mundikhululukire.",
+        "4. Mzimu m’sandipitirire, Mupenyetsa akhungu;",
+        "Munapatsa ena mphamvu, Mpatse mphamvu inenso."
+      ]
+    }
+  ]
+}

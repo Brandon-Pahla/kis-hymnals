@@ -1,0 +1,59 @@
+{
+  "number": 155,
+  "language": "sn",
+  "title": "155 Ndinoenda Kwamunoda Kutindiende",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hakungavi kumakomo,",
+        "Kana ne munyanza",
+        "Kusiri mberi kwe hondo",
+        "Mwari achandida",
+        "Kana achidaidza neinzwi",
+        "Kunzira dziri kure",
+        "Ndichapindura ndichiti",
+        "Tenzi ndo’nda kwamunoda"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndoenda komunoda’mi Mwari,",
+        "Kumakomo ne Mapani.;",
+        "Ndotaura zvamunoda imi’she,",
+        "Ndichaita zvamunoda"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuda nhasi kune manzwi,",
+        "Anodiwa nashe",
+        "Kuda zvino kune m’fambi",
+        "Wandingano tsvaka",
+        "Tenzi kuti imi muneni,",
+        "Kana nzira yoipa",
+        "Ndichabvuma ndichizoti kwamuri",
+        "Ndoparidza zvamunoda"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kune kanzwimbo kaduku,",
+        "Mukukohwa munda",
+        "Pandingashandira imi,",
+        "Jesu akandifira",
+        "Ndosimbira zvese kunaye,",
+        "Ngekuti munondida",
+        "Ndoita nemwoyo wese",
+        "Ndichawa zvamunoda"
+      ],
+      "number": 4
+    }
+  ]
+}

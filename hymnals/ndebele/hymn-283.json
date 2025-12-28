@@ -1,0 +1,47 @@
+{
+  "number": 283,
+  "language": "nd",
+  "title": "283 Wena Na? Mina Na?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Omuny’ uzongena ngesango, Pambili, phambili",
+        "Ezwe ubukhosi bakhona, Kumbe nguwe, kumbe yini?",
+        "Athath’ indlela yegolide, Abone okuhle khona le",
+        "Adl’ izethembiso zakade, Kumbe nguwe, kumbe yimi?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Isiphambano siyothulwa Phambili, phambili",
+        "Wethemb’ uzophiwa umqhele, Kumbe nguwe, kumbe yimi?",
+        "Omunye uzobon’ iNkosi, Ekhululekil’ osizini",
+        "Ethokoza naYo phakade, Kumbe nguwe, kumbe yimi?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Omunye uzongqongqotha le Phambili, phambili",
+        "Ilizwi lithi, Angikwazi Kumbe nguwe, kumbe yimi?",
+        "Omuny’ uzoncenga’ angaziwa, Kuyize ukuzama kwakhe",
+        "Omunye uzoncintshw’ umvuzo Kumbe nguwe, kumbe yimi?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ingoma enhle yokunqoba, Phambili, phambili",
+        "Yoculwa ngabasindileyo Kumbe nguwe, kumbe yimi?",
+        "Omunye uyobingelela, Abakade baf’ emhlabeni",
+        "Bazohlala ebukhosini, Kumbe nguwe, kumbe yimi?"
+      ],
+      "number": 4
+    }
+  ]
+}

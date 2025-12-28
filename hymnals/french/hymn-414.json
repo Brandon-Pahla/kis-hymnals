@@ -1,0 +1,27 @@
+{
+  "number": 414,
+  "language": "fr",
+  "title": "Pour le pain qui nourrit",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Pour le pain qui nourrit,",
+        "Pour le pain d'aujourd'hui,",
+        "Ô Dieu de Jésus-Christ,",
+        "Nous te disons merci."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rendons grâce au Seigneur,",
+        "Il est charitable,",
+        "Sa bonté, sa vérité,",
+        "Durent pour l'éternité."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 53,
+  "language": "tw",
+  "title": "Nyame, Miyi W'ayɛ 'nadwo 'i",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame, miyi W'ayɛ 'nadwo 'i,",
+        "Adekyee mu nhy'ra nyinaa nti;",
+        "Fa me sie, ahen' mu Hene,",
+        "Wɔ Wo ntaban kɛsɛ n' ase!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Wura, fa me bɔne kyɛ me",
+        "Nnɛ da yim', Wo dɔ Ba no nti;",
+        "Na me ne wiase ne Wo ntam",
+        "Ayɛ dwoo ansa na mada."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, ma me kra nhome Wo mu,",
+        "Na m'ani nkata nna pa mu;",
+        "Nna a ɛbɛma me 'hoɔden,",
+        "Na masɔre asom Nyame."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Domfo Nyame, munyi N'ayɛ",
+        "Asase mma, munyi N'ayɛ",
+        "ɔs'ro dɔm, munyi No ayɛ;",
+        "Agya, 'Ba, ne Honhom Kronkron."
+      ],
+      "number": 4
+    }
+  ]
+}

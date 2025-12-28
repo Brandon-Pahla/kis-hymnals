@@ -1,0 +1,56 @@
+{
+  "number": 311,
+  "language": "tw",
+  "title": "Mɛyɛ Te Sɛ Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wiase 'nigye refrɛ me kwa;",
+        "Mɛyɛ te sɛ Yesu;",
+        "Wiase remfa me dommum da,",
+        "Mɛyɛ te sɛ Yesu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mɛsɛ Yesu, me dwom ni,",
+        "Wɔ ofie ne nnipa mu;",
+        "Mɛsɛ Yesu daa nyinaa,",
+        "Mɛyɛ te sɛ Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wabubu mpoky'rɛ nyinaa mu",
+        "Mɛyɛ te sɛ Yesu;",
+        "Na me kra 'tum' asom No yie,",
+        "Mɛyɛ te sɛ Yesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Merefi fam kɔ 'nuonyam mu'i,",
+        "Mɛyɛ te sɛ Yesu;",
+        "Mɛkɔ so aka asɛm no,",
+        "Mɛyɛ te sɛ Yesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnea Obehyia me s'ro nti,",
+        "Mɛyɛ te sɛ Yesu;",
+        "Na Wama me 'Mo ɔ ne ɔ yɔ ' hɔ,",
+        "Mɛyɛ te sɛ Yesu."
+      ],
+      "number": 4
+    }
+  ]
+}

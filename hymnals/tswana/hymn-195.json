@@ -1,0 +1,47 @@
+{
+  "number": 195,
+  "language": "tn",
+  "title": "195 A Molelo O O Tshedileng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A Molelo O ’Tshedileng,",
+        "O phatsimileng baitsheping;",
+        "Wa ba lebisa godimong,",
+        "Tidimalo patikegong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena O Kae Moa Ole,",
+        "O Go tshwaetseng Abera’me?",
+        "O o nonotshitseng pelo’",
+        "Ya Paulo bofutsaneng?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Tshwaro Ya ’Go Ga Ya Nna",
+        "Jaaka metlheng ya Elija?",
+        "Le jaaka metlheng ya Moshe,",
+        "Kgotsa jaaka Jobe tekong?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gopola Nako Ele Jeso,",
+        "Shafatsa tiro ya Gago;",
+        "Mme fa re leba go wena,",
+        "O thele Moya wa Gago."
+      ],
+      "number": 4
+    }
+  ]
+}

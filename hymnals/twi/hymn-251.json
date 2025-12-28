@@ -1,0 +1,58 @@
+{
+  "number": 251,
+  "language": "tw",
+  "title": "ɔte Ase",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mesom 'Gyenkwa a Wanyan,",
+        "ɔwɔ wiase ha nnɛ;",
+        "Minim sɛ ɔte ase,",
+        "Nnipa ka dɛn mpo a;",
+        "Mihu N'ahummɔb'rɔ nsa,",
+        "Mete Ne nne dɛdɛ.",
+        "B'rč a mihia No biara no,",
+        "ɔwɔ me nkyɛn."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "ɔte ase, Kristo Yesu tč ase!",
+        "ɔne me nante, ne me kasa",
+        "ɔbra kwan yi so.",
+        "ɔte ase, ɔde nkwagye ma kwa",
+        "Sɛn na mihu sɛ ɔtč ase?",
+        "ɔtč ase me komam'."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nea ɛwɔ wiase ny'naa mu,",
+        "Mihu Ne dɔ 'yamye;",
+        "Sɛ me koma boto mpo a,",
+        "Merempa aba da;",
+        "Minim sɛ Odi m'anim,",
+        "Asorɔkye ny'naa mu,",
+        "N'ahoyi da kɛse no Bɛba ara."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Di dɛw, di dɛw, Kristoni,",
+        "Ma wo nne so na to",
+        "Haleluyá a ɛnsa da",
+        "Ma Hen' Yesu Kristo.",
+        "Wɔn a wɔhwehwɛ No ny'naa",
+        "'Nidaso ne boafo;",
+        "Obi nni dɔ ne 'yamye Te sɛ ɔno."
+      ],
+      "number": 3
+    }
+  ]
+}

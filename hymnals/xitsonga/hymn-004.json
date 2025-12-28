@@ -1,0 +1,25 @@
+{
+  "number": 4,
+  "language": "ts",
+  "title": "4. SWA NANDZIHA NGOPFU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOW SWEET ARE THE TIDINGS",
+        "1. Swa Nandziha Ngopfu Eka Mutsendzeleki, Loka Twa Timhaka To Nghasi;",
+        "Leswaku Muponisi U Ta Vuya Sweswi, Na Wo Mfumo Wakwe Wa Ta.",
+        "CHORUS",
+        "Wa Vuya, Wa Vuya Wa Hatlisa, U ta Kwala Emisaveni,",
+        "Vatsendzeleki Va Kuma Vutshamo, Loko Hosi Yi Ta Fika.",
+        "2. Lava Etleleke Kona Emasirheni, Va Ta Pfuxiwa Siku Rero;",
+        "Na Vona Lava Va Mitiweke Hi Lwandle, Va Ta Huma Kona Va Khana.",
+        "3. Hi Ta Hlangana Etikweni Leri Rintshwa, Hi Tinsimu Ta Ku Ntshuxeka;",
+        "Na Lava Pfaka Matikweni Ya Le Henhla, Hi Khongela Hosi Ya Tilo.",
+        "4. Aleluya Amen, Aleluya Amen, Hi Ta Hatlisa Hi Ya Fika;",
+        "Tshemba U Tlakusa Nhloko U Langutisa, Harhi Ya Vutomi Yi Kona."
+      ],
+      "number": 1
+    }
+  ]
+}

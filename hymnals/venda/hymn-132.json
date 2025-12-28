@@ -1,0 +1,54 @@
+{
+  "number": 132,
+  "language": "ve",
+  "title": "132. Tsini Na Tshifhambano",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:312",
+        "AH:240"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tsini na tshifhambano, hu re na mulambo,",
+        "U bva ngei khalivari, u a tshidza vhothe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ngei tshifhambanoni, kha hu vhe na thendo,",
+        "Ndi hune muya wanga wa awela hone."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tsini na tshifhambano, ndo wana tshilidzi,",
+        "naledzi ndi ya mutsho, ya mbo vhonetshela"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tsini na tshifhambano, Ngwana ya Mudzimu,",
+        "Ndi tshi vho do dzumbana, nga murunzi wayo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tsini na tshifhambano, fulufhelo langa,",
+        "Ndi vhuye ndi swike-vho, seli ha mulambo."
+      ],
+      "number": 5
+    }
+  ]
+}

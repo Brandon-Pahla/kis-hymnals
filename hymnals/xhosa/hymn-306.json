@@ -1,0 +1,47 @@
+{
+  "number": 306,
+  "language": "xh",
+  "title": "306 Vuthelani Ixilongo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Vuthelani ixilongo, Nina bantu baKhe!",
+        "Ixilongo lezwi laKhe Malihlokonyiswe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leyonqwelo yezwi laKho Mayihambe yona:",
+        "Kulo lonk’ ilizwe, Yesu, Mayifike khona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vuthelani ixilongo, Nina bantu baKhe!",
+        "Maliviwe izwi lalo Ngabo bangaboni."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vuthelani ixilongo, Nina bantu baKhe!",
+        "Lihanjiswe izwi laKhe Elizweni lonke."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ezozizwe ezikude, Mazilazi lona;",
+        "Zikhangele ku-Msindisi, Zimamkele yena."
+      ],
+      "number": 5
+    }
+  ]
+}

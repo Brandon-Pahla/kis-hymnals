@@ -1,0 +1,57 @@
+{
+  "number": 48,
+  "language": "fr",
+  "title": "Jésus! Jésus!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus, Jésus, Jésus, Jésus,",
+        "Seul nom que mon coeur aime,",
+        "Je voudrais ne prononcer plus",
+        "Qu'un seul mot, ce nom même."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus, Jésus, ce nom si beau,",
+        "C'est celui dont les anges,",
+        "Prosternés autour de l'Agneau,",
+        "Remplissent leurs louanges."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus, c'est le nom de Celui",
+        "Qui descendit du Père,",
+        "Dont l'amour sur la croix a lui,",
+        "En qui la terre espère."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus, c'est le nom du Sauveur",
+        "Favorable à toute âme,",
+        "Et qu'aujourd'hui plus d'un pécheur",
+        "De tout son coeur acclame."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus, Jésus, Jésus, Jésus,",
+        "Bientôt mon coeur qui t'aime,",
+        "Auprès de toi ne dira plus",
+        "Qu'un seul mot : ton nom même."
+      ],
+      "number": 5
+    }
+  ]
+}

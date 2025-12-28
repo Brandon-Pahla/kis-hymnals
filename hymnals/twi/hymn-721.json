@@ -1,0 +1,55 @@
+{
+  "number": 721,
+  "language": "tw",
+  "title": "N26 Master Speak Thy Servant Heareth",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "‘Wura kasa W'akoa retie",
+        "Retwεn Wo dom asεm no;",
+        "Me kɔn dɔ W'aw'rεkyekye nne;",
+        "‘Wura, ma mente seesei",
+        "Aw'rade, meretie Wo",
+        "Dεn na Wowɔ ka ky'rε me?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Wura, bɔ me din kasa ky'rεm',",
+        "Ma minhu sε Wode me!",
+        "Kasa ma me ho nyε hare",
+        "Nnantew den ahofadim'",
+        "Wɔ ɔbo no nwini mu,",
+        "Nea ‘Guanhwεfo no ky'rε kwan."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Wura, kasa! Sε b'rεoo mpo a",
+        "Ma mente Wo nne ansa;",
+        "‘Wura kasa ‘fisε Wunim",
+        "Me koma ‘pεde nyinaa;",
+        "Wunim nea ‘hia me nyinaa;",
+        "Kasa! Na hyira me nnε."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Wura, kasa! yε me krado;",
+        "Sε mete Wo nne ampáa",
+        "Ma memfa ‘setie ne daa dεw",
+        "Nni W'asεm biara akyi;",
+        "Aw'rade meretie Wo;",
+        "O ‘Wura, kasa ky'rε me."
+      ],
+      "number": 4
+    }
+  ]
+}

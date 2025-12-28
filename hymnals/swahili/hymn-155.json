@@ -1,0 +1,37 @@
+{
+  "number": 155,
+  "language": "sw",
+  "title": "155 - Njiani Huniongoza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Njiani huniongoza, Yesu wangu Mwokozi,",
+        "Rehema hatapunguza, milele kiongozi,",
+        "Ina raha kwandamana, duniani daima,",
+        "Nijaposumbuka sana, yeye hutenda vyema."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Njiani huniongoza, hupunguza matata,",
+        "Nikiugua hupoza, na njaa ninashiba,",
+        "Lichokapo guu langu, nguvu zikapungua,",
+        "Jiwe lilo mbele yangu, hunibubujikia."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Njiani huiongoza, kwa pendo lililo kuu,",
+        "Mwisho atanituliza, kwake Baba yangu juu,",
+        "Nikivikwa kutokufa, nikae na Mwokozi,",
+        "Nitamsifu sana sifa, kweli ni kiongozi."
+      ]
+    }
+  ]
+}

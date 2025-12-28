@@ -1,0 +1,46 @@
+{
+  "number": 79,
+  "language": "ve",
+  "title": "79 U Vhidzwa Ha Vhakani.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:358",
+        "AH:338"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tsimu dzone dzo no lindela, mavhele o vhibva;",
+        "Dzi re kule ro no dzi vhona, hayani o vhibva."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Khosi ya khano thetshelesa, Muthusi ndi Iwe;",
+        "Vha rume avho vha kanaho, tshifhinga tsho fhira."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Vha rume na nga matsheloni, na nga masiari;",
+        "Naho hu na swiswi lihulu. Vha kana mavhele."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Iwe wo runwaho nga Yesu, kana u si bvafhe;",
+        "Wa fulufhela zwa tadulu, u wana malamba."
+      ],
+      "number": 4
+    }
+  ]
+}

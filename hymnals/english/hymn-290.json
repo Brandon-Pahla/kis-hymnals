@@ -1,0 +1,48 @@
+{
+  "number": 290,
+  "language": "en",
+  "title": "290 Toiling For Jesus.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Gladly, gladly, toiling for the Master,",
+        "Go we forth with willing hands to do;",
+        "Whatso’er to us he hath appointed,",
+        "Faithfully our mission we’ll pursue."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Toil…………ing for Jesus,",
+        "(Toiling, toiling for the Master) (yes)",
+        "Joyfully we go, joyfully we go;",
+        "Toil…………ing for Jesus,",
+        "(Toiling, toiling for the Master)",
+        "In his vineyard here below."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Joyful, joyful, we will tell the story,",
+        "Of his love to mortals here below;",
+        "Christ, the brightness of the Father’s glory,",
+        "Freely here his blessing will bestow."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Meekly, meekly, following the Master,",
+        "Walking faithfully the path he trod;",
+        "Leading wand’rers to the dear Redeemer,",
+        "Pointing sinners to the Lamb of God."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "number": 260,
+  "language": "sn",
+  "title": "260 Beulah Nyika Yakanaka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiri kufamba munyika, Musina nechiro",
+        "Asi imwi makazadza, Nzira nemaruva",
+        "Nyika iyi yeBeulah, Yakanaka kwazvo",
+        "Nokuti ndinaye Tenzi, Zuva nesikati"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyika yakanaka kwazvo, ndinoidisisa",
+        "Nyika iyi yechitsidzo ndiri kuivona"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hakuna nebvute rose, Kana nedimazve",
+        "Mbiri yenyu inovepo, Zuva nevusiku",
+        "Nzvimbo dzakanaka, Dzinoimba nengirozi",
+        "Dzino nzvikwa kwese kwese, Dzondifadza ini"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndozofamba murufaro, Kumusha wedenga",
+        "Mwoyo wangu unofara, Zuva nesikati",
+        "Mazambara ekudenga, Ndave petyo navo",
+        "Nekuti nzira iyoyi, Ndeye kumusoro"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": 314,
+  "language": "guz",
+  "title": "314 Ntor'as' Orogendo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ntor' as' orogendo,Kogenda igoro,'Bomenyo bw'abaya,Mogoko botambe,"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Timori kogenda?Timori kogenda?Minto nchwo togendenkaseito igoro"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ase ense eria,Mbareo 'bachenu,Tibari gwechanda,Gose gochandeka."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Bisieri chindwaki,Bikomekameka,Mwateba timori,Kogenda igoro."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nainw'abatayayi,Igoro neyaino,Mwateba timori,Kogenda igoro."
+      ],
+      "number": 5
+    }
+  ]
+}

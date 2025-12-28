@@ -1,0 +1,43 @@
+{
+  "number": 143,
+  "language": "en",
+  "title": "143 Lord Dismiss Us.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lord, dismiss us with Thy blessing,",
+        "Fill our hearts with joy and peace;",
+        "Let us each Thy love possessing,",
+        "Triumph in redeeming grace,",
+        "O refresh us, O refresh us,",
+        "Traveling through this wilderness!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thanks we give, and adoration,",
+        "For Thy gospel’s joyful sound;",
+        "May the fruits of Thy salvation,",
+        "In our hearts and lives abound,",
+        "Ever faithful, ever faithful,",
+        "To Thy truth may we be found."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "While our days on earth are lengthened,",
+        "May we give them, Lord, to Thee;",
+        "Cheered by hope, and daily strengthened,",
+        "May we run, nor weary be,",
+        "Till Thy glory, till Thy glory,",
+        "Without clouds in heaven we see."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 247,
+  "language": "tum",
+  "title": " 247 Mabelu Kucha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 247 Mabelu Kucha",
+        "C.S. 29 RING THE BELLS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "OF HEAVEN  1.",
+        "Mabelu kuchanya! kuli chimwemwe,",
+        "Para wakwananga wazgoka,",
+        "Dada wakumtemerera ku nthowa,",
+        "Mwana wakuzgewa wawera"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "WangeLo iakwimba kuchanya,",
+        "Ntchindi, ntchindi na viding'indi",
+        "Wakuwombokwa wavwaLikika tu!",
+        "Na ntchindi wakwimbira Fumu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mabelu kuchanya! kuli chimwemwe,",
+        "Wakuzgewa wang'anamuka,",
+        "Wakwananga wawezgeka k'heni,",
+        "Wababikaso mhanya uno."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mabelu kuchanya! ch'phikiro sono,",
+        "wangelo wakwimba nkhanira,",
+        "Mtandazge chimwemwe ku wakwananga,",
+        "Munthu yumoza wababiwa."
+      ],
+      "number": 4
+    }
+  ]
+}

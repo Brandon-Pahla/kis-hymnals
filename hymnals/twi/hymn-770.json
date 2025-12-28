@@ -1,0 +1,55 @@
+{
+  "number": 770,
+  "language": "tw",
+  "title": "NG20 So Mεhu Sika ‘Sase",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "So mehu sika ‘sase’ a",
+        "Woasiesie ‘ma hotefo",
+        "Anuonyam ‘sase a εhyerεn,",
+        "Na Yesu yε hann nom?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Merekɔ fie, Yiw, nɔdεw fie",
+        "W’ra yεm’ nokwafo",
+        "Kod’ru sika man nom’?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na mentumi nte ase",
+        "Sε metum’ atw’re Yesu;",
+        "Afei mahu sε metw’re No a",
+        "Obεdi m’anim daa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sε ɔbra mu yε den a,",
+        "Kristo ma mentum’ nyε den.",
+        "Ahobrεasem’ gyinaW’ bɔhyε so",
+        "Kodu W’ahemfie hɔ."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ahenkyεw bi retwεn me",
+        "Wɔ kuro fεfε no mu;",
+        "Mede dɔ yε nea mentumi a",
+        "Me ne No bεtraa daa."
+      ],
+      "number": 4
+    }
+  ]
+}

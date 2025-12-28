@@ -1,0 +1,57 @@
+{
+  "number": 88,
+  "language": "nd",
+  "title": "88 U Nga Ngi Dluli",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U nga ni dluli Msindisi",
+        "Yizw’ amazwi am’;",
+        "Laph’ abanye u babiza,",
+        "Ma u ngi zwe nam’!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi! Nkosi!,",
+        "Yizw’ amazwi am’",
+        "Laph’ abanye u babiza",
+        "Ma u ngi zwe nam’!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phambili kwes’hlalo somsa,",
+        "Se ngi khona nam’;",
+        "Ngi guqile ngi yakhala,",
+        "Yizwa Nkosi yam’!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngokwethemba kwami kuWe,",
+        "Woz’ u hlale nam’;",
+        "Yelaph’ umoy’ ophukile,",
+        "Ngi sindiswe nam’!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U nguMthombo wami Wena,",
+        "Wokuphila kwam’;",
+        "Ezulwini nasezweni,",
+        "Yiko konke kwam’!"
+      ],
+      "number": 5
+    }
+  ]
+}

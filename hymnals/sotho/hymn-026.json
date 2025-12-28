@@ -1,0 +1,55 @@
+{
+  "number": 26,
+  "language": "st",
+  "title": "26 Tje Ka Ha Ke Le Tje",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke na see ke se qosang, Mali a Hao a ts’olotsoe;",
+        "’Me U mpitsetsa ho uena,Konyana’ Molimo Ke ea tla."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Joale ke ntse ke emetse, Ho nts’a sebe moeeng oa ka;",
+        "Uena Ea hlatsoang ka mali, Konyana ’Molimo ke ea tla."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke ntse ke akheha le lintoeng le hona ngongorehong;",
+        "Ts’abo kahare le kantle, Konyana ’Molimo ke ea tla."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke le bofumanehing, Pono leruo pholiso;",
+        "E, tsohle ke ea li hloka, Konyana ’Molimo ke ea tla"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Joaleka ha ke le tjena, nkuke, nts’oarele U ntlhatsoe;",
+        "Hoba U ts’episitse, Konyana ea Molimo ke ea tla."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke le tje, ’rato la Hao. Le thuhile lintho tsohle;",
+        "Ke tla ba oa Hao fela, Konyana’ Molimo ke ea tla."
+      ],
+      "number": 6
+    }
+  ]
+}

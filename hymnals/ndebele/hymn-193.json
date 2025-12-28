@@ -1,0 +1,39 @@
+{
+  "number": 193,
+  "language": "nd",
+  "title": "193 Indlela yAkhe Nawe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U thand’ ukuphil’ uJesu u msulwa na? U ngahamba naYe engcingweni na?",
+        "Kamb’ u ngamnika yonk’ imthwalo athwale na? Vumel’ intando yAkhe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amandl’ Akhe angakuphendula, Igazi lAkhe li ngak’ khulula",
+        "Uthando lwAkhe lu gcwale kuwe; U thand’ u vumel’ intando yAkhe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U vum’ akukhulule, wenz’ aku shoyo na? U thand’ ukuthul’ u dele konke na?",
+        "U fun’ akusindise ungab’ u sawa na? Vumel’ intando yAkhe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U thand’ ukuphumul’ embusweni wAkhe na? Wazini akusiza ngayo wena?",
+        "U ngamsebenzela ngako konk’ onako na? Vumel’ intando yAkhe."
+      ],
+      "number": 4
+    }
+  ]
+}

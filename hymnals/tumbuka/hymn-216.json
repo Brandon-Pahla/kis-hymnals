@@ -1,0 +1,55 @@
+{
+  "number": 216,
+  "language": "tum",
+  "title": " 216 Ndekha Cha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 216 Ndekha Cha",
+        "NEVER ALONE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ndekha cha ntha ndiri ndekha Yesu ngwane,",
+        "Wakundisanguluska wali pafupi nthe,",
+        "Ka ulje m'bwezi? Ndiri nayo Yesu;",
+        "Ine nkhusinthasintha kweni lyo chara."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ntha ndiri ndekha ntha ndiri ndekha,",
+        "Wakapangana nane ntha tiwandisidenge ndekha."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Kuvuka? Ndivukirechi Yesu ngwane,",
+        "Ndayegama pa lyo ndipo nkhupumula,",
+        "Wakuzgewa ine ndanyekezga nadi,",
+        "Pa woko lake Yesu phe wakundipwerera."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Kulindizga? Inya, ine nkhulindizga,",
+        "Kasi yikuchedwerachi Fumu kwizaso,",
+        "we ukukondwa? Inya 'mwe nkhukondwa,",
+        "Nkhukondwa na lufura lwane ndiyo Yesu."
+      ],
+      "number": 4
+    }
+  ]
+}

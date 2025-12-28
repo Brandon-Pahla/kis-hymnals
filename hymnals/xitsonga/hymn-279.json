@@ -1,0 +1,24 @@
+{
+  "number": 279,
+  "language": "ts",
+  "title": "279. MBILU LEYI NGA GOMENI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "COME UNTO ME",
+        "1. Mbilu Leyi Nga Gomen, Mahlo Ma Nga voniki, Wo Ntsako Ripfumelwen, Na Ku Vonakala.",
+        "CHORUS",
+        "Tanani Ka Hina Hinkwerhu, Lava Karhaleke No Tikeriwa, Rhwalani Joko Ra Mina, Mi Dyondza Ka Mina, Ndzi Na Mbilu Yo RHula,",
+        "Mimoya Yenu Yi Kuma Ku Wisa",
+        "Bass: Tatanu, Tanani Ka Mina, Lava Karhaleke Na Lavo Tikeriwa,",
+        "Ndzi Ta Mi Wisisa, Tatani Mi Dyondza Ka Mina,",
+        "Ndzi Na Mbiku Yo Rhula, Mimoya Ya N’wina Yi Kuma Ku Wisa.",
+        "2. Rifumu No Tiphina Swi Nge Ndzi Enerisi, Rirhandzu Ri Na Ntsako, A Ri Na Ku Hela.",
+        "3. Nchavelelo Wa Hosi, Wu Nyikiwa Hi Yesu, Xana U Dyohe Ngopfu? Pfumela U Hanya.",
+        "4. Ku Rhula Lokonghasi, Risimu Ro Nandziha, Ra Joko Ro Vevuka, Masikwin Hinkwawo."
+      ],
+      "number": 1
+    }
+  ]
+}

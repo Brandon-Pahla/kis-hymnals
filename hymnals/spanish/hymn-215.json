@@ -1,0 +1,54 @@
+{
+  "number": 215,
+  "language": "es",
+  "title": "Con voz benigna te llama Jesús",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Con voz benigna te llama Jesús"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Con voz benigna te llama Jesús:",
+        "invitación de puro amor.",
+        "¿Por qué le dejas en vano llamar?",
+        "¿Sordo serás, pecador?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Llámate hoy, llámate hoy,",
+        "hoy ven a Cristo y dile:",
+        "\"Mi alma te doy\"."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A los cansados invita Jesús;",
+        "él ve su afán, siente el dolor.",
+        "Tráele tu carga; te la quitará,",
+        "te sostendrá tu Señor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Siempre aguardándote mira Jesús.",
+        "¡Tanto esperar, con tanto amor!",
+        "¡Ven, oh cargado, trayendo a sus pies",
+        "tu tentación, tu dolor!"
+      ],
+      "number": 5
+    }
+  ]
+}

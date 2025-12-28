@@ -1,0 +1,47 @@
+{
+  "number": 585,
+  "language": "tw",
+  "title": "B're a Wɔmaa Kristo So No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "B're a wɔmaa Kristo so no",
+        "ɔtrɛw Ne nsam ɔs'ro,",
+        "Amamm'rɛ ne awosu ny'naam'",
+        "De gyee ɔdɔ ho mmuae."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne dɔ kodu apuei nč atɔe",
+        "Aky'riky'ri ne bɛnkyɛe,",
+        "ɔfrɛ gye yɛn sɛ Ne nnamfo,",
+        "Na ɔdɔ yɛn saa'ra."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nea fekuw ne 'busua paapae",
+        "Yɛn mu 'nimguasem no,",
+        "ɔnhwɛ agyirae bi na mmom",
+        "Onipa ne edin."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wodɔ me kwa nti ma minnya",
+        "'Hofadi Kristo mu,",
+        "Na mennye N'ankasa de no",
+        "Sɛnea ɔgyee me no."
+      ],
+      "number": 4
+    }
+  ]
+}

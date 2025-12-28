@@ -1,0 +1,35 @@
+{
+  "number": 261,
+  "language": "guz",
+  "title": "261 'Mosalaba Togoetera",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Mosalaba togoetera,Gochia nka igoro;Ntokwobo' emeganda y'ebibe,Tat' otorendire."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nka, nka, nka,Gochia nka igoro,Mosalaba togoetera,Enka y'obwanchani."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mosalaba togoetera,Yes' otang'anire;Ntomobwatie chimbaratero,Nka engeg' engiya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mosalaba togoetera,'Nchera neba embe;Nare' oratorae buya,Nka 'Monen' as'ore."
+      ],
+      "number": 4
+    }
+  ]
+}

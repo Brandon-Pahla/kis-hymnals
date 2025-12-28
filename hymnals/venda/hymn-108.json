@@ -1,0 +1,54 @@
+{
+  "number": 108,
+  "language": "ve",
+  "title": "108. U Vhidza Nga Lufuno",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:182"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Murena ndi Mulisa, U ri Ida kha nne,",
+        "U dzumbame dangani, u wane vhuthsilo;",
+        "Ida u tshe na Maanda, Ida u tshe muswa,",
+        "Dzhena dangani lawe, kha ndila ya ngoho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nga lufuno Yesu u a ri vhidza,",
+        "’Iwe wo xelaho Ida kha nne.’",
+        "Na zwino u tshe o ri lindela,",
+        "Yesu Mulisa wanga."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yesu Mulisa wanga; we a ri fela-vho,",
+        "U a u fhembeledza, ’Ida kha nne zwino.’",
+        "Afho nnda hu na khombo, Ipfa u tshi vhidzwa,",
+        "Dzhena dangani lawe kha ndila ya ngoho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Dzhena ’si tima-time, nnda hu na phele,",
+        "Dzine dza nga huvhadza nngu dzo xelaho;",
+        "Yesu mulisa washu u a ri vhidza-ha,",
+        "Dzhena dangani lawe, kha ndila ya ngoho."
+      ],
+      "number": 4
+    }
+  ]
+}

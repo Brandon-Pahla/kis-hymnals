@@ -1,0 +1,34 @@
+{
+  "number": 202,
+  "language": "st",
+  "title": "202 Jesu ’Moloki Nkhule",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu ’Moloki nkhule sefefong sa bophelo,",
+        "Ke tleloa ke likotsi fika le le sa bonoeng,",
+        "Thuso e tsoa ho Uena Jesu ’Moloki nkhule."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Joaleka mosali ngoaneng U khutsise leoatle,",
+        "Maqhubu a mamela, ha U re a khutse tu!",
+        "Uena Morena’ leoatle Jesu ’Moloki nkhule."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke atamela bopong, maqhubu a ea rora,",
+        "Mahareng ho teng khotso ha ke le fubeng sa Hao,",
+        "Nke ke utloe ha U re se ts’ohe kea u hula"
+      ],
+      "number": 3
+    }
+  ]
+}

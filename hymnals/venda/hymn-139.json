@@ -1,0 +1,55 @@
+{
+  "number": 139,
+  "language": "ve",
+  "title": "139. Ndi I Wana Khonani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:186",
+        "AH:113"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndo i wana khonani yo mpfuna ndi sa divhi,",
+        "O nkokodzela kha lufuno uri ndi tshidziwe.",
+        "Mbilu yanga nga i vhofhiwe-vho nga Ene Yesu,",
+        "Zwino nne ndi wawe nga hu sa fheliho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndo no i wana khonani Ene we a fela nne,",
+        "A nyitela mpho khulu nga hone vhutshilo hawe.",
+        "Zwithu zwothe a si zwanga ndi zwa Ene munei,",
+        "Arali zwino ndi kha nndwa ndi do di awela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndo no i wana khonani Maanda othe ndi awe,",
+        "Ndi do di ya tadulu nga yenei ndila mbuya.",
+        "Ndi vhone lupenyo na uri ndi fhiwe Maanda,",
+        "Arali zwino ndi kha nndwa ndi do di awela."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndo no wana khonani ya vhulenda na tshilidzi,",
+        "Muphulusi wa vhutali mulisa a na Maanda.",
+        "We a mpfuna zwavhudi ndi kha di shaya mini,",
+        "Ri songo fhambanyiswa nga lufu ndi wau nne."
+      ],
+      "number": 5
+    }
+  ]
+}

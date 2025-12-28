@@ -1,0 +1,58 @@
+{
+  "number": 352,
+  "language": "pt",
+  "title": "Meu Refúgio Está no Monte",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Meu Refúgio Está no Monte"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Meu refúgio está no monte,",
+        "Onde posso descansar",
+        "E beber da limpa fonte",
+        "De água pura e salutar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Bem cedinho e de tarde",
+        "Sempre vou me refugiar;",
+        "Vou subindo para o monte",
+        "A beber da limpa fonte,",
+        "Bem cedinho e de tarde",
+        "Vou com Cristo me encontrar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Minha força está no monte,",
+        "Onde fico a meditar;",
+        "Meu poder provém da fonte,",
+        "Quando estou humilde a orar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Minha glória está no monte",
+        "Em que Cristo padeceu,",
+        "Onde vejo a rubra fonte",
+        "De Seu sangue que verteu."
+      ],
+      "number": 5
+    }
+  ]
+}

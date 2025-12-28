@@ -1,0 +1,42 @@
+{
+  "number": 610,
+  "language": "pt",
+  "title": "Améns",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Améns"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A. Amém"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B. Amém"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "C. Amém, Amém, Amém"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "D. Amém, Amém, Amém"
+      ],
+      "number": 5
+    }
+  ]
+}

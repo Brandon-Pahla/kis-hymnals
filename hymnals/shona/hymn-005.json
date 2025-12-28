@@ -1,0 +1,63 @@
+{
+  "number": 5,
+  "language": "sn",
+  "title": "5 Kure Senyi Kumusha?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A kurekure kumusha?",
+        "Ndabvunza murindi, ati,",
+        "Usiku hurikupera,",
+        "Kwakuda kuyedza.",
+        "Usacheme, kurumidza,",
+        "Mutewere, kusimbira;",
+        "Muchasvika mukupenya",
+        "Hakuna kupera."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndabvunza kune mukani,",
+        "Anerwiyo rwekushinga,",
+        "Ngekushinga ndinokana,",
+        "Hondo ichapera.",
+        "Musacheme, mutiwire,",
+        "Dakara basa rapera,",
+        "Tinoziva tinechipo,",
+        "Kuti takurira"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndabvunzazve pasi, zuva,",
+        "Zvese zvakandipindura;",
+        "Nguva irikundopera,",
+        "Jesu anouya.",
+        "Musacheme, zviwoniso zve",
+        "Zviri kutinyewera,",
+        "Zvisikwa zvese zvinoda",
+        "Tsuri imborira."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tiripatyo nekumusha,",
+        "Kunofadza kutondera",
+        "Chifarai imwi vafambi,",
+        "Bvisanyi’wo kutya.",
+        "Musacheme, tisangane",
+        "Apo kusina kuneta,",
+        "Zviyedzo’zvo zvakapera,",
+        "Tasvika kumusha"
+      ],
+      "number": 4
+    }
+  ]
+}

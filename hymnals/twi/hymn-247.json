@@ -1,0 +1,37 @@
+{
+  "number": 247,
+  "language": "tw",
+  "title": "Bra, Me Kwan, Nokwar' Ne Nkwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bra, me Kwan, Nokwar' ne Nkwa:",
+        "Sɛ Kwan a ɛma 'home;",
+        "Nokwar' a etwa 'kyinnye,",
+        "Nkwa a eyi owu hɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bra, me Hann, 'ponto, Tumi:",
+        "Sɛ Hann a ɛky'rɛ 'ponto,",
+        "'Ponto a ɛssiesie kra;",
+        "Tum' a ɛfrɛ Ne nk'rɔfo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bra, me Dɛw, 'Dɔ ne Koma:",
+        "Dɛw a obi ntumi nsɛe;",
+        "'Dɔ a obi ntumi ntem',",
+        "Komá a ɛgye n'ani 'dɔm'.\","
+      ],
+      "number": 3
+    }
+  ]
+}

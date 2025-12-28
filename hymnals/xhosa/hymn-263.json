@@ -1,0 +1,54 @@
+{
+  "number": 263,
+  "language": "xh",
+  "title": "263 Ngenisani Konke Okweshumi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yivan’ ilizwi lesiBhalo lithi, \"Ngenisani konke okweshumi.\"",
+        "Zisani’ umbingelelo waphakade, Themban’ ukusikelelwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ngenisani konke okweshumi, Nindilinge, Itsho iNkosi;",
+        "Ndonipha iintsikelelo, Kude kuswelek’ indawo yokugcina."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ninga ningaz’ amandl’ oMoy’ oNgcwele? Ngenisani konke okweshumi;",
+        "Thethani neNkosi onke amaxa, Ngoku isasikelela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nahlulwa yini na neNkosi yenu? Ngenisani konke okweshumi;",
+        "Ngenisani ngokomyalelo waKhe, Uyakunisikelela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyusan’ intliziyo nithi: YiNkosi Xa nizisa konke okweshumi.",
+        "Themban’ amadinga, noba novuyo, Xa nimnika intliziyo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hlabelan’ ingom’ emnandi kakhulu Ngexesha nizisa okweshumi.",
+        "Sithi: Haleluya! Ngezw’ elimnandi, Sizuze iintsikelelo."
+      ],
+      "number": 5
+    }
+  ]
+}

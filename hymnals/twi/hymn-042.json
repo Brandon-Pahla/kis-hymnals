@@ -1,0 +1,47 @@
+{
+  "number": 42,
+  "language": "tw",
+  "title": "B're a 'Dekyee Hann Hy'rɛn Wim Yi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "B're a 'dekyee hann hy'rɛn wim yi,",
+        "Yɛma yɛn koma so ma No,",
+        "Sɛ yɛn nneyɛe biara mu no,",
+        "Onyi yɛn mfi mmusu mu nnɛ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔmmɔ yɛn tɛkrɛma ho ban;",
+        "Onyi yɛn nkwa mfi abufuwm'",
+        "ɔmmma yɛnnhwɛ adebɔne,",
+        "Na ɔmmma yenntie 'huhude."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ saa da foforo yi twam,",
+        "Na anadwo beduru a,",
+        "B'rč a nkekae bi nni yɛn mu no",
+        "Yɛayi N'ayɛ, yɛn nkonim ho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ayeyi nka Wo, ɔbɔadeɛ!",
+        "Ayeyi nka Wo, daa Asɛm!",
+        "Ayeyi nka Wo, Honhom pa!",
+        "Yɛto dwom b'rč a hann wɔ hɔ yi."
+      ],
+      "number": 4
+    }
+  ]
+}

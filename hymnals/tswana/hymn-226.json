@@ -1,0 +1,37 @@
+{
+  "number": 226,
+  "language": "tn",
+  "title": "226 Batlile Go Kgonwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Batlile Go Kgonwa Tumelong,",
+        "Batlile g’amogela Kreste",
+        "Kete mongwe o re, \"Tloga moya, ya koo,",
+        "Ke tla Go bitsa ke bonye nako."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Batlile Go Kgonwa, Tla Janong;",
+        "Batlile, O se retologe,",
+        "Jes’Wa go laletsa, Bangele ba fa,",
+        "Oa rapelelwa, A ko O tle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Batlile, Thobo E Fetile;",
+        "Batlile, mme go tla tshenyego.",
+        "Batlile go ’fenya, Batlile, thetelo.",
+        "Telo e botlhoko, Ke latlhilwe."
+      ],
+      "number": 3
+    }
+  ]
+}

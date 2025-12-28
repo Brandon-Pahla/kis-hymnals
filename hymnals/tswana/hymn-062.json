@@ -1,0 +1,47 @@
+{
+  "number": 62,
+  "language": "tn",
+  "title": "62 Jeso Kea Go Rata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso Kea Go Rata, K’itse O Wame,",
+        "Ka ntlha ya ’Go ke tlogela boleo,",
+        "Morekolodi wa me, O Mmoloki;",
+        "Fa ke Go ratile Jeso, ke janong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Go Rato Go Bo O No Wa Nthata,",
+        "Wa nthekela boitshwarelo mokgorong;",
+        "Ke Go rata go bo O rwele mitlwa;",
+        "Fa ke Go ratile Jeso ke janong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Tla Go Rata Botshelong, Le Losong;",
+        "Ke tla Go baka fa ke sa tshedile,",
+        "Ke re, rame sa loso se le go nna,",
+        "Fa ke Go ratile Jeso, ke janong."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mannong A Kgalalelo Le Boipelo,",
+        "Ke tla Go tlotla gone legodimong,",
+        "Mme ke opele ke rwele serwalo,",
+        "Fa ke Go ratile Jeso ke janong."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 78,
+  "language": "st",
+  "title": "78 Ke Rata Ho Pheta Pale",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke rata ho pheta pale ea leholimo,",
+        "Ka Jesu khalalelong, le ka rato la Hae;",
+        "Ke rata ho e pheta, Hoba e le ’nete,",
+        "E nkholisa takatsong, Ho fetisa tsohle"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke rata ho e pheta, pale e halalelang,",
+        "Pale ea khale—khale, ea rato la Jesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke rata ho e pheta, pale e makatsang,",
+        "Ho feta le gauta tsa toro tsa rona;",
+        "Ke rata ho e pheta, E nts’ebelelitse,",
+        "’Me ke ka baka leo, ke ratang ho e pheta."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke rata ho e pheta pale ee monate,",
+        "’Me ha ke tla e pheta, E ba ntle haholo;",
+        "Ke rata ho e pheta, ho batho ba bang,",
+        "Ha ba eso ho utloe, thomo ea Molimo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke rata ho e pheta, ho ba tsebang hantle",
+        "Ba rata ho e utloa.Le joaleka ba bang;",
+        "Ha ke le khalalelong, pina ea ka e ncha,",
+        "E tla ba eona eane, Ee ke e ratileng."
+      ],
+      "number": 5
+    }
+  ]
+}

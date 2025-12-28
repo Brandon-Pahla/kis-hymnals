@@ -1,0 +1,20 @@
+{
+  "number": 172,
+  "language": "ts",
+  "title": "172. U TA RINI YESU?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOW LONG?",
+        "1. U Ta Rini Yesu, Hi Languterile, Timbilu Ta Karhala Hikuva Wa Hlwela; Wu Ta Fika Rini Ke, Mixo Lowo Xonga;",
+        "Masana Yo Kwetsima Ma Kwihi Ma Kwihi Xana Ke!",
+        "2.U Fika Rini Hosi U Hi Siye Hexe,",
+        "U Hlwela Ngopfu Hosi, Vunyingi Bya Tsana; Va Hanya Manyaleni Malandza Ya Wena, Lava Ku Rindzeleke I Nhlayo Yintsongo.",
+        "3.Pfukani N’wina Vanhu Hosi Yi Fikile, Vakwetsimi, Tiyani Yesu U Ta Fika;",
+        "Lumekani Timboni, Mi Tsimba Minkhamu, Timbilu Ti Lulama A Kondza A Fika."
+      ],
+      "number": 1
+    }
+  ]
+}

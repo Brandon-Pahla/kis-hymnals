@@ -1,0 +1,40 @@
+{
+  "number": 324,
+  "language": "ny",
+  "title": "324 - T’yimbe Nyimbo Yotikondwetsa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LET US SING A SONG THAT WILL CHEER US"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. T’yimbe nyimbo yotikondwetsa m’njiramo,",
+        "Tidzafika kwathu msangatu;",
+        "Ndipo posacedwa usiku ’dzapita,",
+        "Posacedwa tidzafikako.",
+        "CHORUS:",
+        "Posacedwatu posacedwatu,",
+        "Tidzafika tsidyalo",
+        "\"Dzakomana\" fe potha anamondwewa",
+        "Posacedwa tidzafikako.",
+        "3. Tidzagwira ntchito imene tipeza",
+        "Tidzafika kwathu kwathu msangatu",
+        "Adzatilimbitsa mwa nsisi zacezo",
+        "Posacedwa tidzafikako.",
+        "4. Tidzakonza njira kwa anthu otopa,",
+        "Tidzafika kwathu msangatu",
+        "Tidzakopa anthu m’cikondi caceco",
+        "Posacedwa tidzafikako",
+        "5. Tidzapumuladi pa tsidya la myanja",
+        "Tidzafika kwathu msangatu",
+        "Anthu sadzalira mu mzinda wowala",
+        "Posacedwa tidzafikako."
+      ]
+    }
+  ]
+}

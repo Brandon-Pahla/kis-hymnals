@@ -1,0 +1,64 @@
+{
+  "number": 21,
+  "language": "ve",
+  "title": "21 Ndi da Tshifhambanoni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:307",
+        "AH:184"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi da tshifhambanoni,",
+        "ndi da nga u pofula",
+        "Zwothe ndi a zwi sanda,",
+        "Kha Iwe ndi vhutshilo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndo fulufhela Yesu,",
+        "Ngwana ya Khalivari;",
+        "Yesu U amba na nne,",
+        "’ndi do u tanzwa tshothe.’"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi a lila mbiluni,",
+        "nga vhuvhi hanga hovhu;",
+        "Yesu U amba na nne,",
+        "’ndi do u tanzwa tshothe.’"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi di nekedza tshothe,",
+        "lupfumoni na khonani;",
+        "Mbilu yanga na muya,",
+        "zwothe nga hu sa fheli."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Yesu U amba hafhu,",
+        "U do ’nyita mukhethwa;",
+        "Ndi do vha o tshilaho,",
+        "thendo ndi ya Murena."
+      ],
+      "number": 5
+    }
+  ]
+}

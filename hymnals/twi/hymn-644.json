@@ -1,0 +1,47 @@
+{
+  "number": 644,
+  "language": "tw",
+  "title": "Nyame a Wo Pɛ Yɛ Nkwa Ma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame a Wo pɛ yɛ nkwa ma",
+        "Adasamma nyinaa;",
+        "Ka Wo nkoā a wɔne owu di",
+        "Ap'rep're nyinaa bom."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hyɛ wɔn nsa ne wɔn koma den",
+        "Ma wɔmpam nyarewa;",
+        "Wɔmfa W'ayar'sa tum' nko ntia",
+        "Niapduam' nyarewa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔnam ayaresa so yi",
+        "Kristo mmɔb'rɔhun' ne",
+        "'Duyɛfo kɛsen' adwen ky'rɛ",
+        "Ma 'Gyenkwa no din so."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Wo pɛ no si wɔn anim",
+        "Ma womfi komam mfa",
+        "Wɔn nimdeɛ mma Wo na wɔnsa",
+        "'Manehun'fo yare."
+      ],
+      "number": 4
+    }
+  ]
+}

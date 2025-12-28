@@ -1,0 +1,37 @@
+{
+  "number": 151,
+  "language": "tw",
+  "title": "Yesu Nantee Saa Bonhwa Yim'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu nantee saa bonhwa yim';",
+        "N'ankasa na ɔnantew mu.",
+        "Na obi ntumi nnante mu mma No.",
+        "N'ankasa na ɔnantee mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Sɛ sɛ migyina me sɔhwɛm',",
+        "M'ankasa na megyina mu.",
+        "Obiara ntumi nnyina mu mma me.",
+        "M'ankasa na megyina mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu nantee saa bonhawa yim';",
+        "N'ankasa na ɔnantew mu.",
+        "Na obi ntumi nnante mu mma No.",
+        "N'ankasa na ɔnantee mu."
+      ],
+      "number": 3
+    }
+  ]
+}

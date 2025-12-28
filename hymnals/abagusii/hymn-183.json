@@ -1,0 +1,42 @@
+{
+  "number": 183,
+  "language": "guz",
+  "title": "183 Tat'O Igoro Namanyete",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tat'O Igoro namanyete,'Merind'eratange nchera;Naserie chitang'utangu,'Mosunt'obe omobaso,'Mosunt'obe omobaso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Omanyir' emerind'erantangen nchera;(Omanyire, ekeen'emerind'erantang'enchera yane)Omanyire, Atang'embeo kogusa,(Omanyire, ekeene,Atange embeo ekogusa)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tat'O Igoro namanyete,'Riogo rikogweni' obobe;N'ogokuna kw'obwanchani,Agweni'enkor'eye yane,Agweni'enkor'eye yane."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tat'O Igoro namanyete,Buna ntabu' ababisa;Narend' Okwegena kwane,Andende goik'omoerio,Andende goik'omoerio."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tat'O Igoro namanyete,K'orogendo rokoera;Tiga eker'ekio Tata,Ntoke nyebiset' as'ore,Ntoke nyebiset' as'ore."
+      ],
+      "number": 5
+    }
+  ]
+}

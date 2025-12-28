@@ -1,0 +1,62 @@
+{
+  "number": 330,
+  "language": "tw",
+  "title": "Gye Me Bra, Me Wura Ma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Gye me bra, me Wura ma",
+        "Memfa nhyɛ Wo nsa koraa;",
+        "Gye me nsa na ma ɛnyɛ",
+        "Nea Wo dɔ nko bɛkyerɛ.",
+        "Nea Wo dɔ nko bɛkyerɛ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gye me nan na ma ɛho",
+        "Nyɛ hare nsɔ Wo ani;",
+        "Gye me nne na ma mento",
+        "Dwom mma me Hene daa daa.",
+        "Dwom mma me Hene daa daa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gye m'anofafa na ma",
+        "W'asɛmpa no nhyɛ mu ma;",
+        "Gye me dwetɛ ne sika,",
+        "Emu ban mpo meremfa.",
+        "Emu ban mpo meremfa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gye me pɛ fa yɛ Wo de,",
+        "Ͻrenyɛ me de biɔo;",
+        "Gye me koma, Wo dč ampa;",
+        "Ͻbɛyɛ Wo ahengua.",
+        "Ͻbɛyɛ Wo ahengua."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gye me dɔ m'Awurade,",
+        "Mihwie gu wo nan ase;",
+        "Gye me ne m'ade nyinaa,",
+        "Mɛyɛ Wo nko Wo de daa,",
+        "Mɛyɛ Wo nko Wo de daa."
+      ],
+      "number": 5
+    }
+  ]
+}

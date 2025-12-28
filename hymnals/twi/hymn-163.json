@@ -1,0 +1,47 @@
+{
+  "number": 163,
+  "language": "tw",
+  "title": "Dua No Ho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "So wohwiee m'Agyenkwa mogya?",
+        "Na me Hene no wui?",
+        "So ɔde Ne ti kronkron no",
+        "Ba bɛgyee me sɛɛ yi?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dua no ho, dua no ho,",
+        "'Hɔ na mihuu hann no,",
+        "Na me komam adesoa no te hwee;",
+        "Hɔ na menam gyidi so huu ade,",
+        "Na ɛnnɛ m'ani gye daa nyinaa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "So me bɔne nti na ɔhuu",
+        "Amane dua no so?",
+        "Mmɔb'rɔhun' bɛn ni! 'dom nwanwa,",
+        "'Dɔ a enni kabea!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'rɛhow biara rentumi ntua",
+        "'Dɔ ka a mede no;",
+        "'W'ra, mede me ho ny'naa ma Wo,",
+        "Nea metum' ayɛ ni!"
+      ],
+      "number": 3
+    }
+  ]
+}

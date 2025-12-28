@@ -1,0 +1,26 @@
+{
+  "number": 33,
+  "language": "es",
+  "title": "Tu presencia, Padre amante, invocamos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Tu presencia, Padre amante, invocamos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu presencia, Padre amante,",
+        "invocamos reverentes.",
+        "Nuestro ser y amor",
+        "ofrendamos, Señor,",
+        "y la gloria de tu verdad",
+        "hoy descienda a este lugar."
+      ],
+      "number": 2
+    }
+  ]
+}

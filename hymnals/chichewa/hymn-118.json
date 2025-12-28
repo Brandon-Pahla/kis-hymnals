@@ -1,0 +1,53 @@
+{
+  "number": 118,
+  "language": "ny",
+  "title": "118 - Ati Yesu Mbuyeyo ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "JESUS PAID IT ALL"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ati Yesu Mbuyeyo, Ofo’ka ndinutu,",
+        "Mudikire, mpemphedi, Ndidzapatsa mphamvutu,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu wathadi Za mangawatu,",
+        "Inde, ndinaipa bii, Watsuka ine mbu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mbuye ndimva leroli Za mphamvu zanuzi,",
+        "Zokha zisandutsadi Mtima wanga woti bii."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ine kanthu ndilibe, Kogula moyowu,",
+        "Ndingotsuka mtimano M’mwazi wa Ambuye ’Nu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mmene ndidzaimatu Pa chiweruzopo,",
+        "Podzapulumukatu, Ndidzamtama Yesuyo."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 60,
+  "language": "st",
+  "title": "60 Thabo Ea Pelo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu thabo ea pelo, Uena noka ea bophelo;",
+        "Boitumelong ba lefats’e, Re khutlela ho uena hape."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uena bohobe bo phelang, Re lakatsa ho ja uena,",
+        "Re noe ho Uena mohloli; U tlatse meea ’rona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re u lakatsa moeeng, Hohle moo re lahleloang teng;",
+        "Ho thabo h’a bososela, Leseho ha re ho lumela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu u lule ho rona, U re etsetse khotso;",
+        "Leleka fifi la sebe, U bonesetse lefats’e."
+      ],
+      "number": 4
+    }
+  ]
+}

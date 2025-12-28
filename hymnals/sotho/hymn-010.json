@@ -1,0 +1,46 @@
+{
+  "number": 10,
+  "language": "st",
+  "title": "10 Na Re Tla Phutheha Nokeng?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Na re tla phutheha nokeng, khatong tsa mangeloi;",
+        "Nokaneng tse halalelang tse mathang teroneng"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "E re tla phutheha nokeng, eona e ntle, e ntle haholo-holo",
+        "Le bona bahalaleli, nokeng e mathang teroneng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hona teng bopong la noka, moo metsi a leng matle;",
+        "Ke tla khumama kamehla, linakong tsa nyakallo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha re eso fihle nokeng, re tla rola meroalo;",
+        "Re tla bona hlohonolo, le seaparo le moqhaka."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kapele re fihla nokeng, leeto le tla fela;",
+        "Pelo li tla tlala thabo, le lipineng tsa khotso."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": 35,
+  "language": "guz",
+  "title": "35 Ira Erieta Ria Yeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ira erieta ria Yeso,Oyore n'obororo;Rikoreter' omogoko,Rirarie ande onsi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Erieta....... Rigiya.......Mogok'ense na'goro,(Erieta) (Rigiya)Erieta....... Rigiya.......Mogok'ense na'goro.(Erieta) (Rigiya)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ira erieta ria Yeso,Ribe buna enguba;Goetanan' amatemwa,sab' Erieta richenu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Rieta rigiya ria Yeso,Rikoremia chinkoro;Atoimokie n'amaboko,N'amatera motogie."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Orogendo rokoera,Twekanye gosasima;Tomobekere egutwa,Mogambi bwa'bagambi."
+      ],
+      "number": 5
+    }
+  ]
+}

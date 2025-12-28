@@ -1,0 +1,28 @@
+{
+  "number": 32,
+  "language": "guz",
+  "title": "32 Mbe N'Obosera Bwa Yeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mbe n'obosera bwa Yeso ime yane,'Mabera n'obochenu bwaye bwonsi;Omoik' Omochenu Anchene kegima,Goika Yes'arorekane ime yane."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mbe nobosera bwa Yeso ime yane,'Buya bwaye bororekan' asende;Tig'amang'an' ane Nebikorwa biane,Bioroki' obosera bwaye Yeso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Ker'orogendo rwane rwaerire,Ntare na Yeso botamb' as'obuya;Nkoimokigwa igoro 'S'enka y'omorembe,Neb' omogok'one komenya Nere."
+      ],
+      "number": 3
+    }
+  ]
+}

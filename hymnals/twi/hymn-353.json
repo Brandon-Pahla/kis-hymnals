@@ -1,0 +1,47 @@
+{
+  "number": 353,
+  "language": "tw",
+  "title": "Agya, Boa Wo Wiasem' Nk'rɔfo Ma Wɔnyɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Agya, boa Wo wiasem' nk'rɔfo ma wɔnyɛ",
+        "W'ahenni ho adwuma ne W'apɛde;",
+        "Ky'rɛ yɛn ma yenhu 'dɔ mu ayɔnkofa;",
+        "Yi yɛn ahantan na hy'ra yɛn 'hofama."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Afɔrebukyia W'ra, ka yɛn bom k'royɛm'",
+        "Sɛ 'dɔ bedi kan 'som ne adwumayɛm';",
+        "Ma yɛn otie pa ne anotew ho dom,",
+        "Ma yɛn ani nsɔ obiara akyɛde."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma yɛn asertram nhyehyɛe Ny'naa nyɛ kronkron,",
+        "'Desuabea, adwumam', ne 'yaresabea;",
+        "Yɛn adwumayɛ mmere ny'naa nyɛ kronkron,",
+        "Afei tew yɛn adwen ne yɛn 'hoɔden ho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "W'ra, ma yɛn ahoɔden mfa nyɛ W'adwuma,",
+        "Boa ma yɛntra ayɔnkofa pa mu daa;",
+        "Ma ɔsomfo Kristo ahoyi pa no,",
+        "Nsiesie yɛn som na yɛn abrabɔ nni mu."
+      ],
+      "number": 4
+    }
+  ]
+}

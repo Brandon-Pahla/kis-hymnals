@@ -1,0 +1,58 @@
+{
+  "number": 541,
+  "language": "es",
+  "title": "Señor, reposamos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Señor, reposamos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Señor, reposamos en tu santo día,",
+        "cumpliendo el mandato legado por",
+        "ti.",
+        "Reposo buscamos, Dios nuestro, en",
+        "tu seno;",
+        "que así ordenaste en el Sinaí,",
+        "que así ordenaste en el Sinaí."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tus hijos se acercan, oh Dios, a tu",
+        "trono",
+        "en santa, ferviente, sincera oración,",
+        "pidiéndote escuches su humilde",
+        "plegaria,",
+        "y gocen por siempre de tu",
+        "protección,",
+        "y gocen por siempre de tu",
+        "protección."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alienta a tus hijos, que obtengan",
+        "victoria,",
+        "que puedan fielmente tus leyes",
+        "cumplir;",
+        "y cuando vinieres, Señor, en tu",
+        "gloria,",
+        "que puedan por siempre contigo",
+        "vivir,",
+        "que puedan por siempre contigo",
+        "vivir."
+      ],
+      "number": 4
+    }
+  ]
+}

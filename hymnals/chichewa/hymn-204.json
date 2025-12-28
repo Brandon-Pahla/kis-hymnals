@@ -1,0 +1,36 @@
+{
+  "number": 204,
+  "language": "ny",
+  "title": "204 - Bwera Wosocera! Bwera!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WELCOME! WELCOME! WELCOME!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. M’dziko la alendo, Komwe ukhala,",
+        "Imva kuitana, \"Mwana wanga!’",
+        "CHORUS:",
+        "\"Bwera wosocera! Bwerera Kwanu!",
+        "Wasocera Kutali; Bwera kwanu!’",
+        "2. Ku dziko la njala, Wokomokawe",
+        "Idza ukondwe, \"Mwana wanga!\"",
+        "3. Siya zanduzo Coka m’matsoka,",
+        "Watopa mumtima, \"Mwana wanga!\"",
+        "4. Komo Ndotseguka! Ndiwe wangabe;",
+        "Ndikuyang’anabe, \"Mwana wanga!\"",
+        "5. Wasocereratu; Subwera kodi?",
+        "Wakhulukidwa, \"Mwana wanga!\"",
+        "6. Gome lilindira, Suiwalika!",
+        "Udzadye upume, \"Mwana wanga!\"",
+        "7. Wopanda kwanu’we, Wopereweza,",
+        "Ndikukonda iwe, \"Mwana wanga!\""
+      ]
+    }
+  ]
+}

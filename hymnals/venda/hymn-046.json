@@ -1,0 +1,49 @@
+{
+  "number": 46,
+  "language": "ve",
+  "title": "46 U Dovhe U Nyimbele ’vho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:286",
+        "AH:162"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. U dovhe u nyimbele-vho, maipfi a vhutshilo,",
+        "Vhudi hao ndi vhu vhone, maipfi a vhutshilo,",
+        "Ndi maipfi avhudi, a ’funza na nne."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Maipfi avhudi-vhudi, a a ri mangadza,",
+        "Maipfi avhudi-vhudi, a a ri mangadza."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yesu vhanwe o vha nea, maipfi a vhutshilo.",
+        "Mutshinyi u a vhidzwa-vho, nga ipfi la vhutshilo,",
+        "U fhiwa nga fhedzi, li isa litadulu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Vhudzani-ha vhathu vhothe, maipfi a vhutshilo,",
+        "One a disa mulalo, Yesu ndi Mutshidzi,",
+        "U kona U tanzwa na mbilu dzashu."
+      ],
+      "number": 4
+    }
+  ]
+}

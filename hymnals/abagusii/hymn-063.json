@@ -1,0 +1,35 @@
+{
+  "number": 63,
+  "language": "guz",
+  "title": "63 'Masase As' Egetunwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Masase as' egetunwa,Masase ar' enyancha,Akobara ebirubo,As' oborisi' obuya;Korende mbor' oborabu,Bor' omoy' one ime,Omoboria nao ore,Oborabu mboreo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amasase amaya mono,Ayare omoy' oneYeso kare amo nainche,Namasase enkoro."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nintugut' omoichano,buna eang' engotu;Kwamboyirie omogoko,Naichorw' ogotogia;Nor' omochie bw' oborabu,Agw'aye kwandoseirie'Moy' one orengererie,Nakobwatirie Yeso."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Omoboria kwangorire,Obogima n'obwao;Ekemore ki'abwanchani,Kemoreke boronge;Nor' omochie bw' oborabu,Agw' aye kwandoseirie'Moy' one orengerereirie,Nakobwatirie Yeso."
+      ],
+      "number": 4
+    }
+  ]
+}

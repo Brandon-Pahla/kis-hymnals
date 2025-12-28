@@ -1,0 +1,56 @@
+{
+  "number": 289,
+  "language": "pt",
+  "title": "Mais Perto da Tua Cruz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Mais Perto da Tua Cruz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Meu Senhor, sou Teu, Tua voz ouvi",
+        "A chamar-me com amor.",
+        "Eu almejo estar sempre junto a Ti,",
+        "Ó Bbendito Salvador!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Mais perto da Tua cruz,",
+        "Quero estar, ó Salvador!",
+        "Mais perto da Tua cruz,",
+        "Sempre quero estar, Senhor!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A seguir-Te aqui me consagro já",
+        "Constrangido pelo amor.",
+        "E minha'alma assim bem markdowne está",
+        "Em servir-te a Ti, Senhor!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, que doce paz, que alegria é,",
+        "Aos Teus santos pés estar!",
+        "E com terno amor, reverente fé,",
+        "Com o meu Senhor falar!"
+      ],
+      "number": 5
+    }
+  ]
+}

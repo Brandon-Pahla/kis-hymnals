@@ -1,0 +1,65 @@
+{
+  "number": 203,
+  "language": "ve",
+  "title": "203. Mufhumudzi O da",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:154"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Fhungo kha li pfadzwe, hothe hu na vhathu,",
+        "He mbilu dza vhathu dza lemelwa tshothe;",
+        "Ndimi dza Vhatendi kha dzi pfadze haya:",
+        "Mufhumudzi o da!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mufhumudzi o da, Mufhumudzi o da!",
+        "Muya wa tadulu, U bvaho ha Khotsi;",
+        "Hothe u na vhathu hu dihwe zwauri:",
+        "Mufhumudzi o da."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Vhusiku ho fhira, ho da matsheloni;",
+        "Ha tuswa tshililo, na khombo dza fhano,",
+        "Musi duvha lo kovhela dzithavhani,",
+        "Mufhumudzi o da!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Lufuno lukhethwa!",
+        "Ndi bule hani tshimangadzo kha vhathu,",
+        "nne nwana wa mutshinyi nda á¸",
+        "’i penyiswa nga tshilidzi tshawe!",
+        "Mufhumudzi oda!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Imba zwi pfale kule na lutomboni,",
+        "Vhakhethwa vha re tadulu vha fhindula,",
+        "Nga nyimbo dzavhudi dzi sa do fhelaho,",
+        "Mufhumudzi o da!"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 98,
+  "language": "xh",
+  "title": "98 U-Msindisi Unam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyamfuna u-Msindisi, Ngekhe ndihambe ndedwa;",
+        "Mandihambe endleleni, Endibambe ngesandla."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mphefumlo ungoyiki, Uya kukukhokela;",
+        "Ndohamba noba uyaphi, Kufuphi ndomlandela."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyamfuna u-Msindisi, Ndedwa ndakulahleka;",
+        "Nguye yena u-Mvuyisi, kade ndisoyiseka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyamfuna u-Msindisi Kuko ukuhamba kwam;",
+        "Abaninzi banosizi, Yiba ungu-Mncedi wam."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyamfuna u-Msindisi, Uyayazi indlela;",
+        "Ndakumlandel’ u-Msindisi, Weza ukusifela."
+      ],
+      "number": 4
+    }
+  ]
+}

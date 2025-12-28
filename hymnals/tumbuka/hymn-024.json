@@ -1,0 +1,77 @@
+{
+  "number": 24,
+  "language": "tum",
+  "title": " 24 Nkhukhumbiska Imwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 24 Nkhukhumbiska Imwe",
+        "I NEED THEE EVERY HOUR"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Khukhumbiska Imwe",
+        "Fumu yane Ndimwe mwekha",
+        "Pera m'kupa mtende."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nkhukhumba Imwe",
+        "Sono na mazuwa ghose;",
+        "Mundovwire a Yesu",
+        "Nkhwiza kwinu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nkhukhumbiska lImwe,",
+        "Mkhale nane;",
+        "Ntha ndingatondeka",
+        "Imwe m lipo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nkhukhumbiska imwe",
+        "Mukukondwa,",
+        "Na mkuwinya wuwo",
+        "Ntha nkhufwasa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Nkhukhumbiska lmwe,",
+        "M'ndisambizge; Mapangano",
+        "Ghose ghafiskike."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "Nkhukhumbiska Imwe,",
+        "Mwa watuwa,",
+        "Mundikumbukenge,",
+        "Ndiwe winu."
+      ],
+      "number": 6
+    }
+  ]
+}

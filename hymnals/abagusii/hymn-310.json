@@ -1,0 +1,35 @@
+{
+  "number": 310,
+  "language": "guz",
+  "title": "310 Nar'ase Y'obotimoko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nar'ase yobotimoko,Ang'e na Nyasae;'Gw'ebibe mbikogochanda,Ange na Nyasae."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aye Yes'Omoboria,Korwa ase Nyasae,Ir'abwo baganyete,Ang'e na Nyasae."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nar'as' okoremi 'okuya,Ang'e na Nyasae,'Gwo toumer' Omotoria,Ang'e na Nyasae."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nar'as' obosibore,Ang'e na Nyasae,'S'omogoko n'omorembe,Ang'e na Nyasae."
+      ],
+      "number": 4
+    }
+  ]
+}

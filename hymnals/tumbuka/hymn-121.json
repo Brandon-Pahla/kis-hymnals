@@ -1,0 +1,65 @@
+{
+  "number": 121,
+  "language": "tum",
+  "title": " 121 Ndimbenge Vya Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 121 Ndimbenge Vya Yesu",
+        "I WILL SING OF JESUS' LOVE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ndimbenge (ndimbenge) vya chitemwa",
+        "cha Yesu (cha Yesu) wakan'temwa,",
+        "Wakasi (wakasi) da kuchanya kwizakandifwira."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain:",
+        "Ndimbenge (ndimbenge) vya chitemwa,",
+        "Cha Yesu (cha Yesu) nyengo zose,",
+        "Wakaftwa (wakafwa) kundithaska, Ndimbenge wakun temwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ndichali (ndichali) ndi ndam'manye",
+        "Yesu wa (Yesu wa) kand'linira,",
+        "Ndichali (ndichali) ndi ndam rombe wakandirombera."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Ukunu (ukuru) wa chitemwa",
+        "charu ntha (charu ntha) chingamanya,",
+        "Uheni (uheni) wane wose ungatuwiskika."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Palje (palije) na kaweme",
+        "ndam'chiti (ndam'chiti) ra mponoski,",
+        "Iyo wa(iyo wa) kunditemwa nane ndimutemwe."
+      ],
+      "number": 6
+    }
+  ]
+}

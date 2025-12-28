@@ -1,0 +1,57 @@
+{
+  "number": 148,
+  "language": "tw",
+  "title": "'Dɔ a Emu Trɛw Na Ͻk'rɔn",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Dɔ a emu trɛw na ɛk'rɔn",
+        "Na ɛtra adwen nyinaa ni:",
+        "Sɛ Nyankopɔn Ba no bɛfaa",
+        "Yɛn nipasu too Né ho so."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn nti na wɔbɔɔ No asu,",
+        "Na Odii mmuada kronkron no;",
+        "Yɛn nti na Ohyiaa sɔhwɛ pii,",
+        "Na Odii sɔhwɛfo no so."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔde t'rimmɔden yii No mae,",
+        "Yɛn nti na wɔhyɛɛ No nsɔekyɛw;",
+        "Na ɔsoaa 'nimguase 'sɛnnua;",
+        "Yɛn nti, Ogyaee Ne home mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn nti na Onyan fii 'wu mu,",
+        "Na ɔf'ro kɔɔ s'ro kodii hen';",
+        "Yɛn ntiɔsomaa Ne honhom",
+        "Sɛ ɔnky'rɛ yɛn kwan, nhyɛ yɛn den."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anuonyam nka yɛn Aw'rade,",
+        "Wɔ ɔdɔ a ɛk'rɔn no nti;",
+        "Baasakoro a yɛsom Wo",
+        "Wɔ mfesanten ne mm'resanten."
+      ],
+      "number": 5
+    }
+  ]
+}

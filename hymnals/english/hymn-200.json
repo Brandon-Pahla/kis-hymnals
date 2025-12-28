@@ -1,0 +1,37 @@
+{
+  "number": 200,
+  "language": "en",
+  "title": "200 Holy, Holy, Holy",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Holy, holy, holy! Lord God Almighty!",
+        "Early in the morning our song shall rise to Thee;",
+        "Holy, holy, holy! Merciful and mighty!",
+        "God over all who rules eternity."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Holy, holy, holy! Angels adore Thee,",
+        "Casting down their bright crowns around the glassy sea;",
+        "Thousands and ten thousands worship low before Thee,",
+        "Which wert and art and evermore shalt be"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Holy, holy, holy! Though darkness hide Thee,",
+        "Though the eye of man Thy great glory may not see",
+        "Only Thou art holy; there is none beside Thee,",
+        "Perfect in power, in love and purity."
+      ],
+      "number": 3
+    }
+  ]
+}

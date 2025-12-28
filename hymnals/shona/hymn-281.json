@@ -1,0 +1,39 @@
+{
+  "number": 281,
+  "language": "sn",
+  "title": "281 Inopenya Iye Zvino",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyenyedzi yakabud’ usiku, Yakapenya nembiri huru",
+        "Yakatungamira vazivi , Kuna M’ponesi kudanga"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inopenya, iye zvino, Ichikupenya nyenyedzi!",
+        "Inopenya, iye zvino, Yeruponeso, nyenyedzi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vakaziviswa nenzvi redi, M’nguva yeiyi nyeredzi;",
+        "Vakateera nyenyedziyo, Yayipenya iri Kristu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tinoiteera sevakare, Mwenje wenyika wataurwa;",
+        "Tinoteera mwenje wayo, Dakara tisvike kudenga"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "number": 546,
+  "language": "tw",
+  "title": "'W'rade Ne M' Hwɛfo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'W'rade ne m'Hwɛfo, hwee nhia me",
+        "ɔma me da w'ra frɔmm",
+        "Adidibea; Ogya me kɔ",
+        "Nsu a ɛho dwo ho;",
+        "Ogya me kɔ, Ogya me kɔ",
+        "Nsu a ɛho dwo ho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔde me kra san ba nkwam'bio,",
+        "Na ɔma me nante,",
+        "Wɔ ne trenee akwan no so",
+        "N'ankasa din no nti;",
+        "Wɔ ne trenee akwan no so",
+        "N'ankasa din no nti;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yiw, sɛ menam 'wu bɔn mu mpō a",
+        "Minsuro bɔne bi,",
+        "Wo ne m'wɔ hɔ, W'abaa, poma,",
+        "Kyekyere me werɛ",
+        "Wo ne m'wɔ hɔ, W'abaa, poma,",
+        "Kyekyere me werɛ."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Woato ɔpon ama me wɔ",
+        "M'atamfo no anim,",
+        "Wode ngohuam afɔw me t'rim'",
+        "Me k'ruwa abu so;",
+        "Wode ngohuam afɔw me t'rim'",
+        "Me k'ruwa abu so;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yie ne adɔe bedi m'akyi",
+        "Me nkwa nna nyinaa mu;",
+        "Nyame fie na mede bɛyɛ",
+        "Me trabea daa nyinaa",
+        "Nyame fie na mede bɛyɛ",
+        "Me trabea daa nyinaa"
+      ],
+      "number": 5
+    }
+  ]
+}

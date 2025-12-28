@@ -1,0 +1,74 @@
+{
+  "number": 181,
+  "language": "ny",
+  "title": "181 - Sitidziwa Kudza Kwa Mbuye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WAITING AND WATCHING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Sitidziwa kudza kwa Mbuye,",
+        "Madzulo kapena mmawa;",
+        "Kapena nthawi ya usiku,",
+        "Kapena m’mabinga kucha;",
+        "Atiuzatu tikonzeke,",
+        "Tisazime nyali zathu;",
+        "Pobwera adzatipezetu,",
+        "Tili kumdikira Iye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kudikiratu, Ndi kupemphera;",
+        "Kuchezeratu, Ndi kuyang’anira Inu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "(Alto, Tenor, and Bass):",
+        "Kudikiratu ndi kupemphera,",
+        "Kudikiratu ndi kupemphera;",
+        "Kuchezeratu ndi kupemphera,",
+        "Ndi kuyang’anira Inu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Chikondi chake nchodabwitsa,",
+        "Kutiombola ifetu;",
+        "Anasiya malo oposa,",
+        "Nadza kudzatiferatu;",
+        "Nthawi zonse amakondwera,",
+        "Mmene owomboledwawo;",
+        "Akondwera m’chiyembekezo,",
+        "Podikira Mbuye wao."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Inu Yesu, Mombolo wanga,",
+        "Mudziwa ndikukondani,",
+        "Ndiyembekeza kundiona,",
+        "Ndidzamva mau anuwo;",
+        "Mmene mudzadza kuweruza,",
+        "Ena adzakuthawani,",
+        "Koma ine ndidzakondwera,",
+        "Ndili kudikira Inu."
+      ],
+      "number": 5
+    }
+  ]
+}

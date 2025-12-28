@@ -1,0 +1,56 @@
+{
+  "number": 150,
+  "language": "tn",
+  "title": "150 Ba Fa Kae Barobi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ba Fa Kae Barobi Ba Ba Robang",
+        "Diako di molemo masimong?",
+        "Ka thipa tsa boammaaruri dirang,",
+        "Se ikhutseng \"thobo e tle gae\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ba kae barobi? Go tla tla mang",
+        "Go newa kgalalelo ya barobi?",
+        "Mang yo tla re thusa go rora",
+        "Diako tse molemo masimong?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tswelang Dipatlelong Lo Di Senke;",
+        "Mabele a ka nna teng meferong,",
+        "Batlang mebileng se feteng dipe;",
+        "Phuthelang tsotlhe gae godimo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Masimo A Ya Butswa Kgakala",
+        "Lefatshe le lebeletse thobo.",
+        "Barobi ba nnye, tiro e kgolo,",
+        "Fa e leta tshenyego e kgolo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tlang Le Dithipa Bana Ba Batho,",
+        "Mme lo phuthe ditlhaka tsa gouda;",
+        "Dirang Mong wa thobo A be A tle,",
+        "Foo jang boipelo Nae thobong gae."
+      ],
+      "number": 4
+    }
+  ]
+}

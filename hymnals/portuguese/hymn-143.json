@@ -1,0 +1,56 @@
+{
+  "number": 143,
+  "language": "pt",
+  "title": "Será de Manhã?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Será de Manhã?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Será de manhã, no começo do dia?",
+        "Será quando a luz seu fulgor irradia,",
+        "Que Cristo há de vir com os anjos da glória,",
+        "Receber deste mundo os Seus?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Oh, Jesus, Salvador, Senhor!",
+        "Quando vamos cantar:",
+        "Cristo volta, aleluia, aleluia, amém!",
+        "Aleluia, amém?!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Será de manhã ou será pela tarde?",
+        "Também pode ser que as trevas da noite",
+        "Se tornem na luz desse brilho de glória,",
+        "Quando Cristo os Seus receber."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! graça sem fim, quando a morte vencida,",
+        "E Cristo Jesus revestir-nos de vida,",
+        "E formos então habitar lá na glória,",
+        "Nesse lar que Jesus preparou!"
+      ],
+      "number": 5
+    }
+  ]
+}

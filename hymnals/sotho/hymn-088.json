@@ -1,0 +1,46 @@
+{
+  "number": 88,
+  "language": "st",
+  "title": "88 Se Mphete",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Se mphete ’Moloki oa ka, Utloa ’llo sa ka,",
+        "Ha u ntse u bitsa batho, Se mphete le ’na."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesu, Jesu, utloa sello hle!",
+        "Ha u ntse u bitsa ba bang, Se mphete le ’na."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moo teroneng ea mohau, Ke hauheloe,",
+        "Ke khumame ka boinyatso, Nthuse tumelong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hoba ha ke ts’epa uena, Ke tla u batla,",
+        "Mpholise moea o kulang, Uena mpoloke."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U seliba sa ts’eliso, Se fetang tsohle,",
+        "Ha ke na e mong lefats’eng Ha e se uena"
+      ],
+      "number": 4
+    }
+  ]
+}

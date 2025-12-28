@@ -1,0 +1,92 @@
+{
+  "number": 2,
+  "language": "fr",
+  "title": "Dieu tout-puissant",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dieu tout-puissant,",
+        "Quand mon coeur considère",
+        "Tout l'univers créé par ton pouvoir;",
+        "Le ciel d'azur, les éclairs, le tonnerre,",
+        "Le clair matin, ou les ombres du soir."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "De tout mon être, alors s'élève un chant :",
+        "« Dieu tout-puissant, que tu es grand! »",
+        "De tout mon être, alors s'élève un chant :",
+        "« Dieu tout-puissant, que tu es grand! »"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quand par les bois, ou la forêt profonde,",
+        "J'erre et j'entends tous les oiseaux chanter;",
+        "Quand, sur les monts, la source avec son onde,",
+        "Livre au zéphir son chant doux et léger."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Mon coeur heureux, s'écrie à chaque instant :",
+        "« Ô Dieu d'amour, que tu es grand! »",
+        "Mon coeur heureux, s'écrie à chaque instant :",
+        "« Ô Dieu d'amour, que tu es grand! »"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mais quand je songe, ô sublime mystère!",
+        "Qu'un Dieu si grand a pu penser à moi;",
+        "Que son cher Fils est devenu mon frère,",
+        "Et que je suis l'héritier du grand Roi."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Alors mon coeur redit, la nuit, le jour :",
+        "« Que tu es bon, ô Dieu d'amour! »",
+        "Alors mon coeur redit, la nuit, le jour :",
+        "« Que tu es bon, ô Dieu d'amour! »"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quand mon Sauveur, éclatant de lumière,",
+        "Se lèvera de son trône éternel,",
+        "Et que, laissant les douleurs de la terre,",
+        "Je pourrai voir les splendeurs de son ciel."
+      ],
+      "number": 7
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Je redirai, dans son divin séjour :",
+        "« Rien n'est plus grand que ton amour! »",
+        "Je redirai, dans son divin séjour :",
+        "« Rien n'est plus grand que ton amour! »"
+      ],
+      "number": 8
+    }
+  ]
+}

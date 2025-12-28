@@ -1,0 +1,19 @@
+{
+  "number": 304,
+  "language": "ts",
+  "title": "304. YESU U LWERILE VANHU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu U Lwerile Vanhu A Hlula Sathani, A Yisiwa La Pilatoni Le Ka Tihosi;",
+        "A Landzula Hi Vayuda Rixaka Ra Yena. (2)",
+        "2. Vavasati Va N’wi Landza Va Karhi Va Rila, Yesu A Hlamula Aku: Mi Nga Ndzi Rileli;",
+        "Tirilelen A Ri N’wina Na Vana Va N’wina (2)",
+        "3. Twana Yesu Xihambanwe A Tlhava Mukhosi, A Ku: ‘Va Rivalele Vanhu Lava Tatana,",
+        "Lexi Va Nga Ku Xi Endleni A Va Xi Tivi’. (2)"
+      ],
+      "number": 1
+    }
+  ]
+}

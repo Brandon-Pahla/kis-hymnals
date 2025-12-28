@@ -1,0 +1,70 @@
+{
+  "number": 204,
+  "language": "tn",
+  "title": "204 Fatsheng Ja Ditshaba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Fatshing Ja Ditshaba, Kwa O Ileng Teng,",
+        "Utlwa lentswe ja re \"Morwaaka.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Boya motimedi, Tla kwano gae,",
+        "O ntse O timetse koo; Tla gae, tla gae."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fatsheng Ja Ditlala, O Idibala,",
+        "Tla boitumelong, Morwaaka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tlogela Magodu, Le Bofutsana,",
+        "Go lwana mo pelong, Morwaaka."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bona Go Sa Butswe, O Sale Wa Me,",
+        "Ke sa go disitse, Morwaaka."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Ile Kgakala; A O Sa Ya Teng?",
+        "Tla O itshwaretswe, Morwaaka."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dijo Di Baakantswe Ga O Lebalwe,",
+        "Go teng boikhutso, Morwaaka."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga O Na Ditsala, Le Tsholofelo,",
+        "Ke na le lorato, Morwaaka."
+      ],
+      "number": 7
+    }
+  ]
+}

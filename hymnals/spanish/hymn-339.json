@@ -1,0 +1,67 @@
+{
+  "number": 339,
+  "language": "es",
+  "title": "A veces oigo un himno",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A veces oigo un himno"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A veces oigo un himno",
+        "cual yo jamás oí:",
+        "es cántico divino,",
+        "igual no conocí;",
+        "es santa melodía",
+        "que expresa tierno amor;",
+        "es célica armonía",
+        "que exalta al Creador."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Oh, música divina!",
+        "¡Oh, canto del Edén!",
+        "Es eco de la bella,",
+        "feliz Jerusalén."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Qué dulce paz yo gozo",
+        "oyendo un canto tal!",
+        "El mundo tenebroso",
+        "olvido y todo mal.",
+        "Más dulce que las voces",
+        "del viento y del mar",
+        "es el cantar que llega",
+        "del trono celestial."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "El cántico sublime",
+        "cual sueño llega a mí;",
+        "paréceme su ritmo",
+        "cual brisas del jardín.",
+        "¡Dichoso pensamiento!:",
+        "Salvado yo seré,",
+        "y con los redimidos",
+        "el himno entonaré."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "number": 146,
+  "language": "sn",
+  "title": "146 Upenyu Hwenyu Kuneni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Pona mukati mangu",
+        "Jesu mamba wangu",
+        "Iwanyi mupinduro",
+        "Kumibvunzo yangu",
+        "Pona mukati mangu",
+        "Mutonge muzvese",
+        "Ini ndigopangidza",
+        "Vese mbiri yenyu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muiri watopirwa",
+        "Usina chitema",
+        "Reganyi mbiri yenyu",
+        "Ipenye mukati",
+        "Pasi ngarinyarare",
+        "Muiri ugove",
+        "Muranda akativa",
+        "Anotumwa nemwi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nenhengo dzavo dzese",
+        "Dziteerere \\‘mwi",
+        "Dzagadzirira basa",
+        "Rabva kuna Tenzi",
+        "Dzorinda dzisingatyi",
+        "Kurwadza nekutya",
+        "Nekuzaridzwa neMwi",
+        "Nepfungwa dzenhando"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndirinde nditerame",
+        "Ndisinga dzvongami",
+        "Ndokurindirayi",
+        "Kana murikundida",
+        "Pona mukati mangu",
+        "Jesu mambo wangu",
+        "Iwanyi mupinduro",
+        "Kumibvunzo yangu"
+      ],
+      "number": 4
+    }
+  ]
+}

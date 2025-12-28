@@ -1,0 +1,49 @@
+{
+  "number": 230,
+  "language": "tw",
+  "title": "'Nuonyam, 'Nidi Ne Nkamfo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Nuonyam, 'nidi ne nkamfo",
+        "Nka Wo, ɔhen' Gyefo;",
+        "Wo na mmofra de wɔn nne",
+        "Too hosana maa Wo;",
+        "Wo a Woyɛ Israel Hen'",
+        "Dawid dehye kronkron;",
+        "Nea ɔba 'W'rade din mu,",
+        "ɔhen' a wɔahy'ra Wo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abɔfodɔm no nyinaa",
+        "Yi Wo ayɛ wɔ s'ro;",
+        "Na nnipa ne abɔde",
+        "Nyinaa nso gye wɔn so;",
+        "Hebrifo mma de berɛw",
+        "Bɔɔ ose dii W'anim;",
+        "Yɛn ayeyi ne mpaebɔ",
+        "Na yɛde ba W'anim."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ansa na Worekowun'",
+        "Wɔtoo 'yeyi nnwom maaW';",
+        "Afei a wɔamaW' so yi,",
+        "Yɛto yɛn dwom ma Wo;",
+        "Wogyee wɔn ayeyi nnwom,",
+        "Gye yɛn nso ayeyi;",
+        "Wo a papa na Wopɛ,",
+        "ɔhene dɛɛfo pa."
+      ],
+      "number": 3
+    }
+  ]
+}

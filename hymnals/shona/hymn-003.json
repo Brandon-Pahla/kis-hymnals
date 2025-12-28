@@ -1,0 +1,47 @@
+{
+  "number": 3,
+  "language": "sn",
+  "title": "3  Usu Neusu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tichazoonana usu, NaTenzi toonana;",
+        "Ndinodisa kumuona Jesu wakandifira."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndichazomuona Tenzi, Iyo mhiri kwedenga;",
+        "Tichazoonana naYe, Gare gare kumusha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nhasi handisi kum’ona, Basi nge kudawira;",
+        "Asi musi unouya, Jesu uchazoonwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tichafara pamwe naye, Urombo hwazopera;",
+        "Ne nzira dzaruramiswa, Zvedima zvacheniswa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Toonana ngerufaro, Kuona nekuziwa;",
+        "Iye Mununuri wangu, Jesu unondidisa."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 277,
+  "language": "sn",
+  "title": "277 Mwenje Titungamire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mwenje, nditungamire, Mudima tungamira",
+        "Ndiri mudima, Kure nemusha tungamira",
+        "Ndichengete, Handidi kuona zvirikure",
+        "Tsiko rimwe chete"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kare ndaisa kumbira, Kuti ndibatsirwe",
+        "Ndaizvisarudzira, Zvino nditungamire",
+        "Ndaidisa nzira inopenya",
+        "Ndaidada, ndikanganwireyi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Simba renyu randikomborera, Tungamira",
+        "Munzvimbo dzese, Dzakaipa, nedzakanaka,",
+        "Nengirosi dzichinyemwerera,Dzo ndaida,",
+        "Ndanga ndisinadzo"
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "number": 336,
+  "language": "ny",
+  "title": "336 - Usikuwo Woyerawo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SILENT NIGHT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Usikuwo woyerawo, Mwana adamlerayo,",
+        "Akakhale Mfumuyo, Anabadwa m’kholamo",
+        "Mfumu ya Mafumu, Ndi ya anthuwo.",
+        "2. Mwanayo wa Mulunguyo, Andikonda inetu,",
+        "Nantayira cumaco, Nadzagona M’udzumo,",
+        "Ndiyamika Mbuye Wanga Yesuyo",
+        "3. Usikuwo woyerawo, Nudzatu Mtenderewo,",
+        "Ife tonse anthuwo, Atitenga Mlunguyo;",
+        "Mlemekeze \"Tate, Mwana, Mzimunso."
+      ],
+      "number": 2
+    }
+  ]
+}

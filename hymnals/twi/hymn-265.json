@@ -1,0 +1,47 @@
+{
+  "number": 265,
+  "language": "tw",
+  "title": "Honhom, Hom Gu Me So",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Honhom, hom gu me so,",
+        "Fa nkwa fof'ro hyɛm' ma,",
+        "Na me nso madɔ nea Wodɔ,",
+        "Na mayɛ nea Woyɛ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Honhom, hom gu me so,",
+        "Kosi sɛ me komam'",
+        "Bɛtew, na mayɛ nea Wopɛ,",
+        "Na matra Wo pɛ nom'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Honhom, hom gu me so,",
+        "Kosi sɛ Wobɛfam',",
+        "Na m'asase so nipadua",
+        "Bɛhy'rɛn sɛ Wo s'ro gya n'."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Honhom, hom gu me so,",
+        "Na m'ase atim daa,",
+        "Na mabɔ bra a ɛyɛ pɛ",
+        "Sɛ Wo de no bi daa."
+      ],
+      "number": 4
+    }
+  ]
+}

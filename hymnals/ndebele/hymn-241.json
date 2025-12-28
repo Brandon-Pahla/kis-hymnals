@@ -1,0 +1,48 @@
+{
+  "number": 241,
+  "language": "nd",
+  "title": "241 Izwe Lasebheula",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngafik’ ezweni lenala; Imfuyo ngeyani yonke.",
+        "Lapha ku kukhaya okuhle, Nobusuku budlulile."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ilizwe laseKhenani Ngiya kuma eNtabeni,",
+        "Ngithalaze ngaphesheya lapho kun’elam’ ikhaya;",
+        "Ngiya bona lon’ izulu, Isigodlo sakoMkhulu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Umsindis’ uhamba nani, Kamnandi siyakhuluma.",
+        "Ungidonsela phezulu, Kuwo umngcele wezulu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iphung’ elimnandi lona, Livela ezihlahleni",
+        "Imbali kazibuni le! Kukhon’ amaz’ okuphila!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ziyafika kimi lapha, Ingoma zezulu lapho.",
+        "Ingelosi sihlabela Ingoma zokusindiswa."
+      ],
+      "number": 5
+    }
+  ]
+}

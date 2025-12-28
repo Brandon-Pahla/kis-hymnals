@@ -1,0 +1,46 @@
+{
+  "number": 221,
+  "language": "st",
+  "title": "221 Boikhopotso Ba Galelia",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Maeba a llang, a huhutsang.",
+        "A thabisang mantsiboea,",
+        "A lupa ho hong hole,",
+        "Ho mpusetsang Gallilea"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chrous",
+        "Galilea, Galilea, Mo Jesu a ratileng,",
+        "Galilea Galilea, tlo, u mpinele hape"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lipaleseng, le botaleng,",
+        "Moo linonyana li binang,",
+        "Li iphafang ka lithoko,",
+        "Lithoko li bolela tsa Galilea"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke bala pale tsa Hae,",
+        "Ea tsamaileng Oatleng leo;",
+        "Oho ke lakatsa hangata hakakang.",
+        "Ho latela Galilea."
+      ],
+      "number": 4
+    }
+  ]
+}

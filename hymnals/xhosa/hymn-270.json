@@ -1,0 +1,47 @@
+{
+  "number": 270,
+  "language": "xh",
+  "title": "270 UMsindisi Wayolela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U-Msindisi wayolela, Wathembisa wathi,",
+        "\" ’Mkhokeli noMthuthuzeli woba nani.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Weza wasipha okuhle Ngobabalo lwaKhe;",
+        "Uhlala kwintliziyo Ethobileyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Siyaliva izwi laKhe Lizolile lona,",
+        "Sigxoth’ isono nokoyika kumoni."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Konk’ okuhle noloyiso Esinalo lona,",
+        "Nengcinga ezintle Siziphiwa nguYe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yiza, Moya oyiNgcwele, Sinike amandla;",
+        "Kwintliziyo zethu makuhlale wena."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": 220,
+  "language": "ts",
+  "title": "220. TIKO RA KA RIKWERHU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE HOME LAND! O THE HOMELAND!",
+        "1. Tiko Ra Ka Rikwerhu, Tiko Ra Ntshuxeko, Vusiku A Byi Kona, Ku Tshama Ri Xile,",
+        "Ndzi Navela Ekaya Hi Mbilu Hinkwayo,",
+        "A Ku Na Swivavi Kona, Ndzi Kongome Kona (Bis)",
+        "2.Hosi Yesu U Kona Na Tintsumi Kaya, Swidyoho A Swi Kona, Ku Hava Miringo,",
+        "Tinsimu Leto Nandziha, Etindleveni, Loko Ndzi Tsundzuka Kaya, Mihloti Ya Tshona",
+        "(Bis)",
+        "3.Va-aki Va Rikwerhu, Va Ndzi Vita Kaya, Swivavi Na Maxangu, A Swi Nga Kumeki,",
+        "Tiko Leri Ro Rhula, Tiko Ro Saseka,",
+        "Ndzi Yise Kaya Yesu Mukutsuri Wa Mina (Bis)"
+      ],
+      "number": 1
+    }
+  ]
+}

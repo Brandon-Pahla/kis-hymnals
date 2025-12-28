@@ -1,0 +1,46 @@
+{
+  "number": 4,
+  "language": "sn",
+  "title": "4 Arikuuya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Soko rakanaka kunesu vafambi, Apo tinoyenda pasi’po;",
+        "Asi Muponesi achazouyazve, Kutonga umambo hwake’wo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Arikuuya ngekukasika, Jesu zve arikudzoka, Nevafambi vake vachazotorwa, Apo Jesu auya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Makuva ekare apo vanorara, Vafambi vakafa naKristu;",
+        "Vachazarurwazve, vanhu vanomuka, Vachapona pamwe na Jesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tichasangana kumusha’wo kudenga, Tichaimba ngekuponeswa;",
+        "Vaponeswi’wo vachabva pasi rese, Vanamate Mambo wedenga."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hariruya, Amen, nezve Hariruya, Ngekudawira, tichasvika;",
+        "Namata, simbira, kufara, dakara, Topfeka mbiri yekudenga."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 7,
+  "language": "sn",
+  "title": "7 Apo Jesu Anouya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Apo Jesu anouya kugashira vake;",
+        "Vanhu vake vakanaka, Vanodikanwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Senyenyedzi kudenga, Vese vachapenya;",
+        "Vachagara naJesu, Wake, kumusha"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vachaunganidza vana veumambo hwake:",
+        "Vatereri vakanaka, Vanodikanwa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vana vese vanodisa Muponesi wavo",
+        "Varivake vanokosha, Vanodikanwa"
+      ],
+      "number": 4
+    }
+  ]
+}

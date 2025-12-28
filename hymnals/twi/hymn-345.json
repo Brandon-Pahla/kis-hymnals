@@ -1,0 +1,48 @@
+{
+  "number": 345,
+  "language": "tw",
+  "title": "Kristo Ne Wiase Hann",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kristo ne wiase hann,",
+        "ɔne ne nkwagye sahen;",
+        "'Nipa ne aman ny'naa,",
+        "'Dekyee ns'romma a ɛhy'rɛn;",
+        "Wɔn a wɔfa No no,",
+        "Nya nkwa ne 'nidaso;",
+        "Wonya ahofadi",
+        "Ma 'nadwo dan 'dekyee."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nnipa ny'naa hyia Kristom,",
+        "Kan akokoakoko twam;",
+        "Wiase ny'naa bɛka 'bom,",
+        "Fi apuei kosi atɔe;",
+        "Sɛ Kristo di hen a,",
+        "Nnipa bɛpo wɔn sųro;",
+        "Pea ne nkrantɛ adan",
+        "'Kuafo 'funtumade."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, din kunin mu no,",
+        "Ka yɛn a yɛwɔW' ny'naa bom;",
+        "Yi yɛn ahantan a",
+        "Ͻmma ywnsom Wo yie no;",
+        "Wiase atwɛn akyɛ Wɔ apinisi mu,",
+        "Sɛ bɛsa ne yar' no,",
+        "'Somdwoe Hen', bɛdi hen'."
+      ],
+      "number": 3
+    }
+  ]
+}

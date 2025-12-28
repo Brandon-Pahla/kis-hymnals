@@ -1,0 +1,45 @@
+{
+  "number": 89,
+  "language": "ve",
+  "title": "89 Tshifhinga Tsha U rabela.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:478",
+        "AH:267"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi zwavhudi u rabela, zwi do humisa vhutungu;",
+        "Zwi ntswikisela ha khotsi, zwothe zwine nda zwi shaya.",
+        "Nga tshifhinga tsha mathupho, ndi a anzela u fhumudzwa;",
+        "Ndi ponyoke u lingwani, nga tshifhinga tsha thabelo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi zwavhudi u rabela, hu isa khumbelo dzashu;",
+        "Ngoho yawe i shudufhadza, a mu thetshelesaho,",
+        "U ri ndi mu fune Ene, ndi tende na ipfi lawe.",
+        "Ndi do disa zwothe khaE, ndo lindela nga thabelo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi zwavhudi u rabela, u nga ri ndi nga fhumudzwa;",
+        "Ndi vhuye ndi vhone haya, ndi fulufhele-vho hone,",
+        "Nda wana muvhili muswa, ndi yo wana vho mukovhe;",
+        "Ndi huwelele ndi tshi ri, sala zwavhudi thabelo."
+      ],
+      "number": 4
+    }
+  ]
+}

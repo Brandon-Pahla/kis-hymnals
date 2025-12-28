@@ -1,0 +1,63 @@
+{
+  "number": 130,
+  "language": "ny",
+  "title": "130 - Ndine Wanuyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I AM THINE, O LORD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndine wanuyo, ndamva mauwo,",
+        "A chikondi chanucho;",
+        "Mundikoketu mfupi ndinuyo,",
+        "Mwa chikhulupirocho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mndisendeze (mfupi), mfupi mbuyanga,",
+        "Ndi pa mtanda wanuwo;",
+        "Mndisendeze mfupi, Mbuye wanga ’Nu,",
+        "Ndi pa mwazi wanuwo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. M’ntchito yanu mndipatulire ’ne,",
+        "Mwa chisomo chanucho;",
+        "Moyo wangawo uyang’ane ’Nu,",
+        "Ndichitetu zanuzo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndikondwera ’ne pakupitatu,",
+        "Kugwadira Mbuyeyo;",
+        "Pakunenatu naye mserimo,",
+        "Monga bwenzi langalo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Sindidziwatu za chikondicho,",
+        "Mpaka n’dzanke tsidyalo;",
+        "Sindifikira za chimwemwecho,",
+        "Mpaka n’dzanke kwanuko."
+      ],
+      "number": 5
+    }
+  ]
+}

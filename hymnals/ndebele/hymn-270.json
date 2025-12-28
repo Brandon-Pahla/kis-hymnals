@@ -1,0 +1,47 @@
+{
+  "number": 270,
+  "language": "nd",
+  "title": "270 Oweth’ Umkhululi Esefa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Oweth’ oMkhulu esefa, Wasivalelisa",
+        "Wasishiyela uMholi, Abe kithi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uza kusiph’ isithunzi, Abe nguMduduzi",
+        "Um’ethol’ othobileyo Novumayo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lakh’ilizwi siyalizwa, Lihlala lis’khuza",
+        "Kokubi nasovalweni Emhlabeni"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Konke ‘kulung’ esinako, Nokunqob’ iz’lingo",
+        "Nemi cabango engcwele, Inge yAkhe"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moya ohlanzekileyo, Bon’ abawileyo",
+        "Thina sibe indlu yAkho, Ngeqiniso"
+      ],
+      "number": 5
+    }
+  ]
+}

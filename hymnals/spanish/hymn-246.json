@@ -1,0 +1,65 @@
+{
+  "number": 246,
+  "language": "es",
+  "title": "Te quiero, mi Señor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Te quiero, mi Señor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Te quiero, mi Señor;",
+        "habita en mí,",
+        "y vencedor seré",
+        "por fe en ti."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Te quiero, sí, te quiero;",
+        "siempre te anhelo;",
+        "bendíceme, te ruego;",
+        "acudo a ti."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Te quiero, ¡ohJesús!,",
+        "mi Salvador.",
+        "¡Oh!, hazme en verdad",
+        "tu servidor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu voluntad, Señor,",
+        "enséñame;",
+        "y de tu gran amor,",
+        "¡oh!, cólmame."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh! mi gran Bienhechor,",
+        "en tentación",
+        "concédeme valor",
+        "y protección."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 145,
+  "language": "tum",
+  "title": " 145 Mngakananga Mlimo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 145 Mngakananga Mlimo",
+        "ASK NOT TO BE EXCUSED"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "M'ngakananga mlimo, mlimo wa Chiuta,",
+        "Nozgekeraninge kutumika kose,",
+        "Wakumuchemani na nchemo yiweme,",
+        "Mzomereni iyo kumutewetera."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Zaninge m 'ngakananga mLimo,",
+        "Zaninge mumutewetere,",
+        "M'ngakananga mLimo mLimo wa Chiuta.",
+        "MuLutenge kose uko wakukhumba."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "M'ngakananga mlimo, Fumu yikuchema,",
+        "Wamkana kanandi sono mpulikire,",
+        "Mbuto m'minda zacha wavuni mbachoko",
+        "Mukondwe kuchita mulimo wa Fumu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "M'ngakananga mlimo, m'ngaziulikanga,",
+        "Pakukana mlimo, chitemwa palije,",
+        "Mu lusungu lwake, walongozge nthowa,",
+        "Yesu nkhoswe yithu, watigowokenge."
+      ],
+      "number": 4
+    }
+  ]
+}

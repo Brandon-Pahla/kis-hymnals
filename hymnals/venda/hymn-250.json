@@ -1,0 +1,52 @@
+{
+  "number": 250,
+  "language": "ve",
+  "title": "250. U Si Tende U Kundwa Nga Milingo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:468"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. ’Si tende milingo, ’Si tende zwivhi,",
+        "Wo kunda u kona u tshidza munwe;",
+        "Ilwani nga Maanda no litsha vivho,",
+        "No sedze kha Yesu u do ni tshidza."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Humbela thuso yawe, U do u khwathisa-vho,",
+        "Ene u do u thusa, a u tsireledza."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. tuwela vhuvhi na matamba othe,",
+        "Ni di hulisa dzina la Yehova,",
+        "Ni vhe na tshilidzi, ni na vhulenda,",
+        "Ni sedza kha Yesu, u do ni thusa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Vhothe vha kundaho vha fhiwa khare,",
+        "Nga lutendo ri do kunda, ri sa we,",
+        "Mutshidzi washu u do ri fha Maanda,",
+        "Kha ri sedze Yesu U do ri tshidza."
+      ],
+      "number": 4
+    }
+  ]
+}

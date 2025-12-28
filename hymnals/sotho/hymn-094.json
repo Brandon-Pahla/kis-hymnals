@@ -1,0 +1,44 @@
+{
+  "number": 94,
+  "language": "st",
+  "title": "94 U Se Lebale Sabbatha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Le se keng la lebala, Sabbatha ’a Molimo;",
+        "Ke e ntle ho feta matsatsi a mang ’ohle,",
+        "Le ea re phomotsa mesebetsing ea rona;",
+        "E re tlisetsa phomolo e tsoang holimong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Le amohele ka thabo tsatsi la Sabbatha,",
+        "Le amohele ka thabo tsatsi la Sabbatha."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E halaletse u mo rapele kajeno;",
+        "Ea itseng ho barutuoa, Ke ’na tsela ’phelang,",
+        "Ha le latela ’Moloki ka boikokobetso;",
+        "O tla re fa metsi a bophelo bo sa feleng"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsatsing le khethiloeng, thabelang nako e ntle;",
+        "Binela Jesu, e leng motsoalle oa bana,",
+        "A ’Moloki ea mosa O lokile hakaakang",
+        "Tsepiso ea bohlokoa ’tla aha pelong tsohle."
+      ],
+      "number": 3
+    }
+  ]
+}

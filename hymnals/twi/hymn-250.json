@@ -1,0 +1,67 @@
+{
+  "number": 250,
+  "language": "tw",
+  "title": "Anka Manya Tɛkrɛmá Apem",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Anka manya tɛkrɛmá apem",
+        "Ayi me Ponfō ayɛ;",
+        "Me Nyankopɔn Hen' anuonyam,",
+        "Ne dom mu nkonimdi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me W'ra dɛɛfo ne me Nyame,",
+        "Boa me ma mentea mu",
+        "Nka nkyerɛ wiasefo nyinaa,",
+        "Wo din anuonyam no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu din a etu yɛn sųro,",
+        "Ͻpam yɛn aw'rɛhow;",
+        "Ͻyɛ dwom bɔn'yɛfo asom,",
+        "Ͻyɛ nkwa ne 'somdwoe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Obubu bɔne tumi mu,",
+        "Na ɔsan' deduani;",
+        "Ne mogya tew bɔn'yɛfo ho,",
+        "Mogyan' wɔ hɔ ma me."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔkasa, na wɔte Ne nnč a,",
+        "Awufo nya nkwa bio;",
+        "Koma bubu di ah'rusi,",
+        "'Hobrɛasefo gye di."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mo asotifo, muntie No,",
+        "Mo mmum, monkamfo No;",
+        "'Nifraefo monhwɛ mo Gyefo,",
+        "Mmubuafo nhųri nni dɛw."
+      ],
+      "number": 6
+    }
+  ]
+}

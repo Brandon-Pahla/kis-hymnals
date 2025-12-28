@@ -1,0 +1,58 @@
+{
+  "number": 63,
+  "language": "pt",
+  "title": "Houve Alguém",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Houve Alguém"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Houve Alguém que Se achando disposto a morrer",
+        "Por um vil pecador que sou eu,",
+        "No caminho da cruz suportou o sofrer:",
+        "Meus pecados ali esqueceu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Lá estão sobre a cruz,",
+        "Lá estão sobre a cruz,",
+        "Meus pecados na cruz já estão.",
+        "Com que angústia Jesus",
+        "Caminhou para a cruz!",
+        "Santo que me deu salvação!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ele é meigo comigo, paciente e leal,",
+        "Pelo Seu grande amor salvo sou;",
+        "Liberdade me deu, gozo e paz perenal,",
+        "Minhas faltas na cruz já pregou."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Grato sou a Jesus, Ele deu-me o perdão,",
+        "E com Ele feliz sempre sou.",
+        "Em meus lábios terei esta linda canção:",
+        "\"Meus pecados Jesus perdoou.\""
+      ],
+      "number": 5
+    }
+  ]
+}

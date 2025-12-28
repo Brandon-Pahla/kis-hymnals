@@ -1,0 +1,39 @@
+{
+  "number": 207,
+  "language": "nd",
+  "title": "207 Ngabon’ Othile Emthini",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngabon’ Othile emthini Loph’ igazi kuYe,",
+        "Amehl’ Akh’ ez’nyembezeni Ngam’ eduze kwAkhe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wangikukisisa njalo Ngofa ngingakholwa,",
+        "Ngathola enye ingqondo Kungekh’ engakuzwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Impela waz’del owathi Konke ng’kuxolele!",
+        "Bangezwa bonke ngegazi Liyahlaulela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ukufa kubek’ obala Ububi besono;",
+        "Imfihlakalo yesisa Yenz’ intethelelo."
+      ],
+      "number": 4
+    }
+  ]
+}

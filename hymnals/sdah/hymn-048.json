@@ -1,0 +1,28 @@
+{
+  "number": 48,
+  "language": "en-sdah",
+  "title": "48 Softly Now the Light of Day",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Softly now the light of day Fades upon our sight away: Free from care, from Labour free, Lord, we would commune with Thee."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Thou, whose all-pervading eye Nought escapes, without, within, Pardon each infirmity, Open fault, and secret sin."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Soon from us the light of day Shall forever pass away; Then, from sin and sorrow free, Take us, Lord, to dwell with Thee."
+      ],
+      "number": 3
+    }
+  ]
+}

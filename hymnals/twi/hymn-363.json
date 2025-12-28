@@ -1,0 +1,49 @@
+{
+  "number": 363,
+  "language": "tw",
+  "title": "'W'rá a Wode Dɔ Som",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "W'rá a Wode dɔ som 'hobrɛasem",
+        "De soaa nnipa ahiade;",
+        "Wō a wɔpoo Wo 'sɛnnua no so",
+        "Nso Woyɛɛ dom adwuma:",
+        "Wo nkoa de yɛn som rebrɛ Wo,",
+        "'Nyɛ nne mu nko, na komam;",
+        "Yɛde akyɛde biara a",
+        "Wode ma yɛ W'apɛde."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo mma da so wɔ ntwɛtwɛdɛ;",
+        "ɔkɔm mma da so resu;",
+        "Nneduafo p're pɛ 'hofadi;",
+        "Yɛda so su yɛn 'wufo.",
+        "Sɛnea Wode ahummɔb'rɔ",
+        "Sa ɔkra no yare no,",
+        "Fa Wo Honhom tumi no so",
+        "Besiesie yɛn wiase yi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛresom yi, ma yɛn nhun'mu",
+        "Kosi sɛ Wo dɔ hann no",
+        "Wɔ ne k'rɔn ne kɛseyɛ mu",
+        "Bɛkanyan yɛn adehu;",
+        "Na yɛahu 'hiade ne nnesoá a",
+        "W'adɔe hyɛ yɛn ma yɛsoa,",
+        "Na akanyan yɛn ama 'som",
+        "Ne Wo nkwa ho 'dansedi."
+      ],
+      "number": 3
+    }
+  ]
+}

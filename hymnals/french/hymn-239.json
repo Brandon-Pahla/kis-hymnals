@@ -1,0 +1,58 @@
+{
+  "number": 239,
+  "language": "fr",
+  "title": "Nous réclamons, Seigneur",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nous réclamons, Seigneur, ta présence,",
+        "De ton Esprit le feu, la puissance.",
+        "Viens et demeure au milieu de nous,",
+        "Bénis ce rendez-vous !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Parle, bien-aimé Maître !",
+        "Oh, oui, parle à nos cœurs !",
+        "Ta gloire fait paraître,",
+        "Verse en nous tes faveurs."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Viens nous donner, selon ta promesse,",
+        "Paix et bonheur, parfaite allégresse.",
+        "Fais abonder, en nous, chaque jour,",
+        "Ta grâce, ton amour !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mets sur nos yeux ton divin collyre,",
+        "Place nos cœurs sous ton doux empire.",
+        "Que de t'aimer et de t'obéir,",
+        "Soit notre seul désir !"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alors, par nous, le flot salutaire",
+        "De ton amour, coulant au Calvaire.",
+        "Se répandra parmi les perdus",
+        "Pour ta gloire, ô Jésus !"
+      ],
+      "number": 5
+    }
+  ]
+}

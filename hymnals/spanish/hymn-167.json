@@ -1,0 +1,56 @@
+{
+  "number": 167,
+  "language": "es",
+  "title": "¿Quién en deslumbrante gloria?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¿Quién en deslumbrante gloria?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Quién en deslumbrante gloria",
+        "con sus huestes está?",
+        "¿Quién con célica armadura",
+        "delante de ellos va?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Ve adelante, Señor, supremo Rey!",
+        "En gloria sublime y santa majestad.",
+        "¡Ve adelante, a la victoria, ve!,",
+        "que cielo y tierra tuyos son,",
+        "Señor, supremo Rey."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Canta, pueblo remanente,",
+        "presto salvo serás;",
+        "pronto fin tendrán tus pruebas",
+        "si con el Rey estás."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, ven pronto, santo día",
+        "de esplendor sin igual,",
+        "cuando en hermosura vuelva",
+        "Jesús, Rey eternal."
+      ],
+      "number": 5
+    }
+  ]
+}

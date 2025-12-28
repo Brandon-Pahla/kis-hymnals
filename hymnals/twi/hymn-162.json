@@ -1,0 +1,47 @@
+{
+  "number": 162,
+  "language": "tw",
+  "title": "Anwanwa Dɔ Bɛn Ni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Anwanwa dɔ bɛn ni,",
+        "O me kra, O me kra?",
+        "Anwanwa dɔ bɛn ni, O me kra?",
+        "Anwanwa dɔ bɛn na Ͻmaa nnepa Wura",
+        "Soaa mmusų a ɛyɛ d'ru",
+        "Maa me kra, maa me kra?",
+        "Soaa mmusų a ɛyɛ d'ru Maa me kra?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame ne 'Guammaa no,",
+        "Mɛto dwom, ama Mo.",
+        "Nyame ne 'Guammaa no, Mɛto dwom.",
+        "Nyame ne 'Guammaa no,",
+        "Nea ɔyɛ Meara no;",
+        "B'rč a mpempem ka bom yi,",
+        "Mɛto dwom ama Mo.",
+        "B'rč a mpempem ka bom yi, Mɛto dwom."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mifi 'wu mu fi a,",
+        "Mɛto dwom, mɛto dwom;",
+        "Mifi 'wu mu fi a, Mɛto dwom",
+        "Mifi 'wu mu fi a, Mɛto dwom adi dɛw;",
+        "Na mm'resanten nyinaam'",
+        "Mɛto dwom, mɛto dwom.",
+        "Na mm'resanten nyinaam' Mɛto dwom."
+      ],
+      "number": 3
+    }
+  ]
+}

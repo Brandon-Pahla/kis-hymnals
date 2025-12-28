@@ -1,0 +1,58 @@
+{
+  "number": 234,
+  "language": "es",
+  "title": "¿Temes que en la lucha?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¿Temes que en la lucha?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Temes que en la lucha",
+        "no podrás vencer?,",
+        "¿que con las tinieblas",
+        "has de contender?",
+        "Abre, pues, la puerta de tu corazón,",
+        "deja al Salvador entrar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Deja al Salvador entrar,",
+        "deja al Salvador entrar;",
+        "abre, pues, la puerta de tu corazón,",
+        "y entrará el Salvador."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Es tu fe muy débil en la oscuridad?",
+        "¿Son tus fuerzas pocas contra la",
+        "maldad?",
+        "Abre, pues, la puerta de tu corazón,",
+        "deja al Salvador entrar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Quieres ir gozándote en la senda aquí?",
+        "¿Quieres que el Señor te utilice a ti?",
+        "Abre, pues, la puerta de tu corazón,",
+        "deja al Salvador entrar."
+      ],
+      "number": 5
+    }
+  ]
+}

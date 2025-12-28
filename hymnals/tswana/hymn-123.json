@@ -1,0 +1,40 @@
+{
+  "number": 123,
+  "language": "tn",
+  "title": "123 Leina Je Le Boitshepo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Leina Je Lentle Gotlhe Monate Pelong Ya Me,",
+        "Le ne la newa ke Rara, Morwawe yo o ratwang."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke leina je le Boitshepo le dule",
+        "Kwa go Rara ja tla mo lefatshing.",
+        "Le lerwe ke baengele mo bosigong,",
+        "Ke leina jaga Jeso."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mo Pelong Le Lere Sego, Mme Ke Tla Tsaya Pako,",
+        "K’ipolela ina ja Gwe, Ke le bolela gape."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ekete Ke Ka Opela, Thekololo Ya Gagwe,",
+        "Dipako tsa bosakhutleng, Leineng je le golo."
+      ],
+      "number": 3
+    }
+  ]
+}

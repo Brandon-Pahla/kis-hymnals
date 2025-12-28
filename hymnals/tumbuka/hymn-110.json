@@ -1,0 +1,57 @@
+{
+  "number": 110,
+  "language": "tum",
+  "title": " 110 Mba Mwawi Awo Wakuchita",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 110 Mba Mwawi Awo Wakuchita",
+        "BLESSED ARE THEY THAT DO"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Pulika mazgu gha mponoski,",
+        "mazgu ghake gha umoyo,",
+        "Mbulakupwerera kumbuka kuti,",
+        "mba mwawii awo akuchita."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mba mwawi wakuchita marango,",
+        "Mwe mba mwawi 'mwe mba Iwawi",
+        "Mba mwaWi wakuchita marango,",
+        "Mwe mba mwawi wakuchita."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nanga tipulike marango,",
+        "na maphangano gha Fumu,",
+        "Nupuika kwekha ntha kungathaska,",
+        "mba mwawi awo wakucha."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Wamkunjira mu msumba wura,",
+        "wambula uheni, nyifwa,",
+        "Wamtuwiskika kwa muyirayira,",
+        "wamkurya vipasi vya moyo."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "number": 583,
+  "language": "tw",
+  "title": "Mo a Munim 'W'ra No Dom No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mo a munim 'W'ra no dom no,",
+        "Mo nti wɔde tweatiboɔ",
+        "Nyame de a ɛsom bo no,",
+        "Ama mo sɛ monto so;",
+        "Monhwɛ sɛ fapem pa no so,",
+        "Mobɛto asɔrefie",
+        "Aban a ɛka nkwagyesɛm",
+        "'Fasų ɛ ebeyi ayɛ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkwa abo a Nyame ama",
+        "Wɔn mu biara ne sibea,",
+        "Ahen' nč asɔfo a Wapaw,",
+        "So monna Ne dom adi?",
+        "Mo adehye busua, monka",
+        "Mo awom 'nigyesɛm nky'rɛ,",
+        "'Debɔ fof'ro 'nigyesɛm no",
+        "Nky'rɛ asase dedaw no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Monka Neā ɔfrɛɛ mo fi sum mu",
+        "Baa hann mu no 'yeyi nky'rɛ",
+        "Nea Obubuu mo mpoky'rɛ na",
+        "ɔmaa mo 'hofadi no;",
+        "'Nidaso ne 'hoɔden fof'rom'",
+        "Monka faf'ri ho asɛm,",
+        "Kosi sɛ asase ne s'ro",
+        "Bebom ama 'W'rade so."
+      ],
+      "number": 3
+    }
+  ]
+}

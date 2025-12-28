@@ -1,0 +1,35 @@
+{
+  "number": 97,
+  "language": "guz",
+  "title": "97 Enkoro Yane Imoka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Enkoro yane imoka,Ne chinguru chionsi,Esegi n'ey' Omonene,Keegwa n'egutwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Eriogi n'eria Nyasae,Rigokorangeria,Ner' omonyene okorwa,'Gutwa y'obogima."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Barofi nabwo abange,Bakorigereria;Toinyora as' okorwa,Bwatia orogendo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Monene gwatochakirie,Koamererania;Buna intwe tokobua,Kobua nokwao."
+      ],
+      "number": 4
+    }
+  ]
+}

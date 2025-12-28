@@ -1,0 +1,57 @@
+{
+  "number": 193,
+  "language": "tw",
+  "title": "'Gyenkwa, Ky'rɛ Me Da Biara",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Gyenkwa, ky're me da biara,",
+        "Ma minni dɔ 'desua so;",
+        "Adesua bi nyɛ dɛ sɛ",
+        "Mɛdɔ Neá Odii kan dɔɔ me."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma memfa 'bofra koma,",
+        "Nyɛ nea Wohwehwɛ biara;",
+        "Mensom Wo, nni W'akyi daa,",
+        "Wo a Wudii kan dɔɔ me."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kyerɛ me ma minhu sɛ,",
+        "Menne m' ho, meyɛ Wo de;",
+        "Wo na Wohwɛ me, gye me",
+        "Fi bɔne nkoasom ny'naa mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma menyɛ dɔ adwuma,",
+        "Mfa 'nigye nyɛ W'apɛde;",
+        "Na me daa 'nigye nyɛ sɛ:",
+        "Mɛdɔ Neá Odii kan dɔɔ me."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma minni W'akyi ara,",
+        "Mfa 'hoɔden nnye Wo dom no;",
+        "Ma minsua dɔ mfi Wo hɔ,",
+        "Wo a Wudii kan dɔɔ me."
+      ],
+      "number": 5
+    }
+  ]
+}

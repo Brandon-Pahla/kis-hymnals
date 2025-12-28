@@ -1,0 +1,55 @@
+{
+  "number": 305,
+  "language": "tw",
+  "title": "Ma Me Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Anɔpa sɛ minyan a,",
+        "Anɔpa sɛ minyan a,",
+        "Anɔpa sɛ minyan a,",
+        "Ma me Yesu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ma me Yesu, ma me Yesu",
+        "Wo de fa wiase ny'naa,",
+        "Ma me Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔdasum metea mu sɛ,",
+        "ɔdasum metea mu sɛ,",
+        "ɔdasum metea mu sɛ,",
+        "Ma me Yesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ ade rebɛkye a,",
+        "Sɛ ade rebɛkye a,",
+        "Sɛ ade rebɛkye a,",
+        "Ma me Yesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ merebewu mpo a,",
+        "Sɛ merebewu mpo a,",
+        "Sɛ merebewu mpo a,",
+        "Ma me Yesu."
+      ],
+      "number": 4
+    }
+  ]
+}

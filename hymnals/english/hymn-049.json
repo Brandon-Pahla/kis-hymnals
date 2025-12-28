@@ -1,0 +1,41 @@
+{
+  "number": 49,
+  "language": "en",
+  "title": "49 One Sweetly Solemn Thought",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "One sweetly solemn tho’t, Comes to me o’er and o’er!",
+        "I’m nearer to my home today, Than e’er I’ve been before."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nearer my home, Nearer my home,",
+        "Nearer my home today, today,",
+        "Than e’er been before"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nearer my Father’s home, Where many mansions be!",
+        "Nearer the throne where Jesus reigns,",
+        "Nearer the crystal sea"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nearer my going home, Laying my burdens down,",
+        "Leaving my cross of heavy grief,",
+        "Wearing my starry crown."
+      ],
+      "number": 3
+    }
+  ]
+}

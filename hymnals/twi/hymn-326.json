@@ -1,0 +1,49 @@
+{
+  "number": 326,
+  "language": "tw",
+  "title": "Bue M'amiwa Na Ma Minhu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bue m'aniwa na ma minhu",
+        "Nokwar' a Wowɔ ma me no.",
+        "Fa safoa nwanwa no ma me na",
+        "Emmue me, mma me faw'hodi.",
+        "Mayɛ komm retwɛn Wo sɛnea",
+        "Mehu Wo pɛ no, me Nyame,",
+        "Bue m'aniwa, na hy'rɛn me mu,",
+        "ɔs'ro Honhom."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bue m'asomu na ma mente",
+        "Nokwar' a Wowɔ ma me no;",
+        "Na sɛ ɛkasa gu m'asom' a",
+        "At'rosɛm ny'naa 'guan afi mu",
+        "Mayɛ komm retwɛn Wo sɛnea",
+        "Mehu Wo pɛ no, me Nyame;",
+        "Bue m'asom', na hyerɛn me mu,",
+        "ɔs'ro Honhom."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bue m'ano na memfa 'nigye",
+        "Nɔka nokwar' wɔ baabiara;",
+        "Bue me koma mu na mensiesie",
+        "Me ho ne Wo mma nkyɛ dɔ no.",
+        "Mayɛ komm retwɛn Wo sɛnea",
+        "Mehu Wo pɛ no, me Nyame",
+        "Bue m'anomu, na hy'rɛn me mu,",
+        "ɔs'ro Honhom."
+      ],
+      "number": 3
+    }
+  ]
+}

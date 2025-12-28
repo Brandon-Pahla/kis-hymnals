@@ -1,0 +1,49 @@
+{
+  "number": 417,
+  "language": "fr",
+  "title": "Viens, âme qui pleures",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Viens, âme qui pleures,",
+        "Viens à ton Sauveur;",
+        "Dans tes tristes heures,",
+        "Dis-lui ta douleur;",
+        "Dis tout bas ta plainte",
+        "Au Seigneur Jésus,",
+        "Parle-lui sans crainte,",
+        "Et ne pleure plus."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dis tout à ce frère,",
+        "À ce tendre ami,",
+        "Ton épreuve amère,",
+        "Ton deuil, ton souci.",
+        "Il aime, il console",
+        "Les cœurs abattus;",
+        "Crois à sa parole,",
+        "Et ne pleure plus."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aux cœurs en détresse,",
+        "Ployant sous le faix,",
+        "Dis que Dieu les presse",
+        "De chercher sa paix.",
+        "Calme leurs alarmes,",
+        "Dis-leur que Jésus",
+        "A séché nos larmes...",
+        "Va, ne pleure plus."
+      ],
+      "number": 3
+    }
+  ]
+}

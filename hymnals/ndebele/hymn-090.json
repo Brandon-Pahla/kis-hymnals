@@ -1,0 +1,47 @@
+{
+  "number": 90,
+  "language": "nd",
+  "title": "90 Omunye Umsebenzi Wezinsuku Eziyisithupha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ku phelil’ ukusebenza,",
+        "iSabatha li yaqala;",
+        "Si zothaba, Moya woza",
+        "Ngalol’ usuk’ oluNgcwele."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zanini si bong’ iNkosi,",
+        "Ngokuphumla kwethu sonke;",
+        "Si zophiwa iz’busiso,",
+        "Namhla ku nemihla yonke."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Ngath’ imicabango yethu,",
+        "I ngabong’ osithandayo;",
+        "Size si thole kuKrestu,",
+        "Lowo Moy’ oCwebileyo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ukuthul’ enhliziyweni,",
+        "Kunethemba lephezulu.",
+        "Elimiyo eBandleni;",
+        "Kuphele zonke inhlungu."
+      ],
+      "number": 4
+    }
+  ]
+}

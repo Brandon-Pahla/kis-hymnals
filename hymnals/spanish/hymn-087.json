@@ -1,0 +1,50 @@
+{
+  "number": 87,
+  "language": "es",
+  "title": "Venid, fieles todos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Venid, fieles todos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Venid, fieles todos, a Belén marchemos,",
+        "de gozo triunfantes, henchidos de amor,",
+        "y al Rey de los cielos contemplar podremos."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Venid, adoremos; venid, adoremos;",
+        "venid, adoremos a Cristo, el Señor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En pobre pesebre yace reclinado,",
+        "al hombre ofreciendo eternal salvación,",
+        "el santo Mesías, Verbo humanado."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cantad jubilosas, célicas criaturas,",
+        "resuenen los cielos con vuestra canción:",
+        "¡Al Dios bondadoso, gloria en las alturas!"
+      ],
+      "number": 5
+    }
+  ]
+}

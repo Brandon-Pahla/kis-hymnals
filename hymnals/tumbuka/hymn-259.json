@@ -1,0 +1,58 @@
+{
+  "number": 259,
+  "language": "tum",
+  "title": " 259 Kasi Tamkumana Kura?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 259 Kasi Tamkumana Kura?",
+        "SHALL WE MEET?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Kasi tamkumana kura uko suzgo kulije?",
+        "Uko ungweru ngwa ndanda kulijeso chitima"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tayamkukumana tayamkumana pasirya",
+        "Kasi tamkumana kura uko suzgo kuLije?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Tamkumana padowoko chimphupulu chamara,",
+        "Tayamkuponya nyangulu pajambuko lituwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Tamkumana mumusumba uwo wukugadima,",
+        "Viwumba n'vya yasipisi musili ndi Chiuta."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Tamkumana na Mponoski pakuwombola wake,",
+        "Tam'manya lusungu lwake tamkhala pa chizumbe."
+      ],
+      "number": 5
+    }
+  ]
+}

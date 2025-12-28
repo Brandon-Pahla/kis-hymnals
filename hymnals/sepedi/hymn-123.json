@@ -1,0 +1,57 @@
+{
+  "number": 123,
+  "language": "nso",
+  "title": " 123 LEINA LE LE HALALELANG",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 123 LEINA LE LE HALALELANG",
+        "CS 217",
+        "THE HOLIEST NAME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leina le lebotse gohle,",
+        "Monate pelong ya ka,",
+        "Le ile la newa ke Tate,",
+        "Morwa 'Gwe ya ratwago,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "'Ina le halalelang,",
+        "Le tšwang molomong wa Tate Godimo,",
+        "Le tlišwa ke mangeloi,",
+        "Bošego, Ke leina la Jeso:"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le tliša tše botse go nna,",
+        "Ke lona koša ya ka,",
+        "Ke tumiša ina la 'Gwe,",
+        "Ke le bušeletša gape,"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nke nka opela,",
+        "Thekollo ya Gage,",
+        "Ditumišo ka bosafelego,",
+        "Leineng le legolo;"
+      ],
+      "number": 5
+    }
+  ]
+}

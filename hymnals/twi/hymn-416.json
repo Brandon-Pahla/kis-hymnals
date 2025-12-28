@@ -1,0 +1,46 @@
+{
+  "number": 416,
+  "language": "tw",
+  "title": "Atemmu Adu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Atemmu adu, wɔabuebue nwoma mu;",
+        "Yebegyina dɛn dapɔn nom'",
+        "B're a Nyame bɛkari adwen,",
+        "Kasa ne nneyɛe biara?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yebgyina dɛn dapɔn nom'?",
+        "Yebgyina dɛn dapɔn nom'?",
+        "So wobehu yɛn sɛ yɛmfata,",
+        "Anaa wɔahoh'ro yɛn bɔne?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔafi ase fi wɔn a wɔadeda so;",
+        "Ͻrenkyɛ, ateasefo nso,",
+        "Wofi Nyame nkae nwoma no mu.",
+        "Bebu wɔn atɛntrenee."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, yebegyina dɛn nhwehwɛmu dɔn nom,",
+        "B'rč nwoma no da yɛn bɔne",
+        "Nyinaa adi, wobu yɛn fɔ, na",
+        "'Guantoafo bi nni hɔ no?"
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 114,
+  "language": "tw",
+  "title": "Onyankopɔn Adɔe Mu Trɛw",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Onyankopɔn adɔe mu trɛw,",
+        "Emu trɛw te sɛ ɛpo,",
+        "Ayamye wɔ N'atemmu mu,",
+        "Na ɛkyɛn ahofadi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔma 'debɔnyɛni 'kwaaba,",
+        "'Papafo nya ɔdom pii;",
+        "Adɔe wɔ Agyenkwa no hɔ,",
+        "'Yar'sa wɔ Ne mogya nom'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Onyankopɔn dɔ no mu bae",
+        "Sen nipā adwen susubea;",
+        "Tetekwaframoa no komam'",
+        "Wɔ 'yamyč a ɛyɛ nwanwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ yɛn dɔ turodoo a,",
+        "Yɛrennye N'asɛm ho 'kyim;",
+        "Na yɛn bra mu bɛhyerɛn hann",
+        "Wɔ yɛn 'W'rade 'hoɔfɛ mu."
+      ],
+      "number": 4
+    }
+  ]
+}

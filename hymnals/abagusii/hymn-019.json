@@ -1,0 +1,42 @@
+{
+  "number": 19,
+  "language": "guz",
+  "title": "19 Mosalab' Omotori' Agakwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Mosalab' Omotori' agakwa,'Gwo nkarera nsibigw'ebibe,'Manying'ay' agansibi 'enkoro,moe 'bonene."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moe 'bonene, 'Moe 'bonene,Manying'ay' agansibi'enkoro,Moe 'bonene."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nchera y'ogokumi' antoririe,Yes'omenyete ime yane,Agw'omosalab'ombogoirie'moe bonene."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ensok'engiya y'ogotoria,nagokire gosoa ime,Yeso antoria na gonchena,moe 'bonene."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nchwo 's'ensok'entenenk' engiya,karu'enkoro ya' eyi'entakaSoa 'me rer'oikeranigwe'moe bonene."
+      ],
+      "number": 5
+    }
+  ]
+}

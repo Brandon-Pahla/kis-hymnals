@@ -1,0 +1,50 @@
+{
+  "number": 249,
+  "language": "tw",
+  "title": "Yi No Ayɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yi No ayɛ! Yesu yɛn Ponfo hyirafo,",
+        "Asase, to N'anwanwadɔ ho dwom;",
+        "Mommɔ No se 'nuonyam mu abɔfo mpanyin,",
+        "Monhyɛ Ne din kronkron no anuonyam;",
+        "Yesu bɛhwɛ Ne mma sɛ Oguanhwɛfo,",
+        "N'abasa so na ɔsoa wɔn daa daa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yi No ayɛ! Ka ne kɛseyɛ no kyerɛ;",
+        "Yi No ayɛ anigye dwom mu daa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yi No ayɛ, Yesu yɛn Ponfo hyirafo,",
+        "Yɛn bɔne nti Ohuu amane wui;",
+        "Yɛn Botantim, yɛn nkwagye ho anidaso;",
+        "Mommɔ No 'se, Yesu a wɔsɛn No.",
+        "Monkamfo No, Yesu a ɔsoaa yɛn yaw,",
+        "Ͻyɛ anwanwa dɔ, emu yɛ den."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yi No ayɛ! Yesu yɛn Ponfo hyirafo,",
+        "Hosana bɛwosow s'ro apon mu;",
+        "Yesu yɛn Agyenkwa no di hen afebɔɔ,",
+        "Monhyɛ No hen', 'Diyifo ne Sɔfo.",
+        "Kristo reba wiase wɔ nkonimdi mu,",
+        "Tumi ne anuonyam wɔ Aw'rade."
+      ],
+      "number": 3
+    }
+  ]
+}

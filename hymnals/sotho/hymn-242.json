@@ -1,0 +1,39 @@
+{
+  "number": 242,
+  "language": "st",
+  "title": "242 Lehlohonolo La Kopano",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke lehlohonolo, kopano leratong,",
+        "Setsoalle e ka ba se ts’oanang le sa holimo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka pele ho terone, Re lla ka thapelo;",
+        "Boikemisetso ba rona bo tla fela teng"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mats’oenyeho ohle, le eona meroalo;",
+        "Le ho Llellana ha rona, Hohle ho ea tsejoa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha re khaohana, Re utloa bohloko;",
+        "Empa re ts’epa hore re tla be re kopane."
+      ],
+      "number": 4
+    }
+  ]
+}

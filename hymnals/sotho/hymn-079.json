@@ -1,0 +1,39 @@
+{
+  "number": 79,
+  "language": "st",
+  "title": "79 Pitso Ea Bakotuli",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hole haufi masimo a tletse, Mangata a butsoitseng;",
+        "Hole haufi gauda e ea benya, Matsoapong le lithoteng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena roma ba-kotuli Re ea u rapela;",
+        "Ba rome ho ea nka mangata, Nako e-so fete."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ba rome e sa le ka meso, Le hona mots’eare;",
+        "Ha tsatsi le ea likela, Ba phuthe le kahohle."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uena u rongoang ke Morena, E ea phutha mangata;",
+        "Leholimong le mantsiboea U tla itulela."
+      ],
+      "number": 4
+    }
+  ]
+}

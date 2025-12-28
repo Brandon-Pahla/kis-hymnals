@@ -1,0 +1,49 @@
+{
+  "number": 2,
+  "language": "luo",
+  "title": "2 Wapaki, Nyasaye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Wapaki, Nyasaye,In miherowa ngang`!Nioro Wuodi mond`othonwa e yath."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alleluya! Wanapaki;Alleluya! Amin.Alleluya! Wanapaki;Igwedhwa koro."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Wapaki, Nyasaye,nikech Roho Maler.Osefwenyonwa heramar Jawarwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Pak duto obed niNyarombo Nyasaye,Ma noting`o kethwa,rembe nochwernwa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Pak duto obed ni,Nyasaye, Wuon ng`wono,Ma noresowa kendooritowa."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Chiew chunywa duto,pong`wa gi herani;Mach moa e poloomi chunywa liet."
+      ],
+      "number": 6
+    }
+  ]
+}

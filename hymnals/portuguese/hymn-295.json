@@ -1,0 +1,55 @@
+{
+  "number": 295,
+  "language": "pt",
+  "title": "Tudo Entregarei",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Tudo Entregarei"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tudo, ó Cristo, a Ti entrego,",
+        "Tudo sim, por Ti darei!",
+        "Resoluto, mas submisso,",
+        "Sempre a Ti eu seguirei!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Tudo entregarei! Tudo entregarei!",
+        "Sim, por Ti, Jesus bendito,",
+        "Tudo deixarei!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tudo, ó Cristo, a Ti entrego,",
+        "Corpo e alma eis aqui!",
+        "Este mundo mau renego,",
+        "Quero dedicar-me a Ti!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tudo, ó Cristo, a Ti entrego,",
+        "Que prazer, ó meu Senhor!",
+        "Paz perfeita, paz completa!",
+        "Glória, glória ao Salvador!"
+      ],
+      "number": 5
+    }
+  ]
+}

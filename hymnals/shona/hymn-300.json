@@ -1,0 +1,57 @@
+{
+  "number": 300,
+  "language": "sn",
+  "title": "300 Zororo Ravakaneta",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kune musha wevatsvene, Vozorora munyika",
+        "Uko muponesi wangu, Akandigadzirira"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kune zororo ikoko, kunezororo ikoko",
+        "Kune zororo ikoko, ravakaneta",
+        "Pamhendero yeJordani, Nemumunda weEdeni",
+        "Panomuti weupenyu kunezororo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Andigadzirira imba, Inogara narini",
+        "Kwandichazogara hangu, Kunyika iyo itsva"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hakuzovi nekurwara, Hakunazve urombo",
+        "Asi ndicha pfekedzwazve, Chiremba cheupenyu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hakuzovi norufu zve, Rumborera ruchabva,",
+        "Vaponeswa vachafara kuna Jesu ouya."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Imbayi vadyi venhaka, Farai muchienda",
+        "Muchazozarurirwazve, Mazambara eZioni"
+      ],
+      "number": 6
+    }
+  ]
+}

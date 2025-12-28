@@ -1,0 +1,45 @@
+{
+  "number": 153,
+  "language": "ve",
+  "title": "153. Murena A Thi Rabeli Zwa Matshelo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Murena a thi rabeli zwa matshelo,",
+        "Ndi si wele vhuvhini kha la namusi,",
+        "Ndi sa ambi tshithu nga u sa humbula,",
+        "U vhee luswayo lwau mulomoni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi do shuma nga Maanda ndi tshi rabela,",
+        "Ndi do vha muvhuya nda di-tukufhadza.",
+        "Mphe Maanda uri ndi di-tukufhadze,",
+        "Ndi di-nekedza tshothe kha la namusi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Arali nne ndi tshi nga fa namusi,",
+        "Kha ndi di-tike nga fulufhelo lau,",
+        "Murena thi rabeleli zwa matshelo,",
+        "Nndise ndi tshimbile na Iwe namusi."
+      ],
+      "number": 4
+    }
+  ]
+}

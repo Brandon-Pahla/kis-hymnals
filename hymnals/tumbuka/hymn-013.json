@@ -1,0 +1,66 @@
+{
+  "number": 13,
+  "language": "tum",
+  "title": " 13 Munditoweske",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 13 Munditoweske",
+        "LORD JESUS, I LONG TO BE PERFECTLY WHOLE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Fumu ine nkhukhumba m'nditoweske,",
+        "Zani mkhale na ine m'nditoweske,",
+        "Fumyani uheni wose mwa ine,",
+        "Mundisavye Fumu munditoweske."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "M'nditoweske 'mwe m nditoweske,",
+        "Mundisavye Fumu munditoweske."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Fumu wonani charu chanangika,",
+        "Nkhujipereka kwinu, m'ndovwirenge.",
+        "Ndireke ubendezi wane wose,",
+        "Mundisavye Fumu munditoweske."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nkhuromba imwe Fumu m'ndipulike,",
+        "Zani mkhale na ine 'mwe Mponoski,",
+        "Ndopa zinu zindisuke ku mtima,",
+        "Mundisavye Fumu munditoweske."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Nkhugomezga mwa imwe Fumu yane,",
+        "Zani m'nozge vyose mu mtima wane.",
+        "Fumu imwe mkuchema ise tose,",
+        "Mundisavye Fumu munditoweske.\""
+      ],
+      "number": 5
+    }
+  ]
+}

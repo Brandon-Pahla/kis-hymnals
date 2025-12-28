@@ -1,0 +1,62 @@
+{
+  "number": 292,
+  "language": "fr",
+  "title": "Du Maître qui m'appelle",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Du Maître qui m'appelle",
+        "À le suivre ici-bas,",
+        "J'entends la voix fidèle",
+        "Qui me dit : ne crains pas !",
+        "L'ennemi te menace ?",
+        "Je suis le Tout-Puissant;",
+        "Je verse en toi ma grâce,",
+        "Moi le Vivant !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Il vit, il vit, Jésus vit aujourd'hui.",
+        "Je sais qu'il est tout près de moi",
+        "Sur le chemin étroit.",
+        "Il vit, il vit, toujours il me conduit,",
+        "Et je puis dire par la foi :",
+        "Je sais qu'il vit en moi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il vit, et rien au monde",
+        "Ne saurait me ravir",
+        "Le bonheur qui m'inonde",
+        "Et m'aide à le servir.",
+        "En lui j'ai force et joie,",
+        "Tout le long du chemin,",
+        "Où son amour m'envoie,",
+        "Moi, faible humain !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tressaille d'allégresse,",
+        "Racheté de Jésus,",
+        "Fais retentir sans cesse",
+        "L'hymne saint des élus !",
+        "Oh ! sublime espérance,",
+        "Que rien ne peut ternir,",
+        "Merveilleuse assurance :",
+        "Il va venir !"
+      ],
+      "number": 4
+    }
+  ]
+}

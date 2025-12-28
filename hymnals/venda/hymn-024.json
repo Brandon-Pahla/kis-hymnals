@@ -1,0 +1,62 @@
+{
+  "number": 24,
+  "language": "ve",
+  "title": "24 Ndi U toda Tshothe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:483",
+        "AH:222"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi U toda tshothe, Yesu wanga,",
+        "A nthusaho haho, nga mulalo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "nne nga zwifhinga zwothe, ndi toda Murena,",
+        "Ndi de ndi fhatutshedzwe, Ndi da kha’we"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi U toda tshothe, dzula na nne,",
+        "Milingo a i di ndi na Iwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi U toda tshothe, matunguni,",
+        "Ida-ha U nthuse, ndi sa do fa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndi U toda tshothe, mpfunze ndila,",
+        "Phetha-ha zwe Wa mpfulufhedzisa."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Ndi U toda tshothe, Mukhethwa-Mukhethwa,",
+        "Nyite Wau tshothe, U Mutshidzi."
+      ],
+      "number": 6
+    }
+  ]
+}

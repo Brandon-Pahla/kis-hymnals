@@ -1,0 +1,45 @@
+{
+  "number": 75,
+  "language": "ny",
+  "title": "75 - A! Mbusa Wanga Ndimvatu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HARK! ’TIS THE SHEPHERED’S VOICE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. A! Mbusa wanga ndimvatu, Uko ku chipululuko,",
+        "Zilira nkhosa zaketu, Zili kutali mkholamo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Bwezatu, bwezatu, Bweza zonse moopsamo;",
+        "Bwezatu, bwezatu, Bweza zakezo kwa Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndani afuna kunkako, Kukazipeza nkhosazo?",
+        "Ndani adzathandizayo, Kuti zifunde m’kholamo?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Etu! zilira konseko, Zili ku phiri ko’psako,",
+        "Imva, anena Mwiniyo, “Kweye, upeze Nkhosazo.”"
+      ],
+      "number": 4
+    }
+  ]
+}

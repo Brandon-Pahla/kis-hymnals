@@ -1,0 +1,64 @@
+{
+  "number": 590,
+  "language": "tw",
+  "title": "Yɛne Nyame Nantew",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛne Nyame nantew N'asɛm no hann mu a",
+        "N'anuonyam no hyerɛn yɛn kwan so;",
+        "Sɛ yɛyɛ Ne pɛ a, ɔne yɛn bɛtra daa,",
+        "Ne wɔn a wobetie No nyinaa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Twer' No, tie No, Na 'hotɔ bi nni",
+        "Yesu mu sen sɛ Wobɛtwer' No, na woatie No."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Esum bi rensɔre, Munumkum bi rensi,",
+        "Mmom N'animtew bɛpa na nyinaa;",
+        "Akyinnye ne ehu, Apini ne nusu,",
+        "Remma, sɛ yetwer' No tie No a."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛrensoa nneɛma kwa, Yɛn werɛ renhow kwa,",
+        "Na mmom Obetua yɛn so ka pa;",
+        "Sɛ amane mu oo, Sɛ abufuw mu oo,",
+        "Yetie No a Obehyira yɛn."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na yɛrentumi nnya Ne dɔ mu anika",
+        "Kosi sɛ yɛbɛgyae ne nyinaam';",
+        "Ne dom a ɔkyerɛ, 'Nigye a ɔde ma,",
+        "Yɛ wɔn a wɔtwer' No, tie No de."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ayɔnkofa pa mu, Yɛbɛtra N'anim hɔ,",
+        "Anaasɛ yɛbɛnantew Ne nkyɛn;",
+        "Yɛbɛyɛ nea ɔse, Na yɛakɔ Ne soma;",
+        "Yerensuro, na yɛbetie No."
+      ],
+      "number": 5
+    }
+  ]
+}

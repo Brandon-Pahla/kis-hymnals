@@ -1,0 +1,35 @@
+{
+  "number": 45,
+  "language": "luo",
+  "title": "45 Ndalo Mamor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndalo mamor,ka nahulo kak` ageni, In Jawarna;Chunya opong` gi mor chutho,Ok dak anyal mung`o wachni."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mor maduong` ndalono,Ka Yesu noluoko kethna;Opuonja ritora galam,Otelona e ngimana.Mor maduong` ndalonoka Yesu noluoko kethna."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Wasetimo winjruok kode,An ng`ate chuth to En Ruodha;An koro aluwo bang`e,Amor nyiso ji kuom Jawar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Chunya koro oyudo kuwekapadora kuom Jakonya;To kik aweye kendo ngang`,Asiki kode nyaka chieng`."
+      ],
+      "number": 4
+    }
+  ]
+}

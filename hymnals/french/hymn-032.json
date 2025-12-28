@@ -1,0 +1,66 @@
+{
+  "number": 32,
+  "language": "fr",
+  "title": "Le Fils de Dieu, le roi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Le Fils de Dieu, le roi de gloire",
+        "À voulu naître parmi nous.",
+        "Il est venu sur notre terre",
+        "Au temps marqué par son amour."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Dès aujourd’hui ton royaume est proche,",
+        "Viens parmi nous, Seigneur Jésus."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ceux qui marchaient dans les ténèbres",
+        "Ont vu s’illuminer leur nuit,",
+        "Et sur les peuples dans l’angoisse",
+        "Une lumière a resplendi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dans notre nuit surgit l’aurore",
+        "De sa justice et de sa paix :",
+        "Dieu enverra sa délivrance,",
+        "Il ne nous quittera jamais."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il a tracé pour nous la route,",
+        "Il s’est chargé de nos douleurs;",
+        "Et nous marchons vers sa promesse,",
+        "Le front marqué de sa splendeur."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quand paraîtra la ville sainte,",
+        "Quand s’ouvriront les cieux nouveaux,",
+        "Nous goûterons sans fin la vie",
+        "Devant le trône de l’Agneau."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 190,
+  "language": "xh",
+  "title": "190 Igama Elinexabiso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nal’ igama lika-Yesu, Wena mntwana wentsizi;",
+        "Liya kukuthuthuzela, Lithath’ uhambe nalo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "’Gama linencasa! Ulithemba lomhlaba;",
+        "’Gama linencasa! Ulithemba lomhlaba."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lithathe ngonaphakade, Loba likhaka laKho;",
+        "Wakungqongwa zizihendo, Libize elo gama."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Gam’ emnandi lika-Yesu! Uvuyis’ umphefumlo,",
+        "Akusamkelela kuye, Size sitsho ngengoma."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sakuguqa kweli gama, Siw’ enyaweni zakhe,",
+        "U-Kumkani wo-kumkani, Soba nay’ ekukphelen’."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 134,
+  "language": "ve",
+  "title": "134. Lufuno Lu Mangadzaho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:123"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Muya wanga u a khoda, vhuhulu ha makoleni;",
+        "Ndi nnyi a khodaho, a ambaho lufuno lwa lu na Yesu?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lufuno lu mangadzaho, lufuno lwa Murena,",
+        "Lu sa fheli, lwa Murena, lufuno lwa Murena."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Lu a ri linda vhusiku, lu a penya lu swiswini;",
+        "Lufuno lwa Mudzimu, ndi mushonga une wa ilafha."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi a fulufhela tshothe, ndi do thuswa-vho ndi tshi wa;",
+        "Vhutshiloni na lufuni lufuno lwa Yesu lu hone."
+      ],
+      "number": 4
+    }
+  ]
+}

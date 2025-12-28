@@ -1,0 +1,50 @@
+{
+  "number": 251,
+  "language": "xh",
+  "title": "251 Soze Ndisindiswe Ngokukhala",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Soze ndisindiswe Ngokukhal’ inyembezi;",
+        "Ngekhe kuphel’ uvalo, Ngekhe kuhlamb’ isono;",
+        "’Kukhal’ akuncedi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "’Yesu wandililela, Wandifela emthini,",
+        "Uza kundikhulula, ’Yes’ uyasindisa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Soze ndisindiswe Ngemisebenzi;",
+        "Nangengcinga ezintle, Andingekhe ndibe mtsha;",
+        "Msebenz’ awuncedi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Soze ndisindiswe Kuba ndilinde apha,",
+        "Ndiva izwi lenceba. Ndakulinda ndakufa,",
+        "Kulind’ akuncedi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngokholo kuKristu, Ndithembele kuYesu;",
+        "Ndithemb’ isenzo saKhe,Ndayam’ ezingalweni;",
+        "Ndosinda ngokholo."
+      ],
+      "number": 4
+    }
+  ]
+}

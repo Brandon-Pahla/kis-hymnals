@@ -1,0 +1,44 @@
+{
+  "number": 129,
+  "language": "tn",
+  "title": "129 Jeso’ Rile Kwa Babedi Bararo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso’ Rile Kwa Babedi Bararo,",
+        "Ba Go phuthegetseng, O tla dira teng",
+        "Janong r’a dumela, Re mo thapelong;",
+        "Jeso segofatsa; O itshenole."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jeso segofatsa Fa re le fano;",
+        "Jeso segofatsa, O nne gaufi"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso O Ntse O Kopana Le Rona,",
+        "Tla O nne le rona Ka bosakhutleng;",
+        "Tla Wena Mmoloki, Bonatsa tswaro;",
+        "Utlwa, segofatsa Fa re rapela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso O Re Rute Pako Tsa Gago;",
+        "E re fa re lopa Wena re utlwa,",
+        "Re tiise tumelong, Le tsholofelong,",
+        "Re itsheke ’ratong Lesedi tseleng."
+      ],
+      "number": 3
+    }
+  ]
+}

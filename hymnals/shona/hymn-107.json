@@ -1,0 +1,45 @@
+{
+  "number": 107,
+  "language": "sn",
+  "title": "107 Ndiudze Nyaya YaJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiudze nyaya yaJesu, Uyi nyore mumwoyo;",
+        "Udza nyaya inokosha, Yakanakisa kwazvo.",
+        "Kuti ngirosi dzaka i-mbira Tenzi abarwa,",
+        "Mbiri kudenga kum’soro Runyararo mupasi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiudze nyaya yaJesu Nyora mumwoyo wangu;",
+        "Iyi nyaya inokosha Yakanakisa kwazwo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kutsanya kwake mugwenya Ndiudze misi yake,",
+        "Achititambu dzikira Akakunda chitema,",
+        "Ndiudze nebasa rake Nekutambudzwa kwake;",
+        "Akashorwa nekurwadzwa Akarambwa nevese."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nekurowera kwavo, Nekurwadziwa kwake;",
+        "Neguva vakamuwiga Nezvekumuka kwake;",
+        "Nyaya yerudo rwaJesu Iwe pachena kwazvo;",
+        "Ndiudze ini ndicheme Rudo rwakanditenga."
+      ],
+      "number": 4
+    }
+  ]
+}

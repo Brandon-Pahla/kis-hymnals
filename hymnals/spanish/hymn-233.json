@@ -1,0 +1,65 @@
+{
+  "number": 233,
+  "language": "es",
+  "title": "Ven a la Fuente de vida",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ven a la Fuente de vida"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ven a la Fuente de vida,",
+        "ven al amante Jesús;",
+        "paz y perdón te ofrece.",
+        "Ven, pues, al pie de la cruz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Ven a Jesús, ven a Jesús,",
+        "ven a los pies de la cruz sin tardar;",
+        "paz y perdón te ofrece.",
+        "Ven, no le dejes pasar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ven al Señor, ven ahora:",
+        "consuelo y paz hallarás;",
+        "vida de gozo y de calma",
+        "en tu Maestro tendrás."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tal como estás, ven ahora,",
+        "tráele tu carga a él;",
+        "oye su voz que te implora;",
+        "Cristo Jesús siempre es fiel."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh, cuán preciosa promesa",
+        "te hace tu buen Salvador!",
+        "Vida tendrás para siempre",
+        "junto a tu Dios y Señor."
+      ],
+      "number": 6
+    }
+  ]
+}

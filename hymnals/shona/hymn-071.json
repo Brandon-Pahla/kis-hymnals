@@ -1,0 +1,46 @@
+{
+  "number": 71,
+  "language": "sn",
+  "title": "71 Zita Rangu Rakanyorwa Here?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi handinagise pfuma dzepasi’po",
+        "Ndinochema kupinda mudanga kum’soro",
+        "Mutsamba reumambo hwenyu hwekudenga",
+        "Mundiudze M’ponesi, kuti ndakanyorwa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinoda kuziva kuti ndakanyorwa",
+        "MuTsamba reUpenyu, Kuti ndakanyorwa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi zvitadzo zvangu zvawanda sejecha",
+        "Asi ropa’ro renyu rinondiponesa",
+        "Zvechitsidzo’cho chenyu chanyorwa mutsamba;",
+        "Zvitema zvakatsvuka,",
+        "Ndinozvichenura"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Musha wakanakisa, Dzimba dzekupenya",
+        "Nevanhu vane mbiri, Nenguvo dzachena",
+        "Hakuna zvakaipa, izvo zvinopinda",
+        "Ngerosi dzinorinda, Here ndakanyorwa"
+      ],
+      "number": 4
+    }
+  ]
+}

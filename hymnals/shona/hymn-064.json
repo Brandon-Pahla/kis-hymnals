@@ -1,0 +1,57 @@
+{
+  "number": 64,
+  "language": "sn",
+  "title": "64 Muudze Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Unoneta mwoyo wako here?",
+        "Muudze Jesu, Muudze Jesu",
+        "Unosuwa neurombo here?",
+        "Muudze Jesu ega"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muudze Jesu, Muudze Jesu",
+        "Shamwari vazikanwa",
+        "Hakuchina umwe wakadaro",
+        "Muudze Jesu ega"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Masodziarikudonha here?",
+        "Muudze Jesu, Muudze Jesu",
+        "Mune zvitema zvaigwa here?",
+        "Muudze Jesu ega"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Murikutya dambudzo’ro here?",
+        "Muudze Jesu, Muudze Jesu",
+        "Iye uchakubatsira iwe",
+        "Muudze Jesu ega"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Watya rufo runouya here?",
+        "Muudze Jesu, Muudze Jesu",
+        "Unodisa umambo hwaJesu",
+        "Muudze Jesu ega"
+      ],
+      "number": 5
+    }
+  ]
+}

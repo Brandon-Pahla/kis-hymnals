@@ -1,0 +1,65 @@
+{
+  "number": 284,
+  "language": "es",
+  "title": "Me dice el Salvador",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Me dice el Salvador"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me dice el Salvador:",
+        "\"Es poco tu poder;",
+        "hijo débil, halla en mí",
+        "todo cuanto has menester\"."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Todo debo a él,",
+        "pues ya lo pagó;",
+        "de las manchas del pecar",
+        "cual nieve me lavó."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "He hallado, mi Señor,",
+        "que solo tu poder",
+        "a mi duro corazón",
+        "es capaz de enternecer."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nada bueno hay en mí:",
+        "tu gracia buscaré,",
+        "y en la sangre de Jesús",
+        "mis pecados lavaré."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando ante el trono, allá,",
+        "completo en él esté,",
+        "a los pies de mi Jesús",
+        "mi tributo ofreceré."
+      ],
+      "number": 6
+    }
+  ]
+}

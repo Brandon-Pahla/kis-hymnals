@@ -1,0 +1,37 @@
+{
+  "number": 479,
+  "language": "fr",
+  "title": "Ô Jésus, mon Sauveur",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Jésus, mon Sauveur, par ta douce présence,",
+        "Viens consoler mon cœur et diriger mes pas;",
+        "Ranime dans ce jour ma céleste espérance,",
+        "Relève mon courage et ne me quitte pas."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je ne méprise pas ta main qui me châtie.",
+        "Je crois en ton amour, ô Dieu d'éternité.",
+        "Je me soumets à toi pour vivre de ta vie,",
+        "Accorde à ton enfant ta paix, ta sainteté."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Et lorsque ton enfant, cédant à la tristesse,",
+        "Se nourrit de douleur, sans chercher le secours,",
+        "Oh ! viens lui rappeler ta fidèle promesse",
+        "Qui soutient, qui guérit, qui console toujours."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": 369,
+  "language": "es",
+  "title": "Gratitud y alabanza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Gratitud y alabanza"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gracias por tus bendiciones, Señor;",
+        "te alabamos por todo buen don;",
+        "gozo llena nuestra alma hoy."
+      ],
+      "number": 2
+    }
+  ]
+}

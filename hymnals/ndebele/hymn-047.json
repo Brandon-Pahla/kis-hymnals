@@ -1,0 +1,47 @@
+{
+  "number": 47,
+  "language": "nd",
+  "title": "47 Udonga Lwas’ eJordani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yakuma eJordani, Nangaphesheya le!",
+        "Ngi pons’ iso lami kulo, Izwe laseKhenan"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si zophumula ezweni elihle ..., Se ku yisikhashanyana nje ...,",
+        "Si hube ingoma ka Mosi neWundlu; Sibe noJesu phakade."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Emagcekeni amahle, A khanya kuphela",
+        "uJesu ilanga lethu U xosh’ ubusuku"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngofika nini phezulu, Ngize ngi busiswe!",
+        "Ng’ombona nini uBaba, Ngi phuml’ eMbusweni!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I thabile inhliziyo, Ngoba ngi yahamba;",
+        "Noma ngi hanqiwe mina, Ngesibindi ngoya!"
+      ],
+      "number": 5
+    }
+  ]
+}

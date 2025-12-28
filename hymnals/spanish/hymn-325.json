@@ -1,0 +1,56 @@
+{
+  "number": 325,
+  "language": "es",
+  "title": "No puede el mundo ser mi hogar",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### No puede el mundo ser mi hogar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No puede el mundo ser mi hogar,",
+        "sus bienes han de perecer;",
+        "anhelo pronto a Sion llegar",
+        "y a mi Maestro ver."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Iré al hogar,",
+        "a mi eterno y dulce hogar,",
+        "mi hogar;",
+        "sí, iré al hogar",
+        "que Jesús fue a preparar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La muerte allí no existirá;",
+        "tampoco la separación;",
+        "tristeza nunca más habrá",
+        "en la anhelada Sion."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Deseo pronto arribar",
+        "al puerto de la eterna paz.",
+        "Con Cristo quiero allí reinar",
+        "dejando el mundo atrás."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 222,
+  "language": "ve",
+  "title": "222. Ndi Zwandani Zwa Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:254"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi zwandani zwa Yesu, nne ndo tsireledzwa,",
+        "Nga lufuno lwa Yesu, Muya wanga rula.",
+        "Ipfani vha tshi khoda, Vharunwa nga nyimbo",
+        "Phanda ha khulunoni, ngei seli ha lwanzhe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Zwandani zwawe Yesu,",
+        "nne ndo tsireledzwa;",
+        "Nga kufuno lwa Yesu,",
+        "Muya wanga rula."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi zwandani zwa Yesu,",
+        "Ndo tshidzwa vhuvhini,",
+        "Milingo ya shango,",
+        "Tshivhi a tshi nkoni.",
+        "Ndo bviswa zwivhi zwothe, ndo bviswa kha nyofho",
+        "Milingo mituku, mitodzi a si minzhi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yesu mutsireledzi, Murena o mpfela",
+        "Yesu Randalamo, Ndi fulufhela iwe;",
+        "Ndo u lindela iwe, Nangwe hu vhusiku",
+        "Ndi do vhona mutsho,",
+        "Tivhani la musuku."
+      ],
+      "number": 4
+    }
+  ]
+}

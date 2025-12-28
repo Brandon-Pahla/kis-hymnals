@@ -1,0 +1,48 @@
+{
+  "number": 106,
+  "language": "tn",
+  "title": "106 Re Tla Aga Mo Go Jeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Re Tla Aga Mo Go Jeso Mo",
+        "Lefikeng ja bosakhutleng;",
+        "Jalo mogang matsubutsubu",
+        "A tsogang re tla ema."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tla aga Fikeng, tla aga Fikeng;",
+        "Re tla aga mo Lefikeng tota, Kresete Lefika.",
+        "A.T.&amp;B.",
+        "Re tla aga mo Lefikeng tota,",
+        "Re tla aga mo Lefikeng, tota,",
+        "Re tla aga mo Lefikeng tota, Kresete Lefika."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bangwe Ba Aga Mo Mosaweng",
+        "Wa dikhumo tsa lefatshe;",
+        "Bangwe makhubung a boleo,",
+        "A tlotlo le kgatlhego."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Lo Ko Lo Age Mo Fikeng,",
+        "Motheong o o tlhomameng;",
+        "Tsholofelo ya poloko ya",
+        "Rona ke e tlhomameng."
+      ],
+      "number": 3
+    }
+  ]
+}

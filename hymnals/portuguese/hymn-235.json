@@ -1,0 +1,60 @@
+{
+  "number": 235,
+  "language": "pt",
+  "title": "Hoje Sou Feliz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Hoje Sou Feliz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Perdido foi que Cristo me encontrou",
+        "Neste mundo vil;",
+        "Salvou-me, no Seu sangue me lavou.",
+        "Hoje sou feliz!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Hoje sou feliz,",
+        "Foi-se o meu temor;",
+        "Vou permanecer",
+        "Junto ao Salvador;",
+        "Foi-se a escuridão,",
+        "Raia a luz do Céu,",
+        "Pois eu sei que sou do meu Senhor",
+        "E Ele é meu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se muitas tentações me sobrevêm,",
+        "Para Ele vou;",
+        "Recebo forças que do Céu me vêm",
+        "Se com Ele estou!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se negra noite assustar-me vem,",
+        "Sinto Seu amor.",
+        "As trevas tornam-se em luz também,",
+        "Com meu Salvador!"
+      ],
+      "number": 5
+    }
+  ]
+}

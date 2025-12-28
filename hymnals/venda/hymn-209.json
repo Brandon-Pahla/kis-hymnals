@@ -1,0 +1,55 @@
+{
+  "number": 209,
+  "language": "ve",
+  "title": "209. U Tshimbila Na Mudzimu.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:315",
+        "AH:310"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. U tshimbila na Mudzimu,",
+        "Zwi sumba mulalo,",
+        "Tshedza tshi sumbaho ndila,",
+        "Iyaho kha Ngwana."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. ’da Muya mukhethwa, Ida,",
+        "U di ri awedza,",
+        "Ndi sanda zwi u tshinyaho,",
+        "Wa vha kule hanga."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndo di-phina, nga mulalo,",
+        "Ndi zwi ndifhelaho,",
+        "Zwi nea mbilu vhutungu,",
+        "Shango a li zwi pfi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tshifanyiso tsha vhugala,",
+        "Tshi nga vha tshinzani,",
+        "Nthuse ndi tshi late kule,",
+        "Ndi rabela Iwe."
+      ],
+      "number": 5
+    }
+  ]
+}

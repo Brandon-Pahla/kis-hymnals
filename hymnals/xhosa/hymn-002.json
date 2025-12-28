@@ -1,0 +1,47 @@
+{
+  "number": 2,
+  "language": "xh",
+  "title": "2 Emnyango",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "i-Nkosi seyisemnyango, Eyathwala umnqamlezo;",
+        "Ngoku abalungileyo, Baya phila ngayo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Emnyango . . . emnyango. . . i-Nkosi ifikil’ emnyango;",
+        "Iyeza, iyeza, Seyifikil’ emnyango.",
+        "(Iyeza iNkosi, Iyeza iNkosi; Seyifikil’ emnyango)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Into zonke zibonisa, ’kuza kwayo kusondele;",
+        "Siza kubona kamsinya, Ukuza kokusa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ninga khangel’ emhlabeni, Inkathazo azipheli;",
+        "Kuza kufik’ uMsindisi, Abhangis’ ukufa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khona ezweni elitsha, Sosoloko singabatsha;",
+        "Apho kungekho nkathazo, Kude kube nini."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 88,
+  "language": "xh",
+  "title": "88 Ungandidluli",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ungandidluli, Msindisi,",
+        "Yiv’ amazwi am;",
+        "Apho ubabiz’ abanye,",
+        "Mawundive nam"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nkosi, Nkosi, yiv’ amazwi am,",
+        "Apho ubabiz’ abanye, Mawundive nam."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kweso sihlalo senceba,",
+        "Sendikhona nam;",
+        "Ndiguqile, ndiyhakhala,",
+        "Yiva Nkosi yam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sekukade ndilindile,",
+        "Ndiyathemba nam;",
+        "’Zundibophe, ndaphukile,",
+        "Ndisindise nam."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndifikile emthonjeni,",
+        "Nokuphila kwam;",
+        "Ezulwini nasezweni",
+        "Kukho konk’ okwam."
+      ],
+      "number": 4
+    }
+  ]
+}

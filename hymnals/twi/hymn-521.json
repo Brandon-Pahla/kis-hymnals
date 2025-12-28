@@ -1,0 +1,47 @@
+{
+  "number": 521,
+  "language": "tw",
+  "title": "Mmɔb'rɔhun' Bun' Kɛse No!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mmɔbrɔhun' bun' kɛse no!",
+        "So ebi wɔ hɔ ma me?",
+        "Nyame abufuw begyaw",
+        "Me nnebɔn' yɛfo hen' yi?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mayɛ Ne dom ho 'soɔden",
+        "Ahyɛ No 'bufuw akyɛ;",
+        "Mantie Ne frɛ horow no,",
+        "Mahyɛ N' 'wrɛhow asehwɛm'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seesei boa ma mensakra,",
+        "Na minsu me bɔne ho;",
+        "Ma mempow matuatew na",
+        "Minnye nni, nnyae bɔne yɛ."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Gyenkwa no gyina hɔ mam',",
+        "ɔky'rɛ N'atwa, trɛw Ne nsam.",
+        "Nyame yɛ dɔ! Minim sa;",
+        "Yesu su, ɔdɔm' ara."
+      ],
+      "number": 4
+    }
+  ]
+}

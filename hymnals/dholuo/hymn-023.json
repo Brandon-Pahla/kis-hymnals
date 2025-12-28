@@ -1,0 +1,35 @@
+{
+  "number": 23,
+  "language": "luo",
+  "title": "23 Aheri, Aheri",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Aheri, aheri, aheri Ruodha;Aheri, Jawarna, bende Nyasacha;Aheri, aheri, kendo ing`eyo;To kaka aheri, timbena nohul."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Amor ka aparo mwandu moikna;To morna ok norum kasomo wachni;To agombo chopo e polo malo,Mond` abed gi Yesu gi malaika."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ruoth Yesu, Jawarwa, In e ngimana;In morna, warruokna, In kar yueyona;Napak nyingi kendo nawer herani;Ng`wononi nonyisre kuom kit ngimana."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Onge ng`a machalo kod Yesu Jawar;En Ruodha mohera, napake maber;Napake, nadende kod wende mag chuny;En kende magene, morna gi wenda."
+      ],
+      "number": 4
+    }
+  ]
+}

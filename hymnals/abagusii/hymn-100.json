@@ -1,0 +1,42 @@
+{
+  "number": 100,
+  "language": "guz",
+  "title": "100 Tindi N'eki Nyegenete",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tindi n'eki nyegenete;Tatig'amanying' a Yeso,Tinkonyara Omonyene;'Bibe biane kobisibia."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yes'egetare nteneine,S'ande nigo nkorimera,S'ande nigo nkorimera."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mosunte n'otub' amaiso;'Buya bwaye bong'isane,Emerindo kerang'ake;'Nguru chiaye ching'isane."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Amanying' Aye n'eira;Binkonye as' emechando,Onsi ense gekoera;'Monen' Ere nang'isane."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Karache n'ebitureri;Tiga ntoke nde ime yaye,Nyeboyetie oboronge;Ntari nakomocha konde."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "number": 220,
+  "language": "st",
+  "title": "220 Naha Ea Haeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Naha ea Haeso, Naha ea Botsoalle,",
+        "Ha ho bosiu teng. Lipina tsa haeso,",
+        "Li luma litsebeng, Ho bohloko pelong,",
+        "Ha ho sehlabi moo hae, Moo ke atamelang,",
+        "Ha ho sehlabi moo hae, Moo ke atamelang"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena’ ka O moo hae, O na le mangeloi,",
+        "Ha ho sebe haeso moo, Ha ho moleko teng.",
+        "Lipina tsa haeso li luma litsebeng,",
+        "Ha ke hopola lehae, Likeleli lia tsoa, (bis)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Baahi ba haeso moo, Ba mpiletsa teng,",
+        "Moo lefu, Masoabi, Li sa keneng hae;",
+        "Lefats’e la heso le la khotso holimo,",
+        "Jesu O re tlisa Hae re lopolotsoe. (bis)"
+      ],
+      "number": 3
+    }
+  ]
+}

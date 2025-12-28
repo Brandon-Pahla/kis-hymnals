@@ -1,0 +1,64 @@
+{
+  "number": 18,
+  "language": "tn",
+  "title": "18 Tswelang Pele Bakresete",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tswelang Pele Bakresete Lo Ye Ntweng,",
+        "Mokgoro wa Jeso O le kwa pele,",
+        "Kreste ke Molaodi, Tlhabantshang mmamba,",
+        "Tswelelang pele ntweng Bonang banera:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tswelelang Bakreste, Lo lebe kwa ntweng,",
+        "Mokgoro wa Jeso O le kwa pele"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mo Tshupong Ya Phenyo Baba Ba Tshaba,",
+        "Tswelelang mephato, Lo ye kwa phenyong,",
+        "Phupu dia roroma, ’Kgosing wa pako,",
+        "Lo tsholetseng mantswe, Lo kueng thata."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Jaaka Mophato Re Ba Modimo,",
+        "Re le mo motlhaleng Wa baitshepi",
+        "Ga re kgaogane, Rotlhe re mongwe,",
+        "Tsholofelong, thutong, Le mo loratong."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go Sule Dikgosi, E, Le Magosi,",
+        "Phuthego ya Jeso E eme jalo.",
+        "Meleti ga ’kake Ya bona phenyo,",
+        "Re na le Morena, Yo O sa fenngweng."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tswelang Pele Batho, A Re Kopaneng,",
+        "Ka mantswe a rona, Pineng ya phenyo,",
+        "Kgalalelo tlotlo, Go Kreste Kgosi,",
+        "E ka bosakhutleng E tla opelwang."
+      ],
+      "number": 5
+    }
+  ]
+}

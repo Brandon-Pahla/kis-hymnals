@@ -1,0 +1,47 @@
+{
+  "number": 460,
+  "language": "fr",
+  "title": "À toi je veux être attaché",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "À toi je veux être attaché,",
+        "Jésus, mon seul Sauveur.",
+        "Vers ton séjour je veux marcher",
+        "Par ton Esprit, vainqueur."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "T'avoir, Jésus, et près de toi",
+        "Vivre jusqu'à la fin,",
+        "Sentir toujours grandir ma foi ;",
+        "C'est le bonheur divin."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Espoir de tous les cœurs brisés,",
+        "Calme-les à jamais,",
+        "Dépose sur les fronts lassés",
+        "Ta paix, ta douce paix !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Reste ma joie et mon soutien,",
+        "Mon éternel trésor !",
+        "Comptant sur toi, je ne crains rien",
+        "Dans la vie et la mort."
+      ],
+      "number": 4
+    }
+  ]
+}

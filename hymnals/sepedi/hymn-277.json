@@ -1,0 +1,51 @@
+{
+  "number": 277,
+  "language": "nso",
+  "title": " 277  SEDI LE BONOLO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 277  SEDI LE BONOLO",
+        "АН 306 CH 403",
+        "LEAD, KINDLY LIGHT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sedi le le bonono",
+        "Leswiswing, Ntshepediše!",
+        "Go leswiswi ke kgole",
+        "Le legae, Ntshepediše!",
+        "Nthekge maoto ga ke hloke pono,",
+        "Ya kgole kgauswi go ntekane,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kgale ke sa rapele",
+        "ke re Ntshepediše!",
+        "Ke be ke ikgethetše",
+        "Tsela bjale, Ntshepediše!",
+        "Ke be ke ithata ke sa boife,",
+        "Se gopole sebe sa ka hle,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O ntšhegofatše le nna, O nketepele,",
+        "Dithokgweng, maswikeng,",
+        "'Nokeng tšebogale go ya mesong,",
+        "Mme mesong mangeloi a thaba,",
+        "Ba ke ba ratilego kgalekgale,"
+      ],
+      "number": 4
+    }
+  ]
+}

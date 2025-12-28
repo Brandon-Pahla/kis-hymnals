@@ -1,0 +1,45 @@
+{
+  "number": 261,
+  "language": "sn",
+  "title": "261 Mukana Wakanaka We Eden",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyika yakanaka Eden",
+        "Kwakateramira",
+        "Mumwoyo yevakaneta",
+        "Munoiswa simba"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyika yakanaka Eden, Musha wevatswene",
+        "Ndinofamba mumaruva, Ndorota nezororo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mumwoyo me anochema",
+        "Zuva rinopenya",
+        "Ngirosi dzoimba nzwiyo",
+        "Kubva kure kure"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiwo musha waM’ponesi",
+        "Nechita chasambwa",
+        "Pamapomhoyo embiri",
+        "Vanoimba rwiyo"
+      ],
+      "number": 4
+    }
+  ]
+}

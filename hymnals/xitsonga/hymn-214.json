@@ -1,0 +1,25 @@
+{
+  "number": 214,
+  "language": "ts",
+  "title": "214. XANA YESU WA KARHATEKA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "DOES JESUS CARE?",
+        "1. Xana Yesu Wa Karhateka, Loko Ndzhwalo Wu Tika;",
+        "Mbilu Yi Vava, Ndlela Yi Leha, Na Vutomi Byi Nonon’hwa.",
+        "CHORUS",
+        "Wa Khumbheka, Ndza Swi Tiva, Loko Ndzi Tele Gome;",
+        "Na Ntsako Wu Nga Ha Hela, Ina Wa Khumbheka Hi Mina (Yesu).",
+        "2. Xinyami, Nchavo Na Mapfalo, Swi Nga Kumeka Ndlelen;",
+        "Dyambu Ri Pela, Munyama Wu Ta, Yesu U Ta Va Kona Ke?",
+        "3. Ndzi Nga Hluleka, Miringweni, Ndzi Tsandzeka Ku Yima; Exirilweni, Na Le Gomeni",
+        "Xana A Nge Ndzi Pfuni Ke?",
+        "4. Na Varhandziwa Va Ndzi Siya, Misaven Ndzi Ri Swanga;",
+        "Ndzi Tala Gome, Ri Handzulaka, Yesu Wa Swi Vona Xana?"
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 25,
+  "language": "st",
+  "title": "25 Kea Inehela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hohle Jesu ke inehela, Eena tokolohong;",
+        "Ke tla mo rata kamehla, ke ts’epe Eena feela."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kea inehela, ke lahle tsohle;",
+        "Hohle ho Uena ’Moloki ea inehela."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hohle ke inehela Jesu, ke khumama maotong;",
+        "Menyaka ea lefats’e, ke e lahlile nkuke hle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hohle k’inehela Jesu, ’Moloki nketse oa hao,",
+        "Ke utloe moea oa hao Jesu, ke tsebe hore O’aka."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hohle k’inehela Jesu, ke utloa moea oa ’nete,",
+        "Thabo ea poloko, khalalelo lebitsong la Hae."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "number": 265,
+  "language": "en",
+  "title": "265 Peace, Perfect Peace.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Peace, perfect peace, in this dark world of sin?",
+        "The blood of Jesus whispers peace within."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Peace, perfect peace, by thronging duties pressed?",
+        "To do the will of Jesus: this is rest"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Peace, perfect peace, with sorrows surging round?",
+        "On Jesus’ bosom nought but calm is found."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Peace, perfect peace, with loved far away?",
+        "The blood of Jesus whispers peace within.",
+        "In Jesus’ keeping we are safe, and they."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Peace, perfect peace, our future all unknown?",
+        "Jesus we know, and He is on the throne."
+      ],
+      "number": 5
+    }
+  ]
+}

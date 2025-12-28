@@ -1,0 +1,38 @@
+{
+  "number": 134,
+  "language": "xh",
+  "title": "134 Uthando Olungummangaliso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngentlokoma ephakame Umphefumlo wam uvuma;",
+        "Uphina kodwa ovuma Ngothand’ olungummangaliso?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Oluthando! Oluthando! Uthando luka-Yesu!",
+        "Oluthando! Oluthando! Uthando luka-Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Emini nase busuku, Luluxolo nokuzola,",
+        "Luliyeza kwa namandla, Lona uthando luka-Yesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndakubiza, ndixolelwa, Ndakuwa ndiphakanyiswe;",
+        "Ebomini nasekufen’ Lunjal’ uthando luka-Yesu."
+      ],
+      "number": 3
+    }
+  ]
+}

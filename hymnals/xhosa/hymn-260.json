@@ -1,0 +1,44 @@
+{
+  "number": 260,
+  "language": "xh",
+  "title": "260 Ntili Entle YaseBheula",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "’Ndihamba kwindaw’ emnyama Engahlalwa bani;",
+        "Indlela inentyatyambo ezibukekayo.",
+        "Yindaw’ entle yaseBheula ethandekayo kum,",
+        "U-Msindisi ukufuphi sihamba sithetha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ntil’ entle yaseBheula, Uyathandek’ apha kum;",
+        "Xa ndikuwe ndibona Umbon’ omhle wezulu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akukho thunz’ elisitha Ubuhle bendlela;",
+        "Ukukhanya kwaphezulu Kukho yonk’ imihla.",
+        "Kuvakal’ ingom’ emnandi Ephum’ ezulwini,",
+        "Itsho ngentsholo emnandi, Iyandonwabisa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngokuvuya ndiy’ ekhaya Kumzi okhanyayo,",
+        "Ndikhulelwa kukukhanya Novuyo phambi kwam.",
+        "Sendibona lo masango Omzo waphezulu;",
+        "Le ndlela ndiyihambayo Isinga ekhaya."
+      ],
+      "number": 3
+    }
+  ]
+}

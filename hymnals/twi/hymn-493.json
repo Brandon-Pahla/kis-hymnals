@@ -1,0 +1,46 @@
+{
+  "number": 493,
+  "language": "tw",
+  "title": "Na Mete Sɛ Subura Ho ɔbaa No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Na mete sɛ subura ho ɔbaa no,",
+        "Mehwehwɛɛ nneɛma a ɛmmee;",
+        "Afei metee m'Agyenkwa nne sɛ:",
+        "\\\"Sa M'abura a ɛnwe da no bi\\\"."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hyɛ me kuruwa ma, mema so",
+        "'W'ra, dwudwo me kra sukɔm ano;",
+        "Soro aduan, yɛn me kosi sɛ mɛmee",
+        "Hyɛ me kuruwa ma, na yɛ me mua."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mpempem wɔ wiase yi mu a wɔrepɛ",
+        "'Sase yi so anigyede;",
+        "Nanso 'mu biara nn'ru 'gyapadč a",
+        "Minya no me Wura Yesu mu no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me mma, nneɛma a wiase yi de ma mo,",
+        "Gya mo ɔkɔm a entwam a,",
+        "Me W'ra no bɛba abɛgye mo,",
+        "Sɛ mokoto srɛ No 'hobrɛasem'a."
+      ],
+      "number": 3
+    }
+  ]
+}

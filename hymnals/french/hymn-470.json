@@ -1,0 +1,74 @@
+{
+  "number": 470,
+  "language": "fr",
+  "title": "Sur toi, je me repose",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sur toi, je me repose,",
+        "Ô Jésus mon Sauveur !",
+        "Faut-il donc autre chose",
+        "Pour un pauvre pécheur ?",
+        "Conduit par ta lumière,",
+        "Gardé par ton amour,",
+        "Vers la maison du Père",
+        "Marchant de jour en jour."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Sur toi, je me repose",
+        "O Jésus mon Sauveur!",
+        "Faut-il donc autre chose",
+        "Pour un pauvre pécheur?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ah ! ma misère est grande !",
+        "Mais tu m'as pardonné;",
+        "Sainte et vivante offrande,",
+        "Pour moi tu t'es donné;",
+        "Et de toute souillure,",
+        "Par le sang de la croix,",
+        "Mon âme devient pure :",
+        "Tu l'as dit, je le crois."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Au plus fort de l'orage,",
+        "Tu te tiens près de moi,",
+        "Ranimant mon courage",
+        "Et soutenant ma foi;",
+        "C'est dans ton cœur qui m'aime",
+        "Que tu sais me cacher;",
+        "En vain Satan lui-même",
+        "Voudrait m'en arracher."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En toi, j'ai la victoire,",
+        "La paix, la liberté;",
+        "À toi je rendrai gloire",
+        "Durant l'éternité;",
+        "Si du bonheur qui passe",
+        "La source doit tarir,",
+        "C'est assez de ta grâce",
+        "Pour vivre et pour mourir."
+      ],
+      "number": 5
+    }
+  ]
+}

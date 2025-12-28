@@ -1,0 +1,68 @@
+{
+  "number": 64,
+  "language": "tum",
+  "title": " 64 Mphalire Yesu Fumu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 64 Mphalire Yesu Fumu",
+        "ARE YOU WEARY?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Kasi ukusuzgika mu mtima?",
+        "Mphalire Yesu, mphalire Yesu,",
+        "Kasi ukukhala mu vitima?",
+        "Mphalire Yesu pera"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mphalire Yesu,",
+        "Mphalire Yesu ndiyo m bwezi muweme.",
+        "Ulije m bwezi kuruska Yesu?",
+        "Mphalire Yesu pera."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Kasi ukulira mwachitima?",
+        "Mphalire Yesu mphalire Yesu,",
+        "Kasi wabisirizga kwananga?",
+        "Mphalire Yesu pera."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Kasi ukopa mu mtima wako?",
+        "Mphalire Yesu, mphalire Yesu,",
+        "Kasi ukwenjerwa m mtima wako?",
+        "Mphalire Yesu pera."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Kasi ukopa nyifwa ya sono?",
+        "Mphalire Yesu, mphalire Yesu,",
+        "Kasi ukulira kuti wize?",
+        "Mphalire Yesu pera."
+      ],
+      "number": 5
+    }
+  ]
+}

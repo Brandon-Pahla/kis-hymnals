@@ -1,0 +1,23 @@
+{
+  "number": 72,
+  "language": "ts",
+  "title": "72. KU AVANYISA SE KU SUNGURILE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE JUDGMENT HAS SET",
+        "1. Ku Avanyisa Se Ku Sungurile, Matsalwa Ma Langutiwa,",
+        "Ka Leswo Biha Ni Swo Saseka, Ku Ta Avanyisiwa.",
+        "CHORUS",
+        "Hi Ta Ku Yini Na Siku Rero, Hi Ta Ku Yini Siku Rero,",
+        "Hi Ta Kumeka E Swidyohweni, Kumbe Hi Khomeriwile.",
+        "2. Ku Sungule Hi Lava Etleleke, Na Hina Hi Ta Landzela,",
+        "Xikwembu Xi Le Ku Avanyiseni, No Ahlula Milandzu.",
+        "3. Hi To Yini Loko Ku Paluxiwa, Swona Swidyoho Swa Hina,",
+        "Eka Yona Khoto Ya Makumu, Tintswalo Ti Pfariwini."
+      ],
+      "number": 1
+    }
+  ]
+}

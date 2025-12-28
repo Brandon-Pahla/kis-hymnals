@@ -1,0 +1,49 @@
+{
+  "number": 208,
+  "language": "tn",
+  "title": "208 Didimalang Lotlhe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Didimalang Lotlhe, R’utlwa Go Seba,",
+        "Didimalang reetsang, Lo tsee mafoko."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Gatang ka bonolo, Morena O fa;",
+        "Gatang ka bonolo, Re atameleng.",
+        "T &amp; B.",
+        "Lo gateng ka bonolo fa, Morena O fa;",
+        "Lo gateng ka bonolo, fa, Re atameleng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Didimalang, Fano Go Boitshepo,",
+        "Mo sebesong seno, Sa thomo e ntle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Didimalang, Fano, A Re Rapeleng,",
+        "Re utlwe Edene Lobakeng lona."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Didimalang, Kwalang Tshwaro Ya Gagwe;",
+        "Didimalang, mme lo Leteng Morena."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": 143,
+  "language": "nd",
+  "title": "143 Nkosi Busisa Ukuphuma Kwethu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi busis’ ukuphuma;",
+        "Thabis’ umoya wethu:",
+        "Si phe sonk’ uthando lwAkho;",
+        "Ngomusa si yonqoba",
+        "Si ph’ amandla, u sivuse;",
+        "Nxa si hamba ehlane!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si kubonga, si dumisa;",
+        "Ngelizwi leVangeli.",
+        "Izithelo zosindiso;",
+        "Zi bonakale kithi.",
+        "Si kholele, njalo, njalo;",
+        "Si neqiniso lAkho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa insuku zethu zanda;",
+        "‘Ngathi kunga ezAkho.",
+        "Si kuthale mihla yonke;",
+        "Si gijime, si ngemi;",
+        "Si ncome udumo lwAkho,",
+        "Izulu li vuleke."
+      ],
+      "number": 3
+    }
+  ]
+}

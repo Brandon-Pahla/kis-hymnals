@@ -1,0 +1,47 @@
+{
+  "number": 139,
+  "language": "st",
+  "title": "139  Ke Se Ke Fumane Motsoalle",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke se ke fumane motsoalle, Eena ea nthatang;",
+        "Ke huloa ke lona lerato, A nkisa ho Eena;",
+        "O ntlamile moo pelong eaka; Ka khoele e tiileng.",
+        "Jesu ’na ke ngoana oa Hao, leha e ka ba neng. ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke se ke fumane motsoalle ea mpholositseng;",
+        "E seng ka ho phela feela, empa A itela.",
+        "Hohle ke nang le hona ke ho beela Eena,",
+        "Pelo le ho lula ha ka ke tsa Hae joalo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke se ke fumane motsoallle, Ea filoeng matla;",
+        "Ha Eena A ka nkemela tseleng ea leholimo;",
+        "Ho ea khanya bakeng sa-ne se ntiisitseng;",
+        "Ha ke lese ho sebetsa ke tla phomola pele."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke se ke fumane motsoalle, Ea mosa ruri;",
+        "Eena O tla ntsamaisa ke fihle leholimong;",
+        "Ho Uena ea nthatileng ke fumana matla;",
+        "Re tla khaohangoa ke lefu! Che ’na ke oa Hao."
+      ],
+      "number": 4
+    }
+  ]
+}

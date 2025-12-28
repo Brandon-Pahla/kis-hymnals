@@ -1,0 +1,44 @@
+{
+  "number": 88,
+  "language": "fr",
+  "title": "Du haut des cieux",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Du haut des cieux, Jésus vient dans sa gloire,",
+        "Tous ses élus peuvent le contempler.",
+        "Au chœur des anges,",
+        "Nos voix se mélangent.",
+        "Gloire à toi Seigneur!",
+        "Amen, alléluia!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous jouirons du fruit de sa victoire,",
+        "Car notre roi vient pour nous libérer.",
+        "Au chœur des anges,",
+        "Nos voix se mélangent.",
+        "Gloire à toi Seigneur!",
+        "Amen, alléluia!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De nos douleurs, il n’est plus de mémoire,",
+        "À son triomphe, il veut nous associer.",
+        "Au chœur des anges,",
+        "Nos voix se mélangent.",
+        "Gloire à toi Seigneur!",
+        "Amen, alléluia!",
+        "Amen, alléluia!"
+      ],
+      "number": 3
+    }
+  ]
+}

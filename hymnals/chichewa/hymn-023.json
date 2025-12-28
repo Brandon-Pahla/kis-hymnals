@@ -1,0 +1,30 @@
+{
+  "number": 23,
+  "language": "ny",
+  "title": "23 - Mundifungatire Ine",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOVER O’ER ME HOLY SPIRIT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Mundifungatire ine, Mzimu wakuyera ’Nu,",
+        "Munditsuke mtima wanga, Inde, Mudze leroli.",
+        "CHORUS:",
+        "Mudzetu, mudzetu, Mzimu wakuyera mbu.",
+        "Munditsuke mtima wanga, Inde, mudze leroli.",
+        "2. Mzimu, mundidzaze ine, Ndisowatu nzeruzo.",
+        "Ndisowanso inu, Mbuye, Mundidzaze mtimanga.",
+        "3. Ine ndine wolefuka, Ndikugwadiranitu.",
+        "Mzimu Inu mundidzaze Ndi chikondi Chanucho.",
+        "4. Dalitseni ine, Mzimu, Sambitseni mtimanga.",
+        "Inu, Msangalatsi wanga, Mudze, inde leroli."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "number": 208,
+  "language": "tum",
+  "title": " 208 Mngatokotoskanga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 208 Mngatokotoskanga",
+        "CH 601 BE SILENT BE SILENT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "M'ngatokotoskanga m'nyumba ya Fumu,",
+        "Mupulikizgenge ku mazgu ghake.",
+        "(S/A)",
+        "Nyanyamphiraninge pakwenda muno,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain:",
+        "(T/B)",
+        "(Nyanyamphira nyanyamphira pakwenda muno),",
+        "(S/A)",
+        "Nyanyamphiraninge pa maso pake,",
+        "(T/B)",
+        "(Nyanyamphira nyanyamphira pa maso pake)."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "M'ngatokotoskanga ndi mtuwa muno,",
+        "Mazgu gha uchizi ghapharazgike"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "M'ngatokotoskanga tikumusopa,",
+        "Ngeti mu Edeni tiri pamoza."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Mngatokotoskanga lusungu ndwake,",
+        "Mukhalenge chete kumulindizga."
+      ],
+      "number": 6
+    }
+  ]
+}

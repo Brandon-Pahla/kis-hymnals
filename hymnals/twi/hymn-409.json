@@ -1,0 +1,47 @@
+{
+  "number": 409,
+  "language": "tw",
+  "title": "Yesu Frɛ 'Hotefo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu frɛ 'hotefo",
+        "Sɛ wommehyia N'anim,",
+        "Mmedidi mfa nkae wɔn W'ra no",
+        "Wu ne N'amanehun'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛfa 'bodoo ne nsa",
+        "Sɛ Wow u ho agy'rae;",
+        "'W'ra, ma yɛn kra so ma yɛmfa",
+        "Gyidi nniW' honam no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛdi nkwa 'bodoo no",
+        "Nom nkwa nsa no gyidim.",
+        "Gyidi hwɛ tra ha 'p'rep're yi",
+        "Ka yɛne Boben' bom."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nadwo yi retwam kɔ,",
+        "Yɛn W'ra bɛsan aba;",
+        "'Guammaan' 'yefrohyia 'ponto no",
+        "Bɛhyɛ N'ahenni ase."
+      ],
+      "number": 4
+    }
+  ]
+}

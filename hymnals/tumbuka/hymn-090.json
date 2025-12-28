@@ -1,0 +1,69 @@
+{
+  "number": 90,
+  "language": "tum",
+  "title": " 90 Lindizgani Mkuromba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 90 Lindizgani Mkuromba",
+        "WATCH FOR THE TIME IS SHORT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "M'lindizge m'kuromba nyengo yikumara,",
+        "M'ngawanga m'uheni mlindizgem'kuromba,",
+        "Thupi'li nditechi,",
+        "Mrwani ngwa nkhongono,",
+        "Lindizgani mose, wanthengwa wakwiza."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mlinde, mrombe, mlinde mrombe,",
+        "Muhanya na usiku Lindizgani murombenge swi!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "T&B:",
+        "Mlinde, mrombe,",
+        "mlinde, mrombe,",
+        "Mlinde, mrombe,",
+        "mlinde, Mrombe,",
+        "Muhanya na usiku Lindizgani,",
+        "Murombenge swi!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Lekani kugona, mungakayikanga,",
+        "Mwampumula nadi kuchanya kwa Yesu,",
+        "Lindani mrombenge kwa mponoski winu,",
+        "Wakasuzgika 'mwe chifukwa cha imwe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Gomezgani Yesu, m'rwani warotoka,",
+        "Vwara homwa lake wasuke wafike,",
+        "Leka kuzerezga mpokelere Yesu,",
+        "Rombaninge mose na kulindizgaso."
+      ],
+      "number": 5
+    }
+  ]
+}

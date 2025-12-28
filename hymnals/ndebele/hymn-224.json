@@ -1,0 +1,40 @@
+{
+  "number": 224,
+  "language": "nd",
+  "title": "224 Khanyisani Izibani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U yakhany’ umsa ka Baba U vel’ endlini yAkhe,",
+        "Kodzwa thina u si phile Si khanye phansi lapha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khanyisani izibani Ku bonwe ngaphesheya!",
+        "Kumbe u yashon’ omunye,",
+        "U ngamsindisa yena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngenxa yesono ku mnyama S’chlelwe ‘zinhlupheko,",
+        "Kad’ elindele amehlo Ukubon’ ukukhanya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lungis’ is’bani, mfowethu Ye, omunye u khona",
+        "Ozamayo ukungena Emthimbeni we Wundlu."
+      ],
+      "number": 4
+    }
+  ]
+}

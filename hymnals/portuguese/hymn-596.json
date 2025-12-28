@@ -1,0 +1,27 @@
+{
+  "number": 596,
+  "language": "pt",
+  "title": "Vem Morar em Mim",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Vem Morar em Mim"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo Espírito de Deus,",
+        "Vem morar em mim.",
+        "Santo Espírito de Deus,",
+        "Vem morar em mim.",
+        "Vem moldar-me, transformar-me.",
+        "Santo Espírito de Deus,",
+        "Vem morar em mim."
+      ],
+      "number": 2
+    }
+  ]
+}

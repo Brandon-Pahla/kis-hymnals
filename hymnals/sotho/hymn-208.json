@@ -1,0 +1,48 @@
+{
+  "number": 208,
+  "language": "st",
+  "title": "208 Hatang Butle",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Khutsang tu! Khutsang tu! R’utloa ho seba,",
+        "Khutsang tu! Khutsang tu! Bolokang lentsoe"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hatang butle—butle, Morena O teng’",
+        "Hatang butle—butle, O r’atamelang.",
+        "Hatang butle mona, Morena o teng;",
+        "Hatang butle mona, O r’atamelang"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khutsang tu! Khutsang tu! Hoa ’halalela;",
+        "Aletareng ena Ea thomo e ntle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khutsang tu! Khutsang tu! A re rapeleng;",
+        "R’utloa ka Edene Ka nako ena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khutsang tu! Khutsang tu! Ngolang mohau;",
+        "Khutsang tu! Khutsang tu! Le Mo emeleng."
+      ],
+      "number": 4
+    }
+  ]
+}

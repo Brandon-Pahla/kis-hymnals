@@ -1,0 +1,48 @@
+{
+  "number": 730,
+  "language": "tw",
+  "title": "N35 Yesu Wɔ Adwuma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu wɔ adwuma da w'anim seesei;",
+        "Dwuma a ‘Wura no ahyehyε ama w';",
+        "Yε ntεm yε N'ahyεde, som No nokwarem',",
+        "Yesu wɔ adwuma wo na wobεyε."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yε ‘dwuma daa ma Yesu,",
+        "Som No daa daa, n-hintiw da, tie Kristo;",
+        "Som No dɔ ne nokware m',",
+        "Yesu wɔ adwuma,",
+        "Wo na wobεyε."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu wɔ adwuma, ahobrεasede,",
+        "‘Yi ne adwuma a ɔpε sɔ woyε,",
+        "Kɔ nea nnɔbae ahoa, na apaafo sua",
+        "Yesu wɔ adwuma wo na wobεyε."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu wɔ adwuma kɔgye akra bra,",
+        "Ka Ne dom no ky'rε wɔn,",
+        "Ky'rε wεn wo Hene;",
+        "M-pa~ara da, ɔbεhyε wo den;",
+        "Yesu wɔ adwuma wo na wobεyε."
+      ],
+      "number": 3
+    }
+  ]
+}

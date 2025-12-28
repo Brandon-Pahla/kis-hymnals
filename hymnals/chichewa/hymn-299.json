@@ -1,0 +1,31 @@
+{
+  "number": 299,
+  "language": "ny",
+  "title": "299 - Tikondwere Nthawi Zonse",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ALWAYS CHEERFUL"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Tikondwere nthawi zonse; Tidandauliranji",
+        "Kwina \"Tate wathu Mlungu, Atisamalirafe?",
+        "CHORUS:",
+        "Tikondwere nthawi zonse Ponse dzuwa liwala",
+        "Njira ya ntchitoyi ndi yokoma",
+        "Tikondwere konseko.",
+        "2. Dzanja lace litsogoza, Ngati chimo lidzatu",
+        "Nsisi zace, Satisiya tokha bi.",
+        "3. Tikaleka ntchito yathu, Tidzacita macimo,",
+        "Ndipo mtambo wa cisoni, Udzaletsa cimwemwe.",
+        "4. Abwinowo akondwere, Ndi mtendere wosatha",
+        "Timveretu mau ace, Tikonde zokomazo."
+      ]
+    }
+  ]
+}

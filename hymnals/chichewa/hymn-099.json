@@ -1,0 +1,46 @@
+{
+  "number": 99,
+  "language": "ny",
+  "title": "99 - Pokumbukira Mtandawo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHEN I SURVEY THE WONDROUS CROSS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Pokumbukira mtandawo Umene Mbuye nafapo,",
+        "Zokoma za pa dzikoli Sizinga kanthu konse bi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Onani mutu, manjanso, Mapazi ndi mu nthitimo.",
+        "E! panalibe winayo Wondivalira mingayo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Chinkana ndinachimwatu, Anakhulukira ’ne.",
+        "Ndisadzitame ndekhai, Nditame mtanda wakewo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Chinkana ndipereketu, Ee! chuma chonse m’dzikomo,",
+        "Sizingakwane konsei, Ndingopereka mtimanga."
+      ],
+      "number": 5
+    }
+  ]
+}

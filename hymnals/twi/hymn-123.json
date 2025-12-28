@@ -1,0 +1,55 @@
+{
+  "number": 123,
+  "language": "tw",
+  "title": "Sɛ Tetefo De 'Nigye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ tetefo de 'nigye",
+        "Hwɛɛ ns'romma kwanky'rɛf no,",
+        "Sɛ wɔgyee ne hann 'nigyem,",
+        "Na ɛhyerɛn ky'rɛɛ wɔn kwan,",
+        "Saa na Aw'rade domfo,",
+        "Kyerɛ yɛn Wo nkyɛn kwan daa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnea wɔde dɛw nantew",
+        "Kɔɔ W'ahobrɛase mpa ho,",
+        "Kobuu W'anim nkotodwe ɔ",
+        "Wo a s'ro ne fam som Wo;",
+        "Saa'ra na ma yɛmfa dɛw",
+        "Mmra Wo dom agua n'anim."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ wɔde aboɔdenne",
+        "Brɛɛ Wo mmoa 'dididem' no,",
+        "Saa na ma yɛmfa 'nigye",
+        "Kronkron a bɔne bi nnim",
+        "Mfa yɛn ademude pa",
+        "Mmrɛ Wo Kristo, yɛn s'ro Hen'."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu Kronkron, da biara",
+        "Fa vɛn fa kwan hihiaa nom'.",
+        "Na sɛ fam nneɛma twam a,",
+        "Fa 'kra a wɔagye wɔn bra",
+        "Nea ns'romma kwanky'rɛfo nhia,",
+        "Na 'wisiw nsɛe W'anuonyam."
+      ],
+      "number": 4
+    }
+  ]
+}

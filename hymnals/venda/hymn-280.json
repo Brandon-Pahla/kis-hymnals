@@ -1,0 +1,54 @@
+{
+  "number": 280,
+  "language": "ve",
+  "title": "280. Dzinyimbo Dzi difhaho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Dzinyimbo dzi difhaho, nga duvha lavhudi,",
+        "Ri a tenda Muvhumbi, vhutshilo na ndila."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Renda, renda nyimbo dza Murena,",
+        "Renda, renda na vhukhethwa hawe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. O funa na vhana-vho, a tshee fhano fhasi",
+        "Naho e ngei tadulu, u kha di ri funa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri nanga thungo yawe, na mafhungo awe",
+        "E ngei Galilea, o shuma zwihulusa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mutshidzi washu rothe, ro gwadama fhano,",
+        "Ri humbela u thuswa, u ri tsireledze."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "number": 231,
+  "language": "fr",
+  "title": "Alléluia",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Alléluia, alléluia, alléluia !"
+      ],
+      "number": 1
+    }
+  ]
+}

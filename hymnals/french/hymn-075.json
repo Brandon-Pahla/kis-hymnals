@@ -1,0 +1,47 @@
+{
+  "number": 75,
+  "language": "fr",
+  "title": "Jour glorieux, jour heureux",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jour glorieux, jour heureux, Alléluia!",
+        "Où Jésus s’élève aux cieux! Alléluia!",
+        "Aux mortels, un temps donné, Alléluia!",
+        "Il rejoint l’éternité. Alléluia!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Louange aux Roi éternel! Alléluia!",
+        "Ouvrez-vous portes du ciel! Alléluia!",
+        "Qu’il entre, glorieux Roi. Alléluia!",
+        "L’univers est sous sa loi. Alléluia!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dans un geste il nous bénit, Alléluia!",
+        "Lui qui nous a tant aimés. Alléluia!",
+        "Sur ces paumes qu’il unit, Alléluia!",
+        "Son amour est imprimé. Alléluia!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Élève nos cœurs, Seigneur, Alléluia!",
+        "Jusqu’à toi le grand vainqueur. Alléluia!",
+        "Ta face, ô Seigneur Jésus, Alléluia!",
+        "Éclaire tous tes élus. Alléluia!"
+      ],
+      "number": 4
+    }
+  ]
+}

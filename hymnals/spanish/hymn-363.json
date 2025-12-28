@@ -1,0 +1,65 @@
+{
+  "number": 363,
+  "language": "es",
+  "title": "Hay un canto nuevo en mi ser",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Hay un canto nuevo en mi ser"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hay un canto nuevo en mi ser,",
+        "es la voz de mi Jesús;",
+        "que me infunde dulce paz y amor,",
+        "al andar yo en su luz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Cristo, Cristo, Cristo,",
+        "nombre sin igual;",
+        "llene siempre mi alma",
+        "esa nota celestial."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Él me da su gracia celestial,",
+        "al cumplir su voluntad;",
+        "de su trono fluyen cual raudal,",
+        "las riquezas de bondad."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muchas pruebas debo soportar",
+        "pero Cristo me guiará;",
+        "y a mí por fe me toca andar,",
+        "su amor me sostendrá."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo en las nubes volverá,",
+        "a llevarme al hogar;",
+        "para siempre mi alma gozará,",
+        "porque en Cristo supe fiar."
+      ],
+      "number": 6
+    }
+  ]
+}

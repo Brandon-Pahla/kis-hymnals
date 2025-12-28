@@ -1,0 +1,54 @@
+{
+  "number": 213,
+  "language": "tw",
+  "title": "Yesu Resan Aba Bio'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Momma t'robɛnto no so na monhyɛn:",
+        "Yesu resan aba bio!",
+        "Akwantufo, munni dew monto dwom;",
+        "Yesu resan aba bio'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "ɔreba bio, ɔreba bio.",
+        "Yesu resan aba bio'."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mmepɔ ne nɔsaseta monka sɛ:",
+        "Yesu resan aba bio!",
+        "'Guammaā a wokum No reba 'nuonyam mu,",
+        "Yesu resan aba bio."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asase wosow ma mpempem hu sɛ:",
+        "Yesu resan aba bio!",
+        "Ahum ne mframa gu so to dwom sɛ;",
+        "Yesu resan aba bio!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛnam amn abufuw so hu sɛ:",
+        "Yesu resan aba bio!",
+        "Nimdeɛ ne akɔneaba redɔɔso;",
+        "Yesu resan aba bio!"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "number": 586,
+  "language": "pt",
+  "title": "Doxologia",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Doxologia"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Deus, Criador do Universo,",
+        "Rendo um louvor neste verso.",
+        "És Redentor e Salvador;",
+        "Deus Pai, Deus Filho, Deus Espírito Santo."
+      ],
+      "number": 2
+    }
+  ]
+}

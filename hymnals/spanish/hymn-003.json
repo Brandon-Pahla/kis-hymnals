@@ -1,0 +1,56 @@
+{
+  "number": 3,
+  "language": "es",
+  "title": "Unidos en espíritu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Unidos en espíritu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unidos en espíritu",
+        "al coro celestial,",
+        "cantemos con los ángeles",
+        "un cántico triunfal.",
+        "Y si vertimos lágrimas",
+        "al frente de la cruz,",
+        "rebose hoy el júbilo,",
+        "pues vive el buen Jesús."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lo que en el triste Gólgota",
+        "derrota pareció,",
+        "desde el sellado túmulo",
+        "en triunfo se cambió.",
+        "Vencido el enemigo está,",
+        "menguado su poder;",
+        "y el mortal su súbdito",
+        "ya no habrá de ser."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesús, de gloria Príncipe,",
+        "autor de nuestra paz,",
+        "ven, muéstranos benévolo",
+        "tu esplendorosa faz.",
+        "Y acepta el dulce cántico",
+        "de nuestra gratitud,",
+        "por tu valiosa dádiva",
+        "de la eternal salud."
+      ],
+      "number": 4
+    }
+  ]
+}

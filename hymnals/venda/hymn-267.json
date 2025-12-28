@@ -1,0 +1,54 @@
+{
+  "number": 267,
+  "language": "ve",
+  "title": "267. Halifha Sa Daniel",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Imani ni kha ngoho, Ni pfe Mudzimu,",
+        "difungeni ni nge sa mmbi ya vho-Daniel!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Halifha sa Daniel, Ima u wothe!",
+        "Khwatha u kha ngoho, U di zwi divhadza!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Vha Maanda vha khou xedzwa, na nga vhugoswi,",
+        "Vha nga kunda nga u dzhena mmbi ya Daniel!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Miswonda ya vhuhali, naho yo anda,",
+        "I nga wa nga thumbu phanda ha ’mbi ya Daniel!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Hwala tshiga, didzime, U vhe na gundo!",
+        "U tshi nyadza sathane, Vhidza ’mbi ya Daniel!"
+      ],
+      "number": 5
+    }
+  ]
+}

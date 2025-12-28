@@ -1,0 +1,58 @@
+{
+  "number": 312,
+  "language": "es",
+  "title": "Día grande viene",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Día grande viene"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Día grande viene, un día grande,",
+        "día grande viene y cerca está,",
+        "cuando justos y malos",
+        "separados quedarán.",
+        "¡Oh! hermano, ¿apercibido estás?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¿Te hallas listo?, ¿te hallas listo",
+        "para el fallo dei gran tribunal?",
+        "¿Te hallas listo?,",
+        "¿te hallas listo para el tribunal?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Día triste viene, un día triste,",
+        "día triste viene y cerca está,",
+        "cuando: \"Id pecadores,",
+        "no os conozco\", el Juez dirá.",
+        "¡Oh! hermano, ¿apercibido estás?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Día alegre viene, un día alegre,",
+        "día alegre viene y cerca está;",
+        "mas su luz brilla solo en",
+        "los que aman al Señor.",
+        "¡Oh! hermano, ¿apercibido estás?"
+      ],
+      "number": 5
+    }
+  ]
+}

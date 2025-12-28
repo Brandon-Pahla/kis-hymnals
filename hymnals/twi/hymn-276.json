@@ -1,0 +1,43 @@
+{
+  "number": 276,
+  "language": "tw",
+  "title": "Nnaase Nka Nyame a ɔnam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nnaase nka Nyame a ɔnam",
+        "N'Asɛm so maa 'sase bae.",
+        "Ne nne no na ɛfrɛɛ ɔman;",
+        "Na Ne gya na ɛtew ho,",
+        "Nyamč akasa;",
+        "Yi N'ayɛ N'Asɛm no nti."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nnaase nka Nyame a ɔnam",
+        "N'Asɛm so 'hyɛ yɛn 'nuonyam;",
+        "Nneyɛe ne nsɛm ne wu ne sɔr'",
+        "Ky'rɛ  ɔs'ro 'dom ho nhyehyɛe",
+        "Nyamč akasa;",
+        "Yi N'ayɛ N'Asɛm no nti."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nnaase nka Nyame, Ne Honhom",
+        "De N'Asɛm no ho mmuae mmae;",
+        "'Ha na yenya 'nigye mm'roso",
+        "Wɔagye yɛn bɔne ne wum';",
+        "Nyamč akasa;",
+        "Yi N'ayɛ N'Asɛm no nti.\","
+      ],
+      "number": 3
+    }
+  ]
+}

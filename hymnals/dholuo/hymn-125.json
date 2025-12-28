@@ -1,0 +1,35 @@
+{
+  "number": 125,
+  "language": "luo",
+  "title": "125 E Ndaloni Maler Mar Ruoth",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. E ndaloni maler mar RuothChunywa oyudo mor,Kwaweyo paro gik mag piny,Kwaparo wach Nyasaye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. En kinde maber mar lemo,Owenwa richowa;Wating`o dwondwa kwawacho,\"Wuonwa manie polo.\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Wamor kwawinjo weche kuwemoanwa ka Nyasaye,Wamedo padore kuome,Kwachiko yor polo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ka golo richo e chunywa,Otamowa nyalo,Nyasaye ong`eyo dwarowa,En to okonyowa."
+      ],
+      "number": 4
+    }
+  ]
+}

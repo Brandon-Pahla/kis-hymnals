@@ -1,0 +1,44 @@
+{
+  "number": 226,
+  "language": "ve",
+  "title": "226. Ni Tsini Na U Mu Tenda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:183"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ni tsini na u mu tenda-vho,",
+        "Ni tsini no mu tanganedza,",
+        "Fhedzi inwe mbilu i ri, ’tuwa Muya.’",
+        "Ndi do di u vhidza linwe duvha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ni tsini-ha, Idani zwino, Ni tsini ni songo pambuwa,",
+        "Yesu u a vhidza, Vharunwa vha tsini,",
+        "Vha khou rabelela Iwe, ’Ida.’"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ni tsini, fhedzi no no lenga,",
+        "duvha la lufu lo no swika",
+        "U vha tsini a zwi tsha vhuya zwa thusa,",
+        "Ho sala tshililo na u lovha."
+      ],
+      "number": 4
+    }
+  ]
+}

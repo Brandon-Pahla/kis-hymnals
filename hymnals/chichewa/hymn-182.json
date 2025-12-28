@@ -1,0 +1,55 @@
+{
+  "number": 182,
+  "language": "ny",
+  "title": "182 - Masomphenya A Tsikulo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "GLEAMS OF THE GOLDEN MORNING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tsiku lowala lili pafupi; Yesu adzatu",
+        "Kudzatenga ana Ake Kunka nao kwawoko."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tione masomphenya a tsikulo",
+        "Limene lili kudza!",
+        "Ndi uleme’ro wa tsikulo manda",
+        "Adzatseguka."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Uthenga upite konse msanga, Kwa anthu onse;",
+        "Pompo Mkwati adza posachedwa, Liu limveka."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Adzabwera ndi angelo onse, Mulemerero",
+        "Woweruza natengera Ake, Komwe sadzafa;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tidzakomana ndi okondedwa, Omwe adafa;",
+        "Misozi ya iwo akulira, Adzapukuta."
+      ],
+      "number": 5
+    }
+  ]
+}

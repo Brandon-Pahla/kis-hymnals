@@ -1,0 +1,37 @@
+{
+  "number": 488,
+  "language": "fr",
+  "title": "Jour après jour",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jour après jour, conduis-moi,",
+        "Toi, mon bon Père et mon roi.",
+        "Enseigne-moi le sentier",
+        "Montre-moi ta Vérité !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Face aux dangers, donne-moi",
+        "Cette paix qui est en toi.",
+        "Guide-moi dans ton amour;",
+        "Qu'en toi je sois chaque jour."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lorsque vient le tentateur,",
+        "Près de toi je n'ai pas peur.",
+        "Dans ta main, je me blottis,",
+        "Je trouve mon sûr abri."
+      ],
+      "number": 3
+    }
+  ]
+}

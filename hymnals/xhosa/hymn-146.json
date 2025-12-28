@@ -1,0 +1,47 @@
+{
+  "number": 146,
+  "language": "xh",
+  "title": "146 Ubomi Bakho Ngaphakathi Kwam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Phila ngaphakathi kwam, O, Yesu Kumkani!",
+        "Mawube yimpendulo Emibuzweni yam;",
+        "Phila ngaphakathi kwam Ezintweni zonke!",
+        "Ndenze ispili saKho Ukuz’ ubonwe kum."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I-tempil’ ihlanjiwe Kuso sonk’ isono,",
+        "Uzuko lwe-Shekina Malubengezele,",
+        "Mawuzole umhlaba Ukuse lomzimba",
+        "Ube ngumkhonzi waKho, Uhanjiswe nguWe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amalungu makabe NgabaKhonzi baKho,",
+        "Asolok’ elindele Ukubiza kwaKho;",
+        "Wagcine achwayite Angaphakuzeli,",
+        "Athand’ impatho yaKho Enge nakusola."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Waphumze, wazolise, Alungelelane,",
+        "Aphulaphule kuwe Xa undifunayo.",
+        "Phila ngaphakathi kwam, O Yesu, Kumkani!",
+        "Mawube yimpendulo Emibuzweni yam."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "number": 137,
+  "language": "fr",
+  "title": "Je louerai l’Éternel",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Je louerai l’Éternel",
+        "De tout mon cœur.",
+        "Je raconterai toutes Tes merveilles,",
+        "Je chanterai Ton nom.",
+        "Je louerai l’Éternel",
+        "De tout mon cœur.",
+        "Je ferai de Toi le sujet de ma joie.",
+        "Alléluia !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dieu, l’Éternel est roi,",
+        "Il règne à jamais.",
+        "Pour le jugement,",
+        "Il dresse son trône :",
+        "Il jugera la terre.",
+        "Dieu, l’Éternel est roi,",
+        "Il règne à jamais.",
+        "Le monde verra",
+        "La force de son bras.",
+        "Alléluia !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dieu voit les opprimés,",
+        "Il est leur abri,",
+        "Leur refuge au temps",
+        "Des grandes détresses,",
+        "Son nom est leur salut.",
+        "Dieu voit les opprimés,",
+        "Il est leur abri.",
+        "Il sauve les siens,",
+        "Car il est le Dieu saint.",
+        "Alléluia !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gloire au Père et au Fils",
+        "Et au Saint-Esprit,",
+        "Au commencement,",
+        "Aujourd’hui, toujours",
+        "Et aux siècles des siècles !",
+        "Gloire au Père et au Fils",
+        "Et au Saint-Esprit,",
+        "D’une éternité à l’autre éternité,",
+        "Alléluia !"
+      ],
+      "number": 4
+    }
+  ]
+}

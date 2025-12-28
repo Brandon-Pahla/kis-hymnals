@@ -1,0 +1,37 @@
+{
+  "number": 105,
+  "language": "fr",
+  "title": "À Jésus, le roi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "À Jésus, le roi, le Sauveur,",
+        "Soient puissance, force et honneur.",
+        "Du Seigneur de l’histoire,",
+        "Nous proclamons la gloire."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sur les ruines du dernier jour,",
+        "Tout s’éclaire pour le retour",
+        "De Jésus notre Maître.",
+        "Tous vont le reconnaître."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "À Jésus, le roi, le Sauveur,",
+        "Soient puissance, force et honneur.",
+        "Du Seigneur de l’histoire,",
+        "Nous proclamons la gloire."
+      ],
+      "number": 3
+    }
+  ]
+}

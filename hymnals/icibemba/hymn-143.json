@@ -1,0 +1,29 @@
+{
+  "number": 143,
+  "language": "bem",
+  "title": "143 - MUTUFUMYE NO BUPALO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LORD DISMISS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mutufumye no bupalo, Mu mitima yesu pe;",
+        "Tube no kutemwa kwenu, Twange no luse lwenu;",
+        "Mutukoshe, mutukoshe, Lyonse tuli pano nse.",
+        "2. No mucinshi twatotela, Pa fyebo ifisuma;",
+        "Cibe cakulya ca myeo, Cikale mu mitima;",
+        "Imwe bene, Imwe bene. Muleba ne fwe lyonse.",
+        "3. Nshiku shonse shesu Mfumu, Twashipela kuli ‘mwe;",
+        "Tusansamusheni lyonse, Tuketaba ne nseko;",
+        "Tukekala, tukekala, Na Yesu Inshiku pe."
+      ],
+      "number": 2
+    }
+  ]
+}

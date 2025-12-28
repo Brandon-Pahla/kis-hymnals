@@ -1,0 +1,14 @@
+{
+  "number": 257,
+  "language": "fr",
+  "title": "Amen D",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Amen, amen, amen."
+      ],
+      "number": 1
+    }
+  ]
+}

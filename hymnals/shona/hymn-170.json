@@ -1,0 +1,54 @@
+{
+  "number": 170,
+  "language": "sn",
+  "title": "170 Musiki Na Mambo Wangu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Musiki mambo wangu",
+        "Zvese ngezvenyu",
+        "Chipo chenyu ndiro",
+        "Tsime rezvikomborero",
+        "Chipo chenyu ndiro",
+        "Tsime rezvikomborero"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ini chisikwa chenyu",
+        "Kune zvipo zvenyu",
+        "Rukudzo rwangu harunga",
+        "Kwani zvipo zvenyu",
+        "Rukudzo rwangu harunga",
+        "Kwani zvipo zvenyu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi ndomupenyi",
+        "Zvese zviri zvenyuRudo rwenyu runoda",
+        "Mwoyo, chipo chiduku",
+        "Rudo rwenyu runoda",
+        "Mwoyo, chipo chiduku"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zadza mweya wangu",
+        "Nesimba remutsa",
+        "Manzwi nezvidiso zvangu",
+        "Zvese zvive zvenyu",
+        "Manzwi nezvidiso zvangu",
+        "Zvese zvive zvenyu"
+      ],
+      "number": 4
+    }
+  ]
+}

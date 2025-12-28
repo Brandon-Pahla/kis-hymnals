@@ -1,0 +1,47 @@
+{
+  "number": 30,
+  "language": "sw",
+  "title": "30 - Yesu Unipendaye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Yesu unipendaye, kwako nakimbilia,",
+        "Ni wewe utoshaye, mwovu akinijia.",
+        "Yafiche ubavuni, mwako maisha yangu,",
+        "Nifishe bandarini, wokoe moyo wangu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Ngome nyingine sina, nategemea kwako,",
+        "Usinitupe Bwana, nipe neema yako,",
+        "Ninakuamania, mwenye kuniwezesha,",
+        "Shari wanikingia, vitani wanitosha."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Nakutaka Mpaji, vyote napata kwako,",
+        "Niwapo mhitaji, utanijazi vyako,",
+        "Nao waangukao, wanyonge wape nguvu,",
+        "Poza wauguao, uongoze vipofu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Bwana umeniosha, moyo kwa damu yako,",
+        "Neema ya kutosha, yapatikana kwako,",
+        "Kwako Bwana naona, kisima cha uzima,",
+        "Mwangu moyoni Bwana, bubujika daima."
+      ]
+    }
+  ]
+}

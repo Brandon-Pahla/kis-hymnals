@@ -1,0 +1,70 @@
+{
+  "number": 289,
+  "language": "ve",
+  "title": "289. Ndzhiye Ndo Ralo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Murena Yesu ndi lila, ndi ri nthuse ndi a fa.",
+        "Ndi sedza vhutshilo hau, ’ntakule ndo ralo’"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndzhie Yesu , ndzhie Yesu",
+        "Ntsendedze ntshidze, ’ntakule ndo ralo’."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi na zwivhi zwinzhi Yesu, ntanzwe nga malofha au.",
+        "Nga lufuno lwau Yesu, ’Ntakule ndo ralo’."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. A huna mushumo we nne nda u shumela Murena.",
+        "Nthuse-vho nga dzina lau ’ntakule ndo ralo.’"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndo gwadama phanda hau, tsini tsini ha iwe-vho",
+        "Mushumo wo no thomiwa, ’ntakule ndo ralo.’"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Ntalifhise Yesu wanga, ndi de-vho ndi u shumele",
+        "Ntshumise Murena wanga, ’ntakule ndo ralo.’"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "6. Musi mushumo wo fhela, na yone nndwa yo no fhela.",
+        "Ndi do vhidzelela nda ri, ’ntakule ndo ralo.’"
+      ],
+      "number": 7
+    }
+  ]
+}

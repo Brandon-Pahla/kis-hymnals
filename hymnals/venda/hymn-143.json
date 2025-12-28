@@ -1,0 +1,39 @@
+{
+  "number": 143,
+  "language": "ve",
+  "title": "143. Murena Ri Fhelekedze Nga Phathutshedzo.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:064",
+        "AH:022"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Murena ri fhelekedze,",
+        "Ri dadze nga dakalo,",
+        "Musi ri na lufuno lwau,",
+        "Ri kunda nga tshilidzi,",
+        "Vusulusa, Ri fhe nungo,",
+        "rine ri re sogani."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ri disa ndivhuwo, thendo",
+        ",Kha mafhungo madifha,",
+        "Mitshelo ya vhutshidzi hau,",
+        "I ri dadze nga Maanda,",
+        "Ri khwathese, ri khwathese;",
+        "Ri dzule khayo ngoho."
+      ],
+      "number": 3
+    }
+  ]
+}

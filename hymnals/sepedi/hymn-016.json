@@ -1,0 +1,56 @@
+{
+  "number": 16,
+  "language": "nso",
+  "title": " 16 KE HLAPILE DIATLA ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 16  KE HLAPILE DIATLA",
+        "AH 459 CS 569",
+        "I WASHED MY HANDS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke hlapile diatla,",
+        "ga botse mosong wo,",
+        "Gomme ka di nea Jeso,",
+        "Go mo Someleng,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "A maotonyana a hlokomele,",
+        "Se sengwe le se",
+        "sengwe ke direle Jeso,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke boditse ditsebe,",
+        "Tša ka go mo theetsa,",
+        "Medirong ya pelohlomogi,",
+        "Ya diatlanyana;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Maahlo a tebelelong,",
+        "Medirong le dipapading,",
+        "A thibelwe dikotseng,",
+        "Ka baka la Jeso;"
+      ],
+      "number": 5
+    }
+  ]
+}

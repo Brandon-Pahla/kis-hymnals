@@ -1,0 +1,23 @@
+{
+  "number": 219,
+  "language": "ts",
+  "title": "219. NDZI LETELE HOSI YESU!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "GUIDE ME, O THOU GREAT JEHOVAH!",
+        "1. Ndzi Letele Hosi Yesu, Endleleni Ya Wena,",
+        "Eku Tsaneni Ka Mina, Ndzi Kombela Matimba, Mukutsuri, Muhlayisi,",
+        "U Matimba Ya Mina (Mina)",
+        "2. U Xihlovo Xa Vutomi, U Mati Ya Vutomi,",
+        "Langavi Leri Pfurhaka, Munyameni Wa Vusiku, Mukutsuri, Muhlayisi,",
+        "U Matimba Ya Mina (Bis)",
+        "3. Ndzi Fikile Eyordan Susa Mapfalo Yanga,",
+        "Ndzi Perise U Ndzi Veka, Kanana Ro Saseka, Hoyohoyo, Yimbelela,",
+        "Ndzi Ta Dzunisa Wena (Bis)"
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": 53,
+  "language": "ts",
+  "title": "53. WENA MOYA WA HOSI MUCHAVELERI WANGA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOLY SPIRIT, FAITHFUL GUIDE",
+        "1. Wena Moya Wa Hosi Muchaveleri Wanga,",
+        "Eka Mutsundzeleki Kulekule Mananga, Hi Marito Ya Musa",
+        "U Vika Wona Ntsako, U Vita Mutsendzeleki Tana Hi Ya Ekaya.",
+        "2. Nakulorhi Lonene U Kona Ku Hi Pfuna,",
+        "Hi Tiyise Mapfalo",
+        "Hi Nkarhi Wa Wo Nchavo Swidzedze Swi Nga Hunga Hi Helela Hi Ntshembo, U Vita Mutsendzeleki Tana Hi Ya Ekaya.",
+        "3. Loko Yi Herile Nyimpi Hi Ta Kuma Ku Wisa",
+        "Xana Mavito Ya Kona Bukwini Ya Vutomi, Hi Xona Xikhongelo",
+        "Hi Ngati Ya Nyimpfana, U Vita Mutsendzeleki Tana Hi Ya Ekaya"
+      ],
+      "number": 1
+    }
+  ]
+}

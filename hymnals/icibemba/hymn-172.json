@@ -1,0 +1,32 @@
+{
+  "number": 172,
+  "language": "bem",
+  "title": "172 - SHIKULU MUKESA LILALI?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOW LONG?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Shikulu, caba shani, mukesa tilali?",
+        "Imitima yanaka pantu tamwishile;",
+        "Bushe bulya bushiku bukaba lilali?",
+        "Ubukabengeshimisha pa bantu bobe.",
+        "2. Ni lilali shikulu 'kashe ng'anda yobe?",
+        "Pantu wakokola, banana basumina;",
+        "Abengi bantu bobe, nabawa mufibi,",
+        "Banono balelindo kwisa kusengela",
+        "3. Shibukeni mutulo, shimikeni landwe,",
+        "Soseni mutile'ti, Mfumu yalaisa,",
+        "Natwashe nyali shesu, tube ba cincila,",
+        "Nokufwaisha ukumone cinso cenu."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "number": 299,
+  "language": "tum",
+  "title": " 299 Tisekere Nyengo Zose",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 299 Tisekere Nyengo Zose",
+        "C.S. 284 ALWAYS CHEERFUL"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Tisekere nyengo zose tikusuzgikirachi,",
+        "Apo Dada, Chata withu, wakutipwererera?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "TIsekere nyengo zose pakuwaLa kwa zu we,",
+        "Nthowa za miLimon ziweme,",
+        "Tikondwe nyengo zose."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Woko lake lirongozge para kwananga kwiza,",
+        "Lusungu lwake lovwire ntha watileke tekha."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Usange taleka mlimo tichitenge uheni,",
+        "Ndipo mtambo wa chitima uchimbizge chimwemwe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Awo mbaweme wakondwe na mutende wandanda,",
+        "Tip'likire mazgu ghake, titemwenge viweme."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 367,
+  "language": "guz",
+  "title": "367 Togw'as'amatemwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Togw'as' amatemwa,Kogwa nebibe,Korabu'okomo,Nobu'ayande;Orwane gesacha,Tiga 'ngencho chimbe,Rigeria Yeso,Nagokony'obue."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Saba Omotoria,Akaoe chinguru,Nanchet' agokonye,Nagokony'obue."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tig'abant'ababe,chinkwana chimbe,'Rieta ria Nyasae,Risike mono;Nach'ebiri'ebiya,Ob'omoitongo,Rigereria Yeso,Nagokony'obue."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Er'oyorobabue,Nonyor'egutwa,'S'okwegena ntobue,Nonya tokogwa;Er'Omotori'oito,Naratokong'ie,Rigereria Yeso,Nagokony'obue."
+      ],
+      "number": 4
+    }
+  ]
+}

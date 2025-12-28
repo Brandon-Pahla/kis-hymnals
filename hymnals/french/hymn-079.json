@@ -1,0 +1,57 @@
+{
+  "number": 79,
+  "language": "fr",
+  "title": "Merveille de l’amour",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Merveille de l’amour sauveur",
+        "Jésus-Christ a quitté",
+        "Le ciel, pour donner aux pécheurs",
+        "Pardon et liberté."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En sacrifice il s’est offert,",
+        "Comme agneau sans péché.",
+        "À notre place il a souffert,",
+        "Il nous a rachetés."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Auprès du Père il est monté",
+        "Devant tout l’univers.",
+        "Son sacrifice est accepté :",
+        "Le ciel nous est ouvert."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il intercède et par son sang",
+        "Peut rendre purs nos cœurs.",
+        "Dans note lutte, il nous comprend,",
+        "Il nous rendra vainqueurs."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quand le sauveur apparaîtra,",
+        "Triomphera l’amour.",
+        "Chacun des siens acclamera",
+        "Son glorieux retour."
+      ],
+      "number": 5
+    }
+  ]
+}

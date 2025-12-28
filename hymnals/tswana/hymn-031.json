@@ -1,0 +1,39 @@
+{
+  "number": 31,
+  "language": "tn",
+  "title": "31 Tsatsi Ja Mo’a Me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tsatsi Ja Mo’a Me Mmoloki; Ga Go ’Sigo Fa O Le Teng",
+        "Go se nne ’ru ja lefatshe, Go Go fitlha matlhong a me."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Ke Tlelwa Ke Boroko, Matlho A Me A Otsela",
+        "Mogopolo wa me, fubeng Sa Mmoloki o ikhutse"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nna Le Nna Le Maitsiboeng, Ka Nosi Ga Nke Ke Tshela;",
+        "Sala le nna go bosigo, Gonne ga ke batle go ’swa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ntshegofatse Fa Ke Tsoga, Ke Tsamaya Mo Lefatshing;",
+        "Loratong lwa Gago ke bo Ke tsene kwa legodimong."
+      ],
+      "number": 4
+    }
+  ]
+}

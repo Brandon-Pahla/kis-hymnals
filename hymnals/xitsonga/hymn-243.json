@@ -1,0 +1,22 @@
+{
+  "number": 243,
+  "language": "ts",
+  "title": "243. PFUKA MOYA WANGA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ARISE, MY SOUL, ARISE!",
+        "1. Pfuka Moya Wanga, Tshiketa Ku Chava Mhamba Yi Tlhaviwe, Matshan’wini Yanga",
+        "Xiluvelweni Xa Hosi Yesu Muyimeri Wanga, Ndzi Tswariwe Swandleni Swakwe.",
+        "2. Hi Rirhandzu Rakwe, Wa Ndzi Khongotela, Hi Ngati Ya Yena, U Ndzi Kutsurile,",
+        "U Ndzi Xave Hi Ngati, U Ndzi Kutsule Hi Ngati, Hi Tintswalo U Ndzi Xuvile.",
+        "3. Hambi A Tlhaviwe, Timbanga Golgota, U Ndzi Khongelele, Hi Malwandla Yakwe,",
+        "Tatana N’wi Rivalele, A Nga Fi La Pfumelaka, A KUma Ko Ku Ponisiwa.",
+        "4. Xa Hi Khongotela, Hi N’wina Wa Xona, Xikwembu A Xi Na Ku Hi Fularhela,",
+        "Moya Lowo Kwetsima, Ndzi Tswarwile Hi Xikwembu."
+      ],
+      "number": 1
+    }
+  ]
+}

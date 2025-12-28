@@ -1,0 +1,61 @@
+{
+  "number": 51,
+  "language": "ny",
+  "title": "51 - Mutibatizenso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BAPTIZE US NEW"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mutibatize ndi mphamvu yanu,",
+        "Mutitsitsimutse mwa nsoni zanu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tikupemphani Mbuye wathu Yesu,",
+        "Mutibatizetu ndi mzimu wanu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Osayenera ndi ochimwa’fe",
+        "Mutitsuke ife m’zoipa zathu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tifuna nkhunda ya m’mwamba idze",
+        "Idzatidalitse mwa nsoni zanu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Imvani mau ochoka m’mwamba,",
+        "Ndiwe mwana wanga wokondedwayo."
+      ],
+      "number": 5
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "(wotsiriza):",
+        "Tigwadira Inu Mwana wa nkhosa,",
+        "Tikupembedzani kosatha, Amen."
+      ]
+    }
+  ]
+}

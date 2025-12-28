@@ -1,0 +1,36 @@
+{
+  "number": 295,
+  "language": "ny",
+  "title": "295 - Mema Nkhondo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SOUND OF THE BATTLE CRY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Mema nkhondoyo, wadza mdaniyo,",
+        "Kweza mbendera ya Mbuye.",
+        "Konza zidazo, yimba nyimboyo,",
+        "Khazikikatu pa Mulungu.",
+        "CHORUS:",
+        "Haya! ’nzathu, itilinda nkhondo,",
+        "Limbatu, nkhondo nja Yesu",
+        "Musafoke, m’thyole linga lao,",
+        "Mbuye ndi kazembe wathuyo.",
+        "2. M’lake mdaniyo, m’yimbe m’njiramo,",
+        "Mpaka nkhondoyo ileka",
+        "Zida bvalani, mantha tayani,",
+        "Pitikitsani adaniwo.",
+        "3. Mlungu, muvefe, m’patse mphamvuyo,",
+        "M’tithandizetu, tipempha",
+        "Nkhondo itatha, titagonjetsa,",
+        "Mutipatse krona wa moyo."
+      ]
+    }
+  ]
+}

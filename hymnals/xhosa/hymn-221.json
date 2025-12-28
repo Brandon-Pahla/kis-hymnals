@@ -1,0 +1,38 @@
+{
+  "number": 221,
+  "language": "xh",
+  "title": "221 Kwakukhala Ihobe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kwakukhala ihob’ apha, Kubamnandi, apha kum;",
+        "Ndikhumbule iNkosi yam; Ndikhumbule eGalili."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, Galili ndaw’ emnandi, Apho kwakuthand’ uYesu;",
+        "O, Galili eluhlaza, Vuma ingoma yaKho kum."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iintyatyambo zidubule, Nentakana ziyacula;",
+        "Intsas’ entle iyabonga; Yiv’ udumo eGalili."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa ndifunda ngombon’ omhle Wokuhamaba emanzini,",
+        "Ndinqwenel’ ukumlandela U-Msindisi eGalili."
+      ],
+      "number": 3
+    }
+  ]
+}

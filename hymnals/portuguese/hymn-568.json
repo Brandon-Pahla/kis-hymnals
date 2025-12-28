@@ -1,0 +1,54 @@
+{
+  "number": 568,
+  "language": "pt",
+  "title": "Lar, Doce Lar",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Lar, Doce Lar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na pátria celeste, de Deus doce lar,",
+        "Prepara Jesus para os Seus um lugar;",
+        "Pois longe do mal, do pecado e da dor,",
+        "Consigo pra sempre os quer ter seu Senhor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Oh, doce, doce lar!",
+        "Ali com Jesus vou pra sempre morar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, lar sacrossanto, de paz e de amor;",
+        "Ali sobre o trono verei meu Senhor,",
+        "O meigo Cordeiro, reinando na luz,",
+        "Por todos louvado, bendito Jesus!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Não são teus prazeres que anseio gozar,",
+        "Mas, sim, com Jesus para sempre morar.",
+        "Com Ele na glória, feliz, bendizer",
+        "A quem, pra salvar-me, por mim quis morrer."
+      ],
+      "number": 5
+    }
+  ]
+}

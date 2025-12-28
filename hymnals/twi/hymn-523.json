@@ -1,0 +1,56 @@
+{
+  "number": 523,
+  "language": "tw",
+  "title": "Me Gyidi Anya Homebea",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me gyidi anya homebea,",
+        "Ͻnyɛ nnipa 'hyɛdem;",
+        "Metwer' Nea ɔtč ase daa no,",
+        "ɔbɛsrɛ ama me."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Menhia 'danse fof'ro biara,",
+        "Menhia 'desrɛ fof'ro;",
+        "Ͻsom me bo sɛ Yesu wui",
+        "Na Wasɔr' bio 'ma me."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻsom bo sɛ Yesu gye nkwa,",
+        "Me sųro ne 'kyinnye gyae;",
+        "'Kra bɔn'yɛfo, meba Ne nkyɛn,",
+        "ɔrento me ntwene."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me kra home Asɛm no mu,",
+        "Nyame nkwa Asɛm no;",
+        "Nkwagye wɔ 'Gyenkwa no din mu",
+        "Ͻnam Ne mogya mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Duyɛfo kɛsen' sa yare,",
+        "ɔbɛgyee yerafo;",
+        "Ohwiee Ne mogya dehye gui,",
+        "De Ne nkwa no maa me."
+      ],
+      "number": 4
+    }
+  ]
+}

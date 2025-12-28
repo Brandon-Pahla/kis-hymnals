@@ -1,0 +1,28 @@
+{
+  "number": 129,
+  "language": "luo",
+  "title": "129 In Odira Mar Nyasaye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. In odira mar Nyasaye,In e ndalowa mar mor;Chunye duto mor kodi,Kaka mor gi ler mar chieng`."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mor mokuwe momiyowaohoyo chunywa adier;Okuweyo chuny e chandruok,Nyaka wanatiek wuodhwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. En e ndalowa maler,mwawinje Wach Nyasachwa,Kwapake kendo lame,mwayude ng`wono mare."
+      ],
+      "number": 3
+    }
+  ]
+}

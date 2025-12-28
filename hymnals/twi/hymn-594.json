@@ -1,0 +1,57 @@
+{
+  "number": 594,
+  "language": "tw",
+  "title": "Ahenni No Ba, Dɛn Nti Na Wotɔ Nko?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ahenni no ba, dɛn nti na wotɔ nko?",
+        "Na woreba b'rč a woreyɛ adu fie?",
+        "Nyane, sɔre, na fa w'akotade hyɛ;",
+        "Yɛ ntɛm, na mmere retwam kɔ hyewhyew."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ahenni no ba,dɛn nti na wotwentwɛn?",
+        "Akatua pa anim na wotwɛn yi?",
+        "Sɔr', boaboa wo ho na 'Gyenkwa no reba;",
+        "Yɛ ntɛm na kohyia No kwan wɔ ewin."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Sase so aman nyinaa redi ako",
+        "Ehu akita wɔn, wɔatɔ beraw;",
+        "Tie sɛ teaseɛnam no nne rewosow ba,",
+        "Ahenni no ba, nɔtwentwɛn biɔo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nɔtra asase nnaadaa hunu yi mu,",
+        "Hwɛ sɛnea n'anuonyam no retwan kɔ;",
+        "Bubu atamfo mpokyerɛ dennen nom',",
+        "Ahenni no ba, dan wo ho fi ho."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma w'ani nhwɛ faako na ma wo ti so;",
+        "Hwɛ ɔhen' a ɔreba no 'nuonyam;",
+        "Hwɛ! hann repue wɔ mmepɔ no atifi;",
+        "'Henni no mma, monnye mō ani nto dwom."
+      ],
+      "number": 5
+    }
+  ]
+}

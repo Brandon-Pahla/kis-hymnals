@@ -1,0 +1,56 @@
+{
+  "number": 427,
+  "language": "tw",
+  "title": "Daa 'Dekyee 'Sase N' So Na",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Daa 'dekyee 'sase n' so na",
+        "\\\"'Hinanan kųro\\\" no da;",
+        "Na ɛrentwa mu nkɔ da,",
+        "Na adesae nni hɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nyame bɛpopa nusu;",
+        "Owu, yaw ne sųro nini hɔ,",
+        "Na wommu b're wɔ mfe mu,",
+        "Fisɛ 'desae nni hɔ."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abopa na wɔdč ayɛ",
+        "\\\"'Hinanan kųro\\\" n' apon;",
+        "N'abɔnten yɛ sika nko,",
+        "Na adesae nni hɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔrentow 'pow a ɛkɔ",
+        "\\\"'Hinanan kųro\\\" no mu;",
+        "Fisɛ 'Guammaa no ne hann,",
+        "Na adesae nii hɔ."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔrenhia 'wia hann wɔ saa",
+        "\\\"'Hinanan kųro\\\" nom' hɔ;",
+        "'Fisɛ 'Guammaan' yɛ hann no,",
+        "Na adesae nni hɔ."
+      ],
+      "number": 4
+    }
+  ]
+}

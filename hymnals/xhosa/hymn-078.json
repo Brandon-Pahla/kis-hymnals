@@ -1,0 +1,46 @@
+{
+  "number": 78,
+  "language": "xh",
+  "title": "78 Ukufuna Abalahlekileyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Funani abalahlekileyo,",
+        "Banxuseni ngenceba yakhe,",
+        "Bapheni amazwi awe-Nkosi,",
+        "Athi ’Yizani nonke namhla.’"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Singani ke kude ezintabeni,",
+        "Nize nabo abalahlekileyo,",
+        "Emhlambini ka-Yes’ u-Mfeli wethu,",
+        "Owabethelwa ngenxa yaboni."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Funani abalahlekileyo,",
+        "Baqhubeni beze ku-Yesu;",
+        "Batsaleleni kweyona ndlela,",
+        "Yona iya ekuphileni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyahamba, ndibizwe ngu-Yesu,",
+        "Ndilandele yonke imihla;",
+        "Qondan’ abafayo nabawile,",
+        "’Ze nibaqondise ku-Yesu."
+      ],
+      "number": 3
+    }
+  ]
+}

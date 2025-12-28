@@ -1,0 +1,34 @@
+{
+  "number": 14,
+  "language": "sw",
+  "title": "14 - Nitembee Nawe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Nitembee nawe Mungu, alivyotembea Henoko,",
+        "Mkono wangu uushike, unene nami kwa pole,",
+        "Ingawa njia siioni, Yesu nitembee nawe."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Siwezi tembea pekee, pana dhoruba angani,",
+        "Mitego ya miguu elfu, adui wengi hufichwa,",
+        "Uitulize bahari, Yesu nitembee nawe."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Ukinishika mkono, anasa kwangu hasara,",
+        "Kwa nguvu nitasafiri, ‘tautwika msalaba,",
+        "Hata mji wa Sayuni, Yesu nitembee nawe."
+      ]
+    }
+  ]
+}

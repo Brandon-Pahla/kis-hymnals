@@ -1,0 +1,67 @@
+{
+  "number": 226,
+  "language": "pt",
+  "title": "É Manhã no Coração",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### É Manhã no Coração"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Toda a escuridão da noite agora é sol:",
+        "É manhã no coração!",
+        "Vivo hoje à luz de um rútilo arrebol:",
+        "É manhã no coração!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "É manhã, sim, é manhã no coração!",
+        "Pois Jesus as trevas todas dissipou.",
+        "Doces hinos cantarei,",
+        "Pois Jesus hoje é meu Rei.",
+        "É manhã, sim, é manhã no coração!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Posso ouvir os passarinhos a cantar:",
+        "É manhã no coração!",
+        "Minha vida é qual um bonançoso mar:",
+        "É manhã no coração!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Com Jesus, eu tenho um paraíso em mim:",
+        "É manhã no coração!",
+        "Meus deveres com amor eu cumpro enfim:",
+        "É manhã no coração!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sou feliz pois encontrei meu Salvador:",
+        "É manhã no coração!",
+        "E com Ele hei de estar no lar de amor:",
+        "É manhã no coração!"
+      ],
+      "number": 6
+    }
+  ]
+}

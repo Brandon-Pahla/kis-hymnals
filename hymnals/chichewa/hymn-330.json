@@ -1,0 +1,29 @@
+{
+  "number": 330,
+  "language": "ny",
+  "title": "330 - Lemekeza Mlungu Tate",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "GROLY BE TO GOD THE FATHER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Lemekeza Mlungu ’tate, Lemekeza Mwananso,",
+        "Lemekeza, Mlungu Mzimu, Mlungu Mmodzi mkuruyo;",
+        "Lemekeza, lemekeza, Mlungu wathu yemweyo.",
+        "2. Mlemekeze, anaconda, Natisuka m’mtimamo,",
+        "Anatiombola ife, Tikhale nayeyo;",
+        "Lemekeza, lemekeza, Yesu Mbuye nsembeyo.",
+        "3. Lemekeza Mfumu yathu, Mfumu, Mlengi wathuyo,",
+        "Apambana anthu onse, Pansi ndi kumwambako;",
+        "Lemekeza, lemekeza, Mfumu ya mafumuyo."
+      ],
+      "number": 2
+    }
+  ]
+}

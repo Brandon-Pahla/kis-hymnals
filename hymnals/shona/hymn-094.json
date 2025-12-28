@@ -1,0 +1,45 @@
+{
+  "number": 94,
+  "language": "sn",
+  "title": "94 Chikoro CheSabata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, Chikoro cheSabata",
+        "Nzwimbo yakanaka",
+        "Mwoyo urikutondera",
+        "Kupinda m’Sabata"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sabata… ranaka…, Sabata… ranaka…",
+        "Mwoyo urikutondera, Kupinda m’Sabata"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pano mwoyo wakatanga",
+        "ZvaJesu kuziva,",
+        "Nekutsvaka nzira yake",
+        "Ndawana Sabata"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pano Jesu wakamira,",
+        "Wakandidaidza,",
+        "Kuti ndinomusarudza,",
+        "Muiri Sabata"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "number": 27,
+  "language": "ts",
+  "title": "27. HA KU DZUNISA HOSI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "REVIVE US AGAIN",
+        "1. Ha Ku Dzunisa, Hosi Ya Ri Rhandzu;",
+        "Ha Khensa Hi Yesu Loya Hi feleke.",
+        "CHORUS",
+        "Aleluya Wa Kwetsima, Aleluya Amen! Aleluya, Wa Kwetsima. Hi Pfuxelele.",
+        "2. Ha Ku Dzunisa, Moya Wo Kwetsima,",
+        "Wena La Hi Nyikeke Ku Vonakala.",
+        "3. A Dzunisiwe, Nyimpfana Ya Mhamba;",
+        "Hi Hlantswiwe Eka Swidyoho Hinkwaswo",
+        "4. A Dzunisiwe, Na Ku Twarisiwa;",
+        "Yena Ntsena La Hi Rhandzeke, Hinkwerhu.",
+        "5. Hi Pfuxelele, Rirhandzwini Raku;",
+        "U Hi Tiyisa Hi Masiku, Hinkwawo."
+      ],
+      "number": 1
+    }
+  ]
+}

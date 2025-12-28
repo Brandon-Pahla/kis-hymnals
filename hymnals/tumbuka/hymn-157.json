@@ -1,0 +1,57 @@
+{
+  "number": 157,
+  "language": "tum",
+  "title": " 157 Wakwenda Mukutengera",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 157 Wakwenda Mukutengera",
+        "HARVEST TIME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Wakwenda mukutengera na",
+        "mbuto za chitemwa",
+        "Kuvuka nesi tulo",
+        "cha wampokera lusungu,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hena mbuto zikumera,",
+        "za biriira nadi,",
+        "Hena m minda mbuto",
+        "zacha vuna yiri pafupi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Vura yirokwerengepo",
+        "zuwa lwalirengepo,",
+        "Vipambi viwe viweme",
+        "mu nkhongono za Fumu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mija mbuto kuvuka cha,",
+        "ungawanga na wofi,",
+        "Vya m'nthazi ntha ungamanya,",
+        "wamvuna mukukondwa."
+      ],
+      "number": 4
+    }
+  ]
+}

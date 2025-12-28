@@ -1,0 +1,45 @@
+{
+  "number": 125,
+  "language": "nd",
+  "title": "125 Ukukhanya Enhliziyweni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ku khon’ ilang’ entabeni, Ku khon’ ilang’ olwandle,",
+        "Ukukhanya ku yahlala, Emangweni omuhle.",
+        "Ukukhanya ku gcwalisa Umxhwele wenhliziyo;",
+        "U lapho, Wena Msindisi Nangokukhanya kwAkho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O! kukhanya kwelang’ okuhle, Kukhanya enhlalweni;",
+        "uJes’ u khipha usizi, Kwakhany’ enhliziyweni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi lahla usizi lwami Njengengubo endala;",
+        "U ngembese ngokuthaba Wangipha ukubonga.",
+        "Le ekhaya lobukhosi, Owang’ zuzela lona;",
+        "Inhliziyo iyavuma, Nawo umoya wami."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "uMsindisi wangithenga Se ngi ngo wAkhe mina.",
+        "Ma si khanye isibane Si khanyele iNkosi;",
+        "Le ekhaya lobukhosi Owang’ zuzela lona;",
+        "Inhliziyo iyavuma, Nawo umoya wami."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "number": 88,
+  "language": "ts",
+  "title": "88. U NGA NDZI HUNDZI WE YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "PASS ME NOT O GENTLE SAVIOUR!",
+        "1. U Nga Ndzi Hundzi We Yesu, Xirilwen Xanga,",
+        "Loko U Vitana Van’wana, U Nga Ndzi Siyi.",
+        "CHORUS",
+        "Yesu! Yesu! Ndza Ku Khongela, Loko U Vitana Van’wana, U Ndzi Tsundzuka.",
+        "2. Xiluvelweni Xa Nsovo, Ndzi Ta Ntshuxeka,",
+        "Ndzi Khinsame Hi Mihloti, Ndzi Tsetselele.",
+        "3. Sweswi I Nkarhi Wo Leha, Ndzi Ku Tshembile,",
+        "Horisa Moya Wa Mina, U Ndzi Ponisa.",
+        "4. U Muchaveleri Wanga, Tlhelo Vutomi,",
+        "Etilweni Ne Misaven, Ndzi Tshembe Wena."
+      ],
+      "number": 1
+    }
+  ]
+}

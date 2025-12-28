@@ -1,0 +1,46 @@
+{
+  "number": 191,
+  "language": "tn",
+  "title": "191 Jeso Ke Wa Me Ka Tlhomamo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso Ke Wa Me Ka Tlhomamo!",
+        "Ke lekela tsa kwa kgalalelong!",
+        "Morua poloko ya Modimo,",
+        "Ke tsetswe ka Moya le madi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "E puo ya me le kopelo,",
+        "Ke baka Mmoloki ka metlha;",
+        "E puo ya me le kopelo,",
+        "Ke baka Mmoloki ka metlha."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Boineelo Jwa Botlalo",
+        "Ponatshegelo tsa boitumelo,",
+        "Ba’ngele ba tswa legodimong",
+        "Ba tla le tshwaro le lorato."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Boineelo Boikhutsong",
+        "Nna ke sego ke na le Mmoloki;",
+        "Ke lebeletse legodimong,",
+        "O ntlatsa molemo wa Gagwe."
+      ],
+      "number": 3
+    }
+  ]
+}

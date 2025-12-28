@@ -1,0 +1,24 @@
+{
+  "number": 45,
+  "language": "ts",
+  "title": "45. NDZI HE BIBELE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "GIVE ME THE BIBLE",
+        "1. Ndzi He Bibele Yi Ndzi Voningele, Ku Tsendzeleken Kwala Misaven,",
+        "A Ku Na Lexi Nga Ndzi Chavisaka, Yesu U te Ku Ta Hi Kutsula.",
+        "CHORUS",
+        "Ndzi He Bibele Hungu Ro Kwetsima, Rivoningo Ndleleni Ya Mina Xitshembiso Ni Nawu Swi Hlangana, Ku Fikela Vusiku Byi Hundza.",
+        "2. Ndzi Nyike Yona Hi Nkarhi Wa Gome, Loko Nala a Pfuxa Mapfalo,",
+        "I Xitshembiso Lexo Hlamarisa, Xa Yesu Muponisi Wa Hina.",
+        "3. Ndzi Nyike Yona Tindlelen Hinkwato, Ndzi Ponise Khombyeni Ra Vudyoho,",
+        "Munyamen Lowu Pfuxaka Mapfalo, Hi Ta Famba Eku Vonakalen.",
+        "4. Ndzi He Bibele Yi Nyika Vutomi, Yi Boxa Ta Sirha Ro Ahlama,",
+        "Na Rivoningo Ro Huma Tilweni, Ndzi Tiya Ndzi Ya Ku Vonakalen."
+      ],
+      "number": 1
+    }
+  ]
+}

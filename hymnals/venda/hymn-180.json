@@ -1,0 +1,54 @@
+{
+  "number": 180,
+  "language": "ve",
+  "title": "180. A Ri divhi Tshifhinga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:604",
+        "AH:400"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. A ri divhi tshifhinga tsha u vhuya hawe,",
+        "Dzitsumbedzo dzone dzi a talutshedza",
+        "U swika ha fulufhelo lavhudi,",
+        "A ri divhi duvha"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U a da, kha ri dzule ro luga,",
+        "(U a da) U a da Haleluya, Haleluya,",
+        "U da nga makole, na lupenyo lwa khotsi,",
+        "A ri divhi duvha."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Hu na vhutali kha vha todaho vhutshilo,",
+        "Kheyi ngoho ngomu buguni khethwa-vho,",
+        "Vhuporofita vhu sumbe vhufhelo,",
+        "A ri divhi duvha."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri do lindela nga dzimbone dzi dugaho,",
+        "Ri do shuma u swika Yesu a tshi da,",
+        "Ri do imba ro sedza dzitsumbedzo,",
+        "A ri divhi duvha."
+      ],
+      "number": 4
+    }
+  ]
+}

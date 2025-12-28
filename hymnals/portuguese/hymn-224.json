@@ -1,0 +1,57 @@
+{
+  "number": 224,
+  "language": "pt",
+  "title": "Satisfeito Estou com Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Satisfeito Estou com Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Satisfeito estou com Cristo;",
+        "Quanto já não fez por mim!",
+        "Pela fé, na cruz O avisto,",
+        "Para libertar-me assim."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Satisfeito estou, satisfeito estou,",
+        "Satisfeito estou com Cristo.",
+        "A pergunta então me vem,",
+        "Ao pensar na cruz além:",
+        "Tem Jesus, em mim, prazer também?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que alegria eu tenho n'alma",
+        "Ao seguir a meu Jesus!",
+        "Hoje gozo plena calma,",
+        "Tenho o coração em luz."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ao chegar o fim terrestre,",
+        "E eu puder a Cristo ver,",
+        "Que alegria ouvir do Mestre:",
+        "\"Tenho em ti também prazer."
+      ],
+      "number": 5
+    }
+  ]
+}

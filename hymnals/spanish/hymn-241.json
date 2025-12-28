@@ -1,0 +1,47 @@
+{
+  "number": 241,
+  "language": "es",
+  "title": "Perdón te ruego, mi Señory Dios",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Perdón te ruego, mi Señory Dios"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si fui motivo de dolor, oh Cristo,",
+        "si por mi causa el débil tropezó;",
+        "si en tus pisadas caminar no quise,",
+        "perdón te ruego, mi Señor y Dios."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Escucha, oh Dios, mi confesión",
+        "humilde",
+        "y líbrame de tentación sutil.",
+        "Preserva siempre mi alma en tu",
+        "rebaño.",
+        "Perdón te ruego, mi Señor y Dios."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si vana y fútil mi palabra ha sido,",
+        "si al que sufría en su dolor dejé;",
+        "si egoísta fui en mis motivos,",
+        "perdón te ruego, mi Señor y Dios."
+      ],
+      "number": 4
+    }
+  ]
+}

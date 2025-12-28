@@ -1,0 +1,21 @@
+{
+  "number": 206,
+  "language": "ts",
+  "title": "206. U NDZI HE VUTOMI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I GAVE MY LIFE FOR THEE",
+        "1. U Ndzi He Vutomi, Hi Ngati Ya Wena, U Ndzi Kutsurile, Leswaku Ndzi Nga Fi:",
+        "U Ndzi He Vutomi, Ndzi Ku Nyikile Yini Ke?",
+        "2.Kaya Ro Phatima, Tilo Ro Kwetsima, U Siye Hinkwaswo, Ku Taa Maxangwini; Hikokwalaho Ka Mina, U Siye Ku Xonga,",
+        "Ndzi Ku Siyele Yini Ke? Lexi Nga Xa Nkoka.",
+        "3.Muxanisekeri, Ku Tlula Na Mpimp, Hi Gome Ro Vava, Ku Ponisa Mina;",
+        "U Rhwele Ndzhwalo Wa Mina, U Nga Siyi Nchumu,",
+        "Ndzi Ku Pfune Ha Yini Ke? Ndzi Rhwale Yini Ke?"
+      ],
+      "number": 1
+    }
+  ]
+}

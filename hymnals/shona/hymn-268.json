@@ -1,0 +1,51 @@
+{
+  "number": 268,
+  "language": "sn",
+  "title": "268 Chinyararai",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi kuri kuvhuvhuta! Mananda atokwira!",
+        "Nedenga rese ratosviba, Hatina pekuvanda",
+        "Motirega here tife, Musarare tofa",
+        "Nguva yese yazara nengozi, Nenyanza yavaguva"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mananda anonditeerera, Nyarara",
+        "Kana kushatirwa kwenyanza",
+        "Mashavi kanavanhu, kana chiyi",
+        "Mvura hainganyudzi ngarava",
+        "Muna Tenzi wenyanza nepasi",
+        "Zvese zvichanditeerera",
+        "Nyararai, nyararai",
+        "Zvese zvichanditeerera, Nyararayi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi nemwey’ unorwadza!, Ndokotama kunemwi",
+        "Mwoyo wangu unotambura!, Muka mundiponese",
+        "O mananda echitema, Oda kundinyudza",
+        "Nda’kufa, nda’kufa Tenzi wangu, Kasika ndiponese"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi kutya kwazopera, Zvese zvazozorora",
+        "Nenyanza yazoteramira, Denga razovapetyo",
+        "Chimiriranyi mununuri, Musandisiyeka",
+        "Ndichasvika kumahombekombe, Ndizorore ikoko"
+      ],
+      "number": 4
+    }
+  ]
+}

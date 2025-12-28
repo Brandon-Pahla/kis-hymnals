@@ -1,0 +1,56 @@
+{
+  "number": 250,
+  "language": "pt",
+  "title": "Cantarei de Meu Jesus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cantarei de Meu Jesus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cantarei de meu Jesus,",
+        "Seu amor leal, sem fim,",
+        "Pois desceu dos altos Céus,",
+        "E na cruz morreu por mim."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Cantarei do meu Salvador,",
+        "Sem cessar Lhe darei louvor,",
+        "Pois morreu pra me salvar.",
+        "Cantarei do Seu amor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Antes de eu poder chorar,",
+        "Cristo já por mim pranteou.",
+        "Antes de eu poder orar,",
+        "Na angústia Ele orou."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nada fiz por meu Senhor,",
+        "Como, pois, me pôde amar?",
+        "Quero, assim, em gratidão",
+        "Minha vida Lhe entregar."
+      ],
+      "number": 5
+    }
+  ]
+}

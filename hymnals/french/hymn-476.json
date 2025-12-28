@@ -1,0 +1,49 @@
+{
+  "number": 476,
+  "language": "fr",
+  "title": "Prends ma main...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Prends ma main dans la tienne,",
+        "Et qu'en tout lieu",
+        "Ta droite me soutienne,",
+        "Seigneur, mon Dieu.",
+        "Comment donc sans ton aide",
+        "Me diriger",
+        "Si je ne te possède",
+        "Dans le danger ?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dans les jours d'allégresse",
+        "Ou de douleur,",
+        "Seigneur, dans ta tendresse,",
+        "Garde mon cœur.",
+        "Ta divine clémence,",
+        "Jour après jour,",
+        "Me donne l'assurance",
+        "De ton amour."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si quelque noir nuage",
+        "Voile à mon cœur",
+        "Ton adorable image,",
+        "Ô mon Sauveur,",
+        "Ma prière fervente",
+        "Monte vers toi",
+        "Et ta voix consolante",
+        "Me dit : « C'est moi ! »"
+      ],
+      "number": 3
+    }
+  ]
+}

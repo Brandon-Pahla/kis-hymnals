@@ -1,0 +1,26 @@
+{
+  "number": 74,
+  "language": "ts",
+  "title": "74. HAYI BYALA MBEWU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SOWING IN THE MORNING",
+        "1. Ha Yi Byala Mbewu, Mbewu Ya Tintswalo,",
+        "Ni Mixo, Nhlikanhi ni namadyambu, Hi Yimela Nkarhi, Nkarhi Wo Tshovela,",
+        "Hi Ta Ta Hi Ntsako Na To Tinyandza.",
+        "CHORUS",
+        "Hi Ta Tshovela Hi Ta Tshovela",
+        "Hi Ta Tsaka Se Hi Rhwele Tinyandza Hi Ta Tshovela Hi Ta Tshovela,",
+        "Hi Ta Tsaka Se Hi Rhwele Tinyandza.",
+        "2. Hi Byala Mun’wini Ni le Mindzhutini, Hi Nga Chavi Dyambu Hambi Xirhami,",
+        "Ntirho Wu Ta Hela Wu Fika Makumu, Hi Ta Ta Hi Ntsako Na To Tinyandza.",
+        "3. Hi Byalela Hosi Ni Le Nhlomulweni, Na Loko Swi Vava Swi Tshova Moya,",
+        "Wa Hi Amukela A Sula Mihloti,",
+        "Hi Ta Ta Hi Ntsako Na To Tinyandza."
+      ],
+      "number": 1
+    }
+  ]
+}

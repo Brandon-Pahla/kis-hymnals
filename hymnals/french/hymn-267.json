@@ -1,0 +1,37 @@
+{
+  "number": 267,
+  "language": "fr",
+  "title": "Dans ta charité suprême",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dans ta charité suprême,",
+        "Jésus, tu m'as appelé;",
+        "Tout en moi t'adore et t'aime,",
+        "Toi qui m'as tout pardonné."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "J'ai la paix, la délivrance.",
+        "Où trouver des biens meilleurs ?",
+        "Une heure dans ta présence",
+        "Vaut bien mieux que mille ailleurs."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "À tes pieds, Seigneur, j'oublie",
+        "Le monde et sa vanité.",
+        "Hors de toi tout est folie,",
+        "Toi seul es la vérité !"
+      ],
+      "number": 3
+    }
+  ]
+}

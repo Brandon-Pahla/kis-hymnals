@@ -1,0 +1,45 @@
+{
+  "number": 288,
+  "language": "sn",
+  "title": "288 Wakaunza Zvipo Kuna jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Vaunza kuna Jesu, zvipo zvavo zvese",
+        "Rudo kuna M’ponesi, Rwaita vamupe",
+        "Manzvi ese emutsa, kubatsira vamwe",
+        "Zvese-zvo zvipo zvavo akazvigashira"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Waunza kuna Jesu, chipo chakanaka!",
+        "Ita, Ndamupa mwoyo, pamakumbo ako"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pakange pane m’fambi, ayidawo kupa",
+        "Akaonawo zvipo, zvo vaipa Tenzi",
+        "Ayidisa zvikuru kuti ape chipo",
+        "Akamirawo petyo asina nechiro"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Achema ati, Tenzi ndimwi mune mutsa",
+        "Tora zvese, ndinazvo, nemwoyo wechivi",
+        "Jesu akapindura, Chikuru chipo chako",
+        "Kupinda zvimwe zvese, zvaunzwa kuneni"
+      ],
+      "number": 4
+    }
+  ]
+}

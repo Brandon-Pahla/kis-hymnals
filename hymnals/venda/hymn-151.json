@@ -1,0 +1,54 @@
+{
+  "number": 151,
+  "language": "ve",
+  "title": "151. naledzi Dzi do Vha Hone Naa?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:355"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Namusi ndi humbuka shango lavhudi,",
+        "ndi do vhuya nda vha khalo naa?",
+        "Mutshidzi do ntsendedza kha tshilidzi,",
+        "nda do vha tsini na naledzi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Khare yanga i do vha na naledzi naa?",
+        "Musi duvha li tshi kovhela?",
+        "Musi ndi tshi do vuwa vhudzula-vhafu,",
+        "tshanga tshedza tshi do penya naa?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Zwino kha ndi shume ndi tshi di rabela,",
+        "ndi kuvhanganye na mimuya,",
+        "Uri na tshanga tshedza tshi de tshi penye,",
+        "hu tshi do pfala thendo yawe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Muvhusoni wawe ndi do di takala,",
+        "ndi tshi isa zwe nda zwi shuma,",
+        "Mudi u daho u do vha wa dakalo,",
+        "na tshanga tshedza tshi tshi penya."
+      ],
+      "number": 4
+    }
+  ]
+}

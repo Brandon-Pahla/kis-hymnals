@@ -1,0 +1,57 @@
+{
+  "number": 44,
+  "language": "sn",
+  "title": "44 Kutanga Muponesi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Apo basa rapera, ndinoenda kumusha,",
+        "Uko kufa kunopfeka kusafa,",
+        "Ndicham’ziva M’ponesi apo achazouya,",
+        "Iye anondigashira mumusha"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndicham’ziva ndicham’ziva,",
+        "Apo tichazomira naye,",
+        "Ndicham’ziva ndicham’ziva,",
+        "Ne marwadzo m’maoko ake"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndichazofara kwazvo kuona usu hwake,",
+        "Nekupenya kwemaziso ake’wo,",
+        "Moyo wangu kum’kudza nge rudo’rwo nemutsa",
+        "Anondigadzira musha kumusoro"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinotondera avo vadikanwi vakafa,",
+        "Kuti ngerufu tapatsana navo,",
+        "Apo Jesu auya navo tichasangana,",
+        "Asi ndichatanga kuona Jesu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Achanditungamira kupinda mazambara,",
+        "Apo tisingazovi neurombo,",
+        "Ndichaimba nevese rwiyo’rwo rwekufara",
+        "Asi ndichatanga kuona Jesu"
+      ],
+      "number": 5
+    }
+  ]
+}

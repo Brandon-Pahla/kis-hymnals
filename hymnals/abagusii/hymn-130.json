@@ -1,0 +1,42 @@
+{
+  "number": 130,
+  "language": "guz",
+  "title": "130 Ker'Emambia",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ker'emambia nobwanchani,Torenda rituko rionsi.Gatwarendirw'obotuko,Meber' ere nechinguru."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kabogokia n'amabera,Se tore gatogosaba;Mechand'eete twaberwe,Tosemeretie igoro."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Emeremo ye rituko,Toisa koyerengereria;Bond'oboyia, nib' enene,Nyasaye nerue ekengwanso."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Bimoremo bisinini,Mbitotange titosaba;Na kwang'enchera endonge,'Gotoiki' ase Nyasae"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. S'obwanchani bwao Tata,Tobwenere gotimoka;Tokonye rero botambe,Tobe buna togosaba."
+      ],
+      "number": 5
+    }
+  ]
+}

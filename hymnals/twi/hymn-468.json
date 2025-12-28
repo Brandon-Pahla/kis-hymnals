@@ -1,0 +1,56 @@
+{
+  "number": 468,
+  "language": "tw",
+  "title": "M'Agya Wɔ Afie Ne Nsase Bebree",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "M'Agya wɔ afie ne nsase bebree;",
+        "Wiase yi my adonyade wɔ Ne nsam!",
+        "'Bohemma, dɛnkyɛmmo, dwetɛ, sika,",
+        "Ahyɛ N'adan ma, N'ahonya nni ano."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Meyɛ 'Hene no ba",
+        "ɔhene no ba!",
+        "Yesu yɛ m'Agyenkwa 'i,",
+        "Meyɛ 'Hene no ba."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M'Agya n'ara Ba, nnipa, 'Gyenkwa ni,",
+        "Bɛnantee 'sase so sɛ wɔn mu hiani,",
+        "ɔredi ma nnebɔn'yɛfo wɔ s'ro,",
+        "Sɛ ɔba a ɔbɛma me trabea pa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na meyɛ 'dedamfikyi ne 'hɔho,",
+        "ɔdebɔn'yɛni ne ɔmanfrani bi,",
+        "Wɔayɛ me ɔba aky'rɛw me din sɛ",
+        "Ofie, atade ne 'henkyɛw dedifo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔdan anaa ɔsese, mennwen ho,",
+        "Wɔresi ahemfie ama me wɔ hɔ!",
+        "Ewom mafi fie de nanso mɛto:",
+        "\\\"Nuonyam nka Nyame, meyɛ ɔhen' no ba.\\\""
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 362,
+  "language": "pt",
+  "title": "Cristo Ajudará",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cristo Ajudará"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vacilando minha fé,",
+        "Cristo ajudará.",
+        "Perseguido, sem mercê,",
+        "Cristo ajudará."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Cristo ajudara,",
+        "Sim, me ajudara!",
+        "Seu amor por mim não muda;",
+        "Sempre ajudara."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Crente inútil eu serei",
+        "Se não me valer,",
+        "Nem serviço prestarei,",
+        "Sem o Seu poder."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Com Seu sangue me comprou,",
+        "Não me deixará;",
+        "Vida eterna me outorgou;",
+        "Sim, me ajudará."
+      ],
+      "number": 5
+    }
+  ]
+}

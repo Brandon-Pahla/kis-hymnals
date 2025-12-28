@@ -1,0 +1,35 @@
+{
+  "number": 132,
+  "language": "guz",
+  "title": "132 Rituko Riaerire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Rituko riaerire,Tata mbuya mono;Chinsa chia omosuntetichib' echi'ebibe.O Yes' ototengerere,Torend' as' obotuk' obo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Megoko yaerire,Toiranie mbuya;Chinsa chi' omosuntetichitobera chimbe.Yeso tomorekere,Torend' as' obotuk' obo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Meremo yaerire,NatogoterereChinsa chi'omosuntenchib' echi' emechando.O Yes' ototengerere,Torend as' obotuk' obo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tokanyekie chinkoro,Nyasae kwamanyire,'Mechand' eng'aki eng'anaetoganyet' ense.Yes' omwanchwa otoigwe,Otorend' otorusie oo."
+      ],
+      "number": 4
+    }
+  ]
+}

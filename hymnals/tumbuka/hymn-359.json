@@ -1,0 +1,25 @@
+{
+  "number": 359,
+  "language": "tum",
+  "title": " 359 M'mtima Wane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 359 M'mtima Wane",
+        "Into My Heart"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M'mtima wane, m'mtima wane,",
+        "Njirani, a Fumu Yesu,",
+        "Munjiremo, mukhalemo,",
+        "Njirani, a Fumu Yesu."
+      ],
+      "number": 2
+    }
+  ]
+}

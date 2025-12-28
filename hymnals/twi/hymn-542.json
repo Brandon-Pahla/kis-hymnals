@@ -1,0 +1,31 @@
+{
+  "number": 542,
+  "language": "tw",
+  "title": "Yesu, Yɔnko Ne Yamyefo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, Yɔnko ne Yamyefo,",
+        "Yɛde mmofra nkumaa brɛW':",
+        "Ma wɔn Wo nhy'rā a ɛsom bo no,",
+        "FaW' basa twa wɔn ho hyia",
+        "Kora wɔn Wo yiedi mu nnɛ,",
+        "Na yi wɔn fi mmusu ny'naam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo a Wogyee mmofra nkumaa",
+        "Baa Wo nkyɛn ayamhyehyem,",
+        "Ma wɔn aky'rɛky'rɛfo nyinaa",
+        "Nyansa ne ahobrɛase,",
+        "Nhunumu ne dɔ a wɔde",
+        "Bɛsom wɔn nokware mu."
+      ],
+      "number": 2
+    }
+  ]
+}

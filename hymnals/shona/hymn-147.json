@@ -1,0 +1,46 @@
+{
+  "number": 147,
+  "language": "sn",
+  "title": "147 Upenyu Hwenyu Kuneni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi ndipfuwe petyo nemwi",
+        "Ndigumbatirenyi",
+        "Petyopo mumaoko enyu",
+        "Ndinoda zororo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Petyo nerudo rwenyu, Ndipfuwenyi kumusoro",
+        "Petyo Petyo nerudo rwenyu, Ndipfuwe",
+        "kunemwi k’msoro"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi ndipfuwe petyo nemwi",
+        "Ndisamusiyenyi",
+        "Ndofara mumawoko enyu",
+        "Handi-chapumhuki"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndipfuwenyi nemweya wenyu",
+        "Ndifanane nemwi",
+        "Ndimutse ndisambe",
+        "Ndinatse dakara ndichene"
+      ],
+      "number": 4
+    }
+  ]
+}

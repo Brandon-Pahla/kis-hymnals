@@ -1,0 +1,65 @@
+{
+  "number": 139,
+  "language": "es",
+  "title": "La tierna voz del Salvador",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### La tierna voz del Salvador"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La tierna voz del Salvador",
+        "nos habla conmovida.",
+        "Oíd al Médico de amor,",
+        "que da a los muertos vida."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Nunca los hombres cantarán,",
+        "nunca los ángeles en luz,",
+        "nota más dulce entonarán",
+        "que el nombre de Jesús."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cordero manso, ¡gloria a ti!",
+        "Por Salvador te aclamo.",
+        "Tu dulce nombre es para mí",
+        "la joya que más amo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Borradas ya tus culpas son\",",
+        "su voz hoy te pregona;",
+        "acepta, pues, la salvación,",
+        "y espera la corona."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Y cuando al cielo del Señor",
+        "con él nos elevemos,",
+        "arrebatados en su amor,",
+        "su gloria cantaremos."
+      ],
+      "number": 6
+    }
+  ]
+}

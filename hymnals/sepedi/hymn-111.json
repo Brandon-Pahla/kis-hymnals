@@ -1,0 +1,76 @@
+{
+  "number": 111,
+  "language": "nso",
+  "title": " 111 AOWA GA GO LE O TEE.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 111 AOWA GA GO LE O TEE.",
+        "NO NOT ONE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga go mogwer 'a swanang",
+        "Le Jeso, Le o tee ga gona,",
+        "Ga go ya re alafago moyeng,",
+        "Le o tee ga gona;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Jes 'o tseba mathat 'a rena,",
+        "O thuša matšatši ohle,",
+        "Ga go mogwer 'a swanang le Jeso,",
+        "Le o tee ga gona!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga go mogwera ya halalelang,",
+        "Le o tee ga gona!",
+        "Gape ga go ya 'ikokobetšang,",
+        "Le o tee ga gona!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga go nako e a sego kgauswi,",
+        "Lee tee ga e go!",
+        "Ga go 'šego bjo a sa homotšeng,",
+        "Le bjo tee gabo go!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A 'o kile 'a lahla mohalaledi,",
+        "Le ga tee ga sešo!",
+        "Goba a lahla modiradibe,",
+        "Le o tee ga sešo!"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga go mpho e bjaka Mophološi,",
+        "Le e tee ga e go!",
+        "Na o tlo re phega legodimong?",
+        "Le ga tee! Aowa!"
+      ],
+      "number": 7
+    }
+  ]
+}

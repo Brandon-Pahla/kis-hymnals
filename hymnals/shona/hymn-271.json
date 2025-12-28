@@ -1,0 +1,42 @@
+{
+  "number": 271,
+  "language": "sn",
+  "title": "271 Nyangwe Zvitema Zvatsvuka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyangwe zvitema zvatsvuka, Zvichachena sechando",
+        "Nyangwe zvitema zvatsvuka, Zvichachena sechando",
+        "Kana zvatsvuka sengura, Zvichacheneswa,",
+        "Nyangwe zvitema zvatsvuka",
+        "Nyangwe zvitema zvatsvuka, Zvichachena sechandoZvichachena sechando"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inzvi rinokudaidza: Dzokera kuna Mwari",
+        "Inzvi rinokudaidza: Dzokera kuna Mwari",
+        "Anemutsa mukuru, Ane rudo zve",
+        "Inzvi rinokudaidza",
+        "Inzvi rinokudaidza: Dzokera kuna Mwari",
+        "Dzokera kuna Mwari"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Achakukanganwira, Zvitema zvako zvose",
+        "Agozvi kanganwa zvese, Zvitema zvako zvese",
+        "Tarisai kwandiri, Mwari adaro",
+        "Achakukanganwira",
+        "AchakukanganwiraZvitema zvako zvese,",
+        "Achazozvikanganwa"
+      ],
+      "number": 3
+    }
+  ]
+}

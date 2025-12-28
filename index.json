@@ -1,0 +1,157 @@
+{
+  "version": "3.0",
+  "description": "Language-aware hymnal structure. Each language hymnal maintains its original numbering.",
+  "migrationDate": "2025-12-28T09:01:45.133Z",
+  "hymnals": {
+    "english": {
+      "code": "en",
+      "title": "Christ In Song",
+      "hymnCount": 300,
+      "directory": "hymnals/english"
+    },
+    "swahili": {
+      "code": "sw",
+      "title": "Nyimbo Za Kristo",
+      "hymnCount": 220,
+      "directory": "hymnals/swahili"
+    },
+    "tswana": {
+      "code": "tn",
+      "title": "Keresete Mo Kopelong",
+      "hymnCount": 300,
+      "directory": "hymnals/tswana"
+    },
+    "sotho": {
+      "code": "st",
+      "title": "Keresete Pineng",
+      "hymnCount": 300,
+      "directory": "hymnals/sotho"
+    },
+    "chichewa": {
+      "code": "ny",
+      "title": "Khristu Mu Nyimbo",
+      "hymnCount": 350,
+      "directory": "hymnals/chichewa"
+    },
+    "tonga": {
+      "code": "to",
+      "title": "Kristu Mu Nyimbo",
+      "hymnCount": 341,
+      "directory": "hymnals/tonga"
+    },
+    "shona": {
+      "code": "sn",
+      "title": "Kristu MuNzwiyo",
+      "hymnCount": 300,
+      "directory": "hymnals/shona"
+    },
+    "venda": {
+      "code": "ve",
+      "title": "Ngosha YaDzingosha",
+      "hymnCount": 306,
+      "directory": "hymnals/venda"
+    },
+    "ndebele": {
+      "code": "nd",
+      "title": "UKrestu Esihlabelelweni",
+      "hymnCount": 300,
+      "directory": "hymnals/ndebele"
+    },
+    "xhosa": {
+      "code": "xh",
+      "title": "UKristu Engomeni",
+      "hymnCount": 352,
+      "directory": "hymnals/xhosa"
+    },
+    "xitsonga": {
+      "code": "ts",
+      "title": "Risima Ra Vuyimbeleri",
+      "hymnCount": 311,
+      "directory": "hymnals/xitsonga"
+    },
+    "gikuyu": {
+      "code": "ki",
+      "title": "Nyimbo cia Agendi",
+      "hymnCount": 299,
+      "directory": "hymnals/gikuyu"
+    },
+    "abagusii": {
+      "code": "guz",
+      "title": "Ogotera kw'ogotogia Nyasae",
+      "hymnCount": 370,
+      "directory": "hymnals/abagusii"
+    },
+    "dholuo": {
+      "code": "luo",
+      "title": "Wende Nyasaye",
+      "hymnCount": 332,
+      "directory": "hymnals/dholuo"
+    },
+    "kinyarwanda": {
+      "code": "rw",
+      "title": "Indirimbo Zo Guhimbaza Imana",
+      "hymnCount": 500,
+      "directory": "hymnals/kinyarwanda"
+    },
+    "kirundi": {
+      "code": "rn",
+      "title": "Indirimbo",
+      "hymnCount": 202,
+      "directory": "hymnals/kirundi"
+    },
+    "tumbuka": {
+      "code": "tum",
+      "title": "Nyimbo za Mpingo wa SDA",
+      "hymnCount": 372,
+      "directory": "hymnals/tumbuka"
+    },
+    "sepedi": {
+      "code": "nso",
+      "title": "Kreste Ka Kopelo",
+      "hymnCount": 303,
+      "directory": "hymnals/sepedi"
+    },
+    "icibemba": {
+      "code": "bem",
+      "title": "Kristu Mu Nyimbo",
+      "hymnCount": 311,
+      "directory": "hymnals/icibemba"
+    },
+    "portuguese": {
+      "code": "pt",
+      "title": "Hinàrio Adventista Do Sétiomo Dia",
+      "hymnCount": 610,
+      "directory": "hymnals/portuguese"
+    },
+    "spanish": {
+      "code": "es",
+      "title": "Himnario Adventista",
+      "hymnCount": 614,
+      "directory": "hymnals/spanish"
+    },
+    "french": {
+      "code": "fr",
+      "title": "Donnez-Lui Gloire",
+      "hymnCount": 520,
+      "directory": "hymnals/french"
+    },
+    "russian": {
+      "code": "ru",
+      "title": "Гимн адвентистов седьмого дня",
+      "hymnCount": 384,
+      "directory": "hymnals/russian"
+    },
+    "sdah": {
+      "code": "en-sdah",
+      "title": "SDA Hymnal",
+      "hymnCount": 695,
+      "directory": "hymnals/sdah"
+    },
+    "twi": {
+      "code": "tw",
+      "title": "Twi Hymnal",
+      "hymnCount": 770,
+      "directory": "hymnals/twi"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "number": 610,
+  "language": "en-sdah",
+  "title": "610 Stand Like the Brave",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. O Christian, awake! 'tis the Master's command; With helmet and shield, and a sword in thy hand, To meet the bold tempter, go, fearlessly go, Then stand like the brave, with thy face to the foe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain : Stand like the brave, stand like the brave, Stand like the brave, with thy face to the foe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. The cause of thy Master with vigour defend; Be watchful, be zealous, and fight to the end; Wherever He leads thee, go, valiantly go, Then stand like the brave, with thy face to the foe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Press on, never doubting, thy Captain is near, With grace to supply, and with comfort to cheer; His love, like a stream in the desert will flow; Then stand like the brave, with thy face to the foe."
+      ],
+      "number": 4
+    }
+  ]
+}

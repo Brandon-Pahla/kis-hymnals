@@ -1,0 +1,49 @@
+{
+  "number": 630,
+  "language": "tw",
+  "title": "Me Kra, Trɛw Wo Ntaban Mu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me kra, trɛw wo ntaban mu;",
+        "Hwehwɛ wo kyɛfa pa n'",
+        "Fi nneɛma a etwam ho,",
+        "Kɔ s'ro wo trabea hɔ;",
+        "'Wia, ɔsram ne ns'romma kɔ,",
+        "B're beyi 'sase yi hɔ;",
+        "Sɔr' me kra, yɛ ntɛm kɔtra",
+        "ɔs'ro agua no so."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nsuten sen kɔbɔ po mu",
+        "Ͻntra n'akwan so daa;",
+        "Ogya tų a, ɛkɔ 'wia nkyɛn;",
+        "Wɔkɔ nea wofi hɔ;",
+        "'Krā a ɔyɛ Nyame de nso",
+        "Kɔn dɔ sɛ ohu N'anim,",
+        "ɔp're kɔ nea ɔte no",
+        "Kɔhome Ne kokom'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Kwantufo munnni yaw bio,",
+        "Monkɔ 'kyɛde no ho;",
+        "Yɛn 'Gyenkwa no reba ntɛm,",
+        "Nkonimdi mu wɔ wim;",
+        "Munnim sɛ aka kakra",
+        "Na wɔabue 'nigye kwan no,",
+        "Yebegyaw yɛn 'w'rɛhow ny'naa",
+        "Fi fam ha akɔ 's'ro."
+      ],
+      "number": 3
+    }
+  ]
+}

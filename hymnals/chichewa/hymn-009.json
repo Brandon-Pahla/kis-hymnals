@@ -1,0 +1,41 @@
+{
+  "number": 9,
+  "language": "ny",
+  "title": "9 - Omba Lipenga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LIFT UP THE TRUMPET"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Omba lipenga, limveke ponse;",
+        "Yesu adzabweranso!",
+        "Kondweranitu, yimbani nyimbo;",
+        "Yesu adzabweranso.",
+        "CHORUS:",
+        "Abweranso, abweranso, Yesu adzabweranso!",
+        "2. Lalikirani m’phiri ndi m’dambo;",
+        "Yesu adzabweranso!",
+        "Adzadza m’ulemerero wake;",
+        "Yesu adzabweranso.",
+        "3. Lalikirani m’zinyanja monse;",
+        "Yesu adzabweranso!",
+        "Lalikirani ponseponsepo;",
+        "Yesu adzabweranso.",
+        "4. Zivomezi zimanena kuti;",
+        "Yesu adzabweranso!",
+        "Namondwe ndi mafunde zinena;",
+        "Yesu adzabweranso.",
+        "5. Mitundu yakwiya tidziwatu;",
+        "Yesu adzabweranso!",
+        "Zizindikiro zakwanitsidwa;",
+        "Yesu adzabweranso."
+      ]
+    }
+  ]
+}

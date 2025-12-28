@@ -1,0 +1,47 @@
+{
+  "number": 34,
+  "language": "nd",
+  "title": "34 Kuhle Moya Wami",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi nokuthula okunjengomfula, Nxa ngi nosiz’ olukhulu",
+        "U ngi fundisile mina ukuthi, Kuhle-ke, kuhle, moya wami"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuhle-ke... moya wam’",
+        "Kuhle-ke, kuhle, moya wami"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nanxa-ke uSatani engihlupha, Ngaloku nje, ngi zonqoba",
+        "Ngokuba uJesu ng’uMsizi wami, Wacith’ igazi lAkhe ngami"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Umcabango omuhle yilowo-ke, Iz’phosiso zami zonke",
+        "U zibethele esiphambanweni, Bonga iNkosi moya wami"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Nkosi lolosuku maluphangiswe, Amayezi azogoqwa",
+        "Li khal’ icilongo, yehle iNkosi, Njalo-ke, kuhle moya wami"
+      ],
+      "number": 5
+    }
+  ]
+}

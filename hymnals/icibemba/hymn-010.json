@@ -1,0 +1,30 @@
+{
+  "number": 10,
+  "language": "bem",
+  "title": "10 - BUSHE TWAYA KUMULONGA?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SHALL WE GATHER?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bushe twaya ku mulonga, Kulya fyonse fisuma;",
+        "Amenshi ayenda pe pe Yafuma kwa Yehofa",
+        "CHORUS:",
+        "Eya twaya ku mulonga. Menshi yawama yawama-kulya;",
+        "Tulongana pa-mo nabo abatemwa-Yehofa",
+        "2. Pa mupuma wa mulonga Tukaya no kupepa;",
+        "Tukaya tasha Katula Nshiku shonse pe na pe.",
+        "3. Lintu tukafika uko, Ifipe tukaposa; Yesu Mfumu ali uko Akatufwika bwino",
+        "4. Nomba tulepalamina, Bwangu ulwendo lwapwa;",
+        "Elyo imitima yesu Ikasekelela pe."
+      ],
+      "number": 2
+    }
+  ]
+}

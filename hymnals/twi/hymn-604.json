@@ -1,0 +1,46 @@
+{
+  "number": 604,
+  "language": "tw",
+  "title": "Yennim B're Ko No a Owura No Reba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yennim b're ko no a Owura no reba,",
+        "Nanso nsɛnky'rɛnne nyinaa kyerɛ sɛ b're a",
+        "ɔbɛba no abɛn ɔ anigye bɔhyɛ ni!",
+        "Nanso yennim b're ko."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "ɔbɛba, momma yɛnnwɛn nyɛ 'hoboa,",
+        "ɔbɛba, haleluya, haleluya!",
+        "ɔbɛba N'Agya anuonyam mununkum no mu.",
+        "Nanso yennim b're ko."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hann wɔ hɔ ma mmadwemmā a wɔhwehwɛ nkwagye;",
+        "Nokware wɔ 'W'rade adiyi nwoma nom'",
+        "Nkɔmhyɛ no mu biara ky'rɛ awiei kɛse no,",
+        "Nanso yennim b're ko."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛde yɛn 'kanea no bɛwɛn abɔ mpae na",
+        "Yɛayɛ 'dwuma atwɛn kosi 'Wura no mmae.",
+        "Yɛbɛte sɛnky'rɛnne biarā ase ato dwom,",
+        "Nanso yennim b're ko."
+      ],
+      "number": 3
+    }
+  ]
+}

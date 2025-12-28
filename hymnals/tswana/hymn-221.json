@@ -1,0 +1,44 @@
+{
+  "number": 221,
+  "language": "tn",
+  "title": "221 Lephoi Lengwe Le Dikala",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lephoi Lengwe Le Dikala,",
+        "Tse di dirang boitumelo",
+        "Di na le sengwe kgakala,",
+        "Se se nkisang Galelia."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Galelia, Galelia, Kwa Jeso O ratileng teng;",
+        "Galelia, Galelia, Tla o nkopelele gape."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwa Dithunyeng, Le Kwa Bontleng,",
+        "Kwa ’nonyane di opelang,",
+        "Dipako tse di bolelang,",
+        "Ka tse di Kwa Galelia."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Re Bala Ka Ga Yo O",
+        "Tsamaileng mo lewatlang,",
+        "Ke eletsa bogolo go",
+        "Mo latela Galelia."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "number": 215,
+  "language": "bem",
+  "title": "215 - LOLELA WILAILISHANYA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WAIT AND MURMUR NOT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ku mushu 'ko tabaluka, macusho yonse takwaba;",
+        "E mushi uwawamisha, Eko 'fwe tukayatusha.",
+        "CHORUS:",
+        "Lole-la wilailishanya, Lole-la wilailishanya; Shilo-lela wilailishanya",
+        "2. Nangu cisendo cafina. Mona cafuma ku mulu;",
+        "Wafuluka kuba kulya, Lolela wi ilishanya.",
+        "3. Munshila nga mwabe myunga, Ibukisha uwaifwele;",
+        "Ngo mutima wanashiwa, Ibukisho wa mushilo.",
+        "4. Nangu cule cabipisha, wilabako ukupepa;",
+        "Bushiku nabupalama, Lolela wi ilishanya."
+      ],
+      "number": 2
+    }
+  ]
+}

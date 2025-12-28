@@ -1,0 +1,39 @@
+{
+  "number": 48,
+  "language": "tn",
+  "title": "48 Go Tla Boitumelo Bofelong",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Go Tla Boitumelo Bofelong, Fa Barobi Ba Fitlha Gae,",
+        "Ba tlisa diako maitsiboa Gone kwa Jerusalem."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Boitumelo kgantele, Boitumelo bo ’sa sweng;",
+        "Boitumelo gaufi Badiri ba tla ya gae."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Botshe Kopelo Tse’ Tla Opelwang, Opelwang, Boitumelo",
+        "mo dipelong",
+        "Re baka Jeso Morena Motseng wa Jerusalem."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Letiwe Ke Boitumelo, Mannong A Mantsi A Gouda;",
+        "Jeso Oa re baakanyetsa, Gone kwa Jerusalem."
+      ],
+      "number": 3
+    }
+  ]
+}

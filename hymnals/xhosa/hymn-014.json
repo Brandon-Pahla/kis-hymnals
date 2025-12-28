@@ -1,0 +1,46 @@
+{
+  "number": 14,
+  "language": "xh",
+  "title": "14 Phulaphula Imali Isiwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yiv’ imal’ isiwa, Mamel’ iyawa,",
+        "Yeka Yesu yonke, Iya kuye le."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Qatha, qatha, qatha, qatha, Yiva iyawa,",
+        "Yeka Yesu yonke, Iya kuYe le."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qatha, qatha, njalo, Zis’ umnikelo",
+        "Sipho sika-Yesu, Ebantwaneni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Noko sise lula, Sizama njalo;",
+        "Kunye nabadala, sakunikela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Naxa siswelayo Yena simthanda",
+        "Yena wowamkela Ngokuncumayo."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "number": 18,
+  "language": "st",
+  "title": "18 Tsoelang Pele Bakreste",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tsoelang Pele bakrese ho ea mane ntoeng,",
+        "Fapano sa Jesu se le ka pele,",
+        "Kreste ke Molaoli, loants’ang le sera,",
+        "Tiisetsang Jesu Ke Eena ea fenyang."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tsoelang pele bakreste hona teng ntoeng,",
+        "Fapano sa Jesu se le ka pele."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sera se baleha moo ho leng hlolo;",
+        "Masole hlomelang le ee ho loana,",
+        "Le bona bademona ba ’thothomela",
+        "Phahamisang mantsoe tlerolang."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Makhotla a matla tsosang kereke,",
+        "Baena hatang le bahalaleli",
+        "Ha ho karohano ke ’mele o mong",
+        "Kopano e teng ho eena leratong."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ho shoele Marena, e, le ba matla,",
+        "Phutheho ea Jesu e eme joalo,",
+        "Mabitla a ke ke a bona hlolo",
+        "Re na le Morena ea sa hloleheng."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsoellang batho, a re kopaneng,",
+        "Ka mantsoe a rona pineng ea hlolo,",
+        "Khalalelo pooko ho Eena Kreste",
+        "E le ka ho sa feleng e tla ’ne binoe"
+      ],
+      "number": 5
+    }
+  ]
+}

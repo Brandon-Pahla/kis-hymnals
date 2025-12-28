@@ -1,0 +1,57 @@
+{
+  "number": 263,
+  "language": "tw",
+  "title": "Nyame Gyaframa Kronkron",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame gyaframa kronkron,",
+        "Wo a  Wode 'nuonyam bae,",
+        "Fa Wo gya tew me kra ho,",
+        "Sɛnea ɛde dɔ bɛhy'rɛn."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame home a ɛde",
+        "Tum' bae Pentekoste b'rem;",
+        "Home Kronkron yɛ me mu",
+        "Ahoɔden mapa nsuti."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame 'hoɔden, Wo tumi",
+        "Di yɛn mu bɔne so nim,",
+        "Siw bɔne 'kwan a ɛwɔ",
+        "Me koma mu no nyinaa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame nokwar' Wo hann no",
+        "Yi m'asumasɛm adi,",
+        "Ma m'ani nwu bɔne ho,",
+        "Gya me kɔ kwan kronkron so."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame dɔ, Wo dom kɛse",
+        "A ennim nyiyim' biara;",
+        "Bra bɛtra me koma mu,",
+        "Tra mu mm'resanten nyinaa."
+      ],
+      "number": 5
+    }
+  ]
+}

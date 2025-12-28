@@ -1,0 +1,42 @@
+{
+  "number": 513,
+  "language": "fr",
+  "title": "Heureux serviteurs fidèles",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Heureux serviteurs fidèles",
+        "Qui gardez les yeux fixés",
+        "Vers la patrie éternelle,",
+        "La demeure des rachetés.",
+        "Sur ce rocher de promesses",
+        "Que rien n'ébranlera,",
+        "Veillez et priez sans cesse,",
+        "L'Esprit saint vous conduira."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Accrochez-vous bien aux branches",
+        "Celles de l'arbre de Vie,",
+        "Surtout même si ça penche",
+        "Et quand les vents vous ennuient."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Recevez en cet instant",
+        "Bénédictions et richesses,",
+        "Vous pourrez par tous les temps",
+        "Naviguer avec sagesse."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "number": 107,
+  "language": "ny",
+  "title": "107 - Nthano Ya Yesu Uzeni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TELL ME THE STORY OF JESUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nthano ya Yesu uzeni, Lemba mu mtimangamu;",
+        "Nthano yodala uzeni, Nthano yoposa zonse.",
+        "Nyimbo ya ’ngelo uzeni, Nthawi yobadwa Yesu,",
+        "Ulemelero kwa Mlungu, Ndipo mtendere pano."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nthano ya Yesu uzeni, Lemba mu mtimangamu,",
+        "Nthano yodala uzeni, Nthano yoposa zonse."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nena masiku ajawo, Mbuye nasala kudya,",
+        "Anayesedwa koopsa, Koma analakika.",
+        "Za ntchito yake uzeni, Ndi za zisoni zake,",
+        "Anazunzidwa kolimba, Mphawi wopanda kwao."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Za mtanda wake uzeni, Ndi za zowawa zake,",
+        "Za manda ake uzeni, Ndi za kuuka kwake.",
+        "M’nthano ndiona chikondi, Cha Yesu, Mbuye wanga,",
+        "Mmene ndiimva ndilira, Anawombola ine."
+      ],
+      "number": 4
+    }
+  ]
+}

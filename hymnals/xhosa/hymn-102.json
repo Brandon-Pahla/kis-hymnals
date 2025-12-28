@@ -1,0 +1,47 @@
+{
+  "number": 102,
+  "language": "xh",
+  "title": "102 Mvulele Angene",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nank’ umhambi emnyango, M’angene; (Mvumel’ angene; Mvumel’ angene);",
+        "Sekufuthi ebaKho, M’angene; (Mvumel’ angene; Mvumel’ angene);",
+        "M’angene enge kemki, M’ angene engo-Ngcwele,",
+        "U-Krist’ u-Nyan’ o-Yise, M’angene. (Mvumel’ angene, Mvumel’ angene)."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mnik’ intliziyo yaKho, M’angene; (Mvumel’ angene; Mvumel’ angene);",
+        "Lumka hlez’ akushiye, M’angene; (Mvumel’ angene; Mvumel’ angene);",
+        "Ungum hlob’ aKho yena, Uya kukukhusela,",
+        "Kube sekupheleni, M’angene. (Mvumel’ angene, Mvumel’ angene)."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yiva, uyakucenga, M’angene; (Mvumel’ angene; Mvumel’ angene);",
+        "Nyula yena ngokunje, M’angene; (Mvumel’ angene; Mvumel’ angene);",
+        "Nank’ emi ngase mnyango, Wokunika uvuyo,",
+        "Ukhung’ igama lakhe; M’angene. (Mvumel’ angene, Mvumel’ angene)."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vum’ ummenywa wezulu, M’angene; (Mvumel’ angene; Mvumel’ angene);",
+        "Wokwenzela isidlo; M’angene; (Mvumel’ angene; Mvumel’ angene);",
+        "Akuxolel’ izono, Kothi ekupheleni,",
+        "Akuse ezulwini, M’angene. (Mvumel’ angene, Mvumel’ angene)."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 268,
+  "language": "tw",
+  "title": "Honhom Kronkron, ɔs'ro Hann",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Honhom Kronkron, ɔs'ro hann",
+        "Hyerɛn wɔ me koma mu;",
+        "Pam anadwo sum f'ri hɔ,",
+        "Na ma me sum no nnan hann."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Honhom Kronkron, s'ro tumi,",
+        "Tew me koma bɔn' yi ho;",
+        "Bɔn' adi mu hen' akyɛ,",
+        "Na ayɛ me kra akoa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Honhom Kronkron, ɔs'ro dɛw,",
+        "Yi 'w'rɛhow fi m'akomam';",
+        "Yi me mmusu ny'naa fi hɔ,",
+        "Na sa me koma yare."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Honhom Kronkron, s'ro honhom,",
+        "Bɛtra me koma yi mu;",
+        "Pam mu amane nyinaa",
+        "Na Wo nkutoo di mu hen'."
+      ],
+      "number": 4
+    }
+  ]
+}

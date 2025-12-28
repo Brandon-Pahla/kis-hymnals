@@ -1,0 +1,46 @@
+{
+  "number": 252,
+  "language": "tn",
+  "title": "252 Tlang Lotlhe Ba Lo Leng Sebeng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tlang Lotlhe Ba Lo Leng Sebeng, Morena O Tshwaro,",
+        "O tla lo naya boikhutso Fa lo Mo ikanya."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mo ikanyeng, Mo ikanyeng, M’ikanyeng janong;",
+        "Oa lo boloka, Boloka janong."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso O Tsholotse Madi Go Re Na’a Masego;",
+        "Ikineng janong mo mading A a itshekisang."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E Jeso Ke Nnete, Tsela, E Isang Boikhutsong;",
+        "Dumelang janong go Ene Lo segofaditswe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tlang Janong Tsenang Baitsheping, Lo Ye Kgalalelong,",
+        "Agang fatsheng ja godimo, kwa boitumelong."
+      ],
+      "number": 4
+    }
+  ]
+}

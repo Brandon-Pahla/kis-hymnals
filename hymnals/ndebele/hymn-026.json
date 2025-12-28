@@ -1,0 +1,55 @@
+{
+  "number": 26,
+  "language": "nd",
+  "title": "26 Ngi Nje",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi nje Nkosi, ngi za ngi nje, Yileli ilizwi lami",
+        "Ngoba wangifela nami, Mvana yeNkosi ngi yeza"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi nje Nkosi, ngi za ngi nje, Ngi ngesus’ icala lami",
+        "Ngohlanzwa ngegazi nami, Mvana yeNkosi ngi yeza"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi nje Nkosi, ngi za ngo nje, Ngi sempini yenhupheko",
+        "Ngaphakathi nangaphandle, Mvana yeNkosi ngi yeza"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi nje Nkosi, ngi za ngi nje, Ngi mpofu ngi yimpumputhe",
+        "Konke mangiphiwe nguWe, Mvana yeNkosi ngi yeza"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi nje Nkosi, ngi za ngi nje, Ngi hlanzw’ inhliziyo yami",
+        "Ngi gezeke, ngi bemhlophe, Mvana yeNkosi ngi yeza"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi nje Nkosi, ngi za ngi nje, Uthando lu ngi nqobile",
+        "Lu ngi thabis’ inhliziyo, Mvana yeNkosi ngi yeza"
+      ],
+      "number": 6
+    }
+  ]
+}

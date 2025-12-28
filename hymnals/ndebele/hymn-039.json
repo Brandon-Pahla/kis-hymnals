@@ -1,0 +1,48 @@
+{
+  "number": 39,
+  "language": "nd",
+  "title": "39 ’Dwala Eliqinileyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "uJesu li Dwala lami, NguYe uSindiso lwami",
+        "Ngi ngeze ngathemb’ okwami, Ngophaswa yiDwala lami"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "uJesu Krestu liDwala",
+        "Konk’ okunye ku zodlula",
+        "Konk’ okunye ku zodlula"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nobumnyama bu phambi kwam’, Ma ngi ngozeli, Themba lam’",
+        "Nez’phepho endleleni yam’ Ma ngi ngalahl’ inkolo yam’"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Isifungo si qinile, Kulabo abamthembile",
+        "Nanxa mina ngi dangele, uJesu ngi samthembile"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa ku khala’ itilongo, KuYena ngi khuphukele",
+        "Ngi gqokiswe ngobungcwele, Es’ godlweni ngi yovela"
+      ],
+      "number": 5
+    }
+  ]
+}

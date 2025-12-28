@@ -1,0 +1,24 @@
+{
+  "number": 170,
+  "language": "ts",
+  "title": "170. WENA MUVUMBI WANGA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "MY MAKER AND MY KING",
+        "1. Wena Muvumbi Wanga, Swanga I Swaku;",
+        "Xihlovo Xa Ku Hanana, Xi Na Minkateko; Xihlovo Xa Ku Hanana, Xina Minkateko.",
+        "2. Ndzi Xivumbiwa Xaku, Wa Ndzi Hanyisa;",
+        "U Hanana Ku Tlurisa Ku Khensa Ka Mina;",
+        "U Hanana Ku Tlurisa Ku Khensa Ka Mina.",
+        "3. Hinkwaswo I Swa Wena, A Ndzi Na Nchumu;",
+        "Ndzi Na Ku Khensa Ntsena, I Nyiko Yintsongo;",
+        "Mbilu Ya Ku Khensa Ntsena, I Nyiko Yitsongo.",
+        "4. Hosi, Ndzi Pfuxelele Hi Nsovo Waku;",
+        "Masiku Hinkwawo, Ku Navela Hi Marito; Masiku Hinkwawo, Ku Navela Hi Marito."
+      ],
+      "number": 1
+    }
+  ]
+}

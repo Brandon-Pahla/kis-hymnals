@@ -1,0 +1,46 @@
+{
+  "number": 65,
+  "language": "xh",
+  "title": "65 Kumnandi Ukuthemba u-Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kumnand’ ukuthemb’ uYesu, ’Kukholwa lizwi laKhe;",
+        "Nokukwazi ukuthi ke, \"Itsho njalo i-Nkosi.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu, Yesu! Ndiyamthanda, Sendimhlolile yena;",
+        "Yesu, Yesu! Igugu lam, Ndiphe olo fefe nam."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Au, kumnandi ukumthemba, Ukuthemba igazi;",
+        "Ukulazi elothemba, Kusisa ku-Msindisi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwo, kumnandi ukumthemba, Ukushiya izono;",
+        "Ukuthemba owajinga, Kusinika uxolo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndifunde ukukuthemba, Yesu wena Msindisi;",
+        "Ndiyazi unam ngenene, Kude kube nanini."
+      ],
+      "number": 4
+    }
+  ]
+}

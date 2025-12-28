@@ -1,0 +1,45 @@
+{
+  "number": 148,
+  "language": "sn",
+  "title": "148 Kwese Ndina Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kana ndina Jesu Ndinoenda kwese",
+        "Ndoenda kwese anotungamira",
+        "Kuti asipo handina rufaro",
+        "Kwese ndina Jesu handityi chiro"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwese Kwese, Handizo tyiba",
+        "Kwese ndina Jesu handityi chiro"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwese ndina Jesu handisi ndega",
+        "Kana vamwe vandisiya aneni",
+        "Kana nzira izere matambudzo",
+        "Kuti Jesu aneni ndinofara"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwese ndina Jesu ndingararako",
+        "Apo dima repasi randibata",
+        "Ndinoziva kuti achandimutsa",
+        "Kwese ndina Jesu musha wofadza"
+      ],
+      "number": 4
+    }
+  ]
+}

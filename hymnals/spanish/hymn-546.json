@@ -1,0 +1,53 @@
+{
+  "number": 546,
+  "language": "es",
+  "title": "Santo sábado, bendito",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Santo sábado, bendito"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo sábado, bendito,",
+        "joya de la creación,",
+        "que trasciende todo cambio,",
+        "es eterna bendición."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Santo sábado de Dios,",
+        "para el hombre lo creó."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "El pecado y la tristeza",
+        "pronto no existirán.",
+        "Pero el sábado es eterno,",
+        "y por siempre durará."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "El reposo verdadero",
+        "hoy buscamos, Dios, en ti.",
+        "Que la paz del día santo,",
+        "sea un remanso aquí."
+      ],
+      "number": 5
+    }
+  ]
+}

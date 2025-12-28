@@ -1,0 +1,47 @@
+{
+  "number": 567,
+  "language": "tw",
+  "title": "'Yɛ Nea Wopɛ, 'W'ra",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Yɛ nea Wope, 'W'ra, yɛ nea Wopɛ!",
+        "Wone ɔnwemfo; mene dɔte;",
+        "Nwene me, yɛ me sɛnea Wopɛ",
+        "Mede ɔpene retwɛn Wo yi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛ nea Wope, 'W'ra, yɛ nea Wopɛ!",
+        "Ͻnnɛ sɔ me hwɛ na hu me mu!",
+        "Aw'rade hoa me sen suky'rɛmma,",
+        "Mekoto W'anim 'nidi mu yi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛ nea Wope, 'W'ra, yɛ nea Wopɛ!",
+        "Mapira, mab'rɛ, boa me, mesrɛ!",
+        "Tumi mu tumi yɛW'de ampa!",
+        "Agyenkwa, ka me; sa me yare!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Yɛ nea Wope, 'W'ra, yɛ nea Wopɛ!",
+        "Di me so koraa, sɛ Wo pɛ te!",
+        "Wo Honhom mmee me, n'obiara nhu",
+        "Sɛ Kristo nko n'ɔte me mu daa."
+      ],
+      "number": 4
+    }
+  ]
+}

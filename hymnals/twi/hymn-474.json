@@ -1,0 +1,56 @@
+{
+  "number": 474,
+  "language": "tw",
+  "title": "Fa Yesu Din Bata Wo Ho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Yesu din bata wo ho,",
+        "Mmɔb'rɔni werɛhowni;",
+        "Ͻbɛma wo aw'rɛkyekye",
+        "Nea wokɔ biara, fa kɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O din pa, ɛyɛ dɛ!",
+        "Ha 'nidaso ne s'ro dɛw;",
+        "O din pa, ɛyɛ dɛ!",
+        "Ha 'nidaso ne s'ro dɛw."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Yesu din no yɛ wo kyɛm,",
+        "Wɔ m'firi nyinaa ho;",
+        "Sɛ sɔhwɛ twa wo ho hyia a",
+        "Bɔ mpae din kronkron no mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, Yesu din a ɛsom bo!",
+        "Ͻde dɛw hyɛ yɛn kra ma;",
+        "Sɛ ɔgye yɛn Ne nsa so a,",
+        "Yɛbɛto Ne ho dwom yie."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛbebɔ mpae Yesu din mu,",
+        "Akoto Ne nan ase;",
+        "YɛbɛhyɛN' ahen mu Hen' s'ro",
+        "B'rč a 'kwantu yi to betwa."
+      ],
+      "number": 4
+    }
+  ]
+}

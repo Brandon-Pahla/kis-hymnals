@@ -1,0 +1,37 @@
+{
+  "number": 200,
+  "language": "tn",
+  "title": "200 Go Boitshepo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Go Boitshepo Morena Modimo.",
+        "Mosong o mogolo re tla G’opelela;",
+        "O boitshepo O tshwaro mme O thata,",
+        "Ke Modimo le ka bosakhutleng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Baengele Ba Re, O Boitshepo,",
+        "Ba latlhela fatshe dirwalo tsa bone",
+        "Boidiidi bo obamela Wena,",
+        "Yo’ ntseng jana le ka bosakhutleng."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wena O Boitshepo Le Lefifing,",
+        "Lefa matlho a batho a sa Gobone;",
+        "O ntse O le boitshepo O le Wesi,",
+        "Mo nonofong, loratong, boitshekong."
+      ],
+      "number": 3
+    }
+  ]
+}

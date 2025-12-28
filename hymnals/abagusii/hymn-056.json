@@ -1,0 +1,42 @@
+{
+  "number": 56,
+  "language": "guz",
+  "title": "56 Nere Embura Engiya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nere embura engiya'Gotwa koret' ebisio;Goisanekia ab'erang'o'Monene nainche ntwerie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nonya nche Nonya nche,Tig'amatoim' angwere."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tong'etania Tat'omuya;nimba omonyabibeAmaber' ao botambe'Monene Onyorokie."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Natebanir'as'ebibenkogechia na gokwanga,Ense nigo ensibete,Nyaber' erind'onkonye!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tong'etani' Omoik' omuya,'Nkoru'ore okorora,Ooroki' Obuya bwa Yeso,ntebie ay'Omorembe."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 438,
+  "language": "fr",
+  "title": "À Dieu seul j'abandonne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "À Dieu seul j'abandonne",
+        "Ma vie et ma personne,",
+        "Mes projets et mes vœux.",
+        "Sans lui rien ne prospère,",
+        "Sans mon céleste Père,",
+        "Rien ne saurait me rendre heureux."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oui, de sa providence,",
+        "Avec reconnaissance",
+        "Je veux tout accepter.",
+        "Ce qu'il lui plaît de faire",
+        "M'est toujours salutaire.",
+        "Cesse, ô mon cœur ! de t'agiter."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "J'attends tout de sa grâce,",
+        "Qui jamais ne se lasse,",
+        "Et je regarde à lui;",
+        "Quand le péril me presse,",
+        "Il connaît ma détresse,",
+        "Et son amour est mon appui."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oui, mon âme est tranquille;",
+        "Je trouve un sûr asile,",
+        "Ô Seigneur ! dans ton sein,",
+        "Et pour moi cette vie",
+        "Alors sera suivie",
+        "D'un bonheur sans borne et sans fin."
+      ],
+      "number": 4
+    }
+  ]
+}

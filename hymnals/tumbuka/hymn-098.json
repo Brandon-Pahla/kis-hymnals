@@ -1,0 +1,68 @@
+{
+  "number": 98,
+  "language": "tum",
+  "title": " 98 Mponoski Mukhale Nane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 98 Mponoski Mukhale Nane",
+        "I MUST HAVE THE SAVIOUR WITH ME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mponoski mukhale nane,",
+        "ntha ndingenda pandekha,",
+        "Muwenge pafupi nane,",
+        "m'ndikore woko lane."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mtima we reka kopa (mwe kopa),",
+        "Tiwakurongozgenge (rongozga),",
+        "Uleke kusinginika,",
+        "para ukumrondezga."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Chigomezgo chane ichi,",
+        "nchakutepeta nadi,",
+        "Wakundikhwimiska ndiyo,",
+        "namazgu ghake pera."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mponoski mukhale nane,",
+        "ndende m'nthowa ya moyo,",
+        "Mndovwire pa nkhondo iyi,",
+        "yakuyezgeka kwane."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Mponoski mukhale nane,",
+        "mundirongozgenge swi",
+        "Ndisuke ndikafikeko,",
+        "kusirya la muronga."
+      ],
+      "number": 5
+    }
+  ]
+}

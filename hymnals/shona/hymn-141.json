@@ -1,0 +1,47 @@
+{
+  "number": 141,
+  "language": "sn",
+  "title": "141 Ndiri Wenyu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinoda kuwawenyu",
+        "Tenzi ndidzidzisenyizve",
+        "Ndoita rudo rwenyu",
+        "Tenzi Ndibatsirenyi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiriwe…nyu Tenzi,",
+        "Ngeidi ndiri wenyu",
+        "Ndinotsi…dza Tenzi,",
+        "Tenzi ndiri wenyu’di"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chinyi rufaro neupfumi",
+        "Imwi musipozve",
+        "Ndinosiya zvese zvepasi",
+        "Ndiwane zvenyu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndosiya rufaro rwenyika",
+        "Uyanyi kuneni",
+        "Ndinozoperera kunemwi",
+        "Mundinyaradze"
+      ],
+      "number": 4
+    }
+  ]
+}

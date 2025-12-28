@@ -1,0 +1,39 @@
+{
+  "number": 47,
+  "language": "sw",
+  "title": "47 - Ni Heri Kifungo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Ni heri kifungo kinachotufunga,",
+        "Mioyo yetu kwa pendo pendo la Kikristo."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Mbele ya Baba tunatoa sala,",
+        "Hofu nia masumbufu yetu ni mamoja."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Tunavishiriki matata na shida,",
+        "Na mara nyingi twatoa chozi la fanaka."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Tunapoachana moyoni twalia,",
+        "Lakini tutakutana mwisho mbinguni."
+      ]
+    }
+  ]
+}

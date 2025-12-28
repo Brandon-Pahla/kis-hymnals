@@ -1,0 +1,55 @@
+{
+  "number": 240,
+  "language": "sn",
+  "title": "240 Ona Tenzi Pamusiwo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ona Tenzi pamusiwo!, Anogugudza zvinyoro",
+        "Yavenguva akamira, Usa shore Tenzi wako"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Atitenga kwari zvese, Ndatama nenguvo chena",
+        "Zora maziso uone, Bvisa zvese zvakaipa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inzwa inzwi’ro rembowo, Anokupa kusarudza",
+        "Iwe unodziya chete, Chigadzira nzira dzako"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Basa rake ra’kupera, Tsitsi dzake dza’kupera",
+        "Akaipa nga’pezve, Anoera ayerezve"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muviri wake \\‘nedova, Anokumirira iwe",
+        "Muka, zarura musiwo, Da’dza mudiwa apinde"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chimupinza mweni wako, Ugozorora maari",
+        "Ukumbanirane Naye, Ugozodya pamwe naye"
+      ],
+      "number": 6
+    }
+  ]
+}

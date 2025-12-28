@@ -1,0 +1,49 @@
+{
+  "number": 291,
+  "language": "pt",
+  "title": "Muitos Há Que me Contemplam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Muitos Há Que me Contemplam"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó meu Senhor, eu quero ser mui puro,",
+        "Eu quero ser também, meu Deus, veraz,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Pois muitos há, Senhor, que me contemplam",
+        "Sim, meu Senhor, que olham para mim.",
+        "Sim, meu Senhor, que olham para mim!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu quero ser mui forte e destemido,",
+        "Sim, quero ser humilde, manso e bom,"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó meu Senhor, eu quero cada dia,",
+        "À Tua lei com fé obedecer,"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "number": 138,
+  "language": "st",
+  "title": "138 Boitelo Bo Tletsen.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nka bophelo ba ka, U ntokisetse ba Hau;",
+        "U nke ’tsoho la ka Le etse thato ea Hau."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ntlhatsoe maling a Konyana (a Konyana)",
+        "Ntlhatsoe maling a Konyana (a Konyana)",
+        "Ntlhatsoe mohloling (mohloling)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkuke Morena E be ka ho sa eng kae.",
+        "Nka maoto a ka, A mathele ho Uena"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nka ’ntsoe la ka kamehla, Ke tle ke U binele.",
+        "Nka molomo oa ka, O tlale mantsoe a Hao;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U nke hohle ha ka ’Me ho se sale letho.",
+        "Nka nako tsa ka tsohle, Li U rorise joalo;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nka kelello ea ka U e sebelise eohe.",
+        "Inkele thato ea ka, E be ee U e ratang;"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inkele pelo ea ka E be ee U e ratang;",
+        "Inkele pelo ea ka E be eona tolo ea Hao."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nka rato la ka Jesu, Le beoa matong a Hao;",
+        "U nkuke hohle ha ka, Ke be oa Hao kamehla."
+      ],
+      "number": 7
+    }
+  ]
+}

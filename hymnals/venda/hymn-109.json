@@ -1,0 +1,46 @@
+{
+  "number": 109,
+  "language": "ve",
+  "title": "109. Wo Kalwa Wa Leluwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Murena o hatula zwo livhanaho na rine,",
+        "Ri do vha musuku naa, kana ri do vha manyelo?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ri do elwa nga Murena, ni khou leluwa;",
+        "Ri do elwa nga Mulayo, ha vhonwa ndeme."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ri do pfa mavhuya na? ’Mulanda wavhudi-vhudi!’",
+        "Kana u vho do latwa; Nge wa vha a leluwaho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Muya u a ri vhidza, tshilidzi tshi tshe hone-vho;",
+        "Khamusi hu do valwa, ho nwalwa ’Na latwa tshothe.’"
+      ],
+      "number": 4
+    }
+  ]
+}

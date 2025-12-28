@@ -1,0 +1,53 @@
+{
+  "number": 84,
+  "language": "ny",
+  "title": "84 - M’manja Mwake",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "UNDER HIS WINGS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. M’manja mwakemo ndapulumutsidwa,",
+        "Ngakhale mavuto achuluka,",
+        "Ndikhulupirira ndikudalira,",
+        "Adzandisunga Wondiombola."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "M’manja mwake, m’manja mwake,",
+        "Adzandichotsamo ndani,",
+        "M’manja mwake ndidzakhalitsa,",
+        "Inde ku nthawi zosatha."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. M’manja mwake chimwemwecho ndapeza,",
+        "Ndibisale ku mayeso onse,",
+        "Mofunda ndithu ndidzakhalitsamo,",
+        "M’manja a Yesu n’dzakhalitsane"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. M’manja mwake ndi populumukira,",
+        "M’mene uvutika mtima wanga,",
+        "M’mene abwenzi sangandithangate,",
+        "Ndidzapumulatu m’manja mwake."
+      ],
+      "number": 4
+    }
+  ]
+}

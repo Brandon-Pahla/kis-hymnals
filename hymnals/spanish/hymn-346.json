@@ -1,0 +1,57 @@
+{
+  "number": 346,
+  "language": "es",
+  "title": "¡Feliz el día!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Feliz el día!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Feliz el día en que escogí",
+        "servirte, mi Señor y Dios!",
+        "Preciso es que mi gozo en ti",
+        "lo muestre hoy con obra y voz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Soy feliz! ¡Soy feliz!",
+        "Y en su favor me gozaré.",
+        "En libertad y luz me vi",
+        "cuando triunfó en mí la fe,",
+        "y el raudal carmesí,",
+        "salud de mi alma enferma fue."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Del mundo oscuro ya salí:",
+        "de Cristo soy y mío es él;",
+        "su senda con placer seguí,",
+        "resuelto a serle siempre fiel."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Reposa, débil corazón,",
+        "a tus contiendas pon ya fin;",
+        "tendrás más noble posesión",
+        "y parte en superior festín."
+      ],
+      "number": 5
+    }
+  ]
+}

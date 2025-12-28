@@ -1,0 +1,22 @@
+{
+  "number": 134,
+  "language": "ts",
+  "title": "134. TINDLELENI TO TSAKISA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "IN JOYFUL HIGH AND HOLY WAYS",
+        "1. Tindleleni To Tsakisa, Moya Wanga Wu Ta Khensa;",
+        "I Mani Loyi A Yimbelelaka, Rirhandzu Ra Yesu.",
+        "CHORUS",
+        "Rirhandzu Ro Hlamarisa, Ro Rirhandzu Ra Yesu; Rirhandzu Ro Hlamarisa, Ro Rirhandzu Ra Yesu.",
+        "2. Ra Tsakisa Nanhlikani, I Ku Rhula Navusiku;",
+        "Ra Tshungula Hambi Wona Mavabyi, Rirhandzu Ra Yesu.",
+        "3. I Tshemba Ra Ndzivalelo, Ra Ndzi Pfuxa Loko Ndzi Wa;",
+        "Evuton’wini Na Kona Ku Feni, Rirhandzu Ra Yesu."
+      ],
+      "number": 1
+    }
+  ]
+}

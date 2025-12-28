@@ -1,0 +1,47 @@
+{
+  "number": 10,
+  "language": "nd",
+  "title": "10 Buthanani Emfuleni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sobuthana emfulweni, Kanye nezingilosi",
+        "Amanz’ ephum’ es’Hlalweni; KuJehova, iNkosi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yebo! sobuthana khona, Emfulweni omuhle khona le",
+        "Nabangcwele sohlangana; Emfulwen’ ocwebile"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khona ogwini lomfula, Sohamba si khuleka",
+        "Si dumisa ngokuthula, Imihla yethu yonke"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Emfuleni wokukhanya, Si zolahla umthwalo",
+        "Ngomusa si zokhululwa, Samkele imiqhele"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Emfuleni ocwebile, Alusekho usizi;",
+        "Inhliziyo zi thabile, Ngehubo elimnandi"
+      ],
+      "number": 5
+    }
+  ]
+}

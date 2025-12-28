@@ -1,0 +1,31 @@
+{
+  "number": 88,
+  "language": "sw",
+  "title": "88 - Siku Hii ya Sabato",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Siku hii ya Sabato, tamu kufikiri,",
+        "Juu ya Mungu na mbingu, kuacha dunia."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Tamu kusikia neno, toka mhubiri",
+        "Anayefundisha toba, tupate uzima."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Katika vita na dhambi, ikiwa twashindwa,",
+        "Yeye atatupa nguvu, aonaye moyo."
+      ]
+    }
+  ]
+}

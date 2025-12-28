@@ -1,0 +1,44 @@
+{
+  "number": 499,
+  "language": "es",
+  "title": "Jesús anduvo por aquí",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Jesús anduvo por aquí"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesús anduvo por aquí",
+        "haciendo siempre el bien.",
+        "Su amor demuestra hoy en ti",
+        "sirviéndole también."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A todos siempre ayudó,",
+        "amó al pecador.",
+        "Ayuda a aquel por quien murió",
+        "Jesús, tu Salvador."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesús pagó, de la maldad,",
+        "rescate eficaz.",
+        "Si siembras hechos de bondad",
+        "cosecharás la paz."
+      ],
+      "number": 4
+    }
+  ]
+}

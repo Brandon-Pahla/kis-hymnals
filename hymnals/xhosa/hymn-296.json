@@ -1,0 +1,38 @@
+{
+  "number": 296,
+  "language": "xh",
+  "title": "296 Msindisi Ndikhokhele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Msindisi Ndikhokhele, Ndingaduk’ endleleni,",
+        "Ndosinda xa ndinaWe, Ndiva uthando lwaKho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndikho . . . kele, Msindisi ndikhokhele (khokele),",
+        "Kuyo yonke lendlela (ndlela), Msindisi ndikhokhele."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wena uliliwa lam, Kuyo yonk’ imimoya,",
+        "Ndosinda ukufuphi, Wena uliThemba lam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Msindisi ndikhokhele, kude kuphel’ ubomi;",
+        "Ndifike kwelo lizwe, Ndisulwe inyembezi."
+      ],
+      "number": 3
+    }
+  ]
+}

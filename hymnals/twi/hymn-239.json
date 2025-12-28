@@ -1,0 +1,45 @@
+{
+  "number": 239,
+  "language": "tw",
+  "title": "Yesu a Wosom Bo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu a Wosom bo, 'Nigye pa farebae;",
+        "Yɔnko nokwafo Sɛnea matwɛn mabrɛ!",
+        "Me koma ahwehwɛ Wo akyɛ, 'W'rade;",
+        "MewɔW', 'Guammaá a Onni dɛm,",
+        "Merentumi mfa Wo nsie da,",
+        "Menhwehwɛ hwee sɛ Wo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mehome W'aba mu 'Tamfo a wɔhaw me",
+        "Ntumi mmɛn me ha; Sɛ asase woso,",
+        "Na koma tu mpo a, Yesu yi me sųro;",
+        "Sɛ bɔn' ne asaman ba,",
+        "Bɛto hyɛ me so dennen a",
+        "Yesu renni huammɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Migya sųro ne 'w'rɛhow",
+        "Ny'naa ma 'nigye W'ra no;",
+        "Yesu fa ne ny'naa.",
+        "Wɔn a wɔdɔ Agya no,",
+        "Sɛ ahum tu mpo a, Wɔwɔ asomdwoe;",
+        "Nea 'sɛ sɛ mesoa biara,",
+        "Minya 'nigye pa wɔ Wo mu,",
+        "Yesu a Wosom bo!"
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 262,
+  "language": "xh",
+  "title": "262 Ndimthini na U-Yesu?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndothini na ngoYesu Omiyo phambi kwam;",
+        "Wambeth’ ingub’ ebomvu Nameva entloko?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Umbuzo nguwo lo, Ithin’ impendulo?",
+        "Kuxhonywe bani, U-Yesu Kusind’ uBarabba?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndimkhulule n’ umphangi Ozele bububi?",
+        "Umoni, uMsindisi, Kungafa wuphi na?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lo ngumbuz’ obuhlungu Owoyikekayo;",
+        "Inceba isekhona Nyula ngobulumko."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndilincame n’ ilizwe Endilithandayo?",
+        "\"Makahambe uYesu, Makabethelelwe.\""
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngumbuzo wethu sonke, Awukhethe bani.",
+        "Ngexesha lokulingwa Nyula ngobulumko.",
+        "KORAS:",
+        "Umbuzo nguwo lo, Ithin’ impendulo?",
+        "Ndobethelel’ uBarabba, ndikhulul’ uYesu."
+      ],
+      "number": 5
+    }
+  ]
+}

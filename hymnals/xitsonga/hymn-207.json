@@ -1,0 +1,20 @@
+{
+  "number": 207,
+  "language": "ts",
+  "title": "207. NDZI VONE UN’WANA MHANDZENI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SEALS MY PARDON",
+        "1.Ndzi Vone Un’wana Mhandzeni, Na Ngati Mirini;",
+        "Mahlo Yakwe Ya Vunile Ka Yena Ndzi Yile.",
+        "2. U Ndzi Langutisisile, Ndzi Nge N’wi Rivali; Miehleketo Yin’wana,",
+        "Yi Ndzi Fikerile.",
+        "3. U Ti Nyiketile Ku Fa, Ndzi Hlantswe Hi Ngati;",
+        "A Vulavula Na Mina; Ndza Ku Rivalela."
+      ],
+      "number": 1
+    }
+  ]
+}

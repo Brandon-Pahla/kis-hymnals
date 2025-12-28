@@ -1,0 +1,55 @@
+{
+  "number": 211,
+  "language": "es",
+  "title": "Fija tus Ojos en Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Fija tus Ojos en Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Te sientes cansado y turbado,",
+        "sin luz en la oscuridad.",
+        "Contempla por fe al Maestro,",
+        "tendrás vida y libertad."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Fija tus ojos en Cristo",
+        "tan lleno de gracia y amor,",
+        "y lo terrenal sin valor será",
+        "a la luz del glorioso Señor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De muerte a vida eterna",
+        "pasé al seguir a Jesús.",
+        "Me libra de todo pecado",
+        "mediante su muerte en la cruz."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jamás fallará su promesa;",
+        "con fe hazle tu petición.",
+        "Al mundo perdido anuncia",
+        "las nuevas de la salvación."
+      ],
+      "number": 5
+    }
+  ]
+}

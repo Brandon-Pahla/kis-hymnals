@@ -1,0 +1,44 @@
+{
+  "number": 89,
+  "language": "ny",
+  "title": "89 - Zokoma Ndithu Nthawizi ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SWEET HOUR OF PRAYER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Zokoma ndithu nthawizi, Zakupemphera kwanuko,",
+        "Ku mpando wa chifumuwo, Ndiuza zanga zonsezo;",
+        "Pakundivuta m’mtimanga, Ndimamuuza Yesuyo,",
+        "Pakundiyesa mdaniyo, Ndinena kwa Ambuyeyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Zokoma ndithu nthawizi, Zopempha kwa Mulunguyo,",
+        "Kwa Yemwe ali wo’natu, Kwa Iye wodalitsa ’fe.",
+        "Ndilakalaka Iyeyu, Amene ’nandiferatu,",
+        "Posautsika m’dzikoli, Ndipempha m’dzina la Yesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Zokoma etu nthawizi, Za kupemphera Mbuyeyo;",
+        "Zimandisangalatsa ’ne, M’mavuto anga onsewo.",
+        "Ndilakalaka mphotho ya Kumwamwamba komweko.",
+        "Ndigwira mosalekatu Pakupemphera kwanuko."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 397,
+  "language": "pt",
+  "title": "Comigo Habita",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Comigo Habita"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Comigo habita, ó Deus, a noite vem!",
+        "As trevas descem, eis, Senhor, convém",
+        "Que me socorra a Tua proteção!",
+        "Oh, vem fazer comigo habitação!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem revelar-Te a mim, Jesus, Senhor,",
+        "Divino Mestre, Rei, Consolador!",
+        "Meu Guia forte, amparo em tentação!",
+        "Oh, vem fazer comigo habitação!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Breve, Senhor, terei meu fim mortal;",
+        "É tão fugaz a vida terreal!",
+        "Tem tudo aqui mudança e corrupção!",
+        "Oh, vem fazer comigo habitação!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se eu estiver nas trevas ou na luz,",
+        "Não há perigo, andando com Jesus;",
+        "A morte e a tumba não aterrarão!",
+        "Oh, vem fazer comigo habitação!"
+      ],
+      "number": 5
+    }
+  ]
+}

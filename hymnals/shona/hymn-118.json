@@ -1,0 +1,47 @@
+{
+  "number": 118,
+  "language": "sn",
+  "title": "118 Jesu Akaripa Zwese",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Muponesi ati, \"Hauna masimba,\"",
+        "Rinda unamate, Ndinokupa zvese."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu M’nunuri, zvese ngezwake,",
+        "Zvitema zvakatsvuka \"zwachena Sechero\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi ndazoona Munesimba rese,",
+        "Munobvisa hosha ne mwoyo we dombo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Handina kunaka kungadiwa tsitsi,",
+        "Nguwo ya-ngu ndogeza muropa renyenye."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pachigaro chenyu ndichamiranemi,",
+        "Ndicha isa zwese pamakumbo Ake."
+      ],
+      "number": 5
+    }
+  ]
+}

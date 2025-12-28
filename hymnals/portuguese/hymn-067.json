@@ -1,0 +1,56 @@
+{
+  "number": 67,
+  "language": "pt",
+  "title": "Desceu Lá do Céu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Desceu Lá do Céu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Desceu, lá do Céu, o bom Filho de Deus,",
+        "pra ser teu e meu salvador.",
+        "Desprezou o penar para nos resgatar;",
+        "Oh, sim, Ele é meu salvador!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Jesus a este mundo desceu,",
+        "Para ser Salvador de um qual eu.",
+        "E o fardo cairá de quem turbado está,",
+        "Recorrendo a Jesus que morreu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Não tinha um lugar para ali repousar;",
+        "Oh! como sofreu meu Senhor!",
+        "Lá no monte a orar, foi sozinho ficar;",
+        "Oh, sim, Ele é meu salvador!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sofrendo traição, a sentença Lhe dão;",
+        "É morto qual vil salteador;",
+        "Mas em vendo eu a cruz, digo a Jesus:",
+        "\"Oh, sim, Tu és meu Salvador!\""
+      ],
+      "number": 5
+    }
+  ]
+}

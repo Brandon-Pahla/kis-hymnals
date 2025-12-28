@@ -1,0 +1,39 @@
+{
+  "number": 87,
+  "language": "sw",
+  "title": "87 - Siku ya Sabato",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Siku ya Sabato, siku takatifu,",
+        "Watu wako Mungu wetu, waipenda sana."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Uliitakasa, uliibariki,",
+        "Siku hiyo ya Sabato, siku yako Bwana."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Nasi tubariki, tukikuabudu,",
+        "Katika siku ya raha, siku yako Bwana."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Halafu mbinguni, pamoja na Wewe,",
+        "Tunataka kuzishika, Sabato za Bwana."
+      ]
+    }
+  ]
+}

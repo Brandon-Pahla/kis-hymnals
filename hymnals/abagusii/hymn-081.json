@@ -1,0 +1,28 @@
+{
+  "number": 81,
+  "language": "guz",
+  "title": "81 Kor' Emeremo Mboire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kor' emeremo mboire, oyekore mambia;Kora korime rire, As' ebisichaYekore kobogokia, Risase korireKora bwango naboire, Ker' otakore."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kor' emeremo mboire, Yekore mobasoKera ensa yekore, Bwang' otimoke'Kero gi'ensakia nyora, Egent' okogachaKor' emeremo mboire, Ker' otakore."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kor' emeremo mboire, kora kobokoira;Kamasas' akomesa, 'Tuko riaetaMasase akorima, Atabare rindeKer' omosunt' ogocha, Ker' otakore."
+      ],
+      "number": 3
+    }
+  ]
+}

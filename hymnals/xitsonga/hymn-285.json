@@ -1,0 +1,22 @@
+{
+  "number": 285,
+  "language": "ts",
+  "title": "285. KU NA NDHAWU YA KU WISA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE IS A PLACE OF QUIET REST",
+        "1. Ku Na Ndhawu Ya Ku Wisa, Mbilwini Ya Hosi;",
+        "Ndhawu Yo Kala Vudyoho, Mbilwini Ya Hosi.",
+        "CHORUS",
+        "Ka Yesu Mukutsuri, La Pfaka Tilweni; Hi Hlayise Ka Wena Mbilwini Ya Hosi.",
+        "2. Ku Na Ndhawu Yo Tiphina, Mbilwini Ya Hosi;",
+        "Hi Hlangana Na Muferi, Mbilwini Ya Hosi.",
+        "3. I Ndhawu Ya Ku Ntshuxiwa, Mbilwini Ya Hosi,",
+        "Hi Na Ntsako Na Ku Rhula, Mbilwini Ya Hosi."
+      ],
+      "number": 1
+    }
+  ]
+}

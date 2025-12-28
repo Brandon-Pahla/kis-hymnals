@@ -1,0 +1,57 @@
+{
+  "number": 473,
+  "language": "tw",
+  "title": "Wo Nkyɛn Ara Nyame, Wo Knyɛn Ara",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wo nkyɛn ara Nyame, Wo nkyɛn ara;",
+        "Sɛ asɛnnua mpo na Ͻma me sō a",
+        "Me dwom ara ne sɛ Wo nkyɛn ara, Nyame",
+        "Wo nkyɛn ara, Nyame Wo nkyɛn ara."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ mikyinkyin to kwan Ma 'wia kɔtɔ,",
+        "Sum duru me so na, Me nnae yɛ bō a,",
+        "M'adaeso mu mɛbɛn Wo nkyɛn ara, Nyame",
+        "Wo nkyɛn ara, Nyame Wo nkyɛn ara."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ky'rɛ me kwam, 'namɔn a Wɔde kɔ s'ro;",
+        "Nea Wode ma me ny'naa Fi ɔdom mu,",
+        "Abɔfo frɛ me ba Wo nkyɛn ara Nyame",
+        "Wo nkyɛn ara, Nyame Wo nkyɛn ara."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me nyan' fi me nna mu á Meyė W'ayɛ,",
+        "Mifi m'aw'rɛhow my Ma Betel so;",
+        "Mede 'nigy'na ka sɛ; Wo nkyɛn ara Nyame",
+        "Wo nkyɛn ara, Nyame Wo nkyɛn ara."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mede nigye ntaban Tu kɔ wim a,",
+        "Megyaw 'wia, 'sram, ns'romma Makɔ soro,",
+        "Mɛto dwom daā aka sɛ Wo nkyɛn ara Nyame",
+        "Wo nkyɛn ara Nyame Wo nkyɛn ara."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 75,
+  "language": "sw",
+  "title": "75 - Msingi Imara",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Msingi imara ninyi wa Bwana,",
+        "Umewekwa kwenu kwa neno lake,",
+        "Nini zaidi atasema Bwana,",
+        "Imani yenu ipate kuzidi?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Wambiwapo vuka maji ya giza,",
+        "Mito ya mashaka haitazidi,",
+        "Takuwapo nawe nikuwezeshe,",
+        "Shida upatazo zisikutishe,"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Utakapopishwa ndani ya moto,",
+        "Nguvu nitakupa, upate pato,",
+        "Huteketezwi ila taka zako,",
+        "Na zitasalia dhahabu zako."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Na mtu aliyenitegemea,",
+        "Nguvu za Jehanamu zijapotisha,",
+        "Kamwe kwa adui sitamtia,",
+        "Mtu wangu kamwe sitamuacha."
+      ]
+    }
+  ]
+}

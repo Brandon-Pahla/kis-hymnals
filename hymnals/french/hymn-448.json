@@ -1,0 +1,51 @@
+{
+  "number": 448,
+  "language": "fr",
+  "title": "Divin Père éternel",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Divin Père éternel, je viens.",
+        "Que mon esprit, mon cœur soient tiens.",
+        "Ma vie entière t'appartient :",
+        "Prends tout, je ne garde plus rien.",
+        "Amen, amen, amen."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De mon âme sois le gardien;",
+        "Console-moi, sois mon soutien,",
+        "Mon protecteur, mon plus grand bien.",
+        "C'est là le sort qui me convient.",
+        "Amen, amen, amen."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tout est à moi : je suis chrétien,",
+        "Bien à l'abri, car je suis tien.",
+        "Je suis heureux, quand il revient,",
+        "Le temps de nos doux entretiens.",
+        "Amen, amen, amen."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Depuis les jours les plus anciens,",
+        "Dans ton amour, tu me maintiens.",
+        "Tous mes désirs, tu les préviens.",
+        "Oui, tu es mon souverain bien.",
+        "Amen, amen, amen."
+      ],
+      "number": 4
+    }
+  ]
+}

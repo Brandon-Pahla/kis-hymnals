@@ -1,0 +1,35 @@
+{
+  "number": 555,
+  "language": "en-sdah",
+  "title": "555 Shepherd of Tender Youth",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Shepherd of tender youth, Guiding in love and truth, Through devious ways; Christ our triumphant King, We come Thy name to sing, Hither our children bring To shout Thy praise."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Thou art our holy Lord, The all subduing Word, Healer of strife; Thou didst Thyself abase, That from sin's deep disgrace Thou mightest save our race, And give us life."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Thou art the great High Priest; Thou hast prepared the feast Of heavenly love; While in our mortal pain None calls on Thee in vain; Help Thou dost not disdain Help from above."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ever be Thou our Guide, Our Shepherd and our pride, Our staff and song; Jesus, Thou Christ of God, By Thy perennial word, Lead us where Thou has trod Make our faith strong."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "number": 169,
+  "language": "tw",
+  "title": "Mommra, 'Gyidifo, Monto",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mommra, 'gyidifo, monto",
+        "Nkonim anigye dwom.",
+        "Nyame de Ne mma afi",
+        "W'rɛhowm' aba dɛw mu;",
+        "Monni dɛw, Yerusalem,",
+        "Momfa nokware dɔ",
+        "Nto dwom a egyigye fa",
+        "Yesu wusɔre ho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akra 'h'rusi da ne nnɛ,",
+        "Kristo apue afi",
+        "Owu sum afiase mu.",
+        "Hann ne nɔkwa apue,",
+        "Yɛn bɔne horow nyinaa",
+        "Mu tumi retu y'ra",
+        "Ne hann anim, Nea ɔsɛ",
+        "Nnaase ne nkamfo daa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Haleluya!' yɛteam ky'rɛ",
+        "Yɛn Hen' a Onwu da.",
+        "Nea nkonim mu Obubuu",
+        "Asaman apon' no:",
+        "'Haleluya!' yɛkamfo",
+        "Agya ne ɔba no;",
+        "'Haleluya!' yɛto bio",
+        "Ma Honhom Kronkron no."
+      ],
+      "number": 3
+    }
+  ]
+}

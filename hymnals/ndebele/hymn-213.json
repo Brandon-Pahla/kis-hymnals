@@ -1,0 +1,47 @@
+{
+  "number": 213,
+  "language": "nd",
+  "title": "213 Ingoma Yami",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu Msindisi wami U yingoma yami",
+        "U nguMsindisu wami Osizini lwami"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu Msindisi wami, ngohlabela ngawe",
+        "Asikho isihlolo, Esifana nawe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nguwe ithemba lami Yonk’ imnyaka yami",
+        "Nakuwo amathunzi U yingoma yam’"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu ‘liThemba lami Ungu Mholi wami",
+        "Uyisithandwa sami Lapha emhlabeni"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U nge yam’ injabulo Ezweni lesono",
+        "Ngothaba ngawe njalo Ezulwini lakho"
+      ],
+      "number": 5
+    }
+  ]
+}

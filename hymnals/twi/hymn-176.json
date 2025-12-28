@@ -1,0 +1,47 @@
+{
+  "number": 176,
+  "language": "tw",
+  "title": "Munhy'ra Dā a Wasɔre No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Munhy'ra dá a Wasɔre no, Haleluya!",
+        "ɔde 'nuonyam kɔ soro, Haleluya!",
+        "Kristō a ɔyɛɛ nipa no, Haleluya!",
+        "Wahyɛne ɔs'ro mu s'ro, Haleluya!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nuonyam 'sebɔ retwɛn hɔ, Haleluya!",
+        "Tete apon mommuebue, Haleluya!",
+        "Monna hann pa no adi, Haleluya!",
+        "Momma 'nuonyam Hen' nhyɛn' mu, Haleluya!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hwɛ ɔma Ne nsa so s'ro, Haleluya!",
+        "ɔde N'apiratwa ky'rɛ, Haleluya!",
+        "Tie, ɔde dom bue N'ano, Haleluya!",
+        "De nhy'ra ma N'asafo ha, Haleluya!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, nea nhu hɔ no, Haleluya!",
+        "Ma yɛn koma nn'ru Wo nkyɛn Haleluya!",
+        "'Hɔ na yebehu W'anim, Haleluya!",
+        "Na yɛahu yɛn s'ro Wo mu, Haleluya!"
+      ],
+      "number": 4
+    }
+  ]
+}

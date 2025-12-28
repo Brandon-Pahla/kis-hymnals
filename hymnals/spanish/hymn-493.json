@@ -1,0 +1,45 @@
+{
+  "number": 493,
+  "language": "es",
+  "title": "Hoy quiero trabajar contigo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Hoy quiero trabajar contigo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hoy quiero trabajar contigo, Dios,",
+        "aunque indigno soy, y pecador.",
+        "Me rindo entero a ti, te doy mi",
+        "corazón,",
+        "para poder vivir contigo, Dios."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Al ir a trabajar contigo, Dios,",
+        "dame tu gracia hoy para amar;",
+        "al pobre, ayudar; a enfermos, consolar,",
+        "y almas alcanzar contigo, Dios."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Queremos trabajar contigo, Dios,",
+        "hasta poder llegar a tu hogar,",
+        "donde la humanidad gozosa cantará",
+        "y siempre morará contigo, Dios."
+      ],
+      "number": 4
+    }
+  ]
+}

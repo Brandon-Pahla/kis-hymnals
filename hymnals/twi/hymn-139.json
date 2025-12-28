@@ -1,0 +1,67 @@
+{
+  "number": 139,
+  "language": "tw",
+  "title": "A Nadwo Bi a Nguanhwɛfo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Anadwo bi a nguanhwɛfo",
+        "Te hɔ rewɛn wɔn nguan;",
+        "Aw'rade bɔfo fi s'ro bae,",
+        "Na hann hy'rɛn hɔ nyinaa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ehua kɛse kaa wɔn enti",
+        "ɔsee wɔn sɛ: 'Munnsųro!",
+        "Mede 'nigye kɛse nsɛmpa",
+        "Brɛ mo ne amansan'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Wɔawo Dawid aseni nnɛ",
+        "Ama mo Dawid k'rom,",
+        "'Gyenkwa a ɔne Kristo no,",
+        "Ͻho nsɛnky'rɛnne ni:"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Mubehu s'ro Akokoaa no",
+        "Sɛ Wabɛfra nnipam';",
+        "Wɔde ntama akyeky're No",
+        "Da mmoa 'didide mu'."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Bɔfo no asɛm ni; mpof'rim",
+        "S'ro asafo pii bae,",
+        "Beyii s'ro Nyankopɔn ayɛ",
+        "Na wɔtoo dwom kae sɛ:"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Anuonyam nka Nyame wɔ s'ro,",
+        "'Somdwoe wɔ 'sase so;",
+        "Anisɔ fi s'ro ba nnipam'",
+        "Fi nnɛ kosi daa daa'."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 317,
+  "language": "tw",
+  "title": "Di M'anim Kɔ Kalbre",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me nkwa so Hen' mehyɛW' henkyɛw,",
+        "Wo na 'nuonyam wɔ Wo;",
+        "Mma me w'rɛ mmfi Wo nsɔekyɛw no,",
+        "Di m'anim kɔ Kalbre."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mma me w'rɛ mmfi Getsemane,",
+        "Mma me w'rɛ mmfi W'amanehun',",
+        "Mma me w'rɛ mmfi sɛ Wodɔ me,",
+        "Di m'anim kɔ Kalbre."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ky'rɛm' bodan a wosieeWo mu,",
+        "Nea wodii yaw sui no;",
+        "Abɔfo a wofųrafųra hann",
+        "Wɛn Wo wɔ Wo nnae mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma menyɛ sɛ Maria, memfa",
+        "Akyɛde bi mmrɛ Wo;",
+        "Ky'rɛm' bodan a ɛda mpan no,",
+        "Di m'anim kɔ Kalbre."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma memfa ɔpɛ, Aw'rade,",
+        "Nsoa m'asɛnnua mma Wo;",
+        "W'aw'rɛhowdi k'ruwa no mpo,",
+        "Wasoa ne ny'naa 'ma me."
+      ],
+      "number": 4
+    }
+  ]
+}

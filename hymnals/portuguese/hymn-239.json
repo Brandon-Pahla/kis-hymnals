@@ -1,0 +1,54 @@
+{
+  "number": 239,
+  "language": "pt",
+  "title": "Exulta, Meu Coração",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Exulta, Meu Coração"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Exulta, meu coração,",
+        "No dom que do Céu desceu,",
+        "Pois Deus nos deu a salvação",
+        "Por Cristo que morreu!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Cantai! Cantai!",
+        "A Cristo louvores dai!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Do coro angelical,",
+        "Por terra e pelo Céu,",
+        "Soou um hino divinal,",
+        "De Cristo que venceu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Exulta, meu coração!",
+        "Vencido está o mal.",
+        "Eis, rompe o dia da salvação,",
+        "E a paz é eternal."
+      ],
+      "number": 5
+    }
+  ]
+}

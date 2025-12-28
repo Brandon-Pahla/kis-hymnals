@@ -1,0 +1,55 @@
+{
+  "number": 263,
+  "language": "es",
+  "title": "Entra en este corazón",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Entra en este corazón"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Entra en este corazón,",
+        "haz en mí tu habitación,",
+        "sea yo tu posesión,",
+        "mora en mí, oh Cristo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Mora en mí, oh Cristo,",
+        "mora en mí, oh Cristo.",
+        "Entra en este corazón,",
+        "mora en mí, oh Cristo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pon tu Espíritu en mí,",
+        "hazme muy leal a ti.",
+        "Quiero serte fiel aquí,",
+        "mora en mí, oh Cristo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hoy me entrego a ti, Señor,",
+        "para ser tu ayudador.",
+        "Quiero proclamar tu amor,",
+        "mora en mí, oh Cristo."
+      ],
+      "number": 5
+    }
+  ]
+}

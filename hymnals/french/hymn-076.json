@@ -1,0 +1,37 @@
+{
+  "number": 76,
+  "language": "fr",
+  "title": "On a planté sa croix en terre",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "On a planté sa croix en terre,",
+        "On a sur lui roulé la pierre,",
+        "Mais le voici dans la lumière!",
+        "Alléluia! Il et vivant!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "C’est en lui seul que l’on espère",
+        "Car il entend notre prière,",
+        "Le monde est beau, la vie est claire!",
+        "Alléluia! Il et vivant!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chante son nom, toute la terre,",
+        "Criez de joie, toutes les pierres!",
+        "Car nous vivons dans la lumière.",
+        "Alléluia! Il et vivant!"
+      ],
+      "number": 3
+    }
+  ]
+}

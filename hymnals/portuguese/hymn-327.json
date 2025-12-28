@@ -1,0 +1,59 @@
+{
+  "number": 327,
+  "language": "pt",
+  "title": "Mensagem ao Mundo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Mensagem ao Mundo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vamos dar a mensagem ao mundo,",
+        "Proclamar a história da cruz;",
+        "História de amor e graça,",
+        "História de paz e luz,",
+        "História de paz e luz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Pois Jesus, nosso Rei, em breve",
+        "Voltará Rei dos reis, Senhor;",
+        "Virá Seu reino de luz fundar,",
+        "Um reino de paz e amor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uma voz de advertência ao mundo",
+        "Deve ser o nosso cantar;",
+        "Um hino de fé que fale",
+        "Das bênçãos do amor sem-par,",
+        "Das bênçãos do amor sem-par."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Um dever é levar Cristo ao mundo",
+        "Como alguém que pode salvar;",
+        "Que pode afastar pecados",
+        "E a glória de Deus mostrar,",
+        "E a glória de Deus mostrar."
+      ],
+      "number": 5
+    }
+  ]
+}

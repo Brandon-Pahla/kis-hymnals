@@ -1,0 +1,63 @@
+{
+  "number": 191,
+  "language": "tw",
+  "title": "S'ro Dɔ a Ͻsen Dɔ Nyinaa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "S'ro dɔ a ɛsen dɔ nyinaa,",
+        "S'ro 'nigye, sian bra fam ha;",
+        "Bra bɛtra yɛn mu sɛ Wo fi,",
+        "Na ky'rɛ W'adɔe wɔ yɛn so;",
+        "Yesu, Woyɛ mmɔb'rɔhun'fo,",
+        "Woyɛ dɔ kronkron ampa;",
+        "Fa Wo nkwagye no bra yɛn so,",
+        "Hyɛn' koma brɛfo biaram'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Home Wo dɔ Honhom no gu",
+        "Koma a abrɛ biaram';",
+        "Ma yɛn nyinaa nnya mfi Wo nkyɛn,",
+        "Wo bɔhyɛ home pa no;",
+        "Yi yɛn bɔne su nyinaa hɔ,",
+        "Wone Alfa, Omega;",
+        "Gyidi farebae ne wiefo,",
+        "Ma yɛn koma faw'hodi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tweaduampɔn, bra na bɛgye yɛn,",
+        "Na ma yɛn nsa nka Wo dom;",
+        "Sian bra bɛtra yɛn mu na mfi",
+        "W'asɔr'fie yi mu nkɔ da;",
+        "Yebehy'ra Wo din no daa daa,",
+        "Asom Wo sɛ s'ro dɔm no;",
+        "Abɔ mpae akamfo Wo daa,",
+        "Adi Wo dɔ mu 'h'rusi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wie W'abɔde foforo no,",
+        "Yɛ yɛn kronn a nkekae nnim',",
+        "Ma Wo nɔkwagye kɛse no",
+        "Nna adi yie wɔ yɛn mu,",
+        "Fi 'nuonyam mu kɔ 'nuonyam mu,",
+        "Kosi sɛ yebedu s'ro",
+        "De yɛn ahenkyɛw no agu",
+        "Wo nan asč akamfo Wo."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 55,
+  "language": "ve",
+  "title": "55 Wo Ya Naa Ha Yesu?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Wo ya naa ha Yesu wo tanzwiwa naa? Wo tamba nga malofha awe?",
+        "U a fulufhela tshilidzi tshawe, wo tamba nga malofha awe?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wo tamba... wo tamba... wo tamba... nga malofha awe?",
+        "Mbilu yau yo tshenela Yesu naa, wo tamba nga malofha awe?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. U a tshimbila na Mutshidzi Yesu, Wo tamba nga malofha awe?",
+        "U awela misi yothe ha Yesu, wo tamba nga malofha awe?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. U a funa u tshenela Yesu naa? Wo tamba nga malofha awe?",
+        "Nndu dza hone wo dzi lindela naa, Wo tamba nga malofha awe?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Latai-ha nguvho dzi re na tshikha, u a tamba nga malofha awe?",
+        "Tshi hone tshisima tsho u lindela, Ida malofhani a Ngwana."
+      ],
+      "number": 5
+    }
+  ]
+}

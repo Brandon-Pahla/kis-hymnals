@@ -1,0 +1,54 @@
+{
+  "number": 140,
+  "language": "pt",
+  "title": "Ó Vem! Emanuel!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ó Vem! Emanuel!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó, vem, ó, vem, Emanuel,",
+        "E salva o aflito Israel",
+        "Que chora o exílio em seu viver",
+        "Até Jesus aparecer."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Cantai! Cantai! Emanuel",
+        "Virá a vós, ó Israel!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sabedoria que é do além,",
+        "Ordena tudo aqui também!",
+        "O bom caminho, vem mostra;",
+        "E como nele sempre andar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó Desejado das nações,",
+        "Unidos faze os corações.",
+        "Do mundo vem tirar o mal",
+        "E dar-lhe a paz celestial."
+      ],
+      "number": 5
+    }
+  ]
+}

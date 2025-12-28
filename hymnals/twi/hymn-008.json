@@ -1,0 +1,49 @@
+{
+  "number": 8,
+  "language": "tw",
+  "title": "Yebom Hyia Bisa Awurade Hɔ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yebom hyia bisa",
+        "Awurede hɔ nhyira,",
+        "ɔtwe y'aso yɛ ntɛm",
+        "ma yehu Ne pɛ;",
+        "'Bɔnefo a ɔhyɛ yɛn",
+        "so no gyae yɛn haw.",
+        "Monkamfo Ne din no,",
+        "Ne w'rɛ mfi Ne de."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn Nyankopɔn wɔ yɛn",
+        "nkyɛn rekyerɛ yɛn kwan;",
+        "ɔde Ne soro",
+        "ahemman no tim hɔ;",
+        "'Nti yefi ase di nim",
+        "wɔ 'ko no mfiase;",
+        "Aw'rade wɔ y'afa;",
+        "'Nuonyam ny'naa wɔ No."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛma Wo din so,",
+        "kannifo nkonimdifo;",
+        "Yɛsrɛ sɛ kɔ so yɛ yɛn",
+        "Banbɔfo daa.",
+        "Ma W'asafo no nguan",
+        "mfi ahohia ny'naa mu,",
+        "Yɛkamfo Wo din, W'ra",
+        "Ma yɛn fawhodi."
+      ],
+      "number": 3
+    }
+  ]
+}

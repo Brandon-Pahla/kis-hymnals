@@ -1,0 +1,56 @@
+{
+  "number": 528,
+  "language": "tw",
+  "title": "Aw'rade Ne Yɛn Botantim",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Aw'rade ne yɛn Botantim,",
+        "Ahum bere my guankɔbea;",
+        "Bɔne biara renni wo so,",
+        "Ahum bere mu guankɔbea."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Botantim (Botantim) wɔ frɛ 'sase so,",
+        "Nwini dwoo wɔ anweahyew so;",
+        "'Kwantufo Kwankyerɛfo pa",
+        "Ahum bere mu guankɔbea."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Awia nwini, sum mu wɛnfo,",
+        "Ahum bere mu guankɔbea;",
+        "Ehu nni hɔ, 'tamfo nni hɔ,",
+        "Ahum bere mu guankɔbea."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ nsu y'ri twa yɛn ho hyia a,",
+        "ɔyɛ ahum mu guankɔbea,",
+        "Nyame ne yɛn 'nidaso pa,",
+        "Ahum bere mu guankɔbea."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Botan Kronkron, Guankɔbea pa,",
+        "Ahum bere mu guankɔbea;",
+        "O, yɛ yɛn boafo, bɛn yɛn daa,",
+        "Ahum bere mu guankɔbea."
+      ],
+      "number": 4
+    }
+  ]
+}

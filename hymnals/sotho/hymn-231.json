@@ -1,0 +1,62 @@
+{
+  "number": 231,
+  "language": "st",
+  "title": "231 Lumella Jesu A Kene Pelong",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ha u tennoe ke moroalo ’libe; Lumella Jesu ka pelong",
+        "Ha u lakatsa ho phela bocha Lumella Jesu ka pelong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Joale se belaele, joale se mo lahle,",
+        "Joale u bule pelo, lumella Jesu A kene"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha u llela hoba le ho hloeka, Lumella Jesu ka pelong,",
+        "Mehloli pelong e hlatsoang e teng, Lumella Jesu A kene."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ho le sefefo se seholo, Lumella Jesu ka pelong,",
+        "Ha ho le teng hoo sa hlatsoisisoang; Lumella Jesu A kene."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha metsoallle e sa ts’epahale, Lumella Jesu ka pelong;",
+        "Bona hore Jesu O tla ba joang, Lumella Jesu A keng."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha u bina le bahalaleli, Lumella Jesu ka pelong;",
+        "Ha A kena tulong ea phomolo, Lumella Jesu A kene."
+      ],
+      "number": 5
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "last stanza:",
+        "Chorus:Joale ha ho pelaelo; joale ha ke mo lahle,",
+        "Joale ke butse pelo, ’me Jesu A kene ka teng."
+      ]
+    }
+  ]
+}

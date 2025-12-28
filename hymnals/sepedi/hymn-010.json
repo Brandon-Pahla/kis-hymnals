@@ -1,0 +1,67 @@
+{
+  "number": 10,
+  "language": "nso",
+  "title": " 10 RE TLO PHUTHEGA NOKENG",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 10 RE TLO PHUTHEGA NOKENG",
+        "AH 430 CH 555",
+        "SHALL WE GATHER AT THE RIVER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re tlo phuthega nokeng,",
+        "Mmogo le mangeloi;",
+        "Meetsing ao a elelago,",
+        "Go tšwa T'roneng ya Jehofa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušulošo",
+        "Ee re tlo phuthega nokeng,",
+        "Sedibeng se se botse botse",
+        "Le ba kgethwa re kopane;",
+        "Sedibeng se se itshekileng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gona lebopong la noka,",
+        "Re tlo hiwa ka thapelo;",
+        "Re tumiše ka lethabo,",
+        "Mehleng yohle ya boiKhutšo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seso re file nokeng,",
+        "Re tlo lahla merwalo;",
+        "Ka mogau re lokolotšwe,",
+        "Refiwe mphapahlogo."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kgauswi nokeng e phadimang,",
+        "Go tlo fela leeto.",
+        "Dipelo di tletše thabo,",
+        "Ka koa ya boiKhutšo;"
+      ],
+      "number": 6
+    }
+  ]
+}

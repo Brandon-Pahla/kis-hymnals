@@ -1,0 +1,44 @@
+{
+  "number": 9,
+  "language": "pt",
+  "title": "Prece ao Trino Deus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Prece ao Trino Deus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó grande e eterno Deus! Ouve-nos lá dos Céus;",
+        "Eis a oração: Vem, Pai, presente estar,",
+        "Vem, Teu poder nos dar,",
+        "Com Tua voz falar Ao coração."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó encarnado Deus, Sim, Te adoramos nós,",
+        "Bom Redentor; Vem nos purificar,",
+        "Vem nos santificar;",
+        "Dá-nos a Tua paz E o Teu amor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó, vem, Consolador, Com tua voz falar",
+        "Ao coração; E vem em nós morar,",
+        "Consolação nos dar,",
+        "Também nos confirmar Na redenção."
+      ],
+      "number": 4
+    }
+  ]
+}

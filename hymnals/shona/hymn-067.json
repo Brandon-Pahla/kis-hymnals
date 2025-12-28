@@ -1,0 +1,56 @@
+{
+  "number": 67,
+  "language": "sn",
+  "title": "67 Toenda KuZion",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Uyai imwi mwese munodisa Tenzi",
+        "Tinoimba rwiyo rwake",
+        "Tinoimba rwiyo rwake",
+        "Nekumira patyo nechigaro chake"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Toenda kumusha, musha waMwari kudenga",
+        "Toenda kuZioni",
+        "Kwakanakisa kwaMwari"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tese tinoimba tinoziva Mwari",
+        "Tisati taswika apo",
+        "Tiri vana vekudenga",
+        "Totaura idi, Totaura idi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tinofara pano ngezvake zvaMwari",
+        "Tisati tasvika apo",
+        "Tisati tasvika apo",
+        "Musha weZioni, Musha weZioni"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngatiimbe kwazvo, tinorega kutya",
+        "Totewera Immanuel",
+        "Totewera Immanuel",
+        "Kunyika kudenga, Kunyika kudenga"
+      ],
+      "number": 5
+    }
+  ]
+}

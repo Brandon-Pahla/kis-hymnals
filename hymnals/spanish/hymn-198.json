@@ -1,0 +1,54 @@
+{
+  "number": 198,
+  "language": "es",
+  "title": "Desciende, Espíritu de amor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Desciende, Espíritu de amor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Desciende, Espíritu de amor,",
+        "Paloma celestial,",
+        "promesa fiel del Salvador,",
+        "de gracia manantial."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aviva nuestra escasa fe,",
+        "concédenos salud;",
+        "benigno, guía nuestro pie",
+        "por sendas de virtud."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Consuela nuestro corazón",
+        "y habita siempre en él;",
+        "concédele el precioso don",
+        "de serte siempre fiel."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A nuestro Padre, celestial;",
+        "al Hijo, autor del bien,",
+        "y al Santo Espíritu eternal,",
+        "sea la gloria. Amén."
+      ],
+      "number": 5
+    }
+  ]
+}

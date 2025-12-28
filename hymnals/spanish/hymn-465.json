@@ -1,0 +1,44 @@
+{
+  "number": 465,
+  "language": "es",
+  "title": "Ven junto a mí",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ven junto a mí"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, Jesús, ven muy junto a mí.",
+        "Oh, Jesús, ven muy junto a mí.",
+        "Mientras ando por el mundo,",
+        "oh, Jesús, ven muy junto a mí."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En mis pruebas ven junto a mí.",
+        "En mis pruebas ven junto a mí.",
+        "Si las sombras me rodean,",
+        "oh, Jesús, ven muy junto a mí."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En mis penas ven junto a mí.",
+        "En mis penas ven junto a mí.",
+        "Si en mi alma hay tristeza,",
+        "oh, Jesús, ven muy junto a mí."
+      ],
+      "number": 4
+    }
+  ]
+}

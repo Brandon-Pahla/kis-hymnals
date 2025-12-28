@@ -1,0 +1,51 @@
+{
+  "number": 301,
+  "language": "tw",
+  "title": "Twe Me Bɛn Wo Koma Ho Ara",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Twe me bɛn Wo koma ho ara,",
+        "M'Agyenkwa a Wosom bo, twe me bɛn;",
+        "O, fa me fam Wo koko mu pɛɛ;",
+        "Kora me so wɔ Wo hintabea hɔ,",
+        "Kora me so wɔ Wo hintabea hɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Twe me bɛn ara, minni hwee a",
+        "Mede bɔ Yesu, me Hen', afɔre,",
+        "Sɛ me bɔne komá a abubu'i;",
+        "Fa Wo mogyá a ɛtew ho no guar' me,",
+        "Fa Wo mogyá a ɛtew ho no guar' me,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Twe me bɛn, W'ra, ma menyɛ Wo de;",
+        "Mede 'nigye gyae me bɔne nyinaa,",
+        "Emu anigye ne 'hantan nso;",
+        "Fa Yesu ma me, me W'rá wokum No,",
+        "Fa Yesu ma me, me W'rá wokum No,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Twe me bɛn ara, nkwa nna yi mu;",
+        "Kosi sɛ medu Wo nkyɛn 'nuonyam mu;",
+        "Na matra Wo nkyɛn daa afebɔɔ,",
+        "Twe me bɛn, m'Agyenkwa, Wo nkyɛn ara,",
+        "Twe me bɛn, m'Agyenkwa, Wo nkyɛn ara,"
+      ],
+      "number": 4
+    }
+  ]
+}

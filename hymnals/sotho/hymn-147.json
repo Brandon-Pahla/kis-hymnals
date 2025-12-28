@@ -1,0 +1,41 @@
+{
+  "number": 147,
+  "language": "st",
+  "title": "147 Nkhulele Haufi Le Uena.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ntate nkhulele haufi, ke ea u lakatsa nkuke;",
+        "Haufi nkenye matsohong ke batla ho phomola."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Haufi-ka lerato, nkhulele ho Uena,",
+        "Nkhulele ho Uena haufi.",
+        "Haufi ka khoele tsa lerato, nkhule,",
+        "Nkhulele leholimong, haufi ka lerato,",
+        "Nkhulele leholimong, haufi nkhulele ho Uena."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Moloki nkhulele haufi, se ke ka U tlohela;",
+        "Ha ke le matsohong a Hao, ke ea itebala."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Moloki nkhulele haufi, se ke ka U tlohela;",
+        "Ha ke le matsohong a Hao, ke ea itebala."
+      ],
+      "number": 3
+    }
+  ]
+}

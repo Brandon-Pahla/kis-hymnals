@@ -1,0 +1,40 @@
+{
+  "number": 130,
+  "language": "st",
+  "title": "130 Nkhulele Haufi.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke oa Hao Morena ke utloa lentsoe, Le mpolella ka rato;",
+        "Ke lakatsa ho ba matla, A k’u nkhulele haufi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nkhule-le teng haufi, Morena moo U shoetseng,",
+        "Haufi-ufi Morena nkhule ke Uena ea ntlamileng.",
+        "Ho Uena ke ’nehela bocha, Ka matla a maholo;",
+        "Moea oa ka o lebe ho Uena, O fihle ho Jesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ho monate joang, ka hora eo ha ke le bophahamong;",
+        "Ha ke khumama ke le thapelong, Ke bua le motsoalle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le teng lerato le sa bonoeng, Ke la lehae ka mose;",
+        "Ho teng thabo e ke sa e tsebeng, Ke e-so fihle teng"
+      ],
+      "number": 3
+    }
+  ]
+}

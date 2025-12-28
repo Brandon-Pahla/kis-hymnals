@@ -1,0 +1,47 @@
+{
+  "number": 502,
+  "language": "tw",
+  "title": "Me Kra Owia, O Agyenkwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me kra owia, O Agyenkwa,",
+        "Wobɛn me a ade nsa me;",
+        "Mma 'sase so mununkum bi",
+        "Mfa Wo nhinta mfi W'akoā anim."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ nna boɔu bɔkɔɔ no tɔ",
+        "Gu me so na metɔ nko a,",
+        "Ma minhu ne dɛ a ɛyɛ",
+        "Sɛ mɛhome m'Agyenkwa mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo ne me ntra da mu nyinaa",
+        "'Fisɛ Wonka hō a minni nkwa;",
+        "Wo ne me ntra b'rč a sum red'ru",
+        "'Fisɛ Wonka hō a misųro 'wu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bra behy'ra me me sɔre mu,",
+        "Ansa na manantew wiasem';",
+        "Kosi sɛ Wo dɔ po bun nom',",
+        "Mapue wɔ ɔsoro nohoa."
+      ],
+      "number": 4
+    }
+  ]
+}

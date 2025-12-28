@@ -1,0 +1,47 @@
+{
+  "number": 43,
+  "language": "xh",
+  "title": "43 Ukulala ku-Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ulele ku-Yesu yena,",
+        "Apho kunga khalwa khona;",
+        "Uzuz’ ubuthongo yena,",
+        "Ange dutywe ngabo khona."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ulele ku-Yesu zole,",
+        "Ulele njal’ elindele;",
+        "Yen ekholwa ekhangele,",
+        "Une themba elingcwele."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ulele ku-Yesu, cwaka,",
+        "Ulele ekuphumleni;",
+        "U-Msindisi onamandla,",
+        "Uya kumbiza ngalo mhla."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ulele ku-Yesu i-Nkos’;",
+        "Wod’ avuswe ngu-Msindisi;",
+        "Ingcwaba asiloyiki,",
+        "Lakuvulwa ngu-Mphilisi."
+      ],
+      "number": 4
+    }
+  ]
+}

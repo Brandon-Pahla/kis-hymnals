@@ -1,0 +1,55 @@
+{
+  "number": 5,
+  "language": "tw",
+  "title": "M'anidaso Ny'naa Ne Nyame",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "M'anidaso ny'naa ne Nyame;",
+        "ɔhyɛ m'ahotoso den,",
+        "ɔhwɛ me so akwan ny'naa mu",
+        "'Ma me nea eye nkutoo.",
+        "Nyankopɔn nko ara",
+        "Ná ɔgye m' koma yɛ Ne de."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nipa 'hantan ne fam 'nuonyam,",
+        "Nkrantɛ ne kyɛw di n' huammɔ;",
+        "Nea osiam ho fif'ri hyehyɛ,",
+        "Abanten ny'naa dwiri gu.",
+        "Nso Nyame tumi no",
+        "Ne m'abanten b're biara."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Onyame yieyɛ tim hɔ daa,",
+        "Ne nyansa mu dɔ kɛse;",
+        "'Nuonyam, hann ne nkwa wɔ Ne ho;",
+        "Ahoɔfɛ senŋ fi Ne mu.",
+        "ɔdɔ wɔ Ne nsā ano,",
+        "Ahosɛpɛ tie Ne fre."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma onipa mmɔ ayeyi",
+        "Afɔre mma Nyame daa;",
+        "Ayeyi mforo nkɔ s'ros'ro,",
+        "Ne Ba Kristo 'kyɛde n' nti.",
+        "Kristo frɛ obiara:",
+        "Mo 'kyidifo munnhintiw."
+      ],
+      "number": 4
+    }
+  ]
+}

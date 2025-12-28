@@ -1,0 +1,21 @@
+{
+  "number": 293,
+  "language": "ts",
+  "title": "293. GOGO! GOGO! I MANI?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "KNOCKING, KNOCKING",
+        "1. Gogo! Gogo! I Mani? U Rindzele Ka Khwatsi,",
+        "I Muhundzi Hosi Yanga, Ya Nsovo Wu Tlurisaka, Moya Wanga Wu Pfulele, Yi Pfuleke Yo Nyangwa, Leswaku Yi Ta Nghena.",
+        "2. Gogo! Gogo! U Kona, U Na Mbilu Yo Leha, Rivanti A Ri Pfuleki,",
+        "Ku Tlhume Ngopfu Nhova, Hi Timitsu To Tiya, Nhova Yi Tsondzerile,",
+        "Ya To Tinxaka Hinkwato.",
+        "3. Gogo! Gogo! Hi Yena, U Rindzile Na Sweswi,",
+        "U Na Yo Harhi Ya Mitwa, Henhla Ka Nhloko Ya Yena, Languta U Rindzile, Wa N’wi Alela Xana, Muponisi Wa Wena?"
+      ],
+      "number": 1
+    }
+  ]
+}

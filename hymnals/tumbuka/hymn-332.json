@@ -1,0 +1,48 @@
+{
+  "number": 332,
+  "language": "tum",
+  "title": " 332 Para Tiri Pa Monesko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 332 Para Tiri Pa Monesko",
+        "While In Sweet Communion"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Para tiri pa monesko wa Fumu yithu Yesu,",
+        "Tiwonenge ndopa zinu umo zikathikira.",
+        "Nanga ntha tikumwonani muli nase pafupi,",
+        "Mutitokotoske Fumu msezge nkhayiko zithu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mtiphialire ise nkhani ya masuzgo mkawona,",
+        "Pakulindirira imwe tize pafupi namwe.",
+        "Mutiguzire kwa Imwe na ku mphinjika yinu,",
+        "Mpaka tijiwone tekha umo mukatifwira."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Pakufuma pa monesko wa Fumu yithu Yesu,",
+        "Tipamphuskike m'mitima tilingane na lyo.",
+        "Tilondezge nthowa yake tikozganenge nayo,",
+        "Tim thye lyo Fumu yithu tipulikire dango"
+      ],
+      "number": 4
+    }
+  ]
+}

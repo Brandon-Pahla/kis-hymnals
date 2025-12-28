@@ -1,0 +1,57 @@
+{
+  "number": 488,
+  "language": "tw",
+  "title": "Midii Kan Mesrɛɛ Hann",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Midii kan mesrɛɛ hann,",
+        "Sɛnea mehu kwan no;",
+        "Mede 'nigye ne 'hoɔhare",
+        "Kɔɔ daa 'dekyee no ho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Afei mesrɛɛ 'hoɔden,",
+        "Sɛnea mede nan a",
+        "Ase tim bɛfa kwan no mu,",
+        "Akɔfa s'ro fie no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Afei mesrɛɛ gyidi,",
+        "Na matwer' me Nyame;",
+        "Na matra N'asomdwoe no mu",
+        "Atamfo ny'naa naim."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seesei mesrɛ ɔdɔ;",
+        "Nyame, nipa ho dɔ;",
+        "ɔdɔ a enni huammɔ da,",
+        "Wɔ Ne nhyehyɛe biaram'."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hann, 'hoɔden ne gyidi",
+        "Apue wɔ baabiara;",
+        "Nyame twɛnee boasetɔ mu",
+        "Kosii mpaebɔn' awiei."
+      ],
+      "number": 5
+    }
+  ]
+}

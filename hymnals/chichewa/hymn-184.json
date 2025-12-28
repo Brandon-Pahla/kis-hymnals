@@ -1,0 +1,50 @@
+{
+  "number": 184,
+  "language": "ny",
+  "title": "184 - A M’dziko Akondweretu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "JOY TO THE WORLD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. A m’dziko akondweretu,",
+        "Ambuye adzanso.",
+        "Mlandire Mfumu yathuyo",
+        "Poyimba mokondwa,",
+        "Poyimba mokondwa,",
+        "Poyimbayimba mokondwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. A m’dziko akondweretu,",
+        "Adzalamula ’Ye.",
+        "Ndi anthuwo ayimbetu",
+        "Kutama Mbuyeyo,",
+        "Kutama Mbuyeyo,",
+        "Kutama Mbuye wathuyo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Adzalamula mwa nsisi",
+        "Mitundu yonseyo;",
+        "Nawasonyeza onsewo",
+        "Chikondi Chakecho,",
+        "Chikondi Chakecho,",
+        "Chikondi Chake Mbuyeyo."
+      ],
+      "number": 4
+    }
+  ]
+}

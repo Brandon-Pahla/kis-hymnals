@@ -1,0 +1,46 @@
+{
+  "number": 25,
+  "language": "xh",
+  "title": "25 Ndinikela Konke",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Konke Yesu ndinikela, Ndinikela ngesisa;",
+        "Ndithembela njalo kuwe, Ndiphile nawe apha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndiyanikela, Ndiyanikela;",
+        "Konke kuye u-Msindisi, ndiyanikela."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Konke Yesu ndinikela, Ndiguq’ ezinyaweni",
+        "’Nzuzo yomhlaba ndadela, Thatha Yesu, ndithathe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Konke Yesu ndinikela Ndenze ngcwele, Msindisi;",
+        "Ndiphe owaKho u-Moya, Wen’ Ungowam ’ngenene."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Konke Yesu ndinikela, Ndiv’ umlilo ongcwele;",
+        "Nal’ uvuyo losindiso, Lube kuye uzuko."
+      ],
+      "number": 4
+    }
+  ]
+}

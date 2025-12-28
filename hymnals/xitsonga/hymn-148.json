@@ -1,0 +1,23 @@
+{
+  "number": 148,
+  "language": "ts",
+  "title": "148. HINKWAKO YESU A NGA NDZI FAMBISA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ANYWHERE WITH JESUS",
+        "1. Hinkwako Yesu A Nga Ndzi Fambisa, Ka Yena Ndzi Le Ku Hlayisekeni;",
+        "Kule Na Yena Ku Hava Kona Ku Tsaka, Ka Yesu Ku Hava Kona Ku Chava.",
+        "CHORUS",
+        "Hinkwako, Hinkwako, Yesu U Kona",
+        "Hinkwako Yesu U Ta Ndzi Hlayisa.",
+        "2. Hinkwako Yesu U Kona Kusuhi, Hambi Vanghana Va Nga Ndzi Sukela;",
+        "Na Loko Miringu Yi Ndzi Tshuketa, Ka Yesu I Kaya Ra Ku Dzunisa.",
+        "3. Hinkwako Yesu A Nga Ndzi Fambisa, Na Loko Ndzi Ta Ya Eku Wiseni;",
+        "Ndzi Ta Famba Hi Mbilu Yaku Rhula, Hikuva U Ta Vuya A Ndzi Pfuxa."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 603,
+  "language": "tw",
+  "title": "Kristoni, Nnye W'ahome",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kristoni, nnye w'ahome,",
+        "To w'ahom'gye adwen gu;",
+        "Wugyina dɔm mfimfini;",
+        "Wɛn, bɔ mpae!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa wo s'ro akode hyɛ,",
+        "Hyɛ no 'nadwo ne awia;",
+        "ɔbɔne no retɛw wo;",
+        "Wɛn, bɔ mpae!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tie wɔn a wɔadi nkonim;",
+        "Wɔhyɛ 'kofo kwan 'gyirae;",
+        "Wɔn ny'naa de nne dɛdɛ teɛm;",
+        "\\\"Wɛn, bɔ mpae!\\\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tit'riw no, tie w'Aw'rade,",
+        "Wo kɔn dɔ sɛ wutie No;",
+        "Fa N'asɛm sie wo komam;",
+        "\\\"Wɛn bɔ mpae!\\\""
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɛn te sɛnea ɛno nko",
+        "Na nkonim no gyina so;",
+        "Srɛ sɛ mmoa fi s'ro bɛba;",
+        "\\\"Wɛn, bɔ mpae!\\\""
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "number": 278,
+  "language": "es",
+  "title": "¿Puede el mundo ver a Jesús en mí?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¿Puede el mundo ver a Jesús en mí?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Vivo hoy tan cerca de mi Jesús,",
+        "a pesar del mundo y su maldad,",
+        "hasta el punto que en mí se pueda",
+        "ver",
+        "un reflejo de su luz?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¿Puede el mundo ver a Jesús en",
+        "mí?",
+        "¿Puede el mundo ver a Jesús en",
+        "mí?",
+        "¿Me comporto como él? Sus",
+        "pisadas ¿sigo aquí?",
+        "¿Puede el mundo ver a Jesús en",
+        "mí?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Amo yo a mi prójimo cual Jesús,",
+        "no importa cuál sea su color?",
+        "¿Y mi mano extiendo para ayudar",
+        "al que lucha por ser fiel?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Como un libro abierto mi vida es",
+        "y en él las gentes mis actos ven:",
+        "Si son buenos, los guiarán a él;",
+        "y si no, las perderán."
+      ],
+      "number": 5
+    }
+  ]
+}

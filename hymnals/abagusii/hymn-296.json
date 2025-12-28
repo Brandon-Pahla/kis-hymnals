@@ -1,0 +1,35 @@
+{
+  "number": 296,
+  "language": "guz",
+  "title": "296 'Bana Bagater'Agwo Kare",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Bana bagater'agwo kare,'Kero Yes'arinet'etigere;Hosana, Hosana,Hosana Igoro mono."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mater'omogoko,'Bana bater'amater'omogoko,Mater' omogoko,Yes'anchet'amatera."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nanchete aigwe ogotera,Komotogi'Omorwoti O igoro;Hosana, HosanaHosana igoro mono."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Natoter'ogoter'okuya,Na baria Omogand'oborigwe;Hosana, Hosana,Hosana igoro mono."
+      ],
+      "number": 4
+    }
+  ]
+}

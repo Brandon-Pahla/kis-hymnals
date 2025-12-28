@@ -1,0 +1,24 @@
+{
+  "number": 135,
+  "language": "es",
+  "title": "Cristo, nombre sublime",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cristo, nombre sublime"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo, nombre sublime,",
+        "Salvador nuestro, glorioso Dios;",
+        "es Emanuel, Dios con nosotros,",
+        "Palabra viva, gran Redentor."
+      ],
+      "number": 2
+    }
+  ]
+}

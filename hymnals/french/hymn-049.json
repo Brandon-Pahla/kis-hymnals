@@ -1,0 +1,63 @@
+{
+  "number": 49,
+  "language": "fr",
+  "title": "Les cieux et la terre",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Les cieux et la terre",
+        "Célèbrent en choeur",
+        "La gloire du Père,",
+        "Du Dieu créateur.",
+        "Qu’il est redoutable",
+        "Dans sa majesté!",
+        "Qu’il est admirable",
+        "Dans sa charité!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "C’est lui qui nous donne",
+        "Le printemps joyeux,",
+        "Les fruits de l’automne,",
+        "L’été radieux.",
+        "Largesse infinie",
+        "Que rien ne tarit,",
+        "Sa main rassasie",
+        "Tout être qui vit."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La vive lumière",
+        "Des cieux enflammés,",
+        "L’ombre et le mystère",
+        "Des bois embaumés,",
+        "Le flot qui murmure,",
+        "Le jour et la nuit,",
+        "Tout dans la nature",
+        "Nous parle de lui."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mais, ô Dieu suprême,",
+        "Plus que tous tes dons,",
+        "C’est ton amour même",
+        "Que nous adorons.",
+        "Ô source éternelle",
+        "De grâce et de paix,",
+        "Ton peuple fidèle",
+        "Te loue à jamais."
+      ],
+      "number": 4
+    }
+  ]
+}

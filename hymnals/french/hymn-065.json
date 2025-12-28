@@ -1,0 +1,42 @@
+{
+  "number": 65,
+  "language": "fr",
+  "title": "Où est l’amour",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Où est l’amour, dans la nuit du monde?",
+        "Tel un vautour, la mort fait sa ronde.",
+        "Où est l’amour, dans la nuit du monde?",
+        "Le ciel est lourd, la mort vagabonde."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Mort, où est ta victoire?",
+        "Où est ton aiguillon?",
+        "Jésus soit loué,",
+        "Ton amour nous a délivrés.",
+        "Mort, où est ta victoire?",
+        "Où est ton aiguillon?",
+        "Jésus soit loué,",
+        "Ton amour nous a délivrés."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne pleure plus dans la nuit du monde,",
+        "La mort vaincue, s’enfuit moribonde.",
+        "Ne pleure plus dans la nuit du monde,",
+        "La mort n’est plus, la vie inonde."
+      ],
+      "number": 3
+    }
+  ]
+}

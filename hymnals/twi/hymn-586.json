@@ -1,0 +1,27 @@
+{
+  "number": 586,
+  "language": "tw",
+  "title": "Dɛw a Ͻyɛ Sɛ Yɛsom Ha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dɛw a ɛyɛ sɛ yɛsom ha,",
+        "Te nka sɛ yɛwɔ fie;",
+        "Faako a Nyame wɔ kwan ma",
+        "Obiarā a ɔba hɔ!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nanso nnipa baanu biara",
+        "Nyɛ pɛ nnipa nyinaam';",
+        "Na ɛsɛ sɛ yɛyɛ nok'ro",
+        "De nya Ne dom no bi."
+      ],
+      "number": 2
+    }
+  ]
+}

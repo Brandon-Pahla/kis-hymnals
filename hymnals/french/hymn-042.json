@@ -1,0 +1,47 @@
+{
+  "number": 42,
+  "language": "fr",
+  "title": "Venez, c’est Noël",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Venez, c’est Noël, accourez vers l’Enfant!",
+        "Lumière espérée, le Seigneur nous attend.",
+        "Voyez dans la crèche le Fils nouveau né;",
+        "Le Dieu de tendresse aujourd’hui l’a donné."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il vient comme un pauvre au milieu de la nuit,",
+        "Lumière de joie pour Joseph et Marie.",
+        "Sa mère en silence bénit le très haut :",
+        "Le Verbe fait chair dans ce monde est éclos."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Les anges pour lui font sonner « Gloire à Dieu ».",
+        "Lumière de paix sur la terre et aux cieux!",
+        "Voici que s’éveille le chant des bergers;",
+        "L’étable est remplie de nouvelles clartés."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus, Fils de Dieu, tu reviens parmi nous,",
+        "Lumière d’espoir quand nos yeux voient ton jour.",
+        "Que brille l’étoile au profond de nos cœurs!",
+        "L’amour y naîtra comme un fruit du Sauveur."
+      ],
+      "number": 4
+    }
+  ]
+}

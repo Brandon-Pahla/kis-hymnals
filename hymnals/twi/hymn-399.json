@@ -1,0 +1,47 @@
+{
+  "number": 399,
+  "language": "tw",
+  "title": "Aniso Amanne Yim' Na",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Aniso Amanne Yim' Na",
+        "'W'ra, wɔde W'aduan no",
+        "Kɔ abans'ro dan biara mu,",
+        "Nea wɔma 'kra aduan."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔate paanoon' ho b're biara,",
+        "Sɛ adasamma nkyɛ;",
+        "Na onuadɔ nneyɛe biara",
+        "Frɛ W'aponto no bio."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔde nhyira k'ruwa no yɛ",
+        "Wo nokware nkaede:",
+        "B'rč a wɔde 'bra fof'ro hwie nsa",
+        "Wɔ mudi pa mu no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, ma nsohyɛdč a yɛwɔ yi",
+        "Nyɛ nea Wode ama;",
+        "Na yɛn daa 'brabɔ akanyan",
+        "Wo mmɔb'rɔhun' koma."
+      ],
+      "number": 4
+    }
+  ]
+}

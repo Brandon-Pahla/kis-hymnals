@@ -1,0 +1,43 @@
+{
+  "number": 57,
+  "language": "tw",
+  "title": "Afei 'Bɔde Ny'naa Reda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Afei 'bɔde ny'naa reda,",
+        "Anadwo sum abedu",
+        "Nkųro, nnipa ne mmoa so;",
+        "Nanso, wo, me koma nyan,",
+        "Fa bere kakra bɔ mpae,",
+        "Kamfow' Bɔfon' ansa woada."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me Yesu, bɛtra me nkyɛn,",
+        "Na mma 'tamfo bi mmɛn me.",
+        "Wo ntaban katam' so;",
+        "Sɛ tamfo yi me hu a,",
+        "Mma no mmfa me nnkɔ 'manem',",
+        "Mmom W'abɔfon' nto dwom me nkyɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M'adɔfo, monhome dwoo,",
+        "Yɛn Nyame bɛkōra mo so",
+        "Afi mmusu biaram',",
+        "ɔbɛma moanya nna pa,",
+        "Na Ne dom atra mo nkyɛn,",
+        "Na wɔawɛn mo wɔ mo mpa so."
+      ],
+      "number": 3
+    }
+  ]
+}

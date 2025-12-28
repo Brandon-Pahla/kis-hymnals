@@ -1,0 +1,39 @@
+{
+  "number": 109,
+  "language": "nd",
+  "title": "109 Walinganiswa, Walula",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "uMahluli wosihlola, Lok’ okusifanele",
+        "Sofana yini negoli Kumbe si ngamanyela?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Solinganiswa yiNkosi, U lula wena;",
+        "Solinganiswa noMthetho, Noma u nzima."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sozwa amazw’ amahle na? Nceku ekholekile!",
+        "Noma koba ukulahlwa Mona wena u lula."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si ngezw’ uMoy’ encenga na? Si senethuba lomsa",
+        "Kumbe sephuze ku valwe Si lotshwe, Ni lahliwe."
+      ],
+      "number": 4
+    }
+  ]
+}

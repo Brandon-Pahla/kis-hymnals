@@ -1,0 +1,57 @@
+{
+  "number": 104,
+  "language": "en",
+  "title": "104 Come, Great Deliverer, Come",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O hear my cry, be gracious unto me,",
+        "Come, Great Deliverer come;",
+        "My soul bowed down is longing now for thee,",
+        "Come, Great Deliverer, come."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "I’ve wandered far away o’er mountains cold,",
+        "I’ve wandered far away from home;",
+        "O take me now,",
+        "And bring me to Thy fold, Come,",
+        "Great Deliverer, come."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I have no place, no shelter from the night,",
+        "Come, Great Deliverer, come;",
+        "One look from Thee would give life and light,",
+        "Come, Great Deliverer, come."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "My path is lone, and weary are my feet,",
+        "Come Great Deliverer, come;",
+        "Mine eyes look up Thy loving smile to meet,",
+        "Come, Great Deliverer, come."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thou wilt not spurn contrition’s broken sigh,",
+        "Come, Great Deliverer, come.",
+        "Regard my prayer, and hear my humble cry,",
+        "Come, Great Deliverer, come."
+      ],
+      "number": 4
+    }
+  ]
+}

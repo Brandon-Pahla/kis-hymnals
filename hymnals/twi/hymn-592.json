@@ -1,0 +1,48 @@
+{
+  "number": 592,
+  "language": "tw",
+  "title": "'Wɛmfo, Ka Yɛn 'Nadwosɛm",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Wɛmfo, ka yɛn 'nadwosɛm,",
+        "Ne bɔhyɛ sɛnky'rɛnne no.",
+        "'Kwantuni, mmepɔ no so,",
+        "Hwɛ anuounyam ns'romma no;",
+        "'Wɛmfo, so n'ahoɔfɛ yi",
+        "Ka dɛw anaa 'nidaso?",
+        "Yiw, ɔkwantuni, ɛde",
+        "Israel bɔhyɛ da no ba."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Wɛmfo, ka yɛn 'nadwosɛm,",
+        "Ns'romma no kɔ s'ro ara.",
+        "'Kwantuni, nhyira ne hann,",
+        "'Somdwoe, nokwar' wɔ ne' kwanm'.",
+        "'Wɛmfo, ne hann nkutoo",
+        "'Kwantuni, mfe yɛ ne de;",
+        "Hwɛ, ɛhy'rɛn 'sase so ny'naa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Wɛmfo, ka yɛn 'nadwosɛm,",
+        "Asɛ adekyee reben.",
+        "'Kwantuni, sum reguan kɔ,",
+        "'Kyinnye ne suro resa;",
+        "'Wɛmfo, ma w'akyinkyin nnyae;",
+        "Yɛ ntɛm kɔ wo home fie;",
+        "'Kwantuni, hwɛ, 'somdwoe Hen'",
+        "Onyame Ba no aba!"
+      ],
+      "number": 3
+    }
+  ]
+}

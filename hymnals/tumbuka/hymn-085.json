@@ -1,0 +1,58 @@
+{
+  "number": 85,
+  "language": "tum",
+  "title": " 85 Ndimbenge Nkhongono Zake",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 85 Ndimbenge Nkhongono Zake",
+        "I SING THE MIGHTY POWER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ndimbe nkhongono za Fumu,",
+        "Wakalenga charu,",
+        "Nyanja na mironga yose,",
+        "Na kuchanya wuwo,",
+        "Ndimbenge vinjeru ivyo,",
+        "Vikalenga dazi,",
+        "Mwezi kuwala usiku,",
+        "Na nyenyezi wuwo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nkhwimba za uwemi wake,",
+        "Wakutipa kurya,",
+        "Wakayowoya na mazgu,",
+        "vyose vyachitika,",
+        "Fumu mukavikhazika,",
+        "mwa minthondwe nadi,",
+        "Vinthu vya m'charu cha pasi,",
+        "Na vya mchanya vyose."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mbuto na maluwa ghose",
+        "vikumvumbulanl,",
+        "Mawingu na vimphupulu vikupulikira,",
+        "Vya moyo vyose ndimwe mukuvipwelerera,",
+        "Ndichimbilirenkhu ine?",
+        "Kwa Imwe ndipera."
+      ],
+      "number": 4
+    }
+  ]
+}

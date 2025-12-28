@@ -1,0 +1,39 @@
+{
+  "number": 91,
+  "language": "fr",
+  "title": "Ami, sois fidèle",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ami, sois fidèle!",
+        "Jésus vient bientôt",
+        "Qui te donnera le repos.",
+        "Avec vigilance poursuis ton combat,",
+        "Tiens fermement ce que tu as.",
+        "Ami, sois fidèle!",
+        "Fidèle à Celui",
+        "Qui a pour toi donné sa vie,",
+        "Le Seigneur qui est, qui était et qui vient,",
+        "Qui te veut au milieu des siens."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ami, sois fidèle!",
+        "Saisi par Jésus,",
+        "Avance tout droit vers le but.",
+        "Devant toi la porte bientôt s’ouvrira,",
+        "Ton Sauveur te libérera.",
+        "Ami, sois fidèle!",
+        "Car voici ton roi",
+        "Qui te fait entrer dans sa joie!",
+        "Et tu pourras vivre, citoyen des cieux,",
+        "Pour toujours dans l’amour de Dieu."
+      ],
+      "number": 2
+    }
+  ]
+}

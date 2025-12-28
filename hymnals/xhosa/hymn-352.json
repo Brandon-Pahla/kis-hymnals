@@ -1,0 +1,47 @@
+{
+  "number": 352,
+  "language": "xh",
+  "title": "352 Uya Kuza Umhla Lowo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Uya kuza umhla lowo Sakugwetywa ngawo;",
+        "Siya kuma thina sonke Ndaweni nye ngawo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zakufika iingelosi ukukhet’ abaKho;",
+        "Bakunyuswa aabo bonke Bangabantu baKho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aabo bangabaKho, Yesu, Bakubizwa Nguwe,",
+        "Basondele ngemigcobo, Baye bonke Kuwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uya kuthi kwaabo BaKho: \"Sondelani nina,",
+        "BakaBawo nize ngakum; Nodl’ ubomi nina.\""
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uya kuthi kwaab’ abanye: \"Manisuke nina,",
+        "Nimke niye emlilweni; Andinazi nina.\""
+      ],
+      "number": 5
+    }
+  ]
+}

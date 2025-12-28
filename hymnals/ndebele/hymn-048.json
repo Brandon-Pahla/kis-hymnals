@@ -1,0 +1,39 @@
+{
+  "number": 48,
+  "language": "nd",
+  "title": "48 Thokoza Phambili",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ekupheleni sothokoza, Se si buthana ekhaya;",
+        "Si leth’ izithungu zethu, eJerusalem’ eNtsha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tho...ko...za, thoko-thokoza, Tho…ko…za, thoko-thokoza",
+        "Ku… nge phel’ ukuthokoza Ngob’ usuku buyeza."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ingoma za khona zi mnandi, Si yobonga si ngathuli;",
+        "S’dums’ iNkosi kamnandi, eJerusalem’ eNtsha."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ku si lindele ukwethaba, Izindlu zi ningi khona;",
+        "Zi lungiswe nguY’ uJesu, eJerusalem’ eNtsha."
+      ],
+      "number": 4
+    }
+  ]
+}

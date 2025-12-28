@@ -1,0 +1,38 @@
+{
+  "number": 157,
+  "language": "tn",
+  "title": "157 Yo O Tswang A Ntse A Lela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yo O Tswang A Ntse A Lela, Ka Peo Ya Lorato",
+        "A sa lape a robala, O bona tshegofatso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Bonang phatsimo e kgolo; Go bonala ditlhaka;",
+        "Lebang, masimo, masweu, Gonne thobo e gaufi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go Wa Monyo Wa Godimo, Go Marang A Phatsimang;",
+        "Go tla newa tse ’ tlhokegang, Ka boitshepo jotlhe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jala Peo Ya Go Se Lape, O Se Nne Le Poifo",
+        "O tla roba boipelo, O nne yo sa tenegang."
+      ],
+      "number": 3
+    }
+  ]
+}

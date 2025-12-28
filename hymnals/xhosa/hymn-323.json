@@ -1,0 +1,55 @@
+{
+  "number": 323,
+  "language": "xh",
+  "title": "323 Sebenzani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sebenzani ngenyameko, Nenze eka-Thix’ intando;",
+        "Wenjenjalo uMsindisi, Nani manifuze Yena."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anisebenzeli lize, Nokukuzuza okwezulu;",
+        "Noko ninganconywa apha, U-Msindisi wonincoma."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sebenzani kusemini, Ubusuku bukufuphi;",
+        "Amathuba ayedlula, Okunced’ imiphefumlo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abahleli emnyameni, Bafa bengenal’ ithemba;",
+        "Thath’ umlilo ubaneke Kwezo mfama zilusizi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thandazani ningatyhafi, Sebenzani ngobulumko;",
+        "Niyiceng’ imiphefumlo Edingayo emangweni."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyamekani ninovuyo, Nikhumbul’ umvuzo wenu;",
+        "Kovakala kamsinyane, Izwi lokubizwa kwenu."
+      ],
+      "number": 6
+    }
+  ]
+}

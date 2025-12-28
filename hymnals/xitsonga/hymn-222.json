@@ -1,0 +1,22 @@
+{
+  "number": 222,
+  "language": "ts",
+  "title": "222. MAVOKWENI YA YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SAFE IN THE ARMS OF JESUS",
+        "1. Mavokweni Ya Yesu, Ndzi Hlayisekile, Erirhandzwini Rakwe, Ndzi Ta Wisa Kona,",
+        "Yingisani Tintsumi, Risimu Ro Dzuna, Xikarhi Ka Vukosi, Lwandlen Ra Xivoni.",
+        "CHORUS",
+        "Mavokweni Ya Yesu, Ndzi Ta Hlayiseka, Erirhandzweni Rakwe, Ndzi Ta Wisa Kona.",
+        "2. Mabokweni Ya Yesu, Swo Kurha Ku Hava, Miringo Na Vudyoho, Swo Biha Ku Hava, Tingana, Vusiwana, Nkanankano, Lunya,",
+        "Mihloti Na Maxangu, Nchavo A Swi Kona.",
+        "3. Yesu Khokholo Ranga, Muferi Wa Mina, Ndzi Ta Tshembhela Kona, Kaku Hi Masiku,",
+        "Vusiku Byi Ta Hundza, Ndzi Nge Lahli Ntshembho, Ku KOndza Ku Ta Tlhava, Mixo Wo Saseka."
+      ],
+      "number": 1
+    }
+  ]
+}

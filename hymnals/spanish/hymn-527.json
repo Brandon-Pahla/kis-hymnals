@@ -1,0 +1,45 @@
+{
+  "number": 527,
+  "language": "es",
+  "title": "Señor Jehová, omnipotente Dios",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Señor Jehová, omnipotente Dios"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Señor Jehová, omnipotente Dios,",
+        "tú que los astros riges con poder,",
+        "oye clemente nuestra humilde voz,",
+        "nuestra oración hoy puedas",
+        "responder."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A nuestra patria da tu bendición;",
+        "enséñanos tus leyes a guardar;",
+        "alumbra la conciencia y la razón,",
+        "y reina siempre tú en todo hogar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Danos valor al enfrentar el mal;",
+        "condúcenos por sendas de virtud.",
+        "Protégenos con mano paternal,",
+        "concédenos tu paz, consuelo y luz."
+      ],
+      "number": 4
+    }
+  ]
+}

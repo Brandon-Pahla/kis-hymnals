@@ -1,0 +1,69 @@
+{
+  "number": 358,
+  "language": "es",
+  "title": "En el seno de mi alma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### En el seno de mi alma"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En el seno de mi alma una dulce",
+        "quietud",
+        "se difunde embargando mi ser,",
+        "una calma infinita que solo podrán",
+        "los amados de Dios comprender."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Paz, paz, cuán dulce paz",
+        "la que da nuestro Padre eternal;",
+        "le ruego que inunden por siempre",
+        "mi ser",
+        "sus ondas de amor celestial."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Qué tesoro yo tengo en la paz que",
+        "me dio!",
+        "En el fondo de mi alma ha de estar",
+        "tan seguro que nadie quitarlo podrá,",
+        "mientras vea los siglos pasar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Esta paz inefable consuelo me da,",
+        "pues descanso tan solo en Jesús;",
+        "y en peligro mi alma ya nunca estará,",
+        "porque estoy inundado en su luz."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alma triste, que en rudo conflicto te ves,",
+        "sola y débil, tu senda al seguir,",
+        "haz de Cristo tu amigo, que fiel",
+        "siempre es,",
+        "y su paz tú podrás recibir."
+      ],
+      "number": 6
+    }
+  ]
+}

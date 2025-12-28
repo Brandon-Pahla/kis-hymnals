@@ -1,0 +1,31 @@
+{
+  "number": 19,
+  "language": "sn",
+  "title": "19 Iwa Kumurindi Wako",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mwoyo wangu rinda, Mhandu dziri zhinji",
+        "Dzinoda kubvisa imwi, Munzira yaMwari"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rinda, munamate, Musatize hondo,",
+        "Itanyi mazuva ese, Jesu ari petyo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Reganyi kufunga, Kuti makurira,",
+        "Dakara Jesu auye, Kuzotitambira"
+      ],
+      "number": 3
+    }
+  ]
+}

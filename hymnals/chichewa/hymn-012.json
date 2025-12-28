@@ -1,0 +1,44 @@
+{
+  "number": 12,
+  "language": "ny",
+  "title": "12 - Kasupe Ali Wodzaza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE IS A FOUNTAIN"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kasupe ali wodzaza,",
+        "Ndi mwazi wa Yesu;",
+        "Omwe asamba mwa uyu",
+        "Ataya zoipa.",
+        "2. Woba wakufa napenya,",
+        "Kasupe nakondwa;",
+        "Ndi ine enso mwa uyu,",
+        "Ndisamba ndiyera.",
+        "3. Mwazi wa Yesu wokondwa,",
+        "Ukhala wamphamvu;",
+        "Kwa ana onse a Mlungu",
+        "Uchita kuombola.",
+        "4. Mmene ndapenya mwazi",
+        "wa Mabala Anuwo,",
+        "Kukonda kwanu nditama",
+        "Kwa kutha kwa moyo.",
+        "5. Ndikhulupirira kuti",
+        "Mwakakonza malo",
+        "Ndipo ndidzalowa ine",
+        "Ku moyo wosatha.",
+        "6. Kumwamba ndikayimbanso",
+        "Zamphamvu za Mlungu,",
+        "Zopulumutsa onsewa",
+        "Omvana ndi Yesu."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": 338,
+  "language": "ny",
+  "title": "338 - Utsegule Pa Khomo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "YOU MUST OPEN THE DOOR"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Utsegule pa khomo, kuti Yesu alowe;",
+        "Ndi ngati ulola ’dzacotsa chimo",
+        "Tsegula mtimawo"
+      ],
+      "number": 2
+    }
+  ]
+}

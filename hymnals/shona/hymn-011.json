@@ -1,0 +1,55 @@
+{
+  "number": 11,
+  "language": "sn",
+  "title": "11 Ndokutewera M’ponesi,",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndokutewera M’ponesi, Kwese’ko ndinogara",
+        "Apo imwi munoenda, Hunde ndokutewera"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndokutewera M’ponesi, Imwi makandifira",
+        "Kana vese vakusiya, Ini ndokutewera"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana nzira inoshata, Kana kusina nzira",
+        "Mwaenda pamberi pangu, Ini ndokutewera"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti ndaona dambudzo, Zvimwe ini ndaedzwa",
+        "Imwizve mwakamboedzwa, Ini ndokutewera"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana ndawane urombo, Kushaya, kusafara",
+        "Ndatondera mwakashaya, Tenzi, ndokutewera"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti ndinoona rufu, Musatizve mwauya",
+        "Mwakafa, makamboigwa, Ndichiri kutewera"
+      ],
+      "number": 6
+    }
+  ]
+}

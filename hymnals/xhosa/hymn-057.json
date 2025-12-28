@@ -1,0 +1,38 @@
+{
+  "number": 57,
+  "language": "xh",
+  "title": "57 Ovumayo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lowo uvayo makamemeze, Ivangeli mayigqibe ilizwe,",
+        "Apho kukh’ abantu makumenyezwe \"Lo uvayo makeze.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lowo uvayo makeze njalo, Bankqangaze naphezu kwamatafa.",
+        "U-Bawo uya nibiza, yizani! \"Lo uvayo makeze.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lowo uzayo makaphangise, Umnyango usavuliwe, wongena;",
+        "\"Ndim lo oyindlela\" utsho ke yena, \"Lo uvayo makeze.\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lowo uvumayo nali idinga Losindiso lwakhe kuwo lomhlaba.",
+        "\"Thatha nab’ ubom uphiwa ngu-Bawo, Lo uvayo makeze.\""
+      ],
+      "number": 3
+    }
+  ]
+}

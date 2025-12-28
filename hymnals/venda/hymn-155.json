@@ -1,0 +1,54 @@
+{
+  "number": 155,
+  "language": "ve",
+  "title": "155. Ndi do Ya Hune Wa Nthuma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:573",
+        "AH:352"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. A hu nga vhi kha thavha fhedzi, kana fhadzi ha lwanzhe,",
+        "Hu nga si vhe ndwani fhedzi, hune Murena a nthuma.",
+        "Nga ipfi lau wa mbidzela fhethu ndi sa hu divhi,",
+        "Ndi ri, ’Ndi na Iwe Murena, ndi ya hune wa nthuma.’"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndi do ya hune wa nthuma Yesu,",
+        "Dzithavhani na lwanzheni.",
+        "Ndi ambe maipfi au Murena,",
+        "Ndi ite lufuno lwau."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. U tshi nthuma uri ndi bule fhungo lau Murena,",
+        "Ndi tode muita-zwivhi o xelaho, a funwaho.",
+        "Mutshidzi U tshi nthusa kha iyi ndila i kondaho,",
+        "Ipfi langa li do pfala, ndi do bula zwine wa funa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Hu hone hune ha vha na midavhi yo atamaho,",
+        "Hune nda nga mushumela-vho, Yesu o ri felaho.",
+        "Ndi a di-nekedza, ndi fulufhela lufuno lwawe,",
+        "Nda di-tukufhadza phanda hawe, nda pfa lufuno lwawe."
+      ],
+      "number": 4
+    }
+  ]
+}

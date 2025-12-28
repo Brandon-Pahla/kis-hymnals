@@ -1,0 +1,62 @@
+{
+  "number": 56,
+  "language": "ve",
+  "title": "56 Ndi A da Hayani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:296",
+        "AH:186"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndo vha ndo xela ndi kule, zwino ndo vhuya,",
+        "Ndo neta nga zwivhi zwanga, Yesu ndi a da."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndi a da hayani; ndo no tou neta,",
+        "Ntanganedze nga lufuno, Yesu ndi a da."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndo tshinya nga Maanda Yesu, ndi a di-nyadza.",
+        "Ndi a lila lwa vhutungu, Yesu ndi a da."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndo neta nga u pambuwa, ndo vhuya hafhu,",
+        "Ndo fulufhela lufuno, mphe tshilidzi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mbilu yanga yo lemelwa, ndo neta tshothe.",
+        "Ndi di-nekedza kha Yesu, ndo vhuya tshothe."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. ntanzwe namusi Murena, Ndi da ha Yesu,",
+        "Ndi tshene vhunga Mahada, Yesu ndo vhuya."
+      ],
+      "number": 6
+    }
+  ]
+}

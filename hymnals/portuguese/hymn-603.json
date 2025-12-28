@@ -1,0 +1,47 @@
+{
+  "number": 603,
+  "language": "pt",
+  "title": "Benditos Laços",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Benditos Laços"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Benditos, sagrados serão",
+        "Os laços fraternos do amor,",
+        "Se juntos, com Cristo,",
+        "Ficarmos unidos,",
+        "Na causa, na luta, na dor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se juntos orarmos a Deus,",
+        "Se juntos buscarmos poder,",
+        "As hostes contrárias,",
+        "As forças das trevas,",
+        "Com Cristo iremos vencer."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se desta sagrada reunião",
+        "Nós vamos distantes ficar,",
+        "Na pátria celeste,",
+        "Pra sempre com Cristo,",
+        "Unidos havemos de estar."
+      ],
+      "number": 4
+    }
+  ]
+}

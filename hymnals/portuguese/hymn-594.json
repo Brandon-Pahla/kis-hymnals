@@ -1,0 +1,24 @@
+{
+  "number": 594,
+  "language": "pt",
+  "title": "Ouve-nos, Senhor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ouve-nos, Senhor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ouve-nos, Senhor,",
+        "Santo Salvador;",
+        "Enclina-Te a ouvir",
+        "E dá-nos Tua paz. Amém."
+      ],
+      "number": 2
+    }
+  ]
+}

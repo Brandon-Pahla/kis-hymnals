@@ -1,0 +1,56 @@
+{
+  "number": 201,
+  "language": "st",
+  "title": "201 A Nqaolla",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke ne ts’ohile pel’a Jehova,",
+        "Tlase sekoting moo libe li nkhuletseng.",
+        "Ka hoa ho Jehova tebetebeng,",
+        "A ’nyollela letsatsing ka bonolo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "A nqaolla tebetebeng,",
+        "Maoto a a beha lefikeng,",
+        "A bea Sefela moeeng oa ka,",
+        "Ke sa poko, Haleluja!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A mpeha lefikeng pel’a Hae,",
+        "Maoto a ka teng a tiile,",
+        "Ha nka ke ka oa a ke sa lutse teng,",
+        "Ke eme ke be ke bone moqhaka"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A mpha sefela se secha sa pako,",
+        "Ke tla se bina ka nako tsohle,",
+        "Ke thabile ke tokolohong,",
+        "Ke tla boka Molopolli oa ka!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tla bina tsa mohau oa hae,",
+        "Ke mo rorise bohle ba mo tsebe,",
+        "Ke tla rorisa poloko ka hohle,",
+        "Bohle ba utloa ba ts’epe Molimo."
+      ],
+      "number": 4
+    }
+  ]
+}

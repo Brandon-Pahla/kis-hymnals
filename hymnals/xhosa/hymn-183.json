@@ -1,0 +1,38 @@
+{
+  "number": 183,
+  "language": "xh",
+  "title": "183 \\\"Qinisa Ndide Ndifike\\\"",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dinga elihle kwabaKholwayo,---\\\"Ndiyeza kamsinya kuthabath’ abam;",
+        "Bamb’ uqinise; inkul’ ingozi; \\\"Zungalali wena; Hlal’ ulindile.\\\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "\\\"Ngena uvuye, Hlal’ e-troneni; Sesik’ sitshaba; bamb’ uqinise.\\\"",
+        "Bamb’ uqinise, iding’ elihle,---\\\"Ubukumkani boba bobaKho.\\\""
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Solinda sine zibane zethu; Njengesela wobabhaq’ abanye.",
+        "Kusemhlotsheni, sel’ ekufuphi,---Njenge-ntla-kohlaza ixel’ ihlobo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ilizwi lakhe litshilo kanye,---Wobonakala ese bungcwalisen’;",
+        "Yintloko yamadinga onke le;---\\\"Ndiyeza kamsinya, Bamb’ uqinise.\\\""
+      ],
+      "number": 3
+    }
+  ]
+}

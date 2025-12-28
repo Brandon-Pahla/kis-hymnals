@@ -1,0 +1,29 @@
+{
+  "number": 300,
+  "language": "ts",
+  "title": "300. KAYA RANGA RO KWETSIMA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "REST FOR THE WEARY",
+        "1. Kaya Ranga Ro Kwetsima, Ku Na Ndhawu Yo Wisa;",
+        "Mponisi U Ndzi Rhangele, Ku Ya Ndzi Lunghisela.",
+        "CHORUS",
+        "(A) Mukutsuri Wa Wisa, Wa Wisa Mukarhali;",
+        "Byi Kona Na Bya Wena, Vuwiselo.",
+        "(B) Le Ntshungen Wa Yordan, I Nsimu Ya Eden;",
+        "Ku Na Murhi Wa Vutomi, Na Vuwiseko",
+        "2. Wa Ndzi Lunghisela Kaya, Leri Ri Nga Heriki;",
+        "Hikuva Ku Tshama Kanga, Ku Nge Vi Xinkarhana.",
+        "3. Swivavi Swi Nge Vi Kona, Maxangu Ya Ta Hela;",
+        "Kambe Endhawini Liya, Ndzi Ta Ambala Harhi.",
+        "4. Rifu Ri Ta Herisiwa, Ndzhombho Wu Herisiwa;",
+        "Huwelelani Hi Ntsako, N’wina Vakutsuriwa.",
+        "5. Yimbelelan Vadyandzhaka, Hoyozelan Ku Hlula;",
+        "Mi Langutisa Tinyangwa, To Nghena Esiyoni."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 250,
+  "language": "es",
+  "title": "Padre, a tus pies me postro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Padre, a tus pies me postro"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Padre, a tus pies me postro;",
+        "rompe mis prisiones duras;",
+        "oh, responde mientras llamo;",
+        "pon tu Espíritu en mí."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Pon tu Espíritu en mi alma;",
+        "hazme lo que ser debiera;",
+        "hazme puro en todo,",
+        "libre del pecado;",
+        "pon tu Espíritu en mí."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mientras Cristo intercede,",
+        "mientras oro yo humilde,",
+        "lo que necesito dame;",
+        "pon tu Espíritu en mí."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No deseo ofenderte,",
+        "viviré para agradarte",
+        "y en el corazón guardarte;",
+        "pon tu Espíritu en mí."
+      ],
+      "number": 5
+    }
+  ]
+}

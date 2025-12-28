@@ -1,0 +1,47 @@
+{
+  "number": 404,
+  "language": "tw",
+  "title": "Momma Yɛnsɔr' Mfi Pon Yi Ho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Momma yɛnsɔr' mfi pon yi ho,",
+        "Honam, kra nč adwen fof'royem;",
+        "Yɛne Kristo wu san sɔr' bio,",
+        "Ned ɔ no ma yewie mudi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B're a yɛnam dom so ayɛ",
+        "Krado trɛw 'sɛmpa no mu yi,",
+        "Yedi Kristo 'nammɔn akyi",
+        "'Nidaso ne 'hiade k'ro mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Dɔ a yɛde bɛhyɛ fie biaram'",
+        "Yɛ ɔsom ahiade kronkron",
+        "Dwumā a Kristo fii ase no,",
+        "Yɛde 'hobrɛase bɛtoa so."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻnde Agya, hyɛ yɛn den ma",
+        "Yɛmpaw 'kwantufo kwan no bio,",
+        "Na boa ma yɛmfa 'nigye nnye",
+        "Nea ɔkyena wɔ ma yɛn no."
+      ],
+      "number": 4
+    }
+  ]
+}

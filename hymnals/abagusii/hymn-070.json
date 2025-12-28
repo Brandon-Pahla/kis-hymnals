@@ -1,0 +1,35 @@
+{
+  "number": 70,
+  "language": "guz",
+  "title": "70 Seseni' Obwanchani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Seseni' obwanchaniBwe chinkoro chiato'Bomo bwe chinkoro chiato,Bonga bwa Igoro."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Obosio bwa Tata,Tosabe n'omoyo;Ogosemeria kwegeria,Bib' omoy'oyomo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Sanger' emechando,Noborito bwonsi;Botambe tororerane,Amabera rioka."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Gatogotigana,Natwechande mono;Korende ntobwatanigwe,Tokoumerana"
+      ],
+      "number": 4
+    }
+  ]
+}

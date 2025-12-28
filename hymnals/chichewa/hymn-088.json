@@ -1,0 +1,53 @@
+{
+  "number": 88,
+  "language": "ny",
+  "title": "88 - Msandipitirire Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "PASS ME NOT!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Msandipitirire Yesu, Ndikupemphani.",
+        "Muli kudalitsa ena, Mndidalitse ’ne."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu, Mbuye, Mundimveretu.",
+        "Mmene muitana ena, Msandilekatu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndigwadira Inu, Yesu, Musandikane;",
+        "Ndikalapatu machimo, Ndidzachita mwayi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nkhope yanu ndifunitsa, Sindiyenera;",
+        "Mtima wanga muchiritsa, Nthenda zangazi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Yesu ndinutu chitsime, Cha chimwemwecho;",
+        "Sindifuna wina konse, Koma Inutu."
+      ],
+      "number": 5
+    }
+  ]
+}

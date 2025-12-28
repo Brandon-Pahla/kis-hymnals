@@ -1,0 +1,62 @@
+{
+  "number": 573,
+  "language": "es",
+  "title": "Te envío a ti",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Te envío a ti"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Te envío a ti, a un mundo que perece,",
+        "para servir a Dios con devoción.",
+        "Te envío a ti, te sostendrá mi gracia,",
+        "y en mi nombre tú podrás vencer."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Te envío a ti, a un mundo desolado",
+        "que olvidó el precio de la cruz;",
+        "ve a decirles cuánto Dios los ama,",
+        "que por salvarlos a su Hijo dio."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tal vez mañana sea ya muy tarde,",
+        "y la cosecha puédase perder.",
+        "Hoy es el día, anda y no te tardes,",
+        "contigo iré la mies a recoger."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Te envío a ti, aunque el sendero pase",
+        "por valles negros de tribulación.",
+        "Se acerca el día en que podré decirte:",
+        "buen siervo fiel, recibe el galardón."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Como el Padre me envió a mí,",
+        "yo te envío a ti."
+      ],
+      "number": 6
+    }
+  ]
+}

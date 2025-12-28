@@ -1,0 +1,34 @@
+{
+  "number": 42,
+  "language": "rw",
+  "title": " 42 Iyo Turi Kumwe N'Inshuti",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 42 Iyo Turi Kumwe N'Inshuti",
+        "**1**",
+        "Iyo turi kumwe n'inshuti,",
+        "Nta kitubabaza,",
+        "Arikw'iyo dutandukanye,",
+        "Tugir'agahinda.",
+        "**Gusubiramo:**",
+        "Mw'ijuru ntituzatana,",
+        "Tuzahahorana.",
+        "Mur'iyo si y'amahoro,",
+        "Ntabwo tuzatana.",
+        "**2**",
+        "Iyo twibuts'inshuti zacu,",
+        "Turishima cyane.",
+        "Nitumar'imirimo yacu,",
+        "Tuzaban'iteka.",
+        "**3**",
+        "Ntabwo tuzasezeranaho,",
+        "Tugeze mw'ijuru;",
+        "Tuzahahoran'ibyishimo,",
+        "Turirimb'iteka."
+      ],
+      "number": 1
+    }
+  ]
+}

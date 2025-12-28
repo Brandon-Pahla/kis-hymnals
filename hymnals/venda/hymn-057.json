@@ -1,0 +1,48 @@
+{
+  "number": 57,
+  "language": "ve",
+  "title": "57 Uyo A Pfaho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:179"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Uyo a pfaho kha vhidzelele, Ivangeli kha i ye lifhasini,",
+        "Hu re na vhathu nga hu vhidzelelwe, ’Uyo a pfa kha de.’"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Uyo a pfaho kha tavhanyedze,",
+        "A vhudze vhothe vha re fhano fhasi,",
+        "Mudzimu U a ni vhidza Idani,",
+        "’Uyo a pfaho kha de’."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Uyo a pfaho kha di-sendedze, Munango wo vulwa u do di dzhena,",
+        "Ndi nne ndila, u ralo Murena, ’Uyo a pfa kha de.’"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ane a pfa kheli fulufhelo, la u tshidzwa hawe kha ili shango.",
+        "Vhutshilo khovhu u fhiwa nga khotsi, ’Uyo a pfa kha de.’"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "number": 173,
+  "language": "es",
+  "title": "¿Será al albor?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "¿Será al albor, cuando el día despierta",
+        "y el sol cada sombra nocturna",
+        "ahuyenta?",
+        "¿Será al albor cuando en toda su gloria",
+        "volverá a la tierra Jesús?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¿Cuánto aún faltará, Señor,",
+        "hasta que cante así:",
+        "\"Cristo vuelve, ¡aleluya! ¡aleluya!",
+        "Amén.",
+        "¡Aleluya! Amén\"?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Trompeta triunfal todos pronto",
+        "oiremos;",
+        "su escolta de ángeles santos veremos;",
+        "su sien coronada de luz miraremos",
+        "cuando venga en gloria Jesús."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Qué gozo habrá cuando acabe la",
+        "muerte!",
+        "Vivir sin dolor tocaranos en suerte;",
+        "las penas y el mal quitará el Dios",
+        "fuerte",
+        "cuando venga en gloria Jesús."
+      ],
+      "number": 4
+    }
+  ]
+}

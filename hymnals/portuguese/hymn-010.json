@@ -1,0 +1,44 @@
+{
+  "number": 10,
+  "language": "pt",
+  "title": "Louvemos o Rei",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Louvemos o Rei"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Louvemos o Rei, glorioso Senhor",
+        "Oh, vamos cantar de Seu infindo amor!",
+        "Escudo seguro é Seu grande poder,",
+        "E sempre Seus filhos está a defender."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Falemos de Deus, da graça sem-par,",
+        "Do grande Senhor do Céu, da Terra e mar,",
+        "Que forma a chuva, o vento e a luz.",
+        "A forte tormenta o Seu poder traduz."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cantemos do Seu cuidado por nós,",
+        "E demos ao Pai louvor em alta voz,",
+        "Louvemos, louvemos ao bom Criador,",
+        "Amigo sincero, fiel e Redentor."
+      ],
+      "number": 4
+    }
+  ]
+}

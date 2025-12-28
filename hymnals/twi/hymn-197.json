@@ -1,0 +1,47 @@
+{
+  "number": 197,
+  "language": "tw",
+  "title": "Me Guanhwɛfo Ne Dɔ Hen' No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me Guanhwɛfo ne dɔ Hen' no",
+        "Ne papayɛ rensa da;",
+        "Mewɔ No a, b'ribi nhia me,",
+        "Na ɔyɛ me de daa daa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nea nkwa asubɔnten sen no",
+        "Ogya me kra á Wapon no,",
+        "Nea nhabammono fifi no,",
+        "De soro aduan yɛn no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Metaa meyɛ kwasea to kwan",
+        "Na Okyin pɛ me ɔdɔm',",
+        "ɔsoa me Ne mmat'ri so brɛoo,",
+        "ɔde me ba fie 'nigyem."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me nkwa nna tenten yi nyinaam,",
+        "W'ayamye no mmɔ me da;",
+        "'Guanhwɛfo pa, meyi W'ayɛ,",
+        "Wɔ Wo fi ha daa nyinaa."
+      ],
+      "number": 4
+    }
+  ]
+}

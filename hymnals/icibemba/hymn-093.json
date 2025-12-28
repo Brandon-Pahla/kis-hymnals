@@ -1,0 +1,32 @@
+{
+  "number": 93,
+  "language": "bem",
+  "title": "93 - KASUBA KAKUTUSHA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O DAY OF REST AND GLADNESS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kasuba kakutusha. Kasuba kabuta;",
+        "Kafumye nsoni shonse, Kalubuto lweka;",
+        "Bamulu bamu calo, Balefukamina;",
+        "No kwimba wafya, wafya, Wene wa pe na pe.",
+        "2. Wene Cibumba cesu, Cashinguluka 'fwe;",
+        "Ibala lyakutemwa, Menshi ya Padiso;",
+        "Wene Kafukauka, ku bantu banaka;",
+        "Ifwe tuli pa mulu, Tumona 'patali.",
+        "3. Kasuba ka lubuto, Nikakwangamo fye,",
+        "Kakutemwa 'fwe Mfumu, Fya muJu ne calo;",
+        "Tupokele cikuku, Mubushiku ubu,",
+        "Kwashala fye kutusha, Mu mulu ne Mfumu."
+      ],
+      "number": 2
+    }
+  ]
+}

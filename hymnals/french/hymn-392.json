@@ -1,0 +1,52 @@
+{
+  "number": 392,
+  "language": "fr",
+  "title": "Tu peux naître de nouveau",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tu peux naître de nouveau,",
+        "Tu peux tout recommencer,",
+        "Balayer ta vie passée,",
+        "Et repartir à zéro,",
+        "Et repartir à zéro,",
+        "Avec Jésus pour berger.",
+        "Et repartir à zéro,",
+        "Et repartir à zéro,",
+        "Avec Jésus pour berger."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu peux boire de cette eau,",
+        "Source de la pureté,",
+        "Source de la vérité.",
+        "Tu peux boire de cette eau,",
+        "Tu peux boire de cette eau,",
+        "Source de l'éternité.",
+        "Tu peux boire de cette eau,",
+        "Tu peux boire de cette eau,",
+        "Source de l'éternité."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu peux être pardonné",
+        "Pour tous tes péchés passés",
+        "Car Jésus a tout payé.",
+        "Tu peux recevoir la paix,",
+        "Tu peux recevoir la paix,",
+        "Source de la liberté,",
+        "Et repartir à zéro,",
+        "Et repartir à zéro,",
+        "Avec Jésus pour berger."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "number": 244,
+  "language": "xh",
+  "title": "244 Yiza Ku-Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Y’za kuYesu, Y’za kuYesu, Y’za kuYesu ngoku;",
+        "Ngoku, Yiza wena, Yiza kuYe ngoku."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wosindiswa, Wosindiswa, Wosindiswa ngoku;",
+        "Ngoku Wosindiswa, Yiza kuYe ngoku."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unamandla, Unamandla Unamandla Yena;",
+        "Ngoku unamandla, Yiza kuYe ngoku."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cela kuYe, Cela kuYe, Cela kuYe ngoku;",
+        "Ngoku, Cela kuYe, Yiza kuYe ngoku."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ulindele, Ulindele, Ulindele ngoku;",
+        "Ngoku, Ulindele, Yiza kuYe ngoku."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Themba yena, Themba yena, themba yena ngoku;",
+        "Ngoku, Themba yena, Yiza kuYe ngoku."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wosindiswa, Wosindiswa, Wosindiswa ngoku;",
+        "Ngoku, Wosindiswa, Yiza kuYe ngoku."
+      ],
+      "number": 7
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 48,
+  "language": "guz",
+  "title": "48 Yeso Obeire Omosani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yes' obeire omosani,Obogima bwonsi;Ombekire omokia pi,Nere onkonyire.Kondemeire arangokie,onde tari omobueteChinsa chionsi arangokie,'Mosani."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yes' obeire Omosani,Ase emechando;Ning'end' as'are botambe,Korigia ebisio.'Mobaso bwonsi n'embura,Bikorabia endagera;'Mobas' oye, otomire,'Mosani."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yes' obeire Omosani,Tinkomotig' Ere;Naki ndamokanie bono,Gankonyire mono?Kondamotunyane Ere,Tingosira nonya ng'ake;Nimotunye, Kero gionsi,'Mosani."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Yes' obeire omosani,Tindigeti onde;Okwegena okonene,'mwegene botambe.'Bogima buya as'are,'Bogima botakoera;Obogima natokoe,'Mosani."
+      ],
+      "number": 4
+    }
+  ]
+}

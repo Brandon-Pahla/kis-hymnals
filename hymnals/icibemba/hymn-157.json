@@ -1,0 +1,29 @@
+{
+  "number": 157,
+  "language": "bem",
+  "title": "157 - ULYA UYA ILYO ALILA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HARVEST TIME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ulya uya ilya lila, Nokutanda imbuto-o,",
+        "Ukwabula ukunaka, Akabelelwo luse.",
+        "CHORUS:",
+        "Shilolesha! We mulimi, Imbuto nomba shapya;",
+        "Mona amabala yapya yapembwa Ukusepwa",
+        "2. Kalabalika kasuba, Ne mfula ilaloka-a,",
+        "Ifitwalo filakula namaka yakumulu.",
+        "3. Tande mbuto wilanaka, witina winashiwa-a,",
+        "Nangu kube amacusho, Ukaba mubuseko."
+      ],
+      "number": 2
+    }
+  ]
+}

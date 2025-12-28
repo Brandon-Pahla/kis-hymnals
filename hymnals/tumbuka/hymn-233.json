@@ -1,0 +1,57 @@
+{
+  "number": 233,
+  "language": "tum",
+  "title": " 233 Phala Nkhani Yakale",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 233 Phala Nkhani Yakale",
+        "C.H. 524 TELL ME THE OLD; OLD STORY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Phala nkhani yakale ya vinthu kuchanya,",
+        "Vya Yesu m'uchindami na chitemwa chake,",
+        "Phala nkhani makola nga nkhwamwana m'choko,",
+        "Ndawakutomboloka ndawakufipirwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain:",
+        "PhaLa nkhani yakaLe, phaLa nkhani yakaLe,",
+        "PhaLa nkhani yakaLe, ya Yesu nkhutemwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Utokotoske nkhani mu mazgu ghaweme,",
+        "Kumbuka ndine mheni Yesu wakafwira,",
+        "Uphale nkhani yose para uli m'suzgo,",
+        "Mu nyengo yiri yose ndiyo msanguluski."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Phala nkhani yiyira uvwe una wofi,",
+        "Ntchindi m' charu njawaka njakusuzga nadi,",
+        "Inya, ntchindi yacharu para yina ine,",
+        "Phala nkhani yakale, \"Khristu ndi Mponoski.\""
+      ],
+      "number": 5
+    }
+  ]
+}

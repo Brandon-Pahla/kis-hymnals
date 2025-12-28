@@ -1,0 +1,54 @@
+{
+  "number": 111,
+  "language": "xh",
+  "title": "111 Noko Amnye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Akukho sihlobo njengo-Yesu, Nasinye! Nasinye!",
+        "Engekho onokusiphilisa, AkaKho noyedwa!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yen’ uzaz’ zonk’ inzima zethu. Wokhokela ’de kuphele.",
+        "Akukho sihlobo njengo-Yesu, Nasinye! Nasinye!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akukh’ onje ngaYe ngobungcwele, AkaKho noyedwa!",
+        "Engekho nonje ukululama, AkaKho noyedwa!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akukho yure akude nathi, Ayikho neyodwa!",
+        "Akukho busuk’ akude nathi, Abukho banunye!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wakha washiya ingcwele nini? Ayikho neyodwa!",
+        "Kwa nomoni owakha wamala? AkaKho noyedwa!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sakhe saKho isipho esinje? Asikho nasinye!",
+        "Wosivimba indaw’ ezulwini? Nakanye! Nakanye!"
+      ],
+      "number": 5
+    }
+  ]
+}

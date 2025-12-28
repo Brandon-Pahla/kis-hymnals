@@ -1,0 +1,28 @@
+{
+  "number": 99,
+  "language": "guz",
+  "title": "99 Enkoro Yane Renda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Nkoro yane renda;Babis' emeganda,B'ebibe babetereria;Gokorusia Igoro."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Renda rwana saba;Timotig'esegi,Rwan'as'oboyia botambe;Saba ogokonywa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Segi teraera;Totig' amatimo'Segi eye tekoera;Goik'onyore egutwa."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "number": 308,
+  "language": "fr",
+  "title": "Me voici, jeune ouvrier",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me voici, jeune ouvrier.",
+        "Seigneur, veux-tu m'employer ?",
+        "Je suis faible et sans talent,",
+        "Mais, Jésus, je t'aime tant !",
+        "Toute petite est ma main,",
+        "Mais son effort n'est pas vain."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Me voici, jeune ouvrier,",
+        "Seigneur, veux-tu m'employer ?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que j'apprenne chaque jour",
+        "À lire au livre d'amour.",
+        "Que je marche devant toi",
+        "En chantant : « Gloire à mon Roi ».",
+        "Oh ! prends mes mains, prends mon cœur,",
+        "Et rends-moi toujours vainqueur."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Apprends-moi la charité,",
+        "La douceur, la sainteté.",
+        "Par ton Esprit bienfaisant,",
+        "Sois en moi toujours présent.",
+        "Ô mon Maître, enseigne-moi",
+        "À bien travailler pour toi !"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "number": 234,
+  "language": "tum",
+  "title": " 234 Yesu Nyali Ya Charu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 234 Yesu Nyali Ya Charu",
+        "CS 313 JESUS TH LIGHT THE WORLD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Yesu ndi nyali m'charu",
+        "wangelo wakuphara;",
+        "Mwe Fumu yababika,",
+        "Yesu nyali ya charu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu kungweruka kwa charu,",
+        "nadi tende muungweru uwu;",
+        "Ungweru muhanya na usiku,",
+        "Yesu nyaLi ya charu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Wanthu 'wose wakondwe,",
+        "Yesu nyali ya charu;",
+        "Kuchanyaso wakondwe,",
+        "Yesu nyali ya charu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Wachindikike nadi,",
+        "Yesu nyali ya charu;",
+        "Yesu Fumu yandanda,",
+        "Yesu nyali ya charu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Ndi Fumu ya chimango,",
+        "Yesu nyali ya charu,",
+        "Ungweru wa 'nenesko,",
+        "Yesu nyali ya charu."
+      ],
+      "number": 5
+    }
+  ]
+}

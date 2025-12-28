@@ -1,0 +1,54 @@
+{
+  "number": 104,
+  "language": "fr",
+  "title": "Quand, sur l’ordre du Seigneur",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Quand, sur l’ordre du Seigneur,",
+        "Bientôt les tombes s’ouvriront,",
+        "Et pour nous le grand matin se lèvera;",
+        "Quand, heureux, près du Sauveur,",
+        "Les élus se retrouveront,",
+        "Et le grand appel, enfin, retentira…"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Quand là-haut, dans le ciel même,",
+        "Se fera l’appel suprême,",
+        "Par Jésus, que mon cœur aime,",
+        "Je le sais, oui, gloire à Dieu, je serai là!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En ce jour si merveilleux,",
+        "Les morts en Christ se lèveront,",
+        "Pour l’éternité, Jésus les recevra,",
+        "Triomphants et glorieux,",
+        "Ses rachetés apparaîtront,",
+        "Et le grand appel enfin retentira..."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sans relâche et d’un seul cœur,",
+        "Travaillons tous en ces bas lieux,",
+        "Car bientôt le jour de grâce finira;",
+        "Le repos et le bonheur",
+        "Nous sont réservés dans les cieux,",
+        "Où le grand appel enfin retentira..."
+      ],
+      "number": 4
+    }
+  ]
+}

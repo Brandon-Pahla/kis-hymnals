@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "description": "Cross-references between hymns in different language hymnals that are translations of each other.",
+  "note": "This file can be populated manually or through community contributions as translations are verified.",
+  "crossReferences": [
+    {
+      "id": "example-001",
+      "note": "Example entry - replace with actual verified translations",
+      "hymns": {
+        "english": {
+          "number": 1,
+          "title": "Example Title"
+        },
+        "swahili": {
+          "number": 1,
+          "title": "Example Title in Swahili"
+        }
+      }
+    }
+  ]
+}

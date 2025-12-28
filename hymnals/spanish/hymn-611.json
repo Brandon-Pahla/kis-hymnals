@@ -1,0 +1,34 @@
+{
+  "number": 611,
+  "language": "es",
+  "title": "Oh, juventud del Rey",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Oh, juventud del Rey"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, juventud del Rey,",
+        "Jesús nos llama hoy.",
+        "Digámosle de corazón:",
+        "mi vida yo te doy."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cumplamos la misión,",
+        "que Cristo nos dejó,",
+        "de predicar su amor",
+        "a quien Satán aprisionó."
+      ],
+      "number": 3
+    }
+  ]
+}

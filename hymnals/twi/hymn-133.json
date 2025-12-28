@@ -1,0 +1,37 @@
+{
+  "number": 133,
+  "language": "tw",
+  "title": "Wɔawo S'ro 'Bofra Kristo Nnɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔawo s'ro 'Bofra Kristo nnɛ,",
+        "Momfa nsankuten ne mmɛnta nto dwom;",
+        "Wɔawo s'ro 'Bofra kristo nnɛ,",
+        "Momma yɛmfa 'nigye nto dwom."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔwoo No mmoa 'dididan mu,",
+        "Ne mpa a ɔdaa so yɛ mmoa aduan';",
+        "Wɔwoo No mmoa 'dididan mu,",
+        "Momma yɛnkoto nsɔre No."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Esii wɔ tete mmere mu,",
+        "B'rč a 'nyansafo hyɛɛ Ne mmae no honkɔm;",
+        "Esii wɔ tete mmere mu,",
+        "'Nyansafo hyɛɛ N'awo ho nkɔm."
+      ],
+      "number": 3
+    }
+  ]
+}

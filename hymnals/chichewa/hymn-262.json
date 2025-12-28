@@ -1,0 +1,32 @@
+{
+  "number": 262,
+  "language": "ny",
+  "title": "262 - Kristuu Kapena Barab",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "CHRIST OR BARABAS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Nditani naye Yesu? Waima panoyu",
+        "Wabvala cinyong’onyo, Ndi minga pamutu.",
+        "CHORUS:",
+        "Tsopano ndifunse, Muyankha cotani?",
+        "Ndimpacike Mfumu Yesu, Atsale Baraba?",
+        "2. Ndimasule mbalayi, Cimunthu ca dama?",
+        "Wocimwa, ngosacimwa? Mukanapo yani?",
+        "3. Funsotu loopsali! Litengeni bwino,",
+        "Nsisi zilindirabe, Koma mwa mabvuto.",
+        "4. Mpando waciweruzo sungakane dziko?",
+        "Anapfuula \"Cotsa, Mumpacike Yesu!\"",
+        "5. Si kwa ocimwa okha Funso linenetse;",
+        "Mvani Akristu nomwe, Ora loyesedwa"
+      ]
+    }
+  ]
+}

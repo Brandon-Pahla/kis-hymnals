@@ -1,0 +1,35 @@
+{
+  "number": 208,
+  "language": "en-sdah",
+  "title": "208 There’ll Be No Dark Valley",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. There'll be no dark valley when Jesus comes, There'll be no dark valley when Jesus comes; There'll be no dark valley when Jesus comes To gather His loved ones home."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain : To gather His loved ones home, To gather His loved ones home; There'll be no dark valley when Jesus comes To gather His loved ones home."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. There'll be no more sorrow when Jesus comes, There'll be no more sorrow- when Jesus comes; But a glorious morrow when Jesus comes To gather His loved ones home."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. There'll be songs of greeting when Jesus comes There'll be songs of greeting when Jesus comes; And a joyful meeting when Jesus comes To gather His loved ones home."
+      ],
+      "number": 4
+    }
+  ]
+}

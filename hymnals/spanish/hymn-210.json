@@ -1,0 +1,44 @@
+{
+  "number": 210,
+  "language": "es",
+  "title": "Huye cual ave",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Huye cual ave"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Huye cual ave a tu monte,",
+        "alma abrumada del mal;",
+        "allí en Jesús, clara fuente,",
+        "lava tu lepra mortal.",
+        "Huye del mal vergonzoso,",
+        "clame tu ser, temeroso;",
+        "Cristo te ofrece reposo,",
+        "¡oh! alma abrumada del mal;",
+        "¡oh! alma abrumada del mal."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quiere el Maestro salvarte,",
+        "tu llanto enjugará;",
+        "promete nunca dejarte,",
+        "defensa fiel te será.",
+        "Ven, pues, va el día volando;",
+        "no andes más suspirando",
+        "ni te detengas llorando:",
+        "tus males Jesús quitará;",
+        "tus males Jesús quitará."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "number": 77,
+  "language": "pt",
+  "title": "É Jesus o Salvador",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### É Jesus o Salvador"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Escutai a voz de Deus: é Jesus o Salvador!",
+        "0, clamai, vós filhos Seus: é Jesus o Salvador.",
+        "Proclamai com grande ardor salvação ao pecador,",
+        "Pois Jesus aqui morreu para ser o Salvador!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abraçai o excelso dom: é Jesus o Salvador!",
+        "Pela cruz vos dá perdão: é Jesus o Salvador",
+        "Multidões, ó, exultai; Seu amor considerai!",
+        "Anjos Seus também clamai: é Jesus o Salvador!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó fiéis, a voz erguei: é Jesus o Salvador!",
+        "Vós, nações, louvor rendei: é Jesus o Salvador!",
+        "Salvação de graça dá, e perdão ao pecador!",
+        "Glórias mil a Deus Jeová, pois Jesus é o Salvador!"
+      ],
+      "number": 4
+    }
+  ]
+}

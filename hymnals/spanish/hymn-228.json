@@ -1,0 +1,26 @@
+{
+  "number": 228,
+  "language": "es",
+  "title": "Me buscaréis y me hallaréis",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Me buscaréis y me hallaréis"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me buscaréis y me hallaréis,",
+        "porque me buscaréis",
+        "de todo vuestro corazón.",
+        "Me buscaréis y me hallaréis,",
+        "porque me buscaréis",
+        "de todo corazón."
+      ],
+      "number": 2
+    }
+  ]
+}

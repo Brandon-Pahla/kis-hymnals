@@ -1,0 +1,21 @@
+{
+  "number": 226,
+  "language": "ts",
+  "title": "226. NDZI LAVE KU VA MUPFUMERI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ALMOST PERSUADED",
+        "1. Ndzi Lave Ku Va Mupfumeri, Ndzi Lave K’amukela Kreste,",
+        "Ra Hlamarisa Rito Famba Moya Sweswi, Ndzi Ta Ku Vitana Siku Rimbe.",
+        "2. Namuntlha Wa Ha Vitaniwa, Tana Ka Yesu Wa Ku Rhamba,",
+        "Xikhongelo Xakwe, Na Xikhongotelo.",
+        "3. Wa Hundza Nkarhi Wa Ntshovelo, U Langutela Ku Lahliwa,",
+        "Xirili Xi Nge Pfuni, U Rindze Rifu,",
+        "Hi Ku Tshika Nkarhi Wa Ku Pona."
+      ],
+      "number": 1
+    }
+  ]
+}

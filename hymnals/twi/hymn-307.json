@@ -1,0 +1,56 @@
+{
+  "number": 307,
+  "language": "tw",
+  "title": "Mereba ' Sɛnnuan' Ase",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mereba 'sɛnnuan' ase,",
+        "Meyɛ hiani, nif'rani;",
+        "Mimmu nea mewɔ biara,",
+        "Mehwehwɛ nkwagye mapa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Awurade metwer' Wo,",
+        "O Kalbre so Oguammaa;",
+        "Mekoto W'asɛnnua 'se",
+        "Oyesu, gye me seesei."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me koma 'fee Wo akyɛ,",
+        "Bɔn' adi mu hen' akyɛ,",
+        "Yesu ka nsɛm dɛdɛ sɛ,",
+        "'Mɛhoh'ro wo ho bɔn' ny'naa'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mede m'ade ny'naa ma Wo,",
+        "Nnamfo, b're, wiase 'honya;",
+        "Me kra ne me nipadua",
+        "Ny'naa yɛ Wo de afebɔɔ."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu bɔhyɛ me kra ma!",
+        "Mawie pɛyɛ wɔ Ne mu,",
+        "Me ho ny'naa atew koraa,",
+        "'Nuonyam nka Oguammaa no."
+      ],
+      "number": 4
+    }
+  ]
+}

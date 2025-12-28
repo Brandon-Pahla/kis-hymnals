@@ -1,0 +1,25 @@
+{
+  "number": 601,
+  "language": "pt",
+  "title": "A Mão de Deus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A Mão de Deus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A mão de Deus e Seu poder",
+        "guardar-vos-ão de todo o mal;",
+        "Em Sua luz possais viver,",
+        "na doce paz do amor real.",
+        "Amém."
+      ],
+      "number": 2
+    }
+  ]
+}

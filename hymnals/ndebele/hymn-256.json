@@ -1,0 +1,47 @@
+{
+  "number": 256,
+  "language": "nd",
+  "title": "256  O, Jehova Waphakade",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, Jehova waphakade!",
+        "Themba elimile",
+        "Kuko konke Nqaba yethu",
+        "Ulikhaya lethu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phansi kwesihlalo sAkho",
+        "Kukhon’ is’phephelo",
+        "Kothokoza izingcwele",
+        "Nathi sivikelwe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zingaka dalwa izintaba",
+        "Ungekho nomhlaba",
+        "Phakade ung’ uNkulunkulu",
+        "Wena wedw’ umkhulu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inkulungwane zem’nyaka",
+        "KuWe liny’ ilanga",
+        "Zona z’phelela ezeni",
+        "Wen’ ukhona nini"
+      ],
+      "number": 4
+    }
+  ]
+}

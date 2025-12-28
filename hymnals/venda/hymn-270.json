@@ -1,0 +1,55 @@
+{
+  "number": 270,
+  "language": "ve",
+  "title": "270. Mutshidzi Washu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:156"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mutshidzi washu a ri onesa nga vhulenda",
+        "Mutsireledzi, muimeleli washu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ú a takadza, a vha a ri tutuwedzaho",
+        "Mueni u do thikha mbiluni mbuya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri pfa ipfi lawe lisekene la vhulenda",
+        "li lugisala mufhumudza zwa tadulu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ri na Maanda othe, na gundo ri a li wana",
+        "Muhumbulo yothe mikhethwa ndi yawe."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Muya wavhudi na tshilidzi, ri nee zwone",
+        "Dzula mbiluni dzashu dzi nge yau-vho."
+      ],
+      "number": 6
+    }
+  ]
+}

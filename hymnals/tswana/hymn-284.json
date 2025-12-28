@@ -1,0 +1,44 @@
+{
+  "number": 284,
+  "language": "tn",
+  "title": "284 Go Ba Ba Tlhokang Kgomotso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Go Ba Ba Tlhokang Kgomotso, Fa Malatsi A Feta;",
+        "Go mewa e e nyelelang Fa malatsi a feta;",
+        "Fa re ka nyenya sesa, Ka re eta mo tseleng,-",
+        "Re ka dira molemo, Fa malatsi a feta."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "A feta, (a feta) A feta, (a feta)",
+        "Re ka dira molemo, fa matsatsi a feta."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga Go Nako Ya Tshameko, Fa Malatsi A Feta;",
+        "Lo nne fatlhogo tsa moso, Fa malatsi a feta;",
+        "Phegelo di mo ’fatsheng, Bofutsana keledi",
+        "Lo thuseng ba ba oleng, Fa malatsi a feta."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rato Lo Lo Re Kopantseng, Fa Malatsi A Feta;",
+        "Re lo tlogela ka bonye, Fa malatsi a feta;",
+        "Mme peo tse re di jalang Ke tse tla nna di gola,",
+        "Di re thamisa pelo, Fa malatsi a feta."
+      ],
+      "number": 3
+    }
+  ]
+}

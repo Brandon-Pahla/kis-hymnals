@@ -1,0 +1,56 @@
+{
+  "number": 563,
+  "language": "pt",
+  "title": "Querido Lar",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Querido Lar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Querido lar, ali no Céu,",
+        "Alem do mundo, além do véu!",
+        "Viver ali será prazer,",
+        "Oh, quanto almejo já o ver!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Querido lar, oh, doce lar!",
+        "Onde eu pra sempre irei morar.",
+        "Um pouco mais e eu partirei;",
+        "No eterno lar descansarei."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Querido lar, ditoso lar!",
+        "Ali ninguém vai mais chorar.",
+        "Tristeza e dor, ou tentação,",
+        "Naquele lar não entrarão."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Só vai entrar no lar de luz",
+        "Quem for remido por Jesus;",
+        "Eu sei que Cristo, meu Senhor,",
+        "Me espera ali, no lar de amor."
+      ],
+      "number": 5
+    }
+  ]
+}

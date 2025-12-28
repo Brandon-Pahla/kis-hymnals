@@ -1,0 +1,48 @@
+{
+  "number": 313,
+  "language": "fr",
+  "title": "Ouvre mes yeux",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ouvre mes yeux pour découvrir",
+        "Ton chemin pour moi tout tracé;",
+        "Place en mes mains la clé pour ouvrir",
+        "L'horizon de ma liberté."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Confiant, je regarde à toi,",
+        "Cherchant ta volonté, mon Dieu ;",
+        "Ouvre mes yeux, éclaire-moi",
+        "Esprit de Dieu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ouvre mon oreille à ta voix,",
+        "Rends-moi sensible à ton appel;",
+        "Et j'entendrai ta musique en moi",
+        "Jouer la partition du ciel."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ouvre mes lèvres pour chanter",
+        "La beauté de ta vérité;",
+        "Ouvre mon cœur, fais-moi partager",
+        "Tout l'amour que tu m'as donné."
+      ],
+      "number": 4
+    }
+  ]
+}

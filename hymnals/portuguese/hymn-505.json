@@ -1,0 +1,54 @@
+{
+  "number": 505,
+  "language": "pt",
+  "title": "Somos um Pequeno Povo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Somos um Pequeno Povo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Somos um pequeno povo mui feliz!",
+        "Somos um pequeno povo mui feliz!",
+        "Cristo veio nos salvar, breve nos virá buscar;",
+        "Somos um pequeno povo mui feliz!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Os sinais de Sua volta aí estão,",
+        "Eis os povos em tremenda inquietação;",
+        "Eis a ciência a aumentar, e a impiedade a se agravar;",
+        "Logo Cristo nos trará libertação!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Stá mui prestes o momento da emoção!",
+        "Vai bater acelerado o coração!",
+        "Nossos olhos levantar! Para o céu bem firme olhar!",
+        "Já vem vindo a tão sonhada redenção!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Somos um pequeno povo mui feliz!",
+        "Somos um pequeno povo mui feliz!",
+        "Cristo veio nos salvar, breve nos virá buscar;",
+        "Somos um pequeno povo mui feliz!"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 350,
+  "language": "guz",
+  "title": "350 'Malaika A Ayasaye Bamenye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Malaika a Nyasaye bamenye;Ang'e ange, ang'e naintwe;Nabakonye abegeni; Botambe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O rire ri'omorero,rire ri'omorero,Ntang'ana inche botambeO rire ri'omorero,rier ri'omorero,Ntang'ana goika igoro."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Emechando ker' as' encheraNatokonye, natokonye;Natonyor' obotamero As'Are."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. As' orogendo rwaito rwonsi,Omonene, Omonene,Natotang'ane botambe As'ens'eye."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 6,
+  "language": "st",
+  "title": "6 Lebelang Bahalaleli",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lebelang bahalaleli, bona matla ’leholimo;",
+        "Mabone a ’ne a tuke, itukiseng Jesu Oa tla."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O ’a tla! Jesu Oa tla; bona! O tla A le khanyeng;",
+        "O tla ho busa ka hlolo, E oa tla Jesu Oa tla."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bona ts’episo ’a ’Moloki, beng tseo re li ts’oaretsoeng;",
+        "Liaparo le meqhaka, phetang le tokoloho e re:"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mebuso e ea felisoa, utloang makoloi a luma;",
+        "Phetang mohau o moholo, ’Kolulo la bosupa lea lla:"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lichaba li ea timela, ho tla borena ba Kreste;",
+        "Lefats’e le ea qetellong, hoeletsang jesu O a tla."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Baetsalibe tlong le ea bitsoa, Jesu O a le buella;",
+        "Phakisang mohau oa koaloa, ho tla thoe jo ho felile."
+      ],
+      "number": 5
+    }
+  ]
+}

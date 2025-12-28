@@ -1,0 +1,58 @@
+{
+  "number": 165,
+  "language": "fr",
+  "title": "Louange et gloire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Louange et gloire à ton nom,",
+        "Alléluia, alléluia !",
+        "Seigneur, Dieu de l'univers,",
+        "Alléluia, alléluia !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Gloire à Dieu, gloire à Dieu,",
+        "Au plus haut des cieux.",
+        "Gloire à Dieu, gloire à Dieu,",
+        "Au plus haut des cieux."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Venez, chantons notre Dieu,",
+        "Alléluia, alléluia !",
+        "C'est lui qui nous a créés,",
+        "Alléluia, alléluia !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pour nous, il fit des merveilles,",
+        "Alléluia, alléluia !",
+        "Éternel est son amour,",
+        "Alléluia, alléluia !"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je veux chanter pour mon Dieu,",
+        "Alléluia, alléluia !",
+        "Tous les jours de ma vie,",
+        "Alléluia, alléluia !"
+      ],
+      "number": 5
+    }
+  ]
+}

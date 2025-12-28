@@ -1,0 +1,38 @@
+{
+  "number": 42,
+  "language": "tn",
+  "title": "42 Boitumelong Re Rakana Le Ditsala",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Boitumelong Re Rakana Le Ditsala Mo Fatshing",
+        "Mme go tla mogopolo wa gore re tla kgaogana."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ga re ka ke ra kgaogana Gone legodimong,",
+        "Kwa fatshing ja boitumelo, Ga re na kgaogano"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go Boipelo Tsholofelo Fa Baratwi Ba Tloga,",
+        "Gore bokhutlong rona le bona re tla nna mmogo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga Go Taetso E Ka Buiwang Gaeeng Je Lentle Jele,",
+        "Mme re tla opela kopelo Tsa kagiso gone."
+      ],
+      "number": 3
+    }
+  ]
+}

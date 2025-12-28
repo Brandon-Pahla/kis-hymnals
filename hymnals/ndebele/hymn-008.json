@@ -1,0 +1,45 @@
+{
+  "number": 8,
+  "language": "nd",
+  "title": "8 Nxa Bebizwa Phezulu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa icilongo li khala nesikhathi si dlula;",
+        "Kofika usuku olumi njalo",
+        "Abasindisiweyo ezweni ba zobuthana;",
+        "Bebizwa phezulu ngi zobakhona"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa sebe bizwa phezulu ( 3 times )",
+        "Bebizwa phezulu ngi zobakhona"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngesikhathi esihle lapho sebevuswa bonke",
+        "Ba zoba nesimo esisha bonke",
+        "Abakhethiweyo uma sebeqoqelwa khona;",
+        "Bebizwa phezulu ngi zobakhona"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma si yisebenzele iNkosi lize li shone;",
+        "Ngothando lweNkosi ma sitshelane,",
+        "Si ngafa u zophela umsebenzi wethu lapha",
+        "Bebizwa phezulu ngi zobakhona."
+      ],
+      "number": 4
+    }
+  ]
+}

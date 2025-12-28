@@ -1,0 +1,47 @@
+{
+  "number": 90,
+  "language": "sn",
+  "title": "90 Basa Reviki",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Basa reviki rapera,",
+        "Sabata rimwe rawamba,",
+        "Mwoyo wangu muzorore,",
+        "Musi wakakomborerwa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kudza Mwari wakatipa,",
+        "Ruzororo rwakanaka,",
+        "Wakomborera Sabata,",
+        "Kupinda misi yebasa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngoma dzedu dzinokwira,",
+        "Serusensi rwekudtenda,",
+        "Kuna Jesu tigashire,",
+        "Kuzorora kwatapira"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Runyararo rwemumwoyo,",
+        "Ririchitsidzo chaMwari,",
+        "Arikutigadzirira,",
+        "Ruzororo rwekudenga"
+      ],
+      "number": 4
+    }
+  ]
+}

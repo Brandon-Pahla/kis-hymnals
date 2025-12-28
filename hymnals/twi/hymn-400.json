@@ -1,0 +1,62 @@
+{
+  "number": 400,
+  "language": "tw",
+  "title": "Mede Dɛw Rebehyia Me W'ra",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mede dɛw rebehyia me W'ra,",
+        "Fafri ne ɔdɔ mu.",
+        "Mede 'hodw'riw bɛkae Ne nkwá a",
+        "ɔde too hɔ maa me.",
+        "ɔde too hɔ maa me."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me ne Kristofo ny'naa reba",
+        "Abehu nokwar' dɔ",
+        "Ayɔnkofa b'rč a yɛredi",
+        "Kristo mu paanoo no.",
+        "Kristo mu paanoo no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ Kristo ma yɛn paanoo a,",
+        "Mpaapaemu ny'naa to twa;",
+        "'Dɔ a ɛbɔɔ yɛn no ka yɛn bom,",
+        "Na 'hɔho yɛ nnamfo.",
+        "Na 'hɔho yɛ nnamfo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Saa na yɛde dɛw hyia yɛn W'ra,",
+        "ɔbɛn yɛn b're biara,",
+        "Wɔ saa 'yɔnkofa pa yi mu;",
+        "Yehu No kamfo No,",
+        "Yehu No kamfo No."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛahyia mu wɔ nkabom pa mu,",
+        "Yebedi ntetemu,",
+        "Na yɛyɛ Ne nk'rɔfo wiase;",
+        "Yɛbɛto N'ayeyi.",
+        "Yɛbɛto N'ayeyi."
+      ],
+      "number": 5
+    }
+  ]
+}

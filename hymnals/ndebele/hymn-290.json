@@ -1,0 +1,39 @@
+{
+  "number": 290,
+  "language": "nd",
+  "title": "290 Sebenzela uJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Thaba! Siya sebenzel’ iNkosi Siya vuma ukuyenzela",
+        "Konke ekushoyo Yona kithi; Sizo kwenza ngokuphelele"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu ngaWe-ke! Sizoqhubeka, Ngokuthokoza",
+        "U sibusise Emsebenzini wAkho"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngokwenama siyashumayela, Ngothando lwaYo ezizweni",
+        "NoJes’ ubukhosi buka; Yise Uzothela izibusiso"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngothuthoba silandel’ iNkosi; Siyahamba ngokuphelela",
+        "Siyabaqondisa abeduki, Kulo iWundlu laY’iNkosi"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 114,
+  "language": "xh",
+  "title": "114 Ucango Luvulelwe Mna",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kukh’ ucang’ oluvul’ weyo, Kwisango elinomtha;",
+        "Ovela emnqamlezweni, Utyhil’ uthando lweNkos’."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "’Nzulu yenceba! Ingab’ olo cango luvulelwe mna?",
+        "Mna lo, mna lo? Luvulwe ngenxa yam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cango luvulelwe bonke, Abafun’ usindiso;",
+        "Zizonk’ iindidi zabantu, Zonk’ izizwe nentlanga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thyobozan’ elutshabeni, Ngoku kusavuliwe;",
+        "Nas’ isithsaba silwelen, Siluphau lothando."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phesheya komlambo sobek’ Iminqamlezo yethu,",
+        "Sithwal’ isithsaba sobom, Somthanda ezulwini."
+      ],
+      "number": 4
+    }
+  ]
+}

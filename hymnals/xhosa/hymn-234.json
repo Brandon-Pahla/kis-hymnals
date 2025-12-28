@@ -1,0 +1,46 @@
+{
+  "number": 234,
+  "language": "xh",
+  "title": "234 Yesu Kukukhanya Kwezwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ziyacul’ iingelosi; ’Yes’ ukukhanya kwezwe;",
+        "Ngokumkan’ ozelweyo, ’Yes’ ukukhanya kwezwe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sinokukhanya, kon’ okuhle, Yiza apho kukh’ inceba yaKhe;",
+        "Sikhanyisele imihla yonke, Yesu, kukhanya kwezwe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vuyani nonke zizwe, ’Yes’ ukukhanya kwezwe;",
+        "Khwazani uloyiso, ’Yes’ ukukhanya kwezwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Makadunyiswe yena, ’Yes’ ukukhanya kwezwe;",
+        "I-Nkosi yaphakade, ’Yes’ ukukhanya kwezwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ewe, Nkosi yoxolo, Yesu kukhanya kwezwe;",
+        "Langa lobulungisa, Yesu kukhanya kwezwe."
+      ],
+      "number": 4
+    }
+  ]
+}

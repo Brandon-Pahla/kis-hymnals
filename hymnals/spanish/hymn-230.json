@@ -1,0 +1,32 @@
+{
+  "number": 230,
+  "language": "es",
+  "title": "Abre tu corazón",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Abre tu corazón"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abre tu corazón, abre tu corazón.",
+        "Jesús entrará, y él te salvará",
+        "si abres tu corazón."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abro mi corazón, abro mi corazón.",
+        "Ven, entra, Jesús; dame gozo y luz,",
+        "te abro mi corazón."
+      ],
+      "number": 3
+    }
+  ]
+}

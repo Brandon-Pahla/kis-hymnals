@@ -1,0 +1,42 @@
+{
+  "number": 35,
+  "language": "luo",
+  "title": "35 Paruru Nying Yesu Koro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Paruru nying Yesu koro,un jopiny machandore;Enomiu doko mamor,paruru nyinge koro."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyinge ber moloyo,Nyingeno wageno ka;Nyinge ber moloyo(Nyinge ber, ober moloyo)Nyingeno wageno ka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Paruru nying Yesu pile,Enogeng`nu maricho;Ka temruok odwaro lou,Lamuru gi nyingeno."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Paruru nying Yesu koro,E manyalo konyou;Ka orwakowa gi ng`uono,Paruru nying Yesu Ruoth."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. En Ruodh ruodhi wanadende,ka wagone chongwa piny;Kucha e pinyruoth mar polo,Ka wuodhwa me piny rumo."
+      ],
+      "number": 5
+    }
+  ]
+}

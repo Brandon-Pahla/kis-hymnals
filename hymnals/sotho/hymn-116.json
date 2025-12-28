@@ -1,0 +1,47 @@
+{
+  "number": 116,
+  "language": "st",
+  "title": "116  Ha U Re Letho Ka Jesu.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U tletse litakatso, ha u na tulo ea Jesu?",
+        "U ts’oeroe ke lefats’e, ha u na tulo ea Jesu.",
+        "Bona O eme monyako, O nts’a kokota joalo;",
+        "Utloa ha a u qeka, ha u na tulo ea Jesu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U ntse U senya nako, ha u sebeletse Jesu?",
+        "U senya matla a Hae, ha u sebeletse Jesu.",
+        "Ha u loants’e sebe na, U leke ho sokolla;",
+        "U sa tlise le ea mong, ha u sebeletsse Jesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U batla tsa lefats’e, ha u na nako ea Jesu?",
+        "Mosebetsi o motle, ha u na nako ea Jesu.",
+        "Boiketlo le leruo, U batla mafeela-feela,",
+        "U loana ho ithabisa, ha u na nako ea Jesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Makhapetla ’lefeela, ha ho tholoa’a Jesu?",
+        "Ha u na letho liathleng, ha ho tholoan’a Jesu.",
+        "Ha u boloke letho, Ha fumane tefo;",
+        "Ha u na eona thabo, Ha u kopana le Jesu."
+      ],
+      "number": 4
+    }
+  ]
+}

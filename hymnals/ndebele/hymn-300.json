@@ -1,0 +1,55 @@
+{
+  "number": 300,
+  "language": "nd",
+  "title": "300 Mphumula Bakhatheleyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Khon’ekhaya labangcwele, Bophumul’ abeNkosi",
+        "Bophumul’ abosizi, Bophumul’ abosizi",
+        "Waya khona uMsindisi Ukufez’ ufiso lwam’",
+        "Ngophumula nam’"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngaphesheya kweJordani, Ensimini yasEden’",
+        "Ngasemthini wokuphila, Ngophumula nam"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ungilungisele indlu, Eya kuma phakade",
+        "Ngoba ngiyohlala njalo, Kulelozwe elihle",
+        "Wophumul’ okhathele, Wophumul’ okhathele",
+        "Wophumul’ okhathele, Ngophumula nam’"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ubuhlungu bungengene, Nosizi luyoxoshwa",
+        "Kepha ngoba naw’ umqhele Wokuphila laphaya!",
+        "Zophumul’ intandane, Zophumul’ intandane",
+        "Zophumul’ intandane, Ngophumula nam’"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zindl’ amafa obukhosi, Hubani ngoku nqoba",
+        "Amasango ayovulwa Seningen’ ezulwini",
+        "Bophumul’ abanqobi, Bophumul’ abanqobi",
+        "Bophumul’ abanqobi, Ngophumula nam’?"
+      ],
+      "number": 5
+    }
+  ]
+}

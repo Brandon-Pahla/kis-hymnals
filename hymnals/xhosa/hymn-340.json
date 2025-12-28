@@ -1,0 +1,47 @@
+{
+  "number": 340,
+  "language": "xh",
+  "title": "340 U-Yesu Uyasibiza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Uyesu uyasibiza, Singabahilizayo;",
+        "Usicenga yonk’ imihla: \"Yiza undilandele.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Beva abo bakudala; Kwelo lase-Galili;",
+        "Bawancama amakhaya, Basuka bamlandela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngu-Yesu osibizayo, Sikhonza okwelizwe;",
+        "Esithi kwabavumayo; \"Ndilandeleni nina.\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwezo ntsizi neziyolo Esizivayo thina,",
+        "Nakwi mbandezelo zethu, Sifanel’ ukumthanda."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngazo izibele zakhe, Usincengela kuye;",
+        "Masimnike intliziyo, Zibe lidini kuye."
+      ],
+      "number": 5
+    }
+  ]
+}

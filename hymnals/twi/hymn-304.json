@@ -1,0 +1,43 @@
+{
+  "number": 304,
+  "language": "tw",
+  "title": "Yɛn Agyanom Gyidi Tim Hɔ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn agyanom gyidi tim hɔ;",
+        "Ensųro 'fiase, gya ne afoa,",
+        "O sɛ yɛte asɛmpa n' a",
+        "Yɛn koma di dɛw boro so,",
+        "Yɛn agyanom gyidi kronkron!",
+        "Yebedi w' nokwar' kodu 'wum'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn agyanom mpoky'rɛfo no",
+        "Nyaa honhom mu ahofadi;",
+        "Wɔn mmofra awiei bɛyɛ dɛ,",
+        "B're a wɔn nso wu ma Wo no!",
+        "Yɛn agyanom gyidi kronkron!",
+        "Yebedi w' nokwar' kodu 'wum'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Y'agyanom gyidi! Yɛbɛdɔ",
+        "'Damfo ne 'tamfo yɛn ko nom',",
+        "De dɔ aka wo ho asɛm,",
+        "Ayamye ne asetra pam'",
+        "Yɛn agyanom gyidi kronkron!",
+        "Yebedi w' nokwar' kodu 'wum'."
+      ],
+      "number": 3
+    }
+  ]
+}

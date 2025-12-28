@@ -1,0 +1,46 @@
+{
+  "number": 293,
+  "language": "en",
+  "title": "293 Knocking, Knocking",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Knocking, knocking, who is there?",
+        "Waiting, waiting, O how fair!",
+        "‘Tis a Pilgrim, strange and kindly,",
+        "Never such was seen before;",
+        "Ah! My soul, for such a wonder,",
+        "Wilt thou not undo the door?",
+        "Wilt thou undo the door?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Knocking, knocking, still He’s there,",
+        "Waiting, waiting, wondrous fair;",
+        "But the door is hard to open,",
+        "For the weeds and ivy vine,",
+        "With their dark and clinging tendrils,",
+        "Ever round the hinges twine,",
+        "Ever round the hinges twine."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Knocking, knocking, what! Still there?",
+        "Waiting, waiting, grand and fair;",
+        "Yes, the wounded hand still knocketh,",
+        "And beneath the thorn-wreath’d hair,",
+        "Beam the patient eyes, so tender,",
+        "Of thy Saviour waiting there;",
+        "Wilt thou keep him waiting there?"
+      ],
+      "number": 3
+    }
+  ]
+}

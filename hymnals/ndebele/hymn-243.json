@@ -1,0 +1,51 @@
+{
+  "number": 243,
+  "language": "nd",
+  "title": "243 Vuka, Moya Wami Vuka!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Vuka moya vuka! Thintit’ ukwesala.",
+        "Umhlatshel’ ob’hlungu, Uvezelwe mina.",
+        "Es’hlalwen’ uJes’ ung’mele;",
+        "Es’hlalwen’ uJes’ ung’mele;",
+        "Ngilotshiw’ esandlen’ sAkhe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uhlel’ ezulwini, Ukunginxusela.",
+        "Ngothand’ ol’hlengayo, Negaz’ el’ncengayo.",
+        "Igazi lAkhe las’thenga;",
+        "Igazi lAkhe las’thenga;",
+        "Lifafaz’ is’hlalo somsa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mahlan’ amanxeba, Ahlatshw’ eKhalvari.",
+        "Ahlal’ ekhuleka, Ayang’ khulumela.",
+        "Athi mxolele, mxolele;",
+        "Athi mxolele, mxolele;",
+        "Angafi ophendukayo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uyis’umzw’ encenga Ogcotshiwe wAkhe.",
+        "Angefulathele iNdodana yAkhe.",
+        "NoMoya uyamuzwela;",
+        "NoMoya uyamuzwela;",
+        "Uthi, ngizelwe yiNkosi."
+      ],
+      "number": 4
+    }
+  ]
+}

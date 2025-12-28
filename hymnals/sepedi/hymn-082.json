@@ -1,0 +1,46 @@
+{
+  "number": 82,
+  "language": "nso",
+  "title": " 82 MORENA MO MESONG",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 82 MORENA MO MESONG",
+        "AH 31 CH 39",
+        "LORD, IN THE MORNING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena mo mesong o tlo,",
+        "Kwa kgopelo tša ka,",
+        "Go Wena ke tlo lebiša,",
+        "Dithapelo tša ka;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O nkgoge ka moya wa Gago,",
+        "Tseleng yekhwi ya 'Go,",
+        "Mesepelo yohle ya ka,",
+        "E lokišwe botse;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bohle ba go rata Jeso,",
+        "Ba tlo go kgodišwa,",
+        "Modimo a ba phemele,",
+        "Ka kgaugelo ya 'Gwe;"
+      ],
+      "number": 4
+    }
+  ]
+}

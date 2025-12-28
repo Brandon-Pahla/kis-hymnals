@@ -1,0 +1,66 @@
+{
+  "number": 101,
+  "language": "nso",
+  "title": " 101 JESO OA BITŠA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 101 JESO OA BITŠA",
+        "AH 186 CH 569",
+        "JESUS IS CALLING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso o go bitša ka bonolo,",
+        "Kua gae lehono le;",
+        "O hularetšeng lerato la Gagwe,",
+        "O ya kgole timelong;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "O a bitša, O a bitša",
+        "(O a bitšwa, o a bitšwa lehono)",
+        "Jeso o bitša ka bonolo leholno le;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso o bitša ba lapilego,",
+        "Go ikhutša lehono le;",
+        "Mo tlišetše maima a gago,",
+        "Mme o tlo šegofala;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso o letile tla go yena,",
+        "O letile lehono le;",
+        "Tliša dibe tša gago dinaong,",
+        "Etla o se diege;"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso o a kgopela mo kwe,",
+        "Ntšu la Gagwe lehono;",
+        "Ba ba modumelago batlo thaba,",
+        "Tsaroga o latele;"
+      ],
+      "number": 6
+    }
+  ]
+}

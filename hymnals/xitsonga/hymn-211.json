@@ -1,0 +1,25 @@
+{
+  "number": 211,
+  "language": "ts",
+  "title": "211. HI TA KUMA MINKATEKO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE SHALL BE SHOWING OF BLESSINGS",
+        "1. Hi Ta Kuma Minkateko, Lexi I Xitshembhiso;",
+        "Hi Ta Kuma Mpfuxelelo, Wu Humaka Ka Yesu.",
+        "CHORUS",
+        "Hi Pfuxelele",
+        "Na Nsovo A Wu Xike; Hi Kombela Eka Wena, Mpfula Ya Minkateko.",
+        "2. Hi Ta Kuma Minkateko, Hi Pfuxeleriwa,",
+        "Tintshaveni, Minkoveni, Yi Ta Va Hi Xitalo.",
+        "3. Hi Ta Kuma Minkateko, Hi Rhumele We Hosi;",
+        "Hi Kombela Mpfuxelelo, Hetisa Xitshembhiso.",
+        "4. Hi Ta Kuma Minkateko, U Yi Nise Namuntlha; Hi Rivalele Swidyoho,",
+        "Hosi Yesu Hi Pfune."
+      ],
+      "number": 1
+    }
+  ]
+}

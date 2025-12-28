@@ -1,0 +1,47 @@
+{
+  "number": 28,
+  "language": "tn",
+  "title": "28 O Tsee Lobaka Go Itshepisiwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O Tsee Lobaka Go Itshepisiwa,",
+        "Bua Le Morena Nna Fokung ja ’Gwe;",
+        "Tsala’a ba Modimo, Thusa bokoeng,",
+        "Se lebale gope masego a ’Gwe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Tsee Lobaka Go Itshepisiwa,",
+        "Lefatshe lea duma, Bua le Jeso",
+        "Ka go leba Jeso, Tshwana le Ene;",
+        "Ditsala tsa gago Di Mmone g’wena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Tsee Lobaka Go Itshepisiwa,",
+        "A go etelele Mo dilong tsotlhe;",
+        "Thamong bohutsaneng, Latela Jeso,",
+        "O lebile Ene, O Mo ikanye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Tsee Lobaka Go Itshepisiwa,",
+        "O ingotle Moeeng, A go laole;",
+        "O isiwa metsweding ya lorato",
+        "O tla tshwanela tirelo godimo."
+      ],
+      "number": 4
+    }
+  ]
+}

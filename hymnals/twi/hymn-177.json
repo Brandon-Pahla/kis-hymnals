@@ -1,0 +1,47 @@
+{
+  "number": 177,
+  "language": "tw",
+  "title": "Yesu, Wo Mogya Ne Trenee",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, Wo mogya ne trenee,",
+        "Yɛ m'anuonyam ahyehyɛde,",
+        "Wɔ wiasč a ɛredɛr' yi mu;",
+        "Mɛma m'ani so anigyem."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Megyina boɔd'rum da kɛsen'.",
+        "Nkwagye a 'katua biara nnim';",
+        "W'asɛnnua no atew me ho,",
+        "Bɔne, fɔdi, hu nč aniwum'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Wura, megyeW' mogya dehyč a",
+        "ɔdɔ nti Wuhwie gui no di;",
+        "Nea ɛredi ma nneduafo,",
+        "Nyame mmɔb'rɔhun 'gua anim."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ mifi owu amenam'",
+        "Na me nsa ka me s'ro fie nō a,",
+        "Na m'asɛm k'ro ara ne sɛ",
+        "Yesu Kristo bewu maa me."
+      ],
+      "number": 4
+    }
+  ]
+}

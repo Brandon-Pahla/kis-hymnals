@@ -1,0 +1,56 @@
+{
+  "number": 219,
+  "language": "pt",
+  "title": "Sempre Alegre",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Sempre Alegre"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seja o coração alegre,",
+        "Sempre a transbordar louvor,",
+        "Pois o nosso Pai celeste",
+        "Mostra-nos o Seu amor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Sempre alegre, sempre alegre",
+        "É o viver do bom cristão;",
+        "Oh! que regozijo pleno",
+        "Brota-lhe da salvação!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Temos proteção nas lutas,",
+        "Deus nos toma pela mão;",
+        "Sua sempiterna graça",
+        "Dá-nos forças na aflição."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sempre guiará os justos",
+        "Com amor, em Sua luz;",
+        "Juntos serviremos todos",
+        "Ao amado e bom Jesus."
+      ],
+      "number": 5
+    }
+  ]
+}

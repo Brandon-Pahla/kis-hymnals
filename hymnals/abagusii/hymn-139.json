@@ -1,0 +1,28 @@
+{
+  "number": 139,
+  "language": "guz",
+  "title": "139 Ngakoa 'Bogima",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ngakoa' bogima,Ngaiter' amanyingaOb'omoborigwa,Korw' as' abakureNgakoa ngakoa obogima,Aye nki kwang'eire?Ngakoa ngakoa obogima,Aye nki kwang'eire?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Natigete Tata,N'obonene bwayeNechandete ense,Ase omosunte'S' engencho yao nkabitiga,Nki gwantigareirie?'S' engencho yao nkabitiga,Nki gwantigareirie?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nkagochandekera,'Monwa otakwane'S'oboror' obonge,Gokorusia aabeNgakobogoreria bionsi,Nki kwambogoreirie?Ngakobogoreria bionsi,Nki kwambogoreirie?"
+      ],
+      "number": 3
+    }
+  ]
+}

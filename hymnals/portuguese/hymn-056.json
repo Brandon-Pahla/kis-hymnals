@@ -1,0 +1,56 @@
+{
+  "number": 56,
+  "language": "pt",
+  "title": "As Mãos do Senhor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### As Mãos do Senhor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu vi essas mãos de meu Mestre,",
+        "Que pão deram à multidão,",
+        "Chamando gentis criancinhas",
+        "E abençoando-as então."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Oh! belas mãos, as mãos do Senhor;",
+        "Crucificadas por ti!",
+        "Mãos que serviram em santo labor;",
+        "Mãos que inda velam por ti!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aos pobres e fracos erguiam,",
+        "Curavam qualquer sofredor;",
+        "Serviam choupanas humildes,",
+        "Exemplificavam o amor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sim, hoje a caminho à cidade,",
+        "Da qual é Deus Pai construtor,",
+        "Estão essas mãos a indicar-nos,",
+        "E estendem-se a ti, pecador."
+      ],
+      "number": 5
+    }
+  ]
+}

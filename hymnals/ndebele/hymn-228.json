@@ -1,0 +1,51 @@
+{
+  "number": 228,
+  "language": "nd",
+  "title": "228 Dumis’ Undumise Umkhululi Wethu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dumis’ uMdumise uMkhululi wethu!",
+        "Huba O, mhlaba! Umemezele;",
+        "NiMbabaze ‘zingelosi, Ubayethe!",
+        "Onegam’ elingcwele kakhulu,",
+        "Uyelusa uJesu ‘zimvu zAkhe.",
+        "Uyazi gona ilanga lonke"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dumisa uMdumise ubuhle bAkhe,",
+        "Dumisa ngehubo lenjabulo!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dumis’ uMdumise uMkhululi wethu;",
+        "Wafela wahluphekel’ izono!",
+        "IDwala lethu, iThemba, neNsindiso!",
+        "Babaza uMbabaze kakhulu,",
+        "Dumis’uJes’ othwal’ izono zethu",
+        "Uthand’ olupulile namandla"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dumis’ uMdumise uMkhululi wethu!",
+        "Amasang’ ezulu ahlokome;",
+        "UJesu uyabusa phakade,",
+        "Mthwesen’ umqhele eyiNkosi yezulu",
+        "Uyez’ uKrestu unqobe umhlaba.",
+        "Ubukhosi namandla kukuYe"
+      ],
+      "number": 4
+    }
+  ]
+}

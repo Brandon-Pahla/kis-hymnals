@@ -1,0 +1,56 @@
+{
+  "number": 231,
+  "language": "pt",
+  "title": "Tenho um Hino em Meu Coração",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Tenho um Hino em Meu Coração"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenho um hino em meu coração,",
+        "Que Jesus modula assim:",
+        "\"Ouve, Eu contigo estou na dor,",
+        "Ou no riso até o fim.\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "A Jesus eu louvo,",
+        "Pois feliz estou.",
+        "Sigo então cantando",
+        "Quando após Seus passos vou."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Arruinada a minha vida foi,",
+        "Dissipada em tristes ais,",
+        "Mas Jesus as cordas consertou,",
+        "Desferiu sons divinais."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sou feliz, oh, graça sem igual!",
+        "Mui markdowne sempre estou,",
+        "Pois Jesus me deu paz perenal;",
+        "Eis porque louvores dou."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "number": 650,
+  "language": "tw",
+  "title": "Agya a Wo Din Ma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Agya a Wo din ma",
+        "Yɛte baatanyɛ ase,",
+        "Wo a Wode dɔ yɛ",
+        "'Busua biara Wo de;",
+        "Hyira 'wofo nyinaa na fa",
+        "ɔdɔ wɛn Wo nkurɔfo no",
+        "Wɔ wɔn atrae sɛ ɔwɛmfo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kristo, Woyɛɛ 'bofra",
+        "Wɔ asase so ha, Wo a Wufi komā a",
+        "Ͻyɛ kronn mu nyinii;",
+        "Hyira yɛn mmofra baabiara,",
+        "Sɛnea wɔn ny'naa behu W'anim",
+        "Na wɔanyin Wo ho nimdeɛ mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Honhom a Woka yɛn",
+        "Koma bom biakoyɛm',",
+        "Na Woma yehu 'dɔ Wɔ ahofadi mu;",
+        "Saa 'dɔ no nyin wɔ yɛn komam'",
+        "Sɛnea ofie biara nam so",
+        "Bɛyɛ asomdwoe trabea pa."
+      ],
+      "number": 3
+    }
+  ]
+}

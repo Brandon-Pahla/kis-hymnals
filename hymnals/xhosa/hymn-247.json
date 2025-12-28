@@ -1,0 +1,46 @@
+{
+  "number": 247,
+  "language": "xh",
+  "title": "247 Mazikhale Iintsimbi Luvuyo Namhla",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mazikhal’ iintsimbi, Luvuyo namhla;",
+        "Kukh’ obemkile obuyayo.",
+        "Nank’ uyis’ emhlangabeza ngendlela,",
+        "Wamkela unyan’ obemkile."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ngcwele, Ngcwele Zitsh’ iingelosi;",
+        "Ngcwele, Ngcwele Zakhal’iihadi;",
+        "Ngumkhosi omkhulu wabakhululwa,",
+        "Bevum’ ingoma yoloyiso."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mazikhal’ iintsimbi Luvuyo namhla;",
+        "Obemkile wamkelekile;",
+        "Ewe, uhlangulwe kuso isono;",
+        "Ubuye wazakwa ngokutsha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mazikhal’ iintsimbi Xela ngomsitho;",
+        "Mazitsho kakhul’ iingelosi.",
+        "Xel’ indab’ emnandi nakud’ ekhaya,",
+        "Kukh’ umphefuml’ ozelw’ okutsha."
+      ],
+      "number": 3
+    }
+  ]
+}

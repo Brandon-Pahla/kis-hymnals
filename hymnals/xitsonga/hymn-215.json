@@ -1,0 +1,28 @@
+{
+  "number": 215,
+  "language": "ts",
+  "title": "215. KU NI KAYA RO SASEKA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE HOME WHERE CHANGES NEVER COME",
+        "1. Ku Ni Kaya Ro Saseka, Ku Tsakeni Ne Ku Rhuleni",
+        "Hi Wisisiwa Maxangu",
+        "Hi Kuma Kona Ku Phyuphya.",
+        "CHORUS",
+        "Rindza, Yima U Tiyisela, (Rindza Yima U Tlhela U Tiyisela,)",
+        "Rindza Yima U Tiyisela, (Rindza Yima U Tlhela U Tiyisela)",
+        "Rindza Yima Yi Ko Yi Ta Hosi",
+        "(Rindza Yima A Kondza A Fika Yena Hosi Yesu)",
+        "2. Sweswi U Twa Ku Karhala, Ka Mpingu Wa La Misaveni;",
+        "U Navela Ku Rhuriwa, Tiya Mbilu U Ta Fika.",
+        "3. Maxangu Layo Vavisa, Lama Pfuxaka Mapfalo; Na Rona Gome Ra Rifu,",
+        "Yesu U Ku Hlulerile.",
+        "4. Ehansi Ka Mpingu Waku, Khongela Tatana Waku;",
+        "Ku Wisa Ku Le Kusuhi, Tiya Mbilu U Ta Fika."
+      ],
+      "number": 1
+    }
+  ]
+}

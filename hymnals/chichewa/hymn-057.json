@@ -1,0 +1,53 @@
+{
+  "number": 57,
+  "language": "ny",
+  "title": "57 - Yemwe Afuna",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHOSOEVER HEARETH"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yemwe alikumva! fuula mau:",
+        "Tumizani mthenga m’dziko monsemo;",
+        "Lalikani anthu kuli konseko;",
+        "Yemwe afuna adze."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Omwe afuna, omwe afuna",
+        "Uza za chimwemwe m’dambo ndi m’phiri;",
+        "Atate wokonda aitana’ke",
+        "Omwe afuna adze."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yemwe alikudza, asachedwe,",
+        "Pakhomo patseguka, lowa msanga;",
+        "Yesu ndiye njiratu yakuona",
+        "Yemwe afuna adze."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yemwe afunitsa za mtendere,",
+        "Yemwe afunitsa adzakhalabe;",
+        "Yemwe afunitsa moyo wosatha:",
+        "Yemwe afuna adze."
+      ],
+      "number": 4
+    }
+  ]
+}

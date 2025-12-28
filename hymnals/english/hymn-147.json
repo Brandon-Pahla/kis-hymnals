@@ -1,0 +1,48 @@
+{
+  "number": 147,
+  "language": "en",
+  "title": "147 Draw Me Closer To Thee.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Closer to thee, my Father, draw me,",
+        "I long for thine embrace;",
+        "Closer within thine arms enfold me,",
+        "I seek a resting place."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Clos…………………….er with the cords of love",
+        "loser, closer, with the cords of love)",
+        "Draw ………………….. me to thyself above,",
+        "(Draw me, draw me, to thyself above)",
+        "Clos…………… er draw me, To thyself above.",
+        "(Closer with the cords of love, “Draw me to thyself above,”)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Closer to thee, my Saviour, draw me,",
+        "Nor let me leave thee more.",
+        "Fain would I feel thine arms around me,",
+        "And count my wand’rings o’er."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Closer by thy sweet Spirit draw me,",
+        "Till I am all like thee;",
+        "Quicken, refine, and wash and cleanse me,",
+        "Till I am pure and free."
+      ],
+      "number": 3
+    }
+  ]
+}

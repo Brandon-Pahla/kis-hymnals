@@ -1,0 +1,40 @@
+{
+  "number": 271,
+  "language": "xh",
+  "title": "271 Nokuba Izono Zibomvu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nob’ izono zibomvu, Zobamhlophe njengekheph’;",
+        "Nob’ izono zibomvu, Zobamhlophe njengekheph’;",
+        "Noba sezibomvu krwe, Zingaba mhlophe,",
+        "EzaKho ezibomvu, EzaKho ezibomvu,",
+        "Zobamhlophe njengekheph’, Zoba mhlophe njengekheph’"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yivan’ izwi licenga, Yizani kuYehova;",
+        "Yivan’ izwi licenga, Yizani kuYehova.",
+        "Yena unenceba nothand’ olukhulu;",
+        "Yivan’ izwi licenga, Yivan’ izwi licenga,",
+        "Yizani kuYehova, Yizani kuYehova."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wosus’ izono zenu, Soze azikhumbule;",
+        "Wosus’ izono zenu, Soze azikhumbule;",
+        "Khangelani kum zizwe, Utsh’ uYehova.",
+        "Wosus’ izono zenu, Wosus’ izono zenu,",
+        "Soze azikhumbule, Soze azikhumbule."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "number": 387,
+  "language": "fr",
+  "title": "Pour inventer la liberté",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Pour inventer la liberté,",
+        "Brisons nos murs de solitude.",
+        "Pour accueillir la vérité,",
+        "Brisons nos vieilles habitudes."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Dieu nous appelle aujourd'hui",
+        "À nous lever de nos tombeaux,",
+        "Dieu nous réveille aujourd'hui",
+        "Pour nous donner un cœur nouveau."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pour que renaisse notre espoir,",
+        "Brisons les murs de l'impossible.",
+        "Pour que fleurisse l'amitié,",
+        "Tissons les liens de l'invisible."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pour partager sur nos chemins",
+        "Nos cris de joie, nos chants de peine,",
+        "Pour découvrir chaque matin",
+        "L'Esprit qui fait germer la graine."
+      ],
+      "number": 4
+    }
+  ]
+}

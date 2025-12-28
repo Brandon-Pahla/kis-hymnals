@@ -1,0 +1,49 @@
+{
+  "number": 59,
+  "language": "fr",
+  "title": "Rédempteur adorable",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Rédempteur adorable,",
+        "Sur la croix attaché,",
+        "Traité comme un coupable,",
+        "Brisé pour mon péché,",
+        "Ton angoisse suprême,",
+        "Ta honte, ta douleur",
+        "Me disent : « Vois, je t'aime,",
+        "Je suis ton rédempteur. »"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abandonné du Père,",
+        "En ton âme troublé,",
+        "Buvant la coupe amère",
+        "Pour mon iniquité,",
+        "De l'éternelle flamme",
+        "Ton amour me sauva,",
+        "Tu subis pour mon âme,",
+        "La mort à Golgotha !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ton amour me réclame,",
+        "Me voici, cher Sauveur!",
+        "Prends mon corps et mon âme",
+        "Pour prix de ta douleur.",
+        "Oui, mon âme ravie",
+        "Désormais ne veut plus",
+        "Que vivre de ta vie,",
+        "À ta gloire, ô Jésus!"
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 280,
+  "language": "luo",
+  "title": "280 Wamor Kwaromo Kod Osiepe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Wamor kwaromo kod osiepe;E piny ma mwalo ni;To chunywa kuyo ka waparo;Wabiro pogore."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ok wanapogre e polo,Ok wanapogre ngang`;E piny maberno wanamor,Ok wanapogre ngang`."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. E pinyni tho opogowa kod;Osiepe mwahero;Wamor kwageno wananegi,E piny maber manyien."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kucha ok wanawachi chutho;Wach moro mar pogruok;To mor gi kuwe nobed e chunywa,Pile ma nyaka chieng."
+      ],
+      "number": 4
+    }
+  ]
+}

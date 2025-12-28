@@ -1,0 +1,27 @@
+{
+  "number": 496,
+  "language": "tw",
+  "title": "Daa Dɔ, Yenni Adepa Bi De Brɛ Wo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Daa Dɔ, yenni adepa bi de brɛ Wo",
+        "'Depa bi nni hɔ a yɛn nsa ayɛ,",
+        "Dwom pa bi nni hɔ a yɛbɛto aky'rɛW'",
+        "Asɛm anna adwempa bi nni hɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nanso yɛaba; sɛ yɛn gyidi hinhim a,",
+        "ɔdɔ, ky'rɛ yɛn kokoam mpaebɔ bea hɔ,",
+        "Sika 'duhuam ne afɔrebukyia no,",
+        "Ne 'bɔfo a ɔretwɛn yɛn hɔ no."
+      ],
+      "number": 2
+    }
+  ]
+}

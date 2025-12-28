@@ -1,0 +1,39 @@
+{
+  "number": 242,
+  "language": "nd",
+  "title": "242 Si Busisiwe Isibopho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Intamb’ ebophela, Inhliziyo zethu;",
+        "Kulo uthando lwezulu, Sibusiso sethu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phambili kwes’hlalo, Sizo zincengela;",
+        "Ukwesaba nokulila, Kwethu ku yophela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inhlupheko zethu, Nayo imithwalo;",
+        "Noku khalelana kwethu, Konke ku ndawonye"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxase sehlukana, Kubanga usizi;",
+        "Kodwa siyethemba sizo, Hlangana phambili."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "number": 100,
+  "language": "sn",
+  "title": "100 Jesu Ndishamwari",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu ndishamwari wedu,",
+        "M’takuri wezvitadzo",
+        "Isu tinokomborerwa",
+        "Unonzwa minamato",
+        "O tashaya runyararo",
+        "Tinorwadzwa mumwoyo",
+        "Kuti tisabvumira’zvo",
+        "Zvese kuna Jesu’yo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti isu tinoyedzwa",
+        "Zvimwezve tatambudzwa",
+        "Tisarasa rudairo",
+        "Namata kuna Jesu",
+        "Ndiye shamwari wedi’ko",
+        "Kutakura dambudzo",
+        "Unonzwa kutadza kwedu",
+        "Bvumira kuna Jesu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti tashaya masimba",
+        "Taneta nemutoro",
+        "Muponesi Mubatsiri",
+        "Bvumira kuna Jesu",
+        "Vashamwari vakushora?",
+        "Namata kuna Jesu",
+        "Iye unokutambira",
+        "Kumbira kuna Jesu"
+      ],
+      "number": 3
+    }
+  ]
+}

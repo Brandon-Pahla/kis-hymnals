@@ -1,0 +1,47 @@
+{
+  "number": 276,
+  "language": "sn",
+  "title": "276 Kudaidza Iwe Neni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu M’ponesi weBeterehem! Waberekwa m’urombo, mudanga",
+        "O cha’va chiro chinoshamisa, Kutsvaka iwe neni",
+        "Kutsvak’ iwe neni, Kutsvak’ iwe neni",
+        "O cha’va chiro chinoshamisa, Kutsvak’ iwe neni"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu M’ponesi paKarivari, Waripa m’ngava ndasunungurwa",
+        "O cha’va chiro chinoshamisa, Kundifira ini",
+        "Kundifira ini, Kundifira ini",
+        "O cha’va chiro chinoshamisa, Kundifira ini"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu M’ponesi, uyo wekare Apo ndange ndichikupumhuka",
+        "Akanyengerera mweya wangu Kudaidza ini",
+        "Kudaidza ini, Kudaidza ini",
+        "Akanyengerera mweya wangu, Kudaidza ini"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu M’ponesi odzika pasi Chitsidzo chakanaka tinoda",
+        "Ndichamuona odzika pasi, Odzikira ini",
+        "Odzikira ini, Odzikira ini",
+        "Ndichamuona odzika pasi Odzikira ini"
+      ],
+      "number": 4
+    }
+  ]
+}

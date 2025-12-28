@@ -1,0 +1,39 @@
+{
+  "number": 31,
+  "language": "nd",
+  "title": "31 Langa Lomphefumlo Wami",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "‘Langa lomphefumlo wami, Msindisi othandekayo",
+        "Makungafiki iyezi, Kuwe elingasithayo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nasekulaleni kwami, Nenkophe zi cimezile",
+        "Ngi ngaphumula kamnandi, Phezu kwaAkho ngeyamile"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nanxa kuhlwa, nanxa kusa, Ngi yeluswa nguWe wedwa",
+        "Hlala nami, Wena Ndonsa, Ngi ngephile nxa ngi ngedwa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi saqala ukuvuka, Ngi busise ekuseni",
+        "Ukuze ngothando lwAkho, Ngi yofika ezulwini"
+      ],
+      "number": 4
+    }
+  ]
+}

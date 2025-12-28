@@ -1,0 +1,68 @@
+{
+  "number": 245,
+  "language": "en",
+  "title": "245 No Other Name.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "There’s no other name like Jesus,",
+        "‘Tis the dearest name we know",
+        "‘Tis the angels joy in heaven,",
+        "‘Tis the Children’s joy below."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sweet name…… dear name,",
+        "(Sweet name) (dear name)",
+        "There’s no other name like Jesus;",
+        "Sweet name… dear name,",
+        "(Sweet name) (dear name)",
+        "There’s no other name like Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "There’s no other name like Jesus,",
+        "When the heart with grief is sad;",
+        "There’s no other name like Jesus,",
+        "When the heart is free and glad."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Tis the hope that I shall see Him,",
+        "When in glory He appears,",
+        "‘Tis the hope to hear His welcome,",
+        "That my fainting spirit cheers."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "If He wills that I should labor,",
+        "In His vineyard day by day,",
+        "Then ‘tis well if only Jesus,",
+        "Blesses all I do or say."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "If He wills that death’s could finger,",
+        "Touch feeble, mortal clay,",
+        "Then ‘tis well if only Jesus,",
+        "Is my dying trust and stay."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "number": 112,
+  "language": "tn",
+  "title": "112 Go Botshelo Tebong Mo Mokgorong",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Go Botshelo Tebong Mo Mokgorong,",
+        "Jeso’ rile \"Leba go Nna;\"",
+        "Khumo ya lefatshe ke bontsho,",
+        "Ke bona khum’e ntle mo mokgorong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mo tebong go botshelo, Mo tebong Golegotha;",
+        "Poloko, kgololego, Mo tebong Golegotha."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Erile Fa Ke Leba Mmoloki,",
+        "A nyenya ka boitumelo,",
+        "Fa ke tlelwa ke dithaelo,",
+        "Ke bona nonofo mo mokgorong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Tla Leba Mokgoro Ka Metlha,",
+        "Ke ikanya tsholofetso;",
+        "Ga go yo welang mo thaelong",
+        "Yo’ ikanyang nonofo ya Godimo."
+      ],
+      "number": 3
+    }
+  ]
+}

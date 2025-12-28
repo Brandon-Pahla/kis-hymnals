@@ -1,0 +1,62 @@
+{
+  "number": 25,
+  "language": "pt",
+  "title": "Bendito Seja Deus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Bendito Seja Deus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na luz da alvorada,",
+        "Minh'alma acorda e brada:",
+        "Bendito seja Deus!",
+        "E quando o dia aquece,",
+        "Eu canto em minha prece:",
+        "Bendito seja Deus!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Então a vil fraqueza",
+        "Transforma-se em firmeza:",
+        "Bendito seja Deus!",
+        "No meio da agonia,",
+        "Deus manda-me alegria:",
+        "Bendito seja Deus!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cantai, com alegria,",
+        "A doce melodia:",
+        "Bendito seja Deus!",
+        "A quem minh'alma adora,",
+        "Dizei, nações, agora:",
+        "Bendito seja Deus!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E seja o nosso canto",
+        "Sincero, puro e santo:",
+        "Bendito seja Deus!",
+        "Cantai, ó cristandade,",
+        "Por toda a eternidade:",
+        "Bendito seja Deus!"
+      ],
+      "number": 5
+    }
+  ]
+}

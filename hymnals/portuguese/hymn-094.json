@@ -1,0 +1,56 @@
+{
+  "number": 94,
+  "language": "pt",
+  "title": "Sou de Jesus Agora",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Sou de Jesus Agora"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo me tem fiel amizade,",
+        "NEle encontrarei real liberdade,",
+        "Pois sobre a cruz minh'alma comprou,",
+        "DEle, por tanto, eu sou."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Sou de Jesus agora,",
+        "Meu é Jesus também;",
+        "Meu Ele é agora,",
+        "Meu para sempre. Amém."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo salvou-me; sinto em minha'alma",
+        "Grata esperança e a mais doce calma.",
+        "Pra libertar-me o preço pagou,",
+        "DEle, portanto, eu sou."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quando perdido em dor e pecado,",
+        "Cristo salvou-me, fui libertado.",
+        "Vida eternal Jesus me outorgou,",
+        "DEle, portanto, eu sou."
+      ],
+      "number": 5
+    }
+  ]
+}

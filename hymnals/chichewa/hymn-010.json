@@ -1,0 +1,30 @@
+{
+  "number": 10,
+  "language": "ny",
+  "title": "10 - Kodi Tidzasonkhanadi?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SHALL WE GATHER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Kodi tidzasonkhanadi, Pali mtsinjewo wa moyo,",
+        "Wakuyenda nthawi zonse, Kwa Mulungu m’mwambamo.",
+        "CHORUS:",
+        "Inde, tikomane komwe, Ku mtsinje wakukoma wa Mulungu;",
+        "Tisangane ndi olungama. Pa mtsinje m’mwambambo.",
+        "2. Pa magombe a pa mtsinje, Tidzayendayenda komwe;",
+        "Tidzalemekeza Mlungu, Nthawi zonse zonsezo.",
+        "3. Tisanadze pa magombe, Tidzatula akatundu.",
+        "Yesu adzatilandira, ’Dzativeka tonsefe.",
+        "4. Msanga tikomane komwe, Potsiriza pa ulendo,",
+        "Msanga tidzakondwerabe, Timyimbira Mlunguyo."
+      ]
+    }
+  ]
+}

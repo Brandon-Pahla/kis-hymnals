@@ -1,0 +1,38 @@
+{
+  "number": 141,
+  "language": "xh",
+  "title": "141 Ndingowakho Ndonke",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinga ndingaba ngowaKho, Nkos’; Yiz’ undifundise;",
+        "Ndinga ndingenz’ intando yaKho; Ndincede ngoku."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndonke Nkos’, Ndonke Nkos’, Ndonke Nkos’ ndithembisa,",
+        "Ndonke Nkosi’, Ndonke Nkos’, Ndonke Nkos’, Ngoku Nkosi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bonke ubutyebi nodumo Buyinton’ ungekho?",
+        "Ndishiya konke ngenxa yaKho, u-Butyebi bam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndizilahla zonk’ iziyolo, Yiza kufuphi nam;",
+        "Ndizifumana zonke kuwe, Ndize ndonwabe."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 160,
+  "language": "ve",
+  "title": "160. nne Ndo Vhetshelwa Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. ’Ndo vhetshelwa Yesu.’ Nga Maanda a Mudzimu,",
+        "Kha nne a hu na tshithu, Ndi tevhela Yesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "’nne ndo vhetshelwa Yesu.’ Murena ndi wau,",
+        "A thi tami tshithu na tshithihi, Iwe u ’zwothe.’"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. ’Ndo vhetshelwa Yesu.’ Ndi do shuma nga-lo,",
+        "Dakalo ndi si litshe, U tevhedza zwothe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. ’Ndo vhetshelwa Yesu.’ Khsa ndi di-tukufhadze,",
+        "Ndi vhe na vhulenda, Ndi zwi litshe zwa shango."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. ’Ndo vhetshelwa Yesu.’ Ndi wawe vhukuma,",
+        "Ndi vhe wawe tshothe, U swika vhufheloni."
+      ],
+      "number": 5
+    }
+  ]
+}

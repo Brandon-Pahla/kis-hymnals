@@ -1,0 +1,35 @@
+{
+  "number": 28,
+  "language": "guz",
+  "title": "28 'Rieta Ria Yeso Rigiya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Rieta 'giya 'goro n'ensenkoro yan'emanyeteNyasae Tata arueteAs'Omwana Omwanchwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Richenu kobua rire riororo;Riarwete as'omonwa O Tata,'Karetwa n'abamalaika botuko;Rieta rigiya ria Yeso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Risesenia im' enkoro,Ninditogie kobua,Nindiatore as'abanto,Mbwatore buya bwaye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nintere mbotogi' obwanchani,Bwaye bw'ogotoria,Ntogi' Eriet'erio botambe,Riyabuete onsi."
+      ],
+      "number": 4
+    }
+  ]
+}

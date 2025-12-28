@@ -1,0 +1,48 @@
+{
+  "number": 140,
+  "language": "sn",
+  "title": "140 Izwi Ra Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndanzwa izwi",
+        "Jesu Ati Uya uzorore",
+        "Iwe waneta",
+        "Urarepo paditi pangu",
+        "Ndauya ndaneta",
+        "Ini Tenzi ndakasuwa",
+        "Ndawana zororo",
+        "Rino-fadza kuna iye"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndanzwa izwi",
+        "Jesu Ati, Ona ndinokupa",
+        "Chimwa mvura yeupenyu Kuti urarame",
+        "Ndauya ndamwa kunaIye",
+        "Mvura yeupenyu",
+        "Nyota yapera ndapona",
+        "Kuna’ye M’ponesi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndanzwa izwi,",
+        "Jesu Ati, ndini mwenje wenyu",
+        "Nditarise kwakuyedza",
+        "Ndichakupenyera",
+        "Ndawona nyenyedzi",
+        "Nemwedzi kuna Jesu",
+        "Ndichafara mukujeka",
+        "Ndipedzise rwendo"
+      ],
+      "number": 3
+    }
+  ]
+}

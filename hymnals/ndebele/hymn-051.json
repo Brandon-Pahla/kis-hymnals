@@ -1,0 +1,47 @@
+{
+  "number": 51,
+  "language": "nd",
+  "title": "51 Si Bhaphathize Busha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Si bhaphathize ngamandla Akho",
+        "Ngothando si vuse, Jesu ngokwAkho"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si yakhuleka, Nkosi si yancenga!",
+        "Ngothando, ngoMoya, si bhaphathize"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A si fanele, O! si nensila",
+        "Nkosi ma si gezwe, kokubi konke"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "We, juba lami, Yehlela lapha!",
+        "Si yakuncenga, Mana eduze"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lalel’ ilizwi!, lasezulwini",
+        "U thandeka kimi, Ngi yajabula"
+      ],
+      "number": 5
+    }
+  ]
+}

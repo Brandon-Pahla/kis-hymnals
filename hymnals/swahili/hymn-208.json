@@ -1,0 +1,23 @@
+{
+  "number": 208,
+  "language": "sw",
+  "title": "208 Mungu Afanya Upinde",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Nani afanya upinde, namjua, namjua,",
+        "Mungu afanya upinde, nampenda kwa hiyo."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Mungu atuma upinde, ni bora mweupe,",
+        "Mungu atuma upinde, kwamba yu karibu."
+      ]
+    }
+  ]
+}

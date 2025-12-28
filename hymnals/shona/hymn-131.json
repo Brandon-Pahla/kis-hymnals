@@ -1,0 +1,49 @@
+{
+  "number": 131,
+  "language": "sn",
+  "title": "131 Ndifanane NaJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngandifane naJesu",
+        "Ave Mponesi wangu",
+        "Ndizadzenyi nerudo",
+        "Ndipfawire senjiwa",
+        "Ngandifambe saJesu",
+        "Murwendo rweripasi",
+        "Ndiri murombo m’mweyo",
+        "Garai neni Mponesi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana achinzwa shiri",
+        "Dzimwe dzichiputsika",
+        "Adzi itire mutsa",
+        "Ngeidi anondinzwa wo",
+        "Anonditungamirira",
+        "Nekundiregerera",
+        "Ngandi itwe mutswene",
+        "Garai neni M’ponesi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngandifane naJesu",
+        "Mukurarama kwangu",
+        "Ndizorore kunemwi",
+        "Panzwimbo inyerere",
+        "Ndibarwe patsva ini",
+        "Nerudo rwake Jesu",
+        "Ngandiwe nerutendo",
+        "Garai neni M’ponesi"
+      ],
+      "number": 3
+    }
+  ]
+}

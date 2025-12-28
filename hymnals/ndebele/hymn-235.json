@@ -1,0 +1,39 @@
+{
+  "number": 235,
+  "language": "nd",
+  "title": "235 Futhi Labuya Ilanga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Labuya ilanga elingcwele uJehova waphumula ngalo,",
+        "Walibusisa khona kuqala Ngako wathi libe sikhumbuzo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lel’ ilanga ke, si liqaphele Intando yAkhe ibe ngeyethu,",
+        "Nxa sifundile ukuMlalela Uyokuzwa ukukhonza kwethu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi yamazwe onke lalela Yizwa izwi labantwana bAkho,",
+        "Iz’thembiso zAkho zikhumbule Uthele kubona umsa wAkho"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bab’ osezulwini, Themba lethu Umyalo wAkho sihlangu njalo,",
+        "U ng’ uMlindi neSinini sethu Udumo ngolwAkho njalo njalo"
+      ],
+      "number": 4
+    }
+  ]
+}

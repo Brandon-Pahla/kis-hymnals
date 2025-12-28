@@ -1,0 +1,43 @@
+{
+  "number": 702,
+  "language": "tw",
+  "title": "N7 LO! God Is Here!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame wε ha! Momma yɔnsom",
+        "Na yenhu sɔ ha yɔ kronkron!",
+        "Momma yɔnte Ne tumi nka",
+        "Na yɔnkoto N'anim ha komm;",
+        "Mo a munim sɔ Ne dom te;",
+        "Monsom No ‘nidi ne εdεm'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame wε ha! Abεfo bom'",
+        "To No dwom awia ne ‘nadwo;",
+        "Ɛte soro nso di hene,",
+        "Soro asafo yiN' ayɔ:",
+        "‘Wura mpo ayeyi a yɔn",
+        "Tɔkrɔma pemee reyi W' yi!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ateasefo nyinaa Wura,",
+        "Gye yɔn ayeyi sɔ~eduhuam;",
+        "Na yɔagyina W'anim daa daa,",
+        "Atie Wo, ayɔ nea Wopɔ:",
+        "Yɔde yɔn adwen' ma  Wo sɔ",
+        "Afεre a ɔsε ani."
+      ],
+      "number": 3
+    }
+  ]
+}

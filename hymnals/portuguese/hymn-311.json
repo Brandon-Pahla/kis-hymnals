@@ -1,0 +1,66 @@
+{
+  "number": 311,
+  "language": "pt",
+  "title": "Dai-nos Luz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Dai-nos Luz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uma voz ressoa, num geral clamor:",
+        "Dai-nos luz, dai-nos luz!",
+        "Os milhões em trevas, cheios de pavor,",
+        "Pedem luz, pedem luz!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Dai-nos luz, a mui gloriosa luz",
+        "De perdão, de paz e amor!",
+        "Dai-nos luz, a tão preciosa luz",
+        "De Jesus, o Salvador!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ansiamos vida, paz, consolação:",
+        "Dai-nos luz, dai-nos luz!",
+        "Se é por Cristo só que Deus nos dá perdão,",
+        "Dai-nos luz, dai-nos luz!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sim, por toda parte deve reluzir",
+        "Essa luz de Jesus,",
+        "Que ilumina a estrada que hemos de seguir.",
+        "Dai-nos luz, dai-nos luz!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eia, pois, ó crentes, todo o mundo enchei",
+        "Dessa luz de Jesus!",
+        "Aos milhões sem Cristo sem tardar erguei",
+        "Essa luz de Jesus!"
+      ],
+      "number": 6
+    }
+  ]
+}

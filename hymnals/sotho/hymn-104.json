@@ -1,0 +1,46 @@
+{
+  "number": 104,
+  "language": "st",
+  "title": "104  Tlo ’Moloki E Moholo Tlo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        ".Nkutloe Morena U be mosa ho ’na, tlo ’Moloki tlo ho ’na;",
+        "Moea oa ka o lakatsa uena, tlo ’Moloki tlo ho ’na."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke lelerile hole lithabeng, ke lelerile hole le hae;",
+        "Oho! Nkuke u nkhutlisetse hae, tlo ’Moloki tlo ho ’na."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke na mo nka its’ireletsang, tlo ’Moloki tlo ho ’na,",
+        "A k’u ntalime ke bone khanya, tlo ’Moloki tlo ho ’na."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsela ena ea ka ea nkhathatsa, tlo ’Moloki tlo ho ’na,",
+        "Mahlo a ka a bone lerato, tlo ’Moloki tlo ho ’na."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        ".U se hane ho inyatsa ha ka, tlo ’Moloki tlo ho ’na;",
+        "Mamela ho rapela ha ka, tlo ’Moloki tlo ho ’na."
+      ],
+      "number": 4
+    }
+  ]
+}

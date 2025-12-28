@@ -1,0 +1,62 @@
+{
+  "number": 251,
+  "language": "tum",
+  "title": " 251 Kulira Nkhanthu Cha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 251 Kulira Nkhanthu Cha",
+        "C.S. 92 WEEPING WILL NOT SAVE ME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Kulira nkhanthu cha nanga chisko chingawa,",
+        "Ntha kungamazga soka na kusuka kwananga,",
+        "Kulira nkhanthu cha"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu wakandifwira wakafwa pa mphinjika,",
+        "WakuLindizga ine kuti wandithaske."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Milimo nayoso nanga yitowe uli,",
+        "K'ghanaghana makora ntha yingatozga ine,",
+        "Mlimo nkhanthu chara."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Kulindizga nako kugona mkusuzgika,",
+        "Nkhupulika kuchema kulindizga nkhwawaka,",
+        "Kuti nkhanthu chara."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "A Yesu Mponoski Imwe mukandifwira,",
+        "Nkhugomezga mwa Imwe mundithaske mkwananga,",
+        "Kuti ndiwombokwe."
+      ],
+      "number": 5
+    }
+  ]
+}

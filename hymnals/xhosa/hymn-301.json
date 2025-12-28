@@ -1,0 +1,40 @@
+{
+  "number": 301,
+  "language": "xh",
+  "title": "301 Nkosi Yam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi yam, ubundithanda,",
+        "Ekulahlekeni kwam,",
+        "Nkosi yam, waman’ ulanda",
+        "Futhi emkhondweni wam,",
+        "Ndafunyanwa, Nkosi yam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi yam, ilizwi laKho",
+        "Lingukhanyiseli wam.",
+        "Nkosi yam, ufefe lwaKho",
+        "Lusisonwabiso sam.",
+        "Ndinovuyo, Nkosi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi yam, u-Moya waKho",
+        "Uyandingcwalisa nam.",
+        "Nkosi yam, izulu laKho",
+        "Lona lilikhaya lam.",
+        "Mandingene, Nkosi yam."
+      ],
+      "number": 3
+    }
+  ]
+}

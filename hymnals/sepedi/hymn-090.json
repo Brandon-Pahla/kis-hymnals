@@ -1,0 +1,57 @@
+{
+  "number": 90,
+  "language": "nso",
+  "title": " 90 MOŠOMO WA MATŠATŠI A SELELAGO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 90 MOŠOMO WA MATŠATŠI A SELELAGO",
+        "AH 384 CH 456",
+        "ANOTHER SIX DAY'S WORK"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go fedile go Šoma,",
+        "Go thoma Sabatha,",
+        "Etla boikhutšong moya waka,",
+        "Mo letšatšing la",
+        "Modimo;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Reta Morena, Rato la",
+        "'Gwe le na le boikhutšo pelong,",
+        "Go masoto tšatšing le,",
+        "Go feta a mangwe matšatši (ohle)"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A megopolo ya rena,",
+        "Le tebogo di tlhatloge,",
+        "Di amogele boiKhutšo,",
+        "Bjo bo tšwago go Morena;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khutšo e mo pelong,",
+        "BoiKhutšo bja kgalalelo,",
+        "Bja phuthego ya Modimo,",
+        "Ke bofelo bja dithabi;"
+      ],
+      "number": 5
+    }
+  ]
+}

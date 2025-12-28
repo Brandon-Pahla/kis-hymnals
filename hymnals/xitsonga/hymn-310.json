@@ -1,0 +1,19 @@
+{
+  "number": 310,
+  "language": "ts",
+  "title": "310. VONAN WA TA HOSI YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Vona…n Wa Ta Hosi Yesu, Vona…n Wa Ta Hosi Yesu, (Vonan Wa Ta Hosi Yesu), (Vonan Wa Ta Hosi Yesu);",
+        "Yesu… Wa Ta, Wa Ta Sweswi, Yesu… Wa Ta, Wa Ta Sweswi. (Yesu Wa Ta, Wa Ta Sweswi), (Yesu Wa Ta. Wa Ta Sweswi)",
+        "2. Fambi… Fambisani Evhangeli, Fambi… Fambisani Evhangeli, (Fambisani Evhangeli), (Fambisani Evhangeli).",
+        "Yesu… Wa Ta, Wa Ta Sweswi, Yesu… Wa Ta, Wa Ta Sweswi. (Yesu Wa Ta, Wa Ta Sweswi), (Yesu Wa Ta, Wa Ta Sweswi)",
+        "3. Hundzu…kani N’we Matiko, Hundzu…kani N’we Matiko, (Hundzukani N’we Matiko), (Hundzukani N’we Matiko),",
+        "Yesu… Wa Ta, Wa Ta Sweswi, Yesu… Wa Ta, Wa Ta Sweswi. (Yesu Wa Ta, Wa Ta Sweswi), (Yesu Wa Ta, Wa Ta Sweswi)"
+      ],
+      "number": 1
+    }
+  ]
+}

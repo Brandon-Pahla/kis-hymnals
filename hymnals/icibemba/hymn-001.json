@@ -1,0 +1,31 @@
+{
+  "number": 1,
+  "language": "bem",
+  "title": "1 - Lishisheni Ulupenga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WATCHMAN BLOW YOUR TRUMPET"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Lishisheni ulupenga, Mucenjeshe na bonse.",
+        "Bonse baleumfwe landwe, Babwelela ku mwabo.",
+        "CHORUS:",
+        "Lishisheni ulupenga. Lishisheni konse fye.",
+        "Lesa atupela bonse. Kusose 'landwe Iyakwe.",
+        "2. Lishisheni pa mapili, Mumfimfi mumalungu;",
+        "Na kabinge pa fimana. \"Yesu e Mupusushi.\"",
+        "3. Lishisheni mumisebo. Kuli bonse baluba",
+        "Bebeni bonse beshibe, Tata atupembela.",
+        "4. Abo bonse bafininwa, Banaka no bulanda;",
+        "Yesu ni Katula wabo. Alebelo kutusha."
+      ],
+      "number": 2
+    }
+  ]
+}

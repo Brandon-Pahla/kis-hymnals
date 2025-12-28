@@ -1,0 +1,39 @@
+{
+  "number": 209,
+  "language": "tn",
+  "title": "209 Go Tsamaya Le Modimo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Go Tsamaya Le Modimo, Ka’isong Ya Godimo,",
+        "’Sedi go phatsima tseleng E nkisang go Kwana."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Boya Moya O Boitshepo Morongwa Yo’ Montle;",
+        "Ke ya di ila dibe tse Di Go lelekileng."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Lobaka Lo Lontle Jang, Lwa Boitumelo.",
+        "Mme go setse mo go se kakeng ga ba ga tlatswa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sesetwa Se Ke Se Ratang, Lefa E Le Sefe,",
+        "O nthuse go se latlha ke Obamele Wena."
+      ],
+      "number": 4
+    }
+  ]
+}

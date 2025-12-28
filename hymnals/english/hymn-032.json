@@ -1,0 +1,56 @@
+{
+  "number": 32,
+  "language": "en",
+  "title": "32 The Lord`s Our Rock",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "The Lord’s our rock, in him we hide,",
+        "A shelter in the time of storm",
+        "Secure whatever may betide,",
+        "A shelter in the time of storm"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mighty rock in a weary land,",
+        "Cooling Shade on then burning sand,",
+        "Faithful guide for the pilgrim band,",
+        "A shelter in the time of storm."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A shade by day defence by night,",
+        "A shelter in the time of storm;",
+        "No fears alarm, no foes affright,",
+        "A shelter in the time of storm."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "The raging floods may round us beat,",
+        "A shelter in the time of storm;",
+        "We find in God a safe retreat,",
+        "A shelter in the time of storm."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Rock divine, O refuges dear,",
+        "A shelter in the time of storm;",
+        "Be thou our helper, ever near,",
+        "A shelter in the time of storm."
+      ],
+      "number": 4
+    }
+  ]
+}

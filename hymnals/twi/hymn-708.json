@@ -1,0 +1,43 @@
+{
+  "number": 708,
+  "language": "tw",
+  "title": "N13 O Love Divine",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Soro dɔ, dεn na Woyε yi!",
+        "Wodan nipa awu amam'!",
+        "Agya no dɔ Ba koro no",
+        "So-aa me bɔne dua no so!",
+        "Onyame Ba no wu maa me",
+        "Wɔakum me Wura ne Dɔfo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔakum No ama me ne wo",
+        "De 'tuatefo 'ba Nyame nkyεn;",
+        "Gye di, asεm no yε nokowar‘",
+        "Sε Yesu mogya atɔ yεn;",
+        "Faf'ri Ne mfem' sen sε nsu;",
+        "Wɔakum me Wura ne Dɔfo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Monhwε No, mò a mutwam' nyinaa",
+        "Nkwa, 'somdwoe Hen;'rekyi mogya!",
+        "Bɔn'yεfo mmεhwε 'Gyenkwa wu,",
+        "Mmisa sε yaw bi te sε 'yi?",
+        "Momma Ne mogya no nnye yεn;",
+        "Wɔakum me Wura ne Dɔfo."
+      ],
+      "number": 3
+    }
+  ]
+}

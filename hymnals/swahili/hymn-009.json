@@ -1,0 +1,43 @@
+{
+  "number": 9,
+  "language": "sw",
+  "title": "9 - Mwumbaji Mfalme",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Mwumbaji Mfalme, vitu vyote vyako,",
+        "Ni kwa ukarimu wako ninabarikiwa,",
+        "Ni kwa ukarimu wako ninabarikiwa."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Uliyeniumba, Nakutegemea,",
+        "Sina budi kuzisifu hisani zako kuu,",
+        "Sina budi kuzisifu hisani zako kuu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Nitatoa Nini? Kwanza vyote vyako,",
+        "Upendo wako wadai moyo wa shukrani,",
+        "Upendo wado wadai moyo wa shukrani."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Nipewe neema, Niwe na uwezo,",
+        "Wa kuishi kwako, Bwana siku zangu zako,",
+        "Wa kuishi kwako, Bwana siku zangu zako."
+      ]
+    }
+  ]
+}

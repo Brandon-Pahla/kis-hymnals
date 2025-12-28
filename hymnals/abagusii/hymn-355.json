@@ -1,0 +1,28 @@
+{
+  "number": 355,
+  "language": "guz",
+  "title": "355 'Kwegena Kw'Abatata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Kwegena kwa abatata!Nonya bachandetwe moko,Chinkoro chiaito chiagoka,Gotwaigure ring'an erio,Okwegena ogochenu!Ntwegene goik' amakweri."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Batata ase chichela'Basibor' ase chinkoro,Mogoko ki abana babo,Baisa gokwa bun'abaise,Okwegena ogochenu!Ntwegene goik' amakweri."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Kwegwena kwa aoatat!Ntwanch' abasani, babisa,Ntorandie Yeso kobua;'S'obogima n'amang'ana,Okwegena ogochenu!Ntwegene goik' amakweri."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "number": 68,
+  "language": "fr",
+  "title": "Dieu, quel amour",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dieu quel amour pour moi! Quelle patience!",
+        "Tu as conduit vers toi mon ignorance.",
+        "Comment pouvais-je alors saisir",
+        "Ce que ton cœur voulait m’offrir?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Un si grand miracle,",
+        "Un don si précieux,",
+        "Ta mort à la Pâque",
+        "Nous ouvre les yeux.",
+        "Ton salut remplace",
+        "Ma condamnation,",
+        "Mon péché s’efface",
+        "Par ta rédemption.",
+        "Loué sois-tu,",
+        "Dieu tout-puissant,",
+        "Loué sois-tu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ce don si merveilleux, comment le vivre,",
+        "Sans le répandre à ceux que tu veux suivre,",
+        "Sur les chemins où ils s’égarent,",
+        "Loin de la vie et de l’espoir?"
+      ],
+      "number": 3
+    }
+  ]
+}

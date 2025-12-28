@@ -1,0 +1,78 @@
+{
+  "number": 276,
+  "language": "ve",
+  "title": "276. O Vha A Tshi toda nne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu o bebwa ngei Betlehema, Mukungwani lu tungufhadzaho",
+        "Zwo mangadza ndi uri zwo da hani? A tshi toda nne."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "A tshi toda nne-vho, A tshi toda nne-vho",
+        "Zwo mangadza uri zwo tou da hani? A tshi toda nne."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ene Yesu ngei Khalivari. O lifha mulandu muhulusa",
+        "Zwo mangadza uri zwo da hani? A tshi fela nne."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A tshi fela nne-vho, A tshi fela nne-vho",
+        "Zwo mangadza uri zwo da hani? A tshi fela nne."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi Mutshidzi tsha kale na kale, Zwila ndi kule na tshitumba,",
+        "O fhembeledza na mbilu yanga, A di mmbidza nne."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A di mmbidza nne-vho, A di mmbidza nne-vho",
+        "Zwo mangadza uri zwo da hani? A tshi mmbidza nne."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndi takalela fulufhedziso, U do da a tshi bva makoleni,",
+        "Ndi do mu vhona a tshi do vhuya, A tshi dela nne"
+      ],
+      "number": 7
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A tshi dela nne-vho, A tshi dela nne-vho",
+        "Ndi do mu vhona a tshi do vhuya, A tshi dela nne."
+      ],
+      "number": 8
+    }
+  ]
+}

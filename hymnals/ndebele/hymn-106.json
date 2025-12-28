@@ -1,0 +1,40 @@
+{
+  "number": 106,
+  "language": "nd",
+  "title": "106 Yakhela Edwaleni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Si bokwakh’ eDwaleni lethu, Lona laphakad’ uJesu;",
+        "Khona si yokuma kulona, Si ngaw’ ekulingweni."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si zokwakhela, (Si zokwakhel’ eDwaleni Lelo)",
+        "Sakh’ eDwaleni (Sakh’ e Dwalen’ eliqinileyo)",
+        "Sakh’ eDwalen’ eliqinileyo, uKrestu onamandla."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kukhon’ abak’ es’ hlabathini: Ngabakhela emfuyweni.",
+        "Ba qaphel’ udumo lomhlaba Nokwakhela kokubi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O! Dwala eliqinileyo, Masakhele phezu kwAkho.",
+        "Wena Themb’ elingapheliyo, Li Themba loSindiso."
+      ],
+      "number": 4
+    }
+  ]
+}

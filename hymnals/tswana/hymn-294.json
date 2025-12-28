@@ -1,0 +1,56 @@
+{
+  "number": 294,
+  "language": "tn",
+  "title": "294 Leba Go Jeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Leba Jeso G’a Na Boleo;",
+        "Rara mpalela tshelo jwa ’Gwe.",
+        "Botshelo jwa me jwa boleo,",
+        "Bo bipe ka botshelo jwa ’Gwe"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Bo bipe ka botshelo jwa ’Gwe,",
+        "Foo ke tla itse tlalo jwa ’Gwe;",
+        "Botshelo jwa me jwa boleo,",
+        "Bo bipe ka botshelo jwa ’Gwe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tlol’e Dirile ’Ntho Tse Boteng;",
+        "Bofubidu mo’a me wa tshaba.",
+        "Go apes’wa Jeso ke Wena,",
+        "Ke polokong mola’o ntshekisang."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nka Itse Fa Ke Bolokilwe,",
+        "Jes’O tshotse kobo e tshweu:",
+        "’’Morena kea e amogela",
+        "Ke apara ’tshelo jwa Gago.’’"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tetlanyo Ke ’ Bona ’Song Lwa ’Gwe’",
+        "Ke siamisitswe tshelong jwa ’Gwe",
+        "Kutl’a foko ja ’Gwe ’ntshepisa;",
+        "Morena’ m’A tla kgalalelong."
+      ],
+      "number": 4
+    }
+  ]
+}

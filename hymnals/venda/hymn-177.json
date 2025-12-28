@@ -1,0 +1,54 @@
+{
+  "number": 177,
+  "language": "ve",
+  "title": "177. A Huna Vhusiku Hone",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:427",
+        "AH:421"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Shangoni li penyaho, Ndi mudi wavhudi,",
+        "U sa do tahala-ho, A hu na vhusiku."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Khotsi I do fhuluta, Mitodzi ya vhakhethwa,",
+        "Minwaha a i vhalwi, Ndi u tshila tshothe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Khoroni dzi penyaho, Mudini wavhudi,",
+        "Ndila ndi dza musuku, , A hu na vhusiku."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Dzikhoro a dzi valwi, Mudini wavhudi,",
+        "Mulambo wa vhutshilo, A hu na vhusiku."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. duvha a li todei, Mudini wavhudi,",
+        "Ndi Ngwana i penyaho, A hu na vhusiku."
+      ],
+      "number": 5
+    }
+  ]
+}

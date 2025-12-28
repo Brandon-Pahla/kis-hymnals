@@ -1,0 +1,46 @@
+{
+  "number": 35,
+  "language": "ve",
+  "title": "35 Vhukonani Vhu Ngafha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:469",
+        "AH:261"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Hu na vhukonani kha Murena, ri imiswa zwandani zwawe,",
+        "Dziphathutshedzo dzone ndi khulu, ndo di-tika zwandani zwawe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Fara...Khwatha, shavhela khae u tshile,",
+        "Fara...Khwatha, Ima khae Yesu u kunde"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Zwo naka ngoho u vha mudali, ndo di-tika zwandani zwawe,",
+        "Hu na tshedza tshi vhonetshelaho, mudali a vhone Murena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi nga ofhani? Ndi nga ofhani? Zwino ndi khou tsireledzwa,",
+        "Naho ndi nga fashwa nga milingo, ndi do dzula zwandani zwawe"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "number": 578,
+  "language": "tw",
+  "title": "Mesoma Mo ɔɔdom Mma Munni Nkonim",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mesoma moɔɔdom mma munni nkonim",
+        "Wɔ sum, asaman, bɔne ne wu so,",
+        "Munkųra Me din, na ama moadi nkonim",
+        "Mesoma mo, munni nkonim mma Me."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mesoma mo ɔ momfa nokwar asɛm no",
+        "Nkɔma akra a wɔwɔ nkoasom mu;",
+        "Monsɛe bɔne nhama ne owu mpoky'rɛ,",
+        "Mesoma mo momfa 'yerafo mmra."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mosoma mo ɔ mubehu M'adoɔden wɔ",
+        "Mmerɛwyem', M'anigyɛ wɔ aw'rɛhow m',",
+        "De ahu Me, tumi, Me dom, M'ahoyi;",
+        "Mesoma mo ɔ munkotwa aba no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mesoma mo ɔ monsoa 'sɛnnuan' boasetɔm',",
+        "Na da bi mode ato hɔ 'nigyem'",
+        "Ate Me nne sɛ, mo! nkoa pa nokwafo",
+        "Mummenya kyɛfa M'ahenni no mu",
+        "Mesoma mo sɛnea Agya soma Me."
+      ],
+      "number": 4
+    }
+  ]
+}

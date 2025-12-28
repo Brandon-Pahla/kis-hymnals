@@ -1,0 +1,39 @@
+{
+  "number": 242,
+  "language": "tn",
+  "title": "242 Go Sego Kopano",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Go Sego Kopano Ya Rona Loratong,",
+        "Botsalano fano ’kete Jwa kwa legodimong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwa Pele Ga Rara, Re Thela Thapelo;",
+        "Re mongwe mo dilong tsotlhe, Le gone kgomotsong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Ya Lelelana, Re Thusanya Tirong,",
+        "Re ya futsafalelana Le kutlong botlhoko."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Re Kgaogana, Re Utlwa Botlhoko;",
+        "Mme re tla nna re kopana Pelung Tsholofelong."
+      ],
+      "number": 4
+    }
+  ]
+}

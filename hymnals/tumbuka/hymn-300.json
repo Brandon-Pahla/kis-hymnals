@@ -1,0 +1,71 @@
+{
+  "number": 300,
+  "language": "tum",
+  "title": " 300 Chipumulo Cha Wakuvuka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 300 Chipumulo Cha Wakuvuka",
+        "REST FOR THE WEARY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mu chikaya cha wakhristu malo gha chipumulo,",
+        "Mtaski wali kudangira nane nkhupukwa uko."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain:",
+        "WamkupumuLa kura, wamkupumuLa kura,",
+        "ChipumuLo chiriko cha wakuvuka.",
+        "Pa sirya La Yorodano muminda ya Edeni,",
+        "MuLi khuni La moyo, mwamkupumuLa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Wakundinozgera nyumba yamkukhalilira swi!",
+        "Ndam'khalamo nyengo zose m'charu chira chituwa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "KuWinya kulije kura kulijeso chitima,",
+        "Mkati mwa musumba uwo ndamukuvwala mphumphu."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Nyifwa na liwozga lake vyose vyam'malizgika,",
+        "wak' wombokwa m'chemerezge pa dazi la chizguka."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "Yimbani wakuwombokwa chemani mukutonda,",
+        "Pa vipata vya m Ziyoni mwamukunijira kura."
+      ],
+      "number": 7
+    }
+  ]
+}

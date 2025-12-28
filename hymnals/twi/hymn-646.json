@@ -1,0 +1,43 @@
+{
+  "number": 646,
+  "language": "tw",
+  "title": "Ma Aman Nyinaa Nkoto Din",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ma aman nyinaa nkoto din",
+        "A ɛde nkwagye ba no,",
+        "Sɛ wɔbɔ din mu Din yi a,",
+        "Ma wɔnkoto ayeyim',",
+        "Ma wɔmmɔ mpae nsrɛ fof'royɛ",
+        "Mma Kristom nneɛma nyinaa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Odi hen' daa kɛseyɛ mu,",
+        "Awo ntoatoaso biaram',",
+        "Ma amanaman ahemfo",
+        "Nto wɔn nitan ngu seesei",
+        "Wɔmfa 'hobrɛase ne 'nidi",
+        "Nyɛ nok'ro Nyame dɔ mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, yɛsrɛ ma 'mansodifo,",
+        "Ma wonnya Wo nkyɛn banbɔ",
+        "Mfi tumidi a ɛmfra ne",
+        "Adiufudepɛ hun' mu;",
+        "Ma wonhu 'hobrwasem' nokwar'",
+        "Na wommu atɛntrenee."
+      ],
+      "number": 3
+    }
+  ]
+}

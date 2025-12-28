@@ -1,0 +1,37 @@
+{
+  "number": 14,
+  "language": "bem",
+  "title": "14 - BUPE BWA KWA LESA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HEAR THE PENNIES DROPPING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bupe bwa kwa Lesa",
+        "Tuleta nomba",
+        "Fyonse kuli Yesu",
+        "Apoka ifi.",
+        "CHORUS:",
+        "Leta, leta, leta, leta,",
+        "Ubupe nomba:",
+        "Fyonse kuli Yesu",
+        "Apoka ifi.",
+        "2. Ubupe tuleta,",
+        "Panono nomba,",
+        "Lelo tulepela,",
+        "Pantu twam'temwa.",
+        "3. Tupela kutemwa,",
+        "Mwe Mupusushi,",
+        "Yesu Mfumu yesu,",
+        "Pokeni uku."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 164,
+  "language": "st",
+  "title": "164 Ke Lutse Maotong A Jesu.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke lutse maotong a Jesu, k’utloa mantsoe a matle;",
+        "Tulo e ntle ea bohlokoa Ke tla lula kamehla;",
+        "Ke lutse maotong a Jesu, Ke sheba tse ka morao,",
+        "Rato la Hae la mohau, Le hapa pelo ea ka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke kae moo ho shoang ho ka ba, le lona hlohonolo?",
+        "Ke bea libe le ts’oabo, Ke tle ke be phomolong,",
+        "Ke lutse maotong a Jesu, Ke tla lla ke rapele;",
+        "Ke phutha botlalong ba Hae Mohau le Ts’eliso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hlohono’fatsa ’Moloki ke leta maotong a Hao,",
+        "A k’u nchebe ka lerato Ke bohe sefahleho;",
+        "Mphe mohopolo oa Jesu, nkhalaletse ka Eena,",
+        "Ke bonts’e ha A le ho ’na, Eena ho loka ha ka."
+      ],
+      "number": 3
+    }
+  ]
+}

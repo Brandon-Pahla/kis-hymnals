@@ -1,0 +1,66 @@
+{
+  "number": 75,
+  "language": "pt",
+  "title": "Jesus Conquista",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Jesus Conquista"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Donde vêm estes guerreiros",
+        "Revestidos de luz?",
+        "Eles vêm de reais domínios,",
+        "Guiados por Jesus."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Conquista, ó Cristo! Conquista já, ó Rei!",
+        "Com glória grandeza, poder celestial!",
+        "Conquista, ó Cristo! Conquista já, ó Rei!",
+        "Domina sobre terra e céus, Ó Rei universal!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aclamai, cantai, ó crentes,",
+        "Redimidos sereis.",
+        "Vem o fim das vossas lutas,",
+        "Sim, vem o Rei dos reis."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Já se finda a escura noite,",
+        "Eis que o dia já vem.",
+        "Cristo lá no Céu Se apressa,",
+        "E os anjos Seus também."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem depressa, ó dia alegre!",
+        "Eu suspiro por ti.",
+        "Já pressinto a glória eterna",
+        "Que perto me sorri."
+      ],
+      "number": 6
+    }
+  ]
+}

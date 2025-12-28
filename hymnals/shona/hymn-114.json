@@ -1,0 +1,48 @@
+{
+  "number": 114,
+  "language": "sn",
+  "title": "114 Zambara Razarurirwa Ini",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Zambara rakazarurwa Kuti ini ndipinde;",
+        "Muchinjiko waM’ponesi Tichauona apo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mutsa wakadzama kwazvo kuti andizarurire,",
+        "Ini...ini...Rasiyirwa ini.",
+        "(Ini) (ini.)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zambara rakazarurwa Kuti vese vapone.",
+        "Vapfumi kana varombo, madzinza kana ndudzi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pamberi ngatifambenyi, richakandozarurwa,",
+        "Gashiranyi rudo Rwake, Chiremba nem’chinjiko."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hunde mhiriyo kwerwizi Totura muchinjiko",
+        "Totakura ‘cho-chiremba Toda Mwari kudenga."
+      ],
+      "number": 5
+    }
+  ]
+}

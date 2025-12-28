@@ -1,0 +1,47 @@
+{
+  "number": 639,
+  "language": "tw",
+  "title": "A Seda Hyɛ Me Koma Ma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A seda hyɛ me koma ma",
+        "Sɛ mento W'ayeyi;",
+        "Wo dɔ ne W'adɔe fi mfiase",
+        "Ahy'ra me besi nnɛ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Meda W'ase me talɛnte",
+        "Ne ntoso du som ho;",
+        "'Fisɛ ɔma de 'nigye ba,",
+        "B'rč a ɛboa afof'ro."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Meda W'ase, 'hwɛfo som a",
+        "Ͻma meyɛ adɔe;",
+        "Ͻma mede boasetɔ boa",
+        "Wo mma wɔn ahohiam'."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O 'W'ra, Wo frɛ no nti mede",
+        "Nea mewɔ ny'naa ma Wo;",
+        "Boa ma mentrɛw ɔfrɛ no mu",
+        "Ahobrɛase pa mu."
+      ],
+      "number": 4
+    }
+  ]
+}

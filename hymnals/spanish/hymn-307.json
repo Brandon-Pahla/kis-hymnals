@@ -1,0 +1,50 @@
+{
+  "number": 307,
+  "language": "es",
+  "title": "Roca de la eternidad",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Roca de la eternidad"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Roca de la eternidad,",
+        "fuiste abierta para mí;",
+        "sé mi escondedero fiel;",
+        "solo encuentro paz en ti,",
+        "rico, limpio manantial",
+        "en el cual lavado fui."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aunque fuese siempre fiel,",
+        "aunque llore sin cesar,",
+        "del pecado no podré",
+        "justificación lograr;",
+        "solo en ti teniendo fe,",
+        "salvación podré gozar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mientras tenga que vivir",
+        "en el mundo de maldad;",
+        "cuando vaya a responder",
+        "en tu augusto tribunal,",
+        "sé mi escondedero fiel,",
+        "Roca de la eternidad."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "number": 3,
+  "language": "nso",
+  "title": " 3 FAHLOGO DI TLO LEBANA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 3 FAHLOGO DI TLO LEBANA",
+        "AH 319 CH 545",
+        "FACE TO FACE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fahlego di tlo lebana,",
+        "Le Kreste Mophološi;",
+        "Ke tlo thaba ge ke bona,",
+        "Jeso ke Mophološi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušulošo",
+        "Fahlego di tlo lebana,",
+        "Ka mošola go maru;",
+        "Fahlego di tlo lebana,",
+        "Le Jeso kua pheletšong."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka leswiswana ke'a mmona,",
+        "Go na le se ntšhirago;",
+        "Ka tšatši le lekganyago,",
+        "Ke mmone kgalalelong;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tlo thabela go mmona,",
+        "ka nako e sa tsejweng;",
+        "Tšohle di kgantshwa ntshe,",
+        "go fele matshwenyego."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fahlego di tlo lebana,",
+        "Le Mophološi wa ka;",
+        "Ke tlo lebana le Yena,",
+        "Jeso M'phološi wa ka."
+      ],
+      "number": 6
+    }
+  ]
+}

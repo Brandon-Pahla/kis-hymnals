@@ -1,0 +1,47 @@
+{
+  "number": 127,
+  "language": "nd",
+  "title": "127 Futhi, Kimi I Nothando",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "iNkos’ i bon’ im’zwilili",
+        "Nayo i yizwele;",
+        "Lapha i yithanda yona,",
+        "I nothando kimi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Futhi kimi i nothando",
+        "Ngi yaz’ i nothando;",
+        "Ngo’ba i yathanda konke-",
+        "I nothando kimi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I yaphendula imbhali;",
+        "Zi khahleke kahle;",
+        "Uma i zithanda zona,",
+        "I nothando kimi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "iNkosi yenza inyoni,",
+        "Nakho okukhona.",
+        "I ngeze yakhohlwa yiko:",
+        "I yathanda konke."
+      ],
+      "number": 4
+    }
+  ]
+}

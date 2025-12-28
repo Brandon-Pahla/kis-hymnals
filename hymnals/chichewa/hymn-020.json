@@ -1,0 +1,46 @@
+{
+  "number": 20,
+  "language": "ny",
+  "title": "20 - Moyo Wanga Dzuka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "AWAKE, MY SOUL!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Moyo wanga dzuka, limba Thamanga ndi mphamvu;",
+        "Korona wosatha ali, Kulindira iwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mau a Mulungu wako, Akuitana’we;",
+        "Dzanja lake likufupa, Ngati ufunitsa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mtambo wa mboni wozinga, Uyang’anira’we;",
+        "Iwala zonse za m’mbuyo, Pitabe m’tsogolo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mpulumutsi tikokeni, Tiyambe liwiro;",
+        "Tidze pa mapazi anu, Kutula katundu."
+      ],
+      "number": 5
+    }
+  ]
+}

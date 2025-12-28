@@ -1,0 +1,55 @@
+{
+  "number": 170,
+  "language": "en",
+  "title": "170 My Maker And My King.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "My Maker and my King,",
+        "To thee my all I owe;",
+        "Thy sov’reign bounty is the spring,",
+        "Whence all my blessing flow;",
+        "Thy sov’reign bounty is the spring,",
+        "Whence all my blessing flow."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "The creature of thy hand,",
+        "On thee alone I live;",
+        "My God, thy benefits demand,",
+        "More praise than I can give;",
+        "My God, thy benefits demand,",
+        "More praise than I can give."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lord, what can I impart,",
+        "When all is thine before?",
+        "Thy love demands a thankful heart,",
+        "The gift alas! How poor,",
+        "Thy love demands a thankful heart,",
+        "The gift alas! How poor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O! Let thy grace inspire,",
+        "My soul with strength divine;",
+        "Let ev’ry word and each desire,",
+        "And all my days be thine;",
+        "Let ev’ry word and each desire,",
+        "And all my days be thine."
+      ],
+      "number": 4
+    }
+  ]
+}

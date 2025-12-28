@@ -1,0 +1,56 @@
+{
+  "number": 726,
+  "language": "tw",
+  "title": "N31 Revive Thy Work O Lord",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyan W'adwuma, ‘Wura!",
+        "Ma W'ahotefo nhuW'!",
+        "Fa tum' kasa ky'rε kra biara,",
+        "Na maWo nk'rɔfo nte!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nyan W'adwuma, ‘Wura!",
+        "B're~a yεakoto Wo yi;",
+        "Sian, O, Domfo Aw'rade sian!",
+        "Behyira yεn siesie."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyan W'adwuma, ‘Wura!",
+        "Ma Wo din nyε kεse!",
+        "Wo dɔ nnεre sε ‘gyaframa",
+        "Wɔ koma biara mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyan W'adwuma, ‘Wura!",
+        "Nhyira nka W'asεm no!",
+        "Ma wɔmfa gyidi amapa",
+        "Nte Wo nokwar' kronn no!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyan W'adwuma, ‘Wura!",
+        "Ma yεn Pentekost nhy'ra!",
+        "Wo nko na ‘nuonyam yε Wo de!",
+        "‘W'ra, ma nh'ra nyε yεn de!"
+      ],
+      "number": 4
+    }
+  ]
+}

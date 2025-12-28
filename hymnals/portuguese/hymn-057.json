@@ -1,0 +1,66 @@
+{
+  "number": 57,
+  "language": "pt",
+  "title": "Eu Quisera Andar com Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Eu Quisera Andar com Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu quisera andar com Cristo,",
+        "Sobre o mar da Galiléia;",
+        "Ao Seu lado, pela Judéia,",
+        "Partilhar da celestial missão."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Com Cristo andar, com Cristo andar,",
+        "Sentir em mim essa emoção;",
+        "Bem sei, Senhor, que um dia a sentirei,",
+        "Bem junto a Ti, Jesus, no eterno lar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu quisera andar com Cristo,",
+        "Ver Suas santas mãos curando,",
+        "Os Seus lábios sempre pregando",
+        "Do infinito e divinal amor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu quisera andar com Cristo,",
+        "De joelhos lá no horto,",
+        "Implorando de Deus conforto",
+        "Pra Seu Filho suportar na cruz."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu quisera andar com Cristo,",
+        "Quando ao Céus subiu na nuvem;",
+        "Eu quisera subir com Ele,",
+        "Pra sempre tê-Lo junto a mim."
+      ],
+      "number": 6
+    }
+  ]
+}

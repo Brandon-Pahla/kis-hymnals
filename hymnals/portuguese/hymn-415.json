@@ -1,0 +1,44 @@
+{
+  "number": 415,
+  "language": "pt",
+  "title": "Só, com Teu Deus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Só, com Teu Deus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Só, com teus Deus, sublime paz e bênção!",
+        "Sim, sempre a sós com Deus por onde for.",
+        "Só, com teus Deus, Seu rosto contemplando,",
+        "Só, sempre ouvindo Sua voz de amor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Só, com teus Deus, nas horas mais difíceis,",
+        "Paz Ele tem a dar aos filhos Seus.",
+        "Só, com teus Deus, serás o exemplo vivo,",
+        "Luz da verdade e do amor de Deus."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Só, com teus Deus, supremo bem infindo!",
+        "Tal comunhão dará prazer sem par.",
+        "Só, com teus Deus, fiel até a morte,",
+        "Vais para sempre com Teu Deus andar."
+      ],
+      "number": 4
+    }
+  ]
+}

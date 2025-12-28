@@ -1,0 +1,31 @@
+{
+  "number": 6,
+  "language": "sw",
+  "title": "6 - Kumekucha kwa Uzuri",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Kumekucha kwa uzuri, nafumbua macho,",
+        "Baba amenihifadhi, ni wake mtoto."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Bwana niwe leo kutwa, ulinzini mwako,",
+        "Nisamehe dhambi, niwe mikononi mwako."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Roho wako anikae, moyoni daima,",
+        "Anitakase nione, uso wako mwema."
+      ]
+    }
+  ]
+}

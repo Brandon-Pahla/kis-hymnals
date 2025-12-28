@@ -1,0 +1,37 @@
+{
+  "number": 124,
+  "language": "tw",
+  "title": "Mmoa Adididan Mu, Wannya Mpa Biara",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mmoa adididan mu, Wannya mpa biara,",
+        "Abifra Yesu no de Ne ti too hɔ;",
+        "Nsoromma fɛfɛ wɔ wim hwɛɛ nea ɔda,",
+        "Abofra Yesu no daa mmoa aduan so."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anantwi no su ma Abofra no nyan,",
+        "Nanso Abofra Yesu no de Wansu;",
+        "Medɔ Wo, 'W'ra Yesu, fi s'ro hɔ hwɛ me,",
+        "Na tra me nkyɛn kosi sɛ ade bɛkye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bɛn me, 'W'ra Yesu, na bra bɛtra me nkyɛn;",
+        "Tra me nkyɛn daa daa, na dɔ me mesrɛ Wo;",
+        "Hyira yɛn mmofra nyinaa, na hwɛ yɛn so;",
+        "Siesie yɛn ma ɔs'ro na yɛneW' mmɛtra."
+      ],
+      "number": 3
+    }
+  ]
+}

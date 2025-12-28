@@ -1,0 +1,42 @@
+{
+  "number": 254,
+  "language": "ve",
+  "title": "254. Rendani Dzina la Yehova",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Rendani Yehova, vhudza vhathu vhothe vha mu rende,",
+        "Na vha re tadulu vha rende lufuno,",
+        "Na tshilidzi tshihulu na Maanda"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Lidza phalaphala hu pfale mubvumo mashangoni,",
+        "disani na mbila ni mu rende ngadzo,",
+        "Vhothe nga dakalo, nga vha imbe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ni rende nga ngosha ni rende nga mbila dzi difhaho,",
+        "U ri fha vhutshilo, vhothe vha tshilaho,",
+        "Kha vha rende dzina la Yehova."
+      ],
+      "number": 4
+    }
+  ]
+}

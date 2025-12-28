@@ -1,0 +1,39 @@
+{
+  "number": 209,
+  "language": "st",
+  "title": "209 Ho tsamaea Le Molimo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ho tsamaea le Molimo, Khotsong ea Holimo;",
+        "’Seli le phatsima tseleng e isang ho Konyana"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khutla moea ’halalelang, Molaetsa O motle",
+        "Ke hloile libe tseo tse u lelekileng"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha metsotso e thabetsoeng, E ntse e utloahala",
+        "Se setseng se ke ke sa ba le hona ho tlatsoa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Melimo eo e ratuoang, leha e ka ba efeng,",
+        "U nthuse ke e lahle, Ke khumamele Uena."
+      ],
+      "number": 4
+    }
+  ]
+}

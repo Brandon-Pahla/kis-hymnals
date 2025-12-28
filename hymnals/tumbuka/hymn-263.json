@@ -1,0 +1,79 @@
+{
+  "number": 263,
+  "language": "tum",
+  "title": " 263 Mwize Navyo Vyatchumi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 263 Mwize Navyo Vyatchumi",
+        "BRING YE ALL THE TITHES"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Pulikani mazgu gha Fumu yithu",
+        "mwize navyo vyatchumi munthamba,",
+        "Mjipereke kwa lyo nyengo",
+        "zose kulindizga vitumbiko."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mwize navyo vyatchumi munthamba,",
+        "\"Mundiyezge\" yanena Fumu,",
+        "\"nditimupani vitumbiko,",
+        "MaLo ghakusunga ghachepenge\""
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ka nkhongono ya Mzimu mkuyikhumba?",
+        "mwize navyo vya tchumi munthamba,",
+        "Mkhalenge nayo nyengo yiri",
+        "yose apo wakupa thumbiko."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Ka pali kanthu pa imwe na Fumu?",
+        "mwize navyo vyatchumi munthamba,",
+        "Mwize navyo nga ndi phangano",
+        "lake watimipaninge thuimbiko."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Wuska mtima wako na kumuchema",
+        "pakwiza na vyatchumi munthamba,",
+        "Gomezga phangano lake m'chindike",
+        "na mtima wakum zomera."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "Sumu za ntchindi m'chanya ziyimbike",
+        "tiza navyo vyatchumi munthamba,",
+        "Timbenge haleluya mukukondwa",
+        "tapokera vitumbiko."
+      ],
+      "number": 6
+    }
+  ]
+}

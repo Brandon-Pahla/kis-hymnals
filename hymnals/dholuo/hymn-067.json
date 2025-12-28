@@ -1,0 +1,42 @@
+{
+  "number": 67,
+  "language": "luo",
+  "title": "67 Nyasachwa Mondo Obed Kodu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nyasachwa mondo obed kodu,En bende e ma nogwedhu,Kaka rombe Enoritu,Nyasachwa mondo obed kodu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyaka wanere chieng` machielo,Nyaka wanere e biro Ruoth,Nyaka wanere chieng` maduong`no,Nyasachwa mondo obed kodu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nyasachwa mondo obed kodu,En ogeng`ou gi luete;En mang`won, En to noritu;Nyasachwa mondo obed kodu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nyasachwa mondo obed kodu.En t`omiu bet mangima,Bende En ohoyo chunyu;Nyasachwa mondo obed kodu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nyasachwa mondo obed kodu;Kata ka masich tho yudwa.To wanere e pinyruodhe;Nyasachwa mondo obed kodu."
+      ],
+      "number": 5
+    }
+  ]
+}

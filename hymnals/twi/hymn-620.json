@@ -1,0 +1,56 @@
+{
+  "number": 620,
+  "language": "tw",
+  "title": "Migyina Yordan Agya Hɔ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Migyina Yordan agya hɔ,",
+        "Na meto m'ani hwɛ",
+        "Kanaan 'nigye asase no",
+        "Nea m'agyapade wɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Merekɔ bɔhyɛ 'sase so,",
+        "Merekɔ bɔhyɛ 'sase so,",
+        "O, hena ne me bɛkɔ hɔ?",
+        "Merekɔ bɔhyɛ 'sase so."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nsase pataa no akyi na",
+        "Dā a ɛnsa da no hy'rɛn;",
+        "Hɔ na Kristo di hen' daa daa,",
+        "Na ɔpam sum fi hɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Medu 'nigye bea hɔ da bɛn,",
+        "Na manya daa nhyira?",
+        "Mehu m'Agya anim da bɛn",
+        "Ahom' N'ahemman nom'?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anigye ahyɛ me kra ma",
+        "Merentumi ntra ha;",
+        "Yordan 's'rɔkye bɔ me ho mpō a",
+        "Minsųro, mɛkɔ anim."
+      ],
+      "number": 4
+    }
+  ]
+}

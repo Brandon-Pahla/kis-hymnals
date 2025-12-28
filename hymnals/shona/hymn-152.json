@@ -1,0 +1,47 @@
+{
+  "number": 152,
+  "language": "sn",
+  "title": "152 Taura Kumweya Wangu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Taura neni Jesu, neinzwi remutsa",
+        "Taura zvakanaka, hausari wega",
+        "Zarura mwoyo wangu, unzwe inzwi renyu",
+        "Mweya wangu um’kudze, nekumufarira"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Taura nekupfawa’ro inzwi rerudo",
+        "Uchazoba mukundi unossununguka",
+        "Tenzi tauranyi zve, inzwi rekupfava",
+        "Chindiudzanyi kuti hausi wega"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Taura nevana vako, uvatungamire",
+        "Vazadze nerufaro, vadzidze kurinda",
+        "Kuti nekuzvipira, tiwe vana vako",
+        "Umambo ngausvike tizoona Tenzi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tauranyi sekare, ndionise nzira",
+        "Ndiite basa rangu, ndiite mutemo",
+        "Ndiite ndim’kudze nekumupa mbiri",
+        "Ndichabvuma kutumwa ndimuremekedze"
+      ],
+      "number": 4
+    }
+  ]
+}

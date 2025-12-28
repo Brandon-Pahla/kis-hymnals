@@ -1,0 +1,53 @@
+{
+  "number": 113,
+  "language": "ny",
+  "title": "113 - Yesu Mofatsa Aitana Tonse",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "CALLING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu, mofatsa, aitana tonse. ’Mvanitu mau ake.",
+        "Akugogoda pa khomo pa mtima, Alikulindira ’fe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Idzani kwanu! Inu, otopa, idzani.",
+        "Yesu mokonda aitana nonse. Iwe, wochimwa, idza."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yesu apempha kwa ’Tate kumwamba, Ka’mba ka iwe ndine",
+        "Bwanji tikana zifundo zakezo, Kodi tichedweranji?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nthawi ya nsisi ipitatu msanga, Kwa iwe ndi inenso;",
+        "Mdima wa imfa ukudza msanganso, Kwa iwe ndi inenso."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Yesu napatsa chikondi chakecho Kwa iwe ndi inenso.",
+        "Nkana tachimwa akhululukira, Tchimo la iwe ndine."
+      ],
+      "number": 5
+    }
+  ]
+}

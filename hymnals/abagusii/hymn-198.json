@@ -1,0 +1,35 @@
+{
+  "number": 198,
+  "language": "guz",
+  "title": "198 Yes' Omorisi' Oito",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yes' Omorisi' oito,Tinyi' amariga;Gatore as'are,Nki toroboe?Tomotunye rioka,'S' aratorae;Gochia as' eroro,Gos' oborisia."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yes' Omorisi' oito,Twamany'eriogi;Okomanya kwaye,GwatogokirieNig' akogorora,As' obwororo;Ner' oratorae,Nabaye tore."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yes' Omorisi' oito,Otokwerete,Gaiter' amanyinga,'Se ker' eng'ondiKer' eyem' abeka,Kemanyererio;'Tebir' \"Ab' Omoika,Abwo nabane\"."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Yes' Omorisi' oito,Otorendire;'Bibengi nabicha,Tibigotora'Mwenya bw'amakweri,Ogotwoboyia;Ntokwobo' obobe,'Babui b'embera."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 160,
+  "language": "tn",
+  "title": "160 Tshegelediwa Jeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "\"Tshegelediwa Jeso\" Thateng Ya Modimo;",
+        "\"Tshegediwa lefatshing,\" Kgatong tsa ga Jeso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "\"Tshegelediwa Jeso.\" Morena naong tsa ’Go;",
+        "Ke nne lefela la mafela; Nna tsotlhe go tsotlhe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Tshegelediwa Jeso.\" Ke Dire Thato’a ’Gwe;",
+        "\"Tshegeled’wa Morena; Tirong ya Morena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Tshegelediwa Jeso.\" Kgaoganong Le ’Fatshe;",
+        "Boingotlo mo moyeng, Boitsheko mo pelong."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Tshegelediwa Jeso.\" Go Nna Wa ’Gwe Gotlhe.",
+        "Go ya ka bosakhutleng Ke nne wa’ Go fela."
+      ],
+      "number": 4
+    }
+  ]
+}

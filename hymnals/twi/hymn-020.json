@@ -1,0 +1,47 @@
+{
+  "number": 20,
+  "language": "tw",
+  "title": "Munyi 'W'radè Ayɛ!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Munyi 'W'radè ayɛ! Munyi N'ayɛ s'ro,",
+        "Mommɔ 'se N'asɛm mu hann abɔfo;",
+        "Mo s'rofo, monkamfo Nea ɔbɔɔ mo no",
+        "Na monsom wɔ N'anim, Hann ahoɔfɛ mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Munyi 'W'radè ayɛ! Yi N'ayɛ fam ha,",
+        "Wɔ nne dɛdɛ mu: Mò awo fof'ro mma",
+        "Nea ɔde dom fi s'ro n', Munyi No ayɛ;",
+        "Nea munim Ne dɔ no, Munyi No ayɛ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Munyi 'W'radè ayɛ! Nea 'gyigye nyinaa,",
+        "Sankuhan biara, mma ne nnyigyei so;",
+        "Sanku a ano yɛ den, Nkyerɛ N'anuonyam,",
+        "Na sankuten nso nka Nea Wayɛ nkyerɛ."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Munyi 'W'radè ayɛ! Aseda ne dwom",
+        "Na momfa mma No, Nnasanten nyinaa,",
+        "Ne dɔ wɔ adeɔm', Ne s'ro kyɛde nti.",
+        "Nɔkwagye dom no nti, Munyi 'W'radè ayɛ."
+      ],
+      "number": 4
+    }
+  ]
+}

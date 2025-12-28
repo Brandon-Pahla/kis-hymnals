@@ -1,0 +1,28 @@
+{
+  "number": 597,
+  "language": "pt",
+  "title": "Humilde Oração",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Humilde Oração"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Em humilde oração,",
+        "Quero dedicar, Senhor,",
+        "Meu indigno coração,",
+        "para Teu louvor.",
+        "Faz-me puro, santo e bom",
+        "pra cumprir o Teu querer.",
+        "Dá-me amor, Teu grande dom;",
+        "Dá-me Teu poder"
+      ],
+      "number": 2
+    }
+  ]
+}

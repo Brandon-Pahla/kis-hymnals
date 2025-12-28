@@ -1,0 +1,54 @@
+{
+  "number": 115,
+  "language": "tn",
+  "title": "115 Ngaka E Kgolo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngaka E Kgolo E Gaufi, Jes’ O Pelotlhomogi",
+        "O bua ka go nametsa, Utlwa lentswe ja Jeso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O opelwa godimong, O ratwa le ke batho,",
+        "Monate go opelwa, Jeso yo o sego."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dibeng O Go Itshwaretse, Utlwa Lentswe Ja Jeso;",
+        "Ya godimong ka kagiso. Rwala rwalo sa Jeso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tlotlo Go Kwana E E Swang, Ke Dumela Go Jeso;",
+        "Ke rat’ina ja mmoloki, Ke rat’ina ja Jeso."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le Tlosa Molato Wa Me Leina La Ga Jeso;",
+        "Ke itumela go utlwa Leina la ga Jeso."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mogang A Tlang Le Serwalo, Serwalo Sa Botshelo;",
+        "Foo re tla nna fatshe nae, Re bua ka thekololo."
+      ],
+      "number": 5
+    }
+  ]
+}

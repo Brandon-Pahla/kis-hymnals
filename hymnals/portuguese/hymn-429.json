@@ -1,0 +1,54 @@
+{
+  "number": 429,
+  "language": "pt",
+  "title": "Eu Face a Face Vê-Lo-ei",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Eu Face a Face Vê-Lo-ei"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Em breve irei, de meu Jesus,",
+        "O rosto meigo contemplar.",
+        "Quanta alegria fruirei",
+        "E doce paz irei gozar!",
+        "Ante Seu trono adorarei,",
+        "E meu louvor então darei;",
+        "Almejo estar no eterno lar,",
+        "E face a face o contemplar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Eu, face a face, vê-lo-ei;",
+        "Por graça salvo, cantarei;",
+        "Sim, face a face, vê-lo-ei",
+        "E Dele sempre então serei."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A vida aqui irá passar,",
+        "O novo Éden Surgirá.",
+        "Pecado ali não se achará,",
+        "Nem mal algum existirá.",
+        "Pois o Senhor com a sua luz",
+        "Já os baniu na rude cruz;",
+        "Almejo estar no novo lar,",
+        "E sua face contemplar."
+      ],
+      "number": 4
+    }
+  ]
+}

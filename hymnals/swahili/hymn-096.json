@@ -1,0 +1,39 @@
+{
+  "number": 96,
+  "language": "sw",
+  "title": "96 - Mali Yako Sasa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Mali yako sasa, Bwana, tunatoa,",
+        "Hatuna yaliyo yetu, yote ni vipaji."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Sisi watumishi, twaungama deni,",
+        "Tungeirudisha kwake, iliyo ya Bwana."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Utusaidie, upendo kujua,",
+        "Kwa ajili yao wote, walio gizani."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Neno tumaini, na kutegemea,",
+        "Kwamba lote tufanyalo, tulifanye kwako."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "number": 486,
+  "language": "fr",
+  "title": "Ayez en vous",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ayez en vous la pensée de Jésus ;",
+        "Ainsi vivez entre vous.",
+        "Lui qui était de condition divine,",
+        "De toute éternité,",
+        "Il s'est dépouillé en serviteur.",
+        "Il n'a pas cherché à conserver sa divinité.",
+        "Il a pris sur lui notre humanité.",
+        "Quelle humanité,",
+        "Quelle humilité !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Semblable à nous, il le fut en tout point ;",
+        "Il était bien un homme.",
+        "Il s'abaissa jusqu'à subir la mort",
+        "Sur le bois de la croix !",
+        "C'est ainsi que Dieu l'a élevé",
+        "Au plus haut du royaume des cieux.",
+        "Il lui a donné le plus beau des noms :",
+        "Le nom de Jésus.",
+        "Venez, adorons.",
+        "Jésus est Seigneur."
+      ],
+      "number": 2
+    }
+  ]
+}

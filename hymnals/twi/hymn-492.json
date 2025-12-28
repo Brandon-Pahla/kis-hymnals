@@ -1,0 +1,56 @@
+{
+  "number": 492,
+  "language": "tw",
+  "title": "Agya Ky'rɛ Me Nea Menka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Agya ky'rɛ me nea menka;",
+        "Ky'rɛ me sɛnea mɛbɔ mpae;",
+        "Ky'rɛ me b're nyinaa sɛnea",
+        "Mɛyɛ te sɛ Yesu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ma menyɛ sɛ Yesu,",
+        "Ma menyɛ sɛ Yesu!",
+        "W'ra boa me na minnyin daa",
+        "Te sɛ Yesu ara."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B'rč nna resen yi, ky'rɛ me",
+        "Sɛnea merennye 'kyinnye,",
+        "Ky'rɛ me sɛ, yɛɔkodu na",
+        "Ͻma wɔsɛ Yesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ky'rɛ me sɛnea b're yɛ tia,",
+        "Ne sɛnea mɛyɛ 'dwuma;",
+        "Ky'rɛ me sɛ, 'dwumapa na",
+        "Ͻma wɔsɛ Yesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma yɛnyɛ baako sɛnea",
+        "Agya ne Ba no te no;",
+        "Na sɛ midi nkonim a,",
+        "Mayɛ te sɛ Yesu."
+      ],
+      "number": 4
+    }
+  ]
+}

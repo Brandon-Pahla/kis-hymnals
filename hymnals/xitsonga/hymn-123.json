@@ -1,0 +1,24 @@
+{
+  "number": 123,
+  "language": "ts",
+  "title": "123. MATILWENI, MISAVENI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "DEAREST NAME IN EARTH OR HEAVEN",
+        "1. Matilweni, Misaveni, Hi Rona Lero Xonga,",
+        "Ri Nyikiwe Hi Tatana, I Yesu Rona Vito.",
+        "CHORUS",
+        "Ra Kwetsima Vito, Ra Kwetsima Vito (Ro Vito)(No Xonga)",
+        "Vito Ri Huma Eka Tatana;",
+        "Ta Dzunisa Tintsumi Evusikwini, Ri Xongile Vito Rakwe.",
+        "2. Mbilu Yi Tala Ku Tsaka, Milomu Ya Dzunisa;",
+        "Vito Lero Hlamarisa, Ro Xonga Hi Masiku.",
+        "3. Moya Wanga Yimbelela, Ta Rirhandzu Ra Yena;",
+        "Tlholovetsela Minkhenso, Khensa Vito Ra Yesu."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 87,
+  "language": "tum",
+  "title": " 87 Dada Tikwiza Kwinu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 87 Dada Tikwiza Kwinu",
+        "FATHER, WE COME TO THEE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Dada tiri winu, tikwiza kwa imwe,",
+        "Ndimwe nguru yithu tikuromba,",
+        "Kwambura 'mwe Fumu, charu ncha",
+        "Mudima Mtendeske makora Fumu yithu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tikwiza kwa Imwe tikuromba,",
+        "MtipuLike sono Fumu yithu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Dada mtiponoske kwa murwani uyu,",
+        "Na mkuzingiziwa mtovwirenge,",
+        "Tlije nkhongono imwe mtikhwimiske,",
+        "Na nkhongono zose Fumu yitnu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mu uchizi winu imwe mutovwire,",
+        "ende m'nthowa yinu Fumu yithu,",
+        "Mtirongozge Fumu mpaka imwe mwize,",
+        "Layamkupumula siya lira."
+      ],
+      "number": 4
+    }
+  ]
+}

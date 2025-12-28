@@ -1,0 +1,34 @@
+{
+  "number": 50,
+  "language": "rw",
+  "title": " 50 Har'Igihugu Cyiza Cyane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 50 Har'Igihugu Cyiza Cyane",
+        "**1**",
+        "Har'igihugu cyiza cyane,",
+        "Twasezeraniwe n'Imana;",
+        "Tugitegereze twizera,",
+        "Ko Dat'akitubonereza.",
+        "**Gusubiramo:**",
+        "Aheza (aheza) mw'ijuru (mw'ijuru),",
+        "Tuzahurirayo bagenzi.",
+        "Aheza (aheza) mw'ijuru (mw'ijuru),",
+        "Tuzahurirayo bagenzi.",
+        "**2**",
+        "Tuzaririmbira mw'ijuru,",
+        "Indirimbo z'abanyahirwe.",
+        "Ntituzongera kubabara,",
+        "Tuzaba dushiz'agahinda.",
+        "**3**",
+        "Tuzasingiza Data cyane,",
+        "Ku mbabazi yatugiriye,",
+        "No ku buntu bw'urukundo rwe,",
+        "N'umugisha yatwungukiye."
+      ],
+      "number": 1
+    }
+  ]
+}

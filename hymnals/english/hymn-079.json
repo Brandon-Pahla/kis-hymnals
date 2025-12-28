@@ -1,0 +1,46 @@
+{
+  "number": 79,
+  "language": "en",
+  "title": "79 Far And Near.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Far and near the fields are teeming,",
+        "With the sheaves of ripened grain;",
+        "Far and near their gold is gleaming,",
+        "O’er the sunny slope and plain."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lord of harvest, send forth reapers!",
+        "Hear us, Lord, to thee we cry,",
+        "Send them now the sheaves to gather,",
+        "Ere the harvest time pass by."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Send them forth with morn’s first beaming,",
+        "Send them in the moon tide’s glare;",
+        "When the sun’s last rays are streaming,",
+        "Bid them gather ev’ry where."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O thou whom thy Lord is sending,",
+        "Gather now the sheaves of gold;",
+        "Heav’nward then at evening wending,",
+        "Thou shalt come with joy untold."
+      ],
+      "number": 3
+    }
+  ]
+}

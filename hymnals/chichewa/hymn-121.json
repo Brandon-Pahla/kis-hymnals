@@ -1,0 +1,53 @@
+{
+  "number": 121,
+  "language": "ny",
+  "title": "121 - Ndiyimbatu Za Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I WLL SING OF JESUS’ LOVE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi’mbatu za Yesuyo, Yemwe anakonda ’ne;",
+        "Anachoka m’mwambamo, Anafa mtandapo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndi’mbatu za Yesuyo, Kuyamika kosatha;",
+        "Nadza kundifera ’ne, Ndi’mbabe chikondicho."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yesu analira ’ne Mu Getsemane kale;",
+        "Napemphera inedi, Ndisanamdziwetu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Anthu ndi angelowo Sangazindikiretu,",
+        "M’mene tchimo langali Liyeretsedwadi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Sinachite kanthu bi Kulipira chikondi;",
+        "Ndingopatsa mtimanga, Ndimkonda konseko."
+      ],
+      "number": 5
+    }
+  ]
+}

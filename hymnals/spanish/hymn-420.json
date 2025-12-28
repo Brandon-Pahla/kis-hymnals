@@ -1,0 +1,65 @@
+{
+  "number": 420,
+  "language": "es",
+  "title": "Nunca desmayes",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Nunca desmayes"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nunca desmayes, que en el afán",
+        "Dios cuidará de ti;",
+        "sus fuertes alas te cubrirán;",
+        "Dios cuidará de ti."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Dios cuidará de ti;",
+        "velando está su tierno amor;",
+        "sí, cuidará de ti,",
+        "Dios cuidará de ti."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En duras pruebas y en aflicción,",
+        "Dios cuidará de ti;",
+        "en tus conflictos y en tentación,",
+        "Dios cuidará de ti."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De sus riquezas te suplirá;",
+        "Dios cuidará de ti;",
+        "jamás sus bienes te negará;",
+        "Dios cuidará de ti."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si vienen pruebas o cruel dolor,",
+        "Dios cuidará de ti;",
+        "tus cargas pon sobre el Salvador;",
+        "Dios cuidará de ti."
+      ],
+      "number": 6
+    }
+  ]
+}

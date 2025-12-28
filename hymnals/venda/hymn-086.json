@@ -1,0 +1,55 @@
+{
+  "number": 86,
+  "language": "ve",
+  "title": "86 Rendani Muvhusi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:083",
+        "AH:051"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Rendani Muvhusi. Ndi Mukhethwa,",
+        "Livhuwani lufuno luhulu;",
+        "Tshitangu tshashu Musiki wa zwothe",
+        "O dzulaho fhethu hu khethwa-khethwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ambani nga lufuno na tshilidzi,",
+        "Tsha Ene o ambaraho tshedza;",
+        "Ri vhona mbiti dzawe dzi tshi bvuma,",
+        "Na kha swiswi musi wa madumbu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. U tonda hawe ndi hu hulwane,",
+        "Ho vhanala kha muya na tshedza;",
+        "Hu elela hu tshi bva dzithavhani,",
+        "Hu disa mvula midavhini yothe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. rine ri vhana vha buse lawe,",
+        "Ri fulufhedza Maanda awe;",
+        "Tshilidzi na lufuno lu sa fheli,",
+        "Musiki na Mulweli ndi RaMaanda."
+      ],
+      "number": 5
+    }
+  ]
+}

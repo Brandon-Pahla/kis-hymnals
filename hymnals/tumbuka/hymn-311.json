@@ -1,0 +1,50 @@
+{
+  "number": 311,
+  "language": "tum",
+  "title": " 311 Imwe Mzimu Wa Chiuta",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 311 Imwe Mzimu Wa Chiuta",
+        "O Spirit Of The Living God"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Imwe Mzimu wa Chiuta mukhale mwa ine,",
+        "Vyane vyose nkhupereka kwa Imwe Wadada."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "M'ndizuzge, mndizuzge mndizuzge",
+        "na Mzimu Mtuwa, M'ndizuzge,",
+        "mndizuzge kuti ndi we winu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Khumbiro linu Chiuta nkhukhumba ndifiske,",
+        "Ntha nkhukhumbaso chinyake m'ndizuzge na Mzimu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Ndirije kanthu kaweme ako ndingam pani,",
+        "Mutozge mutima wane na ndopa za Yesu."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 20,
+  "language": "en",
+  "title": "20 Awake, My Soul",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Awake my soul! Stretch every nerve, and press with vigor on;",
+        "A heavenly race demands thy zeal, and an immortal crown."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tis God’s all animating voice, That calls thee from on high;",
+        "`Tis he whose hand presents the prize, to thine aspiring eye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A cloud of witnesses around, hold thee in full survey;",
+        "Forget the steps already trod, and onward urge thy way."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Blest saviour, introduced by the, our race have we begun;",
+        "And, crown with victory, at thy feet, we’ll lay our trophies down"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "number": 302,
+  "language": "xh",
+  "title": "302 Sikuyo Indlela Yelizwe Lobomi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sikuyo indlela yelizwe lobomi,",
+        "Ikhaya labantu bahleli ngenyhweba,",
+        "Nina ke nahluka ku-Thixo ngokona,",
+        "Nithi-ni? noya-na? noya-na phezulu?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Noya-na, noya-na, noya-na noya-na?",
+        "Nithi-ni? noya-na? noya-na phezulu?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Usizi, usizi, alunakubaKho",
+        "Kwelozwe, Bangcwele abalihambayo;",
+        "Bahambi kanzima, nigqitywa bububi",
+        "Nithi-ni? noya-na? noya-na phezulu?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwelozwe akhukho buhlwempu nakanye;",
+        "Zindyebo ngedyebo, izint’ ezikhoyo;",
+        "Isifo asikho. Hai! Asingebikho.",
+        "Nithi-ni? noya-na? noya-na phezulu?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yeka ke ’kuthanda izinto zomhlaba",
+        "Ziyemka zophela kamsinyane zona;",
+        "Khangela phezulu---imfuyo yaKhona;",
+        "Nithi-ni? noya-na, noya-na phezulu?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vuyani ma-Kristu, ngekhaya lobomi,",
+        "Sotshetsha sifike ekuphumleni;",
+        "Sohlala no-Kristu---yivani niqonde!",
+        "Nithi-ni? Ninjani ezintliziyweni?",
+        "KORAS:",
+        "Sohamba, sohamba, sohamba sohamba;",
+        "O Mfelo waboni, Yiza usisize."
+      ],
+      "number": 5
+    }
+  ]
+}

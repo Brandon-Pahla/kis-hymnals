@@ -1,0 +1,57 @@
+{
+  "number": 241,
+  "language": "tw",
+  "title": "Yesu Wo Ho Adwen Nkutoo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu Wo ho adwen nkutoo",
+        "De dɛw hyɛ me mu ma;",
+        "W'anim hwɛ m'anigye pii,",
+        "W'anim wɔ ɔhome."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nne ntumi nto, koma nso nhu,",
+        "Na adwen ntumi nky'rɛ;",
+        "Nea ɛyɛ dɛ kyɛn Yesu din,",
+        "O, adasa 'Gyenkwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Komā a abubu 'nidaso,",
+        "Ahobrɛasefo dɛw;",
+        "Woyɛ ma wɔn a wɔhwč ase,",
+        "Ne wɔn a wɔhwehwɛ."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻte dɛn ma wɔn a wohu?",
+        "Ano ntum' nka, wɔnky'rɛw;",
+        "Sɛnea Yesu dɔ no te no.",
+        "N'adɔfo nko n'enim."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu Wo nko ne yɛn 'nigye,",
+        "Wo ne yɛn akyɛde;",
+        "Wo na Woyɛ yɛn 'nuonyam nnɛ",
+        "Ne mm'rč a ennio awiei."
+      ],
+      "number": 5
+    }
+  ]
+}

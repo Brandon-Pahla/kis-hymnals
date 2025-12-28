@@ -1,0 +1,49 @@
+{
+  "number": 516,
+  "language": "tw",
+  "title": "M'Agyenkwa No Di M'anim Daa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "M'Agyenkwa no di m'anim daa,",
+        "Dɛn na mimmisa nka ho?",
+        "So metumi agye me braɔ",
+        "Kwanky'rɛfon' adɔe ho kyim?",
+        "Mede gyidi bɛtra Ne mu",
+        "S'ro 'somdwoe ne 'hotɔ mu,",
+        "'Fisɛ nea ɛbɛto m' biara,",
+        "Yesu yɛ ade nyinaa yie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M'Agyenkwa no di m'anim daa",
+        "Ma me 'nigye me kwan so;",
+        "ɔma me dom sɔhwɛ biaram'",
+        "ɔma me nkwa bodoo di;",
+        "Ewom me nan bɛwatiri,",
+        "Na sukɔm ade me kra;",
+        "Nanso mihu sɛ 'nigye nsu",
+        "Fi botan no mu resen."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M'Agyenkwa no di m'anim daa",
+        "O, Ne dɔ amapa no;",
+        "Wɔahyɛ me ahom'gye ho bɔ",
+        "Wɔ m'Agya fie soro hɔ;",
+        "Mesɔre anwuda tebeam'",
+        "Na mef'ro ba 'dekyee mų a",
+        "Me daa daa dwom ara ne sɛ:",
+        "Yesu di m'anim daa daa."
+      ],
+      "number": 3
+    }
+  ]
+}

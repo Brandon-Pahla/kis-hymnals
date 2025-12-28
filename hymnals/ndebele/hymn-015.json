@@ -1,0 +1,47 @@
+{
+  "number": 15,
+  "language": "nd",
+  "title": "15 UJes’ U Yangithanda!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "UJes’ u yangithanda, Ku sho uMbhalo wAkhe",
+        "NgabAkhe nabantwana, U ngamandl’ abo bonke"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U yangithanda, Yebo, uJesu;",
+        "U yangithanda, Ngitshelwa uMbhalo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "uJes’ u yangithanda, NguYe owangifela",
+        "Wafa ngenxa yothando, Izulu walivula"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "uJes’ u yangithanda, Nanxa ngi gula lapha",
+        "Ngi sosizini namhla, UJes’ u yangilinda"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "uJes’ u yangithanda, Wohlal’ eduze nami;",
+        "Phambili u zofika, Angiph’ umqhele nami"
+      ],
+      "number": 5
+    }
+  ]
+}

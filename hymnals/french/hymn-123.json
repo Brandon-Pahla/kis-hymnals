@@ -1,0 +1,37 @@
+{
+  "number": 123,
+  "language": "fr",
+  "title": "Béni soit le Seigneur",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Béni soit le Seigneur le grand Dieu d’Israël,",
+        "L’auteur de toute vie, tout-puissant éternel,",
+        "Qui, touché de nos cris et de notre misère,",
+        "Dans sa fidélité s’est montré notre Père."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rempli de compassion, il nous a visités;",
+        "Il nous donne un Sauveur qui vient nous racheter;",
+        "Et malgré nos péchés, ce Dieu tendre et propice",
+        "A fait lever sur nous le Soleil de justice."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tous les peuples assis dans l’ombre de la mort",
+        "Se lèveront joyeux à la voix du Dieu fort.",
+        "Éclairés désormais par sa vive lumière,",
+        "Nous marcherons en paix vers la maison du Père."
+      ],
+      "number": 3
+    }
+  ]
+}

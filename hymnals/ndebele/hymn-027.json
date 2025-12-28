@@ -1,0 +1,55 @@
+{
+  "number": 27,
+  "language": "nd",
+  "title": "27 Si Vuselele Futhi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Si bong’ iNkosi, ngaYo iNdodana",
+        "Yen’ uJesu osifeleyo thina"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aleluya! Aleluya! Aleluya! Amen",
+        "Aleluya! Aleluya! Si vuse futhi!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si bonga Nkosi, NgaY’ uMoya wAkho",
+        "Osibonise uMsindisi ngaWo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akudunyiswe, lona lelo Wundlu",
+        "Elathwala izono zonke zethu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Udumo lonke, lube kuWe, Nkosi",
+        "Wena wasithenga ngoaWkho umusa"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si vuselele ngal’ uthando lwAkho",
+        "Nemiphefumlo mayivuswe njalo"
+      ],
+      "number": 6
+    }
+  ]
+}

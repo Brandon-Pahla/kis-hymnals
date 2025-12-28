@@ -1,0 +1,57 @@
+{
+  "number": 32,
+  "language": "sn",
+  "title": "32 Chidziwiro Munguva Yechampupuri",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi ari Dombo redu,",
+        "Nechidziwiriro chedu,",
+        "Tisatye muzviro zvese,",
+        "Nechidziwiriro chedu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nge-Dombo rinemasimba,",
+        "Ngebvute, apo taneta;",
+        "Ngewedu kutungamira,",
+        "Nechidziwiriro chedu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bvute redu masikati,",
+        "Nechidziwiriro chedu,",
+        "Nekupenya pausiku,",
+        "Nechidziwiriro chedu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Champupuri chatinera,",
+        "Nechidziwiriro chedu,",
+        "Kuna Mwari taponeswa,",
+        "Nechidziwiriro chedu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Mwari, Bako redu’wo,",
+        "Nechidziwiriro chedu,",
+        "Mubatsiri muripetyo,",
+        "Nechidziwiriro chedu"
+      ],
+      "number": 5
+    }
+  ]
+}

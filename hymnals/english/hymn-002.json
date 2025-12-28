@@ -1,0 +1,56 @@
+{
+  "number": 2,
+  "language": "en",
+  "title": "2 The Coming King.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "The coming King is at the door,",
+        "Who once the cross for sinners bore",
+        "But now the righteous ones alone",
+        "He comes to gather home."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "At the door…. At the door…",
+        "At the door, yes, even at the door.",
+        "He is coming, He is coming",
+        "He is even at the door."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "The signs that show his coming near,",
+        "Are fast fulfilling year by year,",
+        "And soon we’ll hail the glorious dawn",
+        "Of heaven’s eternal morn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Look not on earth for strife to cease,",
+        "Look not below for joy and peace,",
+        "Until the Saviour comes again,",
+        "To banish death and sin."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Then in that glorious earth made new,",
+        "We’ll dwell the countless ages thro’;",
+        "This mortal shall immortal be,",
+        "And time eternity."
+      ],
+      "number": 4
+    }
+  ]
+}

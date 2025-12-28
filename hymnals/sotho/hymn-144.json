@@ -1,0 +1,46 @@
+{
+  "number": 144,
+  "language": "st",
+  "title": "144  Mobung O Phahameng.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke leba tsela ’nyolohang, Ke hloa ka matsatsi ohle;",
+        "Ke tsamaea ke rapela Morena mpee holimo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mphahamise Morena ’ka, Mobung oo o phahamileng,",
+        "Sebakeng se fetang sena, Morena mpee holimo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke lakatse ho lula mona ho nang le khang fela;",
+        "Mohlomong ba bang ba rata, ’na ke rata leholimo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke se ke rata holimo, mona Satane Oa ntlhopha;",
+        "Tumelo ea ka e utloa pina ea bahalaleli."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke ntse ke hloella holimo, Ke tla be ke bone khanya;",
+        "Ke kope ke be ke thole, Morena mpee holimo."
+      ],
+      "number": 4
+    }
+  ]
+}

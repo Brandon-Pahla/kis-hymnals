@@ -1,0 +1,23 @@
+{
+  "number": 38,
+  "language": "ts",
+  "title": "38. YIMAN’ MI TIYA EKA XIKWEMBU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "FIRMLY STAND FOR GOD",
+        "1. Yiman Mi Tiya Eka Xikwembu, Hambi Ku Fika Ku Kanakana,",
+        "Xi Na Wona Matimba Hinkwawo, Ku Hi Hlulela Nala",
+        "CHORUS",
+        "A Hi Namarheleni Ekhokholweni, Yesu Kreste Muferi,",
+        "Loko Hi Hlurile Hi Ta Hlangana, Mahlweni Ka Xiluvelo",
+        "2. Yimelan Na Kona Ku Lulama, Mi Tiyisela Ripfumelweni,",
+        "Eka Miringo Ya La Misaven, Yesu U Ta Hi Pfuna",
+        "3. Hambi Swilo Swi Tika Swinene, A Hi Yimeni Entiyisweni,",
+        "Khokholo Ri Ta Nyika Ku Rhula, Makumu Ka Miringo."
+      ],
+      "number": 1
+    }
+  ]
+}

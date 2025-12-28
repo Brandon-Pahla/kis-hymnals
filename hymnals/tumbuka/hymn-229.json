@@ -1,0 +1,35 @@
+{
+  "number": 229,
+  "language": "tum",
+  "title": " 229 Ndinjani Ngwa Fumu?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 229 Ndinjani Ngwa Fumu?",
+        "WHO IS ON THE LORD'S SIDE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1.",
+        "Ndinjani ngwa Fumu? Mneneska,",
+        "Malwande ngawiri usankhe.",
+        "(S/A) Sa nkha Sa nkha,",
+        "(T/B) (Nadinjani ngwa Fumu,",
+        "ndinjani ngwa Fumu),",
+        "(ALL) (Luweme Luheni usankhe).",
+        "(S/A) Sa nkha Sa nkha,",
+        "(T/B) (Ndinjani ngwa Fumu,",
+        "ndinjani ngwa Fumu),",
+        "(ALL) (Luweme Luheni usankhe).  2.",
+        "Wanandi wandamsankhe Fumu,",
+        "Wima kulwande lwa uheni.  3.",
+        "Zaninge kulwande lwa Fumu,",
+        "Ndilo lwande pera luweme."
+      ]
+    }
+  ]
+}

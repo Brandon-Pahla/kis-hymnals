@@ -1,0 +1,55 @@
+{
+  "number": 111,
+  "language": "nd",
+  "title": "111 Qha Namunye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A sinasihlobo njengoJeso Nasinye asikho!",
+        "Kakh’ ongasusa izifozonke Namunye kakho qha!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U yazaz’ izinhluph’ uJesu, Wosihol‘imihla yonke",
+        "A sinasihlobo njengoJesu, Nasinye asikho!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kakh’ ophakamileyo njengaYe, Namunye kakho qha!",
+        "A khak’ othobekile njengaYe, Namunye kakho qha!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A sikhw’ is’khathi engekho Yena, Nasinye asikho:",
+        "Nobusuku uthando lu ngekho, Nabunye abukho"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nake namfumana enidela? Nakanye, qhabo qha!",
+        "Nesoni a ngasamukelanga Nasinye, asikho!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A sikhw’ isipho njengoMsindisi Nasinye asikho!",
+        "Wonqaba u ngay’ ezulwini na? Qhabo qha! Qhabo qha!"
+      ],
+      "number": 6
+    }
+  ]
+}

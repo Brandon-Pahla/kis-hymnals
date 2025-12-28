@@ -1,0 +1,68 @@
+{
+  "number": 159,
+  "language": "tum",
+  "title": " 159 Nkhumukhumbani 'Mwe Fumu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 159 Nkhumukhumbani 'Mwe Fumu",
+        "HOW MUCH I NEED THEE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nkhumukhumbani 'mwe",
+        "Fumu ndamheni, ndamukavu,",
+        "Mndikore pawoko ndende,",
+        "nkhongono, jiso ndimwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nyengo zose Fumu",
+        "nkhumukhumbiskani nadi,",
+        "Nyengo zose Fumu",
+        "Mponoski mundisunge."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mundivwalike kuzika",
+        "chivwalo chane chara,",
+        "Mundisambizge kuromba,",
+        "nkhongono zinu pera."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Para mukundirongozga,",
+        "nditondekenge chara,",
+        "Mndimbatiske pa malibwe,",
+        "ungweru wane ndimwe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Kunthazi kungawa uli",
+        "chimwemwe, kutengera,",
+        "Ndidemeterere imwe,",
+        "movwiri wane ndimwe."
+      ],
+      "number": 5
+    }
+  ]
+}

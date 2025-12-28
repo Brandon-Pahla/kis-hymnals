@@ -1,0 +1,37 @@
+{
+  "number": 81,
+  "language": "st",
+  "title": "81 Sebetsa Bosiu Bo ’’a Tla",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sebetsa ’siu bo ea tla, sebetsa ka meso;",
+        "Sebetsa phoka e teng, ’lemo se thoasa,",
+        "Sebetsa le sa phahama, sebetsa ts’ehareng,",
+        "Sebetsa s’iu bo ea tla, ho sa sebetsoeng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sebetsa ’siu bo ea tla, le teng mots’ehareng,",
+        "Phetha nako ts’ebetsong; phomolo e ea tla,",
+        "Sebelisa metsotso, hohle ho ka bang teng;",
+        "Sebetsa ’siu bo ea tla, ho sa sebetsoeng."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sebetsa ’siu bo ea tla, tsatsing le phirimang;",
+        "Sebetsa le ea fubela",
+        "Sebetsa ka sholane, le khitleng ea bosiu,",
+        "Sebetsa le lefifing, se ho felile."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 211,
+  "language": "tw",
+  "title": "Hwɛ! ɔreba Mununkum Mu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hwɛ! ɔreba mununkum mu,",
+        "Wokum No maa bɔn'yɛfo;",
+        "Abɔfo mpempem ka Ne ho,",
+        "De ah'rusi di N'akyi;",
+        "Haleluya! Haleluya!",
+        "Yesu reba 'bedi Hen'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aniwa nyinaa behu No",
+        "Wɔ N'anuonyam tumi mu;",
+        "Wɔn a wobuu No animtia,",
+        "Wɔtɔn No, bɔɔ No 'sɛnnuam'",
+        "Besu dennen brč a wobehu",
+        "Mesaia Nokwafo no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ wɔhyɛn t'robɛnto no a",
+        "S'ro ne fam beguan akɔ;",
+        "N'atamfo nyinaa bɛbɔ hu",
+        "B'rč a wɔbɛte nne bi sɛ:",
+        "Mommra 'temmum', mommra 'temmum'",
+        "Mommra 'temmum', mumfi mm'ra."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yiw, amen! Ma obiara nsom",
+        "Wō a Wote daa 'hengua so!",
+        "'Gyenkwa, fa 'nuonyam ne tumi",
+        "Ma W'atɛntrenee nna adi;",
+        "O bra ntɛmntɛm, O bra ntɛmntɛm",
+        "Bɛfa 'henni yɛ Wo de.\""
+      ],
+      "number": 4
+    }
+  ]
+}

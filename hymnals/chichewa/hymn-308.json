@@ -1,0 +1,28 @@
+{
+  "number": 308,
+  "language": "ny",
+  "title": "308 - Polenga Dzikoli",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LET THERE BE LIGHT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Polenga dzikoli, Pakumva Inudi, Kwayeratu;",
+        "Mumve pemperoli, Ndipo pamenepa, Palibe mauwo, Muwaletu.",
+        "2. Inu wakudzatu Kuwaciritsadi A nthendawo;",
+        "Kupatsa moyowo, Kuona m’masomo, pa anthu onsewo, Muwaletu.",
+        "3. Mzimu woonadi, Ndi wa cikondico, Idzanitu",
+        "Mwamba mulengemo, Pali za mdimazo, Pa dziko ponsepo, Muwaletu",
+        "4. Inu Atatuwo, Wodala Mlunguyo, Timveretu,",
+        "Malengedwewo, Mdima ukhalamo, Mutume mauwo Muwaletu"
+      ],
+      "number": 2
+    }
+  ]
+}

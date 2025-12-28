@@ -1,0 +1,47 @@
+{
+  "number": 171,
+  "language": "nd",
+  "title": "171 Bunjani Ubusuku Na?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mlindi, odongen’ lweZion’ Si tshele ngobusuku",
+        "Ikhwezi se li vele na? Kunjani ukusa na?",
+        "Nxa u beka Se kukhon’ im’sebe na?",
+        "Nxa u beka Se kukhon’ im’sebe na?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si tshele ngeziboniso Ezidlula sihamba",
+        "Li sondel’ izibuko na? Si ngalibon’ izwe na?",
+        "Ngeqiniso! U sondel’ umbuso na?",
+        "Ngeqiniso! U sondel’ umbuso na?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se kuyabheja, kuyasa Masihlabe umkhosi",
+        "Si bon’ ikhwezi li phuma Phezulu li manyaza",
+        "Yenamani! I sondel’ inkululo",
+        "Yenamani! I sondel’ inkululo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si wufumen’ umqondiso Izwe se lis’ eduze",
+        "Si phalalela phambili Masinya si zowela",
+        "Amaphimbo Athi Wena u ngcwele",
+        "Amaphimbo Athi Wena u ngcwele"
+      ],
+      "number": 4
+    }
+  ]
+}

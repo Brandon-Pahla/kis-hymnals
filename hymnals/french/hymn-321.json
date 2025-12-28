@@ -1,0 +1,47 @@
+{
+  "number": 321,
+  "language": "fr",
+  "title": "Que je sois comme...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Que je sois comme un rayon d'or",
+        "Qui vient du ciel et luit.",
+        "Que, sans faiblir, je brille encor’",
+        "Dans la plus sombre nuit."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que je sois semblable à la fleur",
+        "Éclose sous mes pas,",
+        "Semant la joie et le bonheur",
+        "Chaque jour ici-bas."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que je sache apaiser toujours",
+        "Les peines, les douleurs,",
+        "Parlant à chacun de l'amour",
+        "De Jésus, le Sauveur."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que je sois toujours le soutien",
+        "Des faibles, des exclus.",
+        "Force, santé, j'offre mon bien,",
+        "À toi, Seigneur Jésus."
+      ],
+      "number": 4
+    }
+  ]
+}

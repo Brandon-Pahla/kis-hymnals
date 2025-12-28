@@ -1,0 +1,39 @@
+{
+  "number": 266,
+  "language": "sn",
+  "title": "266 Jesu Ndokutewera",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu ndokutewera, Muri kundidaidza",
+        "Ndinouya kuenda, Nemwi kumusha’ko"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndokutevera, Ndokutevera",
+        "Ndokutevera kwese unoenda"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Maziso angatadze,Makumbo akuhunwa",
+        "Ndaneta asi Imwi, Murisimba rangu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Urombo nekushaya, Zvitadzo zveubenzi",
+        "Zvingandiputsa, Asi ndinokutevera"
+      ],
+      "number": 4
+    }
+  ]
+}

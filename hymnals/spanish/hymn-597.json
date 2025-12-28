@@ -1,0 +1,42 @@
+{
+  "number": 597,
+  "language": "es",
+  "title": "Oración por un niño",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Oración por un niño"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Presentamos este niño;",
+        "es tan frágil cual la flor;",
+        "necesita de cariño,",
+        "necesita de amor.",
+        "Sus ojitos son muy puros;",
+        "su sonrisa es cual la luz,",
+        "y refleja la belleza",
+        "que emana de Jesús."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Guía sus pequeños pasos,",
+        "y enséñale a andar.",
+        "En seguro y buen camino",
+        "pueda siempre continuar.",
+        "Que tu ángel lo proteja",
+        "de este mundo y su maldad;",
+        "Padre amante, ya es tuyo,",
+        "En tus brazos guárdalo."
+      ],
+      "number": 3
+    }
+  ]
+}

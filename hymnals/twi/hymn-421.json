@@ -1,0 +1,57 @@
+{
+  "number": 421,
+  "language": "tw",
+  "title": "'Hotefo A WɔreIndeɔ No Ny'naa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Hotefo a wɔrehome no ny'naa,",
+        "Nam gyidi so dii Wo ho adanse,",
+        "O Yesu, nhyira nka Wo din no daa;",
+        "Haleluya, Haleluya!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Woyɛɛ wɔn Botan ne Abankɛse,",
+        "Woyɛɛ wɔn Sahen wɔn akodi mu,",
+        "'Sum huhu mu, Woyɛɛ wɔn",
+        "nokwar' hann, Haleluya, Haleluya!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma Wo nokwar' nsraafo mfa nnam kɛse",
+        "Nko sɛ 'hotefō a wɔkoo tete no,",
+        "Ne wɔn nnya nkonim sika 'bot'ri no",
+        "Haleluya, Haleluya!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ ɔtaa nom' yɛ, na ko no kyɛ,",
+        "Na wɔte aky'rik'kyri nkonim dwom a,",
+        "Ͻna koma ne nsa san nya denyɛ",
+        "Haleluya, Haleluya!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wofi nsase ne mpoano aky'riky'ri",
+        "Nam sika apon mu to 'yeyi dwom",
+        "Ma Agya, 'ba ne Honhom Kronkron no:",
+        "Haleluya, Haleluya!"
+      ],
+      "number": 5
+    }
+  ]
+}

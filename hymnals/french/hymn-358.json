@@ -1,0 +1,63 @@
+{
+  "number": 358,
+  "language": "fr",
+  "title": "Ô toi qui fus fondée",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ô toi qui fus fondée",
+        "Sur l'immortalité,",
+        "Par Dieu même gardée,",
+        "Glorieuse cité,",
+        "Ma voix, mon cœur palpitent",
+        "D'espérance et d'effroi;",
+        "Heureux ceux qui t'habitent,",
+        "Demeure du grand Roi !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oui, quand je te contemple,",
+        "Ô céleste séjour,",
+        "Toi dont Christ est le temple,",
+        "Toi dont Christ est le jour,",
+        "L'espoir, l'espoir m'anime;",
+        "Déjà mes sens ravis",
+        "Goûtent la paix sublime",
+        "Au sein de tes parvis."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Parfois aussi la crainte",
+        "Vient obscurcir ma foi.",
+        "N'es-tu pas, cité sainte,",
+        "Trop sainte, hélas, pour moi ?",
+        "Alors, sous tes portiques,",
+        "Vibrant jusqu'à mon cœur,",
+        "J'entends de doux cantiques",
+        "Louer le Christ vainqueur !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Séjour où Dieu m'invite,",
+        "Je ne sais pas encor’",
+        "Quelle splendeur s'abrite",
+        "Dans tes murailles d'or;",
+        "J'ignore, mais j'espère.",
+        "J'ignore, mais je sais",
+        "Que là-haut est mon Père,",
+        "Et pour moi, c'est assez !"
+      ],
+      "number": 4
+    }
+  ]
+}

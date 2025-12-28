@@ -1,0 +1,41 @@
+{
+  "number": 46,
+  "language": "tn",
+  "title": "46 Lo A Nkopelele Gape",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lo A Nkopelele Gape, ’Foko A Botshelo;",
+        "Ke bone bontle jwa one, ’Foko a Botshelo;",
+        "’Foko a botshelo, A nthuta tumelo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "A mantle jang, kgakgamatso, ’Foko a Botshelo,",
+        "A mantle jang, kgakgamatso, ’Foko a Botshelo;"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso Mmoloki O Lerile, ’Foko A Botshelo;",
+        "Reetsang pitso tsa lorato,’ Foko a Botshelo;",
+        "Ke a neo fela, Re bidiwa godimo,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bolelang Bontle Jwa Pitso,’ Foko A Botshelo;",
+        "Boitshwerelo go botlhe,’ Foko a Botshelo;",
+        "Jeso ke Mmoloki, O ya re itshepisa...."
+      ],
+      "number": 3
+    }
+  ]
+}

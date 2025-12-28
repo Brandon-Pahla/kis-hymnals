@@ -1,0 +1,46 @@
+{
+  "number": 98,
+  "language": "tn",
+  "title": "98 Ke Nne Le Mmoloki Go Nna",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Nne Le Mmoloki Go Nna, Ga Ke Tsamae A Seo;",
+        "Ke utlwe boteng jwa Gagwe, A ntshwara ka letsogo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Foo ga nka ke ka boifa,....A nkgog’e kwa O ratang,",
+        "Ke tla ya ke sa belaele, Ke ntse ke Mo latela."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Nne Le Mmoloki Go Nna, Tumelo E Bokoa;",
+        "O ka ntshebetsa kgomotso E go seng yo’ ka e buang."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Nne Le Mmoloki Go Nna, Loetong Lwa Botshelo,",
+        "Difefong le mo letsatsing, Le mo gare ga dintwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Nne Le Mmoloki Go Nna, Leitlho Ja ’Gwe Le Nkgoge,",
+        "Ke bo ke fitlhe Jordane, Ke tlolele moseja."
+      ],
+      "number": 4
+    }
+  ]
+}

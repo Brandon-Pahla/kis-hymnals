@@ -1,0 +1,46 @@
+{
+  "number": 35,
+  "language": "tn",
+  "title": "35 A Botsalano, Boitumelo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A Botsalano, Boitumelo,",
+        "Mo mabogong a bosakhutleng;",
+        "A go masego, kagiso ya me,",
+        "Mo mabogong a bosakhutleng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ikaege (go Jeso Morena)",
+        "O bolokege ka gotlhe",
+        "Ikaege (go Jeso Morena)",
+        "Mo mabogong a bosakhutleng"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Monate Go Tsama’a Loetong Lo,",
+        "Mo mabogong a bosakhutleng",
+        "Go lesedi jang tseleng ka metlha,",
+        "Mo mabogong a bosakhutleng"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Tla Tshaba Eng, Ke Boife Eng,",
+        "Mo mabogong a bosakhutleng?",
+        "Ke na le kagiso mo Moreneng,",
+        "Mo mabogong a busakhutleng."
+      ],
+      "number": 3
+    }
+  ]
+}

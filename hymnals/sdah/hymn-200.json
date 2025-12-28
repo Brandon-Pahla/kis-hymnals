@@ -1,0 +1,42 @@
+{
+  "number": 200,
+  "language": "en-sdah",
+  "title": "200 The Lord Is Coming",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. The Lord is coming, let this be The herald note of jubilee; And when we meet and when we part The salutation from the heart."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain : The Lord is coming, let this be The herald note of jubilee, The herald note of jubilee."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. The Lord is coming! sound it forth From east to west, from south to north; Speed on! speed on the tidings glad, That none who love Him may be sad."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. The Lord is coming, swift and sure And all His judgments shall endure, And none can hope to escape His wrath, Who walk not in the narrow path."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. This earth, with her ten thousand wrongs Will soon be tuned to nobler songs; Our praise shall then, in realms of light, With all His universe unite."
+      ],
+      "number": 5
+    }
+  ]
+}

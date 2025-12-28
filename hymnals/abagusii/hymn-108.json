@@ -1,0 +1,35 @@
+{
+  "number": 108,
+  "language": "guz",
+  "title": "108 Abarendi Ba Zayoni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Abarendi ba Zayoni,Teba ay' obotukoEng'enang'eni yachire?Nabokiamoke gose?Mwarorire,amasase agocha?Mwarorire,amasase agocha?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ebimanyererio bi'ense,twabietire gose?'Ngoika tor' ekiambokero,nonya nengegu gose?Amaene,twarorir' obogambi?Amaene,twarorir' obogambi?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Oborabu bwachichire,Toake egeturi;Twarorir' eng'enang'eni,Igor' endabu mono!Chenga mwensi, 'Gotoreka gwachireChenga mwensi,'Gotoreka gwachire."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Twanyorire omorai;Ense ng'ang' eberete;Natogende bosio bwango,Tosoe as'agiya,Tera mono,na kogoka kegimaTera mono,na kogoka kegima."
+      ],
+      "number": 4
+    }
+  ]
+}

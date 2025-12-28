@@ -1,0 +1,40 @@
+{
+  "number": 105,
+  "language": "tw",
+  "title": "Monto Yehowa 'Yeyi Dwom!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Monto Yehowa 'yeyi dwom!",
+        "Ayeyi ny'naa wɔ No;",
+        "Nea ɔde dom twe yɛn nna mu,",
+        "Na ɔma yɛn nnwom pa,",
+        "Na ɔma yɛn nnwom pa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne dom no ama yɛn afa",
+        "Afe fof'ro mu bio;",
+        "Yɛde bɔhyɛ ne nnwom fof'ro",
+        "Ba yɛn Nyame anim,",
+        "Ba yɛn Nyame anim."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyankopɔn, Woayɛ yɛn adɔe",
+        "Ama yɛn nhwɛso pa;",
+        "Yɛnam Wo Ba no so de nea",
+        "Yɛwɔ nyinaa brɛ Wo,",
+        "Yɛwɔ nyinaa brɛ Wo."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 63,
+  "language": "ve",
+  "title": "63 Ndi do tanzwiwa Hani?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi do tanzwiwa hani? Nga malofha awe fhedzi,",
+        "Ndi nga tshenisa hani? Ndi nga malofha a Yesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Maanda ndi malofha, Ane a ntanzwa,",
+        "A huna tshinwe-vho, malofha a Yesu fhedzi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi wane u tanzwiwa, malofhani a Murena,",
+        "Ndi kone u hangwelwa, nga malofha a Murena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi nga tshidzwa nga mini? Malofha a Yesu fhedzi,",
+        "Ndi ndothe a thi koni, Mukoni ndi Ene fhedzi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndi fulufhela mini? Malofha a Yesu fhedzi,",
+        "Ndi do wana zwivhuya malofhani a Murena."
+      ],
+      "number": 5
+    }
+  ]
+}

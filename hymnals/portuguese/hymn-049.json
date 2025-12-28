@@ -1,0 +1,64 @@
+{
+  "number": 49,
+  "language": "pt",
+  "title": "Surgem Anjos Proclamando",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Surgem Anjos Proclamando"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Surgem anjos proclamando",
+        "Paz na Terra, e a Deus, louvor.",
+        "Văo seus hinos ecoando",
+        "Nas montanhas, ao redor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Glória, glória a Deus nas alturas!",
+        "Glória, glória a Deus nas alturas!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Văo-se alegres os pastores",
+        "Ver o Infante celestial,",
+        "E acrescentam seus louvores",
+        "Ao louvor angelical."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Berço rude, Lhe foi dado,",
+        "Mas do Céu Lhe vem louvor.",
+        "Ele é o Salvador amado,",
+        "Bem merece o nosso amor."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Povos, tribos, celebrai-O !",
+        "\"Glória a Deus\", também dizei.",
+        "De joelhos adorai-O;",
+        "Ele é o Cristo, o grande Rei !"
+      ],
+      "number": 6
+    }
+  ]
+}

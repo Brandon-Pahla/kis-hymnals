@@ -1,0 +1,42 @@
+{
+  "number": 360,
+  "language": "guz",
+  "title": "360 Tom'Omobaso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tom'omobaso, 'mobas' omuya,Omorek'ens'oseri'emechando,Abaminto bonsi baganyete;Tom'omobas'omuya."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tom'omobas'omuya,Tom'omobas'omuya,Tom'omobaso, tom'omobaso;Tom'omobas'omuya,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tom'omobaso chinsa chionsi,Mbare n'enchera ase ring'ana;Simeka chimbusuro chingiya;Tom'omobas'omuya"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tom'omobaso rituko rionsi,Ebisio nabisoe ase ndeOnde Tatoa tatiga Yeso,Tom'omobas'omuya."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tom'omobas'emiaka yonsi;Goika Yes'airane ase ense,Erio twensi natogende Igoro,Tom'omobas'omuya."
+      ],
+      "number": 5
+    }
+  ]
+}

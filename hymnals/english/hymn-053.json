@@ -1,0 +1,37 @@
+{
+  "number": 53,
+  "language": "en",
+  "title": "53 Holy Spirit, Faithful Guide",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Holy Spirit, faithful Guide, Ever near the Christian’s side,",
+        "Gently lead us by the hand, Pilgrims in a desert land,",
+        "Weary souls for e’er rejoice, When they hear that sweetest voice,",
+        "Whisper softly, “Wand’rer, come! Follow me I’ll guide thee home"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ever present, truest friend, Ever near thine aid to land,",
+        "Leave us not to doubt and fear, Groping on in darkness drear,",
+        "When the storms are raging sore, Hearts grow faint, and hopes give o’er,",
+        "Whispering softly, “Wand’rer come! Follow me I’ll guide thee home."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "When our days of toil shall cease, Waiting still for sweet release,",
+        "Nothing left but heaven and prayer, Wond’ring if our names are there",
+        "Wading deep the dismal flood, Pleading naught but Jesus’ blood.",
+        "Whisper softly, “Wand’rer come, follow me I’ll guide thee home”"
+      ],
+      "number": 3
+    }
+  ]
+}

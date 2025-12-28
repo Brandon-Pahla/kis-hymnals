@@ -1,0 +1,29 @@
+{
+  "number": 240,
+  "language": "rw",
+  "title": "240 Uko Ndushaho kumukorera",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 240 Uko Ndushaho kumukorera",
+        "**1**",
+        "Aho menyey'Umukiza,",
+        "Nkanagengwa nawe,",
+        "Uko ndushaho kumukorera,",
+        "Nikw'arushaho kunyuzuramo.",
+        "**Gusubiramo:**",
+        "Uko njya ndushaho kumukorera,",
+        "Nawe, nikw'arushaho kunyuzura,",
+        "Kandi uko ndushaho kumukunda,",
+        "Nawe nikw'arushaho kunyuzuramo.",
+        "**2**",
+        "Angirir'ubuntu bwinshi,",
+        "Nkamererwa neza,",
+        "Uko ndushaho kumuyoboka,",
+        "Nikw'arushaho kunyuzuramo."
+      ],
+      "number": 1
+    }
+  ]
+}

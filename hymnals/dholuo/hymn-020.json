@@ -1,0 +1,42 @@
+{
+  "number": 20,
+  "language": "luo",
+  "title": "20 Nyasachwa En E Lwandawa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nyasachwa En e Lwandawa,En Lwandawa mogeng`owa;Jakony e chandruokwa duto,Mobedo machiegni chutho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En Lwandawa e chandruok duto,En tipo ka ma wayueyo;Jatelo, En motelonwa;Kar pondo e ndalo chandruok."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kata wach bet nade kodwa,En Lwandawa mogeng`owa;Wang`eyo kaka En Jakony,Mobedo machiegni chutho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Gotieno kata godiechieng`,En Lwandawa mogeng`owa;Kamano ok wanaluor ngang`,Nikech En machiegni kodwa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nyasachwa e makonyowa,En Lwandawa mogeng`owa;Ndalo duto Entie kodwa,Obedo machiegni chutho."
+      ],
+      "number": 5
+    }
+  ]
+}

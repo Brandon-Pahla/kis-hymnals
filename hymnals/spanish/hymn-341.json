@@ -1,0 +1,45 @@
+{
+  "number": 341,
+  "language": "es",
+  "title": "Más cerca del hogar",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Más cerca del hogar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La Biblia asegura que Jesús",
+        "muy pronto en las nubes volverá.",
+        "¡Prepárate, mi hermano, porque hoy",
+        "más cerca estamos del hogar!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Más cerca del hogar,",
+        "más cerca del hogar,",
+        "más cerca estamos hoy que ayer,",
+        "más cerca del hogar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La obra ya debemos terminar,",
+        "pues muchos necesitan conocer.",
+        "Las buenas nuevas hay que proclamar:",
+        "¡Más cerca estamos del hogar!"
+      ],
+      "number": 4
+    }
+  ]
+}

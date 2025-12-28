@@ -1,0 +1,46 @@
+{
+  "number": 2,
+  "language": "st",
+  "title": "2 Morena O Se A Le Monyako",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Morena O teng monyako, Ea neng ’jere sefapano,",
+        "Joale bao ba lokileng, Ba bokelloa bohle."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Monyako... monyako; Morena O teng monyako;",
+        "O ea tla... O ea tla O se A le monyako."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Liponts’o ka lemo tsohle, Li re O se A le mona;",
+        "Re tla bona haufinyane, Ea teng mehleng eohle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hlokomelang tsa lefats’eng, Mats’oenyeho ha a fele;",
+        "Mopholosi O tla fihla, Mothetsi a fele."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mane lefats’eng le lecha, Re tla lula re le bacha;",
+        "Ba neng ba shoa ha ba sa shoa, Le ka ho sa feleng."
+      ],
+      "number": 4
+    }
+  ]
+}

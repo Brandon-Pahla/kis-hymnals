@@ -1,0 +1,56 @@
+{
+  "number": 4,
+  "language": "en",
+  "title": "4 He Is Coming",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "How sweet are the tidings that greet the pilgrim’s ear,",
+        "as he wander in ex-ile from home!",
+        "Soon, soon will the Saviour in glory appear,",
+        "And soon will the kingdom come."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "He’s coming, coming, coming soon, I know,",
+        "coming back to this earth again;",
+        "And the weary pilgrims will to glory go,",
+        "When the Saviour comes to reign."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "The mossy old graves where the pil-grims sleep",
+        "shall be o-pen’d as wide as before,",
+        "and the millions that sleep in the mighty deep",
+        "shall live on this earth once more."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "There we’ll meet ne’er to part in our happy Eden home,",
+        "Sweet songs or redemption we’ll sing;",
+        "From the north, from the South, all the ransom’d shall come,",
+        "And worship our heavenly King."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hal-lelu-jah, A-men! Ha-le-lu-jah a-gain!",
+        "Soon, if faithful, we all shall be there;",
+        "O, be watchful, be hopeful- be joyful till then,",
+        "And a crown of bright glory we’ll wear."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 251,
+  "language": "guz",
+  "title": "251 Ekero Toragambigwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ekero toragambigwe,'Bogima gos' ogokwa;Natobe bun'edhahabu?Gose bun'amabiria."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwarengirwe n'Omonene,Kwarengirwe;Kwarengirwe nering'ana,Kwaremeirwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Toigw' amang'an' amaya;\"Omosomba omuya,\"Gose nayare amabe,Kwaremeirwe omobe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ntomoigwere Omoika,Tonyore amabera;Gose tebana ekina,Kia Nyasae kenachwe."
+      ],
+      "number": 4
+    }
+  ]
+}

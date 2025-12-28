@@ -1,0 +1,55 @@
+{
+  "number": 23,
+  "language": "en",
+  "title": "23 Hover O`er Me, Holy Spirit",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hover o`er me, Holy spirit,",
+        "Bathe my trembling heart and brow;",
+        "Fill me with thy hallow`d presence,",
+        "Come, O come and fill me now."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fill me now, fill me now, Jesus come and fill me now.",
+        "Fill me with thy hallow`d presence, Come, O come and fill me now."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thou canst fill me gracious Spirit,",
+        "Tho` I can not tell thee how;",
+        "But I need thee, greatly need thee,",
+        "Come, O come and fill me now."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I am weaknes, full of weakness;",
+        "At thy sacred feet I bow;",
+        "Blest, divine, eternal Spirit,",
+        "Fill with love and fill me now."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cleanse and comfort, bless and save;",
+        "Bathe, O, bathe my heart and brow;",
+        "Thou art comforting and saving,",
+        "Thou art sweetly filling now."
+      ],
+      "number": 5
+    }
+  ]
+}

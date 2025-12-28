@@ -1,0 +1,54 @@
+{
+  "number": 163,
+  "language": "ny",
+  "title": "163 - ’Mvani Yesu Aitana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HERE AM I, SEND ME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. ’Mvani Yesu aitana, Ndani angagwiretu?",
+        "Mindayo yayera kale, Ndani akakunkhemo?",
+        "Momvekadi aitana, Mphotho ’dzalandira ’we.",
+        "Ndani angayankhe msanga, Ndine Mbuye, tumeni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nkana sungapite mtali Ku maiko enawo,",
+        "Ungapeze anthu ena Apafupi ndi iwe.",
+        "Ngati sungalalikire Monga ngati Paulo,",
+        "Unganene za chikondi Cha Ambuye wakoyo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ngati sungakhale mlonda Wochenjeza anthuwo;",
+        "Kuwauza anthu njira Yonka nayo mmwambamo;",
+        "Pakupempherera ena, Ungagwire ntchitoyo.",
+        "Ungachite ngati Huri Pothangata Moseyo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mmene anthu alikufa, Mbuye aitanabe;",
+        "Wina asamamve nuti, Singachite kanthui.",
+        "Gwira ntchito wakupatsa, Nuigwire msangatu;",
+        "Ndi kuyankha poitana, Ndine Mbuye, tumeni."
+      ],
+      "number": 5
+    }
+  ]
+}

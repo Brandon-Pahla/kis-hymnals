@@ -1,0 +1,38 @@
+{
+  "number": 127,
+  "language": "tn",
+  "title": "127 Modimo O Bona Go Wa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Modimo O Bona Go Wa Thaga Wa E Tshola;",
+        "Fa a rata dinonyane, Kea itse Wa nthata."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O wa nthata, O Wa nthata, Kea itse Oa nthata;",
+        "Gonne O rata tse dinnye, Kea itse Wa nthata."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Taka Dithunya Nageng, O Di Naya Lonko,",
+        "Mme fa A rata dithunya, Kea itse Wa nthata."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Modimo O Di Dirile, Tsotlhe Le Tse Kgolo;",
+        "Ga A na go di lebala, Kea itse Wa nthata."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "number": 120,
+  "language": "bem",
+  "title": "120 - NDESUMINA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I DO BELIEVE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tata nomba naisa fye, Mwe Katula wandi;",
+        "Nga mulefuma kuli ‘ne Tata one nkaya kwi?",
+        "CHORUS:",
+        "Ndesumina shakalabe. Yesu amfwilile;",
+        "Asumishe umulopa, Kupususha ine.",
+        "2. Muli Yesu ndesumina, Peleni amaka;",
+        "No Bufwayo bonse bwandi, Mupele kuli 'ne.",
+        "3. Nalolesha menso yandi, Kuli Imwe Mfumu;",
+        "Ukuti ndepokelela, Bupe bwa Mupashi."
+      ],
+      "number": 2
+    }
+  ]
+}

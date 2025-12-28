@@ -1,0 +1,58 @@
+{
+  "number": 333,
+  "language": "fr",
+  "title": "Lampe allumée",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lampe allumée en cette nuit profonde,",
+        "Seigneur, ton livre éclaire le sentier",
+        "De tes enfants en qui la joie abonde",
+        "Pour le salut offert au monde entier."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Par ta parole, céleste message",
+        "De vérité, de justice et d'amour,",
+        "Guide mes pas dans le pèlerinage",
+        "Où vers le ciel j'avance chaque jour."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu nous conduis dans une route sûre",
+        "Que tu montras aux prophètes d'antan.",
+        "Bonne nouvelle à la sagesse pure,",
+        "Ta Bible indique un chemin droit et franc."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tes saints écrits, quand mon âme est tremblante,",
+        "Ou quand je vis des moments de douleur,",
+        "Donnent la paix en cette lutte ardente,",
+        "En me montrant celui qui rend vainqueur."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Soumets mon cœur grâce à cette parole,",
+        "Jusqu'au grand jour où chez toi j'entrerai.",
+        "Que ta sagesse en tout temps me console",
+        "Et m'introduise un jour dans tes palais."
+      ],
+      "number": 5
+    }
+  ]
+}

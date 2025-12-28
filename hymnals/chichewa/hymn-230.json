@@ -1,0 +1,35 @@
+{
+  "number": 230,
+  "language": "ny",
+  "title": "230 - Ndine Njira",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I AM THE WAY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Monga nkhosa zotayika, Zomwazika konse;",
+        "Zasiya moyo, mtendere, Njira yandisowa?",
+        "CHORUS (Sop. & alto):",
+        "Ndine njira, co’nadi, moyo",
+        "Sungafike Atate koma mwa Ine,",
+        "Ndine njira, co’nadi, moyo,",
+        "Sungafike Atate komwa mwa Ine",
+        "(Bass and Tenor):",
+        "Ndine njira, ndine njira, ndine njira co’nadi, moo",
+        "Sungafike Atate koma mwa ine,",
+        "Ndine njira, ndine njira, ndine njira co’nadi, moyo",
+        "Sungafike Atate koma mwa ine.",
+        "2. Nkhawa zandisokoneza, Mulungu ndifuna;",
+        "Manena-nena ngambiri, Ndingagwire ziti?",
+        "3. Kwa Kristu, njira, co’nadi Ndi moyo ndibweranso;",
+        "Adzandifitsa kwa Tate, Kumalo kosatha."
+      ]
+    }
+  ]
+}

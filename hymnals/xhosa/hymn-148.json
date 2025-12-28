@@ -1,0 +1,38 @@
+{
+  "number": 148,
+  "language": "xh",
+  "title": "148 Naphina No-Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Naphina ndinokuya ndino-Yesu, Angandisa naphina kweli lizwe;",
+        "Ngaphandle kwakhe akukho luvuyo, Naphina ndino-Yesu andoyiki."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Naphina, naphina, andoyiki nto;",
+        "Naphina ndino-Yesu ndinokuya."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Naphina ndino-Yesu andindedwa, Zingemk’ izihlobo yena usenam;",
+        "Nakuba ekhokela ko-zintlango, Naphina ndino-Yesu yindumiso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Naphina ndino-Yesu ndingalala, nakuba ukufa kuya sondela,",
+        "Ndiyazi ndovuka ngonaphakade, Naphina ndino-Yesu likhaya lam."
+      ],
+      "number": 3
+    }
+  ]
+}

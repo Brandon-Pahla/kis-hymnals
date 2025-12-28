@@ -1,0 +1,30 @@
+{
+  "number": 740,
+  "language": "tw",
+  "title": "N45 Whispers a Pray",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bɔ m-pae brεòo anɔpa b're,",
+        "Bɔ m-pae brεoo awia;",
+        "Bɔ m-pae brεoo anwummere,",
+        "Na wo komam' atew.",
+        "Nyame tie m-pae anɔpa,",
+        "Nyame tie m-pae awia,",
+        "Nyame tie m-pae anwummere,",
+        "Ma wo koma mu tew."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu tumi ba anɔpa",
+        "Yesu tumi ba ‘wia",
+        "Yesu tumi ba anwumm're,",
+        "Enti maw' komam' ntew"
+      ]
+    }
+  ]
+}

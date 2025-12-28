@@ -1,0 +1,39 @@
+{
+  "number": 123,
+  "language": "es",
+  "title": "¡Cuánto nos ama jesús!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Cuánto nos ama jesús!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Cuánto Jesús te ama a ti!",
+        "¡Cuánto me ama él a mí!",
+        "Su vida dio, no podía dar más.",
+        "¡Oh, cuánto te ama! ¡Oh, cuánto",
+        "me ama!",
+        "¡Cuánto nos ama Jesús!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En el Calvario murió,",
+        "su sangre allí derramó,",
+        "el buen Jesús, nos compró en la",
+        "cruz.",
+        "¡Oh, cuánto te ama! ¡Oh, cuánto",
+        "me ama!",
+        "¡Cuánto nos ama Jesús!"
+      ],
+      "number": 3
+    }
+  ]
+}

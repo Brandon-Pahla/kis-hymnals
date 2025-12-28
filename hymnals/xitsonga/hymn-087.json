@@ -1,0 +1,22 @@
+{
+  "number": 87,
+  "language": "ts",
+  "title": "87. HI TA EKA WENA, AKU NA UN’WANA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "FATHER, WE COME TO THEE",
+        "1. Hi Ta Eka Wena A Kuna Un’wana, Hi Wena Khokholo Ha Khongela,",
+        "Loko U ri Kule Misava Xinyami, U Hi Khongotela We Tatana.",
+        "CHORUS",
+        "Hi Ta Eka Wena Hi Yingise, Hi Vanhu Va Hava Ha Khongela.",
+        "2. Hi Ponise Hosi Ka Vona Valala, Hi Tshemba Ka Wena We Tatana, Hi Tsanile Ngopfu Hi Tiyise Hosi,",
+        "Matimba Ya Huma Eka Wena.",
+        "3. Hi Funghe Tatana Hi Tintswalo Taku, Hi Suse Ndleleni Ya Vudyoho,",
+        "Hi Kombise Ndlela Ku Fika Makumu, Hi Tshama Na Wena Ku Kwetsimen."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": 60,
+  "language": "tw",
+  "title": "Hy'rafo Yesu, W'asɛm So",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hy'rafo Yesu, W'asɛm so",
+        "Na yɛahyia mu rebetie Wo;",
+        "Kanyan yɛn koma ne kra",
+        "N'ɛnhwehwɛ Wo, nnɔ Wo, nsųro Wo;",
+        "Na Wo nky'rɛky'rɛ kronkron no nti,",
+        "Ͻnnan mfi wiase, nnɔ Wo nko."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn nimdeɛ, yɛn adehu;",
+        "Ne ny'naa hyɛ esum kabii mu,",
+        "Kosi sɛ Wo Honhom no",
+        "De nokware hann bɛhy'rɛn mu.",
+        "Yɛn nkwagye no fi W nkutoo.",
+        "Di dwuma pa nyinaa yɛn mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra 'nuonyamfo, bra yɛn mu!",
+        "Hann mu hann a Wufi Nyamem',",
+        "Bue yɛn asom' ne komam'.",
+        "Fa Wo Honhom no so boa yɛn;",
+        "Tie Wo nkurɔfo sufrɛ yi",
+        "Tie, na hy'ra yɛn mpae ne 'yeyi."
+      ],
+      "number": 3
+    }
+  ]
+}

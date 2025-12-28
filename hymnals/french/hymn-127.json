@@ -1,0 +1,47 @@
+{
+  "number": 127,
+  "language": "fr",
+  "title": "Je lève les yeux",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Je lève les yeux vers les monts que j'aime;",
+        "D'où peut me venir ici le secours?",
+        "Le secours me vient de l'Éternel même,",
+        "Du Dieu qui créa les nuits et les jours."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pourra-t-il souffrir que ton pied chancelle?",
+        "Ton gardien peut-il sommeiller jamais?",
+        "Non, il ne dort pas, le gardien fidèle,",
+        "Celui qui maintient Israël en paix."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pour toi l'Éternel est un retraite;",
+        "Il te sert à droite et d'ombre et d'appui :",
+        "Le soleil ne peut frapper sur ta tête,",
+        "Ni la lune à l'heure où le jour a fui."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il te gardera de tout mal possible;",
+        "Il garde ton âme, il garde tes jours;",
+        "Il te gardera ! rentre et sors paisible :",
+        "L'Éternel sur toi veillera toujours."
+      ],
+      "number": 4
+    }
+  ]
+}

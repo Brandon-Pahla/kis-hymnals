@@ -1,0 +1,45 @@
+{
+  "number": 141,
+  "language": "ny",
+  "title": "141 - Ndikhaletu Wanu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHOLLY THINE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndikhaletu wanu, Mbuyanga; Konseko, konseko,",
+        "E, kufuna kwanu ndichite, Mndithandizetu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wanutu (Mbuye), wanutu (Mbuye), Ndine wanu, Mbuyanga;",
+        "Wanutu (Mbuye), wanutu (Mbuye), Ndine wanu leroli."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Chuma ninji ko popandatu Inuyo, Mbuyanga,",
+        "Ndidzasiya zinthu zonsezo, Ndidzatsata ’Nu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Pofulatira ’ne dzikoli, Mkhaletu nanenso;",
+        "Inu ndinu Chuma changacho; Mnditonthozetu."
+      ],
+      "number": 4
+    }
+  ]
+}

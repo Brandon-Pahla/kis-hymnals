@@ -1,0 +1,77 @@
+{
+  "number": 231,
+  "language": "sn",
+  "title": "231 Rega Jesu Auye Mumwoyo Wako",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti waremerwa nechitema",
+        "Bvumira Jesu mumwoyo",
+        "Kuti uchida upenyu hutsva",
+        "Bvumira Jesu mumwoyo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwapera kupokana,",
+        "Nhasi usa murambe",
+        "Chizarura musiwo,",
+        "Bvumira Jesu mumwoyo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana uchida kuchenurwa",
+        "Bvumira Jesu mumwoyo",
+        "Aripo matsime ekusambwa",
+        "Bvumira Jesu mumwoyo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana wanetsva nematambudziko",
+        "Bvumira Jesu mumwoyo",
+        "Kana mumwoyo muyine nzwimbo",
+        "Bvumira Jesu mumwoyo"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti shamwari dzisine idi?",
+        "Bvumira Jesu mumwoyo",
+        "Anova shamwari yakanaka",
+        "Bvumira Jesu mumwoyo"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uchida kuimba nevatsvene",
+        "Bvumira Jesu mumwoyo",
+        "Woda kupinda mune zororo",
+        "Bvumira Jesu mumwoyo"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwapera kupokana,",
+        "Handicha murambizve",
+        "Ndazarura musiwo,",
+        "Jesu apinda mumwoyo"
+      ],
+      "number": 7
+    }
+  ]
+}

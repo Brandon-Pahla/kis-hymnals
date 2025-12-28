@@ -1,0 +1,35 @@
+{
+  "number": 142,
+  "language": "fr",
+  "title": "Peuples, louez le grand Dieu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Peuples, louez le grand Dieu,",
+        "Qui réside en son saint lieu ;",
+        "Lui qui, d’un mot seulement,",
+        "A créé le firmament.",
+        "Louez sa magnificence ;",
+        "Louez-le pour ses bienfaits,",
+        "Et pour tous les grands effets",
+        "De sa suprême puissance."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jusque dans l’éternité,",
+        "Qu’on célèbre sa bonté,",
+        "Et que son nom glorieux",
+        "Soit élevé jusqu’aux cieux ;",
+        "Qu’enfin tout ce qui respire,",
+        "Qui vit, qui peut se mouvoir,",
+        "Chante avec moi son pouvoir",
+        "Et son glorieux empire."
+      ],
+      "number": 2
+    }
+  ]
+}

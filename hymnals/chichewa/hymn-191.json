@@ -1,0 +1,53 @@
+{
+  "number": 191,
+  "language": "ny",
+  "title": "191 - Ndidziwitsitsa Yesu Ngwanga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BLESSED ASSURANCE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndidziwitsitsa Yesu ngwanga;",
+        "Tsiku ndi tsiku ndimakondwera.",
+        "Anandigula ndi mwazi ’ke,",
+        "Anandipatsa Mzimu wake."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mau omwewo, nyimbo yomwe,",
+        "Yesu ndimtama tsiku lonse.",
+        "Mau omwewo, nyimbo yomwe,",
+        "Yesu ndimtama tsiku lonse."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nkamvera Yesu ndikondwatu,",
+        "Ndiyang’anitsa Ambuyangayo",
+        "Ndipo angelo atengera",
+        "Ine chisomo ndi chumanso."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndine kapolo wa Mbuyanga,",
+        "Andigwiritsa ntchito Zake.",
+        "Ndimyembekeza ’dzabweranso,",
+        "Adzanditenga kwawo mmwamba."
+      ],
+      "number": 4
+    }
+  ]
+}

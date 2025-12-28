@@ -1,0 +1,32 @@
+{
+  "number": 226,
+  "language": "ny",
+  "title": "226 - Pafupi Kukopeka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ALMOST PERSUADED"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Pang’onong’ono kukopedwa;",
+        "Pang’onong’ono kumlandira,",
+        "Wina akutero, \"Pita, Mzimu, pita,",
+        "Ndikaona nthawi n’kuitana.\"",
+        "2. Pang’onong’ono, lero idza;",
+        "Pang’onong’ono usalubze,",
+        "Yesu akwitana, angelo mpafupi,",
+        "Anthu akupempha, Bweranitu.",
+        "3. Pangonong’ono mwayi wathaa;",
+        "Pang’onong’ono tsoka ladza!",
+        "Kucedwa simwayi, ndi tsoka loopsa.",
+        "Ha, adaliradi, \"Ndacedwatu!\""
+      ],
+      "number": 2
+    }
+  ]
+}

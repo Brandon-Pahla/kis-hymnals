@@ -1,0 +1,41 @@
+{
+  "number": 102,
+  "language": "bem",
+  "title": "102 - MWISWILE ENGILE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LET HIM IN"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mweni ali pa mwinshi E ... ngile",
+        "(mwiswile ngile, mwiswile ngile);",
+        "Eshilepofye kale E ... ngile",
+        "(mwiswile 'ngile, mwiswile 'ngile);",
+        "Mwiswile Iyo talaya, Mwiswile wa mushilo,",
+        "Yesu mwana wa Mfumu E ... ngile",
+        "(Mwiswile 'ngile, Mwiswile 'ngile).",
+        "2. Shi mwiswile mutima E ... ngile",
+        "(mwiswile 'ngile, mwiswile 'ngile);",
+        "Nga wakokola leya E ... ngile",
+        "(mwiswile 'ngile, Mwiswile 'ngile);",
+        "Mwiswile e Cibusa, Mwiswile wa mushilo;",
+        "No kufika ku mpela E ... ngile",
+        "(mwiswile 'ngile, mwiswile 'ngile).",
+        "3. Umfwa alepapata E ... ngile",
+        "(Mwiswile 'ngile, Mwiswile 'ngile);",
+        "Nomba iwe mwiswile E ... ngile",
+        "(mwiswile 'ngile, mwiswile 'ngile).",
+        "Eminine pa mwinshi, Uleba wa kutemwa;",
+        "No kucindika Ena E ... ngile",
+        "(Mwiswile 'ngile, mwiswile 'ngile)."
+      ],
+      "number": 2
+    }
+  ]
+}

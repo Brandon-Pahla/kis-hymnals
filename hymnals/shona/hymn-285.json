@@ -1,0 +1,39 @@
+{
+  "number": 285,
+  "language": "sn",
+  "title": "285 Kune Nzvimbo Yakanaka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kune nzvimbo yakanaka, Petyo pana Baba",
+        "Nzvimbo isina chitema , Petyo kuna Baba"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Jesu Mununuri, makatuma pasi",
+        "Mutisvededze isu, petyo kuna Baba"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kune nzvimbo yerufaro, Petyo kuna Baba",
+        "Apo takumbana Naye, Petyo kuna Baba"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kune nzvimbo yezororo, Petyo kuna Baba",
+        "Nzvimbo iyo yerufaro, Petyo kuna Baba"
+      ],
+      "number": 4
+    }
+  ]
+}

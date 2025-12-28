@@ -1,0 +1,56 @@
+{
+  "number": 259,
+  "language": "en",
+  "title": "259 Shall We Meet.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Shall we meet beyond the river,",
+        "When the surges cease to roll?",
+        "Where, in all the bright forever,",
+        "Sorrow ne’er shall press the soul?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Shall we meet, shall we meet,",
+        "Shall we meet beyond the river?",
+        "Shall we meet beyond the river,",
+        "Where the surges cease to roll."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Shall we meet in that blest harbor,",
+        "When our stormy voyage is o’er?",
+        "Shall we meet and cast the anchor,",
+        "By the far, celestial shore?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Shall we meet in yonder city,",
+        "Where the tow’rs of crystal shine?",
+        "Where the walls are all of jasper,",
+        "Built for us by hands divine?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Shall we meet with Christ, our Saviuor,",
+        "When he comes to claim his own?",
+        "Shall we know his blessed favor,",
+        "And sit down upon his throne?"
+      ],
+      "number": 4
+    }
+  ]
+}

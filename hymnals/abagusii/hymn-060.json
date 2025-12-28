@@ -1,0 +1,35 @@
+{
+  "number": 60,
+  "language": "guz",
+  "title": "60 Moik' Omochenu O Igoro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Moik' Omochenu o igoroRab' as' enkoro yaneOserie OmosunteOyokor' Oborabu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Moika 'nguru chia IgoroOchen' enkoro yaneEbibe biangambeireAs' engaki entambe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Moik' omogok' oigoroEnkoro yane remiaSeri' emechand' emengeGwenia enkoro yane."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Moika, bionsi bia igoroOmenye omoy'oneNsererie chisanamuOngamber' aye bweka."
+      ],
+      "number": 4
+    }
+  ]
+}

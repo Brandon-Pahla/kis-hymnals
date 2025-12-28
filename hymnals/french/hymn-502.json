@@ -1,0 +1,46 @@
+{
+  "number": 502,
+  "language": "fr",
+  "title": "Veille et prie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Veille et prie et sois fervent,",
+        "Combats sans relâche,",
+        "Animé d'un zèle ardent",
+        "Pour ta sainte tâche !",
+        "Ne crains rien, Jésus vient,",
+        "Quand le mal menace,",
+        "T'armer de sa grâce."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Veille et prie et sois aimant,",
+        "Marche à sa lumière,",
+        "Et poursuis fidèlement,",
+        "Ta noble carrière.",
+        "Son amour, chaque jour,",
+        "Sera ta défense",
+        "Et ta récompense."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Veille et prie et, confiant,",
+        "Relève la tête,",
+        "Va, demande au Tout-Puissant",
+        "Une paix parfaite.",
+        "Avec lui pour appui,",
+        "Sûre est la victoire.",
+        "À lui soit la gloire !"
+      ],
+      "number": 3
+    }
+  ]
+}

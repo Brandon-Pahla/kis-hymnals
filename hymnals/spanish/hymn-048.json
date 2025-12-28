@@ -1,0 +1,54 @@
+{
+  "number": 48,
+  "language": "es",
+  "title": "Oh Dios, si he ofendido un corazón",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Oh Dios, si he ofendido un corazón"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh Dios, si he ofendido un corazón,",
+        "si he sido causa de su perdición,",
+        "si hoy he andado yo sin discreción",
+        "te imploro perdón."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si he proferido voces de maldad,",
+        "faltando en demostrar la caridad,",
+        "oh santo Dios, buscándote en verdad",
+        "te imploro perdón."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si he sido perezoso en trabajar,",
+        "dejando mi deber sin realizar",
+        "en vez de hacer tu celestial mandar,",
+        "te imploro perdón."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tú, del contrito, fiel perdonador,",
+        "que atiendes al clamor del pecador,",
+        "dame perdón y guárdame en tu amor,",
+        "por Cristo. Amén."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": 332,
+  "language": "fr",
+  "title": "Comme un souffle fragile",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Comme un souffle fragile,",
+        "Ta parole se donne;",
+        "Comme un vase d'argile,",
+        "Ton amour nous façonne.",
+        "Ta parole est murmure,",
+        "Comme un secret d'amour,",
+        "Ta parole est blessure",
+        "Qui nous ouvre le jour."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ta parole est naissance,",
+        "Comme on sort de prison,",
+        "Ta parole est semence",
+        "Qui promet la moisson."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ta parole est partage,",
+        "Comme on coupe du pain,",
+        "Ta parole est passage",
+        "Qui nous dit un chemin."
+      ],
+      "number": 3
+    }
+  ]
+}

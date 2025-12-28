@@ -1,0 +1,72 @@
+{
+  "number": 385,
+  "language": "fr",
+  "title": "Si tu dénoues les liens...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Si tu dénoues les liens de servitude,",
+        "Si tu libères ton frère enchaîné,",
+        "La nuit de ton chemin sera lumière de midi.",
+        "La nuit de ton chemin sera lumière de midi.",
+        "Alors, de tes mains pourra naître une source,",
+        "La source qui fait vivre la terre de demain,",
+        "La source qui fait vivre la terre de Dieu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si tu partages le pain que Dieu te donne",
+        "Avec celui qui est ta propre chair,",
+        "La nuit de ton amour sera lumière de midi.",
+        "La nuit de ton amour sera lumière de midi.",
+        "Alors, de ton cœur pourra sourdre une eau vive,",
+        "L’eau vive qui abreuve la terre de demain,",
+        "L'eau vive qui abreuve la terre de Dieu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si tu détruis ce qui opprime l'autre,",
+        "Si tu relèves ton frère humilié,",
+        "La nuit de ton combat sera lumière de midi.",
+        "La nuit de ton combat sera lumière de midi.",
+        "Alors, de ton pas pourra naître une danse,",
+        "La danse qui invente la terre de demain,",
+        "La danse qui invente la terre de Dieu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si tu dénonces le mal qui brise l'homme,",
+        "Si tu soutiens ton frère abandonné,",
+        "La nuit de ton appel sera lumière de midi.",
+        "La nuit de ton appel sera lumière de midi.",
+        "Alors, de tes yeux pourra luire une étoile,",
+        "L'étoile qui annonce la terre de demain,",
+        "L'étoile qui annonce la terre de Dieu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si tu abats les murs entre les hommes,",
+        "Si tu pardonnes à ton frère ennemi,",
+        "La nuit de ta passion sera lumière de midi.",
+        "La nuit de ta passion sera lumière de midi.",
+        "Alors, de ton pain pourra vivre une Église,",
+        "L'Église qui rassemble la terre de demain,",
+        "L'Église qui rassemble la terre de Dieu."
+      ],
+      "number": 5
+    }
+  ]
+}

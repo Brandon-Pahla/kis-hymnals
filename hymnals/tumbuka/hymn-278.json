@@ -1,0 +1,48 @@
+{
+  "number": 278,
+  "language": "tum",
+  "title": " 278 Ndi Nthowa Yane Cha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 278 Ndi Nthowa Yane Cha",
+        "C.S. 661 NOT MY WAY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ndi nthowa yane cha nanga yingasuzga,",
+        "Ndirongozgeninge Mndisankhire nthowa,",
+        "Kusankha ndekha cha m'ngandilekerera,",
+        "Mndisankhire Fumu ndendemo makora."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ufumu nkhukhumba winu m'ndipe nthowa,",
+        "Kurata ku'moyo kurazga kwa Imwe,",
+        "Mndisungire nkhombo yak'zula na 'moyo,",
+        "Sankhire wabwezi chuma panji soka."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Sankhire wabwezi, nthenda panji moyo,",
+        "Musankhire ine chakundenerera,",
+        "Ndiule kusankha chikulu - chichoko,",
+        "Mundirongozgenge, m'ndikwanire Fumu."
+      ],
+      "number": 4
+    }
+  ]
+}

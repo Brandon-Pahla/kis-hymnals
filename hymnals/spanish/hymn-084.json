@@ -1,0 +1,55 @@
+{
+  "number": 84,
+  "language": "es",
+  "title": "Ve, dilo en las montañas",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ve, dilo en las montañas"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Ve, dilo en las montañas,",
+        "en todas partes, por doquier.",
+        "Ve, dilo en las montañas:",
+        "que Cristo, el Rey, nació."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pastores muy piadosos,",
+        "con gran admiración,",
+        "oyeron, jubilosos,",
+        "del don de Salvación."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En esa noche oscura",
+        "los alumbró gran luz;",
+        "y luego, con premura,",
+        "buscaron a Jesús."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Doquiera que estemos",
+        "debemos proclamar",
+        "que, en Cristo, hoy podemos",
+        "la redención gozar."
+      ],
+      "number": 5
+    }
+  ]
+}

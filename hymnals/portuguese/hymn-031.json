@@ -1,0 +1,68 @@
+{
+  "number": 31,
+  "language": "pt",
+  "title": "Sublime Amor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Sublime Amor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sublime amor, o amor de Deus,",
+        "Que lira não traduzirá!",
+        "Maior que o mar, maior que o céu,",
+        "Jamais alguém compreenderá!",
+        "Ao pecador em aflição,",
+        "Seu Filho, Deus entregou;",
+        "Ao sofredor deu Ele a mão,",
+        "E as culpas lhe perdoou."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Sublime amor, o amor de Deus!",
+        "Oh! Maravilha sem-par!",
+        "Pôr esse amor, eternamente,",
+        "A Deus iremos louvar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se em tinta o mar se transformasse,",
+        "E em papel o céu também,",
+        "E a pena ágil deslizasse,",
+        "Dizendo o que esse amor contém,",
+        "Daria fim ao grande mar,",
+        "Ao esse amor descrever,",
+        "E o céu seria mui pequeno",
+        "Pra tal relato conter."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Excelso amor; o amor de Deus,",
+        "Que nos remiu da perdição!",
+        "Em gratidão proclamaremos",
+        "Tão grande amor e salvação.",
+        "E quando enfim no lar dos Céus,",
+        "Em gozo e glória eternal,",
+        "Pra sempre ali desfrutaremos",
+        "Do grande amor divinal."
+      ],
+      "number": 5
+    }
+  ]
+}

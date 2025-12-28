@@ -1,0 +1,44 @@
+{
+  "number": 250,
+  "language": "tn",
+  "title": "250 S’ Ineele Thaelong",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "S’ Ineele Thaelong, Gonne Ke Teofo,",
+        "Phenyo ’tla go thusa Go gapa mongwe,",
+        "O tlhabane senna, Fenya dithato,",
+        "O lebe go Jeso, O tla’ fetisa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kopa Mmoloki thuso, Kgomotso le nametso;",
+        "O rata go go thusa, O tla ’O fetisa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Nyatse Bakgopo, Le Dithogako,",
+        "O tlotle Modimo, Se nyats’ina ’Gwe.",
+        "O nne mo tlhoafalong, Bopelonoming,",
+        "O lebe go Jeso, O tla ’ fetisa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Modimo O Fa Yo’ Fenyang Serwalo,",
+        "Re fenya tumelong, Lefa re ka wa;",
+        "Mmoloki wa rona, Tla re nonotsha,",
+        "O lebe go Jeso, O tla ’fetisa."
+      ],
+      "number": 3
+    }
+  ]
+}

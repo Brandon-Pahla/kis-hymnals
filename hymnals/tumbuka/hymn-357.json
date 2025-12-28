@@ -1,0 +1,25 @@
+{
+  "number": 357,
+  "language": "tum",
+  "title": " 357 Mundipe Yumoza, Fumu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 357 Mundipe Yumoza, Fumu",
+        "Lord Lay Some Soul Upon My Heat"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mundipe yumoza Fumu wakumusowani,",
+        "Ndichitenge lwande lwane kuti ndimsambizge.",
+        "Kuti ndimsambizge kuti ndimsambizge,",
+        "Ndichitenge lwande lwane kuti ndimsambizge."
+      ],
+      "number": 2
+    }
+  ]
+}

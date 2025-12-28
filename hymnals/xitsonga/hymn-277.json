@@ -1,0 +1,21 @@
+{
+  "number": 277,
+  "language": "ts",
+  "title": "277. KU VONAKA LOKUNENE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LEAD, KINDLY LIGHT",
+        "1. Ku Vonakala Lokunene U Ndzi Fambisa, Vusiku I Xinyami Xikulu Ndzi Fambise,",
+        "Ndzi Letela Hi Swintsongo Ntsongo,’ Swa Le Kule A Ndzi Swi Rileli.",
+        "2. A Ndzi Nga Si Tshama Ndzi Va Tano, Ndzi Fambise,",
+        "A Ndzi Tihlawuleli Yo Ndlela, Ndzi Fambise, A Ndzi Tirhandza Ndzi Nga Tshukisiwi, Ndzi Tikurisa, Ndzi Rivalele.",
+        "3. Hi Tintswalo Ndzi Katekise U Ndzi Fambisa, Emabubutseni Na Mimoya Ndzi Fambise,",
+        "Ku Fika Eku Vonakalen,",
+        "Ka Wo N’wayitelo Wa Namixo."
+      ],
+      "number": 1
+    }
+  ]
+}

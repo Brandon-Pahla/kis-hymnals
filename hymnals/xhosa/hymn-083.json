@@ -1,0 +1,38 @@
+{
+  "number": 83,
+  "language": "xh",
+  "title": "83 Lisikelelwe Igama",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O ukutsholoza ngalo Igama layo i-Nkosi;",
+        "Bubukhosi obunjalo, Igama layo i-Nkosi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lisikelelwe, lisikelwe Igama layo i-Nkosi;",
+        "Lisikelelwe, lisikelwe Igama layo i-Nkosi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu amandla akulo, Igama layo i-Nkosi;",
+        "Yingoma yokuhlatyelwa, Igama layo i-Nkosi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Liphelisa konk’ ukona, Igama layo i-Nkosi;",
+        "Lithembekile ke lona, Igama layo i-Nkosi."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "number": 239,
+  "language": "sn",
+  "title": "239 Wakaneta Here?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wakaneta watambudzwa mumwoyo here",
+        "Uya kuneni uwane zororo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aneyi chinganditungamira kwaari?",
+        "Mavanga mumavoko nemakumbo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anopfeka chiremba cherukudzo here?",
+        "Hunde chiremba cheidi chemhinzwa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinowaneyi mukumutevera iye?",
+        "Nhamo nematambudziko mazhinji"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anondipeyi mukusimbira kwaari?",
+        "Anopedza urombo nekuchema"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iye anoramba kundigashira here?",
+        "Anokubvuma zvepasi zvapera"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anokomborera here mukumutsvaka",
+        "Vese vatsvene vopindura Hunde"
+      ],
+      "number": 7
+    }
+  ]
+}

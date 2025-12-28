@@ -1,0 +1,27 @@
+{
+  "number": 244,
+  "language": "ts",
+  "title": "244. TANA EKA HOSI YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "COME TO JESUS",
+        "1. Tana Eka Hosi Yesu, Tana Sweswi Tana,",
+        "Ina Sweswi Tana, Tana Sweswi Tana",
+        "2. Wa Hlayisa, Wa Hlayisa, Wa Hlayisa Sweswi,",
+        "Sweswi Wa Hlayisa, Wa Hlayisa Sweswi.",
+        "3. A Nga Tirha, A Nga Tirha, A Nga Tirha Sweswi,",
+        "Sweswi A Nga Tirha, A Nga Tirha Sweswi.",
+        "4. N’wi Vitane, N’wi Vitane, N’wi Vitane Sweswi,",
+        "Sweswi N’wi Vitane, Sweswi N’wi Vitane.",
+        "5. U Rindzile, U Rindzile, U Rindzile Sweswi,",
+        "Sweswi U Rindzile, U Rindzile Sweswi.",
+        "6. U N’wi Tive, U N’wi Tive, U N’wi Sweswi,",
+        "Sweswi U N’wi Tive, U N’wi Tive Sweswi.",
+        "7. Katekisa, Katekisa, Katekisa Sweswi, Sweswi Katekisa, Sweswi Katekisa, Katekisa Sweswi."
+      ],
+      "number": 1
+    }
+  ]
+}

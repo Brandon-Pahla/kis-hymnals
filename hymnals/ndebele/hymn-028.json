@@ -1,0 +1,47 @@
+{
+  "number": 28,
+  "language": "nd",
+  "title": "28 Yiba Nesineke Uze U Be Ngcwele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yiba nesineke, sokukhuluma",
+        "NaYe uMkhululi, kuY’ u ngeyama",
+        "Yiba nobuhlobo nokululama",
+        "U-kuqondis’ izoni kuY’ iMvana"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yiba nesineke emsebenzini",
+        "Esokukhuleka laph’ elizweni",
+        "Nxa ku hlal’ uJesu enhiziyweni",
+        "Wozuz’ ukuthula laph’ emhlabeni"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yiba nesineke sokusondela",
+        "KuYe uMsindisi, u zolandela",
+        "Ekujabuleni wokuholela",
+        "Nanxa ekhuluma u bolalela"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yiba nesineke, thula u thi du!",
+        "Yen’ u yakuthela ngokwaphezulu",
+        "uMoy’ oiNgcwele u ng’uFakazi",
+        "Ka Jes’ uMsindisi, nguYen’ uMsizi"
+      ],
+      "number": 4
+    }
+  ]
+}

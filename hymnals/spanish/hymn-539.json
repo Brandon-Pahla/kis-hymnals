@@ -1,0 +1,56 @@
+{
+  "number": 539,
+  "language": "es",
+  "title": "¡Oh, día delicioso!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Oh, día delicioso!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh, día delicioso",
+        "de gozo, amor y paz;",
+        "de llantos y pesares",
+        "el bálsamo eficaz!",
+        "En ti, postrados ante",
+        "el trono celestial,",
+        "cantamos: \"¡Santo, santo!\",",
+        "loando al Eternal."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seguro puerto eres",
+        "en toda tempestad,",
+        "jardín do corren ríos",
+        "de luz y santidad.",
+        "Divina fuente eres",
+        "en yermo terrenal,",
+        "la cumbre de donde vemos",
+        "la patria celestial."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tus horas son sagradas,",
+        "de santa reflexión,",
+        "en que del mundo al cielo",
+        "se eleva la atención;",
+        "sacando gracias nuevas",
+        "de ti al reposar,",
+        "tu plenitud buscamos",
+        "en nuestro eterno hogar."
+      ],
+      "number": 4
+    }
+  ]
+}

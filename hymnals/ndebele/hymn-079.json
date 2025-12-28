@@ -1,0 +1,39 @@
+{
+  "number": 79,
+  "language": "nd",
+  "title": "79 Ukubizwa Kwabavuni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Amasimu a lindile, Amhlophe ngamabele;",
+        "Ekude si wabonile, Ezigangen’ ezinhle."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi yokuvuna yizwa, NguWe wedw’ ongasiza;",
+        "Ba thume abokuvuna, Li ngakadlul’ ihlobo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ba thumele ekuseni Nantambama ba ngemi;",
+        "Noma se li shon’ ilanga, Mavavun’ izinyanda."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wen’ othunywayo iNkosi Vunisis’ amabele;",
+        "Bhek’ ezulwin’ isiphelo, Wothol’ umvuz’ omkulu."
+      ],
+      "number": 4
+    }
+  ]
+}

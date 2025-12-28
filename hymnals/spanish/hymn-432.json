@@ -1,0 +1,56 @@
+{
+  "number": 432,
+  "language": "es",
+  "title": "Como el ciervo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Como el ciervo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Como el ciervo clama por las aguas,",
+        "mi alma anhela a Dios.",
+        "Solo tú satisfaces mi ansiedad",
+        "llenándome de paz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Solo tú eres mi sostén,",
+        "¿a quién iré sino solo a ti?",
+        "Yo te rindo mi vida entera",
+        "para siempre a ti, Señor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo, tú eres mi amigo y mi",
+        "hermano,",
+        "aunque eres Rey también.",
+        "Yo te amo por sobre todo",
+        "y te alabo, mi Señor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Más que al oro te anhelo a ti,",
+        "pues solo tú me podrás saciar.",
+        "Solo tú eres mi alegría,",
+        "la razón de mi existir."
+      ],
+      "number": 5
+    }
+  ]
+}

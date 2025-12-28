@@ -1,0 +1,63 @@
+{
+  "number": 167,
+  "language": "st",
+  "title": "167 Motheo O Thata .",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Motheo o tiileng, lona bahalaleli,",
+        "O theiloe lentsoeng tumelong ea lona",
+        "Na a ka holela joang ho uena ha a re,",
+        "Ke mang ea balehetseng, ke mang ea balehetseng,",
+        "Ke mang ea balehetseng ho Morena."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se ts’abe, ke na le uena, se tepelle;",
+        "Ke ’na Molimo oa hao ke tla u thusa;",
+        "Ke tla u matlafatsa ke u emise,",
+        "U emisoe keho loka, u emisoe ke ho loka,",
+        "U emisoe ke ho loka tsohong la ka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke u bitsa ho tsamaea botebong,",
+        "Noka tsa masoabi ke ke tsa ’koahela;",
+        "Khathatsong ke tla u hlohonolofatsa,",
+        "Ke u halaletse le tepellong ea hao.",
+        "Ke u halaletse tepellong ea hao."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leha ke tsamaea har’a likhathatso,",
+        "Mohau oa hao o o lekane ho mpepa;",
+        "Ha u na ho hlokofatsoa ke malakabe,",
+        "Ke tla hloekisa le gauda ea hao,",
+        "Ke tla hloekisa le gauda ea hao."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moea o its’etlehile ka Jesu,",
+        "Ha nkake ka u tlohella lireng tsa hao;",
+        "Ha nkake ka u tlohella lireng tsa hao;",
+        "Leha Satane a leka ho sisinya,",
+        "Che, ha nkake ka leka ho mo furalla",
+        "Ha ke na hona ho mo furalla."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "number": 241,
+  "language": "pt",
+  "title": "Cantarei de Jesus Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cantarei de Jesus Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cantarei de Jesus Cristo,",
+        "Que na cruz por mim morreu;",
+        "O desprezo suportando,",
+        "Salvação me concedeu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Cantarei que Jesus Cristo",
+        "Com amor me resgatou!",
+        "Ele sobre a cruz foi morto;",
+        "Meus pecados perdoou."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cantarei de Jesus Cristo,",
+        "Sua graça exaltarei;",
+        "Encontrou-me muito aflito,",
+        "E descanso nEle achei."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cantarei de Jesus Cristo,",
+        "E de como me encontrou,",
+        "E do mundo e do pecado",
+        "Com amor, me libertou."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cantarei no Céu, a Cristo,",
+        "Bendirei Seu grande amor;",
+        "Com fervor, eternamente,",
+        "Ao meu Rei darei louvor."
+      ],
+      "number": 6
+    }
+  ]
+}

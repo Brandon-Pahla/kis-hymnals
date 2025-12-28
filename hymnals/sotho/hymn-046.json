@@ -1,0 +1,41 @@
+{
+  "number": 46,
+  "language": "st",
+  "title": "46 Mpinele ’Ona Hape",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U mpinele ’ona Hape, mantsoe a bophelo,",
+        "Ke bone botle ba ’’ona, Mantsoe a bophelo,",
+        "Ke mantsoe a botle, A nthutang tumelo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke mantsoe a matle ruri, a makatsang ruri,",
+        "Ke mantsoe a matle ruri, a makatsang ruri."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu oa neha bohle, Mantsoe a bophelo,",
+        "Baetsalibe mamelang, Mantsoe a bophelo,",
+        "A fumanoa feela, A isa ho Jesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ua bolele ho bohle, Mantsoe a bophelo,",
+        "A tlisa khotso ho bohle, mantsoe a bophelo,",
+        "Jesu ke ’Moloki, Eena re hloekisang."
+      ],
+      "number": 3
+    }
+  ]
+}

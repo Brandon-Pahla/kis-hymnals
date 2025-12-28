@@ -1,0 +1,28 @@
+{
+  "number": 358,
+  "language": "guz",
+  "title": "358 Ari'As' Obweri",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ari'as'obweri borere mbwareo,Omwan'oyo Yeso nao araire,Ching'enang'eni chikamomoreka,Ase Yes'arareret' obonyansi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Chiombe chikwana chiatura Omwana,Ko Omwana Yeso tari korera;Nche ningwanchete Yeso ndigererie,Mbesie Yeso goika mambia bokie."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mbere ang'Omonene nasabire,Ombwate, Onyanche nagosabire;Osesenie abana orendete,Nario toragwener' agwo igoro."
+      ],
+      "number": 3
+    }
+  ]
+}

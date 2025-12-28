@@ -1,0 +1,47 @@
+{
+  "number": 186,
+  "language": "xh",
+  "title": "186 Nkosi Sihlangene",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi sihlangene",
+        "Kuyo indlu yaKho;",
+        "Yiza nawe, sesingene,",
+        "Ebusweni baKho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Intliziyo yethu",
+        "Iyakugulela;",
+        "Nawo umphefumlo wethu",
+        "Uyakukhangela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ubuncoko baKho,",
+        "Bawo, masibuve;",
+        "Lakutyhilwa izwi laKho,",
+        "Nawe masikuve."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mawusilungise",
+        "Thina bantu baKho;",
+        "Wakufika, singenise",
+        "Ezulwini laKho."
+      ],
+      "number": 4
+    }
+  ]
+}

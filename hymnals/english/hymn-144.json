@@ -1,0 +1,56 @@
+{
+  "number": 144,
+  "language": "en",
+  "title": "144 Higher Ground.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I’m pressing on the upward way,",
+        "New heights I’m gaining ev’ry day;",
+        "Still praying as I onward bound,",
+        "“Lord, plant my feet on higher ground.”"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lord, lift me up and let me stand,",
+        "By faith, on heaven’s table land,",
+        "A higher place than I have found;",
+        "Lord plant my feet on higher ground."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "My heart has no desire to stay,",
+        "Where doubts arise and fears dismay;",
+        "Though some may dwell where these abound,",
+        "My prayer, my aim is higher ground."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I want to live above the world, Tho’",
+        "Satan’s darts at me are hurled;",
+        "For faith has caught the joyful sound,",
+        "The song of saints on higher ground."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I want scale the utmost height,",
+        "And catch a gleam of glory bright;",
+        "But still I’ll pray till heav’n I’ve found,",
+        "“Lord, lead me on to higher ground."
+      ],
+      "number": 4
+    }
+  ]
+}

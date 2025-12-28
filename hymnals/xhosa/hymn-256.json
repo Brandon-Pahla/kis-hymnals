@@ -1,0 +1,47 @@
+{
+  "number": 256,
+  "language": "xh",
+  "title": "256 O, Yehova Mncedi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, Yehova, Mncedi wethu, Uhleli ukhona,",
+        "Nqaba yokusikhusela, Ulikhaya lethu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phambi kwetrone yeNkosi, Sonqaba khon’ apho;",
+        "Wohla’ ukho unguThixo, Kus’ ephakadeni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zingekadalwa iintaba, Nomhlaba ungekho;",
+        "Wahlal’ ukho unguThixo, Kus’ ephakadeni."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iminyaka ngeminyaka, Iyadlula njalo,",
+        "Phambi kwaKho, bawo wethu, Inje ngemin’ enye."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bawo, Mncedi wethu sonke, Nkosi yaphakade,",
+        "Sikhokele ebomini, Ulikhaya lethu."
+      ],
+      "number": 5
+    }
+  ]
+}

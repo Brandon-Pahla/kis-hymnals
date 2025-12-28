@@ -1,0 +1,57 @@
+{
+  "number": 231,
+  "language": "xh",
+  "title": "231 Vulela U-Yesu Intliziyo Yakho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Xa udinwe ngumthwalo wesono, Vul’ intliziyo kuYesu;",
+        "Uthand’ ukuqal’ ubom’ obutsha? Vulel’ uYesu angene."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "’Kuthandabuza kwaKho Kophela x’ unoYesu;",
+        "Ngoku vul’ intliziyo, Vulel’ uYesu angene."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ulangazelel’ ukuba nyulu? Vul’ intliziyo kuYesu;",
+        "Kukh’ umthombo wokuhlamb’ isono, Vulel’ uYesu angene."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unamadabi akoyisayo? Vul’ intliziyo kuYesu;",
+        "Akunakonwaba elizweni? Vulel’ uYesu angene."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa izihlobo sezikulahla, Vul’ intliziyo kuYesu;",
+        "Bona, sisiHlobo esikhulu, Vulel’ uYesu angene."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unga ungacula nabangcwele? Vul’ intliziyo kuYesu;",
+        "Ukuz’ ungene kwindlu zophumlo, Vulel’ uYesu angene.",
+        "KORAS:",
+        "’Kuthandabuz’ akukho, U-Yesu ndimamkele;",
+        "Ndivule intliziyo, U-Yesu makangene kum."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "number": 49,
+  "language": "tum",
+  "title": " 49 Ghanaghano Liweme",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 49 Ghanaghano Liweme",
+        "ONE SWEETLY SOLEMN THOUGHT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ghanaghano l'weme,",
+        "Likwiza mu mtima,",
+        "Ndiri kufupi na kwithu,",
+        "Kwakuruska kale."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndiri kufupi kukaya",
+        "Ndiri kufupi na kwithu",
+        "Kwakuruska kaLe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Kufupi na Dada uko kuli malo,",
+        "Ku chizumbe chake Yesu,",
+        "Kusirya la nyanja."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Pakuya kuchanya,",
+        "Ndamthura katundu,",
+        "Ndamleka mphinjika yane,",
+        "Na kuwara mphumphu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Mukati m'usiku,",
+        "Wukwenda muronga,",
+        "Kuporota m'chisi chose,",
+        "Kufika k'ungweru."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "Fumu nditozgani,",
+        "Ndipani nkhongono,",
+        "Ndingimiliranga ndekha,",
+        "Pakufuma m'charu."
+      ],
+      "number": 6
+    }
+  ]
+}

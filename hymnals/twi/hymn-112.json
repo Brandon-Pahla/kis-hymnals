@@ -1,0 +1,47 @@
+{
+  "number": 112,
+  "language": "tw",
+  "title": "Momma Yɛmfa 'Hosɛpɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Momma yemfa 'hosɛpɛ",
+        "Nyė 'W'rade ayɛ n'Oye.",
+        "Na N'adɔe bɛtra hɔ daa",
+        "Esi pi, 'yɛ nokwar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne tumi kɛse mu no,",
+        "ɔde hann hyɛ wiase ma.",
+        "Na N'adɔe bɛtra hɔ daa",
+        "Esi pi, 'yɛ nokware"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔyɛn 'teasefo nyinaa,",
+        "ɔma wɔn nea ehia wɔn.",
+        "Na N'adɔe bɛtra hɔ daa",
+        "Esi pi, 'yɛ nokware"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Enti yɛmfa 'hosɛpɛ",
+        "Nyė 'W'rade ayɛ n'Oye.",
+        "Na N'adɔe bɛtra hɔ daa",
+        "Esi pi, 'yɛ nokware"
+      ],
+      "number": 4
+    }
+  ]
+}

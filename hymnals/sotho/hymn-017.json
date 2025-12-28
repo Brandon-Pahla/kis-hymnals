@@ -1,0 +1,39 @@
+{
+  "number": 17,
+  "language": "st",
+  "title": "17 Re Thaba Leratong",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Re thabisoa ke rato, Tsela e bonolo;",
+        "Le re thusa le khopolong, Ho ba mosa bathong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke Molimo O tletseng lerato; Re ba Hae, re ts’oana le Eena,",
+        "Re thabisoa leratong; Tsela e bonolo",
+        "Le re Thusa le khopolong Ho ba mosa bathong."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fats’e le tletse lefu, Le eona ts’enyeho;",
+        "Re tla leka ka lerato, Ho sokolla ba bang."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bophelo ha bo se teng, Re bitsoa holimo;",
+        "Pina ea rona e tla ba, Ea ka hosafeleng"
+      ],
+      "number": 3
+    }
+  ]
+}

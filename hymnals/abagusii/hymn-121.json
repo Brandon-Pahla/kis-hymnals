@@ -1,0 +1,49 @@
+{
+  "number": 121,
+  "language": "guz",
+  "title": "121 'Mochakano Nyasae",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Mochakano Nyasae,'Gatonga EsabatoEri' akayesesenia,'Kayerwa as'abanto."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Twagokire, TwagokireTwagokire rituko,'Sabato ya Nyasae."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Ria gatano narimo,'Meremo ekaera'Sabato egachaka,Toigwere totimoke."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Bange bayeonchoire,'Timoka JumapiliRigi' Ebuku momanye,Teri kobatebia bo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'B'ekeene mbatebe,mwanyabant' onchooreteKorende as'ebuku,Goonchoka tikori oo."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Nkarigia na ekero,narora EsabatoNkayerera koigwera,hero yoka enchera."
+      ],
+      "number": 6
+    }
+  ]
+}

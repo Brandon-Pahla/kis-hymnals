@@ -1,0 +1,37 @@
+{
+  "number": 568,
+  "language": "tw",
+  "title": "'W'rade, Fa Me Dommum",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'W'rade, fa me dommum, Na manya 'hofadi;",
+        "Ma mennyae me nkrantɛ mu na Mayɛ nkonimdifo;",
+        "Memem ɔbra haw mu, B're a me nko gyina;",
+        "Yɛ me deduani Wo basam' Na me nsa ayɛ den."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me koma yɛ mmerɛw Kosi sɛ ebehu 'W'ra;",
+        "Enni nnyinaso pintinn  bi, Ehinhim b're nyinaa.",
+        "Entumi ntu 'nammɔn, Gye sɛ Woasane no;",
+        "Fa Wo dɔ no fa no dommum Na adi hen' nkwan' daa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me pɛ nyɛm' de kosi Sɛ ɛbɛyɛ Wo de;",
+        "Sɛ ebenya 'henni tebeā a Gye sɛ egyaw n'ahenkyɛw.",
+        "Ebegyina pintin, Wɔ ap're p're no mu,",
+        "B're a ɛbɛtwer' Wo kokom Nā anya ne nkwa Wo mu."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "number": 102,
+  "language": "tum",
+  "title": " 102 Pali Mlendo Pamryango",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 102 Pali Mlendo Pamryango",
+        "LET HIM IN"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Pali mlendo pam'ryango, umnjizge",
+        "(uminjzge nad, uminjzge nad),",
+        "Wakhalapo nkhanyengo, mjulire",
+        "(umnage nad, umngge nad),",
+        "Mujulire luwiro, Mutuwa wakuchanya,",
+        "Ndi mwana wa Chiuta umnjizge",
+        "(umnijzge nadi, um'njiage nadi)."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ujule mtima wako, umnjizge",
+        "(umnjizge nadi, umnjizge nad),",
+        "Ungaziwulikanga, umnjizge",
+        "(umnjizge nadi, umnijizge nadi),",
+        "lyo ndi m'bwezi wako, wati wakuponoske,",
+        "Watikupwererenge, umnjizge",
+        "(uminjzge nadi, umnjage nad)"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Pulika mazgu ghake, umnjizge",
+        "(umnjizge nadi, umnjizge nad),",
+        "Umusankhe mha'uno, uminjzge",
+        "(umnjizge nadi),",
+        "Wimilira pa mryango, ndi msanguruski wako,",
+        "Uti um'chindikenge, umnjizge",
+        "(umnijzge nadi, umnjizge nad)"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Mulendo wakuchanya, umnjizge",
+        "(um'njzge nadi, umnjizge nad),",
+        "Watikupenge vyose umnjizge",
+        "(umnjzge nadi, umnjizge nad),",
+        "Watikugowokere, ndipo paumaliro,",
+        "Wamluta nayo kwawo, umnjzge",
+        "(umnjizge nad, umnjizge nad)"
+      ],
+      "number": 5
+    }
+  ]
+}

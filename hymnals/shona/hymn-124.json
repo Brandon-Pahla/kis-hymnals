@@ -1,0 +1,47 @@
+{
+  "number": 124,
+  "language": "sn",
+  "title": "124 Kwete Ini Asi Kristu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kwete ini Asi kudzai Kristu;",
+        "Asi Kristu Azihwe akudzwe:",
+        "Kristu chete mubasa redu rese;",
+        "Kristu basi mukufunga kwese."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwete ini Anonyaradza,",
+        "NdiKri-stu A-nobvisa masodzi;",
+        "NdiKri-stu A-nosimudza mutoro;",
+        "Ndiye Kristu Anodzinga kutya;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kristu basi ha’tauri zwenhando;",
+        "Kristu basi Asina nyongano:",
+        "Kristu basi Asingazwi kudzi ba;",
+        "Kristu basi Ini ndisa onwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Handi-ni-ndi Kristu A ndipa zwese;",
+        "Handini ndi-Kristu \\‘andipa simba;",
+        "Kristu chete Asimbisa muwiri,",
+        "Kristu chete, Dakara narini."
+      ],
+      "number": 4
+    }
+  ]
+}

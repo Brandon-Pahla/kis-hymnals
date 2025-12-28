@@ -1,0 +1,47 @@
+{
+  "number": 268,
+  "language": "st",
+  "title": "268 Morena Bona Sefefo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Morena bona maqhubu, A ea tlola holimo,",
+        "Ho maru a mats’o-mats’o, Ha ho thuso haufi.",
+        "Na ha U bone rea shoa? Na U robaletse’ng?",
+        "Ke nako e thothometsang, Lebitla tlase-tlase."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lifefo maqhubu tsa khutsa, Ha khutsa!",
+        "Na ke leoatle leo le tlolang. Kapa bademona kapa le batho?",
+        "Ha se ka ke sa teba sekepe, Ha Jesu a le teng ho sona,",
+        "Le tla le utloa lentsoe la Hae. Khutsa hle,",
+        "Le tla le utloa lentsoe la Hae, Ha re: Khutsa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena ke mo tsietsing, Mahlomoleng kajeno,",
+        "Ke pherekanong ea pelo, Oho tsoha mpholose!",
+        "Libe li nkentse tsietsing, Ke thibane moea.",
+        "’Me kea shoa, kea shoa, Morena Akofa U laole."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena ts’abo e felile, Hohle e se le khotso;",
+        "Letsatsi le khanya leoatle, Holimo ho haufi.",
+        "U lule le ’na Khosi! Se ntese bonots’ing.",
+        "Le ka nyakallo ke tla fihla, Ke phomole Moreneng."
+      ],
+      "number": 3
+    }
+  ]
+}

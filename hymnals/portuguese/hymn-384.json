@@ -1,0 +1,56 @@
+{
+  "number": 384,
+  "language": "pt",
+  "title": "Jesus me Guia",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Jesus me Guia"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus me guia, que prazer!",
+        "Que paz me vem ao coração!",
+        "Em todo transe em que estiver",
+        "Me guia sempre a Sua mão."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Jesus me guia, que prazer!",
+        "É Sua mão que me conduz.",
+        "Em cada passo me é mister",
+        "Que me dirija meu Jesus."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Às vezes, quando em aflição,",
+        "Em meio de perigo e dor,",
+        "Por água mansa ou bravo mar",
+        "Me guia a mão do meu Senhor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ajuda-me a não murmurar",
+        "Qualquer que seja a condição;",
+        "markdowne vou, pois guiarás",
+        "Com Tua mui bondosa mão."
+      ],
+      "number": 5
+    }
+  ]
+}

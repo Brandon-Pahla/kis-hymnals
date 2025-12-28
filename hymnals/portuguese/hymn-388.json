@@ -1,0 +1,44 @@
+{
+  "number": 388,
+  "language": "pt",
+  "title": "Vem, Alma Cansada",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Vem, Alma Cansada"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem, alma cansada, tão cheia de dor;",
+        "Vem, traze teus fardos aos pés do Senhor.",
+        "A Cristo confia teu grande pesar,",
+        "Pois nEle descanso tu podes achar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mágoas e tristezas, vem, traze ao Senhor;",
+        "Não, oh, não receies vir tudo Lhe expor.",
+        "Do mal que te oprime, te pode curar.",
+        "Tem Ele o desejo de te confortar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se tu já provaste tal consolação,",
+        "Vai, leva aos contritos luz, paz e perdão;",
+        "As almas aflitas, em lutas e dor,",
+        "Vai, traze-as depressa aos pés do Senhor."
+      ],
+      "number": 4
+    }
+  ]
+}

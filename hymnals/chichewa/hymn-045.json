@@ -1,0 +1,31 @@
+{
+  "number": 45,
+  "language": "ny",
+  "title": "45 - Patseni Bible",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "GIVE ME THE BIBLE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Patseni Bible ndilo ndikufuna, Ndi chotitsogolera njirayo;",
+        "Monga mapiri oonetsa kwathu, Obweza anthu osocherawo.",
+        "CHORUS:",
+        "Patseni Bible ndilo mau ake, Mau oyera a Mulunguyo,",
+        "Ndilo pangano la chikondi chake, ndi nyali mnjira yonka m’mwambamo.",
+        "2. Patseni Bible ndilo ndikufuna, Mmene usweka mtima wangawo;",
+        "Patseni mau a Ambuye Yesu, Mau okondweretsa mmtimanga.",
+        "3. Patseni Bible ndilo ndikufuna, Nyali ya kusonyeza njirayo,",
+        "Mmene ndingagwe lindipulumutsa, Lindisonyeza tchimo langalo.",
+        "4. Patseni Bible ndilo ndikufuna, Liunikira a mu mdimawo,",
+        "Ndilo chiyembekezo kwa olira, Ndi nyali m’njira yonka m’mwambamo."
+      ],
+      "number": 2
+    }
+  ]
+}

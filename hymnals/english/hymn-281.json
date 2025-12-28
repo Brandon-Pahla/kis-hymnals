@@ -1,0 +1,46 @@
+{
+  "number": 281,
+  "language": "en",
+  "title": "281 A Beautiful Star.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A beautiful star arose one night,",
+        "Divinely it shone with purest light;",
+        "Its wonderful rays the wise men led,",
+        "To find the Saviour’s lowly bed."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "‘Tis shining still, ‘tis shining still,",
+        "That beautiful star, o’er plain and hill;",
+        "‘Tis shining still, ‘tis shining still,",
+        "Salvation’s star of God’s good will."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "They knew by the word of truth divine,",
+        "‘Twas time that the guiding star should shine;",
+        "They followed its light which shone afar,",
+        "‘Twas Christ, “the bright and morning star.”"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "We’ll follow its light, like those of old,",
+        "The “Light of the World,” by seers foretold;",
+        "We’ll follow his light till we shall come,",
+        "To perfect rest in heaven, my home."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 190,
+  "language": "tw",
+  "title": "Yesu Dɔ Me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Minim sɛ Yesu dɔ me,",
+        "Ky'rɛw Kronkron n'ɛky'rɛ me saa;",
+        "Mmotafowa yɛ Ne de,",
+        "Wɔyɛ mm'rɛw n'ɔno yɛ den."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yiw, Yesu dɔ me,",
+        "Yiw, Yesu dɔ me,",
+        "Yiw, Yesu dɔ me;",
+        "Ky'rɛw Kronkron ky'rɛ me saa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu dɔ me! Nea Owu'I",
+        "Ma ɔsoro pon no buei;",
+        "ɔbɛhoh'ro me bɔne,",
+        "De N'abofra ahyɛn mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu fa me koma yi,",
+        "Ma ɛnyɛ Wo de koraa;",
+        "Wuwuu 'sɛnnua so maa me,",
+        "Mɛdɔ Wo asom Wo daa."
+      ],
+      "number": 3
+    }
+  ]
+}

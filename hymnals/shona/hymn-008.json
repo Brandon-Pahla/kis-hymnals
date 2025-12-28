@@ -1,0 +1,45 @@
+{
+  "number": 8,
+  "language": "sn",
+  "title": "8 Mazita Anodaidzwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti Tenzi anoridza tsuri yekuguma ’Iyo,",
+        "Apo nguva yepasi yapera’wo;",
+        "Kuti vakanaka vese vanounganidzwa’po",
+        "Mazita anodaidzwa, ndiripo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mazita anodaidzwa (3 times)",
+        "Anodaidzwa kudenga, ndiripo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pamusi’wo vanomuka vakafa kuna Kristu,",
+        "Vanoona mbiri huru yake’yo",
+        "Apo vasarudzwi vanosangana kumusha’ko,",
+        "Mazita anodaidzwa ndiripo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngatibate basa rake kuti rinozopera;",
+        "Ngatishumaire rudo rwaMwari",
+        "Ndizvo Jesu anouya kutora vanhu vake,",
+        "Mazita anodaidzwa ndiripo"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "number": 41,
+  "language": "nd",
+  "title": "41 Inkosi Ibe Nawe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Inkosi ize ibe nawe; I ku qondis’ amasango",
+        "I ku biyele ngothando, Size si phinde si bonane"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Size si ... hlangane, Phambili ku ka Jesu",
+        "Size si ... hlangane,",
+        "Si phinde si hlangane futhi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inkosi ize ibe nawe, I ku londoloze kahle",
+        "I kondle njalo ngokudla, Size si phinde si bonane"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inkosi ize ibe nawe; Nxa u s’ekuhluphekeni",
+        "I ku gon’ ezingalweni, Size si phinde si bonane"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inkosi ize ibe nawe; I ku donsel’ othandweni",
+        "I ku sindis’ ekufeni, Size si phinde si bonane"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 79,
+  "language": "tum",
+  "title": " 79 Masika Ghacha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 79 Masika Ghacha",
+        "FAR AND NEAR THE FIELDS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Masika ghacha wukani,",
+        "vinthu vyose vyatowa,",
+        "Pafupi na kutariso,",
+        "m'charu chose chapasi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Fumu mjisankhire winu,",
+        "waLime mLimo uwu,",
+        "Muwatume wakavune nyengo",
+        "yichaLi waka."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Watumeni ku mulenji,",
+        "na nyengo ya muhanya,",
+        "Nanga dazi linganjira",
+        "wachite mlimo winu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "imwe mwazomera mlimo,",
+        "chitani na kusangwa,",
+        "Pakumara mlimo winu,",
+        "kwamukuwa chimwemwe."
+      ],
+      "number": 4
+    }
+  ]
+}

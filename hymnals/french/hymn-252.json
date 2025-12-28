@@ -1,0 +1,40 @@
+{
+  "number": 252,
+  "language": "fr",
+  "title": "Que la paix de Dieu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Que la paix de Dieu reste dans vos coeurs,",
+        "Que la paix de Dieu reste dans vos coeurs!",
+        "Que sa force vous anime",
+        "Dans la joie ou dans les pleurs !",
+        "Que la paix de Dieu reste dans vos coeurs!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que l’amour de Dieu reste dans vos coeurs,",
+        "Que l’amour de Dieu reste dans vos coeurs!",
+        "Que sa force vous anime",
+        "Dans la joie ou dans les pleurs !",
+        "Que l’amour de Dieu reste dans vos coeurs!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que le Saint-Esprit reste dans vos coeurs,",
+        "Que le Saint-Esprit reste dans vos coeurs!",
+        "Que sa force vous anime",
+        "Dans la joie ou dans les pleurs !",
+        "Que le Saint-Esprit reste dans vos coeurs!"
+      ],
+      "number": 3
+    }
+  ]
+}

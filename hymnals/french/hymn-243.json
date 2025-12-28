@@ -1,0 +1,48 @@
+{
+  "number": 243,
+  "language": "fr",
+  "title": "Sous ton regard",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sous ton regard, ô notre Père",
+        "Tu vois ton peuple rassemblé;",
+        "Reçois nos chants et nos prières;",
+        "Car ton amour nous a comblés."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fais-nous sentir par ta présence",
+        "Que nous avons besoin de toi;",
+        "Les bruits du monde font silence;",
+        "Pour que tu parles Roi des rois."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De ton Esprit remplis mon âme",
+        "Pour mieux te suivre tous les jours.",
+        "Ravive en nous comme une flamme.",
+        "Le zèle du premier amour."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fais-nous sortir de nos ornières",
+        "Pour labourer de nouveaux champs",
+        "Et montre-nous dans la prière,",
+        "Où les besoins sont les plus grands.",
+        "Amen."
+      ],
+      "number": 4
+    }
+  ]
+}

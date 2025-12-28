@@ -1,0 +1,44 @@
+{
+  "number": 105,
+  "language": "xh",
+  "title": "105 Unako Ukukhulula",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kude nakufuphi niya khuluwa;",
+        "Nonke enivayo niya khululwa;",
+        "Emlilweni nase ntshabalalweni,",
+        "Womkhulul’ u-Yesu wonke ozayo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Unokukhulula, ukwa sindisa",
+        "Xa, umzalwana wam, enokukholwa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kunokwenzeka-na? Ningakhululwa?",
+        "Likho na igunya? Ndinga khululwa?",
+        "Ndixelel’ inene, U-Krist’ owa lingwa,",
+        "Anga ndikhulula ku-Sathana lo?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wena woyikayo, Uya khululwa!",
+        "Uyamkhonz’ u-Yesu? Wokusindisa.",
+        "Ungoyik’ u-Sathan,’ yiya ku-Yesu,",
+        "Pheza ukoyika, khalipha, ume."
+      ],
+      "number": 3
+    }
+  ]
+}

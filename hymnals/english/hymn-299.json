@@ -1,0 +1,56 @@
+{
+  "number": 299,
+  "language": "en",
+  "title": "299 Always Cheerful",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Let our hearts be always cheerful;",
+        "Why should murmuring enter there,",
+        "When our kind and loving Father,",
+        "Makes us children of His care."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Always cheerful, always cheerful,",
+        "Sunshine all around we see;",
+        "Full of beauty is the path of duty,",
+        "Cheerful we may always be."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "With His gentle hand to lead us,",
+        "Should the pow’rs of sin assail,",
+        "He has promised grace to help us;",
+        "Never can His promise fail."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "When we turn aside from duty,",
+        "Comes the pain of doing wrong;",
+        "And a shadow, creeping o’er us,",
+        "Checks the rapture of our song."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! The good are always happy,",
+        "And their path is ever bright;",
+        "Let us heed the blessed counsel,",
+        "Shun the wrong and love the right."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 614,
+  "language": "tw",
+  "title": "Monhyɛn Akobɛn! Hwɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Monhyɛn akobɛn! hwɛ, 'tamfon' abɛn,",
+        "Momma frankaa so mma 'W'rade;",
+        "Monhyɛ akode, munnyina pintinn;",
+        "Momfa mo kwan no mfa N'asɛm so."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Munyan, nsraafo! muntwa franka n'ho nhyia,",
+        "Nsiesie mo ho, mfa asɛm no nkɔ;",
+        "Monkɔ anim, monteɛm sɛ, hosana!",
+        "Kristo ne Sahen' wɔ dɔm yi so."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛkɔ 'hoɔden mu, yehyia 'tamfo no,",
+        "Yenim sɛ yɛn dɔm bedi nim;",
+        "'Kokyɛm ne frankaa hyerɛn hann no mu,",
+        "Yɛko ko pa yi, yɛrenni ntwo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn Agya Nyame, yɛfrɛ Wo a, tie;",
+        "Boa yɛn nyinaa 'ra, Wo dom nti",
+        "Sɛ yewie ko no, di mu nkonim a,",
+        "Hyɛ yɛn nkonim kyɛw wɔ W'anim hɔ."
+      ],
+      "number": 3
+    }
+  ]
+}

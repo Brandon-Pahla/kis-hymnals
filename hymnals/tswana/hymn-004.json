@@ -1,0 +1,56 @@
+{
+  "number": 4,
+  "language": "tn",
+  "title": "4 Monate Mafoko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Monate Mafoko A Tlelang Moeng,",
+        "Fa a le kgakala le legae,",
+        "Kgantele M-moloki o tla bonala,",
+        "Le bogosi bo tla tla"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O e tla, o e tla ke a itse,",
+        "O tla fatshing jeno gape,",
+        "Me ba’ lapileng ba tla ya kgalalelong",
+        "Fa Mmoloki a tla."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Diphupu Tsa Baeti Ba Bogologolo,",
+        "Di tla bulwa jaaka pele,",
+        "Bontsi jo bo robetseng lewatleng,",
+        "Bo tla tshela fatshing jeno."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Tla Kopana Legaeng Ja Edene,",
+        "R’opela pako ya poloko",
+        "Go tswa botsheka borwa, botlhe ba tla tla,",
+        "Ba obamela kgosi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Haleluja Amen, Haleluja Gape,",
+        "Kgantele re tla nna gone,",
+        "Letang tsholofelong, lo itumeleng,",
+        "Mme re tla rwala serwalo."
+      ],
+      "number": 4
+    }
+  ]
+}

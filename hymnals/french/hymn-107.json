@@ -1,0 +1,59 @@
+{
+  "number": 107,
+  "language": "fr",
+  "title": "Tenons nos lampes prêtes",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tenons nos lampes prêtes,",
+        "Chrétiens, préparons-nous",
+        "Pour l'heure où les trompettes",
+        "Annonceront l'Époux."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Qu'à répondre on s'empresse,",
+        "Hosanna! Hosanna!",
+        "Et qu'avec allégresse,",
+        "On chante : Alléluia!",
+        "On chante : Alléluia!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Voici déjà les anges!",
+        "Avec eux, les élus",
+        "Unissent leurs louanges",
+        "En l'honneur de Jésus."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Voici Jésus lui-même,",
+        "Puissant, victorieux!",
+        "De son pur diadème",
+        "L'éclat remplit les cieux."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Venez, bénis du Père,",
+        "Qui m'avez atttendu;",
+        "Entrez dans la lumière,",
+        "Le ciel vous est rendu."
+      ],
+      "number": 5
+    }
+  ]
+}

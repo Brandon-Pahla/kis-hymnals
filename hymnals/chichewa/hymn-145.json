@@ -1,0 +1,53 @@
+{
+  "number": 145,
+  "language": "ny",
+  "title": "145 - M’sakane Ntchito Ya Mulungu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ASK NOT TO BE EXCUSED"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Msakane ntchito ya Mulungu wanuyo,",
+        "Mupite komweko Afuna iyeyo.",
+        "Anaitana ’nu, Amaitanabe,",
+        "Mudzakondweradi Pogwira ntchitoyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Bwerani, Msakane ntchitoyo,",
+        "Bwerani, Kwa Mlungu wanuyo.",
+        "Msakane ntchito ya Mulungu wanuyo,",
+        "Mupite komweko Afuna Iyeyo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Msakane ntchitoyo, Imvani leroli;",
+        "Mwakana kalelo, Musakanenso bi!",
+        "Zotuta nzambiri, Achepa ’ntchitowo,",
+        "Mukondekondetu Kukopa anthuwo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Msakane ntchitoyo, Msachedwechedwenso;",
+        "Pakukanidwabe Chikondi chichoka",
+        "Pamene Mzimuyo Aloza njirayo,",
+        "Popempha Yesuyo, Idzani leroli."
+      ],
+      "number": 4
+    }
+  ]
+}

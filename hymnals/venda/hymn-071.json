@@ -1,0 +1,52 @@
+{
+  "number": 71,
+  "language": "ve",
+  "title": "71 lo nwalwa Naa Dzina langa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:281"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Murena zwa shangoni, a si tshithu kha nne,",
+        "Ndi lilela u dzhena henengei tadulu,",
+        "Ndi vhe hone-vho buguni yau tadulu,",
+        "Mmbudze Yesu, dzina langa lo nwalwa naa?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lone lo nwalwa naa? lone dzina langa",
+        "Li nga vha lo nwalwa naa, lone lo dzina langa?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Murena ndi na zwivhi zwinzhisa vhukuma,",
+        "Fhedzi malofha a Ngwana o fanela nne,",
+        "Na ilo fulufhedziso lo nwaliwaho,",
+        "’Ndi do ni tanzwa zwivhi zwa nga sa Mahada’."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mudi ri yaho khawo nndu ndi dza vhudi,",
+        "Hu dzula vhakhethwa vha re na nguvho tshena,",
+        "A hu nga dzheni zwothe zwithu zwire na tshikha,",
+        "Vharunwa vha a linda, langa lo nwalwa naa?"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "number": 185,
+  "language": "guz",
+  "title": "185 Nche Ninkoganetie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nche ninkoganetie, 'Kero gionsiRiogi rinde ndiri, Ri'omorembe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yeso nakorigirie, Nkorigetie riokaNsesenie Omotoria, Nagocheire."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nche ninkoganetie, Omber' ange''Matemwa tambua, Ker' or' ange'."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nche Ninkoganetie, 'S' obororoNchwo bwang' obe nainche,'Rio tinsara."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nche ninkoganetie, Onyorokie,Ne chiira chiao, Kor' ase nde."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Nche ninkorigetie, OmochenuOnkore mb'oyoo, Yes' omuya."
+      ],
+      "number": 6
+    }
+  ]
+}

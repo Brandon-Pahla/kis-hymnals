@@ -1,0 +1,86 @@
+{
+  "number": 204,
+  "language": "en",
+  "title": "204 Welcome! Wonderer, Come!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "In the land of strangers,",
+        "Whither thou art gone,",
+        "Hear a far voice calling,",
+        "“My son! My son!”"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "‘Welcome! Wand’rer, welcome!",
+        "Welcome back to home!",
+        "Thou hast wandered far away;",
+        "Come home! Come home!’"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "“From the land of hunger,",
+        "Fainting, famished, lone,",
+        "Come to love and gladness,",
+        "My son, my son!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "“Leave the haunts of riot,",
+        "Wasted, woe-be-gone,",
+        "Sick at heart and weary,",
+        "My son! My son!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "“See the door still open!",
+        "Thou art still my own;",
+        "Eyes of love are on thee,",
+        "My son! My son!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "“Far off thou hast wandered;",
+        "Wilt thou farther roam?",
+        "Come and all is pardoned,",
+        "My son! My son!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "“See the well-spread table,",
+        "Unforgotten one!",
+        "Here is rest and plenty,",
+        "My son! My son!"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "“Thou art friendless, homeless,",
+        "Hopeless, and undone;",
+        "Mine is love unchanging,",
+        "My son! My son!"
+      ],
+      "number": 7
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "number": 179,
+  "language": "en",
+  "title": "179 Behold The Bridegroom.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Are you ready for the Bridegroom,",
+        "When he comes, when he comes?",
+        "Are you ready for the Bridegroom,",
+        "When he comes, when he comes?",
+        "Behold, he cometh! Behold, he cometh!",
+        "Be robed and ready; for the Bridegroom comes."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Behold the Bridegroom;",
+        "for he comes, for he comes!",
+        "Behold the Bridegroom;",
+        "for he comes, for he comes.",
+        "Behold he cometh! Behold he cometh!",
+        "Be robed and ready",
+        "for the Bridegroom comes."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Have your lamps trimm’d and burning,",
+        "When he comes, when he comes;",
+        "Have your lamps trimm’d and burning,",
+        "When he comes, when he comes;",
+        "He quickly cometh! He quickly cometh!",
+        "O soul, be ready when the Bridegroom comes."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "We will all go out to meet him,",
+        "When he comes, when he comes;",
+        "We will all go out to meet him,",
+        "When he comes, when he comes;",
+        "He surely cometh! He surely cometh!",
+        "We’ll go out to meet him when the Bridegroom comes."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "We will chant alleluias,",
+        "When he comes, when he comes;",
+        "We will chant alleluias,",
+        "When he comes, when he comes;",
+        "Lo! Now he cometh! Lo! Now he cometh!",
+        "Sing alleluia for the Bridegroom"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": 136,
+  "language": "ts",
+  "title": "136. NDZI LETELE HOSI YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHERE HE LEAD ME I WILL GO",
+        "1. Ndzi Letele Hosi Yesu,",
+        "Hi Wena Ntshembo Wa Mina; Hikokwalaho Ka Mina, U Vambiwile Khalvhari.",
+        "CHORUS",
+        "Hambi Vusiku, Nhlekani, Yesu U Ta Ndzi Letela; Nakulorhi Wa Ntiyiso,",
+        "Ndzi Tsundzuka Ekhalvhari.",
+        "2. Ndza Swi Rhandza Swiletelo, Na Vurhangeri Bya Wena,",
+        "Nhlawuleko Wa Rirhandzu, Ri Tengisiwe Khalvhari.",
+        "3. Ndzi Ya Mahlweni Hi Xivindzi, Ndzi Tsakile Eka Yesu;",
+        "Siku Rin’wana Nta N’wi Vona, Yesu Nakulorhi Wanga."
+      ],
+      "number": 1
+    }
+  ]
+}

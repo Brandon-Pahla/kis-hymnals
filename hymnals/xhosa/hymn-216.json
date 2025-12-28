@@ -1,0 +1,45 @@
+{
+  "number": 216,
+  "language": "xh",
+  "title": "216 Andindedwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndedwa? Andindedwa, X’ uYes’ emi ngakum;",
+        "Ndihlala ndonwabile Kuba ekufuphi.",
+        "Akukho sizungu U-Yes’ usis’ hlobo,",
+        "Yena akaguquki, Kuse ekuphelen’."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hay’ andindedwa, Hay’ andindedwa,",
+        "(Hay’, hay’, Andindedwa, Hay’, hay’, Andindedwa)",
+        "Wathi ngekhe andishiye, Ngekhe andishiye ndedwa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dinwa? Andidinwa, Ndayame kuYesu;",
+        "Uphumlo lwaphakade Luyandivuyisa,",
+        "Ekutyhafeni undinika amandla;",
+        "Ndibambelela kuYe Andigcine yena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Linda? Ndilindile, Uthi mandilinde;",
+        "Ndide ndithi, \"I-Nkosi ilibele phina?\"",
+        "Mnandi? Ewe, mnandi ndizele luvuyo,",
+        "Isiseko sexabiso uvuyo lweNkosi"
+      ],
+      "number": 3
+    }
+  ]
+}

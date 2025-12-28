@@ -1,0 +1,32 @@
+{
+  "number": 287,
+  "language": "ny",
+  "title": "287 - M’Mayesoro Anga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "IN THE HOUR OF TRIAL"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. M’mayesero anga, Tate mndisunge;",
+        "Ndisakukaneni, Kukusiyani,",
+        "Pondenguma ine, Kumbukireni,",
+        "Nsalekene nanu, Musanditaye.",
+        "2. Za dziko nzacabe, Ndisatengeke",
+        "Cuma ca poyera, Cisandikope",
+        "Kusunga kwani sisi, Ndikubvomera",
+        "Ndikana zoipa zolakalaka.",
+        "3. Matsoka si anu, Zolabadira;",
+        "Zowawa zikadza Kusokonzeza;",
+        "Zikumphanitu Ndisacimwe bi;",
+        "Nkhawa zanga zonse, Ndikupatsani."
+      ],
+      "number": 2
+    }
+  ]
+}

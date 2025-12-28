@@ -1,0 +1,47 @@
+{
+  "number": 208,
+  "language": "nd",
+  "title": "208 Nyathela Ngokhuthamba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Thulani, thulani ku yanyenyezwa.",
+        "Thulani, yizwani Nazise izwi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyathel’ u nyonyoba, INkos’ i lapha,",
+        "Nyathel’ u nyonyoba, I khona lapha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thulani, thulani, Lendaw’ ingcwele,",
+        "Lomusa ilizwi, Se li thunyiwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thulani, thulani Si sh’ umthandazo,",
+        "Si zwa ngeEdeni, Ngawo lomzuzu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thulani, thulani Mukhulu musa,",
+        "Thulani, thulani Si lind’ iNkosi"
+      ],
+      "number": 5
+    }
+  ]
+}

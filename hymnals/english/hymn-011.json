@@ -1,0 +1,66 @@
+{
+  "number": 11,
+  "language": "en",
+  "title": "11 I Will Follow Thee",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I will follow thee, my Saviour,",
+        "Wheresoe’er my lot may be;",
+        "Where thou goest I will fallow;",
+        "Yes, my Lord, I’ll follow thee."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "I will follow thee, my Saviour,",
+        "Thou didst shed thy blood for me;",
+        "And tho’ all men should forsake thee,",
+        "By thy grace I’ll follow thee;"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tho’ the road be rough and thorny,",
+        "Trackless as the foaming sea;",
+        "Thou hast trod this way before me,",
+        "And I’ll gladly follow thee."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tho’ I meet with tribulations,",
+        "Sorely tempted tho’ I be;",
+        "I remember thou wast tempted,",
+        "And rejoice to follow thee."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Though thou lead’st me thro’ affliction,",
+        "Poor, forsaken, though I be;",
+        "Thou wast destitute afflicted,",
+        "And I only follow thee."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Though to Jordan’s rolling billows;",
+        "Cold and deep, thou leadest me;",
+        "Thou hast crossed the waves before me,",
+        "And I still will follow thee."
+      ],
+      "number": 5
+    }
+  ]
+}

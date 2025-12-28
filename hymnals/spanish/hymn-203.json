@@ -1,0 +1,45 @@
+{
+  "number": 203,
+  "language": "es",
+  "title": "Santo Espíritu llena mi vida",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Santo Espíritu llena mi vida"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo Espíritu llena mi vida,",
+        "pues por Cristo yo quiero brillar.",
+        "Santo Espíritu llena mi vida,",
+        "úsame las almas a salvar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Alabanzas, alabanzas,",
+        "alabanzas doy a Cristo el Rey.",
+        "Alabanzas, alabanzas,",
+        "alabanzas doy al Rey."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quiero dar tu mensaje a otros",
+        "hasta que Cristo vuelva otra vez.",
+        "Quiero dar tu mensaje a otros,",
+        "úsame las almas a salvar."
+      ],
+      "number": 4
+    }
+  ]
+}

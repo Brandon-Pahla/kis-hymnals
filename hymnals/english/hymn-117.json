@@ -1,0 +1,55 @@
+{
+  "number": 117,
+  "language": "en",
+  "title": "117 I Am Coming, Lord.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I hear thy welcome voice,",
+        "That calls me, Lord, to thee;",
+        "For cleansing in thy precious blood,",
+        "That flowed on Calvary."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "I am coming, Lord, Coming now to thee!",
+        "Wash me, cleanse me, in the blood,",
+        "That flowed on Calvary."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Though coming weak and vile,",
+        "Thou dost my strength assure;",
+        "Thou dost my vileness fully cleanse,",
+        "Till spot-less all, and pure."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Tis Jesus calls me on,",
+        "To perfect faith and love;",
+        "To perfect hope, and peace, and trust,",
+        "For earth and heav’n above."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "All hail, atoning blood!",
+        "All hail, redeeming grace!",
+        "All hail! The gift of Christ, our Lord,",
+        "Our Strength and Righteousness."
+      ],
+      "number": 4
+    }
+  ]
+}

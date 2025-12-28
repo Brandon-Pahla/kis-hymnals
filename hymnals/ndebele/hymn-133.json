@@ -1,0 +1,34 @@
+{
+  "number": 133,
+  "language": "nd",
+  "title": "133 Ukuhamba noNkulunkulu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O! vuma ngi hambe, Nkosi: NjengoEnok’ wayehamba;",
+        "Ngi thathe ngesandla sAkho U khulume mnandi nami;",
+        "Noma ngi ngabon’ indlela Kodwa ngi zohamba naWe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anginako ukuhamba, Kudum’ izulu, nes’phepho.",
+        "Uhlupho lu yangithiya, Izitha zi yangilinga;",
+        "Kuzo lezi ‘zinhlupheko: ‘Nkosi, vuma ng’hambe naWe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa u thath’ isandla sami, Ngi zohamba ngokwethaba.",
+        "Ngesibindi endleleni, Ngi zothwal’ isisphambano;",
+        "Ngize ngi bon’ amasango; O! ‘Nkosi, mang’ hambe naWe."
+      ],
+      "number": 3
+    }
+  ]
+}

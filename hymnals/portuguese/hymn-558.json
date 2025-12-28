@@ -1,0 +1,56 @@
+{
+  "number": 558,
+  "language": "pt",
+  "title": "Meu Doce Lar",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Meu Doce Lar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pela estrada um dia ouvi",
+        "Voz melodiosa e mui gentil:",
+        "\"No Céu Eu estou a te preparar",
+        "Um belo, belíssimo lar.\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Doce lar, doce lar,",
+        "Onde eu irei morar;",
+        "Eu vejo ao longe a cidade de Luz,",
+        "Meu doce lar!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lá hei de achar queridos meus",
+        "Dando louvores a Jesus;",
+        "Também vou louvá-lo nos altos Céus,",
+        "No belo, belíssimo lar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ao lar eterno em breve irei,",
+        "Junto ao Senhor eu morarei.",
+        "Além, bela praia a convidar",
+        "Ao belo, belíssimo lar!"
+      ],
+      "number": 5
+    }
+  ]
+}

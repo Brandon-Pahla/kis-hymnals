@@ -1,0 +1,46 @@
+{
+  "number": 144,
+  "language": "xh",
+  "title": "144 Kumhlaba Ophakamileyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Indlela yam iyenyuka, Yonk’ imihla iyenyuka;",
+        "Ndithandaza onk’ amaxa, \"Nkosi mandityalwe nguWe.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndiphakamise ndime, Nkos’, Ngokholo ndibe phezulu,--",
+        "Kunoko ndakha ndanjalo; Nkosi ndityale phezulu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Andithandi kuhlal’ apho Kukho amathandabuzo;",
+        "Noxa bambi bangahlala, Ndise kumhlab’ ophezulu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mandiphile ndikhuselwe Kwezo ntolo zika-Sathan;",
+        "Kub’ ukholo lwenz’ intsholo, Kwingoma yabo bangcwele."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinqwenela ukuntinga ’Ze ndibone olozuko;",
+        "Ndithandazela izulu, \"Ndiphakamise Nkosi yam.\""
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "number": 114,
+  "language": "bem",
+  "title": "114 - ICIPATA NA CISULWA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE GATE OPEN FOR ME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Icipata nacisulwa, Mukati mulebeka;",
+        "Kubeka kwa pa lupanda, Kutemwa kwamoneka.",
+        "CHORUS:",
+        "Yangu luse lukalamba, Cipata canjiswililwe;",
+        "Ukwi-swilwa ine.",
+        "2. Naciswililwa fye bonse bafwayo kupusuka,",
+        "Bapina na bakankala, Mishobo ne mitundu.",
+        "3. Kabiyeni fye ku ntanshi, Cipata na cisulwa;",
+        "Pokeleleni 'lupanda, Mukapelwe citebo.",
+        "4. Kwishilya i-lya mumana, Tukatula ‘lupanda:",
+        "No kupelwa icitebo, No ku mutemwa kulya."
+      ],
+      "number": 2
+    }
+  ]
+}

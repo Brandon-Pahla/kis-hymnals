@@ -1,0 +1,34 @@
+{
+  "number": 223,
+  "language": "ny",
+  "title": "223 - Niddzatsata Konseko ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "FOLLOW ALL THE WAY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Ndimva Mpulumutsi wanga, Mwa cifuno andi’tana",
+        "Ndimva mau ace ati, \"Unditsate  tsate konseko",
+        "CHORUS:",
+        "Ndidzasenza mtanda wanga,",
+        "Kutsatira Mpulumutsi;",
+        "Komwe anditsogolera,",
+        "Ndinke naye, naye, konseko.",
+        "2. Njira ide mdilma bwanji, Mapazi atope bwanji;",
+        "Mtimawu ’dzalimbikira, Pakumtsata tsata konseko.",
+        "3. Yesu atsogolerabe, Wondiunikira m’Mwamba,",
+        "Kafoka andilimbitsa, Pakumtsata-tsata konseko.",
+        "4. Mobvuta antsogolera, Ndidya mana a kumwamba;",
+        "Ambuye ndkusowani, Pakumtsata-tsata konseko.",
+        "5. Mwandilera ndi cikondi, Mundifungate dzolimba,",
+        "M’cisomo canu mndisunge, Pakumtsata-tsata konseko."
+      ]
+    }
+  ]
+}

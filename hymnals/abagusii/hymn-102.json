@@ -1,0 +1,35 @@
+{
+  "number": 102,
+  "language": "guz",
+  "title": "102 Rend' Engaki Nenke",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Rend' engaki nenke, Ndero ibaga rire,Rend'ense tebua, Morende mosabeRenda ntw' abareu. mobisa mokong'u,Renda tari are, 'Monene bw'enyangi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Renda, Saba, Renda, Saba,Rend' osabe obotuko na omobaso,Renda mosabe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Oserie chitoro, Nechitang'utang'u,Eira Neyao, 'Mogoko botambe;'Monen' akarenda, As'engencho yao,Akagoiterera Amanyinga Aye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Aye mwanche Yeso nenchinguru chiao,'Mobisa ng'ang\" are, 'boyi' ebirwanero,Bono ribaga ndire, Tirieta bosa,Renda na gosaba, 'Bakristo renda."
+      ],
+      "number": 4
+    }
+  ]
+}

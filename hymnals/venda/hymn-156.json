@@ -1,0 +1,48 @@
+{
+  "number": 156,
+  "language": "ve",
+  "title": "156. Maipfi A Tsinyuwo Ni Si A Bule",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Maipfi a tsinyuwo ho ngo fanela u bulwa,",
+        "Mbilu kha i thivhele a sa vhaise vhanwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "’Mulayo wawe ndi wa lufuno,",
+        "Vhana ipfani ipfi la khotsi.’",
+        "’Mulayo wawe ndi wa lufuno,",
+        "Vhana ’pfani ipfi lawe.’"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Lufuno lu na vhutshena vhushaka ndi vhukhethwa,",
+        "Fhedzi zwi nga di tshinyiwa nga lone ipfi livhi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. U khakha hu di itiwa nga muhumbulo muvhi,",
+        "Vhushaka vhu fhedzwa nga ipfi lithihi la mbiti."
+      ],
+      "number": 4
+    }
+  ]
+}

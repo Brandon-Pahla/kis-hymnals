@@ -1,0 +1,43 @@
+{
+  "number": 58,
+  "language": "st",
+  "title": "58 Faphang Morena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Rorisang matla ’Jesu, Mageloi a iname;",
+        "Tlisang moqhaka ’borena, le faphe Morena,",
+        "Tlisang moqhaka ’borena, le faphe Morena."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lona ba le khethiloeng, le le ba seng ba kae",
+        "Mo tlotleng ea le bolokang, le faphe Morena,",
+        "Mo tlotleng ea le bolokang, le faphe Morena"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mefuta eohle le lichaba, lefats’eng lena;",
+        "Bohle ba ke ba mo nee tlotlo, ba faphe Morena,",
+        "Bohle ba ke ba mo nee tlotlo, ba faphe Morena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le bahalaleli, mane oelang maotong a Hae,",
+        "Re bine ka ho sa feleng, re faphe Morena;",
+        "Re bine ka ho sa feleng, re faphe Morena."
+      ],
+      "number": 4
+    }
+  ]
+}

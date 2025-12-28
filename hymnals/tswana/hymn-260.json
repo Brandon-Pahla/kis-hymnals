@@ -1,0 +1,44 @@
+{
+  "number": 260,
+  "language": "tn",
+  "title": "260 Ke Feta Mogogorong Oo Ba Reng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Feta Mogogorong Oo Ba Reng O Budutu,",
+        "Mme ke fitlhela tsela e e tletseng dithunya.",
+        "Go nna ke molapo wa Beula, o o montle,",
+        "Gonne ke tsamaya le Mmoloki molekane."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ao Beula, ao Beula, wa tlhokega go nna,",
+        "Ka ke bona fatshe je lentle ja tsholofetso."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga Go Na Moruti O O Ka Fifatsang Tsela,",
+        "Gonne phatsimo ya kgalalelo e ka metlha;",
+        "Mme melodi e opelwang ke ba legodimong,",
+        "E utlwala mo mogogorong o, e nkgomotsa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mme K’eta Boipelong Go Ya Motseng Wa Lesedi,",
+        "Boipelo jwa me bo ntse bo gola, le phatsimo.",
+        "Mme k’atamela kgoro tsa ’gosi jwa godimo,",
+        "Gonne tsel’e tlhatlogela ’gosing jwa lorato."
+      ],
+      "number": 3
+    }
+  ]
+}

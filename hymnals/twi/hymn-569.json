@@ -1,0 +1,56 @@
+{
+  "number": 569,
+  "language": "tw",
+  "title": "Nɔtwa Me Ho, 'Gyenkwa Brɛfo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nɔtwa me no, Gyenkwa brɛfo,",
+        "Tie me mmɔb'rɔsu;",
+        "Worekyinkyin binom so yi",
+        "Nɔtwa me no nkɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "'Gyenkwa, 'Gyenkwa",
+        "Tie me mmɔb'rɔsu;",
+        "Worekyinkyin binom so yi,",
+        "Nɔtwa me ho nkɔ."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mmɔb'rɔhun' agua anim ha;",
+        "Ma minya 'hotɔ;",
+        "Makoto ahonu pa mu",
+        "Pa m'akyinnye gu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Menam Wo trenee no nko so",
+        "Rehwehwɛ W'anim;",
+        "Sa me kra pirafo yare,",
+        "Fa Wo dom gye me."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M'awerɛkyekye Nɔsuti",
+        "Mihia Wo sen nkwa;",
+        "Hena na mewɔ wɔ fam ha",
+        "Anna s'ro sɛ Wo?"
+      ],
+      "number": 4
+    }
+  ]
+}

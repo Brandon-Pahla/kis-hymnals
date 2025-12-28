@@ -1,0 +1,35 @@
+{
+  "number": 28,
+  "language": "luo",
+  "title": "28 Nying Mamit E Piny Gi Polo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nying mamit e piny gi polo,Nying moloyo nying duto;Nyingno ma Nyasaye nochiwoNi Wuode mohero chuth."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nying maber moloyo,Nying' Jawarwa Yesu;Nying' ma noa e polo kuom wuoro;Malaika maler ema nokelogo,Nying` mamit maber mar Yesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nying mamiyo chunya yueyo,Anapak nyingno chutho;Anahul nyingno e nyim ji,Nying mamitna moloyo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Anawer kapako nyingno,gi hera mowarowa;Anapake ndalo duto,Nying moloyo nying duto."
+      ],
+      "number": 4
+    }
+  ]
+}

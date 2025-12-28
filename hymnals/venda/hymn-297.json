@@ -1,0 +1,53 @@
+{
+  "number": 297,
+  "language": "ve",
+  "title": "297. Zwo Ombelwa Tshifhambanoni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:88"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ho vha na we a tama u mpfela,",
+        "Uri a songo fanela a tshile",
+        "O tama u ya tshifhambanoni",
+        "A ya a mpfarela zwivhi zwanga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Zwo ombelwa tshifhambanoni,",
+        "Zwo ombelwa tshifhambanoni kha Yesu",
+        "O hwala vhutungu vhungafha Yesu o ya tshifhambanoni O’ hwala."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Wa u luga na lufuno kha nne.",
+        "A tshi tanzwa mbilu yanga tshikhani",
+        "Zwivhi zwanga zwo vhambiwa zwothe.",
+        "Ndi divha ndo vhofhololwa zwivhini."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi do nambatela tshothe Mutshidzi",
+        "Nga maduvha ndi ya nga dakalo",
+        "Mbilu na mulomo zwo dala luimbo,",
+        "Ngauri ndi tanzwiwa zwivhi."
+      ],
+      "number": 4
+    }
+  ]
+}

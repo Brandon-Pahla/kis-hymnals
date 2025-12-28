@@ -1,0 +1,46 @@
+{
+  "number": 252,
+  "language": "st",
+  "title": "252 Its’epele Eena Feela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bohle ba imetsoeng, Sebeng Morena O na le mohau,",
+        "O tla nea phomolo, Ha le mo ts’epile."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mo ts’epeng, Mo ts’epeng, Mo ts’epeng kajeno;",
+        "Oa boloka, oa boloka, Boloka joale."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu ka lefu la Hau, Hlohonolofatsa",
+        "Ikakheleng joale hle, Maling a soeufatsang."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E, Jesu e ’nete, Tsela, E isang phomolong.",
+        "Lumelang joale ho Eena, Le hlohono’fale."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tlong joale kenang sehlopheng, Tle le ee khanyeng,",
+        "Ho aha fats’eng la holimo, Le linyakallong."
+      ],
+      "number": 4
+    }
+  ]
+}

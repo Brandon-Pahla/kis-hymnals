@@ -1,0 +1,55 @@
+{
+  "number": 25,
+  "language": "sn",
+  "title": "25 Ndazvipira Zvese",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Zvese, Jesu, ndazvipira,",
+        "KwaMuponesi wangu,",
+        "Ndosimbira nekumuda,",
+        "O, chengeta upenyu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvese ndikupa, Zvese ndikupa,",
+        "Zvese kuna Muponesi, Zvese ndikupa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvese, Jesu, ndazvipira,",
+        "Tenzi pamberi penyu,",
+        "Ndarega pfuma dzepasi,",
+        "Mundigashire Jesu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvese, Jesu, ndazvipira,",
+        "Ndinofanana nemwi,",
+        "Ndizadzenyi Mweya wenyu,",
+        "Muri wangu M’ponesi"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvese, Jesu, ndazvipira,",
+        "Ndanzwa moto mutsvene,",
+        "O, rufaro rweupenyu.",
+        "Mbiri, Mbiri kunemwi"
+      ],
+      "number": 5
+    }
+  ]
+}

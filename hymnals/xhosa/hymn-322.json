@@ -1,0 +1,43 @@
+{
+  "number": 322,
+  "language": "xh",
+  "title": "322 Lizwi Linamandla",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lizwi linamandla, Liviwa bumnyama, Bubaleke;",
+        "Siyakubongoza, Ngeli lizwi laKho,",
+        "Langa lingazisa Ukhanyiso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wena wezisayo, Ngamaphiko aKho, Impiliso;",
+        "Kwabo baf’ ingqondo, Nakwa bazimfama,",
+        "Yithi kubo bonke: Makukhanye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moya wenyaniso, Hobe lobungcwele, Phaphazela;",
+        "Wanqumle amanzi, Kwand’ ufefe lwaKho;",
+        "Kuyo lentsunguzi Makukhanye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mtriniti ongcwele, Ozukekileyo, Solufefe;",
+        "Luthand’ olukhulu, Lwambes’ izwe lonke;",
+        "Yithi ngamandl’ aKho: Makukhanye."
+      ],
+      "number": 4
+    }
+  ]
+}

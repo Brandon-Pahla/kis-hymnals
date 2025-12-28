@@ -1,0 +1,46 @@
+{
+  "number": 2,
+  "language": "tn",
+  "title": "2 Kgosi E Tlang",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kgosi E Tlang E Mojakong, Yo O Na’rwala Mokgoro:",
+        "Janong O tla baitsheping, Go ba tseela gae"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mojakong, mojakong, Mojakong e, O teng mojakong,",
+        "E, O e tla, O e tla, O fela Fa mojakong."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ditshupo Tsa Go Tla Ga ’Gwe Di Dirala Ka Bofefo:",
+        "Kgantele re bona moso Wa ka bosakhutleng."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se Leteng Kagiso Fatshing, Lo Se Lete Boitumelo,",
+        "Go bo go tle le Mmoloki Go nyeletsa loso."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Foo Mo Lefatshing Je Lesha Re Tla Nna Ka Bosakhutleng:",
+        "Mo go swang mo ka go sa swe, Nako e sa khutleng."
+      ],
+      "number": 4
+    }
+  ]
+}

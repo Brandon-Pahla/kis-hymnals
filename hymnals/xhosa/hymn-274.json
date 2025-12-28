@@ -1,0 +1,64 @@
+{
+  "number": 274,
+  "language": "xh",
+  "title": "274 UMsindisi Wam Ngowakho Nawe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Owam uMsindisi usisihlobo,",
+        "Undicengel’ ezulwini kuBawo;",
+        "Undalusa ngothando kwanangenceba;",
+        "Akwaba ebenguMsindisi kuwe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndiyakukhungela, Ndiyakukhungela;",
+        "Ndiyakukhungela, ’khungela wena."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "NdinoBawo andipha ithemba,",
+        "Limile phakade, Themba lenyaniso;",
+        "Kamsinya ndobizelwa ezulwini,",
+        "Akwaba sihlobo ndokwamkelwa nawe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ingubo entle ekhazimlayo,",
+        "Ndoyifaka apho kwilizwe lozuko.",
+        "Xa ndiyinikwa ikhanya kakhulu,",
+        "Mhlobo, ndinga ungafumana eyaKho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiphiw’ uxol’olunje ngomlambo,",
+        "Alukh’ olunjalo apha emhlabeni;",
+        "Lwenziwa nguYesu, Luphiwa nguYe.",
+        "Akwaba sihlobo ubungaluzuza."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa umamkele xelel’ abanye,",
+        "Uyes’ uMsindisi ungowaKho nawe;",
+        "Thandaz’ abazis’ ebukhosini,",
+        "’Mthandazo wowuva, Az’ akuphendule."
+      ],
+      "number": 5
+    }
+  ]
+}

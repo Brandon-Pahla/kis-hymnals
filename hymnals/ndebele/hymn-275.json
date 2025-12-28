@@ -1,0 +1,57 @@
+{
+  "number": 275,
+  "language": "nd",
+  "title": "275 Iphakade! - Phi?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Iphakade! – phi? Kus’ emoyeni",
+        "Kukhona njal’ emsindweni, ek’thuleni",
+        "Umbuz’ ophakeme, Iphakade! – phi?",
+        "Umbuz’ ophakeme, Iphakade! – phi?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iphakade! – phi? O! Iphakade! – phi?",
+        "Nabahlengiwe, noma nabalahliwe?",
+        "La, noma laphaya - Iphakade! – phi?",
+        "La, noma laphaya - Iphakade! – phi?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iphakade! – phi? Kunga kanjani?",
+        "Udakisiwe bes’ uthath’ umhlaba nje!",
+        "Wenz’ ungaqokile - Iphakade! – phi?",
+        "Wenz’ ungaqokile - Iphakade! – phi?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iphakade! – phi? O! s’hlobo, bheka",
+        "Manje iNkos’ ingayek’ ukwahlula",
+        "Namhla kukhonjw’ iphakade lakho!–phi?",
+        "Namhla kukhonjw’ iphakade lakho!–phi?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iphakade! – phi? O! Iphakade! – phi?",
+        "S’hlobo ungalali; bes’uthathizwe",
+        "Ungakaphenduli - Iphakade! – phi?",
+        "Ungakaphenduli - Iphakade! – phi?"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "number": 157,
+  "language": "sn",
+  "title": "157 Nguva Yekupupura",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Anofamba achichema",
+        "Ane mbeu dzerudo",
+        "Asingarari pabasa",
+        "Anozopiwa tsitsi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chichenjera iwe m’rimi, Mapfunde akuibva",
+        "Kwakusvika kupupura, Minda yese yaibva"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dova rinobva kudenga",
+        "Ropenyiswa nezuva",
+        "Uchazopiwa michero",
+        "Nemabasa matswene"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dyara chete usanete",
+        "Ubate usingatyi",
+        "Shinga usingatsamwiswi",
+        "Uchakohwa rufaro"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "number": 234,
+  "language": "rw",
+  "title": "234 Nind'Uzagera Mu Rurembo?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 234 Nind'Uzagera Mu Rurembo?",
+        "**1**",
+        "Nind'uzagera mu rurembo, Ruhorahw'ibihe byose,",
+        "Akabon'ibyiza bihari, Mbese nijye, Cyangwa wowe?",
+        "Akahabon'inzira zose zisizemw'izahabu nziza,",
+        "Agahora mu munezero, Mbese nijye, Cyangwa wowe?",
+        "**2**",
+        "Nind'uzatur'umusaraba, Ngw'aruhuk'iteka ryose,",
+        "Umwizer'azahabw'ikamba, Mbese nijye, Cyangwa wowe?",
+        "Azareb'Umwami mu maso, Akiz'imibabaro yose,",
+        "Abane naw'iteka ryose, Mbese nijye, Cyangwa wowe?",
+        "**3**",
+        "Kandi har'uzakingiranwa, Ubutazakingurirwa,",
+        "Azabwirwa ngo ntabwo nkuzi, Mbese nijye, Cyangwa wowe?",
+        "Azahamagarir'ubusa, Urugi ruzaba rwakinzwe,",
+        "Bazagororerw'asigare, Mbese nijye cyangwa wowe?",
+        "**4**",
+        "Harih'uzishimir'intsinzi, Anesheje, Anesheje,",
+        "Ari hamwe n'abacunguwe, Mbese nijye, Cyangwa wowe?",
+        "Har'uzaramukanya n'abe, Batandukanijwe n'ibyago,",
+        "Be kongera gutandukana, Mbese nijye, Cyangwa wowe?"
+      ],
+      "number": 1
+    }
+  ]
+}

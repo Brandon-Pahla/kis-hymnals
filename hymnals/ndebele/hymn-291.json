@@ -1,0 +1,36 @@
+{
+  "number": 291,
+  "language": "nd",
+  "title": "291 Li Fanele iWundlu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lifanele iWundlu! Lifanele iWundlu! Lifanele iWundlu! Lahlatshwa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dumo Aleluya! Mbonge Aleluya!",
+        "Dumo Aleluya! I Wundlu!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Msindisi leth’ umbuso Uzoqeda izono Letha umbuso wAkho oNgcwele!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ingathi singahlala siMthanda, siMdumisa Size sifik’ eZion’ siMbone"
+      ],
+      "number": 4
+    }
+  ]
+}

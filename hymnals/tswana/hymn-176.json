@@ -1,0 +1,39 @@
+{
+  "number": 176,
+  "language": "tn",
+  "title": "176 Tsholofelo E Sego",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tsholofelo ’Sego, Ke E E Tlhokegang",
+        "Go feta boipelo jwa Tshotlo ya lefatshe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Naledi E Teng E E Bonesang Fifing,",
+        "E e ntshang kgalalelo ya Kagiso bobipong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ntswe Je Le Gomotsang, Je Le Tsholetsang Mo’a",
+        "Je le tlosang pelaelo, \"Modimo’ lorato.\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ntswe Ja Khalefari Je Le Itshwarelang;",
+        "Sedi jele ja tshenolo, Yone tsholofelo."
+      ],
+      "number": 4
+    }
+  ]
+}

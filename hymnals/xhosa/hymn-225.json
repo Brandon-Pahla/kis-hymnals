@@ -1,0 +1,54 @@
+{
+  "number": 225,
+  "language": "xh",
+  "title": "225 Yima Ngesibindi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, Vuka Mkristu! Utsho umyalelo;",
+        "Qubul’ ikhaka Nekrele kamsinya,",
+        "Nalo utshaba, Hamba ungoyiki;",
+        "Njengekhalipha, Jongana notshaba."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yima, Yima Njengekroti,",
+        "Ngesibindi, Jongana notshaba."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ingoz’ inkulu, Lumka hlakanipha;",
+        "Mus’ ukuhlehla, Utshaba lulula.",
+        "Ukuz’ uloyise lonke utshaba,",
+        "Njengekhalipha Jongana notshaba."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khusel’ indaba yeNkosi ngamandla;",
+        "Ngesibindi, yilwa ude woyise;",
+        "Ngobukroti yiyaph’usiwa khona;",
+        "Njengekhalipha, Jongana notshaba."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phambili! iNkosi yaKho ikhona;",
+        "NguMthuthuzeli, Uyakonwabisa.",
+        "Lunjengomlambo uthando lweNkosi.",
+        "Ke, ngesibindi, Jongana notshaba."
+      ],
+      "number": 4
+    }
+  ]
+}

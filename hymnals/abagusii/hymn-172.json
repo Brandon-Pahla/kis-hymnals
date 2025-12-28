@@ -1,0 +1,35 @@
+{
+  "number": 172,
+  "language": "guz",
+  "title": "172 'Bogima Mbore Omosalaba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bogima mbore Omosolaba,Yes'ateba \"Ndigererie\"'Nibo y'ense nig'ere bosa,Enibo engiya nase Yeso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rigereria Kalwari(rigereria kalwari),Onyore obogima(onyore obogima);Obogima bwa bosa(obogima bwa bosa),Rigereria kalwari(rigereria kaiwari rigereria)."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nkarigereri' Omotoria one,Nere agansasokera;'Ker'amatemw' agonchichera,Nindigererie Omosalaba."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndigereri'Omosalaba rioka,Nyegen'eira ya Nyasae;Onde takogw' as' amatemwa'yo bwegenete nguru chia igoro."
+      ],
+      "number": 4
+    }
+  ]
+}

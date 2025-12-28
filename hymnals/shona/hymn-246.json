@@ -1,0 +1,55 @@
+{
+  "number": 246,
+  "language": "sn",
+  "title": "246 Taura Inzvi Rimwe RaJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Inzvi rimwe raJesu, Shamwari yeidi",
+        "Tiudze tifare, Zvaakakuitira"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inzvi rimwe naJesu, rinotibatsira",
+        "Inzvi duku naJesu, imba unamate"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inzvi rimwe naJesu, Kwete muchinjiko",
+        "Netsitsi tichapinda, Kumusha wedenga"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inzvi rimwe naJesu,Kwete muchinjiko",
+        "Uti ndinoda Tenzi,Akandifirawo"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inzvi rimwe naJesu, Usinganonoki",
+        "Unyope mubasa,Hwunounza urombo"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inzvi rimwe naJesu, Kana wonyorova",
+        "Simuka mukuneta, Anokusimbisa"
+      ],
+      "number": 6
+    }
+  ]
+}

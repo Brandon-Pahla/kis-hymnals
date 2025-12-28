@@ -1,0 +1,24 @@
+{
+  "number": 347,
+  "language": "ny",
+  "title": "347 - Patseni Wina Mbuyanga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LORD, LAY SOME SOUL UPON MY HEART"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Patseni wina, Mbuyanga, Yosowa Inuyo",
+        "Ndicite mbali yangatu, Kumkopa iyeyo.",
+        "Kumkopa iyeyo; Kumkopa iyeyo;",
+        "Ndicite mbali yangatu, Kumkopa iyeyo."
+      ],
+      "number": 2
+    }
+  ]
+}

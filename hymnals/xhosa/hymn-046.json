@@ -1,0 +1,41 @@
+{
+  "number": 46,
+  "language": "xh",
+  "title": "46 Amazwi Amangalisayo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Phinda undihlabelele Amazw’ okuphila;",
+        "Endibon’ ubuhle bawo, Amazw’ okuphila:",
+        "Ngamazwi amahle, Aya ndifundisa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ngamazwi amahle wona, Aya mangalisa;",
+        "Ngamazwi amahle wona, Aya mangalisa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U-Yesu wabapha bonke Amazw’ okuphila;",
+        "Moni uyabizwa, yiva Amazw’ okuphila;",
+        "Aphiwa ngesihle, Asisa ku-Yesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xelela abantu bonke Amazw’ okuphila;",
+        "Azisa uxolo wona, Yes’ ungu-Msindisi;",
+        "Uya hlambulula Intliziyo zethu."
+      ],
+      "number": 3
+    }
+  ]
+}

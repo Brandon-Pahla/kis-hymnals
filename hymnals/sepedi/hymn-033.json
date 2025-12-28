@@ -1,0 +1,67 @@
+{
+  "number": 33,
+  "language": "nso",
+  "title": " 33 O NKETAPELE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 33 O NKETAPELE",
+        "AH 292 CH 393",
+        "HE LEADETH ME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O nketepele Morena,",
+        "A mantšu a tšwang Godimo.",
+        "Gohle ke yang tše ke dirang,",
+        "Jeso ke moetapele."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušulošo",
+        "O nketapele Morena,",
+        "Ka seatla o a nhlatla.",
+        "Ke latele tshepagalong,",
+        "Jeso ke moetapele."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le ge go etla leswiwi,",
+        "Le ka bo botse Edene:",
+        "Metseng lewatleng leo le wang,",
+        "Jeso ke moetapele."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena ntshware seatla,",
+        "ke se ngongorege tseleng;",
+        "Ke kgotsofatšwe ke wena,",
+        "Goba Jes 'o nketapele."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ge modir 'wak 'o fedile,",
+        "Ka mogau ke fentše;",
+        "Nka se tšhabe le lehu,",
+        "le Jordan 'o nketapele."
+      ],
+      "number": 6
+    }
+  ]
+}

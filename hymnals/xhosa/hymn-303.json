@@ -1,0 +1,47 @@
+{
+  "number": 303,
+  "language": "xh",
+  "title": "303 Liwa Laphakade",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wakrazulwa ke ngenxa yam Liwa laphakade!",
+        "Kuze ndizifihle kuwe, Nxeba lika-Yesu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lelanina elinxeba Kwelo cala laKho?",
+        "Lelegazi nelamanzi, Mandihlanjululwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inyembezi, zeminyaka Azingefezi nto;",
+        "Nguwe, Nkosi, osusayo Zonk’ izono zomntu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Andinanto ezandleni Ndi-ze kanye, Nkosi;",
+        "Sendonele e-krusini, Ekubethelweni."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wakrazulwa ke ngenxa yam Liwa laphakade!",
+        "Kuze ndizifihle kuwe, Nxeba lika-Yesu."
+      ],
+      "number": 5
+    }
+  ]
+}

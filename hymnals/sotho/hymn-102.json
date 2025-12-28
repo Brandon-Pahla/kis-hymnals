@@ -1,0 +1,43 @@
+{
+  "number": 102,
+  "language": "st",
+  "title": "102 Bula A Kene.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Moeti o teng monyako; Bu. . .la kene(bulela Jesu)",
+        "Ke khale A eme teng bulela Jesu, Mo bu’ele A e-s’o fete.(bulela Jesu)",
+        "Jesu ngoana’ Molimo, ’mo bulele a kene ’Bu. . .le. . .le. . ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        ".U bule pelo ea hao mo bulele, ha U lieha O tla feta,(bulela Jesu)",
+        "Mo...bulele, O ntsa eme monyako, Oho tiiisetsa thabong,(bulela Jesu)",
+        "A lule ka ho uena mo... bu...le...le(bulela Jesu)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Utloa ha A nts’a qeka, mo...bu...lele, joale U khethe Eena(bulela Jesu)",
+        "Mo...bulele, O nts’a eme monyako, Oho tiisetsa thabong,(bulela Jesu)",
+        "Mo rorise hle Eena, mo bulele...(bulela Jesu)"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mo amohele joale, mo...bulele, O tla etsa mokete,(bulela Jesu)",
+        "Mo...bulele, U tla be U ts’oareloe, ho tlosoe tsa lefats’e(bulela Jesu)",
+        "U isoe leholimong, mo...bulele(bulela Jesu)"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 160,
+  "language": "en",
+  "title": "160 Kept For Jesus.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, to be “Kept for Jesus!”",
+        "Kept, by the power of God;",
+        "Kept, from the world unspotted,",
+        "Treading where Jesus trod."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Oh, to be “Kept for Jesus!”",
+        "Lord at Thy feet I fall;",
+        "I would be “nothing, nothing, nothing;”",
+        "Thou shalt be “all in all,”"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, to be “Kept for Jesus!”",
+        "Serving as He shall choose;",
+        "“Kept” for the Master’s pleasure;",
+        "“Kept” for the Master’s use."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, to be “Kept for Jesus!”",
+        "Kept from the world apart;",
+        "Lowly in mind and spirit,",
+        "Gentle and pure in heart."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, to be “Kept for Jesus!”",
+        "Oh, to be all His own;",
+        "Kept, to be His forever,",
+        "Kept to be His alone!"
+      ],
+      "number": 4
+    }
+  ]
+}

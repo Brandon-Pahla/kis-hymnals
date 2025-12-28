@@ -1,0 +1,54 @@
+{
+  "number": 249,
+  "language": "es",
+  "title": "Tal como soy",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Tal como soy"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tal como soy de pecador,",
+        "sin otra fianza que tu amor,",
+        "a tu llamado vengo a ti,",
+        "Cordero de Dios, heme aquí."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tal como soy, buscando paz,",
+        "en mi desgracia y mal tenaz,",
+        "combate rudo siento en mí",
+        "Cordero de Dios, heme aquí."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tal como soy, con mi maldad,",
+        "miseria, pena y ceguedad,",
+        "pues hay remedio pleno en ti,",
+        "Cordero de Dios, heme aquí."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tal como soy, me aceptarás;",
+        "perdón y alivio me darás,",
+        "pues tu promesa ya creí,",
+        "Cordero de Dios, heme aquí."
+      ],
+      "number": 5
+    }
+  ]
+}

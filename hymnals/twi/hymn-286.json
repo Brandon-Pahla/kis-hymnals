@@ -1,0 +1,52 @@
+{
+  "number": 286,
+  "language": "tw",
+  "title": "Nɔkwa Nsɛm Nwanwa No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kɔ so na to kyerɛ me bio",
+        "Nɔkwa nsɛm nwanwa no;",
+        "Ma minhu sɛnea ne dɛw te,",
+        "Nɔkwa nsɛm nwanwa no;",
+        "Nkwa nsɛm a ɛyɛ fɛ,",
+        "Ky'rɛm' gyidi ne nwuma."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nɔsɛm fɛfɛ, nɔsɛm nwanwa;",
+        "Nɔkwa nsɛm nwanwa no.",
+        "Nɔsɛm fɛfɛ, nɔsɛm nwanwa;",
+        "Nɔkwa nsɛm nwanwa no."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hy'rafo Kristo ma obiara,",
+        "Nɔkwa nsɛm nwanwa no;",
+        "Debɔn'yɛfo tie ɔfrɛ no,",
+        "Kɔwa nsɛm nwanwa no;",
+        "Wɔde 'yinom ma kwa,",
+        "De twe yɛn kɔ soro."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asɛmpa no gyigye dɛdɛ,",
+        "Nɔkwa nsɛm nwanwa no;",
+        "Ͻma faf'ri ne asomdwoe",
+        "Nɔkwa nsɛm nwanwa no;",
+        "Agyenkwa Yesu no",
+        "Tew yɛn ho daa nyinaa"
+      ],
+      "number": 3
+    }
+  ]
+}

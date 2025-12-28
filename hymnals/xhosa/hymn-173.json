@@ -1,0 +1,52 @@
+{
+  "number": 173,
+  "language": "xh",
+  "title": "173 Olo Kholo!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Olo kholo olushushu, Lungoyik’ intshaba,",
+        "Lungothuswa nazintsizi, Lubheka phambili,",
+        "Lubheka phambili."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alubuki ukusola Phantsi koqeqesho,",
+        "Koko nase lusizini Lwayama ngo-Thixo,",
+        "Lwayama ngo-Thixo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ukhol’ olukhazimlayo, Naxa kuvuthuza,",
+        "Aloyikiswa zingozi, Nasithokothoko,",
+        "Nasithokothoko."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Luthwala zonk’ inkxwaleko, Kunye nezigxeko;",
+        "Lungeze lutshoniswe nto, Alunge khohliswe.",
+        "Alunge khohliswe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi ndiphe olo kholo Lona ndothi ngalo",
+        "Ndibe naKho ukungcamla Okwanaphakade;",
+        "Okwanaphakade."
+      ],
+      "number": 5
+    }
+  ]
+}

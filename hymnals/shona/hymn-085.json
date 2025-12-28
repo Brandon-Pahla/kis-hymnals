@@ -1,0 +1,37 @@
+{
+  "number": 85,
+  "language": "sn",
+  "title": "85 Ndinoimba Simba Guru raMwari",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndoimba simba raMwari wakwidza makomo,",
+        "Waparadzira nyanza’yo, Wavaka kumsoro, ,",
+        "Ungwaro hwaita zuva kutonga sikati,",
+        "Mwedzi upenye usiku, Nedzese nyenyedzi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndoimba mutsa waTenzi wagadzira chidyo,",
+        "Wakasika zviro zvese, ngeinzwi rake’ro,",
+        "Tenzi zvishamiso zvenyu zvinoonekwa’yo,",
+        "Ndinozviona kwese’ko, Zvimwe nekumsoro"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Miti yese nemaruva zvinokudza Imwi,",
+        "Makore nechampupuri zvatumirwa nemwi,",
+        "Zvisikwa zvese ngezvenyu, Munozvichengeta, ,",
+        "Zviro zvese pasi pano, Zvese munoziva"
+      ],
+      "number": 3
+    }
+  ]
+}

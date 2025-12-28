@@ -1,0 +1,48 @@
+{
+  "number": 208,
+  "language": "xh",
+  "title": "208 Thulani Zolani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Zolani, Thulani, Kuyasetyezwa;",
+        "Zolani, Thulani, Yivan’ amazwi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hamba ngentlonelo, I-Nkos’ ilapha;",
+        "(Hamba, hamba ngentlonelo, I-Nkos’ ilapha)",
+        "Hamba ngentlonelo, Ithi, \"Sondela.\"",
+        "(Hamba, hamba ngentlonelo, Ithi \"Sondela.\")"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zolani, Thulani, Le ndaw’ ingcwele;",
+        "Sibekelw’ ilizwi Lofefe lwaKhe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zolani, Thulani, Manithandaze;",
+        "Umoya we-Eden Masive wona."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zolani, Thulani, Namkel’ inceba;",
+        "Zolani Thulani, Silind’ iNkosi."
+      ],
+      "number": 4
+    }
+  ]
+}

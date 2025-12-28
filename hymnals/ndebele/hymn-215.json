@@ -1,0 +1,48 @@
+{
+  "number": 215,
+  "language": "nd",
+  "title": "215 Linda U Ngasoli",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ikhay’ elethembekayo Lapho ku ngekh’ inkathazo",
+        "Ikhay’ elibusisiwe Sohlala si phunyuziwe"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wena Linda, u bekezele",
+        "Wena Lind’ ungaze wasola",
+        "Linda Linda, Linda, u ngasoli"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa u sindwa imithwalo Oyinikiwe ng’uThixo",
+        "Ikhaya u lizondelele Linda u zubekezele"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa u sindwa imithwalo Kumbula kuye ekhanda,",
+        "Nxa i nosiz’ inhliziyo Yena wayenalo njalo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Noma ku nzima qhubeka U ngakhohlwa kukhuleka",
+        "Ku seduze ukuphumla Linda u ngaze wasola."
+      ],
+      "number": 5
+    }
+  ]
+}

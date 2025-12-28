@@ -1,0 +1,46 @@
+{
+  "number": 141,
+  "language": "tw",
+  "title": "Akokoaa Bɛn Na ɔreda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Akokoaa bɛn na ɔreda",
+        "Wɔ Maria ne srɛ so yi?",
+        "Nea 'bɔfo de nnwom pa hyia No,",
+        "B'rč a nguanhwɛfo rewɛn yi?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "ɔhene Kristo, Nea",
+        "'Hwɛfo wɛn, 'bɔfo to No dwom:",
+        "Monyɛ ntɛm mmɛkamfo",
+        "'Kokoaa no, Maria ba no."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Adɛn na ɔda faako a",
+        "'Nantwi ne mfurum' didi?",
+        "Kristoni sųro: Asɛm no fi",
+        "Kommyɛm' refrɛ 'bɔn'yɛni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa duhuam, sika, k'rɔbɔ brɛN',",
+        "Bɛfa 'Hen' no yɛ wo de,",
+        "Ahen' mu Hen' de nkwagye ba;",
+        "Ma ɔdɔ koma nnye No."
+      ],
+      "number": 3
+    }
+  ]
+}

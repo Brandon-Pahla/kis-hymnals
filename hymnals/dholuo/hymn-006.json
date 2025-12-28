@@ -1,0 +1,35 @@
+{
+  "number": 6,
+  "language": "luo",
+  "title": "6 Wuonwa, Wabironi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Wuonwa, wabironi,konyruok waongegoIn e kar konyruokwa,wasayoi;Kwapogore kodi,to waneno chandruok;Wuonwa, mond` ihowa,ka ma wantie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wuonwa wabironi,wan to wanyapKik iwewa kendwaWuonwa, winjwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ritwa kuom wasikwa,ritwa e chandruokwaWarwa e masiche,kwaluongoi.Chunywa ochandore,wadwaro tekoniWakwayoi chutho,miwa teko."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ng`wononi imiwa,wabed magi chutho,Chunywa mond` iriti,ka wan e wuoth.Telnwa, wakwayoi,nyaka watiek wuodhwaNyaka wadonj polomar dak kodi"
+      ],
+      "number": 4
+    }
+  ]
+}

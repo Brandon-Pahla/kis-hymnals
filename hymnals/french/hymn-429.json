@@ -1,0 +1,55 @@
+{
+  "number": 429,
+  "language": "fr",
+  "title": "Dieu bienveillant",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dieu bienveillant qui m'accorde sa grâce,",
+        "Je te bénis, je t'adore avec foi.",
+        "Quand mes péchés m'éloignent de ta face,",
+        "Ton grand amour me ramène vers toi.",
+        "Quand mes péchés m'éloignent de ta face,",
+        "Ton grand amour me ramène vers toi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je ne crains point, j'ai cette confiance",
+        "Que mon salut, c'est toi-même, ô mon Dieu !",
+        "L'hymne joyeux de ma reconnaissance",
+        "S'élève à toi jusque dans le saint lieu.",
+        "L'hymne joyeux de ma reconnaissance",
+        "S'élève à toi jusque dans le saint lieu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Venez puiser aux sources de sa grâce,",
+        "Cœurs altérés de justice et de paix.",
+        "Là, le péché disparaît et s'efface :",
+        "C'est le pardon, c'est la vie à jamais.",
+        "Là, le péché disparaît et s'efface :",
+        "C'est le pardon, c'est la vie à jamais."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Louez son nom, célébrez sa mémoire;",
+        "Car il est grand, le Dieu libérateur.",
+        "Dites partout sa clémence et sa gloire;",
+        "Magnifiez Jésus notre Seigneur.",
+        "Dites partout sa clémence et sa gloire;",
+        "Magnifiez Jésus notre Seigneur."
+      ],
+      "number": 4
+    }
+  ]
+}

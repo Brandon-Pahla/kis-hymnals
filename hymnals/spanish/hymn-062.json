@@ -1,0 +1,41 @@
+{
+  "number": 62,
+  "language": "es",
+  "title": "Santo, santo, santo, santo es el Señor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Santo, santo, santo, santo es el Señor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo, santo, santo,",
+        "santo es el Señor.",
+        "Santo, santo, santo,",
+        "santo es nuestro Dios.",
+        "Todopoderoso",
+        "siempre reinará",
+        "Su dominio eterno",
+        "nunca pasará."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo, santo, santo,",
+        "santo es el Señor.",
+        "Santo, santo, santo,",
+        "santo es nuestro Dios.",
+        "Digno de gloria,",
+        "honra y poder.",
+        "Su grandiosa obra brilla por doquier."
+      ],
+      "number": 3
+    }
+  ]
+}

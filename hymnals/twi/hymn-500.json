@@ -1,0 +1,47 @@
+{
+  "number": 500,
+  "language": "tw",
+  "title": "Hyɛ Da Tew Wo Ho Wo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hyɛ da tew wo ho wo Ne Nyame nkasa;",
+        "Tra Ne mu daa fa N'asɛm Yɛ aduan di;",
+        "Fa Nyame mma yɔnko, Boa wɔnɔa wɔyɛ mm'rɛw;",
+        "Mma wo w'rɛ mmfi hwee pɛ Ne nhyira 'kyi kwan."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hyɛ da tew wo ho na Wiaɔse retwan kɔ;",
+        "Wo ne Yesu nko ntra Wɔ kokoam mm're pii;",
+        "Sɛ wohwɛ Yesu a Wobɛyɛ sɛ No;",
+        "Wo mfɛfo nam wo suban So behu No."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hyɛ da tew wo ho ma ɔnkyerɛ wo kwan;",
+        "Nea ɛbɛyɛ biara N'twa Ne ho nkɔ;",
+        "ɔdɛw muɔoo, yaw muɔoo di Wo Nyame akyi,",
+        "Fa w'ani to Yesu so Na twer' N'asɛm."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hyɛ da tew wo no na Ma wo kra nyɛ komm;",
+        "Fa w'adwen ne nsusui Biara hyɛ N'ase;",
+        "Ne honhom no gya w'kɔ Dɔ nsuti ho a,",
+        "Wobesiesie wo ama Soro som no."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "number": 290,
+  "language": "fr",
+  "title": "Divine grâce",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Divine grâce, je suis sauvé !",
+        "Jésus efface l'iniquité.",
+        "Pour tous les hommes, Christ est sauveur.",
+        "C'est lui qui donne paix et bonheur."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "C'est l'espérance qui nous soutient :",
+        "Dans sa puissance, Jésus revient !",
+        "C'est l'espérance qui nous soutient :",
+        "Dans sa puissance, Jésus revient !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dieu nous enseigne à nous garder",
+        "Du mal qui règne, de tout péché.",
+        "Vivre sans cesse, persévérer",
+        "Dans la sagesse, la sainteté."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Peuple fidèle, prépare-toi !",
+        "Rempli de zèle, prêche ta foi !",
+        "Par sa justice, purifié,",
+        "À son service, sois tout entier !"
+      ],
+      "number": 4
+    }
+  ]
+}

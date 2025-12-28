@@ -1,0 +1,44 @@
+{
+  "number": 383,
+  "language": "es",
+  "title": "Habla a tu Dios de mañana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Habla a tu Dios de mañana"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Habla a tu Dios de mañana,",
+        "háblale al mediodía;",
+        "habla a tu Dios en la noche,",
+        "y dale tu corazón."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oye a tu Dios de mañana,",
+        "óyele al mediodía;",
+        "oye a tu Dios en la noche,",
+        "y dale tu corazón."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Venga el Señor de mañana,",
+        "venga en el mediodía;",
+        "venga el Señor en la noche,",
+        "prepara tu corazón."
+      ],
+      "number": 4
+    }
+  ]
+}

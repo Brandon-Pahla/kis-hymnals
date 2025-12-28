@@ -1,0 +1,34 @@
+{
+  "number": 39,
+  "language": "es",
+  "title": "Despide hoy tu grey",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Despide hoy tu grey"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Despide hoy tu grey",
+        "en paz y bendición,",
+        "y las palabras de tu Ley",
+        "conserve el corazón."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Enséñanos, Señor,",
+        "tu Ley a meditar,",
+        "vivir unidos en amor,",
+        "y en él por siempre andar."
+      ],
+      "number": 3
+    }
+  ]
+}

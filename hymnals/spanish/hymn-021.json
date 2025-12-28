@@ -1,0 +1,26 @@
+{
+  "number": 21,
+  "language": "es",
+  "title": "Gloria sea al Padre",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Gloria sea al Padre"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gloria sea al Padre",
+        "y al Hijo Dios",
+        "y al Santo Espíritu.",
+        "Como eran al principio,",
+        "son hoy y serán por siempre.",
+        "¡Gloria sin fin! Amén, amén."
+      ],
+      "number": 2
+    }
+  ]
+}

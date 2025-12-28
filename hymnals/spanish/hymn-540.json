@@ -1,0 +1,55 @@
+{
+  "number": 540,
+  "language": "es",
+  "title": "Ya asoma el sol brillante",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ya asoma el sol brillante"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ya asoma el sol brillante,",
+        "vertiendo luz, calor;",
+        "natura alegre canta:",
+        "es día del Señor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Hoy, sábado, reunidos",
+        "en culto a ti, Señor,",
+        "tus hijos redimidos",
+        "te rinden su loor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Perfume de las flores",
+        "se eleva hacia Dios.",
+        "Los pajarillos trinan",
+        "con melodiosa voz."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si pájaros y flores",
+        "te alaban, oh Señor,",
+        "tus hijos reverentes",
+        "te alabarán mejor."
+      ],
+      "number": 5
+    }
+  ]
+}

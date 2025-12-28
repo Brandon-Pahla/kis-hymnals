@@ -1,0 +1,42 @@
+{
+  "number": 56,
+  "language": "luo",
+  "title": "56 Ruoth, Awinjo Wach Mar Gwethni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ruoth, awinjowach mar gwethniMa iolo ni jogi;Gweth mang`wonmahoyo chuny ji;An bende dak ayudi?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "An bende,an bende;Ol gwethni e chunya,Ruoth."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kik ikadha,yaye Nyasacha,Richo oseloyoa;Kik iweya,yaye Jakonya,To inyisa ng`wononi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kik ikadha,In Wuon ng`wono,Chik tiendae wang`yori;An agomboluwi pile,Taya pilee piny ka."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Kik ikadha,yaye Jawarna,In Wuon ngimamaradier;Muchi mondodak e chunya,Kendo puonjawecheni."
+      ],
+      "number": 5
+    }
+  ]
+}

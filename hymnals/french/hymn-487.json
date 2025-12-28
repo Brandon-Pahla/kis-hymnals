@@ -1,0 +1,32 @@
+{
+  "number": 487,
+  "language": "fr",
+  "title": "Éternel ! fais-moi connaître",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Éternel ! fais-moi connaître tes voies,",
+        "Enseigne-moi tes sentiers.",
+        "Conduis-moi dans ta vérité,",
+        "Et instruis-moi, et instruis-moi.",
+        "Car tu es le Dieu de mon salut,",
+        "Tu es le Dieu de mon salut.",
+        "Tu es toujours mon espérance,",
+        "Tu es toujours mon espérance."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tous ceux qui lui font confiance",
+        "Et sont dans son alliance",
+        "Verront toujours sa bienveillance,",
+        "Son grand amour et sa patience."
+      ],
+      "number": 2
+    }
+  ]
+}

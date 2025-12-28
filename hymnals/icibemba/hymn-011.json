@@ -1,0 +1,41 @@
+{
+  "number": 11,
+  "language": "bem",
+  "title": "11 - NDEMUKONKA MWE KATULA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I WILL FOLLOW THEE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndemukonka mwe Katula,",
+        "Lintu fye M'ntangilila.",
+        "Konse fye muntangilila,",
+        "Mwe Mfumu ndemukonka",
+        "CHORUS:",
+        "Ndemukonka mwe Katula,",
+        "Mwamfwilile ine,",
+        "Nangu bonse bamufilwa,",
+        "Lelo ine nkakonka",
+        "2. Nangu nshila yalikosa,",
+        "Nangu nshila takuli,",
+        "Mwalintangilile kale,",
+        "Nomba ndemukonka pe",
+        "3. Nangu ndemona macusho,",
+        "Kutunkwa na satana;",
+        "Ndebukisha mwalitunkwa,",
+        "Ndemukonka nshiku pe",
+        "4. Nangu mwanjita kuli 'ne,",
+        "Kuleko mweo wandi,",
+        "Mwapitilile pa ntanshi,",
+        "Ndemukonka no kwanga"
+      ],
+      "number": 2
+    }
+  ]
+}

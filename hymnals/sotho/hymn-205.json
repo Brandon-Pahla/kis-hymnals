@@ -1,0 +1,37 @@
+{
+  "number": 205,
+  "language": "st",
+  "title": "205 Ha Jesu A Seba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ha Jesu A seba, tlo, moetsalibe,",
+        "Ha re u rapelela, tlo moetsalibe;",
+        "Ke nako ea ho mo rua tlo molibe",
+        "Ke nako ea ho mo tseba tlo molibe"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U imeloa ke moroalo? Moetsalibe,",
+        "Jesu O tla u thusa, tlo? moetsalibe.",
+        "Ha ka ke a u thetsa, tlo molibe,",
+        "O tla lopolla joale tlo molibe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Utloa thapelo ea, Hae tlo",
+        "Fumana ’hlohonolo, tlo moetsalibe",
+        "Ha Jesu A u sebela, tlo molibe,",
+        "Ha re u rapelela, tlo moetsalibe"
+      ],
+      "number": 3
+    }
+  ]
+}

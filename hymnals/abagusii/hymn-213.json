@@ -1,0 +1,42 @@
+{
+  "number": 213,
+  "language": "guz",
+  "title": "213 Okogacherwa Yeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. \"Okogacherwa Yeso,\"Na nguru chia NyasaeNdendwe korw' ebimoa,Ntare buna Yeso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndendwe as' Omonene,Ngw' as' amagor' AyeTingwenereti, kende, kende,Obe bionsi Ase nde."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. \"Okogacherwa Yeso,\"Nkore bun' ancheteImbe oyoye bori,nkore emeremo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. \"Okogacherwa Yeso,\"Ngachwe korwa enseMoitongo as' omoika,'Mochenu as' enkoro."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. \"Okogacherwa Yeso,\"Nimb' oyoye boriMbe oyoye botambe,Mbe oyoye bweka."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "number": 19,
+  "language": "tum",
+  "title": " 19 Tiyeni Akhristu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 19 Tiyeni Akhristu",
+        "ONWARD, CHRISTIAN SOLDIERS!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Tiyeni, wakhristu, tipote homwa,",
+        "Yesu nkhoswe yithu yikurongozga,",
+        "Fumu yakuchanya yatinenera,",
+        "Na ndembera zake zikudangira."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wakhristu tiyeni, tipote homwa,",
+        "Yesu nkhoswe yithu yikurongozga.",
+        "2.",
+        "Awo mba Satana wakuchimbira,",
+        "Mpingo wa wakhristu ukuwaruska,",
+        "Atana wakopa para tikwimba,",
+        "Koreskani sumu, mwa'bali withu."
+      ]
+    }
+  ]
+}

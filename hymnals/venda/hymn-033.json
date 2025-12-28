@@ -1,0 +1,54 @@
+{
+  "number": 33,
+  "language": "ve",
+  "title": "33 O Nthanga Phanda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:537",
+        "AH:292"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. nthanga phanda Murena, U mphumudza matunguni,",
+        "Kha zwothe zwine nda ita, tshanda tshawe tshi kha nne."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu u do di nkokodza, nga Tshawe tshanda tshihulu,",
+        "Musi a tshi khou nkokodza na nne ndi do di tevhela."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Na musi hu tshi da swiswi, naho hu dzikhakhathini,",
+        "A thi ofhi a thi tshuwi, nga u’ Murena u na nne."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. A thi nadzo mbilaelo, tshanga ndi u kondelela,",
+        "Kha zwothe ndi dakaloni, nga u’ Murena U na nne."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Musi ndo fhedza mushumo, ndi do vha o takalaho,",
+        "A thi tsha ofha na lufu, ndi do wela Yorodane."
+      ],
+      "number": 5
+    }
+  ]
+}

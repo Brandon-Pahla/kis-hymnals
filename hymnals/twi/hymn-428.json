@@ -1,0 +1,46 @@
+{
+  "number": 428,
+  "language": "tw",
+  "title": "ɔdɛw Nom', Daakye Bi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Asase kama be wɔ soro,",
+        "Gyidi aniwa na yɛde hu;",
+        "Na Agya retwɛn wɔ kwan no so,",
+        "Resiesie trabea ama yɛn hɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "ɔdɛw nom', daakye bi,",
+        "Yebehyiam wɔ mpoano fɛfɛ hɔ;",
+        "ɔdɛw nom', daakye bi,",
+        "Yebehyiam wɔ mpoano fɛfɛ hɔ."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yebehim nnwom mpoano fɛfɛ hɔ,",
+        "'Hyirafo nnwom a ɛyɛ dɛ no;",
+        "Na yɛn honhom renni yaw biɔo",
+        "Apinisi remfra yɛn homem'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn soro Agya ɔdɛɛfo no,",
+        "Yebeyi No ayɛ daa nyinaa,",
+        "Wɔ Ne dɔ akyɛde pa no nti,",
+        "Ne nhyira a ɛteɛ yɛn nna ho."
+      ],
+      "number": 3
+    }
+  ]
+}

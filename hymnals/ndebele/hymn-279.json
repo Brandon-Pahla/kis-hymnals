@@ -1,0 +1,49 @@
+{
+  "number": 279,
+  "language": "nd",
+  "title": "279 O’ Nhliziyo ‘Zithobe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, nhliziyo zithobe, Nami mehlw’ elanga",
+        "Ek’kholweni kumhlophe KuJesu kukhanya"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zanini kiMi, en’si ndwayo;",
+        "Nin’ abakhathele nginganiphumuza;",
+        "Thwalan’ ijoka nifunde ngaMi;",
+        "Ngi munene Ngithobiles nothi; Nithol’ ukuphumula"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ingcebo nenjabulo, Akusizi muntu",
+        "Kuphela kuhl’ uthando, Lon’alubuhlungu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Is’duduz’ esikhulu, Senziwa nguJesu",
+        "Wen’uhlahliwe yini? Phenduka ungafi!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uthule njengo mfula, Nengoma yAkh’ enhle",
+        "Kana’ Mthwal’ onzima, Lilul’ im’hla yonke"
+      ],
+      "number": 5
+    }
+  ]
+}

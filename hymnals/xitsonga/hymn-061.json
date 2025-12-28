@@ -1,0 +1,25 @@
+{
+  "number": 61,
+  "language": "ts",
+  "title": "61. NDZI RHANDZA KU TIVA YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "MORE ABOUT JESUS",
+        "1. Ndzi Rhandza Ku Tiva Yesu, Ndzi Va Byela Hi Tintswalo,",
+        "Ndzi Kuma Ku Ponisiwa, Eka Loya Ndzi Feleke",
+        "CHORUS",
+        "Timhaka Ta Yesu, Ndzi Byele Ha Tona,",
+        "Mahungu Ya Muponisi, Yena Loya Ndzi Feleke.",
+        "2. Ndzi Dyodzise Hi Ta Yesu, Ni Ta Ku Kwetsima Kakwe,",
+        "Moya Wo Kwetsima Tana, U Ndzi Dyondzisa Ta Yesu.",
+        "3. Dyondzani Hi Rito Rakwe, Tshinelani Hi Xikhongelo,",
+        "Ndzi Yingisa Rito Rakwe, Ndzi Mukela Ri Va Ranga.",
+        "4. Ta Xiluvelo Xa Yesu, Mudyandzhaka Wa Xikwembu,",
+        "Vula Ta Mfumo Wa Yena. Ni Taku Vuya Ka Yena."
+      ],
+      "number": 1
+    }
+  ]
+}

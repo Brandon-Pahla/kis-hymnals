@@ -1,0 +1,47 @@
+{
+  "number": 168,
+  "language": "sn",
+  "title": "168 Tenzi Mufudzi Wangu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi mufudzi handishayi ba",
+        "Anonditungamira zvakanaka",
+        "Onditungamira mumvura kwazvo",
+        "Ne mweya wapumhuka owuunza"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana ndive mumubvuri worufu",
+        "Handityi kuti muchitungamira",
+        "Handizotyi kana bvute rekufa",
+        "Ngekuti imi Tenzi muneni"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Imwi mawarira tafura rangu",
+        "Mazadza ndiro nezvikomborero",
+        "Musoro wangu mauzodza imwi",
+        "Chinyi ndokumbira, munazvo zvese"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kunaka nerudo zvinova neni",
+        "Nawo mazuva eupenyu hwangu",
+        "Ndozogara mumba make Jehova",
+        "Muupenyu hwake husingaperi"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "number": 16,
+  "language": "tn",
+  "title": "16 Ke Tlhapile Diatla",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Tlhapile Diatla, Sentle Mosong Ono",
+        "Mme ka di naya Jeso, Mo go Mo direleng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "A dinaonyana Di tlhokomele;",
+        "Sengwe le sengwe ke Direle Jeso."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Boleletse Tsebe Tsa Me Go Reetsa,",
+        "Tirong ya pelonomi, Ya diatlanyana."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Matlho A Mo Tebelong, Tirong Le Tshamekong,",
+        "Go a dibela bosuleng, Ka ntata ya Jeso."
+      ],
+      "number": 3
+    }
+  ]
+}

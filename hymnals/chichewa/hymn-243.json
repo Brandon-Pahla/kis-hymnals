@@ -1,0 +1,35 @@
+{
+  "number": 243,
+  "language": "ny",
+  "title": "243 - Dzuwa Moyowe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ARISE MY SOUL, ARISE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Dzuka moyo wanga, Cotsa mantha ako;",
+        "Nsembe ya mwaziwo, Cifukwa ca ine;",
+        "Indiimira ku mpando, Indiimira ku mpando;",
+        "Dzina langa lalembedwa.",
+        "2. Kumwamba alipo, Kundipembedzera,",
+        "Cikondi caceco, Cinakhetsa mwazi;",
+        "Anatifera tonsefe, Anatiferea tonsefe,",
+        "Awaza mpando wansisi.",
+        "3. Mabala asanu, Anapwetekapo;",
+        "Mutu \"khululukani\" Atitu \"khululukani,\"",
+        "Msalole wolapa afe!",
+        "4. Tate amamumva, Wodzozedwa wace;",
+        "Sangacotse mwana, Wofika kwa Iye,",
+        "Mzimu ubvomera mwazi, Mzimu ubvomera mwazi,",
+        "Ndabadwira mwa mulungu."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 115,
+  "language": "st",
+  "title": "115 Ngaka E Kholo.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngaka e kholo e haufi, Jesu ngaka ea batho,",
+        "O ts’elisa ba nyahameng, Utloang hle ntsoe la Jesu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O binoa leholimong, O ratoa le ke batho",
+        "O monate hakakang Jesu ea ratehang."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ho isoe khanya ho Konyana, Ke lumela ho Jesu,",
+        "Ke rata bitso la Jesu Bitso leo la Jesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bitso la hae le leleka, Ts’abo, bobe, le tsuo,",
+        "Moea oa ka oa nyakalla, Bitsong le letle la Jesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mohla a tlang le meqhaka, Ea bophelo le khanya,",
+        "Re tla lula lehlakoreng, Re bolele litaba."
+      ],
+      "number": 4
+    }
+  ]
+}

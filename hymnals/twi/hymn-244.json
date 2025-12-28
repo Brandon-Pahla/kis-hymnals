@@ -1,0 +1,49 @@
+{
+  "number": 244,
+  "language": "tw",
+  "title": "Yesu Ho Dwom Na Mɛto",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu ho dwom na mɛto,",
+        "N'adɔe wɔ me so daa;",
+        "Ne nhy'ra hyɛ me k'ruwa ma,",
+        "Ma meto N'ayeyi;",
+        "Yesu ho dwom na mɛto,",
+        "Nyame dehye 'Guammaa;",
+        "ɔde Ne ho ma gyee me,",
+        "De Ne mogya tɔɔ me."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu ho dwom na mɛto",
+        "Wɔ Ne nan ase hɔ;",
+        "Mekae Ne papayɛ no,",
+        "Ma m'anigye di mu;",
+        "Yesu ho dwom na mɛto,",
+        "Wɔ ɔhaw biara mu;",
+        "Mɛto 'dom a ɛgye me,",
+        "Di nkonim no ho dwom."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu ho dwom na mɛto,",
+        "B'rč a mitu me kwan kɔ",
+        "M'anuonyam fie a ɛhy'rɛn,",
+        "Wɔ daa 'dekyee hann mu:",
+        "Na sɛ me kra hyɛne s'ro",
+        "ɔman fɛfɛ no mu á,",
+        "Mɛto ayeyi dwom daa",
+        "Ama Yesu wɔ hɔ."
+      ],
+      "number": 3
+    }
+  ]
+}

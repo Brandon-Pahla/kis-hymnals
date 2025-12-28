@@ -1,0 +1,47 @@
+{
+  "number": 37,
+  "language": "st",
+  "title": "37 Haufi Le Molimo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Haufi le Molimo—haufinyana! Leha sefapano se ka ntlisa,",
+        "Ke tla ’ne ke bine,--haufi le Molimo, Haufi le Molimo—Haufinyana!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke le molahlehi,--Ho se seli, Lefifi le ntahla—Ka sama lejoe,",
+        "Ke tla atamela haufi le Molimo Le moo torong ea ka—Haufinyana"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsela a e hlahe –e nyolohang, Hohle moo nthomelang, --u ’nehe mohau,",
+        "Manyeloi a mpitsa—a re, ke finyelle, Haufi le Molimo—Haufinyane."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Monahanong oa ka—Ka leboha, Ke tsoa mahlomoleng—Ka ’ha Bethele,",
+        "Mahlomoleng a ka—Ke tla atamela, Haufi le Molimo—haufinyana."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lapha se ngi phaphela phezulu, Se ngi dlule ilanga nenyanga",
+        "Ngohlabel’ ingoma, ngi bheke phezulu; Eduze, Nkosi yam’, ‘duze kuWe!"
+      ],
+      "number": 5
+    }
+  ]
+}

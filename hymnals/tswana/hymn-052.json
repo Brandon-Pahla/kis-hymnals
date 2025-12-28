@@ -1,0 +1,37 @@
+{
+  "number": 52,
+  "language": "tn",
+  "title": "52 Tla Motswedi Wa Masego",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tla Motswedi Wa Masego, O Nthute Go Opela;",
+        "Go melatswana ya tshwaro E e bitsang dipako.",
+        "O nthute go Go kgabisa, Ke bontshe molem’e ’Go,",
+        "Fa tsholofelo ya kgalalelo e mpha boipelo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Baa Kgakololo Ya Me, Ka Thuso Ya ’Go Ke Fa,",
+        "Ke solofela go fitlha Gae ka boitumelo.",
+        "Jes’o mpatlile timelong, Ke dule mo lesakeng;",
+        "Go mpoloka mo diphatseng, A tsholola madi a ’Gwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tshegofatsong Ke Na Le Mo-lato Ka Metlha Yotlhe:",
+        "Mne O mphape ka dikgole Ke nne gaufi le Wena.",
+        "Morena le ke timela, Ke tloga go Modimo",
+        "Pelo ya me ke e etsee, O e kanele Wena"
+      ],
+      "number": 3
+    }
+  ]
+}

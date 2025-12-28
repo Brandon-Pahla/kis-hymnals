@@ -1,0 +1,57 @@
+{
+  "number": 652,
+  "language": "tw",
+  "title": "'Dɔ Wɔ Fie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A hotew wɔ baabiara,",
+        "B'rč a ɔdɔ wɔ fie;",
+        "ɔdɛw wɔ nne biara mu,",
+        "B'rč a ɔdɔ wɔ fie.",
+        "ɔmee ne 'somdwoe wɔ hɔ,",
+        "ɔserew wɔ baabiara,",
+        "Ͻbere nso sen bɔkɔɔ,",
+        "B'rč a ɔdɔ wɔ fie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "'Dɔ wɔ fie, 'dɔ wɔ fie,",
+        "Ͻbere nso sen bɔkɔɔ,",
+        "B'rč a ɔdɔ wɔ fie."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔserew pa wɔ soro,",
+        "B'rč a ɔdɔ wɔ fie;",
+        "ɔdɔ hyɛ 'sase so ma,",
+        "B'rč a ɔdɔ wɔ fie.",
+        "Asuten to dwom dɛdɛ,",
+        "Ewim nso hyerɛn fɛfɛ,",
+        "Obi serew soro hɔ,",
+        "B'rč a ɔdɔ wɔ fie."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, ma menyɛ Wo de,",
+        "Na ɔdɔ wɔ fie;",
+        "Ma W'afɔre nyɛ me de,",
+        "Na ɔdɔ wɔ fie.",
+        "Na daa mahome dwoodwoo,",
+        "Na bɔne bi anhaw me,",
+        "W'ahummɔb'rɔ nhyira nom',",
+        "B'rč a ɔdɔ wɔ fie."
+      ],
+      "number": 3
+    }
+  ]
+}

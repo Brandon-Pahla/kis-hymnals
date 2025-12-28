@@ -1,0 +1,54 @@
+{
+  "number": 179,
+  "language": "xh",
+  "title": "179 Nanko Umyeni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Se umlungele u-Myeni, Ngexa afikayo?",
+        "Se umlungele u-Myeni, Ngexa afikayo?",
+        "Nanko esiza! Nanku esiza!",
+        "Nxiba ulunge; U-Myen’ uyeza."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nanko u-Myeni esiza, esiza! Nanko u-Myeni esiza, esiza!",
+        "Nanko esiza! Nanko esiza! Nxiba ulunge, U-Myen’ uyeza."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mazivuth’ izibane Ngexa afikayo;",
+        "Mazivuth’ izibane Ngexa afikayo;",
+        "Uza kamsinya! Uza kamsinya!",
+        "Mphefumlo lunga, u-Myen’ uyeza."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sakuphuma simkhaulele Ngexa afikayo;",
+        "Sakuphuma simkhaulele Ngexa afikayo;",
+        "Nene, uyeza! Nene, uyeza!",
+        "Sakumkhaulela X’ u-Myen’ ezayo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sovuma Haleluya Ngexa afikayo;",
+        "Sovuma Haleluya Ngexa afikayo;",
+        "Nanko esiza! Nanko esiza!",
+        "Haleluya u-Myen’ uyeza."
+      ],
+      "number": 4
+    }
+  ]
+}

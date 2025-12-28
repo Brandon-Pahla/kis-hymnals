@@ -1,0 +1,45 @@
+{
+  "number": 288,
+  "language": "nd",
+  "title": "288 Into YoKupha uJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Baleth’ iz’ pho kuJesu, Zabekw’ enyaweni",
+        "Ukuthand’ uMsindisi, kwabenza bamuphe",
+        "Ngomusa nangamazwi, Nokusiz’ abanye",
+        "Konke uyakubala, Kube kuhle kuYe"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ulethile kuJesu, Isipho esihle",
+        "Wathi, Nans’ inhliziyo! Wayibek’ ezinyaweni"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwaku khon’ isihambi, Esasiqaphele",
+        "Iziph’ ezakhishwayo, Zabalwa zabanhle",
+        "Sasifisa kakhulu, Ukuleth’ isipho",
+        "Kodwa sema eduze, Singena lutho nje"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sakhala sathi, Nkosi, ngiyazi unomsa",
+        "Thabatha lonk’ okwami, Nenhliziyo embi",
+        "U Jesu waphendula, Wath’ Isipho sakho",
+        "Sihle kunazo zonke, Ezalethwa kiMi"
+      ],
+      "number": 4
+    }
+  ]
+}

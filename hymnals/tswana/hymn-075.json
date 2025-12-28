@@ -1,0 +1,45 @@
+{
+  "number": 75,
+  "language": "tn",
+  "title": "75 K’utlwa Lentswe Ja Modisa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "K’utlwa Lentswe Ja Modisa,",
+        "Kwa ntle nageng kwa lefifing,",
+        "A bitsa tse di timetseng, Kgakala le ’saka ja ’Gwe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Di tsenyeng, Di tsenyeng,",
+        "Di tsenyeng di tswa boleung;",
+        "Di tsenyeng, Di tsenyeng,",
+        "Matimela go Jeso."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Mang Yo O Tla Mo Thusang,",
+        "Go mmatlisa matimela?",
+        "Ke mang yo’ tla di busang gae,",
+        "Kwa di femelwang serameng?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwa Ntle Nageng Di Ya Lela,",
+        "Kwa ntle dithabeng, godimo,",
+        "Utlwa Morena O bua nao,",
+        "\"Eya o bone dinku tsa Me.\""
+      ],
+      "number": 3
+    }
+  ]
+}

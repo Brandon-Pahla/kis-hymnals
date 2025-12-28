@@ -1,0 +1,57 @@
+{
+  "number": 37,
+  "language": "sn",
+  "title": "37 Pedyo Kunemwi, Mwari Wangu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Pedyo nemwi, Mwari, pedyo nemwi,",
+        "Kana ne dambudzo, riri neni,",
+        "Ndichiri kuimba, pedyo nemwi Mwari,",
+        "Pedyo nemwi Mwari, pedyo nemwi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndafanane M’fambi, wadokerwa,",
+        "Dima randibata ndi'munzira,",
+        "Mukurota ini,ndiri pedyo nemwi,",
+        "Pedyo nemwi Mwari, pedyo nemwi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nzira yaonekwa yekudenga,",
+        "Munditungamire, kuchengeta,",
+        "Dzasheedza ngirozi, pedyo nemwi Mwari,",
+        "Pedyo nemwi Mwari, pedyo nemwi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndizvo pakumuka, ndikutenda,",
+        "Kubva mudambudzo ndakukudza,",
+        "Muurombo ini ndiri pedyo Mwari,",
+        "Pedyo nemwi Mwari, pedyo nemwi"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvepamwe naJesu, Ndingakwira,",
+        "Pamberi pezuva, kune denga",
+        "Pakuimba ndiri pedyo nemwi Mwari,",
+        "Pedyo nemwi Mwari, pedyo nemwi"
+      ],
+      "number": 5
+    }
+  ]
+}

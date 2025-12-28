@@ -1,0 +1,26 @@
+{
+  "number": 26,
+  "language": "ts",
+  "title": "26. NA LOKO NDZI NGA RI NA NCHUMU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "JUST AS I AM",
+        "1. Na Loko Ndzi Ngari Na Nchumu, U Ndzi Hlantswile Hi Ngati;",
+        "U Ndzi Rhambile Ka Wena, Nyimpfana Ya Hosi, Ndza Ta.",
+        "2. A Ndzi Nchumu, Ntsena Ndza Ta, Ku Ta Basisiwa Moya;",
+        "No Susiwa Na Swivati Hi Ngati, Ya Wena Hosi.",
+        "3. A Ndzi Nchumu, Ndza Ta Sweswi, Ndzi Xikarhi Ka Dzolonga;",
+        "Nyimpi, Nchavo, Nkanakano, Nyimpfana Ya Hosi Ndza Ta.",
+        "4. A Ndzi Nchumu, Ndza Ta Hosi, Evuswetini Bya Mina;",
+        "Ka Wena Ku Na Hinkwaswo, Ndzi Nga Hava Eka Mina.",
+        "5. A Ndzi Nchumu, Ndzi Mukele, Tsetselela, Rivalela;",
+        "Hi Xitshembiso Xa Wena, Ndzi Ta Ka Wena Xikwembu.",
+        "6. A Ndzi Nchumu Hosi Yanga, U Susa Swi Rhalanganyo;",
+        "Ku Hlule Rirhandzu Raku, Nyimpfana Yo Xonga Ndza Ta."
+      ],
+      "number": 1
+    }
+  ]
+}

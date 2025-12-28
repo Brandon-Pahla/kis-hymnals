@@ -1,0 +1,56 @@
+{
+  "number": 280,
+  "language": "tw",
+  "title": "Mommra, Nnebɔn'yɛfo 'Hiafo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mommra, nnebɔn'yɛfo 'hiafo,",
+        "Mm'rɛwyɛfo, 'p'rafo, 'yar'fo;",
+        "Yesų ayɛ krado s'ɔgye mo;",
+        "Tema, 'dɔ, tum' ayɛN' ma."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mɛsɔre akɔ Yesu nɔkyɛn",
+        "ɔbɛgye me ayɛm' atuu",
+        "M'Agyenkwa pa no nsam hɔ na",
+        "Nnepa mpempem nyinaa wɔ."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mommra, mo a sukɔm de mo,",
+        "Monhyɛ 'W'rade 'dom 'nuonyam;",
+        "Nokwar' gyidi ne ahonu,",
+        "Yɛ 'dom a ɛtwe mo bɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "W'ahonim nti ntwentwɛn koraa,",
+        "Nɔso nka sɛ womfata;",
+        "Nea 'hia ne hu a wubehu,",
+        "Ne nkate sɛ wo hia No."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hwɛ! Nyame Ba no wɔ ɔs'ro",
+        "Redi maw' Ne mogya mu;",
+        "Twe bɛn No, twe bɛn No daa daa.",
+        "Mma b'ribiara nsi wo kwan."
+      ],
+      "number": 4
+    }
+  ]
+}

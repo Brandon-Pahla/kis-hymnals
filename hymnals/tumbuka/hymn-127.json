@@ -1,0 +1,50 @@
+{
+  "number": 127,
+  "language": "tum",
+  "title": " 127 Wakunditemwaso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 127 Wakunditemwaso",
+        "HE LOVES ME TOO"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Chiuta wakupwerera tuyuni twa m'dera,",
+        "Usange wakututemwa wakunditemwaso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wakutemwa, wakutemwa,",
+        "wakutemwa ine, Wakutemwa tunthu",
+        "tose wakunditemwaso."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Wakutozga tumaluwa kuti tununkhire,",
+        "Wakututemweska nadi wakunditemwaso."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Chiuta wakalenga tuyuni na vya m'charu,",
+        "Ntha wawaluwenge ana wakutemwa wose."
+      ],
+      "number": 4
+    }
+  ]
+}

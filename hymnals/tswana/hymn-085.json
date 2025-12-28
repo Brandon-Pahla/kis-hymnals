@@ -1,0 +1,37 @@
+{
+  "number": 85,
+  "language": "tn",
+  "title": "85 Ke Opela Thata Ya Modimo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "K’opela That’a Modimo, E Tlhotseng Dithaba,",
+        "E tsharolotseng lewatle E, le legodimo;",
+        "Ke opela ’tlhale jo bo Tlhomileng letsatsi;",
+        "Le yone kgwedi mo taolong, Naledi dia utlwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "K’opela Molemo Wa ’Gwe, Wa Dijo Mo Fatshing,",
+        "O tlhotse ka foko ja ’Gwe, A re go molemo.",
+        "Morena dikgakgamatso Tsa Gago di gotlhe:",
+        "Fa ke tlhatlhoba lefatshe, Gongwe legodimo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsotlhe Tse Di Melang Tlase Dia Go Galaletsa;",
+        "Maru le difefo di teng, Di laolwa ke Wena.",
+        "Le tsone ditshidi di mo Pabalelong ya Go;",
+        "Ga go kwa re ka tshabelang, Modimo O gone."
+      ],
+      "number": 3
+    }
+  ]
+}

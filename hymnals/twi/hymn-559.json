@@ -1,0 +1,37 @@
+{
+  "number": 559,
+  "language": "tw",
+  "title": "Yɛde Yɛn Koma, Nsa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛde yɛn koma, nsa Ne nne da Nyame ase,",
+        "Wayɛ anwanwade, Wiase di 'h'rusi Ne mu.",
+        "Efi yɛn nanom nsam Na ɔde akyɛde",
+        "Ahy'ra yɛn, yɛn kwan so N'ɔda so yɛ yɛn de."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Yamyefo Nyankopɔn ɔnka yɛn ho daa nyinaa;",
+        "ɔmfa ahotɔ kronn Ne dɛw nhyɛ yɛ komam' daa;",
+        "ɔnkōra yɛn Ne dom mu Onnyaw yɛn 'hohia mu;",
+        "Onyi yɛn mfi mmusum', Seesei ne daa nyinaa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkamfo ne aseda Nɔka Agya Nyankopɔn",
+        "ɔba ne Nea ɔne Wɔn bom di hene s'ro no.",
+        "Daa Nyankopɔn k'ro a 'Sase ne s'ro som No;",
+        "Kan no na ɛte saa Na ɛbɛyɛ saa daa."
+      ],
+      "number": 3
+    }
+  ]
+}

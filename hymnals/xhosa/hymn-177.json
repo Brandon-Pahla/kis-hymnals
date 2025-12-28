@@ -1,0 +1,46 @@
+{
+  "number": 177,
+  "language": "xh",
+  "title": "177 Akukho Busuku Khona",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kwelozwe lokukhanya Kukho umzi omhle,",
+        "Awunakuz’ uguge, Akukho busuku."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U-Thixo wozisula Inyembez’ emehlweni,",
+        "Nay’ iminyaka khona Ayisoz’ iphele."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngamasang’ e-perile, Apho kumzi omhle,",
+        "I-strato zi-golide, Akukho busuku."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Masango akavalwa, Apho kumzi omhle,",
+        "Kukho nomlambo wobom, Akukho busuku."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Langa alifuneki, Apho kumzi omhle;",
+        "Yi-Mvana ekukhanya, Akukho busuku"
+      ],
+      "number": 4
+    }
+  ]
+}

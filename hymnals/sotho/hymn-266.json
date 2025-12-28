@@ -1,0 +1,46 @@
+{
+  "number": 266,
+  "language": "st",
+  "title": "266 Jesu Ke Tla U Latela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu ke tla latela,",
+        "Hoba ke utloa U mpitsa.",
+        "Ratong, thorisong kea tla,",
+        "Hore U nkise hae."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke tla latela,",
+        "Ke tla latela,",
+        "Ke tla latela,",
+        "Kae le kae mo nkisang."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mahlo ha a tsoa tseleng",
+        "Le maoto a fapoha,",
+        "Leha ke fokola,",
+        "Ke Uena matla a ka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke le mahlomoleng,",
+        "Libe li le tseleng,",
+        "Ke tla ba le khotso,",
+        "Ha ke U latela."
+      ],
+      "number": 3
+    }
+  ]
+}

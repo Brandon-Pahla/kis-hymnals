@@ -1,0 +1,54 @@
+{
+  "number": 2,
+  "language": "ve",
+  "title": "2 Murena U A da",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:411"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Murena U munangoni, we a hwala tshifhambano;",
+        "Vhothe avho vha u luga, vha do kuvhanganywa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U tsini, na munango, Murena U tsini na munango;",
+        "U a da, U a da o swika munangoni."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Zwithu zwothe zwi sumbedza, u da ha Yesu hu tsini;",
+        "Ri do vhona madautsha, a duvha lihulu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Sedzani zwa shangoni, phusu-phusu a dzi fheli;",
+        "Musi Yesu a tshi vhuya, u do dzi fhelisa"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Henengei shangoni liswa, ri do dzula ri vhakhethwa;",
+        "Hu si tshe na vha no do fa, nga hu sa fheliho."
+      ],
+      "number": 5
+    }
+  ]
+}

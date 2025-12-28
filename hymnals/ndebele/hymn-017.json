@@ -1,0 +1,40 @@
+{
+  "number": 17,
+  "language": "nd",
+  "title": "17 Luthando Olusithabisayo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Si yathaba ngothando, Lu yasithabisa;",
+        "Lu senza sibe nenqgondo, Kwabanye umusa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inkos’ i thanda bonk’ abaYo, Si fis’ ukuba njengaYo;",
+        "Si yathaba ngothando, Lu yasithabisa;",
+        "Lu senza sibe nenqgondo, Kwabanye umusa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ku khon’ usizi lapha;",
+        "Ukufa nezono Ngokuthoba si ngazama, Si zuze umoni"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ekupheleni lapha, Ebuya uJesu;",
+        "Sohlabelela ingoma, Yothand’ olukhulu"
+      ],
+      "number": 4
+    }
+  ]
+}

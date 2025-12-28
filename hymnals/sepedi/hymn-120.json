@@ -1,0 +1,57 @@
+{
+  "number": 120,
+  "language": "nso",
+  "title": " 120 KE A DUMELA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 120 KE A DUMELA",
+        "AH 202 CH 670",
+        "I DO BELIEVE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tate ke leba go Wena,",
+        "Ga go mo nka thušwang,",
+        "Ge Wena o nteseletša,",
+        "Ke tlo ya kae na?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Bjale ke na le tumelo,",
+        "Gore Jes 'o nkhwetše,",
+        "A tšholola madi a 'Gwe,",
+        "Go ntokolla sebeng;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke dumela go Morwa 'Go,",
+        "Ya nkwešago maatla,",
+        "A ntokolle dikganyogong,",
+        "Nakong e swanetšeng;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mong 'a tumelo go Wena,",
+        "Ke laletša mahlo,",
+        "Ke amogele mpho yeo, Ke",
+        "Phele ka yona;"
+      ],
+      "number": 5
+    }
+  ]
+}

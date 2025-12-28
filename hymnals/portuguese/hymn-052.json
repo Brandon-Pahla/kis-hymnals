@@ -1,0 +1,56 @@
+{
+  "number": 52,
+  "language": "pt",
+  "title": "Vestido, em Linho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Vestido, em Linho"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vestido em linho Jesus desceu,",
+        "Trazendo salvação;",
+        "De mirra o bálsamo traz do Céu,",
+        "Beleza e perfeição."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Vindo ao mundo, deixou no Céu",
+        "Palácios de marfim;",
+        "Glória não quis; em dor morreu.",
+        "A cruz suportou por mim."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Trazendo em Si de aloés o odor,",
+        "A morte atroz sofreu;",
+        "Provou aqui amargura e dor;",
+        "Ao mundo abriu o Céu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Olor de cássia as vestes têm:",
+        "Sim, Ele ressurgiu;",
+        "E junto ao Pai Se assentou no além;",
+        "Ao homem redimiu."
+      ],
+      "number": 5
+    }
+  ]
+}

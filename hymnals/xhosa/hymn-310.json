@@ -1,0 +1,38 @@
+{
+  "number": 310,
+  "language": "xh",
+  "title": "310 Phakamisa! Mzalwana, Phakamisa!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nok’ umnqamlez’ usindayo, Phakamisa!",
+        "Ungemi phezu komthwalo, Mzalwana wam!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wuqinis’ uphakamise, Mzalwana wam!",
+        "Phakamisa, wobalula! Mzalwana wam!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ith’ imfanelo, zincame, Mzalwana wam!",
+        "Edabini kuseshushu, Phakamisa!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "X’ ongendawo unamandla, Phakamisa!",
+        "Qinisa unyamezela, Mzalwana wam."
+      ],
+      "number": 3
+    }
+  ]
+}

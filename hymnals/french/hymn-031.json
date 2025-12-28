@@ -1,0 +1,43 @@
+{
+  "number": 31,
+  "language": "fr",
+  "title": "Gloire au Seigneur",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Gloire au Seigneur! Il est venu.",
+        "Ô terre soit en paix!",
+        "Que notre cœur, lui fasse place.",
+        "Nature et cieux, chantez,",
+        "Nature et cieux, chantez,",
+        "Nature et cieux, dansez, chantez."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gloire au Seigneur! Il règne en Roi!",
+        "Mon chant s’élève à lui.",
+        "Vers tes campagnes, collines et plaines,",
+        "Joignez-vous au concert,",
+        "Joignez-vous au concert,",
+        "Joignez-vous tous à ce concert."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Grâce et droiture sont unies",
+        "Pour prendre le relais.",
+        "De sa justice toujours bienfaisante.",
+        "Goûtons tous son amour,",
+        "Goûtons tous son amour,",
+        "Goûtons ensemble son amour."
+      ],
+      "number": 3
+    }
+  ]
+}

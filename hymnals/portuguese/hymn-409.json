@@ -1,0 +1,55 @@
+{
+  "number": 409,
+  "language": "pt",
+  "title": "Rosa de Saron",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Rosa de Saron"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rosa de Sarom, vem ao meu coração;",
+        "Dá-lhe da fragrância desse amor sem-par,",
+        "Para que eu rescenda em minha vida aqui,",
+        "O aroma que só Teu amor pode exalar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Rosa de Sarom,",
+        "Abre em rediante amor",
+        "Em nosso coração"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rosa de Sarom, dom que desceu do Céu,",
+        "Faz de minha vida um vaso em Teu louvor,",
+        "E que eu viva sempre assim a perfumar",
+        "Aqueles que estão em sofrimento e dor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rosa de Sarom, reine pra sempre aqui;",
+        "Tua glória impere em terra, céu e mar.",
+        "Venham as nações render louvor a Ti;",
+        "E o Universo inteiro irá Te adorar."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "number": 1,
+  "language": "es",
+  "title": "Cantad alegres al Señor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cantad alegres al Señor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cantad alegres al Señor,",
+        "mortales todos por doquier;",
+        "servidle siempre con fervor,",
+        "obedecedle con placer."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Con gratitud canción alzad",
+        "al Hacedor que el ser os dio;",
+        "al Dios excelso venerad,",
+        "que como Padre nos amó."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Su pueblo somos: salvará",
+        "a los que busquen al Señor;",
+        "ninguno de ellos dejará;",
+        "él los ampara con su amor."
+      ],
+      "number": 4
+    }
+  ]
+}

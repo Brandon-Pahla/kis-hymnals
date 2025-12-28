@@ -1,0 +1,47 @@
+{
+  "number": 237,
+  "language": "tw",
+  "title": "Mehoa Me Ho Kristo 'Sɛnnuam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mehoa me ho Kristo 'sɛnnuam,",
+        "Etim hɔ nnasanten ny'naa;",
+        "Asɛmpa kronkron no hann ny'naa",
+        "Kowura 'sɛnnua no mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ ɔbra mu haw b'ro me so,",
+        "'Nidaso sa, sųro yi hų a,",
+        "'Sɛnnua no renni me huammɔ,",
+        "Ͻhy'rɛn 'somdwoe ne dɛw mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ ahosɛpɛ hyerɛn sɛ",
+        "Hann ne dɔ me kwan so a,",
+        "Asɛnnua no hann fof'ro no,",
+        "Ma da no nya anuonyam."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nnome ne nhy'ra, yaw ne 'nigye,",
+        "Wɔatew hó asɛnnua nom'",
+        "'Somdwoč a enni kabea wɔ hɔ,",
+        "Ne dɛw a ɛtra hɔ daa.\","
+      ],
+      "number": 4
+    }
+  ]
+}

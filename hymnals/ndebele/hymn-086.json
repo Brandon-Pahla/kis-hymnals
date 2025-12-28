@@ -1,0 +1,47 @@
+{
+  "number": 86,
+  "language": "nd",
+  "title": "86 Dumisa uMbusi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dumis’ uMbusi, Yen’ oiNgcwele,",
+        "Bonga ngothando lwak’olukhulu;",
+        "Sihlangu sethu Mdala wezinsuku,",
+        "Ohlala ebuhleni obunzulu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Landa ngothando, hlabela ngomsa",
+        "‘NgaYe ombethe, ukukhazimla.",
+        "Indlela yAkhe I nokwesabeka;",
+        "Qaphelisisa nxa li dum’ izulu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nguban’ ongasho ukondla kwAkhe?",
+        "Ku khany’ obala, ku semoyeni,",
+        "Ku yagelezela ezintabeni;",
+        "Ku yaleth’ imvula emagangeni."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si ngabantwana bothuli thina,",
+        "KuWe si themba ngawo amandla;",
+        "Umusa nothando lwAkho kithina,",
+        "Sihlobo, Mvikeli wethu, Somandla."
+      ],
+      "number": 4
+    }
+  ]
+}

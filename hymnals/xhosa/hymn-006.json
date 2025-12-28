@@ -1,0 +1,54 @@
+{
+  "number": 6,
+  "language": "xh",
+  "title": "6 U-Yesu Uyeza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lindani, niphaphamile, Bonani iziboniso;",
+        "Khanyisani izibane, Ngoba uYesu uyeza."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Uyeza, Yes’ uyeza! Uyeza, uza ngozuko.",
+        "Ewe, uyeza kulawula, Ewe uYes’ uyeza."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Isithembiso seNkosi, Isisa esathengwayo;",
+        "’Zambatho ezinegazi Zixela imbali yaso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zilawuli zichithekile, Yiv’ amasond’ edilika;",
+        "Xelan’ isisa sandile, Ixilongo lisakhala."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Izizwe ziyaxabana, Mbuso kaThix’ usondele;",
+        "Umhlaba lo uyankwantya, ixesha seliphelile."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Boni yizani ku-Yesu, Usanimel’ ezulwini;",
+        "Ngxaman’ inceb’ iyaphela, U-Yes’ uyeza kamsinya."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "number": 259,
+  "language": "fr",
+  "title": "Amen F",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Amen, alléluia !",
+        "Alléluia !",
+        "Amen, alléluia !"
+      ],
+      "number": 1
+    }
+  ]
+}

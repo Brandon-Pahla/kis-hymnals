@@ -1,0 +1,52 @@
+{
+  "number": 171,
+  "language": "sn",
+  "title": "171 Inguvai Dzeusiku",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Murindi wemuZioni,",
+        "Zvinoyavanguvai?",
+        "Hweva yoobuda here?",
+        "Kwava kuyedza here?",
+        "Tariro yako yava nokujeka?",
+        "Tariro yako yava nokujeka?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Miganhu yese yenyika,",
+        "Taipfuura here?",
+        "Tosvika here m’zororo?",
+        "Toona nyika here?",
+        "Toona here umambo hwa petyo?",
+        "Toona here umambo hwa petyo?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kopenya zuva rabuda, Ngatida’dzire kwazvo;",
+        "Toona hweva yabuda, Ichipenyesa kwazvo",
+        "Vadairi ruponeso rwa’petyo",
+        "Farayi ruponeso rwa’petyo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chiratidzo chaonesa,",
+        "Idi nyika ya’petyo",
+        "Pamberi ngati kasike,",
+        "Zororo rave petyo",
+        "Manzwi enyu ngaadaidze rufaro"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 20,
+  "language": "xh",
+  "title": "20 Vuka, Moya Wam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Vuka, khuthala moya wam,",
+        "Qhubela phambili;",
+        "Batsho njalo ezulwini,",
+        "Naso isitsaba."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leli lizwi lika-Thixo",
+        "Elikubizayo;",
+        "Nguye onika umvuzo",
+        "Kuw’ okhutheleyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Maninzi ke amangqina",
+        "Akubonelayo;",
+        "Yeka indlela zalapha,",
+        "Tsalela phezulu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Singeniswe ngu-msindisi",
+        "Wazo zonk’ izizwe;",
+        "Sobeka ezinyaweni",
+        "Lowo mvuzo wethu."
+      ],
+      "number": 4
+    }
+  ]
+}

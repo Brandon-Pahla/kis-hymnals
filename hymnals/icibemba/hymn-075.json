@@ -1,0 +1,29 @@
+{
+  "number": 75,
+  "language": "bem",
+  "title": "75 - UMFWE MASHIWI YA YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HARK! TIS THE SHEPHERD’S VOICE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Umfwe mashiwi ya Yesu, Uyu mu mpanga yamfimfi,",
+        "Aita abo baluba, Balekele ng'anda yakwe.",
+        "CHORUS:",
+        "Leteni leteni bwesheni bampulumushi;",
+        "Leteni leteni bwesheni kuli Yesu",
+        "2. Nani akafwa Katula, kwafwa kufwaya baluba,",
+        "Nani ababwesha nomba, Ku ng'anda ya wishi wabo",
+        "3. Mu mpanga umfwa balila, Pa lupili lwa ku mfimfi;",
+        "Nomba Yesu amuita \"Fwayeni abantu bandi.\""
+      ],
+      "number": 2
+    }
+  ]
+}

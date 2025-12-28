@@ -1,0 +1,52 @@
+{
+  "number": 449,
+  "language": "tw",
+  "title": "Ahotɔ 'Sase Bi Wɔ Hɔ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ahotɔ 'sase bi wɔ hɔ,",
+        "Nea dɛw ahyɛ hɔ ma;",
+        "'Dekyee nkutoo, 'nadwo nni hɔ,",
+        "'Hɔ 'nigye tu yaw ny'naa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yɛr'ko Immanuel 'sase so,",
+        "Ͻrenkyɛ t'robɛnto bebom,",
+        "Na yɛne Yesu adi hen'",
+        "A yerenni ntetewmu bio.",
+        "So yɛbɛtew mu bio?",
+        "Yɛrentetew mu da!",
+        "So yɛbɛtew mu bio?",
+        "Yɛrentetew mu da;",
+        "Na yɛne Yesu adi hen!",
+        "A yɛrenni ntetewmu bio."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻhɔ na daa nkwa nsuten ne",
+        "Nhwiren a entwan wɔ;",
+        "Kwan tiaa bi n'ɛda s'ro 'sase n'",
+        "Ne fam ha de yi ntam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ yetum' gyina nea Mose",
+        "Gyina hwɛɛ 'sase nō a",
+        "Wiase b'ribiara rentumi",
+        "Ntwe yɛn sɛ hɔ de no."
+      ],
+      "number": 3
+    }
+  ]
+}

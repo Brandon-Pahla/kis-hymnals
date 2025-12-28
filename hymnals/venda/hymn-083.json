@@ -1,0 +1,46 @@
+{
+  "number": 83,
+  "language": "ve",
+  "title": "83 Vhathu Vhothe Kha Ri Imbe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Vhathu rothe kha ri imbe, ri rende dzina la Yesu;",
+        "Ndi dzina li ri tshidzaho, rendani dzina la Yesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ri li khethe-vho, ri li khethe-vho;",
+        "Ri li khethe-vho, ri li khethe-vho; dzina la Yesu Murena."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yesu ndi Mutshidzi washu, rendani dzina la Yesu;",
+        "Mu rendeni nga dzithendo, ni rende dzina la Yesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. li ri tanzwa zwivhi zwashu, rendani dzina la Yesu;",
+        "Yesu o fulufhedzea, rendani dzina la Yesu."
+      ],
+      "number": 4
+    }
+  ]
+}

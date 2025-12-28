@@ -1,0 +1,35 @@
+{
+  "number": 303,
+  "language": "luo",
+  "title": "303 Nysaye Oneno Ka Winyo Odwaro Gore Piny",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nyasaye oneno ka winyoodwaro gore piny;Ka En ohero winyo cha,ang`eyo kohera."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oheroa, oheroa,ang`eyo kohera;Ka En ohero winyo cha,ang`eyo kohera."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Thiepe duto manie e piny,Nyasaye nochweyogi;Ka Nyasaye ohero thiepe,ang`eyo kohera."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nyasaye olosogi duto,kendo oritogi;To an bende oparo an,ang`eyo kohera."
+      ],
+      "number": 4
+    }
+  ]
+}

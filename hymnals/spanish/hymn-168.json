@@ -1,0 +1,65 @@
+{
+  "number": 168,
+  "language": "es",
+  "title": "El Rey que viene",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### El Rey que viene"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "El Rey que viene cerca está,",
+        "el mismo que en la cruz murió;",
+        "mas solo viene esta vez",
+        "por los que rescató."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Cerca está, cerca está,",
+        "a las puertas mismas llega ya;",
+        "viene presto, viene presto;",
+        "a las puertas llega ya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De su venida vemos ya",
+        "señales muchas por doquier,",
+        "y pronto el alba eternal",
+        "podrán los pueblos ver."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pues no contéis con gozo y paz:",
+        "aquí las luchas seguirán;",
+        "mas cuando vuelva el Salvador,",
+        "eterno fin tendrán."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Entonces nuestro hogar será",
+        "la tierra nueva, eternal;",
+        "la muerte nunca entrará,",
+        "pues todo es inmortal."
+      ],
+      "number": 6
+    }
+  ]
+}

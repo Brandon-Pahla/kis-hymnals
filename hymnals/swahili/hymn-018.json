@@ -1,0 +1,34 @@
+{
+  "number": 18,
+  "language": "sw",
+  "title": "18 - Mwokozi Kama Mchunga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Mwokozi kama mchunga, utuongoze leo,",
+        "Ututume malishoni, fanya tayari boma,",
+        "Bwana Yesu peke yako, umetuvuta kwako."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Tu wako uwe rafiki, uwe mlinzi wetu,",
+        "Kundi lako ulilinde, tusivutwe na dhambi,",
+        "Bwana Yesu tusikie, tukiomba samehe."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Umetuahidi kwamba utakubali watu,",
+        "Utawahurumia na, utawapa neema,",
+        "Bwana Yesu tunapenda, kuwa wako mapema."
+      ]
+    }
+  ]
+}

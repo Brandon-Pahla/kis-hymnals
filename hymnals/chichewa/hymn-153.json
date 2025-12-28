@@ -1,0 +1,44 @@
+{
+  "number": 153,
+  "language": "ny",
+  "title": "153 - Sindipemphera Mbuyanga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "JUST FOR TODAY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Sindipemphera, Mbuyanga, Za mawazo;",
+        "Mndipulumutse m’tchimolo Lero lokha;",
+        "Mau ndisalankhulenso Oipawo;",
+        "Msungetu mlomo wangawu, Lero lino."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Dzagwira ntchito yanuyo, Ndzapemphanso;",
+        "Ndikhala wachifundoyo, Lero lokha;",
+        "Mundithandize, Mbuyanga, Kumvera ’Nu;",
+        "Kuti ndidzipereketu Pa leroli."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ngatitu moyo wangawo Utha ndithu;",
+        "M’malonjezano anuwo Ndikhalebe;",
+        "Sindipemphera, Mbuyanga, Za mawazo;",
+        "M’ndisunge m’manja mwanumo Pa leroli."
+      ],
+      "number": 4
+    }
+  ]
+}

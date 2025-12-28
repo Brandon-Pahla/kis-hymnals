@@ -1,0 +1,55 @@
+{
+  "number": 142,
+  "language": "ve",
+  "title": "142. Zwi difha Hani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:238",
+        "AH:096"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. duvha likhethwa la-vhudi,",
+        "la-vhudi kha othe.",
+        "Kha ri hangwe-ha zwa shango,",
+        "Ri humbule Ene."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ri tshi kona u rabela,",
+        "Ra hangwelwa zwivhi.",
+        "Ra sa amba ri sa ofhi, ’re,",
+        "’Khotsi wa tadulu.’"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri tshi do pfa a mulalo,",
+        "Kha mutanganedzi.",
+        "Mitodzi na thembuluwo,",
+        "Zwi isa hayani."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Musi ri tshi kundwa Maanda,",
+        "A u litsha zwivhi.",
+        "A vhonaho zwa mbiluni,",
+        "A ri fha tshilidzi."
+      ],
+      "number": 5
+    }
+  ]
+}

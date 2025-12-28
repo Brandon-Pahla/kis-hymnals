@@ -1,0 +1,34 @@
+{
+  "number": 202,
+  "language": "tn",
+  "title": "202 Jeso Mmoloki Nkgoga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso Mmoloki Nkgoga Sefefong Sa Botshelo;",
+        "Ke tlelwa ke dintelo, Fika je le sa bonweng;",
+        "Thuso e tswa go Wena; Jeso Mmoloki nkgoga."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jaaka Mosadi Ngwana, Didimatsa Lewatle;",
+        "Dintelo dia ’Go utlwa; Fa O re, \"Didimalang; \"",
+        "O Kgosi ya lewatle, Jeso Mmoloki nkgoga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Ke Se Ke Tla Tlola, Go Kgorotlha Makhubu,",
+        "Gare ga me le ka’iso, Foo ke le fubeng sa ’Go,",
+        "A k’utlwe Wena O re, Se boife kea go goga."
+      ],
+      "number": 3
+    }
+  ]
+}

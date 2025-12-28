@@ -1,0 +1,47 @@
+{
+  "number": 83,
+  "language": "tw",
+  "title": "Omonsom Hen' No, S'ro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O monsom Hen' no, s'ro 'nuonyamfo no,",
+        "Na monto N'anwanwa dɔ no ho dwom;",
+        "Yɛn kyɛm, yɛn Gyefo, Nea Ne nna akyɛ no,",
+        "'Nuonyam di N' barehyia, 'yeyi bɔ N'asen."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka Ne tum' ho nsɛm, to Ne dom ho dwom,",
+        "N'atade ne hann, 'wim kata No so;",
+        "Aprannaa, suwisiw ne Ne teaseɛnam,",
+        "Esum ne Ne kwan wɔ mframa ntaban so."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "W'ayamye kɛse n', hena tumi ka?",
+        "Ahyɛ wim ma na ɛhy'rɛn wɔ hann mu;",
+        "Epue nkoko so, pem gu 'saseta so,",
+        "Na ɛdan bosu ne nsu a ɛyɛ dɛ."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mɔfutuma mma, yenni ahoɔden,",
+        "Yɛtwere Wo nko, b'ribi mmu W'abam',",
+        "Wo mmɔb'rɔhunu ase tim kosi daa,",
+        "Wone yɛn Bɔfo, Gyefo, ne yɛn Yɔnko."
+      ],
+      "number": 4
+    }
+  ]
+}

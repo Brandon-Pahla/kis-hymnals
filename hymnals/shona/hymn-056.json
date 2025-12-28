@@ -1,0 +1,67 @@
+{
+  "number": 56,
+  "language": "sn",
+  "title": "56 Tenzi Ndodzoka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndafamba kure kumusha",
+        "Tenzi ndodzoka",
+        "Ndakaita zvakaipa",
+        "Tenzi ndodzoka"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndodzoka kumusha,",
+        "Zvekusafamba",
+        "Tambanudza mawoko,",
+        "Tenzi ndodzoka"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndarasa makore mamwe",
+        "Tenzi ndodzoka",
+        "Ndopinduka nemasodzi",
+        "Tenzi ndodzoka"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi ndaneta kutadza",
+        "Tenzi ndodzoka",
+        "Rudo rwenyu ndosimbira",
+        "Tenzi ndodzoka"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rusimbiro rwangu rwega",
+        "Tenzi ndodzoka",
+        "Kuti Jesu wandifira",
+        "Tenzi ndidzoka"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndashaya ropa reNyenye",
+        "Tenzi ndodzoka",
+        "Mundisambidze ndichene",
+        "Tenzi ndodzoka"
+      ],
+      "number": 6
+    }
+  ]
+}

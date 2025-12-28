@@ -1,0 +1,56 @@
+{
+  "number": 182,
+  "language": "en",
+  "title": "182 Gleams Of The Golden Morning.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "The golden morning is fast approaching;",
+        "Jesus soon will come,",
+        "To take his faithful and happy children,",
+        "To their promised home."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O we see the gleams of the golden morning,",
+        "Piercing through this night of gloom!",
+        "O we see the gleams of the golden morning,",
+        "That will burst the tomb."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "The gospel summons will soon be carried,",
+        "To the nations round;",
+        "The Bridegroom then will cease to tarry,",
+        "And the trumpet sound."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Attended by all the shining angels,",
+        "Down the flaming sky,",
+        "The Judge will come, and will take his people,",
+        "Where they will not die."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "The loved of earth who have long been parted,",
+        "Meet in that glad day;",
+        "The tears of those who are broken hearted,",
+        "Shall be wiped away."
+      ],
+      "number": 4
+    }
+  ]
+}

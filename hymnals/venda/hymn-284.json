@@ -1,0 +1,52 @@
+{
+  "number": 284,
+  "language": "ve",
+  "title": "284. Musi maduvha A Tshi Fhira",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Hu na vha no ri li tshi kovhela, vha vha na vhubva;",
+        "Hu na vhathuphei musi duvha li tshi kovhela,",
+        "vhanwe vha phuphudzika musi duvha li tshi kovhela;",
+        "Zwivhuya ri nga ita duvha li tshi kovhela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kovhela ¦ kovhela¦ kovhela¦ kovhela;",
+        "Na zwivhuya ri nga zwi ita li tshi kovhela."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Vhubva vhu songo vha hone musi li tshi kovhela;",
+        "Khofheni hu penye musi duvha li tshi kovhela,",
+        "Hu pfala tshililo tsha muthu o huvhalaho;",
+        "Thusa vha waho musi duvha li tshi kovhela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Lufuno lu vuwe musi duvha li tshi kovhela;",
+        "Zwothe ri zwi hangwe musi duvha li tshi kovhela,",
+        "Ri zwale mbeu yavhudi, i pakate khula;",
+        "Dzi do takadza musi duvha li this kovhela."
+      ],
+      "number": 4
+    }
+  ]
+}

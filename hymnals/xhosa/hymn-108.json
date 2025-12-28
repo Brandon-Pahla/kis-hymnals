@@ -1,0 +1,44 @@
+{
+  "number": 108,
+  "language": "xh",
+  "title": "108 Ubiza Ngothando Nangokuthambileyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U-Yesu ngu-Malusi, Uthi kuwe yiza,",
+        "Ebuhlanti unqabe, Uzuz’ ukuphumla;",
+        "Yiza usenamandla, Yiza usemtsha-nje,",
+        "Ngen’ ebuhlant’ unqabe Kwindlela yenene."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ubiza ngothand’ olucengayo; Wen’ ubhadulayo yiz’ apha kum,",
+        "Umi njalo u-Yesu ngomonde, U-Malusi Ongcwele."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U-Yesu ngu-Malusi Owakufelayo,",
+        "Ngok’ ubiza ngocengo, \"Mbhaduli, yiza kum\";",
+        "Ngxama phandle yingozi, Utsh’ u-Malus’ omhle,",
+        "Ngen’ ebuhlant’ unqabe kwindawo yophumlo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Budeng’ ukulibala, Waqwengwa zingcuka,",
+        "Zifun’ ezibhadula, namatakan’ azo;",
+        "U-Malusi wothando uthi, yiza ngoku,",
+        "Ngen’ ebuhlant’ unqabe, Aph’ uphumla khona."
+      ],
+      "number": 3
+    }
+  ]
+}

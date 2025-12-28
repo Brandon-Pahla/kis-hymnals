@@ -1,0 +1,37 @@
+{
+  "number": 282,
+  "language": "xh",
+  "title": "282 Amawaka-waka Ehadi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yivani ingom’ emnandi Iphuma ezulwini,",
+        "U-Yes’ uthath’ ubukhosi, Liyavuya izulu.",
+        "Mbon’ ehlel’ etroneni, Ungumlauli womhlaba.",
+        "Haleluya! Haleluya! Haleluya! Amen."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Laula Nkosi yamaKhosi, Laula ngonaphakade.",
+        "AbaKho ngekhe bahluthwe, Abasindisiweyo;",
+        "Bazaliswe Luvuyo Yonke imihla yabo.",
+        "Haleluya! Haleluya! Haleluya! Amen."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phangis’ ukubuya kwaKho, Msindisi silindile,",
+        "Uyakudlula lo mhlaba Nezulu njengencwadi;",
+        "Sohlabela sicule, \"Dumo, Dumo kwiNkosi!\"",
+        "Haleluya! Haleluya! Haleluya! Amen."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 69,
+  "language": "st",
+  "title": "69 Re Tla Phomola Pela’ metsi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Re tla phomola pel’a metsi, Metsi a hloekileng;",
+        "Jesu re tla mo bona teng, O re lebeletse."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re tla phomola pel’a metsi, Re phomole pel’a metsi,",
+        "Re phomole pel’a metsi, A liba sa bophelo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha re khathetse ke leeto, Re tla lula hantle,",
+        "Pel’a seliba sa bophelo, Seliba se secha."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tlo ho Jesu Kreste u tiisoe, U tsebe ho ema,",
+        "Ke eena metsi a bophelo, Noa u se k’a nyoroa."
+      ],
+      "number": 4
+    }
+  ]
+}

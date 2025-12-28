@@ -1,0 +1,27 @@
+{
+  "number": 197,
+  "language": "fr",
+  "title": "Ô Jésus, berger fidèle",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Jésus, berger fidèle,",
+        "Veille sur moi cette nuit,",
+        "Garde ton agneau si frêle",
+        "Jusqu'à l'heure où le jour luit."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aujourd'hui ta main puissante",
+        "M'a conduit et protégé.",
+        "Ma prière confiante dit :",
+        "« Merci, mon bon berger »."
+      ],
+      "number": 2
+    }
+  ]
+}

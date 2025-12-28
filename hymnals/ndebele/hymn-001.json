@@ -1,0 +1,49 @@
+{
+  "number": 1,
+  "language": "nd",
+  "title": "1 Vuthela Icingo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mlindi, vuthel’ icilongo,Xwayis’ abadukile;",
+        "Lowoozway’ icilingo, Angaphenduk’ aphile."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vuthel’ icilongo, mlindi",
+        "iNkos’ ithi; Vuthela…",
+        "Li vuthelefuthi-futhi;",
+        "Bonkebangasindiswa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Li khalis’ eziqogweni, Endaweningendawo;",
+        "Ba solwandlememezani: Indaba yokuphila."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yimemezeendleleni, Yith’ “Into zilungile;”",
+        "Ku semnyamaemhlabeni, uBab’ u silindile."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Batsheleabasindwayo, uJes’ u yabanxusa.",
+        "U yashokwabamdingayo: “Wozaniniphiliswe.”"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 199,
+  "language": "ve",
+  "title": "199. Hu Rendwe Mudzimu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:341",
+        "AH:144"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Hu rendwe Mudzimu nga zwe a sika,",
+        "O funa lifhasi a ri fha Yesu;",
+        "A ri fha vhutshilo uri ri tshile,",
+        "A vule munango uri ri dzhene."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Rendani! Murena na shango li zwi pfe,",
+        "Rendani! Murena takalani vhathu,",
+        "Idani kha khotsi ndila ndi Murwa,",
+        "ni mu khode nga zwothe zwe a zwi ita."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yesu o ri renga ngao malofha,",
+        "Ndi fulufhedziso la vha tendaho;",
+        "Naho u na zwivhi zwi zwinzhi-zwinzhi,",
+        "U tshi tenda u do pfumelelwa-vho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi zwinzhi zwe a zwi ita nga Maanda,",
+        "Dakalo lihulu nga Murwa wawe.",
+        "Zwine ra zwi ita zwi bvele phanda,",
+        "Ri do takala ri tshi vhona Yesu."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "number": 238,
+  "language": "ve",
+  "title": "238. Naa Ndi Vhonnyi Avha?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Naa ndi vhonnyi vho fhiraho lufu?",
+        "Khevhala ngei seli ha mavhIda.",
+        "Vha tshi khou renda Yesu,",
+        "Vho tanzwiwa nga Ngwana."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Vha tshi nzhena kha Yerusalema muswa,",
+        "vho tanzwiwa nga Ngwana (nga Ngwana)",
+        "Vha tshi nzhena kha Yerusalema muswa,",
+        "vho tanzwiwa nga Ngwana."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Vhenevho vho ri vha tshe vhatuku,",
+        "Vha thanya vha di nangela Yesu",
+        "Vha takalela Ene,",
+        "Vho tanzwiwa nga Ngwana"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi vho kondelelaho mathupho,",
+        "Vha wana vhuawelo ha Yesu.",
+        "Vha tshi khoda tshilidzi, go di pika,",
+        "Vho tanzwiwa nga Ngwana"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Vhenevho vho ri vha tshi thuphiwa,",
+        "Vha ima vhukati ha mulilo,",
+        "Yesu u ri, ’Idani,",
+        "no tanzwiwa nga Ngwana.’"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Vho no ya fhethu hu takadzaho,",
+        "Vho no fhira lufu na matungu,",
+        "Vha dzula vho takala,",
+        "vho tanzwiwa nga Ngwana."
+      ],
+      "number": 6
+    }
+  ]
+}

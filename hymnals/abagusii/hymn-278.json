@@ -1,0 +1,42 @@
+{
+  "number": 278,
+  "language": "guz",
+  "title": "278 'Buya Mbore Nka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Buya mbore nkak'obwachani boreo,'Mogok'oigwekek'obwanchani bore nka;'Morembe n'omoigoto,N'omogoko bibeo,Ng'aki ere buyak'obwanchani bore nka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Bwanchani, bore nka,Ng'aki ere buyak'obwanchani bore nka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Mogoko nyombak'obwanchani boreo,Moko tegocha,k'obwanchani bore nka;Bisicha biam'as'ense,As'emegond'emiya,Bogima bwagokigwa,'Bwanchani nyomba."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. lgor'egoka k'obwanchanibore nka,Ens'eichorw'obwanchaniko bore nyomba;Agansoko gatera,Igoro ner'eraba,k'obwanchani bore nka,Yes'agokigwa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Yeso nkore mb'oyoobwanchani boche,Nsang'ekeng'wanso kiao,'Rio twanchane nka;Ntimoke korw'obobe, Tindengereri 'ebibe,'S'obuya nseseneke,Bwanchani nyomba."
+      ],
+      "number": 5
+    }
+  ]
+}

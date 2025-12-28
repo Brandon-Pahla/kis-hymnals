@@ -1,0 +1,16 @@
+{
+  "number": 416,
+  "language": "fr",
+  "title": "Merci, Seigneur",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Merci, Seigneur, merci, Seigneur,",
+        "Merci, Seigneur, merci, Seigneur,",
+        "Amen, amen."
+      ],
+      "number": 1
+    }
+  ]
+}

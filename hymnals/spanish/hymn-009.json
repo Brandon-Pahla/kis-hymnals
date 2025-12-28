@@ -1,0 +1,34 @@
+{
+  "number": 9,
+  "language": "es",
+  "title": "Alabemos al Señor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Alabemos al Señor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alabemos al Señor;",
+        "demos gloria al Señor.",
+        "Aleluya, amén,",
+        "aleluya, amén."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Prediquemos de su amor;",
+        "anunciemos su perdón.",
+        "Aleluya, amén,",
+        "aleluya, amén."
+      ],
+      "number": 3
+    }
+  ]
+}

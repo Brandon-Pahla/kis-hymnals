@@ -1,0 +1,27 @@
+{
+  "number": 296,
+  "language": "ts",
+  "title": "296. NDZI LETELE NDLELEN",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LEAD ME, SAVIOUR",
+        "1. Ndzi Letele Ndlelen (Ndleleni), Ndzi Chava Ku Lahleka (Lahleka),",
+        "Muponisi Ndzi Letele, Ndzi Nga Ta Ya Lahleka, Ndzi Kuma Nhlayiseko (Ka Wena), Ni Rirhandzu Ka Wena (Ka Wena),",
+        "Ndzi Kma Nhlayiseko, Ndzi Ta Tshama Rirhandzwini.",
+        "CHORUS",
+        "Ndzi Letele, Muponisi Hosi Yanga (Muferi),",
+        "Nkarhi Wu Ko Wu Hela, Nkarhi Wu Kondza Wu Ya Hela,",
+        "Ndzi Letele Ndleleni (Ya Hosi).",
+        "2. U Khokholo Ra Mina (We Hosi) Nkarhini Wa Timheho (To Tika),",
+        "U Khokholo Ra Mina, Nkarhini Wa Timheho, Hi Wena Ntshembhi Wanga (Muferi), Ndzi Ta Tshama Ka Wena (We Hosi),",
+        "Hi Wena Ntshembo Wanga, Ndzi Ta Tshama Ka Wena.",
+        "3. Yesu Ndzi Sirhele (Mulweri) Hi Wena Mukutsuri (Lonen),",
+        "Ka Mheho Ya Vutomi Hi Malwandla Ka Mheho, Ku Ya Fika Ekaya (Ka Hina), Ku Fika Kwale Kaya (Ka Hina),",
+        "No Soriwa Mihloti, Ku Fika Kwale Kaya."
+      ],
+      "number": 1
+    }
+  ]
+}

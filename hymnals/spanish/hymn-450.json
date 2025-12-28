@@ -1,0 +1,66 @@
+{
+  "number": 450,
+  "language": "es",
+  "title": "¡Oh Jesús, Pastor divino!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Oh Jesús, Pastor divino!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh Jesús, Pastor divino!",
+        "Acudimos a rogar",
+        "que desciendas amoroso",
+        "tus corderos a buscar.",
+        "¡Oh Pastor!, ven, tu rebaño",
+        "te reclama sin cesar,",
+        "te reclama sin cesar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Al herido del pecado",
+        "no lo dejes sucumbir;",
+        "al que va por otra senda",
+        "déjale tu voz oír.",
+        "¡Ven, Pastor!, el lobo llega",
+        "y nos quiere destruir,",
+        "y nos quiere destruir."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Guíanos por tus senderos",
+        "al aprisco del amor;",
+        "llévanos cual corderitos",
+        "en tu seno bienhechor.",
+        "Guía, sí, a tus corderos,",
+        "amantísimo Pastor,",
+        "amantísimo Pastor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oye, Cristo, nuestro ruego,",
+        "oye nuestra petición;",
+        "ven, ampara tu rebaño",
+        "con tu santa protección.",
+        "Te lo piden tus corderos",
+        "con humilde corazón,",
+        "con humilde corazón."
+      ],
+      "number": 5
+    }
+  ]
+}

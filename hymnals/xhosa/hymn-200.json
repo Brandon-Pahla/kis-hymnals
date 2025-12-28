@@ -1,0 +1,37 @@
+{
+  "number": 200,
+  "language": "xh",
+  "title": "200 Ngcwele, Ngcwele, Ngcwele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngcwele, ngcwele, ngcwele, Thixo Somandla!",
+        "Kwakusasa siyakudumisa Wena;",
+        "Ngcwele, ngcwele, ngcwele, Unenceba yonke!",
+        "Ophezu konke ngonaphakade."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngcwele, ngcwele, ngcwele, Wen’ ukhungwayo",
+        "Zingelosi zonke zimi phambi kwaKho;",
+        "Amawaka-waka akunqula wena,",
+        "Ohlal’ uhleli ngonaphakade."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngcwele, ngcwele, ngcwele, Ofihlakele,",
+        "Thina boni singe nakukubona nje;",
+        "Nguwe wedw’ ongcwele, kungekho wumbi nje,",
+        "Ufezekile ngendawo zonke."
+      ],
+      "number": 3
+    }
+  ]
+}

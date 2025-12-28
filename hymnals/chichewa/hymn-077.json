@@ -1,0 +1,53 @@
+{
+  "number": 77,
+  "language": "ny",
+  "title": "77 - Kufunafuna Otaikawo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SEEKING THE LOST"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kufunatu E! ndi mtina wonse,",
+        "Kufuna akusocherawo;",
+        "Lalika kuti Yesu anati,",
+        "Idzani nonse kwa Inetu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Pitanitu (inde) konse konseko,",
+        "Mukabwere ndi (anthu) osochera;",
+        "M’khola lake la (Yesu) Mpulumutsi.",
+        "Nafera’Ye anthu (E) ochimwa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kufunatu ndi kutsogolera,",
+        "Anthu ofoka’wo kwa Yesu;",
+        "Kutsogolera njira yabwino,",
+        "Yonka ku moyotu wosatha."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tidzitero ponka kulalika,",
+        "Kutsata Yesu tsiku n’tsiku;",
+        "Ndi kuthangata ofoka onse,",
+        "Kuwatsogolera kwa Yesu."
+      ],
+      "number": 4
+    }
+  ]
+}

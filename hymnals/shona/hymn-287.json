@@ -1,0 +1,37 @@
+{
+  "number": 287,
+  "language": "sn",
+  "title": "287 Mukuyedzwa Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mukuyedzwa, Jesu ndimirireyi",
+        "Tenzi kuti ini, ndisamusiye",
+        "Kuti ndotenheka, nditsiureyi",
+        "Musandibvumire, kuputsikazve"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pasi nerufaro, Rwakarambidzwa",
+        "Neupfumi hwaro, Zvisandi ku’adza",
+        "Mugonditondedza neGetsimani",
+        "Kana muchinjiko, weKarivari"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana ’mi maunza, urombo, nhamo",
+        "Kana ndirwadziwe, munzira pasi",
+        "Bvumira ndione, r’woko rwenyu",
+        "Bvumirayi kuti ndimusimbire"
+      ],
+      "number": 3
+    }
+  ]
+}

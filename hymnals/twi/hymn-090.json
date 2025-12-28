@@ -1,0 +1,63 @@
+{
+  "number": 90,
+  "language": "tw",
+  "title": "Daa Nyamč a Wo Tumi Kura",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Daa Nyamč a Wo tumi kura",
+        "Nhwiren ne ns'romma mu,",
+        "Wo a W'anim nni b're nni beae,",
+        "'Ky'riky'ri anaa bɛnkyɛe,",
+        "Ananafo, ahɔhobea,",
+        "Na 'bofra bi nyera:",
+        "Brɛ yɛn W'ad'yifo nokwafo",
+        "Na wɔmmɛgye 'man ny'naa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nokware Nyamč a nyansapɛ",
+        "Hwehwɛ W' na 'kra som Wo,",
+        "Hy'rɛn nokware adwen biaram'",
+        "Wɔ 'sase biara so:",
+        "Pam sum a efi atorɔ,",
+        "Mfomsode ne sųro mu,",
+        "Kosi sɛ ɔsoro nyansa",
+        "Bɛhy'rɛn ɔbra kwan so."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyamč a W'ahoɔfɛ da adi",
+        "Wɔ nnipa 'dwinne mu",
+        "Kasa a wɔde to dwom mu,",
+        "Komam' kronkronyɛ mu:",
+        "Ky'rɛ yɛn ma yɛmpo efi ny'naa,",
+        "Ne akyinnyegye ny'naa",
+        "Kosi sɛ yebehu dɛw a",
+        "Ͻwɔ 'brabɔ pa mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyamč a Wo trenee ne Wo dom",
+        "Dá adi Wo Ba Kristom'",
+        "Nea Ne bra ne wu yi Wo ky'rɛ",
+        "Nea ɔyɛɛ W'apɛde;",
+        "Boa ma yɛntrɛw W'ahenni nom'",
+        "Kosi sɛ 'tan begyae,",
+        "Na 'yamye atra koma mu",
+        "Na 'sase 'nya 'somdwoe!"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "number": 14,
+  "language": "tw",
+  "title": "Momma Yɛnkamfo 'W'rade Din",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Momma yɛnkamfo 'W'rade din",
+        "monhyɛN' 'nuonyam, Amen.",
+        "Amen, amen.",
+        "Amen, amen."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Monkɔ wiase 'fanan nyinaa",
+        "Haleluya, Amen.",
+        "Amen, amen.",
+        "Amen, amen."
+      ],
+      "number": 2
+    }
+  ]
+}

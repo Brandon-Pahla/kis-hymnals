@@ -1,0 +1,47 @@
+{
+  "number": 23,
+  "language": "sw",
+  "title": "23 - Yesu Furaha ya Moyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Yesu furaha ya moyo, hazina ya pendo na nuru.",
+        "Yote yatupendezayo, yasilinganishwe nawe."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Kweli yako ya daima, wawajibu wakwitao,",
+        "Ni siku zote u mwema, kwao wakutafutao."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "U Mkate wa Uzima, kupokea ni baraka,",
+        "Twanywa kwako u kisima, roho zikiburudika,"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Mwokozi twakutamani, kwako roho hutulia,",
+        "Twakushika kwa imani, nawe watubarikia."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "Yesu, ndiwe kwetu mwanga, tufurahishe daima,",
+        "Giza la dhambi fukuza, uwe mwanga wa Uzima."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "number": 132,
+  "language": "ny",
+  "title": "132 - Yesu, Mundisungetu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NEAR THE CROSS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu, mundisungetu, Mfupi mtanda wanu;",
+        "Ndipezemo kasupe Wondichiza mtima."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mtandawo, mtandawo, Nditamanda mtanda,",
+        "Mpaka moyo wangawo Udzapume mmwamba."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nsisi zandipezanso, Pomwe pali mtanda.",
+        "Ee! Pa mtanda nthandayo Indiunikira."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Pa mtandapo ndiona Mwana wa Mulungu.",
+        "Mndithandize, Mbuyanga, Kuyendabe nanu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Pa mtandapo ndzalinda, Ndikuyembekeza,",
+        "Mpaka ndidzafika ku Dziko la kumwamba."
+      ],
+      "number": 5
+    }
+  ]
+}

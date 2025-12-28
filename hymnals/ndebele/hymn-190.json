@@ -1,0 +1,49 @@
+{
+  "number": 190,
+  "language": "nd",
+  "title": "190 Ibizo Eliyigugu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Thath’ ibizo lika Jesu, We mntwana, wezinhlungu,",
+        "Yebo li yathokozisa, Ngako Yamkela lona"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ibizo, O, luhle!",
+        "Gugu lasezulwini",
+        "Ibizo, O, lihle!",
+        "Injabul’ emhlabeni"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thath’ ibizo lika Jesu, Li yasithokozisa,",
+        "Nxa u hanqwa izilingo Themba ku lelibizo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, ibizo lika Jesu! Li yasithokozisa,",
+        "Nxa esesamkela thina Si mhlabelele Yena"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si guqa ngebizo lAkhe, Si we phambili kwAkhe,",
+        "Ey’ iNkosi enomqhele, S’omdumisa phakade"
+      ],
+      "number": 5
+    }
+  ]
+}

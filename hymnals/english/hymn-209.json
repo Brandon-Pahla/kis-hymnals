@@ -1,0 +1,47 @@
+{
+  "number": 209,
+  "language": "en",
+  "title": "209 A Closer Walk",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, for a closer walk with God!",
+        "A calm and heav,nly frame,",
+        "A light to shine upon the road,",
+        "That leads me to the Lamb."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Return, O holy Dove! Return,",
+        "Sweet Messenger of rest;",
+        "I hate the sins that made thee mourn,",
+        "And drove thee from my breast."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "What peaceful hours I once enjoyed!",
+        "How sweet their memory still!",
+        "But they have left an aching void,",
+        "The world can never fill."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "The dread idol I have known,",
+        "Whate’er that idol be,",
+        "Help me to tear it from thy throne,",
+        "A worship only thee."
+      ],
+      "number": 4
+    }
+  ]
+}

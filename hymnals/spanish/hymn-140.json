@@ -1,0 +1,61 @@
+{
+  "number": 140,
+  "language": "es",
+  "title": "Te quiero, te quiero",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Te quiero, te quiero"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Te quiero, te quiero, te quiero, Señor;",
+        "te quiero, Dios mío, mi fiel Salvador:",
+        "a ti y a tu iglesia, tu casa, tu altar;",
+        "mas cuánto, mis obras te lo han de",
+        "mostrar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Placer indecible, profundo, eternal;",
+        "me encuentro en la cumbre de gozo",
+        "inmortal;",
+        "contemplo, arrobado, su gloria sin par,",
+        "y anhelo a Cristo y al cielo volar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Concédeme, oh Cristo, tu fuerza y",
+        "virtud,",
+        "tu gozo, tu vida, reposo y salud.",
+        "Tu gracia, de mi alma es la inspiración;",
+        "tu amor y tu nombre, mi santa canción."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh Cristo, ¿a quién como tú puedo",
+        "hallar?",
+        "Tu voz me consuela, me ayuda a",
+        "cantar.",
+        "Tú ligas a mi alma con cuerdas de",
+        "amor.",
+        "Te cantan mis labios con todo",
+        "fervor."
+      ],
+      "number": 5
+    }
+  ]
+}

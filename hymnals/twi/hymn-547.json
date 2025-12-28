@@ -1,0 +1,47 @@
+{
+  "number": 547,
+  "language": "tw",
+  "title": "Wone M'adehum'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wone m'adehun', O me koma W'ra;",
+        "B'ribiara ho nhia me gye sɛ Wo nko;",
+        "Wone m'adwenpa, awia ne 'nadwo,",
+        "Nna mų o sɔre mų o, Wone me hann no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wone me nyansa, ne me nokwasɛm;",
+        "Wo ne me wɔ hɔ daa, m'Awurade;",
+        "Wone m'Agya pa, na meyɛ Wo ba,",
+        "Wote me mu na me ne Wo yɛ k'ro."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mempɛ ahonya, ne nnipa nkamfo;",
+        "Wone m'apɛgyade, bere nyinaa,",
+        "Wo na Wudi kan wɔ me koma' mu,",
+        "ɔsro Hen kɛse, m'ademude neW'."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔs'ro Hen' kɛse, sɛ midi nim a",
+        "Ma minnya ɔs'ro dɛw, O s'ro wia pa;",
+        "Me komam koma, nea 'besi biara",
+        "Wone m'adehun', O ade ny'naa W'ra."
+      ],
+      "number": 4
+    }
+  ]
+}

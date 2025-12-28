@@ -1,0 +1,46 @@
+{
+  "number": 485,
+  "language": "tw",
+  "title": "'Sɛ Sɛ Meka M'amane Ky'rɛ Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Sɛ sɛ meka m'amane ky'rɛ Yesu,",
+        "Me nko merentum' nsoa 'desoa yi;",
+        "Me yaw mu ɔde 'yamye bɛboa me,",
+        "Daa ɔdo na ɔhwɛ Ne nk'rɔfo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mɛkā aky'rɛ Yesu, Mɛkā aky'rɛ Yesu,",
+        "Me nko merentum' nsoa m'adesoa;",
+        "Mɛkā aky'rɛ Yesu, Mɛkā aky'rɛ Yesu,",
+        "Yesu tum' boa me, Yesu nkutoo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Sɛ sɛ meka me haw ny'naa ky'rɛ Yesu,",
+        "ɔye Adamfo, mmɔb'rɔhun'fo;",
+        "Sɛ mesrɛ No a, ɔbɛgye me nkwa,",
+        "Na Wama me haw atwam' akɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wiase daadaa me, twe me kɔ bɔnem',",
+        "Ao, me koma taa hwč ase bɔnem';",
+        "Mɛkā aky'rɛ Yesu, na ɔbɛboa me",
+        "Ama madi wiase so nkonim."
+      ],
+      "number": 3
+    }
+  ]
+}

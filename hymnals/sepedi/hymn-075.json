@@ -1,0 +1,57 @@
+{
+  "number": 75,
+  "language": "nso",
+  "title": " 75 E-KWA LENTŠU LA MODIŠI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 75 E-KWA LENTŠU LA MODIŠI",
+        "AH 347 CH 625",
+        "HARK! 'T IS THE SHEPHERD'S VOICE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ekwa lentšu la modiši,",
+        "Kwa sethokgweng ka leswiswing,",
+        "A bitša tše di timetšeng,",
+        "Kgole le lešaka la 'Gwe;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Di tsenyeng, di tsenyeng,",
+        "di tšwa kgole dithabeng,",
+        "Di tsenyeng, di tsenyeng,",
+        "Di tlišeng go Jeso;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke mang yo'a ka mo thušago,",
+        "Go nyaka ba ba timetšeng,",
+        "Ke mang yo'a ka dibušang,",
+        "Moo di ka bang polokegong;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ekwa di lla sethokgweng,",
+        "Kwa dithabeng godimo,",
+        "Ekwa Morena ge a re,",
+        "'Eya o bone 'nku tša ka';"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": 612,
+  "language": "en-sdah",
+  "title": "612 Onward, Christian Soldiers",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Onward, Christian soldiers! Marching as to war, With the cross of Jesus Going on before. Christ the royal Master Leads against the foe; Forward into battle See, His banners go!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain : Onward, Christian soldiers! Marching as to war, With the cross of Jesus Going on before."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Like a mighty army Moves the church of God; Christians, we are treading Where the saints have trod; We are not divided, All one body we, One in hope and doctrine, One in charity."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Crowns and thrones have perished, Kingdoms rise and wane, But the church of Jesus Constant will remain. Gates of hell can never ‘Gainst that church prevail; We have Christ's own promise, That can never fail."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Onward, then, ye people! Join our happy throng, Blend with ours your voices In the triumph song; Glory, praise, and honour Unto Christ the King, This through countless ages Men and angels sing."
+      ],
+      "number": 5
+    }
+  ]
+}

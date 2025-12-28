@@ -1,0 +1,26 @@
+{
+  "number": 257,
+  "language": "bem",
+  "title": "257 - TASUNKANISHIWA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "UNSHAKEN AS THE SACRED HILLS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Twisunkanishiwa tube nge mpili sha mushilo,",
+        "Takaseshiwe nakalya, Uwamusumina",
+        "2. Te fibumba nangu impili ifinga tusunga;",
+        "Kano mumaboko yakwe, Emo twinga sungwa.",
+        "3. Ubasunge, Bakutemwa mu mitima yabo:",
+        "Abacetekela cine, Ta basule funde."
+      ],
+      "number": 2
+    }
+  ]
+}

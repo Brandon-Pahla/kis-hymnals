@@ -1,0 +1,63 @@
+{
+  "number": 161,
+  "language": "sn",
+  "title": "161 Mwari Wangu Neni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndine shamwari yangu",
+        "Yandinodisisisa",
+        "Anorudo rwakanaka",
+        "Anondida kwazvo",
+        "Handisaigara kure,",
+        "Ndoda ave petyo",
+        "Tichagara pamwepo",
+        "Iye, neni"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndoziya nekuneta",
+        "Iye anoziva",
+        "Sezvo achindidaidza",
+        "Ndoda kubatsirwa",
+        "Anonditungamiririra",
+        "Nenzira’no penya",
+        "Zve tinofamba tese",
+        "Iye, neni"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndomu’dza zvangu zvese",
+        "Rufaro ne nhamo",
+        "Ndom’dza zvinondifadza",
+        "Nezvisingafadzi",
+        "Anondiudza zvva’noda",
+        "Nekuyedza kwangu",
+        "Tichataura tese",
+        "Iye, neni"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anoziva ndinoda",
+        "Kubatsira mweya",
+        "Zvino anoti ndiende",
+        "Kunotaurira",
+        "Vamwe norudo rwake vo",
+        "Nokufa kwake zve",
+        "Tinobatira pamwe",
+        "Iye, neni"
+      ],
+      "number": 4
+    }
+  ]
+}

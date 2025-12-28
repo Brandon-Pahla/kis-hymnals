@@ -1,0 +1,34 @@
+{
+  "number": 143,
+  "language": "xh",
+  "title": "143 Nkosi, Sindulule",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sindulule kaloku Nkos’, Sizalise ngovuyo;",
+        "Usinik’ uthando lwaKho, Singabathengwa baKho.",
+        "Sihlaziye, sihlaziye, sihamba kule ntlango!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sikubulela, sikhunga, Ngentsholo ye-vangeli;",
+        "Iziqhamo zosindiso, Maziqaqambe kuthi;",
+        "Sithembeke, sithembeke, Sikuyo lenyaniso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Logama sise selizwen’, Silaule Nkosi yethu;",
+        "Someleze ngelo themba, Sihambe singadinwa",
+        "Side silubon’ uzuko Sinawe ezulwini."
+      ],
+      "number": 3
+    }
+  ]
+}

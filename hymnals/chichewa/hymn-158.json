@@ -1,0 +1,62 @@
+{
+  "number": 158,
+  "language": "ny",
+  "title": "158 - Masika A Dziko Ayandika",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HASTEN ON, GLAD DAY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Masika a dziko ayandikatu,",
+        "Aitana Mbuye okololawo;",
+        "Ndi minda yayera pa dziko lonse,",
+        "Ndi mwini zotuta wayandikanso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "’Dzanitu msanga, Tengatu zotuta;",
+        "Mdzatitenge ’fe, Kwathuko."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "(Alto, Tenor, and Bass):",
+        "Idzanitu angelo, msangatu;",
+        "Tengerani zotuta mmwambamo.",
+        "Mudzatengetu ife, kunkatu,",
+        "Kwathu mmwambamo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. E, tsiku lopanda misozi konse,",
+        "Layandika kudza mothamangatu;",
+        "Akubalalika ndi uchimowo,",
+        "Mwasonkhetu nthawi isanathei."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ikomatu ntchito ya chikondicho,",
+        "Kasupe wosaphwa wa kumwambako;",
+        "Chikonditu ndicho chiitana ’fe,",
+        "Chigwiritsa ntchito, chibalitsatu."
+      ],
+      "number": 5
+    }
+  ]
+}

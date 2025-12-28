@@ -1,0 +1,56 @@
+{
+  "number": 88,
+  "language": "sn",
+  "title": "88 Musandipfuure Tenzi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Musandipfuure Tenzi,",
+        "Inzwai ndochema ,",
+        "Apo mwadaidza vamwe,",
+        "Musandipfuure"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muponesi, Inzwai ndochema,",
+        "Apo mwadaidza vamwe,",
+        "Musandipfuure"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndipenyi’wo wenyumutsa,",
+        "Ndinokumbira,",
+        "Ndirikumupfugamira ,",
+        "Nekudaira"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinomusimbira Jesu,",
+        "Ndinokutsvaka ,",
+        "Rapanyi’wo mwoyo wangu,",
+        "Kundiponesa"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muritsime rangu Tenzi ,",
+        "Zve neupenyu,",
+        "Hakuchina Mubatsiri ,",
+        "Asi’mwi Jesu"
+      ],
+      "number": 5
+    }
+  ]
+}

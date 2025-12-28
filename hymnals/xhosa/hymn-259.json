@@ -1,0 +1,46 @@
+{
+  "number": 259,
+  "language": "xh",
+  "title": "259 Siyakuhlangana Yini?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "’Ngaba sohlangana khona, Ngaphesheya komlambo?",
+        "Apho kuhleli uxolo, Kungekho nalusizi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Siyakuhlangana, Phesheya kwalo mlambo;",
+        "Sowela ngapha komlambo, Apho kuhlel’ uxolo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sobonan’ ezibukweni Seluphelil’ uhambo?",
+        "Sohlangana sime apho Kunxweme lokuzola."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sohlangana kuwo lo mzi, Ozindlu zikhanyayo?",
+        "Ondonga zinqabileyo, Wakhiwa nguy’ uYesu?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sohlangana noMsindisi Xa ezothath’ abaKhe?",
+        "Sobonga inceba yaKhe, Sihlale etroneni?"
+      ],
+      "number": 4
+    }
+  ]
+}

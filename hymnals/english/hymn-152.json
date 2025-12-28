@@ -1,0 +1,62 @@
+{
+  "number": 152,
+  "language": "en",
+  "title": "152 Speak To My Soul.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Speak to my soul dear Jesus,",
+        "Speak now in tend’rest tone;",
+        "Whisper in loving kindness,",
+        "“Thou art not left alone.”",
+        "Open my heart to hear Thee,",
+        "Quickly to hear Thy voice,",
+        "Fill thou my soul with praises,",
+        "Let me in Thee rejoice."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Speak Thou in softest whispers,",
+        "Whispers of love to me;",
+        "“Thou shalt be always conq’ror,",
+        "Thou shalt be always free.”",
+        "Speak Thou to me each day, Lord,",
+        "Always in tend’rest tone,",
+        "Let me now hear Thy whisper,",
+        "“Thou art not left alone.”"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Speak to Thy children ever,",
+        "Lead in the holy way;",
+        "Fill them with joy and gladness,",
+        "Teach them to watch and pray,",
+        "May they in consecration,",
+        "Yield their whole lives to Thee,",
+        "Hasten Thy coming kingdom,",
+        "Till our dear Lord we see."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Speak now as in the old time,",
+        "Thou didst reveal Thy will;",
+        "Let me know all my duty,",
+        "Let me Thy law fulfill,",
+        "Lead me to glorify Thee,",
+        "Help me to know Thy praise,",
+        "Gladly to do Thy bidding,",
+        "Honor Thee all my days."
+      ],
+      "number": 3
+    }
+  ]
+}

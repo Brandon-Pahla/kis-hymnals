@@ -1,0 +1,73 @@
+{
+  "number": 757,
+  "language": "tw",
+  "title": "NG7 De Bɔnyεni A Ɔte Sε Me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Debɔn ‘yεni a ɔte sε me",
+        "Nanso Agya no dɔ me;",
+        "Sε Nyame mekae Wo dɔ yi a,",
+        "Na m'ani awu me tirim.",
+        "O Awurade sakra me,",
+        "Na ma menyε nea Wopε.",
+        "Sakra me, sakra me,",
+        "Na menyε Wo de daa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Agya fa me, Agya fa me,",
+        "Fa me fra Wo de mu;",
+        "Sesa me Awurade,",
+        "Sesa me Awurade,",
+        "Mo menyε foforɔ"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mεdi ahurisi Wo din ho,",
+        "Na mani gye W'adɔe ho;",
+        "Mene hwan Awurade, mete ase",
+        "Wɔ saa ahokyere yi mu;",
+        "Wo nsam na me honhom hyε,",
+        "Menni guankɔbea biara;",
+        "Te W'anim kyerε W'akoa,",
+        "Fa W'adɔe gye me nkwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Awurde, mma m'anim ngu ase,",
+        "Bre a meda so twere Wo;",
+        "Nhwε m'amumuyε,Awurade",
+        "Ntua me so ka;",
+        "Mentumi nnyina W'abufuo ano",
+        "Mentumi ne Wo nni ako",
+        "Awurade, Awurade",
+        "W'akyi obi nni hɔ"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mεto Awurade adɔe ho nnwom,",
+        "Mεyi Ne din akyerε aman;",
+        "Memma Ne din nyεm' aniwu,",
+        "Mεbɔ no b're a εsε mu",
+        "Menim sε Nyame bε tie me",
+        "Na Wayε nsεnhia ama me",
+        "Me Wura tie, me Wura tie,",
+        "Wo mma teateam frε wo."
+      ],
+      "number": 4
+    }
+  ]
+}

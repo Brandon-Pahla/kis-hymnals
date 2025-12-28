@@ -1,0 +1,47 @@
+{
+  "number": 482,
+  "language": "tw",
+  "title": "Agya, Di M'anim Daa Daa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Agya, di m'anim daa daa,",
+        "Fa me fa Wo kwan pa so;",
+        "Ma menyɛ kronn, nni nkowar'",
+        "Na kyerɛ me nea menyɛ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma me 'kokod'ru mmusum'",
+        "Ma minhu sɛ Wogye nkwa;",
+        "Fa me sie Wo nkyɛn hɔ daa",
+        "Na ma mentra Wo dɔ mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ mihyia bɔn' ho sɔhwɛ a",
+        "Hyɛ me den ma minnyina;",
+        "Sɛ meyɛ ankonam a",
+        "Fa Wo tum' nsa wowa me."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma menyɛ papā a minim,",
+        "Nyɛ Wo dɔ ba wɔ fam ha;",
+        "Na da bi maba Wo fie",
+        "Abɛyɛ Wo ba daapem.BR>"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 54,
+  "language": "ve",
+  "title": "54 Ndi Tama U Itelwa Tshithihi Nga Murena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:243"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Murena ndi ama hetshi, Ndila dzanga dzo vhifhaho;",
+        "Kha dzi tambe nga madi na mulilo-vho, ntanzwe tshothe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "ntanzwe nga ngomu hanga, ntanzwe na nga mulilo;",
+        "Na nga ndila-de, A thi nga hani uri tshivhi tshi fe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Musi ndi tshi vhona tshedza, Ndi takala na muyani;",
+        "Ndi funa mbilu ntswa-vho, Zwi nakese na kha nne."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Musi mbilu yo no tshena, Ndi nga vha na bono fulu;",
+        "Vhutshilono hanga hu vhe na zwithu zwire zwikhethwa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndi linga u bva vhuvhini, Ndi dzule ndo vhofholowa;",
+        "Ndi linga nga hothe uri ndi kone u vha mukhethwa."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 286,
+  "language": "nd",
+  "title": "286 Thwala Mina",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, ngondele lolosuku! Nxa abahlengwayo",
+        "BeseZion ngezimhlophe, Besekhaya labo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, ngithwale, ngithwale Ngi yeZion;",
+        "Ngithwal’ ungise msizini wothando, Emsizin’ wabangcwele"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yozwa o-aleluya, Iz’xulu zibasho",
+        "Umphefumlo ujabula, Nabahlengiweyo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thabani ngalo losuku, Lufiswa sihambi",
+        "Lophelisa izinhlungu, Baphumle kuMenzi"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 77,
+  "language": "tw",
+  "title": "O Nyame Dɔ Kɛsen'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O Nyame dɔ kɛsen',",
+        "'Dɔ a ɔde ma kwa;",
+        "Bɛhyɛ me koma ne kra ma,",
+        "Kyerɛ me Wo nkyɛn kwan."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnea 'wia hyew te no,",
+        "Wo dɔ hy'rɛn me so;",
+        "Ͻde banbɔ kyeky're me ho,",
+        "Twe me ba Wo nkyɛn hɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Po 'bufuw ano dwo,",
+        "'S'rɔkye nyi hu biara;",
+        "Esum kabii no mu wɔ hann,",
+        "Efise Wo dɔ bɛn."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, Nyame dɔ kɛsen'",
+        "'Dɔ a ɔde ma kwa;",
+        "Ͻhyɛ me koma ne kra ma,",
+        "Ͻma me ahoɔden."
+      ],
+      "number": 4
+    }
+  ]
+}

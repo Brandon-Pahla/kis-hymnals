@@ -1,0 +1,49 @@
+{
+  "number": 130,
+  "language": "tw",
+  "title": "'Nadwo Bi a Wim Atew No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nadwo bi a wim atew no,",
+        "Saa anuonyam dwom no,",
+        "S'ro abɔfo baa fam de wɔn",
+        "Sika sanku toe sɛ:",
+        "Asomdwoe nka 'sase sofo,",
+        "Mfi s'ro Hen' dɛɛfo n' hɔ,",
+        "Na wiase nyinaa ayɛ komm",
+        "Retie 'bɔfo dwom no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wofi s'ro a 'mu abue bac,",
+        "De asomdwoe faa wim;",
+        "Wɔn s'ro dwom no kɔɔ so trɛw kɔɔ",
+        "Wiase mu baabiara.",
+        "Wɔtrɛw wɔn ntaban mu tu faa",
+        "Asaseta no so;",
+        "Na nne sakasaka mu no,",
+        "Abɔfo no too dwom."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mo a ɔbra nnesoa d'rud'ru",
+        "Ahyɛ mo so kɛse,",
+        "Na moabrɛ nam ɔbra kwan so",
+        "Retu yaw 'nammɔn yi;",
+        "Monhwɛ, anigye mmere pa",
+        "Nam wim reba ntɛm so;",
+        "O monhome wɔ kwan no mu",
+        "Ntie abɔfo dwom no."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 317,
+  "language": "fr",
+  "title": "Seigneur, sanctifie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Seigneur, sanctifie",
+        "Nos jours, nos moments;",
+        "Fais que notre vie",
+        "T'honore en tout temps.",
+        "Que de ta présence",
+        "Parmi nous, pécheurs,",
+        "L'heureuse influence",
+        "Pénètre nos cœurs."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous voulons sans cesse",
+        "Marcher par la foi,",
+        "Et, dans la détresse,",
+        "Regarder à toi.",
+        "Heureux qui repose",
+        "Sur ton bras puissant !",
+        "On a toute chose",
+        "En te possédant."
+      ],
+      "number": 2
+    }
+  ]
+}

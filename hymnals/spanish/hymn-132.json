@@ -1,0 +1,56 @@
+{
+  "number": 132,
+  "language": "es",
+  "title": "Dulce, hermoso nombre es Jesús",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Dulce, hermoso nombre es Jesús"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hay nombres que me encanta",
+        "escuchar,",
+        "mas no hay otro como el de Jesús;",
+        "nombre sin igual, nombre celestial;",
+        "Jesús, el más precioso nombre."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Dulce, hermoso nombre es Jesús,",
+        "así como es su infinito amor;",
+        "por eso para siempre amaré",
+        "el dulce nombre de mi buen Jesús."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No hay en tierra o cielo nombre igual",
+        "al que ofrezcamos todo nuestro honor,",
+        "como el nombre fiel de mi Salvador;",
+        "Jesús, el más precioso nombre."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Un día cara a cara lo veré,",
+        "tributos por su gracia le daré.",
+        "Él me redimió, me dio libertad;",
+        "Jesús, el más precioso nombre."
+      ],
+      "number": 5
+    }
+  ]
+}

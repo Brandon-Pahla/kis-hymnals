@@ -1,0 +1,50 @@
+{
+  "number": 487,
+  "language": "es",
+  "title": "Cristo, eres justo Rey",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cristo, eres justo Rey"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo, eres justo Rey",
+        "desde siempre y desde Edén.",
+        "Guardan los cielos tu santa Ley,",
+        "pues reina allá el bien.",
+        "Quiero en tu humilde grey",
+        "cumplir tu Ley de amor también."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cielos y tierra y mar",
+        "riges desde eternidad.",
+        "Ruégote quieras mi vida guiar;",
+        "toma mi voluntad",
+        "y haz que en querer y obrar",
+        "acate yo tu autoridad."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Óigase nuestra voz",
+        "hasta en celestial confín:",
+        "Gloria a ti, Verbo eterno y Dios;",
+        "gloria, loor sin fin;",
+        "gloria, aleluya, oh Dios.",
+        "Loor a ti, loor sin fin."
+      ],
+      "number": 4
+    }
+  ]
+}

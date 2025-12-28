@@ -1,0 +1,37 @@
+{
+  "number": 364,
+  "language": "tw",
+  "title": "Yesu Kristo, Yɛn Nnwom Foro Ba Wo Hɔ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu Kristo, yɛn nnwom foro ba Wo hɔ",
+        "Kųro biara mu Wo dɔ ne banbɔ nti;",
+        "Kanyan yɛn som, ma yɛn dɛw sononko a",
+        "Wo Honhom de ma nnipa baabiara."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma yɛn nnamyɛ, 'hofama, 'hobrɛase ne",
+        "W'ahoɔden a ɛma yetum' gyina,",
+        "Na yema wɔn a wɔahwe ase no so",
+        "Hwehwɛ ankonam, ka W'adɔe no ky'rɛ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ky'rɛ yɛn Wo Honhom a ebutu 'man so,",
+        "Sɛnea Wusuu Yerusalem man so,",
+        "Hwehwɛɛ sɛ Wobɛboa wɔn ano asa",
+        "Wɔn a wɔsɔ W'atade mu yare."
+      ],
+      "number": 3
+    }
+  ]
+}

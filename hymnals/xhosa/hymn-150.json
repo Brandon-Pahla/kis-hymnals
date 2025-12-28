@@ -1,0 +1,46 @@
+{
+  "number": 150,
+  "language": "xh",
+  "title": "150 Baphi Abavuni!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Xelani, baphina abavuni, Bokubuth’ izithung’ emasimin’?",
+        "Bepheth’ i-sekile zenyaniso, Bangaphumli bade bawufeze."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Baph’ abavuni? O ngubani owoza koluzuko lwesivuno?",
+        "O, masincede singenise Indyeb’ eziphum’ emhlabeni"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phumani nikhangel’ ezindlelen’; Cokisan’ ukufuna inkozo;",
+        "Singasingani nikhangelise, Nikhethisise nizis’ ekhaya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Onke amasimi avuthiwe, Lonke ilizwe selilungile;",
+        "Umsebenzi wona ungomkhulu, Awufuni ukulityaziswa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yizani-ke ne-sekile zenu, Niyibuthe lendyebo inkulu;",
+        "Sebenzani ide ifik’ i-Nkos’ Ze nivuye kunye nay’ ekhaya."
+      ],
+      "number": 4
+    }
+  ]
+}

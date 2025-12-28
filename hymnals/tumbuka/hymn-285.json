@@ -1,0 +1,51 @@
+{
+  "number": 285,
+  "language": "tum",
+  "title": " 285 Kuli Malo Gha Mutende",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 285 Kuli Malo Gha Mutende",
+        "THERE IS A PLACE OF QUITE REST"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Kuli malo gha mutende ku mtima wa Fumu,",
+        "Malo ghambula kwananga ku mtima wa Fumu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain:",
+        "Yesu m'womboLi withu kufuma kwa Dada,",
+        "Mutiguzire kwinu ku mtima wa Fumu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Malo ghakusanguluska ku mtima wa Fumu,",
+        "lamukumana na mtaski ku mtima wa Fumu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Malo ghakutisutula ku mtima wa Fumu,",
+        "amkhala m'chimwemwe pera ku mtima wa Fumu."
+      ],
+      "number": 5
+    }
+  ]
+}

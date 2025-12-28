@@ -1,0 +1,63 @@
+{
+  "number": 239,
+  "language": "st",
+  "title": "239 U Khathetse, U Ea Tepella",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U khathetse, ’tepeletse, U hlomohile?",
+        "Jesu O re: \\\"Tlo ho ’Na, U phomole.\\\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na u na le lits’upiso, Tse tla ntsebisa?",
+        "Maqeba a teng matsohong, maotong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O na le mofapahloho, O Mo khabisang?",
+        "E, o teng, ’Empa e le oa meutloa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke ’Mona ke lumela, Mona ke na le’eng?",
+        "Mahlomola lebohloko, le lillo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke ntse ke tiiselitse, Ho tla fella kae?",
+        "U tla fenya mahlomola,U phele."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke re A nkamohele, Na o tla hana?",
+        "Le ho leka, Tsohle leha li feta."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Empa ha ke etsa tsohle, Na o tla mpitsa?",
+        "Bahalaleli le ba leng lillong, Ba re E."
+      ],
+      "number": 7
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 344,
+  "language": "tw",
+  "title": "'W'ra, Medɔ W'ahemman",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, medɔ W'ahemman;",
+        "Fie a Wote mu no,",
+        "Asafo a Gyefo hy'rafon'",
+        "De Ne mogya gyee no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, medɔ W'asafo,",
+        "N'afasu wɔ W'anim;",
+        "Sɛ W'aniwa k'rutiayisi",
+        "A wɔaky'rɛw no Wo nsam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne soro akwan no",
+        "B'ro m'anigye ny'naa so,",
+        "Emu nkitahodi, bɔhyɛ,",
+        "'Yeyi ne 'dɔ nnwom no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ Wo nokwar' tim no,",
+        "Wɔbɛma kųro Sion",
+        "'Sase 'nuonyam a ɛkyɛn so",
+        "Na ɛhy'rɛn wɔ soro."
+      ],
+      "number": 4
+    }
+  ]
+}

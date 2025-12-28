@@ -1,0 +1,47 @@
+{
+  "number": 151,
+  "language": "sn",
+  "title": "151 Kunowa Nenyeredzi Here?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndirikufunga nekunaka kweNyika",
+        "Iyo ndichasvika kowira",
+        "Netsitsi ndichamira naMponesi",
+        "Ndichawa nenyeredzi here"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndichawa nenyeredzi here chiremba",
+        "Mumanheru zuva rowira",
+        "Ndomuka ndaponeswa tove kumusha",
+        "Ndichava nenyeredzi here"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Musimba raTenzi ndoda kunamata",
+        "Ndiwe semuwani wemweya",
+        "Nyeredzi yekupenya, ingawe yangu",
+        "Pamusi unotyisa kwazo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndichafara kuwona usu hwaJesu",
+        "Ndomupa rukudzo narini",
+        "Zvichandifadza mumusha wendarama",
+        "Kuti ndikawana nyeredzi"
+      ],
+      "number": 4
+    }
+  ]
+}

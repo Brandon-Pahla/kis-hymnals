@@ -1,0 +1,47 @@
+{
+  "number": 65,
+  "language": "nd",
+  "title": "65 Ku Mnandi Ukwethemba uJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ku mnand’ ukwethemb’ uJesu, Nokukholw’ izwi lAkhe;",
+        "Nokubamb’ isithembiso \"I sho njalo iNkosi.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yen’ uJesu ngi yamthemba, Se ngi mhlolile mina;",
+        "Jesu! Jesu! Gugu lami, Ngomsa ngi themba Wena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo! Ku mnandi ukuthemba Ukwethemba igazi;",
+        "Ukulazi lelothemba Ku sisa k’uMsindisi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ye, ku mnandi ukumthemba Ukushiya izono;",
+        "Ukwethemba owalenga Ku senzela uxolo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi funde ukukwethemba, Jesu, Msindisi wami;",
+        "Ngi y’azi u nami Wena, Kuze kube nanini."
+      ],
+      "number": 5
+    }
+  ]
+}

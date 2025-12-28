@@ -1,0 +1,37 @@
+{
+  "number": 100,
+  "language": "xh",
+  "title": "100 U-Yesu Ungomhlobo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sinomhlobo weth’ u-Yesu othwal’ izono zethu,",
+        "Kulungil’ ukusa konke kuye ngokuthandaza;",
+        "Silahlekelwa luxolo olungakananina,",
+        "Kuba konke asikusi ku-Yesu ngomthandazo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sinazo imbandezelo, zilingo, nenkathazo?",
+        "Masingaze sidaniswe, masithandaze kuYe;",
+        "Singamfumana umhlobo phina onje ngo-Yesu?",
+        "Uyasazi thina sonke maxa sithandazayo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Siyasindwa-na ngumthwalo, sibulawa zindzingo?",
+        "U-Msindisi oxabiso, siya thandaza kuYe;",
+        "Ziyakulahl’ izihlobo? Yise lonto e-Nkosin’,",
+        "Iya kukuthuthuzela ufuman’ ukunqaba."
+      ],
+      "number": 3
+    }
+  ]
+}

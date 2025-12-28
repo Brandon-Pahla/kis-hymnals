@@ -1,0 +1,25 @@
+{
+  "number": 64,
+  "language": "ts",
+  "title": "64. U NI NDZHWALO MBILWINI YA WENA?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ARE YOU WEARY?",
+        "1. U Ni Ndzhwalo Mbilwini Ya Wena? Tivisa Yesu Tivisa Yesu,",
+        "U Pfumala Ku Rhula Moyeni, Tivisa Yesu Sweswi.",
+        "CHORUS",
+        "Tivisa Yesu Tivisa Yesu I Munghana Lonene,",
+        "A Ku Na Un’wana Nakulorhi, Tivisa Yesu Ntsena.",
+        "2. Miringweni Leyi Chavisaka, Tivisa Yesu Tivisa Yesu,",
+        "Na Loko U Wele Vudyohweni, Tivisa Yesu Ntsena.",
+        "3. N’wi Vikele Milandzu Ya Wena, Tivisa Yesu Tivisa Yesu,",
+        "U Kanakana Hi Swa Mundzuku, Tivisa Yesu Ntsena.",
+        "4. Rifu Ri Ku Handzula Mapfalo, Tivisa Yesu Tivisa Yesu,",
+        "U Navela Ku Vuya Ka Kreste, Tivisa Yesu Ntsena."
+      ],
+      "number": 1
+    }
+  ]
+}

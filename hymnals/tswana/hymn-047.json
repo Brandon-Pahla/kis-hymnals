@@ -1,0 +1,48 @@
+{
+  "number": 47,
+  "language": "tn",
+  "title": "47 Nokeng Ya Jordane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nokeng Ya Jordane K’ema, Ke Leba K’eletsa.",
+        "Kwa Kanana boitumelong, Kwa khumo ya me e teng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Re tla ikhutsa boitumelong, (kgantele)",
+        "Kwa moseja, kwa bophatsimong, (phatsimong)",
+        "Re opela pina ya Moshe le Kwana,",
+        "Re nne le Jeso kwa O teng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gone Kwa Mabaleng Ale Go Nna Kgalalelong,",
+        "Jeso Letsatsi Oa busa, O tlosa bosigo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Tla Fitlha Leng Kwa Bontleng Mme Ke Segofale?",
+        "Ke tla bona leng Rara teng, Ke nne ’gosing jwa Gwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Tletse Boitumelo, Ga Nka Ke Ka Nna Fa;",
+        "Dintelong tsa kwa Jordane, Ke tlola go se poifo."
+      ],
+      "number": 4
+    }
+  ]
+}

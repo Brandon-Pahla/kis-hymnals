@@ -1,0 +1,54 @@
+{
+  "number": 27,
+  "language": "xh",
+  "title": "27 Sivuselele Kwakhona",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sibong’ uThixo, Ngo-Nyana waKhe,",
+        "Ngo-Yesu owasifelayo thina."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Haleluya! Haleluya! Haleluya Amen!",
+        "Haleluya! Haleluya! Sivuselele."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sibong’ uThixo, Ngo-Moya waKhe,",
+        "Owasibonisa ilifa laKho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uzuko lonke, Kuyo i-Mvana,",
+        "Eya-thwala izono entabeni."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uzuko lonke, Nodumo lonke,",
+        "Kulowo owasihlawulelayo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sivuselele, Ngothando lwaKho,",
+        "Imiphefumlo mayihlaziyeke."
+      ],
+      "number": 5
+    }
+  ]
+}

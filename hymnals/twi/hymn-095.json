@@ -1,0 +1,49 @@
+{
+  "number": 95,
+  "language": "tw",
+  "title": "Sutɔ Ama Nhw'ren Apae",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sutɔ ama nhw'ren apae",
+        "'Dekyee renyan ntɛm so,",
+        "Nea nkwa wom ny'naa de tumi",
+        "Rep're kɔ hann no ho;",
+        "Awɔ dennen noatwam",
+        "ɔpɛb're no atwam,",
+        "'Fifide nkumaa pue fam,",
+        "Na enyin ɔhare so."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nɔ habamma ne nnua a",
+        "Ekisaa 'pɛb'rem no,",
+        "Asan anya 'habammon'",
+        "Na enyin 'nika mu;",
+        "Ahoɔfɛ hyɛ wiase ma,",
+        "Sikasu nso wom bi;",
+        "Nɔhw'ren yɛ frɔmm mmepɔ so,",
+        "Na sare di ahim."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻda pa biara mu no",
+        "Nyame yi Ne hō adi;",
+        "Na N'akwan ny'naa mu yɛ fɛ",
+        "Sɛ wiase a Wahy'ra:",
+        "B'rč a ɔreyɛ asase",
+        "Fof'ro sɛ 'dwumfo wɔ",
+        "Ne dom fof'royɛ mu yi,",
+        "Ma yɛnhwehwɛ nkanyan."
+      ],
+      "number": 3
+    }
+  ]
+}

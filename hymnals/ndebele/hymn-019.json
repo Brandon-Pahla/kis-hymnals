@@ -1,0 +1,31 @@
+{
+  "number": 19,
+  "language": "nd",
+  "title": "19 Hlala U Lindile",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O! mphefumlo wami, Hlala ulindile",
+        "iNkosi ngamandhla ami, Noma se ngi wile"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O! lind’ u khuleke, Uze u dle ifa",
+        "Ngibonis’ iqiniso-ke, Nokuphil’ okusha"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O! yilwa nomlingi, Ngiphathise Jesu",
+        "Ngi zoboph’ izinkalo nqi, Ngi qonde pezulu"
+      ],
+      "number": 3
+    }
+  ]
+}

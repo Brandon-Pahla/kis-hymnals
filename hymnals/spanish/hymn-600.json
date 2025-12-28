@@ -1,0 +1,65 @@
+{
+  "number": 600,
+  "language": "es",
+  "title": "Cuando venga Jesucristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cuando venga Jesucristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando venga Jesucristo",
+        "en busca de joyas,",
+        "todo niño redimido",
+        "su gema será."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Como estrellas que brillan",
+        "son los niños que le aman;",
+        "son tesoros que adornan",
+        "al Rey y Señor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quiere Cristo en su corona",
+        "brillantes estrellas;",
+        "cada gema que le adorna",
+        "con sangre compró."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Él escoge por tesoros",
+        "los niños amados,",
+        "y en su seno a los corderos",
+        "recibe Jesús."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si los niños y las niñas",
+        "acuden a Cristo,",
+        "bellas joyas, escogidas,",
+        "serán para él."
+      ],
+      "number": 6
+    }
+  ]
+}

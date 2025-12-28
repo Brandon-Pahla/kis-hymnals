@@ -1,0 +1,24 @@
+{
+  "number": 256,
+  "language": "ts",
+  "title": "256. XIKWEMBU MUHLAYISI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O GOD, OUR HELP",
+        "1. Xikwembu U Muhlayisi, Ntshembho Lowo Tiya; U Khokholo Ra masiku,",
+        "U Kaya Ra Hina.",
+        "2. Ehansi Ka Xiluvelo, Hi Hlayisekile;",
+        "Hi Voko Ra Wena Ntsena, Wa Hi Sirhelela.",
+        "3. Ntumbuluxo Wa Misava, Na To Tintshava;",
+        "U Swi Endlile Hi Rito, Wa Hi Sirhelela.",
+        "4. Gidi Ra Malembe Kaku, Ya Fana na Siku;",
+        "Ya Komile Bya Vurhongo, Ni Vusiku Byin’we.",
+        "5. Xikwembu U Muhlayisi Ntshembho Lowo Tiya;",
+        "Ku Kondza Hi Ya Fika Kaya, Yesu Hi Letele."
+      ],
+      "number": 1
+    }
+  ]
+}

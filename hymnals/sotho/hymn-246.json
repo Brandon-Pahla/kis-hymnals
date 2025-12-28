@@ -1,0 +1,54 @@
+{
+  "number": 246,
+  "language": "st",
+  "title": "246 Bua Lentsoe Ka Jesu.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bua lentsoe ka Jesu Motsoallle ea lerato,",
+        "Tlo ’khothatse lipelo ka seo a se entseng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Bua lentsoe ka Jesu le tla thusa tseleng,",
+        "Lentsoenyana ka Jesu pineng le thapelong."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bua lentsoe ka Jesu ts’oarelo ea libe",
+        "Mohaung u nts’o leka ho fihla holimo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bua lentsoe ka Jesu joale uena u re,",
+        "Ke rata Mopholosi Ea iteletseng ’na."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bua lentsoe ka Jesu U se senye nako;",
+        "Pelo e tletseng botsoa moputso ke ts’oabo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bua lentsoe ka Jesu tumelo ha e shoa,",
+        "Tsoha phokolong eohle mo phetele hohle."
+      ],
+      "number": 5
+    }
+  ]
+}

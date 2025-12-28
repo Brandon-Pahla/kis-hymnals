@@ -1,0 +1,23 @@
+{
+  "number": 35,
+  "language": "es",
+  "title": "Oye, oh Señor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Oye, oh Señor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oye, oh Señor, nuestra oración;",
+        "tu faz inclina hoy, y danos tu paz.",
+        "Amén."
+      ],
+      "number": 2
+    }
+  ]
+}

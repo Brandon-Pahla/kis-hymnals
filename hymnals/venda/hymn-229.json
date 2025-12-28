@@ -1,0 +1,49 @@
+{
+  "number": 229,
+  "language": "ve",
+  "title": "229. Ndi Nnyi A Nangaho Murena?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi Nnyi A Nangaho Murena?",
+        "Dzindila ndi mbili nga ngoho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nanga! Zwino!",
+        "Vhukati ha vhudi na vhuvhi, Nanga-ha.",
+        "(Nanga iwe zwino),",
+        "(Nanga iwe zwino),",
+        "(Vhukati ha vhudi na vhuvhi, Nanga-ha)."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Vha zwigidi vhone vha nanga,",
+        "U ima na vhuvhi, U’mini?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. I da u ime nga Murena",
+        "Vhunga hu si na ndila inwe."
+      ],
+      "number": 4
+    }
+  ]
+}

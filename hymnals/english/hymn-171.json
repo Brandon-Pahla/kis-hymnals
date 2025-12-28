@@ -1,0 +1,63 @@
+{
+  "number": 171,
+  "language": "en",
+  "title": "171 What Of The Night?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Watchman on the walls of Zion,",
+        "What, O tell us of the night?",
+        "Is the daystar now arising?",
+        "Will the morn soon greet sight?",
+        "O’er your vision,",
+        "Shine there now some rays of light?",
+        "O’er your vision,",
+        "Shine there now some rays of light?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tell, O tell us, are the landmarks,",
+        "On our voyage all passed by?",
+        "Are we nearing now the haven?",
+        "Can we e’en the land descry?",
+        "Do we truly,",
+        "See the heav’nly kingdom nigh?",
+        "Do we truly,",
+        "See the heav’nly kingdom nigh?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Light is beaming, day is coming!",
+        "Let us sound aloud the cry;",
+        "We behold the daystar rising,",
+        "Pure and bright in yonder sky!",
+        "Saints be joyful;",
+        "Your redemption draweth nigh;",
+        "Saints be joyful",
+        "Your redemption draweth nigh."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "We have found the chart and compass,",
+        "And are sure the land is near;",
+        "Onward, onward we are hasting,",
+        "Soon the heaven will appear;",
+        "Let your voices,",
+        "Sound aloud your holy cheer;",
+        "Let your voices,",
+        "Sound aloud your holy cheer."
+      ],
+      "number": 4
+    }
+  ]
+}

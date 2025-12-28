@@ -1,0 +1,46 @@
+{
+  "number": 36,
+  "language": "nd",
+  "title": "36 Inkolo Yami I Bheka Phezulu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yabheka kuWe,",
+        "U ngi hlawulele",
+        "Nkosi yami,",
+        "Kaloku ma uzwe,",
+        "Ngi khuleka kuWe",
+        "U ngi thukulule,",
+        "Ezonweni"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ingathi umusa,",
+        "U ngangiqinisa",
+        "Ngi kukhonze,",
+        "Vus’ uthando lwami,",
+        "Wena, Nkosi, yami",
+        "Ngako konk’ okwami,",
+        "Ngi kukhonze"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa ku mnyama kimi,",
+        "Ni bona usizi",
+        "Olunzima",
+        "Ngi phelekezele,",
+        "U xosh’ ubumnyama",
+        "Ukuze ngi fike,",
+        "Ezulwini"
+      ],
+      "number": 3
+    }
+  ]
+}

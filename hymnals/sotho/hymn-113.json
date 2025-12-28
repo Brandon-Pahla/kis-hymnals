@@ -1,0 +1,46 @@
+{
+  "number": 113,
+  "language": "st",
+  "title": "113  Pitso.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu O nts’a u bitsa ka bonolo,O bitsa uena le ’na;",
+        "O u emetse monyakong oa pelo, ’lebetse uena le ’na."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tlong hae, tlong hae, Lona ba khathetseng, tlong hae,",
+        "Jesu O nts’a ho bitsa ka bonolo, MoetsalibeU tle hae!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re luletseng Jesu A re buella, buella uena le ’na,",
+        "Re liehelang ho utloa mohau, Mohau oa hau le ’na?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nako e akofile e ea feta, E feta uena le ’na,",
+        "Meriti e ’ea tla le bosiu ba lefu, Li tlela uena le ’na."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hopola ka ts’episo e makatsang, Tsepiso ea hau le ’na",
+        "Leha re sitiloe O ea ts’oarela, Tsoarela uena le ’na."
+      ],
+      "number": 4
+    }
+  ]
+}

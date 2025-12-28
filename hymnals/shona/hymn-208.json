@@ -1,0 +1,49 @@
+{
+  "number": 208,
+  "language": "sn",
+  "title": "208 Fambai Zvinyoronyoro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyararai, nyararai, Kunozewezwa",
+        "Nyararai, nyararai, Tererai inzwi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fambanyi zvinyoro, Tenzi arimo;",
+        "(Fambai zvinyoro-nyoro)",
+        "Fambanyi zvinyoro, Ngatiswedere",
+        "(Fambai zvinyoro-nyoro)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyararai, nyararai, nzvimbo itswene",
+        "Iyi Altar younza, Soko zwe"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyararai, nyararai, muchinamata",
+        "Tonzwa nezve Eden, neino nguva"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyararai, nyararai, Tarisa tsitsi",
+        "Nyararai, nyararai, Rindira Tenzi"
+      ],
+      "number": 5
+    }
+  ]
+}

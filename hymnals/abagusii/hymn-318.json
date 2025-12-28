@@ -1,0 +1,35 @@
+{
+  "number": 318,
+  "language": "guz",
+  "title": "318 Abanto Emeganda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Abanto emeganda,Ne chianga chindabu,Barina ase amare,Kogenda Igoro;Bakorir'okorwana,N'ebibe bi'ens'eye,Ebisieri mbimanorwe,'Babui basoe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Batera Aleluya!Ense na Igoro,Amariogi y'amakano,Arari'obobui;Rituko ri'omogoko'S'ebitongwa bionsi,Emechando n'amakweri,Biaerire bono."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Rituk'erio abaya,Nabaumerane,Abakwete n'abasani,Tibagotigana;Amais'onsi ng'arabe,Amarig'asire,Chintakana nachinyore,Abaibori babo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Reta ogotereka,Ngwakweret'ababe,Kora Korika ebuku,Inchwo eri'ogambe;Ika ay'Omonene,'Banto mbaganyete,Oroki'ekemanyererio,Mogambi Omotoria."
+      ],
+      "number": 4
+    }
+  ]
+}

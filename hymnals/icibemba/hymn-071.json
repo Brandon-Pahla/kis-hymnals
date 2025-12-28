@@ -1,0 +1,35 @@
+{
+  "number": 71,
+  "language": "bem",
+  "title": "71 - BUSHE ISHINA LYANDI LYALILEMBWA UKO?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "IS MY NAME WRITTEN THERE?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mfumu nshisakamana na fyuma kuno,",
+        "Ndeiteyanishisha kwingila ku mulu;",
+        "Muli buku lya mweo lyalembwa ku mulu,",
+        "Njeba nomba Katula 'shina lyandi uko.",
+        "CHORUS:",
+        "Bushe shina lyandi lyalilembwa uko?",
+        "Bushe ishina lyandi mwi buku lya mweo?",
+        "2. Mwe Mupusushi wandi ububi bwafula,",
+        "Lelo mulopa wenu wabutishe tutu;",
+        "Ubulayo bwapalwa kuli ifwe babi,",
+        "\"Nangu bubi bwafula ndemusamba.\"",
+        "3. Umusumba wawama mayanda yabuta,",
+        "Na bantu bamushilo bafwikwa fisuma,",
+        "Mpulumushi takuli mu bufumu ubo;",
+        "Njeba nomba Katula 'shina lyandi uko."
+      ],
+      "number": 2
+    }
+  ]
+}

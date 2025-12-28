@@ -1,0 +1,46 @@
+{
+  "number": 32,
+  "language": "xh",
+  "title": "32 Isikhuselo Ngexesha Lesaqhwithi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I-Nkos’ ili-Liwa lethu, Isisiphephelo sethu;",
+        "Inqaba nomthunzi wethu, Isisiphephelo sethu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Li-Liwa elinamandla, Ngu-Mthunzi owalomhlaba;",
+        "Mkhokeli wethu ngenene, Usisiphephelo apha."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U-Yesu ngumthunzi wethu, Usisiphephelo sethu;",
+        "Asoyiki, ungowethu, Usisiphephelo sethu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Onogumbe bangantlitha, usisiphephelo sethu;",
+        "U-Thixo ukukunqaba, Usisiphephelo sethu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Liwa lethu, Nqaba yethu, Usisiphephelo sethu;",
+        "Yiba usolok’ unathi; Usisiphephelo sethu."
+      ],
+      "number": 4
+    }
+  ]
+}

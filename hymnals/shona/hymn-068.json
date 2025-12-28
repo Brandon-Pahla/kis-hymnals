@@ -1,0 +1,67 @@
+{
+  "number": 68,
+  "language": "sn",
+  "title": "68 Ndaponeswa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinoda kutaura kuti",
+        "Ndaponeswa ngeropa’ro",
+        "Pamsana’po pemutsa wake",
+        "Ndichagara kumusha’ko"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndaponeswa,",
+        "Ngeropa rake, reNyenye",
+        "Ndaponeswa,",
+        "Zvendichiri mwana wake"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinofara ngekuti Jesu",
+        "Auya kundiponesa",
+        "Ngekuti kupenya kwake’ko",
+        "Kuri kunditungamira"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinotondera Muponesi",
+        "Ndichiri kufunga ndiye",
+        "Ndirikuimba nguva dzese",
+        "Ngerudo rukuru rwake"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndichamuona Mambo wangu",
+        "Ndoita mutemo wake",
+        "Achiri kunditungamira",
+        "Dakara kumusha kwake"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chiripo chiremba kudenga",
+        "Chinondimirira ini",
+        "Tichaenda ngekukasika",
+        "Kumusha wake’wo Tenzi"
+      ],
+      "number": 6
+    }
+  ]
+}

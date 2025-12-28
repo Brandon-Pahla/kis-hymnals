@@ -1,0 +1,47 @@
+{
+  "number": 504,
+  "language": "tw",
+  "title": "'W'ra Yesu, Dwen Me Ho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra Yesu, dwen me ho",
+        "Na hoh' ro me bɔne,",
+        "Gye me fi fam ha akɔnnɔm'",
+        "Na ma me mu nyɛ kronn."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra Yesu, dwen me ho,",
+        "Hyɛ haw ne mmusu so;",
+        "Ma menyɛ W'akoā a Wodɔ no,",
+        "Nnya Wo bɔhyɛ home."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\\\"W'ra Yesu, dwen me ho,",
+        "Mma memmfi kwan no so;",
+        "Sum ne ahohiahia mu no",
+        "Kyerɛ me s'ro kwan no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\\\"W'ra Yesu, dwen me ho,",
+        "Sɛnea mɛto dwom s'ro",
+        "Ama Agya, Honhom, ne Wo",
+        "Ayeyi ne dɔ nnwom."
+      ],
+      "number": 4
+    }
+  ]
+}

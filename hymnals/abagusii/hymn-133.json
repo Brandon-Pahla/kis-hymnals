@@ -1,0 +1,35 @@
+{
+  "number": 133,
+  "language": "guz",
+  "title": "133 Kabe Nainche",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kabe nainche mbwango bokoira,Mosunte oichoire kabe nainche;Abande basinyirwe kondemia,Mokonyi bw'aboro, Kabe nainche."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Bogima bwane bwaeta bwango,'Mogoko bw'ense nig'ogoeta,Ebinto bionsi biaonchokire,'Yotagoonchoka, menya nainche."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ninkoganetie ekero gionsi,Buya bwao mbobu' omobisa;Ng'o bun' ay' oranyare kondaa,S' obuya n'obobe, menya nainche."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Amo naye tindi n'okoiroka,Marwair' obororo bionsi mbosaNonya nogokwa tikori kende,Nabuire onye kore nainche."
+      ],
+      "number": 4
+    }
+  ]
+}

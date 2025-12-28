@@ -1,0 +1,47 @@
+{
+  "number": 43,
+  "language": "sn",
+  "title": "43 Kurara Kuna Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Anorara kuna Jesu,",
+        "Hama inodiwa yedu,",
+        "Ruzororo rwakanaka,",
+        "Hakwanise kutambudzwa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anorara kuna Jesu,",
+        "Wagadzirirwa upenyu",
+        "Warara nerusimbiro,",
+        "Hwekumutswa naJesu’wo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anorara kuna Jesu,",
+        "Pamwe nevamwe’vo vedu,",
+        "Apo Jesu anomutsa,",
+        "Havazochemi nekutya"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anorara kuna Jesu,",
+        "Asi tsuri’yo yaKristu,",
+        "Icharira kuvamutsa,",
+        "Kuti vaende kudenga"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 751,
+  "language": "tw",
+  "title": "NG1 Yafun Mu Aba Ni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yafun mu aba ni,",
+        "Woyi no Wo tumi so,",
+        "Tumi bi ne Wo de nsε,",
+        "Onyame, W'akwan yε hu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abofra ketewa yi,",
+        "Wode na ama yεn nnε,",
+        "Fa ne koma yε Wo de,",
+        "Ma onyin mmεyε Wo de."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa no sie sε nhwiren,",
+        "Na ompue ne bere mu,",
+        "Fa no so yi Wo tumi,",
+        "Ne W'anuonyam adi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma W'abɔfo nwεn no daa,",
+        "Na ma W'ani nku ne ho;",
+        "Pam bonsam firi ne ho;",
+        "Yi no firi ɔhaw mu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dan' W'ani hwε~awofo yi,",
+        "Ma wεnyɔ nea~εsε W'ani;",
+        "Ma wonyi nneyεe pa~adi",
+        "N-kyerε akɔkoaa yi."
+      ],
+      "number": 5
+    }
+  ]
+}

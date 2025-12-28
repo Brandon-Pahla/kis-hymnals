@@ -1,0 +1,46 @@
+{
+  "number": 151,
+  "language": "tn",
+  "title": "151 Ke Gopola Ka Fatshe Jele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Gopola Ka Fatshe Jele Je Lentle,",
+        "Ke tla fitlha maitsiboya",
+        "Fa ka tshwaro ya Mmoloki ke tla ema,",
+        "A ke tla rwala dinaledi?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "A go tla nna dinaledi ’rwalong sa me,",
+        "Fa letsatsi le tla phirima?",
+        "Fa ke tsogela dikagong tsa boikhutso,",
+        "A ke tla rwala dinaledi?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mo Nonofong Ya Morena Ke Tla Dira;",
+        "Go gapela Morena mewa;",
+        "Ke tle ke nne le naledi tse phatsimang,",
+        "Letsatsing ja pako ya Gagwe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go Tla Nna Boitumelo Fa Ke Mmona,",
+        "Go ba’a magwekana naong sa ’Gwe",
+        "Go ka itumedisa motseng wa gouda,",
+        "Fa ke ka rwala dinaledi."
+      ],
+      "number": 3
+    }
+  ]
+}

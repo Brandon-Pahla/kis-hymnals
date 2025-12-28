@@ -1,0 +1,53 @@
+{
+  "number": 41,
+  "language": "ny",
+  "title": "41 - Mulungu Akhala Ndi Inu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "GOD BE WITH YOU!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mulungu akhale ndi inu, Mpaka tidzaonananso;",
+        "Atsogoze, asunge ’nu; Mulungu akhale ndi inu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Asunga nonsenu, Tikomana ndi Yesu,",
+        "Asunga nonsenu, Mulungu akhale ndi inu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mulungu akhale ndi inu, Ndi mapiko akubisa,",
+        "Masiku onse kudyetsa; Mulungu akhale ndi inu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mulungu akhale ndi inu, Ndi pamene muvutika,",
+        "Adzakuthangatani ’nu, Mulungu akhale ndi inu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mulungu akhale ndi inu, Ndi chikondi chake chonse,",
+        "Asunge mzoopsya zonse, Mulungu akhale ndi inu."
+      ],
+      "number": 5
+    }
+  ]
+}

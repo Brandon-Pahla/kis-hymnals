@@ -1,0 +1,45 @@
+{
+  "number": 205,
+  "language": "ve",
+  "title": "205. Musi Yesu A Kha di U Hevhedza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:167"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu u ri: Ida mutshinyi, Ida!",
+        "Ri a u rabelela mutshinyi ada!",
+        "namusi i vha Wawe, ada mutshinyi!",
+        "Mudivhe zwino, iwe mutshinyi ’da!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Naa u a lemelwa? Mutshinyi Ida!",
+        "Yesu u do u rula, Mutshinyi ’da!",
+        "Yesu ha nga u fhuri, Mutshinyi ada!",
+        "Yesu u a tshidza, Mutshinyi Ida!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. U a kwengweledzwa, Mutshinyi Ida!",
+        "Ida u fhatutshedzwe, Mutshinyi ’da!",
+        "Yesu u ri: Ida mutshinyi, Ida!",
+        "Ri a u rabelela mutshinyi ’da!"
+      ],
+      "number": 4
+    }
+  ]
+}

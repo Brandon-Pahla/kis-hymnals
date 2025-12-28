@@ -1,0 +1,63 @@
+{
+  "number": 142,
+  "language": "es",
+  "title": "Venid, cantad de gozo en plenitud",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Venid, cantad de gozo en plenitud"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Venid, cantad, de gozo en",
+        "plenitud,",
+        "y dad loor al que su sangre dio;",
+        "en ella luego nos lavó,",
+        "de nuestra lepra nos limpió,",
+        "y así libronos de la esclavitud."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Él nos libró de culpabilidad,",
+        "y redimionos por la eternidad;",
+        "con ángeles del cielo nos igualó;",
+        "precioso Salvador el que por nos",
+        "murió."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "El Dios de amor, que vino acá a",
+        "sufrir",
+        "llevando en sí por nos la",
+        "maldición,",
+        "en vez de eterna perdición,",
+        "nos proporciona salvación,",
+        "que sin él nadie puede conseguir."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Honor y gloria en todo su",
+        "esplendor",
+        "serán el fin de quien siga a Jesús.",
+        "Si toma en pos de él su cruz",
+        "y es guiado por su luz,",
+        "tendrá el sello de su Salvador."
+      ],
+      "number": 5
+    }
+  ]
+}

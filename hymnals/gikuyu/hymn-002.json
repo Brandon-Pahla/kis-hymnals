@@ -1,0 +1,27 @@
+{
+  "number": 2,
+  "language": "ki",
+  "title": "2. Twakugatha Ngai.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Twakũgaatha Ngai, na Mwana na wendo,",
+        "Nĩatũkuĩrĩire, na agĩthiĩ igũrũ,",
+        "Haleluya! Twakũgatha, Haleluya! Amen",
+        "Haleluya! Twakũgaatha, tũraathime rĩu.",
+        "2.",
+        "Twakũgaatha Ngai, Na Roho Mũtheru,",
+        "Nĩatũkũũrire Mwathani Jesũ.",
+        "3.",
+        "Tũgaathe Jesũ, nĩatũkuĩrĩire,",
+        "Nĩatũkũũrire agĩtũhonokia.",
+        "4.",
+        "Twakũgatha Ngai, tondũ wa tha ciaku,",
+        "Tũhe Roho waku Ngoro-inĩ ciitũ."
+      ],
+      "number": 1
+    }
+  ]
+}

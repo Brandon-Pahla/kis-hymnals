@@ -1,0 +1,86 @@
+{
+  "number": 275,
+  "language": "nso",
+  "title": " 275 BOSAFELEGO! KAE?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 275 BOSAFELEGO! KAE?",
+        "CS 37",
+        "ETERNITY! WHERE?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bosafelego! Kae?\"",
+        "Bo fofa sebakabakeng,",
+        "Modimong, le Khutšong",
+        "Ga bo sa le go,",
+        "Potšišo e bohlokwa",
+        "Bosafelego! kae?",
+        "Potšišo e bohlokwa",
+        "Bosafelego! kae?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "“Bosafelego! kae?\"",
+        "Bosafelego! kae?",
+        "Polokegong kgalalelong",
+        "Goba matshwanyegong,",
+        "Goba bobeding bjo",
+        "\"Bosafelego! kae?",
+        "Goba bobeding bjo",
+        "\"Bosafelego! kae?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Bosafelego! kae?\"",
+        "O ikgethela bjang?",
+        "Tša lefase leno o",
+        "sa di hlokomeletše eng?",
+        "O sešo o tiišetše",
+        "\"Bosafelego! kae?",
+        "O sešo o tiišetše",
+        "\"Bosafelego! kae?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Bosafelego! kae?\"",
+        "Mogwera hlokomela,",
+        "Modimo o tloga",
+        "A dira kahlolo,",
+        "Tšatši leo la gago",
+        "\"Bosafelego! kae?",
+        "Tšatši leo la gago",
+        "\"Bosafelego! kae?"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Bosafelego! kae?\"",
+        "Ao bosafelego! kae?",
+        "Mogwera tsoga",
+        "se ye le lefase,",
+        "Araba potšišo",
+        "\"Bosafelego! kae?",
+        "Araba potšišo",
+        "\"Bosafelego! kae?"
+      ],
+      "number": 6
+    }
+  ]
+}

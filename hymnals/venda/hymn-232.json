@@ -1,0 +1,51 @@
+{
+  "number": 232,
+  "language": "ve",
+  "title": "232. A Thi Nga U Furaleli",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:301"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. A thi nga u furaleli, nne a thi nga u litshi,",
+        "Nda u dededza nga tshanda, ndi itela dzina langa",
+        "U si ofhe vhuvhi hothe, tenda u eletshedzwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mathupho a tshi u tanga, u mbidze nga thabelo,",
+        "nne ndi u kuvhatedza, nda u lisa nga vhulenda,",
+        "Kha u lingwa, kha u lingwa, ndi do u vhonetshela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Musi zwothe zwo u anda, wo tangwa nga zwivhuya,",
+        "U tshi dzula wo takala, wo tangedzwa nga tshedza,",
+        "Ndi do vha na iwe hothe, ndi do u dedengedza."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. U tshi tangwa nga mathupho na nga u tima-tima,",
+        "Zwo u tibedza sa gole, ndi do u vhonetshela,",
+        "Nga lufuno, nga lufuno ndi do u vhonetshela."
+      ],
+      "number": 5
+    }
+  ]
+}

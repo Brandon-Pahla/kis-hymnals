@@ -1,0 +1,72 @@
+{
+  "number": 371,
+  "language": "tw",
+  "title": "Ma No So",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ma No so, Nyame na ɔhyɛw'",
+        "Nea ɔrewu nhwɛ nnya nkwa;",
+        "ɔbɛma nnebɔn'yɛfo a",
+        "Sukɔm de wɔn no nkwa nsu;",
+        "Ewom, ɔbrɛɛ Ne ho ase,",
+        "Nanso na ɔyɛ 's'ro Hen,",
+        "\\\"Nifraefo a wɔte sum mu",
+        "Hu ade Yesu mogyam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ma No so, 'Gyenkwá a Wasɔre",
+        "Nea ɔk'rɔn sen obiara;",
+        "Ma No so, ɔno na ɔse",
+        "Wo sɛ guan fi bɔne ho."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma No so, 'Gyenkwá a ɔsom bo,",
+        "Ma amansan mmɛhwɛ No;",
+        "Wɔde ɔpɛ bɛhwehwɛ No;",
+        "ɔde wɔn bɛba Ne nkyɛn;",
+        "Wɔbɛboaboa wɔn ho ano",
+        "De 'nigye aba ntɛm so,",
+        "Wɔbɛsoa Yesu asɛnnua",
+        "Na wɔahu nkwagye mu dɛw."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma No so, N'anuonyam ny'naa mu,",
+        "Nyame Ba a ɔwɔ s'ro;",
+        "Ma No so, Ne dɔ bɛtwe wɔn,",
+        "Agyegyentwi mpo bɛba;",
+        "Ma wɔnte asɛnnua no ho",
+        "Asɛm, 'nimguase 'wu no;",
+        "Ma tɛkrɛma biara nnye so;",
+        "Nnipadɔm behy'ra Ne din."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻnde ma No so nnwonto mu,",
+        "Ma 'Gyenkwa no so mpaebɔm',",
+        "ɔyɛ Gyefo 'nuonyamfo a",
+        "ɔsoaa adasa bɔn' ny'naa",
+        "Mmofra bɛkoto N'anim na",
+        "Mpanyin ama wɔn nne so;",
+        "Sotifo bɛte hosana",
+        "Na mum ato N'ayeyi"
+      ],
+      "number": 4
+    }
+  ]
+}

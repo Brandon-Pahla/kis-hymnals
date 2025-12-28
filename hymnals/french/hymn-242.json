@@ -1,0 +1,46 @@
+{
+  "number": 242,
+  "language": "fr",
+  "title": "Viens en cette heure",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Viens en cette heure, ô tendre Père !",
+        "Te révéler à tes enfants !",
+        "Ensemble, unis dans la prière,",
+        "Vers toi nous élevons nos chants."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Remplis nos cœurs, par ta présence,",
+        "De foi, d'amour et d'espérance."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Permets, Seigneur, qu'à ta voix sainte",
+        "Nos cœurs se rangent sous ta loi,",
+        "Vivant toujours selon ta crainte,",
+        "Conduits et soutenus par toi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Viens nous parler de ton Royaume",
+        "Où nous appelle ton amour,",
+        "Et pour livrer nos luttes d'hommes,",
+        "Arme nos bras jour après jour."
+      ],
+      "number": 4
+    }
+  ]
+}

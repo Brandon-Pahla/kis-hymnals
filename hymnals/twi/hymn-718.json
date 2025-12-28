@@ -1,0 +1,57 @@
+{
+  "number": 718,
+  "language": "tw",
+  "title": "N23 O Lord of Heaven",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "S'ro asase ne po Wura,",
+        "Ayeyi ne anuonyam wɔW',",
+        "Wo ho dɔ no yεnka no dεn",
+        "Ɔdεεfo pa?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Owia hyεnhyεn, m-frama pa,",
+        "Nnua ne aba yi Wo dɔ ky'rε;",
+        "Sɔ kwab're du a Wowɔ hɔ,",
+        "Ɔdεεfo pa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ahotɔ fie, ahoɔden nna,",
+        "Asase so nhyira nyinaa,",
+        "yεdaW' ho ase yiW' ayε,",
+        "Ɔdεεfo pa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Woankame yεn Wo dɔ Ba no,",
+        "Wi-a-se nti, Wode No kyεe;",
+        "Wuyii Hyirafo no maa kwa",
+        "Ɔdεεfo pa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Woapɔn kra de bɔne akyε;",
+        "Woama yεn dom, s'ro ‘nidaso,",
+        "Agya dεn na yεmfa mma Wo,",
+        "Ɔdεεfo pa."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": 483,
+  "language": "en-sdah",
+  "title": "483 I Need Thee Every Hour",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. I need Thee every hour, Most gracious Lord; No tender voice like Thine Can peace afford."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain : I need Thee, O I need Thee; Every hour I need Thee! O bless me now, my Saviour—I come to Thee."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. I need Thee every hour Stay Thou near by; Temptations lose their power When Thou art nigh."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. I need Thee every hour, In joy or pain; Come quickly, and abide, Or life is vain."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. I need Thee every hour, Teach me Thy will, And Thy rich promises In me fulfil."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 187,
+  "language": "sn",
+  "title": "187 Ngoma Yekupatsana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi ndinomuimbiranyizve",
+        "Pamwe rwiyorwo rwekupatsana",
+        "Tomukudza tichimunamata",
+        "Torindirazve norunyararo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tipenyi runyararo munzira",
+        "Timuke tindorare tinemwi",
+        "Muchengete miromo mwoyo",
+        "Yamunamatanyi mumba muno"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tipeyi runyararo muupenyu",
+        "Muve chidziviriro munjodzi",
+        "Apo muchapedza matambudzo",
+        "Tenzi tidane kurunyararo"
+      ],
+      "number": 3
+    }
+  ]
+}

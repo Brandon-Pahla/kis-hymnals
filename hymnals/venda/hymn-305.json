@@ -1,0 +1,46 @@
+{
+  "number": 305,
+  "language": "ve",
+  "title": "305. duvha linwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. duvha linwe Yesu a tshi khou amba",
+        "E na vhafunziwa vhawe"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "A vha vhudza a ri",
+        "Muya wanga u ri sumbedza, hone u ya vhafuni."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yudasi a mbo ita tshimbevha",
+        "A mu rengisela vhatsinda"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ari musi ndi tshi do swika ni do",
+        "mmbona ndi do mu fara."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ene Yesu o vha a tshi khou zwi divha",
+        "U ri Yudasi ndi tshifheti."
+      ],
+      "number": 4
+    }
+  ]
+}

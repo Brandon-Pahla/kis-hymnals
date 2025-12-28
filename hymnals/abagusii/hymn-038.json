@@ -1,0 +1,42 @@
+{
+  "number": 38,
+  "language": "guz",
+  "title": "38 Nintere Obwanchani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nintere obwanchani,Motoria, Onyanchete,Agacha, gokwer'ense,S'omot' o Kalwari."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nintere (Nintere) obwanchaniMogoko (Mogoko), as' omoyoAgakwa (agakwa) imbe moyo,Nter' obwanchani bwaye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Mariga 'Omonene'gaiteka 'ngencho yane;Ng'inyore Ogosaba,Ere nanyanchete."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Bwanchani bwaye'bonge Ense tekobomanya;Ebibe bun' ebiane,Mbirabe kegima."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tindarua kend' ekiya,Okang'a Obwanchani;'Moy'one ob'as'ore,Ng'orokie obwanchani."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 91,
+  "language": "sw",
+  "title": "91 - Kaa Nami",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Kaa nami, ni usiku tena, usiniache gizani, Bwana,",
+        "Msaada wako haukomi, nili peke yangu, kaa nami."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Siku zetu hazikawi kwisha, sioni la kunifurahisha,",
+        "Hakuna ambacho hakikomi, usiye na mwisho kaa nami."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Nina haja nawe kila saa, sina mwingine wa kunifaa,",
+        "Mimi nitaongozwa na nani, ila wewe Bwana kaa nami."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Sichi neno uwapo karibu, nipata lo lote si taabu,",
+        "Kifo na kaburi haviumi, nitashinda kwako kaa nami."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "Nilalapo nikuone wewe, gizani mote nimulikiwe,",
+        "Nuru za mbinguni hazikomi, siku zangu zote, kaa nami."
+      ]
+    }
+  ]
+}

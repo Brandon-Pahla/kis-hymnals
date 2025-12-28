@@ -1,0 +1,47 @@
+{
+  "number": 217,
+  "language": "xh",
+  "title": "217 Umbulelo Ku-Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Msindisi wandiph’ uthando lwaKho;",
+        "Mandingabandezi lutho kuWe.",
+        "Ngothando umoya wam uyazithoba,",
+        "Uzis’ umnikelo kuWe, Nkosi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyathethelelwa kuThixo wam;",
+        "Ndikhangela kuWe, Yesu, Nkosi,",
+        "Ndinike amandla ndithwal’ umnqamlezo,",
+        "Ndicule ndibonge ngaWe, Nkosi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiphe intliziyo enothando,",
+        "’Kuze yonk’ imihla ndikubone,",
+        "Ndibone uthando, nobubele baKho,",
+        "Nokundibuyisa, ndikubonge."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Konke endinako kusisipho;",
+        "Bonke obu bomi bubobaKho.",
+        "Xa sendikubona, umphefumlo wam",
+        "Woba ngowaKho Nkos’ napakade."
+      ],
+      "number": 4
+    }
+  ]
+}

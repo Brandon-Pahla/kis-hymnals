@@ -1,0 +1,47 @@
+{
+  "number": 117,
+  "language": "sn",
+  "title": "117 Ndirikuuya Tenzi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndanzwa izwi renyu, Randidana Tenzi;",
+        "Ndigeze neropa renyu, RepaKalvari,"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndouya Tenzi! Uya kunemwi;",
+        "Ndigezei neropa, RepaKalvari."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Handina masimba, Munondisimbisa;",
+        "Mondigezisa ndichene, Ndichene sechero,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu ondidaidza, kune runyararo,",
+        "Kurudo nerusimbiro, rwepasi nedenga."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rukudzo muropa, Kudzai tsitsi dzake,",
+        "Kudzai Chipo cha Tenzi, Arisimba Redu."
+      ],
+      "number": 5
+    }
+  ]
+}

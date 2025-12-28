@@ -1,0 +1,28 @@
+{
+  "number": 284,
+  "language": "luo",
+  "title": "284 Ruodha Dak Ipogna Kuon Mar Ngima",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ruodha, dak ipognakuon mar ngima,Kaka nipogo kuonni jo machon;Asomo Wachni, Ruoth,kadwaroi;Chunya ogomboi,Wach Mangima."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Gwedh Wachni, koro Ruoth,masewinjo;Kaka nigwedho kuonni jo machon;Pidha gi Wach mari,ayud teko;Eka nayud kuomikonyruok duto."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Wecheni gin ngima,Miwachona;Adwaro timogito an ayom,In kende, konyruokna;In ngimanakawinjo wachni,Ruoth nalo lwenj chuny."
+      ],
+      "number": 3
+    }
+  ]
+}

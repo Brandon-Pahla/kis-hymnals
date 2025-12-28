@@ -1,0 +1,56 @@
+{
+  "number": 223,
+  "language": "st",
+  "title": "223 Ke U Latele Hohle",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke utloa ’Moloki a bitsa,",
+        "Ka lentsoe le bonolo;",
+        "Ke utloa mantsoe a re:",
+        "\\\"Tlo, ntatele, ka mehla eohle.\\\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke tla nka fapano sa ka,",
+        "’Me ke latele ’Moloki.",
+        "Moo a nkisang ke latele,",
+        "Ke tsamae le Eena tseleng"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leha tsela e nts’ofala,",
+        "Maoto a ka a khathetse,",
+        "Pelo ea ka e thabile",
+        "Ha ke latela tseleng eohle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu O haufi le ’na,",
+        "O mphatsimisetsa seli",
+        "O ntsosolosa mo ho oeng,",
+        "Ha ke latela tseleng eohle"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O ntsamaisa khohlong,",
+        "O mpha manna a holimo,",
+        "Nakong tsohle kea U batla,",
+        "Ha ke latela tseleng eohle"
+      ],
+      "number": 4
+    }
+  ]
+}

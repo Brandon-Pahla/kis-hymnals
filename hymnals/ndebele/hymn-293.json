@@ -1,0 +1,37 @@
+{
+  "number": 293,
+  "language": "nd",
+  "title": "293 Nqonqo! Nqonqo!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nqonqo nqonqo ngubani, Umi umi omuhle",
+        "Usihamb’ esinomusa, Kazang’ abonwe onje",
+        "Ngaloko mphefumlo wami",
+        "Ungeze wavula na? Ungeze wavula na?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nqonqo nqonqo nguJesu, Umi umi omuhle",
+        "Isivalo silukhuni, kuthandele ukhula",
+        "Lubambe esivalweni",
+        "Kunga vulwa kanjani? Kunga vulwa kanjani?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nqonqo nqonqo usemi, Ulindile omuhle",
+        "Bon’ isandla sinenxeba, Sabethelelwa wena",
+        "Namehlo asalindile",
+        "Umvimbele njalo na? Umvimbele njalo na?"
+      ],
+      "number": 3
+    }
+  ]
+}

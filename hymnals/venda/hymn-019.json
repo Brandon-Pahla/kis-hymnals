@@ -1,0 +1,45 @@
+{
+  "number": 19,
+  "language": "ve",
+  "title": "19 Dzula Wo dilinda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:605",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Iwe muya wanga,",
+        "Dzula wo dilinda;",
+        "Mudzimu ndi thavha yanga",
+        "Musi ndo no neta."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Dzula nga thabelo,",
+        "U vhe mulaifa;",
+        "Yesu U ’tsumbedze ngoho,",
+        "Na vhutshilo vhuswa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ilwa na mulingi,",
+        "U ’tsumbedze Yesu;",
+        "Fhuluta mitodzi yanga,",
+        "Ndi sendze litadulu."
+      ],
+      "number": 4
+    }
+  ]
+}

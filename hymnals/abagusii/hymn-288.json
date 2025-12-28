@@ -1,0 +1,35 @@
+{
+  "number": 288,
+  "language": "guz",
+  "title": "288 'Bwanchani Bwatogokia",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bwanchani bwatogokia,'Toroseri' enchera;Botoinyoria kob'abaya,'S'abande botambe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyasae, Ere n'obwanchani,Naintwe, Nabaye tore;Bwanchani bwatogokia,'Toroseri'enchera;Botoinyoria kob'abaya'S'abande botambe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ens' ey'omoichano,'Borwair' amakweri;'S'obwanchani natoteme,Gokonya chinkoro."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Amatuk'akoera,Tokoirwa igoro;Natoter'agwo botambe,'Bwanchani bwa Yeso."
+      ],
+      "number": 4
+    }
+  ]
+}

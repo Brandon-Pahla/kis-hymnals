@@ -1,0 +1,37 @@
+{
+  "number": 277,
+  "language": "nd",
+  "title": "277 Kukhanya Yandulela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kukhanya yandulela emnyameni Hola mina",
+        "Ngikude nekhaya ebubini Hola mina",
+        "Gcina izinyawo ngingabheki;",
+        "Khashana kwenel’ unyawo lwami"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zange nempela-nje ngithandazele Ukukholwa,",
+        "Ngithand’ indlela ngizikhethele Ngibe ngedwa,",
+        "Ngesaba, ngiyathanda okuhle,",
+        "Kohlwa into zobami ubusha"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Loku ngibusisiwe ngamandl’ Akho Mangiholwe",
+        "Ngedlul’ engcingweni ebamba nko Sekusile,",
+        "Kusasa ingelosi zethabe,",
+        "Ngengakuthanda sekusilele"
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 61,
+  "language": "st",
+  "title": "61 Se Seng Ka Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Boholo ka Jesu ke tsebe, Boholo ka mohau ke bonts’e.,",
+        "Ke bone poloko ea Hae; Lerato le Ea nchoetseng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Se seng ka Jesu, ho hong ka Jesu oa ka,",
+        "Se seng ka poloko ea Hae, se seng ha hoba A nchoetse."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qoqa se seng ka Jesu, Le ka kelello ea Hae;",
+        "Moea oa Molimo mphe, Ho tseba ka Jesu oa ka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ithute se seng ka Jesu, Atamela ka thapelo;",
+        "Mamela lentsoe la Hae; Bolella ba bang ka Eena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se seng ka Jesu Morena, Ka setulo sa borena;",
+        "Paka taba tseo le uena; Le ka tsa ho khutla ha Hae."
+      ],
+      "number": 4
+    }
+  ]
+}

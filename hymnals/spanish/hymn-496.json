@@ -1,0 +1,45 @@
+{
+  "number": 496,
+  "language": "es",
+  "title": "Sus manos somos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Sus manos somos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sus manos somos,",
+        "que ayudan en el mundo.",
+        "Somos sus pies,",
+        "que van donde él los guía."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Somos su amor,",
+        "lumbre en las tinieblas.",
+        "Somos su luz",
+        "en la oscuridad."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sus ojos somos,",
+        "que ven a los sufrientes.",
+        "Somos su voz,",
+        "que anuncia su regreso."
+      ],
+      "number": 4
+    }
+  ]
+}

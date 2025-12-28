@@ -1,0 +1,49 @@
+{
+  "number": 255,
+  "language": "nd",
+  "title": "255  Ngikudingile, Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngikudingile Jesu",
+        "Loku ngingo mpofu",
+        "Nging’ umuntu’ ozulayo",
+        "Angi nay’ imfuyo",
+        "Ngidinga Wena Jesu",
+        "Ngibambe umgudu",
+        "Welus’ inyawo zami",
+        "Nayo inhliziyo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngidinga Yen’ uJesu",
+        "Njalo anginake",
+        "Ngize ngilwe nes’lingo",
+        "Engelekelela",
+        "Ngiding’ uMoy’ oNgcwele",
+        "Nami ngibe naYe",
+        "Ngifundiswe ngoJesu",
+        "Onge yam’ indlela"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Jesu, oligugu!",
+        "Ngoza nini kuWe",
+        "Ngihlotshiswe ngobuhle",
+        "Ngibe nobukhosi",
+        "Kuthi naba sindiswa",
+        "Njalo ngeneliswe",
+        "Ngicule ngingaphezi",
+        "Ngibusa neNkosi, Amen!"
+      ],
+      "number": 3
+    }
+  ]
+}

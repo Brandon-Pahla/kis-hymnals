@@ -1,0 +1,30 @@
+{
+  "number": 259,
+  "language": "ny",
+  "title": "259 - Tidzakomana Kodi?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SHALL WE MEET?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Tidzakomana patsidya, Mafunde akadzatha?",
+        "Kowala kosalekeza, Kulibe cisoninso?",
+        "CHORUS:",
+        "Tidzakomanako? Tidzakomane patsidya?",
+        "Tikakomane patsidya, Mabvuto akadzatha?",
+        "2. Tikakomana padoko, Akadzatha mabvuto?",
+        "Tidzaiponya nangula Pagombe lokomalo?",
+        "3. Tikakomana m’mudzimo; Nyumba zonyezimira,",
+        "Makomanso nga yasipi, omangidwa ndi Mbuye?",
+        "4. Tikakomana ndi Yesu Potenga anthu ace;",
+        "Ubwino tidzaudziwa Ntakhala mu mpando’ce."
+      ]
+    }
+  ]
+}

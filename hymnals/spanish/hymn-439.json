@@ -1,0 +1,44 @@
+{
+  "number": 439,
+  "language": "es",
+  "title": "¡Oh!, quién pudiera andar con Dios",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Oh!, quién pudiera andar con Dios"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh!, quién pudiera andar con Dios,",
+        "su dulce paz gozar,",
+        "volviendo a ver de nuevo el sol",
+        "de santidad y amor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh!, tiempo aquel en que oí",
+        "la dulce voz de Dios;",
+        "su fiel acento de amor",
+        "oyó mi corazón."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Contrito hoy me acerco a ti,",
+        "pidiendo tu merced.",
+        "Perdona el pecado vil",
+        "con que te contristé."
+      ],
+      "number": 4
+    }
+  ]
+}

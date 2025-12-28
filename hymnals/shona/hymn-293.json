@@ -1,0 +1,37 @@
+{
+  "number": 293,
+  "language": "sn",
+  "title": "293 Gogo, Gogo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Gogo, gogo, ndiani? Arindira akanaka!",
+        "Mufambi weumambo zve Asati awonekwa",
+        "A! mweya wangu, zaruravo mwoyo",
+        "Chishamiso chipinde’mo mukati"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gogo, gogo, Achipo, Arindira, Oshamisa",
+        "Handinyore kuzarura, zvo zvite zvakurisa",
+        "Zvadzikisa midzi yazvo, Kutenderedza",
+        "m’siwo; Kuti usazarure"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gogo, gogo, Achipo? Arindira, Akanaka",
+        "Anogogodza musiwo, nechiremba",
+        "chemhinzwa; Arindira nemutsa, Tenzi",
+        "akarindira; Woreg’ aripo here"
+      ],
+      "number": 3
+    }
+  ]
+}

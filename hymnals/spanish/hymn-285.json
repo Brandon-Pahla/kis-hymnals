@@ -1,0 +1,56 @@
+{
+  "number": 285,
+  "language": "es",
+  "title": "Confío en Jesucristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 28"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Confío en Jesucristo,",
+        "quien en la cruz murió.",
+        "Por esa muerte invicto",
+        "al cielo marcho yo.",
+        "Con sangre tan preciosa",
+        "mis culpas lava él:",
+        "la derramó copiosa",
+        "por mí ya Emanuel."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me cubre tu justicia",
+        "de plena protección;",
+        "tú eres mi delicia,",
+        "mi eterna salvación.",
+        "Jesús, en ti descanso;",
+        "reposo tú me das;",
+        "tranquilo, pues, avanzo",
+        "al cielo, donde estás."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A disfrutar invitas.",
+        "Acepto, mi Señor,",
+        "delicias infinitas",
+        "y celestial amor.",
+        "Espero al fin mirarte,",
+        "oír tu dulce voz;",
+        "espero yo cantarte,",
+        "mi Salvador, mi Dios."
+      ],
+      "number": 4
+    }
+  ]
+}

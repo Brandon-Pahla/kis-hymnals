@@ -1,0 +1,43 @@
+{
+  "number": 175,
+  "language": "es",
+  "title": "Ved a Cristo, que se acerca",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ved a Cristo, que se acerca",
+        "con gloriosa majestad.",
+        "Los que aguardan su regreso",
+        "dicen: \"Este es nuestro Dios,",
+        "lo hemos esperado siempre,",
+        "él es quien nos salvará\"."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Los que duermen en el polvo",
+        "se levantan por doquier.",
+        "Los poderes del maligno",
+        "no los pueden retener.",
+        "Pecadores descuidados,",
+        "¿qué destino encontrarán?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Y entonces los salvados",
+        "entrarán en la mansión.",
+        "Jesucristo los recibe",
+        "y les da coronación:",
+        "\"Bien, buen siervo; fiel serviste;",
+        "entra al gozo del Señor\"."
+      ],
+      "number": 3
+    }
+  ]
+}

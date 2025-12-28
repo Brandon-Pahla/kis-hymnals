@@ -1,0 +1,28 @@
+{
+  "number": 600,
+  "language": "pt",
+  "title": "Deus Esteja em Mim",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Deus Esteja em Mim"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Deus esteja em mim,",
+        "E em todo o meu pensar.",
+        "Sim, que o Deus do Céu,",
+        "conduza meu olhar;",
+        "E ao me despedir,",
+        "dirija meu andar.",
+        "Ó Pai, no coração,",
+        "Vem logo então reinar."
+      ],
+      "number": 2
+    }
+  ]
+}

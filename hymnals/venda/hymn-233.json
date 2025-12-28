@@ -1,0 +1,52 @@
+{
+  "number": 233,
+  "language": "ve",
+  "title": "233. Mmbudze Zwa Kale-Kale",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:196",
+        "AH:80"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mmbudze zwa kale-kale, Zwithu zwa tadulu,",
+        "Zwa vhurena ha Yesu, zwa lufuno lwawe;",
+        "Mmbudze zwo pfufhifhadza, zwi tshi nga zwa nwana,",
+        "Ndi muhota ndo neta, Ndo dala nga tshikha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mmbudze zwa kale-kale, Mmbudze zwa kale-kale,",
+        "Mmbudze zwa kale-kale, Zwa lufuno lwa Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Toolola ngavhuya, Zwi vhe na tshirunzi;",
+        "Humbula nne ndi muvhi, yesu o dela nne;",
+        "Mmbudze tshifhinga tshothe, Arali u tshi do,",
+        "’Vha mukhuthadzi musi ndo no vha khomboni."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Dovha u mmbudze zwothe, Musi hu na nyofho,",
+        "Vhugala ha shangoni vhu tshi vho nndina;",
+        "Ee, vhurena ha shango vhu tshi vho dodela,",
+        "Mmbudze zwa kale-kale: Yesu u a fhodza."
+      ],
+      "number": 4
+    }
+  ]
+}

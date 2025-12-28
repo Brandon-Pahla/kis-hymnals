@@ -1,0 +1,53 @@
+{
+  "number": 653,
+  "language": "tw",
+  "title": "Me Nyame, Ky'rɛ Wɔn Kwan",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me Nyame, ky'rɛ wɔn kwan",
+        "Bra Wo nkyɛn hɔ,",
+        "Mma dɔfo a Wode Wɔn ama me;",
+        "O, fa Wo s'ro dɔ no"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ky'rɛ wɔn kwan bra Wo nkyɛn;",
+        "Me Nyame, ky'rɛ wɔn kwan",
+        "Bra Wo nkyɛn hɔ."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wiase yɛ akɔnnɔ Ne 'nigye a,",
+        "Mma nnaadaa af'ri nntwe",
+        "Wɔn nnkɔ 'yeram',",
+        "Gye wɔn fi sɔhwɛm' na"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkokoaa sɛɛ nti, Kristo",
+        "Bɛyɛɛ 'kokoaa; Na bɔne wiase yim',",
+        "Wanyɛ bɔne; Ne nti mebɔ mpae sɛ,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me gyidi sua mpo a, Minim yie sɛ,",
+        "Wobɛgye 'kyɛde a Ͻsom bo yi.",
+        "Fa wɔn koma yi na"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 78,
+  "language": "sw",
+  "title": "78 - Mpaka Lini Bwana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Mpaka lini Bwana, utakaa mbali?",
+        "Kumetuchosha moyo, kukawia hivi,",
+        "Utatujia lini, ili tufurahi,",
+        "Katika ile nuru, kuja kutukufu?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Mpaka lini Yesu, utaacha watu,",
+        "Uliowakomboa, wawe na mashaka?",
+        "Wachache waamini, kwamba utarudi,",
+        "Wachache wa tayari, Bwana kukulaki."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Waamshe watu wako, tangaza ujumbe,",
+        "“Mwe watakatifu, Bwana yu karibu,”",
+        "Utatujia lini, ili tufurahi,",
+        "Katika ile nuru, kuja kutukufu?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "number": 32,
+  "language": "bem",
+  "title": "32 - MFUMU E CILIBWE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE LORD’S OUR ROCK"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mfumu e cilibwe cesu, E Iinga lyesu pe na pe",
+        "Mu macusho tulekosa, E linga lyesu pe na pe",
+        "CHORUS:",
+        "Cilibwe-e cesu ca maka, cintelelwe muciswebebe,",
+        "Ntungulu-shi yesu yacine E linga lyesu pe na pe.",
+        "2. Cintelelwe pa kasuba, E linga lyesu pe na pe,",
+        "Tatwabe no mwenso nomba, E linga lyesu pe na pe.",
+        "3. Nga milamba yafulisha, Elinga lyesu pe na pe.",
+        "Lesa wesu atusunga, Elinga lyesu pe na pe.",
+        "4. Mwe cilibwe catemwikwa, Elinga lyesu pe na pe,",
+        "Mube mupepi na ifwe, Elinga lyesu pe na pe."
+      ],
+      "number": 2
+    }
+  ]
+}

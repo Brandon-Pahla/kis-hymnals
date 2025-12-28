@@ -1,0 +1,35 @@
+{
+  "number": 351,
+  "language": "guz",
+  "title": "351 'Moe Yes'ebibe Biane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Moe Yes'ebibe biane,'Ng'ondi ya Nyasae,'Bibogori'antimokie,Korw'as'emechando."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Moe 'Kogania Kwane,Oyo bw'oboikeranu,Angwenia Oborwaire,Abori'omoy'one."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Moe 'bororo bware,N'ogwechanda gwonsi,Nansibore Korwa o,'Sange nainche onsi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nganetie mobwekane,'Mwororo, 'moitongoNgwekane buna Yeso,Omwan'O Nyasae."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 529,
+  "language": "es",
+  "title": "Iglesia de Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Iglesia de Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iglesia de Cristo,",
+        "reanima tu amor",
+        "y espera, velando,",
+        "a tu augusto Señor.",
+        "Jesús, el Esposo,",
+        "vestido de honor,",
+        "viniendo se anuncia",
+        "con fuerte clamor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si falta en algunos",
+        "el santo fervor,",
+        "la fe sea en todos",
+        "el despertador.",
+        "Velad, compañeros,",
+        "velad sin temor,",
+        "que está con nosotros",
+        "el Consolador."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quien sigue la senda",
+        "del vil pecador,",
+        "se entrega en los brazos",
+        "de un sueño traidor.",
+        "Mas para los siervos",
+        "del buen Salvador,",
+        "velar esperando",
+        "es su anhelo mejor."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 230,
+  "language": "en",
+  "title": "230 I Am The Way.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Like wandering sheep o’er mountains cold, Since all have gone astray; To “Life” and peace within the fold, How may I find the way?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "I … am the way, … the truth, and the life; ………….",
+        "(I am the way) I am the way)",
+        "(I am the way, the truth and the life)",
+        "No man cometh unto the Father but by Me;",
+        "I …am the way, ……the truth, ……….and the life; ………",
+        "(I am the way) (I am the way)",
+        "(I am the way, the truth and the life)",
+        "No man comes unto the Father but by me."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bewildered oft with doubt and care,",
+        "To God I fain would go;",
+        "While many cry ”Lo here! Lo there!”",
+        "The truth how may I know?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "To Christ the Way, the Truth, the Life,",
+        "I come, no more to roam;",
+        "He’ll guide me to my “Father’s house”",
+        "To my eternal home."
+      ],
+      "number": 3
+    }
+  ]
+}

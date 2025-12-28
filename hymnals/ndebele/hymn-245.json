@@ -1,0 +1,55 @@
+{
+  "number": 245,
+  "language": "nd",
+  "title": "245 Alikho Elinye Ibizo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sine bizo likaJesu Elithandeka kithi;",
+        "Phezulu bathemba lona Nathi sithemba lona."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bizw’ elihle, Alikho ibizw’ elinje.",
+        "Bizw’ elihle, Alikho ibizw’ elinje."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alikho ibizw’ elihle Elithob’ inhliziyo;",
+        "Ngaphandle kwelika Jesu Nom’ enamil’ umuntu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngiyathemba ngizombona, Nxa ezothath’ abAkhe.",
+        "Ngiyathemba ngizombona Ngithabe emoyeni."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa evuma Ngisebenze Ensimini yeNkosi;",
+        "Kuhle kuphela uJesu Abusise okwami."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa evuma nima ngife, Kuhle ngifele kuYe;",
+        "Kuhle kuphela uJesu Abe lithemba lami."
+      ],
+      "number": 6
+    }
+  ]
+}

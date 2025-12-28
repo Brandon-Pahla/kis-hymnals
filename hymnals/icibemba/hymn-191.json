@@ -1,0 +1,37 @@
+{
+  "number": 191,
+  "language": "bem",
+  "title": "191 - CACINE CINE YESU W ANDI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BLESSED ASSURANCE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Cacine cine Yesu wandi,",
+        "Kuwama kwakwe kwa lulumbi!",
+        "Ndi mpyani nali-shitwa nankwe,",
+        "Kufyalwa ku Mupashi wakwe.",
+        "CHORUS:",
+        "Elyashi lyandi, lwimbo lwandi,",
+        "ndetasha Yesu Mfumu yandi,",
+        "Elyashi lyandi, lwimbo lwandi,",
+        "Ndetesha Yesu Mfumu yandi.",
+        "2. Kumfwila Yesu e buseko,",
+        "Cimonwa ca-kutemwa kwakwe,",
+        "Abangeli e bandetela,",
+        "Uluse lwakwe lwa kutemwa",
+        "3. Mutima wandi watalala,",
+        "Ine mu Mfumu nde sekela,",
+        "Ndelolela nde-lindilila,",
+        "Bucetekelo bwa kutemwa,"
+      ],
+      "number": 2
+    }
+  ]
+}

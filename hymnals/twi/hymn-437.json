@@ -1,0 +1,46 @@
+{
+  "number": 437,
+  "language": "tw",
+  "title": "Me S'ro Fie Hy'rɛn Na Ͻyɛ Fɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me s'ro fie hy'rɛn na ɛyɛ fɛ,",
+        "Yaw ne owu ntumi nkɔ hɔ;",
+        "N'abantenten hy'rɛn sen owia,",
+        "Saa s'ro fie no bɛyɛ me de."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Merekɔ fie, Merekɔ fie,",
+        "Merekɔ fie, Merenwu bio;",
+        "Merenwu bio, Merenwu bio,",
+        "Mereko fie, Merenwu bio."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M'Agya fič a wɔasi no s'ro,",
+        "Wɔ ewim aky'riky'ri nohoa;",
+        "Mede me ho fi sase so a,",
+        "Saa s'ro fie no bɛyɛ me de."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma binom nhwehwɛ fie fam ha,",
+        "Nea egya hyew, na nsu sɛe no;",
+        "Mede no som bo sen 'yinom,",
+        "S'ro fie a ɛbɛn 'hengua no."
+      ],
+      "number": 3
+    }
+  ]
+}

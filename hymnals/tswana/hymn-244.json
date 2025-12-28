@@ -1,0 +1,64 @@
+{
+  "number": 244,
+  "language": "tn",
+  "title": "244 Tlang Go Jeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tlang Go Jeso, Tlang Go Jeso,",
+        "Tlang go Jeso janong,",
+        "Janong tlang go Jeso, Tlang go Jeso janong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oa Boloka, Oa Boloka, Oa Boloka Janong;",
+        "Janong Oa boloka Oa boloka janong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Ka Kgona, O Ka Kgona, O Ka Kgona Janong;",
+        "Janong O ka kgona, O ka kgona janong."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bitsa Ene, Bitsa Ene, Bitsa Ene Janong;",
+        "Janong bitsa Ene, Bitsa Ene janong."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oletile, O Letile, Oletile Janong;",
+        "Janong O letile, O letile janong."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mo Ikanye, Mo Ikanye, Mo Ikanye Janong;",
+        "Janong Mo ikanye, Mo ikanye janong."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tshegofatso, Tshegofatso, Tshegofatso Janong;",
+        "Janong Tshegofatso, Tshegofatso janong."
+      ],
+      "number": 7
+    }
+  ]
+}

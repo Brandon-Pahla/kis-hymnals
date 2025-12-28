@@ -1,0 +1,44 @@
+{
+  "number": 18,
+  "language": "pt",
+  "title": "Santo! Santo! Santo!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Santo! Santo! Santo!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo! Santo! Santo! Deus onipotente!",
+        "Cedo de manhã cantaremos Teu louvor.",
+        "Santo! Santo! Santo! Deus Jeová triúno!",
+        "És Deus excelso, nosso Criador."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo! Santo! Santo! Nós, os pecadores,",
+        "Não podemos ver Tu a glória sem tremor.",
+        "Tu somente és santo, justo e compassivo,",
+        "Puro e perfeito, nosso Redentor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo! Santo! Santo! Deus onipotente!",
+        "Tua criação manifesta o Teu amor.",
+        "Antes de criares todo o Céu e a Terra,",
+        "Eras e sempre hás de ser, Senhor."
+      ],
+      "number": 4
+    }
+  ]
+}

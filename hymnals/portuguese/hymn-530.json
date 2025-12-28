@@ -1,0 +1,44 @@
+{
+  "number": 530,
+  "language": "pt",
+  "title": "O Sábado Chegou",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### O Sábado Chegou"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lento e calmo foge o dia, já a tarde se apagou;",
+        "Oh, que paz e que alegria, pois o sábado chegou!",
+        "És bem-vindo, és bem-vindo, santo dia do Senhor!",
+        "És bem-vindo, és bem-vindo, santo dia do Senhor!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Esta hora de bonança lembra o Deus que nos criou,",
+        "Pois o dia de lembrança, nosso Pai santificou.",
+        "És bem-vindo, és bem-vindo, memorial da criação!",
+        "És bem-vindo, és bem-vindo, memorial da criação!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Esta hora de harmonia lembra o Deus que nos salvou,",
+        "Cristo lá na tumba fria, neste dia descansou.",
+        "És bem-vindo, és bem-vindo, memorial da redenção!",
+        "És bem-vindo, és bem-vindo, memorial da redenção!"
+      ],
+      "number": 4
+    }
+  ]
+}

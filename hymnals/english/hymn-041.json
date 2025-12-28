@@ -1,0 +1,58 @@
+{
+  "number": 41,
+  "language": "en",
+  "title": "41 God Be With You",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "God be with you till we meet again;",
+        "By his counsels guide uphold you",
+        "With his sheep securely fold you;",
+        "God be with you till we meet again."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Till we meet------------------ Till we meet,",
+        "(Till we meet, Till we meet again)",
+        "Till we meet at Jesus’ feet. (till we meet)",
+        "Till we meet------------------ Till we meet",
+        "(Till we meet, Till we meet again)",
+        "God be with you till we meet again."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "God be with you till we meet again;",
+        "‘Neath his wings protecting hide",
+        "you, Daily manna still provide you,",
+        "God be with you till we meet again"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "God be with you till we meet again;",
+        "When life’s perils thick confound",
+        "you, Put his arms unfailing round you;",
+        "God be with you till we meet again."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "God be with you till we meet again;",
+        "Keep love’s banner floating o’er you,",
+        "Smite death’s threat’ning wave before you;",
+        "God be with you till we meet again"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "number": 379,
+  "language": "fr",
+  "title": "Grâce à la lumière",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Grâce à la lumière",
+        "De ta vérité,",
+        "Nous marchons, ô Père",
+        "En toute clarté."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Actif en service,",
+        "Notre cœur entier",
+        "Marche avec délice",
+        "Sur ton droit sentier."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Change nos pensées",
+        "Et libère-nous",
+        "Des fausses idées",
+        "Pour porter ton joug."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que l’amour inspire",
+        "Toutes nos actions,",
+        "Et que ton sourire",
+        "Éclaire nos fronts."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Au long de l’histoire,",
+        "Tu nous as conduits,",
+        "Mets-nous en mémoire",
+        "Que tu nous instruits."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "D’abord à l’écoute",
+        "De ta volonté,",
+        "Nous prenons la route",
+        "De l’éternité."
+      ],
+      "number": 6
+    }
+  ]
+}

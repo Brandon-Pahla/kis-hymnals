@@ -1,0 +1,42 @@
+{
+  "number": 184,
+  "language": "ve",
+  "title": "184. Dakalo Shangoni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:125",
+        "AH:403"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Khuwa hu tshi swika khosi, mu tanganedzeni,",
+        "Ri vule dzimbilu dzashu-vho,",
+        "Ri do mu imbela na gogo tadulu, ra mu imbela rothe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ri do vhuswa nga Murena, vhothe kha vha tende,",
+        "Dzithavha na milambwana, zwi do mu khoda-vho,",
+        "Zwi do di ralo-vho zwa mu khoda nga dzinyimbo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yehova Muvhusi washu, a re na tshilidzi,",
+        "Dzitshaka nga dzi divhise ha, Madembe othe,",
+        "Lufuno luhulu. Madembe alwo lufuno."
+      ],
+      "number": 4
+    }
+  ]
+}

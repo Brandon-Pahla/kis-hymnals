@@ -1,0 +1,53 @@
+{
+  "number": 114,
+  "language": "ny",
+  "title": "114 - Chipata Chochinjikacho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE GATE AJAR FOR ME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Chipata chochinjikacho, Chionetsera cheza;",
+        "Kuchokatu ku mtandawo, Chikondi chioneka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mwachinjikira ine ko, Chipata cha kumwambako?",
+        "Ine, Ine, Mwachinjikira ’ne?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Chipata n’chauleretu Kwa onse akufuna;",
+        "Achuma, osaukanso, A mtundu uli wonse."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Pitanitu mtsogolomo, Chipata n’chosatseka;",
+        "Landira mtanda wakewo, Mbonitu ya chikondi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Patsidya tidzatulapo, Mtandawo wa manyazi;",
+        "’Dzavalatu koronayo, ’Dzamkonda ’Ye koposa."
+      ],
+      "number": 5
+    }
+  ]
+}

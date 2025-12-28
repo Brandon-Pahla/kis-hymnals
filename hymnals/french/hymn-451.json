@@ -1,0 +1,37 @@
+{
+  "number": 451,
+  "language": "fr",
+  "title": "En quelque lieu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "En quelque lieu que tu me mènes,",
+        "Seigneur, que je sois avec toi.",
+        "Sentier de bonheur ou de peines,",
+        "Qu’il soit toujours sentier de foi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que je fasse ma nourriture",
+        "De ta Parole, ô Jésus-Christ,",
+        "Et que sans plainte, sans murmure,",
+        "Je marche selon ton Esprit."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dieu tout-puissant, qui m'es propice,",
+        "Je veux t'invoquer chaque jour,",
+        "Chercher ton règne et ta justice;",
+        "J'obtiendrai tout de ton amour."
+      ],
+      "number": 3
+    }
+  ]
+}

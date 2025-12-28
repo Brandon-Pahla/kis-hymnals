@@ -1,0 +1,46 @@
+{
+  "number": 471,
+  "language": "pt",
+  "title": "Confiei no Meus Senhor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Confiei no Meus Senhor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Confiei no meu Senhor,",
+        "E Ele me ouviu;",
+        "Do pecado me livrou,",
+        "E a vida em mim surgiu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Muitos O verão e temerão,",
+        "Deus, Criador da terra e Céu.",
+        "Bem aventurado o que confia no Senhor.",
+        "A Cristo honra, glória e louvor!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Os meus pés guiou no bem;",
+        "Um sol em mim nasceu;",
+        "Minha vida há de ser",
+        "Um hino ao meu bom Deus."
+      ],
+      "number": 4
+    }
+  ]
+}

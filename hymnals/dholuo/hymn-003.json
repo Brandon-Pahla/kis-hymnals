@@ -1,0 +1,35 @@
+{
+  "number": 3,
+  "language": "luo",
+  "title": "3 Duong` Obed Ni Wuonwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Duong` obed ni Wuonwakuom gi motimo;Nikech nohero piny,mochiwo WuodeMa notho e yathMondo oluok richo,Mondo ng`a moyie kuomeoyud ngima."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wapak Ruoth, wapak Ruoth,Piny mond` owinj dwonde;Wapak Ruoth, wapak Ruoth,Mondo ji duto luor;Biuru ni Wuonwakuom Yesu Wuode,Mondo wapakekuom gik mosetimo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ruoth Yesu noseng`iewowa gi rembe,Nyasaye osingoni jo moyie kuome,Kinde ma giruakoYesu e chunygiE ma enowenigiekethgi duto."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Osetimo tichnemadongo ni piny,Wamor moloyokuom puonj Yesu Ruodhwa;Wanamor moloyogi chunywa duto,Ka waneno wang`Yesu ma Jawarwa."
+      ],
+      "number": 4
+    }
+  ]
+}

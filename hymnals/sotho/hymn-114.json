@@ -1,0 +1,46 @@
+{
+  "number": 114,
+  "language": "st",
+  "title": "114  Khoro E Buletsoe.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ho na le khoro e butsoeng, Menyakong e khanyang,",
+        "Hlaseli la sefapano, Ts’enolo ea lerato."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O mokakang mohau ona, Khoro e buletsoe le ’na!",
+        "Le ’na, le ’na? E buletsoe le ’na!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khoro eo e buletsoe, bohle ba tlang polokong,",
+        "Barui, bafumanei, Le bafo le Marena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Itlhahaneleng ka matla, Ha khoro e sa butsoe,",
+        "Amohelang Sefapano, Ponts’o eo ea lerato."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mose oane re tla beha, sefapano sa joale,",
+        "Re roale moqhak’a rona, Bophelong ratong la Hae."
+      ],
+      "number": 4
+    }
+  ]
+}

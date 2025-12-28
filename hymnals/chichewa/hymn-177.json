@@ -1,0 +1,53 @@
+{
+  "number": 177,
+  "language": "ny",
+  "title": "177 - Mdziko La Kuwalalo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NO NIGHT THERE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. M’dziko la kuunika, Kuli mzinda uko;",
+        "Iwo sudzachotsedwa, Kulibe usiku."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Misozi aichotsa, Imfa, nthenda ndi mantha.",
+        "Sawerenganso zaka, Kulibe usiku."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Zipata nza ngaletu, za ku mzinda uko;",
+        "Miseu nja golidi, Kulibe usiku."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Zipata nzosatseka, za ku mzinda uko;",
+        "Komwe kuli mtsinjewo, Kulibe usiku;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Samasowa dzuwanso, a ku mzinda uko;",
+        "Yesu aunikako, Kulibe usiku."
+      ],
+      "number": 5
+    }
+  ]
+}

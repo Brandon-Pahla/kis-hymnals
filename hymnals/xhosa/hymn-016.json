@@ -1,0 +1,38 @@
+{
+  "number": 16,
+  "language": "xh",
+  "title": "16 Lumkani Zinyawana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndizihlambil’ izindla, Hi nje! Zaba mhlophe",
+        "Ndizibolek’ uYesu, Ukumsebenzela."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Zinyawo lumkani, Hambani kuhle.",
+        "Nyamekan’ nindise Khona ku-Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zindlebe phulaphula Ngayo yonk’ imihla;",
+        "Siqondeni isisa Kuzo zonk’ izenzo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Makalind’ amehlo am Wonke umsebenzi;",
+        "Kungabikho okubi, Ngenxa ka-Yesu wam."
+      ],
+      "number": 3
+    }
+  ]
+}

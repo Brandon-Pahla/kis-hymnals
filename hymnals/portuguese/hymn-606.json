@@ -1,0 +1,28 @@
+{
+  "number": 606,
+  "language": "pt",
+  "title": "Amigo, Não Saia Sem Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Amigo, Não Saia Sem Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amigo, não saia sem Cristo.",
+        "Não saia daqui sem Jesus,",
+        "Pois quer hoje mesmo salvá-lo;",
+        "Por isso morreu numa cruz.",
+        "Receba esta oferta de graça,",
+        "E aceite de Cristo o perdão.",
+        "Amigo, não saia sem Cristo",
+        "No seu coração."
+      ],
+      "number": 2
+    }
+  ]
+}

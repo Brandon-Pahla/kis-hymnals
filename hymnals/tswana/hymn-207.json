@@ -1,0 +1,39 @@
+{
+  "number": 207,
+  "language": "tn",
+  "title": "207 Ke Bonye Yo O Pegilweng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Bonye Yo O Pegilweng, Botlhokung Le Mading,",
+        "A nteba A sotlegile, Ke eme mokgorong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga Nkake Ka E Lebala Yone Tebo Ele;",
+        "E ne ’kete e ntshekisa Ka loso lwa Gagwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tebo Ya Bobedi Ya Re \"Ke Go Itshwaretse;",
+        "Ke sule gore O tshele, Madi a a duetse"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lefa Ke Senola Loso Lwa Gagwe Ka Dibe,",
+        "Bosaitseweng jwa tshegofatso, Ke ishwaretse."
+      ],
+      "number": 4
+    }
+  ]
+}

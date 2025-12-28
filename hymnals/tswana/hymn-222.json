@@ -1,0 +1,44 @@
+{
+  "number": 222,
+  "language": "tn",
+  "title": "222 Ke Polokong Mabogong A Jeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Polokong Mabogong, Fubeng Sa Ga Jeso,",
+        "Tshireletso loratong, Ke ikhutsa sentle.",
+        "Utlwa mantsw’a ba’ngele, A a tlang kwa go nna,",
+        "A tswa kwa kgalalelong, ’Watleng ja jas’pera."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke polokong mabogong Fubeng sa ga Jeso,",
+        "Tshireletso loratong, Ke ikhutsa sentle."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Polokong Go Jeso, Polokong Tshenyegong;",
+        "Dithaelong tsa lefatshe ’Ba ga se nntshe kotsi,",
+        "Kgololo bofutsaneng, Kgololo mo poifong;",
+        "Thaelo ga di sa le kae, E , le dikeledi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso Tshireletso’a Me, Jeso O N’a Ntshwela,",
+        "Mo Lefikeng ja Metlha, Ke tla ikhanya teng.",
+        "A ke lete boitshokong, Sigo bo bo fete,",
+        "Ke be ke bone moso, Tsibogong ja gouda."
+      ],
+      "number": 3
+    }
+  ]
+}

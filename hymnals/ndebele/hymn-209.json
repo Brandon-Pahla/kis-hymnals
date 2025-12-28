@@ -1,0 +1,39 @@
+{
+  "number": 209,
+  "language": "nd",
+  "title": "209 O, Ngibe Ne Nkosi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, ngibe neNkos’ eduze Insika enkulu,",
+        "Ubhaq’ ol’khanyisa kude Indlela yeWundlu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Buya Jub’ el’Ngcwele, buya S’thunywa esimnandi,",
+        "Ngizond’ ongakuthandiyo Kwaku xosha kimi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngangi nokuthula ngaWe Ngisakukhumbula,",
+        "Kusavuka njalo ngaWe Umoya Wok’thula."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Usithandwa esikhulu Noba sinjani nje!",
+        "Sihle sivela phezulu Ngiyas’khonza sinje."
+      ],
+      "number": 4
+    }
+  ]
+}

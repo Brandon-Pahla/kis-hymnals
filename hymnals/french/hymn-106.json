@@ -1,0 +1,37 @@
+{
+  "number": 106,
+  "language": "fr",
+  "title": "Quel bonheur!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Quel bonheur! Jésus vient! Sa voix se fait entendre;",
+        "Les ténèbres s'en vont, voici le point du jour.",
+        "Qu'il nous trouve veillant, les reins ceints pour l'attendre,",
+        "Portant du fruit pour lui, heureux dans son amour!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bientôt près de son trône, où notre âme ravie",
+        "Goûtera le repos du séjour glorieux,",
+        "Nos yeux contempleront le Prince de la vie,",
+        "Celui qui s'abaissa pour nous ouvrir les cieux."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alors éclatera l'hymne de l'allégresse;",
+        "Nos lèvres s'ouvriront dans un parfait bonheur,",
+        "Et tous, à l'unisson, répéteront sans cesse",
+        "Les gloires de l'Agneau, du divin Rédempteur."
+      ],
+      "number": 3
+    }
+  ]
+}

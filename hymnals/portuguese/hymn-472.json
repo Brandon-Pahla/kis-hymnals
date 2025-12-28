@@ -1,0 +1,64 @@
+{
+  "number": 472,
+  "language": "pt",
+  "title": "Deus é Tão Bom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Deus é Tão Bom"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Deus é tão bom,",
+        "Deus é tão bom,",
+        "Deus é tão bom,",
+        "Deus é bom pra mim!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Deus me quer bem,",
+        "Deus me quer bem,",
+        "Deus me quer bem,",
+        "Deus é bom pra mim!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Deus me salvou,",
+        "Deus me salvou,",
+        "Deus me salvou,",
+        "Deus é bom pra mim!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Deus me sustém,",
+        "Deus me sustém,",
+        "Deus me sustém,",
+        "Deus é bom pra mim!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Deus é amor,",
+        "Deus é amor,",
+        "Deus é amor,",
+        "Deus é bom pra mim!"
+      ],
+      "number": 6
+    }
+  ]
+}

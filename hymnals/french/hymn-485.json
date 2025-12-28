@@ -1,0 +1,55 @@
+{
+  "number": 485,
+  "language": "fr",
+  "title": "Comme un enfant",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Comme un enfant qui sert son père",
+        "Avec amour, avec bonheur,",
+        "Je veux t'aimer, je veux te plaire,",
+        "Te servir, ô Dieu, mon Sauveur!",
+        "Je veux t'aimer, je veux te plaire,",
+        "Te servir, ô Dieu, mon Sauveur!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Comme un enfant, je veux sans crainte",
+        "Te livrer mon cœur à toujours,",
+        "Accomplir ta volonté sainte,",
+        "Compter sur ton divin secours.",
+        "Accomplir ta volonté sainte,",
+        "Compter sur ton divin secours."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ô viens, par ta puissante grâce,",
+        "Affermir en moi ce désir!",
+        "Fais-moi marcher devant ta face,",
+        "Humble et joyeux de t'obéir.",
+        "Fais-moi marcher devant ta face,",
+        "Humble et joyeux de t'obéir."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De ton Esprit remplis mon âme,",
+        "De ton amour remplis mon cœur;",
+        "Qu'en moi toujours brûle la flamme",
+        "Du saint zèle et de la ferveur.",
+        "Qu'en moi toujours brûle la flamme",
+        "Du saint zèle et de la ferveur."
+      ],
+      "number": 4
+    }
+  ]
+}

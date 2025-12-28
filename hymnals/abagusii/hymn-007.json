@@ -1,0 +1,42 @@
+{
+  "number": 7,
+  "language": "guz",
+  "title": "7 Nyasaye 'Motoria Oito",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nyasae 'Motoria oito,Korw'emiaka yonsi;Ekiriri'as'emechando,Enka ya botambe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Inse y'ekiriri kiao,natomenye buya;'Koboko kwao ngoisainegotorenda twensi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Otaratonga ens'eye,Tikiarenge gento;Nyasae kwareo nay'orab'emiaka yonsi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Biare elfu 's'orebing'e mogorob'eyemo;'Bieng'e bun'ensa ya mambiaKo bogokiamoka."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Nyasae 'Motoria oito,As'emiak'egocha;Torae gatore moyo,'S'enka ya Igoro."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 74,
+  "language": "bem",
+  "title": "74 - TANDA KU LUCELO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SOWING IN THE MORNING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tanda kulucelo, Mbuto shabusuma,",
+        "Tuletanda nomba, Mbuto sha Mfumu;",
+        "Tulolela nshita, Yakusepa mbuto,",
+        "Tukabwela bonse No kusekela.",
+        "CHORUS:",
+        "Tukasekela, tukasekela,",
+        "Lintu tukabwela tukasekela;",
+        "Tukasekela, tukasekela,",
+        "Lintu tukabwela tukasekela",
+        "2. Tanda pa kasuba, Nelyo mumiloke,",
+        "E milimo yesu tukacita pe,",
+        "Lintu imilimo Yakusepa yapwa,",
+        "Tukabwela bonse Nokusekela.",
+        "3. Uyo alelila Lintu aletanda,",
+        "Mbuto sha kwa Yesu muno mu calo;",
+        "Lintu imilimo, Pano calo yapwa,",
+        "Tukabwela bonse nokusekela."
+      ],
+      "number": 2
+    }
+  ]
+}

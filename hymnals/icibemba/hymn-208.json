@@ -1,0 +1,31 @@
+{
+  "number": 208,
+  "language": "bem",
+  "title": "208 - ENDENI BWINO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TREAD SOFTLY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tondolo, Tondolo, Umfweni shiwi;",
+        "Talaleni mumfwe kutikisheni.",
+        "CHORUS:",
+        "Endeni bwino Shikulu 'li pano,",
+        "Mwende bwino bwino aletufwaya",
+        "2. Tondolo, Tondolo, Mwa mushilo 'mu;",
+        "Mashiwi yafuma 'pa ya cikuku.",
+        "3. Tondolo, Tufukame. Tuicefye;",
+        "Natukwata busuma bwa Edeni.",
+        "4. Tondolo, Tondolo, Musange luse;",
+        "Tondolo, Tondolo, Muloleleni."
+      ],
+      "number": 2
+    }
+  ]
+}

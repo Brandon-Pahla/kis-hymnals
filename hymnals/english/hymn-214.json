@@ -1,0 +1,57 @@
+{
+  "number": 214,
+  "language": "en",
+  "title": "214 Does Jesus Care?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Does Jesus care when my heart is pained,",
+        "Too deeply for mirth or song;",
+        "As the burdens press, And the cares distress,",
+        "And the way grows weary and long."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O yes, He cares, I know He cares,",
+        "His heart is touched with my grief;",
+        "When the days are weary,",
+        "The long nights dreary,",
+        "I know my Saviour cares (He cares)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Does Jesus care when my way is dark,",
+        "With a nameless dread and fear?",
+        "As the daylight fades, Into deep night shades,",
+        "Does He care enough to be near?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Does Jesus care when I’ve tried and failed,",
+        "To resist some temptation strong?",
+        "When in my deep grief I find no relief,",
+        "Tho’ my tears flow all the night long?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Does Jesus care when I’ve said “good-by”",
+        "To the dearest on earth to me,",
+        "And my sad heart aches, ‘Till it nearly breaks,",
+        "Is this aught to Him? Does He see?"
+      ],
+      "number": 4
+    }
+  ]
+}

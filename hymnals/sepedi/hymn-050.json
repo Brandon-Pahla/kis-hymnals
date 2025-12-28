@@ -1,0 +1,57 @@
+{
+  "number": 50,
+  "language": "nso",
+  "title": " 50 GO NA LE LEFASE LE LEBOTSE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 50 GO NA LE LEFASE LE LEBOTSE",
+        "АН 432 CH 551",
+        "THERE'S A LAND"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go na le 'fase le lebotse,",
+        "Tumelong re le bona pele",
+        "Tate wešo o re letile,",
+        "Go re lokišetša bodulo;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Monate kua pele,",
+        "re kopane faseng le botse,",
+        "Monate kua pele,",
+        "re kopane faseng le botse;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re tlo opela faseng lela,",
+        "Dikoša tše botse tumišong,",
+        "Re ka se ke ra ba manyaming,",
+        "E seng ka baka la boikhutšo;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go Tate wešo kwa Godimo,",
+        "Re tlo goa koš 'a tumišo,",
+        "Ka mpho e kgolo lerato,",
+        "Le mahlatse a tšhegofatšo;"
+      ],
+      "number": 5
+    }
+  ]
+}

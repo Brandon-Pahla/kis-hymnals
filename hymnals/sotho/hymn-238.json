@@ -1,0 +1,56 @@
+{
+  "number": 238,
+  "language": "st",
+  "title": "238 Bao Ke Bo-mang!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bao ke bo-mang mose oa maqhubu, Ba fetang meeling ea",
+        "mabitla,",
+        "Ba reng: \\\"Jesu re boloke?\\\" Ba Itlhatsoitse moo maling?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ba kena menyakong ea Jerusalema, Jerusalema e mocha,",
+        "Ba reng: \\\"Jesu boloka?\\\" Ba itlhatsoitse mo maling?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bao ke bona, bao bocheng ba bona, Ba boneng Jesu moo",
+        "bohlaleng,",
+        "Ba kena menyakong ea Jerusalema, Ba itlhatsoitse mo maling."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bao e itseng ka mahlomol’a bona, Ba fumana phomolo ho Jesu,",
+        "Ba paka mohau oa hae, Ba itlhatsoitse mo maling."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bao e itseng mo har’a lintoa, Ba ema hona moo ho chesang,",
+        "Phomolo e hloekileng, Ba itlhatsoitse mo maling."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ba bolokiloe ka ho sa feleng, Sebeng, lefung le mahlomoleng,",
+        "Jesu O re,\\\"Tlong koano,\\\" Ba itlhatsoitseng mo maling."
+      ],
+      "number": 5
+    }
+  ]
+}

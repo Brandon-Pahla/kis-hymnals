@@ -1,0 +1,47 @@
+{
+  "number": 242,
+  "language": "ve",
+  "title": "242. Mbofho Yo Fhatutshedzwaho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:350",
+        "AH:481"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Lufuno lwa Kristo lu vhofhaho mbilu,",
+        "Vhuthihi ha vhana vhawe, vhu ngaho ha Ene."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kha khulunoni yau ri da nga thabelo,",
+        "Nyofho na zwililo zwashu, zwothe zwi do fhela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mathupho, zwililo na mihwalo yashu,",
+        "Zwi ri lemelaho zwothe, ri a lilisana."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ri tshi vho fhambana, ri a vhaisala,",
+        "Fulufhelo lashu rothe ndi la u vhonana."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 269,
+  "language": "nd",
+  "title": "269 NguJesu Umsindisi Wam’ Osimanga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngu Jes’uMsindisi wam’ osimanga",
+        "Usimangaliso kimi",
+        "Ufihl’ umoya wami kulo iwa",
+        "Ngibone okuhl’ ok’ningi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ufihl’ umphefumlo wam’ edwaleni",
+        "Elisith’ izw’ elomile; Ufihl’ ukuphila kwam’",
+        "othandweni; Ngembozwe ngesandla,",
+        "Ngembozwe ngesandla sAkhe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "NguJes’ uMsindisi wam’ osimanga",
+        "Ususa okusindayo",
+        "Angiphakamise nginga sunduswa",
+        "Angiphe amandl’ amiyo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Imzuzu-nge-mzuzu ayibusise",
+        "Igcwaliswe ngoba Yena",
+        "Ngenjabulo nobukhosi ngimculele",
+        "U Mkhululi wam’ onjena"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sengembathiswe ubucwazicwazi",
+        "Ngomhlangabeza kulifu",
+        "Ngosindiso nothando ngiMdumise",
+        "Nazo iz’gidi phezulu"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 265,
+  "language": "es",
+  "title": "La senda ancha dejaré",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### La senda ancha dejaré"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La senda ancha dejaré,",
+        "yo quiero por la angosta andar,",
+        "y muchos no sabrán por qué,",
+        "mas voy a mi celeste hogar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "No puede el mundo ser mi hogar,",
+        "no puede el mundo ser mi hogar;",
+        "en gloria tengo mi mansión,",
+        "no puede el mundo ser mi hogar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Algunos quieren verme ir",
+        "por el sendero del pecar;",
+        "oír no puedo su llamar,",
+        "pues voy a mi celeste hogar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Por qué no quieres tú buscar,",
+        "siguiendo en pos del Salvador,",
+        "la hermosa tierra más allá?",
+        "¡Oh! ven conmigo, pecador."
+      ],
+      "number": 5
+    }
+  ]
+}

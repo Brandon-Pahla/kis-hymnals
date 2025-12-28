@@ -1,0 +1,64 @@
+{
+  "number": 40,
+  "language": "tn",
+  "title": "40 Fa Re Tsamaya Le Morena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Re Tsamaya Le Morena Mo ’Seding,",
+        "Kgalalelo tseleng ya rona,",
+        "Fa re dira thato Ya Gagwe, O tla nna",
+        "Le rona, le ba ikanyang ba utlwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ikanye, utlwa, gonne ga go tsela",
+        "Go itumela go Jeso, Kwa ntle ga go utlwa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go Ka Nna Moruti, Lefa E Le Leru,",
+        "Di tlos’wa ke go nyenya ga ’Gwe.",
+        "Ga go pelaelo, Poifo, ’keledi,",
+        "Tse di nnang fa re le boikanyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga Go Na Morwalo Le Kutlo Botlhoko,",
+        "O duela tiro ya rona;",
+        "Ga go bohutsana, Tatlhego, Khutlugo,",
+        "Go sego fa re le boikanyo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mme Ga Re Na Tshupo, Ya ’Rato Lwa Gagwe,",
+        "Fa re ise re latlhe tsotlhe.",
+        "Gonne tsalano le Boipelo Onayang,",
+        "Ke tsa ba ba ikanyang ba utlwa"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Foo Mo Botsalanong, Re Tla Nna Dinaong,",
+        "Gongwe re tsamae le Ene;",
+        "Re dira ta’o ya ’Gwe, Re ya thomong ya ’Gwe,",
+        "Go se poifo boikanyong"
+      ],
+      "number": 5
+    }
+  ]
+}

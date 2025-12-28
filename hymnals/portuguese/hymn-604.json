@@ -1,0 +1,44 @@
+{
+  "number": 604,
+  "language": "pt",
+  "title": "Preitos de Louvor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Preitos de Louvor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pai, Te rendemos preitos de louvor,",
+        "Pois Tua palavra mostra Teu amor.",
+        "Em findo o culto conduzir-nos-ás,",
+        "E para sempre Tu nos guiarás."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem conduzir-nos para o nosso lar,",
+        "Pois nós queremos só contigo andar.",
+        "Oh, purifica nosso coração;",
+        "A cada intento dá Tua direção."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ao protegeres nosso caminhar,",
+        "Pai, quantas bênçãos Teu amor nos traz!",
+        "Mas, quando a luta nossa terminar,",
+        "Ó Deus, concede Tua eterna paz."
+      ],
+      "number": 4
+    }
+  ]
+}

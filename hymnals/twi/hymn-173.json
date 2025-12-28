@@ -1,0 +1,47 @@
+{
+  "number": 173,
+  "language": "tw",
+  "title": "Kristofo, Munni Dɛw Nto Dwom!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kristofo, munni dɛw nto dwom!",
+        "Afei yɛn Hen' adi nkonim!",
+        "Yɛka 'nigyesɛm wiase ny'naa;",
+        "Haleluya! Haleluya! Haleluya!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nɔkwa Wura no asɔre,",
+        "Momfa dwom mpete Ne kwan mu;",
+        "Ma amansan nni dɛw nka sɛ:",
+        "Haleluya! Haleluya! Haleluya!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛto nkonim ho 'yeyi dwom,",
+        "Mo dɔ ne nkwa a enwu da;",
+        "Yɛma yɛn koma so to dwom:",
+        "Haleluya! Haleluya! Haleluya!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yehy'ra Wo, 'W'ra a Woasɔre,",
+        "Yɛde 'nokoro to dwom nnɛ,",
+        "Wo wu ne Wo sɔre no ho:",
+        "Haleluya! Haleluya! Haleluya!"
+      ],
+      "number": 4
+    }
+  ]
+}

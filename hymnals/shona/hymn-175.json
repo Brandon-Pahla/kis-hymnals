@@ -1,0 +1,42 @@
+{
+  "number": 175,
+  "language": "sn",
+  "title": "175 Tenzi Semufudzi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Muponesi semufudzi,",
+        "Titungamirireyi",
+        "Murufaro tigutseyi,",
+        "Tigadzirire dengaKomborerwa Jesu wedu, Imwi makatitenga",
+        "Komborerwa Jesu wedu, Imwi makatitenga"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tirivenyu tifadzeyi,",
+        "Tichengete munzira",
+        "Tidzivirire chitema,",
+        "Titsvake tarasika",
+        "Komborerwa Jesu wedu, Tinzwe tichinamata",
+        "Komborerwa Jesu wedu, Tinzwe tichinamata"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Matsidza kutigashira,",
+        "Kana takanyangadza",
+        "Mune tsitsi munengoni,",
+        "Dzekuti sunungura",
+        "Komborerwa Jesu wedu, Tichadzoka kwamuri",
+        "Komborerwa Jesu wedu, Tichadzoka kwamuri"
+      ],
+      "number": 3
+    }
+  ]
+}

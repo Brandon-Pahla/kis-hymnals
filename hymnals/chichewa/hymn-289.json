@@ -1,0 +1,30 @@
+{
+  "number": 289,
+  "language": "ny",
+  "title": "289 - Mundilandiretu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TAKE ME AS I AM"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Kwa Inu YEsu ndilira; Wopanda Inu ndidzafa;",
+        "Mundipulumutse Mbuye Mundilandiretu.",
+        "CHORUS:",
+        "Mundilandire, mundilandire",
+        "Mundipulumutse Mbuye, mundilandiretu.",
+        "2. Ndine wocimwa kwambiri, Koma munafera ine;",
+        "Mutha konse kundikonza, Mundilandiretu.",
+        "3. Sinditha kudzikonzatu, Ndingodzipereka ndekha;",
+        "Ndipulumutseni nokha, Mundilandiretu.",
+        "4. Ndigwadira nsisi zanu, Ndioneni Ambuyanga;",
+        "Yayambidwa ntchito yanu Mundilandiretu."
+      ]
+    }
+  ]
+}

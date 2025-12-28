@@ -1,0 +1,47 @@
+{
+  "number": 356,
+  "language": "tw",
+  "title": "Mō Modɔ Mo Kuro Som No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mō a modɔ mo kuro som no",
+        "Soa ho dadwen p're hwehwɛ",
+        "Asomdwoe ne atɛntrenee;",
+        "Mō a modome, Mō a muhy'ra,"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mo adehw'rew ne 'w'rɛhow b'rem',",
+        "Ap'rep're horow nyinaam',",
+        "B'rč a 'somdwoe ne dɔ asa no,",
+        "Monhwehwɛ mo nkwa W'ra no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nna nyinaa  yɛ atemmu nna,",
+        "Na 'W'rade retwɛn ara;",
+        "Retwe bɛn wɔn a wɔpoo No",
+        "Ma wɔn Kalbre asomdwoe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "W'ra, so kuro yi bɛkɔ so",
+        "Ayɛ nea 'nidaso nnim?",
+        "B'ra, yɛn 'nuonyam ne temmufo;",
+        "Ma ne din nyɛ: \\\"W'ra wɔ hɔ!\\\""
+      ],
+      "number": 4
+    }
+  ]
+}

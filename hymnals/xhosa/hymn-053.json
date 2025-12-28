@@ -1,0 +1,37 @@
+{
+  "number": 53,
+  "language": "xh",
+  "title": "53 Moya Oyingcwele, Mkhokeli Otembekileyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, Moya Oyingcwele, Seku kad’ ulindile,",
+        "Ngesandla sirholele, Thina bahambi apha,",
+        "Odiniweyo, bonga Ngelizwi elilodwa",
+        "Elithi, \"Mhambi yiza, Ndakukusa ekhaya.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wena Mhlobo wenene Ukufuph’ ukunceda,",
+        "Ungasishiyi apha, Siyoyika kakhulu;",
+        "Xa izulu ligquma, Sokwayama ngakuWe,",
+        "Sebeza, \"Mhambi yiza, Ndakukusa ekhaya.\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi yethu enkulu, Salathele phezulu,",
+        "Ukuthandaza kwethu; Azi amagam’ ethu",
+        "aKho-na ezulwini? Izwi liya phendula,",
+        "\"Mhambi, yiza, yiza bo, Ndakukusa ekhaya.\""
+      ],
+      "number": 3
+    }
+  ]
+}

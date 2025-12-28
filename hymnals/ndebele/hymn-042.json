@@ -1,0 +1,39 @@
+{
+  "number": 42,
+  "language": "nd",
+  "title": "42 Asisoze Si Valelise!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa si hlangana nezihlobo, Ku khon’ ukwethaba",
+        "Ku lethel’ usizi oqobo, Nxase s’ehlukana"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ezulwin’ akwehlukanwa, Akuvaleliswa",
+        "Ku lelo lizwe elihle, Kwakh’ abalungile"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si yajabula nxa si bona, Abakithi lapha",
+        "Kodwa si sakhalela lona, Izwe lokwethaba"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amazwi a thi: \"Sala kahle!\" Phind’ awakhulunywa;",
+        "Kodwa ingoma ezingcwele, Zi yahlatshelelwa"
+      ],
+      "number": 4
+    }
+  ]
+}

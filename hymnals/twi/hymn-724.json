@@ -1,0 +1,58 @@
+{
+  "number": 724,
+  "language": "tw",
+  "title": "N29 Safe in the Arm",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔagyem´ Yesu basa so,",
+        "Wɔagyem´ Ne koko mu;",
+        "Ne dɔ nwini ase ha",
+        "Ma me kra nya home.",
+        "Tie! εyε abɔfo nne,",
+        "Refrε me nnwonto mu,",
+        "´Nuonyam asase no so",
+        "Kirstalo Pò agya hɔ"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wɔagyem´ Yesu basa so,",
+        "Wɔagyem´ Ne koko mu,",
+        "Ne dɔ nwini ase ha,",
+        "Na me kra nya home"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔagyem´ Yesu basa so,",
+        "Wɔagyem´ afi haw mu;",
+        "Wɔagyem´ wiase sɔhwε mu,",
+        "Bɔne ntum´ nhaw me hɔ,",
+        "Wɔagyem´ afi ´w´rεhow mu.",
+        "M´akyinnye ne surom´;",
+        "Aka sɔhwε kakra bi",
+        "Ne nusu kakra nso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me koma guankɔbea pa,",
+        "Yesu awu amam´;",
+        "Tet Bo no so na daa",
+        "M´ahotoso bεtea.",
+        "Ma mentwεn ´ha boasetɔm´",
+        "Kosi sε sum betwam;",
+        "Na adekyee apue wɔ",
+        "Sika m-poano hɔ."
+      ],
+      "number": 3
+    }
+  ]
+}

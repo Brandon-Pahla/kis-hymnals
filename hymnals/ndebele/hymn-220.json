@@ -1,0 +1,38 @@
+{
+  "number": 220,
+  "language": "nd",
+  "title": "220 Lakith’ Izwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lakith’ izw’ ekhaya, Zwe lenkululeko!",
+        "Le akumnyam’ ekhaya, Alisibekeli",
+        "Ngifis’ ekhaya kithi, Iy’khal’ inhliziyo",
+        "Abukho ub’hlung’ ekhaya, Lapho ngiya khona."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eyam’ iNkos’ ekhaya, Nezidalw’ ezinhle!",
+        "Asikh’ ison’ ekhaya, Akhuko ‘isilingo!",
+        "Kuhutshw’ ingoma ekhaya, Ikhal’ endlebeni;",
+        "Uma ngicabang’ ekhaya, Inyembezi zehle;",
+        "Uma ngicabang’ ekhaya, Inyembezi zehle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abakhiley’ ekhaya, Bang’qhwebela kubo,",
+        "La lungekho usizi, Olungen’ ekhaya,",
+        "O, ngezwe lakith’ el’hle!, O ngokuphumula!",
+        "Krestu sibuyis’ ekhaya, Ngothand’ ol’hlengayo."
+      ],
+      "number": 3
+    }
+  ]
+}

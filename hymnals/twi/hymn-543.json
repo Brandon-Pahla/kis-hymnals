@@ -1,0 +1,47 @@
+{
+  "number": 543,
+  "language": "tw",
+  "title": "Yesu Mmofra Nkumaa Yɔnko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu mmofra nkumaa Yɔnko,",
+        "Fa me nso yɔnko;",
+        "So me nsa mu na twe me bɛn",
+        "Wo nkyɛn daa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kyerɛ me sɛnea menyin daa,",
+        "Wɔ papayɛ mu;",
+        "Wo nso Woayɛ abofra pɛn",
+        "'Nti Wonim."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Di m'anim nkakrankakra kɔ",
+        "Mmabun bere mu;",
+        "Ma m'ahoɔden ne nyansa nyin",
+        "W'asɛm mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nɔnya me hɔ na mpaw me da",
+        "Yɛ me yɔnko daa;",
+        "Na mihia Wo m'abrabɔ mu.",
+        "Kosi awiei."
+      ],
+      "number": 4
+    }
+  ]
+}

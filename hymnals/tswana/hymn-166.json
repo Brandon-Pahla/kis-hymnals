@@ -1,0 +1,43 @@
+{
+  "number": 166,
+  "language": "tn",
+  "title": "166 Fika Ja Bosakhutleng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Fika Ja Bosakhutleng; Ke Iphitlhe Go Wena;",
+        "A metsi le madi a Tswang tlhakoring ja Gago,",
+        "A a mphodise dibe, Mpoloka mo melatung."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga Se Tiro Ya Diatla, E Ka Kgonang Molao;",
+        "Lefa ke sa ikhutse, Keledi di thologa,",
+        "Ga go tetlanyo sebing; Boloka Wena fela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga Go Se Ke Se Tshotseng, Ke Tla Fela Mokgorong;",
+        "Ke kopa go apes’wa, Ke kopa tshegofatso;",
+        "Ke fofela motsweding, Ntlhatswe Morena kea swa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Ke Sa Le Botshelong, Ke Bodulala Losung,",
+        "Fa ke ya bosaitsiweng, Ke go bona katlholong",
+        "Fika ja bosakhutleng, Ke iphitlhe go Wena,"
+      ],
+      "number": 4
+    }
+  ]
+}

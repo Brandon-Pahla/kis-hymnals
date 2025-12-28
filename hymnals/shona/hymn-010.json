@@ -1,0 +1,57 @@
+{
+  "number": 10,
+  "language": "sn",
+  "title": "10 Kusangana Kurwizi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tichasangana kurwizi,",
+        "Apo kune kupenya;",
+        "Mvura yakanakisisa",
+        "Yabva kuna Jehova."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hunde tosangana iyo,",
+        "Parwizi rwakanaka kudenga",
+        "Tosangana nevanoyera",
+        "Pachigaro chaMwari"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iyo pagombe perwizi,",
+        "Rwakabvira kuchena",
+        "Tichafamba nekutenda,",
+        "Nguva dzese tofara"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kurwizi’rwo runopenya,",
+        "Mitoro ticharasa;",
+        "Tosunungurwa ngemutsa,",
+        "Togashira chiremba"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tosvika nekukasika,",
+        "Nerwendo ruchapera;",
+        "Mwoyo yedu ichafara,",
+        "Ngerwiyo rwekutenda"
+      ],
+      "number": 5
+    }
+  ]
+}

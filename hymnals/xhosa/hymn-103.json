@@ -1,0 +1,41 @@
+{
+  "number": 103,
+  "language": "xh",
+  "title": "103 Nimelwe Kuzalwa Kutsha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Okunye kwez’ umphathi ku-Yesu,",
+        "Embuza ngokusindiswa nokhanyo;",
+        "Waza um-Sindisi wamcacisela, \\\"Phindani nizalwe.\\\" (zalwe)"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "\\\"Phindani nizalwe (zalwe), phindani nizalwe (zalwe),",
+        "Ngokwenene, inene, ndithi kuni, Phindani nizalwe (zalwe)."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bonyana boluntu, liven’ izwi,",
+        "Elindilisekileyo leNkosi,",
+        "Ningafumane niliv’ oludaba, \\\"Phindani nizalwe.\\\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nina ninga ngen’ ekuphumleni.",
+        "Nivume nabakhululwa ingoma,",
+        "Nithanda ubomi obaphakade, \\\"Phindani nizalwe.\\\""
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 524,
+  "language": "tw",
+  "title": "Eye Sɛ Metwere Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Eye sɛ metwere Yesu,",
+        "Na megye N'asɛm no di,",
+        "Na mehwɛ Ne bɔhyɛ no kwan",
+        "Na mihu nea Nyame se."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu, Yesu metwere No,",
+        "Masɔ No mahwɛ mpɛn pii!",
+        "Yesu, Yesu a ɔsom bo,",
+        "Manya dom matwere No!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eye sɛ metwere Yesu,",
+        "M'ani da Ne mogya so;",
+        "ɔnam gyidi so de me hyɛ",
+        "Mogya a ɛtew ho nom'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eyč ampa sɛ metwer' Yesu",
+        "Gyaw bɔne ne ahopɛ;",
+        "Na megye nkwa, home, 'nigye,",
+        "Ne 'somdwoe fi Yesu hɔ."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eye sɛ metwere Yesu,",
+        "Yesu pa, gyefo, Yɔnko;",
+        "Minim yie sɛ Woka me ho,",
+        "Na Wobɛka me ho daa."
+      ],
+      "number": 4
+    }
+  ]
+}

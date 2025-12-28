@@ -1,0 +1,24 @@
+{
+  "number": 246,
+  "language": "ts",
+  "title": "246. RITO NTSENA HA YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NOW JUST A WORD FOR JESUS",
+        "1. Rito Ntsena Ha Yesu, Nakulorhi Lonene;",
+        "Leswi A Swendleke, Swi Tlhavula Mbilu.",
+        "2. Rito Ntsena Ha Yesu, Ri Ta Pfuna Ndlelen; Rito Ntsena Ha Yesu,",
+        "Ra Vumbhoni Bya Yena.",
+        "3. Rito Ntsena Ha Yesu; Ri Hlangula Vudyoho,",
+        "Hi Nsovo Wa Yesu, Hi Ta Fika Ekaya.",
+        "4. Rito Ntsena Ha Yesu; A Hi Nge Swi Tsandzeki;",
+        "Ndzi Rhandza Muferi, U Ndzi Nyika Vutomi.",
+        "5. Rito Ntsena Ha Yesu; Ri Pfuxa Ripfumelo,",
+        "Pfuka Ku Tsaneni, Tshika Hinkwaswo Ka Yesu."
+      ],
+      "number": 1
+    }
+  ]
+}

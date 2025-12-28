@@ -1,0 +1,28 @@
+{
+  "number": 144,
+  "language": "luo",
+  "title": "144 Nawinjo Yesu Kowacho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nawinjo Yesu kowacho,\"Bii Ira mond` iyue;In ng`a mojony,bi mond` iyue,Iyud yueyo kuoma.\"Nabirone kaka nabet,Najony, naol chutho;Yesu nomiyoa yueyo,Omiyo chunya mor."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nawinjo Yesu kowacho,\"Namii pi ngima;Ka riyo maki, bi ira,modhi, iyud ngima.\"Nabirone mit namodho,pigno momiyoa;Riyo norumo, to koroangima kuom Ruodha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nawinjo Yesu kowacho,\"Abedo ler mar piny;Ng`iya koro, mudho norum,nibed gi ler pile.\"Nang`iyo Yesu, mayudo,ler kaka mar wang` chieng`;Nawuothi koro e lernonyaka wuodha norum."
+      ],
+      "number": 3
+    }
+  ]
+}

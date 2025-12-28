@@ -1,0 +1,47 @@
+{
+  "number": 97,
+  "language": "xh",
+  "title": "97 U-Yesu Uya Sisindisa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sive ngesand’ esihle, U-Yesu, U-Yesu;",
+        "Yen’ uyasisindisa, U-Yesu, U-Yesu.",
+        "Yazis’ izizwe zonke, Naphesheyo kolwandle,",
+        "I-Nkos’ iyasithuma, NgoYesu, NgoYesu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bongani, Dumisani, U-Yesu, U-Yesu;",
+        "Baxelelwe abone, NgoYesu, NgoYesu.",
+        "Vuman’ eziqithini, Sabela nawe lwandle,",
+        "Ngazo indab’ ezintle, NguYesu, NguYesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xelelan’ abalwayo, NgoYesu, NgoYesu;",
+        "Wafa waza waphila, U-Yesu, U-Yesu;",
+        "Xelan’ indab’ emnandi, Kwabadakumbileyo;",
+        "’Ngcwaba uloyisile, U-Yesu, U-Yesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phosan’ emoyen’ izwi, NgoYesu, NgoYesu;",
+        "Vuyani nonke zizwe, NgoYesu, NgoYesu.",
+        "Khwazani usindiso Ezintabeni zonke,",
+        "Ingoma yoloyiso KaYesu, KaYesu."
+      ],
+      "number": 4
+    }
+  ]
+}

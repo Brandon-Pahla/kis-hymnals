@@ -1,0 +1,27 @@
+{
+  "number": 9,
+  "language": "ts",
+  "title": "9. CHAYANI MHALAMHALA SWINENE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LIFT UP THE TRUMPET",
+        "1. Chayani Mhalamhala Swinene, Yesu Wa Vuya Kambe;",
+        "N’wina Vaendzi Tiyiselani, Yesu Wa Vuya Kambe.",
+        "CHORUS",
+        "Wa Ta Kambe, Wa Ta Kambe;",
+        "Yesu Wa Vuya Kambe.",
+        "2. Huwelelani Etintshaveni, Yesu Wa Vuya Kambe;",
+        "Nyimpfana Yi Kusuhi No Fika, Yesu Wa Vuya kambe.",
+        "3. Huwelelani Na Le Malwandle, Yesu Wa Vuya Kambe;",
+        "Emagandlatini Yo Chavisa, Yesu Wa Vuya Kambe.",
+        "4. Na Swi Kombiso Swa Hi Kombisa, Leswo Wa Vuya Kambe;",
+        "Na Mabubutsa Ya Tiyisisa, Yesu Wa Vuya Kambe,",
+        "5. Na Wo Matiko Ma Karihile, Yesu Wa Vuya Kambe;",
+        "Vutivi Na Byona Byi Andzile, Yesu Wa Vuya Kambe."
+      ],
+      "number": 1
+    }
+  ]
+}

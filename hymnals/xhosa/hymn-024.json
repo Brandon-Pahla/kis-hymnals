@@ -1,0 +1,54 @@
+{
+  "number": 24,
+  "language": "xh",
+  "title": "24 Ufuneka Kum Onke Amaxesha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyakufuna kum, Wena Nkosi,",
+        "Alikho ilizwi ’LinjengelaKho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndiyakufuna, Nkosi, Amaxesha onke;",
+        "Ndibabale, Msindisi, Ndiza kuWe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyakufuna kum, Nceda hlala nam,",
+        "Andisokuhluthwa Xa ndinaWe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyakufuna kum, Yiza ndisize;",
+        "Yiza kamsinyane Undicede"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyakufuna kum, Yiz’ ufundise;",
+        "Ngamadinga aKho, ndibabale."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyakufuna kum, Uyingcwele;",
+        "Mandibe ngowaKho, Ndisindise"
+      ],
+      "number": 5
+    }
+  ]
+}

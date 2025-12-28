@@ -1,0 +1,55 @@
+{
+  "number": 220,
+  "language": "es",
+  "title": "Allá la puerta abierta está",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Allá la puerta abierta está"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Allá la puerta abierta está,",
+        "su luz es refulgente.",
+        "La cruz se mira más allá,",
+        "señal de amor ferviente."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Oh, cuánto me ama Dios a mí!",
+        "La puerta abierta está por mí,",
+        "por mí, por mí.",
+        "Sí, quiero entrar allí."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si tienes fe avanza tú;",
+        "la puerta es franca ahora.",
+        "Si quieres palma, ten la cruz,",
+        "señal de eterna gloria."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pasando el río, más allá,",
+        "en celestial pradera,",
+        "con Cristo gozo y paz habrá,",
+        "¡eterna primavera!"
+      ],
+      "number": 5
+    }
+  ]
+}

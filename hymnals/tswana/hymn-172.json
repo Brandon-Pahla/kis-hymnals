@@ -1,0 +1,37 @@
+{
+  "number": 172,
+  "language": "tn",
+  "title": "172 Ke Nako E Kae",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O Tla Diega Nako E Kae Mmoloki?",
+        "Re lapisiwa pelo, Ke tiego ya Go.",
+        "Lo tla tla leng lobaka, Lo gaisang moso,",
+        "Tsatsi ja kgalalelo Ya ’Go bathung ba ’Go."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ba ’Go O Tla Ba Tlogela Nako E Kae?",
+        "Ka O diega go tla, Go dumela bonnye,",
+        "Re bona mo bomatleng Batlhanka ba gago,",
+        "Re se kae re eme Re iketleeditse."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsosa Batho Ba Gago, O Romele Pisto;",
+        "Baitshepi botlhe ba re \"Mmoloki O gaufi;\"",
+        "A re tshubeng dipone, R’ itlameng ditheka,",
+        "Botlhe ba iketleetse Go bona Morena."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "number": 352,
+  "language": "es",
+  "title": "Gozaos, Cristo es Rey",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Gozaos, Cristo es Rey"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gozaos, Cristo es Rey,",
+        "brindadle todo honor.",
+        "Gozaos y cantad",
+        "por siempre su loor.",
+        "Alzad la voz,",
+        "os digo que os gocéis",
+        "de todo corazón."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesús, el Salvador,",
+        "ya reina con amor.",
+        "Lavó las manchas,",
+        "ascendió con gran honor.",
+        "Alzad la voz,",
+        "os digo que os gocéis",
+        "de todo corazón."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Su reino es eternal",
+        "y nunca fallará;",
+        "la llave de la muerte",
+        "en su mano está.",
+        "Alzad la voz,",
+        "os digo que os gocéis",
+        "de todo corazón."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gozaos y esperad,",
+        "muy pronto el Juez vendrá;",
+        "a su hogar eterno",
+        "él os llevará.",
+        "Alzad la voz,",
+        "os digo que os gocéis",
+        "de todo corazón."
+      ],
+      "number": 5
+    }
+  ]
+}

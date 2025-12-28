@@ -1,0 +1,22 @@
+{
+  "number": 186,
+  "language": "ts",
+  "title": "186. YESU HI HLANGENE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LORD, WE HAVE MET",
+        "1. Yesu Hi Hlangene, Endlwini Ya Wena;",
+        "Tana Yesu, Hi Tiveka, Mahlweni Ka Wena.",
+        "2. Timbilu Ta Hina, Ti Navela Wena;",
+        "Na Wona Moya Wa Hina, Wa Ku Huwelela.",
+        "3. Swikombelo Swerhu, Swamukele Tatana;",
+        "Loko Ku Hlayiwa Rito, Ina, Rhiya Ndleve.",
+        "4. U Hi Lunghisela, Hina Vana Vaku;",
+        "Siku Leri Hi Nga Ta Fa, Hi Tlhelela Tshurini."
+      ],
+      "number": 1
+    }
+  ]
+}

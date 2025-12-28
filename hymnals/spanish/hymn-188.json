@@ -1,0 +1,53 @@
+{
+  "number": 188,
+  "language": "es",
+  "title": "Gran alegría",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Gran alegría"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Gran alegría inundó mi corazón",
+        "cuando escuché que Cristo pronto volverá.",
+        "Gran alegría y emoción llenó mi ser",
+        "por lo que Cristo hizo y hará por mí."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Doquiera yo puedo ver dolor,",
+        "personas que sufren sin amor,",
+        "muriendo de hambre o enfermedad,",
+        "luchando apenas por vivir.",
+        "Hay muchos que quieren resolver",
+        "los males del mundo sin saber",
+        "que solo en Cristo existe el poder",
+        "que puede cambiar la realidad."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En breve habrá de terminar",
+        "el mundo y toda vanidad;",
+        "el mal y el pecado pronto acabarán;",
+        "Jesús volverá y reinará.",
+        "Un cielo hermoso puedo ver,",
+        "mirando por medio de la fe.",
+        "El brillo del mundo se apagará;",
+        "la luz de Jesús me alumbrará."
+      ],
+      "number": 4
+    }
+  ]
+}

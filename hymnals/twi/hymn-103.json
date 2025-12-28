@@ -1,0 +1,67 @@
+{
+  "number": 103,
+  "language": "tw",
+  "title": "Nyame, Yɛn Tete Boafo Pa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame, yɛn tete boafo pa",
+        "Ne yɛn anidaso;",
+        "Ahohia mu yɛn guankɔbea",
+        "Ne yɛn daa daapem fie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "W'ahengua no nwini ase",
+        "Na yɛbɛtra dwoodwoo;",
+        "Wo basa nko na ɛyɛ den",
+        "Na ɛbɔ yɛn ho ban."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wonnya nyii mmepɔ adi no,",
+        "Wɔnyɛɛ asase no;",
+        "Wufi tete yɛ Nyankopɔn",
+        "De kosi daa nyinaa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "W'anim mf'rihyia apem te sɛ",
+        "Anwumm're a atwam;",
+        "Ne tia te sɛ ade rekye",
+        "B're a owia repue."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mmere te sɛ asubɔnten",
+        "'Soa ne mma de wɔn kɔ;",
+        "Wotu aw'rɛfrim kɔ sɛ dae",
+        "Wie sa wɔ adekyeem'."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame, yɛn tete boafo pa",
+        "Ne yɛn anidaso;",
+        "Yɛ yɛn 'wɛmfo nkwa nna yi mu",
+        "Ne yɛn daa daapem fie."
+      ],
+      "number": 6
+    }
+  ]
+}

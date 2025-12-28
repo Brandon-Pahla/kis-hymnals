@@ -1,0 +1,47 @@
+{
+  "number": 243,
+  "language": "st",
+  "title": "243 Tsoha Moea Oa Ka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tsoha moea oa ka, tloha moo ts’abong ea hau,",
+        "Tefelo ea mali e se ntefetse,",
+        "Ke nyoloselitsoe teroneng, ke nyoloselitsoe teroneng,",
+        "Bitso la ka atleng sa Hae."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O phela koa holimo, O tla ea nthapella teng.",
+        "Ka rato la Hae, ka mali a Hae;",
+        "A n’a ts’olohela bohle, A n’a ts’olohela bohle;",
+        "A ts’ela trone ea mohau."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Maqeba a mahlano koana Kalefari,",
+        "A nkisetsa thapelo, A mpuella haholo,",
+        "’Me A re ’Mo tsoarele hle\\\" ’Me A re \\\"Mo ts’oarele hle,\\\"",
+        "\\\"Se ke Oa mo tlohella ho shoa.\\\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ntate O utloa, Motlotsuoa oa Hao,",
+        "A ke ke A furalla le More oa Hae,",
+        "O arabela mo maling, O arabela mo maling,",
+        "A re ke tsoetsoe ke Molimo."
+      ],
+      "number": 4
+    }
+  ]
+}

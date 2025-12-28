@@ -1,0 +1,44 @@
+{
+  "number": 420,
+  "language": "pt",
+  "title": "Oh! Que Amigo em Cristo Temos!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Oh! Que Amigo em Cristo Temos!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! que amigo em Cristo temos! Mais chegado que um irmão!",
+        "Quer que tudo nós levemos Ao bom Deus em oração.",
+        "Oh! que paz perdemos sempre, Oh! que dor de coração!",
+        "Só porque não recorremos ao bom Deus em oração!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Há tristezas e pesares, Há na vida tentação;",
+        "Não ficamos sem conforto, Indo a Cristo em oração.",
+        "Pode haver um outro amigo Tão grandioso em compaixão?",
+        "Aos humildes e contritos, Cristo atende em oração."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quando em dor desfalecemos, Cristo estendenos a mão,",
+        "Pois é sempre a nossa força, É refúgio em oração.",
+        "E se aqui nos menosprezam, Cristo é nosso em oração;",
+        "Em Seus braços nos acolhe, E nos dá consolação."
+      ],
+      "number": 4
+    }
+  ]
+}

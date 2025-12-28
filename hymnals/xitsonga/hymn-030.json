@@ -1,0 +1,26 @@
+{
+  "number": 30,
+  "language": "ts",
+  "title": "30. DYAMBU RI LE KU PELEN",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "DAY IS DYING IN THE WEST",
+        "1. Dyambu Ri Le Ku Peleni, Munyama Se Wa Fika;",
+        "Yima U Ya Khongela, Tinyeleti Ta Huma, Empfhukeni.",
+        "CHORUS",
+        "Hosi Yo Kwetsima, Ya MAvandla,",
+        "Ya Fumo Wa Matilo, Wa Dzuniwa, Wena Hosi Ya Hina.",
+        "2. Hosi Ya Byo Vutomi, Ya Misava Hinkwayo;",
+        "Hi Hlengelete Kaku,",
+        "Ro Rirhandzu Ra Wena, Riku Suhi.",
+        "3. Loko Dyambu Ri Pela, Hi Hlayisi Rirhandzwin;",
+        "Hi Tintswalo Ni Musa, To Tintsumi.",
+        "4. Loko Dyambu Ri Hundza, Na Kona Munyameni; We Hosi Ya Tintsumi,",
+        "Ra Makumu."
+      ],
+      "number": 1
+    }
+  ]
+}

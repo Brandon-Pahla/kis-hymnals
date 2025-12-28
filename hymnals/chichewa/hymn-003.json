@@ -1,0 +1,30 @@
+{
+  "number": 3,
+  "language": "ny",
+  "title": "3 - Maso Ndi Maso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "FACE TO FACE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1 Maso ndi maso ndi Khristu, Kodi ndidzachitanji?",
+        "Mmene ndidzaona Yesu, Yemwe anandifera.",
+        "CHORUS:",
+        "N’dzamona maso ndi maso, Kuseri kwa mitambo;",
+        "Posachedwa ndidzamona, Mulemerero wace!",
+        "2 Tsopano ndimona Iye, Mwa chizimezimetu,",
+        "Tsiku lija ndidzaona, Ulemerero wache.",
+        "3 Pamene zowawa zonse, Nthenda ndi imfa zitha,",
+        "Dziko likadzakonzedwa, Ndidzakondwa koposa!",
+        "4 Lodala tsikulo m’mene! Ndidzamuona Yesu,",
+        "Mpulumutsi wanga yemwe, Anandikonda ine."
+      ]
+    }
+  ]
+}

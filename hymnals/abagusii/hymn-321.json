@@ -1,0 +1,28 @@
+{
+  "number": 321,
+  "language": "guz",
+  "title": "321 Ntang'ane Omotoria",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ntang'ane Omotoria,'Merinda y'obogima;Neruma bosio bwane,'Bitare nabintuba,Bimbise Korw'as'ore,Ntang'ane Omotoria."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nokirie emerindo,Buna ng'ina Omwana;'Merindo nekoigwere,Korayetebie \"Kira,\"Omogambi bw'enyancha,Ntang'ane Omotoria."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ngoika ang'e n'engegu,'s'emerind' ekoruma;'sende n'omotimoko,Ko nyeegeget' as'ore,Ninkoigwe Kogontebia,\"Toiroka ninkorae.\""
+      ],
+      "number": 3
+    }
+  ]
+}

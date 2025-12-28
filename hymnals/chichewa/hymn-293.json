@@ -1,0 +1,41 @@
+{
+  "number": 293,
+  "language": "ny",
+  "title": "293 - Agogoda Ndaniyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "KNOCKING, KNOCKING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Agogoda ndaniyo?",
+        "Alindira, Abwino!",
+        "Ndiye mlendo wacifundo,",
+        "Wina palibe mnzace,",
+        "Ine ndiri wozizwadi",
+        "Nditsegulire khomo;",
+        "Nditsegulire khomo.",
+        "2. Agogoda pompobe",
+        "Alindira, Abwino!",
+        "Citseko cilimbiranji",
+        "Zitsotso zomelera",
+        "Zomatirira zakuda,",
+        "Zomamatira zonse,",
+        "Zomamatira zonse,",
+        "3. Agogoda catani?",
+        "Alindira Abwino;",
+        "Indetu agogodabe",
+        "Ndi cisoti ca minga",
+        "Mpulumutsi alindabe,",
+        "Kodi sungamlowetse;",
+        "Kodi sungamlowetse?"
+      ],
+      "number": 2
+    }
+  ]
+}

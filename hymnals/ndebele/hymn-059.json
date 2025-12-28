@@ -1,0 +1,47 @@
+{
+  "number": 59,
+  "language": "nd",
+  "title": "59 Jesu Mthandi wo Moya Wami",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jes’ othand’ umoya wam’, Ngi vume ngize kuWe;",
+        "Nxa izilingo zonke, Noko zi ngi hanqile.",
+        "Ma ngi sithele ngaWe; Wena Msindisi wami.",
+        "Ekupheleni thata; Nank’ umphefumlo wami."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu, ngi yasintula, Sona isiphephelo.",
+        "Uze u ngangishiyi, KuWe ngi yasondela.",
+        "O, Msizi wami nguWe, iThemba lami lonke.",
+        "Ngembes’ ikhanda lami, Ngazo impiko zakho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi fisa Wena wedwa, Krestu Msindisi wami;",
+        "Mvusi webawileyo, Melaphi weziguli.",
+        "NguWe wedwa oNgcwele, Kimi ngokubi konke.",
+        "Ngi yenyanyeka mina, Wen’ u gcwele okuhle."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi bona um’sa kuWe, Wokhungihlambulula.",
+        "Ngenziwe ngaphakathi, Ngi hlale ngi cwebile.",
+        "Mthombo wokuphila kwam’, Ngi nathise ngesihle.",
+        "Hlal’ enhliziyweni yam’ Kuze kube phakade."
+      ],
+      "number": 4
+    }
+  ]
+}

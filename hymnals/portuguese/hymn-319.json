@@ -1,0 +1,44 @@
+{
+  "number": 319,
+  "language": "pt",
+  "title": "Mãos ao Trabalho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Mãos ao Trabalho"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mãos ao trabalho, jovens, vai já passando o alvor;",
+        "Vamos enquanto temos nossa vida em flor!",
+        "Vamos enquanto é dia, com força trabalhar;",
+        "Eia, que ao vir a noite, não há mais lidar!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mãos ao trabalho, adultos, vamos enquanto há luz;",
+        "Eia, que já é tempo de servir Jesus!",
+        "Ide o vigor da vida, todos ao bem votar;",
+        "Eia, que ao vir a noite, não há mais lidar!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mãos ao trabalho, idosos, breve nos chega o fim;",
+        "Firmes enquanto a morte não tocar clarim!",
+        "Vamos, irmãos, à obra, por Cristo trabalhar;",
+        "Eia, que ao vir a noite, vamos descansar."
+      ],
+      "number": 4
+    }
+  ]
+}

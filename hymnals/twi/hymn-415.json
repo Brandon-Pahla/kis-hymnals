@@ -1,0 +1,46 @@
+{
+  "number": 415,
+  "language": "tw",
+  "title": "'W'ra Kristō a Tumi Ny'naa Wɔ No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra Kristō a tumi ny'naa wɔ No,",
+        "B're a ɔrekɔ s'ro no,",
+        "ɔtrɛw Ne dom basam' de hy'rae,",
+        "Na mununkum gyee No kɔe,",
+        "Kristo fro kɔe, Kristo fro kɔe,",
+        "ɔfro kɔɔ mununkum so (ɔfro kɔe)",
+        "ɔfro kɔɔ mununkum so."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Daniel hwɛ wiase temmub're;",
+        "'Bɔfo hyiam buebue nwomam';",
+        "Nyame te gyaframa 'gua so,",
+        "Hwɛ Ne Ba no mmae no kwan.",
+        "Kristo rebɛn, Kristo rebɛn,",
+        "ɔrebɛn mununkum so (ɔrebɛn)",
+        "ɔrebɛn mununkum so."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Adiyisɛm mu nsɛm rebam';",
+        "T'robɛnto nne gyigye wim;",
+        "Treneefo s'rew, bɔn'fo twa hwe.",
+        "Aniwa biara hu No.",
+        "Kristo reba. Kristo reba.",
+        "ɔreba mununkum so (ɔreba)",
+        "ɔreba mununkum so."
+      ],
+      "number": 3
+    }
+  ]
+}

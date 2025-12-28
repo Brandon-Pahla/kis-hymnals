@@ -1,0 +1,49 @@
+{
+  "number": 636,
+  "language": "tw",
+  "title": "Nyame a W'adɔe Nni Awiei",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame a W'adɔe nni awiei,",
+        "Wo dan mu wɔ nnepa pii;",
+        "'Bɔde nwanwa, Yesu nyansa,",
+        "'Boɔden 'sɛnnua, owų apon.",
+        "Akyɛde W'ra, yɛba Wo hɔ,",
+        "Yɛde yɛn ho maW' yeyim'",
+        "Aseda dwom bɛkɔ so daa,",
+        "Yɛn nkwa Mafo ne Domfo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nimdeɛ ne b're wɔ yɛn, b're a",
+        "Yɛbɛn Kristo botae no;",
+        "Yɛn nyinaa wɔ ahofadi,",
+        "Mmusua bom, 'safo yɛ k'ro.",
+        "Di yɛn daa daa adwuma so,",
+        "Na yɛanyɛ amma yɛn ho;",
+        "Yɛwɔ talɛnte, yɛ yɛn nkoa,",
+        "Ma yɛmfata Wo som no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Gyapade nso, Woama yɛn bi,",
+        "Wo dom na ɛde ma yɛn;",
+        "Yɛde boa fie ne abusua,",
+        "De trɛw W' Asɛmpa no mu.",
+        "Bue yɛn nsam ma afoforo,",
+        "B'rč a yetie Kristo frɛ no;",
+        "Yɛnam 'yaresa ne nky'rɛky'rɛ",
+        "Ne ɔdɔ so bɛsom Wo."
+      ],
+      "number": 3
+    }
+  ]
+}

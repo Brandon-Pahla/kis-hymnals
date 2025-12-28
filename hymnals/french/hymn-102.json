@@ -1,0 +1,42 @@
+{
+  "number": 102,
+  "language": "fr",
+  "title": "Quand s’éveilleront nos cœurs",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Quand s’éveilleront nos cœurs à la voix du Dieu vivant,",
+        "Nous retrouverons la source du bonheur.",
+        "Quand se lèveront nos mains pour chanter le Dieu vivant,",
+        "Nous retrouverons l’espoir des lendemains.",
+        "Il saura briser nos armes,",
+        "Il saura changer nos cœurs.",
+        "Il viendra sécher nos larmes",
+        "Il viendra chasser nos peurs."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Plus de nuit sur notre terre,",
+        "Il sera notre flambeau.",
+        "Plus de haine ni de guerre,",
+        "Il nous ouvre un ciel nouveau."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il habite avec les hommes,",
+        "Le vieux monde peut mourir.",
+        "Il annonce son Royaume,",
+        "Il nous ouvre l’avenir."
+      ],
+      "number": 3
+    }
+  ]
+}

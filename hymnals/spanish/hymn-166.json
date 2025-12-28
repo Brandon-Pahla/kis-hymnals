@@ -1,0 +1,53 @@
+{
+  "number": 166,
+  "language": "es",
+  "title": "Siervos de Dios, la trompeta tocad",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Siervos de Dios, la trompeta tocad"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Siervos de Dios, la trompeta tocad:",
+        "¡Cristo muy pronto vendrá!",
+        "A todo el mundo las nuevas llevad:",
+        "¡Cristo muy pronto vendrá!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Pronto vendrá! ¡Pronto vendrá!",
+        "¡Cristo muy pronto vendrá!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fieles de Cristo, doquier anunciad:",
+        "¡Cristo muy pronto vendrá!",
+        "Siempre alegres, markdownos, cantad:",
+        "¡Cristo muy pronto vendrá!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Montes y valles, canción entonad:",
+        "¡Cristo muy pronto vendrá!",
+        "Ondas del mar vuestras voces alzad:",
+        "¡Cristo muy pronto vendrá!"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "number": 298,
+  "language": "tn",
+  "title": "298 A Bothokong, Bofutsana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A! Botlhoko, Bofutsana, J’o Kileng Jwa Nna Nakong,",
+        "Fa ke ne ke re go Jeso, ’’Gotlhe ga me, ga ’Go nnya’",
+        "Gotlhe ga me, ga ’Go nnya, Gotlhe ga me ga ’Go nyaa,’’",
+        "Fa ke ne ke re go Jeso, ’’Gotlhe ga ga me, ga ’Gonnya’."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mme A Mphitlhela; Ka Mmona A Le Madi Setlharing;",
+        "Mme pelo ya me ya seba ’’Gongwe ga me, gong’ ga ’Go,",
+        "Gongwe ga me, gong’ ga ’Go, Gongwe ga me, gong’ ga",
+        "’Go,’’",
+        "Mme pelo ya me ya seba, ’Gongwe ga me, gong’ ga ’Go.’’"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka Metlha Tshwaro Ya Gagwe, E Fodisang, E Tletseng,",
+        "Ya nkokobetsa, ka seba, ’’Ga me gonnye go ga ’Go,",
+        "Ga me gonnye go ga ’Go, Ga me gonnye go ga ’Go",
+        "Ya nkokobetsa, ka seba,’’Ga me gonnye go ga ’Go.’’"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lo Godimo Ga ’Godimo, Lo Boteng Go Lewatle,",
+        "Lo fentse rato lwa Gago, ’’Ga me nnya, gotlhe ga ’Go,",
+        "Ga me nnya, gotlhe ga ’Go, Ga me nnya,gotlhe ga ’Go,’’",
+        "Lo fentse rato lwa Gago, ’’Ga me nnya, gotlhe ga ’Go.’’"
+      ],
+      "number": 4
+    }
+  ]
+}

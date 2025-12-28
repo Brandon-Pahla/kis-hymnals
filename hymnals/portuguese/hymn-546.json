@@ -1,0 +1,56 @@
+{
+  "number": 546,
+  "language": "pt",
+  "title": "Quando o Livro Aberto For",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Quando o Livro Aberto For"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quando no juízo o livro aberto for",
+        "Hás de ter real prazer?",
+        "Estará teu nome ao lado do Senhor",
+        "Ou dos que hão de perecer?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Com fervor eu hei de então cantar",
+        "Um hino de louvor,",
+        "Pois tenho, sim, o nome escrito já",
+        "No livro do meu Salvador."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quando ressoar o toque do clarim",
+        "E do Céu descer o Juiz,",
+        "Estarás então com os amigos Seus,",
+        "Ou os inimigos vis?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quando o teu registro apresentado for",
+        "Ouvirás Jesus dizer.",
+        "'Pai, o sangue Meu por ele derramei,",
+        "Deixa o pecador viver.'?"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "number": 326,
+  "language": "es",
+  "title": "Un día yo he de faltar",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Un día yo he de faltar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Un día yo he de faltar",
+        "de mi lugar en esta grey;",
+        "mas ¡oh, qué gozo al despertar",
+        "en el palacio de mi Rey!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Y cara a cara le veré,",
+        "y viviré con él allí,",
+        "y para siempre cantaré:",
+        "\"Salvado por su gracia fui\"."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Un día a mí la muerte atroz",
+        "vendrá, mas cuándo, no lo sé;",
+        "solo esto sé, que con mi Dios",
+        "un sitio yo feliz tendré."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Un día yo, tal como el sol,",
+        "mi ocaso y fin tendré también;",
+        "mas cuando venga el Salvador,",
+        "su voz dirá: \"Ven, hijo, ven\"."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "El día fausto aguardo yo,",
+        "y sé que pronto llegará;",
+        "vendrá en su gloria mi Señor",
+        "y a su mansión me llevará."
+      ],
+      "number": 6
+    }
+  ]
+}

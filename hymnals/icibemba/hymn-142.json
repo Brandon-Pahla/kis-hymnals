@@ -1,0 +1,26 @@
+{
+  "number": 142,
+  "language": "bem",
+  "title": "142 - BWALI WAMA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOW SWEET"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bushiku bwa mushilo bwali cile nshiku shonse,",
+        "Twitontonkanyapo fibi, Kano Lesa wesu.",
+        "2. Cisumo kumfwa ipepo, Ku-ule pepelela;",
+        "Kuti babi bala-pile, Kulola ku mulu.",
+        "3. Nga tufwaya kutamfyo bubi Ekw'ali umona;",
+        "Amona mu kati kesu, Kuti atwelela."
+      ],
+      "number": 2
+    }
+  ]
+}

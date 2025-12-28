@@ -1,0 +1,47 @@
+{
+  "number": 176,
+  "language": "sn",
+  "title": "176 Tariro Yakakomborerwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Rukariro rwedi",
+        "Rwaka komborerwa",
+        "Rwusina newara irwo",
+        "Rufaro rwenyika"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iriko nyeredzi",
+        "Inodzinga dima",
+        "Yatumira kufukidza",
+        "Inokunda guva"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inzwi rerufaro",
+        "Rinosimudzira",
+        "Rorasa zvese nekutya",
+        "Roti mwari rudo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inzwi reKalvari",
+        "Roti Wanunurwa",
+        "Nyeredzi’yo yekupenya",
+        "Tariro yedenga"
+      ],
+      "number": 4
+    }
+  ]
+}

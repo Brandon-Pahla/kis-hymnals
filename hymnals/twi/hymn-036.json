@@ -1,0 +1,47 @@
+{
+  "number": 36,
+  "language": "tw",
+  "title": "O Wo a Me Kra Ho Sɛpɛ No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O Wo a me kra ho sɛpɛ no W'anim,",
+        "Wo a meba Wo nkyɛn 'hohiam,",
+        "M'adekyee mu w'rɛkyekye ne 'nadwo dwom,",
+        "M'anidaso ne me nkwagye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne nne a ɛyɛ dɛ sɛ dɔn nnyigyei no,",
+        "Wɔte wɔ 'wu sunsuma mu;",
+        "Lebanon twenn'ro koto Ne nan ase,",
+        "Ne home ma mframam' yɛ huam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Trenee fi N'anofafam' sen sɛ nsuti,",
+        "De gugu ɔdom nturo so;",
+        "'Hɔ na amanaman behu wɔn nkwagye,",
+        "Na N'anim s'rew ahy'rɛn wɔn so."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔhwɛ, na 'bɔfo mpempem di ah'rusi,",
+        "Na dɔm kuhaa twɛn tie N'asɛm.",
+        "ɔkasa, na Ne nne kanyan daa dwonto,",
+        "Nea wɔde kamfo Aw'rade."
+      ],
+      "number": 4
+    }
+  ]
+}

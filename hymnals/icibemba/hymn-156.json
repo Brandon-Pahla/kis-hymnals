@@ -1,0 +1,31 @@
+{
+  "number": 156,
+  "language": "bem",
+  "title": "156 - AMASHIWI Y ABUKALI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ANGRY WORDS LET THEM NEVER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Amashiwi yabukali, Yeba mutunwa twenu,",
+        "Eyabifya umutima Nokukowesha milomo",
+        "CHORUS:",
+        "\"Temwaneni\" -- efyasose Mfumu,",
+        "Bana umfwileni funde lyakwe,",
+        "\"Temwaneni\" -- efyasose Mfumu.",
+        "Bana umfwileni funde.",
+        "2. Citemwiko calibuta, Kabili camushilo.",
+        "Lekeni mwiconaula. Namashiwi yashawama.",
+        "3. Amashiwi yabukali, Yasoswa mulubilo,",
+        "Eyabifya umutima, Yonaula bucibusa"
+      ],
+      "number": 2
+    }
+  ]
+}

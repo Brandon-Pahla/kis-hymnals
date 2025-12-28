@@ -1,0 +1,44 @@
+{
+  "number": 524,
+  "language": "pt",
+  "title": "Quem se Dispőe a Ir?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Quem se Dispőe a Ir?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quem se dispőe a ir aos campos do Senhor?",
+        "E com disposiçăo sair, ceifar com todo ardor?",
+        "Chegado já está o tempo de ceifar;",
+        "O nosso Redentor virá os molhos Seus buscar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Crescem as ervas más que o trigo estragarăo;",
+        "Deixai o joio para trás, trazei do trigo o grăo.",
+        "A noite logo vem, depressa ao campo entrai;",
+        "As sombras descem já do além, depressa trabalhar!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quantos atenderăo ŕ voz do Salvador?",
+        "Ó, vinde para a frente entăo, ŕ frente do labor!",
+        "O grande Rei dos reis será o Capităo,",
+        "E lá no Céu enfim tereis eterno galardăo."
+      ],
+      "number": 4
+    }
+  ]
+}

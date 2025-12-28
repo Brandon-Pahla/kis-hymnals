@@ -1,0 +1,31 @@
+{
+  "number": 177,
+  "language": "bem",
+  "title": "177 - MU MPANGA YA KUMULU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NO NIGHT THERE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mu mpanga ya kumulu, Mwalibo \"Musumba,\"",
+        "Ukekalilila pe, \"Bushiku takwaba.\"",
+        "CHORUS:",
+        "Akafute filamba, Mu \"musumba ulya;\"",
+        "Tabaka lepende myaka, \"Bushiku takwaba.\"",
+        "2. Fipata fyabekesha, Mu \"musumba ulya;\"",
+        "Misebo ya Sahabu, \"Bushiku takwaba.\"",
+        "3. Fipata tafisalwa, Ku \"musumba ulya,\"",
+        "Mumana upita pe, \"Bushiku takwaba.\"",
+        "4. Tabafwaya kasuba, Mu \"musumba ulya,\"",
+        "Pantu Yeswe lubuto, \"Bushiku takwaba,\""
+      ],
+      "number": 2
+    }
+  ]
+}

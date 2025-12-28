@@ -1,0 +1,30 @@
+{
+  "number": 321,
+  "language": "ny",
+  "title": "321 - Mvamva Mau A Mulungu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "COME BELIEVING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Mwamva mau a Mulungu, Mukabvomeranjiko?",
+        "Kodi musanduka Mtima, Ndikumvera Yesuyo?",
+        "CHORUS:",
+        "Bvomerani, bvomerani, Bvomerani msangatu (etu)",
+        "Musacedweranso ai, Landirani Yesuyo.",
+        "2. Munacita nthantha kale, Musacedweransobi;",
+        "Yesu ali kulindira, Inu sadzakanai.",
+        "3. Musaope kaamba zinthu Zakuipa zanuzo;",
+        "Mukakhulupira Yesu, Akacotsa zonsezo.",
+        "4. Pelekeni Mtima wanu, Kwa Mulungu wathuyo,",
+        "Mkhulupire kuti Yesu, Watifera kalelo."
+      ]
+    }
+  ]
+}

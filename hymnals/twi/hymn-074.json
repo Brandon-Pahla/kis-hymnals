@@ -1,0 +1,58 @@
+{
+  "number": 74,
+  "language": "tw",
+  "title": "Nyame 'Somdwoe Te Sɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame 'somdwoe te sɛ",
+        "'Nuonyam asuten;",
+        "Edė ade ny'naa so",
+        "Wɔ ne yiri mu.",
+        "Ͻtene wɔ pɛyɛm',",
+        "Ͻyɛ ma daa ny'naa;",
+        "Enyin wɔ pɛyɛ mu,",
+        "Emu kɔ so dɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yehowá ahotosom',",
+        "Koma nya nhyira",
+        "Sɛnea Ne bɔhyɛ te,",
+        "Ͻnya 'somdwoe pa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ Ne nhyira nsa no",
+        "Kata yɛn so a,",
+        "'Tamfo ntum' nni akyi;",
+        "'Sɛefo nni nny'naso:",
+        "ɔhaw biara nni hɔ;",
+        "Dadwen bi nni hɔ,",
+        "Ap'rep're bi nni hɔ a.",
+        "Ͻka honhom no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nigye anaa sɔhwɛ",
+        "Ny'naa fi Nyame hɔ;",
+        "ɔde ma Ne mma ny'naa",
+        "Sɛ ɔdɔ 'kyɛde;",
+        "Yɛbɛtwere No yie",
+        "Yɛn asɛde ni;",
+        "Wɔn a wɔtwer' No yie",
+        "Hu Ne nokwar'di."
+      ],
+      "number": 3
+    }
+  ]
+}

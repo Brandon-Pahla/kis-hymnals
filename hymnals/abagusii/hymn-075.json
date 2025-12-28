@@ -1,0 +1,42 @@
+{
+  "number": 75,
+  "language": "guz",
+  "title": "75 Nindigetie Manye Yeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nindigetie manye Yeso,'Buya bwaye mboorokieNdor' ogotoreka kwaye,'Bwanchani bw'oy'onkwerete."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kobua, kobua,nimomanye YesoNdor'ogotoreka kwaye,'Bwanchani bw'oy'onkwerete."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndigetie nyegere Yeso,N'obochenu bwaye manye'Moik' oye ab'omworokia,Konyoroki' onsi a Kristo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Manye Yes' ase Ring'ana,Nkwane n'Omonene oneErio nyigw' eriogi riaye,'Mang'an' aye ab' ayane."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Manye Yes'as' obogambi,'Bonda, 'Bonene nebiayeBonda bwaye bomenteke,'Mogambi bw'omoremb' ache."
+      ],
+      "number": 5
+    }
+  ]
+}

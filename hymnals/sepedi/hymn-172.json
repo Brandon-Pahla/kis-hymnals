@@ -1,0 +1,58 @@
+{
+  "number": 172,
+  "language": "nso",
+  "title": " 172  E TLOBA NAKO E KAE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 172  E TLOBA NAKO E KAE",
+        "CH 352",
+        "HOW LONG"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E tloba nako e kae,",
+        "Re ntše re letile?",
+        "Re tennwe dipelo,",
+        "Ke go diega ga gago,",
+        "E tlo fihla neng nako,",
+        "Efetago ya mesong,",
+        "Tšatši la kgalalelo ya 'Go,",
+        "Bathomg ba 'Go;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E tloba nako e kae Morena,",
+        "O sa re tlogetše,",
+        "O diegile go tla,",
+        "Go šetše ba mmalwa tumelong,",
+        "Re bona bahlanka ba 'Go,",
+        "Ba tseneletše sebeng,",
+        "Ba mmalwa go rena,",
+        "Ba itukišitšego;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsoša batho ba Gago,",
+        "O romele pitšo,",
+        "Bakgethwa bohle ba re",
+        "\"M'phološi o kgauswi\",",
+        "A re tšhubeng mabone,",
+        "Re itleme matheka,",
+        "Bohle ba tukišetše",
+        "Go bona Morena;"
+      ],
+      "number": 4
+    }
+  ]
+}

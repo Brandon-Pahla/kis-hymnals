@@ -1,0 +1,58 @@
+{
+  "number": 34,
+  "language": "tw",
+  "title": "Nyan Dwom No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyan anika ne 'nigye dwom;",
+        "Fa wo nnwom mu dwom bra ha;",
+        "To aw'rɛhow dadwen ny'naa gu,",
+        "Na da w'ayeyi adi.",
+        "To dwom kyerɛ Nea Ne banbɔ",
+        "De yɛn ahyiam sɛ nnamfo,",
+        "Na Ne nne dɛdɛ no ky'rɛ yɛn",
+        "Kwan kɔ Kristo nan ase."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nyan dwom no, nyan dwom no,",
+        "Anika ne 'nigye dwom;",
+        "Nyan dwom no, nyan dwom no,",
+        "Afenhyia da dwom no."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nigyem' yɛde nnwom ne frankaa",
+        "Behyia ah'rusi da no;",
+        "Yɛbɛteam ato hosana,",
+        "Na yɛde nnaase asom.",
+        "Yɛbɛka yɛn Gyefo n' 'nuonyam,",
+        "B're a yɛdwen soro ho",
+        "Na yɛka 'tete asɛm no',",
+        "Asɛnkunin ɔ nkwagye dɔ!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛda W'ase, Agya Kronkron,",
+        "Afe no mu adɔe nti;",
+        "B'rč a yɛahyia yi, ma koma ny'naa",
+        "Mfa 'seda mi ah'rusi.",
+        "Yɛda W'ase, 'Gyenkwa Dɔfo,",
+        "Wo mogyā a agye yɛn nti,",
+        "Honhom Kronkron, hom gu yɛn so,",
+        "Ka yɛn brɛoo kɔ Nyame nkyɛn."
+      ],
+      "number": 3
+    }
+  ]
+}

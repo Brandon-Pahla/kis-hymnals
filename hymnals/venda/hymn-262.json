@@ -1,0 +1,62 @@
+{
+  "number": 262,
+  "language": "ve",
+  "title": "262. Kristo Kana Baraba?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi ri’ni nga ha Yesu, o ima phanda’nga",
+        "O ambara tswuku, e na khare ya mipfa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hei ndi mbudziso, phindulo i’ mini-ha?",
+        "Ndi do vhamba Yesu kani, nda litsha Baraba?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi vhofholola mbava, muthu a tongaho!",
+        "Kana Yesu Mutshidzi, hu sandwa ufhio"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mbudziso ya u konda, ndi do ri mini-ha?",
+        "Nga tshilidzi u kha di lindela phindulo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndi do kona u ya naa? Ndi tshe wa shangoni?",
+        "Ni tshi vhambisa Yesu na tshidza Baraba?"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. A si vhaitazwivhi vha no vhudziswaho",
+        "Na mutendi a re vhukati ha milingo."
+      ],
+      "number": 6
+    }
+  ]
+}

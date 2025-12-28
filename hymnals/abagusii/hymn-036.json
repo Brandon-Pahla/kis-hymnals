@@ -1,0 +1,35 @@
+{
+  "number": 36,
+  "language": "guz",
+  "title": "36 Yeso Nagwanchire Aye Noyone",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yeso nagwanchire, Aye noyone;Natigir' ebibe nchiche as'ore,'Moboria one, naye ogontoria;Onye nagwanchete, Rirorio mbono."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nagwanchire bun'Aye kwanyanchete;'Kabogori' ebibe aria kalwari,Ngwanch'as'okobek'engata y'amagwa;Onye nagwanchete rirorio mbono."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ngwanch'as'obogima, n'as'amakweri;Naende ngotogie, buna nde moyo,Nintebe komberete ang'e gokwa;Onye nagwanchete, Rirorio mbono."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Bomenyo bw'omogok' otakoera;Ngosasime botambe agwo Igoro,Nintere n'egutw' ekomekameka;Onye nagwanchete, Riririo mbono."
+      ],
+      "number": 4
+    }
+  ]
+}

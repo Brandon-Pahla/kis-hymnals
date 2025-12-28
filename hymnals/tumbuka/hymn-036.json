@@ -1,0 +1,48 @@
+{
+  "number": 36,
+  "language": "tum",
+  "title": " 36 Nkugomezga Imwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 36 Nkugomezga Imwe",
+        "MY FAITH LOOKS UP TO THEE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nkhugomezga imwe,",
+        "Mwana wa Chiuta, muponoski;",
+        "Mpulike nkhuromba, mufumye uheni",
+        "Kufuma kulero ndiwe winu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mundipe uchizi,",
+        "Undikhomeskenge, m'ndipamphuske;",
+        "Umo mkandifwira, ndimo kuwirenge",
+        "Kutemweska kwane nga ndi moto."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Pakwenda mu chisi,",
+        "Vitima mu mtima, mundikore;",
+        "Chisi chiukepo, vitima vimare;",
+        "Ntha nditisoweso kuli Imwe."
+      ],
+      "number": 4
+    }
+  ]
+}

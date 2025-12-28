@@ -1,0 +1,66 @@
+{
+  "number": 246,
+  "language": "en",
+  "title": "246 Now Just A Word.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Now just a word for Jesus;",
+        "Your dearest Friend so true;",
+        "Come, cheer our hearts and tell us,",
+        "What He has done for you."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Now just a word for Jesus,",
+        "‘Twill help us on our way;",
+        "One little word for Jesus,",
+        "O speak, or sing, or pray."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Now just a word for Jesus,",
+        "You feel your sins forgiven,",
+        "And by grace are striving,",
+        "To reach a home in heaven."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Now just a word for Jesus;",
+        "A cross it can not be,",
+        "To say “I love my Saviour,",
+        "Who gave His life for me.”"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Now just a word for Jesus;",
+        "Let not the time be lost,",
+        "The heart’s neglected duty,",
+        "Brings sorrow to its cost."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Now just a word for Jesus;",
+        "And if your faith be dim,",
+        "Arise in all your weakness,",
+        "And leave the rest to Him"
+      ],
+      "number": 5
+    }
+  ]
+}

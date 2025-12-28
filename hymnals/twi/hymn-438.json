@@ -1,0 +1,66 @@
+{
+  "number": 438,
+  "language": "tw",
+  "title": "Mubehu Sɛ Mo W'ra Reba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mubehu sɛ mo W'ra reba.",
+        "Mubehu sɛ mo W'ra reba,",
+        "Mubehu sɛ mo W'ra reba,",
+        "Nna tiawa bi mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Muntie wɔn s'ro dwom no,",
+        "Muntie wɔn s'ro dwom no,",
+        "Muntie wɔn s'ro dwom no,",
+        "A ɛregyigye wim no."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gabriel hyɛn ne t'robɛnto no,",
+        "Gabriel hyɛn ne t'robɛnto no,",
+        "Gabriel hyɛn ne t'robɛnto no,",
+        "Nna tiawa bi mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mubehu 'hotefo sɔre,",
+        "Mubehu 'hotefo sɔre,",
+        "Mubehu 'hotefo sɔre,",
+        "Nna tiawa bi mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Bɔfo soa wɔn ko 'Gyenkwa nkyɛn,",
+        "'Bɔfo soa wɔn ko 'Gyenkwa nkyɛn,",
+        "'Bɔfo soa wɔn ko 'Gyenkwa nkyɛn,",
+        "Nna tiawa bi mu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛteam sɛ yɛn 'manehun' kɔ,",
+        "Yɛteam sɛ yɛn 'manehun' kɔ,",
+        "Yɛteam sɛ yɛn 'manehun' kɔ,",
+        "Nna tiawa bi mu."
+      ],
+      "number": 5
+    }
+  ]
+}

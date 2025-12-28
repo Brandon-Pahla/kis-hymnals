@@ -1,0 +1,56 @@
+{
+  "number": 170,
+  "language": "pt",
+  "title": "Só um Passo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Só um Passo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mui terna e doce é do Mestre a voz,",
+        "Chamando-me com amor:",
+        "\"De braços abertos te espero, vem!",
+        "Ó, vem ao teu Redentor!\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Cristo me chama, me quer salvar;",
+        "É só um passo, é só confiar!",
+        "Todo o meu ser deponho no altar",
+        "Aceita-me Tu, ó Cristo!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Tu tens muitas culpas e débil fé\",",
+        "Sugere-me o tentador.",
+        "\"Eu tudo já fiz\", uma voz me diz,",
+        "\"Confia em teu Salvador!\""
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "0 mundo é falso, perdido e mau;",
+        "Pequeno e frágil sou,",
+        "Mas Cristo com voz divinal me diz:",
+        "\"Meu filho, Eu forças dou!\""
+      ],
+      "number": 5
+    }
+  ]
+}

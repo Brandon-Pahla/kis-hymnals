@@ -1,0 +1,47 @@
+{
+  "number": 74,
+  "language": "st",
+  "title": "74 Re Roetse Mangata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Re jala kamehla peo ea ho loka,",
+        "Hoseng, mots’ehare le mantsiboea;",
+        "Re se re emetse nako ea kotulo,",
+        "Re tla thaba re a roetse mangata."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Roetse mangata, roetse mangata;",
+        "Re tla thaba ha re roetse mangata,",
+        "Roetse mangata, roetse mangata;",
+        "Re tla thaba ha re roetse mangata."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re jala lefats’eng le ha’ra meriti,",
+        "Ha re ts’abe le phoka ea mariha;",
+        "Re se re tla qeta pele mosebetsi,",
+        "Re tla thaba re a roetse mangata."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re jalla Morena le ka mahlomola,",
+        "Ka meokho ka linako tse ngata,",
+        "Ha lillo li fela re se re tla ’mona,",
+        "Re tla thaba re a roetse mangata."
+      ],
+      "number": 4
+    }
+  ]
+}

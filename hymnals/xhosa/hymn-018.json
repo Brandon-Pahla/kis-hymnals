@@ -1,0 +1,64 @@
+{
+  "number": 18,
+  "language": "xh",
+  "title": "18 Phambili Ma-Kristu!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hambani maKristu njengasemfazwen’,",
+        "Ninekrus’ ka Yesu inikhokela,",
+        "U-Kristu umphathi, ungen’ empini.",
+        "Phambili edabini yahamba indwe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hambani maKristu njengasemfazwen’,",
+        "Ninekrus’ kaYesu inikhokela."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Imikhos’ kaSathan’ iyabaleka,",
+        "Phambili ke ngoko nize noyise!",
+        "Ibalek’ uYesu, Dumani nonke,",
+        "Ngamazwi ke kwanangengoma zenu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lihamba ngokwempi, Ibandla leNkos’,",
+        "Masilinganise abahambayo;",
+        "Noko sahlukene simi kwakanye,",
+        "Themba lethu linye, elikuYesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "AmaKhos’ omhlaba ayadlul’ onke;",
+        "Kant’ iBandla lethu liyema njalo.",
+        "’Bandla likaYesu alahlulwa nto,",
+        "Wathembis’ uKristu oko ke kuthi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phambili, maKristu, Nomkhos’ omkhulu;",
+        "Masivum’ ingoma, Eyokoyisa;",
+        "\"Dumo! Makabongwe! ’Kristu yiNkosi!",
+        "Kude kus’ephakadeni!\" Mabatsho bonke."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "number": 47,
+  "language": "tw",
+  "title": "Nyame' a Woyɛɛ S'ro Ne 'Sase",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame a Woyɛɛ s'ro ne 'sase",
+        "Esum ne hann:",
+        "Woyɛɛ 'dekyee maa 'dwumayɛ,",
+        "'Nadwo, 'home;",
+        "Ma W'abɔfo mmɔ yɛn ho ban,",
+        "Na ma yɛn nna pa Wo dom mu;",
+        "Ma yɛnso dae nnya 'nidaso",
+        "'Nadwo yi ny'naa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ yɛnyan' 'dekyee fof'ro mu,",
+        "Fa 'bra kwan sō a,",
+        "Nea 'besi biara, ma yenni",
+        "W'apɛde so.",
+        "Kōra yɛn so fi bɔn' tumi ho;",
+        "Bɔ yɛn ho ban kwan hihiaa yim',",
+        "Nyi W'animte mfi yɛn so da,",
+        "Da mu no ny'naa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɛn yɛn sɔre ne yɛn nna mu,",
+        "Ne 'wu mu nso,",
+        "Wo banbɔ kɛsem' ma yenya",
+        "Asomdwoe nna.",
+        "Sɛ t'robɛnto nne nyan yɛn a,",
+        "O Awurade pa, nnyaw yɛn,",
+        "Na ma yɛne Wo nkodi hen'",
+        "'Nuonyam mu s'ro."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Agya Kronkron a Wote s'ro,",
+        "ɔba Kronkron,",
+        "Honhom Kronkron, yɛn akyɛde,",
+        "Baasakoro:",
+        "Dom yɛn seesei kosi b're a",
+        "Yɛde yɛn kyɛw begu W'anim,",
+        "Na yɛde nnwom pa 'kamfo Wo",
+        "Nnasanten mu."
+      ],
+      "number": 4
+    }
+  ]
+}

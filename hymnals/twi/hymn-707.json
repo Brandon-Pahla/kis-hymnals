@@ -1,0 +1,56 @@
+{
+  "number": 707,
+  "language": "tw",
+  "title": "N12 I Will Sing Of The Wondrous",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mεto Kristo a Owu maam'",
+        "Anwanwasεεm no ho dwom;",
+        "Ɔdan' N'anuonyam fie gyaa hɔ;",
+        "Bεfaa Kalbre ‘sεnnua no!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yiw, mεto Kristo a Owu maam'",
+        "‘Nwanwasεm no ho dwom;",
+        "Me ne ahotefo behyiam!",
+        "Ahwehwεpo ho ato."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Meyerae na Yesu huu me",
+        "Sε oguan a wafom kwan;",
+        "Ɔde Ne dɔ basa bamm' me,",
+        "Ɔtwee me baa Ne kwan mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mipirae Yesu saam' yare;",
+        "Metɔɔ piti asehwem'",
+        "Manhu ade, ehu hyɔn' so;",
+        "Na ɔgyeem' fii ne nyinaam'."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Esum nna da so ba me so,",
+        "Metaa fa ‘w'rεhow kwan so,",
+        "Nanso Agyenkwa ka me ho,",
+        "Ɔde Ne nsa ka me dwoo."
+      ],
+      "number": 4
+    }
+  ]
+}

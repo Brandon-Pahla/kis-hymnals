@@ -1,0 +1,56 @@
+{
+  "number": 633,
+  "language": "tw",
+  "title": "Sɛ Yɛn Ny'naa Du S'ro Hɔ a",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Monto Yesu anwanwa dɔ",
+        "'Hummɔb'rɔ ne dom ho dwom,",
+        "Obesiesie trabea 'ma yɛn",
+        "Wɔ adan fɛfɛ no mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sɛ yɛn ny'naa du s'ro hɔ a,",
+        "Ͻbɛyɛ ahurusi da kɛse!",
+        "Yɛn ny'naa hu Yesu a,",
+        "Yɛbɛteam ato nkonim dwom."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B'rč a yɛnam sɛ 'kwantufo yi,",
+        "Mununkum bɛkata wim;",
+        "Nanso sɛ 'kwantu no sa a",
+        "Sunsuma bi nni hɔ bio."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻnde momma yenni nokwar'",
+        "Nsom wɔ ahotosom 'daa,",
+        "Sɛ yehu No 'nuonyam mu a,",
+        "Yɛn brɛ nyinaa to betwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkonimbo no da yɛn anim!",
+        "Yebehu N'ahoɔfɛ no;",
+        "Ͻnkyɛ, wobebue apon no,",
+        "Yɛbenantew sika so."
+      ],
+      "number": 4
+    }
+  ]
+}

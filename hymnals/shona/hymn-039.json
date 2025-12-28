@@ -1,0 +1,56 @@
+{
+  "number": 39,
+  "language": "sn",
+  "title": "39 Dombo Rine Simba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Rukariro urwo rwangu,",
+        "Rusimbire kuna Kristu,",
+        "Handidawiri nemunhu,",
+        "Asi muzita raJesu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinomira kuna Jesu,",
+        "Ndiye Dombo, nheyo yangu,",
+        "Zvimwe ndichanyura zvangu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti avigwa ngedima,",
+        "Tsitsi dzake ndogarira",
+        "Mumhepo huru yesimba,",
+        "Ruoko rwake ndobata"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chirangano chake icho,",
+        "Nechitsidzo cheropa’ro,",
+        "Zvinondipa rusimbiro,",
+        "Pakati pematambudzo"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Apo anenge ouya,",
+        "Netsuri ichazoridzwa,",
+        "Ndinoda kuti ndimire,",
+        "NaJesu parudyi rwake"
+      ],
+      "number": 5
+    }
+  ]
+}

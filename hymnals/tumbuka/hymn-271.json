@@ -1,0 +1,51 @@
+{
+  "number": 271,
+  "language": "tum",
+  "title": " 271 Kwananga Kungasweta",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 271 Kwananga Kungasweta",
+        "THO' YOUR SINS BE AS SCARLET"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Kwananga kungasweta kutituwiskikenge,",
+        "Kwananga kungasweta kutituwiskikenge,",
+        "Nanga kutchesame nadi kwam wa nga weya,",
+        "Kwananga kungasweta kwananga kungasweta,",
+        "Kutituwiskikenge kutituwiskikenge"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Pulika wakuchema \"werera kwa Chiuta,",
+        "Pulika wakuchema \"werera kwa Chiuta\",",
+        "Ndiyo mubwezi mwenecho na wakutemwa,",
+        "Pulika wakuchema pulika wakuchema,",
+        "Werera kwa Chiuta\" \"Werera kwa Chiuta."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Wakugowokerenge ntha wakumbukireso,",
+        "Wakugowokerenge ntha wakumbukireso,",
+        "Mndidodoliske mwa wanthu,\" Chiuta wati,",
+        "Vakugowokerenge, wakugowokerenge,",
+        "Nna wakumbukireso, ntha wakumbukireso."
+      ],
+      "number": 4
+    }
+  ]
+}

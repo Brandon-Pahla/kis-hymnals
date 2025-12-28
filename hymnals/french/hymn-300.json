@@ -1,0 +1,58 @@
+{
+  "number": 300,
+  "language": "fr",
+  "title": "C'est mon joyeux service",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "C'est mon joyeux service",
+        "D'offrir à Jésus-Christ,",
+        "En vivant sacrifice,",
+        "Mon corps et mon esprit."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Accepte mon offrande,",
+        "Bien-aimé Fils de Dieu,",
+        "Et que sur moi descende",
+        "La flamme du saint lieu !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "J'abandonne ma vie,",
+        "Sans regret ni frayeur,",
+        "À ta grâce infinie,",
+        "Ô mon libérateur !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qu'un feu nouveau s'allume",
+        "Par ton amour en moi",
+        "Et dans mon cœur consume",
+        "Ce qui n'est pas à toi !"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Viens, Jésus, sois mon maître,",
+        "Car tu m'as racheté.",
+        "À toi seul je veux être",
+        "Et pour l'éternité."
+      ],
+      "number": 5
+    }
+  ]
+}

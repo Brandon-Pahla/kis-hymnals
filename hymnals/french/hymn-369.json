@@ -1,0 +1,52 @@
+{
+  "number": 369,
+  "language": "fr",
+  "title": "Tous unis dans l'Esprit",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tous unis dans l'Esprit, tous unis en Jésus,",
+        "Tous unis dans l'Esprit, tous unis en Jésus,",
+        "Nous prions que bientôt ce qui divise ne soit plus."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Et le monde saura que nous sommes chrétiens",
+        "Par l'amour dont nos actes sont empreints."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous marchons côte à côte et la main dans la main,",
+        "Nous marchons côte à côte et la main dans la main,",
+        "À la table du roi nous partageons le même pain."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "D'un seul cœur nous voulons travailler pour Jésus,",
+        "D'un seul cœur nous voulons travailler pour Jésus,",
+        "Proclamer à tout homme qu'il nous offre le salut."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gloire au Dieu créateur de la terre et des cieux,",
+        "Gloire au Fils éternel, rédempteur glorieux,",
+        "Gloire, gloire à l'Esprit qui verse en nous l'amour de Dieu."
+      ],
+      "number": 5
+    }
+  ]
+}

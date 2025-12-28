@@ -1,0 +1,43 @@
+{
+  "number": 123,
+  "language": "sn",
+  "title": "123 Rita Rinoyera",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Zita rakanakisisa, rinopfuura ese,",
+        "Rakapiwa naye Baba, Kumu Rubgwana Wake."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iro rinoyera; Zita rinoyera",
+        "(Royera!)(Royera!)",
+        "Rabva kuna Baba, Ra’ya pasi",
+        "Rauya ne ngirosi; Ra’ya pausiku",
+        "(Royera) (Royera)",
+        "Zita ra Tenzi Jesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rounza chikomborero, Ndoimba ndichifara,",
+        "Zita Rake ndoribvuma, Ndichazoriparidza."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyaya yerusununguro nerudo ndichaimba",
+        "Ndichazo rikudza zita rinopfuura ese."
+      ],
+      "number": 4
+    }
+  ]
+}

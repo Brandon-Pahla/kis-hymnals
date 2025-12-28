@@ -1,0 +1,55 @@
+{
+  "number": 418,
+  "language": "tw",
+  "title": "A Temmu Da, 'Nwanwade Da!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A temmu da, 'nwanwade da!",
+        "Muntie t'robɛnto nne no,",
+        "Ano yɛ den sen aprannaa;",
+        "Ͻwosow abɔde ny'naa!",
+        "Sɛnea frɛ no, sɛnea frɛ no",
+        "Bɛwosow bɔn'fo koma!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hwɛ, 'W'ra no reba 'nuonyam mu,",
+        "Ofura s'ro tumidi;",
+        "Wō a wohwɛ N'ahoyi kwan no",
+        "Bɛka sɛ \\\"Nyame wɔ me!\\\"",
+        "'Gyenkwa Dɛɛfo, 'Gyenkwa Dɛɛfo,",
+        "Fa me yɛ Wo de da no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Awufo sɔre Ne frɛ so,",
+        "Fi 'sase ne pom' ba nkwam'!",
+        "Abɔde ny'naa wosow N'anim",
+        "P're hwehwɛ sɛ wobeguan;",
+        "Bɔneyɛfo, bɔneyɛfo,",
+        "Ebewie wo dɛn da no?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na wɔn a wɔkaa wɔn bɔne,",
+        "Som 'W'rade fam ha no de,",
+        "ɔbɛse wɔn sɛ: \\\"Mo 'hy'rafo,",
+        "Mommɛhwɛ M'ahenni no;",
+        "Mubehu daa, mubehu daa,",
+        "Me dɔ ne M'anuonyam no\\\"."
+      ],
+      "number": 4
+    }
+  ]
+}

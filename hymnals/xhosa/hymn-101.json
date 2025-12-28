@@ -1,0 +1,48 @@
+{
+  "number": 101,
+  "language": "xh",
+  "title": "101 U-Yesu Uya Biza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U-Yesu ukubizel’ ekhaya - Uya biza kanye namhla;",
+        "Ilanga lothando ulishiya, uya usimka ngani?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tenors &amp; Basses:U-yabiza kanye namhla;",
+        "U-yabiza kanye namhla u-Yesu",
+        "Uyabiza ngenceba; Ngayo inceba enkulu.",
+        "Uya biza, kanye namhla; U-Yesu uya biza ngenceba enkulu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abadiniweyo ubabiza - Uya biza kanye namhla;",
+        "Mnik’ umthwalo akusikelele; Akasoku kugxotha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yiza ngoku, ulindele wena - Uya linda kanye namhla;",
+        "Yiza nezon’ uzithobe kuye; Yiza, m’sukulibala."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uya kucenga, Au! Mphulaphule - Uya cenga, yiva namhla;",
+        "Abo baKholwayo bakuvuya; Khauleza usabise."
+      ],
+      "number": 4
+    }
+  ]
+}

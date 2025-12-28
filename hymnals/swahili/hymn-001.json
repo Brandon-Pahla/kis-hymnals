@@ -1,0 +1,37 @@
+{
+  "number": 1,
+  "language": "sw",
+  "title": "1 - U Mtakatifu,",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "U Mtakatifu! Mungu Mwenyezi!",
+        "Alfajiri sifa zako tutaimba,",
+        "U Mtakatifu, Bwana wa huruma,",
+        "Mungu wa vyote, hata milele."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "U Mtakatifu! Na malaika,",
+        "Wengi sana wanakuabudu wote.",
+        "Elfu na maelfu, wanakusujudu,",
+        "Wa zamani na hata milele."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "U Mtakatifu! Ingawa giza,",
+        "Lakuficha fahari tusiione,",
+        "U Mtakatifu! Wewe peke yako,",
+        "Kamili kwa uwezo na pendo."
+      ]
+    }
+  ]
+}

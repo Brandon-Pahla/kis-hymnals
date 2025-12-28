@@ -1,0 +1,51 @@
+{
+  "number": 167,
+  "language": "nd",
+  "title": "167 Isisekelo Esiqinileyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Isisekel’ esibekwe yiNkosi",
+        "Samiswa ukusiqinisa thina",
+        "U ngeb’ usash’ okunye ku naloko",
+        "Okushiwo iBhaibhele lAkhe.",
+        "Okushiwo iBhaibhele lAkhe"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Noma ngi kubizela emanzini",
+        "U ngesabi ngi zoba nawe khona",
+        "Ngi zophendul’ izinhlupheko zakho",
+        "Ngi zenze zibe iz’busiso kuwe.",
+        "Ngi zenze zibe iz’busiso kuwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Noma ngi dabula enhluphekweni",
+        "Umsa wakho wanele kim’ impela",
+        "Naphakathi kwelangabi lomlilo",
+        "Mina ngi zokuvikela u ngashi.",
+        "Mina ngi zokuvikela u ngashi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lowo owenyama kuYe uJesu",
+        "Akasoze a phontwe ezitheni",
+        "Noma uSathani ezama njani",
+        "Lowo u zosinda kuY’ uSomandla.",
+        "Lowo u zosinda kuY’ uSomandla."
+      ],
+      "number": 4
+    }
+  ]
+}

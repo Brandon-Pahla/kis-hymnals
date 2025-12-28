@@ -1,0 +1,35 @@
+{
+  "number": 307,
+  "language": "luo",
+  "title": "307 Bedo Gi Yesu E Dala, Mano Mor Maduong`",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bedo gi Yesu e dala,mano mor maduong`,Mano mor maduong`,mano mor maduong`;Bedo gi Yesu e dala,mano mor maduong`,Mano mor maduong`."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ka Yesu ni e chuny wuoro,ot bedo mokuwe,Ot bedo mokuwe,ot bedo mokuwe;Ka Yesu ni e chuny wuoro,ot bedo mokuwe,Ot bedo mokuwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ka Yesu ni e chuny miyo,ot bedo mokuwe,Ot bedo mokuwe,ot bedo mokuwe;Ka Yesu ni e chuny miyo,ot bedo mokuwe,Ot bedo mokuwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Yesu e chuny nyithindo,ot bedo mokuwe,Ot bedo mokuwe,ot bedo mokuwe;Yesu e chuny nyithindo,ot bedo mokuwe,Ot bedo mokuwe."
+      ],
+      "number": 4
+    }
+  ]
+}

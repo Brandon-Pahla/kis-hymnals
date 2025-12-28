@@ -1,0 +1,49 @@
+{
+  "number": 89,
+  "language": "sn",
+  "title": "89 Nguva Yakanaka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nguva’yo yekunamata,",
+        "Naiyo takomborerwa,",
+        "Inotipa kukumbira,",
+        "Kuna Baba wekudenga,",
+        "Munguva dzekutambudzwa,",
+        "Mwoyo yedu yanyaradzwa,",
+        "Yapukunyuka kubatwa,",
+        "Ne’yo nguva yekutenda"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nguva’yo yekunamata ,",
+        "Tapinda’vo kukumbira ,",
+        "Kuna Iye warindira ,",
+        "Isu kutikomborera ,",
+        "Ngekuti wandidaidza ,",
+        "Mutsa wake ndasimbira ,",
+        "Vachabvisa zvakaipa ,",
+        "Panguva yekunamata"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nguva’yo yekunamata,",
+        "Ndinodisa kunyaradzwa,",
+        "Sepagoma’ro rePisgah,",
+        "Ndoona musha kudenga,",
+        "Murumuko rwekusafa,",
+        "Chipo changu ndichapiwa,",
+        "Ndichati apo ndakwira,",
+        "Ndapinda ngekunamata"
+      ],
+      "number": 3
+    }
+  ]
+}

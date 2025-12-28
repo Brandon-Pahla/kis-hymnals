@@ -1,0 +1,54 @@
+{
+  "number": 32,
+  "language": "ve",
+  "title": "32 Vhushavhelo Nga Tshifhinga Tsha Madumbu.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:528",
+        "AH:211"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Murena ndi tombo lashu, na vhushavhelo hashu-vho,",
+        "Bako na murunzi washu, ndi ’we vhushavhelo hashu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Murango u re na Maanda, Murunzi wa lino shango,",
+        "Murangaphanda wa ngoho, U vhushavhelo hashu-vho"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yesu ndi murunzi washu, U vhushavhelo hashu-vho,",
+        "A ri ofhi U na rine, U vhushavhelo hashu-vho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Naho hu nga da mudalo, U vhushavhelo hashu-vho,",
+        "Ri di dzumba kha Mudzimu, U vhushavhelo hashu-vho."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Thikho I re tombo lashu, U vhushavhelo hashu-vho,",
+        "Dzula tshothe Iwe Yesu, U vhushavhelo hashu-vho."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 481,
+  "language": "es",
+  "title": "Voy al cielo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Voy al cielo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Voy al cielo, soy peregrino,",
+        "a vivir eternamente con Jesús;",
+        "pues él abrió ya amplio camino,",
+        "al expirar sobre amarga cruz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Voy al cielo, soy peregrino,",
+        "a vivir eternamente con Jesús."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Duelo, muerte, amarga pena,",
+        "nunca, nunca más se encontrarán",
+        "allá;",
+        "preciosa vida, de gozo llena,",
+        "el alma mía disfrutará."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Tierra santa, hermosa y pura!",
+        "entraré en ti, salvado por Jesús;",
+        "y gozaré siempre la ventura,",
+        "iluminado con santa luz."
+      ],
+      "number": 5
+    }
+  ]
+}

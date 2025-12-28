@@ -1,0 +1,56 @@
+{
+  "number": 65,
+  "language": "tn",
+  "title": "65 Go Botshe Go Ikanya Jeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Go Botshe Go Ikanya Jeso,",
+        "Go Mo ts’a fokong ja ’Gwe;",
+        "Go ikhutsa tsholofelong,",
+        "Go itse, \"Go bua Jeso\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jeso, Jeso, kea Mo ikanya;",
+        "Ke Mo lekile gantsi:",
+        "Jeso, Jeso, Yo’ tlhokegang:",
+        "Ka tshwaro go Mo ikanya."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go Botshe Go Ikanya Jeso,",
+        "Go ikanya mading a ’Gwe;",
+        "Mme ka tumelo go ntsenya,",
+        "Mo metsing a tlhapisang."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E, Botshe Go Ikanya Jeso,",
+        "Go tlogela boleo;",
+        "Mo go Jeso go itseela",
+        "Botshelo le kagiso."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Itumela Go Go Ikanya,",
+        "Jeso, Mmoloki, Tsala;",
+        "Mme ke itse gore O go nna,",
+        "O tla nna le nna fela."
+      ],
+      "number": 4
+    }
+  ]
+}

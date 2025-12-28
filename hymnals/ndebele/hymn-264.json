@@ -1,0 +1,65 @@
+{
+  "number": 264,
+  "language": "nd",
+  "title": "264 Ukuphumla Kuka Jehova",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Olungcwele uSuku",
+        "Luka Jehova wethu",
+        "Eligcin’ is’khombisa",
+        "Lwabusiswa yiNkosi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lwamkele-ke, Lwamkele-ke",
+        "Siya kuthokozela, KweNkosi ukuphumla"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Umsebenzi waqedwa",
+        "Lwase luqalwa lodwa",
+        "Walubusis’ impela",
+        "Ngaloko siya phumla"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lwaphendulwa ngabantu",
+        "Ngokuphumla ngeSonto",
+        "Hlola uMbhalo wAkhe",
+        "Awubatsheli loko"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abaningi ba ngathi",
+        "I Sonto lihle futhi",
+        "Keph’ incwadi yeNkosi",
+        "Yon’ iyabaphikisa"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngahlola, ngalibona",
+        "Lempela iSabatha",
+        "Ngaphangis’ ukwamkela",
+        "Iqiniso nendlela"
+      ],
+      "number": 6
+    }
+  ]
+}

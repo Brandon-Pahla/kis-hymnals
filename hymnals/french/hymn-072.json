@@ -1,0 +1,51 @@
+{
+  "number": 72,
+  "language": "fr",
+  "title": "Chantons le jour de la victoire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Chantons le jour de la victoire,",
+        "Au ciel faisons monter nos chants,",
+        "Au ciel faisons monter nos chants,",
+        "Louons le Christ, il est vivant",
+        "Dans sa splendeur et dans sa gloire!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "À lui l’honneur et la puissance :",
+        "Il est le roi de l’univers,",
+        "Il est le roi de l’univers,",
+        "Le ciel, la terre et les enfers,",
+        "Tout doit lui rendre obéissance."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il a veillé sur son Église :",
+        "Elle est toujours sous son regard,",
+        "Elle est toujours sous son regard.",
+        "Il est pour elle un sûr rempart",
+        "Et qui la frappe un jour se brise."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chantons le jour de la victoire,",
+        "Au ciel faisons monter nos chants,",
+        "Au ciel faisons monter nos chants,",
+        "Et dans nos cœurs reconnaissants",
+        "Rendons à Dieu louange et gloire!"
+      ],
+      "number": 4
+    }
+  ]
+}

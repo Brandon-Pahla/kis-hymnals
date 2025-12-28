@@ -1,0 +1,56 @@
+{
+  "number": 217,
+  "language": "pt",
+  "title": "Ando Sempre Alegre",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ando Sempre Alegre"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Perdido eu na escuridão",
+        "Foi que Jesus me achou,",
+        "E com a luz do Seu amor",
+        "As trevas dissipou."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Eu alegre vou na Sua luz,",
+        "Pois agora Cristo me conduz.",
+        "Desde que me achou, da morte me livrou.",
+        "Ando sempre alegre, Cristo me salvou!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Andando estou na luz de Deus,",
+        "Que doce comunhão!",
+        "Prossigo sempre com vigor,",
+        "Deixando o mundo vão."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lá, face a face então verei",
+        "Jesus, o Salvador,",
+        "O qual a Sua vida deu",
+        "Por mim, vil pecador."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 98,
+  "language": "nd",
+  "title": "98 UMsindisi Nami",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yamdinga uMsindisi, Ahambe nami njalo.",
+        "Ma ngi muzwe nam’ eduze Angi gone ngengalo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mphefumlo, u ngesabi, NoJes’ engendulela",
+        "Ngi yohamba ngi ngasoli, Eduze ngomlandela"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yamdinga uMsindisi, Mina ngi ngenze lutho.",
+        "Eduduza u sho izwi, Nobani ongelisho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yamdinga uMsindisi, Ekuhambeni kwami.",
+        "Es’phephweni nelangeni Kuyo yonk’ impi yami."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yamdinga, uMsindisi, Maka ngi hole Yena.",
+        "Ngize ngi fik’ eJordani; Ngi welele phesheya."
+      ],
+      "number": 5
+    }
+  ]
+}

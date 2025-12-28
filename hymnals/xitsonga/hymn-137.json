@@ -1,0 +1,25 @@
+{
+  "number": 137,
+  "language": "ts",
+  "title": "137. MISAVA U NGA YI TEKA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TAKE THE WORLD BUT GIVE ME JESUS",
+        "1. Misava U Nga Yi Teka, Kambe Ndzi Nyike Yesu;",
+        "Na Rirhandzu Ra Yena, Leri Ri Nga Heriki.",
+        "CHORUS",
+        "O! Tintswalo Letonghasi, Rirhandzu Lerikulu;",
+        "Hi Na Vutomi Hi Ntalo, Ka Yena Mukutsuri.",
+        "2. Loko Ndzi Ri Eka yesu, Moya Wanga Wa Wisa;",
+        "Na Hi Nkarhi Wa Makhombo, U Ndzi Nyika Ku Rhula.",
+        "3. Teka Misava Hinkwayo, Ndzi He Yesu Ndzi Tsaka;",
+        "Rendzweni Ranga Hinkwaro, Yesu Ndzi Voningele.",
+        "4. Teka Misava Hinkwayo, Ndzi He La Vambiweke;",
+        "Ndzi Tshembele Eka Yesu, Ku Kondza Ndzi N’wi Vona."
+      ],
+      "number": 1
+    }
+  ]
+}

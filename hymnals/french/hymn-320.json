@@ -1,0 +1,67 @@
+{
+  "number": 320,
+  "language": "fr",
+  "title": "Prends ma vie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Prends ma vie, elle doit être",
+        "À toi seul, ô divin Maître,",
+        "Que sur le flot de mes jours,",
+        "Ton regard brille toujours !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que mes mains, à ton service,",
+        "S'offrent pour le sacrifice,",
+        "Qu'à te suivre pas à pas",
+        "Mes pieds ne faiblissent pas !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Prends ma voix et qu'elle chante",
+        "Ta grâce auguste et touchante;",
+        "Par mes lèvres que ton nom",
+        "Parle aux pécheurs du pardon !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que mon esprit s'illumine",
+        "De ta sagesse divine;",
+        "Prends mon argent et mon or",
+        "Et toi seul, sois mon trésor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que ma volonté devienne",
+        "La servante de la tienne;",
+        "Fais ton trône de mon cœur:",
+        "Il t’appartient, bon Sauveur."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qu’ainsi mon amour répande",
+        "À tes pieds son humble offrande :",
+        "Prends-moi, dès les premiers jours,",
+        "Tout, à toi seul, pour toujours !"
+      ],
+      "number": 6
+    }
+  ]
+}

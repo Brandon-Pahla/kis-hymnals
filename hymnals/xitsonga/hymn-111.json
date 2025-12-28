@@ -1,0 +1,26 @@
+{
+  "number": 111,
+  "language": "ts",
+  "title": "111. KU HAVA, KU HAVA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NO, NOT ONE",
+        "1. Munghana Tani Hi Hosi Yesu, Ku Hava, Ku Hava;",
+        "La Hi Horisaka Mavabyini, Ku Hava, Ku Hava.",
+        "CHORUS",
+        "Yesu U Tiva Maxangu Yerhu, Wa Hi Pfuna Hi Masiku; Munghana Tani Hi Hosi Yesu, Ku Hava, Ku Hava.",
+        "2. Ku Hava Yena Muhlawuriwa, Wo Fana Na Yesu;",
+        "Yena La Nga Mutitsongahati, Ku Hava, Ku Hava.",
+        "3. Hi Masiku Hinkwawo U Kona, Kusuhi Na Hina;",
+        "Ni Le Nkarhini Wa Wo Munyama, U Kona Kusuhi.",
+        "4. A Nga Tsan’wi La Tinyiketaka, Na Un’we, Na Un’we;",
+        "NaMudyohi Wa N’wi Amukela, U Fele Na Yena.",
+        "5. Ku Hava Nyiko Leyi Yonghasi, Yo Fana Na Yena;",
+        "La Hi Nyikeke Kaya Tilweni, Ku Hava, Ku Hava."
+      ],
+      "number": 1
+    }
+  ]
+}

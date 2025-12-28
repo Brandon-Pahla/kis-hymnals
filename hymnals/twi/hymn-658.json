@@ -1,0 +1,49 @@
+{
+  "number": 658,
+  "language": "tw",
+  "title": "S'ro Agya, Tie Yɛn Mpaebɔ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "S'ro Agya, tie yɛn mpaebɔ",
+        "B'rč a yɛkoto Wo yi;",
+        "Hy'ra wɔn wɔ wɔn nkabom nom'",
+        "Yɛsrɛ Wo 'hobrɛasem.",
+        "Yɛ wɔn kwanky'rɛfo ade ny'naam',",
+        "Na yɛ wɔn daa anidaso;",
+        "Wō a Woyɛ s'ro dɔ nsuti,",
+        "Ma Wo dɔ nhyerɛn wɔn mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B'rč a wɔka wɔn dɔ ho ntam",
+        "W'afɔr'bukyia 'nim yi,",
+        "Ma wɔn koma nsi Wo so",
+        "A ɛrenhinhim da.",
+        "Yɛ wɔn w'rɛkyekye wɔ yaw mu;",
+        "Ma wɔn daakye mu 'nidaso.",
+        "Ma wɔn 'hoɔden a wɔde",
+        "Bɛtwer' Wo tumi nkutoo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔbɔadeɛ Hy'rafo, nkwa W'ra,",
+        "Gye yɛn aseda yi.",
+        "Woaka 'war'fo yi abom",
+        "Ama fam ha 'setra.",
+        "Esian Yesu mu bembu nti,",
+        "Wɔanya nkwa a enni awiei.",
+        "Sɛ wɔn fam ha nna twam a,",
+        "Fa wɔn kɔ Wo s'ro fie dwoo!"
+      ],
+      "number": 3
+    }
+  ]
+}

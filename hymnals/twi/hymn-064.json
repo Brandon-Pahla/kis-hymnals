@@ -1,0 +1,31 @@
+{
+  "number": 64,
+  "language": "tw",
+  "title": "Nyame, Fa Wo Nhyira Pɔn Yɛn",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame, fa Wo nhyira pɔn yɛn,",
+        "Fa dɛw hyɛ yɛn komam' fɔmm;",
+        "Ma yɛn mu biara nya Wo dɔ,",
+        "Nni nkonim nkwagye dom mu:",
+        "O dwudwo yɛn, O dwudwo yɛn,",
+        "Yɛretu kwan sar' so yi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛda W'ase, yɛkamfo Wo,",
+        "W'asɛmpa dɛdɛ no nti;",
+        "Ma Wo nkwagye ho aba no",
+        "Mm'ro so yɛn komam ne 'bram';",
+        "Nokware mu, nokware mu",
+        "Ma yɛnnante W'asɛm mu."
+      ],
+      "number": 2
+    }
+  ]
+}

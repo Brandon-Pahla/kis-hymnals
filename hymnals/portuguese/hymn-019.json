@@ -1,0 +1,44 @@
+{
+  "number": 19,
+  "language": "pt",
+  "title": "Ao Coro dos Arcanjos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ao Coro dos Arcanjos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ao coro dos arcanjos eu uno meu louvor,",
+        "E adoro humildemente o grande Criador.",
+        "Enquanto os passarinhos voando pelo ar",
+        "Entoam seus louvores, eu ergo meu cantar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se às vezes sou tentado a ouvir a voz do mal,",
+        "Escuto, então, dos anjos, o coro divinal.",
+        "Eu canto em voz mais alta que a voz do tentador,",
+        "E nesse mesmo instante renovo meu vigor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nas horas de tristeza, nas lutas e na dor,",
+        "Nos dias de saudade do eterno lar de amor,",
+        "Eu ouço a natureza, feliz, rejubilar,",
+        "E sinto da harmonia a paz me confortar."
+      ],
+      "number": 4
+    }
+  ]
+}

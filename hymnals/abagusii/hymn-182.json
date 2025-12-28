@@ -1,0 +1,28 @@
+{
+  "number": 182,
+  "language": "guz",
+  "title": "182 Yeso Nkwegenete",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yeso nkwegenete,'Manwa ya Kalwari,Omotoria:'Gw'ogosaba bono,Onsibie ebibe,Mb'Oyoo kegimakorwa rero."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Buya bwa' obonge,bomente chinguru,'Nkoro yane;Buna gwankwerete,Bwanchani as'ore,Bob'obochenu pibore moyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Naetananire,ime y'emechando,Ay'ondae;Seria Omosunte,Ontinyi' amariga,Tontiga ntayayekorw' as'ore."
+      ],
+      "number": 3
+    }
+  ]
+}

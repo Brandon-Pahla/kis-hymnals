@@ -1,0 +1,39 @@
+{
+  "number": 286,
+  "language": "xh",
+  "title": "286 O! Ndithwale",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndikhangele kolo suku xa abathengwayo",
+        "BeseZiyon ngezimhlophe, Kwikhaya lovuyo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O Ndithwale, ndithwalel’ eZiyon’;",
+        "Ndithwale undise kumzi wothando;",
+        "Kumzi wabangcwele."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyakuva izihlwele Zithi: Haleluya!",
+        "Ndihlangane nalo mkhosi Ukuvum’ ingoma."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Au! uvuyo! ngalo mini, Kuba isondele,",
+        "Zophela zonk’ iinyembezi, wovuya uMdali."
+      ],
+      "number": 3
+    }
+  ]
+}

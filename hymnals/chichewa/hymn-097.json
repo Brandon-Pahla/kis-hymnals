@@ -1,0 +1,54 @@
+{
+  "number": 97,
+  "language": "ny",
+  "title": "97 - Tamva Mau Omwewo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WE HAVE HEARD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tamva mau omwewo, Atitu Yesuyo;",
+        "Mpulumutsi ndiyedi, Yesuyo, Yesuyo;",
+        "Pita m’midzi monsemo, Dziko lonse limvetu,",
+        "Pita iwe konseko, Mveratu Mbuyeyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Lalikani nanunso, Yesuyo, Yesuyo;",
+        "Kwa ochima onsewo, Amve za mbuyeyo.",
+        "Lalikani m’zisimo, Ndi m’mapiri monsemo;",
+        "Kuti onse amvetu, Yesuyo, Yesuyo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yimbadi za Iyeyo, Amvetu anthuwo;",
+        "Kuti Yesu wafadi, Kalelo, kalelo.",
+        "Atikonda ifetu, Natifera indedi.",
+        "Kuchotsera tchimoli, Yesuyo, Yesuyo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Bukitsani maunso, Konseko, konseko.",
+        "Aitana anthuwo, Ponsepo, ponsepo.",
+        "Kodi wina samvatu? Pitako, pitako ’we,",
+        "Angofuna onsewo, Yesuyo, Yesuyo"
+      ],
+      "number": 5
+    }
+  ]
+}

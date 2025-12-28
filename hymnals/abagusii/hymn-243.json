@@ -1,0 +1,42 @@
+{
+  "number": 243,
+  "language": "guz",
+  "title": "243 Nore Ang' Omonene Bw'enyangi Kagochicha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nore ang' Omonenebw'enyangi kagochicha,Nore ang' Omonenebw'enyangi kagochicha,Ngoch'are, Ngoch'are,Kabe ang'e,Bweboyi'obe ang'erekagocha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ror' Omonenebwe'nyangi ngoch'are,Ror' Omonenebw'enyangi ngocha'are,Ngoch'are, ngoch'arekabe ang'e,Bweboyi'obe ang'Ere kagocha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Chitaya chiano ngwokachire Ere kagocha,Chitaya chiano ngwokachire Ere kagocha,Nachiche bwango,Nachiche bwango,Orotot' Omonenekagocha."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Togende tomorototekagocha, kagocha,Togende tomorototekagocha, kagocha,Togende tomorotot' ekero,Omonene bw'enyangiAgochicha."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Natotere haleluya,kagocha kagocha,Natotere haleluya,kagocha kagocha,Tera huleluya! haleluya!Omonene bwenyangingoch'are."
+      ],
+      "number": 5
+    }
+  ]
+}

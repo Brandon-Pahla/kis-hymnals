@@ -1,0 +1,44 @@
+{
+  "number": 233,
+  "language": "tn",
+  "title": "233 Mpolelelang Polelo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mpolelelang Polelo, Ka Tse Sa Itsiweng,",
+        "Ka Jeso kgalalelong Ka Jeso loratong.",
+        "Lo mpolelele sentle, Jaaka mo ngwanyaneng,",
+        "Ke bokoa ke lapile, Ke mo bofutsaneng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mpolelelang polelo, Mpolelelang polelo,",
+        "Mpolelelang polelo, Ka Jeso loratong."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mpolelelang Ka Bonya’ Ntle Ke Tlhaloganye,",
+        "Thekololo ’kgamatsang, Phodiso ya sebe.",
+        "Mpolelelang gantsi, Ntle ke se lebale,",
+        "Monyo wa phakela o Feta motshegari."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mpolelelang Yone Fa Lo Boifa Gore,",
+        "Ke gatswa ke lefatshe, Kgalalelong ya jo.",
+        "E, fa kgalalelo eo E ntlhabela moyeng,",
+        "Lo mpolelelang gape; Jeso Oa go tlatsa."
+      ],
+      "number": 3
+    }
+  ]
+}

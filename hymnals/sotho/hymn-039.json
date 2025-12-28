@@ -1,0 +1,47 @@
+{
+  "number": 39,
+  "language": "st",
+  "title": "39 Lefika Le Tiileng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke ts’epile Jesu feela, ke Eena lefika la ka;",
+        "Nke ke ka its’epa bo ’na, ke tsepile Eena feela."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesu Kreste ke Lefika,",
+        "Hohle ho hong ho tla feta,",
+        "Hohle ho hong ho tla feta."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lefifi le teng pel’a ka, ke se otsele Morena.",
+        "Lifefo li ngata tseleng, tse ntahlisang le tumelo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lits’episo ke tse tiileng, ho bohle ba mo ts’epileng.",
+        "Leha ke le ea fokolang, Jesu ke sa U ts’epile."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha lekolillo le lla, ke tla ea le ’na ho Eena;",
+        "Ke apesoe khalalelo ke tle ke ts’oane le Eena."
+      ],
+      "number": 4
+    }
+  ]
+}

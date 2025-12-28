@@ -1,0 +1,54 @@
+{
+  "number": 105,
+  "language": "es",
+  "title": "Cristo ha resucitado",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cristo ha resucitado"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo ha resucitado, ¡aleluya!,",
+        "ya la muerte ha vencido, ¡aleluya!",
+        "Con poder y con virtud, ¡aleluya!,",
+        "cautivó la esclavitud. ¡Aleluya!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hasta el polvo se humilló, ¡aleluya!,",
+        "vencedor se levantó, ¡aleluya!",
+        "Hoy cantamos en verdad, ¡aleluya!,",
+        "su gloriosa majestad. ¡Aleluya!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A la muerte se entregó, ¡aleluya!,",
+        "el que así nos redimió, ¡aleluya!",
+        "Hoy en gloria celestial, ¡aleluya!,",
+        "reina en vida triunfal. ¡Aleluya!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo, nuestro Salvador, ¡aleluya!,",
+        "de la muerte vencedor, ¡aleluya!,",
+        "todos te hemos de cantar, ¡aleluya!,",
+        "alabanzas sin cesar. ¡Aleluya!"
+      ],
+      "number": 5
+    }
+  ]
+}

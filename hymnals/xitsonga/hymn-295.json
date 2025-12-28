@@ -1,0 +1,22 @@
+{
+  "number": 295,
+  "language": "ts",
+  "title": "295. CHAYANI MHALAMHALA YA NYIMPI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SOUND THE BATTLE CRY",
+        "1. Chayani Mhalamhala Ya Nyimpi, Nala U Le Kusuhani;",
+        "Yimelan Hosi Hloman Matlharhi, Tiyan Ritweni Ra Yona.",
+        "CHORUS",
+        "Pfukan Masocha Lunghekan, Lunghekani Tiyani Ku Vula Rito; Mahlweni, Mahlwen Hi Tihosana, Kriste Murhangeri Wa Matimba.",
+        "2. A Hi Lwen Na Nala Hi Xivindzi, Ha Swi Tiva Hi Ta Hlula;",
+        "Hawu Na Tlharhi A Swi Vangame, Hi Lwela Leswo Lulama.",
+        "3. We Xikwembu Xa Vanhu Hinkwavo, Hi Pfune, Hi Tsetselele;",
+        "Loko Yona Nyimpi Yi Herile, Hi Ta Mbexiwa Tiharhi."
+      ],
+      "number": 1
+    }
+  ]
+}

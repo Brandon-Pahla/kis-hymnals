@@ -1,0 +1,35 @@
+{
+  "number": 30,
+  "language": "guz",
+  "title": "30 Nter' Obwanchani Bwa Nyasae",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nter' obwanchani bwa Nyasae,'Moik' oy' omeny' ase ndeGoichan' ogokor' omogoko,Nyaber' ebibe biane.'Mosunte noba omonene,otebire nabe nainche'Ng' oborabu 's' ekiriri,'Kieni ribaga rie ribu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ongokirie (ongokirie)as' obororo ('s'obororo)'Ng' obwanchani ('ng'obwanchani)nseri' obwoba (nseri' obwoba)'Ng'a Borabu 's' ekiriri,Kieni ribaga rie ribu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nter' obwanchani bw'Omotoria,'chandeget' as' omote'Bobisi bw'okoba kwaye oo,Nche mbe omosibore'Gacha gotori' abanyaibibe,Chinkoro echi chiarosire'Ng'a 'mogoko 's'okweumia,Kieni ribaga rie ribu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nintere obuya bw'enchili,Ekoreta obuya'Kong'a mogoko n'oborabu,And' onsi ase ndabe'Mboyi' eyanga y'omogok' oye,Kero nde nobwob' obongeBong'a borabu, kiriri,Kieni ribaga rie ribu."
+      ],
+      "number": 4
+    }
+  ]
+}

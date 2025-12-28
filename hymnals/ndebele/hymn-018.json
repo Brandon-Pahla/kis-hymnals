@@ -1,0 +1,65 @@
+{
+  "number": 18,
+  "language": "nd",
+  "title": "18 Mabutho ka Krestu Phambili",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mabutho ka Krestu, Hlomani nonke;",
+        "Nilwe noSathani, Isitha kini.",
+        "Nang’ uMholi wethu, NguYe uKrestu",
+        "‘Nkosi yamakhosi, NguYe uMnqobi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pambili Mabutho, Yanin’ empini",
+        "Nang’ uJes’ uMholi, Ma ni mlandele"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bhekhanini ‘bandla, Ithuthumela;",
+        "Impi ka Sathani, Hlabelelani;",
+        "I yesab’ uJesu, U zoyicitha!",
+        "Ngezwi lokunqoba, I yokwahlulwa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hambisan’ okwempi, ‘Bandla leNkosi;",
+        "Ma si balingise, Abanqobile",
+        "Noko sahlukene, Si semi kanye;",
+        "Lon’ ithemba lethu, Linye kuKrestu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amakhos’ omhlaba, Wonk’ a yabhubha",
+        "Keph’ iBandla lethu, Limi kuKrestu;",
+        "Qhabo! A lahlulwa, Ngeke ladlula",
+        "Wathembis’ uKrestu, Ng’ uMlawuli wethu"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hlanganani bantu, Nebandla lethu",
+        "Vumanini nonke, Si bandla linye",
+        "Ingoma yodumo, YeNkos’ uqobo",
+        "Zi dumise nathi, Nezingelosi"
+      ],
+      "number": 6
+    }
+  ]
+}

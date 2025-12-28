@@ -1,0 +1,75 @@
+{
+  "number": 12,
+  "language": "ve",
+  "title": "12 Hu Na Tshisima",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:335",
+        "AH:135"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Hu na tshisima tshi bvaho, Ha Yesu Murena;",
+        "Vhatshinyi vhe vha tamba vho, Hone malofhani,",
+        "Vhothe vha do bviswa vhutshinyini havho,",
+        "Vhatshinyi vho tanzwiwaho, Hona malofhani."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mutshinyi we a vhambwa, A takala u vhona;",
+        "Mune wa tshone tshisima, A mu tanzwa zwivhi,",
+        "Nangwe ndi na zwivhi, Ndi do di tanzwiwa,",
+        "Mune wa tshone tshisima, A mu tanzwa zwivhi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Rine rothe ri livhuwa, Ngwana yo ri fela;",
+        "Shango lothe li nga tshidzwa, nga yone zwivhini,",
+        "Malofha a maanda, A u tanzwa vhutshinyi,",
+        "Shango lothe li nga tshidzwa, nga yone zwivhini."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tshe nda vhona Iwe Yesu, wo felaho rine;",
+        "Lufuno lwau lu kha nne, U swika lufuni,",
+        "U swika U tshi da, U swika U tshi da,",
+        "Lufuno lwau lu kha nne, U swika lufuni."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Yesu U nndugisele-vho, vhudzulo tadulu;",
+        "Nangwe zwi songo mpfanela, Iwe wo no mpfela,",
+        "Wo mpfulufhedzisa, Na vhutshilo vhuswa,",
+        "Nangwe zwi songo mpfanela, Iwe wo no mpfela."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "6. Ndi na luimbo lwavhudi, Ndi renda u tshidzwa;",
+        "Nga maanda awe Murena, Ndo tanzwiwa zwivhi,",
+        "Ndi nga we a lovha, A vuwa vhafuni,",
+        "Nga maanda awe Murena, Ndo tanzwiwa zwivhi."
+      ],
+      "number": 7
+    }
+  ]
+}

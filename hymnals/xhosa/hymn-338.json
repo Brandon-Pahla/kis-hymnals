@@ -1,0 +1,37 @@
+{
+  "number": 338,
+  "language": "xh",
+  "title": "338 Moya Oyi-Ngcwele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Moya oyi-Ngcwele, Yiza phezu kwethu.",
+        "Zusikhanyisele Intliziyo zethu.",
+        "Siyawalahleka Singakhatshwa nguwe.",
+        "Nanku sesibheka Ngentliziyo kuwe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moya oyi-Ngcwele, Yiza phezu kwethu.",
+        "Mausityhilele u-Mkhululi wethu.",
+        "Mausikhokele Enyaweni zaKho.",
+        "Mausingqinele Uxolelo lwaKho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moya oyi-Ngcwele, Yiza phezu kwethu.",
+        "Zusingcwalisele Intliziyo zethu,",
+        "Nguwe umthembisi Ngokwase-Nkosini.",
+        "Nguwe umvuyisi Ngokwasezulwini."
+      ],
+      "number": 3
+    }
+  ]
+}

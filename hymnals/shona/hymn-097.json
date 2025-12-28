@@ -1,0 +1,47 @@
+{
+  "number": 97,
+  "language": "sn",
+  "title": "97 Jesu Unoponesa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tanzwa kunakisisa, Jesu aponesa",
+        "Iro soko raura, Jesu aponesa",
+        "Ziwisa nyika dzese, Kumhiri’yo kwenyanza",
+        "Tenzi anotituma, Jesu aponesa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tumiranyi panyanza, Jesu aponesa",
+        "Udzanyi vanyangadzi, Jesu aponesa",
+        "Imbanyi’vo zvitsuwa, Kana vari panyanza",
+        "Pasi richazorinzwa, Jesu aponesa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Imbanyi mudambudzo, Jesu aponeswa",
+        "Ngeupenyu nerufo, Jesu aponeswa",
+        "Imbanyi nekupfawa, Mwoyo unoda mutsa",
+        "Imbiranyi paguva, Jesu aponeswa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ipa inzwi pamweya, Jesu aponesa",
+        "Kuti ndudzi dzizoda, Jesu aponeswa",
+        "Daidza kuponeswa, Mumakomo neninga",
+        "Rwiyo rwekukurira, Jesu aponeswa"
+      ],
+      "number": 4
+    }
+  ]
+}

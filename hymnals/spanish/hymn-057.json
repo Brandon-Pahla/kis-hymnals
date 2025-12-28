@@ -1,0 +1,55 @@
+{
+  "number": 57,
+  "language": "es",
+  "title": "Mi Dios me ama",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Mi Dios me ama"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mi Dios me ama, él me ha salvado;",
+        "mi Dios me ama, él me ama a mí."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Y lo repito: Mi Dios me ama,? mi Dios me ama,",
+        "él me ama a mí."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cautivo estuve en el pecado;",
+        "cautivo estuve, sin Salvador."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Envió a Cristo para librarme;",
+        "envió a Cristo y me libró."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me ha invitado por su Palabra;",
+        "me ha invitado con tierno amor."
+      ],
+      "number": 6
+    }
+  ]
+}

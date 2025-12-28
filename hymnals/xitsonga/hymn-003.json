@@ -1,0 +1,24 @@
+{
+  "number": 3,
+  "language": "ts",
+  "title": "3. HI TA VONANA HI MAHLO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "FACE TO FACE WITH MY SAVIOUR",
+        "1. Hi Ta Vonana Hi Mahlo, Na Yena Hosi Yesu;",
+        "N’ta Tsakela Ku N’wi Vona, Yesu La Ndzi Feleke.",
+        "CHORUS",
+        "Hi Ta Vonana Hi Mahlo, Ndzhaku ka Tinyeleti, Eku Kwetsimeni Kakwe, Hi N’wi Vona Hi Mahlo.",
+        "2. Sweswi Ndzi Vona Hi Tsandze, Leri Ndzi Sirhelaka,",
+        "Ra Ta Siku Leronghasi, Ra Ku Kwetsima Kakwe.",
+        "3. Ndzi Ta Tsaka Ku N’wi Vona, Ku Ta Hela Maxangu,",
+        "Tindlela To Homboloka, Ti Ta Lulamisiwa.",
+        "4. Hi Ta Vonana Hi Mahlo, Na Yena Mukutsuri,",
+        "Hi Ta Vonana Hinkweru, Na Yena Muponisi."
+      ],
+      "number": 1
+    }
+  ]
+}

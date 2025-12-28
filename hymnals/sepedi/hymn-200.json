@@ -1,0 +1,50 @@
+{
+  "number": 200,
+  "language": "nso",
+  "title": " 200  MOKGETHWA! MOKGETHWA! MOKGETHWA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 200  MOKGETHWA! MOKGETHWA! MOKGETHWA",
+        "AH 30 CH 73",
+        "HOLY, HOLY HOLY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kgethwa! Kgethwa! Kgethwa!",
+        "Morena Modimo, E sa le",
+        "Mesong re tlo G'opelela,",
+        "Kgethwa! Kgethwa! Kgethwa!",
+        "O mogau le maatla,",
+        "O Modimo le ka bosafelego;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kgethwa! Kgethwa! Kgethwa!",
+        "Mangeloi tumišong, A lahlela",
+        "Fase mphapahlog'a ona,",
+        "Dikete-kete di khunama pel'a 'Go,",
+        "Wena o gona ka bosafelego;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kgethwa! Kgethwal Kgethwa!",
+        "Le mo leswiswing, Le ge",
+        "Mahlo 'a batho a sa bone,",
+        "Ga go e mongwe e mokgethwa ke wena,",
+        "Maatleng, leratong o phethagetše;"
+      ],
+      "number": 4
+    }
+  ]
+}

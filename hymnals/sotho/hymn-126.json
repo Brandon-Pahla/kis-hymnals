@@ -1,0 +1,46 @@
+{
+  "number": 126,
+  "language": "st",
+  "title": "126 Ke Pholositsoe.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ho teng pina ee ke ’ratang, ha ke pholositsoe;",
+        "Ea ’Moloki Morena ’ka ha ke pholositsoe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ha ke pholositsoe, ha ke pholositsoe ke khanye bitsong la Hae’",
+        "Ha ke pholositsoe ke tle ke halaletsoe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kreste O teng Ea nkholisang ha ke pholositsoe,",
+        "Ke tla etsa thato ea Hae Ha ke pholositsoe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke na le paki ee tiileng, ha ke pholositsoe,",
+        "Ea lelekang pelaeo, ha ke pholositse."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke lokiselitsoe lehae ha ke pholositsoe,",
+        "Ke tla lula ka ho sa ’eng-kae ha ke pholositsoe."
+      ],
+      "number": 4
+    }
+  ]
+}

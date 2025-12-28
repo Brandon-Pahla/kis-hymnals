@@ -1,0 +1,39 @@
+{
+  "number": 134,
+  "language": "nd",
+  "title": "134 Uthando Olumangalisayo Luka Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Endaweni ephakeme, Umoya wami wobonga",
+        "Nguban’ ongasho kwenele; Ngalo uthando luka Jesu?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Loluthando, luyinqaba, Lona oluka Jesu;",
+        "Luyamangalisa, lona, Uthando luka Jesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lunokuthul’ ebusuku, Nokukhany’ ebumnyameni.",
+        "Lungumuthi kubuhlungu, Lona uthando luka Jesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yithemba lentethelelo, Luyinsika nxa ngi wayo;",
+        "Nxa ngi fa noma ngi phila Yilo uthando luka Jesu."
+      ],
+      "number": 4
+    }
+  ]
+}

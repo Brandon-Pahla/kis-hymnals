@@ -1,0 +1,55 @@
+{
+  "number": 311,
+  "language": "fr",
+  "title": "Ô Seigneur, dont l'amour...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Seigneur, dont l'amour immense",
+        "Nourrit tout être sous les cieux,",
+        "Tu nous donnas, dans ta clémence,",
+        "Des commandements précieux.",
+        "Avec amour, persévérance,",
+        "Nous les gardons d'un cœur joyeux."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ton joug n'est pas un esclavage;",
+        "Ta loi fait tout notre bonheur;",
+        "Notre foi saisit l'héritage",
+        "Que ta croix mérite au pécheur.",
+        "Tu nous gardes pendant l'orage,",
+        "Tu fais cesser toute douleur."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si l'ennemi vient, plein d'envie,",
+        "Semer d'écueils notre chemin,",
+        "C'est ton bras qui garde la vie",
+        "De tes enfants, chaque matin,",
+        "Avec ardeur, notre âme crie :",
+        "Jésus, sois mon secours divin !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Par ton Esprit, fais-nous renaître,",
+        "Et remplis-nous d'humilité.",
+        "De nos péchés, fais disparaître",
+        "La trace, en ta grande bonté !",
+        "Nous te consacrons tout notre être,",
+        "Pour vivre en toi l'éternité."
+      ],
+      "number": 4
+    }
+  ]
+}

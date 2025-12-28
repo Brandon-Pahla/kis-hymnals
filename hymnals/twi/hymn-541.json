@@ -1,0 +1,37 @@
+{
+  "number": 541,
+  "language": "tw",
+  "title": "'W'ra, Kasa Ky'rɛ Me Na Mede",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, kasa ky'rɛ me na mede",
+        "Wo nnč a nkwa wom no akasa;",
+        "Sɛ Wohwehwɛm' no, ma me nso",
+        "Menhwehwɛ Wo mma a wɔay'ra."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, di m'anim sɛ 'bɛyɛ a",
+        "Mɛkyerɛ akwantofo kwan;",
+        "'W'ra, mam' 'duan sɛ metum' ama",
+        "Wɔn a ɔkɔm de wɔn mana."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hyɛ me den, na b'rč a migyina",
+        "Botan no so, yɛ den Wo mun',",
+        "Matumi atrɛw dɔ basam'",
+        "Atwe wɔn a wɔreko no."
+      ],
+      "number": 3
+    }
+  ]
+}

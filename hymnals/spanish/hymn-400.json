@@ -1,0 +1,76 @@
+{
+  "number": 400,
+  "language": "es",
+  "title": "Castillo fuerte es nuestro Dios",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Castillo fuerte es nuestro Dios"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Castillo fuerte es nuestro",
+        "Dios;",
+        "defensa y buen escudo.",
+        "Con su poder nos librará",
+        "en este trance agudo.",
+        "Con furia y con afán",
+        "acósanos Satán.",
+        "Por armas deja ver",
+        "astucia y gran poder;",
+        "cual él no hay en la tierra."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Luchar aquí sin el Señor,",
+        "cuán vano hubiera sido.",
+        "Mas por nosotros pugnará",
+        "de Dios el Escogido.",
+        "¿Sabéis quién es? Jesús,",
+        "el que venció en la cruz;",
+        "Señor de Sebaoth,",
+        "omnipotente Dios,",
+        "él triunfa en la batalla."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aun cuando estén demonios",
+        "mil",
+        "prontos a devorarnos,",
+        "no temeremos, porque Dios",
+        "vendrá a defendernos.",
+        "Que muestre su vigor",
+        "Satán, y su furor;",
+        "dañarnos no podrá,",
+        "pues condenado está",
+        "por la Palabra santa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sin destruir la dejará,",
+        "aunque mal de su grado:",
+        "es la Palabra del Señor",
+        "que lucha a nuestro lado.",
+        "Si llevan con furor",
+        "los bienes, vida, honor,",
+        "no habremos de temer;",
+        "todo ha de perecer,",
+        "de Dios el reino queda."
+      ],
+      "number": 5
+    }
+  ]
+}

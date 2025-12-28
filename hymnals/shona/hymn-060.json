@@ -1,0 +1,47 @@
+{
+  "number": 60,
+  "language": "sn",
+  "title": "60 Rufaro Rwemwoyo Yinoda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu rufaro rwe-mwoyo,",
+        "Tsime reupenyu hwedu",
+        "Tinosiya zvepasi’po",
+        "Todzokera kuna Jesu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chingwa cheupenyu hwedu",
+        "Tinoda kugutswa ndimwi",
+        "Tinomwa mutsime renyu",
+        "Nyota yemwoyo ipere"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tinoda mugare nesu,",
+        "Kwese uko tinoenda",
+        "Tofara nemutsa wenyu",
+        "Ngerudawiro tosimba"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, Jesu mutibatsire",
+        "Mutiitenyi tipenye",
+        "Dzinga dima rechitema",
+        "Penyeranyi pasi pese"
+      ],
+      "number": 4
+    }
+  ]
+}

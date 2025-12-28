@@ -1,0 +1,47 @@
+{
+  "number": 378,
+  "language": "tw",
+  "title": "'W'ra No Se: \"Kɔla M'asɛmpa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra no se: \\\"Kɔka M'asɛmpa;",
+        "Ma wiase ny'naa Me dom no;",
+        "Nea ɔtwer' M'asɛm benya nkwa,",
+        "Nea ɔpo M'asɛm bedi fɔ\\\"."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mɛda mo soma no adi,",
+        "Na monam nnwuma a Mayɛ,",
+        "Ne mo nsɛnky'rɛnne so aky'rɛ",
+        "Sɛ M'asɛmpan' yɛ nokware."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\\\"Monky'rɛ amn ny'naa M'ahyɛde;",
+        "Me ne mo wɔ hɔ kosi awiei,",
+        "Wɔde tumi ny'naa ama Me;",
+        "Mitumi sɛe, san kora nso\\\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔkasae, na hann hy'rɛn Ne so;",
+        "ɔnam munumkum mu kɔɔ s'ro;",
+        "Wokyinkyin aman so kɔkaa",
+        "'W'ra a ɔkɔɔ s'ro no dom ky'rɛe."
+      ],
+      "number": 4
+    }
+  ]
+}

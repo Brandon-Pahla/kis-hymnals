@@ -1,0 +1,28 @@
+{
+  "number": 353,
+  "language": "guz",
+  "title": "353 Nimenye As' Egetunwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nimenye as' egetunwa,As' omobaso 'muya;'Mochie bw'obuya obonge,Aase ay'omogambi.Ens' ere n' omoik' omuya,Ebisicha bikwama,Ase engegu y'ensoko,bitari kwoma rinde."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Natonywe 'mache 'chinsoko,Ense 'nyia toramenye;Amache ay'obogimaTonywe toisaneke;Titokoba na erang'o,Gose 'gwechanda kondeGatwanyorire emonga,Etari gosareka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Moinyore 'mosalaba,'Monene abambetwe,Ase emechando y'ense,Atworokie enchera;Monene 'torangeirie,Yoimokie 'mosalaba,Nakoroseirie 'nchera,Oraike Igoro."
+      ],
+      "number": 3
+    }
+  ]
+}

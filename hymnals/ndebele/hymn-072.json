@@ -1,0 +1,39 @@
+{
+  "number": 72,
+  "language": "nd",
+  "title": "72 Ku Qalile Ukwahlulela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ku qalile uKwahlulwa phezulu, Ko phenyisiswa kunzulu;",
+        "Kuhlolwe okubi nokuhle, iNkosi izokwahlula."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si zokuma si thini na? Si zokuma si thini na?",
+        "Si zokuma si swele Yena, Ozakusimela thina."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Umsebenzi woqala kwabafayo, Ku landel’ abaphilayo",
+        "Ku zolahlwa abanecala. NoMenzi abamdela"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, si zothini sekuhlolisiswa! Konke okuyinkohliso",
+        "Sekuvela, se ku si lahla, Si ngebe si sadlula."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 247,
+  "language": "ve",
+  "title": "247. Lidza Tsimbi Dza tadulu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Lidzani tsimbi, duvha la dakalo,",
+        "Hu vhe na dakalo tadulu.",
+        "Khotsi a mu tanganedze ndilani,",
+        "O netaho a kuvhatedzwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Vharunwa vha ri ndi Mukhethwa,",
+        "Na mbila dzi ri ndi Mukhethwa,",
+        "Ndi magogo, vha nga naledzi nandi,",
+        "Vha imba nyimbo dza u tshidzwa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Lidzani tsimbi, duvha la dakalo,",
+        "nwana o xelaho o vhuya;",
+        "Na mbilu yo no furalela zwivhi.",
+        "Mbilu i ngaho nwana muswa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Lidzani tsimbi, vha de munyanyani,",
+        "Na vharunwa vha imbelele,",
+        "Ambani nga ha mafhungo Madifha,",
+        "Ngauri o bebwa nga huswa."
+      ],
+      "number": 4
+    }
+  ]
+}

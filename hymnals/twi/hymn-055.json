@@ -1,0 +1,27 @@
+{
+  "number": 55,
+  "language": "tw",
+  "title": "Yesu 'Guanhwɛfo Pa, Tie Me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu 'Guanhwɛfo pa, tie me,",
+        "Hy'ra Wo 'guammaa 'nadwo yi;",
+        "Bɛtra me nkyɛn esum no mu;",
+        "Wɛn me nna kosi 'dekyee."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo basa 'wowaw me nnɛ ny'naa,",
+        "Meda W'ase ne banbɔ;",
+        "Woama me ntama ne aduan,",
+        "Tie m'anwummere mpaebɔ."
+      ],
+      "number": 2
+    }
+  ]
+}

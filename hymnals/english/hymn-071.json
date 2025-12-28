@@ -1,0 +1,51 @@
+{
+  "number": 71,
+  "language": "en",
+  "title": "71 Is My Name Written There?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lord, I care not for riches, Neither silver nor gold;",
+        "I would make sure of heaven,",
+        "I would enter the fold; In the book of thy kingdom,",
+        "With its pages so fair,",
+        "Tell me, Jesus, my Saviour,",
+        "Is my name written there?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Is my name written there,",
+        "On the pages white and fair?",
+        "In the book of thy kingdom,",
+        "Is my name written there?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lord, my sins they are many,",
+        "Like the sands of the sea;",
+        "But thy blood, O my Saviour is sufficient for me;",
+        "For thy promise is written , In bright",
+        "letters that glow, “Though your sins be as scarlet,",
+        "I will make them like snow.”"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O that beautiful city, With its mansions of light,",
+        "With its glorified beings In pure garments of white;",
+        "Where no evil thing cometh, To despoil what is fair,",
+        "Where the angels are watching,",
+        "Is my name written there?"
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 514,
+  "language": "tw",
+  "title": "Yɛn Nkwa Wura Ne Yɛn",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn nkwa Wura ne yɛn nkwagye Nyankopɔn,",
+        "'Nadwo ns'romma ne aman anidaso;",
+        "Yɛ aso na tie W'asafo adesrɛ,",
+        "'Tumfo Nyankopɔn."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Woboa faakō a wiase akobe ntumi,",
+        "Wutum' gye nkwa b'rč a bɔn' huhu hyɛ yɛn so",
+        "'Wura, owu rentum' nny'na Wo botan so,",
+        "Ma yɛn W'asomdwoe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma yɛn komam 'somdwoe wɔ 'dwemmɔne so,",
+        "Ma 'somdwoe wɔ 'nuanom ntam W'asafo mu,",
+        "Ma 'somdwoe brč a wiase redi ako yi,",
+        "'Gyenkwa, soma yɛn."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Boa yɛn kosi sɛ yɛbɛpam tamfo no,",
+        "Fa Wo nokwar' ma wɔn na wɔanya faf'ri;",
+        "Ma 'sase yi 'somdwoe, na yɛko wie a",
+        "YɛanyaW' s'ro de no."
+      ],
+      "number": 4
+    }
+  ]
+}

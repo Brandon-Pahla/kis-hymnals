@@ -1,0 +1,31 @@
+{
+  "number": 257,
+  "language": "xh",
+  "title": "257 Ukuqina Okweliwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Liwa eliqinileyo, Limi njengentaba,",
+        "Woma njalo umphefumlo Othemba iNkosi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akukho ntaba nandonga Zinqabe njengaWe;",
+        "Ezo ngalo zinothando Zigcina ingcwele."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bawo benzel’ ukulunga Abakuthandayo,",
+        "Ababambe inyaniso, Bagcina umthetho."
+      ],
+      "number": 3
+    }
+  ]
+}

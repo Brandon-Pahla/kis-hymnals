@@ -1,0 +1,37 @@
+{
+  "number": 153,
+  "language": "st",
+  "title": "153 Molebeli Mpolelle.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Morena ha ke rapelle tsa ka moso,",
+        "Ke se ke ka u siteloa hona joale;",
+        "Ke se ke ka bua ke sa inahana,",
+        "Bea selebeli molomong kajeno."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tla khothalla ts’ebetso ke rapele,",
+        "Ke tla ikokobetsa hona kajeno;",
+        "Phakisa ho mpha matla ke u hlonephe,",
+        "Ke lumele ho ineela hona joale."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Me leha bophelo ba ka bo ka feta,",
+        "Lits’episo tsa Hao li ke li nts’ehetse;",
+        "’Me le tsa ka moso ha ke li rapelle,",
+        "Nts’ehetse, nkhule Morena hona joale."
+      ],
+      "number": 3
+    }
+  ]
+}

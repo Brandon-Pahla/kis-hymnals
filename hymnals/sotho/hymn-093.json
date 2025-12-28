@@ -1,0 +1,38 @@
+{
+  "number": 93,
+  "language": "st",
+  "title": "93 Sekolo Sa Sabbatha Se Monate",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sekolo see sa Sabbatha,Ho ’na s’a rateha;",
+        "Pelo ea ka h’lokomela,Tsatsi la Sabbatha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sabbatha.... e ntle, Sabbata...e ntle,",
+        "Pelo ea ka hlokomela, Tsatsi la Sabbatha."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka na ka qala ho bona, Tsela ea bophelo;",
+        "Ka ba ka bona ho hotle, Ka bona le lehae."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Teng Jesu O ntse A eme, A re e tla ho ’na,",
+        "Hore ke tle ke mo khethe, Le Sabbatha ea Hae."
+      ],
+      "number": 3
+    }
+  ]
+}

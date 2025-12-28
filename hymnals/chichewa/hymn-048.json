@@ -1,0 +1,58 @@
+{
+  "number": 48,
+  "language": "ny",
+  "title": "48 - Chimwemwe Posachedwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O THERE’LL BE JOY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Chimwemwe podzatha ntchitoyi, Podzasonkhana okunkha,",
+        "Alikudza ndi zipatso, Ku Yerusalemuko."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kudzakhala chimwemwedi,",
+        "Chimwemwe cha nthawi zonse,",
+        "Chifukwa nthawi yafika,",
+        "Yosonkhana okunkha."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "(Bass and Tenor):",
+        "Chimwemwe posachedwa,",
+        "Chimwemwe cha muyaya,",
+        "Chifukwa nthawi yafika,",
+        "Yosonkhana okunkha."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tidzayimba nyimbo zabwino, Tidzayamika mokondwa,",
+        "Tidzatama Khristu Mfumu, Mu mzinda watsopano."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Chimwemwe chitidikirako, Ku malo a chikhuduwo;",
+        "Yesu ali kuwakonza, Mu Mzinda watsopano."
+      ],
+      "number": 5
+    }
+  ]
+}

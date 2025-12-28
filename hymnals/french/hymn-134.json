@@ -1,0 +1,62 @@
+{
+  "number": 134,
+  "language": "fr",
+  "title": "Je chanterai le nom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Je chanterai le nom du Seigneur",
+        "Toujours et partout.",
+        "Oui, je veux jouer,",
+        "Je veux chanter pour le Seigneur",
+        "Et, de tout mon cœur,",
+        "Lui rendre grâce.",
+        "Pour sa grandeur,",
+        "Pour sa beauté, pour ses bienfaits,",
+        "Toute ma vie je chanterai son nom."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il est mon soutien,",
+        "Ma forteresse, mon appui,",
+        "Il est mon rempart et mon refuge.",
+        "Il est le rocher sur lequel",
+        "J’ai fondé ma vie,",
+        "Il me protège",
+        "Et j’ai confiance en Lui."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il m’a délivré",
+        "Des ennemis qui m’encerclaient",
+        "En criant",
+        "Comme des chiens féroces.",
+        "Il m’a guéri,",
+        "Il m’a tiré de mon malheur,",
+        "Mon cœur exulte et je lui dis : merci."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amis, venez !",
+        "Criez de joie pour le Seigneur,",
+        "Allez à lui en rendant grâce.",
+        "Ne fermez pas",
+        "Votre cœur à son amour,",
+        "Chantez pour lui",
+        "Et bénissez son nom."
+      ],
+      "number": 4
+    }
+  ]
+}

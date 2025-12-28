@@ -1,0 +1,24 @@
+{
+  "number": 599,
+  "language": "pt",
+  "title": "Paz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Paz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Paz eu preciso sentir;",
+        "Paz divinal.",
+        "Só esta paz transmitir;",
+        "Dom real."
+      ],
+      "number": 2
+    }
+  ]
+}

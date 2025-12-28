@@ -1,0 +1,57 @@
+{
+  "number": 260,
+  "language": "tum",
+  "title": " 260 Dambo La Byula",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 260 Dambo La Byula",
+        "VALE OF BEULAH"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ndapitira kusika kwa dambo la m'mapopa,",
+        "\"Mwe ndi dambo lakutowa zina lake Byula",
+        "Ndipo ndasangaso mose mwamera maluwa,",
+        "Muponoski lyo mwene wakwenda na ine."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dambo ByuLa, dambo ByuLa,",
+        "ndakunditowera,",
+        "Charu cha phangano",
+        "nkhuchiwonera pataLi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Palije mfwiri wakujandizga nthowa yane,",
+        "Ungweru wauchindami ndiwo ukuwala;",
+        "Kuchanya wakundimbira sumu zakunczga,",
+        "Wakukowerana makora kund pokerera."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "NKhurutako na chimwemwe ku msumba utuwa,",
+        "Chimwemwe chikungweruska nthowa nyengo zose,",
+        "Ndamujula vipata vya msumba wakuwala,",
+        "WSKambo uwo wam'ndifiska m'msumba wa chitemwa."
+      ],
+      "number": 4
+    }
+  ]
+}

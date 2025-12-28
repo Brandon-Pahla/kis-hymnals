@@ -1,0 +1,56 @@
+{
+  "number": 137,
+  "language": "en",
+  "title": "137 Give Me Jesus.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Take the world, but give me Jesus,",
+        "All its joys are but a name!",
+        "But His love abideth ever,",
+        "Through eternal years the same."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Oh, the heights and depth of mercy!",
+        "Oh, the length and breath of love!",
+        "Oh, the fullness of redemption,",
+        "Pledge of endless life above!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Take the world, but give me Jesus,",
+        "Sweetest comfort of my soul;",
+        "With my Saviour watching o’er me,",
+        "I can sing though billows roll."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Take the world, but give me Jesus,",
+        "Let me view His constant smile;",
+        "Then throughout my pilgrim journey,",
+        "Light will cheer me all the while."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Take the world, but give me Jesus,",
+        "In His cross my trust shall be;",
+        "Till, with clearer, brighter vision,",
+        "Face to face my Lord I see."
+      ],
+      "number": 4
+    }
+  ]
+}

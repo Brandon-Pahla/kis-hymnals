@@ -1,0 +1,17 @@
+{
+  "number": 211,
+  "language": "fr",
+  "title": "Prosternez-vous",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Prosternez-vous devant votre Roi.",
+        "Adorez-le de tout votre cœur.",
+        "Faites monter vers sa majesté",
+        "Des chants de gloire pour votre Roi des rois !"
+      ],
+      "number": 1
+    }
+  ]
+}

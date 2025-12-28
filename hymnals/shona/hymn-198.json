@@ -1,0 +1,56 @@
+{
+  "number": 198,
+  "language": "sn",
+  "title": "198 Hama Yeidi Ndi Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Shamwari kwayo ndi Jesu",
+        "Kana uri mumadambudzo",
+        "Ucharapa mwoyo zve, Uchakupa masimba",
+        "O hama yeidi ndiJesu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hama yeidi ndiJesu, Hama yeidi ndiJesu",
+        "Anozokusimbisa, Anonzwa wodaidza",
+        "O hama yeidi ndiJesu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hama yandawana ndiye Jesu!",
+        "Achaunza runyararovo",
+        "Kutsamira kwaari, Handichazotyi chiro",
+        "O hama yeidi ndiJesu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana ndifambe muurombo",
+        "Nemuchando chemuJordani",
+        "Handizombotyi chiro, Muponesi aripo",
+        "O hama yeidi ndiJesu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana tovungana kumusha,",
+        "Nevadaviri vari mberi",
+        "Tichaimba parwizi, Tichamukudza Tenzi",
+        "O hama yeidi ndiJesu"
+      ],
+      "number": 5
+    }
+  ]
+}

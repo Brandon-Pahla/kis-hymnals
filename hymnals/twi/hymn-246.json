@@ -1,0 +1,44 @@
+{
+  "number": 246,
+  "language": "tw",
+  "title": "Guammaa No Fata Ampa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Guammaa no fata ampa,",
+        "'Guammaa no fata ampa;",
+        "ɔfata, 'Guammaa no a Wokum no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "'Nuonyam, haleluya!",
+        "KamfoN' haleluya!",
+        "'Nuonyam, haleluya!",
+        "Nka 'Guammaan'."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Agyankwa, W'ahenni mm'ra,",
+        "Di bɔne tumi so nim;",
+        "Fa Wo mfe apem no bra,",
+        "Kronkronni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Saa na yɛbɛte Wo nka,",
+        "Adɔ Wo, asom Wo daa,",
+        "Kosi sɛ yebehu Wo, Wɔ Sion."
+      ],
+      "number": 3
+    }
+  ]
+}

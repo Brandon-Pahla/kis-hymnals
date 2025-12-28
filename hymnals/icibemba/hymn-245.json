@@ -1,0 +1,31 @@
+{
+  "number": 245,
+  "language": "bem",
+  "title": "245 - TAKULI ISHINA LIMBI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NO OTHER NAME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Takuli Ishina limbi ilyo ifwe twatemwa,",
+        "Lilasekesha bangeli na baKristu pano nse.",
+        "CHORUS:",
+        "Yesu ... Yesu ... Takuli Ishina limbi.",
+        "Yesu ... Yesu ... Takuli Ishina limbi.",
+        "2. Takuli Ishina limbi lyakutusekelesha;",
+        "Takuli Ishina limbi, Kuti twasekelela.",
+        "3. Ninjishiba nkamumona, Lintu akamoneka;",
+        "No kumfwa, \"Wacita bwino,\" Nkaba no kusekela",
+        "4. Nga afwaya nalabomba, Mwi bala lyakwe muno;",
+        "Ndeti mumpalile fyonse, Mashiwi ne milimo."
+      ],
+      "number": 2
+    }
+  ]
+}

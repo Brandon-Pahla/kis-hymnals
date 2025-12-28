@@ -1,0 +1,38 @@
+{
+  "number": 193,
+  "language": "xh",
+  "title": "193 Mvumele Akulaule",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Uya mphilela-na u-Yesu ngobunyulu? Kule ndlel’ imxinwa wohamba naye?",
+        "Womyeka-na ayithwal’ imithwalo yaKho? Mvumele akulaule."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Okwenz’ ufanelek’ amandl’ akhe; Lokuhlambulul’ igazi lakhe;",
+        "Uthando lwakhe lokuhluthisa. Kanye-ke mvumele akulaule."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unga angakukhulula, Wosabela-ke? Kwa noxolo lokunikela konke?",
+        "Akusindise ungaze uwe-ke? Mvumele akulaule."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unga ungazuz’ indaw’ ekhayeni lakhe? Womcikida-na ke ngayo lendawo?",
+        "Kuyo lenkonzo yakhe wozilahlela-na? Mvumele akulaule."
+      ],
+      "number": 3
+    }
+  ]
+}

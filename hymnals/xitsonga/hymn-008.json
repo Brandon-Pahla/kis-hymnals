@@ -1,0 +1,23 @@
+{
+  "number": 8,
+  "language": "ts",
+  "title": "8. MHALAMHALA YA XIKWEMBU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHEN THE TRUMPET",
+        "1. Mhalamhala Ya Xikwembu Loko Yi Ta Chayiwa, Loko Nkarhi Wu Ta Va Wu Herile,",
+        "Vahlawuriwa Va Ta Hlangana Emapapeni, Loko Va Vitaniwa Nta Va Kona.",
+        "CHORUS",
+        "Loko Va Ta Vitaniwa, Loko Va Ta Vitaniwa, Loko Va Ta Vitaniwa,",
+        "Va Vitaniwa Henhla Nta Va Kona.",
+        "2. Hi Siku Rero Va Ta Pfuxiwa Emasirheni, Va Pfuxiwa Hi Mimiri Leyintshwa,",
+        "Vahlamuriwa Va Ta Ya Hlangana Etilweni, Loko Va Vitaniwa Nta Va Kona.",
+        "3. A Hi Yi Tirheleni Ku Fika Eku Heleni, Hi Tivisa Ta Rirhandzu Ra Hosi,",
+        "Hi Endla Tano Ku Fika Na Kona Eku Feni, Loko Va Vitaniwa Nta Va Kona."
+      ],
+      "number": 1
+    }
+  ]
+}

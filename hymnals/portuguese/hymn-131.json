@@ -1,0 +1,44 @@
+{
+  "number": 131,
+  "language": "pt",
+  "title": "Triunfante Vem Jesus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Triunfante Vem Jesus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Triunfante, glorioso, com a corte angelical,",
+        "Jesus Cristo volve ao mundo sobre nuvem triunfal!",
+        "Aleluia! O Seu reino vem fundar!",
+        "Aleluia! O Seu reino vem fundar!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Em poder e majestade, vamos ver Jesus voltar.",
+        "Mas os ímpios, criminosos, sim, Jesus virá julgar.",
+        "Com espanto, a Jesus verão chegar!",
+        "Com espanto, a Jesus verão chegar!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Honra e glória, aleluia ao Senhor, supremo Rei!",
+        "Coroado, exaltado, vem guiar a Sua grei.",
+        "No teu reino, vem, Senhor Jesus, reinar!",
+        "No teu reino, vem, Senhor Jesus, reinar!"
+      ],
+      "number": 4
+    }
+  ]
+}

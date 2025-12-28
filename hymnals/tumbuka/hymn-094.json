@@ -1,0 +1,59 @@
+{
+  "number": 94,
+  "language": "tum",
+  "title": " 94 Sukulu Ya Pa Sabata.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 94 Sukulu Ya Pa Sabata.",
+        "MY SABBATH HOME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Sukulu ya pa Sabata,",
+        "nkhuyitemwa nadi,",
+        "Mtima wane ukusangwa,",
+        "m'skulu ya Sabata."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "S'kuLu ya (yiweme)",
+        "Sabata (yiweme)",
+        "S'kuLu ya (yiweme)",
+        "Sabata (yiweme)",
+        "Mtima wane ukutemwa",
+        "s 'kuLu ya Sabata."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ndimo nkhamba kumanyira,",
+        "nthowa ya umoyo.",
+        "Ndimo nkhasanga ungweru,",
+        "m'skulu ya Sabata."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Yesu na chitemwa chake,",
+        "wakundichemaso,",
+        "Nakuti ndi mpokelere,",
+        "m'skulu ya sabata."
+      ],
+      "number": 4
+    }
+  ]
+}

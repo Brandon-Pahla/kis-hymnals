@@ -1,0 +1,39 @@
+{
+  "number": 50,
+  "language": "nd",
+  "title": "50 Ku Khona Izwe Elihle",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Li khon’ izwe elihl’ impela, Se si bon’ ukukhanya kwalo;",
+        "uBaba wethu u khona le, U yasakhela izindlu ke."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khona le... Pambili... Sobuthen’ ezweni elihle...",
+        "Khona le... Pambili... Sobuthen’ ezweni elihle..."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si zohlabel’ ezwen’elihle, Ingoma yeNkosi yakhona;",
+        "Inhliziy’ asoze zakhala, Ezweni lelo lokuphumla."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "KuBaba wethu ophezulu; Si zohlokomisa ngodumo;",
+        "Ngale ‘Sipho esing’ uJesu, Imhla yonk’ abe Sibusiso."
+      ],
+      "number": 4
+    }
+  ]
+}

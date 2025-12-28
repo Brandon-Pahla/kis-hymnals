@@ -1,0 +1,48 @@
+{
+  "number": 159,
+  "language": "tn",
+  "title": "159 Morena Ke Go Tlhoka Jang",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Morena Ke Go Tlhoka Jang;",
+        "Lefumeng le boleong;",
+        "Ke ya roroma O nkgoge,",
+        "Nnonotshe O mphe pono."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ka dinako tsotlhe, Morena ke Go tlhoka jang.",
+        "Ka dinako tsotlhe, Mmoloki O ntshegetse."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Ntswese Bopelonomi, Gonne Ke Leofile;",
+        "O nthute bokoa jwa me, Ke rapelela thata."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa O Nkoga Ke Tshedile; Ke Wa Fa Ke Iikanya.",
+        "Tsamaya le nna botshelong, Wena O tsotlhe go nna."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Foo Tsotlhe Tse Di Ka Tlang, Boipelo, Khutsafalo,",
+        "Ke tla nna ke nna go Wena, O ntse O le Monthusi."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 369,
+  "language": "guz",
+  "title": "369 Nomwegene Yeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nomwegene Yeso and' onsi as' ore?;Nar' enkoro yao kera rituko?Nor' omworokigwa? motemo' orore;Nak'Omoika, omonge kegima."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Bogim' obonge, 'bogim' bonge;Erio babe n'obogim' obonge'Bogim' obonge, 'bogim' obonge;Erio nabe n'obogim' obonge."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'S'obwanchani bwaye, orari'erieta,Ri'Omotori'omuya, orwete igoro,Bachenu sasima ase Ring'ana;Rikorw' ogotorek' as' amanyinga."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Inchwo mwegenete, 'gw'okorangeria;Bionsi korw' as' Are, naye moe bo,Yeso nagwanchere Korach'as'Are;Naka'ogosesenigw'okonene."
+      ],
+      "number": 4
+    }
+  ]
+}

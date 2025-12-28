@@ -1,0 +1,40 @@
+{
+  "number": 558,
+  "language": "tw",
+  "title": "N'adebɔ Mu Aba No Nti",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "N'adebɔ mu aba no nti, Yɛda N'ase;",
+        "Amanaman akyɛde nti, Yɛda N'ase;",
+        "Mfuwdɔ, adedua ne 'twa nti,",
+        "Ade nyin b'rč a nnipá ada ne",
+        "'Hiade a 'sase akōra nti Yɛda N'ase."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dwumadi ho katua pa mu, Ne pɛ nyɛ hɔ;",
+        "Mmoá a yɛde ma yɛn yɔnko mu, Ne pɛ nyɛ hɔ;",
+        "Asodė a ɛda yɛn so sɛ",
+        "Yɛboa wɔn a kɔm de wɔn ne",
+        "'W'rɛhowfo, ne nnɔbae kyɛ mu, Ne pɛ nyɛ hɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne Honhom nnɔbae twa no nti, Yɛda N'ase;",
+        "Nnipa ny'naa 'pɛgyade no nti Yɛda N'ase;",
+        "'Nwanwade a ɛbɔ yɛn hu,",
+        "Nokwar' a ɛma yɛn 'hodw'ri,",
+        "Nea 'kyɛn so, 'dɔ a ahu yɛn nti, Yɛda N'ase."
+      ],
+      "number": 3
+    }
+  ]
+}

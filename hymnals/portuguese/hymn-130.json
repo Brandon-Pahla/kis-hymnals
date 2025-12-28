@@ -1,0 +1,56 @@
+{
+  "number": 130,
+  "language": "pt",
+  "title": "O Rei Vindouro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### O Rei Vindouro"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Rei vindouro perto está,",
+        "O mesmo que na cruz morreu.",
+        "Aos justos Ele levará",
+        "Consigo para o Céu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Perto está, perto está,",
+        "Sim, às portas Ele já está;",
+        "Vem depressa, vem depressa!",
+        "Sim, o Rei já perto está."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Da Sua vinda vemos já",
+        "Sinais por toda parte aqui,",
+        "E logo a alva eternal",
+        "Virá pra mim e ti."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O nosso lar então será",
+        "A terra nova, perenal.",
+        "A morte lá não entrará,",
+        "Pois tudo é imortal."
+      ],
+      "number": 5
+    }
+  ]
+}

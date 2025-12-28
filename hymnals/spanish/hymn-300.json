@@ -1,0 +1,65 @@
+{
+  "number": 300,
+  "language": "es",
+  "title": "Lejos de mi Padre Dios",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Lejos de mi Padre Dios"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lejos de mi Padre Dios,",
+        "por Jesús hallado,",
+        "por su gracia y por su amor",
+        "solo fui salvado."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "En Jesús, mi Señor,",
+        "es mi gloria eterna;",
+        "él me amó y me salvó",
+        "en su gracia tierna."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En Jesús, mi Salvador,",
+        "pongo mi confianza;",
+        "toda mi necesidad",
+        "suple en abundancia."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cerca de mi buen Pastor",
+        "vivo cada día;",
+        "toda gracia en ti, Señor,",
+        "halla el alma mía."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Guárdame, Señor Jesús,",
+        "para que no caiga;",
+        "cual sarmiento de la vid,",
+        "vida de ti traiga."
+      ],
+      "number": 6
+    }
+  ]
+}

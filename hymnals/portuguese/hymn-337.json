@@ -1,0 +1,56 @@
+{
+  "number": 337,
+  "language": "pt",
+  "title": "Sou Forasteiro Aqui",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Sou Forasteiro Aqui"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sou forasteiro aqui, em terra estranha estou,",
+        "Do reino lá do Céu embaixador eu sou.",
+        "Meu Rei e Salvador vos manda em Seu amor",
+        "As boas novas de perdão."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Eis a mensagem que nos deu,",
+        "Aquele que por nós morreu.",
+        "Reconciliai-vos já, é ordem que Ele dá,",
+        "Reconciliai-vos já, com Deus!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "É ordem do meu Rei que todo pecador,",
+        "Arrependido já, se volte ao Salvador,",
+        "E salvação terá, pois Cristo prometeu",
+        "Dar o perdão, por Seu amor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No meu eterno lar não haverá temor,",
+        "Nem lutas e aflições, nem mais tristeza ou dor;",
+        "E os redimidos já, ali receberão",
+        "As boas-vindas do Senhor."
+      ],
+      "number": 5
+    }
+  ]
+}

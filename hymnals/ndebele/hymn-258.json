@@ -1,0 +1,37 @@
+{
+  "number": 258,
+  "language": "nd",
+  "title": "258 Yinye Inkolo Nomthetho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yinye inkolo noMthetho",
+        "Hhay’ iz’nkolo eziningi",
+        "Inkol’ eme kuyi njongo",
+        "Emthethweni ingasuki"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, Nkosi, sithethelele",
+        "Siwonil’ uMthetho wAkho",
+        "Wona muhle uphelele",
+        "Kepha siwonil’ unjalo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thethelel’ inkohlakalo",
+        "Usus’ amabal’ amabi",
+        "Sisize sibamb’ uMthetho",
+        "Ngay’ iNdodana singoni"
+      ],
+      "number": 3
+    }
+  ]
+}

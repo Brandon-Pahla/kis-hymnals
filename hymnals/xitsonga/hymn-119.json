@@ -1,0 +1,25 @@
+{
+  "number": 119,
+  "language": "ts",
+  "title": "119. VONA GANDLATI RO TSHWUKA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O NOW I SEE THE CRIMSON WAVE",
+        "1. Vona Gandlati Ro Tshwuka, Xihlovo Xo Enta;",
+        "Ri Pfa Mbangeni Ya Yesu, Yena Muponisi",
+        "CHORUS",
+        "Xihlovo Lexi Hlantswaka, Ndza Nghena, Ndzi Basisiwa; Xikwembu A Xi Khensiwe,",
+        "Mina Sweswi Ndza Hlantswiwa.",
+        "2. Vona Swivumbiwa Swintshwa, Swi Hlantswe Hi Ngati;",
+        "Ntumbuluko Lowa Khale, Wu Herisiwile.",
+        "3. Ndzi Ya Eku Vonakalen, Kule Ni Vudyoho;",
+        "Na Mbilu Yanga Yo Tenga, Xiluvelo Xakwe.",
+        "4. Ta Hlamarisa Tintswalo, Loko Hi Hlantswiwa; Xihlamariso Xa Yesu,",
+        "Muferi Wa Hina."
+      ],
+      "number": 1
+    }
+  ]
+}

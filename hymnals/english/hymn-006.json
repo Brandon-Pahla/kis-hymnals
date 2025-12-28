@@ -1,0 +1,56 @@
+{
+  "number": 6,
+  "language": "en",
+  "title": "6 Watch Ye Saints",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Watch, ye saints, with eyelids waking;",
+        "Lo! The powers of heeav’n are shaking;",
+        "Keep your lamps all trimm’d and burning,",
+        "Ready for your Lord’s returning."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lo! He comes, lo! Jesus comes;",
+        "Lo! He comes, He comes all glorious!",
+        "Jesus comes to reign victorious,",
+        "Lo! He comes, yes, Jesus comes!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kingdoms at their base are crumbling,",
+        "Hark! His chariot wheels are rumbling;",
+        "Tell, O tell of grace abounding,",
+        "Whilst the seventh trump is sounding."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nations wane, tho’ proud and stately;",
+        "Christ his kingdom hasteneth greatly,",
+        "Earth her latest pangs is summing;",
+        "Shout, ye saints, your Lord is coming."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sinners, come, while Christ is pleading;",
+        "Now for you he’s interceding;",
+        "Haste,ere grace and time diminished,",
+        "Shall proclaim the mystery finished."
+      ],
+      "number": 4
+    }
+  ]
+}

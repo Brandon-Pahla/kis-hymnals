@@ -1,0 +1,57 @@
+{
+  "number": 533,
+  "language": "tw",
+  "title": "Anka Manya Gyidė a Enhim",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Anka manya gyidė a enhim",
+        "B'rč a tamfo hyɛ me so.",
+        "Nea ɛrenwosow da Ohia biara anim,",
+        "Ohia ne yaw anim, Ohia ne yaw anim."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ mpire gu me so mpo a",
+        "Ͻrensi apini, Na 'w'rɛhow ne ɔyaw",
+        "Bere biara mu no, Ͻtwere ne Nyame;",
+        "Ͻtwere ne Nyame."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gyidi a ɛhyerɛn kɛse",
+        "B're a ahum tu mpo Nea mmusu bere mu,",
+        "Ennim suro biara, Ennim 'kyinnye sum mu,",
+        "Ennim 'kyinnye sum mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nea wiase 'bufuw ntum' mpusuw,",
+        "Na entie ne fɛwdi; Nea bɔn' po rentumi",
+        "Nyiri nkata so da, Hwee ntumi nnaadaa no;",
+        "Hwee ntumi nnaadaa no."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra ma me saa gyidi yi bi,",
+        "Na nea 'besi biara Mɛka s'ro dɛ kronkron",
+        "No bi ahwɛ fam ha; Daapem fie hɔ no,",
+        "Daapem fie hɔ de no."
+      ],
+      "number": 5
+    }
+  ]
+}

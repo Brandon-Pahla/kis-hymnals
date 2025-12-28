@@ -1,0 +1,68 @@
+{
+  "number": 1,
+  "language": "tum",
+  "title": " 1 Iwe Mlinda Lizga Mbata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 1 Iwe Mlinda Lizga Mbata",
+        "WATCHMEN, BLOW THE GOSPEL TRUMPET"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Iwe mlinda lizga mbata",
+        "chenjezga wanthu wose,",
+        "Uyo wapulika wize,",
+        "wawenge na umoyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "We mlinda lizga mbata,",
+        "wose wapulikiske;",
+        "Pharazga yikuti",
+        "Fumu wose wasutulike."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Pharazga mose m'mapiri,",
+        "munguyi, na m'vinkhwawu;",
+        "Pharazgaso mu zinyanja,",
+        "mazgu gha chiponosko."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Pharazganga kose-kose",
+        "na uko kuli chisi;",
+        "Wamanye nyengo yamara",
+        "Fumu yikulindizga."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "M'pharazge kuwakuvuka,",
+        "wakunwekera mtende;",
+        "Yesu wakuchema tose,",
+        "wakuti zani kwa 'ne."
+      ],
+      "number": 5
+    }
+  ]
+}

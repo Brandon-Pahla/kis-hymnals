@@ -1,0 +1,47 @@
+{
+  "number": 82,
+  "language": "tw",
+  "title": "Yehowa 'Hengua No Anim",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yehowa 'hengua no anim,",
+        "Aman nkoto no anigyem';",
+        "Munhu sɛ 'No nko ne Nyame:",
+        "Otum' bɔ ade, n'Csɛe no nso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "N'ahentumi no yɛn mmoa nnim;",
+        "ɔde dɔte bɔɔ yɛn nnipa;",
+        "Na yɛte sɛ nguan a wɔay'ra,",
+        "ɔde yɛn baa Ne nguankuwm' bio."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛbɛto Ne fie 'seda dwom,",
+        "Yɛbɛma yɛn nne so soro;",
+        "'Sase ne tɛkrɛma mpem du",
+        "Bɛto Ne fie ayeyi dwom."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "N'ahyɛde mu bae sɛ wiase;",
+        "Ne dɔ so fi tete nt'rede;",
+        "Ne nokwar' tim sɛ botantim,",
+        "Na mmere de, 'betwam akɔ."
+      ],
+      "number": 4
+    }
+  ]
+}

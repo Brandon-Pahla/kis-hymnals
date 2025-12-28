@@ -1,0 +1,61 @@
+{
+  "number": 78,
+  "language": "ny",
+  "title": "78 - Kupulumutsa Omwe Ali Kufa ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "RESCUE THE PERISHING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Pulumutsa omwe ali kufatu,",
+        "Uwachotse m’manda a uchimo;",
+        "Lilira ochimwa, nuwadzutsetu,",
+        "Nuwauze za Yesu Mbuyeyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Pulumutsa omwe ali kufatu,",
+        "Yesu wachifundo alanditsa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ngakhale amkana, Iye alinda,",
+        "Afuna kulandira olapa.",
+        "Awapembedzera moona Mtima,",
+        "Adzawakhululukira iwo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mu Mtima wa munthu muli zambiri,",
+        "Koma Yesu azichotsa zonse;",
+        "Atakhudzidwa ndi chikondi chake,",
+        "Nsinga za Satana zidzaduka."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Pulumutsa omwe ali kufatu",
+        "Limbitsa othodwa ndi olema;",
+        "Kwabwezera m’njira yopapatiza,",
+        "Ndi kuwauza za Mpulumutsi"
+      ],
+      "number": 5
+    }
+  ]
+}

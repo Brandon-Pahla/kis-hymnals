@@ -1,0 +1,58 @@
+{
+  "number": 152,
+  "language": "tw",
+  "title": "Ka Yesu Ho Nsɛm Kyerɛ Me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ka Yesu ho nsɛm kyerɛ me,",
+        "Ky'rɛw 'sɛm biara me komam';",
+        "Ka nsɛm a ɛsom bo ky'rɛ me,",
+        "Nsɛm dɛdɛ a wɔntee pɛn;",
+        "Ka sɛnea abɔfo bom too",
+        "Dwom ma N'awo akwaaba;",
+        "Anuonyam wɔ s'ro ma Nyame,",
+        "Asomdwoe wɔ 'sase so."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ka Yesu ho nsɛm kyerɛ me",
+        "Ky'rɛw 'sɛm biara me komam'",
+        "Ka nsɛm a ɛsom bo ky'rɛ me",
+        "Nsɛm dɛdɛ a wɔntee pɛn."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne nkpo dii mmuada sare so,",
+        "Ka nna no ho nsɛm ky'rɛ me;",
+        "Sɛnea yɛn bɔn' nti wɔsɔɔN' hwɛe,",
+        "Nso awie'I no Odii nim;",
+        "Ka N'adwumayɛ mm're ho nsɛm",
+        "Ne aw'rɛhow a ɔsoae,",
+        "Wobuu No 'nimtia hyɛɛ No yaw,",
+        "Wɔpow No na Odii hia."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka N'asɛnnua no ho nsɛm ky'rɛ,",
+        "N'amanehun' ne yaw no;",
+        "Damoá a wɔde No toom' ho nsɛm.",
+        "Ka sɛnea ɔtč ase bio;",
+        "ɔdɔ bɔkɔɔ wɔ nsɛm no mu,",
+        "Ͻtew sen nea mahu pɛn,",
+        "Ma minsu b'rč a woka brɛoo sɛ",
+        "ɔdɔ tuaa ka no maa me."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 81,
+  "language": "xh",
+  "title": "81 Buyeza Ubusuku",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sebenza kuz’ ukuhlwa, Sebenza emini,",
+        "Xa umbethe usekho, ’Ntyatyamb’ iphuma;",
+        "Nokukhanya kusekho, Sebenza emini,",
+        "Sebenza kuz’ ukuhlwa, Konke kophela."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sebenza kuz’ ukuhlwa, Liyatshon’ ilanga;",
+        "Sebenz’ imini yonke, Ungalibali;",
+        "Yenza kuzale konke kungashiyeki nto;",
+        "Sebenza kuz’ ukuhlwa, Konke kophela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sebenza kuz’ ukuhlwa, Ayez’ amathunzi;",
+        "Phaya entshonalanga Lihlil’ ilanga;",
+        "Qina sekuya phela, Zama ukhuthale;",
+        "Kuba kuyez’ ukuhlwa, Konke kophela."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "number": 75,
+  "language": "tw",
+  "title": "Nea 'Yɛ Nwanwa Kyen So",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Anwumm're 'witɔe yɛ anwanwade",
+        "Te sɛ owipuei a mihu.",
+        "Nanso 'nwanwade a ɛkanyan me kra",
+        "Ne 'dɔ a Nyame dɔ me no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, nea 'yɛ nwanwa kyɛn so!",
+        "Nea 'yɛ nwanwa so",
+        "Ne sɛ mehu sɛ ɔdɔ me.",
+        "O, nea 'yɛ nwanwa kyɛn so!",
+        "Nea ;yɛ nwanwa kyɛn so",
+        "Ne sɛ mehu sɛ ɔdɔ me."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Sutɔb're ne twab're yɛ 'nwanwade,",
+        "Ewim, nsoromma, ne owia;",
+        "Nanso 'nwanwade a ɛkanyan me kra,",
+        "Ne nea ahyɛ ase seesei no."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "number": 180,
+  "language": "ny",
+  "title": "180 - Sitidziwa Nthawi Ya Kudza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WE KNOW NOT THE HOUR"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Sitidziwa nthawi yakudza kwa Mbuye,",
+        "Koma zooneka pa dziko zinena",
+        "Adzabwera msanga, tikondwa,",
+        "Komatu sitidziwa nthawi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Adzatu! Tikonzeke, tilinde!",
+        "Adzatu! Aleluya! Aleluya!",
+        "Adza ndi mphamvu za ’Tate wake,",
+        "Komatu sitidziwa nthawi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ku’nika kulipo kwa anthu a nzeru,",
+        "Cho’nadi chilipo mu mau a Mlungu,",
+        "Alembi anena momveka,",
+        "Komatu sitidziwa nthawi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tilinde, tipemphe ndi nyali zowala,",
+        "Tigwirenso ntchito mpakatu abwera.",
+        "Poona zozizwa tiyimbe,",
+        "Komatu sitidziwa nthawi."
+      ],
+      "number": 4
+    }
+  ]
+}

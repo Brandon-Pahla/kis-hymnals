@@ -1,0 +1,67 @@
+{
+  "number": 64,
+  "language": "nso",
+  "title": " 64 BOTŠA JESO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 64 BOTŠA JESO",
+        "CS 515",
+        "ARE YOU WEARY?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A 'o tennwe, pelo e bohloko?",
+        "Tsebiša Jeso, tsebiša Jeso;",
+        "A 'o swabile o hloka lethabo?",
+        "Tsebiša yena Jeso;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Jeso, Tsebiša Jeso",
+        "ke mogwera 'potego,",
+        "Ga go mogwera goba ngwaneno,",
+        "tsebiša Jeso fela;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O palelwa go thiba megokgo?",
+        "Tsebiša Jeso, Tsebiša Jeso",
+        "A 'o na le dibe tše fihlilwego?",
+        "Tsebiša yena Jeso;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A 'o tšhaba maswabi a tlago?",
+        "Tšebisa Jeso, tšebisa Jeso,",
+        "A 'o fešegela tša ka moso?",
+        "Tšebisa yena Jeso;"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O tshwenywa ke kgopolo ya lehu?",
+        "Tšebisa Jeso, tšebisa Jeso,",
+        "A 'o kganyoga mmušo wa Jeso?",
+        "Tšebisa yena Jeso;"
+      ],
+      "number": 6
+    }
+  ]
+}

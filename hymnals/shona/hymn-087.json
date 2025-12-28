@@ -1,0 +1,45 @@
+{
+  "number": 87,
+  "language": "sn",
+  "title": "87 Baba Tinouya Kunemwi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Baba tinouya, Munotibatsira,",
+        "Kumwezve hakuna tingaende,",
+        "Pasi pane dima, Imwi musipo’ba,",
+        "Munotinyaradza, Tichengete"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Baba tinouya, Tinoshaya;,",
+        "Munotibatsira, Munotinzwa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Munotiponesa kune zvakaipa,",
+        "Mumwoyo mutipe kuzorora,",
+        "Hatine masimba, Mutipe kushinga,",
+        "Ruwoko rwesimba, Tinobata"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mutipe’vo mutsa, Wako tinozowa,",
+        "Kuti tinotiza muchitema,",
+        "Mutitungamirire dakara tisvike,",
+        "Kumusha mutswene, Tinogara"
+      ],
+      "number": 4
+    }
+  ]
+}

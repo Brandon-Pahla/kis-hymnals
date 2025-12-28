@@ -1,0 +1,28 @@
+{
+  "number": 256,
+  "language": "bem",
+  "title": "256 - MWE LESA KAFWA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O GOD OUR HELP"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mwe Lesa kafwa wakale, Ne nshita shikesa;",
+        "Cubo cesu ku cipupu, We ng'anda yesu pe",
+        "2. Mwe cinshingwa ca cipuna, Twakulasungwa pe.",
+        "Kuboko kwenu kwamaka Kwakulatucinga",
+        "3. Lintu mpili tashaliko, Pamo ne ci calo;",
+        "Nshita shonse uli Lesa, kufika ne mpela.",
+        "4. Imyaka ikana limo, yaba nge cungulo;",
+        "Nshiku shesu nasho bwipi, shaba ngo lucelo."
+      ],
+      "number": 2
+    }
+  ]
+}

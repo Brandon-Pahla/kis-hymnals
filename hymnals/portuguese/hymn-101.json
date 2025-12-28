@@ -1,0 +1,56 @@
+{
+  "number": 101,
+  "language": "pt",
+  "title": "Não Há Nome Mais Amável",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Não Há Nome Mais Amável"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Outro nome não existe",
+        "Como o nome de Jesus;",
+        "Ele a glória é dos anjos,",
+        "Dos cristãos fiéis, a luz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Jesus! Jesus!",
+        "Não há nome mais amável!",
+        "Jesus! Jesus!",
+        "Nome santo e venerável."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Outro nome não existe,",
+        "Quando aflito o coração.",
+        "Nele encontro segurança,",
+        "Paz, amor, consolação."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sempre abrigo esta esperança,",
+        "Quando Cristo aqui voltar,",
+        "De Lhe ver o lindo rosto",
+        "E de ouvi-Lo a me chamar."
+      ],
+      "number": 5
+    }
+  ]
+}

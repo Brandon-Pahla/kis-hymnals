@@ -1,0 +1,46 @@
+{
+  "number": 487,
+  "language": "tw",
+  "title": "Me Nko Meba Turo Mu Hɔ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me nko meba turo mu hɔ",
+        "B're a bosu da so wɔ nhw'ren so;",
+        "Na mete nne bi gyigye wɔ m'asom',",
+        "Ͻyɛ Nyame Ba no nne."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "ɔne me nantew, ɔne me kasa,",
+        "ɔse me sɛ meyɛ Ne de,",
+        "'Nigye a me ne No nya wɔ hɔ no,",
+        "Obiara nnyaa bi saa da."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔkasa na Ne nne dɛ nti,",
+        "Nnomaa nyinaa gyae dwonto yɛ komm,",
+        "Na dwom dɛdɛ a ɔde maa me no",
+        "Rewosow wɔ me komam'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me ne No bɛtra turo nom'",
+        "Ͻmfa ho sɛ sum reduru me;",
+        "Na ɔse memfa yaw nne no mu nkɔ,",
+        "Ne nne gu so refrɛ me."
+      ],
+      "number": 3
+    }
+  ]
+}

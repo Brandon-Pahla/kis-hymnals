@@ -1,0 +1,35 @@
+{
+  "number": 121,
+  "language": "luo",
+  "title": "121 Mokwongo Ruodhwa Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mokwongo Ruodhwa Yesu,noketonwa Sabato;Kendo eka nowale,mogwedhogo ni dhano."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wanamor ngang`,wanamor ngang`;Wamor nikech ndalono,en Sabato mar Ruodhwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tich mar ndalowa rumo,Tinde chieng` maler mar Ruoth;Ka wadiro kuom chikne,Osingonwa gweth mare."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Polo gi piny, nokadhi,To Sabato ok norum;Wanadir e piny manyien,Nyaka chieng` ma nyaka chieng`."
+      ],
+      "number": 4
+    }
+  ]
+}

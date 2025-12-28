@@ -1,0 +1,47 @@
+{
+  "number": 146,
+  "language": "st",
+  "title": "146 U Phele Ka Ho ’Na",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U phele ka ho ’na, Jesu Morena oa ka;",
+        "Uena U be karabo, potsong tsohle tsa ka,",
+        "U phele ka ho ’na U etse thato ea Hao;",
+        "’Me ’na ke bonahatse, khalalelo ea Hao."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mele o inehetseng, O hloekisitsoe sebeng,",
+        "A leseli la Hao le ke le o khants’etse;",
+        "Fats’e le ke le thole, ’mele o fetoloe,",
+        "Mohlanka oa Hao a tsamaisoe ke Uena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lintho tsa oona tsohle, li ikokobetse;",
+        "Li lumele hore li ke li sebelisoe,",
+        "Li hloke hlolohelo liketsong melekong;",
+        "Li be ts’ebetsong ea Hao, ho se pelaelo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nke ke lule phomolong le ho lokeng hohle,",
+        "Ke ntse ke U emetse, ha Uena U ntlhoka;",
+        "U phele ka ho ’na Morena oa Marena,",
+        "Uena U be karabo potsong tsa ka tsohle."
+      ],
+      "number": 4
+    }
+  ]
+}

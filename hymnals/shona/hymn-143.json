@@ -1,0 +1,43 @@
+{
+  "number": 143,
+  "language": "sn",
+  "title": "143 Tenzi Tipatsanisenyi Ne Chikomborero Chenyu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi tipatsanisenyi",
+        "Nechikomborero zve",
+        "Tipe rufaro nefaro",
+        "Tikurire netsitsi",
+        "Otipenyi masimbawo",
+        "Tichafamba mugwenga"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tomutenda nekukudza",
+        "Neinzwi revhangeri",
+        "Michero yeinzwi renyu",
+        "Izadze mwoyo yedu",
+        "Tivimbike nguva dzese",
+        "Tiwanikwe muidi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Achakavanda mazuva",
+        "Ngati ape kwa Muri",
+        "Ngatishinge misi yese",
+        "Titize tisanete",
+        "Kudakare tigoona",
+        "Mbiri yenyu kudenga"
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 113,
+  "language": "en",
+  "title": "113 Calling.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Softly and tenderly Jesus is calling,",
+        "Calling for you and for me;",
+        "At the heart’s portal He’s waiting and watching,",
+        "Watching for you and for me."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Come home,…… come home,…",
+        "(Come home, come home,)",
+        "Ye who are weary come home",
+        "Earnestly tenderly, Jesus is calling,",
+        "Calling, O sinner, come home."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Why should we tarry when Jesus is pleading,",
+        "Pleading for you and for me;",
+        "Why should we linger and heed not His mercies,",
+        "Mercies for you and for me."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Time is now fleeting, the moments are passing,",
+        "Passing from you and from me;",
+        "Shadows are gath’ring and death’s night is coming,",
+        "Coming for you and for me."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Think of the wonderful love He has promised, Promised for you and for me; Tho’ we have sinned He has mercy and pardon,Pardon for you and for me."
+      ],
+      "number": 4
+    }
+  ]
+}

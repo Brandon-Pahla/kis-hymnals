@@ -1,0 +1,47 @@
+{
+  "number": 59,
+  "language": "st",
+  "title": "59 Jesu Morati Oa Ka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu morati oa ka, Ke fofela ho uena,",
+        "Ha lifefo li ntlela, Ke tleloa ke meroallo,",
+        "Mpate, ao! Moloki, Fefo se be se fete,",
+        "Ke kene polokehong, U be u nkamohele."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ho ts’abelo se seng, Ke shebile ho uena,",
+        "Ao u se ke oa ntahla, Uena u mphahamise,",
+        "U ts’epo eohle ea ka, Thuso e tsoa ho uena,",
+        "U nkhurumetse hloho, Ka lipheo tsa hao."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke batla uena Kreste, Ho fetisa ntho tsohle,",
+        "U tsose le ba oeleng, U folise bakuli,",
+        "Ho halalela uena, ’Na ke moetsalibe,",
+        "Ke tletse ts’ila, sebe; U tletse khalalelo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U tletse khalalelo, E patang libe tsa ka,",
+        "Ho tle noka e folisang, U mpoloke bohloeking,",
+        "U noka ea bophelo, Ha ke noe tokolohong,",
+        "U mele pelong ea ka, Ke tsohele bophelong"
+      ],
+      "number": 4
+    }
+  ]
+}

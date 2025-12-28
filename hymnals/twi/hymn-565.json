@@ -1,0 +1,43 @@
+{
+  "number": 565,
+  "language": "tw",
+  "title": "Asase Ahoɔfɛ Ne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Asase ahoɔfe ne",
+        "ɔs'ro ntremu anuonyam,",
+        "ɔdō a etwa yɛn ho hyia",
+        "Fi yɛn mmofraase no ati,",
+        "Ade ny'naa W'ra, yɛde saa",
+        "Ayeyi dwom yi brɛ Wo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nnipa dɔ mu anigye,",
+        "Anuanom ne awofo,",
+        "Fam nnamfo ne s'ro Yɔnko,",
+        "Anigye pa horow nti,",
+        "Ade ny'naa W'ra, yɛde saa",
+        "Ayeyi dwom yi brɛ Wo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo dɔ Ba no akyɛde,",
+        "ɔs'ro ho anidaso;",
+        "Honhom no nkonimdi ne",
+        "ɔbra awiei 'henyɛw nti,",
+        "Ade ny'naa W'ra yɛde saa",
+        "Ayeyi dwom yi brɛ Wo."
+      ],
+      "number": 3
+    }
+  ]
+}

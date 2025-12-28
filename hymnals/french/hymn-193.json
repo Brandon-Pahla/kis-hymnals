@@ -1,0 +1,43 @@
+{
+  "number": 193,
+  "language": "fr",
+  "title": "Pour moi l'aurore",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Pour moi l'aurore d'un nouveau jour",
+        "Se lève encore dans ce séjour.",
+        "Sur ton enfant, Dieu tout-puissant",
+        "Dès le matin pose ta main ;",
+        "Verse en mon âme ta douce paix :",
+        "Mon cœur réclame tous tes bienfaits."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je voudrais faire, en ce bas lieu,",
+        "Tout pour te plaire, Seigneur mon Dieu !",
+        "Mais le péché reste caché",
+        "Dans mon esprit et me séduit.",
+        "Vois ma faiblesse et me soutiens",
+        "Par ta tendresse, je t'appartiens."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fais-moi comprendre ta charité,",
+        "Et bien entendre ta vérité !",
+        "Loin du danger, divin berger !",
+        "Conduis mes pas, jusqu’au trépas.",
+        "Que ta puissance soit chaque jour",
+        "Ma délivrance, ô Dieu d'amour !"
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "number": 141,
+  "language": "st",
+  "title": "141  Moloki Ke Rata Hoba Ua Hau.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "’Moloki le ’na ke be oa Hao; U nthute,",
+        "U nthute; Nka etsa thato ea Hao Ntate, U nthuse joale."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke oa Hao (Jesu), Ke oa Hao (Jesu), Ena ke kano ea ka;",
+        "Ke oa Hao (Jesu), Ke oa Hao(Jesu), Morena hona joale. ."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsa lefats’e tsohle na ke eng; O se teng, O se teng?",
+        "Ke tla li tlohella ho Uena, U ruo la ka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke furalla tsa lefats’e, Tlo haufi;",
+        "Tlo haufi; Ho Uena ke fihlela tsohle, Ts’eliso ea ka."
+      ],
+      "number": 3
+    }
+  ]
+}

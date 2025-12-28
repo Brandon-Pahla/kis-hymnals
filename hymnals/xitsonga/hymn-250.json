@@ -1,0 +1,24 @@
+{
+  "number": 250,
+  "language": "ts",
+  "title": "250. KU WELA ENDZINGWENI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "YIELD NOT TO TEMPTATION",
+        "1. Ku Wela Endzingweni,",
+        "I Vudyoho U Ta Va Muhluri, Loko U Nga Wi,",
+        "Hlula Ku Navela Swo Homboloka, Languta Ka Yesu, U Ta Tiyela.",
+        "CHORUS",
+        "Langutela Ka Yesu U Ku Khongotela, Kombela Mukutsuri Yena Ku Ku Pfuna.",
+        "2. Lava Vo Homboloka, Va Rhukana Vito Ra Xikwembu Va Ri Tlangisa,",
+        "Hambana Na Vona, Endla Vunene, Nsovo Na Ntiyiso, U Landza Yesu.",
+        "3. Loyi A Hlalaka, U Kuma Harhi, Hi Nga Khudlunyeki,",
+        "A Hi Ti Tiyisen Ka Mukutsuri, Ku Hi Ha Matimba,",
+        "Languta Ka Yesu, Ku Va A Pfuna."
+      ],
+      "number": 1
+    }
+  ]
+}

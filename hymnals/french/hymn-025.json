@@ -1,0 +1,48 @@
+{
+  "number": 25,
+  "language": "fr",
+  "title": "Si du nid tombe l'oisillon",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Si du nid tombe l'oisillon,",
+        "Dieu répond à son cri;",
+        "Et quand survient le tourbillon,",
+        "Il lui fait un abri."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Il m'aime aussi, il m'aime aussi,",
+        "Je sais qu'il m'aime aussi.",
+        "Jésus m'aime, bien que petit,",
+        "La bible me le dit."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il a fait le muguet des bois,",
+        "Parfumé les taillis;",
+        "À la source il prête une voix,",
+        "Aux fleurs leur coloris."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le Seigneur nourrit les oiseaux,",
+        "Il aime la fourmi.",
+        "Celui qui dit: « Pais mes agneaux »",
+        "Est aussi leur ami."
+      ],
+      "number": 4
+    }
+  ]
+}

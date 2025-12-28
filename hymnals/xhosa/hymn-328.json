@@ -1,0 +1,37 @@
+{
+  "number": 328,
+  "language": "xh",
+  "title": "328 Sobheka Phina, Thixo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sobheka phina, Thixo, Singabheki kuwe?",
+        "Soncedwa ngubanina, Singancedwa nguwe?",
+        "Wadala thina bantu, Wenza into zonke;",
+        "Umise nenkululo, Sisindiswe sonke."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akukho ngxaki kuwe, Unamandla onke;",
+        "Akukho nkohla kuwe, Unokwazi konke.",
+        "Silondoloze, Bawo, Ngalomandla aKho;",
+        "Sikhanyisele, Bawo, Ngokokwazi kwaKho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Siphahle ngezibele Koluhambo lwethu;",
+        "Sincede endleleni Ngokuswela kwethu.",
+        "Sixhase ekufeni, Singahlehli kuWe,",
+        "Samkele ezulwini Ngosimnikiwe nguWe."
+      ],
+      "number": 3
+    }
+  ]
+}

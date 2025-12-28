@@ -1,0 +1,63 @@
+{
+  "number": 179,
+  "language": "ny",
+  "title": "179 - Wakukonzeka Pakubwera Mkwati?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BEHOLD THE BRIDEGROOM"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Wakonzeka pakubwera Mkwatiyo, Mkwatiyo?",
+        "Wakonzeka pakubwera Mkwatiyo, Mkwatiyo?",
+        "Onani adza; onani adza;",
+        "Konzeka akubwera Mkwatiyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Onani Mkwati, Yesu abweratu!",
+        "Onani Mkwati, Yesu abweratu!",
+        "Yang’ana adza, yang’ana adza!",
+        "Konzeka akubwera Mkwatiyo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Konzetsani nyali zanu, adzatu, adzatu!",
+        "Konzetsani nyali zanu, adzatu, adzatu!",
+        "Akudza msanga; akudza msanga;",
+        "Konzeka moyo wanga wonse ’we."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tidzakakomana naye, Mkwatiyo, Mkwatiyo!",
+        "Tidzakakomana naye, Mkwatiyo, Mkwatiyo!",
+        "Adzadi Yesu; adzadi Yesu;",
+        "Tidzakomana naye Mkwatiyo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tidzayimba mokondwera, Aleluya, kwa ’Ye;",
+        "Tidzayimba mokondwera, Aleluya, kwa ’Ye.",
+        "Yang’ana adza; yang’ana adza;",
+        "Yimbani, Aleluya, adzatu."
+      ],
+      "number": 5
+    }
+  ]
+}

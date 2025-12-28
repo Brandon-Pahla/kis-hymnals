@@ -1,0 +1,49 @@
+{
+  "number": 76,
+  "language": "ve",
+  "title": "76 Tshidzani Vha Faho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:367",
+        "AH:348"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tshidzani vhafaho, na vho xelaho,",
+        "Ni vha tuwise kha zwivhi zwavho, A vuse vho waho,",
+        "Vusa vha ime, vha vhudze nga Yesu a tshilaho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tshidzani vha faho na vho xelaho,",
+        "Yesu u na vhuthu u a tshidza."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Naho vhu mu sanda, o di lindela,",
+        "U do tanzwa a rembuluwaho, lingedza nga Maanda,",
+        "A vha vhuise, vha litshe zwivhi vha tende Yesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Vho vhaisalaho dzimbilu dzavho,",
+        "Vha vhudze uri u do vha tanzwa, vha vuse vha ime,",
+        "Vha tende Yesu, vha de khae, ndi Mutshidzi wavho."
+      ],
+      "number": 4
+    }
+  ]
+}

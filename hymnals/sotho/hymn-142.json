@@ -1,0 +1,37 @@
+{
+  "number": 142,
+  "language": "st",
+  "title": "142  Ho Monate Joang.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Le monate joang tsatsi,",
+        "Lee le halalelang;",
+        "Ha re lahla tsa lefats’e,",
+        "Re sheba Molimo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A mantsoe a khotso, a monate",
+        "A tsoang ho Eena,",
+        "A tsosang ea inyatsang;",
+        "Ho ea leholimong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Me ha ho tlosoa libe,",
+        "Le ho li furalla;",
+        "Eena ea u bonang pelong,",
+        "O romela mohau."
+      ],
+      "number": 3
+    }
+  ]
+}

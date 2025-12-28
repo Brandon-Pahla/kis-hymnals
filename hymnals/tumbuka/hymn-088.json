@@ -1,0 +1,65 @@
+{
+  "number": 88,
+  "language": "tum",
+  "title": " 88 M'ngandizerezganga Fumu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 88 M'ngandizerezganga Fumu",
+        "PASS ME NOT!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "M'ngandizerezganga Fumu,",
+        "Nkhumurombani, Pakutumbika",
+        "Wanyane m'tumbike na'ne."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Fumu Yesu, mundipuLike,",
+        "Pakuchema wanthu winu",
+        "Mngandiekanga"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Pa mpando winu wa wezi,",
+        "Ndipumuzgike,",
+        "Mu malundi ghinu,",
+        "Fumu mndovwire."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Pakugomezga mwa imwe ndamkumwonani,",
+        "Mundichizge mu muzimu,",
+        "M'ndithaske Fumu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Mbwiwi yane ndimwe Yesu,",
+        "Gomezgo lane, Ndimwe",
+        "Mwekha m'charu",
+        "Chose nanga nkhuchanya."
+      ],
+      "number": 5
+    }
+  ]
+}

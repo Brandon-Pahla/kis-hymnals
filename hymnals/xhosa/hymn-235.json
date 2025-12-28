@@ -1,0 +1,39 @@
+{
+  "number": 235,
+  "language": "xh",
+  "title": "235 Labuya Ilanga Elingcwele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Labuya ilanga elingcwele, U-Yehova walusikelela;",
+        "KwanjengaYe, wathi masiphumle, Silwenze ngcwele, Kubekh’ uxolo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Masigcine lo mhla waKhe ngcwele, Sifunde sithobele iNkosi;",
+        "Iyakuva ukucenga kwethu Ingoma nemithandazo yethu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi yamazwe onke mamela, Yiva izwe labantwana baKho;",
+        "Mabakhumbul’ amadinga aKho, Thulul’ inceba kubantu baKho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Baw’ osezulwini, Themba lethu, mandla aKho likhaka lethu;",
+        "UnguMlindi nomkhokeli wethu. Udumo kuWe ngonaphakade."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 246,
+  "language": "fr",
+  "title": "Demeure par ta grâce",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Demeure par ta grâce",
+        "Avec nous, Dieu Sauveur!",
+        "Quoi que l'ennemi fasse,",
+        "Veille sur notre coeur."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que ta sainte Parole,",
+        "Chaque jour, ici-bas,",
+        "Soit la seule boussole",
+        "Qui dirige nos pas."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Éternelle lumière,",
+        "Que ta vive splendeur",
+        "Nous guide, nous éclaire",
+        "Et nous garde d'erreur."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Étends sur nous ton aile",
+        "Et demeure à jamais",
+        "Avec nous, Dieu fidèle!",
+        "Répands sur nous ta paix."
+      ],
+      "number": 4
+    }
+  ]
+}

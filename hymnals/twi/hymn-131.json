@@ -1,0 +1,33 @@
+{
+  "number": 131,
+  "language": "tw",
+  "title": "Hwɛ Sɛnea Nhw'ren Bi Apue",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hwɛ sɛnea nhw'ren bi apue",
+        "Wɔ dua mono bi so;",
+        "Fi Yisai abusua mu,",
+        "Tetefo de too dwom;",
+        "Ͻbae sɛ nhw'ren fɛfɛ",
+        "Wɔ awɔb're kɛse mu,",
+        "Anadwo dasu mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesaia kaa saa nhw'ren a",
+        "Mereka yi hō asɛm;",
+        "Yehuu No wɔ Maria nkyɛn,",
+        "ɔbaabun yamyefo;",
+        "ɔwoo Agyenkwa no",
+        "De kyerɛɛ Nyankopɔn dɔ",
+        "Anadwo dasu mu."
+      ],
+      "number": 2
+    }
+  ]
+}

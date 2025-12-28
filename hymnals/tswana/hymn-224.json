@@ -1,0 +1,38 @@
+{
+  "number": 224,
+  "language": "tn",
+  "title": "224 Tshwaro’a Rara Ya Phatsima",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tshwaro’a Rara Ya Phatsima Ntlung Ya ’Gwe Ya Lesedi,",
+        "Mme rona O re laela Go gasa sedi bathung."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "A masedi a a tuke, A ye kgakala bathung.",
+        "Ba ba anapang lefifing Gongwe ba ka bolokwa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fifi Ja Sebe Le Gone, Go Kgorotlha Makhubu;",
+        "Ba letile ba’ eletsa ’Sedi jemo go lona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tshuba Lobone Lwa Gago; Mongwe Yo Mo Sefefong,",
+        "Yo lekelang letsibong, Fifing o ka timela."
+      ],
+      "number": 3
+    }
+  ]
+}

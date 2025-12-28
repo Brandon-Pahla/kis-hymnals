@@ -1,0 +1,55 @@
+{
+  "number": 135,
+  "language": "sn",
+  "title": "135 Ndinomuda Kwazvo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinomuda kwazvo",
+        "Tenzi kune zviro zvese",
+        "Makandipa runyararo",
+        "Rusingaparadzwi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hazvisati zvataurwa, Zverudo rukuru",
+        "Hazvisati zvataurwa, Ropa racheniswa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinoziva muripetyo",
+        "Kunepasi rino",
+        "Ndofunga imwi chete",
+        "Kune ipi ngoma"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Imwi mandisunungura",
+        "Ngandifarisise",
+        "Ndisinaba rudo rwenyu",
+        "Ini ndinga tsamwa"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi wangu anokosha",
+        "Ndomuitirenyi",
+        "Kuti nzira yakanaka",
+        "Ndozofamba nemwi"
+      ],
+      "number": 5
+    }
+  ]
+}

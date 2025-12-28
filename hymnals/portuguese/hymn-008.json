@@ -1,0 +1,44 @@
+{
+  "number": 8,
+  "language": "pt",
+  "title": "A Ti Rendemos Glórias",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A Ti Rendemos Glórias"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Ti rendemos glórias, Ó Rei e Redentor,",
+        "A quem crianças rendem, também, o seu louvor.",
+        "Senhor, nos inclinamos aos Teus sagrados pés,",
+        "E a Ti nós adoramos, pois Deus eterno és."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A voz dos anjos santos, em sons transcendentais,",
+        "Aqui na Terra ecoa na voz dos vis mortais.",
+        "Só Tu, ó Deus bondoso, és o Pastor fiel,",
+        "O Rei dos reis vindouro, Senhor de Israel."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Louvor Te deram antes da cruz e da paixăo;",
+        "E nós também cantamos o dom da salvaçăo,",
+        "Pois Teu, Senhor, é o reino, a glória e o poder,",
+        "E a Ti, pra sempre, os salvos, mui gratos hăo de ser."
+      ],
+      "number": 4
+    }
+  ]
+}

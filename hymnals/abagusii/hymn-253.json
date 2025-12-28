@@ -1,0 +1,35 @@
+{
+  "number": 253,
+  "language": "guz",
+  "title": "253 Ekina Giachakirwe Igoro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ekina giachakirwe Igoro,Naki ntwe torateneneo;Anache Nyasa' Omogambi,Ker'ogokora n'enchera."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Naki ntwe torantenene,Rituko riria rinene;'Go toratoke twaremeirwe,Gos'ebibe biatinyigwe?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Abakure banacheirw' ekina,Erio nyuma abare moyo;Bonsi nabanyorerw' ekina,'Kina getari mabera."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Naki torabe ase ekin' ekio,Ebibe bikoorokigwa;Kogiaikire konachwa,Kina getari goochoka."
+      ],
+      "number": 4
+    }
+  ]
+}

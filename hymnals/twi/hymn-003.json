@@ -1,0 +1,52 @@
+{
+  "number": 3,
+  "language": "tw",
+  "title": "Nyame Wɔ Yɛn Mu Ha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame wɔ yɛn mu ha",
+        "Momma yɛnkoto No,",
+        "Na yɛmfa suro mmra N'anim;",
+        "Nyame wɔ yɛn mu ha,",
+        "Me kra nyɛ komm N'anim",
+        "Mmɛn No wɔ ahobrɛase mu!",
+        "Ne de a Munim No,",
+        "Monsom No nokwarem'",
+        "Munyi No ayɛ yie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bra na bɛtra me  mu,",
+        "Me kra te sɛ Maria,",
+        "Nyɛ Wo wiase asɔrefie.",
+        "Bra me mu, O Honhom,",
+        "Sesa nipadua yi,",
+        "Mede 'nidi, dɔ, bɛma Wo",
+        "Baabiarā a,Mɛkɔ no,",
+        "Ma menkoto W'anim,",
+        "Nɔhu Wo yie nsom Wo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wiase nnaadaa hunu,",
+        "Ahantan, 'bra bɔne,",
+        "Yɛde 'nigye gyae ne ny'naa mu.",
+        "'Wura, yɛde 'nigye",
+        "Bɛyɛ Wo de daa daa",
+        "Yɛn kra, nkwa, ne yɛn adeny'naa",
+        "Wo nkutoo, Na yenim,",
+        "Woyɛ ade ny'naa Wura",
+        "Woky'rɛ nokwar' 'bra kwan."
+      ],
+      "number": 3
+    }
+  ]
+}

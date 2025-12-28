@@ -1,0 +1,49 @@
+{
+  "number": 160,
+  "language": "guz",
+  "title": "160 Ner Ensoko Y'amanyinga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ner'ensoko y'amanyinga,Aya Imanweli;'Banyabibe bay'esibie,Bacheneke bori;Bacheneke bori,Bacheneke, bori;'Banyabibe bayesibie,Bacheneke bori."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Omoibi ore gokwa'Karora ensoko;Nainche nimbe omobe bo,Ninsibigw' ebibe,Ninsibigw'ebibe,Ninsibigw' ebibe;Nainche nimbe omobe bo,Ninsibigw' ebibe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ay' Emanwa manyingaoTakoera nguru;Goik'ekanisa enchore,Yaborigwe bori,Yaborigwe bori,Yaborigwe bori,Goik'ekanisa enchore,Yaborigwe bori."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'S' okwegena nkayarora,Manying' agoiteka,'Bwanchani n'eganga yane,Rioka goik' ogokwa;Rioka goik' ogokwa,Rioka goik' ogokwa;'Bwanchani n'eganga yane,Rioka goik' ogokwa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Omonene negenire,kwang'eire inche,Ekeegwa kiagorirwe,Ase amanyinga!Ase Amanyinga!Ase Amanyinga!Ekeegwa kiagorirwe,Ase Amanyinga!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "6. Ase ogoter' ogwansu,Ntere nguru Chiao;Ker'oromem' or' orobe,Rwaborigwe boriRwaborigwe bori,Rwaborigwe bori;Ker'oromem' or' orobe,Rwaborigwe bori."
+      ],
+      "number": 6
+    }
+  ]
+}

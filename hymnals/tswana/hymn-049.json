@@ -1,0 +1,38 @@
+{
+  "number": 49,
+  "language": "tn",
+  "title": "49 Go Tla Mogopolo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Go Tla Mogopolo, Go Nna O Masisi;",
+        "Ke gaufi gae gompieno Go gaisa gale."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Gaufi gae, Legae ja me;",
+        "Gaufi gae gompieno, Go gaisa gale."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gaufi Tlung Ya Rara, Kwa Mannong A Mantsi;",
+        "Gaufi kwa Jeso O busang, Lewatleng je lentle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Gaufi Go Gae, Ke Rola Morwalo,",
+        "Mokgoro wa bohutsana, ke rwala serwalo."
+      ],
+      "number": 3
+    }
+  ]
+}

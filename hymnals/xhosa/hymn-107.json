@@ -1,0 +1,44 @@
+{
+  "number": 107,
+  "language": "xh",
+  "title": "107 Ndibalisele Ngo-Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndibalisele ngo-Yesu, Bhal’ entliziyweni yam,",
+        "Ibal’ elinexabiso, Elona linencasa;",
+        "Yathin’ intsholo ye-ngelos’ mini wazalwa yena,-",
+        "Dumo ku-Thix’, enyangweni, Uvuyo kulomhlaba."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndibalisele Ngo-Yesu, Bhal’ entliziyweni yam,",
+        "Ibal’ elinexabiso, Elona linencasa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wazila yedwa entlango, Xela ngayo lomihla.",
+        "Entlango apho wehendwa, wapheta ngokoyisa;",
+        "Xel’ iminyak’ esebenza, Iminyaka yosizi,",
+        "Wadelwa, wabandezelwa, Wagxothwa elusizini."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khautsho ngokumxhom’ emthini, Encwina enentlungu;",
+        "Hi ngengcwaba waba kulo, Hi wabuya waphila;",
+        "Uthando kuyo lombali, Lundibengezelela,",
+        "Hlala noko ndililayo, Uthando lwandithenga."
+      ],
+      "number": 3
+    }
+  ]
+}

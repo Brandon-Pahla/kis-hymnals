@@ -1,0 +1,22 @@
+{
+  "number": 292,
+  "language": "ts",
+  "title": "292. MAVOKO YAKU TIRHELA YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I’VE TWO LITTLE HANDS TO WORK FOR JESUS",
+        "1. Mavoko Ya Ku Tirhela Yesu, Ririmu Ku N’wi Dzunisa;",
+        "Tindleve Ku Twa Switsundzuxo, Rito Ra Ku Yimbelela.",
+        "CHORUS",
+        "Hosi Hina Ha Ta, Evuhlangini Bya Hina; Hosi Hina Ha Ta, Edyondzwen Yaku.",
+        "2. Swinengana Swo Famba Ndleleni, Ku Fika Tilweni;",
+        "Swimahlwan Swo Hlaya Bibele, Hi Ta Rirhandzu Ra Yesu.",
+        "3. XImbilwan Xanga Ndzi Nyika Yesu, A Ponisa Moya Wanga;",
+        "Vutomi Byi Va Eka Yena, Ndzi Helela Eka Yena."
+      ],
+      "number": 1
+    }
+  ]
+}

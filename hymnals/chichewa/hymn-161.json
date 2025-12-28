@@ -1,0 +1,54 @@
+{
+  "number": 161,
+  "language": "ny",
+  "title": "161 - Tsamwali Ndiri Naye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "MY LORD AND I"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tsamwali ndili naye Wokondakondadi;",
+        "Akonda ’ne koposatu, Akonda konseko;",
+        "Ndikhala ndi tsamwaliyo, Ndimkonda bwinotu;",
+        "Pamodzi ndi Ambuye Ndikhalabe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndifo’ka ndithu mwina, Adziwa Mbuyeyo;",
+        "Auza ’ne ndimtsamire, Andithangatatu;",
+        "Anditsogoza inetu, Mwa kuunikako,",
+        "Limodzi ndi Ambuye Ndiyendabe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Zokondwa, za chisoni, Ndiuza Mbuyeyo;",
+        "Ndiuza Mbuye zonsetu Za mtima mwangamo;",
+        "Auza ’ne chochitatu, Anena, Yesanso;",
+        "Pamodzi ndi Ambuye Ndinenabe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Adziwa ndikufuna, Kukopa winayo,",
+        "Auza ’ne kupitatu Kunena nayenso;",
+        "Chikondi cha Mulunguyo, Ndi imfa ya Yesu;",
+        "Pamodzi ndi Ambuye Ndichitabe."
+      ],
+      "number": 5
+    }
+  ]
+}

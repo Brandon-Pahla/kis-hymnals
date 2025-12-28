@@ -1,0 +1,49 @@
+{
+  "number": 149,
+  "language": "fr",
+  "title": "À toi soit la gloire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "À toi soit la gloire,",
+        "Grand Dieu Créateur !",
+        "Que tout genou ploie",
+        "Devant ta grandeur.",
+        "Que tout homme exalte",
+        "Ton nom glorieux ;",
+        "Que toute la terre",
+        "T’adore en tout lieu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "À toi soit la gloire,",
+        "Jésus mon Sauveur !",
+        "Don expiatoire,",
+        "Vrai libérateur.",
+        "Que chacun bénisse",
+        "Ton sang précieux.",
+        "Est-il sur la terre",
+        "Nom plus merveilleux !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "À toi soit la gloire,",
+        "Saint-Esprit de Dieu !",
+        "Transforme mon être",
+        "En temple des cieux.",
+        "Mon cœur te réclame,",
+        "Ô consolateur,",
+        "Inonde mon âme,",
+        "Source de bonheur."
+      ],
+      "number": 3
+    }
+  ]
+}

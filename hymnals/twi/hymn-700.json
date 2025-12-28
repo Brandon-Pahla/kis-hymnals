@@ -1,0 +1,57 @@
+{
+  "number": 700,
+  "language": "tw",
+  "title": "N5 Hark, My Soul It Is",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me kra, tie na Aw'rade-a;",
+        "W'Agyenkwa no a tie N'asεm;",
+        "Yesu si so ka ky'rε w' sε,",
+        "“Bɔn'yεfo wodɔ Me anaa?”"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wodaa dua mu, Mituu wo,",
+        "Wupirae, Meyεεw' ad'ru;",
+        "Wobεε ko, Mehwehwεε wo,",
+        "Memaa wo sum no dan' hann."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ɔbaatan betum' agyae",
+        "Sε ɔrenhwε ne ba bio?",
+        "Yiw, ne w'rε betum' afi,",
+        "Nanso Me de, Mεkae wo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me dε no ɔnsakra da,",
+        "Ɛkorɔn sen s'ro mmepɔ",
+        "Emu dɔ sen bun nyinaa",
+        "Emu yε den sε owu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ow'ra, me nkɔmmɔ tit'riw",
+        "Ne sε me dɔ no yε mm'rεw,",
+        "Nanso medɔ Wo, kotoW',",
+        "Ma minnya dom mfa nnɔW' yie."
+      ],
+      "number": 5
+    }
+  ]
+}

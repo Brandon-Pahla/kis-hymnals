@@ -1,0 +1,62 @@
+{
+  "number": 40,
+  "language": "tw",
+  "title": "Nyame Indeɔda Pa No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame Homeda pa no",
+        "Aba 'sase so bio,",
+        "Te sɛ 'huhub'rem' 'nɔpa,",
+        "B'rč a 'nadwo yaw atwam;",
+        "Ͻba sɛ bosu nwinnwin",
+        "'Fɔ 'sase kesee bi;",
+        "Te sɛ mmɛkuw nwini wɔ",
+        "Anweatam hunu so."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "W'ra yɛn 'fɔrebɔde ni,",
+        "Ewom 'ho wɔ fi de,",
+        "Nnwɔtwe mu dwumaden,",
+        "Ne mu nokwaredi,",
+        "Ahopakyi 'duaba pa",
+        "Ne 'dɔ amapa a",
+        "Wo Honhom asiesie a",
+        "Yɛde ma W' 'hobrɛasem'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛde yɛn bɔne adwen,",
+        "Ne nneyɛe adesoa,",
+        "Bɛba 'bɛkoto W'anim,",
+        "Ahwehwɛ 'hofadi.",
+        "Yɛn komam' 'w'rɛhow kɛse",
+        "Ne W'adwumā a yɛanyɛɔ",
+        "Talɛnte pii a yɛasɛe!",
+        "Nkonim ket'wá a yedii."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Saa 'werɛhow yi mu no,",
+        "Yɛde gyidi mapa,",
+        "Ne ɔdɔ a emu dɔ",
+        "Ba sɛ Wobɛtew ho,",
+        "Na ama yɛanya",
+        "W'anim Fafiri a yehia",
+        "Ne daapem asomdwoe ampa."
+      ],
+      "number": 4
+    }
+  ]
+}

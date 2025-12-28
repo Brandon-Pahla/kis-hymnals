@@ -1,0 +1,39 @@
+{
+  "number": 463,
+  "language": "tw",
+  "title": "Asomdwoe Pa, Bɔne Sum Wiase Yim",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Asomdwoe pa, bɔne sum wiase yim'?",
+        "Yesu mgoya n'ɛma kra asomdwoe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asomdwoe pa, nnwuma abu so yi?",
+        "Yesu apɛdeyɛ n'ɛyɛ 'home."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asomdwoe pa yɛne adɔfo a",
+        "Wɔwō aky'ri ny'naa wɔ banbɔ Yesu mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asombwoe pa, yennim daakye asɛm?",
+        "Yenim Yesu, ɔte N'ahengua so."
+      ],
+      "number": 4
+    }
+  ]
+}

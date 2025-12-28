@@ -1,0 +1,55 @@
+{
+  "number": 15,
+  "language": "es",
+  "title": "Loámoste, ¡oh Dios!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Loámoste, ¡oh Dios!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Loámoste, ¡oh Dios!,",
+        "con alegre canción,",
+        "porque en Cristo tu Hijo",
+        "nos diste perdón."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Aleluya! Te alabamos.",
+        "¡Cuán grande es tu amor!",
+        "¡Aleluya! Te adoramos,",
+        "bendito Señor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A ti, oh Señor,",
+        "que tu trono de luz",
+        "has dejado por darnos",
+        "perdón en la cruz,"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Te damos loor,",
+        "santo Consolador,",
+        "que nos llenas de gozo",
+        "y santo valor."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "number": 303,
+  "language": "tw",
+  "title": "Yesu 'Sɛnnuan' Ase Na",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu 'sɛnnuan' ase na",
+        "Mapaw sɛ megyina;",
+        "Botan kɛse a ne sunsum",
+        "Tɔ ɔbrɛ 'sase so;",
+        "Ͻyɛ fie a ɛwɔ sar' so,",
+        "ɔkwan mu ɔhome",
+        "Ma owigyinae mu hyew ne",
+        "Da mu adesoa no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu 'sɛnnua no so na",
+        "M'aniwa tumi hu",
+        "Nea me nti Ohuu amane",
+        "De wui no ankasa;",
+        "Mifi koma a abubum'",
+        "Sua 'nwanwade mmienu,",
+        "Anwanwa dɔ a ɛgye nkwa,",
+        "Ne fatá a memfata."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mede 'sɛnnuan' nwin' ase",
+        "Bɛyɛ me trabea daa;",
+        "Menhwehwɛ hann fof'ro biara",
+        "Ka N'anim hann no ho;",
+        "Ma wiase yi ntwa me ho nkɔ,",
+        "Minhia mu b'ribiara,",
+        "Me nipasu ne m'aniwu,",
+        "'Sɛnnuan' ne m'anuonyam."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 213,
+  "language": "es",
+  "title": "Tierno y amante, Jesús nos invita",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Tierno y amante, Jesús nos invita"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tierno y amante, Jesús nos invita.",
+        "Llámate a ti, y a mí.",
+        "Mírale allá en la puerta esperando;",
+        "aguarda a ti y a mí."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Venid, venid, tristes, cansados, venid!",
+        "Tierno y amante, Jesús nos invita:",
+        "¡Oh, pecadores, venid!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sigue llamando; ¿por qué dilatamos?",
+        "Llámate a ti, y a mí.",
+        "¿Tantas mercedes en poco tendremos?",
+        "Ámate a ti y amí."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh, maravilla de amor prometido",
+        "tanto a ti como a mí!",
+        "Ven y recibe el perdón ofrecido,",
+        "dado de gracia a ti."
+      ],
+      "number": 5
+    }
+  ]
+}

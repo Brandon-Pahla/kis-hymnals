@@ -1,0 +1,47 @@
+{
+  "number": 320,
+  "language": "tw",
+  "title": "Abɔde W'ra, Ayeyi Ny'naa Wɔ Wo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Abɔde W'ra, ayeyi ny'naa wɔ Wo,",
+        "Wo nnwuma yɛ kɛse, W'akwan yɛ nwanwa!",
+        "W'anuonyam ne Wo tumi tra y'adwen,",
+        "Nanso Wotra 'hobrɛaseni koma mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tumi ny'naa W'ra, mede me pɛ ma Wo,",
+        "Mede setie bɛyɛ W'adwuma 'nigyem;",
+        "Wo som ayɛ ahofadi ne nnwom;",
+        "Mehyɛ Wo nsa a, me mm'rɛwyɛ dan denhyɛ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyansa ny'naa W'ra, mede m'adwen ma Wo,",
+        "Mehwehwɛ nokwar' a ɛtra adwen ny'naa;",
+        "Nea aniwa nhui, na aso ntee da,",
+        "Wo Honhom ky'rɛ, na ɛhy'rɛn fi W'asɛm mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ade ny'naa W'ra, mede m'ade ma Wo,",
+        "Sɛ mepo Wo a misunti hwe ase;",
+        "Mesom Wo yɛ setie ma W'asɛm a,",
+        "Mɛnante W'ahofadim' akɔ awiei."
+      ],
+      "number": 4
+    }
+  ]
+}

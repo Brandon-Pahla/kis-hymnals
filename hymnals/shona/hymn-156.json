@@ -1,0 +1,47 @@
+{
+  "number": 156,
+  "language": "sn",
+  "title": "156 Manzwi Ekushatirwa Asabvumirwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Manzwi akashata",
+        "Asabva mundimi dzangu",
+        "Kuti mwoyo wangu ini",
+        "Usamushatise imwi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nagatidanane, adaro Tenzi",
+        "Vana itayi mutemo waTenzi",
+        "Ngatdanane, adaro Tenzi",
+        "Vana itayi m’temo wake"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rudorwo rwakaperera,",
+        "Ukama hunoyera",
+        "Rungakasika kuparadzwa",
+        "Nechiro chiduku"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Manzwi ekushatirwa",
+        "Haanaki kutaura",
+        "Manzwi akaipa",
+        "Anoputsa upenyu hwese"
+      ],
+      "number": 4
+    }
+  ]
+}

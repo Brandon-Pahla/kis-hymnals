@@ -1,0 +1,75 @@
+{
+  "number": 289,
+  "language": "en",
+  "title": "289 Take Me As I Am.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus, my Lord, to thee I cry;",
+        "Unless thou help me I must die;",
+        "Oh, bring thy free salvation nigh,",
+        "And take me as I am."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Take me as I am, Take me as I am,",
+        "Oh, bring thy free salvation nigh,",
+        "And take me as I am."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Helpless I am, and full of guilt,",
+        "But yet thy blood for me was spilt;",
+        "And thou canst make what thou wilt,",
+        "But take me as I am."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No preparation can I make,",
+        "My best resolves I only break;",
+        "Yet save me for thine own name’s sake,",
+        "And take me as I am."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I bow before thy mercy seat,",
+        "Behold me, Saviour, at thy feet;",
+        "Thy work begin, thy work complete,",
+        "And take me as I am."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "If thou hast work for me to do,",
+        "Inspire my will, my heart renew;",
+        "And work both in, and by me, too,",
+        "And take me as I am."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "And when at last the work is done,",
+        "The battle fought, the vict’ry won;",
+        "Still, still my cry shall be alone,",
+        "Lord, take me as I am."
+      ],
+      "number": 6
+    }
+  ]
+}

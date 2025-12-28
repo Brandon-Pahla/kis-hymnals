@@ -1,0 +1,53 @@
+{
+  "number": 77,
+  "language": "xh",
+  "title": "77 Ndiyathanda Ukuxela Indaba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Imnandi, au, imnandi Indab’ yaphezulu;",
+        "Kwa neyothando lwaKhe. Kumnand’ ukuyitsho;",
+        "Inenceba nothando Lona lwenyaniso,",
+        "Iya ndanelisa mna Phezu kwento zonke."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kumnand’ ukuyilanda, Indaba yaphezulu.",
+        "Ngo-Yesu no-bukhosi, Yena u-Msindisi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Imnandi, au, imnandi, Iya mangalisa,",
+        "Idlula namaphupha Indaba yothando;",
+        "Kumnand’ ukuyilanda, Kuba yandinceda,",
+        "Kungoko ndakuxoxa Indaba yothando."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Imnandi, au, imnandi, Ndiyi phinda njalo,",
+        "Nangokuphindwa kwayo Imnandi, imnandi;",
+        "Kumnandi ukuyitsho Kwabangayaziyo,",
+        "Lendaba yosindiso evela e’Zwini"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Imnandi, au, imnandi Ngokukakhulu kum,",
+        "Ndiyi langazelela, Ngayo intliziyo yam;NaKhona ezulwini Ndiya kuyivuma,",
+        "Indaba yoluthando, Indaba endala."
+      ],
+      "number": 4
+    }
+  ]
+}

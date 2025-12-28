@@ -1,0 +1,49 @@
+{
+  "number": 12,
+  "language": "tw",
+  "title": "Yɛde 'Hosɛpɛ Kamfo Wo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛde 'hosɛpe kamfo Wo.",
+        "Anuonyam ne do Nyame;",
+        "Komam bue sɛ nhwiren W'anim,",
+        "Ma Wo so sɛ s'ro owia:",
+        "Nan bɔn' ne w'rɛhow mununkum,",
+        "Pam akyinnye sum fi hɔ;",
+        "Wo a Woma daa anigye,",
+        "Fa 'dekyee hann hyɛ yɛn ma."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo nnwuma twa W' ho hyia 'nigyem;",
+        "'Sase ne s'ro yi W' hann ky'rɛ.",
+        "Ns'romma ne 'bɔfo to dwom ky'rɛW'",
+        "Ayeyi dwom a ɛnsa.",
+        "Mfuw ne kwae, bonhwa ne nkoko,",
+        "Nhwiren fɛfɛ, po 's'rɔkyc,",
+        "'Nomaa su ne 'subɔnten sen,",
+        "Frɛ sɛ  yenni dɛw Wo mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Woma kwa de bɔne nso kyɛ,",
+        "Woma nhy'ra daa, Hyirafo,",
+        "ɔbra mu anigye nsuti,",
+        "Homč a 'mu dɔ sɛ po bun'!",
+        "Wo, Agya, ne Kristo yɛn Nuaɔ",
+        "Wɔn a wɔte dɔ mu wɔW':",
+        "Ky'rɛ yɛn sɛ yɛbɛdɔ yɛn ho,",
+        "Ma yɛn so kɔ s'ro dɛw mu."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 437,
+  "language": "en-sdah",
+  "title": "437 I’m Going Home",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. My heav'nly home is bright and fair, Nor pain nor death can enter there; Its glitt'ring tow'rs the sun outshine, That heav'nly mansion shall be mine."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain : I'm going home, I'm going home, I'm going home to die no more; To die no more; to die no more—I'm going home to die no more."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. My Father's house is built on high, Far, far above the starry sky; When from this earthly prison free, That heav'nly mansion mine shall be."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Let others seek a home below, Which flames devour or waves o'er flow; Be mine a happier lot to own A heav'nly mansion near the throne."
+      ],
+      "number": 4
+    }
+  ]
+}

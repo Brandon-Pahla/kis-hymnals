@@ -1,0 +1,58 @@
+{
+  "number": 81,
+  "language": "nso",
+  "title": " 81 ŠOMA BOŠEGO BO ETLA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 81 ŠOMA BOŠEGO BO ETLA",
+        "АН 362 CH 446",
+        "WORK FOR THE NIGHT IS COMING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Šoma 'šego bo etla,",
+        "Šoma momesong,",
+        "Šoma phoka e le ntshe,",
+        "Le matšoba thunya,",
+        "Šoma le sa hlatloga,",
+        "Šoma mosegareng.",
+        "Šoma 'šego bo etla,",
+        "Mo go sa šongweng;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Šoma 'šego bo ella,",
+        "Šoma mosegareng.",
+        "Tlatša nako mošomong,",
+        "Go tla boikhutšo",
+        "Neela metsotso yohle,",
+        "Se se ka bolokwang,",
+        "Šoma 'šego bo etla,",
+        "Mo go sa šongweng:"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Šoma 'šego bo etla,",
+        "tšatši le phirima;",
+        "Šoma ge le hubala,",
+        "šoma le a fofa,",
+        "Šoma ge le swiswala,",
+        "Bošegogare,",
+        "Šoma le mo swiswing,",
+        "Nako e fedile;"
+      ],
+      "number": 4
+    }
+  ]
+}

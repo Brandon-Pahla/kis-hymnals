@@ -1,0 +1,35 @@
+{
+  "number": 286,
+  "language": "guz",
+  "title": "286 Igw' Eriogi Ri'Omorisia",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Igw'eriogi ri'Omorisia,Korw'eror' Omosunte ime;Korangeria 'ng'ondi 'nsiru,Korw'obweri bw'omorisia."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chirete, chirete,korwa rinani ri'ebibe;Chirete, chirete,chirete ase Yeso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ng'okomokony'omorisia,Korigia 'ng'ondi chinsiru;Ng'ogochiirania bweri,Chitangwe korw'obokendu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Igwa chikwan'eroro ime,As'ebitunw'ebitambe;'Gw'Omonen'ogotomire,'Gend'ondigerie ching'ondi."
+      ],
+      "number": 4
+    }
+  ]
+}

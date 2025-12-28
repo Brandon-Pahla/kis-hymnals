@@ -1,0 +1,44 @@
+{
+  "number": 82,
+  "language": "ny",
+  "title": "82 - M’mawa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LORD, IN THE MORNING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. M’dzamva mau anga m’mawa",
+        "Mbuye popemphera;",
+        "Ndidzayang’ana kwa Inu",
+        "M’mene ndipemphera."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mzimu anditsogolere",
+        "M’njira zolungama!",
+        "Andisonyeze njira za",
+        "Ntchito zanga zonse."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Anthu okonda dzinalo",
+        "Adzakwanitsidwa;",
+        "Mulungu adzawaphimba",
+        "Ndi chikopa chake."
+      ],
+      "number": 4
+    }
+  ]
+}

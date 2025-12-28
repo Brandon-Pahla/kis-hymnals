@@ -1,0 +1,67 @@
+{
+  "number": 12,
+  "language": "xh",
+  "title": "12 Kukho Umthombo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kukho umthombo wegazi, Ovel’ eNkosini;",
+        "’Boni, abahlanjiweyo Kulo elo gazi,",
+        "Bayahlanjululwa Ezonweni zabo.",
+        "’Boni abahlanjiweyo Bayahlanjululwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Isela elajingayo Lavuy’ ukubona",
+        "Lowo mthombo wokuphila, Ohlamba izono",
+        "Noxa ndinezono Ndingahlanjululwa;",
+        "Lowo mthombo wokuphila, Ohlama izono."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wena Mvana eyafayo, Sesibonga wena;",
+        "I-Bandla lingasindiswa NguWe ezonweni;",
+        "Linamandl’ igazi Ukuhlamb’ izono;",
+        "I-Bandla lingasindiswa NguWe ezonweni."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngokholo ndabon’ umsinga Ovel’ enxebenii;",
+        "Ndathabatheka luthando, ndahlanjwa izono.",
+        "Ndohlala ndivuma ngaWe Ndide ndikubone.",
+        "Ndathabatheka luthando, ndahlanjwa izono."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi undilungisele Indawo ekhaya;",
+        "Noxa ndingakufanele, Wena wandifela;",
+        "Undiphil’ umvuzo Kuyimpila entsha;",
+        "Noxa ndingakufanele, Wena wandifela."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinengoma yokuvuma Ngosindiso lwaKho;",
+        "Xa ndimbona uMsindisi Ndiyakumdumisa.",
+        "Lo mzimba woba ngomnye, Sowenziwe wamtsha,",
+        "Xa ndimbona uMsindisi Ndiyakumdumisa."
+      ],
+      "number": 6
+    }
+  ]
+}

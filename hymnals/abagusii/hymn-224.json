@@ -1,0 +1,28 @@
+{
+  "number": 224,
+  "language": "guz",
+  "title": "224 Omotoria Ondaire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Omotoria ondaire;Ninki rende mborire?Tinkoba na tang'utangu,Ere n'Omorai one;Nere okong'a omorembe,Nimenye ime Yaye;Kende nagecha ase nde,Ere nandende buya;Kende nagecha ase nde,Ere nandende buya."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Omotoria ondaire,Nony' enchera er' embe;\"Ng'obuy' ekero ngotemwa\",Ndagera y'obogima;Kondagochwe amagoro,Na korang'a kegima;Korwa ase egetare,Narorire ensoko;Korwa ase egetare,Narorire ensoko."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Omotoria ondaire,As'obwanchani Bwaye!Ninyore ogotimoka,As'omochie o Tata;'Kero keria ndabokigwe,'Moerio bw'orogendo,Nyare gotera botambe:Yeso ndae enchera;Nyare gotera botambe:Yeso ndae enchera."
+      ],
+      "number": 3
+    }
+  ]
+}

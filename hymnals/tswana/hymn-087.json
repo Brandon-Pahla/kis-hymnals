@@ -1,0 +1,44 @@
+{
+  "number": 87,
+  "language": "tn",
+  "title": "87 Rara Re Tla Go Wena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Rara Re Tla G’wena Ka Ke Wena Thuso;",
+        "O re sireletse, Rea Go bitsa;",
+        "Fatshe lea boitshega. Fa Wena u seo;",
+        "Re gomotse fano, Rara’ botlhe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Rara re tla go Wena se fulare;",
+        "Ka re sena thuso, Rea rapela."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Boloke Babeng, Le Mo Mahutsaneng,",
+        "R’ikhutse go Wena Fa re tlhoka;",
+        "Re boi re bokoa, O bue kgomotso,",
+        "Tla O re nonotshe Ka letsogo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Nee Tshwaro Ya Go, Re Nne Ba Go Fela,",
+        "Tlosa nao tsa rona Mo boleong.",
+        "Wena O re goge, Mo botshelong jono,",
+        "Mme kwa kgalalelong, Re tla nna nao"
+      ],
+      "number": 3
+    }
+  ]
+}

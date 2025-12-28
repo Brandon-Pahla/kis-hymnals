@@ -1,0 +1,64 @@
+{
+  "number": 246,
+  "language": "ve",
+  "title": "246. Amba Ipfi Nga Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Amba ipfi nga Yesu, thama ya vhukuma,",
+        "Takadza mbilu yau nga zwe a u itela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Amba fhungo nga Yesu,",
+        "li dededze vhaeni,",
+        "Ipfi lithihi fhedzi,",
+        "Imba rabela."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Amba ipfi nga Yesu, zwivhi zwi hangwelwe,",
+        "kondelela nga tshilidzi, u ye hayani."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Amba ipfi nga Yesu, zwi nga si lemele,",
+        "U ri ndi a mu funesa Mutshidzi wanga."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Amba ipfi nga Yesu, si tshinye tshifhinga,",
+        "Wa sa ita mushumo zwi disa matungu."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Amba ipfi nga Yesu, si dzime lutendo,",
+        "kondelela u ima u mu fulufhedze."
+      ],
+      "number": 6
+    }
+  ]
+}

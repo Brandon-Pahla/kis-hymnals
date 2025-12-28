@@ -1,0 +1,49 @@
+{
+  "number": 513,
+  "language": "tw",
+  "title": "Mete Soro Dɔ Mu Yi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mete soro dɔ mu yi,",
+        "Me koma nsuro hwee;",
+        "Wɔn a wɔte saa ho sɔnn,",
+        "'Fisɛ hwee nsakra ha;",
+        "Ahum betwa me hō ahyia",
+        "Ama me komá atu,",
+        "Nanso Nyame wɔ m'afa",
+        "Enti merensuro."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔde me fa he arā a",
+        "Ohia rentum' nsan me;",
+        "Me Guanhwɛfo wɔ me nkyɛn,",
+        "Enti hwee renhia me;",
+        "Ne nyansa ngo na ada,",
+        "N'ani nyɛ kusuu da;",
+        "Onim kwan a ɔnam so",
+        "Na me ne No bɛkɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wura frɔmfrɔm wɔ m'anim",
+        "A minnya minhui mpo;",
+        "Nea munumkum sii kwan no,",
+        "Ͻrenkyɛ n'ayɛ hann,",
+        "M'anidaso nni kabea",
+        "Me nkwa kwan da hɔ kwa;",
+        "M'ade wɔ me Gyefo nsam',",
+        "ɔne me bɛnantɛw."
+      ],
+      "number": 3
+    }
+  ]
+}

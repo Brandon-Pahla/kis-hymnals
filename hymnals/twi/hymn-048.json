@@ -1,0 +1,37 @@
+{
+  "number": 48,
+  "language": "tw",
+  "title": "A Dekyee Hann De Bɔkɔɔ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Adekyee hann de bɔkɔɔ",
+        "Retwam fi yɛn anim kɔ:",
+        "Yɛapɔn yɛn nnwuma yi no,",
+        "W'ra yɛne Wo bɛkasa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wō a W'ani hu ade ny'naa",
+        "Na b'ribiara nhinta Wo,",
+        "Fa mfomso a ada adi",
+        "Ne kokoam bɔn' biara f'ri."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻrenkyɛ, adekyee hann",
+        "Betwam afi yɛn so kōraa;",
+        "B'rč a 'w'rɛhow ny'naa atwam no,",
+        "'W'ra ma yɛmmɛtra Wo nkyɛn."
+      ],
+      "number": 3
+    }
+  ]
+}

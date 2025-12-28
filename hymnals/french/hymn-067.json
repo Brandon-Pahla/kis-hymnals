@@ -1,0 +1,43 @@
+{
+  "number": 67,
+  "language": "fr",
+  "title": "Combien était pénible",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Combien était pénible",
+        "Le chemin qui montait",
+        "Vers ce moment terrible",
+        "Où ses amis le lâcheraient!",
+        "Pour eux, il avançait,",
+        "Pour eux, il avançait."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Combien étaient indignes",
+        "Tous ceux qui le jugeaient!",
+        "Les coups et les épines,",
+        "Les moqueries, les quolibets,",
+        "Pour eux, il acceptait,",
+        "Pour eux, il acceptait."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Combien était atroce",
+        "Le temps qui s’écoulait!",
+        "Il eut encore la force",
+        "De prier : « Veuille pardonner ».",
+        "Pour nous, il s’est donné,",
+        "Pour tous, il s’est donné."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "number": 322,
+  "language": "fr",
+  "title": "Voici mon cœur",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Voici mon cœur, je viens vers toi, Seigneur.",
+        "Jésus, je suis devant ta croix,",
+        "J'y vois tout ton amour pour moi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu as pardonné jusqu'au bout,",
+        "Pour toi je me mets à genoux."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus, tu es ressuscité,",
+        "Ta joie, tu veux nous la donner."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oui, j'ai reconnu ton amour,",
+        "Pour toi je chanterai toujours."
+      ],
+      "number": 4
+    }
+  ]
+}

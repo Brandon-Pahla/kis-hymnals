@@ -1,0 +1,68 @@
+{
+  "number": 32,
+  "language": "tum",
+  "title": " 32 Fumu Ndi Jarawe Lithu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 32 Fumu Ndi Jarawe Lithu",
+        "THE LORD'S OUR ROCK"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Fumu ndi jarawe lithu ndiyo",
+        "Chiphokwero chithu",
+        "Wakutithaska mu vyose,",
+        "Ndiyo chiphokwero chithu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndi Jarawe Lakukhola ndimfwini",
+        "M'dazi La kocha;",
+        "Ndi mrongozgi pa ulendo,",
+        "Ndiyo chiphokwero chithu"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Pa nyengo yakwenda m'chisi,",
+        "Ndiyo chiphokwero chithu;",
+        "Ise ntha topenge kanthu,",
+        "Ndiyo chiphokwero chithu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nanga chiwowota chize,",
+        "Ndiyo chiphokwero chithu;",
+        "Mwa Chiuta tikondwenge,",
+        "Ndiyo chiphokwero chithu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Jarawe na mfwiri withu,",
+        "Ndimwe chiphokwero chithu",
+        "Muwenge movwiri withu,",
+        "Ndimwe chiphokwero chithi"
+      ],
+      "number": 5
+    }
+  ]
+}

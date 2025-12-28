@@ -1,0 +1,24 @@
+{
+  "number": 22,
+  "language": "ts",
+  "title": "22. NDZI TWA NKATEKO WA TSHONA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LORD, I HEAR OF SHOWERS OF BLESSING",
+        "1. Ndzi Twa Nkateko Wa Tshona, Wu Averiwa Mahala;",
+        "Wu Pfuxelela Wa Torha, Wu Nise Henhla Ka Mina.",
+        "CHORUS",
+        "Ka Mina, Ka Mina, Wu Nise Ne Ka Mina.",
+        "2. U Nga Ndzi Siyi Tatana, Na Hambi Ndzi Ri Mudyohi;",
+        "Ndzi Kombela Ntsetselelo, Ndzi He Tintswalo Ta Wena.",
+        "3. Khale Ndzi Tlele Vudyohwen, Ndzi Tshova Mbilu Ya Wena;",
+        "Ndzi Tinyikele Misaveni, Tsetselela, Ndzi Ponise.",
+        "4. Wena Moya Wo Kwetsima, Ndzi He Ku Rhula Ka Wena;",
+        "Pfula Mahlo Ndzi Ta Byela Vanhu Vumbhoni Bya Yesu."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "number": 585,
+  "language": "pt",
+  "title": "Oh! Adorai",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Oh! Adorai"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! Adorai ao Deus triúno,",
+        "Pois Ele é Deus onipotente!",
+        "Oh! Adorai ao Rei divino,",
+        "Pois Ele reina, eternamente!",
+        "Amém."
+      ],
+      "number": 2
+    }
+  ]
+}

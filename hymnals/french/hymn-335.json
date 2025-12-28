@@ -1,0 +1,43 @@
+{
+  "number": 335,
+  "language": "fr",
+  "title": "Pour triompher...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Pour triompher dans les combats,",
+        "Quelle est notre force ici-bas ?",
+        "Quelle est la divine lumière",
+        "Qui nous dirige et nous éclaire",
+        "Dans la nuit sombre de l'erreur ?",
+        "C'est la parole du Seigneur."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quelle est l'épée à deux tranchants,",
+        "Qui sonde l'âme du méchant",
+        "Qui met à jour bien des mobiles,",
+        "Dont l'aveu est si difficile,",
+        "Et qui pénètre au fond du cœur?",
+        "C'est la parole du Seigneur."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que ta parole habite en moi,",
+        "Éclaire et ranime ma foi,",
+        "Et que telle une source pure,",
+        "Elle m'abreuve et me rassure.",
+        "Je veux devenir un vainqueur,",
+        "Par ta parole, ô Seigneur !"
+      ],
+      "number": 3
+    }
+  ]
+}

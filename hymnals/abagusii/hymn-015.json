@@ -1,0 +1,35 @@
+{
+  "number": 15,
+  "language": "guz",
+  "title": "15 Kwana N'enkoro Yane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kwana nenkoro yane,Ontebi' amangana;Nyigwe enkoro ime,\"Tori aye bweka\";Igor' cnkoro yane,Nyigwe riogi riao;Erio ngotogie aye,Nchenge ime yao."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Omonyerere ngoraN'obwanchani bwao;Mbe omobui boriotari n'ebibe;Kwana nainch' OmoneneN'Obwanchani bwao;Omonyerere ng'ora\"Tori aye bweka\"."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kwana n'abana bao,Enchera enchenu;Baichorie Omogoko,Barende barabe,Baru' Obogim' as'orebonda bwao boche;Omonene oito nchuo,karansa na intwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Okwane buna karegwakwanete ense;Nindigetie nkomanye,Erio ntar' as'ore;Nyorokia ngosik' ayenkobake botambe;Mbwatie ayorigetie,'Matuko nde moyo."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 159,
+  "language": "en",
+  "title": "159  How Much I Need Thee.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Blessed Lord, how much I need thee!",
+        "Weak and sinful, poor and blind;",
+        "Take my trembling hand and lead me,",
+        "Strength and sight in thee I find."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ev’ry hour, ev’ry hour, Blessed Lord,",
+        "How much I need thee!",
+        "Ev’ry hour, ev’ry hour,",
+        "Saviour, keep me ev’ry hour."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Clothe me with thy robe of meekness,",
+        "Stained with sin this robe of mine;",
+        "Teach first to feel my weakness,",
+        "Then to plead for strength divine."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Safe am I if thou dost guide me,",
+        "Trusting self how soon I fall;",
+        "Walk life’s rugged way beside me,",
+        "Thou, my light, my life, my all."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Then what e’er the future bringeth,",
+        "Smiles of joy or tears of grief;",
+        "Still to thee my spirit clingeth,",
+        "Thou art still my soul’s relief."
+      ],
+      "number": 4
+    }
+  ]
+}

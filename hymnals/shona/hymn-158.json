@@ -1,0 +1,45 @@
+{
+  "number": 158,
+  "language": "sn",
+  "title": "158 Kurumidzanyi Zuva Renyu Rakanaka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kupura kwepasi kwaswedera",
+        "Tenzi anodana vacheki vake",
+        "Kure nepetyo mapfunde aibva",
+        "Aibva kuti apinzwe mudura"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Swendedza musi, Takura mwanda",
+        "Swendedza musi, kumusha"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mangwanani asina kuchenaba",
+        "Arikukasika kuswedera",
+        "Mapfunde akaraswa muchitema",
+        "Ngaaunganidzwe nguva ichipo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvanaka kusevenza nerudo,",
+        "Tsime rakanaka rekudenga",
+        "Tokokwa tosundwa neurwu rudo",
+        "Runotipa michero yakawanda"
+      ],
+      "number": 4
+    }
+  ]
+}

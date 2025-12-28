@@ -1,0 +1,46 @@
+{
+  "number": 280,
+  "language": "xh",
+  "title": "280 Iingoma Ezimnandi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Iingoma ezimnandi Ngeli lang’ elihle;",
+        "Sibonga uMsindisi, U-Bomi neNdlela."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Bonga! Bonga uKumkani wethu;",
+        "Bonga! Bonga! Duma eNkosini."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wayethand’ abantwana Eses’ emhlabeni;",
+        "Naxa asezulwini, Usithanda njalo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sithand’ ukumdumisa, Siv’ indaba ngaYe;",
+        "Ngobomi bukaYesu EseseGalili."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi yethu engcwele Siwa phambi kwaKho;",
+        "Sicela usincede Siphilele wena."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 62,
+  "language": "st",
+  "title": "62 Jesu Kea Ho Rata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu kea U rata, kea tseba U oa ka; Ke lahla tsohe bothoto le sebe,",
+        "Mohauheli oa ka, ’Moloki oa ka, Ha ke U ratile Jesu, ke joale."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke U rata hoba U nthatile pele; Ua nthekela ts’oarelo sefapanong,",
+        "Ke U rata hoba u roetse meutloa, Ha ke U ratile Jesu ke joale."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tla U rata bophelong le lefung; Ke tla u boka ha ke ntse ke phetse,",
+        "Leha serame sa lefu se le ho ’na, Ha ke U ratile Jesu ke joale."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Litulo tsa khalalelo le tsa thabo; Ke tla U roka hona leholimong,",
+        "’Me ke bine ke ntse ke roetse moqhaka, Ha ke u ratile Jesu ke joale."
+      ],
+      "number": 4
+    }
+  ]
+}

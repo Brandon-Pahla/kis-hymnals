@@ -1,0 +1,67 @@
+{
+  "number": 391,
+  "language": "es",
+  "title": "¿Le importará a Jesús?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¿Le importará a Jesús?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Le importará a Jesús",
+        "que esté doliente mi corazón?",
+        "Si ando en senda oscura de",
+        "aflicción",
+        "¿puede darme consolación?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Le importa, sí;",
+        "su corazón comparte ya mi dolor.",
+        "Sí, mis días tristes, mis noches",
+        "negras",
+        "le importan al Señor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Le importará que en oscuridad",
+        "camine con gran temor?",
+        "Al anochecer, en la lobreguez,",
+        "¿me acompañará el Salvador?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Le importará si mi voluntad",
+        "faltare en la prueba atroz;",
+        "si he cedido al mal, a la tentación,",
+        "y el llanto ahoga mi voz?"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Le importará cuando diga \"adiós\"",
+        "al amigo más caro y fiel,",
+        "y mi corazón lleno de aflicción",
+        "haya de apurar la hiel?"
+      ],
+      "number": 6
+    }
+  ]
+}

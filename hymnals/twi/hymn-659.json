@@ -1,0 +1,27 @@
+{
+  "number": 659,
+  "language": "tw",
+  "title": "Yɛn Agyenkwa Kristo Dom No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn Agyenkwa Kristo dom no,",
+        "Agya no dɔ kɛse no,",
+        "Ne Honhom Kronkron no adɔe,",
+        "Mfi soro mmɛtra wɔn so."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻno na nkabom mu wɔne",
+        "Wɔn ho ne 'W'rade bɛtra,",
+        "Na 'yɔnkofa pa mu wɔanya",
+        "Dɛw a wiase ntumi mma."
+      ],
+      "number": 2
+    }
+  ]
+}

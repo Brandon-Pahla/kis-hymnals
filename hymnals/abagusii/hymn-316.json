@@ -1,0 +1,35 @@
+{
+  "number": 316,
+  "language": "guz",
+  "title": "316 Abang'ina Bakareta Abana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ker'abang'ina bareteraYes'abana,'Borokigwa'as'obotindibakabaseria;Yes'akarora bagotam-'agateba n'obwororo,\"Aban'abake nabach'ase nde.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. \"Nimbaire mbabogori'as'egekuba kiane,Mb'Omorisia bweching'ondi tagochiseria;Kobarang'e chinkoro chiabombameny'as'Obonene,\"Aban'abake nabach'ase nde.\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Motori'OmuyaOkoarigani'abana,Mbar' abangebatamanyeti rieta riaye;'Motori' Omuya toigwegotogosaba otebe,\"Aban'abake nabach'ase nde."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Bwango tig'abantob'ebisaku nechinse,Bach'ase Yesobatugute chisanamu;Nabarab'erio bakomanyeNyasae bw'obwanchani.Beger'Omotoria bach'as'ore."
+      ],
+      "number": 4
+    }
+  ]
+}

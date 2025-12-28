@@ -1,0 +1,63 @@
+{
+  "number": 381,
+  "language": "fr",
+  "title": "La voix du Christ...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "La voix du Christ nous appelle;",
+        "Il est temps de s'éveiller:",
+        "« La moisson est vaste et belle!",
+        "Qui veut pour moi travailler ? »",
+        "C'est ton Sauveur, ô mon frère,",
+        "Dont l'appel s'adresse à toi.",
+        "Réponds-lui d'un cœur sincère :",
+        "« Me voici, Maître, prends-moi. »"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sans franchir les mers bruyantes,",
+        "Tu peux annoncer Jésus.",
+        "Que d'âmes insouciantes,",
+        "De cœurs souffrants et perdus !",
+        "Autour de nous l'œuvre est grande,",
+        "Mais petite est notre foi.",
+        "À Jésus qui nous commande,",
+        "Répondons : « Maître, aide-moi ! »"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si d'un sublime langage",
+        "Tu n'as pas reçu le don,",
+        "Tu peux rendre témoignage",
+        "Qu'en Jésus est le pardon.",
+        "À ton frère tu peux dire",
+        "Ce que Christ a fait pour toi.",
+        "Pour que lui-même t'inspire,",
+        "Dis-lui : « Maître, enseigne-moi ! »"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mais que nul ne nous entende",
+        "Dire encor’ : « Je ne puis rien ! »",
+        "Lorsque Jésus nous commande",
+        "De faire et d'aimer le bien.",
+        "Poursuivons l'œuvre bénie",
+        "Avec zèle, amour et foi.",
+        "Puis, notre tâche finie,",
+        "Nous dirons : « Maître, prends-moi. »"
+      ],
+      "number": 4
+    }
+  ]
+}

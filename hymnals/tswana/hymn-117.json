@@ -1,0 +1,46 @@
+{
+  "number": 117,
+  "language": "tn",
+  "title": "117 Ke Utlwa Ntswe Ja ’Go",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Utlwa Ntswe Ja ’Go, Le Mpitsa Morena;",
+        "Go ntlafatswa mading a ’Go, A elang khal’fari"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "K’e tla Morena, Ke tla go Wena;",
+        "O ntlhapise mo mading, A elang Khal’fari."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Tla Mo Bokoeng, Thata E Go Wena;",
+        "O nntlafatsa lesweng jotlhe, Ke be ke itsheke."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Jeso’ Mpiletsang Tumelong, Loratong;",
+        "Tsholofelong le kagisong,’Fatshing le godimong."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tumisang Madi A ’Gwe; Tumisang Poloko;",
+        "Tumisang neo ya Morena, Nonofo ya rona."
+      ],
+      "number": 4
+    }
+  ]
+}

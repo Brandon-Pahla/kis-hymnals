@@ -1,0 +1,31 @@
+{
+  "number": 19,
+  "language": "st",
+  "title": "19 Itlhokomele Moea Oa Ka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Itise moea oa ka! Lira li atile;",
+        "Makhotla ’sebe a teng, Hore a tle a ho lihe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hlabana u rapele! Se inehele ntoeng;",
+        "Hlabana nako tsohle,’Me u be u kope thuso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha u eso ho hlole, ’Se ke ua tepella;",
+        "Mosebetsi o tla feela, U be u thole moqhaka"
+      ],
+      "number": 3
+    }
+  ]
+}

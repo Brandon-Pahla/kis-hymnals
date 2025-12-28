@@ -1,0 +1,55 @@
+{
+  "number": 335,
+  "language": "es",
+  "title": "Mi hogar celestial",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Mi hogar celestial"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hay en el cielo un dulce hogar,",
+        "donde prefiero yo morar;",
+        "Jesús, mi Señor, me prepara allí",
+        "un hogar, un bellísimo hogar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Bello hogar, dulce hogar,",
+        "donde anhelo estar.",
+        "Miro al fulgor de la patria de luz:",
+        "mi dulce hogar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Con mis amados me veré;",
+        "a Cristo allí coronaré;",
+        "loor le daré por la eternidad",
+        "en mi hogar, mi bellísimo hogar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La vida es breve, pronto iré",
+        "a estar con mi glorioso Rey;",
+        "con clara visión puedo contemplar",
+        "mi hogar, mi bellísimo hogar."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "number": 138,
+  "language": "sn",
+  "title": "138 Kuzvipira Kuna Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tora upenyu hwangu",
+        "Huzvipire kunemwi",
+        "Tora mawoko angu",
+        "Ayite rudo rwako"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndisambe ngeropa reNyenye",
+        "Ndasambwa, ndachena sechero",
+        "Tenzi ndomupa upenyu nezvese",
+        "Ndiwe wenyu narini"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tora makumbo angu",
+        "Amuitore basa",
+        "Tora izwi ndiimbe",
+        "Kunemwi nguva dzose"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tora muromo wangu",
+        "Uta’re soko renyu",
+        "Tora upfumi hwangu",
+        "Ndisasare nechiro"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tora nguva dzangu",
+        "Dzimukudze narini",
+        "Toranyi pfungwa dzangu",
+        "Mudziitise basa"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tora zvidiso zvangu",
+        "Zviite zviwe zvenyu",
+        "Toranyi mwoyo wangu",
+        "Uwe chigaro chenyu"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Toranyi rudo rwangu",
+        "Tenzi ndinozvi pira",
+        "Tora huini hwangu",
+        "Huwe hwenyu narini"
+      ],
+      "number": 7
+    }
+  ]
+}

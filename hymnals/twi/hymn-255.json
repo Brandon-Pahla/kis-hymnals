@@ -1,0 +1,63 @@
+{
+  "number": 255,
+  "language": "tw",
+  "title": "Mintumi Nky'rɛ Senti a Nea",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mintumi nky'rɛ sentė a Nea 'bɔfo som Non'",
+        "Beyi Ne dɔ adi aky'rɛ nnipa,",
+        "Nea 'nti Guanhwɛfon' bɛhwehwɛɛ kwantofo,",
+        "De wɔn san ba a wontum' nte ase;",
+        "Nanso minim sɛ Maria na ɔwoo No,",
+        "B'rč a na Betlehem mmoa dan yɛ Ne fi.",
+        "Nea ɔtraa Nasaret yɛɛ adwuma hɔ;",
+        "Enti wiase nyinaa Agyenkwa no aba."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mintumi nky'rɛ sɛnea Ohuu amane,",
+        "De N'asomdwoe dom nusu wiase yi;",
+        "Anaa sɛnea Ne koma bui dua no so,",
+        "Hyɛɛ yaw kyɛw wiee Ne mfe 'duasa mmiɛnsa:",
+        "Nanso minim sɛ ɔsa Koma yare,",
+        "Popa bɔne, yi yɛn suro fi hɔ;",
+        "Na ɔsoɛ wɔn a wɔasoa nnesoa abrɛ,",
+        "'Fisɛ wiase nyinaa Agyenkwa no wɔ ha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mintumi nky'rɛ sɛnea ɔbɛgye aman,",
+        "Abɛgye Ne wiase 'pɛgyade yi,",
+        "Sɛnea ɔde ahiade ne nhy'ra bɛma",
+        "Apuei, atɔe, bɔn'yɛfo, nyansafo;",
+        "Nanso minim sɛ honam nyinaa behuN';",
+        "Na Obetwa N'aba a Wagu no;",
+        "Na da bi no N'aba a Wagu no;",
+        "B'rč a wobehu sɛ ɔnne wiase Agyenkwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Minnim sɛnea nsase nyinaa bɛsom No,",
+        "B'rč a ɔma 'sorɔkye nyinaa yɛ komm;",
+        "Anaa nea ɔbɛky'rɛ dɛw a ɛbɛyɛ,",
+        "B'rč a Ne ho dɔ hyɛ yɛn koma ma no;",
+        "Nanso minim sɛ N'ayeyi bɛsɔr' wim",
+        "Na mpempem ama wɔn nne so nnwonto m';",
+        "Na s'ro bɛma so na 'sase agye so,",
+        "Afei na wiase Agyenkwa no adi hen'."
+      ],
+      "number": 4
+    }
+  ]
+}

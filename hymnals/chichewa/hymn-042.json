@@ -1,0 +1,28 @@
+{
+  "number": 42,
+  "language": "ny",
+  "title": "42 - Sitidzalekananso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WITH FRIENDS ON EARTH"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Tikakhala ndi abwenzitu, M’dziko lathu lino,",
+        "Posachedwa timalekana Nao mwa chisoni.",
+        "CHORUS:",
+        "Sitidzalekana m’mwamba, Sitidzalekana,",
+        "M’dziko lokometsetsalo, Sitidzalekana.",
+        "2. Timakhala ndi ch’yembekezo, Pakufa anzathu,",
+        "Kuti pakutha dziko lino, Tidzakhala nao.",
+        "3. Sitidzalekananso ai, M’dziko lokomalo,",
+        "Nyimbo za chimwemwe, mtendere, ’Dzayimba kosatha."
+      ]
+    }
+  ]
+}

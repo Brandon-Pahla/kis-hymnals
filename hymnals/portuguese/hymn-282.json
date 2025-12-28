@@ -1,0 +1,54 @@
+{
+  "number": 282,
+  "language": "pt",
+  "title": "Tempo de Ser Santo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Tempo de Ser Santo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tempo de ser santo tu deves tomar;",
+        "Ter vida em teu Mestre, Seu livro estudar;",
+        "Ser junto a Seu povo luz sempre a brilhar,",
+        "E aos necessitados ir para salvar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tempo de ser puro tu deves achar;",
+        "Sempre a sós orando, com Cristo ficar;",
+        "Teus olhos bem fitos Ter no Salvador;",
+        "Por tua conduta dar provas de amor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tempo de ser forte tu deves buscar;",
+        "O Mestre seguindo por onde guiar;",
+        "Em gozo ou tristeza sempre obedecer;",
+        "Da Fonte divina, sim, nunca esquecer."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tempo de ser útil tu deves guardas;",
+        "Mui calmo nas lutas, em Deus confiar;",
+        "Ter para os aflitos voz e atos de amor;",
+        "Sim, mais semelhante ser ao Salvador."
+      ],
+      "number": 5
+    }
+  ]
+}

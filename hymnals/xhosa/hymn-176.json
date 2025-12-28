@@ -1,0 +1,39 @@
+{
+  "number": 176,
+  "language": "xh",
+  "title": "176 Themba Elinoyolo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Likho elithemba, Elinexabiso",
+        "Kunazo zonk’ ezimpoxo Zithandwa lilizwe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kukho inkwenkwezi Esikhanyisela",
+        "Isasaza lonk’ uxolo Ngaphezu kwengcwaba."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kukh’ ilizwi lihle Liphakamisayo,",
+        "Ligxoth’ uthingazo lithi, \"U-Thix’ uluthando.\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Liphum’ e-Kalvari, Likhwaz’ uxolelo;",
+        "Lenkwenkwezi sityhilelo, Ithemba lezulu."
+      ],
+      "number": 4
+    }
+  ]
+}

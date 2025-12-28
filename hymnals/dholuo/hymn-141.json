@@ -1,0 +1,42 @@
+{
+  "number": 141,
+  "language": "luo",
+  "title": "141 Yesu Oluongoi Mondo Ibi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu oluongoi mondo ibi,Oluongoi kawuononi;Nikech oneno kibayo marach,Kidhiyo mabor kode."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oluongoi, oluongoi,Yesu (Yesu oluongoi tinde),Yesu oluongi (Kawuono ibi),Oluongi kawuono ibi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yesu oluongo jo mool giyuwe,Oluongou kawuononi;Kelne ting` duto machandi pile,En ok noriembi kodgi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yesu oriti, bi ire tinde,Oritoi kawuononi;Bi ire, nyise richoni duto;Reti, to kik ideki."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Yesu osayo, dak iwinj dwonde;Yie winj dwonde, kawuononi;Jogo moyie nyinge giniyud mor,Chungi, dhi ire piyo."
+      ],
+      "number": 5
+    }
+  ]
+}

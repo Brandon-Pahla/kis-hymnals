@@ -1,0 +1,56 @@
+{
+  "number": 400,
+  "language": "pt",
+  "title": "Quero Ter Jesus Comigo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Quero Ter Jesus Comigo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quero ter Jesus comigo,",
+        "Quero a sós com Ele andar.",
+        "Quero ver Seu lindo rosto,",
+        "Em Seus braços descansar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Tendo fé no Salvador,",
+        "Descansando em Seu amor,",
+        "Seguirei no meu caminho,",
+        "Sem tristeza, sem temor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quero ter Jesus comigo;",
+        "Frágil sou em minha fé.",
+        "Sua voz me dá conforto",
+        "Quando me vacila o pé."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quero ter Jesus comigo,",
+        "Sempre aqui em meu viver,",
+        "No lazer e no trabalho,",
+        "No pesar e no prazer."
+      ],
+      "number": 5
+    }
+  ]
+}

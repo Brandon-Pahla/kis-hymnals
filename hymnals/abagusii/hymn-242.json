@@ -1,0 +1,35 @@
+{
+  "number": 242,
+  "language": "guz",
+  "title": "242 Gok'ens' Omonene Nache",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Gok'ens' Omonene nache,Rotot' Omogambi,Ker'oyomo amoganye,Ere kagochicha,Ere kagochicha,Ere, Ere kagochicha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Gok'ens' Omonene agambe,Banto bamotogie,Bonsi na bionsi Motogie,Motogie kobua,Motogie kobua,Moto-motogie kobua."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nagamb' ense as' obuya,Bisaku bimanye,Obonene bwaye bori,Obwanchani bwaye,Obwanchani bwaye,'Bwanchani 'bwanchani bwaye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Bib' obororo mbikoba,gos'amagw'as'ense,Naretan' ogosesenia,gotub' amab'onsi,'Y' okoragereria,'y' oko-'y' okoragereria."
+      ],
+      "number": 4
+    }
+  ]
+}

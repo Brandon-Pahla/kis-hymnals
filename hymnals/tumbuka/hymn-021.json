@@ -1,0 +1,79 @@
+{
+  "number": 21,
+  "language": "tum",
+  "title": " 21 Nkhwiza Kvwinu Wa Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 21 Nkhwiza Kvwinu Wa Yesu",
+        "IAM COMING T THE CROSS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ndili kudza kwa Yesu,",
+        "Ndasauka ndachimwa;",
+        "Zonse zanga ndisiya,",
+        "Kukapeza moyotu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu ndikhulupira,",
+        "Munafera inedi,",
+        "Mwa umphawi ndipempha,",
+        "Mundipulumutsetu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Inde, Inu ndifuna,",
+        "Ndinachimwa kwambiri;",
+        "Yesu ati, Ndichotsa",
+        "Zakuipa zakozo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Yesu zonse ndipatsa,",
+        "Zili zanu tsopano,",
+        "Mtima wanga wonsewu,",
+        "Muli mwini waketu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Ndikukhulupirani,",
+        "Mwazi wanu ndidziwa,",
+        "Wayeretsa inenso,",
+        "Ndapachikwa ndi Khristu."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "Yesu adzandidzaza",
+        "Mtima wanga wonsewu,",
+        "Ine ndili woyera,",
+        "Yesu wanga nditama."
+      ],
+      "number": 6
+    }
+  ]
+}

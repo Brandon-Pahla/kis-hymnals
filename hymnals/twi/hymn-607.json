@@ -1,0 +1,55 @@
+{
+  "number": 607,
+  "language": "tw",
+  "title": "Anuonyam Ne Dom Nyame, Hwie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Anuonyma ne dom Nyame hwie",
+        "Wo tumi gu Wo mma so;",
+        "Ma W'asafo nsa nka bɔhyɛn'",
+        "Na ma ennyin sɛ nhwiren;",
+        "Ma yɛn nyansa ne aboɔd'ru",
+        "Na ɛmmoa yɛn dɔn yi mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Tamfo atwa yɛn ho ahyia",
+        "Wɔredi Kristo ho fɛw;",
+        "Gye yɛn koma fi 'hu mu na",
+        "Ennya gyidi ne nkamfo;",
+        "Ma yɛn nyansa ne aboɔd'ru",
+        "Na ɛmmoa yɛn dɔn yi mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yi akosɛm fi Wo mma mu;",
+        "Di yɛn ahantan ny'naa so.",
+        "Ma y'ani nwu sɛ yɛbɛpɛ",
+        "'Honyade sen ɔkra no;",
+        "Ma yɛn nyansa ne aboɔd'ru",
+        "Na ɛmmoa yɛn dɔn yi mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa yɛn nan si nea hɔ k'rɔn na",
+        "Sɔ yɛn bra mu ma yɛmfa",
+        "Kristo nyɛ yɛn akode wɔ",
+        "Yɛn ahofadi ko nom';",
+        "Ma yɛn nyansa ne aboɔd'ru",
+        "Na ɛmmoa yɛn dɔn yi mu."
+      ],
+      "number": 4
+    }
+  ]
+}

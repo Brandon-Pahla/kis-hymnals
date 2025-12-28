@@ -1,0 +1,43 @@
+{
+  "number": 28,
+  "language": "tw",
+  "title": "Momma Yenyi Aw'rade Ayɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Momma yenyi Aw'rade ayɛ,",
+        "Ade fɛfɛ a Wayɛ nti;",
+        "Yɛbɛda No ase asom No;",
+        "'Nigye rentumi nsi yɛn kwan;",
+        "Momma yenyi Aw'rade ayɛ,",
+        "Ade fɛfɛ a Wayɛ nti."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Munyi No ayɛ, Nea N'ani sɔ",
+        "Mmabun' a wɔyɛ adɔfo;",
+        "Monna N'ase, Nea ɔma 'wia pue",
+        "Sɛ yefor'kun' rehyia ne y're;",
+        "Munyi No ayɛ, Nea N'ani sɔ",
+        "Mmabun' a wɔyɛ adɔfo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Munyi No ayɛ, Nea ɔde nhw'ren",
+        "Ma yɛn koma so kɔ s'ro no;",
+        "Monna N'ase, ɔma obiara",
+        "Tum' a yɛde hu yɛn dɔfo;",
+        "Munyi No ayɛ, Nea ɔde nhw'ren",
+        "Ma yɛn koma so kɔ s'ro no."
+      ],
+      "number": 3
+    }
+  ]
+}

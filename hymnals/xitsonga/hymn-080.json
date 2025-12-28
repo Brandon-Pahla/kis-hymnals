@@ -1,0 +1,24 @@
+{
+  "number": 80,
+  "language": "ts",
+  "title": "80. TIRHANI, TIRHANI MALANDZA YA HOSI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TO THE WORK",
+        "1. Tirhani, Tirhani Malndza Ya Hosi, A Hi Landzeni Ntila Wa Hosi Yerhu,",
+        "Hi Rito RAkwe Hi Ta Kuma Matimba, A Hi Tirheni Hi Matimba Hinkwawo.",
+        "CHORUS",
+        "Tirhani. . . . .Tirhani, Tirhani. . . . . Tirhani, Ku Fika Yi Vuya Hosi.",
+        "2. Tirhani Mi Phamela La Nga Ni Ndlala, Va Yiseni Xihlobyeni Xa Vutomi,",
+        "Xihambano Xi Ta Va Ntsako Wa Hina, Hi Twarisa Tona Ta Ku Ponisiwa.",
+        "3. Tirhani Ntirho Wu Tele Wa Hinkwerhu, Hikuva Mfumu Wa Munyama Wu Ta Wa,",
+        "Ku Ta Kurisiwa Mfumu Wa Xikwembu, Ku Dzunisiwa Ngati Leyo Ponisa.",
+        "4. Tirhani Hosi Yi Kondxa Yi Tshinela, Ku Ta Kuma Wo Ntshovelo Wa Misava,",
+        "Hi Ta Tshama Mutini Wa Vakwetsimi, Hi Khensa Hi To Tinsimu Ta Masiku."
+      ],
+      "number": 1
+    }
+  ]
+}

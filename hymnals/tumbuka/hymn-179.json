@@ -1,0 +1,57 @@
+{
+  "number": 179,
+  "language": "tum",
+  "title": " 179 Ehena Mwanenthengwa Wakwiza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 179 Ehena Mwanenthengwa Wakwiza",
+        "C.S. 868 BEHOLD THE BRIDEGROOM"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Wanozgeka pakwiza mwenenthengwa, wakwiza!",
+        "Wano geka pakwiza mwenenthengwa, wakwiza!",
+        "Hena wakwiza, hena wakwiza!",
+        "Vwala mwenenthengwa 'mwe wakwiza."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ehena mwenenthengwa 'mwe wakwiza!",
+        "Ehena mwenenthengwa mwe wakwiza!",
+        "Hena wakwiza, hena wakwiza!",
+        "VwaLa, mwenenthengwa 'mwe wakwiza!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Gozganinge nyali zinu ziwale, wakwiza!",
+        "Gozganinge nyali zinu ziwale, wakwiza!",
+        "Wakwiza l'wiro, wakwiza l'wiro;",
+        "Nozgeka mwenenthengwa wakwiza!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Tose tayakum' temerera m'chanya, wakwiza!",
+        "Tose tayakum'temerera m'chanya, wakwiza!",
+        "Wizenge nadi, wizenge nadi;",
+        "Tayakumutemerera m'chanya."
+      ],
+      "number": 4
+    }
+  ]
+}

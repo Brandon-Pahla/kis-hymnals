@@ -1,0 +1,42 @@
+{
+  "number": 46,
+  "language": "nd",
+  "title": "46 Amazwi Amangalisay’",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Phinda u ngi hlabelele, Amazw’ okuphila;",
+        "Ma ngi bon’ ubuhle bawo, Amazw’ okuphila;",
+        "Ngamazwi omusa, A yangifundisa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngamazwi amahle wona, A yamangalisa;",
+        "Ngamazwi amahle wona, A yamangalisa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "uJesu wabapha bonke, Amazw’ okuphila;",
+        "Soni, u yabizwa, yizwa amazw’ okuphila.",
+        "Saphiwa ngesihle, a sisa kuJesu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ba tshele abantu bonke, amazw’ okuphila;",
+        "A leth’ ukuthula wona, NgoJes’ uMsindisi;",
+        "U yahlambulula Inhliziyo zethu"
+      ],
+      "number": 4
+    }
+  ]
+}

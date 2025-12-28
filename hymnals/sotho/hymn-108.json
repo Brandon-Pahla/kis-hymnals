@@ -1,0 +1,44 @@
+{
+  "number": 108,
+  "language": "st",
+  "title": "108  Leratong Ka Bonolo Oa Bitsa.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Molisa ea lerato, Oa u bitsa joale",
+        "Lesakeng la poloko, Phomolo, tulo li teng;",
+        "Tlo ka matla a senna, Tlo u sa le mocha,",
+        "Kena hona lesakeng Kena tseleng ea ’nete."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ka bonolo Oa bitsa; Tlo moleleri tlo koano ho ’na,",
+        "Ke ’mona A eme ka mamello, Jesu Molisa oa ka."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Molisa Ea lerato, O iteletse uena,",
+        "O bitsa ka bonolo, tlo ho ’na moleleri;",
+        "Akofa hoba kotsi e teng, Tlo, U ea bitsoa hle,",
+        "Kena hona lesakeng, Kena tulong ea khutso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tieho ke bothoto; Liphiri li tletse,",
+        "Li batla malahleha; Ho bolaea’likonyana,",
+        "Molisa Ea lerato; Oa u bitsa joale,",
+        "Sakeng la polokeho, Moo ho leng teng litulo."
+      ],
+      "number": 3
+    }
+  ]
+}

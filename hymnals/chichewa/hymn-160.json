@@ -1,0 +1,63 @@
+{
+  "number": 160,
+  "language": "ny",
+  "title": "160 - Yesu Andisungetu!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "KEPT FOR JESUS!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu andisungetu!",
+        "Ndi mphamvu yakeyo;",
+        "Dziko lisandidetse;",
+        "Kuti nditsate ’Ye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu andisungetu!",
+        "Mbuye ndipempha ’Nu;",
+        "Inetu ndine chabe, chabe,",
+        "Inu ndi zonsezo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yesu andisungetu!",
+        "Nditumikire ’Ye;",
+        "Ndichitetu kufuna,",
+        "Kwa Yesu, Mbuyeyo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yesu andisungetu!",
+        "Dziko ndilisiya;",
+        "Ndikhaletu wofatsa,",
+        "Woyera mtimamo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Yesu andisungetu!",
+        "N’khaletu wakeyo;",
+        "N’khaletu wake yekha,",
+        "Ku nthawi zonsezo."
+      ],
+      "number": 5
+    }
+  ]
+}

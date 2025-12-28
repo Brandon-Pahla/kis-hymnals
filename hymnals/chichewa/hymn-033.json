@@ -1,0 +1,30 @@
+{
+  "number": 33,
+  "language": "ny",
+  "title": "33 - Mulungu Atsogoza ’Ne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HE LEADETH ME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Mulungu atsogoza ’ne, Ndapuma m’mtima mwangamo.",
+        "Ayang’anira m’njiramo, Poyenda ine konseko.",
+        "CHORUS:",
+        "Mulungu atsogoza ’ne, Ndi dzanja-dzanja lakelo.",
+        "Ndidzamtsatira Mbuyanga, Poyenda ine konseko.",
+        "2. Masiku ena mdima bi, Ndimavutika m’mtimamo.",
+        "Pa nthawi zina nkondwadi, Popeza zokondwetsazo.",
+        "3. Ndzagwira dzanja lanulo, Osang’ung’udza konseyi,",
+        "Ndidzanka mokondweratu, Pomtsata Mbuye wangayo.",
+        "4. Podzatha ntchito yangayi, Podzagonjetsa tchimolo,",
+        "Kumene ndidzakhalatu, Sindidzaopa imfayo."
+      ]
+    }
+  ]
+}

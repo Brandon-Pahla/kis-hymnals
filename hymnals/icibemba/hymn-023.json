@@ -1,0 +1,31 @@
+{
+  "number": 23,
+  "language": "bem",
+  "title": "23 - MWIKALE NA INE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOVER O’ER ME HOLY SPIRIT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mwikale na ine nomba, Mupashi Wamushilo;",
+        "Mwikale muli ine pe, Mwise mube na ine.",
+        "CHORUS:",
+        "Mwikale, mwikale, Yesu mube na ine;",
+        "Mwikale muli ine pe, mwise mube na ine",
+        "2. Mwaishiba ukumpala, Nangu ine nanaka;",
+        "Ine ndemukabila pe, Mwise mube na ine.",
+        "3. Ine ndi muntu wanaka, Ndemulomba uluse;",
+        "Pela kuli ine nomba, Amaka yakutemwa.",
+        "4. Munsamba nokupususha, Mutima wabutisha;",
+        "Wansekesha ine nomba, Mwise mube na ine."
+      ],
+      "number": 2
+    }
+  ]
+}

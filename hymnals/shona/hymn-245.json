@@ -1,0 +1,55 @@
+{
+  "number": 245,
+  "language": "sn",
+  "title": "245 Hakuna Zita SeraJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tinoda zita raJesu, Kukunda amwe ese",
+        "Rinozadza wekudenga, Rinofadza vepasi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zita rake rinokunda amwe ese",
+        "Zita rake rinokunda amwe ese"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hakunazve rimwe zita, Kana mwoyo wasuwa",
+        "Hakunazve rimwe zita, Kana mwoyo wofara"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinovimba ndicham’ona, Ouya ane mbiri",
+        "Ndinovimba ndichatorwa, Mweya wangu wofara"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti achida ndishande, Mumunda make Tenzi",
+        "Ndoda andikomborere, Mumazvi nemabasa"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana oda kuti ndife, Ndingafire kwaari",
+        "Ndoda kuti ndisimbire, Nekugara kwaari"
+      ],
+      "number": 6
+    }
+  ]
+}

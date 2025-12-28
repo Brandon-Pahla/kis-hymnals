@@ -1,0 +1,45 @@
+{
+  "number": 293,
+  "language": "ve",
+  "title": "293. Khokho-Khokho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Khokho, ndi ’nyi, ho ima wavhudisa",
+        "Mueni wa vhuthu, haho ane a nga Ene;",
+        "Zwo ralo-muya wanga, U nga si mu vulele naa?",
+        "U do mu vulela naa? Lini, lini?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Khokho, khokho, ndi Yesu wavhudisa",
+        "Munango u khou konda, a u tendi u vulwa;",
+        "Fara ya munangoni, Naa hu nga vulwa hani-ha? Hani?",
+        "Naa hu nga vulwa hani-ha? Hani?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Khokho, khokho, lindela vho lugaho,",
+        "Sedza vhadzi li kha tshanda, lo phulelwa iwe;",
+        "Mato o u lindela, Naa u tshe wo di vala naa?",
+        "Naa u tshe wo vala naa? Vula! Vula!"
+      ],
+      "number": 4
+    }
+  ]
+}

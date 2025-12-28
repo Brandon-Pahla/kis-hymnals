@@ -1,0 +1,47 @@
+{
+  "number": 31,
+  "language": "en",
+  "title": "31 Sun Of My Soul",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sun of my soul, O Saviour dear!",
+        "It is not night if thou be near:",
+        "O may no earth-born arise",
+        "To hide thee from thy servants eyes"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "When soft the dews of kindly sleep",
+        "My weary eyelids gently steep,",
+        "Be my last thought-how sweet to rest",
+        "Forever on my Savior’s breast!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abide with me from morn till eve,",
+        "For without thee I cannot live;",
+        "Abide with me when night is nigh,",
+        "For without thee I dare not die."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Be near and bless me when I wake,",
+        "Ere thro` the world my way I take;",
+        "Till in the ocean of thy love",
+        "I lose myself in heaven above."
+      ],
+      "number": 4
+    }
+  ]
+}

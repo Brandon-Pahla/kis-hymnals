@@ -1,0 +1,61 @@
+{
+  "number": 4,
+  "language": "sw",
+  "title": "4 - Jina la Yesu, Salamu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Jina la Yesu, salamu! lisujudieni,",
+        "Ninyi mbinguni, hukumu na enzi mpeni.",
+        "Ninyi mbinguni, hukumu na enzi mpeni."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Enzi na apewe kwenu, watetea dini;",
+        "Mkuzeni Bwana wenu, na enzi mpeni.",
+        "Mkuzeni Bwana wenu, na enzi mpeni."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Enyi mbegu ya rehema, nanyi msifuni",
+        "Mmeponywa kwa neema, na enzi mpeni.",
+        "Mmeponywa kwa neema, na enzi mpeni."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Wenye dhambi kumbukeni, ya msalabani.",
+        "Kwa furaha msifuni, na enzi mpeni.",
+        "Kwa furaha msifuni, na enzi mpeni."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "Kila mtu duniani msujudieni,",
+        "Kote-kote msifuni, na enzi mpeni.",
+        "Kote-kote msifuni, na enzi mpeni."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 6,
+      "lines": [
+        "Sisi na wao pamoja tu mumo sifani.",
+        "Milele sifa ni moja, ni enzi mpeni.",
+        "Milele sifa ni moja, ni enzi mpeni."
+      ]
+    }
+  ]
+}

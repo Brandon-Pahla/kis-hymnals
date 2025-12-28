@@ -1,0 +1,66 @@
+{
+  "number": 425,
+  "language": "fr",
+  "title": "Chrétien, réjouis-toi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Chrétien, réjouis-toi !",
+        "Tressaille d'allégresse,",
+        "Car ton Sauveur est roi,",
+        "Regarde à lui sans cesse."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "En son amour, chrétien,",
+        "Réjouis-toi, réjouis-toi toujours !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Exalte le Seigneur",
+        "Il a sauvé ton âme !",
+        "Dieu l'a comblé d'honneur",
+        "Après la croix infâme."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pourquoi pleurer encor’ ?",
+        "Voici, ton Dieu confie",
+        "Les portes de la mort",
+        "Au prince de la vie."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Espère, adore et crois !",
+        "Jésus seul est le Maître;",
+        "Au loin, déjà je vois",
+        "Sa gloire enfin paraître."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Christ règne dans le ciel",
+        "Au sein de la lumière",
+        "Et son règne éternel",
+        "Bientôt viendra sur terre."
+      ],
+      "number": 6
+    }
+  ]
+}

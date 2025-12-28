@@ -1,0 +1,23 @@
+{
+  "number": 218,
+  "language": "ts",
+  "title": "218. YESU NTSENA, MASUNGULO YA YO KEREKE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE CHURCH HAS ONE FOUNDATION",
+        "1. Yesu Ntsena, Masungulo Ya Yo Kereke, Yi Tswariwe Hi Mati Na Rito Hi Vuntshwa,",
+        "Mutekiwa Wo Xonga U Yi Kutsurile,",
+        "Hi Ngati Yakwe No Fa, Matshanwini Ya Yona.",
+        "2. Yi Hlawulekile Misaveni Hinkwayo, Yi Vukarhe Mhamba Yo Ponisa Na Hosi,",
+        "Ntshembho Na Ntswalo Wun’we Vito Ro Kwetsima, Yi Tele Ku Hanana Na Tintswalo Takwe.",
+        "3. Yi Nga Ha Hlekiwa, Sandziwa No Monyiwa, Yi Xaniseriwa Ku Tshembha Yena Yesu,",
+        "Ntshembho Wa Vakwetsimi Wu Ta Vonakala, Vusiku Byi Ta Hundza, Ku Ta Nghena Ntsako.",
+        "4. Madzolongeni Na Le Maxangwini Ya Yona Yi Rindzele Hakelo Ya Ntsako, No Rhula,",
+        "Mahlo Ya Vona Nkateko Wa Ku Hlula, Kereke Yi Ta Xonga Masiku Hinkwawo."
+      ],
+      "number": 1
+    }
+  ]
+}

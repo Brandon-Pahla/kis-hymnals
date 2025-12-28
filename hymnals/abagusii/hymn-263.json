@@ -1,0 +1,35 @@
+{
+  "number": 263,
+  "language": "guz",
+  "title": "263 Eker' Emerem' Ekoera",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Eker' emerem' ekoera,Abagesi nabairane;Bakoretana rigesa,Goika Yerusalemu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Mogoko nabayorore,'Mogok'otari koera;'Mogok' ekiagera bono,'Meremo yaerire."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Rituko riria natotere,Komosaba, Komotogia;'Monene Yes' Omotoria,Aria Yerusalemu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Natobe n'omogok' aroro,As'obomenyo bwa Tata;Obwo bwabekirwe ang'e,Aria Yerusalemu."
+      ],
+      "number": 4
+    }
+  ]
+}

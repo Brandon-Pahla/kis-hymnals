@@ -1,0 +1,46 @@
+{
+  "number": 127,
+  "language": "en",
+  "title": "127 He Loves, Me Too.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "God sees the little sparrow fall,",
+        "It meets his tender view,",
+        "If God so loves the little birds,",
+        "I know he loves me, too."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "He loves me, too, he loves me, too,",
+        "I know he loves me too;",
+        "Because he loves the little things,",
+        "I know he loves me too."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "He paints the lily of the field,",
+        "Perfumes each lily bell;",
+        "If he so loves the little flow’rs,",
+        "I know he loves me too."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "God made the little birds and flow’rs,",
+        "And all things large and small;",
+        "He’ll not forget his little ones;",
+        "I know he loves me too."
+      ],
+      "number": 3
+    }
+  ]
+}

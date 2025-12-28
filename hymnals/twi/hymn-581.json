@@ -1,0 +1,49 @@
+{
+  "number": 581,
+  "language": "tw",
+  "title": "Yesu Asafo No Toto N'apon Mu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu asafo no",
+        "Toto n'apon mu,",
+        "Sɛnea 'bɔnten nnyigyei",
+        "Rentra mpaebɔ nnč a;",
+        "'Wura, ma yɛn mpaebɔ",
+        "Mma yenhu daa sɛ,",
+        "Wiasč a yɛpow no yɛ",
+        "Y'asodi Kristom'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ yɛn koma kanyan,",
+        "Nea ɔsom sɔre",
+        "Tra yɛn wiase a 'kɔm",
+        "Ne haw wom yi a:",
+        "Sɛ yɛn nnwom mma yɛn w'rɛ",
+        "Mfi n'ahiade nti,",
+        "Ma Kristom' nnwuma mfra",
+        "Yɛn Kristosom mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnea 'kyɛde, sika,",
+        "Ne mm'rč a yɛde ma",
+        "Nhyɛ yɛn 'honim so nkɔ",
+        "Yɛn 'nimguasem' nti;",
+        "'Wura, ka yɛn anim",
+        "Kwan a Woma so;",
+        "'Gyenkwa, ky'rɛ yɛn sɛnea",
+        "Kristofo bɔ bra."
+      ],
+      "number": 3
+    }
+  ]
+}

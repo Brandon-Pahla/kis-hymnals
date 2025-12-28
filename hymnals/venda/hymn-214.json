@@ -1,0 +1,61 @@
+{
+  "number": 214,
+  "language": "ve",
+  "title": "214. Yesu U A Londa Naa?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:181",
+        "AH:122"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu U a londa mbilu yo tungufhalaho",
+        "Ya kundwa na u imba nga u’ ya dinwa,",
+        "Lwendo lu tshi vho netisa?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ee, Yesu u a londa ngangoho (Ngoho ngoho U a londa)",
+        "U pfela ’ne vhutungu, Zwi tshi konda lotsha;",
+        "Na nga vhusiku; Ngoho U a londa (londa)."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yesu U a linda swiswini, Hu re na nyofho khulu?",
+        "lo no kovhela, Ho no swifhala,",
+        "U a londa ngoho-ngoho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Musi ndo kundwa nga mulingo;",
+        "Yesu a nga londa naa?",
+        "Ndo tungufhala, Ndi sa fhumuli,",
+        "Mitodzi i tshi elela?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Musi ndi tshi ri kha vha sale;",
+        "Yesu U a londa naa?",
+        "Ndo tungufhala lwa u ofhisa,",
+        "Naa izwi zwi nga Mu kwama?"
+      ],
+      "number": 5
+    }
+  ]
+}

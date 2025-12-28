@@ -1,0 +1,54 @@
+{
+  "number": 139,
+  "language": "ny",
+  "title": "139 - Tsamwali Ndamkumanayo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I’VE FOUND A FRIEND"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tsamwali ndamkumanayo, Anandikonda kale;",
+        "Kukonda kwandigwirako, M’kukondamo nditsale.",
+        "Ku mtima kundimangako, Kosamasuka konse,",
+        "Ambuye ndine wanuyo, Ku nthawi nthawi zonse."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tsamwali ndamkumanayo, Anandifera yekha;",
+        "Anandipatsa moyowo, Ndatenga ine ndekha;",
+        "Zimene ndili nazozi, Za Yesu, mwini zonse,",
+        "Ndi moyo wanga wonse ndi Wakenso nthawi zonse."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tsamwali ndamkumanayo, Ndapeza mphamvu zanga,",
+        "Pakundisunga inemo, Ndiyende m’njira mwanga;",
+        "Zolemera zoti mbe Zindilimbitsa monse,",
+        "Ndalema kuno komweko, Nkupuma nthawi zonse."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tsamwali ndamkumanayo, Wokoma mtima wake,",
+        "Wotsogolera nzeruzo, Zisunga m’njira mwake;",
+        "Kwa Iye wondikondako, Sandichotsamo konse,",
+        "Pa moyo, imfa, nayeyo, Ndilipo nthawi zonse."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 401,
+  "language": "tw",
+  "title": "Yɛreyɛ Saa ɔsom Yi Bio",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛreyɛ saa ɔsom yi bio,",
+        "Sɛnea, Aw'rade, Woyɛe no;",
+        "'Fisɛ Wo dom nhwɛsopa no",
+        "De dɛw aba dwumadi yim'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɔ 'dɔ biara ano fofro,",
+        "Ma gyaframa kronkron no nsɔ;",
+        "Na ma yɛn koma nnya nkabom,",
+        "B'č a yɛyɛ no Yesu din mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Woyɛ nhwɛso kɛse ma yɛn,",
+        "Sɛ Wohoh'roo 'suafon' nan ho;",
+        "Yɛredi W'ahyɛde so yi,",
+        "Ma yɛn 'yɔnkofa nwie mudi.\""
+      ],
+      "number": 3
+    }
+  ]
+}

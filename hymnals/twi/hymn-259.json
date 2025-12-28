@@ -1,0 +1,43 @@
+{
+  "number": 259,
+  "language": "tw",
+  "title": "Twe Yɛn Mantam Wo Honhom Mu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Twe yɛn mantam Wo honhom mu;",
+        "Sɛ baanu anaa baasa",
+        "De 'hobrɛase hyia Wo din mų a,",
+        "Na Wowɔ wɔn ahyiae mu;",
+        "Haleluya! Haleluya!",
+        "Fa W'atade no ka me."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnea na anuanom no hyiam",
+        "Wɔ Kristo din mu didi,",
+        "Na wɔde 'seda ma Nyame;",
+        "Bubu paanoo, hy'rā anonne,",
+        "Haleluya! Haleluya!",
+        "Saa na tim yɛn 'yɔnkofam'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Y'aduane ne y'asetra ny'naa,",
+        "Ma yɛmfa nyɛ W'ahyɛde;",
+        "Na tema, mmoa, ne ɔma mu,",
+        "Yɛayɛ nokwar' asuafo;",
+        "Haleluya! Haleluya!",
+        "Yɛbɛsom Wo nokwarem'."
+      ],
+      "number": 3
+    }
+  ]
+}

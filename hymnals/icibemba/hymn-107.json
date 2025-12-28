@@ -1,0 +1,35 @@
+{
+  "number": 107,
+  "language": "bem",
+  "title": "107 - NJEBO MULUMBE WA YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TELL ME THE STORY OF JESUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Njeba mulumbe wa Yesu, Ulembe pa mutima:",
+        "Njeba mulumbe usuma. Ndeutemwisha kumfwa",
+        "Njeba ifyo baimbile, ilyo Yesu afyelwe,",
+        "Ululumbi kuli Lesa, No mutende ku bantu.",
+        "CHORUS:",
+        "Njeba mulumbe wa Yesu, Ulembe pa mutima;",
+        "Njeba mulumbe usuma, Ndeutemwisha kumfwa.",
+        "2. Talile mu ciswebebe, Njeba fya nshita ilya;",
+        "Atunkwa ku bubi bwesu, lelo alianshishe:",
+        "Njeba conse acitile, Njeba bulanda bwakwe,",
+        "Asalwilwe, acushiwe; Ushakwete ing'anda.",
+        "3. Njeba ine fya lupanda, Apo Yesu' aculile;",
+        "Njeba munshinshi alele, Nefyo atutubwike;",
+        "Umulumbe wa kutemwa, Ndemona nomba bwino,",
+        "Webe kuli ine nomba, Kutemwa kwandubwile."
+      ],
+      "number": 2
+    }
+  ]
+}

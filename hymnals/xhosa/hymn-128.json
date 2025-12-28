@@ -1,0 +1,54 @@
+{
+  "number": 128,
+  "language": "xh",
+  "title": "128 Yure Yomthandazo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nge-yure yomthandazo, Sithob’ intliziyo,",
+        "Sihlangana ku-Yesu, Umhlobo wethu;",
+        "Size kuye ngokholo, Az’ asikhusele,",
+        "Aphuml’ odiniweyo! Ath’ ukuba mnandi!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yure yomthandazo, Esikelelweyo,",
+        "Aphuml’ odiniweyo! Ath’ukuba mnandi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nge-yure yomthandazo, Ukufuphi nathi,",
+        "Ezele yimfesane ebantwaneni;",
+        "Uthi masiwaphose Amaxhala kuYe;",
+        "Aphuml’ odiniweyo! Ath’ ukuba mnandi!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nge-yure yomthandazo, Xa olingiweyo",
+        "Aya kum-Sindisi Omthanda kakhulu,",
+        "Wothi onovelwano Agxoth’ amaxhala;",
+        "Aphuml’ odiniweyo! Ath’ ukuba mnandi!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nge-yure yomthandazo, Simkholelwa Yena,",
+        "Wosixhasa ngazo zonk’ intsikelelo;",
+        "Sizele lelithemba, Soba msulw’ exhalen’;",
+        "Aphuml’ odiniweyo! Ath’ ukuba mnandi!"
+      ],
+      "number": 4
+    }
+  ]
+}

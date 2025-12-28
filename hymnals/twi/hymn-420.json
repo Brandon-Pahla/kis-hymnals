@@ -1,0 +1,47 @@
+{
+  "number": 420,
+  "language": "tw",
+  "title": "Yerusalem, M'anigye Fie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yerusalem, m'anigye fie",
+        "O, mafe wo dodo!",
+        "Da bɛn na m'aw'rɛhow bɛsa,",
+        "Na mabehu wo dɛw?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "W'afasu yɛ abopa nko,",
+        "Ͻyɛ anuonyam pii,",
+        "Wɔde sika n'ayɛ w'apon,",
+        "W'abɔnten nso sika."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo turo ne mu akwan no,",
+        "Masua ho nsɛm akyɛ;",
+        "Ne fɛ tra nnipa adwen so,",
+        "Na aniwa nhuu da."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Awurade, dom boa yɛn ma",
+        "Yɛnhwɛ nkonim bo no;",
+        "Kosi sɛ W' bɛba 'befa yɛn",
+        "Akɔ Paradise."
+      ],
+      "number": 4
+    }
+  ]
+}

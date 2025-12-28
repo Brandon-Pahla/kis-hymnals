@@ -1,0 +1,56 @@
+{
+  "number": 490,
+  "language": "es",
+  "title": "Mejor que los sacrificios",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Mejor que los sacrificios"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mejor que los sacrificios es",
+        "obedecer;",
+        "la Ley guardar y atender a Dios,",
+        "que ofrendar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Vuelve al Señor; será bondadoso.",
+        "Camina en sus Mandamientos.",
+        "Mejor que los sacrificios es",
+        "obedecer;",
+        "la Ley guardar y atender a Dios,",
+        "que ofrendar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Dirás que Cristo te dispensó; que",
+        "ya pagó?",
+        "Recuerda sus Mandamientos, pues",
+        "él lo ordenó."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Los hacedores de la Palabra vivirán.",
+        "Es bueno oír y creer a Dios, y",
+        "obedecer."
+      ],
+      "number": 5
+    }
+  ]
+}

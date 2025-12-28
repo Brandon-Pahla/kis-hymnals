@@ -1,0 +1,55 @@
+{
+  "number": 545,
+  "language": "es",
+  "title": "Santo día",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Santo día"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo día que el Señor",
+        "en Edén santificó",
+        "y lo dio como señal",
+        "del poder que nos creó."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Santo sábado de paz,",
+        "bendecido del Señor!",
+        "Siempre el sábado será",
+        "monumento de su amor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gran congoja hallará",
+        "quien del mundo siga en pos.",
+        "El perfecto gozo está",
+        "en la paz que ofrece Dios."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En el día del Señor,",
+        "santa paz podrá gozar",
+        "quien acuda, en la quietud,",
+        "sus palabras a escuchar."
+      ],
+      "number": 5
+    }
+  ]
+}

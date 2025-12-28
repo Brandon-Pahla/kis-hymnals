@@ -1,0 +1,42 @@
+{
+  "number": 293,
+  "language": "guz",
+  "title": "293 'Kero Yes'arwete Igoro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Kero Yes'Arwete Igoro,Gokwera abanyabibe;'S'amabera taetaneti'Abake buna nche."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Akabarigi' abanene,As'are kworokereria;Bakamoretera abana,Abake buna nche."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Monene tabaseretie,Nigo abatigete as'are;Tatigete ond'airane,Omoke buna nche."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Akarw'obogima bwaye,'Batorie korw'amakweri;Nomobui bw'ogotoria,Abake buna nche."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Abana momwanche bono,Mokore ogwancha kwaye;Momosabe, momobake,Abana buna nche."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": 189,
+  "language": "ts",
+  "title": "189. A HI NA KAYA MISAVEN",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WE’VE NO ABIDING CITY HERE",
+        "1. A Hi Na Kaya Misaven, Hi Vahundzi La Misaven,",
+        "Moya Wa Hina Wa Tsaka, Hi Lava Kaya Ra Ntsako, Hi Lava Kaya Ra Ntsako.",
+        "2. A Hi Na Kaya Misaveni, Hi Lava Kaya Lerintshwa, Kona Kaya Ka Xikwembu,",
+        "Xivandleni Xo Kwetsime, Hi Laha Ku Nga Heriki.",
+        "3. Ku Tsakeni Ne Ku Rhulen, Va Wisa Vatsendzeleki,",
+        "Na Sweswi Ndza Swi Navela, Ku Ya Kona Ndzi Ya Wisa, Ku Ya Kona Ndzi Ya Wisa.",
+        "4. Kambe Rhula Moya Wanga, Xikwembu Xona Xa Tiva,",
+        "Leswi Faneleke Mina, Loko Nkarhi Wu Fikile,",
+        "Xi Ta Ndzi Nyika Ku Wisa."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "number": 104,
+  "language": "ny",
+  "title": "104 - Mundimve, Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "COME, GREAT DELIVERER, COME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mundimve, Yesu, ndikuliratu, ’Dzani kwa inetu.",
+        "Mu mtimanga ndilakalaka ’Nu, Yesu, idzanitu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndinasocheratu kutaliko, Kutali ndi Atateyo.",
+        "Tsopano, koma mndilandirenso, Yesu, idzanitu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndilibe malo mokhaliramo, ’Dzani kwa inetu.",
+        "Khalani nane m’mtima mwangamo, Yesu, Idzanitu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Njobvuta njira ndimayendamo, ’Dzani kwa inetu.",
+        "Ndione nkhope yanu, Mbuyanga, Yesu idzanitu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Wolapa mtima simunyozadi, ’Dzani kwa inetu.",
+        "Pemphero langa mumve lonseli, Yesu, idzanitu."
+      ],
+      "number": 5
+    }
+  ]
+}

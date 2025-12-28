@@ -1,0 +1,46 @@
+{
+  "number": 213,
+  "language": "xh",
+  "title": "213 Ingoma Yam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, Yesu Msindisi wam, Wen’ uyingoma yam;",
+        "Ungu-Mthuthuzeli wam, Ebuhlungwini bam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, Yesu Mkhululi wam, Ndiyacula ngaWe;",
+        "Asikho isihlobo Esifana naWe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, Yesu, ithemba lam, Ngeminyaka yonke;",
+        "Nakuwo amathunzi Wen’ uyingoma yam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndikholwa nguWe, Yesu, Wena Mkhokeli wam;",
+        "Ukwa sisithandwa sam, Emhlabeni wonke."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ingoma nemvuyiso Emhlabeni apha;",
+        "Ingoma nemvuyiso, Ezulwini laKho."
+      ],
+      "number": 4
+    }
+  ]
+}

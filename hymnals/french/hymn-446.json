@@ -1,0 +1,56 @@
+{
+  "number": 446,
+  "language": "fr",
+  "title": "Entends notre prière",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Entends notre prière,",
+        "Qu'elle monte jusqu'à toi !",
+        "Ô toi notre lumière,",
+        "Notre paix et notre joie !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Ô toi notre lumière,",
+        "Notre paix et notre joie."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Illumine la route",
+        "De ceux qui sont révoltés;",
+        "Délivre-les du doute,",
+        "Qu'ils acceptent tes bontés."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Donne à celui qui passe",
+        "La force de ton amour,",
+        "Et qu'en voyant ta face,",
+        "Il soit en paix chaque jour."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Seigneur, notre Père,",
+        "Que ton nom soit glorifié",
+        "Tu es notre lumière en",
+        "Jésus ressuscité !"
+      ],
+      "number": 5
+    }
+  ]
+}

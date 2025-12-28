@@ -1,0 +1,63 @@
+{
+  "number": 57,
+  "language": "fr",
+  "title": "Jésus-Christ est ma sagesse",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus-Christ est ma sagesse,",
+        "Il éclaire mon chemin,",
+        "Et je marche, en ma faiblesse,",
+        "Conduit par sa sûre main.",
+        "Tu éclaires mon chemin,",
+        "Tu éclaires mon chemin,",
+        "Et je marche, en ma faiblesse,",
+        "Conduit par ta sûre main."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus-Christ est ma justice;",
+        "Son sang a coulé pour moi;",
+        "Je trouve en son sacrifice",
+        "Paix et pardon par la foi.",
+        "Ton sang a coulé pour moi,",
+        "Ton sang a coulé pour moi,",
+        "Je trouve en ton sacrifice",
+        "Paix et pardon par la foi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus-Christ me sanctifie;",
+        "Au divin Cep attaché,",
+        "Je reçois de lui la vie",
+        "Qui m'affranchit du péché.",
+        "À toi, Jésus, attaché,",
+        "À toi, Jésus, attaché,",
+        "Je reçois de toi la vie",
+        "Qui m'affranchit du péché."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus, en payant ma dette,",
+        "À grand prix m'a racheté,",
+        "Et déjà ma place est prête",
+        "Vers lui, pour l'éternité.",
+        "Jésus, tu m'as racheté,",
+        "Jésus, tu m'as racheté,",
+        "Et déjà ma place est prête",
+        "Vers toi, pour l'éternité."
+      ],
+      "number": 4
+    }
+  ]
+}

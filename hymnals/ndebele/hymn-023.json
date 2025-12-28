@@ -1,0 +1,46 @@
+{
+  "number": 23,
+  "language": "nd",
+  "title": "23 Ngi Gcwalise Manje",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi gcwalise oMkhululi, NgoMoya oiNgcwele",
+        "U nguMhlobo wethu, Mfeli Woza, woz’ u zakhele"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moya oiNgcwele Mina ngi kunxanele",
+        "Manjena ngi gcwalise Wena Moya woMsindisi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U ngangigcwalisa Wena, Indlela u yayazi",
+        "Ngi yakuswela-ke mina, Ngothando ngi gcwalise"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mina ngi buthakathaka, Enyaweni ngoguqa",
+        "NguWena wedw’ onamandla, Ngi size ngi yashona"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wena Moy’ u yaduduza, Inhliziy’ ediniweThina bantu si yafisa, U ze u sigcwalise"
+      ],
+      "number": 5
+    }
+  ]
+}

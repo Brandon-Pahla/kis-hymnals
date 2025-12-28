@@ -1,0 +1,63 @@
+{
+  "number": 204,
+  "language": "nd",
+  "title": "204 Buya, Mzuli Buya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ezwen’ lezihambi, laph’ uyekhona, Yizwa izwi lithi, Ndodana yam’"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Buya mzuli buya, buyel’ ekhaya, U lahlekile kude, Woz’ ekhaya"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ezwen’ lendlala, Uphel’ amandla, Woz’ uzojabula, Ndodana yam’"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Shiya izinhlanya, Suk’ osizini, Ugul’ emoyeni, Ndodana yam’"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Umnyang’ uvuliwe, U se ngowanmi, Ngi sa ku bhekile, Ndodana yam’"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U zulele kude, Woqhubeka na? Ngi ku thethelele, Ndodana yam’"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Woza ekudleni, Aukhohliwe Woza enaleni, Ndodana yam’"
+      ],
+      "number": 7
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Au nazihlobo, Au nakhaya, Ngi kuthanda njalo, Ndodana yam’"
+      ],
+      "number": 8
+    }
+  ]
+}

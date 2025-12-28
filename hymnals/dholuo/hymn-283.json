@@ -1,0 +1,49 @@
+{
+  "number": 283,
+  "language": "luo",
+  "title": "283 Yesu, Wabiro Iri",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu wabiroiri tinende,Wakulore nyimi,bi gwedhwa koro."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wasayoi koro,Yesu, Jawarwa,Batisowa koro,Gi Muya Maler."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Wayuak e nyimi,wenwa kethowa;Iluokwa gi rembi,Rembi ma nochwer."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Koro wanawekitwa maricho;To kit Yesu Kristowamako tinde."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Dwond Muya Maler,wuoyo e chunywa;Onego wawinjeni mond` ogwedhwa."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Waheri, wageni,Nyarombo motho;Wapaki, wadendi,Amin, gi Amin."
+      ],
+      "number": 6
+    }
+  ]
+}

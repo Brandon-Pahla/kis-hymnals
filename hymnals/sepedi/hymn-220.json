@@ -1,0 +1,64 @@
+{
+  "number": 220,
+  "language": "nso",
+  "title": " 220  NAGA YA GESO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 220  NAGA YA GESO",
+        "АН 428 CH 639",
+        "THE HOMELAND"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Naga ya gešo,",
+        "Naga ya matšwalo,",
+        "Ga go bošego gona,",
+        "Dikoša tša gešo;",
+        "Di dula ditsebeng,",
+        "Go bohloko pelong,",
+        "Ga go sehlabi kua gae,",
+        "Moo ke batamelago,",
+        "Ga go sehlabi kua gae,",
+        "Moo ke batamelago;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moren'a ka o mo gae,",
+        "O na le mangeloi,",
+        "Ga go na sebe gona,",
+        "Ga go diteko kwa gae,",
+        "Dikoša tša gešo",
+        "Di duma ditsebeng,",
+        "Ge ke gopola gae,",
+        "Dikeledi dia itšwela",
+        "Ge ke gopola gae,",
+        "Dikeledi dia itšwela;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Baagi ba kua gae,",
+        "Ga mpiletša gona,",
+        "Moo lehu, maswabi,",
+        "Di sa tsenego ke gae,",
+        "Naga ya gešo,",
+        "Ya khutšo 'a godimo,",
+        "Jeso o re tliša gae,",
+        "Re rekolotšwe,",
+        "Jeso o re tliša gae,",
+        "Re rekolotšwe;"
+      ],
+      "number": 4
+    }
+  ]
+}

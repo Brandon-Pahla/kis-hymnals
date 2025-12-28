@@ -1,0 +1,46 @@
+{
+  "number": 91,
+  "language": "sn",
+  "title": "91 Nguva Yakanaka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Murindire nhasi, nguva yapfupika,",
+        "Rinda musatadze, MaKristu namata,",
+        "Nyama yanyorova, mandu inesimba,",
+        "Rinda unamate, Jesu uchauya"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O ri… ndira, O na…mata,",
+        "Rindira masikati nemudima ,",
+        "MaKristu rindira"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muka mukurara, rega kupokana,",
+        "Chipo chirichako, zorora kudenga,",
+        "Rindira MaKristu, Jesu warindira,",
+        "Dakara dikita rabuda pahuma"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Daira Jesu’wo iripetyo mhandu,",
+        "Sungisa mapfumo, achauya Jesu,",
+        "Nguva ichiripo musanonokezve,",
+        "Rindira maKristu, rindira namata"
+      ],
+      "number": 4
+    }
+  ]
+}

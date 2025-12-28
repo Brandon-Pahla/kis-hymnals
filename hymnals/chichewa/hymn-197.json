@@ -1,0 +1,63 @@
+{
+  "number": 197,
+  "language": "ny",
+  "title": "197 - Mdimawo Kulibe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE’LL BE NO DARK VALLEY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mdimawo kulibe akadza ’Ye,",
+        "Mdimawo kulibe akadza ’Ye,",
+        "Mdimawo kulibe akadza ’Ye,",
+        "Kutenga ’nthu Akewo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kutenga ’nthu Akewo (Ake),",
+        "Kutenga ’nthu Akewo (Ake);",
+        "Mdimawo kulibe akadza ’Ye,",
+        "Kutenga ’nthu Akewo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Imfayo kulibe akadza ’Ye,",
+        "Imfayo kulibe akadza ’Ye;",
+        "Tidzakondweratu akadza ’Ye,",
+        "Kutenga ’nthu Akewo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Msoziwo kulibe akadza ’Ye,",
+        "Msoziwo kulibe akadza ’Ye;",
+        "Adzasonkha onse akadza ’Ye,",
+        "Kutenga ’nthu Akewo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tidzayimba nyimbo akadza ’Ye,",
+        "Tidzayimba nyimbo akadza ’Ye;",
+        "Onse ’dzasonkhana akadza ’Ye,",
+        "Kutenga ’nthu Akewo."
+      ],
+      "number": 5
+    }
+  ]
+}

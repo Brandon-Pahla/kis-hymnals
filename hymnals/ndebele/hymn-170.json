@@ -1,0 +1,55 @@
+{
+  "number": 170,
+  "language": "nd",
+  "title": "170 UMenzi noMbusi Wami",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Menzi, Mbusi wami",
+        "Ngi ya phila ngaWe",
+        "Ukupha kwAkho ngumthombo",
+        "Wez’ busiso zami",
+        "Ukupha kwAkho ngumthombo",
+        "Wez’ busiso zami"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mina s’dalwa sAkho",
+        "Ngi yaphila ngaWe",
+        "Nkos’ izibusiso zAkho",
+        "Zi dlul’ ukubonga",
+        "Nkos’ izibusiso zAkho",
+        "Zi dlul’ ukubonga"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi ngi ngenzani?",
+        "Konke ku ngokwAkho",
+        "Uthando lwAkho mal’ bongwe",
+        "O, kuncan’ okwami!",
+        "Uthando lwAkho mal’ bongwe",
+        "O, kuncan’ okwami!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vus’ umoya wami",
+        "Ngmandla omusa",
+        "Izwi nesifiso sami",
+        "Izwi nesifiso sami",
+        "Makube okwAkho",
+        "Makube okwAkho"
+      ],
+      "number": 4
+    }
+  ]
+}

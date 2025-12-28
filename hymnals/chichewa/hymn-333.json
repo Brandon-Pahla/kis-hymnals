@@ -1,0 +1,28 @@
+{
+  "number": 333,
+  "language": "ny",
+  "title": "333 - Tikagwidwa Ndi Cisoni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WE ARE SORROWFUL"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tikagwidwa ndi cisoni, Ikayendanso misozi,",
+        "Poliriratu abale, Yesu mutimveretu.",
+        "2. Munabvala thupi lathu, Munadziwa masauko",
+        "Mnalirira bwenzi lanu, Yesu mutimveretu.",
+        "3. Mmene imfa yathu idza, Mwenya wathu ukaleka",
+        "Mmene ife timwalira, Yesu mutiveretu.",
+        "4. Mnamwalira Inu paja, Mwazi wanu munataya,",
+        "Inu munagona m’manda, Yesu mutimveretu."
+      ],
+      "number": 2
+    }
+  ]
+}

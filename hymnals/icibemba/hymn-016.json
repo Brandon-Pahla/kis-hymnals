@@ -1,0 +1,37 @@
+{
+  "number": 16,
+  "language": "bem",
+  "title": "16 - NASAMBA NDUPI SHANDI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I WASHED MY HANDS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nasamba ndupi shandi,",
+        "Bwino bwino tutu;",
+        "Nashiashima Yesu",
+        "Kumubombela pe.",
+        "CHORUS:",
+        "Imwe tumakasa,",
+        "Mulentwala kwi,",
+        "Fyonse muli Yesu,",
+        "Nkaya cita fye.",
+        "2. Ndemweba imwe matwi",
+        "Mumfwe amashiwi,",
+        "Umulimo usuma",
+        "Ndupi shilecita.",
+        "3. Na mensa tulemona",
+        "Imilimo yonse,",
+        "Yanjishibisho bubi",
+        "Lelo ne nshiku pe."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "number": 166,
+  "language": "sw",
+  "title": "166 - Furaha kwa Ulimwengu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Furaha kwa ulimwengu, Bwana atakuja.",
+        "Kila moyo umpokee, viumbe imbeni,",
+        "Viumbe imbeni, viumbe vyote imbeni."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Na Bwana atatawala, watu na waimbe,",
+        "Miti milima na mawe, kariri furaha,",
+        "Kariri furaha, kariri furaha kubwa."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Atatawala kwa wema, atawafundisha",
+        "Mataifa haki yake, ajabu za pendo,",
+        "Ajabu za pendo, ajabu za pendo lake."
+      ]
+    }
+  ]
+}

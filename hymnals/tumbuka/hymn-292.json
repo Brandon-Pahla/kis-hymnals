@@ -1,0 +1,49 @@
+{
+  "number": 292,
+  "language": "tum",
+  "title": " 292 Mavwoko Ghachite Mlimo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 292 Mavwoko Ghachite Mlimo",
+        "TWO LITTLE HANDS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mawoko ghachite mlimo wake lulimi limuchindike,",
+        "Makutu ghapulike mazgu mazgu ghamwimbire Sumu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tikwiza a Fumu tikwiza tichaLi wana,",
+        "Tikwiza a Fumu kup ika vinu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Malundi ghithu ghende mu nthowa yakukafika kuchanya,",
+        "Maso nagho ghawazge Baibo likwandula vya chitemwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mtima ndiupereke kwa Yesu wathaske umoyo wane,",
+        "Kuti ndim tewetere mlimo ndiwe nadi wake yose."
+      ],
+      "number": 4
+    }
+  ]
+}

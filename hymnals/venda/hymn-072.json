@@ -1,0 +1,46 @@
+{
+  "number": 72,
+  "language": "ve",
+  "title": "72 Khathulo Yo Thoma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:416",
+        "AH:378"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Khathulo yo thoma ngei tadulu, Hu sedzisiswa nga Maanda,",
+        "Hu sengiswa zwivhi na zwivhuya, Murena U a vhona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ri do ima ra ri mini, ri do ima ra ri mini?",
+        "Ri do mu todesa vhukuma, muimeleli washu-vho."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Khathulo i thoma kha vho faho, Ha tevhela vha no tshila,",
+        "Zwi tshi bva buguni ya khathulo, Ine a i shumisa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri do ri mini, hu tshi sedzuluswa zwivhi zwashu zwi khagala,",
+        "Milandu yothe i hatulwa hu si na u do fhindula."
+      ],
+      "number": 4
+    }
+  ]
+}

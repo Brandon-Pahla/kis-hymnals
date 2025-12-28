@@ -1,0 +1,42 @@
+{
+  "number": 105,
+  "language": "guz",
+  "title": "105 Nkogenda Nde Bo Igoro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nkogenda nde bo igoro,Ngosukande gochia ang'e;Ngosaband' amatuk'onsi,\"Yes' antenenie igoro."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Onyimokie Ontenenie,'Sokwegen' ense ya igoro'Ns' engiya kobua chionsi,Yes' antenenie igoro."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tinkogoka komeny' as' obwoba,ne chitang'utang'u;'Bande mbancha komenyao,Gosaba kwane nchie igoro."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nindigetie 'menye igoro,Nonya Saitani ogontema'S'okwegena naigur'ogotera kw' abachenu Igoro."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndigetie ng'ike igoro,Ndor' amasas' obonene;Ngosaba nde goika ng'ike,Yeso Ndae ng'ike igoro."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 218,
+  "language": "es",
+  "title": "A Jesucristo ven sin tardar",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A Jesucristo ven sin tardar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Jesucristo ven sin tardar,",
+        "que entre nosotros hoy él está;",
+        "y te convida con dulce afán,",
+        "tierno diciendo: \"Ven\"."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Oh, cuán grata nuestra reunión,",
+        "cuando allá, Señor, en tu mansión,",
+        "contigo estemos en comunión",
+        "gozando eterno bien!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Piensa que él solo puede colmar",
+        "tu triste pecho de gozo y paz;",
+        "y porque anhela tu bienestar,",
+        "vuelve a decirte: \"Ven\"."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Su voz escucha sin vacilar,",
+        "y grato acepta lo que hoy te da.",
+        "Tal vez mañana no habrá lugar.",
+        "No te detengas; ven."
+      ],
+      "number": 5
+    }
+  ]
+}

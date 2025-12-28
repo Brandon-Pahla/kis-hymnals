@@ -1,0 +1,37 @@
+{
+  "number": 145,
+  "language": "bem",
+  "title": "145 - IWE WILAKANA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ASK NOT TO BE EXCUSED"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Iwe wilakana, eko ili ncito",
+        "'yo Lesa 'Iefwaya iwe kuyabomba;",
+        "Umfwa bwite bwakwe kuli 'we 'lekwita,",
+        "Cisumo kubomba, kubombelo mulu.",
+        "CHORUS:",
+        "Iseni (seni) mwikana kubomba,",
+        "Iteya (teya) nisheni kubomba,",
+        "Mwikana kubomba mukomfwa 'katila,",
+        "Kukana kubomba, mwakana no mulu.",
+        "2. Iwe wilakana Shikul' alekwita;",
+        "Walekana kale, Shi mumfwile lelo;",
+        "Mabala na yapya babomfi bacepa,",
+        "Sumina kubomba, Shi bombele Mfumu.",
+        "3. Mu kukane ncito no kucelwa celwa,",
+        "Mukano kutemwa kulya kwa ku mulu;",
+        "Ilyo luse lwakwe lulepapatila,",
+        "No kulango mulu, Isa 'sa welelwe."
+      ],
+      "number": 2
+    }
+  ]
+}

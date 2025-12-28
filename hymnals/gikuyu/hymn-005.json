@@ -1,0 +1,33 @@
+{
+  "number": 5,
+  "language": "ki",
+  "title": "5. Nitumuhooe Jesu Munene.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nĩtũmũhooe Jesũ Mũnene,",
+        "Ngumo ya hinya wake nĩĩhuunjio;",
+        "Nĩwe ngo nairahĩro nginya tene,",
+        "Nĩ yo ngumo yake tene na tene.",
+        "2.",
+        "Ta rorai thĩ ĩno tũtũire,",
+        "ũrĩa yũmbĩtwo na magegania;",
+        "Rĩu nĩigĩtwo gĩikaro kĩayo,",
+        "O nginya ihiinda rĩayo rĩthire.",
+        "3.",
+        "Tondũ worĩa ũtũgitagĩra,",
+        "Twacookia ngaatho tondũ wĩ mwega,",
+        "Nĩ ũheaga irio cĩũmbe ciothe biũ,",
+        "Ciũmbe ciothe nĩ irĩ ciikaro ciacio.",
+        "4.",
+        "Ithuĩ andũ tũtirĩ hinya,",
+        "Wee, Mwathani no tũkwĩhoke,",
+        "ũtugi waku, Ngai ndũrĩ wanyiiha,",
+        "Wĩ Mũkũũri witũ mũrata wa ma."
+      ],
+      "number": 1
+    }
+  ]
+}

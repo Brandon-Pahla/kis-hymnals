@@ -1,0 +1,28 @@
+{
+  "number": 16,
+  "language": "ny",
+  "title": "16 - Timapazi Inu, Samalirani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I WASHED MY HANDS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Ndasamba m’manja mwanga, Mwayeretsedwatu,",
+        "Ndi kwapereka iwo, Ku ntchito ya Yesu.",
+        "CHORUS:",
+        "Timapazi inu Samalirani,",
+        "Musanditengere, Kuli zoipa.",
+        "2. Makutu amvetsere Pa tsiku lonseli,",
+        "Ntchito yonse yabwino, Manjawa achite.",
+        "3. Maso anga aone, Ntchito zawo zonse,",
+        "Kutitu asachimwe, Chifukwa cha Yesu."
+      ]
+    }
+  ]
+}

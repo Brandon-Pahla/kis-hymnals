@@ -1,0 +1,47 @@
+{
+  "number": 31,
+  "language": "sn",
+  "title": "31 Zuva Remoyo Wangu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Zuva rangu, Muponesi,",
+        "Kunopenya apo muri",
+        "Murambidze zvakaipa,",
+        "Zvinozondidzikatira"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Apo hope dzandibata,",
+        "Maziso angu apfigwa",
+        "Ndotondera kuchanaka,",
+        "Kuna Jesu kuzorora"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Garai neni zuva rese,",
+        "Ndichengete nguva dzese,",
+        "Garai neni pausiku,",
+        "Kanazve murufu rwangu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndikomborere ndomuka,",
+        "Ndisati ndaenda m’basa,",
+        "Ndichanaka nepanzira,",
+        "Dakara ndisvike denga"
+      ],
+      "number": 4
+    }
+  ]
+}

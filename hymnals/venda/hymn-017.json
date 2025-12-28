@@ -1,0 +1,47 @@
+{
+  "number": 17,
+  "language": "ve",
+  "title": "17 Ndi Lufuno Lu Ri Takadzaho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:579",
+        "AH:454"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nga lufuno lwa Yesu ri pfa ro takala,",
+        "Ri kona u kondelela na kha vhanwe vhathu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mudzimu U ri funa rothe, ri tama u fana nae,",
+        "Nga lufuno lwa Yesu, ri pfa ro takala;",
+        "Ri kona u kondelela na kha vhanwe vhathu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Musi ri kha vhutungu, zwivhi na malwadze;",
+        "Nga u takala ri nga di rembulusa munwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Vhufheloni ha zwothe, hu do swika Yesu;",
+        "Ri do imba luimbo, lwa vhothe vho kundaho."
+      ],
+      "number": 4
+    }
+  ]
+}

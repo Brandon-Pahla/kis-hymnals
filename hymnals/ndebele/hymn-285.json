@@ -1,0 +1,39 @@
+{
+  "number": 285,
+  "language": "nd",
+  "title": "285 Ikhon’ Indawo Y’kuphumla",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ikhon’ indawo Yok’phumla KuY’ uNkulunkulu",
+        "Laph’ isono singehluphe KuY’ uNkulunkulu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, Jesu Mhlengi omhle!, Ovela kuBaba",
+        "Siphase silindile, KuY’ uNkulunkulu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ikhon’ indawo emnandi, KuY’ uNkulunkulu",
+        "La kukhon’ uMsindisi KuY’ uNkulunkulu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ikhon’ indawo yekhefu, KuY’ uNkulunkulu",
+        "Lapho konke kuthe cwaka, KuY’ uNkulunkulu"
+      ],
+      "number": 4
+    }
+  ]
+}

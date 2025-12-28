@@ -1,0 +1,47 @@
+{
+  "number": 183,
+  "language": "nd",
+  "title": "183 Bambelela Ngize Ngi Buye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sihl’ is’thembiso, kwabakholwayo,",
+        "Masinya ngi yeza ngithath’ abAmi,",
+        "Bamba ngi yeza, yinkul’ ingozi;",
+        "U ngalali njengabanye, lindela!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bamba ngi yeza, sihl’ isithembiso,",
+        "Umbus’ u buyile, Wowunikwa,",
+        "Woz’ u jabule, hlal’ embusweni,",
+        "Im’qhel’ i lindile, bamba ngi yeza."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Solindela zi vuth’ izibani;",
+        "Kwabany’ u fika njengesel’ eb’suku,",
+        "U sesondele, a saz’ usuku",
+        "Njengokuhluma, ku khomba ihlobo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ithemba lethu la khel’ ezwini,",
+        "Ukuqhamuka okuhle kweNkosi,",
+        "Kwedlula zonke izithembiso:",
+        "Bamba ngi yeza, qina ngize ng’fike."
+      ],
+      "number": 4
+    }
+  ]
+}

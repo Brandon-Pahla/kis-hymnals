@@ -1,0 +1,47 @@
+{
+  "number": 272,
+  "language": "sn",
+  "title": "272 Kandirayi Tambo Yeupenyu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kandirayi Tambo yeupenyu, Kune hama’yo tingaponeswe",
+        "Hama yomumwe, ndiyani zvino, Angakande tambo yorubatsiro"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chibatsirayi! Chibatsirayi!, Umwe anorasika",
+        "Chibatsirayi! Chibatsirayi!, Umwe ari kunyura"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kandirayi tambo kasikayi, Seyi muchimira nguva huru?",
+        "Onayi onyura, kasikayi, Pindayi nengarava yeupenyu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vakandireyi varimungozi, Avo vavakunyura munyanza",
+        "Mananda ezviyedzo nenhamo, Achavakandira’ko kwakadzama"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nguva yokununura yopera, Vachayenda kure iye zvino",
+        "Hama, kasika usanonoke, Chivakandira tambo youpenyu"
+      ],
+      "number": 5
+    }
+  ]
+}

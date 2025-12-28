@@ -1,0 +1,57 @@
+{
+  "number": 369,
+  "language": "tum",
+  "title": " 369 Wonani Ndembera",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 369 Wonani Ndembera"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Wonani ndembera yikukhupukwa mcanya!",
+        "Zavumbukwa nkongono zakukho-mezezga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "\"Khozgani Linga mwa wantu,\" Yesu wacema:",
+        "\"Wezgerani mazgu ghitu, Fumu, Tikwima.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Satana wakurotoka na vita vyake;",
+        "Vinkara vitu vikuwa: tafipa mtima."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Cintani, mwa wantu, ise tina nkongono",
+        "Kulimbana na Satana murwani witu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Zawe ndinonono nadi, kweni kwafika",
+        "Uyo ndi Mrongozgi witu; timuhenere!"
+      ],
+      "number": 5
+    }
+  ]
+}

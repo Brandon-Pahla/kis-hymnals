@@ -1,0 +1,47 @@
+{
+  "number": 485,
+  "language": "es",
+  "title": "Unidos en verdad",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Unidos en verdad"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por nuestro Señor, unidos en",
+        "verdad,",
+        "lo adoramos con fervor.",
+        "Gozo da vivir unidos por la fe;",
+        "siempre Jesús nos guiará"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Vamos al cielo, Jesús nos espera;",
+        "hay un lugar para ti.",
+        "Contigo, yo quiero cantar en el",
+        "cielo;",
+        "vamos, mi hermano, al hogar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Al gran capitán habremos de seguir;",
+        "la gran victoria cerca está.",
+        "Sin vacilación al cielo vamos, sí;",
+        "que nadie falte allá."
+      ],
+      "number": 4
+    }
+  ]
+}

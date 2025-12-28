@@ -1,0 +1,39 @@
+{
+  "number": 17,
+  "language": "xh",
+  "title": "17 Luthando Olusivuyisayo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Siyavuya ngothando, Luyasonwabisa;",
+        "Lusenza sinyamekele Abanye abantu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U-Thix’ uthand’ abancinane, Sifun’ ukufana naYe.",
+        "Siyavuya ngothando, Luyasonwabisa;",
+        "Lusenza sinyamekele Abanye abantu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Apha kuko usizi, Izono nokufa;",
+        "Ngokuvuya sakuzama Ukuzuza omnye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bakuphela obubom, Afike u-Yesu,",
+        "Soyihlabela ingoma Yothand’ olukhulu."
+      ],
+      "number": 3
+    }
+  ]
+}

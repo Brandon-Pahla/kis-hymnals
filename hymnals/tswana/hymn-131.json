@@ -1,0 +1,37 @@
+{
+  "number": 131,
+  "language": "tn",
+  "title": "131 Nke Ke Tshwane Le Jeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nke Ke Tshwane Le Jeso, Mmoloki A Nne Le Nna;",
+        "Ntlatsa kagiso, rato; Ntira bopelonomi;",
+        "Nke ke tshwane le Jeso, Fa ke le mo lefatshing;",
+        "Ke humanege moyeng, Mmoloki A nne go nna."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "F’a Utlwa Mahukubu; Fa Leitlho Ja Gagwe",
+        "Le bona dinonyane Ruri O tla nkutlwa nna,",
+        "O tla nthuta go tshela, Bomatleng A intshwarele,",
+        "Ke nne itsheke pelong, Mmoloki A nne go nna."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nke Ke Tshwane Le Jeso, Ke Rapele Ka Metlha;",
+        "Ke ikhutse go Ene, Metsing a a didimetseng;",
+        "Ke tsetswe tshegofatsong, Ka lorato lwa Gagwe,",
+        "Ke humile tumelo, Mmoloki A nne go nna."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 106,
+  "language": "st",
+  "title": "106  Re Tla Aha Lefikeng.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Re tla aha ho Jesu, Lefikeng le le sa feleng;",
+        "Joale mohlang lifefo li tsohang, Na re tla ema joang."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Re aha lefikeng;",
+        "Fikeng la ’nete, Re tla aha lefikeng ruri",
+        "E leng Eena Kreste."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ba bang ba aha lehlabatheng, La Maruo a lefats’e;",
+        "Ba bang maqhubung a sebe, A letlotlo la menyaka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A le keng le ahe lefikeng, Motheong o tiileng,",
+        "Ts’epo ea poloko ea rona; Ke ee e leng ’netena."
+      ],
+      "number": 3
+    }
+  ]
+}

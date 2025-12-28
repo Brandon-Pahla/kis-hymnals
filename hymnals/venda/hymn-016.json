@@ -1,0 +1,51 @@
+{
+  "number": 16,
+  "language": "ve",
+  "title": "16 Ndo tanzwa Zwanda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:459"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Zwanda khezwi khezwi,",
+        "Ndo zwi tanzwa zwa tshena;",
+        "Ndi nekedza Yesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Na milenzhe yanga, nga i thanyele,",
+        "Hune ya ya hone, i ye ha Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Na ndevhe nga dzi pfe,",
+        "Na nga maduvha othe;",
+        "Mishumo yavhudi,",
+        "Ine nda nga ita-vho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mato nga a sedze,",
+        "Hothe hune nda ya-vho;",
+        "Uri ndi si tshine,",
+        "Nda do khakhela Yesu."
+      ],
+      "number": 4
+    }
+  ]
+}

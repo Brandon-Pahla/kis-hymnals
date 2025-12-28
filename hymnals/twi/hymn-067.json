@@ -1,0 +1,35 @@
+{
+  "number": 67,
+  "language": "tw",
+  "title": "A W'rade, Gya W'akoa Kwan",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Aw'rade, gya W'akoa kwan",
+        "Asomdwoe mu seesei,",
+        "Efisɛ m'ani ahu",
+        "Wo gye dom 'nuonyam no:",
+        "Hann á ɛky'rɛ wiase kwan kɔ",
+        "Wo bepɔ kronkron so,",
+        "Wo nkurɔfo anuonyam,",
+        "Israel a Woapaw wɔn."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Afei ma kwan ma minni",
+        "W'anuonyam hann n'akyi,",
+        "Kosi sɛ sum ny'naa bɛy'ra,",
+        "Na gyidi bedi mu;",
+        "Na ahotefo behyiam",
+        "Wɔ hann mɔpoano hɔ",
+        "Nea Kristo, Ns'romma Hy'rafon'",
+        "Bɛhyerɛn wɔn so daa."
+      ],
+      "number": 2
+    }
+  ]
+}

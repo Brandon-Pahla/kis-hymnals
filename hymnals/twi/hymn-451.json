@@ -1,0 +1,47 @@
+{
+  "number": 451,
+  "language": "tw",
+  "title": "Momma Yemmom Ntra",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Momma yemmom ntra ɔdɛw mu,",
+        "Me nan si kwan so rekɔ Kanaan;",
+        "Momma yɛnka mmom nnɔ Yesu,",
+        "Me nan si kwan so rekɔ Kanaan."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O Kanaan, Kanaan Pa,",
+        "Me nan si kwan so rekɔ Kanaan;",
+        "O Kanaan, ɛyɛ m'anigye fie,",
+        "Me nan si kwan so rekɔ Kanaan."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Momma yemmom nwɛn wɔ mpaebom",
+        "Me nan si kwan so rekɔ Kanaan;",
+        "Na yɛntwɛn nkwagye da pa no,",
+        "Me nan si kwan so rekɔ Kanaan."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn 'yeyi dwom bɛhyɛ S'ro ma",
+        "Me nan si kwan so rekɔ Kanaan",
+        "B're a yɛn nigye bɛk'rɔn no",
+        "Me nan si kwan so rekɔ Kanaan.",
+        "\""
+      ],
+      "number": 3
+    }
+  ]
+}

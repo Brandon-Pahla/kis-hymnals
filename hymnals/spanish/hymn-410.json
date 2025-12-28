@@ -1,0 +1,65 @@
+{
+  "number": 410,
+  "language": "es",
+  "title": "Cuando te quiero",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cuando te quiero"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando te quiero, cerca tú estás;",
+        "de nada temo, buen Salvador;",
+        "siempre bondoso me sostendrás,",
+        "cuando te quiero más."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Cuando te quiero más,",
+        "cuando te quiero más,",
+        "cerca tú estás, mi buen Salvador,",
+        "cuando te quiero más."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando te quiero, listo tú estás,",
+        "y abandonarme nunca podrás;",
+        "paz por tristeza siempre me das,",
+        "cuando te quiero más."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando te quiero, mi buen jesús,",
+        "hora tras hora tú me guiarás;",
+        "tiernos cuidados tú me darás,",
+        "cuando te quiero más."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando te quiero, vienes, Jesús,",
+        "y tu presencia muy dulce es;",
+        "corren las aguas de salvación,",
+        "cuando te quiero más."
+      ],
+      "number": 6
+    }
+  ]
+}

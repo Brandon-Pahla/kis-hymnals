@@ -1,0 +1,44 @@
+{
+  "number": 97,
+  "language": "pt",
+  "title": "Meu Divino Protetor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Meu Divino Protetor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Meu divino Protetor, quero em Ti me refugiar,",
+        "Pois as ondas de terror ameaçam me tragar!",
+        "Quase estou a perecer! Dá-me a Tua proteção!",
+        "Pois guardado em Teu poder, não receio o furacão!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "És amparo, meu Jesus ! Sem alento venho a Ti.",
+        "Não me deixes sem a luz que ilumina a senda aqui.",
+        "Eu confio em Teu amor e na Tua compaixão;",
+        "És meu forte defensor; que me ampare Tua mão."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Graça imensa em Ti se achou, para tudo perdoar;",
+        "Sangue Teu se derramou, nele quero me lavar.",
+        "Fonte és de todo bem; dá-me sempre de beber!",
+        "Confortar minh'alma vem; quero em Teu amor viver."
+      ],
+      "number": 4
+    }
+  ]
+}

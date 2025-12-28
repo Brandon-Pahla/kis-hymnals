@@ -1,0 +1,44 @@
+{
+  "number": 4,
+  "language": "pt",
+  "title": "Louvor ao Trino Deus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Louvor ao Trino Deus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó anjos e homens, dai a Deus louvores,",
+        "Pois Sua graça dá aos pecadores.",
+        "Ó firmamento, Céus, e mar e Terra,",
+        "Sim, dai louvor a Deus!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vós, ó remidos, dai louvor a Cristo,",
+        "Tal sacrifício, oh! jamais foi visto!",
+        "A Sua morte Seu amor revela,",
+        "Sim, adorai Jesus!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quão insondável é o amor divino!",
+        "O Santo Espírito ilumina o mundo;",
+        "É tão sublime, luz ao peregrino,",
+        "Luz que ao Céu conduz!"
+      ],
+      "number": 4
+    }
+  ]
+}

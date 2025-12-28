@@ -1,0 +1,29 @@
+{
+  "number": 81,
+  "language": "rw",
+  "title": " 81 Kor'Ugifit'Uburyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 81 Kor'Ugifit'Uburyo",
+        "**1**",
+        "Kor'ugifit'uburyo, Kora hakibona!",
+        "Jy'ukora no mu kime, Jy'ushir'ubute!",
+        "Kora no ku manyw'akaze! Ntucogore rwose!",
+        "Kora bugiye kwira, Mar'imirimo!",
+        "**2**",
+        "Kora bugiye kwira! Kor'amanywa yose!",
+        "Komez'ukor'iteka, Ntukaruhuke!",
+        "Mu bihe byos'ukiriho, Ntugahweme rwose!",
+        "Komeza butarira, Mar'imirimo!",
+        "**3**",
+        "Kora bugiye kwira! Ubu harabona.",
+        "Bugiye kugoroba, Gira n'ingoga!",
+        "Ugeze ko bwira rwose, Izuba rirenze,",
+        "Ntugatuze gukora, Mar'imirimo!"
+      ],
+      "number": 1
+    }
+  ]
+}

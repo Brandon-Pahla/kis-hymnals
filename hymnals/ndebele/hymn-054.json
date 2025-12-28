@@ -1,0 +1,46 @@
+{
+  "number": 54,
+  "language": "nd",
+  "title": "54 Inhliziyo Ehlanziweyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Into engiyifisayo, Indlela yam’eqondile;",
+        "Nezilingo zi yashisa, Ng’hlambulule, ng’hlambulule."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi hlambulule phakathi, Noma ngomlilo ngovuma;Noma ku njani, Angali Isono ma sif’ impela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa ngi bona ukukhanya, Ngi yathaba emoyeni;",
+        "Ngi fun’ inhliziyo entsha Kuhle kimi, kuhle kimi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi fis’ ukudel’ okubi, Ngi nomthwalo, se ngi file;",
+        "Ubuhle kimina buphi? Ngi ngcolile, ngi ngcolile."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uma kuthe lenhliziyo, Ya thand’ ukukulandela;",
+        "Ng’enze ngibe ngophilayo Ngibe ngcwele, ngibe ngcwele."
+      ],
+      "number": 5
+    }
+  ]
+}

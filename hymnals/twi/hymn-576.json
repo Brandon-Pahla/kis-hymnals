@@ -1,0 +1,43 @@
+{
+  "number": 576,
+  "language": "tw",
+  "title": "Sɔre Ma Dwuma Ne Nuandɔ!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɔre ma dwuma ne nuadɔ!",
+        "Anomaa no wɔ wim;",
+        "Bosu agugu afɔw mfuw;",
+        "Wiase nyan de nteamu",
+        "Hwie wɔn nhyira ma nkwa",
+        "W'ra no, B're a ɔretwam no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa wo nne bɛto wɔn de nom'",
+        "Wo ne wɔn nto 'yeyi;",
+        "Hwɛ sɛnea 'wia kɛse no hy'rɛn,",
+        "Nna ne mfe w'ra tumfo!",
+        "Enti ma Yesu dɔ no mmra",
+        "Mmɛkannyan wo kra no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ wobɛma na woama bio,",
+        "Nea Nyame ama wo;",
+        "Sɛ wode wo ho bɛma koraa",
+        "Na woasom 'nuonyam mu,",
+        "Nyamč a ɔde wiase yi ne",
+        "Nea ɛbɛba mae no."
+      ],
+      "number": 3
+    }
+  ]
+}

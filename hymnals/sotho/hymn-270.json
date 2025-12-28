@@ -1,0 +1,47 @@
+{
+  "number": 270,
+  "language": "st",
+  "title": "270 Molopolli A E-s’o Re Sala Hantle",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Molopolli a e-so re uena sala hantle,",
+        "A re tlohela ho lula le Mots’elisi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A tlela ho re thabisa moeti ea mohau,",
+        "Ha a fumana pelo e mo ratang."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re utloa lentsoe la Hae, ke le le bonolo,",
+        "Le tlosa phoso ’me le khatholla pelo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khabane boo re bo ruileng, hlolo ea rona,",
+        "Khopolo e khethehileng ke ea Hae."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moe’o khabane le mohau, fokoli ba rona,",
+        "Etsa bolulo lipelong re ts’oane le Uena."
+      ],
+      "number": 5
+    }
+  ]
+}

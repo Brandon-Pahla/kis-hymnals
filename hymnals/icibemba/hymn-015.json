@@ -1,0 +1,31 @@
+{
+  "number": 15,
+  "language": "bem",
+  "title": "15 - YESU ANTEMWA INE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "JESUS LOVES ME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu antemwa ine! Ilandwe lyanjebele;",
+        "Bana bonse ebakwe, Yesu atutemwisha.",
+        "CHORUS:",
+        "Yesu antemwa, Antemwa ine;",
+        "Yesu antemwa, Ndimwana wakwe pe.",
+        "2. Yesu antemwa ine, Amfwilile ne mubi;",
+        "Nomba alenjita 'ne Ukum'temwa pe na pe.",
+        "3. Yesu antemwa ine, Lintu ndi no bulanda;",
+        "Atontonkanya ine kuti mbe mwana wakwe.",
+        "4. Yesu antemwa ine, Akekala mupepi;",
+        "Ine nga nam'temwisha, Akansenda ku mwakwe"
+      ],
+      "number": 2
+    }
+  ]
+}

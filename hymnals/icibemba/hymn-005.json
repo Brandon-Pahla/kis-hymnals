@@ -1,0 +1,36 @@
+{
+  "number": 5,
+  "language": "bem",
+  "title": "5 - KUTALI SHANI KUMWESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOW FAR FROM HOME?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kutali shani ku mwesu? Naipwishe kwa kalinda,",
+        "Amashiwi anjebele, \"Kasuba kaisa;",
+        "Mwilalila, endesheni, Ntungulushi busumino;",
+        "Mukafika ku lubuto Mu calo ca Mfumu.\"",
+        "2. Naipwishe abankondo, Basosele kuli ine,",
+        "\"Tukakosa ukulwisha, Ifita fyacepa;",
+        "Mwilalila, koselesha, kulwisha pano pa calo,",
+        "Tukapoka ifitebo lintu bwansho bwapwa.\"",
+        "3. Naipwishe ifibumbwa, fyamoneka ukwasuka,",
+        "\"Inshita sha mpulumushi, Shikesapwa bwangu;",
+        "Mwilalila, mumfwe landwe, Malangililo yatweba,",
+        "Fibumbwa fyonse fyalinda ku mpela ya fita.\"",
+        "4. Mupepi nomba ku mwesu, Kutontonkanya kwapalwa,",
+        "Ilandwe ili lyawama, kutusekelesha;",
+        "Mwilalila, pantu bwangu, macusho yonse yakapwa;",
+        "Tukasekela pe na pe Mu Ng'anda mwa Tata."
+      ],
+      "number": 2
+    }
+  ]
+}

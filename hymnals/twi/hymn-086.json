@@ -1,0 +1,58 @@
+{
+  "number": 86,
+  "language": "tw",
+  "title": "Woyɛ Kɛse",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me Nyankopɔn, sɛ mifi ahodw'ri mu",
+        "Dwennwen nsase aWo nsa ayɛ ho,",
+        "Mihu ns'romma, mete aprannaa mmobom,",
+        "Wo tum a ɛda adi wiase a,"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Me kra to dwom maW',",
+        "m'Agyenkwa Nyame,",
+        "Woyɛ kɛse, Woyɛ kɛse!",
+        "Me kra to dwom maW',",
+        "m'Agyenkwa Nyame,",
+        "Woyɛ kɛse, Woyɛ kɛse!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ mikyinkyin kɔfa mfofoo ne kwae mu,",
+        "Na mete nnmaa nnwom dɛdɛ nnua mu;",
+        "Mifi mmepɔ atenten so hwɛ fam na",
+        "Mete 'suten nne ne mframa dwoo a:"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Medwen sɛ Nyame ankora Ne Ba no,",
+        "Maa No bewui a Mintum' nte ase;",
+        "Sɛ 'sɛnnua so ɔde 'nigye soaa m' bɔne",
+        "Hwiee mogya gui de yii me bɔne hɔ."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ Kristo de osebɔ dennen sian ba",
+        "Bɛfam' kɔ fič a, 'nigye bɛhyɛ me ma.",
+        "Afei mede 'hobrɛase bɛtontom No,",
+        "Na mateam sɛ: Nyame, Woyɛ kɛse!"
+      ],
+      "number": 4
+    }
+  ]
+}

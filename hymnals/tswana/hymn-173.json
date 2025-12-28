@@ -1,0 +1,52 @@
+{
+  "number": 173,
+  "language": "tn",
+  "title": "173 A Tumelo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A Tumelo E Sa Feleng, Le Bontsing Jwa Baba",
+        "E, e sa senyweng (senyweng) ke lehuma le bohustana,",
+        "’Fuma le ’hutsana."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E E Sa Ngongoregeleng Thobane Ya Petso",
+        "Mme nakong (nakong) ya botlhoko e Ikanye Modimo-",
+        "Ikanye Modimo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tumelo E E Phatsimang Fa Diteko Di Tla;",
+        "Mme mo kotsing ga go (na) poifo, Ga go pelaelo-",
+        "Ga go pelaelo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Theregiso Tsa Lefatshe Ga Di E Tshikinye;",
+        "Ga e nwetswe (nwetswe) ke boleo Le tsietso tsa jone. Le",
+        "tsietso tsa jone."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena Mpha Tumelo E, Foo Le Ke Tlelwa Ke’ng,",
+        "Gone fano (fano) ke tla utlwa Boipelo jwa kwa gae-",
+        "Boipelo jwa kwa gae."
+      ],
+      "number": 5
+    }
+  ]
+}

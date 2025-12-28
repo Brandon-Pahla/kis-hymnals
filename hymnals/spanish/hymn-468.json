@@ -1,0 +1,57 @@
+{
+  "number": 468,
+  "language": "es",
+  "title": "Paso a paso Dios me guía",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Paso a paso Dios me guía"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Paso a paso Dios me guía;",
+        "¿qué más puedo ya pedir?",
+        "Nunca dudo de su gracia,",
+        "pues conmigo puede ir."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Paz divina y consuelo",
+        "al confiar en él tendré,",
+        "pues si algo sucediere,",
+        "Cristo lo sabrá muy bien;",
+        "pues si algo sucediere,",
+        "Cristo lo sabrá muy bien."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Paso a paso Dios me guía;",
+        "gozo siempre al alma da;",
+        "fuerza da al que es tentado;",
+        "Io alimenta del maná"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Paso a paso Dios me guía.",
+        "De mi afán fatigador,",
+        "el descanso ha prometido",
+        "en su reino mi Señor."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "number": 255,
+  "language": "ve",
+  "title": "255. Ndi toda Iwe Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:484",
+        "AH:320"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi toda Iwe Yesu, nne ndi mushai,",
+        "Mueni na muendi, a thi na lupfumo,",
+        "Ndi toda lupfumo, ndi lu ntakadzaho,",
+        "U lisa nayo dzanga, hu vhe Maanda anga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi toda mbilu i tshi mpfela vhutungu,",
+        "Ndi tshi lwa na milingo, U a ntikedza,",
+        "Ndi toda Muya wawe u tshi mpfunza-vho,",
+        "Mpfunze nga ha Yesu, Ngwana ya Mudzimu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi toda Yesu ndi tama-vho u mu vhona,",
+        "Wo ntama nga madzanga, u kha vhurena,",
+        "li vha dakalo kha nne, na vho tshidzwaho,",
+        "Ri imbe ri sa gumi, ro dzula na Iwe."
+      ],
+      "number": 4
+    }
+  ]
+}

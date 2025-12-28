@@ -1,0 +1,59 @@
+{
+  "number": 380,
+  "language": "fr",
+  "title": "Laisserons-nous",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Laisserons-nous à notre table",
+        "Un peu d'espace à l'étranger ?",
+        "Trouvera-t-il, quand il viendra,",
+        "Un peu de pain et d'amitié ?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Ne laissons pas mourir la terre,",
+        "Ne laissons pas mourir le feu,",
+        "Tendons nos mains vers la lumière,",
+        "Pour accueillir le don de Dieu.",
+        "Pour accueillir le don de Dieu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Laisserons-nous à nos paroles",
+        "Un peu de temps à l'étranger ?",
+        "Trouvera-t-il, quand il viendra,",
+        "Un cœur ouvert pour l'écouter ?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Laisserons-nous à nos fontaines",
+        "Un peu d’eau vive à l'étranger ?",
+        "Trouvera-t-il, quand il viendra,",
+        "Des hommes libres et assoifés ?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Laisserons-nous à nos églises",
+        "Un peu d'espace à l'étranger ?",
+        "Trouvera-t-il, quand il viendra,",
+        "Des cœurs de pauvres affamés ?"
+      ],
+      "number": 5
+    }
+  ]
+}

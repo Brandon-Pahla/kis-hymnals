@@ -1,0 +1,47 @@
+{
+  "number": 156,
+  "language": "nd",
+  "title": "156 Amazwi Okuthukuthela U NgawaVumeli!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Amazwi’ amab’ u ngawasho",
+        "A phunyuk’ olimini",
+        "Inhliziyo i’ Wabambe",
+        "Engakonakalisi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Manithandane, U sh’ uMsindisi",
+        "Bantwana nenz’ umnyalo weNkosi",
+        "Manithandane, U sh’ uMsindisi",
+        "Bantwana nenz’ umnyal’ omhle"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uthando lu hlanzekile",
+        "Nobuhlobo bu ngcwele",
+        "Bu ngachithwa ngetwanyana",
+        "Ku Chithwane konwanwe"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amazwi entukuthelo",
+        "A shiwo kalulana",
+        "Onakalisa intw’ enhle",
+        "Ngezwana lok’cunula"
+      ],
+      "number": 4
+    }
+  ]
+}

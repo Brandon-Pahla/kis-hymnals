@@ -1,0 +1,35 @@
+{
+  "number": 271,
+  "language": "guz",
+  "title": "271 Ngoika Nka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mbek'egutwa y'edhahabu ngoika nka,Ntore chigurube chiane ngoika nka;Mboyigw'obonene, Ninter'omogano,Bw'Omotoria one ngoika nka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngoika nka (ngoika nka),ngoika nka (ngoika nka),Bororo bwonsi mboere ngoika nka;Ngoika nka (ngoika nka),Ngoika nka (ngoika nka)liororo bwonsi mboere ngoika nka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mosunte bwonsi noete ngoika nka,'Moerio ndor'oborabu ngoika nka;Borabu bwa igoro, Bomorek'enchera,Bondae botambe goika nka."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndor'obosio bw'Omotoria ngoika nka,Nter'obuya bw'Omotoria ngoika nka;Nintenen'as'are, Erio mosasime,Mbe nere botambe ngoika nka."
+      ],
+      "number": 4
+    }
+  ]
+}

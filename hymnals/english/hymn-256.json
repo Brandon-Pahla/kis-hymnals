@@ -1,0 +1,39 @@
+{
+  "number": 256,
+  "language": "en",
+  "title": "256 O, God Our Help.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, God our help in ages past, Our hope for years to come;",
+        "Our shelter from the stormy blast, And our eternal home!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Under the shadow of Thy throne, Thy saints have dwelt secure;",
+        "Sufficient is Thine arm alone, And our defence is sure."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Before the hills in order stood, Or each received her frame;",
+        "From everlasting Thou art God, To endless years the same."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A thousand ages in Thy sight, Are like an ev’ning gone;",
+        "Short as the watch that ends the night, Before the rising sun."
+      ],
+      "number": 4
+    }
+  ]
+}

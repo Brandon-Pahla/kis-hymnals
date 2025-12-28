@@ -1,0 +1,66 @@
+{
+  "number": 296,
+  "language": "tw",
+  "title": "'W'ra, Mereba Fie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Makyin Afi Wo nkyɛn Nyame,",
+        "B're'i, mereba fie;",
+        "Manantew bɔn' kwan so akyɛ,",
+        "'W'ra, mereba fie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Reba fie, reba fie,",
+        "Akyinkyin asa;",
+        "Bae Wo dɔ basa no mu;",
+        "'W'ra, mereba fie."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Masɛe mm're a ɛsom bo pii,",
+        "B're'i, mereba fie;",
+        "Mede nusu ky'rɛ m'ahonu,",
+        "'W'ra, mereba fie."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mabrɛ bɔneyɛ ne akyin,",
+        "B're'i, mereba fie;",
+        "Metwer' Wo dɔ, gye W'asɛm di,",
+        "'W'ra, mereba fie."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M'anidaso ne m'adesrɛ",
+        "B'rč a mereba fie,",
+        "Ͻne sɛ Yesu wu maa me,",
+        "'W'ra, mereba fie."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mihia mogyā a ɛpa bɔne,",
+        "B'rč a mereba fie,",
+        "H'ro me ma mensen' suky'rɛmma,",
+        "'W'ra, mereba fie."
+      ],
+      "number": 5
+    }
+  ]
+}

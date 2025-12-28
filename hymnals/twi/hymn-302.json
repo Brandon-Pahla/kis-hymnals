@@ -1,0 +1,56 @@
+{
+  "number": 302,
+  "language": "tw",
+  "title": "Bun' No Mu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔahoh'ro me ho bɔn'",
+        "Asɛnnua no mogyam;",
+        "Nso sɛ 'fi ny'naa bɛkɔ a,",
+        "Gye sɛ mehyɛn mų ansa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Bun' no mu, bun' no mu,",
+        "Mogya tare no mu,",
+        "Bun' no mu, bun' no mu,",
+        "Mogya dehye no mu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Da biara, b're biara,",
+        "ɔde nhyira brɛ me;",
+        "Nso mihia Ne tumė a,",
+        "Ehia sɛ mebɔ mpae."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mɛbɛn Kristo nkyɛn daa",
+        "Adi N'akyi b're ny'naa;",
+        "ɔmam' m'abisade,",
+        "Nti mebɔ mpae gyidim'."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nnɛ manya 'somdwoe pa",
+        "Bɔne wiase yi mu;",
+        "Nso merennyae mpaebɔ",
+        "Kosi sɛ mɛyɛ pɛ.\""
+      ],
+      "number": 4
+    }
+  ]
+}

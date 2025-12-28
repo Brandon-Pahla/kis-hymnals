@@ -1,0 +1,22 @@
+{
+  "number": 242,
+  "language": "ts",
+  "title": "242. KU KATEKE VUN’WE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BLEST BE THE TIE",
+        "1. Ku Kateke Vun’we, Rirhandzwen Ra Kreste,",
+        "Bya Vana Va Hosi, Tani Hi Kwale Tilweni.",
+        "2. Xiluvelwen Xaku, Mikhongelo Ya Ta,",
+        "Ku Na Nchavo, Ntshembho, Na Yona MIkhongelo.",
+        "3. Hi Ta Rhwarisana, Mpingu Na Maxangu,",
+        "Hi Ku Twelana, Swin’we No Khongotelana.",
+        "4. Loko Hi Hambana, Timbilu Ta Vava,",
+        "Hi Ta Tsundzukana, Ku Kondza Hi Ta Vonana."
+      ],
+      "number": 1
+    }
+  ]
+}

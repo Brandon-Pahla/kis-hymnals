@@ -1,0 +1,48 @@
+{
+  "number": 35,
+  "language": "en",
+  "title": "35 What A Fellowship",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "What a fellowship, what a joy divine,",
+        "Leaning on the everlasting arms;",
+        "What a blessedness, what a peace is mine,",
+        "Leaning on the everlasting arms."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lea----------ning, Lea-----------ning,",
+        "(Leaning on Jesus Leaning on Jesus)",
+        "Safe and secure from all alarms;",
+        "Lea----------ning, Lea-----------ning,",
+        "(Leaning on Jesus, Leaning on Jesus)",
+        "Leaning on the everlasting arms."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O how sweet to walk in this pilgrim way,",
+        "Leaning on the everlasting arms;",
+        "O how bright the path grows from day to day,",
+        "leaning on the everlasting arms."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "What have I to dread, what have I to dread,",
+        "Leaning on the everlasting arms;",
+        "I have blessedness with my Lord so near,",
+        "Leaning on the everlasting arms."
+      ],
+      "number": 3
+    }
+  ]
+}

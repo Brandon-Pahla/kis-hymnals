@@ -1,0 +1,47 @@
+{
+  "number": 122,
+  "language": "fr",
+  "title": "Vous qui sur la terre",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Vous qui sur la terre habitez,",
+        "Chantez à haute voix, chantez!",
+        "Réjouissez-vous au Seigneur,",
+        "Par un saint hymne à son honneur!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "N'est-il pas le Dieu souverain",
+        "Qui nous a formés de sa main,",
+        "Nous, le peuple qu'il veut chérir,",
+        "Et le troupeau qu'il veut nourrir."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Entrez dans son temple aujourd'hui;",
+        "Venez vous présenter à lui,",
+        "Célébrez son nom glorieux,",
+        "Et l'élevez jusques aux cieux."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "C'est un Dieu rempli de bonté,",
+        "D'une éternelle vérité,",
+        "Toujours propice à nos souhaits,",
+        "Et sa grâce dure à jamais."
+      ],
+      "number": 4
+    }
+  ]
+}

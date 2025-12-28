@@ -1,0 +1,24 @@
+{
+  "number": 23,
+  "language": "ts",
+  "title": "23. MOYA WOKWETSIMA HLANTSWA MBILU YA MINA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOVER O’ER HOLY SPIRIT",
+        "1. Moya Wo Kwetsima, Hlantswa Mbilu Na Mobo Wanga;",
+        "Nghena, Tshama Ka Mina, Hosi Yanga Tana Sweswi.",
+        "CHORUS",
+        "Ndzi Tate, Ndzi Tate, Yesu Ndzi Tate Sweswi; Ndzi Tate Hiku Kwetsima, Aku Tshame Ka Mina.",
+        "2. Ndzi Nge Koti Ku Ku Rhuma, Ku Ndzi Tata Hi Moya;",
+        "Hi Mbilu Yanga Hinkwayo, Ndza Kombela Ndzi Tate.",
+        "3. Ndzi Tsanile Hosi",
+        "Ndzi Khinsame Ka Wena Sweswi; Moya Lowo Kwetsima Ndzi Tate Rirhandzu Raku.",
+        "4. Wena Wa Ndzi Chavelela Loko Ndzi Ri Maxangwini;",
+        "U Basisa Mbilu Yanga Yi Kwetsima Na Sweswi"
+      ],
+      "number": 1
+    }
+  ]
+}

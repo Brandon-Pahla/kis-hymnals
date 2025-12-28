@@ -1,0 +1,46 @@
+{
+  "number": 192,
+  "language": "xh",
+  "title": "192 Uzuko Kwigama Lakhe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Waf’ u-Msindisi emnqamlwezwen’, Ndacel’ ukuhlanjw’ esonweni,",
+        "Ndahlanjw’ intliziyo ngegazi. Dumo kwi-Nkosi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dumo kwi-Nkosi, Dumo kwi-Nkosi;",
+        "Ndahlanjw’ intliziyo ngegazi, Dumo kwi-Nkosi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Kusindiswa kwam kusimanga, Kumnandi u-Yes’ uhleli kum,",
+        "Waza wandisa emnqamlezwen’, Dumo kwi-Nkosi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, Mthombo osindis’ esonwen’! Ndiyavuya ndingaphakathi,",
+        "Undigcina ngokucoceka. Dumo kwi-Nkosi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yizani kulo-Mthom’ umnandi, Lahl’ umphefumlo waKho kuye,",
+        "Namhlanje yenza uphiliswe. Dumo kwi-Nkosi."
+      ],
+      "number": 4
+    }
+  ]
+}

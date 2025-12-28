@@ -1,0 +1,55 @@
+{
+  "number": 88,
+  "language": "ve",
+  "title": "88 U Songo Mphira Mutshidzi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:569",
+        "AH:187"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. U songo mphira Mutshidzi, Ipfa tshililo;",
+        "Musi U tshi vhidza vhanwe, U songo mphira."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu, Yesu, Ipfa tshililo;",
+        "Musi U tshi vhidza vhanwe,",
+        "U songo mphira."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tshidzuloni tsha tshilidzi, Ndi vhofhololwe;",
+        "Ndo gwadama nda dinyadza, Mphe lutendo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi fulufhela tshilidzi, Ndi U vhone-vho;",
+        "U fhodze-vho muya wanga, thi tsha kona nne."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. U tshisima tsha phumudzo, U fhira zwothe,",
+        "Makoleni na shangoni, U thikho yanga."
+      ],
+      "number": 5
+    }
+  ]
+}

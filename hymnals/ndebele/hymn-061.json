@@ -1,0 +1,57 @@
+{
+  "number": 61,
+  "language": "nd",
+  "title": "61 Okunye NgoJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngo Jesu ngi thand’ukwazi,",
+        "Ngi tshel’ abanye ngomusa",
+        "Ba thole ukuxolelwa;",
+        "Ngoweza ukusifela."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Okunye ngo Jesu,",
+        "Okunye ngo Jesu,",
+        "Yena mina wang’ophela;",
+        "Yena ngami wazidela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngo Jesu ma ngi fundiswe!",
+        "NgeyAkh’ ingqondo ng’aziswe?",
+        "Moy’ oNgcwele Mfundisi wam’,",
+        "Veza okuka Krestu kim’."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "NaY’ uJesu ma ngi zwane,",
+        "NaY’ uJesu ngi thandane;",
+        "Ngi zwe izwi lAkhe kimi:",
+        "Li khuluma konke kimi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "NgoJesu nab’ ubukhosi,",
+        "Ngize ngi hlabe lomkhosi;",
+        "Ngi babaze ngi ngathuli,",
+        "Ngal’ iWundlu loKuthula."
+      ],
+      "number": 5
+    }
+  ]
+}

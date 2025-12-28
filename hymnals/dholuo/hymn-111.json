@@ -1,0 +1,35 @@
+{
+  "number": 111,
+  "language": "luo",
+  "title": "111 Wakwayi, Ruoth, Kuom Tekoni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Wakwayi, Ruoth, kuom tekoniMa jogi chon nobedogo;Ma nojiwo chunygi chutho,Nokonyogi dhil e chandruok."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ere muya ma nomiyoIbrahim chir kuom chung` matek;Ma notego chuny Paulo be,Kopong`e gi teko maler."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Miwa tekoni, kaka chonElija noyudo teko;Nonenore kuom Musa be,Nojiwo Ayub e temruok."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Par ndalogo machon, Ruodhwa,Chiw teko kendo jiw tichni;Kendo ka chunywa paroiMond` iol Rohoni kuomwa."
+      ],
+      "number": 4
+    }
+  ]
+}

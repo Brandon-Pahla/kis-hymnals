@@ -1,0 +1,56 @@
+{
+  "number": 172,
+  "language": "pt",
+  "title": "Na Cruz Morri por Ti",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Na Cruz Morri por Ti"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na cruz morri por ti,",
+        "Por ti, ó pecador!",
+        "Meu sangue ali verti,",
+        "Provando amarga dor.",
+        "Na cruz a Minha vida pus,",
+        "Do Céu por isso vim.",
+        "Das trevas te chamei à luz;",
+        "Que fazes tu por Mim?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Em vão Eu não deixei",
+        "O trono lá na luz;",
+        "Em vão não permutei",
+        "A glória pela cruz.",
+        "Por ti deixei no Céu Meu lar,",
+        "Fui peregrino aqui.",
+        "Não queiras, pois, desculpas dar;",
+        "Que fazes tu por Mim?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Imensa foi a dor,",
+        "A angústia que sofri!",
+        "Não pode haver maior!",
+        "A ela sucumbi.",
+        "Mas mesmo a morte desprezei,",
+        "Pra te salvar, assim;",
+        "Por ti a Minha vida dei;",
+        "Que fazes tu por Mim?"
+      ],
+      "number": 4
+    }
+  ]
+}

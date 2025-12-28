@@ -1,0 +1,57 @@
+{
+  "number": 183,
+  "language": "fr",
+  "title": "Rendons gloire à Dieu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Rendons gloire à Dieu notre Père,",
+        "Bénissons notre Rédempteur",
+        "Et que l'Esprit-Saint nous libère",
+        "De la tristesse et de la peur."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que la joie de Dieu nous habite,",
+        "Que la paix de notre Seigneur",
+        "Ici-bas jamais ne nous quitte,",
+        "Mais qu'elle éclaire notre cœur !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Seigneur, fais que tout notre être",
+        "Te soit désormais consacré.",
+        "De tout notre esprit sois le Maître",
+        "Et nous délivre du péché."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De tout l’amour que Dieu nous donne,",
+        "À jamais nos cœurs sont remplis.",
+        "Et que de nous tous il rayonne",
+        "Pour tous, amis ou ennemis."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pardonne à nos mains qui exigent,",
+        "À nos yeux souvent aveuglés",
+        "Et que ton Esprit nous dirige",
+        "Sur les chemins de vérité."
+      ],
+      "number": 5
+    }
+  ]
+}

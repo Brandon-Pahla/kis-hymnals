@@ -1,0 +1,37 @@
+{
+  "number": 257,
+  "language": "nd",
+  "title": "257  Qinisiwe Njengedwala",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Qinisiwe njenge dwala",
+        "Mile njenge ntaba",
+        "Unjalo umnt’ othembayo",
+        "I Nkosi ephilayo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Intaba ziyehluleka",
+        "Khona endawen’ enhle",
+        "Nezandl’ ezinok’thandeka",
+        "Kuy’ indaw’ engcwele"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lunga Nkosi kwabamhlophe",
+        "Bebamb’ iqiniso",
+        "Ngayo inhliziyo enhle",
+        "Bengoni umthetho"
+      ],
+      "number": 3
+    }
+  ]
+}

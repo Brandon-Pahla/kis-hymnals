@@ -1,0 +1,57 @@
+{
+  "number": 555,
+  "language": "tw",
+  "title": "Mmabun Hwɛfo, 'Dɔ Ne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mmabun Hwɛfo, 'dɔ ne",
+        "Nokwar' yɛ W'akwanky'rɛ,",
+        "Kwan kɔntɔnkyem;",
+        "Kristo, nkonimdi Hen',",
+        "Yɛto Wo din ho dwom",
+        "Yɛn mma de W'ayeyi",
+        "Bre Wo wɔ ha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wone yɛn W'ra kronrkon",
+        "Asɛm Tumfo nwanwa, ɔpatafo;",
+        "Wō a Wotoo Wo ho mpan,",
+        "Sɛnea Wubefi bɔn'",
+        "'Nimguasem' agye yɛn",
+        "Ama yɛn nkwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wone sɔfo Panin;",
+        "Woasiesie aponto ɔs'ro dɔ mu;",
+        "Yɛn yaw kɛse mu no,",
+        "Wutie yɛn sufrɛ ny'naa;",
+        "Na Wonkame yɛn mmoā a",
+        "Efi s'ro no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛ yɛn Kwanky'rɛfo daa,",
+        "Yɛn Hwɛfo, yɛn poma,",
+        "Ne yɛn dwonto;",
+        "Yesų a Wone Kristo,",
+        "Fi Wo daa asɛm nom",
+        "Ky'rɛ yɛn nan kwan na hyɛ",
+        "Yɛn gyidi den."
+      ],
+      "number": 4
+    }
+  ]
+}

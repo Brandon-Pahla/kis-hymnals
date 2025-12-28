@@ -1,0 +1,37 @@
+{
+  "number": 205,
+  "language": "nd",
+  "title": "205 Esanyenyeza UJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "UJesu enyenyeza, Woza moni!",
+        "Nxa si kukhulekela, Woza moni!",
+        "Ku yilithub’ elihle, Woza moni!",
+        "Ku yisikhathi manje, Woza moni!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unomthwalo onzima?, Woza moni!",
+        "U yakukuphumuza, Woza moni!",
+        "UJesu kakhohlisi, Woza moni!",
+        "U ya kunik’ ubomi, Woza moni!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, yizwa esancenga, Woza moni!",
+        "U yakukubusisa, Woza moni!",
+        "Kuwe u yanyenyeza, Woza moni!",
+        "Nxa si kukhulekela, Woza moni!"
+      ],
+      "number": 3
+    }
+  ]
+}

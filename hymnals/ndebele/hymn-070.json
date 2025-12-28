@@ -1,0 +1,55 @@
+{
+  "number": 70,
+  "language": "nd",
+  "title": "70 S’oma Kanjani Ekwahlulelweni?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa uJes’ ebutha izizwe Ukuma ngapambi kwAkhe;",
+        "Si zobonakala kanjani: Ukamkel’ ukwahlulelwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kumb’ uMsindisi u yakusho? \"Khuhle ncek’ elungileyo;\"",
+        "Mhlaumbe ngokuthuthumela, Si zoxoshwa ngakuYena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si zokuma kanjani thina le? Ngelanga leli elikhulu;",
+        "Ekwahlulelweni kwabantu, Ngelanga lel’ elikhulu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U yabathabela abAkhe Lab’ abahophau lwAkhe;",
+        "U yabagqokisa ngobuhle, Sebe guqile ngakuYe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Masibe ngabalindileyo Ngeziban’ ezikhanyayo;",
+        "Nxa uMyeni esesibiza, Si lungele ukundiza."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngenhliziy’ ebhek’ ezulwini Nasekubekezeleni;",
+        "Nxa ukuhamba ku phelile, Si zobon’ ubuso bAkhe."
+      ],
+      "number": 6
+    }
+  ]
+}

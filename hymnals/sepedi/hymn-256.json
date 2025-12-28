@@ -1,0 +1,56 @@
+{
+  "number": 256,
+  "language": "nso",
+  "title": " 256  MODIMO THUŠO YA RENA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 256  MODIMO THUŠO YA RENA",
+        "CH 81 AH 58",
+        "O GOD, OUR HELP"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Modimo thušo ya rena,",
+        "Tshepo ka mehla,",
+        "Tshireletšo le sefefong,",
+        "Gae la bosafelego,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moriting wa terone,",
+        "Go na le bakgethwa,",
+        "\"Tsogo la 'Go le lekane,",
+        "phemelo ya sebetša;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dithaba di sešo tša ba gona,",
+        "'Fase le sešo la bopšwa,",
+        "Go floga bosafelego,",
+        "O dutše o le Modimo;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sekete sa mengwaga,",
+        "Eke ke phirimo,",
+        "Se ka ba bjalo ka meso,",
+        "Pele go letšatši;"
+      ],
+      "number": 5
+    }
+  ]
+}

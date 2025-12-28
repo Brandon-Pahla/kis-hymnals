@@ -1,0 +1,24 @@
+{
+  "number": 195,
+  "language": "ts",
+  "title": "195. LANGAVI RA EVHANGELI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O FOR THAT FLAME OF LIVING FIRE",
+        "1. Langavi Ra Evhangeli, Voningela Vakwetsimi,",
+        "Ku Va Yisa Etilweni, No Tiyisa Maxangwini.",
+        "2. Hosi Rhuma Moya Waku, Lowu Veke Ka Abraham,",
+        "Lowu Tshinyeke Pawulu, A Tala Ntamu Wa Wena.",
+        "3. Moya Lowu Wa Masiku, Wu Vule Rirhandzu Raku,",
+        "Wu Pfuxelele Esaya, Wu Tiyisa Na Davhida.",
+        "4. Tintswalo Taku Tikulu, Ti Khongetele Eliya,",
+        "Ti Seketerile Yobo, Ti Vangamisile Muxe.",
+        "5. Hosi Tsundzuka Ta Khale, Ntirho Waku Wa Tintswalo,",
+        "Hi Titshineta Ka Wena, Hi Nyike Moya Wa Wena."
+      ],
+      "number": 1
+    }
+  ]
+}

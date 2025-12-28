@@ -1,0 +1,31 @@
+{
+  "number": 213,
+  "language": "bem",
+  "title": "213 - LWIMBO LWANDI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "MY SONG"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu we Mu-pusu-shi, Niwe lwimbo-lwandi;",
+        "We ka-lubu-la wa-ndi, Ilyo nape-lelwa.",
+        "CHORUS:",
+        "We Mu-pusu-shi wa-ndi, Naku-lakwi-mbila;",
+        "Niwe Cibu-sa wa-ndi, Yesu ndeku-temwa",
+        "2. Niwe buce-teke-lo, Bwandi myaka-yonse;",
+        "'Lyo nsa-ngwa mu-macu-sho, Ndepo-nye fi-lamba.",
+        "3. Niwe nace-teke-la, Cibu-sa wa-cine;",
+        "Mutemwikwa kuli 'ine, Uku-cila fyonse",
+        "4. Yesu e lwi-mbo lwandi, 'Lyo ndi muno-calo;",
+        "Aka-ba lwi-mbo lwa-ndi, 'Lyo nka-ba ku-mulu."
+      ],
+      "number": 2
+    }
+  ]
+}

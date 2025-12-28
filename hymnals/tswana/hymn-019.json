@@ -1,0 +1,37 @@
+{
+  "number": 19,
+  "language": "tn",
+  "title": "19 Itise Mo’a Me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Itise Mo’a Me:",
+        "Ka baba ba bantsi;",
+        "Masomo-somo a boleo,",
+        "A ya go folosa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tlhabana Rapela:",
+        "O se ineele ntweng;",
+        "Tlhabana ka metlha yotlhe",
+        "Mme o lope thuso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga O ’Se O Fenye,",
+        "Mme o se apole;",
+        "Tiro ya ’go e tla fela",
+        "O bonye serwalo."
+      ],
+      "number": 3
+    }
+  ]
+}

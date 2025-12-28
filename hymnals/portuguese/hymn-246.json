@@ -1,0 +1,44 @@
+{
+  "number": 246,
+  "language": "pt",
+  "title": "Vinde Vós, Fiéis, Cantar",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Vinde Vós, Fiéis, Cantar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vinde vós, fiéis, cantar o hino da vitória;",
+        "Deus dará ao povo Seu a eterna glória.",
+        "Jubilai, Jerusalém, em acentos vivos!",
+        "Aclamai de coração Cristo redivivo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Junto ao Pai no templo já Cristo intercede.",
+        "Pelo que perdido está, Seu favor concede.",
+        "A justiça, por amor - Oh! excelsa graça!",
+        "Sim, credita ao pecador, sem que nada faça."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Crentes, hoje, com fervor, vinde jubilosos,",
+        "Pois em Cristo, certo, sois mais que vitoriosos.",
+        "Glória ao Filho, glória ao Pai, e ao Espírito Santo!",
+        "Graças mil, oh, glória dai, em um novo canto."
+      ],
+      "number": 4
+    }
+  ]
+}

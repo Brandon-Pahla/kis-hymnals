@@ -1,0 +1,56 @@
+{
+  "number": 543,
+  "language": "pt",
+  "title": "Na Balança do Senhor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Na Balança do Senhor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ao pesar nossos motivos",
+        "O Juiz, em retidão,",
+        "Nos terá por ouro puro,",
+        "Ou refugo mau e vão?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Sim, na balança do Senhor",
+        "Foste pesado?",
+        "Pela palavra do Senhor,",
+        "Foste aprovado?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Senhor irá dizer-nos:",
+        "\"Bem está, servo fiel\"?",
+        "Ou a nós dará a sentença:",
+        "\"Servo mau e infiel\"?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hoje a voz de Deus ouçamos",
+        "A falar ao coração,",
+        "Antes que, passando a graça,",
+        "Fique além a salvação."
+      ],
+      "number": 5
+    }
+  ]
+}

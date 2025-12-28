@@ -1,0 +1,37 @@
+{
+  "number": 410,
+  "language": "tw",
+  "title": "'W'ra, 'Bodoo a Yebubu Yi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, 'bodoo a yebubu yi",
+        "Yɛ Wo honam no 'sunsuma;",
+        "Nsa a yehwie gu k'ruwam' yi,",
+        "Ky'rɛ mogya a Wuhwie gui no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na b're a yɛahyia mu sei no,",
+        "Yɛky'rɛ sɛ yɛyɛ k'ro Wo mu;",
+        "Wuhwiee Wo mogya gu maa yɛn;",
+        "Wow u ama yɛn 'hofadi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Y'ani da so sɛ Wobɛba;",
+        "Yɛhwɛ kwan sɛ Wubepue wim,",
+        "De W'ahotefo akɔ fie,",
+        "Na yɛne Wo adi hen daa."
+      ],
+      "number": 3
+    }
+  ]
+}

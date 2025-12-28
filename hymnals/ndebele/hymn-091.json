@@ -1,0 +1,46 @@
+{
+  "number": 91,
+  "language": "nd",
+  "title": "91 Lindani Ni Khuleke",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lindani iNkosi, Iyabiza namhla;",
+        "Lindani iNkosi, Lindani ngamandla.",
+        "Qinani maKrestu; Isitha si nonya",
+        "Lindani uMyeni, Nanxa elibala."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mlindenini ni khuleke;",
+        "Mlindenini ebusuku nasemini;",
+        "Lindani nonke."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xosha ubuthongo, susa ukusola.",
+        "Ngowakho umvuzo, Phezulu wophumla;",
+        "Linda u khuleke, uJesu walinda",
+        "Waze wajuluka, Igazi laconsa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thembani kuJesu, Qaphelan’ isitha;",
+        "Thathan’ izihlangu, Ni lind’ iNkos’ iza;",
+        "Uma sekusile Ni ngabolibala;",
+        "Ngales’ khath’ esihle, Linda mKrestu linda."
+      ],
+      "number": 4
+    }
+  ]
+}

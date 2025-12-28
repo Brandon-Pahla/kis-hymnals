@@ -1,0 +1,46 @@
+{
+  "number": 14,
+  "language": "en",
+  "title": "14 Hear The Pennies Dropping",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hear the pennies dropping! Listen while they fall.",
+        "Every one to Jesus, -He will get them all."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dropping, dropping dropping, dropping; Hear the pennies fall!",
+        "Every on for Jesus,-He will get them all"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dropping, dropping ever, From each little hand;",
+        "`Tis our gift to Jesus, From his little band."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Now, while we are little, Pennies are our store;",
+        "But, when we are older, Lord, we’ll give thee more."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tho` we’ve little money, We can give him love;",
+        "He will own our off`ring, Smilling from above."
+      ],
+      "number": 4
+    }
+  ]
+}

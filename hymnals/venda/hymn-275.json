@@ -1,0 +1,65 @@
+{
+  "number": 275,
+  "language": "ve",
+  "title": "275. Ri Vhu Wana ’Fhi?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ri vhu wana ’fhi vhutshilo vhu sa fheli?",
+        "Vhu kha tsinyuwo naa kana kha dakalo?",
+        "Mbudziso i hone, vhu wanalafhi?",
+        "Mbudziso i hone, vhu wanalafhi?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ri vhu wana ’fhi vhutshilo vhu sa fheli?",
+        "Kha vho rengwaho kana kha vho latwaho?",
+        "Khamusi hafhano, kana henengei?",
+        "Khamusi hafhano, kana henengei?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri vhu wana ’fhi vhutshilo vhu sa fheli?",
+        "U tshe wo lavhelesa zwa shangoni naa?",
+        "Zwi na vhutshilo vhu sa fheliho naa?",
+        "Zwi na vhutshilo vhu sa fheliho naa?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. thama, wo sedza naa kha tshifhambano?",
+        "Mudzimu u do da a u dzhia zwino",
+        "Naa iwe u nalo litadulu naa?",
+        "Naa iwe u nalo litadulu naa?"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Ri vhu wana ’fhi, ri vhu wana’fhi?",
+        "U si edele shaka, sia shango",
+        "U sathu fhindula, vhu wanala ngafhi?",
+        "U sathu fhindula, vhu wanala ngafhi?"
+      ],
+      "number": 6
+    }
+  ]
+}

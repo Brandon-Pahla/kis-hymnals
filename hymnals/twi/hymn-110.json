@@ -1,0 +1,61 @@
+{
+  "number": 110,
+  "language": "tw",
+  "title": "Nyame Ahummɔb'rɔ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame ahummɔb'rɔ",
+        "Sen 'fa wiase ny'naa;",
+        "Na Ne frankaa no hy'rɛn",
+        "N'asafo anim.",
+        "Ͻtrɛw anuonyam mu,",
+        "Te sɛ ɔsoro;",
+        "Nkonimdi kɛse mu,",
+        "Ne daa dɔ no hy'rɛn."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Huhub're wia rebɔ",
+        "'Sase ne 'po so;",
+        "Anigye hann no hy'rɛn",
+        "Nneɛma ny'naa so kwa;",
+        "B'ribiara dė 'h'rusi",
+        "Wɔ ne hann no mu;",
+        "Asase ne mpempem",
+        "Nto ayeyi nnwom."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Wura, hwie Wo hann pa",
+        "Gu y'anif'rae so;",
+        "Wo dɔ ayamye nti,",
+        "Yɛbɛdɔ Wo pii;",
+        "Na sɛ mununkum si kabii wɔ ewim,",
+        "Na anim kata a,",
+        "Agya, twiw bɛn yɛn."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛrennye Wo ho kyim,",
+        "Wo hann sie mpo a;",
+        "Wunnim' a nkwa d'ru sum,",
+        "'Wu yɛ hann Wo nkyɛn;",
+        "Hann mu hann hy'rɛn yɛn so,",
+        "Yɛn 'kwantu yi mu,",
+        "Di yɛn anim kodu Dá enni awiei."
+      ],
+      "number": 4
+    }
+  ]
+}

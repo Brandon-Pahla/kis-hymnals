@@ -1,0 +1,36 @@
+{
+  "number": 632,
+  "language": "tw",
+  "title": "Me Koma To Dwom Sɛ Mekae Sɛ Fam Ha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me koma to dwom sɛ mekae sɛ fam ha",
+        "Dadwen no yɛ atrapɔe bė a ɛwɔ",
+        "ɔkwan a ɛkɔ ɔsoro no mu a,",
+        "Saa 'haw wiase 'i nyɛ mefi ankasa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nanso me koma bɛkɔ so ato dwom,",
+        "Mɛkɔ so de 'nigye atoa so",
+        "Kosi da a m'aniwa behu kųro no",
+        "Na Nyamč afrɛm' akɔ fie no."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asase so nneɛma bɛhwere wɔn bo,",
+        "Wɔde dii dwuma b're tiawa bi mu;",
+        "'Sase so nneɛmā a ɛma koma popo n'",
+        "Yɛkae a ɛbɛyɛ anigye nko."
+      ],
+      "number": 2
+    }
+  ]
+}

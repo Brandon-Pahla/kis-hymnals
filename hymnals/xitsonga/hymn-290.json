@@ -1,0 +1,28 @@
+{
+  "number": 290,
+  "language": "ts",
+  "title": "290. HI NTSAKO TIRHELA HOSI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TOILING FOR JESUS",
+        "1. Hi Ntsako Tirhela Hosi Yesu, U Landzelela Swiletelo,",
+        "Tinyikele Ntirhweni Wa Hosi, Tshembheka Hetisisa Ntirho.",
+        "CHORUS",
+        "Soprano & Alto",
+        "Tirhela Yesu, Tirhela Hosi Tirha Hi Ntsako; Tirhela Hosi,",
+        "Yi Tirhele Hi Ntsako.",
+        "Tenor & Bass",
+        "Mi Tirhela Yena, Yesu Hosi Ya Hina;",
+        "(I Hosi) Hosi Ya Hina; Mi Tirhela Hosi Yesu,",
+        "I Hosi Ya Matilo.",
+        "2. Hi Ntsako Hi Ta Vula Ta Yesu, Ta Rirhandzu Rakwe Vanhwini,",
+        "Yesu Ku Kwetsima Ka Tatana, U Hi Nyika Na Minkateko.",
+        "3. Titsongahateni Mi Landzela, Yesu Mi Tshebheke Ka Yena,",
+        "Valahleki A Va Leteriwe, Ka Yesu Va Ta Ponisiwa"
+      ],
+      "number": 1
+    }
+  ]
+}

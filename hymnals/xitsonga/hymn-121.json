@@ -1,0 +1,26 @@
+{
+  "number": 121,
+  "language": "ts",
+  "title": "121. NDZI TA TWARISA YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I WILL SING OF JESUS LOVE",
+        "1. Ndzi Ta Twarisa Yesu,",
+        "U Ndzi Rhandze Swonghasi; U Suke Matilweni, A Ta Fa Egolgotha.",
+        "CHORUS",
+        "Ndzi Ta Dzunisa Yesu, (Ndzi Ta Dzunisa Vito Ra Yesu,)",
+        "U Ndzi Rhandzile Swonghasi; (U Ndzi Rhandzile Swonghasi.) Yesu U Fele Mina,",
+        "(Yesu U Ndzi Fele Mina Mudyohi,) U Ndzi Rhandzile Mina.",
+        "2. Loko Ndzi Nga Si Rila, Yesu U Ndzi Rilele;",
+        "U Ndzi Khongelerile, Ndzi Nga Si N’wi Khongela.",
+        "3. Rirhandzu Leronghasi, Ku Hava Rin’wanyana;",
+        "Ri Hlantswaka Vudyoho, Ndzi Sala Ndzi Basile.",
+        "4. A Ndzi Munhu Wa Nchumu, Kambe U Ndzi Rhandzile;",
+        "Hosi Ndzi Pfune Sweswi, Ndzi Dyondzise Ku Rhandza."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "number": 46,
+  "language": "ny",
+  "title": "46 - Yimbiranso Kwa Ine",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SING THEM OVER AGAIN"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yimbiranso kwa inetu, Mau a Moyowo;",
+        "Ndionenso za iwotu, Mau a moyowo.",
+        "Mau abwinowo, Andiphunzitsatu,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mau ake, ozizwitsa, Mau a moyowo,",
+        "Mau ake, abwinowo, Mau a moyowo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Khristu apatsa onsewo, Mau a moyowo;",
+        "Wochimwa ’we akwitana, Mau a moyowo.",
+        "Angoperekatu kuti tinke mmwamba,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Uitana uthengawo, Mau a moyowo;",
+        "Adzakhululukira ’we, Mau a moyowo.",
+        "Yesu Mpulumitsi Ayeretsa iwe,"
+      ],
+      "number": 4
+    }
+  ]
+}

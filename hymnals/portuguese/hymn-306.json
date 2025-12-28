@@ -1,0 +1,56 @@
+{
+  "number": 306,
+  "language": "pt",
+  "title": "Diz, Senhor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Diz, Senhor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ouve o Senhor a Ti chamando:",
+        "\"Queres hoje, tu, servir a Mim?",
+        "Queres trabalhar pelos perdidos?\"",
+        "Ouve o Senhor falar assim."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Diz, Senhor! Diz, Senhor,",
+        "O que devo eu aqui fazer!",
+        "Diz, Senhor! Diz, Senhor!",
+        "Eis-me aqui, eu irei responder."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Os perdidos deste mundo clamam.",
+        "Ouve o suplicar do sofredor!",
+        "Cristo hoje está te convidando",
+        "Para ser obreiro de valor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Senhor te chama com ternura;",
+        "Ouve Sua voz a suplicar.",
+        "Vem a Ele unir-te no serviço,",
+        "Sim, buscando almas pra salvar."
+      ],
+      "number": 5
+    }
+  ]
+}

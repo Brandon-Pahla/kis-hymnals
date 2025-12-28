@@ -1,0 +1,35 @@
+{
+  "number": 306,
+  "language": "luo",
+  "title": "306 Pakeuru, Un Nyithindo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Pakeuru, un nyithindo duto,En hera, En hera;Pakeuru, un nyithindo duto,En hera, En hera."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Hereuru un nyithindo duto,En hera, En hera;Hereuru, un nyithindo duto,En hera, En hera."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Luweuru, un nyithindo duto,En hera, En hera;Luweuru, un nyithindo duto,En hera, En hera."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Un nyithindo, ruak Yesu e chunyu,En hera, En hera;Un nyithindo, ruak Yesu e chunyu,En hera, En hera."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "number": 195,
+  "language": "fr",
+  "title": "Oh! que ta main paternelle",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! que ta main paternelle",
+        "Me bénisse à mon coucher.",
+        "Et que ce soit sous ton aile",
+        "Que je dorme, ô mon Berger!",
+        "Que je dorme, ô mon Berger!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dans ton grand amour, efface",
+        "Les péchés que j'ai commis,",
+        "Et permets que par ta grâce",
+        "J'obéisse à ton Esprit,",
+        "J'obéisse à ton Esprit."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fais reposer sous ta garde",
+        "Mes amis et mes parents,",
+        "Et que ton oeil les regarde,",
+        "De ton ciel, petits et grands,",
+        "De ton ciel, petits et grands."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que ta faveur se déploie",
+        "Pour consoler l'affligé.",
+        "Donne au pauvre un peu de joie,",
+        "Au malade la santé,",
+        "Au malade la santé."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seigneur, j'ai fait ma prière;",
+        "Sous ton aile je m'endors,",
+        "Heureux de savoir qu'un Père",
+        "Plein d'amour veille au dehors,",
+        "Plein d'amour veille au dehors."
+      ],
+      "number": 5
+    }
+  ]
+}

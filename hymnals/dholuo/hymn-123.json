@@ -1,0 +1,35 @@
+{
+  "number": 123,
+  "language": "luo",
+  "title": "123 In Skul Marwa Mar Sabato",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. In skul marwamar SabatoIn ka maler chutho;Chunya korogombo ywayaMondo abi iri."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka maler (maler),Ka maber (maber),Ka maler (maler),Ka maler (maler)Chunya korogombo ywayaMondo abi iri."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Chunya oyudo mor chuthoE skul mar SabatoKasomo wachmar Ruoth YesuKaka nosethona."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yesu Ruodhaman gi hera,Oluongoa mondoAdhi e skulmar SabatoMond` achiwne chunya."
+      ],
+      "number": 4
+    }
+  ]
+}

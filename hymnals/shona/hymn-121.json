@@ -1,0 +1,57 @@
+{
+  "number": 121,
+  "language": "sn",
+  "title": "121 Ndichaimba Ne Rudo RwaJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndicha i...mbira Jesu Iye wa...kandidisa",
+        "(Ndicha-i...) (Iye wa...)",
+        "Akari...siyadenga Akafa pa Kari-va-ri",
+        "(Akari...)"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndoimba...rudo rwaJesu, Ndomuku...dzanarini",
+        "(Ndoimba...) (Ndomuku...)",
+        "Wakandi...fira ini Ndoimba rudo rwake",
+        "(Wakandi...)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndisati...ndachema Jesu aka...ndichemera",
+        "(Ndisati Suaka)",
+        "Ndisati...ndanamata Akandi namatira",
+        "(Ndisati)"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Okudza...makwerudo Hakuzi...kanwikwese",
+        "(Okudza...) (Hakuzi...)",
+        "Kutizwi...tema zvangu Zvacheneswa sechero",
+        "(Kutizwi)"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Handina...rudo rwaJesu Ndomuku...dza narini",
+        "(Handina) (koaka)",
+        "Tenzi mwo...yo waneta Ndizadzeyi nerudo",
+        "(Tenzimwo)"
+      ],
+      "number": 5
+    }
+  ]
+}

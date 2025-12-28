@@ -1,0 +1,47 @@
+{
+  "number": 103,
+  "language": "nd",
+  "title": "103 Zalwani Futhi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Okukhany’ umbusi ebusuku",
+        "Weza ngensindiso, wabuz’ uJesu",
+        "Ngokusobala waphendula wathi",
+        "\"Nga u zalwa futhi!\" (Futhi)"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Nga u zalwa futhi!\" (Futhi)",
+        "\"Nga u zalwa futhi!\" (Futhi)",
+        "Ngeqinis’ iqiniso, ngi thi kuwe",
+        "\"Nga u zalwa futhi!\" (Futhi)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nina ‘bantu, qaphelani izwi;",
+        "Liqotho lashiwo yiNkosi ni zve",
+        "Umlayezo kini u veze into -",
+        "\"Nga ni zalwa futhi!\" (Futhi)"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nin’ enizongen’ ebukhosini,",
+        "Ni hube ingoma esigodlweni;",
+        "Ni zuze ukuphila kwaphakade;",
+        "\"Nga ni zalwa futhi!\" (Futhi)"
+      ],
+      "number": 4
+    }
+  ]
+}

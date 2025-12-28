@@ -1,0 +1,71 @@
+{
+  "number": 379,
+  "language": "es",
+  "title": "Habla, Señor, a mi alma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Habla, Señor, a mi alma"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Habla, Señor, a mi alma;",
+        "hable tu dulce voz;",
+        "susurre en tierna notas:",
+        "\"Tú no estás solo, no\".",
+        "Mi corazón prepara,",
+        "presto a escuchar tu Ley;",
+        "canciones mi alma llenen",
+        "de gratitud y fe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Hablame en dulces notas,",
+        "hablame con amor:",
+        "\"Ya la victoria es tuya,",
+        "no tengas más temor\".",
+        "Hablame cada día,",
+        "hable tu tierna voz;",
+        "susurre en mis oídos:",
+        "\"Tú no estás solo, no\"."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Habla a tus hijos siempre,",
+        "dales tu santidad;",
+        "llénalos de tu gozo;",
+        "enséñales a orar.",
+        "A ti consagren todo,",
+        "vivan tan solo en ti,",
+        "traigan tu reino pronto,",
+        "vean tu rostro aquí."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Habla cual en lo antiguo",
+        "diste tu santa Ley.",
+        "Tus testimonios siempre",
+        "quiero guardar por fe.",
+        "Quiero magnificarte,",
+        "quiero a tu gloria dar",
+        "el grato testimonio",
+        "de obedecer y amar."
+      ],
+      "number": 5
+    }
+  ]
+}

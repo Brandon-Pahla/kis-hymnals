@@ -1,0 +1,50 @@
+{
+  "number": 120,
+  "language": "tw",
+  "title": "Dwom Bi Wɔ Ewim Hɔ!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dwom bi wɔ ewim hɔ!",
+        "Ns'romma bi wɔ ewim!",
+        "Ͻna bi rebɔ mpae, 'Kokoaa bi resu brɛoo!",
+        "Na ns'romma no hyerɛn b'rč a 'hoɔfɛfo to dwom,",
+        "Wɔawo ɔhen' wɔ Betlehem mmoa 'didibea!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ah'rusi rekɔ so Awo nwanwa no ho,",
+        "'Fisɛ 'babanin no Yɛ wiase Aw'rade.",
+        "Yiw, ns'romma no hyerɛn b'rč a 'hoɔfɛfo to dwom,",
+        "Wɔawo ɔhen' wɔ Betlehem mmoa 'didibea!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ns'romma no hann no mu",
+        "Na wiase 'hoɔfe wɔ;",
+        "Dwom no fi aky'riky'ri, Afa wiase nyinaa;",
+        "Wɔasɔ gya biará ano na 'hoɔfefo to dwom",
+        "Aman ne afie mu sɛ Yesu yɛ ɔhen'!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yedi 'h'rusi hann nom',",
+        "Na yesi dwom no so, Nea ɛba anadwo",
+        "Fi s'ro dɔm no nkyɛn no,",
+        "Yiw! Yɛbɔ ose wɔ wɔn asɛmpa no ho,",
+        "Na yɛkyea yɛn 'Gyenkwa ne Hen' nea ɔda no."
+      ],
+      "number": 4
+    }
+  ]
+}

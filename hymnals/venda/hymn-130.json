@@ -1,0 +1,54 @@
+{
+  "number": 130,
+  "language": "ve",
+  "title": "130. Ndi Wau Murena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:306",
+        "AH:235"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi wau Murena, ndo pfa ipfi lau li bula lufuno",
+        "Ndi tama lutendo lwo khwathaho, ndi kokodzelwe tsini."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndi sendedzwe Murena wanga tsini na tshifhambano",
+        "Ndi sendedzwe tsini, tsini Murena ene o mpfelaho."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nkhethele mushumo Murena nga Maanda a tshilidzi.",
+        "Ndi vhe na fulufhelo muyani ndi ite lufuno lwau."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Dakalo vhukuma ndi li wana musi ndi tsini hau",
+        "Ndi tshi rabela ndi amba na’we sa khonani vhukuma."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Hu na lufuno hu na dakalo zwine ra sa zwi divhe",
+        "Ri do zwi divha ro no vha seli ro awela kha iwe."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 38,
+  "language": "ve",
+  "title": "38 Khwathisani Kha Mudzimu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.Khwathisani kha ipfi la Yesu, na vhukati ha mifhirifhiri,",
+        "Ndi lone fhedzi lire na Maanda, a u fhenya milingo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kha ri nambatele, ntha ha Murena, ntha ha Kristo fhedzi,",
+        "Kha ri kondelele, musi ro kunda, ri do dzula na Murena"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Khwathisa u luga, nga zwivhuya, nga mbilu i sa ofhi na tshithu,",
+        "Ndi lone fhedzi li re na gundo, kha zwivhi zwothe fhano."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Khwathisani khayo ngoho yothe, ndi pfanelo yashu rothe fhano,",
+        "Ipfi fhedzi li re na mulalo, u swikela vhufhelo."
+      ],
+      "number": 4
+    }
+  ]
+}

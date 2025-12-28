@@ -1,0 +1,48 @@
+{
+  "number": 153,
+  "language": "tum",
+  "title": " 153 Fumu Ntha Nkhumurombani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 153 Fumu Ntha Nkhumurombani",
+        "JUST FOR TODAY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Fumu ntha nkhumurombani vya machero,",
+        "Mundithaske ku uheni mhanya uno,",
+        "Mndovwire m'kutokatoka na kuromba,",
+        "Ndichite lusungu m'mazgu m'hanya uno."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mwampho m'khumbo lane chara, n'pulikire,",
+        "M'ndovwire nkhujipereka sono, Dada,",
+        "Ndireke kuyowoya mazgu ghaheni,",
+        "Mujale milomo yane dazi lose."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mu nyengo ziheni Fumu, na ziweme,",
+        "Ndigomezgeke mwa Imwe sono, Dada,",
+        "Fumu ntha nkhumurombani vya machero,",
+        "Mndisunge mundirongozge mhanya uno."
+      ],
+      "number": 4
+    }
+  ]
+}

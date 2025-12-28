@@ -1,0 +1,30 @@
+{
+  "number": 77,
+  "language": "es",
+  "title": "Sea exaltado",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Sea exaltado"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sea exaltado el Señor, exaltado",
+        "en cielo y tierra.",
+        "Sea exaltado, por siempre exaltado;",
+        "su nombre alabaré.",
+        "Dios sin igual,",
+        "para siempre él reinará.",
+        "Su creación",
+        "se alegra en adorarlo.",
+        "Sea exaltado el Señor",
+        "con mi vida también."
+      ],
+      "number": 2
+    }
+  ]
+}

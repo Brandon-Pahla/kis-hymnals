@@ -1,0 +1,44 @@
+{
+  "number": 125,
+  "language": "xh",
+  "title": "125 Ukhanyo Entliziyweni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kuya khanya encotsheni, Kuya khanya elwandle,",
+        "Ilele imith’ ebomvu engceni yesihlambo;",
+        "Kanti olona lukhanyo Luzalis’ intliziyo;",
+        "Kuba aph’ aKhon’ u-Kristu, Kukho ukhanyiselo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ukukhanya! Kukhany’ okuhle! Ukukhany’ entliz’weni!",
+        "Yes’ encuma tu usizi, Ukukhany’ entliz’weni."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndilushiy’ olwam usizi, Ngokwengubo endala,",
+        "Undambese ngokugcoba, Ndizele yindumiso;",
+        "Nakwelo khaya lozuko Undizuzele lona,",
+        "Ndinyusa ngentliziyo yam, ulandel’ umoya wam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndithengwe ngum-Sindisi wam, Konk’ okwam kuko kwaKhe;",
+        "Isiban’ osilumeke Masizukise wena;",
+        "Nasekhayeni lozuko Ondizuzele lona,",
+        "Ndinyusa ngentliziyo yam Ulandel’ umoya wam."
+      ],
+      "number": 3
+    }
+  ]
+}

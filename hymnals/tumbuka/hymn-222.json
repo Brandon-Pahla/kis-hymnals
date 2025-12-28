@@ -1,0 +1,57 @@
+{
+  "number": 222,
+  "language": "tum",
+  "title": " 222 Mu Mawoko Gha Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 222 Mu Mawoko Gha Yesu",
+        "CH O15 SAFE IN THE ARMS OF JESUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mu mawoko gha Yesu nkhuyegamiramo,",
+        "Wakundidikiska 'ne na chitemwa chake,",
+        "Pulikizga wangelo kumwimbira sumu,",
+        "M'malo gha uchindami ku nyanja yituwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain:",
+        "Mumawoko gha Yesu nkhuyegamiramo",
+        "Wakundidikiska 'ne na chitemwa chake."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mumawoko gha Yesu mulije kwenjerwa,",
+        "Mulijeso viyezgo na kwananga wuwo,",
+        "KUljeso chitima, nkhayiko na wofi,",
+        "Muljeso masuzgo mulije masozi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nkhubisam mwa Yesu wakandifwira 'ne,",
+        "Nakhala pa jalawe ndimugomezgeng",
+        "Vailindenge mkufwasa mpaka kungweruke,",
+        "paka ndiwone mlenji ukwiza kusirya."
+      ],
+      "number": 5
+    }
+  ]
+}

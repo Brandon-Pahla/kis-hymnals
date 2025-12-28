@@ -1,0 +1,61 @@
+{
+  "number": 374,
+  "language": "es",
+  "title": "Dulce comunión",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Dulce comunión"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dulce comunión",
+        "la que gozo ya",
+        "en los brazos de mi Salvador.",
+        "¡Qué gran bendición",
+        "en su paz me da!",
+        "¡Oh!, yo siento en mí su tierno amor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Libre, salvo",
+        "de cuitas, penas y dolor;",
+        "libre, salvo,",
+        "en los brazos de mi Salvador."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Cuán dulce es vivir,",
+        "cuán dulce es gozar",
+        "en los brazos de mi Salvador!",
+        "Quiero estar con él",
+        "en su eterno hogar,",
+        "siendo objeto de su tierno amor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No habré de temer",
+        "ni aun desconfiar,",
+        "en los brazos de mi Salvador.",
+        "En él puedo yo",
+        "bien seguro estar",
+        "de los lazos del vil tentador."
+      ],
+      "number": 5
+    }
+  ]
+}

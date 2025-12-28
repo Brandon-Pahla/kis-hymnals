@@ -1,0 +1,69 @@
+{
+  "number": 344,
+  "language": "tum",
+  "title": " 344 Kasi Wanozgeka?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 344 Kasi Wanozgeka?",
+        "C.M. 2004"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Usange Yesu wangiza sono,",
+        "Kasi ungacitachi? Ungamanya wuli umoyo wako Panji iwe utitwenge"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "S/A",
+        "Kasi wanozgeka usange Yesu",
+        "Wangiza sono? Kasi wanozgeka",
+        "PakupuLikira mazgu (mnyane)   T/B",
+        "Kasi wanozgeka, nozgeka,",
+        "Usange Yesu wangiza sono?",
+        "Kasi wanozgeka, nozgeka",
+        "PakupuLikira mazgu? (m'nyane)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Usange Yesu wangiza sono,",
+        "Kasi ungazgorachi?",
+        "Kasi ungamusekeresa iwe Pakumulaiska iyo?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Usange Yesu wangiza sono,",
+        "kusanga wuli mdindi",
+        "Kasi nawe ungapokera mphunphu?",
+        "Mphumphu yambura kufota?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Nozgekera, nozgekera m'nyane,",
+        "Nyengo nayo yamara,",
+        "Panji wizam'kulekeka",
+        "iwe nakutayika kuwalo."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "number": 250,
+  "language": "ny",
+  "title": "250 - Chimo Musalole",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "YIELD NOT TO TEMPTATION"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Chimo musalole, Limacimwitsa,",
+        "Gonjetso limodzi Libweza wina;",
+        "Pitani m’tsogolo, Zoipa leka,",
+        "Yang’ana kwa Yesu, Adzakusunga.",
+        "CHORUS:",
+        "Funsa Mbuye thandizo",
+        "Aszakusunga iwe;",
+        "Ali wolola Iye;",
+        "Adzasunga iwe.",
+        "2. Thawani oipa, Ndi otukwana,",
+        "Lemekeza Mlungu, Osamamnyoza;",
+        "Khala waulemu, Ndi wacifuno,",
+        "Yang’ana kwa Yesu, Adzakusunga.",
+        "3. Kwa wolakikayo, Korona ’patsa,",
+        "Mwa cigonjetsoco, Kwa opirira;",
+        "Mpulumutsi wathu, Adzalimbitsa,",
+        "Yang’ana kwa Yesu, Adzakusunga."
+      ]
+    }
+  ]
+}

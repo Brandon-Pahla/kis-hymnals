@@ -1,0 +1,54 @@
+{
+  "number": 102,
+  "language": "ny",
+  "title": "102 - Mlendo Ali Pa Khomo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LET HIM IN"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mlendo ali pa khomo, Mlowetse ( Mlowetsenitu, Mlowetsenitu),",
+        "Wadza kale kalelo, Mlowetse ( Mlowetsenitu, Mlowetsenitu).",
+        "Mtsegulire msangatu, Wakuyerayerayo,",
+        "Mwana wa Mulunguyo, Mlowetse ( Mlowetsenitu, Mlowetsenitu)."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Utsegule mtimawo, Mlowetse (Mlowetsenitu, Mlowetsenitu).",
+        "Ukachedwa ‘chokatu, Mlowetse (Mlowetsenitu, Mlowetsenitu).",
+        "Ndiye bwenzi lakolo, ‘Dzakupulumutsa we;",
+        "‘Dzakusamaliranso, Mlowetse (Mlowetsenitu, Mlowetsenitu)."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Imva mau Akewo, Mlowetse (Mlowetsenitu, Mlowetsenitu),",
+        "Sankha Iye leroli, Mlowetse (Mlowetsenitu, Mlowetsenitu).",
+        "Wangoima khomopo, ‘Dzakusangalatsa ‘we,",
+        "Udzamlemekezatu, Mlowetse (Mlowetsenitu, Mlowetsenitu)."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mlendo wa kumwambayo, Mlowetse (Mlowetsenitu, Mlowetsenitu).",
+        "‘Dzakupatsa zonsezo, Mlowetse (Mlowetsenitu, Mlowetsenitu).",
+        "‘Dzakhululukira ‘we, Ndipo potsirizapo",
+        "‘Dzakutenga mmwambamo, Mlowetse (Mlowetsenitu,Mlowetsenitu)."
+      ],
+      "number": 5
+    }
+  ]
+}

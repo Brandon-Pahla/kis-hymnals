@@ -1,0 +1,25 @@
+{
+  "number": 73,
+  "language": "ts",
+  "title": "73. HI RHAMBIWA NKHUBYEN WA HOSI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "CALLED TO THE FEAST",
+        "1. Hi Rhambiwa Nkhubyen Wa Hosi, Na Va Hlawuriwa Va Yona,",
+        "Swi Ta Va Njhani Ka Hina Ke? Loko Yi Fika.",
+        "CHORUS",
+        "Loko Hosi Yi Fika, Loko Yi Fika,",
+        "Hi Ta Amukeriwa Ke? Loko Yi Fika.",
+        "2. Hosi leyi Nga Na Tiharhi, Yesu Loyi Anga Ndzi Fela,",
+        "U Tele Ku Kwetsima Tsena, Loko A Fika.",
+        "3. Hi Ku Vangama Ka Rihati, Ku Ta Paluxiwa Swi Hundla,",
+        "Ntiyiso Wu Ta Vonaka, Loko Yi Fika.",
+        "4. Yi Ta Languta Hiku Tsaka, Lava Ambeleke Swo Basa,",
+        "Swinene Loko Hi Nga Hlula, Loko Yi Fika."
+      ],
+      "number": 1
+    }
+  ]
+}

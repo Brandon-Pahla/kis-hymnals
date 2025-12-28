@@ -1,0 +1,63 @@
+{
+  "number": 338,
+  "language": "fr",
+  "title": "L'astre à l'horizon descend",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "L'astre à l'horizon descend,",
+        "Sur les monts l'ombre s'étend;",
+        "Veillons pendant que la nuit",
+        "Au ciel allume sans bruit",
+        "Ses lampes d'or."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Gloire, gloire à l'Éternel,",
+        "Au Dieu de paix,",
+        "Sur la terre et dans le ciel,",
+        "Tout te loue, Emmanuel,",
+        "Pour tes bienfaits."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tandis que s'éteint le jour,",
+        "La prière, ô Dieu d'amour !",
+        "Vers ton saint trône voilé,",
+        "Au fond du ciel étoilé",
+        "Prend son essor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dans ton Église, en tous lieux,",
+        "Seigneur, sous les vastes cieux,",
+        "Rassemble tous tes enfants;",
+        "Rends-les courageux, vaillants",
+        "Sous ton drapeau."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quand tu reviendras, Jésus,",
+        "Quand le mal ne sera plus,",
+        "Tu feras luire à nos yeux",
+        "L'aube du jour radieux",
+        "Qui luit là-haut."
+      ],
+      "number": 5
+    }
+  ]
+}

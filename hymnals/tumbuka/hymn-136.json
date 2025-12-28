@@ -1,0 +1,57 @@
+{
+  "number": 136,
+  "language": "tum",
+  "title": " 136 Nkhukumbukira Kalvari",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 136 Nkhukumbukira Kalvari",
+        "I REMEMBER CALVARY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Uko wandirongozgenge",
+        "ndirutenge ndamgomezga,",
+        "Nkhukumbukiraso kuti",
+        "wakatwa kundiwombola."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu wandirongozgenge",
+        "warongozge Lwendo Lose,",
+        "Ndi m bwezi wane",
+        "muweme nkhukumbukira kalvan."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nkhulitemwa dango lake",
+        "nkhutemwa wandirongozge,",
+        "Knumbiro lake ndichite",
+        "ndatuwiskika na ndopa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nkhuruta kwambula wofi",
+        "mponoski wali patupl,",
+        "AUgomezga nda kum 'wona",
+        "Yesu mbwezi wa mphinjikea."
+      ],
+      "number": 4
+    }
+  ]
+}

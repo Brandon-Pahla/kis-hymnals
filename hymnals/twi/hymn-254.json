@@ -1,0 +1,56 @@
+{
+  "number": 254,
+  "language": "tw",
+  "title": "Oduyɛfo Kɛse N' Abɛn",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Oduyɛfo kɛse n'abɛn,",
+        "ɔne timmɔb'rɔ Yesu;",
+        "ɔkasa ma koma tɔ yam,",
+        "O dɔfo tie Yesu nne!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dwom a ɛyɛ dɛ wɔ s'ro,",
+        "Din a ɛyɛ dɛ wɔ ha,",
+        "'Nigye dwom a wɔato pɛnɔ",
+        "Yesu, hy'rafo Yesu.!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nuonyam nka Guamma a ɔrewu n'",
+        "Ͻnnɛ megye Yesu di;",
+        "Medɔ Agyenkwa pa no din,",
+        "Medɔ me Yesu din no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne din pam m'afobu ne hu;",
+        "Din bi nte sɛ Yesu de;",
+        "O me kra kɔn dɔ sɛ ɛte",
+        "Yesu din a ɛsom bon'."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Da a ɔde 'henkyɛw bɛba,",
+        "'Nuonyam ne nkwa 'henkyɛw no;",
+        "Da no yɛbɛtratra Ne nkyɛn,",
+        "Aka yɛn nkwagye ho nsɛm."
+      ],
+      "number": 4
+    }
+  ]
+}

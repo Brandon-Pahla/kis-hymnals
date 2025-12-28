@@ -1,0 +1,47 @@
+{
+  "number": 574,
+  "language": "tw",
+  "title": "O'W'ra, Ma Me Ne Wo Nnantew",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O 'W'ra, ma me ne Wo nnantew,",
+        "Wɔ ɔsom nnwuma akwan so;",
+        "Ka W'asumasɛm kyerɛ me,",
+        "Boa ma mensoa ɔbra nnesoa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa ɔdɔ nsɛm a ɛyɛ dɛ",
+        "Kanyan m'adwen a ɛyɛ nyaa;",
+        "Boa ma mentwe m'aanammɔn mfi",
+        "Akobɔ mu nkɔ fie kwan so."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ky'rɛ me Wo boasetɔ na ma",
+        "Me ne Wo nnya 'yɔnkofa pa;",
+        "Wɔ nnwumā a ɛhyɛ gyidi den",
+        "Na edi bɔne so nim mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anidaso a ema hann",
+        "Daakye kwan a ɛtrɛ no so;",
+        "'Somdwoč a Wo nko na Wode ma,",
+        "O, 'Wura, ma me ne Wo ntra."
+      ],
+      "number": 4
+    }
+  ]
+}

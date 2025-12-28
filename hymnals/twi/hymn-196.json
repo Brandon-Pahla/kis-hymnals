@@ -1,0 +1,58 @@
+{
+  "number": 196,
+  "language": "tw",
+  "title": "Ka Tetesɛm No Ky'rɛ Me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ka tetesɛm no ky'rɛ me,",
+        "Soro nneɛmā a wonhu,",
+        "Yesu ne N'anuoyam no,",
+        "Yesu ne Ne dɔ no,",
+        "Ka no tiatiatia sɛnea",
+        "Wɔka ky'rɛ abofra;",
+        "Efisɛ meyɛ mmerɛw,",
+        "Na me ho agu fi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ka tetesɛm no ky'rɛ me,",
+        "Ka tetesɛm no ky'rɛ me,",
+        "Ka tetesɛm no ky'rɛ me,",
+        "Yesu ne Ne dɔ no."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka asɛm no brɛoo ky'rɛ me,",
+        "Nnč a ano yɛ nnam mu,;",
+        "Kae sɛ mene bɔn'yɛfō a",
+        "Yesu bɛgyee me nkwa.",
+        "Ka tetesɛm no daa daa",
+        "Sɛ ɛyɛ nokwar' sɛ,",
+        "Ahohia b're biara mu",
+        "Wone m'aw'rɛkyekye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka tetesɛm no ky'rɛ me,",
+        "B're a wusuro sɛ,",
+        "Wiase anuonyam hunu'I",
+        "Bo yɛ den ma me no;",
+        "Yiw, sɛ wiase anuonyam",
+        "Refa me kra yi a,",
+        "Ka tetesɛm no ky'rɛ me",
+        "Sɛ 'Kristo bɛgye wo'."
+      ],
+      "number": 3
+    }
+  ]
+}

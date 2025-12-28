@@ -1,0 +1,46 @@
+{
+  "number": 127,
+  "language": "ve",
+  "title": "127. U A Mpfuna Na nne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:456"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Musi thongola i tshi wa u a i vhona-vho;",
+        "U funa zwothe zwinoni u funa na nne-vho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U a mpfuna, U a mpfuna, U funa na nne-vho;",
+        "Na zwithu zwitukutuku U a zwi funa-vho."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. U nakisa na maluvha a tshi tou fhefheda;",
+        "U funa othe maluvha, na nne u a mpfuna."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mudzimu o sika zwothe, zwa fhano shangoni;",
+        "Vhana vhatuku ndi vhawe, na nne U a mpfuna."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "number": 131,
+  "language": "ts",
+  "title": "131. A NDZI FANE NA YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "MORE LIKE JESUS WOULD I BE",
+        "1. A Ndzi Fane Na Yesu, A Tshama Eka Mina,",
+        "Ndzi He Nsovo, Ku Rhula, Na Ku Titsongahata; Hambi Ndzi ri Endlelen, Ndzi Hundza Misaveni, Ndzi Nga Va Vuswetini, Yesu Tshama Na Mina.",
+        "2. Ku Rila Ka Nhlalala, Xindzingiri Xi Waka,",
+        "Hinkwaswo Wa Swi Vona, Na Swikombelo Swanga; U Dyondzisa Vutomi, U Rivalela Swivi,",
+        "Ndzi Ta Va Lowo Tenga, Yesu Tshama Na Mina.",
+        "3. Mikhongelweni Yanga, Hi Masiku Hinkwawo,",
+        "Ndzi Wisise Kusuhi, Na Mati Layo Rhula;",
+        "Ndzi Tswariwa Hi Nsovo, Na Rirhandzu Ra Wena, Ripfumelo Ro Xonga, Eku Tshamen Na Yesu."
+      ],
+      "number": 1
+    }
+  ]
+}

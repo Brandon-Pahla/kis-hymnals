@@ -1,0 +1,22 @@
+{
+  "number": 50,
+  "language": "ts",
+  "title": "50. TIKO RA XIKWEMBU RI KONA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE’S A LAND THAT IS FAIRER THAN DAY",
+        "1. Tiko Ra Xikwembu Ri Kona, A Ri Voniwanga Hi Mahlo;",
+        "Tatana U Hi Rindzerile, U Hi Lunghisela Vutshamo.",
+        "CHORUS",
+        "Ku Tsakeni,…… Enkhubyen, (Ku Tsaken)(Enkhubyen) Hi Ta Hlengeletana Kona; Entsakwen…… Enkhubyen, (Entsakwen)(Enkhubyen) Hi Ta Hlengeletana Tilweni!",
+        "2. Hi Ta Ti Yimbelela Tilwen, Tinsimu Ta Lavo Kwetsima;",
+        "Hi Nga Ka Hi Nga Xaniseki, Hambi Ku Ri Ku Karhateka.",
+        "3. Tatana Wa Hina Matilwen, Vito Rakwe A Ri Dzuniwe;",
+        "Hi Nyiko Yakwe Ya Rirhandzu, Hi Masiku Ma Nga Heriku."
+      ],
+      "number": 1
+    }
+  ]
+}

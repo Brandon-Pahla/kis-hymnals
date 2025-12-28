@@ -1,0 +1,46 @@
+{
+  "number": 538,
+  "language": "tw",
+  "title": "O Yehowa Tumfo, Gya Me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O Yehowa tumfo, gya me",
+        "Kwantuni wɔ sare so;",
+        "Meyɛ mm'rɛw, na Woyɛ tumfo,",
+        "Kura me Wo tumi nsam'",
+        "Soro aduan', soro aduan'",
+        "Yɛn me kosi sɛ mɛmee",
+        "Yɛn me kosi sɛ mɛmee."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bue nsu aniwa hyɛnhyɛn no,",
+        "Nea yaresa nsu fi no;",
+        "Ma ogya ne munumkum dum",
+        "Nnya me m'akwantu nyinaam';",
+        "'Gyefo tumfo, 'Gyefo tumfo,",
+        "Yɛ m'ahoɔden ne me kyɛm",
+        "Yɛ m'ahoɔden ne me kyɛm."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ midu Yordan sukɔn sō a",
+        "Ma me suro nyinaa nkɔ;",
+        "Fa me twa nsu a ay'ri no",
+        "Fa me kodu Kanaan dwoo;",
+        "Ayeyi nnwom, ayeyi nnwom",
+        "Na mɛto ama Wo daa;",
+        "Na mɛto ama Wo daa."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "number": 20,
+  "language": "rw",
+  "title": " 20 Huguka Mutima Wanjye!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 20 Huguka Mutima Wanjye!",
+        "**1**",
+        "Huguka mutima wanjye!",
+        "Shishikarir'ibyiza!",
+        "Ukomez'urwan'ishyaka!",
+        "Uzambikw'ikamba.",
+        "**2**",
+        "N'Iman'iguhamagara,",
+        "Gira bwangu witabe!",
+        "Niy'iziher'ibihembo,",
+        "Abatsinze bose.",
+        "**3**",
+        "Inteko zikurebera,",
+        "Ziragutegereje,",
+        "Ntutekerez'ah'uvuye,",
+        "Reb'imbere yawe.",
+        "**4**",
+        "Mukiza wacu dukunda,",
+        "Twanesheje ku bwawe,",
+        "Ubu twaje kugushima,",
+        "Turagusingiza."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "number": 151,
+  "language": "ny",
+  "title": "151 - Ndiganiza Za Dziko Lokometsa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WILL THERE BE ANY STARS?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndiganiza za dziko lokometsalo,",
+        "Komwe ndzafikako tsikulo;",
+        "Podzaima pa mbali pa Mp’lumutsiyo,",
+        "Ndidzavala nyenyezizoko?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndidzavala nyenyezizo ko, Mbuyanga,",
+        "Mmene dzuwa lidzalowadi (lowadi)?",
+        "Mmene ndzauka mmalo a mpumulowo,",
+        "Ndidzavala nyenyezizo ko (tsikulo)?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. M’mphamvu yakeyo ndigwiretu ntchitoyo,",
+        "Kuti ndikopetu anthuwo;",
+        "Kuti ndzapate nyenyezi pa tsikulo,",
+        "Mmene Mbuye ’dzayamike ’fe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndidzakondwera poona Mbuyangayo,",
+        "Ndikupereka mituloyo;",
+        "Ndidzakondwera m’mzinda wa golidiwo,",
+        "Ndikadzavala nyenyezizo."
+      ],
+      "number": 4
+    }
+  ]
+}

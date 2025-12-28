@@ -1,0 +1,44 @@
+{
+  "number": 172,
+  "language": "ny",
+  "title": "172 - Ambuye Wathu Yesu, Mubwera Liti?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOW LONG"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ambuye wathu Yesu, Mubwera liti ko?",
+        "Mitima yatopadi, Muchedweranji ko?",
+        "Lidzadza liti tsiku Lonyezimiralo,",
+        "Limene anthu anu Adzakondweranso?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Musiya mpaka liti, Ee, nyumba yanuyo?",
+        "Mwachedwachedwa, Mbuye, Ambiri agwatu;",
+        "Agwidwa ndi za dziko, Antchito anuwo;",
+        "Atsalatu pang’ono Oyang’anira ’Nu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Dzutsani anthu anu, Tumani mauwo;",
+        "Anene anthu onse, Akudza Mbuyeyo!",
+        "Ziyake nyali zathu, Tivale bwinotu.",
+        "Tikonze mtima wathu, Kuona Mbuyeyo."
+      ],
+      "number": 4
+    }
+  ]
+}

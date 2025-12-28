@@ -1,0 +1,45 @@
+{
+  "number": 71,
+  "language": "st",
+  "title": "71 Na Ke Ngoliloe Teng?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Leruo la gauda, ho ’na ha se letho,",
+        "Ke batla leholimo, ke kene mohlapeng;",
+        "Bukeng ea Hau ea ’muso, maqhepheng a matle,",
+        "U mpolelle ’Moloki, Na ke ngoliloe teng?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na ke ngoliloe, teng bukeng e ts’oeu e ntle,",
+        "Bukeng ea ’muso oa Hau, Na ke ngoliloe teng?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Libe tsa ka li ngata, tje ka lehlabathe;",
+        "Empa mali a ’Moloki ona a ntekane,",
+        "Empa mali a ’moloki on’a ntekane,",
+        "Le ts’episo e ngotsoe, ka hlaku tse khanyang."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Motse o motle oane, tulong ea leseli;",
+        "Moo ba halalelitsoeng, ba aparo tse ts’oeu;",
+        "Mo bobe bo sa keneng, ho senya ntho tse ntle",
+        "Tebellong ea mangeloi, na ke ngoliloe teng?"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 83,
+  "language": "nd",
+  "title": "83 Li Busisiwe Igama LAkhe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ma si hube si babaze; Makabongwe uJehova",
+        "Udumo lweNkosi yami; Makabongwe uJehova."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Li busisiwe, Li busisiwe Ibizo laYo iNkosi;",
+        "Li bisisiwe, Libusisiwe Ibizo laYo iNkosi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "uJesu u yathandeka; Makabongwe uJehova.",
+        "Imnandi kumon’ ingoma; Makabongwe uJehova."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U nqamul’ amandl’ esono; Makabongwe uJehova,",
+        "Igazi lihlanz’ omubi; Makabongwe uJehova."
+      ],
+      "number": 4
+    }
+  ]
+}

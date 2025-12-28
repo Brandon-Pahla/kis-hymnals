@@ -1,0 +1,47 @@
+{
+  "number": 118,
+  "language": "fr",
+  "title": "Saint-Esprit, que ta clarté",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Saint-Esprit, que ta clarté",
+        "Vienne briller sur nos coeurs;",
+        "Et que ses rayons vainqueurs",
+        "Chassent toute obscurité."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Saint-Esprit, ô vérité,",
+        "Guide infaillible et divin,",
+        "Montre nous le droit chemin,",
+        "Courbe notre volonté."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Saint-Esprit, Consolateur,",
+        "Viens calmer tous nos effrois.",
+        "Apaise, à ta douce voix,",
+        "La révolte et la douleur."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Saint-Esprit, ô toi qui sais",
+        "Combien chancellent nos pas.",
+        "Ne nous abandonne pas,",
+        "Et conduis-nous dans la paix."
+      ],
+      "number": 4
+    }
+  ]
+}

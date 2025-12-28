@@ -1,0 +1,27 @@
+{
+  "number": 399,
+  "language": "fr",
+  "title": "Seigneur, tu es notre joie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Seigneur, tu es notre joie, notre vie, notre espérance,",
+        "Seigneur, tu es notre joie, nous ne sommes rien sans toi.",
+        "Quand parfois dans notre vie, tout est froid et sans lumière,",
+        "C'est vers toi que nous conduit l'espoir d'être ton ami."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seigneur, tu es notre joie, notre vie, notre espérance,",
+        "Seigneur, tu es notre joie, nous ne sommes rien sans toi.",
+        "Dans ce monde qui a faim, tu nous invites à la table :",
+        "Dans un merveilleux festin, ton corps devient notre pain."
+      ],
+      "number": 2
+    }
+  ]
+}

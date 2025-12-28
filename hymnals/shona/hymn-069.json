@@ -1,0 +1,47 @@
+{
+  "number": 69,
+  "language": "sn",
+  "title": "69 Kugara Petyo Pemvura Yeupenyu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tinozogara patyo payo",
+        "Mvura yeupenyu",
+        "Jesu anozomira iyo",
+        "Kuchingamidza’su"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tinozogara patyo payo",
+        "Mvura yeupenyu’wo",
+        "Jesu ndiye mvura idi",
+        "Mvura yeupenyu’wo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Apo taneta nekufamba",
+        "Tafara kugara",
+        "Uko mvura inowerera",
+        "Tinoona simba"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndizvo uyanyi kuna Kristu",
+        "Mvura yeupenyu",
+        "Munozoona ruponeso",
+        "Rwagadzirwa isu"
+      ],
+      "number": 4
+    }
+  ]
+}

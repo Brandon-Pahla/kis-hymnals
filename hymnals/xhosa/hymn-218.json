@@ -1,0 +1,47 @@
+{
+  "number": 218,
+  "language": "xh",
+  "title": "218 Sinye Isiseko Senkolo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sinye isisekelo Sebandla, NguYesu;",
+        "Uzidalele lona Ngamanzi neLizwi.",
+        "Yena wehl’ ezulwini Wasimanya nalo;",
+        "Walithenga ngegazi, wafa ngenxa yalo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Banyulwe emhlabeni, Bahlangene kulo,",
+        "Lithi, \"Inye iNkosi, Ukholo, nozalo.\"",
+        "\"Linye iGama kwaneSonka esingcwele.\"",
+        "Kukho ithemba linye elinobabalo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Liyahlekwa liyacinezelwa kakhulu,",
+        "Luyahlukan’ utshaba apho kukh’ uYesu.",
+        "Abangcwele ngokholo bathi, \"Koba nini?\"",
+        "Kwakamsinyane kuza kuphel’ ukukhala"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phakathi kwenkathazo, Iintlungu, nenzima,",
+        "Lilindele umvuzo Woxol’ olukhulu;",
+        "Kothi ekupheleni Kuvel’ ukukhanya;",
+        "Kophela konk’ ukulwa I-Bandla loyise."
+      ],
+      "number": 4
+    }
+  ]
+}

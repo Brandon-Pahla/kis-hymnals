@@ -1,0 +1,68 @@
+{
+  "number": 48,
+  "language": "tum",
+  "title": " 48 Chamkuwa Chimvwemwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 48 Chamkuwa Chimvwemwe",
+        "O THERE'LL BE JOY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Kusangwa pakumara mlimo,",
+        "Pakuwunganya kwa vuna,",
+        "Pakwizaso na vipambi,",
+        "Mu msumba Yerusalem."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Chamkuwa chimwemwe nadi,",
+        "Chimwemwe cha m'yirayira.",
+        "Chifukwa nyengo yafīka,",
+        "yakuwunganya wose."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "T&B:",
+        "Chimwemwe mwaluwiro,",
+        "Chimwemwe myirayira,",
+        "Chifukwa'mwe nyengo yafika,",
+        "Yakuwunganya wose."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Tamukwimba sumu ziweme,",
+        "Tamukwimbaso na nchindi,",
+        "Tamchindika Khristu,",
+        "Fumu, mu msumba wuphya wura."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Chimwemwe chikulindirira",
+        "Mu msumba wura kuchanya,",
+        "Yesu wakunozga malo,",
+        "Mu msumba wuphya wura."
+      ],
+      "number": 5
+    }
+  ]
+}

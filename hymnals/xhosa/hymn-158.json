@@ -1,0 +1,38 @@
+{
+  "number": 158,
+  "language": "xh",
+  "title": "158 Nxhama, Mini Yovuyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Isivuno sozuko sisondele, I-Nkosi ibiz’ abavuni baYo,",
+        "Kude nakufuphi sihle kakhulu, Wofika umvuni sesimlungele."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Soprano: Khaulez’ ufike, Mini yovuyo; Khauleza usigoduse",
+        "Parts: Khawulez’ ufike Mini yovuyo (3) usigoduse."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lomso wanaphakade uyafika, Zophela inyembezi wakufika;",
+        "Isono esenze umonakalo Sivuthuza ngomoya onengozi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unencasa umsebenzi wothando! Unomsinga ovela ngaphezulu;",
+        "Simenywa luthando, lukwa sithuma; Luphethe isekile yesivuno."
+      ],
+      "number": 3
+    }
+  ]
+}

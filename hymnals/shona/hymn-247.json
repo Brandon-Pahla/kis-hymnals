@@ -1,0 +1,44 @@
+{
+  "number": 247,
+  "language": "sn",
+  "title": "247 Ridza Matare Ekudenga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ridzanyi matare kune rufaro!",
+        "Mweya wapumhuka wadzoka",
+        "Baba wom’gashira ari munzira",
+        "Omugashira mwana wake"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mbiri ngirosi dzinoimba",
+        "Mbiri marimba anorira",
+        "Hondo yekudenga senyanza huru",
+        "Yoimba vasununguka"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ridzanyi matare kune rufaro!",
+        "Mupumhuki agashirwazve",
+        "Mweya waponeswa kubva muzvivi",
+        "Wabarwa patsva aponeswa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ridzanyi matare kune mutambo!Ne ngirosi ngadzi imbewoVaudze rufaro usvike kweseMunyangadzi abarwa patsva"
+      ],
+      "number": 4
+    }
+  ]
+}

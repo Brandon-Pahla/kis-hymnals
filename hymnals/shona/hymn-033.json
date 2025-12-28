@@ -1,0 +1,55 @@
+{
+  "number": 33,
+  "language": "sn",
+  "title": "33 Iye Anonditungamira",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wanditungamira Jesu,",
+        "Ngemazwi ake emutsa",
+        "Zvese’zvo ndinozoita,",
+        "Iye anotungamira"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iye anditungamira, Ngeruoko wandibata,",
+        "Ini ndinomutevera, Kuti anotungamira"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana ndabatwa nenhamo,",
+        "Zvimwe ndichafara kwazvo,",
+        "Nerunyararo, dambudzo,",
+        "Anova nerubatsiro"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi, ndibate ngesimba,",
+        "Ndizvo handigurugute,",
+        "Kwese ndiri ndichafara,",
+        "Mwari anotungamira"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti basa razopera,",
+        "Zvese newe ndakurira,",
+        "Kana rufu handizotyi,",
+        "Kuti Mwari achineni"
+      ],
+      "number": 5
+    }
+  ]
+}

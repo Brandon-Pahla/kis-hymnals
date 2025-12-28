@@ -1,0 +1,42 @@
+{
+  "number": 421,
+  "language": "en-sdah",
+  "title": "421 For All The Saints",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. For all the saints who from their labour rest, Who Thee by faith before the world confessed, Thy name O Jesus be forever blest. Alleluia! Alleluia!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Thou wast their Rock, their Fortress and their Might; Thou, Lord, their captain in the well-fought fight Thou, in the darkness drear, their one true light. Alleluia! Alleluia!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. O may Thy soldiers, faithful, true, and bold, Fight as the saints who nobly fought of old, And win with them the victor's crown of gold. Alleluia! Alleluia!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. And when the strife is fierce, the warfare long, Steals on the ear the distant triumph song, And hearts are brave again, and arms are strong. Alleluia! Alleluia!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. From earth's wide bounds, from ocean's farthest coast, Thro' gates of pearl streams in the countless host, Singing to Father, Son, and Holy Ghost, Alleluia! Alleluia!"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "number": 25,
+  "language": "nd",
+  "title": "25 Ngi Kunekela Konke",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi nikela konk’ uJesu, Ngi nikela ngesihle",
+        "Ngi zothemba njalo kuYe, Ngi phile naYe lapha"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yanikela... Ngi yanikela...",
+        "(Ngi yanikela) (Ngi yanikela)",
+        "Konke kuYe uMsindisi, Ngi yakushiya"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi nikela konk’ uJesu, Ngi guq’ ezinyaweni",
+        "Ngi del’ inzuzo yomhlaba, Ng’thatha Jesu ngi thathe"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi nikela konk’ uJesu, Ng’enze ngcwele, Msindisi",
+        "Ngi phe owAkho uMoya, U be ngowam’impela"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi nikela konk’ uJesu, Ngi zwa umlil’ oNgcwele",
+        "Ngenjabulo yensindiso, Makube kuY’ udumo"
+      ],
+      "number": 5
+    }
+  ]
+}

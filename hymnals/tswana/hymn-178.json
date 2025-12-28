@@ -1,0 +1,55 @@
+{
+  "number": 178,
+  "language": "tn",
+  "title": "178 E Ka Nna Mo Mosong",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "E Ka Nna Mo Mosong Fa Tsatsi Le Tsoga,",
+        "Fa lesedi ja letsatsi le phatsima,",
+        "Fa Jeso ’tlalong jwa kgalalelo A tla",
+        "Go itsholela ba ’Gwe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Morena Jeso re tla opela leng boipelong?",
+        "Kreste Wa bo’a, Hajeluja; haleluja;",
+        "Amen, Haleluja: Amen."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E Ka Nna Motshegare, Kgotsa Lorathong",
+        "Gongwe e tla re lefifi ja bosigo",
+        "Le phatsimelwe ke kgalalelo ya ’Gwe,",
+        "Fa A tshola ba Gagwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Somo Je Le Tlang Nae Le Re Hosana,",
+        "Ja baitshepi le baengele ba Gwe,",
+        "A na le kgalalelo ya tshegofatso,",
+        "O tla tshola ba Gagwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Boitumelo Fa Re Ka Nna Re Sa Swe,",
+        "Re sa lwale, go se bofutsana, telo,",
+        "Re tsholelwa kgalalelong le Morena,",
+        "Fa A tshola ba Gwagwe."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 265,
+  "language": "fr",
+  "title": "Du ciel, l'échelle de Jacob",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Du ciel, l'échelle de Jacob",
+        "Nous ouvre la voie du salut.",
+        "Du ciel, Dieu tend son bras puissant,",
+        "Montrant le chemin."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "« En vérité je vous le dis,",
+        "Vous verrez le ciel grand ouvert,",
+        "Les anges descendre et monter",
+        "Sur le Fils de Dieu. »"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus, tu es chemin de vie,",
+        "Jésus, tu nous ouvres les cieux.",
+        "Jésus, tu es notre salut.",
+        "Ô Jésus, je viens !"
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 247,
+  "language": "guz",
+  "title": "247 Rigesa Ri'ense Riabeire Ang'e",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Rigesa ri'ense riabereire ang'e,Omonene narigeti' abagesi;Bagese endagera yomire pi,Omonene ayegache kagocha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Angoa . . . bwango . . .(Angoa abagesi, Angoa.Ira rigesa kiage, are nka)Angoa . . . bwango . . .Angoa . . . bwango . . .(Angoa abagesi, Angoa,Reta igesa nka).Toire nka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Rituko erio rigiya botambe,Ngocha rire bwango,bwango kegima;Ebibe biasiareire rigesa nchuo,Ayerera gesa ribaga ndire."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Togese tore n'obwanchani mono,Ogokonywa nkorue aaria igoro;'Bwanchani bwatorangeirie togese,Rigesa nditoganyete togende."
+      ],
+      "number": 4
+    }
+  ]
+}

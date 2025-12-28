@@ -1,0 +1,35 @@
+{
+  "number": 125,
+  "language": "en-sdah",
+  "title": "125 Joy to the World",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Joy to the world, the Lord is come! Let earth receive her King; Let every heart prepare Him room, And heaven and nature sing, And heaven and nature sing, And heaven, And heaven and nature sing."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Joy to the earth, the Saviour reigns! Let men their songs employ; While fields and floods, rocks, hills, and plains, Repeat the sounding joy, Repeat the sounding joy, Repeat, repeat the sounding joy."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. No more let sin and sorrow grow, Nor thorns infest the ground; He comes to make his blessing flow, Far as the curse is found, Far as the curse is found, Far as, far as the curse is found"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. He rules the world with truth and grace, And makes the nation prove\u000bThe glories of his righteousness, And wonders of his love, And wonders of his love, And wonders, and wonders of his love."
+      ],
+      "number": 4
+    }
+  ]
+}

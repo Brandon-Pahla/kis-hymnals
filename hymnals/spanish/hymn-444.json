@@ -1,0 +1,65 @@
+{
+  "number": 444,
+  "language": "es",
+  "title": "No me pases",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### No me pases"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No me pases, no me olvides,",
+        "tierno Salvador;",
+        "muchos gozan tus mercedes,",
+        "oye mi clamor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Cristo, Cristo,",
+        "oye tú mi voz;",
+        "Salvador, tu gracia dame,",
+        "oye mi clamor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ante el trono de tu gracia",
+        "hallo dulce paz;",
+        "nada aquí mi alma sacia,",
+        "tú eres mi solaz."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Solo fío en tus bondades,",
+        "guíame en tu luz,",
+        "y mi alma no deseches,",
+        "sálvame, Jesús."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fuente viva de consuelo",
+        "eres para mí;",
+        "mi alma pone en ti su anhelo,",
+        "solamente en ti."
+      ],
+      "number": 6
+    }
+  ]
+}

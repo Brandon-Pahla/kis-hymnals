@@ -1,0 +1,47 @@
+{
+  "number": 43,
+  "language": "tn",
+  "title": "43 Robala Segong Go Jeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Robala Segong Go Jeso,",
+        "Mo go seng ope yo’ lelang;",
+        "Boikhutsong jwa tidimalo,",
+        "Jo bo sa sengweng ke mmaba."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Robalela Mo Go Jeso,",
+        "Kotselong e e monate",
+        "Go ikhutsa boitshepong,",
+        "Tsholofelong e sa khutleng"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Robala Kagisong Ya ’Gwe,",
+        "Yo’ tsogo ya ’Gwe ’leng sego",
+        "Ga go poifo, tatlhego",
+        "Mo nonofong ya Mmoloki."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Robala Mme O Tla Tsoga,",
+        "Naka lo gelebetega;",
+        "Foo o phatlole bobipo",
+        "Mme o tsoge ka bosasweng."
+      ],
+      "number": 4
+    }
+  ]
+}

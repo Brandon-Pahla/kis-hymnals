@@ -1,0 +1,24 @@
+{
+  "number": 148,
+  "language": "es",
+  "title": "Solo Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Solo Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Solo Cristo, solo él",
+        "me redime, me da paz.",
+        "El anhelo de mi ser",
+        "tan solo Cristo suplirá."
+      ],
+      "number": 2
+    }
+  ]
+}

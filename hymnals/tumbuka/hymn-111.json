@@ -1,0 +1,57 @@
+{
+  "number": 111,
+  "language": "tum",
+  "title": " 111 Palije Mubwezi Nga Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 111 Palije Mubwezi Nga Yesu",
+        "NO, NOT ONE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Palije mubwezi nga ndi Yesu,",
+        "palije, palije,",
+        "Palije ng'anga yingatichizga,",
+        "palije, palije."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu wakutimanya suzgo,",
+        "Watirongozgenge kose,",
+        "Palije mubwezi nga ndi Yesu,",
+        "Palje, palje."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Palije m'bwezi mtu a nga ndiyo,",
+        "palije, palije,",
+        "Palije wakuzika nga ndiyo,",
+        "palije, palije."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Palije nyengo wakutisida,",
+        "palije, palije,",
+        "Nanga chisi chingatizingizga,",
+        "palije, palije."
+      ],
+      "number": 4
+    }
+  ]
+}

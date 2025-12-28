@@ -1,0 +1,59 @@
+{
+  "number": 243,
+  "language": "tum",
+  "title": " 243 Wuka Mzimu Wane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 243 Wuka Mzimu Wane",
+        "C.S. 123 ARISE, MY SOUL,"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ARISE!  1.",
+        "Wuka moyo wane fumya wofi wako,",
+        "Sembe ya mundopa chifukwa cha ine,",
+        "Yikwima m'malo mwa ine pa chizumbe cha mwenecho,",
+        "Zina lane lalembeka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Kuchanya walipo wakund'weyerera,",
+        "Chitemwa cha lyo chikuthiska ndopa,",
+        "Wakatifwira tose 'mwe wakatifwira tose 'mwe,",
+        "Nakumija pa chizumbe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Vilonda vinkhondi vikamupweteka,",
+        "Ndivyo malurombo ghakundinenera,",
+        "Nakuti, \"Mgowoke Dada\" nakuti, \"Mgowoke Dada.\"",
+        "Wakuzomera ndipone."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Dada wakump'lika mwimiliri wake,",
+        "Wangamkana cha yose wiza kwa lyo,",
+        "Mzimu wakuzomereZga Mzimu wakuzomerezga,",
+        "Ndababiwa mwa Chiuta."
+      ],
+      "number": 5
+    }
+  ]
+}

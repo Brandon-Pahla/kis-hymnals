@@ -1,0 +1,37 @@
+{
+  "number": 278,
+  "language": "tw",
+  "title": "Yesu, Wokasa Ky'rɛɛ Nnipa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, Wokasa ky'rɛɛ nnipa",
+        "Wɔ mmepɔ, nsaseta so;",
+        "Boa ma yentie no sɛ kan no",
+        "Na yɛnnwen W'asɛm no ho bio."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn ny'naa wɔ yɛn kokoam' suro,",
+        "Adwen, nsusuė a ehia nsakrae;",
+        "Yɛhwehwɛ W' nokwar', hia Wo dom,",
+        "Yɛn W'ra teasefo ne 'damfo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asɛmpa no kasa, yenya",
+        "Wo hann, na Wo dɔ no hyɛ yɛn;",
+        "Ma yɛnyɛ sɛnea yɛgye di",
+        "Yɛn 'komam' ne yɛn kasa mu."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "number": 115,
+  "language": "ny",
+  "title": "115 - Sing’anga Mkulu Ndiye Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE GREAT PHYSICIAN"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Sing’anga mkulu ndiye Yesu, Mwana wa Mulungu.",
+        "Asangalatsa a chisoni, Ali wa chifundo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dzina la Yesu ndi lokoma, Dzina la Yesu lipambana,",
+        "Dzina lake la kukonda, Yesu, inde, Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Zoipa zakhululukidwa, Yesu amatero;",
+        "Tiyende bwino m’njira yake, Tilowemo lero."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nditama nsembe ya Mulungu, Ndilandira Yesu;",
+        "Ndikonda dzinalo labwino, Dzina lanu, Yesu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Akulu inu mbwere nonse, Ana inu nomwe;",
+        "Ambuye akuitanani, Vomerani nonse."
+      ],
+      "number": 5
+    }
+  ]
+}

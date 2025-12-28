@@ -1,0 +1,56 @@
+{
+  "number": 426,
+  "language": "pt",
+  "title": "No Jardim",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### No Jardim"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu fui ao jardim bem a sós,",
+        "Aos primeiros raios celestes,",
+        "Pude então ouvir doce e meiga voz,",
+        "A voz gentil do Mestre."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Que alegria sempre essa voz ouvir;",
+        "\"Eu te amo, ó pecador!",
+        "Mesmo a morte lá sobre a cruz sofri,",
+        "Para ser o teu Salvador\"."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ouvi Sua voz divinal",
+        "Em acentos muito suaves,",
+        "Que fala a mim com ternura igual",
+        "À voz gentil das aves."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu fico a escutar Sua voz",
+        "Na vibrante luta terrestre,",
+        "E ao me vir tentar o inimigo atroz,",
+        "Quão bom ouvir o Mestre!"
+      ],
+      "number": 5
+    }
+  ]
+}

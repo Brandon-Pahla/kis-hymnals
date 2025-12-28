@@ -1,0 +1,31 @@
+{
+  "number": 69,
+  "language": "bem",
+  "title": "69 - AMENSHI YA MWEO YALIKO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WE’LL TARRY BY THE LIVING WATERS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Amenshi ya mweo yaliko, Mukafukauka;",
+        "Kwena Yesu aletulinda, Ukutuposhako",
+        "CHORUS:",
+        "Amenshi ya mweo yaliko,",
+        "Menshi ya mweo yaliko;",
+        "Menshi ya mweo yaliko.",
+        "Muli kafukauka.",
+        "2. Ilintu twanaka no lwendo, Catuwamina 'fwe;",
+        "Ukutusha kuli amenshi, Yantu yakesuka.",
+        "3. Isa kuli Kristu e Menshi, Akakukosesha;",
+        "Isa sonda Yesu musuma, Cilaka cikapwa"
+      ],
+      "number": 2
+    }
+  ]
+}

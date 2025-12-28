@@ -1,0 +1,56 @@
+{
+  "number": 212,
+  "language": "sn",
+  "title": "212 Runyararo Rwakanaka, Chipo Chamwari",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kuno’ya kumwoyo wangu",
+        "Rwiyo rwekufara kwazvo",
+        "Ndinoramba ndichiruimba",
+        "Runyararo rwaMwari"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Runyararo chipocho chekudenga",
+        "Runyararo rwoshamisa",
+        "Rwuri chipo chaMwari"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rwakapiwa naye Kristu",
+        "Wandiripira mungava",
+        "Hakunazve imwe nheyo",
+        "Runyararo rwaMwari"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Apo ndamupa chiremba",
+        "Mwoyo unerunyararo",
+        "Ndawana chikomborero",
+        "Runyararo rwaMwari"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Runyararo kuna Jesu",
+        "Sezvo ndiri petyo naye",
+        "Basi pane runyararo",
+        "Runyararo rwaMwari"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 596,
+  "language": "tw",
+  "title": "Monhwehwɛ 'Tempɔn No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Monhwehwɛ 'tempɔn no, brč a mokɔ no,",
+        "Monhwehwɛ 'tempɔn no, sɛ etwam nk'ro nk'ro;",
+        "Awo ntoatoaso ne 'henni nnan nom'",
+        "Hefa na yɛwɔ 'i? Monhwɛ 'kwan no bio."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Monhwɛ' tempɔn no, 'Diyifo no akwan no,",
+        "Awo ntoatoaso ne 'henni nnan nom'",
+        "Monhwɛ 'tempɔn noɔ 'Diyifo no akwan no",
+        "Kwantun' reba n'awiei."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asiria 'henni dii wiase so kan,",
+        "Afei MedoɔPersia him wɔn frankaa;",
+        "Brč a Helafo nso besoom' no akyi,",
+        "Romafo nso bae. Yɛwɔ he nnɛ yi?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛwɔ dade ne dɔte nan ase,",
+        "Ͻrenkyɛ, mm'rɛwyɛ ne mpaapaem betwam;",
+        "'Nuonyam kɛse bɛn na yɛbɛhu bio?",
+        "Kristo ne Ne mmae, ɛne daa nkwa no."
+      ],
+      "number": 3
+    }
+  ]
+}

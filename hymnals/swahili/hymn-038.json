@@ -1,0 +1,37 @@
+{
+  "number": 38,
+  "language": "sw",
+  "title": "38 - Nasifu Shani ya Mungu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Nasifu shani ya Mungu, mweneza bahari,",
+        "Muumba pia wa mbingu, jua nyota mwezi,",
+        "Ni tukufu yako shani, mtengeza mambo,",
+        "Ya nyakati na zamani, yasiyo na mwisho."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Kadiri ya nionayo, ya kusifu Mungu:",
+        "Nchi niikanyagayo, na hayo mawingu,",
+        "Hakuna hata unyasi, usiokukuza,",
+        "Na upepo wavumisha, au kutuliza."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Nami kwa mkono wako, naongozwa sawa,",
+        "Ni pato nikusifupo, kukwomba ni dawa,",
+        "Umenizingira nyuma, na mbele baraka,",
+        "Maarifa ya ajabu, yanishinda mimi."
+      ]
+    }
+  ]
+}

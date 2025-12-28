@@ -1,0 +1,46 @@
+{
+  "number": 137,
+  "language": "ve",
+  "title": "137. Mphe Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:305",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Dzhia shango u mphe Yesu, ngauri ndi lifhedzi;",
+        "Zwi re khalo a si tshithu, Yesu Ene ha fheli."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mphe tshilidzi tshau Yesu, vhuhulu ha lufuno;",
+        "Na u rengululwa hanga, vhutshilo vhu sa fheli."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Shango a si tshithu kha nne, musi ndo wana Yesu;",
+        "Ndi lindwa nga Mutshidzi, ndi imba lu difhesaho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Shango a si tshithu kha nne, ndo sedza tshifhambano;",
+        "Kha ndi vhone-ha Murena, ndo’ bonyoloswa tshothe."
+      ],
+      "number": 4
+    }
+  ]
+}

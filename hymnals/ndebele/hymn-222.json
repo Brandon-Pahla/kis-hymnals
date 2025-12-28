@@ -1,0 +1,45 @@
+{
+  "number": 222,
+  "language": "nd",
+  "title": "222 Ez’ngalweni Z’ka Jesu Mina Ngiphephile",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "E’ngalweni zika Jesu, Mina ngiphephile,",
+        "Lapha ngothando lwAkhe Wophuml’ umoya wami,",
+        "Zwan’ izwi lez’ngelosi Liza ngengoma kimi!",
+        "Phakathi kwobukhosi Phesheya kolwandle."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Engalweni zika Jesu, Es’fubeni sAkhe,",
+        "Lapha ngothando lwAkhe Wophuml’ umoya wam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E’ngalweni zika Jesu Ngisind’ ekwoneni,",
+        "Nakuzo izilingo Singeng’ limaz’ isono,",
+        "Ngikhululw’ ebubini Nasekwesabeni.",
+        "Izilingo zimbalwa Kanye nenyembezi!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu iNqaba yami Jesu wangifela;",
+        "Edwaleni ngoqina Themba laphakade",
+        "Linde ngibekezele Kudlul’ ubusuku,",
+        "Ngize ngibon’ ukusa ‘Gwini lwegolide."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "number": 77,
+  "language": "sn",
+  "title": "77 Ndinoda Kutaura Soko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinoda kutaura",
+        "Soko rekudenga",
+        "RaJesu, mbiri yake,",
+        "RaJesu watida",
+        "Ndinoda kutaura",
+        "Soko ngereidi",
+        "Rinondigutsa mwoyo,",
+        "Ndiro rega basi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinoda kutaura soko rekuponesa",
+        "Soko’ri rinokosha, rerudo rwaJesu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinoda kutaura",
+        "Soko roshamisa",
+        "Rinopinda kufunga,",
+        "Kwedu kwekurota",
+        "Ndinoda kutaura,",
+        "Rakandibatsira",
+        "Saka ndauya hangu,",
+        "Kukutaurira"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinoda kutaura",
+        "Soko rinofadza",
+        "Nekuritaurazve,",
+        "Rinonakisisa",
+        "Ndinoda kutaura,",
+        "Ngekuti vamwe zve",
+        "Havasati varinzwa",
+        "Iro soko rake"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinoda kutaura",
+        "Soko kune avo",
+        "Vakarinzwa kare’ko",
+        "Vachiri kudisa",
+        "Apo tirikudenga,",
+        "Ndichaimba rwiyo",
+        "Rwe soko’ro rimwero,",
+        "Randakadisa’wo"
+      ],
+      "number": 5
+    }
+  ]
+}

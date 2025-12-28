@@ -1,0 +1,47 @@
+{
+  "number": 280,
+  "language": "nd",
+  "title": "280 Nmbusi Wethu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ingoma ezimnandi, Ngelanga elihle",
+        "Sibonga uMsindisi, Ngenhlalo neNdlela"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bonga... bonga uMsindisi wethu",
+        "Bonga... bonga Ubukhosi bAkhe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Waye thanda’ abantwana, Nxa elapha phansi;",
+        "Noma esezulwini, Loku ebathanda"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sithanda ukuMbonga, Sizw’ indaba yAkhe",
+        "Nxa esahlala lapha Khona eGalile"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O’ Nkos’ eBusisiwe! Siya guqa kuWe",
+        "Sicela ukusizwa, Siphilele Wena"
+      ],
+      "number": 5
+    }
+  ]
+}

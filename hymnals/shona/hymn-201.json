@@ -1,0 +1,57 @@
+{
+  "number": 201,
+  "language": "sn",
+  "title": "201 Akandi Buritsa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndakarwanziwa Jehova atsamwa",
+        "Zvitema zvakandipfuwira pasi",
+        "Ndakachema ndiri’mo mumatope",
+        "Tenzi akandiburitsa kunzezwe"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A’ndiburitsa mumatope,",
+        "Andimisa ini padombo",
+        "Nhasi andipa rwiyo m’mwoyo,",
+        "Rwekukudza, hareruya"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A’ndimisa padombo petyo naye",
+        "Matsiko angu asimbiswa pano",
+        "Handizomboputsiki ndiripano",
+        "Ndomirira ndizopfeka chiremba"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A’ndipa rwiyo, rutswa rwerukudzo",
+        "Ndoruimba usiku nesikati",
+        "Mwoyo wangu wazara nerufaro,",
+        "Ndichazokudza mununuri wangu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndichaimba tsitsi dzake kuneni",
+        "Zve nekunaka kwake kune vese",
+        "Ndichazoimba ruponeso kwese",
+        "Dakara vese vasimbire Mwari"
+      ],
+      "number": 5
+    }
+  ]
+}

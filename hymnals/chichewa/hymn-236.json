@@ -1,0 +1,31 @@
+{
+  "number": 236,
+  "language": "ny",
+  "title": "236 - Cifundo Cace",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HIS LOVING KINDNESS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Dzuka moyo wanga kondwa, Yimbira cipulumutso;",
+        "Ndimyimbire nyimbo; Cifuno cace; Ncoposa!",
+        "CHORUS:",
+        "Wacifuno, wacifundo cace, ncoposa!",
+        "2. ’Nandiona wotayika, Anandikondabe ndithu;",
+        "’Nabweza potayikane; Cifundo cace, Ncoposa!",
+        "3. Acurukadi adani, Ngakhale acite nazo,",
+        "Moyo wanga asungabe; cifundo cace, Ncamphamvu!",
+        "4. Bvuto loda ngati mtambo, Lasonkhana ligundira,",
+        "Aima pafupi nane; Cifuno cace, Ncokoma!",
+        "5. Mwini Mfumu akadzadza, Kudzatenga anthu ace,",
+        "Ndikayimba pa tsikulo Cifundo cace, Kosatha!"
+      ]
+    }
+  ]
+}

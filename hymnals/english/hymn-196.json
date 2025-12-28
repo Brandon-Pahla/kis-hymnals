@@ -1,0 +1,56 @@
+{
+  "number": 196,
+  "language": "en",
+  "title": "196 Power In The Blood.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Would you be free from the burden of sin?",
+        "There’s power in the blood, power in the blood;",
+        "Would you o’er evil a victory win?",
+        "There’s wonderful power in the blood."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "There is power, power, wonderworking power",
+        "in the blood of the Lamb;",
+        "There is power, power, wonderworking power,",
+        "In the precious blood of the Lamb."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Would you be free from your passion and pride?",
+        "There’s power in the blood, power in the blood;",
+        "Come for a cleansing to Calvary’s tide,",
+        "There’s wonderful power in the blood."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Would you be whiter, much whiter than snow?",
+        "There’s power in the blood, power in the blood;",
+        "Sin stains are lost in its life-giving flow,",
+        "There’s wonderful power in the blood."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Would you do service for Jesus your King?",
+        "There’s power in the blood, power in the blood;",
+        "Would you live daily His praises to sing?",
+        "There’s wonderful power in the blood."
+      ],
+      "number": 4
+    }
+  ]
+}

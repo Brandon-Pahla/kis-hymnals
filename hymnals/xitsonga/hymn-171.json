@@ -1,0 +1,26 @@
+{
+  "number": 171,
+  "language": "ts",
+  "title": "171. MURINDZI WA LE SIYONI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WATCHMAN ON THE WALLS OF ZION",
+        "1. Murindzi Wa Le Siyoni, Bya ha Ri Kule Vuxa?",
+        "U Humile Na Mahlahle, Vurhonga Byi Ta Huma?",
+        "Xana Wa Ku Vona Ku Vonakala? Xana Wa Ku Vona Ku Vonakala?",
+        "2. Na Swikombiso Swa Ndlela, A Hi Si Swi Hundza Ke?",
+        "Xana Tiko Ra Vonaka, Ha Tshinela Kaya Ke?",
+        "Wa Vonaka Mfumo Wa Matilo Ke? Wu Tshinele Wu Le Kusuhi Ngopfu.",
+        "3. Vurhonga Se Bya Tsuvuka, Nkulungwana Hi Dzonga!",
+        "Na Nyeleti Ya Mahlahle, Tilo Se Ra Voninga;",
+        "Vakwetsimi Tlakusani Tinhloko, Vakwetsimi Ku Kusuhi Ku Pona,",
+        "4. Hi Na Rito Ra Ntiyiso, Yi Le Kusuhi Hosi,",
+        "Kongomani Emahlweni, Hi Ta Fika Ekaya;",
+        "Aleluya Dzunisani Xikwembu, Aleluya Dzunisani Xikwembu."
+      ],
+      "number": 1
+    }
+  ]
+}

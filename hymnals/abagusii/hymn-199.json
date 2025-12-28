@@ -1,0 +1,28 @@
+{
+  "number": 199,
+  "language": "guz",
+  "title": "199 Ens' Engiya Y'ogosaba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ens' engiya y'ogosaba,Kondusi' ense y'emechandoNakong'ira ase Tata,Motebie kogania kwaneEkero nde n'obororo,Moy'on'onyor' okoremiaErio mbua omotemi,Ens' engiya y'ogosaba."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ense engiya y'ogosaba,Ira gosorora kwaneGochi' as' Ere omwegenwa,Oyokoru' ogosesenia'Ntebirie morigererie,Nyegene 'Ng'ana n'obuyaNimoe ker' ogwechanda,Nganyet' Ensa y'ogosaba."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ens' engiya y'ogosaba,Nyore okoremia kwaoKorw' egetunwa gia Pisga,Ndor'enka yane ndagende'S' obogima nintenene,Mbwat' ekeegwa gia kareNg'ak' eriogi as' embeo,\"Mbuya Ensa y'ogosaba\"."
+      ],
+      "number": 3
+    }
+  ]
+}

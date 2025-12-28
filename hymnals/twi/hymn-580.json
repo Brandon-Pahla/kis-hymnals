@@ -1,0 +1,46 @@
+{
+  "number": 580,
+  "language": "tw",
+  "title": "Me Kanea Kumaa Yi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me kanea kumaa yi",
+        "Mɛma no ahyerɛn (hy'rɛn);",
+        "Me kanea kumaa yi,",
+        "Mɛma no ahyerɛn (hy'rɛn);",
+        "Me kanea kumaa yi,",
+        "Mɛmɛ no ahyerɛn,",
+        "Ahyerɛn, ahyerɛn, ahyerɛn."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Baabiara mɛkɔ no,",
+        "Mɛma no ahyerɛn (hy'rɛn);",
+        "Baabiara mɛkɔ no,",
+        "Mɛma no ahyerɛn (hy'rɛn);",
+        "Baabiara mɛkɔ no,",
+        "Mɛma no ahyerɛn",
+        "Ahyerɛn, ahyerɛn, ahyerɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anadwo no nyinaa,",
+        "Mɛma no ahyerɛn (hy'rɛn);",
+        "Anadwo no nyinaa,",
+        "Mɛma no ahyerɛn (hy'rɛn);",
+        "Anadwo no nyinaa,",
+        "Mɛma no ahyerɛn,",
+        "Ahyerɛn, ahyerɛn, ahyerɛn."
+      ],
+      "number": 3
+    }
+  ]
+}

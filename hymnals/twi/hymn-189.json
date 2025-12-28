@@ -1,0 +1,56 @@
+{
+  "number": 189,
+  "language": "tw",
+  "title": "Hena N'ɔma Me Koma Dɛw",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hena n'ɔma me koma dɛw",
+        "Sɛ Yesu Kronkronni no?",
+        "ɔnokwafo a ɔsom bo,",
+        "Nhy'ra bɛn ni sɛ ɔwɔ me?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nea 'sɛpɛ me kra ne Yesu,",
+        "ɔsom me bo sen nkwa mpo;",
+        "Mɔpem du mu 'hoɔfɛfo no,",
+        "Mihu wɔ m'Aw'rade mu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kristo dɔ a ɔde ma kwa,",
+        "Nyame dom a ɛkyɛn so;",
+        "Mmɔb'rɔhun' a ɛk'rɔn sen s'ro,",
+        "Emu dɔ sen 'po bun' ny'naa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔma me nea ehia me ny'naa,",
+        "Mihu nnepa ny'naa Ne mu;",
+        "Metwer' N'ahoɔden kronkron no",
+        "ɔno ne me b'ribiara."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nɔkwa asubɔnten no ho,",
+        "Me ne s'ro dɔm bɛto dwom;",
+        "Na mm'resanten mfesanten mu,",
+        "Mayi ɔhen' no ayɛ."
+      ],
+      "number": 4
+    }
+  ]
+}

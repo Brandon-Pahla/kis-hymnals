@@ -1,0 +1,56 @@
+{
+  "number": 23,
+  "language": "tn",
+  "title": "23 Tla Go Nna Mo’a Boitshepo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tla Go Nna Mo’a Boitshepo,",
+        "Ntlhatswa pelo e roromang;",
+        "Ntlatsa boleyong jwa Gago,",
+        "Tla mme O ntlatse janong"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O ntlatse, mme janong,",
+        "Jeso tla ntlatse janong,",
+        "Ntlatsa boleyong jwa Gago,",
+        "Tla, mme O ntlatse janong"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Ka Ntlatsa Moya ’Nolo",
+        "Lefa ke sa itse jang",
+        "Mme ke tlhoka Wena thata,",
+        "Tla mme O ntlatse janong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Tla Ke Tletse Bokoa",
+        "’Naong tse di boitshepo;",
+        "Moya o segofaditsweng,",
+        "Ntlatsa lorato janong"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ntlhatswa Nkgomotsa, Mpoloka;",
+        "O tlhatswe pelo ya me;",
+        "Oa gomotsa, Oa boloka,",
+        "O ntse O tlatsa janong."
+      ],
+      "number": 4
+    }
+  ]
+}

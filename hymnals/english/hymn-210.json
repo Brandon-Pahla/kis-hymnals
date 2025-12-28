@@ -1,0 +1,72 @@
+{
+  "number": 210,
+  "language": "en",
+  "title": "210 What A Wonderful Saviour.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Christ has for sin atonement made, what a wonderful Saviour!",
+        "We are redeemed! The price is paid! What a wonderful Saviour!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "What a wonderful Saviour is Jesus, my Jesus!",
+        "What a wonderful Saviour is Jesus, my Lord!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I praise Him for the cleansing blood,",
+        "What a wonderful Saviour!",
+        "That reconciled my soul to God;",
+        "What a wonderful Saviour!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "He cleansed my heart from all its sin,",
+        "What a wonderful Saviour!",
+        "And now He reigns and rules therein;",
+        "What a wonderful Saviour!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "He walks beside me all the way,",
+        "What a wonderful Saviour!",
+        "And keeps me faithful day by day,",
+        "What a wonderful Saviour!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "He gives me overcoming power,",
+        "What a wonderful Saviour!",
+        "And triumph in each trying hour;",
+        "What a wonderful Saviour!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "To Him I’ve given all my heart,",
+        "What a wonderful Saviour!",
+        "The world shall never share a part,",
+        "What a wonderful Saviour!"
+      ],
+      "number": 6
+    }
+  ]
+}

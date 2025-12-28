@@ -1,0 +1,43 @@
+{
+  "number": 458,
+  "language": "fr",
+  "title": "Mon cœur joyeux",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mon cœur joyeux, plein d'espérance,",
+        "S'élève à toi, mon Rédempteur !",
+        "Daigne écouter avec clémence",
+        "Un pauvre humain faible et pécheur.",
+        "En toi seul est ma confiance,",
+        "En toi seul est tout mon bonheur."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "C'est vers ton ciel que, dans ma course,",
+        "Je vois aboutir tous mes pas.",
+        "De ton Esprit la vive source",
+        "Me rafraîchit quand je suis las;",
+        "Et, dans le danger, ma ressource",
+        "Est dans la force de ton bras."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le jour, je suis sous ta lumière;",
+        "La nuit, je repose en ton sein.",
+        "Au matin, ton regard m'éclaire",
+        "Et m'ouvre un facile chemin;",
+        "Et chaque soir, ô mon bon Père !",
+        "Tu prépares mon lendemain."
+      ],
+      "number": 3
+    }
+  ]
+}

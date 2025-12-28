@@ -1,0 +1,67 @@
+{
+  "number": 55,
+  "language": "nso",
+  "title": " 55 NA O HLAPILE MADING?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 55 NA O HLAPILE MADING?",
+        "CS 88",
+        "HAVE YOU BEEN TO JESUS?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na o tšwa go Jeso go yo hlapišwa,",
+        "O hlapile mading a kwana?",
+        "A o tshepile yana lehono na?",
+        "O hlapile mading a kwana?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "O hlapile mading ...",
+        "Mading a hlapišang le moya?",
+        "Aparo tša gago dibja ka lehlwa,",
+        "O hlapile mading a kwana."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A o sepela le yena M'phološi?",
+        "O hiapile mading a kwana?",
+        "A o ikhutša go eo a bapotšweng?",
+        "O hlapile mading a kwana;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ge go monyadi o tlo ba botse,",
+        "O hiapile mading a kwana,",
+        "O itukišetša go aga 'seding?",
+        "Le go hlapa mading a kwana;"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lahla aparo tše tlatšego sebe,",
+        "'Mme o hlape mading a kwana;",
+        "Go sediba seo se hiatšwang le moya,",
+        "Tla o hlape mading a kwana;"
+      ],
+      "number": 6
+    }
+  ]
+}

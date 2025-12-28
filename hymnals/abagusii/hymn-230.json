@@ -1,0 +1,42 @@
+{
+  "number": 230,
+  "language": "guz",
+  "title": "230 K'emechando Y'ens' Egocha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. K'emechando y'ens'egocha,'Segi nyancha na ense;Nindigi 'as' obotamero,'Se kiriri kia Nyasae."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nambise nche, Nambise ncheAse ntanyor' emechando,Nambise nche, Nambise nche'Se kiriri kia Nyasae."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Karandeter' emechando,Ninsemerie Igoro;'S' obwanchani, nandongeyie,Takworoki' endamwamu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ababisa bakondigia,Saitani ondigetie;Yeso aonchor' amabe,Kob'omogok' omonge."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Kobogori' omosalaba,Ndor'emechando y'ense;Yes'orendet 'Omoy' one,Tagontiga nche nsire."
+      ],
+      "number": 5
+    }
+  ]
+}

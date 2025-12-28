@@ -1,0 +1,68 @@
+{
+  "number": 150,
+  "language": "tum",
+  "title": " 150 Okwe! Kasi Wavuni Walinkhu?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 150 Okwe! Kasi Wavuni Walinkhu?",
+        "WHERE ARE THE REAPERS?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Okwe! kasi wavuni walinkhu?",
+        "Wavune uweme m'charu ichi,",
+        "Mu unenesko wateetenge,",
+        "watoketoke vuna yimale."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ka mwa wavuni n 'njani wize,",
+        "Tovwirane pakuwezga vyakurya,",
+        "Wavwire n'njani pa kuronga?",
+        "Nchinda ziweme m'charu ichi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Rutani m'wapenje mu zinthowa,",
+        "Trigu walimo mkati mu dulu,",
+        "Mpenjeso waliyose mi' wagurwe,",
+        "Muunganyire wose kuchanya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mu minda yose vyakurya vyacha,",
+        "Charu chikulindilira vuna,",
+        "Wavuni mbachoko mlimo ng' kuru,",
+        "Para tachedwa vinangikenge"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Zani na vikwanju imwe mose,",
+        "Muunganye pamoza vyakurya,",
+        "Mtoketoke mpaka Fumu yize,",
+        "Kuti mkakondwe nayo kuchanya."
+      ],
+      "number": 5
+    }
+  ]
+}

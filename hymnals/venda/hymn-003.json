@@ -1,0 +1,54 @@
+{
+  "number": 3,
+  "language": "ve",
+  "title": "3 U vhonana Zwifhatuwo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:206",
+        "AH:319"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mato a do di Mu vhona, Yesu a tshi do vhuya",
+        "U do di da nda Mu vhona, Yesu o ri felaho"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mato a do di Mu vhona, Yesu a tshi do vhuya",
+        "Mato a do di Mu vhona, ndi Ene Yesu ngoho."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Afha huna tsho tsiraho, tsho tsiraho nga ngoho;",
+        "li a da duvha lavhudi, ri do mu vhona Yesu;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi takala u mu vhona, zwililo zwi tshi fhela;",
+        "Zwothe zwi sa divhiwiho, zwi do diswa tshedzani."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mato a do di Mu vhona, Ene Mutshidzi wanga",
+        "Ndi do vhonana na Yesu, Yesu Mutshidzi wanga."
+      ],
+      "number": 5
+    }
+  ]
+}

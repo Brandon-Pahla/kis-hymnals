@@ -1,0 +1,54 @@
+{
+  "number": 120,
+  "language": "ve",
+  "title": "120. Ndi A Tenda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:486",
+        "AH:202"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi dikumedza kha Iwe,",
+        "’da i vha Mutshidzi,",
+        "Wa mpandela phanda hau,",
+        "Ndi do ya ngafhi naa?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Zwino ndi a fulufhela,",
+        "Yesu o mpfela,",
+        "Ene we malofha awe,",
+        "A ntanzwa zwivhi"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi tenda lufuno lwau,",
+        "Kha U mphe Maanda,",
+        "Mbofholole kha zwikwekwe,",
+        "Ndi phuluswe zwino."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Khotsi anga Mato anga,",
+        "A lilale kha’we,",
+        "Ndi kone u wana dzanga,",
+        "Muya u tshidziwe."
+      ],
+      "number": 4
+    }
+  ]
+}

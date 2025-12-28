@@ -1,0 +1,46 @@
+{
+  "number": 132,
+  "language": "xh",
+  "title": "132 Kufuphi Nomnqamlezo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kufuphi nomnqamlezo, Khona kukh’ umlambo;",
+        "Ophuma e-Kalvari, Ophilisa bonke."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Khona emnqamlezwen’ Malubekh’ uzuko;",
+        "Ude umphefumlo wam, Uzuz’ ukuphumla."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kufuphi nomnqamlezo, Ndafuman’ inceba;",
+        "Apho i-Khwezi lo-Mso, Lindi khanyisela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kufuphi nomnqamlezo, O-Mvana ka-Thixo,",
+        "Ndisibekele ngaso, Isithunzi sawo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kufuphi nomnqamlezo, Likhon’ ithemba lam;",
+        "Ndide ndifikelele, Phesheya komlambo."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 168,
+  "language": "nd",
+  "title": "168 UJehova, Ng’uMelusi Wami",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "uJehova u ng’uMelusi wami",
+        "Emadlelweni’ amahle ngi yondliwa",
+        "U yangiholela ngasemanzini",
+        "Nomphefumulo wami u buyiswe"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi holwa endleleni yokulunga",
+        "Nanxa ngi hambayo esigodini",
+        "A ngi yikwesab’ ithunzi lokufa",
+        "Ngokuba, Wena Jehova, u nami"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wena wendlala esam’ isithebe",
+        "Emehlweni azo zonke izitha",
+        "Ikhanda lami u ligcobisile",
+        "Yaze indebe yami yachichima"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Impel’ inhlanhla i yangilandela",
+        "Ngazoke zonke izinsuku zami",
+        "Ngi yakuhlal’ endlini ka Jehova",
+        "Kuze kube sekupheleni kwami"
+      ],
+      "number": 4
+    }
+  ]
+}

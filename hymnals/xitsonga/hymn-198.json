@@ -1,0 +1,24 @@
+{
+  "number": 198,
+  "language": "ts",
+  "title": "198. YESU HI YENA NAKULORI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "OH, THE BEST FRIEND TO HAVE IS JESUS",
+        "1. Yesu Hi Yena Nakulorhi, Exikarhi Ka Maxangu,",
+        "U Ta Susa Ripfalo, A Ku Tiyisa Nhlana,",
+        "CHORUS",
+        "Yesu Hi Ye Nakulorhi.",
+        "Yesu I Mukhongoteri,",
+        "Ku Hava La Fanaka Na Yena, U Ta Ndzi Sirheleta, Na Ku Ndzi Sirhelela, Yesu Hi Ye Nakulorhi.",
+        "2. Loko Ndzi Nghena Nhlomulwen, Mati Ya Yordani Yo Chavisa,",
+        "Ndzi Na Rona Ripfalo, Ndzi Pfune Wena Yesu, U Nakulorhi Wa Mina.",
+        "3. Hi Ta Fika Kaya Tilweni, Hitshama Swin’we Nava Kwetsimi,",
+        "Hi Ta Dzunisa Hosi, Swingari Na Kuhela, Yesu Hiyena Nakulorhi."
+      ],
+      "number": 1
+    }
+  ]
+}

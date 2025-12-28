@@ -1,0 +1,46 @@
+{
+  "number": 120,
+  "language": "st",
+  "title": "120  Ke Lumela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ntate ke tlisa ho Uena;",
+        "Ha ho ea ka nthusang;",
+        "Ha U ka ntahla, Ua ntlohela,",
+        "Na ke tla ea ho-kae?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Joale ke na le tumelo,",
+        "Hore Jesu O nchoetse;",
+        "O ts’olotse Mali a Hae,",
+        "Ho ntokolla sebeng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke lumela ho Mor’a Hao,",
+        "Nke ke utloe matl’a Hao,",
+        "U ntokolle litakatsong,",
+        "Nakong ee ts’oanelang."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mong—tumelo, ho Uena,",
+        "Ke lelatsa mahlo;",
+        "Ke amohele mpho eo,",
+        "Moea oa ka o phele."
+      ],
+      "number": 3
+    }
+  ]
+}

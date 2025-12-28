@@ -1,0 +1,36 @@
+{
+  "number": 287,
+  "language": "xh",
+  "title": "287 Ngexesha Lokulingwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngexesha lokulingwa, Yesu yiza;",
+        "Hleze ndikuphike ’de ndimke kuWe.",
+        "Xa ndithandabuza, Ndibiza Wena;Ngothando lwaKho, Ungavumi ndiwe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa izwe linditsala ngeziyolo,",
+        "Xa lindiph’ ubutyebi, Mandingayi;",
+        "Ndikhumbul’ uYesu eGetsemane,",
+        "Mandibon’ uYesu emnqamlezweni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa ngenceba yaKho ndibulaleka,",
+        "Naxa kubuhlungu aph’ emhlabeni,",
+        "Vuma ndisibone isandla saKho,",
+        "Onke amaxhala abengawaKho."
+      ],
+      "number": 3
+    }
+  ]
+}

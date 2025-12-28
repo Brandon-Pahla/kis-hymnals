@@ -1,0 +1,49 @@
+{
+  "number": 294,
+  "language": "fr",
+  "title": "Jésus, ma force...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus, ma force et mon rocher,",
+        "Mon grand libérateur,",
+        "Quel ennemi peut m'approcher",
+        "Sous ton bras protecteur ?",
+        "Je veux te bénir à jamais,",
+        "Te louer constamment,",
+        "Et ne m'assurer désormais",
+        "Que sur ton bras puissant."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je t'aimerai de tout mon cœur,",
+        "Je te serai soumis;",
+        "Je rendrai gloire au grand vainqueur",
+        "De tous mes ennemis.",
+        "Au temps de mon affliction",
+        "Tu fus mon ferme appui;",
+        "Ta sainte bénédiction",
+        "Me console aujourd'hui."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De ta puissance environné,",
+        "Mon cœur est ferme en toi;",
+        "De ton grand salut couronné,",
+        "Je puis tout par la foi.",
+        "Gloire à ton amour précieux,",
+        "Si doux, si paternel,",
+        "Qui me prépare un trône aux cieux,",
+        "Un royaume éternel !"
+      ],
+      "number": 3
+    }
+  ]
+}

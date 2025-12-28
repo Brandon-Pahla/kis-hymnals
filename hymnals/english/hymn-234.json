@@ -1,0 +1,55 @@
+{
+  "number": 234,
+  "language": "en",
+  "title": "234 Jesus, The Light Of The World.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hark! The herald angels sing,",
+        "Jesus, the Light of the world;",
+        "Glory to the new born King,",
+        "Jesus, the Light of the world."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Come where the dewdrops of mercy are bright,",
+        "Shine all around us by day and by night,",
+        "Jesus, the light of the world."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Joyful, all ye nations rise,",
+        "Jesus, the Light of the world;",
+        "Join the triumphs of the skies,",
+        "Jesus, the Light of the world."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Christ by highest heav’n adored,",
+        "Jesus, the Light of the world;",
+        "Christ, the everlasting Lord,",
+        "Jesus, the Light of the world."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hail the heav’n born Prince of Peace",
+        "Jesus, the Light of the world;",
+        "Hail the sun of righteousness,",
+        "Jesus the Light of the world."
+      ],
+      "number": 4
+    }
+  ]
+}

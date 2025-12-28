@@ -1,0 +1,55 @@
+{
+  "number": 161,
+  "language": "ve",
+  "title": "161. Ndi Na Khonani Khulu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:456",
+        "AH:112"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi na khonani khulu, ndi i funa nga Maanda,",
+        "I nkokodza nga lufuno, ndo i fulufhela,",
+        "Thi nga dzuli kule nayo, ndi tama ndi tsini,",
+        "Ri do dzula rothe na Yesu wanga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndo neta ndo homelwa ndi si tshithu nne,",
+        "Ndi siamela kha Ene, Ene thuso yanga,",
+        "Ndi Ene murangaphanda kha dzothe dzindila,",
+        "Ri do tshimbila rothe na Murena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi mu vhudza matungu na dakalo langa,",
+        "Na u fushea kha nne na zwi nnetisaho,",
+        "Ene u ri ndi rabele nga tshifhinga tshothe,",
+        "Zwino ndi amba na Mutshidzi wanga."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. U divha dora langa la u wana muya,",
+        "Ndi zwine a nthumela na ipfi la vhulenda,",
+        "Ndi divhadze nga lufuno na nga lufu lwawe,",
+        "Ri do shuma khathihi na Murena."
+      ],
+      "number": 5
+    }
+  ]
+}

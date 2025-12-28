@@ -1,0 +1,39 @@
+{
+  "number": 296,
+  "language": "nd",
+  "title": "296 Msindisi Ngi Hole",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Msindisi ng’hole kahle, Ngi ngeduk’ endleleni",
+        "Ngophepha nginga kuWe Ngihleli othandweni"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ng’hole, ng’hole, Msindisi ng’hole kahle",
+        "Ngomusa ungihole, Ngihole yonk’ indlela"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wen’ uyinqaba yami, Kuzo zonk’ iziphepho",
+        "Ngosinda nxa ngi kuWe, Wen’ ulithemba lami"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Msindisi, njalo ng’hole, Phesheya kwenhlupheko",
+        "Ngofik’ ezwen’ elihle Laph’ inyembez’ azikho"
+      ],
+      "number": 4
+    }
+  ]
+}

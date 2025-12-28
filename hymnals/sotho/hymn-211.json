@@ -1,0 +1,55 @@
+{
+  "number": 211,
+  "language": "st",
+  "title": "211 Ho Tla Ba Mahlohonolo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ho tla ba mahlohonolo,!",
+        "Ts’episo tsa lerato;!",
+        "Linako tsa khatholoho,!",
+        "Tse tla tsoang ho ’Moloki."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mahlohonolo ke ao re a hlokang;",
+        "Re ts’olleloa ka mohau,",
+        "Kopang mahlohonolo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ho tla ba mahlohonolo,",
+        "A tla re tsosolosa;",
+        "Le lithabeng le likhohlong,",
+        "Ho luma pul’e ngata."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ho tla ba mahlohonolo,",
+        "U’a romele Morena;",
+        "Joale re fe khatholoho.",
+        "Tlo joale U rorisoe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ho tla ba mahlohonolo",
+        "A re oele kajeno,",
+        "Ha r’ipolela ho Eena;",
+        "Re bitsa le ho Jesu."
+      ],
+      "number": 4
+    }
+  ]
+}

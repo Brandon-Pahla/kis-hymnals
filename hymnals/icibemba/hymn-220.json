@@ -1,0 +1,35 @@
+{
+  "number": 220,
+  "language": "bem",
+  "title": "220 - KU MWESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE HOME LAND"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ku mwesu! 'ye ku mwesu! Mpanga ya mutende!",
+        "No bushiku takwaba! Kasuba takawa;",
+        "Ndefwaisha kwesu, Ndefulukisha kwesu;",
+        "Kukalipwa takwaba, Ku mwesu uko ndeya;",
+        "Kukalipwa takwaba, Ku mwesu uko ndeya.",
+        "2. Mfumu ili mu mushi, Ili na bangeli;",
+        "Mpulumushi takwaba, Matunko tamwaba;",
+        "Nyimbo sha ku mwesu ndemfwa iciunda,",
+        "'Lyo ntontonkanya ku mwesu ndaponya filamba;",
+        "'Lyo ntontonkanya ku mwesu, ndaponya ifilamba.",
+        "3. Bantu bekala mulya, Bafwaya nje kulya,",
+        "Uko imfwa, bulanda, awe tafisangwa;",
+        "We calo natemwa calo ca mutende,",
+        "Kristu tusendeni ku mushi wabapusuka,",
+        "Kristu tusendeni ku mushi wabapusuka"
+      ],
+      "number": 2
+    }
+  ]
+}

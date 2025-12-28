@@ -1,0 +1,35 @@
+{
+  "number": 203,
+  "language": "en-sdah",
+  "title": "203 This Is the Threefold Truth",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. This is the threefold truth On which our faith depends; And with this joyful cry Worship begins and ends;"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain : Christ has died! Christ is risen! Christ will come again!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. By this we are upheld When doubt and grief assails Our Christian fortitude, And only grace avails."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. This is the threefold truth Which, if we hold it fast, Changes the world and us And brings us home at last."
+      ],
+      "number": 4
+    }
+  ]
+}

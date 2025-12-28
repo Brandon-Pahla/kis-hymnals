@@ -1,0 +1,42 @@
+{
+  "number": 19,
+  "language": "ny",
+  "title": "19 - Akristu Tiyeni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ONWARD, CHRISTIAN SOLDIERS!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Akhristu tiyeni! Nkhondo tigwire,",
+        "Yesu Mbuye wathu, Atitsogoza,",
+        "Ona mbuye yekha, Atithandiza;",
+        "Ndi mbendera yake, Tiyitsatira.",
+        "CHORUS:",
+        "Akristu tiyeni! Nkhondo tigwire,",
+        "Yesu Mbuye wathu, Atitsogoza.",
+        "2. Nkhondo ya Satana, Msanga ithawa,",
+        "Akristu tiyeni, Tidzapambana;",
+        "Mphamvu zake zitha, Yesu titama;",
+        "Yimbani anzathu Nyimbo tikweza.",
+        "3. Gulu lalikulu, Adza Akhristu;",
+        "Titsatana nawo, Ana a Mlungu;",
+        "Sitipatukana, Tonse tikhala,",
+        "Ndi mtima umodzi, Timakondana.",
+        "4. Zonse za pa dziko, Zidzatheratu;",
+        "Koma mpingo wake, Ukhalitsabe;",
+        "Mphamvu ya Satana, Idzalefuka;",
+        "Yesu nalonjeza Ndidzalimbitsa.",
+        "5. Idzani Akhristu, Kutithandiza,",
+        "Nyimbo za Mulungu, Tidzayimbitsa;",
+        "Khristu ayenera, Ndiye Mfumuyo,",
+        "Tidzamlemekeza, Nthawi zonsezo."
+      ]
+    }
+  ]
+}

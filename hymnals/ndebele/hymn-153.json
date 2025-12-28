@@ -1,0 +1,38 @@
+{
+  "number": 153,
+  "language": "nd",
+  "title": "153 Okwanamhla Nje",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi, angi thandezeli kwangomuso",
+        "Ma ngi ngawi esonweni okwanamhla",
+        "Ma ngi ngasho lizwi ngi ngacabanganga",
+        "Bek’ uphawu ez’ndlebeni okwanamhla"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngo sebenza ngi khuthale, ngi thandaze",
+        "Ngi zoba mnene, ngi thobe okwanamhla",
+        "Ngiph’ amandla, ngi sheshe ukuhlonipha",
+        "Ngi vum’ ukuzinikela okwanamhla"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uma kungathi ngi fe khona namhlanje",
+        "Ma ngi ncike kuzo iz’thembiso namhla",
+        "Ngak’ okwangomso a ngi kukhulekeli",
+        "Ngi gcine, ngeluse, ngi bambe kwanamhla.",
+        "Amen"
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "number": 171,
+  "language": "bem",
+  "title": "171 - WE KALINDA WA ZION",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHAT OF THE NIGHT?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. We kalinda wa Zion, Bushiku buli shani?",
+        "Ngo lutanda lwa lucelo, Bushe nomba lwatula?",
+        "Bushe nomba kwabe mibengelele?",
+        "Bushe nomba kwabe mibengelele?",
+        "2. Twebeni filangililo, Filepita fileya?",
+        "Twapalamina ku cabu, Kuti twamone mpanga?",
+        "Bushe cine bufumu bwapalama?",
+        "Bushe cine bufumu bwapalama?",
+        "3. Kwabengeshima bwalaca! Natwimbe tuweleshe!",
+        "Twalumona ulutanda, Lwabengeshima bwino!",
+        "Sekeleni bupususho nabwisa",
+        "Sekeleni bupususho nabwisa,",
+        "4. Natusange cishibilo, lmpanga ilya pepi",
+        "Endesheni natuleya, Icabu cilya pepi!",
+        "Auleni mutile wa mushilo,",
+        "Auleni mutile wa mushilo"
+      ],
+      "number": 2
+    }
+  ]
+}

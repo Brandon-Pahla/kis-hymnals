@@ -1,0 +1,56 @@
+{
+  "number": 169,
+  "language": "pt",
+  "title": "Deixa Entrar o Rei da Glória",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Deixa Entrar o Rei da Glória"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ouve a voz, Jesus te chama!",
+        "Volve já, ó pecador!",
+        "Ouve a voz de quem te ama:",
+        "É Jesus, teu Salvador."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Deixa entrar o Rei da glória;",
+        "Abre-Lhe o coração.",
+        "Hás de ter final vitória;",
+        "Vais obter a salvação."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Os prazeres do pecado",
+        "Não trarão conforto ou paz;",
+        "Só Jesus, o Mestre amado,",
+        "Tua alma satisfaz."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hoje ainda graça existe",
+        "Para ti, ó pecador!",
+        "Deixa teu viver tão triste,",
+        "Vem agora ao Salvador!"
+      ],
+      "number": 5
+    }
+  ]
+}

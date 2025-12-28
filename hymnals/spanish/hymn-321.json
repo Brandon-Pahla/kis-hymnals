@@ -1,0 +1,61 @@
+{
+  "number": 321,
+  "language": "es",
+  "title": "Allá sobre montes",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Allá sobre montes"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Allá sobre montes, en feliz país,",
+        "la ciudad divina reposando está.",
+        "Nuestros pies, aquí cansados,",
+        "subirán:",
+        "la mansión eterna divisamos ya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Vamos al hogar! ¡Vamos al hogar!",
+        "¡Ved, sus torres brillan con gran",
+        "esplendor!",
+        "¡Ved la gloria cómo emana del",
+        "Señor!",
+        "Estaremos juntos por la eternidad",
+        "con los ángeles, cantando en la",
+        "Ciudad.",
+        "¡Vamos al hogar!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Los antiguos profetas nos hablaron ya",
+        "de las calles de oro de esa gran ciudad.",
+        "Por la fe hoy la podemos contemplar,",
+        "con sus muros de oro y jaspe, sin igual."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hermano, hermana, ¿estarás allá,",
+        "en aquella tierra do pesar no habrá?",
+        "El mensaje santo hoy acepta fiel,",
+        "y al venir el Salvador te llamará."
+      ],
+      "number": 5
+    }
+  ]
+}

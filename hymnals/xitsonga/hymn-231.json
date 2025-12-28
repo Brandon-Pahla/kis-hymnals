@@ -1,0 +1,29 @@
+{
+  "number": 231,
+  "language": "ts",
+  "title": "231. LOKO U KARHELE HI SWIDYOHO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LET JESUS COME INTO YOUR HEART",
+        "1. Loko U Karhele Hi Swidyoho, Nyika Mbilu Eka Yesu,",
+        "U Lava Ku Sungula Hi Vuntshwa, Pfula Mbilu A Ta Nghena.",
+        "CHORUS",
+        "Tshika Ku Kanakana, Pfula Nyangwa A Nghena, U Nga Aleri Yesu,",
+        "Pfula A Nghena Mbilwini",
+        "T&B A Ndza Ha Kanakani, Yesu A Ndzi Ku Lahlil,",
+        "Ndzi Ku Pfulela Nyangwa, Nghena Mbilwini Ya Mina.",
+        "2. U Rilela Ku Va Wo Lulama, Nyikela Mbilu Ka Yesu,",
+        "Hi Yena Xihlovo Lexo Tenga, U Ta Ku Hlantswa U Basa.",
+        "3. Loko U Tshikelela Hi Nala, Nyikela Mbilu Eka Yesu,",
+        "U Nga Enerisiwi Hi Nchumu, Nyikela Mbilu Eka Yesu.",
+        "4. Vamakwenu Va Nga Ha Ku Lahla, Nyikela Mbilu Ka Yesu,",
+        "U Ta Va Nakoloni Wa Wena, Nyikela Mbilu Ka Yesu.",
+        "5. U Navela Ku Dzunisa Hosi, Na Vakwetsimi Etilweni, U Navela Ku Wisa Moya,",
+        "Nyikela Mbilu Ka Yesu."
+      ],
+      "number": 1
+    }
+  ]
+}

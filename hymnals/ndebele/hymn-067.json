@@ -1,0 +1,61 @@
+{
+  "number": 67,
+  "language": "nd",
+  "title": "67 Yana Ezioni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Abez, abeNkosi, Abathand’ uMbuso,",
+        "Dumisa ngengom’ emnandi;",
+        "Dumisa ngengom’ emnandi;",
+        "Hloniph’ ubukosi.",
+        "Hloniph’ ubukosi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qhubekel’ eZion,",
+        "Wo! Ngobuhle beZioni;",
+        "Si qhubeka phezulu...",
+        "Emzini ka Nkulunkulu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngeke ba hlabele, Abangehloniphe,",
+        "Kodw’ abantwana beNkosi;",
+        "Kodw’ abantwana beNkosi;",
+        "Bo yohlabelela.",
+        "Bo yohlabelela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "iNtaba yeZion’, I thel’ okumnandi,",
+        "Si ngakafik’ ezulwini;",
+        "Si ngakafik’ ezulwini;",
+        "S’nyathel’ igolide.",
+        "S’nyathel’ igolide."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zandiswe ingoma, Inyembezi zome,",
+        "Dumo ku Emanueli;",
+        "Dumo ku Emanueli;",
+        "Mholi w’ezulwini.",
+        "Mholi, w’ezulwini."
+      ],
+      "number": 5
+    }
+  ]
+}

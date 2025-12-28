@@ -1,0 +1,21 @@
+{
+  "number": 36,
+  "language": "ts",
+  "title": "36. NDZI LANGUTE WENA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "MY FAITH LOOKS UP TO THEE",
+        "1. Ndzi Langute Wena, Nyimpfana Ya Xikwembu",
+        "Muponisi, Yingisa Xirilo Ndzi Hlantswi Swidyoho,",
+        "Ndzi Basise, Ku Sukela Sweswi",
+        "2. Tintswalo Ta Wena, A Ti Ndzi Tiyise, Ndza Ku Rhandza, Hikuva U Ndzi Fele,",
+        "Rirhandzu Ranga, Ri Nga Heli, Ri Kula Ri Andza",
+        "3. Ndlela Ya Munyama, Ni Ku Saseka, Ndzi Fambise, Susa Wo Munyama,",
+        "Sula Mihloti, Ndza Lahleka U Nga Ndzi Tshiki"
+      ],
+      "number": 1
+    }
+  ]
+}

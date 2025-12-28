@@ -1,0 +1,44 @@
+{
+  "number": 450,
+  "language": "pt",
+  "title": "Abençoa Este Lar",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Abençoa Este Lar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abençoa, bom Senhor, de Teus filhos, este lar.",
+        "Vem eterna proteção e Tua santa paz nos dar.",
+        "Mesmo quando em prova e dor, reine aqui somente amor.",
+        "Haja sempre neste lar, harmonia e bem estar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E na senda do viver, guia-nos com Tua mão.",
+        "Une nossos corações pelos laços da afeição.",
+        "Livra-nos de todo o mal, nesta vida terreal.",
+        "E prepara-nos, ó Deus, para o eterno lar dos Céus."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nossos filhos, ó Senhor, tenham Tua proteção.",
+        "Dá-lhes forças e poder pra vencer a tentação.",
+        "E que juntos, em amor, recebamos Teu favor.",
+        "E que neste nosso lar possas Tu também morar."
+      ],
+      "number": 4
+    }
+  ]
+}

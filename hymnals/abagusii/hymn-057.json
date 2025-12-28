@@ -1,0 +1,42 @@
+{
+  "number": 57,
+  "language": "guz",
+  "title": "57 Ichw' Omoik' Omochenu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Inchw' Omoik' OmochenuOnsibi' omoyo one,Onsibie enkoro yane,Inchuo ng'ichorie bono."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ng'ichorie, Ng'ichorie,Yeso nchwo ong'ichorieN'okoboko kwao ogochenu,ng'ichorie bono."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nong'ichori' Omoik' omuyaNonya tinkogotebiaKo ninkoganetie monoInchuo ng'ichorie bono."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Naichoirwe n'oboreuNekanyire as'oreOmoika OmochenuOmbekere chinguru."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nchene, ndemie, nsesenienkony' osibie 'nkoro yaneN'ay' okoremia, gotoriaBono nkong'ichori' ore."
+      ],
+      "number": 5
+    }
+  ]
+}

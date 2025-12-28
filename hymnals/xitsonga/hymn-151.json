@@ -1,0 +1,23 @@
+{
+  "number": 151,
+  "language": "ts",
+  "title": "151. NAMUNTLHA NDZI HLEKETA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I AM THINKING TODAY OF THAT BEAUTIFUL",
+        "1. Namuntlha Ndzi Hleketa Tiko Ro Xonga, Ndzi Ta Nghena Loko Ri Pela;",
+        "Ndzi Yima Tintswalweni Ta Mukutsuri, Ku Amukela Harhi Yanga.",
+        "CHORUS",
+        "Tinyeleti Ti Ta Va Kona Harhini, Loko Dyambu Se Ri Ta Pela (Ri Pela); Loko Ndzi Ta Pfuka Na Vahlawuriwa,",
+        "Ti Ta Va Kona Tinyeleti Harhini (Ya Mina).",
+        "2. Ndza Khongela Ndzi Tirha Hi Ntamu Waku, Ku Ponisa Va pepetseki;",
+        "Hi Ta Tlhomiwa Hi Tona Tinyeleti, Hi Karhi Hi Dzunisa Hosi.",
+        "3. Ndzi Ta Tsaka Ku Vona Mombo Wa Yena, Ndzi Ta Na Ntshovelo Wa Yena;",
+        "Moya Wa Mina Wu Ta Tsaka Ekaya, Ti Ta Va Kona Tinyeleti."
+      ],
+      "number": 1
+    }
+  ]
+}

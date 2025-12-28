@@ -1,0 +1,55 @@
+{
+  "number": 24,
+  "language": "sn",
+  "title": "24 Ndinokushaya Nguva",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndichiri kushaya, Tenzi wangu,",
+        "Hakuna izwizve kunga renyu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndoshaya nekushaya, Tenzi ndokushaya,",
+        "Zvino mundikomborere, Ndinouya"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndichiri kushaya, Garai petyo,",
+        "Handiputswi apo muripano"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndichiri kushaya, Mudambudzo,",
+        "Kana ndikushaya, Murufaro"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndichiri kushaya, Ndikudisa,",
+        "Nezvitsidzo zvenyu munondipa"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndichiri kushaya, Munoera,",
+        "Ndinova wenyu’di, Mwakanaka"
+      ],
+      "number": 6
+    }
+  ]
+}

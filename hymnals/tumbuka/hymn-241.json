@@ -1,0 +1,59 @@
+{
+  "number": 241,
+  "language": "tum",
+  "title": " 241 Kuli Charu Chakutowa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 241 Kuli Charu Chakutowa",
+        "C.H. 554 BEULAH LAND"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Kuli charu chakutowa chimwemwe chake ndam'hala,",
+        "Dazi liweme likwiza chisi cha m'charu cham'mala."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Inya, charu chakutowa nkhudoka kwima pa phiri;",
+        "Kuwona nyanja gabuka nyumba yandinozgekera;",
+        "Pa mLima wa myirayira kwithu kukaya yandanda."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Muthaski wamwenda nane kunozga pakukumana;",
+        "Wamundikora pawoko kundirongozga kuchanya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Tumphepo twa kununkhira twa makuni gha kuchanya;",
+        "Maluwa ntha ghakufota mironga ntha yikomira."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Mphepo ku zambwe zamzura na sumu ziweme nadi;",
+        "Wangelo, watuwa wose wamkwimba za chiponosko."
+      ],
+      "number": 5
+    }
+  ]
+}

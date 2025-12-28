@@ -1,0 +1,44 @@
+{
+  "number": 92,
+  "language": "xh",
+  "title": "92 Musani Ukuyilibala I-Sabatha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ninga yilibali i-Sabatha ye-Nkosi;",
+        "Yiyon’ intle kunawo onke amalanga;",
+        "Yiyona isiphumz’ emisebenzini yethu,",
+        "Ivula ukukhanya, Okwasezulwini."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Livuyeleni ke ilanga le-Sabatha,",
+        "Livuyeleni ke ilanga le-Sabatha."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gcinan’ i-Sabatha, dumisani Yena,",
+        "Owathi \"Ndiyindlela yokuphila kuni.\"",
+        "Xa simlandela Yena u-Msindisi apha,",
+        "Uya kusiph’ amanzi okuphila Yena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Langa elingcwele! Ngawe siya bonga;",
+        "U-Yesu ungumhlobo wethu othandwayo;",
+        "Wena Msindisi wethu unenceba nothando.",
+        "Izithembisa zaKho zikukuvuyisa."
+      ],
+      "number": 3
+    }
+  ]
+}

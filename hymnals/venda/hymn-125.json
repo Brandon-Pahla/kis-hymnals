@@ -1,0 +1,53 @@
+{
+  "number": 125,
+  "language": "ve",
+  "title": "125. Tshedza Mbiluni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Hu na duvha dzithavhani; Hu a penya na lwanzhe,",
+        "Hu a penya midavhini, na hatsini havhudi;",
+        "Tshedza tshavhudi tshi penya ngomu mbiluni yanga.",
+        "Hune Yesu a vha e hone, hu na tshedza tshavhudi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Itsho tshedza, tshedza tshavhudi;",
+        "Tshi vhonetshela mbilu,",
+        "Yesu u bvisa vhutungu, hu a penya mbiluni."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi sia matungu anga, u nga nguvho ya kale;",
+        "Wo nyambadza nga dakalo, wa mpfunza u U renda,",
+        "Haya hu swa ha tadulu, he nda lugiselwa-vho.",
+        "Ndi a disa mbilu yanga, na muya wa dakalo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndo rengwa nga Yesu wanga, zwanga zwothe ndi zwawe;",
+        "Luvhone lwanga lwo fungwa, lu mu rende nga misi.",
+        "Haya huswa ha tadulu, he nda lugiselwa-vho.",
+        "Ndi a disa mbilu yanga, na muya nga dakalo."
+      ],
+      "number": 4
+    }
+  ]
+}

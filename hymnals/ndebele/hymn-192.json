@@ -1,0 +1,47 @@
+{
+  "number": 192,
+  "language": "nd",
+  "title": "192 Dumisa iBizo LAkhe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Esiphambanweni laphaya, uMsindisi wachith’ igazi",
+        "Nami khona ngagezisiswa Dumisa Yena"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dumisa Yena, Dumis’ ibizo",
+        "Lapho kwahlanjwa inhliziyo, Dumisa Yena"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si khulu sona isimanga! Ngi sindisiwe ezonweni;",
+        "Ku mnand’ uJes’ u hlala nami Dumisa Yena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Emthonjen’ ophilis’ izoni Ngi thabile se ngi ngenile;",
+        "uJesu u se ngi hlambile Dumisa Yena."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Woza kuloMthombo omnandi, Khuwo u ziphonse namhlanje;",
+        "U hlanjisiwe, u phelele Dumisa Yena"
+      ],
+      "number": 5
+    }
+  ]
+}

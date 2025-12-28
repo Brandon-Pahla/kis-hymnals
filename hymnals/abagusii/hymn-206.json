@@ -1,0 +1,42 @@
+{
+  "number": 206,
+  "language": "guz",
+  "title": "206 Ira Ense Yonsi Ong'e  Yeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ira ense yonsi ong'eYes' omogoko one;'Bwanchani bwaye tiboriGoonchoka nonya ng'ake."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Maber' ay'ogokumia;Bwanchani bwaye obonge;Gotorigwa gw'ekeene,Kw'obogima botambe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ira ense yonsi ong'eYes' Omoremia one;Omotoria karandende,Ninter' as' emechando."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ira ense ong'e YesoNdor' omosasok' oye;Ase orogendo rwane,Amoreker' enchera."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ira ense yonsi ong'eYes' Omosalab' one;Goik' Omonene ogocha,Morore as' obosio."
+      ],
+      "number": 5
+    }
+  ]
+}

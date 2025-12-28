@@ -1,0 +1,56 @@
+{
+  "number": 368,
+  "language": "tw",
+  "title": "Wɛmfom Hyɛn 'Sɛmpa T'robɛnto",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wɛmfo, hyɛn 'sɛmpa t'robɛnto",
+        "Bɔ ɔkra biara kɔkɔ;",
+        "Obiará a ɔte nkrasɛm no",
+        "N'ɔsakra no benya nkwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hyɛn t'robɛnto, ɔwɛmfo pa,",
+        "Esum mu ne awia mu;",
+        "Nyame hyɛ wo, ka asɛm no!",
+        "Deduani bɛde ne ho."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hyɛn no den mmepɔ atifi,",
+        "Esum mu ne awia mu;",
+        "Po bun no gye nkrasɛm no so,",
+        "Nkwagye dwom a ɛyɛ dɛ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hyɛn no wiram ne 'tempɔn so",
+        "Sum mu nea 'kobɔfo nam;",
+        "Hyɛn no sɛ wɔasiesie nnepa,",
+        "Agya no rehwɛ wɔn kwan."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hyɛn ma wɔn a wɔasoa nnesoa",
+        "Abrɛ repɛ ɔhome;",
+        "Hyɛn Agyenkwa frɛ dɛdɛ a",
+        "Ͻka sɛ \\\"Bra Me nkyɛn\\\" no."
+      ],
+      "number": 4
+    }
+  ]
+}

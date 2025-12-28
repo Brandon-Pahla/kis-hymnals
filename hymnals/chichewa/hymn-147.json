@@ -1,0 +1,53 @@
+{
+  "number": 147,
+  "language": "ny",
+  "title": "147 - Tate Mundisendeze Mfupi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "DRAW ME CLOSER TO THEE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tate mundisendeze mfupi,",
+        "Ndifuna Inuyo;",
+        "Mundiyangate mmanja mwanu,",
+        "Ndipume mwanumo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Zingwe za chikondicho,",
+        "Mfupi, zikokere ’ne;",
+        "Mfupi, mfupi,",
+        "Ndinu m’mwambamo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yesu Mundisendeze mfupi,",
+        "Ndisasiye inu;",
+        "Dzanja lanu linditsogoze,",
+        "Ndisasochereyi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mzimu mundisendeze mfupi,",
+        "Ndifane ndinuyo;",
+        "Mtima mwangamo munditsuke,",
+        "Ndiyere ine mbu!"
+      ],
+      "number": 4
+    }
+  ]
+}

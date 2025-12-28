@@ -1,0 +1,67 @@
+{
+  "number": 453,
+  "language": "pt",
+  "title": "Amor no Lar",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Amor no Lar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tudo é belo em derredor,",
+        "Com amor no lar;",
+        "Há beleza em cada flor,",
+        "Com amor no lar.",
+        "Este amor promove paz,",
+        "Toda mágoa e dor desfaz;",
+        "Luz, saúde e gozo traz",
+        "Sempre o amor no lar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Com amor, com amor,",
+        "Não há dor, não há pesar,",
+        "Com amor no lar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na choupana há prazer,",
+        "Com amor no lar;",
+        "Ódio e mal não pode haver,",
+        "Com amor no lar.",
+        "Cada rosa em seu matiz,",
+        "Vozes de aves tão gentis,",
+        "Tudo faz-se mais feliz,",
+        "Com amor no lar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Meu Jesus, que eu seja Teu;",
+        "Dá-me amor no lar;",
+        "Faz-me renunciar o eu,",
+        "Faz-me mais amar.",
+        "Vida mais feliz terei,",
+        "Hei de estar aos pés do Rei,",
+        "Sempre andando em Sua lei,",
+        "Com amor no lar."
+      ],
+      "number": 5
+    }
+  ]
+}

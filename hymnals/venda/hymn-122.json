@@ -1,0 +1,59 @@
+{
+  "number": 122,
+  "language": "ve",
+  "title": "122. Tsini-Tsini",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:301",
+        "AH:313"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tsini-tsini na mbilu yau,",
+        "Ntsendedze Iwe Yesu wanga;",
+        "Nkuvhatedza-ha Yesu wanga,",
+        "Iwe ndzumbe kha vhuawelo hau,",
+        "Iwe ndzumbe kha vhuawelo hau."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tsini na Iwe a thi na na",
+        "tshithavhelo-vho Murena wanga;",
+        "Fhedzi ndi disa mbilu yanga,",
+        "ntanzwe nga malofha a Mutshidzi.",
+        "ntanzwe nga malofha a Mutshidzi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tsini na Iwe u ntsendedze,",
+        "Ndi kone u furalela zwivhi;",
+        "Madakalo na u dihudza,",
+        "Ndi de ha Yesu o vhambiwaho;",
+        "Ndi de ha Yesu o vhambiwaho."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Kha Iwe vhu hone vhutshilo,",
+        "Kha ndi dzumbiwe ngei vhugalani;",
+        "Ndi vhe hone lini na lini,",
+        "Tsini na Iwe Mutshidzi wanga,",
+        "Tsini na Iwe Mutshidzi wanga."
+      ],
+      "number": 5
+    }
+  ]
+}

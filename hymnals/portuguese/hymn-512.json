@@ -1,0 +1,44 @@
+{
+  "number": 512,
+  "language": "pt",
+  "title": "Às Águas do Jordão",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Às Águas do Jordão"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Às águas do Jordão desceu",
+        "Jesus, o Redentor,",
+        "O Deus eterno que morreu",
+        "Por nós em santo amor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O exemplo Seu devemos ter",
+        "Por lei a nos cingir.",
+        "Quem salvo está por Seu poder,",
+        "Seus passos quer seguir."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por nós morreu Jesus na cruz,",
+        "E nos remiu do mal;",
+        "Abriu caminho que conduz",
+        "À vida divinal."
+      ],
+      "number": 4
+    }
+  ]
+}

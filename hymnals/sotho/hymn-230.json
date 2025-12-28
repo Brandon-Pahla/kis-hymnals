@@ -1,0 +1,51 @@
+{
+  "number": 230,
+  "language": "st",
+  "title": "230 Ke ’Na Tsela.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Joaloka nku e lelerang,",
+        "Bohle ba joalo fela;",
+        "Bophelong, khotsong lesakeng,",
+        "Ke tla bona joang tsela?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke ’na tsel’a, ’nete, le bophelo;",
+        "Ha ho ea ka tlang ho Ntate ha e se ka ’Na,",
+        "Ke ’na tsela, bophelo le ’nete,",
+        "Ha ho ea ka tlang ho Ntate ha e se ka ’Na.",
+        "(T.&B.)",
+        "Ke ’na tsela, ke ’na tsela, le bophelo,",
+        "Ha ho ea ka tlang ho Ntate ha e se ka ’Na,",
+        "Ke ’na tsela, ke ’na tsela, le ’nete le bophelo;",
+        "Ha ho ea ka tlang ho Ntate ha e se ka ’"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke thetsoa ke pelaelo,",
+        "Na nka ea ho Molimo;",
+        "Bongata bo re mona, mane,",
+        "Ke tsebe joang ’nete."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ho Kreste, Tsela, Bophelo,",
+        "Ka ’nete--’nete ke’tla;",
+        "O tla nkhulela ho Ntate,",
+        "Lehaeng lee sa feleng."
+      ],
+      "number": 3
+    }
+  ]
+}

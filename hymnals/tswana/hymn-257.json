@@ -1,0 +1,31 @@
+{
+  "number": 257,
+  "language": "tn",
+  "title": "257 O Tla Ema A Tlhomane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O Tla Ema A Tlhomane Le Jaaka Dithaba;",
+        "A ikhutse jaaka lefika Yo ikanyang Jehofa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No Go Se Tse Ka Femelang Salem Sentle Jalo,",
+        "Jaaka mabog’a sa khutleng A ’mo baitsheping."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dira Molemo Morena Ba Go Ngaparelang,",
+        "Ba nna boammaaaruring jwa ’Go, Ga ba tloge molaong."
+      ],
+      "number": 3
+    }
+  ]
+}

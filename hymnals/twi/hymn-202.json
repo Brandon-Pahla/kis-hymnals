@@ -1,0 +1,46 @@
+{
+  "number": 202,
+  "language": "tw",
+  "title": "Mohnyɛ No Anuonyam Hen'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ka ky'rɛ mmusuakuw ne aman nyinaa,",
+        "Ka no mmaa nyinaa;",
+        "'Sase sum kabii bɛpa anɔpa,",
+        "Yesu bɛba seesei."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Monhyɛ No anuonyam Hen',",
+        "'Guammaan' wu maa 'bɔn'yɛfo;",
+        "Monka anwanwasɛm no:",
+        "Yesu bedi Hen'."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asase so akosɛm dodow yi",
+        "Rebɔ yɛn kɔkɔ;",
+        "Ewim nsɛnkyerɛnne ahorow no",
+        "Bɔ 'da no ho daw'ru."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Onyame mma, momfa 'nigye nhwɛ s'ro,",
+        "Monto N'ayeyi;",
+        "Nhyira ne wɔn a wɔretwɛn rewɛn",
+        "Hann a ɛrepue no."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "number": 158,
+  "language": "ve",
+  "title": "158. Khano Khulu Ya Shango Yo Lindela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Khano khulu ya shango yo lindela,",
+        "Yesu u vhidza vhakaniwa vhawe.",
+        "Hu re kulesa na tsini ho vhibva,",
+        "Mukani u do swika ro lindela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tavhanya u da . . . Mune wa pfano,",
+        "Tavhanya u da . . . ri tuwe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ilo duvha li sa fheli li do da,",
+        "Mitodzi i do fhela u tshi swika,",
+        "Tshivhi tshi ri dinaho tshi do fhedzwa,",
+        "tshifhinga tshino ndi tshone tsha khano."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Zwi a difha u shuma nga dakalo,",
+        "Mulambo wa lufuno u songo xa.",
+        "Ri khou vhidzwa nga lwone lufuno,",
+        "Kha u di-nekedza hu mangadzaho."
+      ],
+      "number": 4
+    }
+  ]
+}

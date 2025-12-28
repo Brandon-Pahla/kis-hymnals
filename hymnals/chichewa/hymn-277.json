@@ -1,0 +1,32 @@
+{
+  "number": 277,
+  "language": "ny",
+  "title": "277 - Tsogolere Muuni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LEAD KINDLY LIGHT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tsogolere muuni mu mdima, Tsogolere;",
+        "Kwada ndiri kutari ndi kwathu; Tsogolere",
+        "Sindipempha kuona za m’tari,",
+        "Phazi langa limodzi likwana",
+        "2. Sindinali wotere wokhoza kupemphera;",
+        "Ndisankha njira’nga; Tsogolere;",
+        "Ndinakonda zinthu zacibwana, Tsogolere;",
+        "Ndinanyada, musazikumbuke",
+        "3. Mphamvu yanu yandidalitsadi; Intsogoza",
+        "Mu malo monse moipa mpaka mdima watha;",
+        "M’mawa ’ngelo andisekerera;",
+        "Amenewo ndawakonda kale."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "number": 607,
+  "language": "pt",
+  "title": "Fim de Culto",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Fim de Culto"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Água da vida aqui jorrou,",
+        "Da fonte eterna do viver;",
+        "Dela viemos nos saciar,",
+        "E em Jesus renovar poder."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Findamos esta comunhão,",
+        "Culto de glória ao Criador,",
+        "Reconsagrando o coração,",
+        "No altar do divino amor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amém."
+      ],
+      "number": 4
+    }
+  ]
+}

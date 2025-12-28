@@ -1,0 +1,42 @@
+{
+  "number": 42,
+  "language": "luo",
+  "title": "42 Hera Ma Yesu Hera Go",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Hera ma Yesu hera go,ma nomiyo otho e yath,Mondo owena richona,oloyo lep wacho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Herane loyo lep wacho;Herane loyo lep wacho,Hera ma Yesu herago,oloyo lep wacho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kuyo maduong` manoyudo,g`osimb kudho ma nosidhne,Mond` ayud ngima nyaka chieng`,Oloyo lep wacho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kuwe maduong` ma ango kuome,en masayona nyim Nyasaye,rembe maler mano chuerna,oloyo lep wacho."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mor mayudo ka En buta,kanindo anto ok naluor,Genona kuome duong` chutho,oloyo lep wacho."
+      ],
+      "number": 5
+    }
+  ]
+}

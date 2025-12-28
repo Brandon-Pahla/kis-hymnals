@@ -1,0 +1,49 @@
+{
+  "number": 259,
+  "language": "tn",
+  "title": "259 Re Tla Rakana Moseja",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Re Tla Rakana Moseja, Kwa Go Se Yong Dintelo?",
+        "Kgalalelong e sa khutleng, Kwa go seng bofutsana?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "A re tla rakana, Re tla rakana moseja?",
+        "A re tla rakana gone, Kwa go se yong dintelo?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Tla Rakana Tsibogong, Re Fetile Difefong?",
+        "Re tlhome seitsetsepetso, tsibogong ja godimong?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Tla Rakana Kwa Motseng, Kagong Tse Di Phatsemang?",
+        "Marakong a jasepera’ O o agetsweng rona?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Rakane Le Mmoloki, F’a Tla Go Tsaya Ba ’Gwe?",
+        "A re tla itse tshwaro ya ’Gwe, Re nne teronong ya ’Gwe?",
+        "CHORUS YA BOFELO",
+        "E re tla rakana, Re tla rakana moseja.",
+        "E re tla rakana gone, Kwa go se yong dintelo."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "number": 263,
+  "language": "tn",
+  "title": "263 Utlwang Foko A Baebele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Utlwang Foko A Baebele A Metlheng,",
+        "\"Lereng tsa bosome polokelong.\"",
+        "Dirang boineelo jwa bosakhutleng,",
+        "Lo ikanye tsholofetso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "\"Lereng tsa bosome polokelong,",
+        "Lo nteke,\" go bua Jehofa.",
+        "\"Mme ke tla lo tshelela sego",
+        "Je go seng bonno go le amogela.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lo Senka Kitso’a Moya O Boitshepo?",
+        "\"Lereng tsa bosome polokelong\"",
+        "Mme lo tshele Nae mo botsalanong,",
+        "Fa a naya tsholofetso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Kgaoganngwa Keng Le Morena, Gago?",
+        "\"Lereng tsa bosome polokelong\"",
+        "Di lereng jaaka di solofeditswe.",
+        "O tla lo thelela ’sego."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsholeletsang ’Pelo Morena Lona,",
+        "\"Lereng tsa bosome polokelong.\"",
+        "Baka ka boikanyo tsholofelong,",
+        "Pelung e O e ruileng."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsholeletsang Pako Mo Magodimong,",
+        "\"Lereng tsa bosome polokelong.\"",
+        "Re tsose aleluja boitumelong",
+        "Ka re na le tsholofetso."
+      ],
+      "number": 5
+    }
+  ]
+}

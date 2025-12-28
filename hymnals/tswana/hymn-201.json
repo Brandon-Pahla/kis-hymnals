@@ -1,0 +1,56 @@
+{
+  "number": 201,
+  "language": "tn",
+  "title": "201 Ke Ne Ke Tshogile Pel’a Jehofa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Ne Ke Tshogile Pel’a Jehofa,",
+        "Ke le moleting mo sebe se ntsentseng",
+        "Ka goa Jehofa ke le botennyeng,",
+        "Yo’ nntsheditseng letsatsing ka bonolo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O nntshitse mo seretseng sele,",
+        "A mpaya fa Lefikeng go nna;",
+        "O ba’a kopelo moyeng wa me,",
+        "Ke ya pako haleluja."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Mpeile Lefikeng Pel’a Gagwe,",
+        "Dinao tsa me fano di tlhomame;",
+        "Ga nkake ka wa fa ke sa ntse fano",
+        "Ke eme go ba ke bona serwalo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Mphile Kopelo E Ntsha Ya Pako,",
+        "Ke tla e opela ka nako tsotlhe;",
+        "Ke itumetse ke mo kgololegong,",
+        "Ke tla baka Morekolodi wa me."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Tla Opela Ka Tshwaro Ya Gagwe,",
+        "Ke tla Mmaka botlhe be ba Moitse;",
+        "Ke tla opela poloko ka gotlhe,",
+        "Botlhe ba utlwe ba ikanye Modimo."
+      ],
+      "number": 4
+    }
+  ]
+}

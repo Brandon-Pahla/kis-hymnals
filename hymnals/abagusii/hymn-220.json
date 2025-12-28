@@ -1,0 +1,42 @@
+{
+  "number": 220,
+  "language": "guz",
+  "title": "220 Ondaire, Ondaire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ondaire, ondaire,n'amang'ana okoremia,Ase onsi ense eye,Omonene ondaire."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ondaire, ondaire,Omonene ondaireNokoboko kwaye igo,Omonene ondaire."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Kero kende nomobaso,'Kero kende nomosunte;S'amache na ase ense,Omonene ondaire."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tinkonyara gotogonya,As' emeremo ndaegwe,Ekiagera namanyire,Omonene ondaire."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Koyaerir' emeremo,Konabuire ebibe,Nony'ogokwa tinkoiroka,Omonene ondaire."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "number": 167,
+  "language": "ts",
+  "title": "167. MASUNGLO YO PFUMELA KA HOSI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "FIRM FOUNDATION",
+        "1. Masungulo Yo Pfumela Ka Hosi, Ya Vekiwile Ematshan’weni;",
+        "I Ncini Lexi Xi Kayivelaka;",
+        "Yesu U Muponisi, Ha Tumbela Ka Wena, U Xisirhelelo, Khokholo Ra Hina.",
+        "2. Loko Ndzi Ku Rhuma Ku Pela Nambu, Nhlomulo Wungw Ku Heti Ntamu;",
+        "Ndzi Le Kusuhi Ku Ku Ha Ntamu,",
+        "Ku Susa Na Rona Gome, Ku Khongotela Mbilu, Ku Ncinca Maxangu Ma Va Minkateko.",
+        "3. Ndzi Nga Ku Letela Emiringweni; Nsovo Wanga Wu Ta Ringanela;",
+        "U Nge Hisiwi Hi Rona Langavi;",
+        "Ri Ta Susa Ku Tsana, RI Tengisa Bya Nsuku, Ripfumelo Ra WEna Ri Ta Hetiseka Xana?",
+        "4. Loko U Tiseketela Hi Yesu, A nge Ku Siyi Evalaleni;",
+        "Hambi Maxangu Ma Nga Ku Vavisa, Yena A Nge Ku Siyi, U Ta Va Na Wena,",
+        "Ku Kondza Ku Hundza Nkarhi Wa Maxangu."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "number": 608,
+  "language": "es",
+  "title": "Corazones siempre alegres",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Corazones siempre alegres"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Corazones siempre alegres,",
+        "rebosando gratitud,",
+        "somos los que a Dios amamos,",
+        "redimida juventud."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Siempre alegres vamos todos,",
+        "llenos de felicidad;",
+        "hermosísimo es el camino,",
+        "hacia la eternidad."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dios nos guía de la mano;",
+        "nos ampara su poder;",
+        "es su brazo poderoso",
+        "y nos quiere defender."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si en la lucha desmayamos",
+        "o nos sitia la maldad,",
+        "con su gracia nos anima,",
+        "nos levanta su bondad."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Con sus fuerzas llevaremos",
+        "muy gozosos nuestra cruz;",
+        "victoriosos cantaremos",
+        "en la gloria de su luz."
+      ],
+      "number": 6
+    }
+  ]
+}

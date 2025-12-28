@@ -1,0 +1,23 @@
+{
+  "number": 114,
+  "language": "ts",
+  "title": "114. KU NA NYANGWA YO PFULEKA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE IS A GATE THAT STANDS AJAR",
+        "1. Ku Na Nyangwa Yo Pfuleka, Yi Humesa Miseve;",
+        "Yi Huma Exihambanwen, I Rirhandzu Ra Yesu.",
+        "CHORUS",
+        "Tintswalo To Hlamarisa, Nyangwa Yi Ndzi Ahlamele; Yi Pfu. . . .leke Leswaku Ndzi Pona.",
+        "2. Nyangwa Ya Ha Pfulekile, Nghenani Mi Ta Pona; Vafuwi Na Swisiwana, Na Tinxaka Hinkwato.",
+        "3. Tiyiselani Maxangwin, Ti Andzile Tintswalo;",
+        "Amukela Xihambano, U Ta Yi Kuma Harhi.",
+        "4. Eribuweni Ra Nambu, Xa Sala Xihambano;",
+        "Hi Ta Mbexiwa Tiharhi, Hi Tsaka Ka Xikwembu."
+      ],
+      "number": 1
+    }
+  ]
+}

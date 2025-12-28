@@ -1,0 +1,35 @@
+{
+  "number": 219,
+  "language": "luo",
+  "title": "219 Weche Mag Mirima",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Weche mag mirima mondoKik pusre a e dhowa;Paro maber mond` ogeng`giKa pok giwuok e dhowa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Heroreuru,\" Ruodhwa owacho;Nyithindo winjuru chik mar Wuoro;(Heroreuru, herreuru,Winjuru chik mar Wuoro;),\"Heroreuru,\" Ruodhwa owacho;Nyithindo, winjuru chikne,(Herreuru, herreuru,Winjuru chikne.)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Wach marach jawuok mapiyo,To gin gik maduwo chuny;Gi maketho osiep kindwa,To weche mag mirima."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Hera ler kendo olong`o,Kik wayie ketho osiep;Nikech wach marach mwapuso;Ber mondo warit dhowa."
+      ],
+      "number": 4
+    }
+  ]
+}

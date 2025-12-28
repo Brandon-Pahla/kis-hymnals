@@ -1,0 +1,57 @@
+{
+  "number": 242,
+  "language": "tw",
+  "title": "Yesu Pa, Yɛn Koma 'Nigye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu pa, yɛn koma 'nigye,",
+        "Wo, nkwa nsuti, Wo, nnipa hann;",
+        "Yefi asase so dɛw mu,",
+        "San ba Wo nkyɛn bio, nsapan mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "W'asɛm tim hɔ, ɛnsakra da;",
+        "Wogye wɔn a wosu frɛ Wo,",
+        "Woyɛ ma wɔn a wɔhwehwɛ W'",
+        "Ne wɔn a wohu Wo nyinaa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, Wo na Woyɛ nkwa 'bodoo,",
+        "Yɛn kɔn da so dɔ W'aponto,",
+        "Yɛnom fi Wo nkwa nsuti mu,",
+        "De dwudwo yɛn kra sukɔm no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn honhom 'brɛfo su frɛ Wo,",
+        "Sɛnea yɛn bra besi biara;",
+        "Yehu Wo a yɛn ani gye,",
+        "Yɛsɔ Wo mu a yenya nhy'ra."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, Yesu, Wo ne yɛn ntra daa;",
+        "Ma yɛn mm're mu nnwo na ɛnhy'rɛn;",
+        "Pam bɔne sum yi nyinaa kɔ,",
+        "Ma Wo hann kronkron nhy'rɛn wiase."
+      ],
+      "number": 5
+    }
+  ]
+}

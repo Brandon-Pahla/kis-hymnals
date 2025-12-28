@@ -1,0 +1,38 @@
+{
+  "number": 109,
+  "language": "tn",
+  "title": "109 Mogang Moatlhodi A Re Lekanyetsang",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mogang Moatlhodi A Re Lekanyetsang Bokhutlo,",
+        "A re tla nna jaaka gouda? Kgotsa jaaka mabebe"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O lekantswe ke Morena, Mme O tlhaetse;",
+        "O lekantswe ka foko ja Gwe, O tlhaetse."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Re Tla Utlwela Go Twe \"Motlhanka Yo Molemo",
+        "O dirile sentle,\" kgotsa \"O tlhaetse,\" Moleofi?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Re Tla Akela Moya, Go Sa Le Tshegofatso,",
+        "Kgotsa re tla diega go Bo go kanelwe tshenyo?"
+      ],
+      "number": 3
+    }
+  ]
+}

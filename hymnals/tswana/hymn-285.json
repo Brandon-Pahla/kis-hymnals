@@ -1,0 +1,38 @@
+{
+  "number": 285,
+  "language": "tn",
+  "title": "285 ’Nno Bo Teng Jwa Tidimalo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nno Bo Teng Jwa Tidimalo, Gaufi Modimong,",
+        "Kwa sebe se sa tshwenyeng teng, Gaufi Modimong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jeso Morekolodi, Yo tswang kwa Modimo,",
+        "Tshegetsa, re letile, Gaufi Modimong."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Nno Bo Teng Jwa Kgomotso Ntle, Gaufi Modimong,",
+        "Nno jo re bonang Mmoloki Gaufi Modimong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nno Bo Teng Jwa Kgololego, Gaufi Modimong,",
+        "Kwa boipelong, kagisong, Gaufi Modimong."
+      ],
+      "number": 3
+    }
+  ]
+}

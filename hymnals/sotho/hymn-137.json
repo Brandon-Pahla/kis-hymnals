@@ -1,0 +1,46 @@
+{
+  "number": 137,
+  "language": "st",
+  "title": "137 Mphe  Jesu.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nka lefats’e U mphe Jesu, Tsa lona ha se letho;",
+        "Lerato la Hae le lutse lilemo joalo joalo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Bophahamo ba mohau! Bophara ba lerato!",
+        "Botlalo ba tokoloho, Ts’episo e sa feleng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nka lefats’e u mphe Jesu, Khothatso e ntle moeeng;",
+        "’Moloki u ntlhokometse, Ke bina le bothateng."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nka lefats’e u mphe Jesu Ke bone le nyakallo;",
+        "’Me leetong la ka lohle, Seli le tla nchabela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nka lefats’e, u mphe Jesu, Ke ts’epe sefapano;",
+        "Ke bone pono e khanyang, Re shebane le Jesu."
+      ],
+      "number": 4
+    }
+  ]
+}

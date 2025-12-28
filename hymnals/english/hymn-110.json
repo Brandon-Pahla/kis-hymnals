@@ -1,0 +1,46 @@
+{
+  "number": 110,
+  "language": "en",
+  "title": "110 Blessed Are They That Do.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hear the words our Saviour hath spoken,",
+        "Words of life, unfailing and true;",
+        "Careless one, prayer-less one, hear and remember,",
+        "Jesus says, “Blessed are they That do.”"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Blessed are they that do His commandments,",
+        "Blessed are they, blessed are they;",
+        "Blessed are they that do His commandments,",
+        "Blessed, blessed, blessed are they."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "All in vain we hear his commandments,",
+        "All in vain his promises too;",
+        "Hearing them, fearing them, never can save us, Blessed,",
+        "O blessed are they that Do"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "They with joy may enter the city,",
+        "Free from sin, from sorrow and strife,",
+        "Sanctified, glorified, now and forever,",
+        "They may have right to the tree of life."
+      ],
+      "number": 3
+    }
+  ]
+}

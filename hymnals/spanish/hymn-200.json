@@ -1,0 +1,55 @@
+{
+  "number": 200,
+  "language": "es",
+  "title": "Bautízanos hoy",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Bautízanos hoy"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bautízanos hoy",
+        "con tu gran poder;",
+        "tu amor nos renueve,",
+        "acércate hoy."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Humildes pedimos",
+        "a ti, Salvador,",
+        "que el Espíritu Santo",
+        "descienda aquí hoy."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Indignos del don,",
+        "confiamos en ti.",
+        "¡Oh, lava y limpia",
+        "hoy nuestra maldad!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Paloma de amor,",
+        "desciende aquí,",
+        "otorga a tu pueblo",
+        "tu gran bendición."
+      ],
+      "number": 5
+    }
+  ]
+}

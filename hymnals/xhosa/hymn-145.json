@@ -1,0 +1,45 @@
+{
+  "number": 145,
+  "language": "xh",
+  "title": "145 Mus’ Ukwala",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mus’ ukwala wena, Umsebenzi mkhulu;",
+        "Yiba ulungele Ixa lokuthunywa.",
+        "Yena ngobubele Usel’ ekumema,",
+        "Uthixo wezulu Uthuma wena lo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yiza bo! Mus’ ukumangala; Yiza bo! Lungel’ umsebenzi.",
+        "Mus’ ukumangala, Hleze udaniswe kukwal’ oko kwaKho,",
+        "Waliw’ ezulwini."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mus’ ukwala wena, Ubizwa namhlanje;",
+        "Kukade usala, Ngoku ngxama wenze.",
+        "Amasim’ amhlophe, Bambalw’ abavuni;",
+        "Wuvuyele ngoko Umsebenzi we-Nkos’."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mus’ ukwala wena, Yingoz’ ukunqena;",
+        "Lwalus’ oluthando, Hleze lumke mpela.",
+        "Isekho nj’ inceba, Walathisw’ exulwin’.",
+        "U-Yes’ ukumele, Yiza uxolelwe!"
+      ],
+      "number": 3
+    }
+  ]
+}

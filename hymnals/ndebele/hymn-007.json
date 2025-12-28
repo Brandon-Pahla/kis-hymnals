@@ -1,0 +1,39 @@
+{
+  "number": 7,
+  "language": "nd",
+  "title": "7 Nxa Efika",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa esefikile Yena Ukubuth’ imfuyo",
+        "Iligugu lakhe yona Ukuyifuya."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Njengazo inkanyezi kukanya umqhele",
+        "Ngobuhle bayokhanya bakhazimule"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U yakusibutha sonke Si ngamagug’ Akhe",
+        "Si yokhanya si bemhlophe, Si thandeke le!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abantwana abancane, Ba thanda uMhlengi",
+        "Ba ligugu kuJehova; Owab’ uMenzi."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 77,
+  "language": "tum",
+  "title": " 77 Kupenja Walkuzgewa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 77 Kupenja Walkuzgewa",
+        "SEEKING THE LOST"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Kupenjapenja na mtima wose,",
+        "Kupenja awo mbakuzgewa,",
+        "Waphalirani Yesu wakuti,",
+        "\"Zani kwa ine imwe mose."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Rutaninge (inya) kose na kose,",
+        "Mkize nawo 'mwe (Wanthu) wakuzge wa,",
+        "MLukutu Iwa (Yesu) mutaski withu,",
+        "Wakafwira wanthu wakwananga."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Penjaninge nakuwarongozga,",
+        "Wakuvuka wize kwa Yesu,",
+        "Muwarongozge nthowa yiweme,",
+        "Nthowa ya umoyo wandanda."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Tipharazge na mendero ghithu,",
+        "Tilongole Yesu mwa ise,",
+        "Tovwire wose awo mbatechi",
+        "TIwarongozgere kwa Yesu."
+      ],
+      "number": 4
+    }
+  ]
+}

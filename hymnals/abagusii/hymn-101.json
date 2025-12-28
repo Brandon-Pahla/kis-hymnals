@@ -1,0 +1,35 @@
+{
+  "number": 101,
+  "language": "guz",
+  "title": "101 Tenena Bokong'u ase Nyasae",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tenena bokong'u ase Nyasae,Komwaga omonge okogusa;Ner' egetare, nere chinguru,'Bibe kobire ang'e."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Totenene bokong'u as' egetare,'Getare Kristo bweka;Gatoraremererie ntotenene,'S' ekerogo ki'obonene."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tenena bokong'u s' oboronge,Nkoro y'ekeene y'okwegena;Nas' Egetare orabuere,Obonge bw' obosiru."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tenena bokong'u s'ekeene,nonya kegotebana nkebue;'Getar' OmorembeMotimoko 'merindo keraete."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "number": 214,
+  "language": "fr",
+  "title": "Silence! Silence!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Silence! Silence!",
+        "Un souffle descend :",
+        "Voici la présence",
+        "Du Dieu tout-puissant!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Silence! Le Maître",
+        "Nous parle en ce jour",
+        "Et nous fait connaître",
+        "Sa paix, son amour."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Silence! Silence!",
+        "Révérons ce lieu,",
+        "Oh! Que nulle offense",
+        "N'y soit faite à Dieu!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Silence! Silence!",
+        "Et recueillons-nous.",
+        "Dans la repentance",
+        "Prions à genoux."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Silence! Silence!",
+        "Moment solennel,",
+        "Où l'âme s'élance",
+        "Vers le Dieu du ciel!"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "number": 273,
+  "language": "tum",
+  "title": " 273 Uyegamirenge Pa Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 273 Uyegamirenge Pa Yesu",
+        "CS. 502 LEAN ON HIS ARMS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Uyegamirenge pa Yesu wakovwirenge kovwirenge,",
+        "Para wamugomezga iyo wakusanguruska."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "(S/T)",
+        "Yegamira m'chitemwa chake,",
+        "(A/B)",
+        "(Yegamira m'mawoko m'chitemwa chake),",
+        "(ST)",
+        "Yegamira m Lusungu Lwake,",
+        "(A/B)",
+        "(Yegamira iyo m Lusungu wake),",
+        "(S/T)",
+        "Yegamira maso kuchanya,",
+        "(A/B)",
+        "(Yegamira Mponoski maso kuchanya),",
+        "(ALL)",
+        "Yegamira Mponoski.  2.",
+        "Uyegamirenge pa Yesu wangweruskenge nthowa yako,",
+        "Rondezga kurongozga kwake umupulikire."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Uyegamirenge pa Yesu m'thulire suzgo lako lose,",
+        "Nanga katundu wawemzito umupe mkuromba."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Uyegamirenge pa Yesum'rekere vyose mupe vyose,",
+        "Mtima wa Fumu ngwa chitemwa ntha wakugomphora."
+      ],
+      "number": 4
+    }
+  ]
+}

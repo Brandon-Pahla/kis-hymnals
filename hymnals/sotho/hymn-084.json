@@ -1,0 +1,23 @@
+{
+  "number": 84,
+  "language": "st",
+  "title": "84 Bokang Molimo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Batho bohle ha re bokeng, Molimo; O re phelisang,",
+        "O bokeng bohle holimong, Bokang Ntate, Mora, Moea."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bokang Molimo, Morena, Mpho tsohle li tsoa ho Oona;",
+        "Mokeng tlase le holimo, Bokang Ntate, Mora, Moea. Amen."
+      ],
+      "number": 2
+    }
+  ]
+}

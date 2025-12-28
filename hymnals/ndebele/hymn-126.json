@@ -1,0 +1,48 @@
+{
+  "number": 126,
+  "language": "nd",
+  "title": "126 Seloko Ngahlengwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi nengom’ engiy’ thandayo; Seloko ngahlengwa.",
+        "YeNkos’ eyangihlengayo; Seloko ngahlengwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seloko ngahlengwa, Seloko ngahlengwa,",
+        "Ngi dumisa iNkosi, Seloko ngahlengwa,",
+        "Ngi dumis’ uMsindisi wami."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi noKrest’ obongekayo; Seloko ngahlengwa.",
+        "Ngi fun’ eyAkhe intando; Seloko ngahlengwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Ngi nofakaz’ okhanyayo; Seloko ngahlengwa.",
+        "Oxosh’ umnyama novalo; Seloko ngahlengwa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi lungiselwa ikhaya; Seloko ngahlengwa",
+        "Phakade lapho ngohlala; Seloko ngahlengwa"
+      ],
+      "number": 5
+    }
+  ]
+}

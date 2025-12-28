@@ -1,0 +1,47 @@
+{
+  "number": 86,
+  "language": "xh",
+  "title": "86 O Nqula Ukumkani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dumisa iNkosi eyingcwele,",
+        "Bonga ngothando lwaY’ olukhulu;",
+        "Likhaka lethu, U-Nyangelemihla,",
+        "Ohlala ebuhleni obungcwele."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xela ngothando, vuma ngofefe,",
+        "Owambeth’ ukukhanya phezulu;",
+        "Xa izulu liduma qondisisa,",
+        "Indlela, yaKhe inokoyikeka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ukondla kwaKho, nguban’ ongatsho!",
+        "Kusemhlotsheni kuse moyeni;",
+        "Kuya qukuqela ezintabeni,",
+        "Kuyithoba imvula nemibethe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Singabantwana bothuli thina;",
+        "KuWe sinethemb’ elinamandla;",
+        "Au! Inceba nothando lwaKho kuthi!",
+        "Sihlobo, Mkhuseli wethu, Somandla!"
+      ],
+      "number": 4
+    }
+  ]
+}

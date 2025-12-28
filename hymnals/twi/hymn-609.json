@@ -1,0 +1,67 @@
+{
+  "number": 609,
+  "language": "tw",
+  "title": "So Meyɛ 'Sɛnnuan' Ho Sraani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "So meyɛ 'sɛnnuan' ho sraani,",
+        "'Guammaa no 'kyidini?",
+        "Misųro sɛ mɛyɛ N'adwuma",
+        "Anaa mɛbɔ Ne din?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "So wɔmfa me nkɔ ewim wɔ",
+        "Ahotɔ pa mu, b'rč a",
+        "Binom de wɔn mogya reko",
+        "Hwehwɛ akyɛde no?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "So tamfo bi nni hɔ ma me?",
+        "Merensiw haw n' ano?",
+        "So bɔn' wiase 'i yɛ yɔnko a",
+        "Ͻde m'kɔ Nyame nkyɛn?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Sɛ sɛ meko na madi hen';",
+        "'W'ra, ma me kokod'ru;",
+        "Mɛfa ɔbrɛ ne yaw no mu",
+        "B'rč a W'asɛm ka me ho."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Hotefo bewu ko nom' de,",
+        "Nanso wobedi nim;",
+        "Wɔde gyidi aniwa no",
+        "Hu nkonimdi aky'ri."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ saa da kɛse no du na",
+        "W'asraafo no ny'naa de",
+        "Nkonimdi ntade hy'rɛn wim a,",
+        "'Nuonyam bɛyɛ wɔn de."
+      ],
+      "number": 6
+    }
+  ]
+}

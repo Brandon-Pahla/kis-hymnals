@@ -1,0 +1,50 @@
+{
+  "number": 46,
+  "language": "nso",
+  "title": " 46 BUŠA O NKOPELELE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 46 BUŠA O NKOPELELE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Buša o nkopelele, Mantšu a bophelo,",
+        "Ke bone botse bja wona, Mantšu a bophelo,",
+        "Ke Mantšu a mogau, Mantšu a a nthutago;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Ke mantšu a mabotse bjang, Mantšu a makatšang,",
+        "Ke mantšu a mabotse bjang, Mantšu a bophelo;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso o ba file bohle, Mantšu a bophelo,",
+        "Modiradibe theetša, Mantšu a bophelo,",
+        "Re a filwe fela, A re iša go Jeso;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsebišang le batho bohle, Mantšu a bophelo,",
+        "A re tlišetša khutšo, Ka Jeso M'phološi,",
+        "O a hlatswišiša, Dipelo tša rena."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 287,
+  "language": "es",
+  "title": "Rey de mi vida",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Rey de mi vida"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rey de mi vida tú eres hoy;",
+        "en ti me gloriaré;",
+        "yo por tu cruz salvado soy:",
+        "no te olvidaré."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Después de tu Getsemaní,",
+        "subiste a la cruz más cruel;",
+        "todo sufrió tu amor por mí:",
+        "yo quiero serte fiel."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mas vi la luz amanecer",
+        "de la eternidad;",
+        "te vi, Señor, aparecer",
+        "con inmortalidad."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rey de mi vida, Rey de luz,",
+        "en ti me gloriaré;",
+        "por mí moriste en la cruz:",
+        "no te olvidaré."
+      ],
+      "number": 5
+    }
+  ]
+}

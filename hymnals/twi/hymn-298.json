@@ -1,0 +1,57 @@
+{
+  "number": 298,
+  "language": "tw",
+  "title": "Medem' Bɔne Ma Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Medem' bɔne ma Yesu,",
+        "'Guammaa a Onni dɛm;",
+        "Wasoa ne ny'naa ayi me",
+        "Mmusu nnesoa ase."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mede m'afodi brɛ No,",
+        "Sɛ ɔnhoh'ro fi no;",
+        "Wɔ Ne mogya dehye nom'",
+        "Nyi nkekae nyinaa hɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mede me hia brɛ Yesu'",
+        "Mayɛ ny'naa te Ne mu;",
+        "ɔsa me nyarewa ny'naa",
+        "Afei ɔpɔn me kra."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mepɛ sɛ mesɛ Yesu,",
+        "ɔdwo na ɔwɔ dɔ;",
+        "Mepɛ sɛ mesɛ Yesu,",
+        "Agya Ba Kronkron no."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Medɔ sɛ mebɛn Yesu,",
+        "Wɔ soro kuw no mu;",
+        "Ne wɔn ato N'ayeyi,",
+        "Asua 'bɔfo nnwom no.\""
+      ],
+      "number": 5
+    }
+  ]
+}

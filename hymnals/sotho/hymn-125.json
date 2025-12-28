@@ -1,0 +1,44 @@
+{
+  "number": 125,
+  "language": "st",
+  "title": "125 Khanya Pelong",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ho teng letsatsi lithabeng, le teng le mo leoatleng;",
+        "Mahlaseli a gauda a bonoa le botaleng;",
+        "’Me leseli le leholo le tlatsa pelo ea ka,",
+        "O lutse teng ’Moloki leseli le ho Uena."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "A! Ke leseli le letle ke letsatsi ka pelong;",
+        "Jesu O tlosa masoabi ke letsatsi ka pelong."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Roleng ke siea masoabi a matsatsi a fetileng;",
+        "U nkapesa ka thabo ’me u ntlatsa le ka pako,",
+        "Lehaeng la khalalelo lee u nkhapetseng lona,",
+        "Ke nyoloha ka pelo moea oa ka o latetse."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uena ’Moloki ’nthekile hohle ha ka ha Hao;",
+        "Bone la rato la Hao le tuke ho U boka,",
+        "Lehaeng la khalelo U nkhapetseng ho lona,",
+        "Pelo, kelello lia hloa, moea ka oa latela."
+      ],
+      "number": 3
+    }
+  ]
+}

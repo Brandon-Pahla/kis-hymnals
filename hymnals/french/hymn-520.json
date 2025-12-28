@@ -1,0 +1,47 @@
+{
+  "number": 520,
+  "language": "fr",
+  "title": "Viens, lance-toi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Viens, lance-toi dans la mêlée,",
+        "Lutte et combats le bon combat.",
+        "Prends ton armure et ceins l'épée,",
+        "Christ est ta force, et Christ est là."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Entre avec joie dans la lice,",
+        "Lève les yeux vers Jésus-Christ.",
+        "Offre ta vie en sacrifice,",
+        "Il est la route, il est le prix."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Laisse soucis, fardeaux et plaintes,",
+        "De Christ l'amour ne change pas.",
+        "Fais confiance et va sans crainte :",
+        "Il peut garder de tout faux-pas."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chasse la peur : ses bras te portent,",
+        "Et sa bonté te sert d'appui.",
+        "Crois seulement : sa grâce est forte.",
+        "Tout est en Christ : regarde à lui."
+      ],
+      "number": 4
+    }
+  ]
+}

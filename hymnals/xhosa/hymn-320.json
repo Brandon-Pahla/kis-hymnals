@@ -1,0 +1,47 @@
+{
+  "number": 320,
+  "language": "xh",
+  "title": "320 Sinesipho Esikhulu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sinesipho esikhulu, esisiphiweyo thina;",
+        "Sisiphiwe ngu-Yehova, Esosipho esinaso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sinqabile esosipho Kwabo basizuzileyo;",
+        "Basithanda sona kanye, phezu kwento abanazo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Singamandla esosipho Kwabo basifumeneyo;",
+        "Sibubomi esosipho Kwabo abasemkeleyo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Esosipho singu-Yesu, Esisiphiweyo thina;",
+        "Usisipho esikhulu Kwabo abakholiweyo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Simbulela u-Yehova Ngesosipho esikhulu;",
+        "Simbulel’ u-Thixo yedwa Ngokusiph’ unyana wakhe."
+      ],
+      "number": 5
+    }
+  ]
+}

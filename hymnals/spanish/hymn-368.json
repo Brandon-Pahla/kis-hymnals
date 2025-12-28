@@ -1,0 +1,50 @@
+{
+  "number": 368,
+  "language": "es",
+  "title": "Padre amado",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Padre amado"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Padre amado,",
+        "te agradezco por tus planes,",
+        "grandes sueños tienes para mí.",
+        "Tú me guías por las sendas de esta vida",
+        "a tu lado nada faltará."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yo te amo más que a todo;",
+        "si estoy débil, tú eres fuerte",
+        "y a mi lado estás.",
+        "Te agradezco, Padre amado,",
+        "porque unes nuestras vidas",
+        "a tu corazón."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yo te amo más que a todo;",
+        "si estoy débil, tu gran fuerza",
+        "nunca fallará.",
+        "Por tu gracia, te imploro",
+        "que transformes hoy mi vida",
+        "con tu bendición."
+      ],
+      "number": 4
+    }
+  ]
+}

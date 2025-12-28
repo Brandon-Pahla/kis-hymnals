@@ -1,0 +1,28 @@
+{
+  "number": 284,
+  "language": "guz",
+  "title": "284 Yeso Ng'Endagera Y'obogima",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yeso ng'endagera Y'obogima,Buna gwakorete ang'e nyancha;As'amarik'ao ninkorigie,Nkoro nekoganetie, \"Ring'ana!\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Seseni'ekeene namanyire,Buna gwaseseneti'omogati;'Bosomba bosire n'ebisibo,Nyore omorembe ase bionsi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Mang'an'ao Moika n'obogima,Ko tindi na nguru chi'okoigwera;Naye ogokonywa n'obogima,Nganetie nyigwer'amang'an'ao"
+      ],
+      "number": 3
+    }
+  ]
+}

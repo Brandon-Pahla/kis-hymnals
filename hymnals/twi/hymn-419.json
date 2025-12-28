@@ -1,0 +1,37 @@
+{
+  "number": 419,
+  "language": "tw",
+  "title": "Ͻrenkyɛ, Nyankopɔn",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻrenkyɛ, Nyankopɔn",
+        "Abɛn bɛma 'kwaabá a",
+        "Ͻbɛwosow owu 'fasu,",
+        "Na adw'riw n'asase."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mō a moadeda dɔtem',",
+        "Monsɔre mmɛto dwom;",
+        "Mo awɔwb're nom' yɛ den de,",
+        "Mo sɔre bɛyɛ fɛ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Woduaa no mm'rɛwyɛm' ha;",
+        "Wobenyan tumi mu;",
+        "Nea woduae sɛ fam aba no,",
+        "Bɛsɔre sɛ s'ro nhw'ren."
+      ],
+      "number": 3
+    }
+  ]
+}

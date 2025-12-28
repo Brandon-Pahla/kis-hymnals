@@ -1,0 +1,77 @@
+{
+  "number": 244,
+  "language": "en",
+  "title": "244 Come To Jesus.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Come to Jesus, Come to Jesus,",
+        "Come to Jesus just now;",
+        "Just now come to Jesus,",
+        "Come to Jesus just now"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "He will save you , He will save you,",
+        "He will save you just now;",
+        "Just now He will save you, He",
+        "Will save you just now."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "He is able, He is able,",
+        "He is able just now;",
+        "Just now He is able,",
+        "He is able, He is able just now."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Call upon him, Call upon him,",
+        "Call upon him just now;",
+        "Just now call upon him,",
+        "Call upon him Just now."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "He is waiting He is waiting",
+        "He is waiting just now;",
+        "Just now He is waiting,",
+        "He is waiting just now"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Only trust him, Only trust him,",
+        "Only trust just now;",
+        "Just now only trust him,",
+        "Only trust him just Now"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "He will bless you, He will bless you,",
+        "He will bless you just now;",
+        "Just now he will bless you,",
+        "He will bless you just now."
+      ],
+      "number": 7
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 29,
+  "language": "xh",
+  "title": "29 Hlala Nam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hlala nam kuyeza ukuhlwa; Sekuyahlwa uze uhlale nam;",
+        "Apho abanye sebesoyiswa, Wena ungoyiswayo, hlala nam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuyakhawuleza okukufa kwam, Ubuhle obomhlaba buphina?",
+        "Izinto zonke zitshabalala, Wen’ ongaguqukiyo hlala nam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyakucela yiz’ uhlale nam; Ungekho, zondoyis’ izilingo;",
+        "Ungezi, Nkosi, njengodlulayo, Kodwa, Nkosi yam nced’ uhlale."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kufunek’ usolok’ uhleli nam, Umlingi uyoyiswa lufefe;",
+        "Ngubani ongaz’ abe njengawe? Ngamazolo onke solok’ unam."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Andoyiki xa ndihleli nawe, Inyemvezi azinaburara;",
+        "Kufa nencwaba ningenzani kum? Ndinoloyiso xa uhleli nam."
+      ],
+      "number": 5
+    }
+  ]
+}

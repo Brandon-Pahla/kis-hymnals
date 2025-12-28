@@ -1,0 +1,56 @@
+{
+  "number": 10,
+  "language": "es",
+  "title": "Alaba al Dios de Abraham",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Alaba al Dios de Abraham"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alaba al Dios de Abraham,",
+        "quien reina con honor;",
+        "quien es el anciano eterno",
+        "y gran Dios de amor.",
+        "Yo soy el gran Jehová",
+        "proclama a gran voz.",
+        "Me inclino y bendigo",
+        "el nombre del santo Dios."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alaba al Dios de Abraham,",
+        "quien reina en majestad.",
+        "Me elevo y busco el gozo",
+        "que a su diestra va.",
+        "La fama y el poder",
+        "todo esto dejé.",
+        "Él es mi parte, torre",
+        "y escudo que yo busqué."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Triunfante multitud",
+        "las gracias todos dan.",
+        "Al padre, Hijo, Espíritu,",
+        "cantando están.",
+        "Alaba al Dios de Abraham,",
+        "Señor del gran confín.",
+        "Pues suyo es el poder,",
+        "majestad y loor sin fin."
+      ],
+      "number": 4
+    }
+  ]
+}

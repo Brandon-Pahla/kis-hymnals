@@ -1,0 +1,60 @@
+{
+  "number": 89,
+  "language": "tum",
+  "title": " 89 Nkhuweme Kusopa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 89 Nkhuweme Kusopa",
+        "SWEET HOUR OF PRAYER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Kuromba 'mwe! Kuromba 'mwe,",
+        "Kukuruwiska vya m'charu,",
+        "Kukunditolera kwinu,",
+        "Vya ku mtima ndikuphara,",
+        "Na mu nyengo za vitima,",
+        "Mzimu wane wavwirika,",
+        "Wataskika ku urwani,",
+        "Pa kwiza kwinu m'kuromba.",
+        "Mu kuromba, mu kuromba,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nkhumfwatulira vya m'mtima,",
+        "Uyo ngwakugomezgeka,",
+        "Kovwira mzimu uranda,",
+        "Ndipo apa wandichema,",
+        "Kugomezga mazgu ghake,",
+        "Ndim'penge majuvyo ghane,",
+        "Na kulindizga m'kuromba.",
+        "Mu kuromba, mu kuromba,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Ndimo ndisangurukire,",
+        "Mpaka ndiwe m'chipumulo,",
+        "Nakudukira ku kaya,",
+        "Pa kuvura thupi ili,",
+        "Ndampokera njombe m'chanya,",
+        "Marombo sono ghamara,",
+        "Nkhuwona chisko cha Fumu."
+      ],
+      "number": 4
+    }
+  ]
+}

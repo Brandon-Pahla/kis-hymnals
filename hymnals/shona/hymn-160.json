@@ -1,0 +1,55 @@
+{
+  "number": 160,
+  "language": "sn",
+  "title": "160 Kuchengeterwa Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndachengeterwa Jesu",
+        "Nesimba raMwari",
+        "Kusina zvakaipa",
+        "Kana ndina Jesu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndachengeterwa Jesu. Mwari ndinouya",
+        "Handidi Chiro! Chiro! Chiro! Imwi muri zvese"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndachengeterwa Jesu,",
+        "Ndi’te zvamareva",
+        "Nezvamunoda imwi,",
+        "Kuita basa renyu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndachengeterwa Jesu,",
+        "Nomweya munyoro",
+        "Ndasiyana nenyika",
+        "Ndazvininipisa"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndachengeterwa Jesu",
+        "Ini ndiri wenyu",
+        "Ndizove wenyu chose",
+        "Ndizove wenyu chete"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "number": 85,
+  "language": "bem",
+  "title": "85 - NDEIMBA MAKA YA MFUMU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I SING THE MIGHTY POWER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndeimba maka ya Mfumu, Yapangile mpili:",
+        "Yapangile na mabemba, No lwelele pamo:",
+        "Ndeimba mano ye funde, Kasuba ukuteka;",
+        "Ku mweshi apele funde, Kabili ku ntanda.",
+        "2. Ndetota busuma bwakwe, Kupele cakulya;",
+        "Apangile nama shonse, Ku mashiwi yakwe;",
+        "Konse fye Mfumu ndemona, Ifintu mwachitile;",
+        "Nangu ndemona panshi fye, Nelyo mulwelele.",
+        "3. Maluba yonse yatweba lulumbi lwa Mfumu;",
+        "Amakumbi ne fipupu, Fyatumwa na Lesa;",
+        "Bonse bapoka umweo, Baletekwa na Imwe;",
+        "Takuli cifulo kuno, Kufisa ku mulu."
+      ],
+      "number": 2
+    }
+  ]
+}

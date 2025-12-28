@@ -1,0 +1,19 @@
+{
+  "number": 663,
+  "language": "tw",
+  "title": "Amen",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A. Amen, Amen.",
+        "B. Amen.",
+        "C. Amen.",
+        "D. Amen, (Amen)",
+        "E. Amen.",
+        "F. Amen, Amen, Amen."
+      ],
+      "number": 1
+    }
+  ]
+}

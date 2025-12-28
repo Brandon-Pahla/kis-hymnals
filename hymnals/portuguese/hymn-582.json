@@ -1,0 +1,44 @@
+{
+  "number": 582,
+  "language": "pt",
+  "title": "Vem, Senhor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Vem, Senhor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No Teu sagrado templo vem,",
+        "Senhor, oh, vem estar!",
+        "Aqui estamos todos nós",
+        "Pra Teu louvor cantar!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Ti rendemos graças mil,",
+        "Porque és justo e bom;",
+        "Senhor, oh, vem, concede-nos",
+        "O Teu sublime dom!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, vem! Não te demores, não!",
+        "Vem dar aos filhos Teus,",
+        "O Teu poder, e a Tua paz.",
+        "Oh, vem, Senhor, bom Deus!"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "number": 115,
+  "language": "es",
+  "title": "¡Oh, cuán grande amor!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Oh, cuán grande amor!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh, cuán grande amor!",
+        "¡Oh, cuán grande amor!",
+        "¡Oh, qué maravilla!",
+        "Es mío, Señor,",
+        "¡qué maravilla de amor!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh, cuán grande amor!",
+        "¡Tan grande es, Señor,",
+        "que a mi alma cautiva",
+        "para el Salvador!",
+        "¡Qué maravilla de amor!"
+      ],
+      "number": 3
+    }
+  ]
+}

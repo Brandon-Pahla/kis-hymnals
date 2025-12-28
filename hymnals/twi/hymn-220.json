@@ -1,0 +1,55 @@
+{
+  "number": 220,
+  "language": "tw",
+  "title": "Sɛ ɔbá a!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ ɔbá a! Sɛ ɔbá a!",
+        "Yebehu 'W'rade 'nuonyam mu, sɛ ɔbá a!",
+        "Brč a merekenkan 'sɛmpa no,",
+        "Yebehu 'W'rade 'nuonyam mu;",
+        "Yebehu 'W'rade 'nuonyam mu, sɛ ɔbá a!",
+        "Brč a Haleluya rewoso wɔ s'ro hɔ,",
+        "Brč a Haleluya rewoso wɔ s'ro hɔ,",
+        "Brč a merekenkan 'sɛmpa no,",
+        "Yebehu 'W'rade 'nuonyam mu,",
+        "Brč a Haleluya rewoso wɔ s'ro hɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ ɔbá a! Sɛ ɔbá a!",
+        "Yɛbɛte t'robɛnto no nne, sɛ ɔbá a!",
+        "Yɛbɛte t'robɛnto no nne",
+        "Na yɛahu 'W'rade abɔfom'",
+        "Yɛbɛte t'robɛnto no nne, sɛ ɔbá a!",
+        "Brč a Haleluya rewoso wɔ s'ro hɔ,",
+        "Brč a Haleluya rewoso wɔ s'ro hɔ,",
+        "Y ɛbɛte t'robɛnto no nne,",
+        "Na yɛahu 'W'rade abɔfom',",
+        "Brč a Haleluya rewoso wɔ s'ro hɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ ɔbá a! Sɛ ɔbá a!",
+        "Yɛn nyinaa bɛsɔr' ahyia No, sɛ ɔbá a!",
+        "Yɛn nyinaa bɛsɔr' ahyia No,",
+        "Brč a ɔbɛfrɛ N'ankasa de n'",
+        "Yɛn nyinaa bɛsɔr' ahyia No, sɛ ɔbá a!",
+        "Brč a Haleluya rewoso wɔ s'ro hɔ,",
+        "Brč a Haleluya rewoso wɔ s'ro hɔ;",
+        "Yɛn nyinaa bɛsɔr' ahyia No,",
+        "Brč a ɔbɛfrɛ N'ankasa de n'",
+        "Brč a Haleluya rewoso wɔ s'ro hɔ."
+      ],
+      "number": 3
+    }
+  ]
+}

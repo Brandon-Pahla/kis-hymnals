@@ -1,0 +1,44 @@
+{
+  "number": 185,
+  "language": "ny",
+  "title": "185 - Tinena Za Dziko Lija",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TO BE THERE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tinena za dziko lija, Lokoma ndi lowalalo;",
+        "Tinena ubwino wake, Tidzazizwa pofikako,",
+        "Tinena miseu yake, Makomanso a ngalewo;",
+        "Zokoma zosaneneka, Tidzazizwa pofikapo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tinena zomasukatu M’uchimo ndi m’mayesowo;",
+        "Kusiya mavuto onse, Tidzazizwa pofikako.",
+        "Tinena chikondi chawo, Zovala za oyerawo,",
+        "Za mpingo wa onka mmwamba, Tidzazizwa pofikako."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mukonze mu mtima mwanga, Ngakhale ndiyesedwatu,",
+        "Nanenso ndidziwe ndithu Khalidwe la kumwambako.",
+        "Pomwepo mu dziko lija, Lokoma ndi lowalalo,",
+        "’Dzayenda ndi angelowo, Ndi Yesu adzakhalako"
+      ],
+      "number": 4
+    }
+  ]
+}

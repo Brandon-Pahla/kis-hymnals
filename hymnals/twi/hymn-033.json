@@ -1,0 +1,48 @@
+{
+  "number": 33,
+  "language": "tw",
+  "title": "Monto Dwom Fof'ro Mma No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Monto dwom fof'ro mma No,",
+        "Anwanwade ny'naa fi No,",
+        "Munni Ne nkonim mu",
+        "'H'rusi nky'rɛ Ne tum'.",
+        "Monto dwom fof'ro mma 'W'rade."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne nkwagye ada adi",
+        "Kosi asase ano.",
+        "ɔda so kae N'adɔe Ne ne nokware;",
+        "Ne mma ho dɔ no nsakra da."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Monto dwom fof'ro mmɔ 'se,",
+        "Munyi N'ayɛ aman mu.",
+        "Ma dwonto nne, abɛn, Ne torobɛnto",
+        "Mmɔ 'se Aw'rade 'nigye mu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mo ne mmepɔ ne po mmom'",
+        "Nto ayeyi dwom dennen,",
+        "ɔde atɛntrenee Reba 'sase so,",
+        "Monto dwom fof'ro mma 'W'rade."
+      ],
+      "number": 4
+    }
+  ]
+}

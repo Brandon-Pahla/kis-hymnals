@@ -1,0 +1,54 @@
+{
+  "number": 271,
+  "language": "en",
+  "title": "271 Tho’ Your Sins Be As Scarlet",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "“Though your sins be as scarlet,",
+        "They shall be as white as snow;",
+        "“Though your sins be as scarlet,",
+        "They shall be as white as snow.",
+        "Though they be red like crimson,",
+        "They shall be as wool.”",
+        "Though your sins be as scarlet,",
+        "Though your sins be as scarlet,",
+        "They shall be as white as snow,",
+        "They shall be as white as snow."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hear the voice that entreats you,",
+        "O return ye unto God!",
+        "Hear the voice that entreats you,",
+        "O return ye unto God!",
+        "He is of great compassion,",
+        "And of wondrous love;",
+        "Hear the voice that entreats you,",
+        "Hear the voice that entreats you;",
+        "O, return ye unto God! O return ye unto God!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "He’ll forgive your transgression,",
+        "And remember them no more;",
+        "He’ll forgive your transgression,",
+        "And remember them no more;",
+        "“Look unto me ye people,”",
+        "Saith the Lord your God;",
+        "He’ll forgive your transgression,",
+        "He’ll forgive your transgression,",
+        "And remember them no more,",
+        "And remember them no more."
+      ],
+      "number": 3
+    }
+  ]
+}

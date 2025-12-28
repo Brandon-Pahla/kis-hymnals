@@ -1,0 +1,46 @@
+{
+  "number": 73,
+  "language": "xh",
+  "title": "73 Xa Angenayo u-Kumkani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Simenyeziwe esidlweni, Sindawonye esithebeni;",
+        "Koba njani ekungeneni, Xa i-Nkos’ imi?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Xa i-Nkosi ingena, Xa i-Nkosi’ imi;",
+        "Koba njani ke kuwe nam, Xa i-Nkos’ imi?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Isithsaba samev’ asikho; sesobukhosi kuy’ entloko,",
+        "Bukhulu ubuqaqawuli Xa i-Nkos’ imi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Njengo kukhazimla kombane, Izinto zonke kamsinyane,",
+        "Zakukhanya nje ngesibane, Xa i-Nkos’ imi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Siphe Nkosi isisa saKho, Sincede ngobubele baKho,",
+        "Sambese ngokulunga kwaKho, Xa Nkosi umi."
+      ],
+      "number": 4
+    }
+  ]
+}

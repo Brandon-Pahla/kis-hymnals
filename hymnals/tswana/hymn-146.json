@@ -1,0 +1,47 @@
+{
+  "number": 146,
+  "language": "tn",
+  "title": "146 O Tshele Mo Teng Ga Me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O Tshele Mo Teng Ga Me, Kgosi Ya Dikgosi,",
+        "Wena O nne karabo Potsong tsotlhe tsa me;",
+        "O tshele mo teng ga me, Dira thato ya Go.",
+        "Mme nna ke bonafatse Kgalalelo ya Go."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mmele O O Tshwaetswe, O Itshekisitswe;",
+        "A lesedi ja Gago, Le phatsime mo teng,",
+        "Fatshe le didimale, Mmele go tswa janong",
+        "Motlhanka wa Gago yo, O mo tsamaise."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tokololo Tsa One Di Lete Go Bid’wa,",
+        "Gore O di dirise, Kgotsa di se dire;",
+        "Di nne di sa tlhoafatswa Ke tiro le teko,",
+        "Ditirelong tsa Gago, Kgotsa pelaelo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mme Ke Nne Tidimalong Ya Go Siamisiwa,",
+        "Ke ntse ke Go letile Fa Wena O ntlhoka,",
+        "O tshele mo teng ga me, Kgosi ya dikgosi,",
+        "Wena O nne karabo Potsong tsotlhe tsa me."
+      ],
+      "number": 4
+    }
+  ]
+}

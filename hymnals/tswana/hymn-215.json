@@ -1,0 +1,50 @@
+{
+  "number": 215,
+  "language": "tn",
+  "title": "215 Legae Je Go Se Phetogo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Legae Je Go Seng Phetogo, Setlhabi Le Bofutsana;",
+        "E, ke legae ja masego; Ke mang yo o sa le rateng?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Leta, mme O se ngongorege,",
+        "Leta, mme O se ngongoroge,",
+        "Leta, leta, O se ngongorege.",
+        "T. &amp;B.Leta leta, leta O se ngongorege,",
+        "Leta, leta, leta, o se Ngongoroge,",
+        "Leta, leta, leta,leta, leta, O se ngongorege."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa O Le Tlas’a Morwalo Wa Gago Mono Lefatseng,",
+        "O eletse bonno jole, Leta O se ngongoroge."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Go Le Mitlwa Mo Tseleng, Gopola Ka Yo’e Rweleng",
+        "Fa O futsafala pelo Go futsafetse Morena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dira Lefifing, Botlhokung, Telo, Thapelo E Lebetswe;",
+        "Go tla tsatsi ja boikhutso, Leta O se ngongoroge."
+      ],
+      "number": 4
+    }
+  ]
+}

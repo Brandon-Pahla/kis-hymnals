@@ -1,0 +1,62 @@
+{
+  "number": 6,
+  "language": "ve",
+  "title": "6 Sedzesani Vhakhethwa.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:598",
+        "AH:415"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Sedzesani talifhani, vhonani-ha dzitsumbedzo;",
+        "Penyisani-ha dzimbone, ngauri Yesu U a da."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U a da! Yesu U a da! U a da! U da nga thendo!",
+        "U a da u vhusa vhothe, U a da, Ee, U a da"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Fulufhedziso la Yesu; Tshilidzi tshi sa fheliho;",
+        "Malofha a re kha nguvho, a sumba mushumo watsho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mivhuso yo balangana, ipfani thikho dzi tshi wa;",
+        "Vha vhudzeni zwa tshilidzi, phala-phala i do lila."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mashango ha na mulalo, u da ha Yesu hu tsini;",
+        "Hu vho do fhedzwa lifhasi, musi Yesu a tshi vhuya."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Vhavhi ,pfani ni a vhidzwa, Khotsi U tshe O lindela;",
+        "tavhanyani hu do valwa, a sathu u ri: \"Ho valwa.\""
+      ],
+      "number": 6
+    }
+  ]
+}

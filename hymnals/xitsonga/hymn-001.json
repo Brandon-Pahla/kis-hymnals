@@ -1,0 +1,24 @@
+{
+  "number": 1,
+  "language": "ts",
+  "title": "1. CHAYA MHALAMHALA WENA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Watchman, Blow The Gospel Trumpet",
+        "1. Chaya Mhalamhala Wena, U nyika Xitsundzuxo;",
+        "La Nga Ta Twa Evhangeli, A Hundza A Pona.",
+        "CHORUS",
+        "Wena Chaya Mhalamhala, U Yi Chaya Swinene, Xikwembu Xi Ri Yi Chaye, Ku Ta Pona Vanyingi.",
+        "2. Chaya Na Le Tintshaveni, Tindhawini Hinkwato;",
+        "Na Le Lwandle Twakarisa, Vhangeli Ya Vutomi.",
+        "3. Chaya Ni Le Tindleleni, Ne Ndhawin Ya Munyama;",
+        "Vula Leswi Lulameke, Hosi Yi Hi Rindzile",
+        "4. Byela La Tikeriwaka, La Lavaka Ku Phyuphya;",
+        "Muponisi Wa Hi Rhamba, U Vitana Hinkweru."
+      ],
+      "number": 1
+    }
+  ]
+}

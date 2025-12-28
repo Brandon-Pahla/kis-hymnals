@@ -1,0 +1,47 @@
+{
+  "number": 540,
+  "language": "tw",
+  "title": "Yesu Brɛfo a Wodwo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu brɛfo a Wodo,",
+        "Dan W'ani hwɛ akokoaa;",
+        "Ma m'ade nyɛ Wo mmɔbɔ,",
+        "Ma me kwan memmra Wo nkyɛn."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame 'Guammaa, mehwɛ Wo,",
+        "Wobɛyɛ me nhwɛso pa;",
+        "Wodwo, wɔ ahobrɛase,",
+        "Wo nso yɛɛ akokoaa pɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mepɛ sɛ meyɛ sɛ Wo",
+        "Ma me Wo setie koma;",
+        "Wo yam ye, wɔ hummɔb'rɔ",
+        "Mam' Wo dɔ adwen no bi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mɛka W'ayeyi aky'rɛ",
+        "Asom Wo me nkwa nna ny'naam';",
+        "Ama wiasč ahu Kristo,",
+        "'Bofra Kronkron no me mu."
+      ],
+      "number": 4
+    }
+  ]
+}

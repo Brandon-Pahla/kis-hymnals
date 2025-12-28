@@ -1,0 +1,50 @@
+{
+  "number": 342,
+  "language": "fr",
+  "title": "Sur la terre se lève",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sur la terre se lève",
+        "L'aube d'un saint sabbat,",
+        "Comme une douce trêve",
+        "Après un dur combat,",
+        "Comme un ruisseau limpide",
+        "Qui donne sa fraîcheur",
+        "À quelque terre aride",
+        "Et fait naître la fleur."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous voulons, ô bon Père,",
+        "Te donner notre cœur,",
+        "Marcher dans ta lumière",
+        "Toujours avec bonheur.",
+        "Reçois notre service",
+        "Accompli par la foi.",
+        "Vêtus de ta justice,",
+        "Nous ne vivrons qu'en toi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Délivre-nous des peines,",
+        "Du péché, de l'erreur,",
+        "Libère-nous des chaînes",
+        "Du puissant séducteur.",
+        "Ta présence adorable",
+        "Assure le pardon;",
+        "La paix sûre et durable",
+        "De ta grâce est le don.",
+        "Amen !"
+      ],
+      "number": 3
+    }
+  ]
+}

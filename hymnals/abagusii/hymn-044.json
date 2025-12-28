@@ -1,0 +1,49 @@
+{
+  "number": 44,
+  "language": "guz",
+  "title": "44 Naborigwe, Naki Ndararie!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Naborigwe naki ndararie!As'amanyinga y'engondiKoborigw' as' amaber' aye,Nabeir' omwan'oye bori."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Koborigwa!As'amanyinga y'eng'ondiKoborigwa!Nabeir'omwan' oye bori."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Koborigwa ngok' ase Yeso,Kobua buna ndakwaneOborabu bw'okoba kwaye,Nabomenye nainche bori."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndengereri' Omoboria one,Morengererie botambeNter' ekiagera tingokira,Eganga neb'obwanchani."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nindore as' obuya bwaye,'ngokiri' as'amachik' aye'Yokondenda ker' ase ndabe,kong' amatera botuko."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Inche nagacheirwe egutwa,Yabekirwe ang'e igoro'Kero toraikeranigwe,Erio as'are nimbeo."
+      ],
+      "number": 6
+    }
+  ]
+}

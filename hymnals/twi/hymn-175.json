@@ -1,0 +1,47 @@
+{
+  "number": 175,
+  "language": "tw",
+  "title": "'Duaba a Woduae Ayi 'Habammono",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Duaba a woduae ayi 'habammono,",
+        "Nea ahyɛ asase mu nna pii no,",
+        "ɔdɔ anyan bio, Nea ɔfraa 'wufom'",
+        "ɔdɔ apue sɛnea 'duaba fifi no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔde nitan kum No siee No damoa mu",
+        "Susuu sɛ ɔrentumi nsɔre bio.",
+        "ɔhyɛɛ dɔtem' sɛ duaba a wonhu;",
+        "ɔdɔ apue sɛnea 'duaba fifi no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔsɔree nkonim mu sɛ duaba repue,",
+        "Nea Odii nnansa wɔ damoa mu no;",
+        "Me W'ra teasefo no nyan fii 'wo mu;",
+        "ɔdɔ apue sɛnea 'duaba fifi no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ yɛn koma si apini di yaw a,",
+        "Wo nsa ka yɛn de yɛn ba nkwa mu bio,",
+        "Yɛn komá a awu na ada mpan no,",
+        "ɔdɔ apue sɛnea 'duaba fifi no."
+      ],
+      "number": 4
+    }
+  ]
+}

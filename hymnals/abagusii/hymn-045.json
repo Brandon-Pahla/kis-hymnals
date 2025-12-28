@@ -1,0 +1,49 @@
+{
+  "number": 45,
+  "language": "guz",
+  "title": "45 E Rituko Riomogoko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. E Rituko ri'omogoko,Nachoret' Omotori' oneTig'enkoro yan'echenge,Nakorari' obuya'onsi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rituko! mogoko!Kero Yeso ansibetie'Kanyegeria ogosaba,'Menye nomochengo rioka.Rituko! `mogoko!Kero Yeso ansibetie."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Okobwatana kwabeire,Nche n'oyoye, ner'oyoneAkang'usa nkamotunya,Nagokigwe komwatora"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Enkoro yane timoka,Ase obotoereruGose torw' as' Omonene,Ere oyore n'obuya."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Gor'ekaigw' okobwatana,okoyia kera ritukoGoik' omoerio nyekanye,Goseseni' okobwatana."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. 'Ker'omoganda o Igoro,Gotirimboka goch'enseEri Omonen'atenene,'Gambe nk'engiya botambe."
+      ],
+      "number": 6
+    }
+  ]
+}

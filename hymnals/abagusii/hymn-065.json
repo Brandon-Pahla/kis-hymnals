@@ -1,0 +1,42 @@
+{
+  "number": 65,
+  "language": "guz",
+  "title": "65 Omonene Ningwanchete",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Omonene ningwancheteKobua ebienseKwang'eire omoremb' ooKende getasarie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abange tibaramanya (bamanye)'Bwanchani obuya;Abange tibaramanya (bamanye)'Manying' ansibirie (nsibirie)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Namanyire nore ang'eKobua abenseAye n'omuya Kobua,Kobua bionsi pi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kwangokirie as'omoyo,Nsasoke KobuaNtware obwanchani bwao,Ting'ichana mono."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Omotori' omuya mono,Otar' amo naincheNatonyore omogoko,Gatorakorore."
+      ],
+      "number": 5
+    }
+  ]
+}

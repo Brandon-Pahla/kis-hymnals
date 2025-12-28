@@ -1,0 +1,30 @@
+{
+  "number": 312,
+  "language": "ny",
+  "title": "312 - Taitanidwa Kubatizidwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "CALLED TO BE BAPTIZED"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Tainanidwatu, Kuli mtsinje Yordano;",
+        "Ife tinamvadi Mau mcipululumo",
+        "CHORUS:",
+        "Ife tafikadi Kubatizidwamo,",
+        "Kuti titsukidwa Mphululupulu zathuzo.",
+        "2. Tamva Uthangawo, Wa cikondi caceco",
+        "Lapani m’mtimamo, Yesu ali kudzanso",
+        "3. Yesu anenanso, Yemwe akhulupira,",
+        "Nabatizidwa ’ye, Adzapulumukadi.",
+        "4. Tiyamikiratu Nsisi zace Yesuyo;",
+        "Watiturusadi Mdima wa zoipazo."
+      ]
+    }
+  ]
+}

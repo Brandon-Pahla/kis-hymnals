@@ -1,0 +1,27 @@
+{
+  "number": 12,
+  "language": "ts",
+  "title": "12. KU NA XIHLOVO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE’S POWER",
+        "1. Ku Na Xihlovo Xa Ngati Xi Huma Hosini, Vadyohi Va Hlantswiwile Kona Engatini;",
+        "Vadyohi Lava Nghenaka Va Hlantswiwa Swivi, Vadyohi Va Hlantswiwile Kona Engatini.",
+        "2. Mudyohi La Vambiweke U Khomeriwile, Eka N’wina Wa Xihlovo U Kume Tintswalo;",
+        "Na Loko Ndzi Ri Mudyohi Ndzi Ta Basisiwa, Eka N’wini Wa Xihlovo U Kume Tintswalo.",
+        "3. We Nyimpfana U Hi Fele Nkhensa Hosi, Vanhu Va Ponisiwile Hi Wena Swidyohwen;",
+        "Ngati Yaku Ya Swi Kota Ku Hlantswa Vudyoho, Vanhu Va Ponisiwile Hi Wena Swidyohwen.",
+        "4. Ku Sukela Nkarhi Lowu U Ndzi Vitaneke, Ndzi Fumiwa Hi Rirhandzu,Rirhandzu Ra Wena;",
+        "Ndzi Ta Tiya Eka Wena, Wena Muponisi, Ndzi Fumiwa Hi Rirhandzu, Rirhandzu Ra Wena.",
+        "5. Hosi Yi Ndzi Lunghisele Endhawu Ekaya, Hambi Swi Nga Ndzi Faneri, Wena U ndzi Fele;",
+        "U Ndzi Lunghisele Ndhawu Kona Kwale Kaya, Hambi Swi Nga Ndzi Faneri Wena U Ndzi Fele.",
+        "6. Loko U Ta Hi Vitana Ku Huma Esirheni,",
+        "Hi Ta Nkhensa Hi Tinsimu Hi Dzuna Xikwembu; Loko Xi Hi Kutsurile Tiveni Ra Rifu",
+        "Hi Ta Khensa Hi Tinsimu Hi Dzuna Xikwembu."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 56,
+  "language": "en",
+  "title": "56 Lord, I’m Coming Home.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I’ve wandered far away from God, now I’m coming home;",
+        "The paths of sin too long I’ve trod, Lord, I’m coming home."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Coming home, coming home, Never more to roam;",
+        "Open wide Thine arms of love; Lord I’m coming home."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I’ve wasted many precious years, Now I’m coming home;",
+        "I now repent with bitter tears; Lord, I’m coming home."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I’m tired of sin and straying, Lord, Now I’m coming home;",
+        "I’ll trust Thy love, believe Thy word; Lord, I’m coming home."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "My only hope, my only plea, Now I’m coming home;",
+        "That Jesus died, and died for me; Lord, I’m coming home."
+      ],
+      "number": 4
+    }
+  ]
+}

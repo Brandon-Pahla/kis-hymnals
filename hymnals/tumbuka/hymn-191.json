@@ -1,0 +1,57 @@
+{
+  "number": 191,
+  "language": "tum",
+  "title": " 191 Nadi Nkhumanya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 191 Nadi Nkhumanya",
+        "C.H. 608 BLESSED ASSURANCE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nadi nkhumanya Yesu ngwane;",
+        "\"Mwe nkhuwona nadi uchindami;",
+        "Wandiwombola, wandigula;",
+        "Ndopa zatozga mtima wane."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Agha ndi mazgu m'sumu yane,",
+        "Kumuchindika nyengo zose;",
+        "Agha ndi mazgu m'sumu yane,",
+        "Kumuchindika nyengo zose."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ndajipereka mwakukondwa,",
+        "Nkhudodoliska Mponoski wane,",
+        "Wangelo wakwikha wayegha,",
+        "Uchizi na chitemwa Chake."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Ndina chimango m'mtima mwane,",
+        "Nkhucha mwa Fumu natumbikika,",
+        "Kuwa maso na kulindizga,",
+        "Uweme wazula mwa ine."
+      ],
+      "number": 4
+    }
+  ]
+}

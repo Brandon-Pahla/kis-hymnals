@@ -1,0 +1,34 @@
+{
+  "number": 188,
+  "language": "nd",
+  "title": "188 Wafa Ngenxa Yami",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi ngomkhulu umoni, uJesu wangifela,",
+        "Waf’ ukuba ngi phile, Waf’ ukuba ngi ngafi.",
+        "Njengegatsh’ evinini, Se ngi ngoWakhe nami."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lud’ uthando lweNkosi, Phezulu, lu phakeme;",
+        "Lu yadlula ulwandle, Lu yahlala anini;",
+        "Lwangizuza ngi sona, Ngangingamdingi Yena"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nakhona ngi ng’umoni, Ukrestu yiko konke;",
+        "Ukwazi kahle konke, Ukuhlupheka kwami;",
+        "Ngi zophephela kuYe, Emhlabeni ozayo"
+      ],
+      "number": 3
+    }
+  ]
+}

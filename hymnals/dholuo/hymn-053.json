@@ -1,0 +1,35 @@
+{
+  "number": 53,
+  "language": "luo",
+  "title": "53 Wapako Ruoth Ma Jawarwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Wapako Ruoth ma Jawarwa,Muche oriwowa;To koseriwowa kamaWalam gi chuny achiel."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ochikowa wagene ka,wabed achiel kuome;Oneg` wawuoth kanyaklaka wachiko yor polo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ochiwo michne nijogomageno nyinge chuth;Wanyiso ng`wonone kama,kwaherore maber."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Kwawinjore maber e piny,Kwamor kuom Yesu Ruoth,To mor manade manobet kwachokore e polo."
+      ],
+      "number": 4
+    }
+  ]
+}

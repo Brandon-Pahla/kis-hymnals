@@ -1,0 +1,43 @@
+{
+  "number": 472,
+  "language": "es",
+  "title": "Jesús, mi guía es",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Jesús, mi guía es"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesús, mi guía es,",
+        "mi amigo y protector,",
+        "refugio de todo mal;",
+        "y cuando temor me da,",
+        "yo confío en él.",
+        "Yo confío en él;",
+        "aunque débil soy",
+        "me da su poder y su amor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesús, mi Redentor,",
+        "me guardas del temor,",
+        "y llenas mi corazón",
+        "con cantos de salvación;",
+        "confiaré en ti.",
+        "Yo confío en ti;",
+        "aunque débil soy",
+        "me das tu poder y tu amor.",
+        "Yo confío en ti."
+      ],
+      "number": 3
+    }
+  ]
+}

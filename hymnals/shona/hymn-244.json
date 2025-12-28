@@ -1,0 +1,63 @@
+{
+  "number": 244,
+  "language": "sn",
+  "title": "244 Uya Kuna Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kuna Jesu, kuna Jesu, Kuna Jesu zvino",
+        "Zvino uya kuna Jesu,Kuna Jesu zvino"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuponeswa, kuponeswa,Kuponeswa zvino",
+        "Zvino uya kuna Jesu,Kuponeswa zvino"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akwanisa, akwanisa,Akwanisa zvino",
+        "Zvino uya kuna Jesu, Akwanisa zvino"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wadaidzwa, wadaidzwa, Wadaidzwa zvino",
+        "Zvino uya kuna Jesu,Arindira zvino"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Arindira, arindira,Arindira zvino",
+        "Zvino uya kuna Jesu, Arindira zvino"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Musimbire, musimbire,Musimbire zvino",
+        "Zvino uya kuna Jesu,Musimbire zvino"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Komborerwa, kombrerwa,Komborerwa zvino;",
+        "Zvino uya kuna Jesu,Komborerwa zvino;"
+      ],
+      "number": 7
+    }
+  ]
+}

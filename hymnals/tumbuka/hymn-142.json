@@ -1,0 +1,59 @@
+{
+  "number": 142,
+  "language": "tum",
+  "title": " 142 Kutowa Dazi Lituwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 142 Kutowa Dazi Lituwa",
+        "HOW SWEET"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Kutowa dazi lituwa",
+        "ndakuruska ghose,",
+        "Tireke vya charu vyose",
+        "tikhumbe kuchanya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mwe kutowa kumusopa",
+        "tigowokereke,",
+        "Na chigomezgo tinene,",
+        "\"Dada mwa kuchanya\"."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Kunozga kup'lika mazgu",
+        "uyo gham'fikira,",
+        "Ghavwire awo wazgoka",
+        "pakuya kuchanya."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Usange tekha kwananga",
+        "tatondeka K'reka,",
+        "Ndi Fumu yithu",
+        "Yesu pera wangatisuka."
+      ],
+      "number": 5
+    }
+  ]
+}

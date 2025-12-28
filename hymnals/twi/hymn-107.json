@@ -1,0 +1,57 @@
+{
+  "number": 107,
+  "language": "tw",
+  "title": "Nyame Nam Ahintasɛm So",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame Nam Ahintasɛm So",
+        "N'ɔyɛ N'anwanwade;",
+        "ɔde N'anammɔn sisi pom',",
+        "ɔnante ahum so."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mo ahotefo, munnsuro",
+        "Mununkum huhu no,",
+        "Mmɔb'rɔhun' wom, na ɛbɛtew",
+        "De nhyira ama mo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mommpɛ ntɛm mmmu Aw'rade ntɛn,",
+        "Mmom, montwere Ne dom;",
+        "Na kwan a emu yɛ yaw no",
+        "Bɛdan anigye kwan."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "N'atirimpɔ bɛba mu ntɛm",
+        "Dɔnhwerew biara mu;",
+        "Sɛ mfiase yɛ nwene mpo a",
+        "Awiei no bɛyɛ dɛ."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akyinnyefo bɛfom ɔkwan,",
+        "Wɔrenhu Ne nnwumam';",
+        "Nyame n' ɔte N'akwan aseɔ",
+        "ɔbɛky'rɛ mu pefee."
+      ],
+      "number": 5
+    }
+  ]
+}

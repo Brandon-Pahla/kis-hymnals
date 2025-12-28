@@ -1,0 +1,37 @@
+{
+  "number": 254,
+  "language": "nd",
+  "title": "254 Dumis’ uJehova",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dumis’ uJehova Khon’ emagumbini",
+        "Vuk’ ubonge! Nas’ emukhathini",
+        "Zez’ uthando lwAkhe;",
+        "Nesis’ esikhona Ngokwenziwe"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Beth’ impalampala, Kwandiswe ngeqolo",
+        "Ngangodumo! Makulethw’ imtshingo",
+        "Kuhutshw’ injabulo, Phakamis’ iphimbo",
+        "Ngak’ okwAkhe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lapho ubabaza Thint’ intambo lezi",
+        "Kube mnandi! Yen’ uyashisiya",
+        "Wonke angaphezi, Esh’ ub’khulu bAkhe",
+        "EMdumisa"
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 9,
+  "language": "tw",
+  "title": "Ma Wiase Nnipa Nyinaa Nto",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ma wiase nnipa nyinaa nto dwom sɛ:",
+        "Me Nyame Hen'!",
+        "S'ro nni akyi koraa,",
+        "N'ayeyi bɛfro hɔ;",
+        "'Sase nni fam mm'roso,",
+        "N'ayeyi fi hɔ ba.",
+        "Ma wiase nnipa nyinaa nto dwom sɛ:",
+        "Me Nyame Hen'!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma wiase nnipa nyinaa nto dwom sɛ:",
+        "Me Nyame Hen'!",
+        "Asafo no mmɔ 'se",
+        "Hwee ntumi nsi wɔn kwan;",
+        "Nea ɛkyɛn so, koma",
+        "Nso yɛ n'afa mu de:",
+        "Ma wiase nnipa nyinaa nto dwom sɛ:",
+        "Me Nyame Hen'!"
+      ],
+      "number": 2
+    }
+  ]
+}

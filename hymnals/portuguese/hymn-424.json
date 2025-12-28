@@ -1,0 +1,46 @@
+{
+  "number": 424,
+  "language": "pt",
+  "title": "Como a Brisa Suave",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Como a Brisa Suave"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Como a brisa suave dos prados em flor,",
+        "É Tua voz, ó meu Mestre, pra mim,",
+        "Quando às vezes, no auge da angústia e dor,",
+        "Minha mão quase deixa Tua mão."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Como a brisa suave Tua voz é, Senhor,",
+        "Como a brisa de um claro arrebol;",
+        "Dos momentos de sombras liberto já estou,",
+        "Pois ouvi Tua voz me falar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Como a brisa suave Tua voz é, Senhor,",
+        "Quando a noite me encontra tão só;",
+        "De minha'lma o fardo deixou de existir,",
+        "Quando as nuvens fizeste fugir."
+      ],
+      "number": 4
+    }
+  ]
+}

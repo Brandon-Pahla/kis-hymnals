@@ -1,0 +1,35 @@
+{
+  "number": 346,
+  "language": "guz",
+  "title": "346 Twarema Emegondo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Twarema emegondo,Na koyebusura,Nyasae orw'embura,N'oborendi obuya;Areta riberera,Areta 'mbokendu,'Mbe'engiya n'omobaso,N'embura y'okwamia"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ebiegw'ebiya,Nigoro bikorwa,Mbuya, Mbuy' as'Omonene,'s'obwanchani bwaye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mbuya, Tat'Omwachani,As'amaya onsi,Risimeka, rigesa,'Bogima, 'ndagera;Ntobwati ebitorarwe,As'obwanchani obo,Ko ekioganeti'Aye,Ne chinkoro chiato."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Titokoba'abande,Bun'Er'atoeire!Tobakony'abanto,Kogenda Igoro;Torw'esadaka yaito,Yangoyi 'abotomwa,Bwa Kristo im'as'ense,N'ogotoreka bo."
+      ],
+      "number": 4
+    }
+  ]
+}

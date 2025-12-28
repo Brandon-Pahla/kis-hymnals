@@ -1,0 +1,54 @@
+{
+  "number": 87,
+  "language": "pt",
+  "title": "O Meu Pastor é o Bom Jesus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### O Meu Pastor é o Bom Jesus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "0 meu Pastor é o bom Jesus,",
+        "Jamais me deixará.",
+        "Às águas calmas me conduz,",
+        "E me protegerá."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus minh'alma quer nutrir,",
+        "Em pastos de amor;",
+        "E meu caminho dirigir,",
+        "Por onde quer que for."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Com Seu cajado e Seu bordão",
+        "Jesus me guardará;",
+        "E quando em vale de aflição,",
+        "Consolo me dará."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Com óleo puro vem me ungir;",
+        "Não mais terei temor.",
+        "E para sempre habitarei",
+        "Na casa do Senhor."
+      ],
+      "number": 5
+    }
+  ]
+}

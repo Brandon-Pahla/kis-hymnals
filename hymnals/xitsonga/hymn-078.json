@@ -1,0 +1,24 @@
+{
+  "number": 78,
+  "language": "ts",
+  "title": "78. NDZI RHANDZA KU MI BYELA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I LOVE TO TELL THE STORY",
+        "1. Ndzi Rhandza Ku Mi Byela Timhaka Ta Tilo, Timhaka Ta Yesu Ni Rirhandzu Ra Yena,",
+        "CHORUS",
+        "Ndzi Rhandza Ku Mi Byela Mhaka Ya Ntiyiso, I Mhaka Yo Khorwisa Ku Hava Yin’wana.",
+        "Ndzi Rhandza Ku Mi Byela Mhaka Yo Hlawuleka, Mhaka Leyi Nga Ya Khale Ya Nsovo Wa Yesu.",
+        "2. Ndzi Rhandza Ku Mi Byela, Mhaka Yo Nandziha Ku Tlula Nsuku, Na Ku Navela Ka Hina,",
+        "Ndzi Rhandza Ku Yi Vula Yi Ndzi Tirherile, Hinkwalaho Sweswi Ndzi Yi Byela Hinkwenu.",
+        "3. Ndzi Rhandza Ku Mi Byela, Mhaka Yo Tsakisa, Hi Minkarhi Hinkwayo Ya Tsakisa Ngopfu,",
+        "Ndzi Rhandza Ku Yi Vula, Ka La Nga Tiviki, Mhaka Ya Ku Ponisa Ya Rito Ra Hosi.",
+        "4. Ndzi Rhandza Ku Yi Vula Ka La Yi Tivaka, Va Khomiwe Hi Torha, Va Navela Rito,",
+        "Loko Ndzi Ri Tilweni, Ndzi Ta Yimbelela, Mhaka Leyi Ya Tiko, Ndzi Yi Rhandza Ngopfu."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "number": 30,
+  "language": "ny",
+  "title": "30 - Dzuwa Lili Kulowa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "DAY IS DYING IN THE WEST"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Dzuwa lili kulowa, Mlungu atipumitse;",
+        "Linda ndi kupemphera mmene nyali zili kuwala m’mwamba.",
+        "CHORUS:",
+        "Woyera Ambuye wa makamu!",
+        "Za m’mwamba ndi za dziko zitamanda Inu,",
+        "Mlungu Wamkulu.",
+        "2. Ambuye wamoyo’Nu, Ife tasonkhanatu,",
+        "Kufuna nkhope Yanu; mutifungatire’fe m’khola Lanu",
+        "3. Pamene mthunzi ugwa, Mumatifungatira;",
+        "Mwa chisomo chanutu, Mitima yathu ikwera kwa Inu.",
+        "4. Tikamwalira ife osaona za dziko,",
+        "Ambuye wachifundo, mutidzutsenso tsiku lotsiriza."
+      ]
+    }
+  ]
+}

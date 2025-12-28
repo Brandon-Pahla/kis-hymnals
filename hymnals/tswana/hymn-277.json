@@ -1,0 +1,37 @@
+{
+  "number": 277,
+  "language": "tn",
+  "title": "277 Sedi Je Le Nolo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sedi Je Le ’Nolo Mo Lefifing, Ntsamaisa:",
+        "Go lefifi, ke kgakala le gae; Ntsamaisa:",
+        "Ntshegetsa ’nao ga ke lope pono",
+        "Ya kgakala Gaufi go ntekane."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gale Ne Ke Sa Rapele Ke Re, Ntsamaisa:",
+        "’Ne k’itlhaolela tsela mme janong Ntsamaisa:",
+        "Ke ne ke ithata ke sa boife,",
+        "Se nkgakologelwe boikgodisong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Ntse O Ntshegofatsa, Mme O Tla Nna O Nkgoga",
+        "Dikgweng, majeng, nokeng tse bogale Go ya mosong,",
+        "Mme mosong baengele ba ’nyenya,",
+        "Ba ke ba ratileng gale, janong."
+      ],
+      "number": 3
+    }
+  ]
+}

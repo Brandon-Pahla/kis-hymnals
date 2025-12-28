@@ -1,0 +1,59 @@
+{
+  "number": 325,
+  "language": "fr",
+  "title": "La nature parle d'un Créateur",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "La nature parle d'un Créateur",
+        "Et le vent murmure sa grandeur,",
+        "Mais, si l'on me parle d'un Sauveur,",
+        "Qu'est-ce donc pour moi ?",
+        "La nature parle d'un Créateur",
+        "Et le vent murmure sa grandeur,",
+        "Mais, si l'on me parle d'un Sauveur,",
+        "Qu'est-ce donc pour moi ?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Jusqu'au jour où voulant face à face,",
+        "Rencontrer celui qui me créa,",
+        "Oui, j'ai compris qu'il est mieux qu'un simple nom,",
+        "Qu'un simple éclat, que tout montre sa grâce.",
+        "Qu’il vient vers moi pour prendre ma main,",
+        "En m'accompagnant soir et matin,",
+        "Et me menant dans le droit chemin,",
+        "Il est tout pour moi !",
+        "Jusqu'au jour où voulant face à face,",
+        "Rencontrer celui qui me créa,",
+        "Oui, j'ai compris qu'il est mieux qu'un simple nom,",
+        "Qu'un simple éclat, que tout montre sa grâce.",
+        "Qu’il vient vers moi pour prendre ma main,",
+        "En m'accompagnant soir et matin,",
+        "Et me menant dans le droit chemin,",
+        "Il est tout pour moi !",
+        "Oui, il est tout pour moi !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "On me dit qu'un Sauveur nous est né",
+        "Il y a longtemps en Galilée;",
+        "S'il est venu pour nous racheter,",
+        "Qu'est-ce donc pour moi ?",
+        "On me dit qu'un Sauveur nous est né",
+        "Il y a longtemps en Galilée;",
+        "S'il est venu pour nous racheter,",
+        "Qu'est-ce donc pour moi ?"
+      ],
+      "number": 3
+    }
+  ]
+}

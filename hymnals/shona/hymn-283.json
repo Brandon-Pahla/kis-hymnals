@@ -1,0 +1,47 @@
+{
+  "number": 283,
+  "language": "sn",
+  "title": "283 Mumwe Achapinda Ne Mazambara",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mumw’ achapinda nezambara, Gare, gare, gare, gare",
+        "Kune mbiri yandamirira, Ndiwe here, Ndini here?",
+        "Mumwe \\‘chafamba pandarama, Kune miono yakanaka",
+        "Todya rufaro rwataurwa, Ndiwe here? Ndini here?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mumw’ achatura muchinjiko, Gare, gare, gare, gare",
+        "Vamwe vachapiwa ndarama, Ndiwe here? Ndini here?",
+        "Mumwe achazoona mambo, Matambudziko azopera",
+        "Ozofara naye narini, Ndiwe here? Ndini here?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mumw’ achapfigirwa musiwo, Gare, gare, gare, gare",
+        "Inzvi roti handikuzivi, Ndiwe here? Ndini here?",
+        "Mumwe achadana, haanzvikwi, Otambura m’siwo wapfigwa",
+        "Mumwe oshaya mubairo, Ndiwe here? Ndini here?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mumw’ anoimba rukuriro, Gare, gare, gare, gare",
+        "Tomukudza nevaponeswa, Ndiwe here? Ndini here?",
+        "Mumwe achazochingamidza, Vadiwa vepasi rapfuura",
+        "Tozova mumbiri narini, Ndiwe here? Ndini here?"
+      ],
+      "number": 4
+    }
+  ]
+}

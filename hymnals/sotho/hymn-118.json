@@ -1,0 +1,56 @@
+{
+  "number": 118,
+  "language": "st",
+  "title": "118 Jesu O Lefile.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Matla a fokola",
+        "’Moloki O rialo,",
+        "Lebela u rapele,",
+        "Ho ’na thola tsohle."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesu O lefile,",
+        "’Na ke molato,",
+        "’Be ne se nkhoramese,",
+        "O se hlatsoisitse."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ruri joale, Morena,",
+        "Ke bona matla a hao,",
+        "A fetola lepera,",
+        "A nolofatsa pelo,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ho letho le ho ’na,",
+        "Le lokelang mohau,",
+        "Ke hlatsoa seaparo,",
+        "Maling a Konyana."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke ema teroneng,",
+        "Pel’a Hae phethehong,",
+        "Meqhaka e roleloa",
+        "Maotong a Jesu."
+      ],
+      "number": 4
+    }
+  ]
+}

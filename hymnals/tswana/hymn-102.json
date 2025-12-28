@@ -1,0 +1,59 @@
+{
+  "number": 102,
+  "language": "tn",
+  "title": "102 Moeng O Teng Mojako",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Moeng O Teng Mojako, Mmulele;",
+        "(Bulela Mmoloki, O mmulele);",
+        "O na A le teng pele, Mmulele;",
+        "(Bulela Mmoloki, O mmulele);",
+        "Mmulele A ise A ye, Mmulele Moitshepi,",
+        "Jeso Morwa Modimo, Mmulele",
+        "(Bulela Mmoloki, O mmulele)."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mmulele Pelo Ya Go A Tsene; Mmulele;",
+        "(Bulela Mmoloki O mmulele);",
+        "Fa O leta Oa feta, Mmulele;",
+        "(Bulela Mmoloki, O mmulele);",
+        "Mmulele ke tsal’a go, O tla go sireletsa,",
+        "Go ya ka bosakhutleng, Mmulele,",
+        "(Bulela Mmoloki, O mmulele)."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Janong Wa Mo Utlwa? Mmulele:",
+        "(Bulela Mmoloki O mmulele);",
+        "Janong Mo itlhaolele, Mmulele;",
+        "(Bulela Mmoloki, O mmulele);",
+        "O eme fa mojako, O tla go fa boipelo,",
+        "O tlotle ina ja Gwe, Mmulele,",
+        "(Bulela Mmoloki, O mmulele)."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moeng Wa Legodimo, Mmulele",
+        "(Bulela Mmoloki, O mmulele);",
+        "O tla nna mo modirong, Mmulele;",
+        "(Bulela Mmoloki, O mmulele);",
+        "O tla go itshwarela, Fa tsa lefatshe di ile,",
+        "O tla go isa gae, Mmulele,",
+        "(Bulela Mmoloki, O mmulele)."
+      ],
+      "number": 4
+    }
+  ]
+}

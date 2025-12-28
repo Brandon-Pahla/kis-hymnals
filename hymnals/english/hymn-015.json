@@ -1,0 +1,47 @@
+{
+  "number": 15,
+  "language": "en",
+  "title": "15 Jesus Loves Me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus loves me! This I know, For the Bible tells me so;",
+        "Little one to Him belong, They are weak but He is strong"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yes Jesus loves me, Yes Jesus loves me",
+        "Yes Jesus loves me; …The Bible tells me so."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus loves me! He who died, Haven’s gates will open wide;",
+        "He will wash away my sins. Let His little child come in."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus loves me! Loves me still, when I’m sad or weak and ill;",
+        "From His shinning Throne on high,",
+        "Comes to watch me where I lie."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus loves me! He will stay, Close beside me all the way,",
+        "If I love Him, by and by He will take me home on high."
+      ],
+      "number": 4
+    }
+  ]
+}

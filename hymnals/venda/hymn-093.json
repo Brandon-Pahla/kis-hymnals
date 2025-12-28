@@ -1,0 +1,45 @@
+{
+  "number": 93,
+  "language": "ve",
+  "title": "93 duvha la U Awela Na Dakalo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:382",
+        "AH:389"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.duvha la u awela, duvha la dakalo,",
+        "li tusa matungu, na zwothe zwi dinaho;",
+        "Vha a mu renda nga-lo, na vha makoleni,",
+        "Vha tshi mu khoda vha ri, nd Mukhethwa-Khethwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. U bako la vhukuma, Musi wa madumbu",
+        "Tsimu i no shelwa madi a Pharadiso",
+        "Madi a shothodzo shangoni la mathupho",
+        "Kha iwe ri vho vhona zwa shango li daho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. duvha la u diphina, lavhudi vhathuni,",
+        "line ra humbula, nga zwothe zwa tadulu;",
+        "Nga ili duvha rothe ri wana mashudu,",
+        "Ra awela rothe, nga u ralo tadulu."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "number": 89,
+  "language": "bem",
+  "title": "89 - YAWAMA E YAWAMA PE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SWEET HOUR OF PRAYER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yawama e yawama pe, Inshita kupepa Lesa;",
+        "Na ku cipuna ca Tata, Ukwabo bufwayo bwandi;",
+        "Mu nshita sha ubulanda, Mutima wandi wafwile",
+        "Napusuka ku fiteyo, Pantu 'nshita yakupepa.",
+        "2. Yawama e yawama pe, Inshita kupepa Lesa;",
+        "Naishiba cine lelo, Katula akapalama;",
+        "Anjebele kumufwaya, Kusumina mu cikuku;",
+        "Nkapela malanda yonse, No kusekela kupepa.",
+        "3. Yawama e yawama pe, Inshita kupepa Lesa;",
+        "Lintu napwishe milimo, Yesu takalabe ine;",
+        "Akampelo mweo wa pe, Na ku mulu icifulo;",
+        "Nge nshita lintu yafika, Nkamone mpumi yakwe pe."
+      ],
+      "number": 2
+    }
+  ]
+}

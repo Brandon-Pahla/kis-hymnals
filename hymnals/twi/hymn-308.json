@@ -1,0 +1,48 @@
+{
+  "number": 308,
+  "language": "tw",
+  "title": "Wo De Kōraa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Agyenkwa, mɛyɛ Wo de koraa;",
+        "Ky'rɛky'rɛ me, ky'rɛky'rɛ me;",
+        "Mɛyɛ Wo pɛ, 'Wura, nyɛ me de,",
+        "Boa me, boa me nnɛ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wo de kōraa (O 'W'ra)",
+        "Wo de kōraa (O 'W'ra)",
+        "Wo de kōraa, 'yi ne me bɔ,",
+        "Wo de kōraa (O 'W'ra)",
+        "Wo de kōraa (O 'W'ra)",
+        "Wo de kōraa, O 'W'ra, seesei."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wiase anigye, sika ne din",
+        "Wonka hō a, ɛyɛ dɛn?",
+        "Wo din nti mɛpo ne nyinaa 'ra",
+        "'Yi ne m'ahode."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ meto wiase anigye gų a,",
+        "Twiw bɛn me, twiw bɛn me,",
+        "Minya ade nyinaa 'ra W'anim,",
+        "M'aw'rɛkyekye ni."
+      ],
+      "number": 3
+    }
+  ]
+}

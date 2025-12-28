@@ -1,0 +1,37 @@
+{
+  "number": 315,
+  "language": "xh",
+  "title": "315 Thethanani Futhi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Thethanani kafuthi, Nichwayitisana;",
+        "Nijokise ngamazwi Nise bunyulwini;",
+        "Ningalingwa zihendo, sithsaba sigcinen’",
+        "Khalipha wena mhambi, Wohl’ uzuz’ ibhaso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Noba ngabam, utsh’ u-Yes’, ngomhla lowo mkhulu",
+        "Xa ndihlanganis’ aBam, Ndibakhulula mna;",
+        "Wonicocisa yena Nibe nexabiso,",
+        "Aze aningenise Ezulwini laKhe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sogcob’ ebukumkanin’ Bo-Mkhululi wethu,",
+        "Sovuyiswa luthando Olungenambali;",
+        "Sibeth’ ihadi zethu, Ngengom’ ezimnandi,",
+        "Sisithi, haleluya, emaphakadeni."
+      ],
+      "number": 3
+    }
+  ]
+}

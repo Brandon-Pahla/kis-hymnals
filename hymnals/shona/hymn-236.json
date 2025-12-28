@@ -1,0 +1,46 @@
+{
+  "number": 236,
+  "language": "sn",
+  "title": "236 Mutsa Wake Werudo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Muka mwoyo murufara, Imba rukudzo rwaTenzi",
+        "Anoda ndimuimbire, Mutsa wake wakanaka"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mutsa wake wakanaka, Mutsa wake wakanaka"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akandivona muzvivi, Akandidisisa kwazvo",
+        "Ndiye akandiponesa, Mutsa wakanaka"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana mukati memhandu, Kana pasi rindishore",
+        "Anotungamira mweya, Mutsa wake wakanaka"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kanapo matambudziko, Azowandisisa seyi",
+        "O mira nemweya wangu, Mutsa wakanaka"
+      ],
+      "number": 5
+    }
+  ]
+}

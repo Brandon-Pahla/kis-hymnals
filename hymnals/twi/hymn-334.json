@@ -1,0 +1,49 @@
+{
+  "number": 334,
+  "language": "tw",
+  "title": "Wo, Nhyira Biara Nsuti, Bra!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wo, nhyira biara nsuti, bra!",
+        "Mam' koma nto W'ayeyi;",
+        "Mmɔb'rɔhun' nsu a ɛsen daa,",
+        "Gye yɛn hɔ ah'rusi nnwom.",
+        "Ky'rɛ me ma mentontom Wo daa;",
+        "Na menky'rɛ Wo papayɛ,",
+        "B'rč a daa 'nuonyam anidaso",
+        "De dɛw ne dɔ hyɛm' kra ma."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha na misi m'Ebeneser,",
+        "Ha na Wo dom nti, maba;",
+        "W'anisɔ nti, m'ani da so",
+        "Sɛ merebedu fie dwoo.",
+        "Yesu hwehwɛɛ me, hɔho a",
+        "Mifi Nyame buwm' fom kwan;",
+        "ɔde N'adehye mogya no",
+        "Pata yii me fii mmusum."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔdom nti meyɛ ɔkafo,",
+        "Etwa sɛ meyɛ saa daa;",
+        "Wo papayɛ nkɔnsɔnkɔnsɔn",
+        "Nkyekky're me mmɔ Wo ho den.",
+        "'Wura, akobɔ wɔ me bram',",
+        "Metaa migyaw me Nyame,",
+        "Me koma ni, O sɔ ano",
+        "Sɔ ano ma s'ro man."
+      ],
+      "number": 3
+    }
+  ]
+}

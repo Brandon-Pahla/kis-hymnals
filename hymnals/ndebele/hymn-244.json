@@ -1,0 +1,63 @@
+{
+  "number": 244,
+  "language": "nd",
+  "title": "244 Woza Kumsindisi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "‘Za kuJesu, ‘Za kuJesu, ‘Za kuJesu manje;",
+        "Manje, Wena kuYe, Woza kuYe manje."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wosindiswa, Wosindiswa, Wosindiswa manje;",
+        "Manje, Wosindiswa, Woza kuYe manje."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unamandla, Unamandla, Unamandla, manje;",
+        "Manje, Unamandla, Woza kuYe manje."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cela kuYe, Cela kuYe, Cela kuYe, manje;",
+        "Manje, Ulindele, Woza kuYe manje."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ulindele, Ulindele, Ulindele manje;",
+        "Manje, Ulindele, Woza kuYe manje."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Themba kuYe, Themba kuYe, Themba kuYe, manje;",
+        "Manje, Themba kuYe, Woza kuYe, manje."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wobusiswa, Wobusiswa,Wobusiswa manje;",
+        "Manje, Wobusiswa, Woza kuYe manje."
+      ],
+      "number": 7
+    }
+  ]
+}

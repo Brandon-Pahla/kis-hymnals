@@ -1,0 +1,35 @@
+{
+  "number": 221,
+  "language": "guz",
+  "title": "221 Ang'e N' Aye Nyasae",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ang'e n'Aye Nyasae,Ang'e kobua,Omonene one,Ang'e kobua.Amatuko onsi,Nimbe ang'e naye,Ang'e n'aye Nyasae,Ang'e kobua."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nonya nagendire'Mosunte ime,Nay' obotameroEmiaka yonsiAse okorotanindigetie kobaAng'e naye Nyasae,Ang'e kobua."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Bionsi Aye kwang'eire,N'amaber' ao,'Malaika bonsiBandangeirie,Korwa ense eye,As'ore IgoroAng'e n'aye Nyasae,Ang'e kobua."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ne chinguru chiane,Ninkobake,Egetare kianeKia obuyaEmechando yonsi,Twaretir' as'ore;Ang'e naye NyasaeAng'e kobua."
+      ],
+      "number": 4
+    }
+  ]
+}

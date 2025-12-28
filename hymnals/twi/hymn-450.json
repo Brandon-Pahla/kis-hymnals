@@ -1,0 +1,37 @@
+{
+  "number": 450,
+  "language": "tw",
+  "title": "Sion Fɛfɛ a Wɔayɛ No S'ro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sion Fɛfɛ a wɔayɛ no s'ro",
+        "Kuro fɛfɛ a medɔ no;",
+        "Nhene pa apon fɛfɛ,",
+        "Dan fɛfɛ, Nyame ne ne hann."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nnua a ɛyɛ fɛ wɔ hɔ daa,",
+        "Ͻsow aba fɛfɛ daa daa;",
+        "Asubɔnten fɛfɛ sen hɔ,",
+        "Nsuti fɛfɛ no renwe da."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Henkyɛw fɛfɛ hyɛ obiara,",
+        "Nkonimdifo no kura brɛw;",
+        "Nɔtade fɛfɛ hyehyɛ wɔn",
+        "Wɔn a wɔkɔ hɔ ny'naa ho tew."
+      ],
+      "number": 3
+    }
+  ]
+}

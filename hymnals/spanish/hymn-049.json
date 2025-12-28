@@ -1,0 +1,54 @@
+{
+  "number": 49,
+  "language": "es",
+  "title": "Cristo, ya la noche cierra",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cristo, ya la noche cierra"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo, ya la noche cierra;",
+        "al turbado da solaz;",
+        "nuestro error te confesamos;",
+        "da reposo, calma y paz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando el enemigo asalte",
+        "y ande en torno destrucción,",
+        "que tus ángeles, oh Padre,",
+        "den amparo y protección."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aunque lóbrega la noche,",
+        "siempre vernos tú podrás;",
+        "vigilante, sin cansarte,",
+        "a tu pueblo guardarás."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si la muerte nos alcanza",
+        "en el lecho nuestro aquí,",
+        "que Jesús en su gran día",
+        "nos despierte en gloria allí."
+      ],
+      "number": 5
+    }
+  ]
+}

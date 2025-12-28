@@ -1,0 +1,37 @@
+{
+  "number": 17,
+  "language": "fr",
+  "title": "Le monde est dans ses mains",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Le monde est dans ses mains, les mains du Créateur.",
+        "J’entends les chants, les doux accents qu’inspire sa splendeur.",
+        "Le monde est dans ses mains; que j’aime à contempler",
+        "Les cieux, les mers, les arbres verts, les fleurs et les rochers!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le monde est dans ses mains; les gais oiseaux chanteurs,",
+        "Le jour naissant, le pur lis blanc célèbrent leur Seigneur.",
+        "Le monde est dans ses mains, tout par lui resplendit",
+        "Et dans le vent même je l’entends : partout sa voix me suit."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le monde est dans ses mains, je ne peux l’oublier!",
+        "Si la douleur emplit nos coeurs, Dieu reste le premier.",
+        "Le monde est dans ses mains, mon coeur apaise-toi :",
+        "Il tient en main notre destin; nous sommes fils du Roi."
+      ],
+      "number": 3
+    }
+  ]
+}

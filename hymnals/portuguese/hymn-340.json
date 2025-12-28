@@ -1,0 +1,44 @@
+{
+  "number": 340,
+  "language": "pt",
+  "title": "Saudade",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Saudade"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Da linda pátria estou mui longe, triste eu estou;",
+        "Eu tenho de Jesus saudade; quando será que vou?!",
+        "Passarinhos, belas flores, fazem-me almejar",
+        "As maravilhas e esplendores do meu celeste lar!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo me deu fiel promessa, vem me buscar;",
+        "Meu coração está com pressa, eu quero já voar.",
+        "Meus pecados eram muitos, e culpado sou,",
+        "Mas o Seu sangue põe-me limpo, e para a pátria vou."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qual filho, do seu lar, saudoso, eu quero ir;",
+        "Qual passarinho para o ninho, eu quero ao Céu subir.",
+        "É fiel, a vinda é certa; quando, não o sei,",
+        "Mas Ele me achará alerta; com Ele ao Céu irei!"
+      ],
+      "number": 4
+    }
+  ]
+}

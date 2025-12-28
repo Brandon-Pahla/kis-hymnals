@@ -1,0 +1,46 @@
+{
+  "number": 241,
+  "language": "st",
+  "title": "241 Ke Kene Fats’eng La Nala",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke kene fats’eng la nala; Ke ruile thuo ea lona,",
+        "Moo phatsimong linyakallong, Moo bosiu bo leng sio."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke talima moo ka mose, Moo ke ahetsoeng lehae,",
+        "’Me ke bona khalalelo, Haeng la ka bo-safeleng. (bis)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tsamaea le ’Moloki, ’Me ke buisana le Eena,",
+        "’Me O nkhula ka letsoho, Hoba moo ke leholimo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ho tla monko o monate, O tsoa fateng tse sa omeng,",
+        "Le paleseng tse sa poneng, Moo linokeng tsa bophelo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moea o ntlisetsa tumo, Ea pina tsa moo holimo,",
+        "Li binoa ke mangeloi, Lipina tsa polokeho."
+      ],
+      "number": 4
+    }
+  ]
+}

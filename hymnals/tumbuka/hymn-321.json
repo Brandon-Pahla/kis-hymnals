@@ -1,0 +1,58 @@
+{
+  "number": 321,
+  "language": "tum",
+  "title": " 321 Mwapulika Mazgu Ghake",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 321 Mwapulika Mazgu Ghake",
+        "Come Believing"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mwapulika mazgu ghake, kasi mumzomerenge?",
+        "Kasi mung'anamukenge, kum'pulikira Yesu?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Zomerani, zomerani, zomerani Luwiro (enya),",
+        "MungaziuLikangaso mpokererani Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mukahoyeranga kale mungachedwangaso cha,",
+        "Yesu wakumlindizgani ntha watimkaneninge."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Muleke kopa mu mtima chifukwa chakwananga,",
+        "Para mwagomezga Yesu watimsutulaninge."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Perekani mtima winu kwa Chiuta kuchanya,",
+        "Mugomezge kuti Yesu wakatifwira kale."
+      ],
+      "number": 5
+    }
+  ]
+}

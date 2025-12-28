@@ -1,0 +1,39 @@
+{
+  "number": 189,
+  "language": "fr",
+  "title": "Alléluia!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Alléluia, Alléluia,",
+        "Alléluia, Alléluia,"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alléluia, Alléluia,",
+        "Alléluia, Alléluia,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Allélu, Alléluia,",
+        "Alléluia,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Al - lé - lu - ia,",
+        "Al - lé - lu - ia."
+      ],
+      "number": 4
+    }
+  ]
+}

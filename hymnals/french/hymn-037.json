@@ -1,0 +1,55 @@
+{
+  "number": 37,
+  "language": "fr",
+  "title": "Ô peuple fidèle",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ô peuple fidèle,",
+        "Jésus vous appelle,",
+        "Venez, triomphants, joyeux,",
+        "Venez en ces lieux.",
+        "Ô peuple fidèle,",
+        "Venez voir le roi des cieux.",
+        "Que votre amour l’implore,",
+        "Que votre foi l’adore,",
+        "Et qu’elle chante encore",
+        "Ce don précieux."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Là, dans l’humble étable,",
+        "Froide et misérable,",
+        "Des bergers le grand amour",
+        "Lui forme une cour.",
+        "Dans cette humble étable",
+        "Accourez à votre tour.",
+        "Que votre amour l’implore,",
+        "Que votre foi l’adore,",
+        "Et qu’elle chante encore",
+        "Sa gloire en ce jour."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Esprits de lumière,",
+        "Messagers du Père,",
+        "Et vous, peuples, en tous lieux",
+        "Entonnez, joyeux :",
+        "Paix sur cette terre,",
+        "Et gloire à Dieu dans les cieux.",
+        "Que votre amour l’implore,",
+        "Que votre foi l’adore,",
+        "Et qu’elle chante encore",
+        "Ce don précieux."
+      ],
+      "number": 3
+    }
+  ]
+}

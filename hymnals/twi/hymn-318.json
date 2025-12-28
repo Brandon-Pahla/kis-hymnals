@@ -1,0 +1,54 @@
+{
+  "number": 318,
+  "language": "tw",
+  "title": "'Sen Suky'rɛma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra Yesu, Me Kɔn Dɔ Sɛ Mewie Mudi,",
+        "Mepɛ sɛ Wotra me kra mu afebɔɔ;",
+        "Bubu ahoni na pam atamfo ny'naa;",
+        "Guare me na mahoa asen suky'rɛma."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "'Sen suk'rɛma, yiw, 'sen suky'rɛma,",
+        "Guare me na mahoa asen suky'rɛma."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra Yesu, fi W'ahengua so hwɛ fam ha,",
+        "Na boa ma memmɔ 'fɔre a edi mu;",
+        "Migyae m'ankasa ne nea minim biaram',",
+        "Guare me na mahoa asen suky'rɛma."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra Yesu, m'ahobrɛase adesrɛ ni;",
+        "Metwɛn Wo nan ase Aw'rade hy'rafo;",
+        "Mihu Wo mogya a ɛtew hon' gyidim';",
+        "Guare me na mahoa asen suky'rɛma."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra Yesu, Wuhu sɛ metwɛn boasetɔm'",
+        "Bra seesei bɛbɔ koma fof'ro me mu.",
+        "Wɔn a wɔhwehwɛW' no, Wunni wɔn huammɔ;",
+        "Guare me na mahoa asen suky'rɛma."
+      ],
+      "number": 4
+    }
+  ]
+}

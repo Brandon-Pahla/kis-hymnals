@@ -1,0 +1,57 @@
+{
+  "number": 236,
+  "language": "xh",
+  "title": "236 Vuka Moya Wam Udumise",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Vuka, moya wam thoba, Dumis’ uMsindisi waKho;",
+        "Ufun’ ingom’ emnandi kum. O, yek’ isisa esihle.",
+        "KORAS:",
+        "Unesisa, unesisa; O’ yek’ isisa esihle"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wandibona ndonakele Wandithanda ndisenjalo;",
+        "Ndasindiswa ndidukile. Yek’ ubukhulu besisa.",
+        "KORAS:",
+        "Unesisa, unesisa; Yek’ ubukhulu besisa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nob’ utshaba lwandile, Noba umhlaba ulwam nam;",
+        "Ukhokela umoya wam. Yek’ amandl’ esisa saKhe.",
+        "KORAS:",
+        "Unesisa, unesisa; Yek’ amandl’ esisa saKhe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iinkathazo zinjengefu, Seziduma njengezulu;",
+        "Uhleli ekufuphi nam. Ubuhle besisa saKhe.",
+        "KORAS:",
+        "Unesisa, unesisa; Ubuhle besisa saKhe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa ebuya uKumkani, Ephuthum’ abahlangulwa,",
+        "Ndovum’ apho kolo nxweme: Isisa saphakade.",
+        "KORAS:",
+        "Unesisa, unesisa; Isisa saphakade."
+      ],
+      "number": 5
+    }
+  ]
+}

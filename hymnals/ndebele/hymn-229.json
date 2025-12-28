@@ -1,0 +1,37 @@
+{
+  "number": 229,
+  "language": "nd",
+  "title": "229 Ngubani Ongas’ Enkosini?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nguban’ ozokhetha iNkosi? Indlela zimbili Khethake!!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khetha namhla!",
+        "Phakathi kokuhle nokubi,",
+        "Khetha namhla! Phakathi kokuhle nokubi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Izinkulungwane Zi khethe Ukuma nokubi, U thini?."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Woza u zokum’ eNkosini Eny’ indlel’ ayikho Eqotho."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "number": 132,
+  "language": "nso",
+  "title": " 132 KGAUSWI LE SEFAPANO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 132 KGAUSWI LE SEFAPANO",
+        "АН 240 CH 595",
+        "NEAR THE CROSS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso mpe sefapanong,",
+        "Sedibeng sa Khutšo,",
+        "Meetse ao a fodisang,",
+        "A tšwa khalefare,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "‘Fapanong, Fapanong",
+        "Ke tumiše gona,",
+        "Moya wa ka o ikhutše,",
+        "Mošola ga noka,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kgauswi sefapanong,",
+        "Mogau 'o nkhumane,",
+        "Ke mo ke kgantšheditšweng,",
+        "Lerato la Jeso;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kgauswi sefapanong,",
+        "Kwana ya Modimo,",
+        "Nthuše 'tšatši ohle,",
+        "Ke latele wena,"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Fapanong ke tlo leta,",
+        "Kholofelong tshepong,",
+        "Ke tle ke fihle khumong,",
+        "Mošola ga noka;"
+      ],
+      "number": 6
+    }
+  ]
+}

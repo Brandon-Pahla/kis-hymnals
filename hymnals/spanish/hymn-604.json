@@ -1,0 +1,65 @@
+{
+  "number": 604,
+  "language": "es",
+  "title": "Bellas las manitas son",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Bellas las manitas son"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bellas las manitas son",
+        "que obedecen a Jesús;",
+        "bellos ojos los que están",
+        "llenos de célica luz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Bellas, sí, bellas las manos son,",
+        "que obedecen a Jesús;",
+        "bellos, los ojos que siempre están",
+        "llenos de célica luz."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hizo las manitas Dios,",
+        "porque a él podrán servir;",
+        "hizo al tierno corazón",
+        "en su servicio latir."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Toda boca debe orar",
+        "cada día al Salvador,",
+        "y los pies habrán de andar",
+        "siempre siguiendo al Señor."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuanto puedas tú hacer,",
+        "Cristo te lo exigirá;",
+        "haz de ello tu placer",
+        "con el poder que él te da."
+      ],
+      "number": 6
+    }
+  ]
+}

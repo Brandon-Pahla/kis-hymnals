@@ -1,0 +1,47 @@
+{
+  "number": 298,
+  "language": "nd",
+  "title": "298 Qha! Okwami, Konke OkwaAkho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yek’ ubuhlungu nosizi, Ngihleli nginga kholwa!",
+        "Nxa ngisathi kuY’ uJesu; Konk’ okwam’ qha! okwAkho",
+        "Konk’ okwam’ qha! okwAkho, Konk’ okwam’ qha! okwAkho",
+        "Nxa ngisathi kuY’ uJesu, Konk’ okwam’ qha! okwAkho"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Noko ngabuya ngabuya, NgaMbon’ efa emthini",
+        "Nenhliziyo yathi kuYe, Nxenye yim’ nxenye nguWe",
+        "Nxenye yim’ nxenye nguWe; Nxenye yim’ nxenye nguWe",
+        "Nenhliziyo yathi kuYe, Nxenye yim’ nxenye nguWe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nsuku zonke wangi ncenga, Ngelashwa ngohlanzeka",
+        "Ngehliswa ngazithoba-Ke, Ncan’ okwam’ kun’ okwAkho",
+        "Ncan’ okwam’ kun’ okwAkho, Ncan’ okwam’ kun’ okwAkho;",
+        "Ngehliswa ngazithoba-Ke Ncan’ okwam’ kun’ okwAkho"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Luphakeme kunezulu, Lujule kunolwandle",
+        "Nkosi, lunqobil’ uthando Qha! okwam’ konk’ okwAkho",
+        "Qha! okwam’ konk’ okwAkho, Qha! okwam’ konk’ okwAkho",
+        "Nkosi, lunqobil’ uthando Qha! okwam’ konk’ okwAkho"
+      ],
+      "number": 4
+    }
+  ]
+}

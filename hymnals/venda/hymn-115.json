@@ -1,0 +1,62 @@
+{
+  "number": 115,
+  "language": "ve",
+  "title": "115. nanga Khulu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:254",
+        "AH:118"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nanga khulu ndi Murena, Yesu u na tshilidzi;",
+        "U vusa mbilu yo faho, ipfani ipfi lawe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Renda dzina la Yesu, ndi dzina li takadzaho;",
+        "Mu huliseni nothe, Yesu ndi Mukhethwa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Zwivhi zwothe zwo hangelwa, ipfani ipfi lawe;",
+        "Ri tshimbile nga mulalo, ri do fhiwa dzikhare."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kha ri rende Ngwana rothe, ri tende Yesu rothe;",
+        "Ndi a funa dzina ili, la Yesu Muphulusi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Dzina ili li pandela, U ofha hanga hothe;",
+        "Muya wanga u takadzwa, nga dzina la Murena."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Na musi a tshi do vhuya, na khare dza vhutshilo;",
+        "Ra dzula nae Murena, ra amba nga u tshidzwa."
+      ],
+      "number": 6
+    }
+  ]
+}

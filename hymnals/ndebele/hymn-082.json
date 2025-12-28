@@ -1,0 +1,37 @@
+{
+  "number": 82,
+  "language": "nd",
+  "title": "82 Ekuseni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi, ekuseni yizwa",
+        "Okwam’ ukuncenga;",
+        "Ni zakukhuleka kuWe,",
+        "Ngi khangela kuWe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi donse ngoMoya wAkho,",
+        "Endleleni yAkho;",
+        "Ukuhamba kwami konke",
+        "Ku qondise kahle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abathanda wena Jesu",
+        "Ye, bazokholiswa!",
+        "uJehova wobahanqa",
+        "Ngesihlangu somsa."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "number": 303,
+  "language": "ts",
+  "title": "303. KU  NA VUTSHAMO NDLWINI YA YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ku Na Vutshamo, Ndlwini Ya Yesu, Wa Mi Vitana N’wina Hinkwenu.",
+        "CHORUS",
+        "Ku Na Vutshamo Nghenani Hinkwenu, Ku Na Vutshamo Nghenani Hinkwenu.",
+        "2. Dyambu Ri Fambile, Ri Perile, Ri Dzhwiharile Mi Nga Hlweleni.",
+        "3. Yindlu Yo Kwetsima Se Ya Tala, A Nga Si Pfala Tanan Hinkwenu.",
+        "4. Kuna Vutshamo Bya Ha Kumeka, N’winyi Wa Yindlu U Mi Rindzele.",
+        "5. Loko A Pfala Mi Ta Ya Kwihi? Ku Twakala Ku Ri : “Ku Pfariwile”.",
+        "“Ro Hetelela” Mi Ta Gogondza Ku Nga Pfuriwi, Mi Rhendzeleka Mi Nga Pfuleriwi."
+      ],
+      "number": 1
+    }
+  ]
+}

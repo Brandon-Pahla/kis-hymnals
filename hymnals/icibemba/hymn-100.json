@@ -1,0 +1,32 @@
+{
+  "number": 100,
+  "language": "bem",
+  "title": "100 - YESU NICIBUSA CINE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHAT A FRIEND WE HAVE IN JESUS!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu ni Cibusa cine, Atufwilile ifwe!",
+        "Nomba tungasenda fyonse, Kuli Lesa mwipepo:",
+        "Lintu tulecule cibi, Mutende tuleposa,",
+        "Ifi fyonse pa mulandu, Twafilwa ukupepa!",
+        "2. Bushe tuletunkwa cibi, Satana atucusha?",
+        "Tatwanashiwe kul ' ifi, Tutwale kwa Katula;",
+        "Tapali umbi nga Yesu, Atwafwa kuli fyonse,",
+        "Alishiba tulenaka, Akatupela maka.",
+        "3. Mwe Katula watemwikwa. Umfwa ipepo lyesu;",
+        "Fintu fyonse fyatucusha. Tuleta kuli Imwe:",
+        "Bantu besu batulabe, Yesu takatulabe;",
+        "Mumaboko atwikata, Tusanga umutende."
+      ],
+      "number": 2
+    }
+  ]
+}

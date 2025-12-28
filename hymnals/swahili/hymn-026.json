@@ -1,0 +1,66 @@
+{
+  "number": 26,
+  "language": "sw",
+  "title": "26 - Tutokapo Tubariki",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Tutokapo tubariki, utupe kufurahi,",
+        "Tuwe na pendo lako, neema ya kushinda.",
+        "Nawe utuburudishe, tukisafiri chini."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Twatoa sifa shukrani, kwa neno la Injili,",
+        "Matunda yake wokovu, yaonekane kwetu,",
+        "Daima tuwe amani, kwa Kweli yako Bwana."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Siku zeku zikizidi, tuzitoe kwa Yesu,",
+        "Tuwe na nguvu moyoni, tusichoke njiani,",
+        "Hata tutakapoona, Utukufu wa Bwana."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Mungu mtukufu, aliyeumba Pepo kuvuma na radi kali;",
+        "Toa neema unapotawala, tupe amani Bwana wa wema."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Mungu wa neema, nchi imeacha Amri tukufu na Neno lako,",
+        "Hasira zako zisituharibu, tupe amani, Bwana wa wema."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Mwumbaji wa haki, watu wabaya wamedharau utukufu wako,",
+        "Lakini wema wako utadumu; endesha kweli Bwana wa wema."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Tunakutolea Ibada, safi kwa ajili ya Wokovu wako,",
+        "Hivi tunaziimba sifa zako, wako uwezo na utukufu."
+      ]
+    }
+  ]
+}

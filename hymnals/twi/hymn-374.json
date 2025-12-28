@@ -1,0 +1,47 @@
+{
+  "number": 374,
+  "language": "tw",
+  "title": "Yesu, Ne W'asafo Ntra",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, ne W'asafo ntra",
+        "Sɛ 'Gyenkwa, 'W'ra  ne Hwɛfo;",
+        "B'rč a wɔresɔ no ahwɛ'i,",
+        "Yɛsrɛ Wo sɛ tie yɛn."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma ne nne mu nna hɔ daa,",
+        "N'ɔmmɔ 'temmu ho kɔkɔ",
+        "Nka 'Gyenkwa no ho asɛm;",
+        "Yɛsrɛ Wo sɛ tie yɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma no nky'rɛ 'nifraefo kwan,",
+        "ɔnhwehwɛ ɔyera mma,",
+        "Na ɔnsiesie komasɛe;",
+        "Yɛsrɛ Wo sɛ tie yɛn."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma no nni nkonim kronkron",
+        "Wɔ bɔne horow ny'naa so,",
+        "Na ɔmmoa aman ny'naá ano;",
+        "Yɛsrɛ Wo sɛ tie yɛn."
+      ],
+      "number": 4
+    }
+  ]
+}

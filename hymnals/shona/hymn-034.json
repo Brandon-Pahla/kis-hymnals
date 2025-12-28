@@ -1,0 +1,55 @@
+{
+  "number": 34,
+  "language": "sn",
+  "title": "34 Kwanaka Nemoyo Wangu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Apo runyararo runondifadza,",
+        "Kana urombo ndinahwo,",
+        "Kana muzvese, makandidzidzisa,",
+        "Kunaka nemoyo wangu’wo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwanaka . . . nemoyo, . . .",
+        "Kwanaka nemoyo wangu’wo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana Satani anonditambudza,",
+        "Ndichasimbira kunemwi,",
+        "Jesu anoziva kwangu kushaya,",
+        "Wakandifira’po pamuti"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinofara ngekutondera kuti,",
+        "Zvitema zvangu zvese’zvo,",
+        "Zvapera pamuchinjiko, zvapera,",
+        "Ndatenda nemoyo, Jesu’yo"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kurumidzanyi musi wenyu Tenzi,",
+        "Makore achazopetwa,",
+        "Tsuri inorira, Tenzi odzika,",
+        "Zvadaro, nemoyo, kwanaka"
+      ],
+      "number": 5
+    }
+  ]
+}

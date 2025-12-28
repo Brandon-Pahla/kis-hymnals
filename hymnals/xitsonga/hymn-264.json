@@ -1,0 +1,26 @@
+{
+  "number": 264,
+  "language": "ts",
+  "title": "264. SIKU LERO KWETSIMA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOLY DAY JEHOVAH’S REST",
+        "1. Siku Lero Kwetsima, Ra Tatana Xikwembu;",
+        "Hi Rona Ra Vunkombo, Xi Ri Katekisile.",
+        "CHORUS",
+        "Ramukele, Ramukele; (Ina Ri Amukeleni) Ramukele, Ramukele; (Siku Ra Ku Hlawuleka) Hina Ha Ri Tsakela, Savata Ya Xikwembu.",
+        "2. Eku Heteni Ntirho, Xi Hlawule Savata;",
+        "Xi Ri Katekisile, Ri Va Siku Ro Wisa.",
+        "3. Vanhu Va Cince Siku, Va Hlawula Ra Sonto;",
+        "Va Ala Ku Yingisa; Matswalwa Ya Xikwembu.",
+        "4. Savata Ri Cinciwe,",
+        "Hi Ku Rhandza Ka Vanhu; Kambe Tsalwa Ra Yesu; Rona Ra Va Kaneta.",
+        "5. Ndzi Hlayile Matswalwa, Ndzi Kumile Ntiyiso;",
+        "Ndzi Wu Amukerile, Ndzi Wisa Hi Savata."
+      ],
+      "number": 1
+    }
+  ]
+}

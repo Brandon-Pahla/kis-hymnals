@@ -1,0 +1,35 @@
+{
+  "number": 304,
+  "language": "guz",
+  "title": "304 Naye? Ninche?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Monto ng'asoe aria igoro,Bwango iga, Bwango iga,Abwanch'obonene bw'aroro;Naye? Ninche? Naye? Ninche?Atare 'nchera chi'edhahabu,Aror'ebinto bi'ogokumia;Aror'omogok' obanetwe,Naye? Ninche? Naye? Ninche?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Monto ng'asoe aria igoro,Bwango iga, Bwango iga,Mwegenwa anyorerw'egutwa,Naye? Ninche? Naye? Ninche?'Monto ng'amoror'Omogambi,'Siborwe korw'as'obororo;'Gok'amo Ner'agwo botambe,Naye? Ninche? Naye? Ninche?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Mont'ature ko giasiekirwe,Bwango iga, Bwango iga,Aigw'eriogi, \"Tinkomanyeti,\"Naye? Ninche? Naye? Ninche?'Mont'arangerie, ko taigugwa,'Ker'egesieri giasiekirwe;'Siri'ekeegwa ki'abachenu,Naye? Ninche? Naye? Ninche?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Monto ng'atere kabuire,Bwango iga, Bwango iga,'Tere n'omogand' oborigwe,Naye? Ninche? Naye? Ninche?Ngegu y'edhahabu ng'akwanie,'Banchwa bense batiganete;Agiterwe as'obonene,Naye? Ninche? Naye? Ninche?"
+      ],
+      "number": 4
+    }
+  ]
+}

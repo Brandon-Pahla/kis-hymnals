@@ -1,0 +1,68 @@
+{
+  "number": 241,
+  "language": "tn",
+  "title": "241 Ke Tsenye Fatshing Ja Nala?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Tsenye Fatshing Ja Nala,",
+        "Ke ruile khumo ya jone;",
+        "Kwa phatsimong boitumelong,",
+        "Kwa bosigo bo fetileng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wena Beula Fatshe lentle",
+        "Ka ke eme mo go wena",
+        "Ke lebele kwa moseja,",
+        "kwa ke agetsweng manno teng,",
+        "Mme ke bona kgalalelo,",
+        "Gae ja me ka bosakhutleng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Tsenye Fatshing Ja Nala,",
+        "Ke ruile khumo ya jone;",
+        "Kwa phatsimong boitumelong,",
+        "Kwa bosigo bo fetileng."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Sepela Le Mmoloki,",
+        "Mme ke tsa’a kgang e ntle Nae,",
+        "Mme O nkgoga ka seatla,",
+        "Gonne fa ke legodimong."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go Tla Monko O Monate,",
+        "O tswa tlharing tse ’sa omeng,",
+        "Le thunyeng tse di sa swabeng,",
+        "Kwa dinokeng tsa botshelo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phefo E Nteretse Tumo",
+        "Ya pina tsa kwa godimo,",
+        "Di opelwa ke ba’ngele,",
+        "Kopelong ya thekololo."
+      ],
+      "number": 5
+    }
+  ]
+}

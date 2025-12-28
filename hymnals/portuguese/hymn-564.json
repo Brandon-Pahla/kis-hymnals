@@ -1,0 +1,50 @@
+{
+  "number": 564,
+  "language": "pt",
+  "title": "Jamais se Diz Adeus Ali",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Jamais se Diz Adeus Ali"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quão bom, amigos meus, é termos encontro aqui feliz,",
+        "Mas sempre vem a hora triste em que adeus se diz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Jamais se diz adeus ali,",
+        "Jamais se diz adeus;",
+        "No eterno lar de amor e paz,",
+        "Jamais se diz adeus;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quão doce é lembrarmos que quando Cristo aqui voltar,",
+        "Nós juntos viveremos pra nunca mais nos separar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Não mais teremos dor e nem despedida lá no lar,",
+        "Mas grata união e paz iremos pra sempre desfrutar."
+      ],
+      "number": 5
+    }
+  ]
+}

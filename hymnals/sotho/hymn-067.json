@@ -1,0 +1,55 @@
+{
+  "number": 67,
+  "language": "st",
+  "title": "67 Re Ea Sione",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tlong ba ratang Morena, Thabo ea rona e tsejoe;",
+        "Re bineng hantle hommoho, Re bineng hantle hammoho,",
+        "Re pote terone, Re pote terone."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re ea teng Sione, E ntle E ntle Sione;",
+        "(T&B)",
+        "Rona re ea Sione, E ntle, E ntle Sione;",
+        "Re ea holimo Sione, Motse motle oa Molimo",
+        "(T&B)",
+        "Re teng Leholimong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ba hanang ho bina, Ba sa tsebeng Molimo;",
+        "\\'Me bana ba leholimo, \\'Me bana be leholimo,",
+        "Ba bue ka thabo, Ba bue ka thabo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thaba ea Sione, E hlahisang botle;",
+        "Re eso fihle holimo, Re eso fihle holimo",
+        "Litseleng tsa gauda, Litseleng tsa gauda."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A re keng re bine, Meokho e ome;",
+        "Re tsamaea Emmanuele, Re tsamaea Emmanuele,",
+        "Fats’eng a Holimo, Fats’eng a Holimo."
+      ],
+      "number": 5
+    }
+  ]
+}

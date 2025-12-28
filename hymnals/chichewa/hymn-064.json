@@ -1,0 +1,63 @@
+{
+  "number": 64,
+  "language": "ny",
+  "title": "64 - Kodi Walemedwa M’mtima Mwako?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ARE YOU WEARY?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kodi walemedwa m’mtima mwako?",
+        "Nena kwa Yesu, nena kwa Yesu",
+        "Kodi uli kumva za chisoni?",
+        "Nena kwa Yesu yekha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nena kwa Yesu, nena kwa Yesu,",
+        "Ndi bwenzi labwinotu.",
+        "Ndiye bwenzi lopambana onse,",
+        "Nena kwa Yesu yekha."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kodi ukulira mwa chisoni?",
+        "Nena kwa Yesu, nena kwa Yesu;",
+        "Kodi tchimo lina labisika?",
+        "Nena kwa Yesu yekha."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kodi umaopa za chisoni?",
+        "Nena kwa Yesu, nena kwa Yesu;",
+        "Kodi ulikuda nkhawa m’mtima?",
+        "Nena kwa Yesu yekha."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Kodi ukulingalira imfa?",
+        "Nena kwa Yesu, nena kwa Yesu;",
+        "Kodi ukulira kuti adze?",
+        "Nena kwa Yesu yekha."
+      ],
+      "number": 5
+    }
+  ]
+}

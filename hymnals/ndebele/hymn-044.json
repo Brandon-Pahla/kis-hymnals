@@ -1,0 +1,55 @@
+{
+  "number": 44,
+  "language": "nd",
+  "title": "44 Umsindisi Wami Kuqala",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa umsebenzi wami u suphelile lapha,",
+        "Nalomzimba wembeswe ukungafi;",
+        "Ngi zomazi uMsindisi wami ngaphesheya,",
+        "U zakungithokozelela ngefa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi zoma ... zi ngi zomazi, Mina ngi zakum’ eduze kwAkhe",
+        "Ngi zoma ... zi ngi zomazi, Ngamanxeb’ ezandleni zAkhe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo! Ukwethaba kwami nxa ngi mbona ngobuso,",
+        "Neliso elinomusa kimina;",
+        "Inhliziyo yami I zakumbonga ngothando,",
+        "Olungilungiseleyo ikhaya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo! Ngokukhumbula-ke, ngabakade ba shona,",
+        "Nokuvalelisa kweth’ ethuneni;",
+        "Khona eEdeni asisoze sahlukana,",
+        "Kodwa ngi fis’ ukumbon’ uMsindisi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi zongen’ emzini ngezimhlophe izingubo,",
+        "A ngi selapho kungakhalwa khona;",
+        "Ngi zakuhlabel’ ingoma yabasindisweyo,",
+        "Ngize ngi bone uMsindisi khona."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 149,
+  "language": "tw",
+  "title": "B're Bi Dawid Ahenk'ro Nom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "B're bi Dawid ahenk'ro nom,",
+        "Wɔ mmoa adididan mu,",
+        "Nea ɛna bi dedaa ne Ba,",
+        "De sare yɛɛ Ne mpa no,",
+        "Maria ne ɔbaatan no;",
+        "Yesu Kristo, ne Ba no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ofii s'ro baa asase so,",
+        "Nea ɔyɛ ade ny'naa W'ra;",
+        "Ne dan yɛ mmoa 'didi daka,",
+        "Ne mpa nso yɛ sare nko;",
+        "Yɛn Agyenkwa kronkron no",
+        "Ne 'hiafo traa wiase ha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "N'anwanwa mmofraa b'rem ny'naa no,",
+        "ɔmaa 'nidi, yɛɛ setie;",
+        "ɔde dɔ hwɛɛ Ne na wiɛmfo",
+        "A ɔda ne nsa so no;",
+        "Kristofo mmofra nyinaa,",
+        "Monyɛ setie sɛ ɔno."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Daakye yɛn ani behu No,",
+        "N'ankasa dɔ nkwagye mu;",
+        "Fisɛ saa 'Bofra dɔfo yi,",
+        "Yɛ yɛn Aw'rade wɔ s'ro;",
+        "Na Odi Ne mmofrá anim",
+        "Akɔ nea ɔwɔ hɔ no."
+      ],
+      "number": 4
+    }
+  ]
+}

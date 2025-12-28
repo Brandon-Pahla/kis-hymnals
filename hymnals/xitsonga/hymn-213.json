@@ -1,0 +1,24 @@
+{
+  "number": 213,
+  "language": "ts",
+  "title": "213. YESU MUPONISI WANGA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O JESUS MY REDEEMER",
+        "1. Yesu Muponisi Wanga, Wena Ntsako Wanga;",
+        "Ndzi Yimbelela Wena, Swirilweni Swanga.",
+        "CHORUS",
+        "Yesu Muponisi Wanga Ndzi Tlangela Wena; Munghana A Ndzi Na Ye, Wo Fana Na Wena.",
+        "2. U Ku Tshemba Ka Mina, Minkarhi Hinkwayo;",
+        "Hi Nkarhi Wa Munyama, U Risimu Ranga.",
+        "3. Ndzi Tshemba Eka Wena, Mufambisi Wanga;",
+        "Kunene Wa Rhandzeka, Ka Vanhu Hinkwavo.",
+        "4. U Risimu Ra Ntsako, Kwala Misaveni;",
+        "U Risimu Ra Ntsako, Henhla Etilweni."
+      ],
+      "number": 1
+    }
+  ]
+}

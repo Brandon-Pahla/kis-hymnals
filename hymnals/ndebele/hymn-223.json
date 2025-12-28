@@ -1,0 +1,55 @@
+{
+  "number": 223,
+  "language": "nd",
+  "title": "223 Ngiyamuzwa Umsindisi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yamuzwa uMsindisi Engibiza ngoMlandela;",
+        "Endlebeni ath’ amazwi Nsuku zonke, ungilandele."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi zothath’ isiphambano uMsindisi ngi Mlandele;",
+        "Laph’ engiholela khona Ngi be naYe yonke indlela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Noma indlela imnyama Nezinyawo zi khathele,",
+        "Inhliziyo iyakhanya Nxa ngi Mlandela yonk’indlela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "UJesu engendulele Izulu li yakhazimla,",
+        "Ngi nikwe amandl’ amanye Nxa ngi Mlandela yonk’ indlela"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi hole esigodini U ngi phakele ukudla;",
+        "Nkosi, nginced’ ebubini Nxa ngi landela yonk’ indlela."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Z’u ngi thwale ngenhliziyo U nami owAkho umsa;",
+        "Z’u ngi gone ngezingalo Nxa ngi landela yonk’ indlela"
+      ],
+      "number": 6
+    }
+  ]
+}

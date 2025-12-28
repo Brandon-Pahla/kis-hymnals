@@ -1,0 +1,54 @@
+{
+  "number": 170,
+  "language": "st",
+  "title": "170  Mopi, Morena Oa Ka.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "’Mopi Morena oa ka",
+        "Tsa ka ke tsa Hao;",
+        "Ke Uena Mohloli oa ka",
+        "Oa lehlohonolo;",
+        "Ke Uena Mohloli Oa ka",
+        "Oa lehlohonolo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke sebopuoa sa Hao,",
+        "Ke phela ho Uena;",
+        "Molimo oa ka,",
+        "Molemo oa Hao o bokoe;",
+        "Molimo oa ka molemo oa Hao",
+        "O bokoe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena nka U neha eng?",
+        "Tsohle ke tsa Hau,",
+        "Le kopa pelo e lebohang;",
+        "Rato la Hao le kopa pelo,",
+        "E lebohang."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nts’usumetse moeeng",
+        "Takatso le lentsoe,",
+        "E be tsa Hao kamehla",
+        "Lentsoe le takatso;",
+        "E be tsa Hao kamehla eohle,",
+        "Mehla—eohle."
+      ],
+      "number": 4
+    }
+  ]
+}

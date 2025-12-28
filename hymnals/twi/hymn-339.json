@@ -1,0 +1,35 @@
+{
+  "number": 339,
+  "language": "tw",
+  "title": "Nyankopɔn Ne Me Nkwagye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyankopɔn ne me nkwagye,",
+        "Mensuro 'tamfo bɛn?",
+        "Esum ne sɔhwɛ b're mu,",
+        "Me Hann ne me Mmoa bɛn:",
+        "Dɔm ky're me so nsraban a",
+        "Megyina den ko nom';",
+        "Dɛn na ebeyi me hu",
+        "Nyame wɔ m'afa yi?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nya 'W'rade mu 'hotoso;",
+        "Me kra twɛn boɔd'ru mu;",
+        "Me nokwar' nyɛ w'ahoɔden,",
+        "Wɔ wo mm'rɛwyɛ ny'naa mu.",
+        "N'ahoɔden nhyɛ wo kra den,",
+        "Ne dɔ mma wo 'nigye;",
+        "N'adɔe mma wo nkwa tenten",
+        "'W'rade bɛmaw' 'somdwoe."
+      ],
+      "number": 2
+    }
+  ]
+}

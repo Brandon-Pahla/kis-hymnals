@@ -1,0 +1,63 @@
+{
+  "number": 223,
+  "language": "tw",
+  "title": "MonhyɛN' Ahenkyɛw Pii",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "MonhyɛN' ahenkyɛw pii,",
+        "'Guammaan' te N'agua so;",
+        "Tie! Sɛnea soro dwom rehim,",
+        "Ͻka nnwom nyinaa hyɛ;",
+        "Me kra, nyan, na to Nea",
+        "Owu maa wo ho dwom,",
+        "Na kamfo wo Hen' kɛse no",
+        "Mmeresanten nyinaa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Monhyɛ dɔ Nyame kyɛw!",
+        "Hwɛ Ne nsa ne Ne mfem,",
+        "N'apiratwa no ho da hɔ,",
+        "Ͻhyɛ No anuonyam;",
+        "Na ɔbɔfo biara",
+        "Ntumi nhwɛ ade yi",
+        "Na mmom osi ne ti ase",
+        "'Hintasɛm kɛsen' ho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Monhyɛ 'Somdwoe Hen' kyɛw,",
+        "Nea Ohim 'hempoma",
+        "Wiase nyinaa ma ako gyae",
+        "Dan yɛ ayeyi nko,",
+        "N'ahenni to ntwa da;",
+        "Na Ne nan ase hɔ,",
+        "Paradise nhwiren tu hua",
+        "A ano yɛ nnam daa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Monhyɛ daa Nyame kyɛw,",
+        "Bɛkyebo Hene no,",
+        "Wiase nyinaa Bɔfo ne no;",
+        "Ne kɛseyɛ wɔnka!",
+        "Mo! Odimafo, mo!",
+        "Sɛ Woawu ama me;",
+        "W'ayeyi no to rentwa da",
+        "Ͻbɛtra hɔ daa daa."
+      ],
+      "number": 4
+    }
+  ]
+}

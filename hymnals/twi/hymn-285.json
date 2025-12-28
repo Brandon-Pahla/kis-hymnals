@@ -1,0 +1,47 @@
+{
+  "number": 285,
+  "language": "tw",
+  "title": "Yesu Refrɛ Yɛn Wɔ ɔbra",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu refrɛ yɛn wɔ ɔbra",
+        "As'rɔkye dennen yi mu;",
+        "Daa ny'naa Ne nne dɛdɛ gu so",
+        "Sɛ, 'Kristoni di M'akyi'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu frɛ yɛn fi ɔsom a",
+        "Huhude ahyɛ mu ma",
+        "Ne abosonsom biara mu",
+        "Sɛ, 'Kristoni, dɔ Me pii'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn 'nigye ne aw'rɛhow mu,",
+        "Adwuma ne 'home mu;",
+        "ɔda so frɛ sɛ yɛnnɔ No",
+        "Nɔkyɛn eyinom nyinaa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu frɛ yɛn! O Agyenkwa,",
+        "Ma yɛnte Wo dom frɛ no;",
+        "Ma yɛn osetie koma na",
+        "Yɛmfa nnɔ Wo, nsom Wo yie."
+      ],
+      "number": 4
+    }
+  ]
+}

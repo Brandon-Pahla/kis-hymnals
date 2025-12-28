@@ -1,0 +1,39 @@
+{
+  "number": 151,
+  "language": "nd",
+  "title": "151 Zoba Khona Inkanyezi Na?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yacabanga namhla ngezwe elihle, Engiya kulo ezulwini;",
+        "Ngomsa woMsindisi ngom’ eduze kwAkhe, Woba nenkanyez’ umqhele na?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Woba nenkanyezi umqhele wami na? Ekufiken ezulwini",
+        "Ngi vuka nababusiswa ngi yekhaya Woba nenkanyezi umqhele?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngamandl’ eNkosi ngo ‘ebenza ng’khuthele, Ma ngi linde, ngi zuz’ abantu",
+        "Ngize ngithol’ inkanyezi ngalolosuku, Mhla edunyiswayo uJesu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Koba mnandi njani nxa ngi mbona Yena? Ngi beke kuYe amagugu",
+        "Kongithokozisa ngobuhl’ emzini, Ngi phiw’ inkanyezi ng’uKrestu"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 5,
+  "language": "st",
+  "title": "5 Na Hae Ho Sa Le Hole?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Na hae ho sa le hole na? Ke botsitse molebeli,",
+        "A re bosiu bo ea fela; ’Me ho fihla meso,",
+        "Joale u se hlole u lla; Empa tsamaea akofa,",
+        "U tla fihla matsatsing ao, A se nang ho fela."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke botsitse bo lebotho, Pina ea lebotho e re;",
+        "“Re tla loana ka sebete, Ka lerumo feela.”",
+        "Joale o se hlole u lla, U mpe u mamelle ntoeng;",
+        "U tla fumana moputso, Ha u se u hlotse."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke botsitse lintho tsohle; Li re ka lentsoe le le leng:",
+        "“Nako e se e tla feta, Lehae le hlahe.”",
+        "Joale u se ke ua lla, Liponts’o li ntse li ata,",
+        "Tsohle li se li korotla, Li batla phomolo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hae ha ho sa le hole, Oho!khothala moeti;",
+        "Motsamai hlakola meokho, Tseleng ee pholileng,",
+        "Joale u se ke ua lla, Re tla kopana kapele;",
+        "Litlhopeho li felile, Motseng oo khutsitseng."
+      ],
+      "number": 4
+    }
+  ]
+}

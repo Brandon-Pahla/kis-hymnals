@@ -1,0 +1,39 @@
+{
+  "number": 75,
+  "language": "st",
+  "title": "75 Li Kenyeng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke utloa lentsoe la Molisa, Lefeelleng le mo lefifing;",
+        "A bitsa tse lahlehileng, Hole le mohlape oa Hae."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Li kenyeng, li kenyeng, Li tsoa mo naheng e mpe;",
+        "Li kenyeng, li kenyeng, malahleha a Jesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke mang ea ka eang ho thusa, Ho ’matlisa malahleha;",
+        "Ke mang ea tla li khutlisang Moo li ka ba polokehong?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Utloa ha li lla mo feelleng, Moo lithabeng tse phahameng;",
+        "Utloa ha Morena A re: Tsamaea u eo li batla."
+      ],
+      "number": 4
+    }
+  ]
+}

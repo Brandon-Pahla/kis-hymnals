@@ -1,0 +1,43 @@
+{
+  "number": 236,
+  "language": "tn",
+  "title": "236 Rato Lwa ’Gwe Bopelonomi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tsogela Boipelong Mo’a Me, Mme Baka Morekolodi;",
+        "O batla kopelo go nna, Rato lwa ’Gwe pelonomi.",
+        "Rato lwa ’Gwe, rato lwa ’Gwe, Bopelonomi kgololo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Mpona Ke Le Tshenyegong, Mme A Nthata Ke Le Gone;",
+        "A mpoloka mo tatlhegong, Bopelonomi bogolo.",
+        "Rato lwa ’Gwe, rato lwa ’gwe, Bopelonomi bogolo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lefa Baba Ba Le Bantsi, Bobipo Bo Thiba Tsela,",
+        "O nkgoga ka pabalelo, Bopelonomi bogolo.",
+        "Rato lwa ’Gwe, rato lwa ’gwe, Bopelonomi nonofo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Sepitla Jaaka Leru Je Lentsho Se Tla Se Duma,",
+        "O la A nna gaufi le nna, Bopelonomi molemo.",
+        "Rato lwa ’Gwe, rato lwa ’Gwe, Bopelonomi molemo."
+      ],
+      "number": 4
+    }
+  ]
+}

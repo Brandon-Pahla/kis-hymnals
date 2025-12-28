@@ -1,0 +1,46 @@
+{
+  "number": 130,
+  "language": "xh",
+  "title": "130 Ndisondeze",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NdingowaKho Nkos’, ndiv’ izwi laKho Lixel’ uthando lwaKho;",
+        "Ndingavuka ngengalo zokholo, ndibe kufuphi naWe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndisondeze kuWe, Nkosi yam, Khon’ aph’ emnqamlezweni;",
+        "Ndisondeze kufuphi naWe Nkosi, Kwelo cala lophayo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndingcwalisel’ inkonzo yaKho Nkos’ Ngegunya lobungcwele;",
+        "Gxumek’ ithemba lomphefumlo wam, Ulaule intando yam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Au ubunyulu bexa elinye Endiba kuWe ngalo,",
+        "’Ze ndithandaze kuWe Thixo wam, Njengomhlobo kumhlobo!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nzulu zothando endinge zazi Ndide ndidlul’ ulwandle;",
+        "Apho ndingeze ndifikelele Ndide ndiphumle nawe."
+      ],
+      "number": 4
+    }
+  ]
+}

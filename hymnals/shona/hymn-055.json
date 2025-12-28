@@ -1,0 +1,57 @@
+{
+  "number": 55,
+  "language": "sn",
+  "title": "55 Wasambwa muropa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wanga waenda kuna Jesu here?",
+        "Wasambwa muropa renyenye?",
+        "Unosimbira m’utsa wake here?",
+        "Wasambwa muropa renyenye"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wasambwa… muropa…",
+        "Muropa’ro here renyenye?",
+        "Mwoyo wako wakachena’wo here?",
+        "Wasambwa muropa renyenye"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unofamba neYe mazuva ese?",
+        "Wasambwa muropa renyenye?",
+        "Unozorora kuna Kristu here?",
+        "Wasambwa muropa renyenye"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M’kwambo asvika, unochena here?",
+        "Wasambwa muropa renyenye?",
+        "Wagadzirirwa dzimba dzekudenga?",
+        "Wasambwa muropa renyenye"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rasa nguvo iyo inechitema",
+        "Usambwe muropa renyenye?",
+        "Kune tsime iyo inowerera",
+        "Sambanyi muropa reNyenye"
+      ],
+      "number": 5
+    }
+  ]
+}

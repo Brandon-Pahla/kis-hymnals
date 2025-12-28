@@ -1,0 +1,47 @@
+{
+  "number": 3,
+  "language": "nd",
+  "title": "3  Ubuso Nobuso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ubusobuzobukana, NoKrestuuMsindisi",
+        "Ngizakuthab’ ukumbona uJesuong’uMfeli"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ubusobuzobukana, Ngaphesheyakwomkhathi",
+        "Ubusobuzobukana, NoJes’ ekupheleni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Laphang’ bona kalufifi, Ku khon’ okusithayo;",
+        "Ngelang’ elingeluvivi, Ngobon’ Okhazim’layo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngizojabul’ ukubona, Kon’ okungaziwayo;",
+        "Konkekokhanyiswakhona, Ku phel’ okuhluphayo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ubusobuzobukana, NaYeuMhlengiwami;",
+        "Ngobukananjalomina, NaY’ uMsindisiwami"
+      ],
+      "number": 5
+    }
+  ]
+}

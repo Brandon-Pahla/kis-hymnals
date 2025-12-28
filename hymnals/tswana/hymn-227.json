@@ -1,0 +1,40 @@
+{
+  "number": 227,
+  "language": "tn",
+  "title": "227 Ao Mmoloki O Tsholotse Madi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ao, Mmoloki O Tsholotse Madi, Kgosi Ya Swa?",
+        "A O na’ka neela tlhogo Ya ’Gwe nna seboko."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mokgorong, mokgorong, kwa ke bonyeng sedi,",
+        "Mme morwalo wa me ka o rolwa.",
+        "Ka tumelo ka bona lesedi,",
+        "Mme janong ke mo boitumelong."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Ke Ka Ditiro Tsa Me, A Suleng Setlharing?",
+        "Kutlwelo-botlhoko, rato, Lo lo gaisa tsotlhe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga Nka Ke Ka Duela Rato Lo Ka Bofutsana;",
+        "Fa Morena kea intsha nka Dira sone fela."
+      ],
+      "number": 3
+    }
+  ]
+}

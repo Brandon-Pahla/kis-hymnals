@@ -1,0 +1,54 @@
+{
+  "number": 208,
+  "language": "ve",
+  "title": "208. Ni Tshete, Ni Tshete",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:479",
+        "AH:278"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tshete, ni tshete, Hu vho pfala ipfi;",
+        "Tshete, thetshelesa u do pfa othe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ri nangavhedze, Murena u fhano,",
+        "Ri nangavhedze, U ri ri sendele."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tshete, ni tshete, Afha ndi hu khethwa,",
+        "Hu pfadzwaho mafhungo a tshilidzi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tshete, ni tshete, Ri tshi vho rabela,",
+        "Ri thetshela mudifho wa Edeni."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tshete, ni tshete, Ni pfe vhuthu hawe;",
+        "Tshete, ni tshete, Ni lindele Yesu."
+      ],
+      "number": 5
+    }
+  ]
+}

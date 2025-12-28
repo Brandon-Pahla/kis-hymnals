@@ -1,0 +1,55 @@
+{
+  "number": 59,
+  "language": "tw",
+  "title": "Yɛwɔ Dɛw Kɛse, B'rč a Yehyiam'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛwɔ dɛw kɛse, b'rč a yehyiam'",
+        "Nea W'ra no ka yɛn bom no;",
+        "Nea yɛsom Agya Nyankopɔn",
+        "Wɔ Ne Ba no Honhom mu.",
+        "Wohu N'asafo no,",
+        "Faako a wɔyɛ Ne pɛ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hama a 'som bo n'ɛde yɛn",
+        "Fam Nyame ho yɛn mm'rɛwyɛm';",
+        "Nea 'kae yɛn sɛ ɔda so yɛ",
+        "Yɛn Botantim no, som bo.",
+        "Nokwar' dɔ da n'adi",
+        "Sɛ 'Hwɛfo no nguan wɔ ha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma yensua mfi Kristo nhwɛsom'",
+        "Nea yɛyɛ mpaebɔ fie yi:",
+        "Nea ɔtew asɔr'fie ho no",
+        "Pɛ sɛ yɛn ny'naa som wɔ hɔ.",
+        "ɔba no mpam 'biara:",
+        "'Biara wɔ kwan N'ahennim'."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Wura, kanyan yɛn ma yenhu",
+        "Wiasč a ehia nkwagye no!",
+        "Asafo no 'dwuma som bo,",
+        "Yɛde mmɔdemmɔ gu so!",
+        "Yɛmfa nokwarediɔ",
+        "Sei na yɛyɛ Nyame pɛ."
+      ],
+      "number": 4
+    }
+  ]
+}

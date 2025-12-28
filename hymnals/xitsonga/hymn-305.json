@@ -1,0 +1,19 @@
+{
+  "number": 305,
+  "language": "ts",
+  "title": "305. SIKU RIN’WANA YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Siku Rin’wana Yesu U Vulavularile, Na Vadyondzisiwa Vakwe.",
+        "CHORUS",
+        "A Va Byela A Ku: ‘Moya Wanga Wu Ri Sweswi Ndzi Ya Eku Feni’.",
+        "2. Yudasi Yena A Tendla Muxengi, A N’wi Xavisela Valala.",
+        "3. A Va Byela A Ku Loko Ndzi Fika, Mi Ta Vona Ndzi N’wi Tswontswa.",
+        "4. Kasi Yesu Yena A Va A Swi Tiva, Ku Ri Yudasi I Muxengi."
+      ],
+      "number": 1
+    }
+  ]
+}

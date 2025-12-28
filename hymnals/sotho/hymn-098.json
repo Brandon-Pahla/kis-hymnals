@@ -1,0 +1,46 @@
+{
+  "number": 98,
+  "language": "st",
+  "title": "98 Ke Na Le ’Moloki Ho ’Na",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tla lula le moloki ha ke tsamae A se teng;",
+        "Ke utloa ha a le ho ’na Ants’oara ka letsoho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Joale nke ke ka ts’oha, A nkise moo A ratang;",
+        "Ke tla ea ke sa belaele, Ke ntse ke mo latela."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tla lula le ’Moloki, Tumelong ee fokolang;",
+        "O tla nts’elisa ka mantsoe, Ho se mang ea ka buang."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tla lula le ’Moloki, Leetong la bophelo,",
+        "Lifefong le letsatsing; Le hona har’a lintoa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tla lula le ’Moloki, Ihlo la Hae le nkhule;",
+        "Ke fihle le Jordane, Ke ts’ele ho ea mose."
+      ],
+      "number": 4
+    }
+  ]
+}

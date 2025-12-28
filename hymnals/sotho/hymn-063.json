@@ -1,0 +1,55 @@
+{
+  "number": 63,
+  "language": "st",
+  "title": "63 Ke Fela Maling A Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke’ng se ka ntlahtsoang sebeng? Ke fela mali a Jesu,",
+        "Ke eng se ka ntloekisa? Ke fela mali a Jesu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A! Kea ohlokoa a nketsang bosoeu,",
+        "Ha ke tsebe ho hong, Ke fela mali a Jesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke kae moo nka hlatsuoang? Ke fela maling a Jesu,",
+        "Ke kae moo nka ts’oareloang? Ke fela maling a Jesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ho teng poelang—Ke fela maling a Jesu,",
+        "E seng ho lokeng ha ka—K e fela maling a Jesu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ts’epo ea ka le khotso ke fela maling a Jesu,",
+        "Ho loka hohle ha ka—Ke fela maling a Jesu."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khanya! Khanya ke bina—Ke fela maling a Jesu,",
+        "Teboho tsee ke li fang—Ke fela maling a Jesu"
+      ],
+      "number": 6
+    }
+  ]
+}

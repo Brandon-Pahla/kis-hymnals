@@ -1,0 +1,61 @@
+{
+  "number": 238,
+  "language": "tn",
+  "title": "238 Ba Ke Bomang",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ba Ke Bomang Moseja’ Dintelo,",
+        "Ba feta melelwane ya phupu,",
+        "Ba re, Jeso boloka? Ba tlhapile mo mading."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ba tsena ka dikgoro Jerusalema,",
+        "Ba tlhapile mo mading;(a Kwana)",
+        "Ba tsena ka dikgoro Jerusalema,",
+        "Ba tlhapile mo mading."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ba Ke Bone Ba Bokaung Jwa Bone",
+        "Ba bonyeng Jeso, mme mo botlhaleng,",
+        "Ba supa tshwaro ya ’Gwe, Ba tlhapile mo mading."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ba Ke Ba E Rileng Bofutsaneng,",
+        "Ba bona boikhutso go Jeso,",
+        "Kagiso e’ itshekileng, Ba tlhapile mo mading."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ba Ke Ba Erileng Mo Teng Ga Ntwa,",
+        "Ba ema gone kwa go molelo;",
+        "Jeso O re, \"Tlang kwano,\" Ba tlhapile mo mading."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ba Bolokilwe Ka Bosakhutleng,",
+        "Sebe, loso, bofutsana tse di",
+        "Fedile; ba boipelong, Ba tlhapile mo mading."
+      ],
+      "number": 5
+    }
+  ]
+}

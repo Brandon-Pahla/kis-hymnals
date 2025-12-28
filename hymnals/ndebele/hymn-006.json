@@ -1,0 +1,47 @@
+{
+  "number": 6,
+  "language": "nd",
+  "title": "6 Lindani, Bangcwele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lindani, khaliphanini; Bonani iziboniso,",
+        "Kanyisani izibani; Ngob’ uJes’ u lusindiso"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U yeza! Jes’ u yeza! U yeza, u zangodumo!",
+        "UJesu u zakubusa, U yeza ngosindiso!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Isithembiso seNkosi; Umusa owathengwayo,",
+        "Zon’ izembatho zegazi; Zi sitshel’ indaba yazo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Im’buso I yachitheka; Yizw’ amasond’ egedleza.",
+        "Ngomsa owandile landa; Icilongo li mpempeza!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zoni, uKrest’ u yanxusa; KuYise u sanimele",
+        "Phangisan’ u khon’ umusa; Angakathi; Ku phelile"
+      ],
+      "number": 5
+    }
+  ]
+}

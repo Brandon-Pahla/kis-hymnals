@@ -1,0 +1,56 @@
+{
+  "number": 201,
+  "language": "pt",
+  "title": "Meu Cálice Transborda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Meu Cálice Transborda"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tão sedento, pelo mundo, eu procurava",
+        "Minh'alma, em vão, satisfazer;",
+        "Então o Salvador falou-me;",
+        "\"Desta fonte eterna vem beber.\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "O meu cálice eu ergo a Ti, Senhor;",
+        "Vem minh'alma sedenta saciar.",
+        "Minha vida anseia pelo Teu amor,",
+        "Faz meu ser dessa água transbordar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quanta gente está em busca dos prazeres",
+        "Que o mundo pode oferecer;",
+        "Ignoram a felicidade",
+        "Que em Cristo, de graça, podem ter."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó amigo, se as coisas desta Terra",
+        "Só trazem dor, desilusão,",
+        "Em Cristo há paz e alegria,",
+        "Ele é fonte de vida e salvação."
+      ],
+      "number": 5
+    }
+  ]
+}

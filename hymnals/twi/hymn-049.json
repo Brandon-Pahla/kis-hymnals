@@ -1,0 +1,47 @@
+{
+  "number": 49,
+  "language": "tw",
+  "title": "'Gyenkwa, Hy'ra Yɛn Anwumm're Yi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Gyenkwa, hy'ra yɛn anwumm're yi,",
+        "Ansa na yɛakɔdeda;",
+        "Yɛka yɛn bɔne kyerɛ W;",
+        "Wutum' sa yare, gye nkwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ sum d'ru kabii yi hu a,",
+        "Esum ntum' mfa Wo nhinta;",
+        "Wone Nea ɔmm'rɛ da no nti,",
+        "Wowɛn Wo mma baabiara."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ ɔsɛe mpo twa yɛn ho hyia,",
+        "Na agyan tu framfram a,",
+        "W'abɔfo 'wɛmfo no wɛn yɛn,",
+        "Sɛ Wobɛn a, yenya nkwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ owu bɛfa yɛn mpof'rim'",
+        "Na yɛn mpa yɛ asiei a,",
+        "Ma yenyan 'nuonyam 'nɔpa no",
+        "Wɔ tebeā a owu nnim mu."
+      ],
+      "number": 4
+    }
+  ]
+}

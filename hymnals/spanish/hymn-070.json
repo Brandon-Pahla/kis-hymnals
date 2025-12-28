@@ -1,0 +1,26 @@
+{
+  "number": 70,
+  "language": "es",
+  "title": "¡Nuestro Dios reina!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Nuestro Dios reina!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuán bellos son los pies del que anuncia",
+        "las nuevas de salvación;",
+        "que trae paz y un mensaje animador:",
+        "¡Nuestro Dios reina hoy!",
+        "¡Nuestro Dios reina hoy!",
+        "¡Nuestro Dios reina hoy!"
+      ],
+      "number": 2
+    }
+  ]
+}

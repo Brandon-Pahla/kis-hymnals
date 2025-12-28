@@ -1,0 +1,64 @@
+{
+  "number": 40,
+  "language": "st",
+  "title": "40 Ts’epa U Mamele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ha re tsamaea le Morena leseling,",
+        "Khanya ee a e bonts’ang tseleng",
+        "Ha re phetha thato, O nts’a na le rona,",
+        "Le ba O ts’epang ba O mamelang."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ts’epa utloa, ha ho tsela e ’ngoe",
+        "Ea ho thaba ho Jesu, Ts’epa U mamele."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ho na moriti, Leha e le leru,",
+        "Li tlosoa ke ho bososela;",
+        "Ha ho pelaelo, ts’abo le likhapha,",
+        "Tse ka bang teng ha re mamela"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ho na le boima, Leha e le ts’abo;",
+        "Re putsoa haholo ts’ebetsong",
+        "Ha ho ts’enyehelo le hona ho hloenya,",
+        "Lehlohonolo le teng kutlong."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha re na ho supa, Thabo ratong la Hae",
+        "Ha re e eso ho lahle tsohle,",
+        "O bonts’a lerato, le eona thabo,",
+        "Ke tsa bao feela ba ts’epang."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Setsoalleng se setle, Re tla lula maotong,",
+        "Kapa re tsamaee le Eena",
+        "Ha bua re etse, Moo a romang re ee,",
+        "Ho se ts’abo ha e se kutlo."
+      ],
+      "number": 5
+    }
+  ]
+}

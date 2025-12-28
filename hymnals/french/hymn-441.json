@@ -1,0 +1,43 @@
+{
+  "number": 441,
+  "language": "fr",
+  "title": "Brillante étoile",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Brillante Étoile, Étoile du matin,",
+        "Toi, conduis-moi !",
+        "Quand tout est noir, obscur sur mon chemin,",
+        "Toi, conduis-moi !",
+        "Pourquoi vouloir sonder comme autrefois",
+        "L'avenir ? non : un seul pas à la fois."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dans la souffrance, au sein de la douleur,",
+        "Toi, conduis-moi !",
+        "Au jour de deuil, tu consoles mon cœur :",
+        "Toi, conduis-moi !",
+        "Du haut du ciel, je sais que tu me vois;",
+        "Il me suffit d'un seul pas à la fois."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sur ton amour, oh ! j'aime à m'appuyer;",
+        "Toi, conduis-moi !",
+        "Ma seule étude est de me confier :",
+        "Toi, conduis-moi !",
+        "Tout est repos, Jésus, près de ta croix;",
+        "Il me suffit d'un seul pas à la fois."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 30,
+  "language": "nd",
+  "title": "30 Ukuhwalala",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ilanga li yashona, Izulu li yasitha",
+        "Linda u zukhuleke, Nxa ukukhanya kuthe Kwafiphala!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngcwele! Ngcwele! Ngcwele! KuJehova!",
+        "Umhlaba nezulu le, Ku yabonga uBaba uSomandla"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Nkosi, yokuphila kwam’, Izulu likhaya lam’",
+        "Si buthe si yadinga, Umbuso wokulinga Oseduze!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ukuhlwa ku sondele, Ngomsa si haukele",
+        "Ubuso nobukhosi, Ku sithwe zinkanyezi U yiNgcwele!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lapho si ngasaboni, Ubusuku nemini",
+        "Nazo izingelosi, Zi tusa ubukhosi Bu ka Jesu"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 768,
+  "language": "tw",
+  "title": "NG18 Sε Owia Hyerεn",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sε owia hyerεn anopa,",
+        "Ne ɔsram, nsoroma ‘nadwo.",
+        "Saa na ofie hy’rεn baabiara;",
+        "Ɔbra’ a εte apɔ mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "‘Genkwa Hy’rafo, hyε yεn ma,",
+        "Ma esum no nkɔ aky’ri.",
+        "Ma ‘wia hyerεn a efi fie",
+        "Nhy’rεn baabiara a yεbεfa"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Somdwoe wɔ ofie biara a,",
+        "Yesu ho anigye wɔm’",
+        "B’re a ɔhaw aba hɔ no,",
+        "Ɔma akoma tɔ yam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Gyenkwa, si mmofra yare kwan;",
+        "Na bɔ yεn nyinaa ho ban.",
+        "Fa Nyame dɔ hann no hyε yεn",
+        "Afie  mu abrabɔ ma."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Agyenkwa, ma yεn nkonimdi;",
+        "Honhom ma ‘dɔ, asomdwoe",
+        "Nyame anounyam mmra yεn fie,",
+        "Na yεn anigye ansa."
+      ],
+      "number": 4
+    }
+  ]
+}

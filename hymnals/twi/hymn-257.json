@@ -1,0 +1,48 @@
+{
+  "number": 257,
+  "language": "tw",
+  "title": "Sian Bra, O ɔs'ro Dɔ,",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sian bra, O ɔs'ro Dɔ, Bɛhwehwɛ me kra yi,",
+        "Na fa Wo gya no hyɛ mu ma ɛnnɛre;",
+        "'Kyigyinafo, twiw bɛn, Bɛhyɛn' me koma mu,",
+        "Na fa Wo gya kronkron no bɛkanyan no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma ɛnnɛre kosi Sɛ akɔnnɔ nyinaa",
+        "Bɛhyew ayɛ nso wɔ gyaframa no mu.",
+        "Ma W'anuonyam hann no",
+        "Nhyerɛn daa wɔ m'anim;",
+        "Na twa me ho hyia b're a me kwan so hy'rɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma ayamye kronkron Nyɛ nkataho mma me,",
+        "Na ɔdwo nso nyɛ me mu adurade;",
+        "Komam ɔdwo 'mapa, A efi hobrɛasem",
+        "Mmɛhyɛ me mu na menky'ri bɔne akwan."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Enti nea mehwehwɛ Na me kra kɔn dɔ yie",
+        "Bɛkyɛn nea nnipa ano tumi ka ny'naa;",
+        "Adwen' ntum' nhu Ne dom Kosi sɛ 'hɔ bɛyɛ",
+        "Honhom Kronkron no ankasa trabea pa."
+      ],
+      "number": 4
+    }
+  ]
+}

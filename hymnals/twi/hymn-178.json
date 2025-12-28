@@ -1,0 +1,46 @@
+{
+  "number": 178,
+  "language": "tw",
+  "title": "Woyii Kristo a Wɔahy'ra No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Woyii Kristo a wɔahy'ra No",
+        "Fii adasa aniso,",
+        "ɔnam owu, yaw ne 'w'rɛhowm'",
+        "Ate twamtam nom' mmienu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O monhwɛ, yaw Nipa no ni!",
+        "O monhwɛ, N'anim pɔtee,",
+        "Hwɛ Nkonimdifo kɛse no,",
+        "Wate twamtam nom' mmienu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yiw, ɔne Agya Nyankopɔn",
+        "Wɔ hɔ, ɔredi ma wo;",
+        "ɔne Nea wɔdɔ No pa'ra,",
+        "Wate twamtam nom' mmienu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abɔfo Kronkron koto No,",
+        "Adasamma tontom No;",
+        "'Fisɛ ɔne nkonimdifo,",
+        "Wate twamtam nom' mmienu."
+      ],
+      "number": 3
+    }
+  ]
+}

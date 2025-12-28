@@ -1,0 +1,57 @@
+{
+  "number": 507,
+  "language": "pt",
+  "title": "Ó, Vem à Igreja Comigo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ó, Vem à Igreja Comigo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que prazer, que alegria celeste,",
+        "Estarmos perante o Senhor!",
+        "Todos juntos, unidos em Cristo,",
+        "Ao bom Deus elevarmos louvor!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Ó, vem, vem, vem, vem,",
+        "Vem à igreja comigo,",
+        "Louvar e adorar ao Senhor!",
+        "Oh, quão bom é estarmos unidos",
+        "Pelos laços fraternos do amor!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Privilégio maior não existe,",
+        "Que estarmos com nosso bom Deus;",
+        "Escutar Seus amáveis conselhos,",
+        "Receber ricas bênçãos dos Céus."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sempre aguardo ansioso a chegada",
+        "Do dia do Deus, Criador;",
+        "Nesse dia minh'alma markdowne",
+        "Rende graças e ações de louvor."
+      ],
+      "number": 5
+    }
+  ]
+}

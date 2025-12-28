@@ -1,0 +1,35 @@
+{
+  "number": 212,
+  "language": "luo",
+  "title": "212 Adwaro Bedo Nyathi Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Adwaro bedo nyathi Yesu;Nyisa yo, nyisa yo;Datim chikni duto, Jawarna,Konya tinende."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mari chuth (Ruodhwa),Mari chuth (Ruodhwa),Mari chutho asingo;Mari chuth (Ruodhwa),Mari chuth (Ruodhwa),Mari chutho koroni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Pith gi duong` mar piny odok nono,Mak Intie, mak Intie;Anawe giduto ni Nyingi,Mwanduna ni ma."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kawito gik mantie e piny ka,Sud buta, sud buta;Gik masiko duto ni kodi,Ma okonya ka."
+      ],
+      "number": 4
+    }
+  ]
+}

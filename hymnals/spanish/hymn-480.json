@@ -1,0 +1,63 @@
+{
+  "number": 480,
+  "language": "es",
+  "title": "Digno eres, oh Señor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Digno eres, oh Señor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Digno eres, oh Señor;",
+        "que te honre nuestro ser,",
+        "que te honre siempre nuestro",
+        "ser.",
+        "Lleno eres de bondad,",
+        "mi alma se alegra en ti,",
+        "mi alma canta y se alegra en ti."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "De este mundo líbrame;",
+        "lléname de fe y amor.",
+        "Haz que pueda serte fiel,",
+        "tómame, Señor mi Dios."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Poderoso Creador,",
+        "vida plena y luz me das,",
+        "vida plena y clara luz me das.",
+        "Y tu sangre me salvó,",
+        "me redimes con amor,",
+        "me redimes con tu inmenso",
+        "amor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me contemplas con piedad,",
+        "hoy me dices: \"Ven a mí\",",
+        "hoy me dices: \"Hijo ven a mí\".",
+        "La maldad del pecador",
+        "por tu amor olvidarás,",
+        "por tu amor y bondad olvidarás."
+      ],
+      "number": 5
+    }
+  ]
+}

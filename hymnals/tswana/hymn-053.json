@@ -1,0 +1,37 @@
+{
+  "number": 53,
+  "language": "tn",
+  "title": "53 Mo’a Boitshepo Mogogi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mo’a Boitshepo Mogogi, Gaufi Le Mokreste",
+        "Re goge ka seatla Re baeti mo nageng;",
+        "Re ipela ka metlha, Fa re utlwa lentswe je",
+        "Sebang, \"Tla motimedi, Ntatela Kea Go goga."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Tsala E Ikanyegang, O Gaufi Go Thusa,",
+        "Se re tlogele fela Poifong le lefifing;",
+        "Fa go le ditlalelo, Dipelo di fifala,",
+        "Seba \"Tla motimedi, Ntatela Kea go goga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Tiro E Fedile, Re Tla Leta Kgololo,",
+        "Re rapelela gae, Re sa itse re kwadilwe;",
+        "Re tlola morwalela, Re kopa madi a Jeso,",
+        "Seba \"Tla motimedi, Ntatela, Ke tla go goga."
+      ],
+      "number": 3
+    }
+  ]
+}

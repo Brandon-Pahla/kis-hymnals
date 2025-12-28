@@ -1,0 +1,42 @@
+{
+  "number": 108,
+  "language": "en-sdah",
+  "title": "108 Amazing Grace",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Amazing grace! how sweet the sound, That saved a wretch like me! I once was lost, but now am found, Was blind, but now I see."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. “Twas grace that taught my heart to fear And grace my fears relieved How precious did that grace appear The hour I first believed"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. The Lord has promised good to me, His word my hope secures; He will my shield and portion be As long as life endures."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Through many dangers, toils, and snares, I have already come; ‘Tis grace that brought me save thus far, And grace will lead me home."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. When we’ve been there ten thousand years, Bright shining as the sun, We’ve no less days to sing God’s praise Than when we’d first begun."
+      ],
+      "number": 5
+    }
+  ]
+}

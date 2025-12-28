@@ -1,0 +1,68 @@
+{
+  "number": 4,
+  "language": "tum",
+  "title": " 4 Wakwiza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 4 Wakwiza",
+        "HE'S COMING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mazgu ghaweme 'gho tapulika,",
+        "Apo tikuya kukaya;",
+        "Mponoski withu wati wizenge",
+        "'Mwe kwizakawa Fumu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wakwiza Luwiro 'mwe wakwiza;",
+        "Kwiza pa charu cha pasi;",
+        "Tizamruta nayo kwawo kuchanya;",
+        "Pakwiza Fumu Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Malaro gha watuwa mitima",
+        "Ghazamujulika nadi,",
+        "Na wose wakugona m'malaro",
+        "Wazamkuwa wa moyo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Kuchanya ntha tayampatukana,",
+        "Wakuwombokwa wamkwimba;",
+        "Mitundu yose m'charu chapasi",
+        "Ya mrunmba Fumu yawo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Tayamkwimba haleluya, Amen,",
+        "Pakukoreska mwa Yesu;",
+        "Lindizganinge na kuromba 'mwe,",
+        "Tizamkuwara mphumphu."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 522,
+  "language": "tw",
+  "title": "M'anidaso Nsi Hwee So Sɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "M'anidaso nsi hwee so sɛ",
+        "Yesu mogya ne Ne trenee;",
+        "Mintumi ntwer' dɔfo fof'ro,",
+        "Metwere Yesu din nkutoo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Migyina Botan Kristo so,",
+        "Fam baabiara yɛ anwea nko;",
+        "Fam baabiara yɛ anwea nko."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ sum mpo kata N'anim a,",
+        "Ne daa dom mu na mehome;",
+        "Ahum biarā a ɛbɛbɔ no,",
+        "Mesɔ Ne nkatanim mu den."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne ntam, N'apam ne Ne mogya",
+        "Sɔ me mu nsuyiri biaram';",
+        "Sɛ m'apamfo gu gyaw me krā a",
+        "ɔne m'anidaso nyinaa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔde t'robɛnto nne sian bā a,",
+        "Ao, ma wonhu me wɔ Ne mu",
+        "Sɛ mifura Ne trenee nko",
+        "Gyina 'hengua no anim hɔ."
+      ],
+      "number": 4
+    }
+  ]
+}

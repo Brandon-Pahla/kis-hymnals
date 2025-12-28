@@ -1,0 +1,37 @@
+{
+  "number": 101,
+  "language": "fr",
+  "title": "Victoire au Seigneur de la vie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Victoire au Seigneur de la vie,",
+        "Victoire au Dieu de l’infini,",
+        "Victoire au nom de Jésus-Christ,",
+        "Victoire pour le Saint-Esprit!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le règne est pour le Tout-Puissant,",
+        "Le règne à lui dans tous les temps,",
+        "Car l’Agneau a donné son sang",
+        "Qui crie victoire maintenant."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Son nom est Parole de Dieu,",
+        "Il juge et règne dans les cieux,",
+        "Il est le lion de Juda",
+        "Qui a triomphé du combat."
+      ],
+      "number": 3
+    }
+  ]
+}

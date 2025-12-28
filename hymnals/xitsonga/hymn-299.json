@@ -1,0 +1,25 @@
+{
+  "number": 299,
+  "language": "ts",
+  "title": "299. TIMBILU LETI TSAKEKE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ALWAYS CHEERFUL",
+        "1. Timbilu Leti Tsakeke, Kule Na N’unun’uta;",
+        "A Ti Ve Tona Ta Hina, Tatana Wa Tintswalo.",
+        "CHORUS",
+        "Ntsakweni Nkarhi Hinkwawo, Hi Va Ku Vonakaleni;",
+        "Ku Saseken Ka Ndlela Ya Hosi, Ntsakweni Nkarhi Hinkwawo.",
+        "2. Vunene Bya Vufambisi, Bya Tatana Wa Hina;",
+        "Nala U Hava Matimba, Hi Xitshembhiso Xakwe.",
+        "3. Loko Hi Hambuka Ndlelen, Khombo Ri Hi Rindzele;",
+        "Na Ndzhuti Wa Funengeta, Ku Hela Na Tinsimu.",
+        "4. Va Tsaka Nkarhi Hinkwawo, Endleleni Yo Basa;",
+        "A Hi Rhandzen Swo Lulama, Hi Venga Leswo Biha."
+      ],
+      "number": 1
+    }
+  ]
+}

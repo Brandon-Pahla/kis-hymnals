@@ -1,0 +1,55 @@
+{
+  "number": 407,
+  "language": "es",
+  "title": "Muy cerca de mi Redentor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Muy cerca de mi Redentor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hay un lugar do quiero estar",
+        "muy cerca de mi Redentor;",
+        "allí podré yo descansar",
+        "al fiel amparo de su amor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Muy cerca de mi Redentor",
+        "seguro asilo encontraré;",
+        "me guardará del tentador,",
+        "y ya de nada temeré."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quitarme el mundo no podrá",
+        "la paz que halló mi corazón;",
+        "Jesús amante me dará",
+        "la más segura protección."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ni dudas ni temor tendré",
+        "estando cerca de Jesús;",
+        "rodeado siempre me veré",
+        "con los fulgores de su luz."
+      ],
+      "number": 5
+    }
+  ]
+}

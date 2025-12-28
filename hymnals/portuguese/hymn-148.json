@@ -1,0 +1,45 @@
+{
+  "number": 148,
+  "language": "pt",
+  "title": "Cristo Vem",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cristo Vem"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo vem com grande majestade",
+        "Sua obra terminar.",
+        "Oh, louvai o Rei da eternidade",
+        "Que virá aqui reinar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Rei da paz, sim, vem reinar",
+        "E vem levar-nos para o lar.",
+        "Vem, Senhor Jesus, reinar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Já se ouve o clarinar nos ares",
+        "Da trombeta angelical,",
+        "Que anuncia em todos os lugares",
+        "O chamado divinal."
+      ],
+      "number": 4
+    }
+  ]
+}

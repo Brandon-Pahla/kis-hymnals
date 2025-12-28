@@ -1,0 +1,49 @@
+{
+  "number": 189,
+  "language": "nd",
+  "title": "189 Akukho Muzi Omileyo Lapha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Asakhil’ impela lapha,",
+        "Si ngabahamb’ emhlabeni;",
+        "Umoya weth’ u thokozaSi cabang’ umuz’ ozayo Si cabang’ umuz’ ozayo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asakhil’ impela lapha’",
+        "Si fun’ umuz’ osithele;",
+        "iZion’ iNkos’ ikuwo,",
+        "I khanya kube phakade,",
+        "I khanya kube phakade."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Indaw’ enhle yokuthula,",
+        "Yokuphumuz’ abahambi;",
+        "Engazathi ngi ngaphapha,",
+        "Ngi phumule khona mina,",
+        "Ngi phumule khona mina"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thula moya wami, thula!",
+        "iNkosi i yakusisho;",
+        "Son’ is’khathi sokuhamba;",
+        "Ma ngi zame lapha mina",
+        "Ma ngi zame lapha mina"
+      ],
+      "number": 4
+    }
+  ]
+}

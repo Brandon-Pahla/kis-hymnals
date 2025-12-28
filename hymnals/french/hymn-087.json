@@ -1,0 +1,38 @@
+{
+  "number": 87,
+  "language": "fr",
+  "title": "Dans sa gloire, notre Maître",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dans sa gloire, notre Maître",
+        "Bientôt va paraître.",
+        "Oui, bientôt nous allons être",
+        "Avec lui dans les cieux."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Du Sauveur qui nous donne",
+        "La paix et nous pardonne,",
+        "Nous serons la couronne,",
+        "Les joyaux précieux."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vous qui recevez sa grâce",
+        "Et suivez sa trace,",
+        "Il vous prépare une place",
+        "Près de lui dans les cieux."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": 14,
+  "language": "fr",
+  "title": "Dieu créa par sa Parole",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dieu créa par sa Parole",
+        "Les rochers et les torrents;",
+        "Il fit toutes les étoiles",
+        "Et fixa leur mouvements;",
+        "Dieu forma l’homme et la femme",
+        "Et les prit pour ses enfants."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Autrefois, aux saint prophètes",
+        "Dieu parlait par son Esprit;",
+        "Maintenant il nous révèle",
+        "Ses desseins par Jésus-Christ;",
+        "Chaque Jour, par sa parole,",
+        "Il condamne l’ennemi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dieu vécut sur cette terre,",
+        "Par le Verbe, il s’est donné;",
+        "C’est aussi par sa Parole",
+        "Qu’il nous a sanctifiés;",
+        "Il nous comble de sa vie",
+        "Jusque dans l’éternité."
+      ],
+      "number": 3
+    }
+  ]
+}

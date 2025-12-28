@@ -1,0 +1,56 @@
+{
+  "number": 763,
+  "language": "tw",
+  "title": "NG13 Mehwε Nyame",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O m’abrabɔ mu nsεm yε Awerεho",
+        "Nanso Onyame nti mempa aba;",
+        "Nea εbεsi biara mepε",
+        "Menim sε b’re pa bεba."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mehwε Nyame, mehwε Nyame,",
+        "Mεsu mafrε me Nyame daa nyinaa;",
+        "Mεgyina pintinn, mempa ab da;",
+        "ɔbrε biara akyi wɔ ‘home."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sε esum duru me kwan mu,",
+        "Na mede me ti pempem;",
+        "B’re’ a m’anidaso nyinaa asa’a,",
+        "Mede bεhyε Nyame nsa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sε akwantu yi mu yε den mpo,",
+        "Na menni werε kyekyefo a,",
+        "B’re a awɔse bɔne akye me no,",
+        "Onyame bεhyε me den"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Awerεho ne su yi to bεtwa,",
+        "Efisε Nyame bεdi ama me;",
+        "B’re a meto m’ani a εnsia no",
+        "Metoa Agyenkwa mpaebɔ mu."
+      ],
+      "number": 4
+    }
+  ]
+}

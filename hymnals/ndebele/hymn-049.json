@@ -1,0 +1,40 @@
+{
+  "number": 49,
+  "language": "nd",
+  "title": "49 Yinye Inkumbul’ Emnandi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Inkumbul’ emnandi, I yabuya kimi;",
+        "Ngi sondel’ ekhaya lami, Ku nokoqala."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi sondel’ ekhaya lami;",
+        "Ngi sondel’ ekhaya namhla",
+        "Ku nokokuqala."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eduze k’uBaba, Ezindlini zAkhe;",
+        "Ku seduze nesiHlalo, Sobukhosi bAkhe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ku duze ngi hambe, Ngi lahle im’thwalo;",
+        "Ngi shiy’ inhlupheko lapha, Ng’amukel’ umqhele."
+      ],
+      "number": 4
+    }
+  ]
+}

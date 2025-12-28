@@ -1,0 +1,46 @@
+{
+  "number": 39,
+  "language": "tn",
+  "title": "39 Tsholofelo Ya Me E Mading",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tsholofelo Ya Me E Mading Le Tshiamong Ya Jeso",
+        "Ga ke ikanye bonna, mme Ke ikaega go Jeso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke eme Lefikeng je le Tlhomameng go Keresete;",
+        "Mmu o mongwe ke mosawa"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Lefifi Le Mo Sira, Ke Ikhutsa Tshwarong Ya ’Gwe;",
+        "Mo sefefong se se tona, Ke tlhomame mo go Ene."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ikano, Kgolagano Le Madi A Gagwe Dia Nthusa;",
+        "Fa batho botlhe ba ntatlha, K’ Ene tsholofelo ya me."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa A Tla Ka Loshalaba, Ao, Ke Fitlhelwe Go Ene;",
+        "Ke apesitswe tshiamo, Ke eme gaufi teroneng."
+      ],
+      "number": 4
+    }
+  ]
+}

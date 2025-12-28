@@ -1,0 +1,35 @@
+{
+  "number": 473,
+  "language": "en-sdah",
+  "title": "473 Nearer My God, To Thee",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nearer, my God, to Thee, Nearer to Thee! E'en though it be a cross That raiseth me! Still all my song shall be, Nearer, my God, to Thee, Nearer, my God, to Thee Nearer to Thee."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Though like a wanderer, Daylight all gone, Darkness be over me, My rest a stone; 0 Yet in my dreams I'd be Nearer, my God, to Thee, Nearer, my God, to Thee, Nearer to Thee."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. There let the way appear, Steps up to heaven; All that Thou sendest me, In mercy given Angels to beckon me Nearer, my God, to Thee, Nearer, my God, to Thee Nearer to Thee."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Then, with my waking thoughts Bright with Thy praise, Out of my stony griefs Bethel I'll raise; So by my woes to be Nearer, my God, to Thee, Nearer, my God, to Thee, Nearer to Thee."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "number": 425,
+  "language": "tw",
+  "title": "Kronkron, Kronkron Ne Abɔfo No Dwom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dwonto bi rekɔ so s'ro a",
+        "Yɛntee ne nsɛso bi da;",
+        "Faako a 'bɔfo to 'Guammaā a",
+        "Ͻte agua so 'yeyi;",
+        "Wɔn nsankuhama so yɛ dɛ,",
+        "Na wɔn nne nso mu da hɔ;",
+        "Anka yentumi nyɛ sɛ wɔn",
+        "B'rč a yɛsom 'W'ra no ha yi!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kronkron, kronkron ne abɔfo no dwom,",
+        "Na mepɛ sɛ meboa ma s'ro abangua no wosow;",
+        "Nso meto ɔgye dwom a wɔbɛbrɛ wɔn ntaban 'se",
+        "'Fisɛ 'bɔfo nnim 'nigye a yɛn nkwagye de ba no."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nanao mete dwom fof'ro bi",
+        "Wɔ nne a ɛyɛ dɛ mu;",
+        "Ͻka sɛ yɛyɛ Nea Wagye",
+        "Yɛn na Watɔ yɛn no de;",
+        "Yefi ahohiahia mu na",
+        "Yɛaba hann 'sase yi so;",
+        "Wasi yɛn ntade no fitaa",
+        "Bura a ɛsen kwa nom'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abɔfo gyina hɔ tie, na",
+        "Wontumi nto saa dwom a",
+        "Egyigye sɛ nsu a dɔm a",
+        "Wɔaguar' wɔn mogyam to no;",
+        "'fisɛ dwom no fa akodi",
+        "Ne wɔn nkonimdi no ho",
+        "Woyi wɔn Gyefo kɛse a",
+        "Wama wɔn \\\"Mo\\\" na aye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ewom sɛ menyɛ 'bɔfo de,",
+        "Nso minim sɛ s'ro hɔ no,",
+        "Mɛfra nnwontofō a wɔahy'ra wɔn",
+        "Na 'bɔfo ntum' nka ho nom';",
+        "Mɛto n'Agyenkwa no ho dwom,",
+        "Nea ɔpataa me mm'rato",
+        "Na Owu de gyee 'bɔn'yɛni",
+        "Wɔ Kalbre sum mu hɔ no."
+      ],
+      "number": 4
+    }
+  ]
+}

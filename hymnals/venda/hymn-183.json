@@ -1,0 +1,52 @@
+{
+  "number": 183,
+  "language": "ve",
+  "title": "183 Khwathisa U Swika Ndi Tshi da",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:600",
+        "AH:333"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Fulufhedziso kha vha tendaho,",
+        "’Ndi da nga u tavhanya u dzhia vhanga,’",
+        "Fara khwathisa, khombo ndi khulu,",
+        "’U songo tsha litsha, dzula lindela.’"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Linda, khwathisa, fulufhedzea, khare ya vhutshilo vhu sa fheli,",
+        "Dzhena tadulu u wane dzanga, vhuhosi vhu do vha vhu hau tshothe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ri do rabela tshedzani tshau,",
+        "kha vhavhi u da sa mbava vhusiku,",
+        "Ri divha hu tsini u da ha",
+        "Yesudzula wo lindela u tshidzwa ngae."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Fulufhedziso ili ndi lashu,",
+        "u da ha murena e na lupenyo,",
+        "Zwine zwa fhira zwe zwa ambiwa,",
+        "ndi da zwenezwino fara u khwathe."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "number": 196,
+  "language": "nso",
+  "title": " 196  GO MAATLA MADING",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 196  GO MAATLA MADING",
+        "CS 27",
+        "THERE IS POWER IN THE BLOOD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O kganyoga go rolwa sebe na?",
+        "Maatla mading, maatla mading,",
+        "O kganyoga go fenya bobe na?",
+        "Maatla a gona mo mading;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "A gona... maatla mo mading,",
+        "A kwana... a kwana...,",
+        "A gona... maatla le mading,",
+        "Mading a botse a kwana;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A o nyaka go tloga bogaleng?",
+        "Go maatla mading, maatla mading.",
+        "Tla o tlo hlapa gona le wena,",
+        "Maatla a gona mo mading;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A o rata go ba mošweu twa?",
+        "Go maatla mading, maatla mading,",
+        "Tla o tlo hlapa gona le wena,",
+        "Maatla a gona mo mading,"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A o ka šomela Morena na?",
+        "Go maatla mading, Maatla mading,",
+        "O fišegela go mo tumiša?",
+        "Maatla a gona mo mading,"
+      ],
+      "number": 6
+    }
+  ]
+}

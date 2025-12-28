@@ -1,0 +1,53 @@
+{
+  "number": 152,
+  "language": "ny",
+  "title": "152 - Yesu Mundilankhule",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SPEAK TO MY SOUL"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu, mundilankhule, Mau ofatsawo;",
+        "Mndinong’oneze kuti, Sulitu wekha ’we.",
+        "Mtima munditsegule, Kuti ndimvere ’Nu;",
+        "Mdzaze mu mtima mwanga, Kuti ndikondwedi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mundinong’onezetu, Mwa nsisi zanuzo,",
+        "Udzagonjetsa ndithu, Udzamasukadi.",
+        "Mundilankhule, Mbuye, Tsiku ndi tsikunso,",
+        "Ndimvetu mau anu, Sulitu wekha ’we."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yesu, munene mau Ndi ana anuwo,",
+        "Kuyang’anira Inu, Muwaphunzitsetu;",
+        "Kuti apereketu Moyo kwa Inuyo,",
+        "Udze ufumu wanu, Kuti ’dzaone ’Nu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kale munaonetsa Kufuna kwanuko,",
+        "Yanga ndidziwe ntchito, Ndichite zanuzo;",
+        "Ndilemekeze Inu, Kwa anthu onsewo,",
+        "Nchite kufuna kwanu, Masiku onsewo."
+      ],
+      "number": 4
+    }
+  ]
+}

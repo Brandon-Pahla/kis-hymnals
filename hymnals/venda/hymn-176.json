@@ -1,0 +1,47 @@
+{
+  "number": 176,
+  "language": "ve",
+  "title": "176. Fulufhelo lo Shudufhadzwaho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Fulufhelo likhethwa, Khezwo zwi todwaho,",
+        "U fhira zwothe zwi funwaho nhalo shango."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Hu na naledzi i bvisaho maswiswi,",
+        "I penya u fhira zwothe, i kunda na lufu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ipfi la khuthadzo, li vusaho muya,",
+        "Li tusa dzimbilaelo, Nga lufuno lwawe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ipfi la Goligotha, li bula pfarelo,",
+        "Li ri fha fulufhelo la u ya tadulu."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": 554,
+  "language": "tw",
+  "title": "Ma Me Ne Wo Nnantew, Nyame",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ma me ne Wo nnantew, Nyame,",
+        "Sɛ Henok nnantew tete no;",
+        "Sɔ me nsa mmerɛw yi mu den;",
+        "Na Wo ne me nni nkɔmmɔ pa;",
+        "Sɛ mintumi nhu kwan no a,",
+        "Yesu, ma me ne Wo nnante."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me nko merentumi nnantew,",
+        "Ahum no ano yɛ den wim',",
+        "Wɔasunsum me af'ri apem,",
+        "Atamfo apem retɛw me,",
+        "Dwudwo po abufuw ano;",
+        "Wura, ma me ne Wo nnantew."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ me nsa yi sɔ Wo mu a,",
+        "'Ha dɛw nyinaa mimmu no hwee;",
+        "Metu me kwan aboɔd'ru mu",
+        "Asɛnnua no frankaa n'ase;",
+        "Kosi sɛ mehu Sion apon,",
+        "'Gyenkwa, ma me ne Wo nnantew."
+      ],
+      "number": 3
+    }
+  ]
+}

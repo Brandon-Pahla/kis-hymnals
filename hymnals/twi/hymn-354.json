@@ -1,0 +1,47 @@
+{
+  "number": 354,
+  "language": "tw",
+  "title": "Nyame, Wɔ Dɔ Na Ͻbɔɔ Nnipa Ny'naa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame, Wo dɔ na ɛbɔɔ nnipa mma ny'naa,",
+        "Na adi Wo mma anim 'besi nnɛ,",
+        "Abrabɔ mu 'nuonyam wie pɛyɛ Kristom,",
+        "Wo Honhom yi Ne tumi adi ky'rɛ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yefi ɔbra sum mu abasamtu mu,",
+        "Ahantan ne ɔbrakyew nyinaa mu,",
+        "Dan yɛn ho hwehwɛ Wo nokware hann no,",
+        "Na yehu Wo dom a ɛretwɛn yɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa mmɔb'rɔhun' hwɛ Wo mma sɛ wɔrep're,",
+        "Hwehwɛ nkwa, 'somdwoe, 'hofadi, nkabom,",
+        "Kosi sɛ Wo nokware bewie pɛyɛ,",
+        "Na yɛahu nnepa henkyɛw wɔ Kristom."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hyɛ W'asafo den 'sase so haw nyinaam',",
+        "Ma wɔnka n'Aw'rade ho asɛmpa,",
+        "Kosi sɛ akodi wiase yi de dɛw,",
+        "Bɛte ɔsoro dɔ kɛse no nka."
+      ],
+      "number": 4
+    }
+  ]
+}

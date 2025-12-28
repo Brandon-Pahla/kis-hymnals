@@ -1,0 +1,34 @@
+{
+  "number": 256,
+  "language": "rw",
+  "title": "256 Abatuye Mw'Isi Mwese",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 255 Mbes'Aho Tuzahurira Ku Cyambu?",
+        "**1**",
+        "Abatuye mw'isi mwese,",
+        "Muririmbir'Uhoraho,",
+        "Mumukorere mwishima,",
+        "Mwogez'icyubahiro cye.",
+        "**2**",
+        "Mumenye kw'ari we Mana,",
+        "Kukw'ariwe waturemye,",
+        "Twese tur'umukumbi we,",
+        "Turagiwe n'Uhoraho.",
+        "**3**",
+        "Muze mwese mu rugo rwe,",
+        "Muze mwese mumushima,",
+        "Muhanik'amajwi yanyu,",
+        "Kukw aribyo bikwiriye.",
+        "**4**",
+        "Mwabaza muti: ni kuki?",
+        "Nuk'Uhoraho ari mwiza,",
+        "N'impuhwe ze zikaramba,",
+        "Nta n'ubwo zizashiraho."
+      ],
+      "number": 1
+    }
+  ]
+}

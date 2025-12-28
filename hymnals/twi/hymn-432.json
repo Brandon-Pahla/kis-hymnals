@@ -1,0 +1,56 @@
+{
+  "number": 432,
+  "language": "tw",
+  "title": "So Yebehyiam Asu No So",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "So yebehyiam asu no so,",
+        "Nea abɔfo atiatia;",
+        "Asu k'ronnyen a ɛsen daa",
+        "Fi Nyame 'hengua mu no?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yiw, yebehyiam asu no so,",
+        "Asu fɛfɛ, asu fɛfɛ no a",
+        "Efi Nyame 'henguam sen no,",
+        "Yɛne 'hotefo behyiam"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asu fɛfɛ no ano hɔ,",
+        "Nea ne nsu sen hyɛnhyɛn no;",
+        "Yɛbɛnante hɔ asom daa",
+        "Wɔ ahotɔ da no mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Momma yɛnto yɛn nnesosa ngu,",
+        "Ansa na yɛadu s'ro hɔ;",
+        "Yɛn honhom no benya ɔdom,",
+        "Ma yɛanya ntade ne kyɛw."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻrenkyɛ na yebedu hɔ,",
+        "Akwantu yi to betwa;",
+        "Awɔse bɛka yɛn koma,",
+        "ɔdɛw asomdwoe nnwom mu."
+      ],
+      "number": 4
+    }
+  ]
+}

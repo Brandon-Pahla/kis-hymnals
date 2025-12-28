@@ -1,0 +1,49 @@
+{
+  "number": 98,
+  "language": "tw",
+  "title": "So Wubetum' Akan Ns'romma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "So wubetum' akan ns'romma",
+        "A ɛhy'rɛn wim anadwo?",
+        "Wubetum' akan mununkum",
+        "A ɛretwam wɔ ewim?",
+        "Nyame de, Onim wɔn dodow,",
+        "'Fisɛ ɔntɔ nko na ɔnna;",
+        "ɔno na ɔbɔɔ wɔn ny'naa",
+        "ɔno na ɔbɔɔ wɔn ny'naa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "So wubetum' akan nnomaa",
+        "A wotu wɔ ewim yi?",
+        "Wubetum' akan mpataa no",
+        "A wogu nsuten ny'naa mu?",
+        "Awurade Nyame ama",
+        "Abɔde nyinaa din nk'ronk'ro,",
+        "ɔno na ɔmaa wɔn din,",
+        "ɔno na ɔmaa wɔn din."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "So wunim mmofra dodow a",
+        "Wɔde 'nigye nyan 'nɔpa?",
+        "Wubetum' asusu nne a",
+        "Wɔde to nnwom da biara?",
+        "Nyame te wɔn nigye nne a",
+        "Wɔde to ayeyi nnwom no;",
+        "Na ɔdɔ wɔn mu biara,",
+        "Na ɔdɔ wɔn mu biara."
+      ],
+      "number": 3
+    }
+  ]
+}

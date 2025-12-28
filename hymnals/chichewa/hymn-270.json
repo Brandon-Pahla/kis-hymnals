@@ -1,0 +1,30 @@
+{
+  "number": 270,
+  "language": "ny",
+  "title": "270 - Nkhoswe Yathu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE COMFORTER WITH US"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mpulumutsi potsazika, Ndi mau okonda,",
+        "Msangalatsi, adzakhala Nkhoswe yathu.",
+        "2. Anadza kudzatikonza, Wansisi, wolola",
+        "Kupeza mmodzi wodekha Apumemo.",
+        "3. Timva mau’ce odekha Ocokera m’mwamba,",
+        "Otsutsa chimo odekha aitana",
+        "4. Ukoma wonse ndi wace, Cigonjetso conce,",
+        "Ganizo laciyeronso, Zonse nzace.",
+        "5. Mzimu wanu waciyero, Mtimvere nsisitu;",
+        "Mukhale m’mtima mwathu, Ana ace."
+      ],
+      "number": 2
+    }
+  ]
+}

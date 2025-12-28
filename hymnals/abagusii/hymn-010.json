@@ -1,0 +1,28 @@
+{
+  "number": 10,
+  "language": "guz",
+  "title": "10 Nchw' Ensoko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nchw' Ensoko ya Ker'egesio,Ninter'obuya bwao,Maber'amang'ataere,Agere tokobake.Nyegerie kogosasima,Nyorok'obuya bwao,'Gosemeria Kw'Obonene,Nkor'eichorw'obwanchani."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nateneniri 'Ebenesa*,kwandendire goik'aa,Nasemeirie as'obuyabwao ning'ike inka,Yes'akandigi'omosiru,Konareng'are nere,Gonkonya korw'emechando,Gaiter'amanying'aye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Botambe nd'omonyasira's'obuya bwa Nyasae,'Buya buna chingatarebombwaterani' as'ore.Mbetereirie ntayayentige Nyasae nyanchete,Ir'enkoro yane tatayegach'agwo igoro."
+      ],
+      "number": 3
+    }
+  ]
+}

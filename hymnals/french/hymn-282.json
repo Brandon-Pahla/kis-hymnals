@@ -1,0 +1,58 @@
+{
+  "number": 282,
+  "language": "fr",
+  "title": "Mon Sauveur m'a sauvé",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mon Sauveur m'a sauvé,",
+        "Je suis purifié,",
+        "Il m'a rendu digne des cieux.",
+        "Sa parole de vie,",
+        "Son pardon gratuit,",
+        "Sont mes dons les plus précieux.",
+        "Sa parole proclame bien fort,",
+        "Que je suis libéré de la mort.",
+        "Libre par son pardon,",
+        "J'invoque son nom,",
+        "Cadeau merveilleux."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "J'ai crié ma douleur,",
+        "Mon indignité,",
+        "Mes vains combats, vers toi, Seigneur.",
+        "Trop longtemps je pensais",
+        "Gagner ton salut :",
+        "Je n'ai récolté que la peur.",
+        "Entre tes mains j'ai tout déposé,",
+        "Mes peines, mes soucis, mes échecs.",
+        "De toi j'ai tout reçu,",
+        "En toi j'ai trouvé",
+        "La voie du bonheur."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amis, levons les yeux,",
+        "Le Seigneur des cieux",
+        "Pour nous a souffert sur la croix.",
+        "Il a connu l'enfer,",
+        "Au mal fait la guerre :",
+        "Pour nous il a ouvert la voie.",
+        "L'agneau de Dieu a vaincu la mort;",
+        "Sa vie a triomphé de nos torts.",
+        "Nous voulons t'accueillir",
+        "De tout notre cœur :",
+        "Deviens notre roi."
+      ],
+      "number": 3
+    }
+  ]
+}

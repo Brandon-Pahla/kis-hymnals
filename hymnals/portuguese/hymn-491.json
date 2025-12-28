@@ -1,0 +1,40 @@
+{
+  "number": 491,
+  "language": "pt",
+  "title": "Além do Céu Azul",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Além do Céu Azul"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Além do céu azul,",
+        "Foi Jesus preparar",
+        "Um lar pra dar a quem",
+        "A vitória alcançar.",
+        "Anelo conseguir",
+        "A vida no porvir,",
+        "Com fé no meu Senhor Jesus."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bem sei que eu, de mim,",
+        "Nada tenho pra dar,",
+        "Mas sei que meu Jesus",
+        "Já me veio salvar.",
+        "Agora quero eu",
+        "Ter fé no coração,",
+        "Até Seu rosto ver além."
+      ],
+      "number": 3
+    }
+  ]
+}

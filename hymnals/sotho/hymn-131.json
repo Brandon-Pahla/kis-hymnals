@@ -1,0 +1,37 @@
+{
+  "number": 131,
+  "language": "st",
+  "title": "131  Nke Ke Ts’oane Le Jesu.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nke ke ts’oane le Jesu Eena Morena oa ka,",
+        "Lumela Mopholosi oa ka U lule le ’na;",
+        "Nke ke ts’oane le Jesu hona mona lefats’eng,",
+        "Ke hloka tsa moea lula le ’na Mopholosi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nonyana ha e lla O talima ka mosa,",
+        "O bona le tse oeleng ka ’nete O tla nkutloa;",
+        "O lisa tsela ea ka, A tle a e lokise,",
+        "Ke batla khalalelo, lula le ’na Mopholosi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nke ke ts’oane le Jesu, ke be joalo kamehla;",
+        "Ke rata ho phomola litulong tse khutsitseng,",
+        "Ke be ea tsoetsoeng bocha ka thato ea Hao Jesu.",
+        "Nke ke be le tumelo lula le ’na Mopholosi."
+      ],
+      "number": 3
+    }
+  ]
+}

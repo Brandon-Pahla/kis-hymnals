@@ -1,0 +1,57 @@
+{
+  "number": 297,
+  "language": "tum",
+  "title": " 297 Yumoza Wakazomera Kundifwira",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 297 Yumoza Wakazomera Kundifwira",
+        "NAILED TO THE CROSS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Yumoza wakafwa mu malo mwa ine,",
+        "Kuti ndachitchwapi ndipone.",
+        "Mnthowa yakuya ku mphinjika wakenda,",
+        "Kundigowokera kwananga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kwananga kwakhomereka pa mphinjika,",
+        "a, Inya, wakazizipizga mwe,",
+        "Wakasuzgika 'mwe Yesu pa mphinjika,",
+        "ga. Wakandiyeghera kwananga."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Wakundipwereraso na kunditemwa,",
+        "Wakundisuka mtima wane.",
+        "Ntha wakundisuska wakundisutula,",
+        "Wagowoka kwananga kwane."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Ndimamatirenge kwa Mponoski wane,",
+        "Nditi ndendenge mwakukondwa,",
+        "Sumu pa mulomo na mumtima wane,",
+        "Kwananga kwagowokereka."
+      ],
+      "number": 4
+    }
+  ]
+}

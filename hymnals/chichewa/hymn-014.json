@@ -1,0 +1,30 @@
+{
+  "number": 14,
+  "language": "ny",
+  "title": "14 - Imva Makobidi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HEAR THE PENNIES DROPPING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Imva makobidi, tili kuponya!",
+        "Tili kupereka, onse kwa Yesu.",
+        "CHORUS:",
+        "Ngwingwi! ngwingwi! Ngwingwi! ngwingwi!",
+        "Tili kuponya! Tili kupereka, Onse kwa Yesu.",
+        "2. Tonse tipereka, kobidi lathu;",
+        "Kuti anthu ena amve za Yesu.",
+        "3. Pakuperekatu tili kusunga;",
+        "Tikakula, Mbuye adzatipatsa.",
+        "4. Makamaka Yesu afuna ife;",
+        "Kuti tipereke mitima yathu."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 150,
+  "language": "en",
+  "title": "150 Where Are The Reapers?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O where are the reapers that garner in,",
+        "The sheaves of the good from the fields of sin?",
+        "With sickles of truth must the work be done,",
+        "And no one may rest till the “harvest home”"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Where are the reapers? O who will come,",
+        "And share in the glory of the “harvest home.”",
+        "O, who will help us to garner in,",
+        "The sheaves of good from the fields of sin?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go out in the highways and search them all,",
+        "The wheat may be there, though the weeds are tall;",
+        "Then search in the highway, and pass none by;",
+        "But gather from all for the home on high,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "The fields are all rip’ning, and far and wide;",
+        "The world now is waiting the harvest tide;",
+        "But reapers are few, and the work is great,",
+        "And much will be lost should the harvest wait."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "So come with your sickles, yes sons of men,",
+        "And gather together the golden grain;",
+        "Toil on till the Lord of the harvest come,",
+        "Then share ye his joy in the “harvest home.”"
+      ],
+      "number": 4
+    }
+  ]
+}

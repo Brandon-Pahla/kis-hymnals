@@ -1,0 +1,60 @@
+{
+  "number": 26,
+  "language": "fr",
+  "title": "Redites-moi l'histoire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Redites-moi l'histoire",
+        "De l'amour de Jésus;",
+        "Parlez-moi de la gloire",
+        "Qu'il promet aux élus.",
+        "J'ai besoin qu'on m'instruise,",
+        "Car je suis ignorant,",
+        "Qu'à Christ on me conduise",
+        "Comme un petit enfant."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Redites-moi l'histoire,",
+        "Redites-moi l'histoire,",
+        "Redites-moi l'histoire",
+        "de l'amour de Jésus."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Redites-moi l'histoire",
+        "De la crèche à la croix;",
+        "Éveillez ma mémoire,",
+        "Oublieuse parfois.",
+        "Cette histoire si belle,",
+        "Dites-la simplement,",
+        "Elle est toujours nouvelle,",
+        "Répétez-la souvent."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Redites-moi l'histoire",
+        "De mon divin Sauveur;",
+        "C'est lui, dont la victoire",
+        "Affranchit le pécheur.",
+        "Ce glorieux message,",
+        "Oh! redites-le moi,",
+        "Lorsque je perds courage,",
+        "Lorsque faiblit ma foi."
+      ],
+      "number": 4
+    }
+  ]
+}

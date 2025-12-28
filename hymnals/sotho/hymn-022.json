@@ -1,0 +1,45 @@
+{
+  "number": 22,
+  "language": "st",
+  "title": "22 E Le ’Na",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Morena k’utloa ha ’ntse u nesa mahlohololo;",
+        "A khorisang ba nyoriloeng, le ’na hle a ka ’nele."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "E le ’na, e le ’na, a ke a ’nele le ’na."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ntate ea pelo-hlomohi, se mphete ’na molibe",
+        "Leha u ka mpheta hle ’se ntime lehlohonolo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Me leha ke le mosenyi fela ke hlolohetsoe",
+        "Lefats’e le ntsoareletse mpholose u ntsoarele."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se mphete moea oa ’nete, khantsetsa le lifofu",
+        "Paka ka Jesu, bua lentsoe la khotso ka ho ’na."
+      ],
+      "number": 4
+    }
+  ]
+}

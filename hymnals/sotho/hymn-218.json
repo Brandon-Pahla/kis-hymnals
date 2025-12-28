@@ -1,0 +1,47 @@
+{
+  "number": 218,
+  "language": "st",
+  "title": "218 Motheo O Mong",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Motheo oa Kereke, Ke Jesu Morena,",
+        "Ke ’mopo o mocha. Ka mali le lentsoe,",
+        "O tlile ho e batla, Ho ba monyaluoa,",
+        "Ka mali o e rekile, A b’a e shoela."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bakhethoa ba tsoang hohle, Bohle ke nthoe le ’ngoe,",
+        "Morena o mong feela, Tumelo le tsoalo;",
+        "Ba rorisa bitso, Ba ja sejo se le seng.",
+        "Ba ts’oere ts’epo e ’ngoe, Le mohau oohle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leha ka ho e soma, Batho ba e sheba,",
+        "Leha lira li thuha lefika la eona",
+        "Ba its’epa tumelo, Ba re: Ho isa kae?",
+        "Bosiu ba mahlomola, E tla ba thabo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ts’ebetsong, mats’oenyehong, Le lintoeng tsa eona;",
+        "E letile ka khotso ea bo-sa-feleng,",
+        "Ponong ea khalalelo, Pono ea bohlokoa,",
+        "Ka tlholo Kereke e tla lula khotsong"
+      ],
+      "number": 4
+    }
+  ]
+}

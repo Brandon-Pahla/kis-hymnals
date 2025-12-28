@@ -1,0 +1,67 @@
+{
+  "number": 399,
+  "language": "es",
+  "title": "En estos tiempos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### En estos tiempos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En estos tiempos necesitas",
+        "un Salvador, un ancla firme.",
+        "Debes tener seguridad",
+        "de que tu ancla en la Roca esté."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "La Roca es Cristo,",
+        "no hay otra igual;",
+        "la Roca es Cristo,",
+        "no hay otra igual."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "[1a y 2a estrofas:] Debes tener",
+        "seguridad",
+        "de que tu ancla en la Roca esté.",
+        "[3a estrofa:] Seguro estoy, seguro",
+        "estoy,",
+        "sé que mi ancla en la Roca está."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En estos tiempos necesitas",
+        "la Santa Biblia, la Palabra.",
+        "Debes tener seguridad",
+        "de que tu ancla en la Roca esté."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En estos tiempos sé que tengo",
+        "un Salvador, un ancla firme.",
+        "Seguro estoy, seguro estoy,",
+        "sé que mi ancla en la Roca está."
+      ],
+      "number": 6
+    }
+  ]
+}

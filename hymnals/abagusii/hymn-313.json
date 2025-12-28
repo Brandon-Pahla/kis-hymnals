@@ -1,0 +1,42 @@
+{
+  "number": 313,
+  "language": "guz",
+  "title": "313 Mogoroba Kobwairire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mogoroba kobwairire,Abarwaire bachire,Ang'e naye Omonene,Basabire obakonye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Naintwe bono mogoroba,Twachire n'obob'obonge,Nonya titokorochi aye,Twamanyire nao ore."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Omotoria seri'obwoba,'Bande nabarwaire bare,'Bande mbaragwancha buya,Abande babosiririe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Nde tari nogotimoka,Taiy'otakoreti ebibe'Bakogokorera buyaBeigwa mbanyabibe bare."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. 'Koboko kwao nkwa nguru,Ng'ana yao tekogwa bosaIgwa bono mogoroba,Ase obuya togwenie."
+      ],
+      "number": 5
+    }
+  ]
+}

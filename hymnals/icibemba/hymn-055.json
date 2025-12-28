@@ -1,0 +1,31 @@
+{
+  "number": 55,
+  "language": "bem",
+  "title": "55 - BUSHE WAYA KULI YESU KUSAMBWA?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HAVE YOU BEEN TO JESUS!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bushe waya kuli Yesu kusambwa. Mum’lopa wa Yesu wamweo?",
+        "Wasumina cine cine m'cikuku, Wasambwa mum’lopa wa Yesu?",
+        "CHORUS:",
+        "Wasambwa ... mum'lopa ... Wabuta wa Mwana wa Mpanga ... ?",
+        "Bushe fyakufwala fyenu fyabuta? Kanshi musambwe mu mulopa.",
+        "2. Bushe ule enda pe pe ne Mfumu, Mum'lopa wa Mwana wa Mpanga?",
+        "Uletusha pa lupanda lwa Mfumu, Wasambwa mum’lopa wa Yesu.",
+        "3. Lintu Shibwinga akesa ni shani, Bushe ukaba mutuntulu?",
+        "Bushe ukaba waiteyanisha? Sambeni mum‘lopa wa Yesu",
+        "4. Fuleni fyakufwala ifyakale, Musambe mum‘lopa wa Mpanga;",
+        "Kafukauka kaliko musambe, Sambeni mum’lopa wa Mpanga."
+      ],
+      "number": 2
+    }
+  ]
+}

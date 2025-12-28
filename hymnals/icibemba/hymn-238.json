@@ -1,0 +1,35 @@
+{
+  "number": 238,
+  "language": "bem",
+  "title": "238 - NI BA 'NI ABA?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHO WHO ARE THESE?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bushe nibani 'ba bayabuka Bapusuka ukufuma kumfwa",
+        "Yesu abapususha basambwa mumulopa",
+        "CHORUS:",
+        "Bengile fipata mu Jerusalemu",
+        "Basambwa mumulopa wakwe",
+        "Bengile fipata mu Jerusalemu",
+        "Basambwa mu mulopa.",
+        "2. Aba mano mubwaice bwabo Basalile nshila shakwa Yesu",
+        "Basangile cikulu, Basambwa mu mulopa.",
+        "3. Aba ebo bali mu macusho Bali na Yesu baleseketa",
+        "Ne mitima yabuta, basambwa mumulopa",
+        "4. Aba ebo bali mumatunko Bayanshishe maka ya mulilo",
+        "Nomba Yesu abeta, basambwa mumulopa.",
+        "5. Nabapusuka bali pa cabu Bubi misongo ne mfwa takuli",
+        "Balesekela lyonse basambwa mumulopa."
+      ],
+      "number": 2
+    }
+  ]
+}

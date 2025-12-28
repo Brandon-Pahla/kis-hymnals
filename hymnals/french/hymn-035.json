@@ -1,0 +1,55 @@
+{
+  "number": 35,
+  "language": "fr",
+  "title": "Nuit lumineuse",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nuit lumineuse,",
+        "Nuit bienheureuse,",
+        "Nuit où Christ descend des cieux!",
+        "Ô saint mystère :",
+        "Il vient sur terre,",
+        "Jésus-Christ, le Fils de Dieu!",
+        "Chante mon âme,",
+        "Chante et proclame",
+        "L’immense joie",
+        "Que Dieu t’envoie :",
+        "Christ est ton maître.",
+        "Alléluia!",
+        "Plus de tristesse,",
+        "Plus de détresse,",
+        "Sois sans alarmes",
+        "Sèche tes larmes :",
+        "Vois-le paraître!",
+        "Alléluia!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Paix sur la terre :",
+        "Dieu notre Père",
+        "Donne aux siens l’enfant Jésus.",
+        "Gloire et louange,",
+        "Chantent les anges,",
+        "Gloire, honneur au Fils élu!",
+        "Nuit mémorable,",
+        "Dans une étable,",
+        "Pâtres et mages,",
+        "Pauvres et sages",
+        "Sont là qui prient :",
+        "Alléluia!",
+        "Pleins de tendresse,",
+        "Pleins d’allégresse,",
+        "Peuple fidèle,",
+        "Quand Dieu t’appelle,",
+        "Jubile et crie :",
+        "Alléluia!"
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 588,
+  "language": "tw",
+  "title": "Aman Nyinaa W'ra",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Aman nyinaa W'ra, ma me dom",
+        "Mfa nnɔ nnipa horow nyinaa;",
+        "Ma menhu ɔkra biara mu,",
+        "Adɔfo a Woagye wɔn nkwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, bubu fasu a ɛde",
+        "Ntetewm'di bɛba Wo mma mu,",
+        "Ma mempɛ me yɔnko yiedi;",
+        "Ma Kristom dɔ no nka yɛn mmom'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, fa me mfomso nyinaa kyɛ",
+        "'T'rimɔden ne nsɛnhun' nyinaa;",
+        "Ma menhu sɛ me bɔn' biara",
+        "Bɔ m'Awurade 'sɛnnuam' bio."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, ma memfa W'akokod'ru",
+        "Nkasa brč a wɔhyɛ afof'ro so;",
+        "Sɛ wɔhyɛ me so bi saa a,",
+        "Ma menkae Wo, na memfa nkyɛ."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma Wo dɔ no nhyɛ me ma wɔ",
+        "Wo Honhom Kronkron no pɛ mu;",
+        "Na nea me nsa besom biara",
+        "Anya Wo soro tumi no."
+      ],
+      "number": 5
+    }
+  ]
+}

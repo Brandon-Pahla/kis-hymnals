@@ -1,0 +1,57 @@
+{
+  "number": 302,
+  "language": "tum",
+  "title": " 302 Chiuta Wakuchanya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 302 Chiuta Wakuchanya",
+        "Upon Dedicating A Church"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Chiuta wakuchaya tiza ise kuno,",
+        "Na mtima wakukondwa pakunjira muno,",
+        "Chifukwa cha viweme 'vyo mwatichitira,",
+        "Tikumuchindikani 'mwe mha'uno."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Inya, tikumchindikani wadada mha'uno,",
+        "Mwatizengera ise tempiLe Linu kuno,",
+        "Muzuzge uchindami winu mu nyumba iyi,",
+        "Mutuiske, mutumbikenge muno."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "'Mwe tikukondwa tose na kumuwongani,",
+        "Pakwamba kumsopani na kwimbira muno,",
+        "Mwene mumuno muwe nase nyengo zose,",
+        "Nga mbangelo winu uko'kuchanya,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Yiwenge nga ndi nyali kuwalira m'nyumba,",
+        "Nakulongozga wose wakhuwala m'chisi,",
+        "Wakuwalo na wakhristu muwaponoske,",
+        "Kuwala uko kufumenge muno."
+      ],
+      "number": 4
+    }
+  ]
+}

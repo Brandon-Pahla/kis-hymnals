@@ -1,0 +1,38 @@
+{
+  "number": 42,
+  "language": "st",
+  "title": "42 Re Ke Ke Ra Arohana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Thabong re kopana le metsoalle ka nakonyana,",
+        "Empa ho tla ts’oabo ea hore re tla arohana."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Leholimong ha ho ’arohanoe; arohanoe;",
+        "Fats’eng le letle la thabo, ha ho arohanoe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ts’epo e teng ha baratuoa ba re: “Salang hantle”",
+        "Ha tsohle li fetile; re tla lula teng kaofela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ho teng “salang—hantle,” lehaeng lane le letle,",
+        "Empa pina tsa thabo le khotso li tla binoa teng."
+      ],
+      "number": 3
+    }
+  ]
+}

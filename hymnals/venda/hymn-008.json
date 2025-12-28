@@ -1,0 +1,52 @@
+{
+  "number": 8,
+  "language": "ve",
+  "title": "8 Phalaphala I tshi Lila",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:216",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Phala-phala I tshi lila tshifhinga tsho no fhela,",
+        "Hu do swika duvha lo ambiwa",
+        "Avho vho tshidzwaho vha kuvhanganyelwa tadulu,",
+        "Vha vhidzwa tadulu ndi do vha hone."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Vha tshi do vhidzwa tadulu, Vha tshi do vhidzwa tadulu",
+        "Vha tshi do vhidzwa tatulu vha vhidzwa tadulu ndi do vha hone."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ilo duvha ndi lavhudi, vha tshi do vuswa vhothe",
+        "Vha do vha vhe vhaswa vhukuma vhothe;",
+        "Avho vho nangwaho vha kuvhanganyelwa hayani",
+        "Vha vhidzwa tadulu ndi do vha hone."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kha ri shumele Murena u swika A tshi vhuya,",
+        "Kha ri divhadzane lufuno lwawe;",
+        "Ro no fa a ri tsha do kona u shuma na tshithu",
+        "Vha vhidzwa tadulu ndi do vha hone."
+      ],
+      "number": 4
+    }
+  ]
+}

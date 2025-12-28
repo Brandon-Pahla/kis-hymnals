@@ -1,0 +1,46 @@
+{
+  "number": 134,
+  "language": "en",
+  "title": "134 Wonderful Love Of Jesus.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "In joyful high and holy lays,",
+        "My soul her grateful voice would raise;",
+        "But who can sing the worthy praise,",
+        "Of the wonderful love of Jesus."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wonderful love! Wonderful love!",
+        "Wonderful love of Jesus!",
+        "Wonderful love! Wonderful love!",
+        "Wonderful love of Jesus!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A joy by day, a peace by night,",
+        "In storms a calm, in darkness light.",
+        "In pain and balm, in weakness might,",
+        "Is the wonderful love of Jesus."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "My hope for pardon when I call,",
+        "My trust for lifting when I fall;",
+        "In life, in death, my all in all,",
+        "Is the wonderful love of Jesus."
+      ],
+      "number": 3
+    }
+  ]
+}

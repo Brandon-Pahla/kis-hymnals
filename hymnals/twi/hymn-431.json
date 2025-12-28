@@ -1,0 +1,46 @@
+{
+  "number": 431,
+  "language": "tw",
+  "title": "Aky'riky'ri Hɔ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bra m'yɛnto kųro no ho dwom",
+        "Ahwehwɛ po no ho,",
+        "'Sase nwanwasō a Yesu",
+        "Asi fie ama me no"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Aky'riky'ri hɔ, ahwehwɛ po no ho,",
+        "Aky'riky'ri hɔ, faakō a m'ani gyina;",
+        "Aw'rɛhow, ɔbrɛ ne dadwen",
+        "Nni kuro fɛfɛ no mu Wɔ aky'riky'ri hɔ."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nɔkwa nsu sen hɔ nyinaa,",
+        "Nnuaba abu so hɔ,",
+        "'Dehye a wɔwɔ man hom'",
+        "Nni ɔkɔm ne sukɔm bio."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B'ra ma yɛnkɔ kųro no mu,",
+        "Yesu to nsa frɛ wo;",
+        "Boa ma ɔfrɛ no my ntrɛw;",
+        "Bɔ nnipa ny'naa amanne."
+      ],
+      "number": 3
+    }
+  ]
+}

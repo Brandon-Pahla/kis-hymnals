@@ -1,0 +1,46 @@
+{
+  "number": 157,
+  "language": "st",
+  "title": "157 Nako Ea Kotulo.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Eo a tsoang a ntse a lla,",
+        "A ntse a hasa peo ea hae.",
+        "A ntse a tletse lerato,",
+        "O ea hlohonolofatsoa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hlokomela he uena molemi!",
+        "Mabele a matle;",
+        "Kotulo e haufi,",
+        "Bona masimo a masoeu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ho oa phoka ea holimo,",
+        "Letsatsi le chabetse,",
+        "Ho nea tse hlokehang;",
+        "Ho bats’epehi bohle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jala peo u se khathale,",
+        "U se ke oa ba le ts’abo",
+        "Tiisetsa hona bothateng,",
+        "U tla kotula botle."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 90,
+  "language": "tn",
+  "title": "90 Go Fedile Nako’a Tiro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Go Fedile Nako’a Tiro. Sabata E Simolotswe;",
+        "Tla boikhutsong moya wa me, Mo letsatsing ja Modimo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Baka Morena, Rato Lwa ’Gwe Lo Na’a Boikhutso Pelong;",
+        "Go masego mo tsatsing je Go gaisa a mangwe otlhe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Megopolo Ya Rona Le Tebogo Di Tlhatloge,",
+        "Di amogele boikhutso Jo bo tswang kwa go Morena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tidimalo E Mo Pelong, Boikhutso Jwa Kgalalelo,",
+        "Jwa phuthego ya Modimo, Ke bokhutlo jwa ditlhabi."
+      ],
+      "number": 4
+    }
+  ]
+}

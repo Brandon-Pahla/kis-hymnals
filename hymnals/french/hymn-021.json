@@ -1,0 +1,62 @@
+{
+  "number": 21,
+  "language": "fr",
+  "title": "Il est un nom si beau",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Il est un nom si beau, si doux,",
+        "Qu'on ne prononce qu'à genoux,",
+        "Un nom qui fait vibrer mon âme,",
+        "Un nom que l'univers proclame :",
+        "C'est Jésus!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lorsque j'étais sans foi, ni loi,",
+        "Loin du bonheur qui n'est qu'en toi,",
+        "En proie au doute et solitaire,",
+        "Sur moi resplendit ta lumière,",
+        "Ô Jésus!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En toi j'ai vue la sainteté,",
+        "L'amour et la félicité.",
+        "Penché sur ton oeuvre admirable,",
+        "J'ai béni ton nom adorable,",
+        "Ô Jésus!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu m'as donné ta douce paix",
+        "En me comblant de tes bienfaits;",
+        "Par toi j'ai recouvré la joie,",
+        "J'ai trouvé la céleste voie,",
+        "Ô Jésus!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Et depuis lors, ton nom si doux,",
+        "J'aime le redire à genoux,",
+        "Le cacher au fond de mon âme,",
+        "Car de toi seul je me réclame,",
+        "Ô Jésus!"
+      ],
+      "number": 5
+    }
+  ]
+}

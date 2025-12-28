@@ -1,0 +1,47 @@
+{
+  "number": 273,
+  "language": "nd",
+  "title": "273 Yam’ Ezingalweni Zika Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yam’ e’ngalweni zika, Jesu Angakusiza, akusize",
+        "Wethembel’ othandweni lwAkhe Akufak’ ingoma."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yama kuYe, ezingalweni, Themba lonke uthando lwAkhe.",
+        "Yama kuYe, ubhek’ ekhaya, Themb’ uMsindisi wAkho"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yam’ e’ngalweni zika Jesu, Wovul’ indlela, vul’ indlela",
+        "Lapho eya khon’ uMlandela Uhloniph’ ilizwi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yam’ e’ngalweni zika Jesu; Leth’ ok’ thandayo, ok’thandayo",
+        "Lowo muthwalo osindayo Wunxusele kuYe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yam’ e’ngalweni zika Jesu, Kubeke konke, konke kuYe",
+        "Inomus’ inhliziyo yAkhe Akaswele mehlo"
+      ],
+      "number": 5
+    }
+  ]
+}

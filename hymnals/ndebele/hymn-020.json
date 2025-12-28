@@ -1,0 +1,39 @@
+{
+  "number": 20,
+  "language": "nd",
+  "title": "20 Vuka Khuthala Moya Wam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Vika khuthala moya wam’, Qhubela phambili,",
+        "Ba yasho nas’ ezulwini, Khuthalel’ imqhele"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Izwi lika Nkulunkulu, Elikubizayo",
+        "Li nomvuzo wakoMkhulu, Ku y’okhutheleyo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Efwini lawofakazi, Konke kus’ obala",
+        "Khohlwa indlele eyize, U qonde phezulu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "uMsindisi, nguMqalisi, Walo loluhambo",
+        "Sobheka ezinyaweni, Owethu umvuzo"
+      ],
+      "number": 4
+    }
+  ]
+}

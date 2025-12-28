@@ -1,0 +1,70 @@
+{
+  "number": 210,
+  "language": "ve",
+  "title": "210. Mutshidzi A Mangadzaho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:335",
+        "AH:101"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kristo o tadzwa mbilu, Mutshidzi u a mangadza,",
+        "Ro tshidzwa nga mutengo, Mutshidzi u a mangadza."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mutshidzi a mangadzaho, Ndi Yesu wanga,",
+        "Mutshidzi a mangadzaho, Yesu washu"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Malofha ’we o ntanzwa, Mutshidzi u a mangadza,",
+        "Lugisa muya wanga, Mutshidzi u a mangadza."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. U tanzwa mbilu zwivhi, Mutshidzi u a mangadza.",
+        "Zwino ndi Ene Khosi, Mutshidzi u a mangadza."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndi vha nae nga misi, Mutshidzi u a mangadza,",
+        "Nda fulufhedza tshothe, Mutshidzi u a mangadza."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. U nnea Maanda othe, Mutshidzi u a mangadza,",
+        "Na gundo kha milingo, Mutshidzi u a mangadza."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "6. Ndo disa mbilu yanga, Mutshidzi u a mangadza,",
+        "Vha shango a vha koni, Mutshidzi u a mangadza."
+      ],
+      "number": 7
+    }
+  ]
+}

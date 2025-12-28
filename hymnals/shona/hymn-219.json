@@ -1,0 +1,43 @@
+{
+  "number": 219,
+  "language": "sn",
+  "title": "219 Nditungamire O Jehova",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nditungamire Jehova",
+        "Ndiri mfambi munyika",
+        "Munesimba, handinaba",
+        "Ndinokumbira imwi",
+        "O Mponesi!, O Mponesi!",
+        "Ndimwi munotigutsa Ndimwi munotigutsa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iro tsime reupenyu",
+        "Rizarurireny’ ini",
+        "Munditungamirirenyi",
+        "Negore renyu dzvene",
+        "O, M’ponesi!, O M’ponesi!",
+        "Chiwayi simba rangu Chiwayi simba rangu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti ndaswika Jor’dani",
+        "Bvisayi kutya kwangu",
+        "Muzondiperekedzenyi,",
+        "Mundisvitse Kenani",
+        "O, M’ponesi!, O M’ponesi!",
+        "Ndinozomukudzayi Ndinozo mukudzayi"
+      ],
+      "number": 3
+    }
+  ]
+}

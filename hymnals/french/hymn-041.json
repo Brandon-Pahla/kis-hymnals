@@ -1,0 +1,57 @@
+{
+  "number": 41,
+  "language": "fr",
+  "title": "Un enfant est né",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Un enfant est né",
+        "Qui n’a pas même un toit.",
+        "Un enfant est né,",
+        "Sans tapage et sans bruit.",
+        "Tout au bout de la nuit,",
+        "Un enfant est né :",
+        "La fleur de notre joie!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Un enfant est né,",
+        "Bergers, réveillez vos bêtes.",
+        "Un enfant est né,",
+        "Bergers, venez à la fête."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Un enfant est né,",
+        "Une étoile en ses yeux.",
+        "Un enfant est né,",
+        "Il n’a pas de berceau :",
+        "L’étable est son château.",
+        "Un enfant est né :",
+        "Le fils de notre Dieu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Un enfant est né,",
+        "Dieu habite avec nous.",
+        "Un enfant est né,",
+        "Dieu a pris froid et faim.",
+        "Pour nous tendre la main,",
+        "Un enfant est né :",
+        "Un pauvre sans le sou."
+      ],
+      "number": 4
+    }
+  ]
+}

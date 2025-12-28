@@ -1,0 +1,20 @@
+{
+  "number": 133,
+  "language": "ts",
+  "title": "133. WENA HOSI NDZI FAMBISE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O LET ME WALK WITH THEE",
+        "1. Wena Hosi Ndzi Fambise, Tani Hi Yena Enoko;",
+        "Ndzi Khome Hi Voko Hosi, Ndzi Tiyisela Ka Wena; Hambi Ndzi Nga Voni Ndlela, KAmbe Ndzi Fambise Yesu.",
+        "2. A Ndzi Na Wona Matimba, Ya Ku Hlula Yena Nala;",
+        "Ndzi Rhendzeriwe Hinkwako, Ku Fana Na Rona Lwandle; Hi Mintlhamu Ya Yena Nala, Wena Hosi Ndzi Fambise.",
+        "3. Loko Ndzi Famba Na Wena, Swa Misava A Hi Nchumu; Ndzi Lava Ku Va Na Wena,",
+        "Ndzi Tamela Xihambano; Ku Fika Loko U Vuya, Ndzi Fambise Mukutsuri."
+      ],
+      "number": 1
+    }
+  ]
+}

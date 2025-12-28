@@ -1,0 +1,28 @@
+{
+  "number": 274,
+  "language": "ki",
+  "title": "274. Ndi Na Bibilia Igiri",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ndĩ na Bibilia igĩrĩ,",
+        "We ndũrĩ nayo na ti wega;",
+        "Nĩĩngũkũhe yakwa nĩ wendo,",
+        "Rĩu wĩ na Bibilia njega.",
+        "2.",
+        "Niĩ ndĩ na mbica igĩrĩ,",
+        "We ndũrĩ nayo na ti wega;",
+        "Nĩĩngũkũhe yakwa nĩ wendo,",
+        "Rĩu wĩ na mbica njega ma.",
+        "3.",
+        "Niĩ ndĩ na mathoomo meerĩ,",
+        "We ndũrĩ narĩo na ti wega,",
+        "Nĩĩngũkũhe rĩakwa nĩ wendo,",
+        "Rĩu nawe wĩ na rĩega ma."
+      ],
+      "number": 1
+    }
+  ]
+}

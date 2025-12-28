@@ -1,0 +1,54 @@
+{
+  "number": 501,
+  "language": "tw",
+  "title": "Mpaebɔ B're Pa No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mpaebɔ b're pa no b're a yɛn koma brɛ ase,",
+        "Na yebom hyia Yesu, yɛn 'Gyenkwa ne yɔnko;",
+        "Sɛ yɛba Ne nkyɛn gyidim' a yenya Ne banbɔ.",
+        "ɔbrɛ aduru bɛn ni! Sɛnea hɔ yɛ dɛ fa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mpaebɔ b're pa no, Mpaebɔ b're pa no;",
+        "ɔbrɛ aduru bɛn ni! Sɛnea hɔ yɛ dɛ fa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mpaebɔ b're pa no, b're a Agyenkwa no twiw bɛn,",
+        "Na ɔde ayamhyehye betie Ne mma no;",
+        "ɔka sɛ yɛnto haw biara ngu Ne nan ase;",
+        "ɔbrɛ aduru bɛn ni! Sɛnea hɔ yɛ dɛ fa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mpaebɔ b're pa no, b're a wɔn a wɔahyia sɔhwɛ",
+        "Bɛka wɔn yaw aky'rɛ 'Gyenkwá a ɔdɔ wɔn no",
+        "ɔde atenka koma yi haw biara fi hɔ;",
+        "ɔbrɛ aduru bɛn ni! Sɛnea hɔ yɛ dɛ fa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mpaebɔ b're pa yim' no, yɛtwer' No ā yɛgye di",
+        "Sɛ yɛn nsa bɛka nhyira a yɛhia nyinaa",
+        "'Hotɔso pa yi mu no, yɛn haw biara bɛy'ra",
+        "ɔbrɛ aduru bɛn ni! Sɛnea hɔ yɛ dɛ fa."
+      ],
+      "number": 4
+    }
+  ]
+}

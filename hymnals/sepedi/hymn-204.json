@@ -1,0 +1,81 @@
+{
+  "number": 204,
+  "language": "nso",
+  "title": " 204  BOYA! MOLELERE, BOYA!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 204  BOYA! MOLELERE, BOYA!",
+        "CS 3",
+        "WELCOME! WANDERER, WELCOME!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lefaseng le šele, Moo o ilego ntshe,",
+        "Ekwa lentšu le re \"Morwa wa ka\","
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Boya motimedi, Tla keno gae,",
+        "Kgale o timetše, Tla gae, Tla gae;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Faseng la ditlala, O idibala,",
+        "Tla lethabong, Morwa wa ka;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tlogela mahodu, Le maswabi,",
+        "Go babjwa pelong, \"Morwa wa ka\";"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bona go sa butšwe, O sa le wa ka,",
+        "Ke sa go hloka, \"Morea wa ka\",;"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O hlahlathile kgole, A o sa tlo tloga?",
+        "Etla o tshwaretšwe, \"Morea wa ka\";"
+      ],
+      "number": 7
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dijo di lokišitšwe Ga se o lebalwe,",
+        "Bodulo bo sa le gona, \"Morewa wa ka\";"
+      ],
+      "number": 8
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga o na bagwera, Le tshepo,",
+        "Ke na le lerato, \"Morwa wa ka\""
+      ],
+      "number": 9
+    }
+  ]
+}

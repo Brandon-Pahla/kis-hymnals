@@ -1,0 +1,46 @@
+{
+  "number": 141,
+  "language": "ve",
+  "title": "141. Ndi Tama U Vha Wau tshothe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:308",
+        "AH:236"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi tama u vha wau tshothe-ha, Mutshidzi wanga,",
+        "Mpfundedze uri ndi ite lufuno lwau."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wau tshothe, wau tshothe, ndi wau tshothe-tshothe,",
+        "Wau tshothe, wau tshothe, ndi wau tshothe Murena."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Dakalo, lupfumo ndi mini, u siho Murena,",
+        "Ndi do zwi furalela ndi tshi itela Iwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi tshi lata zwothe zwa shango, sendela-ha tsini,",
+        "Ndi do wana zwothe kha Iwe, nda rula mbilu."
+      ],
+      "number": 4
+    }
+  ]
+}

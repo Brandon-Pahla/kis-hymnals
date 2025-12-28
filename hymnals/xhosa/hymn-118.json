@@ -1,0 +1,46 @@
+{
+  "number": 118,
+  "language": "xh",
+  "title": "118 U-Yesu Usihlaule Sonke",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Uthi um-Sindisi, \"Mandlana mancinci;",
+        "Linda ngokuthandaza, Ndikunik’ into zonke.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Uhlaule konke, Ndiya mbulela,",
+        "’Sono sindidyobhile, Yen’ usihlambile."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi ndifumana Amandl’ aKho odwa,",
+        "Angahlamb’ iqhenqa, kwa nale ntliziyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Ndingo ngalunganga, Ukubang’ inceba",
+        "’Ngubo zam ndozihlamb’ Egazini le-Mvana."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndize phambi kwe-tron’, Sendifezekile,",
+        "Ndibek’ ixoba lam Phambi kuka-Yesu."
+      ],
+      "number": 4
+    }
+  ]
+}

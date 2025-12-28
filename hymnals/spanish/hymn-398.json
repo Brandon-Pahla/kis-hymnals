@@ -1,0 +1,58 @@
+{
+  "number": 398,
+  "language": "es",
+  "title": "Cuando sopla airada la tempestad",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cuando sopla airada la tempestad"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando sopla airada la tempestad",
+        "y la barca en grave peligro está,",
+        "no se puede andar con seguridad",
+        "sin tener el ancla que Dios nos da."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Ancla tenemos que nos dará",
+        "apoyo firme en la tempestad;",
+        "en la Roca eterna fija está;",
+        "solo allí tendremos seguridad."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Arrecifes hay que marcando van",
+        "el sendero triste de muerte cruel,",
+        "donde vidas mil naufragando",
+        "están",
+        "sin tener un ancla ni timonel."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En las negras ondas de la",
+        "ansiedad,",
+        "cuando soplan vientos de",
+        "destrucción,",
+        "nuestra barca cruza la inmensidad",
+        "del Señor llevando la protección."
+      ],
+      "number": 5
+    }
+  ]
+}

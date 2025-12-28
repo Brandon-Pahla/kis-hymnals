@@ -1,0 +1,56 @@
+{
+  "number": 484,
+  "language": "es",
+  "title": "Busca al Señor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Busca al Señor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mi hermano, eleva tu alma",
+        "hacia lo mejor.",
+        "Deja lo que es pasajero,",
+        "busca al Señor.",
+        "Esta tierra pasará,",
+        "ella nada puede dar.",
+        "Ya es hora de elevarse",
+        "al celeste hogar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Como un río corre al mar",
+        "sin interrupción;",
+        "como un astro en su curso",
+        "va sin variación;",
+        "el que aceptó al Señor",
+        "busca contemplar su faz;",
+        "tiende hacia el cielo siempre,",
+        "y recibe paz."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Peregrino, enjuga el llanto,",
+        "hacia el premio vas.",
+        "Pronto al Salvador viniendo",
+        "en gran luz verás.",
+        "Ya muy poco tardará,",
+        "el hogar más cerca está.",
+        "Quedarán atrás las penas,",
+        "gozo nos dará."
+      ],
+      "number": 4
+    }
+  ]
+}

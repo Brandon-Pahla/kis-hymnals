@@ -1,0 +1,37 @@
+{
+  "number": 229,
+  "language": "sn",
+  "title": "229 Ndiani Osarudza Tenzi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyani Osarudza Tenzi Nzira mbiri chisarudza!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chi...sa...ru...dza,",
+        "(Musarudze nhasi, masarudze nhasi),",
+        "Pakati pe’di nechitema."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvuru zvasarudza kumira, Kurutivi-rwo rwechitema."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uyayi, mirayi naTenzi, Ndiye chete ane-upenyu."
+      ],
+      "number": 4
+    }
+  ]
+}

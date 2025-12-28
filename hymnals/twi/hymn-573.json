@@ -1,0 +1,58 @@
+{
+  "number": 573,
+  "language": "tw",
+  "title": "Ebia Na Ͻnyɛ Mmepō Atifi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ebia na ɛnyɛ mmepō atifi,",
+        "Anaa pō a ɛreh'ru so;",
+        "Ebia na ɛnyɛ ɔko ano,",
+        "Na me ho behia me W'ra;",
+        "Sɛ ɔnam nne bɔkɔɔ mu frɛ me",
+        "Kɔ akwan a minnim sō a,",
+        "Mebua sɛ: 'W'ra, Wokura me mu,",
+        "Mɛkɔ nea Wose menkɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mɛkɔ nea Wopɛ sɛ menkɔ, 'Wura,",
+        "Mmepɔ, 'sase ne po so;",
+        "Mɛka nea Wopɛ sɛ menka, Wura;",
+        "Mɛyɛ neɛ Wopɛ sɛ menyɛ."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ebia na 'dɔ nsɛm bi wɔ hɔ nnɛ,",
+        "A Yesu pɛ sɛ meka;",
+        "'Bia na obi nam bɔne kwan sō a",
+        "Ͻsɛ sɛ mehwehwɛ no.",
+        "Agyenkwa, sɛ Wubedi m'anim",
+        "Wɔ ɔbra sum kwan no mų a",
+        "Me nne bɛkā asɛm dɛdɛ yi sɛ,",
+        "Mɛka nea Wose menka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Baabė a enni mu bi wɔ fam ha",
+        "Otwā afuw nom' a mede",
+        "Nɔkwa nna tiaa bɛyɛ adwuma",
+        "Ama Yesų a wɔsɛn Non'.",
+        "'Nti mede m'ade ny'naa hyɛ wo nsa,",
+        "Minim sɛ Wodɔ mč ampa!",
+        "Mede me koma bɛyɛ Wo pɛ",
+        "Mɛyɛ sɛnea Wohwehwɛ."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "number": 43,
+  "language": "ts",
+  "title": "43. ETLELA KA HOSI YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ASLEEP IN JESUS",
+        "1. Etlela Ka Hosi Yesu, La Ku Pfumalaka Gome, Hikuva Nsovo Wa Yena,",
+        "I Wa Masiku Hinkwawo.",
+        "2. Etlela Ka Hosi Yesu,",
+        "Hi Tshemba Ka Ku Rindzela, Rimpfumelo Ni Ku Tshemba Swi Ku Endla Wo Kateka.",
+        "3. Etlela, Wisa Ka Yesu, Yena La Nga Ta Ku Pfuxa,",
+        "Hi Matimba Ya Vukosi, Ku Komba Vukosi Byakwe.",
+        "4. Nkarhi Wona Wu Kusuhi, Mhalamhala Yi Ta Yimba,",
+        "Masirha Ma Ta Pfuleka, Ku Ku Nghenisa Vuton’wini"
+      ],
+      "number": 1
+    }
+  ]
+}

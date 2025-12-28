@@ -1,0 +1,46 @@
+{
+  "number": 190,
+  "language": "tn",
+  "title": "190 Itseela Ina Ja Jeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Itseela ’Ina Ja Jeso, Ngwana Wa Mafutsana,",
+        "Le tla go naya kgomotso, kwa le kwa o yang gone."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Leina... je lentle... Tsholofelo ya fatsheng;",
+        "Leina... je lentle... Boipelo jwa godimong."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "L’ina Ja Jeso Ka Metlha, Le Tshole Jaaka Thebe",
+        "Fa thaelo di go dika Rapel’ineng ja Jeso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Ina Je Lentle Ja Jeso, L’a Re Itumedisa,",
+        "Fa A re tshola mabogong Re tla Mo opelela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "R’inama Leineng Ja ’Gwe, Re Namalala Naong;",
+        "Kgosi dikgosing godimong, Loeto lo fedile."
+      ],
+      "number": 4
+    }
+  ]
+}

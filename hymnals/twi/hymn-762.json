@@ -1,0 +1,43 @@
+{
+  "number": 762,
+  "language": "tw",
+  "title": "NG12 Ma Yεn Ɔdɔ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ma yεn ɔdɔ, Yesu' e, ma yεn ɔdɔ,",
+        "Ma yεn ɔdɔ Yesu' e, Ma yεn ɔdɔ,",
+        "W'adwumadi yε den, yehia ɔdɔ nko' ara",
+        "Sε 'bεyε yie a, gye sε ɔdɔ,",
+        "W'adwum'a'I so, ma yεn ɔdɔ,",
+        "Ma yεn ɔdɔ, Yesu' e, ma yεn ɔdɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma y'abot'rε, Yesu' e, ma yεn y'abotrε,",
+        "Ma y'abot'rε Yesu'e, Ma y'abot'rε,",
+        "W'adwumadi yε den, yehia abot'rε Nko' ara",
+        "Sε ‘bεyε yie a, gye sε abot'rε,",
+        "W'adwum'a'i so,ma y'abot'rε,",
+        "Ma y'abot'rε, Yesu' e, ma y'abot'rε."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma y'asomdwoe, Yesu' e, ma y'asomdwoe",
+        "Ma y'asomdwoe Yesu' e, Ma y'asomdwoe,",
+        "W'adwumadi yε den, yehia somdwo Nko' ara",
+        "Sε ‘bεyε yie a, gye sε somdwoe,",
+        "W'adwum'a'I so, ma y'asomdwoe,",
+        "Ma y'asomdwoe, Yesu' e, ma y'asomdwoe."
+      ],
+      "number": 3
+    }
+  ]
+}

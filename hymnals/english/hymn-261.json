@@ -1,0 +1,46 @@
+{
+  "number": 261,
+  "language": "en",
+  "title": "261 Beautiful Valley Of Eden",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Beautiful valley of Eden,",
+        "Sweet is thy noon-tide calm;",
+        "Over the hearts of the weary,",
+        "Breathing thy waves of balm."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Beautiful valley of Eden, Home of the pure and blest",
+        "(the pure and blest)",
+        "How often amid the wild billows;",
+        "I dream of thy rest, sweet rest."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Over the heart of the mourner,",
+        "Shineth the golden day,",
+        "Waiting the songs of the angels,",
+        "Down from the far away."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "There is the home of my Saviour;",
+        "There with the blood washed throng;",
+        "Over the highlands of glory,",
+        "Rolleth the great new song."
+      ],
+      "number": 3
+    }
+  ]
+}

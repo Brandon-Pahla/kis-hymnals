@@ -1,0 +1,62 @@
+{
+  "number": 210,
+  "language": "xh",
+  "title": "210 U-Kristu Wafela Izono",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U-Kristu wafel’ izono, Simanga soMsindisi;",
+        "Sithengiwe sihlaulelwe, Simanga soMsindisi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Simanga soMsindisi, NguYes’ uMsindisi;",
+        "Simanga soMsindisi, NguYes’ iNkosi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndibulel’ igazi laKhe, Simanga soMsindisi;",
+        "Lindiph’ uxolo noThixo, Simanga soMsindisi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wahlamba intliziyo yam, Simanga soMsindisi;",
+        "Ulaula ngaphakathi kwam, Simanga soMsindisi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sihamba kunye noYesu, Simanga soMsindisi;",
+        "Ndihlala ndithembe yena, Simanga soMsindisi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Undinika uloyiso, Simanga soMsindisi;",
+        "Undoyisel’ izilingo, Simanga soMsindisi."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndizinikela kuYesu, Simanga soMsindisi;",
+        "Ngaye ndilahl’ ihlabathi, Simanga soMsindisi"
+      ],
+      "number": 6
+    }
+  ]
+}

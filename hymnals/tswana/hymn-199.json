@@ -1,0 +1,46 @@
+{
+  "number": 199,
+  "language": "tn",
+  "title": "199 Ka Tiro Tsa ’Gwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tlotlo Ka Tiro Tsa ’Gwe Tse Di Kgolo,",
+        "O re ratile A re fa Morwawe,",
+        "Yo O re intsheditseng seletlanyo,",
+        "A bulela bontlhe kgoro’a botshelo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lo bakeng Morena, Lefatshe le M’utlwe;",
+        "Lo bakeng Morena, Batho ba ipele;",
+        "Ao tlang kwa go Rara, ka Jeso Morwa",
+        "Lo mo tlotlele tiro tse di kgolo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ao Thekololo Tuelo Ya Madi,",
+        "Tsholofetso’a Modimo badumedi;",
+        "Motlodi yo’ maswe fa a dumela,",
+        "’Bakeng lo Jeso Oa mo itshwarela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Re Rutile A Dira Tse Kgolo,",
+        "Bogolo boipelo jwa rona Morweng;",
+        "Mme go tl’itsheka segolo bogolo",
+        "Phetolo’a rona fa re bona Jeso."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 77,
+  "language": "sw",
+  "title": "77 - Je! Mlinzi Ukutani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Je mlinzi ukutani, wa mji wa Zayuni,",
+        "Habari zake usiku, asubuhi karibu?",
+        "Kuna dalili za kupambazuka?",
+        "Kuna dalili za kupambazuka?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Katika safari yetu, twaona nchi kavu?",
+        "Tutalala baharini, bandari bado mbali?",
+        "Kweli kweli, tutaona ufalme?",
+        "Kweli kweli, tutaona ufalme?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Tunaona nuru yake, nyota ya asubuhi,",
+        "Nyota tukufu na safi, inang’aa mbinguni,",
+        "Furahini, wokovu u karibu,",
+        "Furahini, wokovu u karibu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Tumetazama ramani, kweli pwani si mbali,",
+        "Twende mbele, kwa upesi tutaona bandari,",
+        "Furahani, imbeni nyimbo zenu,",
+        "Furahani, imbeni nyimbo zenu."
+      ]
+    }
+  ]
+}

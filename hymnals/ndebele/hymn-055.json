@@ -1,0 +1,47 @@
+{
+  "number": 55,
+  "language": "nd",
+  "title": "55  U-ke Waya KuJesu Na?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U-ke waya kuJesu wahlanziswa? U gezil’ egazin’ leWundlu?",
+        "U yawuthemba umusa wAkhe na? U gezil’ egazin’ leWundlu?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U mhlope... Njengeqhwa...? U gezil’ egazin’ leWundlu?",
+        "Inhliziyo yakh’ imhlophe njengeqhwa? U gezil’ egazin’ leWundlu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U yahamb’ imihla yonke noJesu? U gezil’ egazin’ leWundlu?",
+        "U yaphumla njalo-njalo kuKrestu - U gezil’ egazin’ leWundlu?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa uMyen’ ebuya u yobamhlope? U gezil’ egazin’ leWundlu?",
+        "Nezindlu, kambe, u suzilindeke? U gezil’ egazin’ leWundlu?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lahla ingub’ eyoniwe yisono U gezw’ egazini leWundlu?",
+        "U khona uMthombo ogelezayo, Woza egazini leWundlu"
+      ],
+      "number": 5
+    }
+  ]
+}

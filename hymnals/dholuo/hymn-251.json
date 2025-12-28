@@ -1,0 +1,35 @@
+{
+  "number": 251,
+  "language": "luo",
+  "title": "251 Ka Jabura Nong`ad Buchwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ka Jabura nong`ad buchwa,E ngima kata e tho,Enokwanwa nade chieng`no,Jo maler koso joketh?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Opimi e rapim mar Ruoth,oyudi kirem;Opimi kuom weche mage,oyudi kirem."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Wanawinj weche kowacho,\"Jatich maber, makare,\"Koso enokwerwa chutho,\"In Jaricho moloyo?\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Dak wawinj dwonde kosayo,\"Donji e ng`wono mara.\"Koso wanabed kwadeko,nyaka bura nolowa?"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 159,
+  "language": "st",
+  "title": "159  Ke U Hloka Hakakang.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke U hloka hakakang, bofumeng le phokolong;",
+        "Kea thothomela U nkule, ’matlafatse U mphe pono."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ka linako tsohle, Morena ke u hloka joang;",
+        "Ka linako tsohle, ’Moloki U nts’ehetse."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U nkapese ka bonolo, kobo ea ka e lits’ila,",
+        "U nthute ke ea fokola, kea rapela mphe matla."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha U nkhula ke tla phela, ke tla oa ha ke its’epile,",
+        "Tsamaea le ’na bophelong Uena U tsohe ho ’na."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha nka hlaheloa ke tse ling, thabo le hlokofalo;",
+        "Ke tla ’ne ke be ho Uena, U ntse U le Mothusi"
+      ],
+      "number": 4
+    }
+  ]
+}

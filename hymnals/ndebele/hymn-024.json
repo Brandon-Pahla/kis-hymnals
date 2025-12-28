@@ -1,0 +1,55 @@
+{
+  "number": 24,
+  "language": "nd",
+  "title": "24 Ngi Kufisa Izikhathi Zonke",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yakufisa nje, Ngcwele-Ngcwele",
+        "Akukh’ ongangipha, Ukuthula"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yakufisa, Nkosi Izikhathi zonke",
+        "Ngi busise, Msindisi, Ngi ze kuWe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yakufisa nje, Hlala nami",
+        "Ngi ngeke ngahlulwe, Nxa u nami"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yakufisa nje, Enhlungwini",
+        "Woza masinyane, Hlala nami"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yakufisa nje, Ngi fundise",
+        "Iz’thembiso zonke, Uz’ u ngipe"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yakufisa nje, Wen’ oNgcwele",
+        "Mangibe njengaWe, ‘Nkosi enhle"
+      ],
+      "number": 6
+    }
+  ]
+}

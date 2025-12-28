@@ -1,0 +1,56 @@
+{
+  "number": 489,
+  "language": "es",
+  "title": "Solo anhelo, Cristo amado",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Solo anhelo, Cristo amado"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Solo anhelo, Cristo amado,",
+        "en tus leyes caminar;",
+        "siempre hacer lo que es tu agrado,",
+        "tus acciones imitar.",
+        "Mas soy débil y cargado",
+        "con mi mucha iniquidad,",
+        "pues, oh Dios, yo he faltado",
+        "a tu santa voluntad."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ten piedad, oh Cristo amado,",
+        "de este pobre pecador.",
+        "Límpiame de mi pecado,",
+        "oh, bendito Salvador.",
+        "No permitas que me venza",
+        "otra vez el tentador.",
+        "¡Oh mi Dios!, con gran vergüenza",
+        "te lo pido por tu amor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Al que pide, es tu promesa",
+        "darle lo que ha menester.",
+        "Yo anhelo tu pureza,",
+        "tu limpieza, tuyo ser.",
+        "Y en tu reino, cuando vengas,",
+        "ten memoria aún de mí,",
+        "que por hijo tú me tengas",
+        "y me lleves junto a ti."
+      ],
+      "number": 4
+    }
+  ]
+}

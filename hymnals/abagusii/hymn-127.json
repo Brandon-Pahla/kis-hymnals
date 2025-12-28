@@ -1,0 +1,28 @@
+{
+  "number": 127,
+  "language": "guz",
+  "title": "127 'Monen' Obuya Bwao",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Monen' obuya, Bwao bw'ogokumia,Ogatong'ense, N'ebinto bionsi;As'amatuko, Atano na rimo,Ogatimok 'Esabat'enchenu;"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Chinyoni chionsi, Chiter' obuy' obo,Ebitunwa n'amagoko boigo;'Banto bonsi baitaberi' as'eriogi,Ogatimok' Esabat' enchenu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ase tore n'omogok' omonene,Esabat'ekoret' Ogosanga;Abanto twacha, Amo gosasima;Ogatimok 'Esabat' Enchenu."
+      ],
+      "number": 3
+    }
+  ]
+}

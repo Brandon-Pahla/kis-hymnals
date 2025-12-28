@@ -1,0 +1,47 @@
+{
+  "number": 16,
+  "language": "tw",
+  "title": "Mo Nnipa a Mote Wiase",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mo nnipa a mote wiase,",
+        "Mommɔ ose mma Aw'rade;",
+        "Monsom No 'nigyem' nyi N'ayɛ,",
+        "Mummedi ah'rusi N'anim."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aw'rade ne Nyame ampa;",
+        "Cbɔɔ yɛn b'rɛ a yen mmoa nnim.",
+        "Yɛyɛ Ne nk'rɔfo, ɔyɛn yɛn;",
+        "Na ɔfa yɛn sɛ Ne nguammaa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Momfa 'yeyi nhyɛn' N'apon mu,",
+        "Momfa dɛw mmra N'abangua so",
+        "Monkamfo, nhyira Ne din daa,",
+        "Efisɛ saa na ɛfata."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Senti a yɛn Nyame ye ni:",
+        "N'ahummɔb'rɔ tim hɔ daa daa;",
+        "Ne nokwar' tim hɔ mm're nvinaa m'",
+        "Na ebegyina nnasanten."
+      ],
+      "number": 4
+    }
+  ]
+}

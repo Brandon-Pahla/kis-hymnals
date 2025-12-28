@@ -1,0 +1,47 @@
+{
+  "number": 20,
+  "language": "sn",
+  "title": "20 Muka Moyo Wangu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Muka moyo wangu muka,",
+        "Fambanyi pamberi",
+        "Mwari anokudaidzai,",
+        "Kugara narini"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Izwi resimba raMwari,",
+        "Rinokudaidzai,",
+        "Anovapa zvipo zvavo,",
+        "Kune vanodisa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mbovo zhinji dziri petyo,",
+        "Dzirikunangisa,",
+        "Siya nzira’yo yekare,",
+        "Muende kudenga"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muponesi matiisa,",
+        "Munzira kumusha,",
+        "Kuti apo takwirira,",
+        "Tinozokutenda"
+      ],
+      "number": 4
+    }
+  ]
+}

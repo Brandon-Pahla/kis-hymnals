@@ -1,0 +1,54 @@
+{
+  "number": 223,
+  "language": "tn",
+  "title": "223 K’utlwa Mmoloki A Bitsa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "K’utlwa Mmoloki A Bitsa, Ka Lentswe Je Le Bonolo;",
+        "Ke utlwa mafoko a reng, \"Tla ntatela, Ka metlha yotlhe.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke tla tsa’a mokgoro wa me, Mme ke latele Mmoloki;",
+        "Kwa O nkisang ke latele , Ke tsamae le Ene tseleng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lefa Tsela E Ntshofala, Le Nao Tsa Me Di Lapile,",
+        "Pelo ya me e itumetse Ka ke latela tseleng yotlhe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso O Fa Pele Ga Me, O Mphatsimisetse’ Sedi,",
+        "O ntsosolosa bokweng, Ka ke latela tseleng yotlhe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mo Mogogorong Wa Nkgoga, O Mpha Mana A Godimo;",
+        "Nakong tsotlhe kea Go batla, Ka ke latela tseleng yotlhe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Ntshole Loratong Lwa ’Go, O Ntshole Mabogong A ’Go,",
+        "Ka tshwaro ya ’Go ntsholetsa, Ka ke latela tseleng yotlhe."
+      ],
+      "number": 5
+    }
+  ]
+}

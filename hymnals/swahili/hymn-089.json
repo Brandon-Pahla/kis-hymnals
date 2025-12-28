@@ -1,0 +1,39 @@
+{
+  "number": 89,
+  "language": "sw",
+  "title": "89 - Bwana Asubuhi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Bwana asubuhi kucha, nitakuinua,",
+        "Sauti yangu kuomba, nipate baraka."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Nakuomba roho yako, niongozwe nayo,",
+        "Nifanye yanipasayo, na mapenzi yako."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Wanaokutegemea, u Mlinzi wao,",
+        "Matumaini wanayo, utayatimiza."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Na kwa wingi wa fadhili, nyumbani mwako juu,",
+        "Nitaingia na wimbo, pale kusujudu."
+      ]
+    }
+  ]
+}

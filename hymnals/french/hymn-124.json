@@ -1,0 +1,40 @@
+{
+  "number": 124,
+  "language": "fr",
+  "title": "Alléluia! Louez l’Éternel",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Alléluia! Louez l’Éternel",
+        "Car il est bon,",
+        "Car sa miséricorde dure à toujours,",
+        "Dure à toujours, amen,",
+        "Dure à toujours, amen."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Non pas à nous, Seigneur, pas à nous,",
+        "Mais à ton nom,",
+        "À ton nom donne gloire pour ton amour,",
+        "Pour ta fidélité,",
+        "Pour ta fidélité."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oui, chaque jour, louons l’Éternel !",
+        "Il est pour nous",
+        "Le Dieu des délivrances, le Dieu puissant",
+        "Qui sauve de la mort,",
+        "Qui sauve de la mort."
+      ],
+      "number": 3
+    }
+  ]
+}

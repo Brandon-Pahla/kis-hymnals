@@ -1,0 +1,47 @@
+{
+  "number": 116,
+  "language": "tn",
+  "title": "116 Pelo Ya Go E Tletse",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Pelo Ya ’Go E Tletse, A Jeso G’a Na Bonno",
+        "O tshwerwe ke lefatshe A Jeso g’a na bonno?",
+        "O eme mo mojakong, Mme O ya kgwanyakgwanya;",
+        "Mo utlwe wa rapela A Jeso g’a na bonno?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Ntse O Senya Nako, Ga O Direle Jeso?",
+        "O senya thata ya ’Gwe Ga O direle Jeso?",
+        "G’o lwele phenyo sebing, Ga O gape yo mongwe,",
+        "G’o tsenye motimedi, Ga O direle Jeso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Batla Tsa Lefatshe, G’o Na Nako Ya Jeso?",
+        "Ya tiro e molemo, G’o na nako ya Jeso?",
+        "Boitumelo le khumo Tsa lefatshe jeno, ke",
+        "Tsone tse O di batlang, Ga O nako ka Jeso?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Makakaba Fela, G’o Na Ungo Lwa Jeso?",
+        "Ga O a tshola sepe, G’o na ungo lwa Jeso?",
+        "Ga O boloke sepe, Go duela tiro ya go",
+        "Ga go boipelo mogang O rakanang le Jeso."
+      ],
+      "number": 4
+    }
+  ]
+}

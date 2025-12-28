@@ -1,0 +1,57 @@
+{
+  "number": 346,
+  "language": "tw",
+  "title": "'Wura a Woma W'asafo 'Yaresa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Wura a Woma W'asafo 'yaresa",
+        "'Kyɛde ne dom a ɛyɛ no fof'ro;",
+        "Tie yɛn mpaebɔ ɛnnɛ ne da biara sɛ",
+        "YebediW' nokwar sɛnea Wo pɛ te."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asɛnkafo ne 'diyifo de wɔn nne",
+        "Ka 'W'rade asɛm no kokod'ru mu,",
+        "ɔgye nsɛm a ɛnam Nyame Ba no so;",
+        "Nnome dan' nhy'ra, nkrantɛ dan asomdwoe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ahwɛfo no wɔ nyansa ne 'dwo koma",
+        "A wɔde bɔ akra nyinaa ho ban,",
+        "'Kwantofo ne 'kyinnyegyefo ahoɔden,",
+        "Wɔboa 'hiafo soa wɔn nnesoa ma wɔn."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma ky'rɛky'rɛfo nnyin nimdeɛ ne boasetɔm',",
+        "Wɔnky'rɛ mmofra ne mpanyin nimdeɛ kwan,",
+        "Wɔntete wɔn mma ɔsom ne 'dansedi,",
+        "Wonkyi nkontompo nnyina mma nokwar'."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Wura, ma yɛn akyɛde a ɛsom bo",
+        "Na yɛmfa nhwehwɛ yiedi mma yɛn ho;",
+        "Ma W'asafo a ɛwɔ fam ha no nhyɛ",
+        "Agya, ɔba ne Honhom no 'nuonyam."
+      ],
+      "number": 5
+    }
+  ]
+}

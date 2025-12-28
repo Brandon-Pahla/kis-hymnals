@@ -1,0 +1,53 @@
+{
+  "number": 149,
+  "language": "st",
+  "title": "149 Tsamaea Leseling.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tsamaea ’seling la Morena, Le u tsamaisang;",
+        "Moea oa Hae o tsoang ’holimong, O tlose lefifi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tsa...maea leseling...",
+        "(Le letle la Molimo)",
+        "(KAOFELA) Tsama’a ’seling la Molimo.",
+        "Tsa...maea leseling...",
+        "(Le letle la Molimo)",
+        "(KAOFELA) Tsama’a ’seling la Molimo.",
+        "Tsa...maea leseling...",
+        "(Le letle la Molimo)",
+        "(KAOFELA) Tsama’a ’seling la Molimo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsamaea ho la evangeli, lentsoeng la Molimo,",
+        "’Seli le tsamaisang bocheng, batho ba Morena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsamaea ’seling leha lefifi le le tseleng,",
+        "Le tla tebela lefifi Morena a ba tle."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsamaea leseling U tla, tseba rato la Hae,",
+        "Setsoalle, sena sa lefats’eng se setle holimo."
+      ],
+      "number": 4
+    }
+  ]
+}

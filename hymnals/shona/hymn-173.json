@@ -1,0 +1,57 @@
+{
+  "number": 173,
+  "language": "sn",
+  "title": "173 O Kuwa Nerudairo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ruda’ro rusingadzoki",
+        "Kana pane mhandu",
+        "Rusingabvundiswi",
+        "Mukushaya nenhamo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rudairo rusingachemi",
+        "Kana runganetswe",
+        "Asi nguva yokutambura",
+        "Rodana Mwari"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rudairo runopenya",
+        "Kana mudambudzo",
+        "Kana munjodzi",
+        "Haruzotyi, nekupokana"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rusingatyiswi nepasi",
+        "Kana nekushorwa",
+        "Rusingazombonyudzwi",
+        "Munyanza yechitema"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndipeny’urwu rudairo",
+        "Kana ko-uyeyi",
+        "Ndicharaira rufaro",
+        "Rusingaperi"
+      ],
+      "number": 5
+    }
+  ]
+}

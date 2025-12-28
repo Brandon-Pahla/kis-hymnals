@@ -1,0 +1,35 @@
+{
+  "number": 508,
+  "language": "en-sdah",
+  "title": "508 Anywhere With Jesus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Anywhere with Jesus I can safely go, Anywhere He leads me in this world below; Anywhere without Him, dearest joys would fade; Anywhere with Jesus I am not afraid."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain : Anywhere! anywhere! Fear I cannot know; Anywhere with Jesus I can safely go."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Anywhere with Jesus I am not alone; Other friends may fail me, He is still my own; Though His hand may lead me over dreary ways, Anywhere with Jesus is a house of praise."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Anywhere with Jesus I can go to sleep, When the gloomy shadows round about me creep, Knowing I shall waken nevermore to roam; Anywhere with Jesus will be home sweet home."
+      ],
+      "number": 4
+    }
+  ]
+}

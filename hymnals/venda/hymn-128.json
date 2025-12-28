@@ -1,0 +1,62 @@
+{
+  "number": 128,
+  "language": "ve",
+  "title": "128. Tshifhinga Tsha Thabelo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tshifhinga tsha thabelo, mbilu dzi vhutungu,",
+        "Ri tangana kha Yesu, khonani yashu;",
+        "Ri ya khae nga u tenda, O ri tsireledza,",
+        "Hu rulwa vho netaho, vha do wana Maanda."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tshifhinga tsha-vhudi, tsho shudufhadziwa,",
+        "Hu rulwa vho netaho, vha do wana malamba."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tshifhinga tsha thabelo, U tsini na rine,",
+        "U khathutshela vhothe, vha rabelaho;",
+        "U ri matungu othe, a kumedzwe khae,",
+        "Hu rulwa vho netaho, vha do wana Maanda."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tshifhinga tsha thabelo, milingo yo dala,",
+        "Kha ri sendele khae, Mutshidzi washu;",
+        "Ene u nao Maanda, a bvisa vhutungu,",
+        "Hu rulwa vho netaho, vha do wana Maanda."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tshifhinga tsha thabelo, ri tenda Mutshidzi,",
+        "Ri do wana mashudu, ane ra lila;",
+        "Ri tshi mu fulufhela, ri sa vhilaleli,",
+        "Hu rulwa vho netaho, vha do wana Maanda."
+      ],
+      "number": 5
+    }
+  ]
+}

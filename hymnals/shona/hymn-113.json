@@ -1,0 +1,48 @@
+{
+  "number": 113,
+  "language": "sn",
+  "title": "113 Achidaidza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu arikudanira kumusha, kudana iwe neni,",
+        "Arindira pamusiwo nemwoyo, Rindira iwe neni."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uya kum’sha, Imi maneta uya.",
+        "(Uya) (Kum’sha)",
+        "Jesu arikumudaidza kwazvo, O munyangadzi uya"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Musanonoke achimudaidza Kunyengerera imwi,",
+        "Ngenyiko tisinganzwi mutsa wake, Mutsa kunewe Nemi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nguwa irikukasika kupfu’ra Kupfu’ra iwe neni,",
+        "Bvute, nedima, rufaro zvouya Uya kunewe neni"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Funga ngerudo akatitsidzira Tsidzira iwe neni",
+        "Kana takatadza \\‘nosunungura, Osunungura tese."
+      ],
+      "number": 5
+    }
+  ]
+}

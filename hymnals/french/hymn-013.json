@@ -1,0 +1,62 @@
+{
+  "number": 13,
+  "language": "fr",
+  "title": "Comme est belle cette Terre",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Comme est belle cette Terre,",
+        "Notre coeur s’en réjouit!",
+        "Tout son charme nous rappelle",
+        "Le bonheur du Paradis,",
+        "Le bonheur du Paradis."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mais ce riche et vaste monde,",
+        "Si parfait dans sa beauté",
+        "Pour l’auguste Roi de gloire",
+        "N’est qu’un simple marchepied,",
+        "N’est qu’un simple marchepied."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le soleil et les étoiles",
+        "Se promènent dans les cieux,",
+        "Éclairant la terre entière,",
+        "Ravissant toujours nos yeux,",
+        "Ravissant toujours nos yeux."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La splendeur du ciel en fête,",
+        "Cette cour du Tout-Puissant,",
+        "Fait sa robe de lumière,",
+        "Son céleste vêtement,",
+        "Son céleste vêtement."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oui, son trône est magnifique,",
+        "Ses ouvrages merveilleux!",
+        "Mais, combien plus veau, plus tendre,",
+        "Est le coeur de notre Dieu,",
+        "Est le coeur de notre Dieu."
+      ],
+      "number": 5
+    }
+  ]
+}

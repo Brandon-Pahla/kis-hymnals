@@ -1,0 +1,42 @@
+{
+  "number": 220,
+  "language": "fr",
+  "title": "Jésus, apprends-moi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Jésus, apprends-moi, je t'en prie,",
+        "À vivre selon ton Esprit.",
+        "Jésus, apprends-moi, je t'en prie,",
+        "À vivre selon ton Esprit.",
+        "Seigneur, voici tout mon péché",
+        "D'hier, d'aujourd'hui, de demain.",
+        "Je ne peux pratiquer le bien;",
+        "Merci de m'avoir pardonné."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seigneur, je ne désire pas",
+        "Laisser le péché vivre en moi.",
+        "Tu peux me montrer, chaque fois,",
+        "Ce qui dans mon cœur ne va pas."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seigneur, fais ce que tu voudras;",
+        "Ma vie maintenant est à toi.",
+        "Je veux être prêt au combat",
+        "En sachant que tu vis en moi."
+      ],
+      "number": 3
+    }
+  ]
+}

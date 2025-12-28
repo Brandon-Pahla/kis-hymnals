@@ -1,0 +1,40 @@
+{
+  "number": 50,
+  "language": "fr",
+  "title": "Laissez venir à moi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Laissez venir à moi tous les petits enfants,",
+        "Car le royaume des cieux est pour ceux qui leur ressemblent.",
+        "Laissez venir à moi tous les petits enfants,",
+        "Car le royaume des cieux est pour ceux qui leur ressemblent.",
+        "Non, Naomi,",
+        "Tu ne peux pas t’approcher,",
+        "Ton enfant est trop petit,",
+        "Tu vas le déranger.",
+        "Mais Simon Pierre,",
+        "Mon enfant est endormi,",
+        "Quel bruit peut-il faire?",
+        "Ne peut-il être béni?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Femme approche-toi,",
+        "Dit Jésus, tendant les mains.",
+        "Tu as eu beaucoup de foi,",
+        "C’est pourquoi je te dis : Viens!",
+        "Enfants de toute la terre,",
+        "Vous qui êtes humbles et doux,",
+        "Vous êtes bénis de mon Père,",
+        "Mon Royaume est pour vous."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "number": 461,
+  "language": "pt",
+  "title": "Deus Sempre me Ama",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Deus Sempre me Ama"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Deus sempre me ama,",
+        "Co'amor me chama,",
+        "E assim me inflama",
+        "Do mesmo amor;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Por isso canto",
+        "O amor divino;",
+        "Será meu hino",
+        "O amor de Deus."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cativo estive,",
+        "Mas graça obtive",
+        "Do amor que vive",
+        "E faz viver;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Enviou Seu filho,",
+        "Prestou-me auxílio,",
+        "Mostrou-me o trilho",
+        "Que ao Céu conduz;"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus buscou-me,",
+        "Jesus salvou-me,",
+        "Ele aceitou-me",
+        "Com terno amor;"
+      ],
+      "number": 6
+    }
+  ]
+}

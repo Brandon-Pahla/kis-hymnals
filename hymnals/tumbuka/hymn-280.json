@@ -1,0 +1,58 @@
+{
+  "number": 280,
+  "language": "tum",
+  "title": " 280 Fumu Yitnu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 280 Fumu Yitnu",
+        "OUR KING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Sumu zithu ziweme tiza nazo sono,",
+        "Kuyitamika Fumu nthowa na umoyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tikwimba mwe kutamika Fumu (Fumu)",
+        "Tikwimba 'mwe kum pa 'mwe ntchindi Fumu"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Wakututemwa twana pakuwa pa charu,",
+        "Nanga wali kuchanya wakutemwa mbwenu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Titemwe kumwimbira, kup'lika vya lyo,",
+        "Apo wakakhalanga m'charu chino kale."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Mponoski withu m'weme tikuwa m'malundi,",
+        "Kuti mutovwirenge kugomezga Imwe."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "number": 37,
+  "language": "en",
+  "title": "37 Nearer, My God To Thee",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nearer,my God,to Thee,",
+        "Nearer to thee!",
+        "E’en tho’ it be a cross",
+        "That raiseth me!",
+        "Still all my song shall be,",
+        "Nearer my God to Thee,",
+        "Nearer my God to Thee,",
+        "Nearer to Thee."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tho’ like a wonderer, Day-light all gone,",
+        "Darkness be over me,",
+        "My rest a stone;",
+        "Yet in my dreams I’d be",
+        "Nearer my God to Thee,",
+        "Nearer, my God to Thee,",
+        "Nearer to Thee."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "There let the way appear, Steps up to heav’n,",
+        "All that thou sendest me",
+        "In mercy giv’n; Angels to beckon me,",
+        "Nearer my God to Thee,",
+        "Nearer my God to Thee,",
+        "Nearer to Thee."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Then, with my watching tho’ts Bright with thy praise,",
+        "Out of my stormy griefs, Bethel I’ll raise;",
+        "So by my woes to be,",
+        "Nearer, my God to Thee,",
+        "Nearer, my God to Thee,",
+        "Nearer to Thee."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Or, if on joyful wing Cleaving the sky,",
+        "Sun, moon, and stars forgot",
+        "Upward I fly, Still all my song shall be,",
+        "Nearer, my God, to Thee,",
+        "Nearer, my God, to Thee,",
+        "Nearer to Thee."
+      ],
+      "number": 5
+    }
+  ]
+}

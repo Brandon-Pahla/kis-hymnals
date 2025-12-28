@@ -1,0 +1,55 @@
+{
+  "number": 171,
+  "language": "ve",
+  "title": "171. U Ri ’Ni Nga Vhusiku?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:418"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. He mulindi wa tsioni, U ri ani nga vhusiku?",
+        "I a penya naa masase, duvha lo tsha kale naa?",
+        "duvha li tsini na u vhonala naa?",
+        "duvha li tsini na u vhonala naa?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. U ri vhudze ro no swika, Ri tavhe-vho mukosi,",
+        "Ri nga vha ro no swika naa? duvha lo tsha kale naa?",
+        "Zwo ralo naa wo sendela muvhuso?",
+        "Zwo ralo naa wo sendela muvhuso?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Fulufhelo ro li fara, ri tsini na hayani,",
+        "I vho penya andndi masase, I a the penyisa hothe,",
+        "He vhakhethwa, u phuluswa ho swika,",
+        "He vhakhethwa, u phuluswa ho swika."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ro i wana yone ndila, shango lo no vha tsini",
+        "Ri hohovhela ngei phanda, litadulu lo swika.",
+        "Maipfi a ri ndi Iwe Mukhethwa,",
+        "Maipfi a ri ndi Iwe Mukhethwa."
+      ],
+      "number": 5
+    }
+  ]
+}

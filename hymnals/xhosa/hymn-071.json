@@ -1,0 +1,44 @@
+{
+  "number": 71,
+  "language": "xh",
+  "title": "71 Libhaliwe-na Igama Lam Khona?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nkos’ andinanze mfuyo yalo eli lizwe;",
+        "Ndikhalel’ ukungena khon’ ezulwini;",
+        "Encwadini yombuso waKho ezulwini,",
+        "Ndixelele Msindisi othandekayo kum."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lingab’ igama lam selibhaliwe-na?",
+        "Lingaba igama lam lise ncwadini-na?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi, ezi zono zam zinje ngentlabathi;",
+        "Kodwa igazi laKho lanele kumoni;",
+        "Kuba isithembiso saKho sibhaliwe,",
+        "\"Ndozihlamba izono zaKho zibe mhlophe.\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kumzi okhazimlayo one zindlw’ ezintle,",
+        "Kukho ke abangcwele bane ngub’ ezintle,",
+        "Akungeni izinto ezingcolileyo,",
+        "Kuhleli izithunywa ezilindileyo."
+      ],
+      "number": 3
+    }
+  ]
+}

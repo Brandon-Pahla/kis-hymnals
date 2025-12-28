@@ -1,0 +1,35 @@
+{
+  "number": 192,
+  "language": "guz",
+  "title": "192 Rigi' Ob' Omochenu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Rigi' ob' omochenu,'Kwane na Nyasae,'Be Nere na koria,ring'ana'riaye;Okor' obosani,okony'aboro,'Tari kweba kende,origi' ebisio."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Rigi' ob' omochenu,'Nse nkoagag' ere,Obe aye bweka,Amo na Yeso;Komoroche Yeso,Nomogwekane,'Banto mbamorore,'Se chimbwa chiao."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Rigi' ob' omochenu,'B' Omorai oo,Tomotang'anerakende na keba;'Mogok', obororo,Mobwatie Yeso,Komoroche Yeso,'Ncha ng'ana Yaye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Rigi' ob'omochenu,Otoerere,Ebirengererio,biragwe Nere;Oragwe n'Omoika,As'obwanchani,Bwango nogwenere,'Meremo Igoro."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "number": 42,
+  "language": "sn",
+  "title": "42 Hatichati Kwasaranyi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Pasi pano nevashamwari,",
+        "Tinozoonana,",
+        "Asi zvimwe tine urombo,",
+        "Apo tapatsana"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hatichati, ”Kwasaranyi”, Kumusha waMwari",
+        "Kunyika’yo yerufaro, Hakuna kwasaranyi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tinofara nekusimbira,",
+        "Apo tapatsana,",
+        "Kuti apo Jesu auya,",
+        "Zvetichaonana"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kupatsana hakutaurwi,",
+        "Kumusha wedu’yo,",
+        "Asi tichaimba nziyozve,",
+        "Rufaro nerudo"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "number": 292,
+  "language": "ny",
+  "title": "292 - Timanja Tiwiri",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TWO LITTLE HANDS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Timanja tigwire ntchito yace, Lilime limlemekeze,",
+        "Makuatu amve mau ace, Mau ayimbetu nyimbo",
+        "CHORUS:",
+        "Tidzatu, Ambuye, Tidzatu tikali ana,",
+        "Tidzatu, Ambuye, Kumva za Inu.",
+        "2. Timapazi tiyende m’njirayo, Yopita nayo kumwamba;",
+        "Timaso tiwerenge Bible, Linena cikondi cace.",
+        "3. Kamtima ndipereke kwa Yesu, Apulumutse moyowu",
+        "Kuti ndigwire ntchitoyace, Ndikhaletu wace konse."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 12,
+  "language": "nd",
+  "title": "12 Ku Khona uMthombo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ku khon’ uMthombo wegazi Ovel’ eNkosini, Zonk’ izoni zi ngagezwa, Ngokuy’ eNkosini",
+        "Zi ngahlanjululwa Ezonweni zazo, Zonke zi ngathethelwa Ebubini bazo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Isela elalengayo, Lathab’ ukubona, Lowo ‘Mthombo ofunayo Ukugez’ aboni",
+        "Noma ngi nezono, Ngi ngahlanjululwa, Kuwo uMthombo waboni, Ngi nga gezisiswa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yebo, Wundlu elafayo Si yabona Wena, Ibandl’ elasindiswayo Selomele Wena",
+        "Li namandl’ igazi Ukugez’ izono, Ibandla li ngasindiswa Li zonde ukwona"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Nkosi u ngilungisele Indawo ekhaya, Noma-nje ngi ngafanele Wena wa ngifela",
+        "Wongipha umvuzo Ngay’ impilo entsha, Wongipha njalo umvuzo Ngay’ impilo entsha"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ku khon’ isihlabelelo, Ngaso ngi babaza, Amandlayo insindiso, Seloku ngahlanzwa",
+        "Ngi vuk’ engcwabeni Ngobabaza Wena, Lu phinde kaning’ ulimi Lu dumisa Wena"
+      ],
+      "number": 5
+    }
+  ]
+}

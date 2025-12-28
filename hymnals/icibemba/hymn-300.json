@@ -1,0 +1,35 @@
+{
+  "number": 300,
+  "language": "bem",
+  "title": "300 - BACULA BAKATUSHA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "REST FOR THE WEARY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Umushi wa mwina Kristu, Waba mu-Mpanga ilya,",
+        "Mupusushi atangila, Kuyanteyani-shi-, sha.",
+        "CHORUS:",
+        "Bacula ba-katusha. Bacula ba-katusha;",
+        "Kulya kwi-shi-lya ilya Yordani, Kulya;",
+        "Bacula ba-katusha, Bacula ba-katusha,",
+        "Bakalalya mwi-bala lya Edeni, Mulya",
+        "2. Alenteyanishe ng'anda, Ikeka-la pe nape;",
+        "Nkekala kulya pe nape. Mu mpanga ya mu-ishi-, lo",
+        "3. Kulwala no kukalipwa, Takwaka-tale kuba,",
+        "Icikonko no bulanda, Tafyakasangwe-, ku-, lya.",
+        "4. lmfwa tayakasangwemo, No lubo-la lwa iko,",
+        "Imbeni no kusekela, Imbeni nomba-, bwacha",
+        "5. Imbeni mwe mpyani shakwe, No bwansho 'lyo muleya,",
+        "Fipata fya mu Zioni, Fili no kumwi-, swi-, lwa."
+      ],
+      "number": 2
+    }
+  ]
+}

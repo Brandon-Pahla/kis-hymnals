@@ -1,0 +1,52 @@
+{
+  "number": 590,
+  "language": "es",
+  "title": "Guía a ti, Señor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Guía a ti, Señor, guía a ti",
+        "los hijos tiernos que me has dado a mí.",
+        "¡Oh, por tu grande amor, guíalos, Dios, a ti!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Guíalos, Dios, a ti,",
+        "guíalos, sí."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando del mundo vean el esplendor,",
+        "entonces guárdalos del tentador.",
+        "De sus engaños ¡oh, guíalos, Dios, a ti!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Los niños a salvar vino Jesús,",
+        "y anduvo sin pecar hasta la cruz.",
+        "Suplico por tu amor: ¡guíalos, Dios, a ti!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aunque me falte fe quiero creer",
+        "que este precioso don quieres tener:",
+        "tiernos de corazón, hoy los devuelvo a ti."
+      ],
+      "number": 5
+    }
+  ]
+}

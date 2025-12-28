@@ -1,0 +1,56 @@
+{
+  "number": 456,
+  "language": "pt",
+  "title": "Sabes Quantas Estrelinhas?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Sabes Quantas Estrelinhas?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sabes quantas estrelinhas",
+        "Lá no céu brilhando estão?",
+        "Sabes quantas nuvenzinhas",
+        "Pelo vasto mundo vão?",
+        "Deus a todas tem contado,",
+        "Uma só não há faltado;",
+        "Nem de tantas, uma só;",
+        "Nem de tantas, uma só."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sabes quantos passarinhos",
+        "Voam, livres, pelo ar?",
+        "Quantos peixes que não cansam,",
+        "Divertindo-se no mar?",
+        "Deus a todos deu a vida,",
+        "Cada um tem sua lida,",
+        "Alegria e prazer;",
+        "Alegria e prazer."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sabes quantas criancinhas,",
+        "Ao raiar do arrebol,",
+        "Se levantam markdowninhas,",
+        "Despertando com o Sol?",
+        "Deus a todas 'stá olhando,",
+        "E do Céu abençoando;",
+        "Vê e ama a ti também;",
+        "Vê e ama a ti também."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "number": 300,
+  "language": "ve",
+  "title": "300. Vhuawelo Ha Vho Netaho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ngei haya ha vhakhethwa, Hu awela vha Yesu,",
+        "Mutshidzi o no ya hone, U lugisa vhudzulo",
+        "Hu awela vhalidzi, Hu awela vhalidzi",
+        "Hu awela vhalidzi, ndi do awela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ngei seli ha Yorodane tsimuni ya Edeni",
+        "Ndi do awela tsini na muri wa vhutshilo"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. O nndugisela vhudzulo, u ya nga hu sa fheli",
+        "Hune nda do dzula hone, helo shango likhethwa",
+        "Hu awela vhaneti, Hu awela vhaneti",
+        "Hu awela vhaneti, ndi do awela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Malwadze a nga si dzhene, na vhutungu a vhu ho",
+        "Ndi do ambadzwa-vho khare, henengei tadulu",
+        "Hu awela tsiwana, Hu awela tsiwana",
+        "Hu awela tsiwana, ndi do awela."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Lufu lu do vha lwo kundwa, Maanda alwo a fhela",
+        "Vha imbelela dzithendo, vha tshi vuwa vhafuni",
+        "Hu awela vhalenda, Hu awela vhalenda",
+        "Hu awela vhalenda, ndi do awela."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Takalani malaifa, imbani nga ha gundo",
+        "Dzikhoro dzi do vulea, ni tshi dzhena tadulu",
+        "Hu awela vhakundi, Hu awela vhakundi",
+        "Hu awela vhakundi, ndi do awela"
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "number": 619,
+  "language": "tw",
+  "title": "Di Yɛn Anim, Daapem Hen",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Di yɛn anim, daapem hen',",
+        "ɔsa b're no adu;",
+        "Wo ntamadan ne yɛn fie",
+        "Fi nnɛ akonim hɔ;",
+        "Yɛn  ahoboa mm're nyinaam',",
+        "Wo dom ahyɛ yɛn den'",
+        "Enti daapem Hen', yɛma",
+        "Yɛn ako dwom so nnɛ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Di yɛn anim, daapem Hen'",
+        "Kosi bɔn' ko awiei;",
+        "Kronkronyɛ de dɛw bɛka",
+        "Asomdwoe Amen no,",
+        "'Fisɛ 'nyɛ afoa anaa",
+        "Twene nnyigyei bi so,",
+        "'Hummɔb'rɔ ne deɔ nnwuma",
+        "N'ɛde s'ro 'henni ba."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Di yɛn anim, daapem Hen'",
+        "Yedi W'akyi, yensųro,",
+        "'Fisɛ Wuyi W'anim a,",
+        "'Nigye pue sɛ 'nɔpa.",
+        "W'asɛnnua no wɔ yɛn so,",
+        "Yɛnantew ne hann mu;",
+        "'Henkyɛw retwɛn nkonimdi",
+        "Nyame di yɛn anim."
+      ],
+      "number": 3
+    }
+  ]
+}

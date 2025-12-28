@@ -1,0 +1,57 @@
+{
+  "number": 130,
+  "language": "fr",
+  "title": "Jésus est mon divin berger",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus est mon divin Berger,",
+        "Réjouis-toi mon âme !",
+        "Seul il délivre du danger,",
+        "Tout en moi le réclame !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Non, je ne manquerai de rien,",
+        "Car, oh ! grâce infinie,",
+        "Jésus est l’Ami, le Gardien",
+        "En qui je me confie."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jour après jour, il me conduit",
+        "Dans ses verts pâturages ;",
+        "De son amour il me nourrit,",
+        "Sous ses divins ombrages."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je ne craindrai donc aucun mal",
+        "Quand, au bout du voyage,",
+        "Il me faudra, du sombre val,",
+        "Franchir le noir passage."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Toujours sa grâce et son amour",
+        "Me suivront sur la terre ;",
+        "Et tout sera, dans son séjour,",
+        "Paix, gloire, amour, lumière."
+      ],
+      "number": 5
+    }
+  ]
+}

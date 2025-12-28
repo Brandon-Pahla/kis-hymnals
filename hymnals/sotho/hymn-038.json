@@ -1,0 +1,38 @@
+{
+  "number": 38,
+  "language": "st",
+  "title": "38 Emang Lefikeng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tiisetsang ho Molimo lefats’eng, Le har’a meferefere eohle,",
+        "Ke eena fika le matla ’ohle. Ha sera se re loants’a."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "A re emeng fikeng, re tieng lefikeng, Fika la Jesu Kreste,",
+        "’Me ha re ka hlola, Re tla kopana, Ka har’a bohle teroneng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tiisetsang le emele ho loka, Le bete pelo, tieang tumelong,",
+        "Jesu ke eena ea tla le thusa, Melekong ea lefats’e."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tiisetsang, emelang ’nete eohle, Leha bothata bole boholo,",
+        "Lefika ke lona le tla thusa, Har’a bothata bohle"
+      ],
+      "number": 3
+    }
+  ]
+}

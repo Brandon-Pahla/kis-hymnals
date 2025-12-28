@@ -1,0 +1,44 @@
+{
+  "number": 525,
+  "language": "es",
+  "title": "Con gratitud, llegamos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Con gratitud, llegamos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Con gratitud, llegamos",
+        "a tu altar, Señor;",
+        "gozosos te adoramos,",
+        "cantamos con fervor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Queremos devolverte",
+        "el diezmo sin tardar;",
+        "por eso hoy, fielmente,",
+        "lo vamos a entregar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Con gozo, nuestra ofrenda",
+        "te damos, oh Señor;",
+        "acéptala cual prenda",
+        "de todo nuestro amor."
+      ],
+      "number": 4
+    }
+  ]
+}

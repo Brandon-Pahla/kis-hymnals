@@ -1,0 +1,66 @@
+{
+  "number": 277,
+  "language": "pt",
+  "title": "Jesus, Eu Venho a Ti",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Jesus, Eu Venho a Ti"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus, Senhor eu venho a Ti,",
+        "Ó, dá-me alívio mesmo aqui,",
+        "O Teu favor estende a mim;",
+        "Aceita um pecador!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Eu venho como estou;",
+        "Bem sei, indigno sou,",
+        "Mas meu Jesus por mim morreu;",
+        "Eu venho como estou."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "As minhas culpas grandes são,",
+        "Mas, Tu, que não morreste em vão,",
+        "Me podes conceder perdão;",
+        "Aceita um pecador!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu nada posso merecer,",
+        "Tu vês-me prestes a morrer;",
+        "Jesus, a Ti me vou render;",
+        "Aceita um pecador!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó, vem agora, Salvador,",
+        "Somente Tu és meu Senhor!",
+        "Ó, salva-me por Teu amor;",
+        "Aceita um pecador!"
+      ],
+      "number": 6
+    }
+  ]
+}

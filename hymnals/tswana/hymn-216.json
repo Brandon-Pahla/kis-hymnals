@@ -1,0 +1,46 @@
+{
+  "number": 216,
+  "language": "tn",
+  "title": "216 Bojosing? Nnyaa Ga Ke ’Si",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bojosing? Nnyaa Ga Ke ’Si Jeso’ Na Le Nna;",
+        "O Wa intumedisa; K’itse O gaufi.",
+        "Ga go tsala? Nnyaa ’Teng, Jeso Tsala ya me;",
+        "Ke’ fetoga mme O nna jalo go ya bokhutlong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nnyaa ga ke esi, nnyaa ga ke esi;",
+        "O solofeditse gore ga A ntlogele bojosing. (gabedi)",
+        "T&amp;B.Nnyaa, nnyaa, ga ke esi Nnyaa, nnyaa, ga ke esi;",
+        "O solofeditse gore ga A ntlogele bojosing. (boela khorase)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Lapile? Nnyaa Fa Ke Le Fubeng Sa ’Gwe;",
+        "Ke mo boitumelong, Le mo boikhutsong.",
+        "Ga ke na thuso? E, Mme k’ikaegile,",
+        "Mabogong a that’a Jeso, Mme O mpolokile."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Letile? E, O Re Ke Lete Tisong;",
+        "Ke gakgamala gantsi, Keng se diang Morena.",
+        "Boitumelo jo Bo se nang mafoko,",
+        "Motheo o o thata Boipelo Moreneng."
+      ],
+      "number": 3
+    }
+  ]
+}

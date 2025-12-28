@@ -1,0 +1,53 @@
+{
+  "number": 67,
+  "language": "tn",
+  "title": "67 Tlang Bao Re Ratang Morena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tlang Bao Re Ratang Morena Re Itumeleng,",
+        "Re opele mmogo botsheng, Re opele mmogo botsheng,",
+        "Re dike terone, Re dike terone."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Re ya kwa Siona, Oo montle, montle Siona;",
+        "-(T. &amp; B.) Rona re ya kwa Siona, Oo montle, montle Siona.",
+        "Re ya godimo Siona, Motse montle wa Modimo.",
+        "-(T. &amp; B) Re ya kwa legodimong Siona, Motse montle wa",
+        "Modimo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ba Gane G’opela Ba’ Sa Itseng Modimo;",
+        "Mme bana ba legodimo, Mme bana ba legodimo,",
+        "Ba bue boitumelo, Ba bue boitumelo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thaba Ya Siona E Ntsha Botshe ’Boishepo,",
+        "R’ise re fitlhe godimo, R’ise re fitlhe godimo,",
+        "Mebileng ya gouda, Mebileng ya gouda."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Foo A Re Opeleng Keledi Di Ome",
+        "Re tsamaya Immanuele, Re tsamaya Immanuele,",
+        "Go ya legodimong, Go ya legodimong."
+      ],
+      "number": 4
+    }
+  ]
+}

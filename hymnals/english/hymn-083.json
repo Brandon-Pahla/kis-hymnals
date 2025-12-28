@@ -1,0 +1,45 @@
+{
+  "number": 83,
+  "language": "en",
+  "title": "83 O For A Thousand Tongues To Sing.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O for a thousand tongues to sing;Blessed be the name of the Lord! The glories of my God and King,Blessed be the name of the Lord!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Blessed be the name,-",
+        "Blessed be the name,",
+        "Blessed be the name of the Lord;",
+        "Blessed be the name,",
+        "Blessed be the name,",
+        "Blessed be the name of the Lord."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus, the name that charms our fears;",
+        "Blessed be the name of the Lord!",
+        "‘Tis music in the sinner’s ears,",
+        "Blessed be the name of the Lord!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "He breaks the power of cancelled sin,",
+        "Blessed be the name of the Lord!",
+        "His blood can make the foulest clean,",
+        "Blessed be the name of the Lord!"
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "number": 456,
+  "language": "fr",
+  "title": "Jésus, mon espérance",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus, mon espérance,",
+        "Jésus, mon seul trésor,",
+        "Je mets ma confiance",
+        "En toi jusqu'à la mort.",
+        "De toi me vient la vie,",
+        "De toi descend la paix,",
+        "En toi, joie infinie,",
+        "Je vis et pour jamais."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rends-moi toujours fidèle,",
+        "Aimant tes saintes lois,",
+        "Jésus, divin modèle,",
+        "Inspire et conduis-moi.",
+        "Jamais tu ne commandes",
+        "Ce qui serait trop lourd.",
+        "Toujours, quand tu demandes,",
+        "Ta main donne en retour."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je veux, dans ta lumière,",
+        "Marcher le cœur joyeux,",
+        "Montant de la poussière",
+        "Vers toi, dans les hauts cieux.",
+        "C'est là qu'est ma patrie,",
+        "Pays de mes souhaits.",
+        "C'est là ma bourgeoisie,",
+        "Jésus, dans ton palais."
+      ],
+      "number": 3
+    }
+  ]
+}

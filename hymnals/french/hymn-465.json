@@ -1,0 +1,37 @@
+{
+  "number": 465,
+  "language": "fr",
+  "title": "Ô mon Sauveur",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ô mon Sauveur, ô source intarissable",
+        "De tout vrai bien, de douceur, de bonté !",
+        "Tu réunis dans ton être admirable",
+        "Tous les trésors de la divinité."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seigneur Jésus, sois à jamais ma gloire;",
+        "Sois mon amour, ma joie et ma douceur;",
+        "Sois mon rempart, ma force, ma victoire,",
+        "Ma paix, mon bien, ma vie et mon bonheur."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sois à jamais toute mon espérance,",
+        "Sois mon secours, mon guide, mon Sauveur;",
+        "Sois mon trésor, ma fin, ma récompense,",
+        "Mon seul partage et le tout de mon cœur."
+      ],
+      "number": 3
+    }
+  ]
+}

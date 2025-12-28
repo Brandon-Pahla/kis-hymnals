@@ -1,0 +1,56 @@
+{
+  "number": 86,
+  "language": "es",
+  "title": "A media noche en Belén",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A media noche en Belén"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A medianoche en Belén",
+        "un canto sin igual",
+        "de dulces notas se oyó",
+        "sublime y celestial:",
+        "\"En las alturas gloria a Dios",
+        "y al mundo salvación;",
+        "al hombre buena voluntad",
+        "y paz al corazón\"."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "El canto de los ángeles",
+        "aún se oye sonar;",
+        "su eco dulce, arrobador,",
+        "alivia mi pesar.",
+        "Por sobre el mundo de maldad",
+        "y el ruido terrenal,",
+        "se escucha hoy la tierna voz",
+        "del canto angelical."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Viajero que por la vida vas",
+        "cansado y con temor,",
+        "que asciendes con dificultad",
+        "la senda del dolor;",
+        "detente y contempla ya",
+        "la angélica visión;",
+        "si prestas atención, oirás",
+        "la celestial canción."
+      ],
+      "number": 4
+    }
+  ]
+}

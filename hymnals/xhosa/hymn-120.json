@@ -1,0 +1,55 @@
+{
+  "number": 120,
+  "language": "xh",
+  "title": "120 Ndiyakholwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndolula izandla, Bawo; Ndincedwa nguWe mna;",
+        "Xa wen’ uzirhoxisa kum, Awu, ndoya ngaphi na?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndikholwa kuNyana waKho, Ndinike amandla;",
+        "Ndikhulul’ ezintsweleni Ngale yure yaKho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mdal’ wokholo, amehlo am Akhangela kuWe;",
+        "Ndamkelise eso sipho, Singekho ndifile."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akungendiyeki ndife, Thetha ’ze ndiphile;",
+        "Ndolinda apha ngomonde, Ndizuze uMoya."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndovuyiswa yini, Nkosi, Xa ungekho wena?",
+        "Thetha izwi lempiliso, Ndize ndixolelwe."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "NdiyaKholwa kaloku nje, ’Yesu wandifela;",
+        "Wandiphalazel’ igazi, Ndakhululw’ esonwen’"
+      ],
+      "number": 6
+    }
+  ]
+}

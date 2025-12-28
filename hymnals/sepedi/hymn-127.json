@@ -1,0 +1,57 @@
+{
+  "number": 127,
+  "language": "nso",
+  "title": " 127 O 'ANTHATA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 127 O 'ANTHATA",
+        "АН 456 CS 252",
+        "HE LOVES ME TOO"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Modim 'o bona thakg 'e wa,",
+        "Wa e hlokomela,",
+        "Ge a rata dinonyane,",
+        "Ke'a tseba wa nthata;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "O a nthata, O a nthata,",
+        "Kea tseba o a nthata,",
+        "Ge a rata tše nyenyane,",
+        "Ke'a tseba o a nthata;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O kgabiša le matšoba,",
+        "O a nea monko,",
+        "Mee ge a rata matšoba,",
+        "Kea tseba wa nthata;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Modimo o di botile,",
+        "Tšohle le tše kgolo,",
+        "Ga a na go di lebala,",
+        "Kea tseba wa nthata;"
+      ],
+      "number": 5
+    }
+  ]
+}

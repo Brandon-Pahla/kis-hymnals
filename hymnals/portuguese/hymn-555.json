@@ -1,0 +1,46 @@
+{
+  "number": 555,
+  "language": "pt",
+  "title": "Até Então",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Até Então"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Meu coração alegre hoje canta,",
+        "Ao relembrar que as dores cessarão;",
+        "Virá o fim a este mundo escuro;",
+        "Meu lar será nas terras de Sião."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Mas té então eu seguirei cantando,",
+        "Té então markdowne eu hei de estar,",
+        "Até o dia em que a cidade eu veja,",
+        "E ouça a Deus chamar-me ao lar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A morte a e dor não mais pavor nos trazem,",
+        "Pois eu bem sei que em breve findarão.",
+        "De todo o mal que aqui nos faz trementes,",
+        "Ao recordar os salvos sorrirão."
+      ],
+      "number": 4
+    }
+  ]
+}

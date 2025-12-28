@@ -1,0 +1,56 @@
+{
+  "number": 734,
+  "language": "tw",
+  "title": " N39 What can wash away my sin?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dεn na εpa me bɔne?",
+        "Minhu hwee sε Yesu mogya;",
+        "Dεn na εma me mu tew?",
+        "Minhu hwee sε Yesu mogya;"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mogya a εhoa me",
+        "Ho no bo yε den sɔ;",
+        "Minnim nsuti fof'ro,",
+        "Minhu hwee sε Yesu mogya."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nea εfa m'ahotew   ho –",
+        "Minhu hwee sε Yesu mogya;",
+        "Ma fafiri no ho nso –",
+        "Minhu hwee sε Yesu mogya;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hwee ntumi mpata bɔne –",
+        "Minhu hwee sε Yesu mogya;",
+        "Me papayε rentumi –",
+        "Minhu hwee sε Yesu mogya;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mεto anuonyam dwom sε –",
+        "Minhu hwee sε Yesu mogya;",
+        "Eyi nti m'ayeyi ni –",
+        "Minhu hwee sε Yesu mogya;"
+      ],
+      "number": 4
+    }
+  ]
+}

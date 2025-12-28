@@ -1,0 +1,26 @@
+{
+  "number": 11,
+  "language": "ts",
+  "title": "11. NDZI TA KU LANDZELA HOSI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I WILL FOLLOW THEE MY SAVIOUR",
+        "1. Ndzi Ta Ku Landzela Hosi, Tindleleni Ta Wena;",
+        "Laha U Yaka Ndzi Ta Ya, Ina Nta Ku Landzela.",
+        "CHORUS",
+        "Ndzi Ta Ku Landzela Hosi, Wena La Ndzi Feleke, Hambi Van’wana Va Ala, Ina Nta Ku Landzela.",
+        "2. Hambi Mitwa Ni Swigatlu, Hinkwaswo Swo Vavisa;",
+        "Switele Ndleleni Yanga, Mina Nta Ku Landzela.",
+        "3. Maxangu Na Wo Nhlomulo, Miringo Yo Chavisa;",
+        "Na Wena U Huma Kona, Ina Nta Ku Landzela.",
+        "4. Hambi Na Wona Makhombo, Loko Ya Ndzi Tshuketa;",
+        "Na Wena U Pfa Ka Wona, Mina Nta Ku Landzela.",
+        "5. Hambi La Ku Chavisaka, Wena Wa Ndzi Fambisa;",
+        "Wena U Ndzi Hlulerile, Ina Nta Ku landzela."
+      ],
+      "number": 1
+    }
+  ]
+}

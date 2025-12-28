@@ -1,0 +1,32 @@
+{
+  "number": 305,
+  "language": "ny",
+  "title": "305 - Dzuwa Lapita",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE SUN HAS SET"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Dzuwa lapita, Dzuwa lapita,",
+        "Mlungu mutigonetswe phe!",
+        "2. Mdima wafika, mdima wafika,",
+        "Mutisunge tonse bwino.",
+        "3. Tibvomereze, tibvomereze,",
+        "Zakucimwa zathu zonse.",
+        "4. Mkhululukire, mkhululukire,",
+        "Zoipazi zathu zonse.",
+        "5. Lero tigone lero tigone",
+        "Tigonemo mu mtendere",
+        "6. Ndife ananu, Ndife ananu,",
+        "\"Tate Mlungu wotikonda."
+      ],
+      "number": 2
+    }
+  ]
+}

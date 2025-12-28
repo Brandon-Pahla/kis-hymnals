@@ -1,0 +1,66 @@
+{
+  "number": 623,
+  "language": "tw",
+  "title": "M'agyenkwa, Medi Wo Akyi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "M'Agyenkwa, medi Wo akyi,",
+        "Nea me bra besi biara;",
+        "Nea Wokɔ biara mɛkɔ bi,",
+        "Yiw, 'Wura, medi W'akyi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "M'Agyenkwa, medi Wo akyi",
+        "Wuhwiee Wo mogya maa me;",
+        "'Nti sɛ nnipa nyinaa pa Wō a,",
+        "Wo dom nti medi W'akyi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ kwan nom' nye na nsɔe wɔ mu,",
+        "Ͻyɛ po a kwan nnam' a,",
+        "Woadi m'anim kan afa so,",
+        "'Nti dɛw mu medi W'akyi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ mihyia ɔhaw ne yaw na",
+        "Sɛ wɔsɔ me hwɛ mpo a,",
+        "Mekae sɛ wɔsɔɔ Wo hwɛe bi,",
+        "'Nti mede dɛw di W'akyi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ Wode me fa yaw mu na",
+        "Ohia tu me gu mpo a,",
+        "Wo nso Wudii kan dii yaw bi,",
+        "'Nti medi W'akyi ara."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wode me fa Yordan bun' mu,",
+        "Ma awɔw kyen me mpo a,",
+        "Wo na Wudii kan faa po so,",
+        "'Nti medi W'akyi ara."
+      ],
+      "number": 5
+    }
+  ]
+}

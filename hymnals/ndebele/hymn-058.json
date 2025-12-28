@@ -1,0 +1,43 @@
+{
+  "number": 58,
+  "language": "nd",
+  "title": "58  Bayethe, Nkosi Ya Makosi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bayethe! Ku Jes’ iNkosi, Zi thob’ ingelosi;",
+        "Maka thweswe umqhele, Kuthiwe, Bayethe!",
+        "Maka thweswe umqhele, Kuthiwe, Bayethe!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nina enikethiweyo, Nsal’ eyingcosana",
+        "Hloniphani Owafayo, Kuthiwe, Bayethe!",
+        "Hloniphani Owafayo, Kuthiwe, Bayethe!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Makuthi bonk’ abezizwe, Abakulelizwe",
+        "Ba mukhothamele Yena, Kuthiwe Bayethe!",
+        "Ba mukhothamele Yena, Kuthiwe Bayethe!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nalabaya abangcwele, Nabo si nga guqa",
+        "Si mdumis’ uSimakade, Kuthiwe Bayethe!",
+        "Si mdumis’ uSimakade, Kuthiwe Bayethe!"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": 17,
+  "language": "en",
+  "title": "17 Tis Love That Makes Us Happy",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "`Tis love that makes us happy, `Tis love that smoothes the way;",
+        "It helps us “mind “,it makes us kind to others everyday"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "God is love; we’re his little children.",
+        "God is love, we would be like him.",
+        "`Tis love that makes us happy,",
+        "`Tis love that smoothes our way",
+        "It helps “mind “it makes us kind",
+        "To others everyday."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "This world is full of sorrow, Of sickness, death and sin;",
+        "With loving hearts we’ll do our part, And try some soul to win."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "And when this life is over, And we are called above,",
+        "Our song shall be eternally, Of Jesus and his love."
+      ],
+      "number": 3
+    }
+  ]
+}

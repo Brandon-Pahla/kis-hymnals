@@ -1,0 +1,46 @@
+{
+  "number": 257,
+  "language": "nso",
+  "title": " 257  O TLO EMA A TSEPAME BOKA MMOTO.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 257  O TLO EMA A TSEPAME BOKA MMOTO.",
+        "АН 160 CH 392",
+        "UNSHAKEN AS THE SACRED HILL"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O tlo ema o tsepame,",
+        "Bjalo ka dithaba,",
+        "A ikhutše ba ka leswika,",
+        "Eo a thepago Jehofa;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go be go se tše ka phemelago,",
+        "Salem e mo botse,",
+        "Ka matsogo a sa felego,",
+        "Go bakgethwa;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bontšha kgaugelo Morena,",
+        "Go bao ba go tshepilego,",
+        "Ba ituletšego dinneteng,",
+        "Molaong wa nnete;"
+      ],
+      "number": 4
+    }
+  ]
+}

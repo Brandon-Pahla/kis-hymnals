@@ -1,0 +1,22 @@
+{
+  "number": 237,
+  "language": "ts",
+  "title": "237. HLOMA NYIMPI YA YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "STAND UP, STAND UP FOR JESUS",
+        "1. Hloma Nyimpi Ya Yesu, Yesu Vandla Ra Xikwembu, Mi Tlakusa Na Nawu, Wa Hosi Xikwembu, Hlulani Mi Tingwazi, U Rhange Mahlweni,",
+        "U Ta Hlula Valala, Yesu I Muhluri.",
+        "2. HLoma Nyimpi Ya Yesu, Twana Mhalamhala, Khombo Ri Le Ndleleni, I Siku Ro Hlula,",
+        "Tiyani Ehosini, Vanyingi Valala, Lwanani Hi Xivindzi, Mi Tiya Matimba.",
+        "3. Hloma Nyimpi Ya Yesu, Hi Matimba Yakwe, Hina Hi Nga Hluriwa, Loko Hi Titshembha,",
+        "Tamelani Ntiyiso, Mi Khongela Yesu, Laha Ku Nga Na Khombo, Mi Nga Heli Ntamu.",
+        "4. Hloma Nyimpi Ya Yesu, Yi Ta Hela Sweswi, Namuntlha I Swirilo, Mundzuku I Ntsako,",
+        "Harhi Ya Vutomi, Yi Ta Hiwa Muhluri, U Ta Fuma Na Yesu, Masiku HInkwawo."
+      ],
+      "number": 1
+    }
+  ]
+}

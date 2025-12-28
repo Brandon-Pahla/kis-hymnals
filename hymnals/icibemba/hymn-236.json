@@ -1,0 +1,30 @@
+{
+  "number": 236,
+  "language": "bem",
+  "title": "236 - UKUTEMWA KWAKWE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HIS LOVING KINDNESS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. We mutima shibuka, mwimbile kabumba obe",
+        "Ima ne nseko no kuya kukwimba nokutotela.",
+        "CHORUS:",
+        "Ima ne nseko no kuya kukwimba nokutotela.",
+        "2. Alimwene lyo nawile, antemenwe'lyo nali lyo,",
+        "Ampuswishe mukuluba, luse elyo ne cikuku.",
+        "3. Nangu fita fyafulisha nangu calo cilendufya",
+        "Antungulula mu mweo, luse elyo ne cikuku.",
+        "4. Lyo macusho yafulisha, nga makumbi yafitisha",
+        "Lyonse eminina pepi, luse elyo ne cikuku"
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "number": 347,
+  "language": "tum",
+  "title": " 347 Kukhala M'chigomezgo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 347 Kukhala M'chigomezgo",
+        "C.M. 2013"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nkhwenjerwa chara mwe na vya machero,",
+        "Mfwiri zuwa nesi vula;",
+        "Fumu yikuwusa pavinthu",
+        "vyose palije icho ndingopa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Gomezgeka (inya gomezga), Mwa Yesu yekha (mwa Yesu yekha)",
+        "Khazikika (khazikika)",
+        "m'chitemwa chake (inya m'chitemwa)",
+        "wakubise (wakubisenge)",
+        "M'mawoko ghake (m'mawoko ghake)",
+        "Nkhumugomezga (Nkhumugomezga)",
+        "Ndofiwenge cha (ndopenge cha)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nanga mayigha ghangakwera viwi,",
+        "kujarizga moyo wane,",
+        "Tindope chara munkhorwe ute bii,",
+        "Fumu yitiwenge nane."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nkhumanya Fumu yindirongozgenge,",
+        "Nanga uheni uzale,",
+        "Nkhufipa m'tima na mayigha chara,",
+        "Para nkhwenda na M'ponoski"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Fumu yitizengeso mwe kunozga,",
+        "Kumazga masuzgo ghose,",
+        "Yitirongozgere kuya kuchanya,",
+        "Sirya lira la muronga."
+      ],
+      "number": 5
+    }
+  ]
+}

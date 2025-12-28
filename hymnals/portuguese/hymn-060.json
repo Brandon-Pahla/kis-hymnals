@@ -1,0 +1,44 @@
+{
+  "number": 60,
+  "language": "pt",
+  "title": "Foi por Vocę Também",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Foi por Vocę Também"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Foi por vocę também,",
+        "Foi por vocę também que Jesus Se entregou.",
+        "Vejo os cravos a rasgar Suas măos e pés sem-par!",
+        "Foi por vocę também que Jesus Se entregou!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Foi por vocę também,",
+        "Foi por vocę também que o Mestre agonizou.",
+        "Vejo o sangue de Jesus deslizando sobre a Cruz!",
+        "Foi por vocę também que o Mestre agonizou!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Foi por vocę também,",
+        "Foi por vocę também que Jesus mostrou amor.",
+        "Padeceu sem merecer e sofreu até morrer!",
+        "Foi por vocę também que Jesus mostrou amor!"
+      ],
+      "number": 4
+    }
+  ]
+}

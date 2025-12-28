@@ -1,0 +1,55 @@
+{
+  "number": 534,
+  "language": "es",
+  "title": "En tu nombre comenzamos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### En tu nombre comenzamos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En Tu nombre comenzamos",
+        "esta escuela, ¡oh Señor!",
+        "Con fervor te suplicamos",
+        "seas nuestro Director."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Cada sábado venimos",
+        "a tu escuela, ¡oh Jesús!",
+        "Ven, Señor, a instruirnos",
+        "en la ciencia de la cruz."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Esta escuela nos enseña",
+        "tu Palabra a obedecer,",
+        "y tu Ley en nuestra vida",
+        "ante el mundo a enaltecer."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ven, Señor, a enseñarnos",
+        "tus preceptos a cumplir.",
+        "Ya reunidos, esperamos",
+        "tu presencia aquí sentir."
+      ],
+      "number": 5
+    }
+  ]
+}

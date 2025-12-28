@@ -1,0 +1,77 @@
+{
+  "number": 9,
+  "language": "tum",
+  "title": " 9 Lizgani Mbata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 9 Lizgani Mbata",
+        "LIFT UP THE TRUMPET"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Lizgani mbata wose wamanye",
+        "Yesu watizengeso,",
+        "Sekererani mwimbe zisumu,",
+        "Yesu watizengeso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wakwizaso, wakwizaso,",
+        "Yesu watizengeso."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Pharazganinge m'phiri na m'dambo,",
+        "Yesu watizengeso,",
+        "Wakwiza mu uchindami wake,",
+        "Yesu watizengeso."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Pharazganinge m'zinyanja mose,",
+        "Yesu watizengeso,",
+        "Pharazganingiso pose-pose,",
+        "Yesu watizengeso."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Vindindindi vikunena kuti,",
+        "Yesu watizengeso,",
+        "Mphepo na mayigha vikunena,",
+        "Yesu watizengeso."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "Mitundu yakalipa timanye,",
+        "Yesu watizengeso,",
+        "Vinjeru vyandana m'charu chose,",
+        "Yesu watizengeso."
+      ],
+      "number": 6
+    }
+  ]
+}

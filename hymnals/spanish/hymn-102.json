@@ -1,0 +1,55 @@
+{
+  "number": 102,
+  "language": "es",
+  "title": "Cordero de Dios",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cordero de Dios"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hijo de Dios, eterno Rey;",
+        "desde su trono descendió",
+        "para pisar un suelo vil",
+        "y cual Cordero perecer."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Oh, Salvador! ¡Mi Salvador!",
+        "Cordero santo de mi Dios.",
+        "Quien me lavó de mi maldad",
+        "es el Cordero, mi Señor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En una cruz, clavado fue",
+        "por una turba infame y cruel.",
+        "Sacrificaron sin piedad",
+        "a mi Jesús, Cordero fiel."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yo, mi Jesús, soy pecador;",
+        "pero tu gracia me salvó.",
+        "De hoy en más te seguiré;",
+        "soy tu cordero, mi Señor."
+      ],
+      "number": 5
+    }
+  ]
+}

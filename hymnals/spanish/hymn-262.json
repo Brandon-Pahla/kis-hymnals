@@ -1,0 +1,67 @@
+{
+  "number": 262,
+  "language": "es",
+  "title": "Los tesoros del mundo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Los tesoros del mundo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Los tesoros del mundo",
+        "no deseo juntar.",
+        "Quiero entrar en tu aprisco,",
+        "en tu célico hogar.",
+        "En el libro del reino",
+        "que en los cielos está,",
+        "dime, Cristo benigno,",
+        "¿se halla mi nombre allá?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¿Se halla mi nombre allá?",
+        "¿Se halla mi nombre allá?",
+        "En el libro del reino",
+        "¿se halla mi nombre allá?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mis pecados son muchos",
+        "cual la arena del mar;",
+        "mas, Jesús, en tu sangre,",
+        "me los puedes lavar.",
+        "He aquí tus promesas,",
+        "las que escritas están:",
+        "\"Aunque rojos cual grana",
+        "como nieve serán\"."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En la bella ciudad",
+        "con sus mansiones de luz,",
+        "do los santificados",
+        "andarán con Jesús,",
+        "donde el mal no entra nunca,",
+        "donde el bien reinará,",
+        "dime, Cristo benigno,",
+        "¿se halla mi nombre allá?"
+      ],
+      "number": 5
+    }
+  ]
+}

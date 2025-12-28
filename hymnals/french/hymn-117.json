@@ -1,0 +1,48 @@
+{
+  "number": 117,
+  "language": "fr",
+  "title": "Réponds à ma prière",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Réponds à ma prière,",
+        "Esprit saint et puissant,",
+        "Et verse ta lumière",
+        "Dans mon coeur ignorant."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Esprit qui vivifie,",
+        "Répands ta vie en moi,",
+        "Réveille et sanctifie",
+        "Mon coeur qui croit en toi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Viens, parle à ma conscience,",
+        "Convaincs-moi de péché,",
+        "Et mets en évidence",
+        "Le mal le plus caché."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Et si tu viens surprendre",
+        "En moi quelque interdit,",
+        "Oh! fais-le moi comprendre,",
+        "Sonde mon coeur contrit."
+      ],
+      "number": 4
+    }
+  ]
+}

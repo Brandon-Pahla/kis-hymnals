@@ -1,0 +1,64 @@
+{
+  "number": 286,
+  "language": "fr",
+  "title": "À Dieu soit la gloire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "À Dieu soit la gloire !",
+        "Par son grand amour,",
+        "Grâce à sa victoire,",
+        "S'est levé le jour.",
+        "Jésus, à ma place,",
+        "Mourut sur la croix,",
+        "Il m'offre sa grâce",
+        "Et je la reçois."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Gloire à Dieu ! Gloire à Dieu !",
+        "Terre, écoute sa voix.",
+        "Gloire à Dieu ! Gloire à Dieu !",
+        "Monde, réjouis-toi !",
+        "Oh ! venez au Père,",
+        "Jésus est vainqueur ;",
+        "Que toute la terre,",
+        "Chante en son honneur !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De Jésus la joie",
+        "Remplit notre cœur,",
+        "Qu'importe qu'on voie",
+        "Tout notre bonheur,",
+        "Selon sa promesse,",
+        "Jésus changera",
+        "Deuil en allégresse",
+        "Quand il reviendra."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Céleste patrie,",
+        "Mon cœur pense à toi ;",
+        "Là, mon âme unie",
+        "À Jésus mon roi,",
+        "Bénira sans cesse",
+        "Le grand Dieu sauveur,",
+        "Qui, dans sa tendresse,",
+        "Sauve le pécheur."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "number": 594,
+  "language": "es",
+  "title": "Señor, gracias por mi hogar",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Señor, gracias por mi hogar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Horas alegres hay",
+        "en la niñez feliz,",
+        "mientras mamá vigila fiel.",
+        "Señor gracias, por mi hogar"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Horas inquietas hay",
+        "cuando hay que decidir:",
+        "sabios consejos recibir,",
+        "Señor, gracias por mi hogar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Horas serenas hay",
+        "para reflexionar,",
+        "y agradecidos hoy decir:",
+        "Señor, gracias por mi hogar."
+      ],
+      "number": 4
+    }
+  ]
+}

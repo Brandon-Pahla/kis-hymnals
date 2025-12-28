@@ -1,0 +1,54 @@
+{
+  "number": 9,
+  "language": "st",
+  "title": "9 Letsang Lekolulo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Letsang ’kolulo le lle haholo, Jesu O oa tla hape;",
+        "Nyakallang bohle, thabang le bineng, Jesu O oa tla hape."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O oa tla hape, O oa tla hape, Jesu O oa tla hape."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hoeletsang lihlorong le lithabeng, Jesu O oa tla hape;",
+        "Konyana’e hlabiloeng, e ea khanya, Jesu O oa tla hape."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Maqhubu leoatleng, lumang haholo, Jesu O oa tla hape;",
+        "Lehlabathe le qhaloe lebopong, Jesu O oa tla hape."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ntoa lia bonts’a ka ho loana, Jesu O oa tla hape",
+        "Le ponts’o li atile ruri, Jesu O oa tla hape."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chaba li halefile haholo, Jesu O oa tla hape",
+        "Le tsebo e atile haholo, Jesu O oa tla hape."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 233,
+  "language": "fr",
+  "title": "Jésus, tu parles à notre cœur",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus, tu parles à notre cœur.",
+        "Malgré tous les bruits d'ici-bas,",
+        "Nous voulons t'écouter, Seigneur,",
+        "Sans jamais trahir d'un iota."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Parole de vie et d'amour,",
+        "Ta vérité m'affranchira.",
+        "En toi je trouve le secours,",
+        "Chaque jour tu me conduiras."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En ta lumière nous restons.",
+        "Ta loi, ta paix sont dans nos cœurs.",
+        "Vivons donc ce que nous croyons :",
+        "Ta parole est notre bonheur."
+      ],
+      "number": 3
+    }
+  ]
+}

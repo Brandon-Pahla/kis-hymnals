@@ -1,0 +1,29 @@
+{
+  "number": 262,
+  "language": "ts",
+  "title": "262. NDZI RI YINI HE YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "CHRIST OR BARABAS?",
+        "1. Ndzi Ri Yini Hi Yesu, Emahlweni Ka Mina; Mitwa Enhlokweni,",
+        "Na Xo Xivunguvungu.",
+        "CHORUS",
+        "Xivutiso Xi Rindze Nhlamulo, Xivutiso Xi Ri Xana; Ndzi Vamba Yesu Ke?",
+        "Kumbe Barabasi?",
+        "2. Xana Ndzi Ta Ntshuxa,",
+        "Munhu Wo Ti Kurisa; Kumbe Muponisi, Ku Ta Lahliwa Mani?",
+        "3. Ya Tika Nhlamulo,",
+        "Ndzi Ta Hlawula Mani? U Rindze Hi Nsovo, Wa Ha Rhurhumela Ke?",
+        "4. Ndzi Hlawula Njhani,",
+        "Ndzi Nga Rhandza Misava? Ndzi Ya Vamba Yesu, Ku Ta Pona Barabasi.",
+        "5. Hinkweru Vadyohi,",
+        "Hi Le Ku Vutisawen; Na Wena Mukreste, U Le Ku Ringiwni.",
+        "Vuyelelo (5th) Xi Rindze Nhlamulo",
+        "Xivutiso Xi Ri Xana: Ndzi Vamba Barabasi, Ndzi Ntshuxa Yesu Ke?"
+      ],
+      "number": 1
+    }
+  ]
+}

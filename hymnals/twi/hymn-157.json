@@ -1,0 +1,43 @@
+{
+  "number": 157,
+  "language": "tw",
+  "title": "Kɔ Getsemane Sum Mu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kɔ Getsemane sum mu,",
+        "Mo a tamfo hyɛ mo so;",
+        "Monhwɛ mo Gyefo no ko,",
+        "Mo ne No nwɛn dɔnhw're k'ro,",
+        "Mommfi Ne yawdi no ho.",
+        "Munsua Yesu nkyɛn mpaebɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Monhwɛ No asennii hɔ,",
+        "Wɔ ɔhwe ne fɛwdi mu;",
+        "ɔsoaa ne ny'naa ɔdwo mu;",
+        "'Dɔ na ɛhyɛɛ Ne kra den;",
+        "Munguan yaw ne 'nimguase,",
+        "Munsua Ne nkyɛn 'sɛnnua soa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Momfa Kalbre yaw bepɔ,",
+        "Monsom wɔ Ne nan ase.",
+        "Mohwɛ b're nwanwa no yie",
+        "Nyamč afɔrebɔ pa no.",
+        "Tie Ne nteam no sɛ: 'Wɔawie!'",
+        "Munsua sɛnea Yesu wui."
+      ],
+      "number": 3
+    }
+  ]
+}

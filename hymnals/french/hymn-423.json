@@ -1,0 +1,63 @@
+{
+  "number": 423,
+  "language": "fr",
+  "title": "Si je parlais...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Si je parlais le plus parfait langage,",
+        "Si même un ange me prêtait le sien,",
+        "Que me vaudrait ce futile avantage ?",
+        "Si je n'ai pas l'amour, je ne suis rien !",
+        "Je ne suis rien qu'un airain qui résonne,",
+        "Une cymbale au rythme répété,",
+        "Tout manque encore aux grâces que Dieu donne,",
+        "Si je n'ai pas, au cœur, l'amour, la Charité."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Et quand j'aurais le don de prophétie,",
+        "Quand tout secret me serait révélé,",
+        "Quand j'atteindrais au savoir, au génie,",
+        "Quand je devrais, martyr, être brûlé,",
+        "Ou si ma foi transportait la montagne,",
+        "Et ma pitié distribuait mon bien,",
+        "Quelque mérite en cela que je gagne",
+        "Sans cet amour tout ne me servirait de rien."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La charité se montre patiente,",
+        "Et bienveillante à l'égard du prochain,",
+        "N'est pas jalouse et non plus ne se vante,",
+        "Ne s'enfle pas d'orgueil, est sans dédain.",
+        "Pleine d'égards, ne fait tort à personne,",
+        "Tout égoïsme est chez elle écarté,",
+        "Point ne s'irrite et jamais ne soupçonne,",
+        "Réprouve l'injustice et veut la vérité."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que de douceur et de paix elle apporte,",
+        "Car elle excuse tout, elle croit tout,",
+        "Tout elle espère et tout elle supporte,",
+        "Mettant son baume et son parfum partout.",
+        "Les plus beaux dons disparaissent et meurent,",
+        "Cette vertu vit en éternité,",
+        "Foi, espérance et charité demeurent,",
+        "Mais de ces trois la plus grande est la Charité."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 57,
+  "language": "nd",
+  "title": "57  Lowo Ozwayo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lowo ozwayo maka memeze;",
+        "Ivangeli ma li zungeze izwe.",
+        "Lapho ku khon’ abantu ku menyezwe,",
+        "Othandayo mak’ eze!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Low’ othandayo, makasheshise;",
+        "A memezel’ indab’ ezintabeni,",
+        "uBab’ uyabiza odukileyo,",
+        "Othandayo mak’ eze!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wena ozayo sheshisa phela;",
+        "Umnyango u savuliwe, wongena.",
+        "uJesu u thi: \"Ngi yiNdlela mina\";",
+        "Othandayo mak’ eze"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Low’ ovumayo nas’ is’thembiso;",
+        "Kuy’ osithandayo se si me njalo.",
+        "Si yiMpilo enhle eme phakade;",
+        "Othandayo mak’ eze!"
+      ],
+      "number": 4
+    }
+  ]
+}

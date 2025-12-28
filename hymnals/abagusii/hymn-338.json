@@ -1,0 +1,28 @@
+{
+  "number": 338,
+  "language": "guz",
+  "title": "338 Ndater'Ase Yeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndater'ase Yeso, As'obuya bwaye,Nigo nkonyora ogosesenigw'as'are;Natoter'ase Yeso ekengw'anso kiaye,Aiteret'amanyinga Omokonyi one."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndater'ase Yeso amatuko onsi,Kondanyare koinyor'obuya bwaye bwonsi;Ndater'ase Yeso nony'as'emechando,Ere nadende ase amaboko Aye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndater'se Yeso, Gonkogend'enchera,Ning'use orogendo, ng'ike asare;Nainche ninsoe egesieri keria,Nimoterere Yeso, Igoro botambe."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 325,
+  "language": "xh",
+  "title": "325 Le Mini Osinike Yona",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lemini osinike yona, Iyasongwa Nkosi, NguWe;",
+        "Ezondumiso zakusasa, Sezingumbulelo kuWe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sibulela nge-Bandla laKho Eliphaphamele wena;",
+        "Lifeza umyalelo waKho Ngenyameko nenkuthalo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Njengoko imihlaba yonke Ivelelwa lukhanyiso,",
+        "Ayinqamki macala onke Imithandazo yabantu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Elilanga lisitheleyo Livelel’ eziny’ indawo;",
+        "Abalapho benze intsholo Zokubong’ izenzo zaKho."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yehova! i-teroni yaKho Mayisekwe iqiniswe;",
+        "Mabukhule ubukumkani, Zonk’ intlanga zikwamkele."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 181,
+  "language": "pt",
+  "title": "Oh, Vinde à Fonte",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Oh, Vinde à Fonte"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, vinde à fonte de sangue,",
+        "Vinde, sim, vinde a Jesus!",
+        "Paz e perdão vos outorga;",
+        "Vinde alcançá-los na cruz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Vinde a Jesus! Vinde a Jesus!",
+        "Não demoreis; vinde já, vinde lá!",
+        "Paz e perdão vos outorga;",
+        "Vinde alcançá-los na cruz!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tais como sois vinde à fonte;",
+        "Ele vos receberá.",
+        "Todos os vossos pecados,",
+        "Cristo Jesus limpará."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eis a promessa do Mestre,",
+        "Feita a qualquer que aceitar:",
+        "Vida na glória celeste,",
+        "Junto de Deus vai gozar."
+      ],
+      "number": 5
+    }
+  ]
+}

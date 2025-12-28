@@ -1,0 +1,65 @@
+{
+  "number": 203,
+  "language": "st",
+  "title": "203 Mots’elisi O Tlile",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jalang tse molemo hohle-hohle bathong,",
+        "Bakreste bohle ba rorise",
+        "Mots’elis’ otlile."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mots’elisi o teng, Mots’elisi o teng,",
+        "Moea oa ’nete, Ts’episo ea Ntate,",
+        "Jalang tse molemo hohle-hohle bathong,",
+        "Mots’elisi o teng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Siu bo fetile, meso e fihlile; lillo lifelile,",
+        "Bohale bo tukang,",
+        "Letsatsi lea akofa maralleng,",
+        "Mots’elisi o teng."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bonang, khosi Jesu. O na le pholiso,",
+        "Ba kholehong tla le lokolla,",
+        "Ho bohle ho tsoe sefela sa tlholo,",
+        "Mots’elisi o teng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rato la bohlokoa, leleme le la ka,",
+        "Le ka le bolela joang, bathong ba shoang.",
+        "Hore ’na molibe, Ke ts’oane le Eena.",
+        "Mots’elisi o teng."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Binang, mehoo e tleroloe moeeng,",
+        "Bahalaleli, ba le amohele",
+        "Meloling ea ’rato, pina e sa feleng.",
+        "Mots’elisi o teng."
+      ],
+      "number": 5
+    }
+  ]
+}

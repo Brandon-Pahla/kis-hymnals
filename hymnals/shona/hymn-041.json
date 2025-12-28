@@ -1,0 +1,56 @@
+{
+  "number": 41,
+  "language": "sn",
+  "title": "41 Mwari Ngaave Nemwi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mwari ngaave nemwi mwese,",
+        "Dakara tikumbanezve,",
+        "Amutungamirirenyi,",
+        "Mwari ngaawe nemwi mwese"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti tikumbane, Kuti tikumbanezve,",
+        "Kuti tikumbane,",
+        "Mwari ngaawe nemwi mwese"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mwari ngaawe nemwi mwese,",
+        "Ndiye anomuchengeta,",
+        "Munopiwa mese kudya,",
+        "Mwari ngaawe nemwi mwese"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mwari ngaawe nemwi mwese,",
+        "Apo mune matambudzo,",
+        "Munobatsirwa mwese’wo,",
+        "Mwari ngaawe nemwi mwese"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mwari ngaawe nemwi mwese,",
+        "Amuonese’wo rudo,",
+        "Kudzinga hosha nerufu,",
+        "Mwari ngaawe nemwi mwese"
+      ],
+      "number": 5
+    }
+  ]
+}

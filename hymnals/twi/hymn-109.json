@@ -1,0 +1,48 @@
+{
+  "number": 109,
+  "language": "tw",
+  "title": "Yɛn Aw'rade Dɔfo Dom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn Aw'rade dɔfo dom nwanwa,",
+        "ɔdom a ɛb'ro yɛn bɔne so,",
+        "A wohwie guu Kalbre bepɔ so",
+        "'Hɔ na wohwiee 'Guammaa mogya gui."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "'Dom, 'dom (anwanwa dom)",
+        "'S'ro 'dom ('dom a ɛnsa)",
+        "'Dom a ɛde bɔn' kyɛ, tew yɛn mu;",
+        "'Dom, 'dom (anwanwa dom)",
+        "'S'ro 'dom ('dom a ɛnsa)",
+        "'Dom a ɛb'ro bɔne nyinaa so."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bɔne ne abasamtu te sɛ",
+        "'S'rɔkye de ɔy'ra huna kra no;",
+        "ɔdom kɛse, nea enni kabea",
+        "Kyerɛ yɛn guankɔbea 'sɛnnua no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔdom nwanwa a enni kabea,",
+        "Wɔde ma nea ɔgye di no kwa!",
+        "Mo a morep're ahu N'anim,",
+        "So mobɛgye Ne dom no seesei?"
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 100,
+  "language": "tw",
+  "title": "Wo Nokwar'di Dɔɔso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wo nokwar'di dɔɔso, O m'Agya Nyame,",
+        "Adanedane sunsum nniWo mu;",
+        "Wonsakra da, Wo mmɔb'rɔhun nso nsa da,",
+        "Sɛnea Wote tete n', Wote saa daa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wo nokwar'di dɔɔso",
+        "Wo nokwar'di dɔɔso,",
+        "Anɔpa biara minyaW' dom fofro;",
+        "Nea mihia nyinaa manya afri Wo nsam,",
+        "Wo nokwar'di dɔɔso me so, Wura."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Huhub're nč awɔb're, 'gub're ne 'twab're.",
+        "Owia ne ɔsram ne ns'romma wɔ wim,",
+        "Ne abɔde nyinaa di adanse wɔ",
+        "Wo nokwar'di, Wo dom, ne Wo dɔ ho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bɔne faf'ri ne daa asomdwoe fri Wo;",
+        "Woka me hō a minya 'nigye kwaky'rɛ;",
+        "Nnɛ ahoɔden ne ɔkyena 'nidaso,",
+        "Nhyira a Wode ma no dɔɔso pii."
+      ],
+      "number": 3
+    }
+  ]
+}

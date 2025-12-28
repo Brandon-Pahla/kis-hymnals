@@ -1,0 +1,38 @@
+{
+  "number": 40,
+  "language": "es",
+  "title": "Shalom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Shalom"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que Dios te dé su bendición, shalom, shalom.",
+        "Te guarde Dios de todo mal, shalom, shalom."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Misericordia tenga de ti, shalom, shalom.",
+        "Y resplandezca su bondad, shalom, shalom."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Él alce su rostro sobre ti, shalom, shalom.",
+        "Que ponga en ti su paz y amor, shalom, shalom."
+      ],
+      "number": 4
+    }
+  ]
+}

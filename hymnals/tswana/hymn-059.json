@@ -1,0 +1,47 @@
+{
+  "number": 59,
+  "language": "tn",
+  "title": "59 Jeso Morati Oa Me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso Morati Oa Me, Ke Fofela Go Wena,",
+        "Fa dintelo di ntlela, Ke tlelwa ke sefefo:",
+        "Mphitlha, ao, Mmoloki, ’Fefo se be se fete,",
+        "Ke tsene polokegong, o bo O nkamogele."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga Go Phemelo Epe; Ke Lebile Go Wena;",
+        "Ao O se nteseletse, Wena nna O ntsholetsa.",
+        "O tsholofelo ya me, Thuso e tswa go Wena;",
+        "O nkhurumetse tlhogo, ka diphuka tsa Gago."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Batla Wena Kreste, Go Gaisa Dilo Tsotlhe;",
+        "O tsose ba ba oleng, O fodise balwetsi.",
+        "Go boitshepo Wena; Nna ke mosiamolodi;",
+        "Ke tletse leswe, sebe, O tletse kgalaletso."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Tletse Kgalaletso, E Bipang Dibe Tsa Me;",
+        "Go tle nok’e fodisang, O ntshegetse boitshekong.",
+        "O noka ya botshelo, A ke nwe kgololegong,",
+        "O tswele pelong ya me, Tsogela bosakhutleng."
+      ],
+      "number": 4
+    }
+  ]
+}

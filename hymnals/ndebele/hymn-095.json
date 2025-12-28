@@ -1,0 +1,37 @@
+{
+  "number": 95,
+  "language": "nd",
+  "title": "95 Si Londiwe Esontweni Elidlule",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi u si londile esontwen’ elidlule,",
+        "Si cel’ izibusiso lapha endlini kuWe.",
+        "Lalihle lelilanga!, Li khomba okuzayo.",
+        "Lalihle lelilanga!, Li khomba okuzayo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa si cela umusa ngebizo loMsindisi;",
+        "Veza ubuso bAkho, uze u si sindise;",
+        "Siphe khona namhlanje, ukuphumula kwethu.",
+        "Siphe khona namhlanje, ukuphumula kwethu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Malandisw’ ivangeli kuzo zonke izoni;",
+        "Si bone izithelo khona enhliziyweni.",
+        "Ukuze iSabatha, li hlale li ngelethu.",
+        "Size si finyelele ekubuseni kwethu."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "number": 234,
+  "language": "ts",
+  "title": "234. TINTSUMI TA DZUNISA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "JESUS, THE LIGHT OF THE WORLD",
+        "1. Tintsumi Ta Dzunisa, Yesu I Rivoningo,",
+        "To Tswariwa Ka Yena, Ku Voninga Misava.",
+        "CHORUS",
+        "Hi Famba Kuvonakaleni, Ku Vonakaleni Ka Nkateko,",
+        "Loku Ku Nga Ka Nkarhi Hinkwawo, U Voninga Misava.",
+        "2. Tsakani N’wina Vanhu, Yesu I Rivoningo,",
+        "Yesu A Dzunisiwe, U Voninga Misava.",
+        "3. N’wina Tlangelani Yena, Yesu I Rivoningo,",
+        "Hilaha Ku Nga Heriki, Yesu U Ta Voninga.",
+        "4. Hoyozelani Yesu, Yesu I Rivoningo, Yena U Lulamile,",
+        "U Voninga Misava."
+      ],
+      "number": 1
+    }
+  ]
+}

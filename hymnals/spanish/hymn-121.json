@@ -1,0 +1,55 @@
+{
+  "number": 121,
+  "language": "es",
+  "title": "Es Jesucristo la vida, la luz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Es Jesucristo la vida, la luz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Es Jesucristo la vida, la luz;",
+        "trae del cielo la eterna verdad;",
+        "mártir divino que muere en la cruz",
+        "por darnos libertad."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Cristo es Pastor, Enviado,",
+        "divino Emanuel.",
+        "Él me conduce por sendas de paz",
+        "como a su oveja fiel."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quita del alma la negra maldad,",
+        "limpia benigno el infiel corazón;",
+        "es su carácter de suma bondad,",
+        "la misma compasión."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fuente preciosa de gracia y salud,",
+        "agua que limpia de toda maldad.",
+        "Quiere llenarnos de su plenitud",
+        "y de su santidad."
+      ],
+      "number": 5
+    }
+  ]
+}

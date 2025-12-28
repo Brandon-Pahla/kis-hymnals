@@ -1,0 +1,79 @@
+{
+  "number": 6,
+  "language": "tum",
+  "title": " 6 Lindizgani Muchenjere",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 6 Lindizgani Muchenjere",
+        "WATCH, YE SAINTS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Lindizganinge wakhristu,",
+        "Vyamchanya vyasunkhunyika;",
+        "Gozganinge nyali zinu,",
+        "Mukumane nayo Fumu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wonani, Yesu wiza;",
+        "Wakwiza mu uchindami;",
+        "Wizamku wa Themba Lithu;",
+        "Wonani Yesu wiza."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Wonani phangano lake;",
+        "Wagowokera uheni;",
+        "Ndopa zasuka m'njilira;",
+        "Pharazga za kuwombokwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mathemba ghakumbwambwantha;",
+        "Pulika lye wakwiza;",
+        "Phara za uchizi wake;",
+        "Apo mbata yikulira."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Mitundu yose yam'mara;",
+        "Khristu wakwiza luwiro;",
+        "Charu nacho chikumara;",
+        "Fumu yithu yikwizaso."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "Yesu wakuchema mose;",
+        "Wakuweyerera imwe;",
+        "Endeska nyengo yamara,",
+        "Ungazakawa kuwalo."
+      ],
+      "number": 6
+    }
+  ]
+}

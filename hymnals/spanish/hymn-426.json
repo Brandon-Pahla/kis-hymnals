@@ -1,0 +1,55 @@
+{
+  "number": 426,
+  "language": "es",
+  "title": "Tengo paz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Tengo paz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si paz como un río inunda mi ser,",
+        "o pruebas azotan mi fe;",
+        "no importa mi suerte, seguro estaré,",
+        "pues mi alma está en paz con mi Dios."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Tengo paz con mi Dios;",
+        "tengo paz, tengo paz con mi Dios."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mi mal ha ocultado su rostro de mí;",
+        "mas Cristo clavolo en la cruz;",
+        "perdón alcancé, su amor me salvó.",
+        "¡Gloria a Dios, hoy mi alma está en",
+        "paz!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Señor, apresura el día final;",
+        "las nubes partirse veré.",
+        "Vendrá el Señor, la trompeta oiré.",
+        "¡Gloria a Dios, hoy mi alma está en",
+        "paz!"
+      ],
+      "number": 5
+    }
+  ]
+}

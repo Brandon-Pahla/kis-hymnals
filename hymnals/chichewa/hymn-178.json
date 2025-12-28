@@ -1,0 +1,53 @@
+{
+  "number": 178,
+  "language": "ny",
+  "title": "178 - Mmamawa Kapena Potuluka Dzuwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "CHRIST RETURNETH"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mmamawa kapena potuluka dzuwa,",
+        "Ambuye Yesuyo ’dzafika ndi mphamvu,",
+        "Ndi ulemerero wo’kulu kutenga",
+        "Anthu ake mu dzikoli."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu, Mbuye wathu,",
+        "’Dzayimba mokondwa liti?",
+        "Khristu adza, Khristu adza,",
+        "Aleluya amen. Aleluya amen."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kapena usana kapena madzulo,",
+        "Kapena usiku pamene Ambuye",
+        "’Dzafika mu ulemelero kutenga",
+        "Anthu ake mu dzikoli."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tidzakondwa ngati tidzanka osafa,",
+        "Opanda kudwala, chisoni, maliro;",
+        "Kungokhwathulidwa podzadza kutenga",
+        "Anthu ake mu dzikoli."
+      ],
+      "number": 4
+    }
+  ]
+}

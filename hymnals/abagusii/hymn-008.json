@@ -1,0 +1,42 @@
+{
+  "number": 8,
+  "language": "guz",
+  "title": "8 'Gw' Ekerero Nyoroki' Amabera",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Gw' ekerero nyoroki'amaberaOmotoria inchuo;Moy'orosire nkogania ocheOmotoria inchuo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Natarire ense eye embe,Natarir'are korwa nka,Nyoyi'ong'iranie ase obweri,Omotoria inchuo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tindi n'ase ndebise botukoOmotoria inchuo;Nay'obogim'okong'omobasoOmotoria inchuo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Inche bweka narosir'enchera,Omotoria inchuo;Narora omosasoko as'ore,Omotoria inchuo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tori kwanga Omoyo bwerure,Omotoria inchuo;'Gwa'gosaba n'okorera kwane,Omotoria inchuo."
+      ],
+      "number": 5
+    }
+  ]
+}

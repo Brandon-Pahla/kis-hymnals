@@ -1,0 +1,35 @@
+{
+  "number": 67,
+  "language": "bem",
+  "title": "67 - MWE BANTU BA MFUMU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "COME, WE THAT LOVE THE LORD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mwe bantu ba Mfumu nomba tusekela;",
+        "Twimbe ulwimbo lusuma, Twimbe ulwimbo lusuma,",
+        "No kwisa ku Mfumu, No kwisa ku Mfumu.",
+        "CHORUS:",
+        "Tuleya ku Zion, Yawama Zion yawama;",
+        "Tuleya nomba kwi sano, Mu musumba wakwa Lesa.",
+        "2. Bakana ukwimba, Tabeshiba Lesa;",
+        "Lelo bana bakwa Lesa, Lelo bana bakwa Lesa;",
+        "Basekela pe fye, Basekela pe fye.",
+        "3. Kuno bantu bakwe bapelwa mapalo;",
+        "Nangu tatulafikako, Nangu tatulafikako,",
+        "Kwenda mu misebo, Kwenda mu misebo.",
+        "4. Tukemba pe na pe, Tatuli ne nsoni;",
+        "Twapalama ku Kenani, Twapalama ku Kenani,",
+        "Icalo ca Mfumu, Icalo ca Mfumu"
+      ],
+      "number": 2
+    }
+  ]
+}

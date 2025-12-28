@@ -1,0 +1,54 @@
+{
+  "number": 43,
+  "language": "ny",
+  "title": "43 - Wogona Mwa Ambuye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ASLEEP IN JESUS!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Wogona mwa Ambuyeyo,",
+        "Podzuka sadzaliranso.",
+        "Mpumulo wa mtenderetu,",
+        "Wosaletseka ndi mdani."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Wogona mwa Ambuyeyo,",
+        "Wopanda mantha ndi ’mfayo",
+        "Chodala ch’yembekezocho,",
+        "Cha moyo wa kumwambako"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Wogona mwa Ambuyeyo,",
+        "Akhala mu mtenderewo;",
+        "Chisoni chonse chatha phe!",
+        "Pobwera ’Ye adzauka."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Wogona mwa Ambuyeyo,",
+        "Adzamvatu lipengalo;",
+        "Adzadzutsidwa mmandamo!",
+        "Kupita kwa Ambuyeyo."
+      ],
+      "number": 5
+    }
+  ]
+}

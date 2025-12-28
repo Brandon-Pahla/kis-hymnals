@@ -1,0 +1,45 @@
+{
+  "number": 140,
+  "language": "ve",
+  "title": "140. Ipfi la Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ipfi la Yesu li ri ’Ida-ha u awele.’",
+        "O netaho a awele kha Ene, Murena,",
+        "Ndi da kha Mutshidzi wanga, ndi a da ndo neta,",
+        "Ndi do wana vhuawelo khae nda takala."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndo zwi pfa Yesu a tshi ri, ’Ndi do u nekedza,",
+        "Madi a re na vhutshilo, u kone u tshila.’",
+        "Nda da nda nwa madi ayo, nda vha a tshilaho,",
+        "dora langa lo dzimulwa, ndi tshila kha Ene."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndo zwi pfa Yesu a tshi ri, Ndi tshedza shangoni,",
+        "Sedza kha nne li vho tsha, hu do penya kha iwe.’",
+        "Nda sedza kha Yesu, naledzi na duvha langa,",
+        "Ndi do tshimbila tshedzani, lwendo lwanga lwothe."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 598,
+  "language": "tw",
+  "title": "Monwɛn, Mo 'Hotefo, Monnyan",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Monwɛn, mmo 'hotefo, monnyan;",
+        "Hwɛ! s'ro ahoɔden rewosow;",
+        "Momma mo akanea nhyerɛn",
+        "Na montwɛn mo Wura mmae no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "ɔreba! Yesu reba!",
+        "Hwɛ ɔreba wɔ 'nuonyam mu!",
+        "Yesu bedi hen' nkonim mu!",
+        "ɔreba! Yesu reba!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hwɛ! Agyenkwa no bɔhyɛ no,",
+        "Bɔne fafiri ne ɔdom,",
+        "Ntade fitaa 'nuonyam 'henkyɛw;",
+        "Ka ɔgye 'sɛmpa no kyerɛ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ahenni rehwehwe ase,",
+        "Tie! Ne teaseɛnam rewosow;",
+        "Ka kyerɛ sɛ dom pii wɔ hɔ,",
+        "B'rč a wogu so hyɛn t'robɛnton'."
+      ],
+      "number": 3
+    }
+  ]
+}

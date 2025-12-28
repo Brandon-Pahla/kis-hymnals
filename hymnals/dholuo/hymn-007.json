@@ -1,0 +1,42 @@
+{
+  "number": 7,
+  "language": "luo",
+  "title": "7 Nyasaye Indi Nikonyowa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nyasaye indi nikonyowa,In tekowa mak rum;Waluor ang`o t`iritowaMa nyaka piny ogik."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Chon ji maler nogenoi.Niritogi mang`won;To ng`wononi mak lokoreOmiyo wageni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ka ne pok ichweyo pinyniNe gi moro onge;To ne Intie Nyasaye maler,Intie ma nyaka chieng`."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. To gik moko duto mag pinyGikadho akadha;To gir polo ma ok lal ngang`,Gir polo wanayier."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Nyasaye indi nikonyowa,In tekowa mak rum;Walu bang`i pile pile,Nyasaye ma Jakonywa."
+      ],
+      "number": 5
+    }
+  ]
+}

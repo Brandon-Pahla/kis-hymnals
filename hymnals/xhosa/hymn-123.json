@@ -1,0 +1,39 @@
+{
+  "number": 123,
+  "language": "xh",
+  "title": "123 Elona Gama Lingcwele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Igama elithandwayo, Elona laziwa ndim,",
+        "Elanikwayo ngu-Yise ku-Nyana amthandayo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lelona lingcwele (lingcwele), lelona lingcwele (lingcwele);",
+        "Laphuma ku-Yise lez’ emhlaben’ Leza nezithunywa,",
+        "Ngexa lobusuku (busuku), Elogama lika-Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kum liza nentsikelelo, Ndize ndenze intsholo,",
+        "Ndivuma igama laKhe, Ndixel’ incasa yalo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nditsholoze nam ingoma, Kuba endikhulule,",
+        "Ndibonge ngonaphakade, Elo gama longame."
+      ],
+      "number": 3
+    }
+  ]
+}

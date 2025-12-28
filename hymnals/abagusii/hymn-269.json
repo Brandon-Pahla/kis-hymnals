@@ -1,0 +1,35 @@
+{
+  "number": 269,
+  "language": "guz",
+  "title": "269 Titori Na Obomenyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Titori na obomenyo;Omochie tori aiga:Toremigw' as'eng'an'eye,Togany' omochie ogocha,Togany' omochie ogocha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Titori na obomenyo;Torigi' omochie orache:Zayoni nka y'Omonene,Okomeka, miaka yonsi,Okomeka, miaka yonsi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Obomenyo bw'omorembe;'Batorigw' batimoke;Onye nabwate chimbabaNkoiruruka narenge,Ing'iruruke ntimoke."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Omoy'one kira igo!Omonene omanyire;Konda' nkor'obuya bwaye,Ner' ogonchorer' engaki,Ey'ogotimoka kwane."
+      ],
+      "number": 4
+    }
+  ]
+}

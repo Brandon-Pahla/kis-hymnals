@@ -1,0 +1,70 @@
+{
+  "number": 47,
+  "language": "fr",
+  "title": "Dans les cieux",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dans les cieux et sur la terre,",
+        "Il n'est aucun nom plus doux,",
+        "Aucun que mon coeur préfère,",
+        "Au nom de Christ mort pour nous."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Quel beau nom!",
+        "Quel beau nom",
+        "Porte l'Oint de l'Éternel;",
+        "Quel beau nom!",
+        "Quel beau nom",
+        "Que celui d'Emmanuel!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quelque grand que soit un homme,",
+        "Qu'il soit prince ou qu'il soit roi.",
+        "De quelque nom qu'on le nomme,",
+        "Jésus est plus grand pour moi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Les séraphins, les archanges",
+        "Portent des noms glorieux,",
+        "Mais le plus beau nom des anges",
+        "Pourrait-il me rendre heureux?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dans les maux, Jésus soulage,",
+        "Il guérit l'esprit froissé,",
+        "Il ranime le courage",
+        "Du coeur le plus oppressé."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De quelle joie il inonde",
+        "Le coeur du pauvre pécheur!",
+        "Non, il n'est rien en ce monde",
+        "De pareil à ce bonheur!"
+      ],
+      "number": 6
+    }
+  ]
+}

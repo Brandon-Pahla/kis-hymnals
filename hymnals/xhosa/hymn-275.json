@@ -1,0 +1,57 @@
+{
+  "number": 275,
+  "language": "xh",
+  "title": "275 Iphakade! Phi?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Iphakade!---Phi? Lijing’ emoyeni,",
+        "Phakathi kwengxolo Okanye uxolo?",
+        "Ngumbuzo omkhulu; Iphakade!---Phi?",
+        "Ngumbuzo omkhulu; Iphakade!---Phi?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iphakade!---Phi? O! Iphakade!---Phi?",
+        "Kukho amalungisa Okany’ aboni?",
+        "Khawuxele ngalo: Iphakade!---Phi?",
+        "Khawuxele ngalo: Iphakade!---Phi?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iphakade!---Phi? Uphila njanina?",
+        "Uhleli kanjani Ungekaphenduli",
+        "Umbuzo omkhulu: Iphakade!---Phi?",
+        "Umbuzo omkhulu: Iphakade!---Phi?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iphakade!---Phi? Qaphela sihlobo,",
+        "I-Nkosi kwakamsinya iyakufika.",
+        "Khetha kwanamhlanje: Iphakade!---Phi?",
+        "Khetha kwanamhlanje: Iphakade!---Phi?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iphakade!---Phi? O! Iphakade!---Phi?",
+        "Mus’ ukulala sihlobo, Shiy’ ilizwe,",
+        "Uphendul’ umbuzo: Iphakade!---Phi?",
+        "Uphendul’ umbuzo: Iphakade!---Phi?"
+      ],
+      "number": 5
+    }
+  ]
+}

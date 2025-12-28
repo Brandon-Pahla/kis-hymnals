@@ -1,0 +1,47 @@
+{
+  "number": 196,
+  "language": "sn",
+  "title": "196 Simba Riri Muropa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ungasununguke muchitema? Riripo simba mumaropa;",
+        "Ungakurire here chitema? Riripo simba muropa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kune simba rinoshamisa, Muropa reNyenye...",
+        "Kune simba rinoshamisa, Mumaropa’wo eNyennye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ungasununguke mukuchiwa? Riripo simba, mumaropa",
+        "Uya paKalvari unochena Riripo simba muropa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Munoda kucheneswa sechando Riripo simba, mumaropa,",
+        "Mavara asambwa neroparo Riripo simba muropa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Munoda here kumushandira! Riripo simba mumaropa;",
+        "Unoda kuimba nekukudza; Riripo simba muropa."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 298,
+  "language": "es",
+  "title": "Al Calvario, solo, Jesús ascendió",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Al Calvario, solo, Jesús ascendió"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Al Calvario, solo, Jesús ascendió",
+        "llevando pesada cruz,",
+        "y al morir en ella al mortal dejó",
+        "un fanal de gloriosa luz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "La cruz solo me guiará,",
+        "la cruz solo me guiará;",
+        "a mi hogar de paz y eterno amor,",
+        "la cruz solo me guiará."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En la cruz tan solo el alma hallará",
+        "la fuente de inspiración;",
+        "nada grande y digno en el mundo",
+        "habrá",
+        "que en la cruz no halle aprobación."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yo por ella voy a mi hogar celestial,",
+        "el rumbo marcando está;",
+        "en mi oscura vida será el fanal",
+        "y a su luz mi alma siempre irá."
+      ],
+      "number": 5
+    }
+  ]
+}

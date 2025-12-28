@@ -1,0 +1,37 @@
+{
+  "number": 140,
+  "language": "nd",
+  "title": "140 Izwi Lika Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngezwa izwi lika Jesu; Li thi, \"Woza phumla.",
+        "Nxa u khathele U lale: es’fubeni sami.\"",
+        "Ngeza kuYe uMsindisi, Ngi khathele kabi,",
+        "Ngafuman’ ukuphumula. Wa ngi thokhozisa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngezwa izwi lika Jesu; Li thi, \"Bheka wena",
+        "Wena owomel’ amanzi; Khothama u nathe.\"",
+        "Ngeza kuJesu, Ngaphuza amanz’ okuphila.",
+        "Wenela umoya wami; Wa vuka ngaphila."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngezwa izwi lika Jesu: Li thi, \"Bheka kimi",
+        "Bheka kimi, sekuyasa, Kuzo khanya kuwe.\"",
+        "Ngabheka kuYe Ngabona kona ukukhanya;",
+        "Ngahamba ngok’ ukukhanya; Nga qeda uhambo."
+      ],
+      "number": 3
+    }
+  ]
+}

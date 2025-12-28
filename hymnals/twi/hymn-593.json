@@ -1,0 +1,55 @@
+{
+  "number": 593,
+  "language": "tw",
+  "title": "Mm'rč a Ͻte Sɛɛ Yim', Wuhia",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mm'rč a ɛte sɛɛ yim', wuhia 'Gyenkwa,",
+        "Mm'rč a ɛte sɛɛ yim', wuhia sɛkyɛ!",
+        "Hu no yie sɛ, hu no yie sɛ,",
+        "Wo sɛkyɛ no atim Botan no mu!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Botan ne Yesu, yin ɛyɛ 'No;",
+        "Botan ne Yesu, ɔno nkutoo;",
+        "Hu no yie sɛ, Hu no yie sɛ,",
+        "Wo sɛkyɛ no atim Botan no mu!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mm'rč a ɛte sɛɛ yim' wuhia Ky'rɛw no;",
+        "Mm'rč a ɛte sɛɛ yim' O, nyɛ 'nihaw;",
+        "Hu no yie sɛ, hu no yie sɛ,",
+        "Wo sɛkyɛ no atim Botan no mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mm'rč a ɛte sɛɛ yim' mewɔ 'Gyenkwa,",
+        "Mm'rč a ɛte sɛɛ yim' mewɔ sɛkyɛ;",
+        "Minim yie sɛ, minim yie sɛ,",
+        "Me sɛkyɛ no atim Botan no mu!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Botan ne Yesu, yiw, ɛyɛ 'No;",
+        "Botan ne Yesu, ɔno nkutoo;",
+        "Minim yie sɛ, minim yie sɛ,",
+        "Me sɛkyɛ no atim Botan no mu!"
+      ]
+    }
+  ]
+}

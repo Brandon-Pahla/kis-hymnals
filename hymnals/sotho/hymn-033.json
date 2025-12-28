@@ -1,0 +1,46 @@
+{
+  "number": 33,
+  "language": "st",
+  "title": "33 Oa Ntsamaisa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Oa ntsamaisa ho hotle, O nthomella mats’eliso,",
+        "Se ke se etsang hohle hae, Tsoho la hae lea nkhula."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O! O! Eena ka sebele O ntataisa ka letsoho,",
+        "Ke eena Jesu ea nkhulang, Ke tla mo sala morao."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke etsa le lefifing Kapa botleng ba Edene,",
+        "Botle, metsing le lifefong, Ke ntse ke huloa ke ntate."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena nka ts’oara atla sa hao ke sa belaele,",
+        "Ke thabile tseleng ea ka, Ha ke huloa ke Molimo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mosebetsi o felile, Hlolo ke neoa ka mohau,",
+        "Ha nka ke ka ts’aba lefu, Ke Molimo O nts’elisang."
+      ],
+      "number": 4
+    }
+  ]
+}

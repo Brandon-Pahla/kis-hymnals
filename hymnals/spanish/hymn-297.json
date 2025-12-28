@@ -1,0 +1,55 @@
+{
+  "number": 297,
+  "language": "es",
+  "title": "Salvado con sangre por Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Salvado con sangre por Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Salvado con sangre por Cristo,",
+        "me agrada cantar de su amor.",
+        "Ya soy, por su gracia infinita,",
+        "un hijo de mi Redentor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Por él, por él,",
+        "comprado con sangre yo soy.",
+        "Salvado por su sacrificio,",
+        "con Cristo al cielo yo voy."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alabo al Señor Jesucristo",
+        "con alma encendida en fervor.",
+        "No puedo callar lo que he visto;",
+        "por eso hoy canto su amor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seguro estoy de que en gloria",
+        "veré al Autor de la Ley.",
+        "Me guarda en su misericordia,",
+        "elevo mi canto al Rey."
+      ],
+      "number": 5
+    }
+  ]
+}

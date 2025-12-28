@@ -1,0 +1,51 @@
+{
+  "number": 74,
+  "language": "ny",
+  "title": "74 - M’mawa Tidzafesa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SOWING IN THE MORNING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. M’mawa tidzafesa mbeu zakukoma,",
+        "Msana ndi usiku tidzafesanso,",
+        "Nyengo ya masika tidzatema m’munda",
+        "Tidzabwera tonse ndi zipatsozo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndi zipatsozo, ndi zipatsozo",
+        "Tidzabwera tonse ndi zipatsozo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tidzifesa m’dzuwa tidzifesa m’thunzi,",
+        "Sitiopa ife mtambo ndi mphepo.",
+        "Athatu masika nchitozi zidzatha,",
+        "Tidzabwera tonse ndi zipatsozo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tingolira kaya koma tidzafesa",
+        "Mbeu za Ambuye ntchito ya Yesu.",
+        "Adzachotsa msozi adzatilandira,",
+        "Tidzabwera tonse ndi zipatsozo."
+      ],
+      "number": 4
+    }
+  ]
+}

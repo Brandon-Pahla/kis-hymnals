@@ -1,0 +1,28 @@
+{
+  "number": 368,
+  "language": "guz",
+  "title": "368 'Kero Kia Botuko Gati",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kero kia botuko gati,Malaik' agatera,Ogotera Kw'Obonene,'Makan'echahabu;'Morembe n'obuy'as'ense,Korw'ase Nyasae,Ense egakira eigwe,Malaik' agotera."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Naende abande bagacha,'Maganda ya Igoro,'Gotera okwo gokaigweka,'b'ense yarosire;Igoro y'ebitii ebio,Bakairurukao,'Riogi riabo nikaigwekaas'ens'ey'embe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Ba more inse y'egurube,'Ba mwaisire gokwa,Mwechandete as'enchera,Y'emechand'emenge;Rora engaki y'obuya,Ngoch'er 'as' obwango,Timok'as'encher' ensemo,Moigwe bagotera."
+      ],
+      "number": 3
+    }
+  ]
+}

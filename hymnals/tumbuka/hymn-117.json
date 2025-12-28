@@ -1,0 +1,68 @@
+{
+  "number": 117,
+  "language": "tum",
+  "title": " 117 Ndapulika Mazgu Fumu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 117 Ndapulika Mazgu Fumu",
+        "I AM COMING, LORD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ndapulika mazgu,",
+        "Fumu mkundichema,",
+        "Ndituwiskike na ndopa",
+        "zinu pa kalvari."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "E! nkhwiza, Fumu,",
+        "nkhwiza kwa LImwe,",
+        "Mundisuke na ndopa",
+        "izo zikathika."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ndingawa lusoko",
+        "Imwe mkukhwimiska,",
+        "Mukundisuka uheni",
+        "mpaka ndituwe tu!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Yesu mkundichema",
+        "kuchitemwa chinu,",
+        "Chigomezgo na mutende",
+        "vya charu kuchanya."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Nkhuwonga mphinjika",
+        "nkhurumba uchizi,",
+        "Nkhutamika Khristu,",
+        "Fumu wakupa urunji."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 254,
+  "language": "st",
+  "title": "254 Rorisang Lebitso La Jehova",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Rorisang Jehova Mo rokeng",
+        "Makhotleng.",
+        "Mo tlotlise, holimong holimo,",
+        "Tumisang lerato, mohau oa Hae o ka ka matla."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Joale lekolilo le tumise phenyo,",
+        "Tumo sa Hae ho lle harepa,",
+        "Tse ts’eremang hantle.",
+        "Rorisang pineng lebitso la Hae."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha le phahamisa thoko,",
+        "Ka likhoele tsa lesiba,",
+        "Mantlhoa a nehang bophelo;",
+        "Bo tlerolang, Le rorise, Le bokeng Jehova!"
+      ],
+      "number": 3
+    }
+  ]
+}

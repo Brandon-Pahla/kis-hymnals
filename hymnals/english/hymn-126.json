@@ -1,0 +1,57 @@
+{
+  "number": 126,
+  "language": "en",
+  "title": "126 Since I Have Been Redeemed.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I have a song I love to sing,",
+        "Since I have been redeemed;",
+        "Of my Redeemer, Saviour,",
+        "King, Since I have been redeemed."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Since I …………….have been redeemed,",
+        "Since I …have been redeemed,",
+        "I will glory in His name,",
+        "Since I…….have been redeemed,",
+        "I will glory in my Saviour’s name."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I have a Christ that satisfies,",
+        "Since I have been redeemed;",
+        "To do His will my highest prize,",
+        "Since I have been redeemed."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I have a witness bright and clear,",
+        "Since I have been redeemed;",
+        "Dispelling every doubt and fear,",
+        "Since I have been redeemed."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I have a home prepared for me,",
+        "Since I have been redeemed;",
+        "Where I shall dwell eternally,",
+        "Since I have been redeemed."
+      ],
+      "number": 4
+    }
+  ]
+}

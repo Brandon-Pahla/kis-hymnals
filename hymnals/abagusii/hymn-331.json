@@ -1,0 +1,42 @@
+{
+  "number": 331,
+  "language": "guz",
+  "title": "331 Gosira Korw'ase Yeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Gosira korw'ase Yeso,Gochia ase abe;Gosira botuko 'Mobaso,Gosira aye bweka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gosira korw'ase Yeso,korw'obwanchani bwaye;Ng'ora eker'agokorangeria,Ngosir'ore korw'as'Are."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Gosira korw' ase Yeso,'Yorakogusuyie;Gosira botuko 'mobaso,Gosira korwa as'Are."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Gosira korw' ase Yeso,kogenda moeneno;Gosira botuko 'mobaso,Gochia 'ngongo chi'obobe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Gosira korw' ase Yeso,Malaika beumia;Ning'otera' somogoko,korw'as'endib'etambe."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "number": 753,
+  "language": "tw",
+  "title": "NG3 B're Bεn Na Ade Bεkye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Menim sε da bi ade bεkye,",
+        "‘Fisε ‘sum nni Nyame mma so tumi;",
+        "Yehowa no ara pε mu na,",
+        "‘Sum Duru Ne mma'",
+        "Nanso εyε b're tiaa mu Adesua kεse."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "B're bεn na ‘de bεkye",
+        "‘Sum akyi na ‘de bεkye",
+        "Sε ‘sum duru yεn twam",
+        "Na mununkum si a",
+        "Yεnim sε hann wɔ",
+        "Mununkum akyi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Sum mu honam aniwa nhu hwee,",
+        "Nanso gyidi aniwa hu Nyame yie;",
+        "Ne hann no yi Ne ho adi,",
+        "‘Sum kεse biara mu;",
+        "Ma Ne mma a wɔtie No",
+        "Yε N'apεde nyinaa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yehowa, ma me gyidi aniwa,",
+        "Ma menhu Wo ‘sum kεse b're mu mpo;",
+        "Ma me honhom a mεtumi",
+        "De atwεn Wo nkwagye;",
+        "De atwεn Wo nkwagye;",
+        "Na manya Wo hɔ ade Pa b're pa mu."
+      ],
+      "number": 3
+    }
+  ]
+}

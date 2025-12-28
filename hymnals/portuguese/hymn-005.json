@@ -1,0 +1,41 @@
+{
+  "number": 5,
+  "language": "pt",
+  "title": "Supremo Criador",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Supremo Criador"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Supremo Criador, do bem és manancial;",
+        "Com Tua graça e Teu amor livraste-me do mal:",
+        "Com Tua graça e Teu amor livraste-me do mal."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Feitura Tua sou; de Ti a vida vem;",
+        "O Teu maravilhoso amor me ampara e me sustém;",
+        "O Teu maravilhoso amor me ampara e me sustém."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que sempre Teu poder impere, Ó Deus, aqui;",
+        "E faz-me sempre ser fiel me unindo, Ó Deus, a ti;",
+        "E faz-me sempre ser fiel me unindo, ó Deus, a Ti."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 30,
+  "language": "luo",
+  "title": "30 Apako Hera Nyasaye Wuora",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Apako hera Nyasaye Wuoro mochiwona Rohone;Maloko kuyona bedo mor koweyona richona;Kata mudho olil manade, osesingo nobed butaOmiya ler marieny e mudho, Kendo ber e kar richo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Omiya mor - - - e saa mar kuyoOgolona luoro mar thoOmiya ler marieny e mudhoKendo ber e kar richo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Awero hera mar Jawarna manotho e yath ni an,Ni mondo kobedo e chunya nogonya kuom twech duto;Obiro waro jomaricho obiro konyo chuny mool,Omiya mor e saa mar kuyo, kendo ber e kar richo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Apako ber mar wach injili monyisa weche mamit;Nomiya mor mar nyiso lerna, ka manade ma antie,Orwaka gi law mar herane ka chunya opong` gi luoro;Omiya ler marieny e mudho, kendo ber e kar richo."
+      ],
+      "number": 4
+    }
+  ]
+}

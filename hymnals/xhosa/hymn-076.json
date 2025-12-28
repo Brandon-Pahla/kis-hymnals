@@ -1,0 +1,54 @@
+{
+  "number": 76,
+  "language": "xh",
+  "title": "76 Hlangulani Abatshabalalayo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hlangul’ abafayo Nabadukayo,",
+        "Ubakhuphe ezonweni zabo;",
+        "Lilel’ abakreqi, Baphakamise,",
+        "Baxelele ’Yes’ unguMsindisi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hlangul’ abafayo Nabadukayo;",
+        "U-Yes’ unenceba Nosindiso."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Naxa bemtyeshela, ’Soloko ekho,",
+        "Ukumamkela oguqukayo;",
+        "Uzama ngamandla Ngokubacenga,",
+        "Mabashiye izono bamthembe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abazintliziyo Zenzakeleyo,",
+        "Yena ngothando ke wozihlamba;",
+        "Baxelele oko, Kholwa, bavuse,",
+        "Ubazise kuYes’ uMsindisi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hlangul’ abafayo Lo ngumsebenzi,",
+        "Amandla avela eNkosini;",
+        "Bazis’ endleleni, Cenga ngomonde,",
+        "Baxelele, ’Yesu wabafela."
+      ],
+      "number": 4
+    }
+  ]
+}

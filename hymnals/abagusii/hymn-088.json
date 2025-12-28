@@ -1,0 +1,42 @@
+{
+  "number": 88,
+  "language": "guz",
+  "title": "88 'Ngegu Y'enyancha Ngu'mbu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ngegu y'enyancha ng'umbu,'Kobara buya monoRiogi rikondangeria,Ng'ayerere ng'ikeo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ning'ende tintebana,Monene ondangeirieNingende inyigwere,Minto tigara buya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Monene otebire,\"Bagesi ayerera!\"Mogondo ng'ar' okare,'Baminto tiga ng'ende."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Eng'umbu y' emerindo,'Koboko nkoimokirieEbisieri mbigoire,'Basiru bandageirie."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tata, Baba, n'abana,Mwensi tigara buyaAria ng'umbu y'enyancha,'Meremo nenganyete."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 97,
+  "language": "ve",
+  "title": "97 Ro Zwi Pfa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:340",
+        "AH:196"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.Ro pfa nga ha Murena, Yesu ndi Mutshidzi;",
+        "Vhudzani tshakha dzothe, nga Yesu Murena,",
+        "Vhidzelela kha shango, na kha malwanzhe othe,",
+        "Yesu u a ni vhidza, ndi Ene Mutshidzi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Vhudzani vha re vhavhi, Vha de ha Murena;",
+        "U do vha tanzwa zwivhi, Vha khethwa vha khethwa;",
+        "Imbelelani nyimbo, dzi pfiwe mashangoni,",
+        "Shango li do awedzwa, nga Yesu Mutshidzi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Huwelelani nothe, nga Yesu Murena.",
+        "Nga lufu na vhutshilo, ha Yesu Mutshidzi;",
+        "Imbani na swiswini, nga tshilidzi tsha Yesu,",
+        "U do kunda livhIda, nga Yesu Murena."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Posa ipfi muyani, u ambe nga Yesu;",
+        "Hothe Yesu u hone, A divhaho zwothe,",
+        "Muthu a tshi rabela, e hothe tshiphirini",
+        "Mudzimu u a mu pfa, A di mu fhindula."
+      ],
+      "number": 5
+    }
+  ]
+}

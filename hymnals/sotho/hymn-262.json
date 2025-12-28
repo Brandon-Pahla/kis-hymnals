@@ -1,0 +1,62 @@
+{
+  "number": 262,
+  "language": "st",
+  "title": "262 Ke Etseng Ka Jesu.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tla etsang ka Jesu? O eme pel’a ka.",
+        "Ka kobo e khubelu. O meutloa hlohong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ena ke potso joale. Karabo e tla ba efe?",
+        "Na ke tla thakhisa Jesu. Ke lese Barabas?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tla lokolla sholu? Motho oa takatso?",
+        "Sebe kapa ’Moloki? Ke mang ea tla lahloa?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Potso ea ho loka hona. Sekala ha se thetsehe!",
+        "Mohau o oa qeaqea. Oa thothomela liatleng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uena tulo sa kahlolo, Na u ka lahla lefats’e?",
+        "Mohoo oa eketseha: Mo thakise! Mo thakhise!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha se bomolibe feela, Potso e tla ka matla.",
+        "E mamele Mokreste. Horeng tsohle tsa teko."
+      ],
+      "number": 5
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "FINAL CHORUS",
+        "Ena ke potso joale, karabo e tla ba efe",
+        "Ke tla thakhisa Barnabas, Ke lokolle Morena"
+      ]
+    }
+  ]
+}

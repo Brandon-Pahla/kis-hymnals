@@ -1,0 +1,44 @@
+{
+  "number": 26,
+  "language": "pt",
+  "title": "Luzes da Aurora",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Luzes da Aurora"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Luzes da aurora faze brilhar,",
+        "Ó Pai, agora, ao despertar;",
+        "Sim, bem cedinho, faze luzir,",
+        "Hoje, o caminho meu a seguir."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cresça Teu brilho, luz divinal,",
+        "Sobre meu trilho, longe do mal;",
+        "Eu me humilho ante Teus pés,",
+        "Pois sou Teu filho; meu Deus Tu és."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dia após dia, dá-me, Senhor,",
+        "Mais alegria e mais fervor;",
+        "Felicidade na retidão,",
+        "E santidade de coração."
+      ],
+      "number": 4
+    }
+  ]
+}

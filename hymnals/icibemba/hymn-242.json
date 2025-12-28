@@ -1,0 +1,32 @@
+{
+  "number": 242,
+  "language": "bem",
+  "title": "242 - WALISHUKA UMWANDO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BLEST BE THE TIE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Washu-ka u-mwando, Waka-ke mi-tima;",
+        "Ukwa-mpana-, 'Kuba-pamo-,",
+        "Kwaba-nga ku-mulu.",
+        "2. Ku ci-puna-cenu, Twape-la ma-pepo;",
+        "Mwenso-kufwa-ya ne-nsansa,",
+        "Fyonse-fili-pamo.",
+        "3. Tweshe-ukwa-fwana, Mu ma-landa-yonse;",
+        "Tuse-ndesha-nye fi-sendo-,",
+        "Tule-ba ne-nkumbu.",
+        "4. Ilyo-twale-kana, Tatu-seke-lela;",
+        "Tuli-no bucete-kelo-,",
+        "Tuka-ya ku-mana."
+      ],
+      "number": 2
+    }
+  ]
+}

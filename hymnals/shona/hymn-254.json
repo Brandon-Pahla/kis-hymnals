@@ -1,0 +1,34 @@
+{
+  "number": 254,
+  "language": "sn",
+  "title": "254 Kudza Zita RaJehova",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Simukanyi mese, Murikudze zita ra Jehova",
+        "Taurayi nebasa rerudo rwake,",
+        "Netsitsi dzake ihuru kwazvo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Reganyi hwamanda imukudze, Nebopoto guru;",
+        "Reganyi marinda ese amukudze;",
+        "Manzwi azare nezita rake"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Apo muchim’kudza, Ridzisanyi zvese zvinakidze;",
+        "Anopa upenyu, mweya imupe mbiri;",
+        "Yake huru, m’kudzenyi Tenzi"
+      ],
+      "number": 3
+    }
+  ]
+}

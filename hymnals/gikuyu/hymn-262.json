@@ -1,0 +1,24 @@
+{
+  "number": 262,
+  "language": "ki",
+  "title": "262. Ngai Niendeete Tunyoni (NZK 201)",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ngai nĩendeete tũnyoni twĩ gũũkũ thĩ,",
+        "ũrĩa endeete tũnyoni, noguo niĩ anyendeete.",
+        "Nĩanyendeete, nĩanyendeete, nĩanyendeete o na niĩ,",
+        "Nĩ njũũĩ nĩanyendeete o na ndĩ mũnyinyi.",
+        "2.",
+        "Athakaragia mahũa na raangi ĩrĩa njega;",
+        "ũrĩa endeete mahũa, noguo anyendeete niĩ.",
+        "3.",
+        "Ngai ũrĩa wombire nyoni hamwe na mahũa,",
+        "Ndariganĩirũo nĩ ciana, nĩ ma nĩaciendeete."
+      ],
+      "number": 1
+    }
+  ]
+}

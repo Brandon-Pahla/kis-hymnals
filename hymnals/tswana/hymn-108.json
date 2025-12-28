@@ -1,0 +1,46 @@
+{
+  "number": 108,
+  "language": "tn",
+  "title": "108 Jeso Modisa Yo Lorato Wa Go Bitsa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso, Modisa Yo Lorato Wa Go Bitsa",
+        "Go tsena polokegong Mo go boikhutso;",
+        "Tla nonofong ya bonna, Tla mosong wa bokau,",
+        "Tsena mo polokegong, Tseleng boammaaruri."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Loratong ka bonolo Oa bitsa;",
+        "Tla motimedi, tla kwano go Nna,",
+        "Ke mmona A eme ka boitshoko,",
+        "Jeso Modisa wa me."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso Modisa Yo O’rato O Go Swetse,",
+        "Mme janong wa go bitsa, Motimedi tla go Nna;",
+        "Akofa go diphatsa, Go bitsa Modisa,",
+        "Tsena mo polokegong, Tsena boikhutsong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tiego Ke Bomatla, Diphiri Di Tletse,",
+        "Di batla letimela, Go bol’a dikwana;",
+        "Jeso Modisa yo O Rato Oa go bitsa,",
+        "Go tsena polokegong Mo go leng boikhutso."
+      ],
+      "number": 3
+    }
+  ]
+}

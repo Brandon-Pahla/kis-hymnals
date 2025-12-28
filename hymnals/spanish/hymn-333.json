@@ -1,0 +1,61 @@
+{
+  "number": 333,
+  "language": "es",
+  "title": "Aunque en esta vida",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Aunque en esta vida"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aunque en esta vida fáltenme",
+        "riquezas,",
+        "sé que allá en la gloria tengo mi",
+        "mansión.",
+        "Alma tan perdida entre las pobrezas,",
+        "de mí Jesucristo tuvo compasión."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Más allá del sol, más allá del sol,",
+        "yo tengo un hogar, hogar",
+        "bello hogar más allá del sol.",
+        "Más allá del sol, más allá del sol,",
+        "yo tengo un hogar, hogar,",
+        "bello hogar más allá del sol."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Así por el mundo yo voy",
+        "caminando,",
+        "pruebas me rodean y hay tentación",
+        "Pero Jesucristo, que me está",
+        "probando,",
+        "llevarame salvo hasta su mansión."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo a cada raza del linaje humano",
+        "puede impartirle plena salvación.",
+        "Y una bella casa hecha por su mano",
+        "fue a prepararle a la santa Sion."
+      ],
+      "number": 5
+    }
+  ]
+}

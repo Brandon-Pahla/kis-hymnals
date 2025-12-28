@@ -1,0 +1,44 @@
+{
+  "number": 449,
+  "language": "pt",
+  "title": "Perfeito Amor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Perfeito Amor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pai, colocaste já no ser humano,",
+        "Teus sentimentos, Teu divino amor.",
+        "Eis que, segundo Teu sagrado plano,",
+        "Vem este par perante Ti, Senhor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bem como às aves dás seguro abrigo,",
+        "Bem como aos ninhos dás também calor,",
+        "Vem dar aos noivos lar ameno e amigo,",
+        "Paz, proteção e o mais sincero amor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem conceder-lhes luz em sua história,",
+        "Fé confiança, muito amor também;",
+        "E, quando Cristo vier em Sua glória,",
+        "Ó, dá-lhes Tu, um lar feliz no além."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "number": 189,
+  "language": "ve",
+  "title": "189. A Ri Na Vhudzulo Fhano",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:417"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. A ri na vhudzulo fhano,",
+        "Ri vhadali fhano fhasi,",
+        "Zwino ri toda Mukhethwa,",
+        "Ri funa mudi u daho,",
+        "Ri funa mudi u daho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. A ri na vhudzulo fhano,",
+        "Ri funa uyo u daho,",
+        "Na Murena wa Tsioni,",
+        "U na tshedza tshi penyaho,",
+        "U na tshedza tshi penyaho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi wavhudi wa mulalo,",
+        "Wa u awedza vhadali,",
+        "Ngavhe ndi tshi kona u fhufha,",
+        "Ndo vha ndi tshi yo awela,",
+        "Ndo vha ndi tshi yo awela."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Muya wanga u tshi tshete,",
+        "Ndi fulufhela Mudzimu,",
+        "Ane a do ri vusa-vho,",
+        "Kha ri mutende nga ngoho,",
+        "Nga ri mu tende nga ngoho."
+      ],
+      "number": 5
+    }
+  ]
+}

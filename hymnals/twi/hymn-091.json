@@ -1,0 +1,47 @@
+{
+  "number": 91,
+  "language": "tw",
+  "title": "Mo Awɛmfo Ne 'Kronkronfo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mo Awɛmfo ne 'kronkronfo,",
+        "Hann abɔfokuw ne nhengua,",
+        "Monto dɛw dwom, Haleluya!",
+        "Monteam, tumidi ahorow,",
+        "'Bɔfo mpanin ne nnwontofo;"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Haleluya, Haleluya, Haleluya,",
+        "Haleluya, Haleluya!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo a Wok'rɔn sen kerubim",
+        "Na W'anuonyam sen serafim,",
+        "Boa wɔn 'yeyim' Haleluya!",
+        "Wo a Wokura daá Asɛm no,",
+        "ɔdɛɛfo pa, ma 'W'rade so."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Dɔfo, momma yɛmfa 'nigye",
+        "Nto soro nnwom mma ennyigye,",
+        "Haleluya, Haleluya!",
+        "Mma Nyame Agya, Nyame Ba",
+        "Ne Nyame Honhom, Baasak'ro."
+      ],
+      "number": 3
+    }
+  ]
+}

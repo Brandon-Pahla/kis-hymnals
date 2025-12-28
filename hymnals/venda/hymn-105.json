@@ -1,0 +1,53 @@
+{
+  "number": 105,
+  "language": "ve",
+  "title": "105. Vha Kule Na Tsini",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Vha kule na tsini no vhofhololwa",
+        "Vho-inwi ni pfaho no vhofhololwa;",
+        "Kha wone mulilo na khathuloni yaYesu",
+        "Mutshidzi ine ya do da."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U ri vhofholola na u ri tshidza",
+        "Musi ri tshi tenda khonani yanga."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Zwi nga itea naa? Ni vhofhololwe",
+        "Maanda a hone naa? Ndi vhofhololwe",
+        "Mbudze fhungo ngoho nga Yesu Kristo;",
+        "Ene kha ntshidze-vho Yesu Kristo;",
+        "Ene kha ntshidze-vho kha Sathani."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Inwi ni ofhaho no vhofhololwa",
+        "Ni tenda Yesu naa? A re Mutshidzi.",
+        "Si ofhe Sathane, Iya kha Yesu",
+        "Litshani u ofha, ima u khwathe."
+      ],
+      "number": 4
+    }
+  ]
+}

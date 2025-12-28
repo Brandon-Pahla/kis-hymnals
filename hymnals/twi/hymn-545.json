@@ -1,0 +1,49 @@
+{
+  "number": 545,
+  "language": "tw",
+  "title": "'Gyenkwa, Ka Yɛn Sɛ Guanhwɛfo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Gyenkwa, ka yɛn sɛ guanhwɛfo,",
+        "Yehia Wo nhwɛso pa no;",
+        "Fa yɛn kɔ W'adidibea hɔ,",
+        "Na siesie aduan' ma yɛn;",
+        "Hy'rafo Yesu, Hy'rafo Yesu,",
+        "Woatɔ yɛn, yɛyɛ Wo de;",
+        "Hy'rafo Yesu, Hy'rafo Yesu,",
+        "Woatɔ yɛn, yɛyɛ Wo de."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛyɛ Wo de, fa yɛn nnamfo,",
+        "Hwɛ yɛn so ɔkwan no mu;",
+        "Hwɛ Wo nguan yi wɔn fi bɔnem'",
+        "Yɛfom kwan a hwehwɛ yɛn;",
+        "Hy'rafo Yesu, Hy'rafo Yesu",
+        "Sɛ yɛbɔ mpae a tie yɛn!",
+        "Hy'rafo Yesu, Hy'rafo Yesu",
+        "Sɛ yɛbɔ mpae a tie yɛn!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Woahyɛ bɔ sɛ Wobɛgye yɛn,",
+        "Yɛyɛ abɔnefo de;",
+        "Wowɔ ahummɔb'rɔ ma yɛn,",
+        "'Hotew ne 'hofadi 'dom:",
+        "Hy'rafo Yesu, Hy'rafo Yesu",
+        "Yɛbɛdan aba Wo nkyɛn",
+        "Hy'rafo Yesu, Hy'rafo Yesu",
+        "Yɛbɛdan aba Wo nkyɛn."
+      ],
+      "number": 3
+    }
+  ]
+}

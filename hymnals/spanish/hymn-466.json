@@ -1,0 +1,55 @@
+{
+  "number": 466,
+  "language": "es",
+  "title": "Guíame, ¡oh Salvador!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Guíame, ¡oh Salvador!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Guíame, ¡ oh Salvador!,",
+        "por la senda de salud.",
+        "A tu lado no hay temor;",
+        "solo hay gozo, paz, quietud."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Cristo! ¡Cristo!",
+        "¡No me dejes, oh Señor!",
+        "Siendo tú mi guía fiel,",
+        "saldré más que vencedor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No me dejes, ¡oh Señor!,",
+        "mientras en el mundo esté.",
+        "Haz que arribe, sin temor,",
+        "donde en ti descansaré."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tú, de mi alma salvación",
+        "en la ruda tempestad,",
+        "al venir la tentación,",
+        "¡que me libre tu piedad!"
+      ],
+      "number": 5
+    }
+  ]
+}

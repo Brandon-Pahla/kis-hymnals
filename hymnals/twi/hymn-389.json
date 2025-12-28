@@ -1,0 +1,43 @@
+{
+  "number": 389,
+  "language": "tw",
+  "title": "Hann Mu Hann, Bɛkanyan Me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hann mu hann, bɛkanyan me,",
+        "B're a da fofro reba yi;",
+        "ɔdom wia sunsum rekɔ'i",
+        "Ma me Homeda 'nɔpa nhy'rɛn;",
+        "W'anigye wia hann mu no,",
+        "Me home da yɛ 'nigye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nnɛ, ma memfa me koma",
+        "Nɔto kronkron, kronkron, kronkron;",
+        "Mame kra nsɔr' mfi fam ha",
+        "Mmra Wo nkyɛn s'ro 'hosɛpɛ mu;",
+        "Na menka nhwɛ wɔ me mu,",
+        "Sɛnea wɔsom Wo s'ro hɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dadwen ny'naa yɛ 'huhude!",
+        "Wɔ Nyame da kronkron yi mu;",
+        "B'ra, Wo Tumfo 'nuonyamfo,",
+        "Bɛhyɛ 'hobrɛase dan yi ma;",
+        "Me kra rentu ne nan nnɛ,",
+        "Ͻbɛtra Wo dɔ mu nko."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 157,
+  "language": "ve",
+  "title": "157. Tshifhinga Tsha Khano Tsho Swika",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. A bvaho e na tshililo, A tshi kho’ zwala mbeu;",
+        "A sa lali, A sa neti, U do wana tshilidzi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Vhonaha iwe mulimi, mavhele o no vhibva;",
+        "Na khano yo no vha tsini, Masimu o no tshena."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. nwando u wa lwa vhulenda, duvha la vhonetshela;",
+        "Ri fhiwa na mitshelo-vho, nga Maanda a tadulu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Zwino u singo tshenuwa, Zwala, U songo neta;",
+        "Khwatha naho zwi tshi konda, U do kana dakalo."
+      ],
+      "number": 4
+    }
+  ]
+}

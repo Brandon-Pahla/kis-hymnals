@@ -1,0 +1,36 @@
+{
+  "number": 38,
+  "language": "es",
+  "title": "Que Dios te guarde",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Que Dios te guarde"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que Dios te guarde dondequiera estés,",
+        "que te proteja con su tierno amor;",
+        "guíe tus pasos por doquiera vas;",
+        "que Dios te guarde al separarnos,",
+        "que Dios te guarde."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que Dios te guarde, vele sobre ti,",
+        "que te acompañe, cuide tu andar.",
+        "Que cada día puedas ver su faz;",
+        "que Dios te guarde hasta encontrarnos,",
+        "que Dios te guarde."
+      ],
+      "number": 3
+    }
+  ]
+}

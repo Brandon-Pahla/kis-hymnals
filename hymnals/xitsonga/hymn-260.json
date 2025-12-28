@@ -1,0 +1,23 @@
+{
+  "number": 260,
+  "language": "ts",
+  "title": "260. NDZI HUNDZA HI LE XIVANDLEN",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "VALE OF BEULAH",
+        "1. Ndzi Hundza Hi Le Xivandlen Lexi Nga Xoxe, Lexi Hi Xona Xivandla Xo Wisela Kona,",
+        "Ndlela Yi Khavisiwile Hi Swona Swiluva, Muponisi Ndzi Hlayise Ndleleni Hinkwayo.",
+        "CHORUS",
+        "Xivandleni Xo Rhula Xi Na Nkoka Ka Mina.",
+        "Ndzi Vona Vugimamusi Bya Tiko Ro Xonga.",
+        "2. Xinyami A Xi Kumeki Ndlelen Ya Ntiyiso, Yesu U Voninga Ndlela Hi Ku Vonakala,",
+        "Va Dzunisa Hi Tsaka Kona Etilweni, Marito Yo Nandziha Ya Huma Exivandleni.",
+        "3. Muti Wa Voninga Naswona Wu Khatisa Mahlo, Ndzi Ta Tshama Ndzi Tsakile Na Ye Hosi Yesu,",
+        "Ndzi Tshinela Kona Hubyeni Ya Mfumu Wakwe, Hi Vona Ndlela Leyi Yisaka Etilweni."
+      ],
+      "number": 1
+    }
+  ]
+}

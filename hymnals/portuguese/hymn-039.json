@@ -1,0 +1,42 @@
+{
+  "number": 39,
+  "language": "pt",
+  "title": "O Céu Azul",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### O Céu Azul"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "0 céu azul na amplidão,",
+        "Estrelas mil em multidão,",
+        "A luz do céu e seu fulgor",
+        "Proclamarão o Criador.",
+        "O Sol de luz, com seu calor,",
+        "Louvor dará ao seu Autor,",
+        "E sem falar, a resplender,",
+        "Dirá de Deus e Seu poder."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ao grande Deus, o som do mar,",
+        "A flor gentil, a voz do ar,",
+        "A doce paz da noite azul",
+        "Aclamarão de norte a sul.",
+        "Assim dirão o céu e o mar,",
+        "Do Seu poder e amor sem par.",
+        "E vós, nações clamai também!",
+        "Louvai a Deus, Senhor! Amém."
+      ],
+      "number": 3
+    }
+  ]
+}

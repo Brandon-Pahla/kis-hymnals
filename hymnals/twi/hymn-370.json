@@ -1,0 +1,46 @@
+{
+  "number": 370,
+  "language": "tw",
+  "title": "Yɛto Kristo Ho Dwom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yeto Kristo ho dwom",
+        "Yi No ky'rɛ wiase ny'naa",
+        "Wɔ nsiyɛ mu;",
+        "Wɔn a wɔn w'rɛ ahow",
+        "Wɔn a wɔso nnesoa",
+        "Na bɔne hyɛ wɔn so",
+        "Nya 'yaresa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛto Kristo ho dwom",
+        "Yi No ky'rɛ wiase ny'naa",
+        "Wɔ mpaebɔ mu.",
+        "Wɔn a wɔayera na",
+        "Akɔnnɔ ha wɔn no",
+        "Wɔatɔ wɔn aboɔden.",
+        "Afi sum mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛto Kristo ho dwom",
+        "Yi No ky'rɛ wiase ny'naa",
+        "Wɔ nnwonto mu;",
+        "Akra a wɔagye wɔn",
+        "Afi year kwan so,",
+        "Nya 'nidaso bɛyɛ",
+        "Kristo de daa."
+      ],
+      "number": 3
+    }
+  ]
+}

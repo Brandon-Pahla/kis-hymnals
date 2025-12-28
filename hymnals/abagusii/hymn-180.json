@@ -1,0 +1,42 @@
+{
+  "number": 180,
+  "language": "guz",
+  "title": "180 Engaki Engiya Mono",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Engaki engiya mono,Bachenu bacha amo;K'Omotori' ar'eganga,'Kero bakomotera."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Totere obwanchani,bwamosugetie Tata;Aroch'ens'etaraba,Akamoru' Omwan' oye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ter'ogwancha kw'Omwana,bun' atigete igoro;Akaba buna tore,Agakwa atotorie."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Obwanchani bw'Omoika,kwororobia chinkoro;Kero tware nobwoba,Gatoa Omotoria."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Engaki engiya mono,'Bachenu baumerane;Yeso nabe eganga,Bamotere botambe."
+      ],
+      "number": 5
+    }
+  ]
+}

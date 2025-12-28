@@ -1,0 +1,47 @@
+{
+  "number": 129,
+  "language": "tw",
+  "title": "Sɛnea Esii 'Nadwo Bi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnea esii 'nadwo bi,",
+        "Awɔb're bi mu no,",
+        "ɔsoro hann abɔfo",
+        "Bɔɔ mu fii ase too dwom."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nguanhwɛfo bi a wɔada",
+        "Nyan hwɛɛ anuonyam no;",
+        "Wɔde 'hodw'ri gyinaa hɔ",
+        "Tiee abɔfo no asɛm."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔawo 'bofra ama mo",
+        "Wɔ mmoa adidibea;",
+        "Wɔwoo No 'hobrɛase mu,",
+        "ɔyɛ ɔdɔ Hen' Kronkron."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abɔfo a mufi s'ro,",
+        "Munnnyae mo dwonto da!",
+        "Anuonyam wɔ s'ros'ro hɔ",
+        "Dapem ne daapem nyinaa."
+      ],
+      "number": 4
+    }
+  ]
+}

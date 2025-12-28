@@ -1,0 +1,46 @@
+{
+  "number": 96,
+  "language": "nso",
+  "title": " 96 THAKGALELA TŠATŠI LA GO KHUTŠA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 96 THAKGALELA TŠATŠI LA GO KHUTŠA",
+        "AH 383 CH 459",
+        "WELCOME, WELCOME, DAY OF REST"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re thakgalele letšatši,",
+        "La go ikhutša faseng,",
+        "Le tle ka mahube,",
+        "Lesedi la godimo,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Letšatši la go ikhutša,",
+        "Go fihla nako ya 'Go,",
+        "Phodiso boikhutšo,",
+        "Re fetše, Re fetše le modiro;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "tšatši le lekgethilwego,",
+        "La tumišo, Thapelo,",
+        "Ke le lehlalefišago,",
+        "Le tliša Tšhegofatšo;"
+      ],
+      "number": 4
+    }
+  ]
+}

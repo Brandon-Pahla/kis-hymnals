@@ -1,0 +1,61 @@
+{
+  "number": 120,
+  "language": "es",
+  "title": "¡Cuánto me alegra!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Cuánto me alegra!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Cuánto me alegra que nuestro",
+        "Señor",
+        "diera su vida por el pecador!",
+        "Hizo sin par maravillas aquí,",
+        "y la más grande es que me",
+        "ama a mí."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Qué maravilla! Me ama Jesús,",
+        "me ama Jesús, me ama Jesús.",
+        "¡Qué maravilla! Me ama Jesús;",
+        "sí, me ama aun a mí."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aunque vagaba olvidándome de él,",
+        "él me siguió porque siempre",
+        "es fiel;",
+        "presto a sus brazos amantes",
+        "volví",
+        "al recordar que Jesús me ama",
+        "a mí."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando en el cielo ver pueda a",
+        "Jesús,",
+        "ya revestido de gloriosa luz,",
+        "entonaré mi himno eterno allí:",
+        "\"¡Qué maravilla! ¡Jesús me ama a mí!\""
+      ],
+      "number": 5
+    }
+  ]
+}

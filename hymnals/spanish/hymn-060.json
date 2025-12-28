@@ -1,0 +1,54 @@
+{
+  "number": 60,
+  "language": "es",
+  "title": "¡Santo! ¡Santo! ¡Santo! Tu gloria llena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Santo! ¡Santo! ¡Santo! Tu gloria llena"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Santo! ¡Santo! ¡Santo!",
+        "Tu gloria llena cielo y tierra.",
+        "¡Hosanna, hosanna, gloria a Dios!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Te bendecimos, te adoramos,",
+        "glorificamos tu nombre, oh Dios.",
+        "¡Oh, Rey del cielo, oye clemente",
+        "nuestra ferviente y humilde voz!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Perdona al hombre la falta impía;",
+        "Mira a tu Hijo, mi Redentor.",
+        "Ferviente entonces el alma mía",
+        "pueda alabarte con todo amor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dignos seamos de bendecirte,",
+        "Limpias las almas de todo mal.",
+        "Cielos y tierra cantan tu nombre,",
+        "¡oh Dios, oh Padre, Rey celestial!"
+      ],
+      "number": 5
+    }
+  ]
+}

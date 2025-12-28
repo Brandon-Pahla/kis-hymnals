@@ -1,0 +1,28 @@
+{
+  "number": 230,
+  "language": "bem",
+  "title": "230 - INE NSHILA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I AM THE WAY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Pamo nge mpanga shaluba, twaye ciye yeye-,",
+        "Kufuma mwicinka lyakwe, Tusange shani nshila.",
+        "CHORUS:",
+        "I-ne nshila ne cine no mweo; Teti wise kwa Tala kano muli 'ne",
+        "2. Twenda na masakamano, munshila mutende,",
+        "Ilyo 'bengi balelila, Tusange shani nshila.",
+        "3. Twenda na masakamano, munshila mutende,",
+        "Ilyo 'bengi balelila, Tusange shani nshila."
+      ],
+      "number": 2
+    }
+  ]
+}

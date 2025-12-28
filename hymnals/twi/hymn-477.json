@@ -1,0 +1,37 @@
+{
+  "number": 477,
+  "language": "tw",
+  "title": "Mo 'W'rɛhowfo Mommra Nea",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mo 'w'rɛhowfo mommra nea mowɔ biara;",
+        "Mommɛkotow dom 'hengua no anim;",
+        "Momfa mo yaw koma no mmɛka mo haw,",
+        "'W'rɛhow bi nni fam ha a s'ro ntum' nsa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mwɔb'rɔfo angiye, akwantofo hann'",
+        "Wɔn a wɔsakra 'nidaso kronkron!",
+        "Okyigyinafo no ka no bɔkɔɔ sɛ;",
+        "'W'rɛhow bi nni fam ha a soro ntum' nsa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hwɛ Nkwa 'Bodoo no, hwɛ nsu a ɛresen",
+        "Fi Nyame ahengua no mu fi s'ro,",
+        "Mommra 'dɔ ponto ase, b'rč a monim sɛ,",
+        "'W'rɛhow bi nni fam ha a s'ro ntum' nsa."
+      ],
+      "number": 3
+    }
+  ]
+}

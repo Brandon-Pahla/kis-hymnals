@@ -1,0 +1,54 @@
+{
+  "number": 135,
+  "language": "ve",
+  "title": "135. Ndi U Funa U Fhira Zwothe Khotsi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. U fhirisa zwithu zwothe, ndi funa Murena;",
+        "Ngauri u na mulalo, u sa do fhelaho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "A huna a divhadzaho, lufuno lu ngafha;",
+        "A huna a divhadzaho, uri lu a tanzwa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi di-sendedza kha Iwe, nga maduvha othe;",
+        "Zwo naka u divha Iwe, wa dzothe dzithendo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mbilu yanga yo takala, nga maduvha othe;",
+        "Arali ndi si na Iwe, zwothe ndi lifhedzi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mutshidzi wanga wavhudi, a hu tshe na munwe;",
+        "Ndi tshimbila na Iwe, zwothe zwi a luga."
+      ],
+      "number": 5
+    }
+  ]
+}

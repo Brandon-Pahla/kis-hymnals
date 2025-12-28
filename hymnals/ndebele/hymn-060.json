@@ -1,0 +1,47 @@
+{
+  "number": 60,
+  "language": "nd",
+  "title": "60 Jesu Njabulo Yenhliziyo Enothando",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu Mthandi wenhliziyo,",
+        "Muthimbo wokusindisa;",
+        "Ku lazo zonke izinto",
+        "Si yakukhalela thina."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu u y’isinkwa sethu,",
+        "Si nike si phile ngaso,",
+        "Si zonatha emthonjeni,",
+        "Ukuze si kholisiswe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu sazalw’ esonweni,",
+        "Sa si banjwe ekufeni;",
+        "Si kholwa ngamandla Akho,",
+        "Ukusisindisa ngAwo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu woz’ u hlale nathi,",
+        "Lungis’ ukuphila kwethu;",
+        "Xosh’ ubumnyama besono,",
+        "Ku sal’ ezwen’ ukukhanya."
+      ],
+      "number": 4
+    }
+  ]
+}

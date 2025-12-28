@@ -1,0 +1,46 @@
+{
+  "number": 132,
+  "language": "tn",
+  "title": "132 Jeso Ke Nne Mokgorong",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso Ke Nne Mokgorong, Go Motswedi Gone,",
+        "O o fodisang bothle, O tswa Khalefari."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mokgorong, mokgorong, Ke tla ipelafatsa;",
+        "Go tsam’a ke ikhutse Moseja ga noka."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Roroma Mokgorong, Rato Lo Mphithletse;",
+        "Teng Naledi ya Moso E ne ya ntlhabela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gone Mpontshe Mokgorong Kwana Ya Modimo.",
+        "O nthusa go tsamaya Ka metlha mokgorong."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mokgorong Ke Tla Leta, Tsholofeng Fela;",
+        "Ke tle ke fitlhe khumong Moseja ga noka."
+      ],
+      "number": 4
+    }
+  ]
+}

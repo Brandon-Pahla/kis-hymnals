@@ -1,0 +1,51 @@
+{
+  "number": 240,
+  "language": "tw",
+  "title": "Aw'rade Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Aw'rade Yesu Abɔde nyinaa Hen'",
+        "Woyɛ Nyame ne nipa Ba;",
+        "Wosom bo ma me,",
+        "MɛhyɛW' anuonyam,",
+        "Woyɛ m'anigye ne 'henkyɛw."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sare yɛ frɔmfrɔm, Na kwae no nso yɛ fɛ;",
+        "'Suso ma wɔn nhabammono,",
+        "Nso Yesu kyɛn saa.",
+        "Yesu yɛ kronkron,",
+        "ɔma koma 'brɛfo to dwom."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Awia hann yɛ fɛ, ɔsram hann nso yɛ fɛ,",
+        "Na soro nsoromma nyinaa,",
+        "Yesu hy'rɛn kyɛn wɔn;",
+        "Ne hy'rɛn yɛ kronkron",
+        "Sen' s'ro abɔfo nyinaa de."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Gyenkwa 'hoɔfɛfo: Aman nyinaa Wura,",
+        "Nyame Ba ne nipa Ba no;",
+        "'Nuonyam ne 'nidi,",
+        "'Yeyi ne nkamfo",
+        "Nyɛ Wo de mm'resanten nyinaa."
+      ],
+      "number": 4
+    }
+  ]
+}

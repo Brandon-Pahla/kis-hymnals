@@ -1,0 +1,57 @@
+{
+  "number": 297,
+  "language": "pt",
+  "title": "Minha Cruz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Minha Cruz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A cruz que me deu Cristo, o Mestre,",
+        "Pesa menos que o amor;",
+        "As dores que sempre assolam",
+        "Não me apartam do Senhor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "A cruz que me deu para eu levar,",
+        "As dores que a mim vêm assolar",
+        "Não escondem meu Jesus,",
+        "Pois eu ando em Sua luz,",
+        "Vou vencendo para os Céus"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O mundo a meu Mestre despreza,",
+        "E persegue os de Jesus,",
+        "Porém, pelo amor, pela graça,",
+        "Levarei a minha cruz."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fazer a vontade de Cristo.",
+        "Sempre estou disposto sim;",
+        "Contando eu a tão bela história,",
+        "Tenho gozo e paz sem fim."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "number": 33,
+  "language": "luo",
+  "title": "33 Wuonwa, Gonywa Gi Gweth Mari",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Wuonwa, gonywa gi gweth mari,Pong` chunywa gi mor gi kuwe;Miwa duto herruok mari,kethowa bende iwe.Miwa geno, miwa geno,Ka wawuotho e pinyni."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Wachiwo pak gi mor bende,Kuom weche mioronwa;Ka wamako chikni chutho,Wanabed e herani.Konywa timo, konywa timo,gi kinda nyaka ibi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ka wawuotho e piny kae,Ber wati ni In kende;konywa ka walu e yori,Kik wajogi, kik wawe.Bedi kodwa, bedi kodwa,Ka wawuok, bende kwake."
+      ],
+      "number": 3
+    }
+  ]
+}

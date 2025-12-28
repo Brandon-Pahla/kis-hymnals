@@ -1,0 +1,46 @@
+{
+  "number": 322,
+  "language": "tw",
+  "title": "Hwee Nni Ntam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hwee nni me kra ne Agyenkwa no ntam,",
+        "Wiase ha nneɛma, edi huammɔ;",
+        "Magyaw bɔne ne emu dɛw nyinaa ɔ",
+        "Yesu wɔ me! B'ribiara nni ntam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hwee nni me kra ne Agyenkwa ntam,",
+        "Sɛnea mehu N'anim fɛfɛ no;",
+        "Hwee rensi Ne dom no mu biara ho kwan",
+        "Ma kwan nyɛ peteč a b'ribi nni ntam"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hwee nni ntam te sɛ wiase anigye",
+        "ɔbra mu suban, sɛ ɛte biara",
+        "Nni sɛ ɛtew me koma fi Ne ho ɔ",
+        "M'ade ne No! B'ribiara nni ntam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hwee nni ntam, mpo sɔhwɛ dennen horow,",
+        "Sɛ wiase yi ny'naa bom tia me a,",
+        "Mede mpaebɔ bɛtwɛn 'hopakyi mu",
+        "Medi nkonim! B'ribi remma ntam."
+      ],
+      "number": 3
+    }
+  ]
+}

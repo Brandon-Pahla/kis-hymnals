@@ -1,0 +1,45 @@
+{
+  "number": 53,
+  "language": "ve",
+  "title": "53 Muya Mukhethwa Murangaphanda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:148"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Muya u re mukhethwa, ndi kale wo lindela,",
+        "Nga tshanda tshi todaho, rine vhadali fhano,",
+        "O netaho a rende, nga ipfi li re lawe,",
+        "line la ri, ’Mudali ndi do u isa haya’."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Iwe thama ya ngoho, haya ho no vha tsini,",
+        "U si ri sie fhano, vhukuma ri a ofha,",
+        "Hu tshi bvuma tadulu, nga Iwe ri do khuda,",
+        "Hevhedza kha nne u ri, ’Ndi do u isa haya’."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Khotsi yashu khulwane, ri sumbedze tadulu,",
+        "U rabela hashu-vho, hone madzina ashu,",
+        "A hone na tadulu, ipfi li a fhindula,",
+        "’Mudali Ida-ha, ndi do u isa hayani’."
+      ],
+      "number": 4
+    }
+  ]
+}

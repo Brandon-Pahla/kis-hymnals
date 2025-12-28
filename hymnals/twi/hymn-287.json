@@ -1,0 +1,45 @@
+{
+  "number": 287,
+  "language": "tw",
+  "title": "Yesu De Nne Bɔkɔɔ Gu So Refrɛfrɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu de nne bɔkɔɔ gu so refrɛfrɛ,",
+        "ɔrefrɛ wo refrɛ me;",
+        "Ogyina ɔpon akyi retwɛn rewɛn,",
+        "ɔrehwɛ me ne wo kwan."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Bra fie, bra fie, Mo a moabrɛ, mommra fie;",
+        "Nokwarem, Yesu de nne bɔkɔɔ refrɛ,",
+        "Refrɛ! bɔn'yɛfo bra fie."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dɛn nti na yɛtwɛn brč a Yesu redi ma,",
+        "Redi ma me ne wo yi?",
+        "Dɛn nti na yɛntwentwɛn ntie N'ahummɔbɔ a",
+        "ɔwɔ ma me ne wo no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dwen ɔdɔ nwanwā a Wahyɛ ho bɔ no",
+        "ɔde 'hyɛ me ne wo bɔ;",
+        "Yɛayɛ bɔn' mpō a Ohu mmɔbɔ wɔ faf'ri:",
+        "Faf'ri de ma me ne wo."
+      ],
+      "number": 3
+    }
+  ]
+}

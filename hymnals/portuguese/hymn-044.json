@@ -1,0 +1,56 @@
+{
+  "number": 44,
+  "language": "pt",
+  "title": "Natal! Feliz Natal!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Natal! Feliz Natal!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Natal, feliz Natal! No céu de Belém,",
+        "Uma luz que surgiu fez vibrar, lá no além,",
+        "A voz de querubins em sons divinais,",
+        "Que do Céu proclamou salvação aos mortais."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Natal, feliz natal!",
+        "Natal, Natal!",
+        "Eis que nasceu",
+        "Nosso Rei divinal!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A paz então reinou em, céu, terra e mar,",
+        "Ao descer sobre o Rei uma luz tutelar;",
+        "A luz do Salvador brilhou mais e mais,",
+        "E guiou a Seus pés nobres reis orientais."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A luz que fez remar a paz divinal,",
+        "Que encheu todo o céu de fulgor sideral,",
+        "A luz que ainda está no céu a luzir,",
+        "Vem também nossos pés a Jesus conduzir."
+      ],
+      "number": 5
+    }
+  ]
+}

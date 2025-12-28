@@ -1,0 +1,67 @@
+{
+  "number": 223,
+  "language": "tum",
+  "title": " 223 Ndirondezge Kose",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 223 Ndirondezge Kose",
+        "FOLLOW ALL THE WAY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mtaski wane wakuchema mwakupulikikwa nadi,",
+        "Mumakutu nkhupulika, \"Undironde-rondezge kose\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "NdinyamuLenge mphinjika kurondezga mtaski wane,",
+        "Uko watindirongozge nditirute-rutenge kose."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nthowa yingawa ya mdima malundi ghane ghavuke,",
+        "Kweni mtima ukukondwa pakumronda-rondani kose."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Yesu m'ndidangirirenge kuchanya kundiwalire,",
+        "Para ndavuka mndikhozge pakumronda-rondani kose."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Muvinkhwawu m'ndirongozge mana ghinu mundiryeske,",
+        "Nkhumkhumbani nyengo zose pakumronda-rondani kose."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "Mchitemwa chinu m'ndikore m mawoko m'ndivumbatire,",
+        "Muchizi winu mndisunge pakumronda-rondani kose."
+      ],
+      "number": 6
+    }
+  ]
+}

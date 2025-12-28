@@ -1,0 +1,60 @@
+{
+  "number": 100,
+  "language": "tum",
+  "title": " 100 Mbwezi Muweme Ndi Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 100 Mbwezi Muweme Ndi Yesu",
+        "WHAT A FRIENDWE HAVE IN JESUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Bwezi muweme ndi Yesu,",
+        "wakuyegha viheni,",
+        "Tingaphara M'bwezi",
+        "muweme suzgo ndi zose,",
+        "Kwa Chiuta mkuromba, Ise tikujitorera,",
+        "vya kuwinya tawene,",
+        "Pakureka kuya navyo",
+        "Kwa Chiuta m'kuromba."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Kasi tiri kuyezgeka,",
+        "panji tikusuzgika?",
+        "Ntha tingagongowangapo,",
+        "tiyenge ku mwenecho",
+        "Ka tim'wonenkhu munyake,",
+        "mbwezi wakweghamako",
+        "Yesu wakutimanyiska,",
+        "timphalir mwenecho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Kasi tiri na vizito,",
+        "vyatinyekezga ise?",
+        "Tiri na movwiri withu,",
+        "m'phalirani m'kuromba",
+        "Kasi tiri na wabali,",
+        "awo wakutipata?",
+        "Yesu watisungilire,",
+        "na kutisanguruska."
+      ],
+      "number": 4
+    }
+  ]
+}

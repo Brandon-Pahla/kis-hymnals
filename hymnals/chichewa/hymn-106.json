@@ -1,0 +1,46 @@
+{
+  "number": 106,
+  "language": "ny",
+  "title": "106 - Tidzamangatu Pa Thanthwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BUILD ON THE ROCK"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tidzamangatu pa thanthwelo, Pa thanthwe losatha Yesu,",
+        "Tidzaima nji wosagwanso, Pa nthawi ya namondwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tidzamangatu (tidzamangatu),",
+        "Mwa Mbuyathuyo (mwa Mbuyathuyo);",
+        "Timanga pa thanthwe lolimbalo, Pa Yesu Khristuyo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Alipo amanga pa mchenga, Pa chuma cha dziko lino;",
+        "Ndi ena amanga m’tchimolo, Zokoma za pa dziko."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mangani pa thanthwe Khristuyo, Maziko olimbalimba;",
+        "Ndichotu chiyembekezero Cha chip’ulumutso chathu."
+      ],
+      "number": 4
+    }
+  ]
+}

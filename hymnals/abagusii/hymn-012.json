@@ -1,0 +1,35 @@
+{
+  "number": 12,
+  "language": "guz",
+  "title": "12 'Mariogi Onsi Tig 'Atare",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mariogi onsi tigatere,'Rieta ria Yeso rigiya;'Kobakwa kwa Nyasae oito,'Rieta ria Yeso rigiya."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rieta rigiya, 'Rieta rigiya,Rieta ria Yeso rigiya;Rieta rigiya, 'Rieta rigiya,Rieta ria Yeso rigiya"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nigo rikorusi 'obwoba,'Rieta ria Yeso rigiya;'Monyene ebib' amwanche,'Rieta ria Yeso rigiya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Riasaria nguru chi'ebibe,'Rieta ria Yeso rigiya;Amanyinga yogosibia,'Rieta ria Yeso rigiya."
+      ],
+      "number": 4
+    }
+  ]
+}

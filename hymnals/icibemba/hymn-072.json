@@ -1,0 +1,29 @@
+{
+  "number": 72,
+  "language": "bem",
+  "title": "72 - INSHITA SHEPINGULO SHATENDEKA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE JUDGEMENT HAS SET"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Inshita shepingulo shatendeka, Elyo tukekala shani,",
+        "Lintu matontonkanyo na fyonse Fikapingulwa na Lesa?",
+        "CHORUS:",
+        "Elyo tukekala shani, Mu bupingulo bwa Lesa;",
+        "Nangu Lesa akatukana, Nangu bubi bwafutilwe",
+        "2. Ubupingulo bwatendeke na bafwa, Abomi bashala beka;",
+        "Fintu fyonse ifyalembelwe Mu mabuku ya kwa Lesa.",
+        "3. Elyo naifwe tukekala shani Lintu mabuku yesulwe,",
+        "Lintwi milandu yonse ikapwa Mu bupingulo bwa Lesa?"
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "number": 45,
+  "language": "tw",
+  "title": "Bue W'apon Fɛfɛ No Seesei",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bue w'apon fɛfɛ no seesei,",
+        "Siɔon, ma menhyɛn' mu hɔ,",
+        "Nea me kra fi anigye mu",
+        "Twɛn mpaebɔ tiefo Nyame.",
+        "O, sɛnea wɔahyira ha,",
+        "'Somdwoe, hann ne dom wɔ ha!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Domfo Nyame meba W'anim,",
+        "Wo nso sian bra me nkyɛn ha;",
+        "Faakō a yehu Wo, som Wo no,",
+        "Yɛte soro nka wɔ hɔ.",
+        "Bra bɛtra me koma mu,",
+        "Ma ɛnyɛ Wo fie seesei."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Woyi W'ayɛ 'nigyem wɔ ha,",
+        "Wogu W'aba no wɔ ha;",
+        "Ma faakō a wɔatim me kra no",
+        "Ͻnso abapa nkutoo.",
+        "Na nea mete biara no,",
+        "Aso nkwa aba me mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyan me gyidi yɛ no kɛse",
+        "Ma menkōra Wo s'ro 'kyɛden';",
+        "Sɛ sɔhwɛ ky're me so dɛn a,",
+        "Ma W'asɛm no nhy'rɛn me so,",
+        "Sɛ me ns'romma kwanky'rɛfo,",
+        "Ne haw mu w'rɛkyekyefo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra kasa, na mɛte Wo nne;",
+        "Ma Wo pɛ nyɛ hɔ ampa;",
+        "Na ma mintwiw mmɛn Wo koraa",
+        "B're a Woyɛn Wo nk'rɔfo;",
+        "Nkwa asuti sen wɔ ha,",
+        "Yɛn haw 'no ad'ru wɔ ha."
+      ],
+      "number": 5
+    }
+  ]
+}

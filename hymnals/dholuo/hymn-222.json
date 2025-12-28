@@ -1,0 +1,35 @@
+{
+  "number": 222,
+  "language": "luo",
+  "title": "222 Paro Achiel Mamit",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Paro achiel mamit,Osiko e chunya;Ndalo sudo machiegini,Ma nadonj e polo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Achiegini donjo thurwa;Koro achiegni donjo,Ndalo odong` matin."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. E dala mar Wuora,Nitie udi mang`eny;Kom-duong` Nyasaye ni kanyono,En kar bet Yesu Ruoth."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ka tichna orumo,Masira gi kuyo;Nadonj e dala mar Wuora,Nosidhna osimbo."
+      ],
+      "number": 4
+    }
+  ]
+}

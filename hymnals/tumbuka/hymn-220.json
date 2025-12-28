@@ -1,0 +1,51 @@
+{
+  "number": 220,
+  "language": "tum",
+  "title": " 220 Kukwithu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 220 Kukwithu",
+        "CH 639 THE HOMELAND"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Kukwithu 'mwe kukwithu charu cha wanangwa,",
+        "Chisi nacho kulije kweni mhanya pera,",
+        "Nkhudoka kuya kwithu mtima ukuwawa,",
+        "Vyakuwinyaso kulije 'mwe kwaneng enera,",
+        "Vyakuwinyaso kulije 'mwe kwaneng'enera."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Fumu yiri kukwithu pamo na wangelo,",
+        "Uheniso kulije na viyezgo wuwo,",
+        "M'makutu nkhupulika sumu za kukwithu,",
+        "Fakughanaghana kwithu nkhulira masozi,",
+        "Pakughanaghana kwithu nkhulira masozi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Awo wakukhalamo wakundicheuzga,",
+        "Nyifwa ndipo chitima ntha viriko kura,",
+        "ula kura, Mwe imwe 'mwe kukwithu ndampumula kura,",
+        "Fumu mtitolere kwithu muchitemwa chinu,",
+        "Fumu mtitolere kwithu muchitemwa chinu."
+      ],
+      "number": 4
+    }
+  ]
+}

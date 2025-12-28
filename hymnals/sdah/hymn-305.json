@@ -1,0 +1,42 @@
+{
+  "number": 305,
+  "language": "en-sdah",
+  "title": "305 Give Me Jesus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. In the morning when I rise, In the morning when I rise, In the morning when I rise, Give me Jesus."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain : Give me Jesus. Give me Jesus. You may have all this world Give me Jesus."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Dark midnight was my cry, Dark midnight was my cry, Dark midnight was my cry Give me Jesus.,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Just about the break of day, Just about the break of day Just about the break of day, Give me Jesus."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Oh, when I come to die, Oh, when I come to die, Oh, when I come to die, Give me Jesus."
+      ],
+      "number": 5
+    }
+  ]
+}

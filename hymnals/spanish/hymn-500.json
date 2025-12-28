@@ -1,0 +1,18 @@
+{
+  "number": 500,
+  "language": "es",
+  "title": "Hazme tu siervo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Hazme tu siervoHazme tu siervo, humilde y fiel,",
+        "que ayude a todos con tu amor.",
+        "Sea el ruego de mi corazón:",
+        "hazme tu siervo, quiero escucharte",
+        "y obedecerte, Señor."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 119,
+  "language": "st",
+  "title": "119 Mohloli O Hlatsoang.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "E ke bona mali joale, Mohloli o tebileng;",
+        "Jesu Moren’a bolokang, O supa ’hlakore."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke bona moo ho hlapuoang, Joale ke kena tlhatsuong;",
+        "Bokang Morena Oa ntlhatsoa, O oa ntlhatsoa, e Oa ntlhatsoa"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke bona popo e ncha, Le mali a buang;",
+        "A re hlahoo e ea feta, Moroallong botebong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke nyolohela leseling, Le leng leholimong;",
+        "Ke pelong eo e hloekileng, Jesu O lutse teng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke hoo makatsang lefats’eng, Ho utloa mali ’tsoileng;",
+        "’Me ke tseba Jesu feela, Ea nthakhiselitsoeng."
+      ],
+      "number": 4
+    }
+  ]
+}

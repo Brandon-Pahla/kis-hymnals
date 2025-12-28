@@ -1,0 +1,55 @@
+{
+  "number": 87,
+  "language": "nso",
+  "title": " 87 TATE RE TLA GO WENA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 87 TATE RE TLA GO WENA",
+        "АН 244 CH 599",
+        "FATHER WE COME TO THEE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tate re tla go wena, Ke wena thušo,",
+        "O re šireleditše, Rea go tshepa,",
+        "Fase lea ntshofala ge wena o sego,",
+        "E ba mohomotši tat'a bohle;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Tate re tla go wena, Se re lahle,",
+        "Re tla re fokola, Re kwe hle,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re phološe bobeng, Bjameleko yohle,",
+        "O be mohomotši, Tseleng,",
+        "Fase lea ntshofala ge wena o sego,",
+        "E ba mohomotši tat'a bohle;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refe kgaugelo, Bea 'tsogo la Gago,",
+        "Tloša nao tša rena sebeng sohle,",
+        "O re etele, Bophelong bjono,",
+        "Re tlo dula nago kgalalelong;"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 550,
+  "language": "tw",
+  "title": "Nhwiren a Enyin, Nsu a Ͻsen Ny'naa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nhwiren a enyin, nsu a ɛsen ny'naa,",
+        "Ka nnepa a Nyame de ma me,",
+        "Me nkwa nna ny'naa ma nnepa nhyɛ",
+        "Koma a afi bɔnem' no ma."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "S'ro Domfo Nyamč a, Wohwɛ fam 'dɔ mu,",
+        "Ky'rɛ me kwan me ne Wo nante mu,",
+        "Na da biara wiase ahu",
+        "Kristo 'Gyenkwan' sɛ ɔte me mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me Fam ha naa ny'naa, mɛto dwom ama",
+        "Nyamč Agya, Honhom, ɔba Kristo",
+        "Mommam' gyidi, nkwa yi awiei",
+        "Na me ne 'hom'gyefo ato dwom."
+      ],
+      "number": 3
+    }
+  ]
+}

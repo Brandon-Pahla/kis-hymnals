@@ -1,0 +1,43 @@
+{
+  "number": 38,
+  "language": "nd",
+  "title": "38 Yima Edwaleni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Qinisela kuBaba ezweni, Naphakathi kwesiphithiphithi,",
+        "iDwala kuphel’ elinamandla, Ekulweni nesitha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma sim’ eDwaleni,",
+        "Si qin’ eDwaleni",
+        "Phezulu ku ka Krestu;",
+        "Uma si nganqoba,",
+        "Si yophephela,",
+        "Esixukwini phezulu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qinisela ngokulungileyo, Ingesab’ okubi inhliziyo,",
+        "uKrestu kuphela oyosiza, Izoni zonke lapha"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qinisel’ eqinisweni lonke, Noma li nzima lodlula konke",
+        "YiDwala kiphela elosiza, Kuyo yonk’ imisinga"
+      ],
+      "number": 4
+    }
+  ]
+}

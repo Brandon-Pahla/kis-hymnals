@@ -1,0 +1,63 @@
+{
+  "number": 150,
+  "language": "ny",
+  "title": "150 - Okunkhawo Ali Kuti?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHERE ARE THE REAPERS?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Okunkhawo alitu kutiko?",
+        "Amene akunkhatu zabwino?",
+        "Kuchoka mu dziko loipali,",
+        "Pochita ndi mau a Mlunguyo?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndanitu adze kudzakunkha,",
+        "Kusonkhanitsira anthu m’mwambamo?",
+        "Ndi yani atithandizeko,",
+        "Pofunafuna zobalazo?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Pitani mu mphambano monsemo,",
+        "Funani mupezemo abwino;",
+        "Pitani kwa anthu ponse ponse,",
+        "Musonkhanitsire kumwambako."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Zobala zakhwima ponse ponse,",
+        "Za m’dzikomu zilindira ife.",
+        "Okunkha achepa ku ntchitoyi,",
+        "Zambiri zidzaonongekatu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Anthuni idzani ndi zidazo,",
+        "Kudzasonkhanitsa za m’mundamo;",
+        "Gwiranibe mpaka Ambuyeyo,",
+        "Adzabwera ali kukondwatu."
+      ],
+      "number": 5
+    }
+  ]
+}

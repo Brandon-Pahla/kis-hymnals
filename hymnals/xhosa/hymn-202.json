@@ -1,0 +1,34 @@
+{
+  "number": 202,
+  "language": "xh",
+  "title": "202 Yesu Nkosi Ndiqhube",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu Nkosi ndiqhube Phakathi kwezilingo;",
+        "Amaza ayagquma, Amawa anengozi;",
+        "Ndiqondise indlela, Yesu Nkosi ndiqhube."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Njengosana kunina Ungathulis’ ulwandle.",
+        "Amaz’ ayathobela Xa usithi, \"Thulani!\"",
+        "Wena Nkosi yolwandle, Yesu Nkosi ndiqhube."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa ndingase lunxwemen’, Amaza egebhuza;",
+        "Esitha ukuphumla, Ndayama kuWe Nkosi.",
+        "Mandive usithi kum, \"Qina, ndohamba nawe!\""
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "number": 128,
+  "language": "ts",
+  "title": "128. I NKARHI WO KHONGELA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TIS THE BLESSED HOUR OF PRAYER",
+        "1. I Nkarhi Wo Khongela, Ha Titsongahata, Hi Tshinela Ka Yesu, Muferi Werhu;",
+        "Hi Ku Pfumela Yesu, Hi Ta Hlayiseka, U Tlhavula Wo Tsana, Ka Yesu I Ntsako.",
+        "CHORUS",
+        "Nkarhi Wo Khongela, Wu Tele Nkateko;",
+        "Wu Tlhavula Wo Tsana, Wu N’wi Nyika Ku Tsaka.",
+        "2. I Nkarhi Wo Khongela, Yesu U Kusuhi, Ku Yingisa Vana Vakwe Hi Rirhandzu;",
+        "Swivilelo, Swirilo Wa Swi Amukela,",
+        "U Tlhavula Wo Tsana, U Hi Nyika Ntsako.",
+        "3. I Nkarhi Wo Khongela, Miringweni Yerhu, N’wi Byele Maxangu, Minkarhalo Yaku;",
+        "U Na Mbilu Ya Nsovo, U Ta Ku Wisisa,",
+        "U Tlhavula Wo Tsana, A N’wi Nyika Ntsako.",
+        "4. Hi Nkarhi Wo Khongela, Hi Tshemba Ka Yesu, U Ta Hi Katekisa, No Hi Wisa Mbilu;",
+        "Loko Hi Tshemba Yesu, Hi Ta Tiyisiwa,",
+        "U Tlhavula Wo Tsana, U N’wi Nyika Ntsako."
+      ],
+      "number": 1
+    }
+  ]
+}

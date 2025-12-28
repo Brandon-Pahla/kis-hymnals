@@ -1,0 +1,31 @@
+{
+  "number": 142,
+  "language": "tn",
+  "title": "142 Monate Jang",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Monate Jang Mo Tsatsing Je, Je Le Itshepileng,",
+        "Fa re latlha tsa lefatshe, Re leba Modimong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Mafoko A Kagiso A A Tswang Go Yo O",
+        "Tsosang yo o ikwatlhayang, Go ya legodimong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mme Fa Go Itlosa Dibe, Go Re Retelela,",
+        "Ene yo o bonang pelong, O romela tshwaro."
+      ],
+      "number": 3
+    }
+  ]
+}

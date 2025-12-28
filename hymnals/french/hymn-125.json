@@ -1,0 +1,49 @@
+{
+  "number": 125,
+  "language": "fr",
+  "title": "À toi, mon Dieu, mon cœur monte",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "À toi, mon Dieu, mon cœur monte,",
+        "En toi mon espoir est mis.",
+        "Dois-je être accablé de honte",
+        "Aux yeux de mes ennemis ?",
+        "Jamais on n’est confondu",
+        "Quand sur toi l’on se repose.",
+        "Mais les méchants sont perdus",
+        "Par le mal qu’ils se proposent."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Montre-moi toujours la voie",
+        "Conduis-moi dans tes chemins.",
+        "Que je marche dans la joie,",
+        "Sans jamais quitter ta main.",
+        "Mets loin de ton souvenir",
+        "Les erreurs de ma jeunesse,",
+        "Et daigne encor me bénir,",
+        "Seigneur, selon ta promesse."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le Seigneur donne à connaître",
+        "Son secret aux hommes droits.",
+        "À leurs yeux, il fait paraître",
+        "La sagesse de ses lois.",
+        "Le mal vient de toutes parts :",
+        "Prends, mon Dieu, prends ma défense,",
+        "Car je tourne mes regards",
+        "Vers toi seul, mon espérance !"
+      ],
+      "number": 3
+    }
+  ]
+}

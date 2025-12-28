@@ -1,0 +1,54 @@
+{
+  "number": 517,
+  "language": "es",
+  "title": "De pie, oh grey de Dios",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### De pie, oh grey de Dios"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De pie, oh grey de Dios,",
+        "luchemos contra el mal;",
+        "pues Cristo ya venció y nos da",
+        "la vida eternal."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh jóvenes, de pie,",
+        "marchemos sin flaquear;",
+        "pues con Jesús por General",
+        "saldremos a triunfar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mujeres de la grey,",
+        "de pie brillemos hoy;",
+        "el Salvador nos prometió:",
+        "\"Contigo siempre estoy\"."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De pie para vencer,",
+        "oh siervos de su grey;",
+        "ejemplo nos dejó el Señor,",
+        "luchemos por el Rey."
+      ],
+      "number": 5
+    }
+  ]
+}

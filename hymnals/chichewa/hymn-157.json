@@ -1,0 +1,53 @@
+{
+  "number": 157,
+  "language": "ny",
+  "title": "157 - Wakufetsa Ndi Kulira",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HARVEST TIME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Wakufesa ndi kulira,",
+        "Mbeu za chikondicho,",
+        "Wosatopa, wosagona,",
+        "Yesu amdalitsa ’ye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ona! mmera wakukondwa,",
+        "Dzinthu dzonse dzachanso",
+        "Ona! m’minda mwayeratu,",
+        "Layandika khunkhalo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mvula idzatsirirapo,",
+        "Dzuwa ’dzawaliranso,",
+        "Ndi zipatso zidzabala,",
+        "M’mphamvu ya Mulunguyo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Fesa mbeu, usatope,",
+        "Usaope konsetu,",
+        "Nkana utapeza vuto,",
+        "Udzatuta mokondwa."
+      ],
+      "number": 4
+    }
+  ]
+}

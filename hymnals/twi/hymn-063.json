@@ -1,0 +1,57 @@
+{
+  "number": 63,
+  "language": "tw",
+  "title": "Bra Ma Yɛnto Dwom Mma'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bra ma yɛnto dwom mma'",
+        "W'rade; Momma yɛn mu biara,",
+        "Mɔfa anigye mmɔ ose",
+        "Mma yɛn nkwagye Botan."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Momma yɛnnante mmra",
+        "N'anim Wɔ aseda nne mu;",
+        "Bra ma yɛnto 'yeyi mma No,",
+        "Mmɔ No 'se 'nigye mu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyankopɔn yɛ ɔhenkɛse",
+        "Anyame nyinaa so;",
+        "Asase mu bun wɔ Ne nsam,",
+        "Mmepɔ 'hoɔden wɔ No."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔno na ɛpo yɛ Ne de,",
+        "Na ɔno na ɔyɛe;",
+        "Na asase pɛsɛɛ no nso,",
+        "Ne nsa na ɛnwenee."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mommra mma yɛnkoto nsom No,",
+        "Na yemmutu mmɔ mpae;",
+        "Mommra yɛn Yɛfo no anim",
+        "Mmetie No nnɛ da yi."
+      ],
+      "number": 5
+    }
+  ]
+}

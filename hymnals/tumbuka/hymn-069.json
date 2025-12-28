@@ -1,0 +1,51 @@
+{
+  "number": 69,
+  "language": "tum",
+  "title": " 69 Tamkumana Pa Muronga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 69 Tamkumana Pa Muronga",
+        "WELL TARRY BY THE LIVING WATERS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Tayamkumana pa muronga, Wa maji gha moyo,",
+        "Yesu wakutilindilira, kuupa umoyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tamkupumula pa muronga (wura),",
+        "ampumuLa pa muronga (wura),",
+        "TampumuLa pa muronga (wura),",
+        "Wa maji gha umoyo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Para tavuka pa ulendo, tayampumuzgika,",
+        "Pa mronga wakutowa wura, kwamkuwa chimwemwe"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Zani kwa Yesu imwe mose, zani mumwe maj,",
+        "Lani mumweko kwa wanangwa, pa muronga wura."
+      ],
+      "number": 4
+    }
+  ]
+}

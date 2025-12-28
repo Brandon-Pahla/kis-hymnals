@@ -1,0 +1,71 @@
+{
+  "number": 204,
+  "language": "sn",
+  "title": "204 Uya! Mufambi, Uya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Munyika mauri urimufambi",
+        "Inzwa wodaidzwa Mwana! Wangu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uya! M’fambi uya! Uya kumusha!",
+        "Wakapumhuka kure, uya kumusha"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kunyika yenzara, Ibva kwairi",
+        "Uya kurufaro, Mwana wangu!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyika yemirenga, wongwarira iwe",
+        "Waneta momwoyo, mwana wangu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M’siwo wakashama, uchiri wangu!",
+        "Ndichirikukuda mwana wangu"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wapumhuka kure, woenda mberi?",
+        "Dzok’ usunungurwe, mwana wangu!"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kudya kwagadzirwa, unodikanwa!",
+        "Uya kuzororo, mwana wangu!"
+      ],
+      "number": 7
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hauna shamwari, kana nemusha",
+        "Ndichirikukuda, mwana wangu!"
+      ],
+      "number": 8
+    }
+  ]
+}

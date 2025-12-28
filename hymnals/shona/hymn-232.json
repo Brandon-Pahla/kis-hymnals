@@ -1,0 +1,55 @@
+{
+  "number": 232,
+  "language": "sn",
+  "title": "232 Handi Zomusiyi Imwi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Handizokusiyi iwe",
+        "Handizokurambiba",
+        "Ndinozokutungamira",
+        "Pamusana petsitsi",
+        "Usatyeba chakaipa",
+        "Tora mazano angu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Apo mhepo yakubata",
+        "Ndidane m’munamato",
+        "Ndichakugumbatira iwe",
+        "Ndikutungamirire",
+        "Ndicharuramisa nzira yako",
+        "Muzviyedzozvo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti denga rapenya",
+        "Kose, kose kwajeka",
+        "Rufaro rwozoyerera",
+        "Zvino zvose zvofara",
+        "Ini ndinozova newe",
+        "Ndinokutungamira"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana mwoyo wa’ne dima",
+        "Wazara kupokana",
+        "Ndinozokujekesera",
+        "Nemukati memhute",
+        "Mureza mureza",
+        "Ini ndinozousimudza"
+      ],
+      "number": 4
+    }
+  ]
+}

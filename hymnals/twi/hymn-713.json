@@ -1,0 +1,57 @@
+{
+  "number": 713,
+  "language": "tw",
+  "title": "N18 We Love The Place",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Awurade yεdɔ",
+        "Nea W'anuonyam te hɔ,",
+        "Wo trabea mu dεw no",
+        "Kyεn wiase dεw nyinaa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ɛyε m-paebɔ fie",
+        "Nea Wo nkoa hyia mu hɔ;",
+        "Na Wo; Wura, wɔ hɔ;",
+        "Rekyea Wo nguankuw no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yεdɔ Nkwa asεm no,",
+        "Nea εma asomdwoe,",
+        "Ap'rep'rem' w'rεkyekye,",
+        "Ne dεw a εnsa da."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yεbεto dwom fam ha",
+        "W'adɔe pii no ho nti,",
+        "Nso yεpε sε yehu",
+        "S'ro nkonimdi dwom no."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘W'ra Yesu, ma yεn dom",
+        "Ma yεnnɔ W'bebree ha,",
+        "Na yεahu W'anim s'ro",
+        "Ne ‘treneefo asom."
+      ],
+      "number": 5
+    }
+  ]
+}

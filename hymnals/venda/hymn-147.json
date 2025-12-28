@@ -1,0 +1,54 @@
+{
+  "number": 147,
+  "language": "ve",
+  "title": "147. Ntsendedze Tsini Hau Khotsi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:314"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ntsendedze tsini hau Khotsi,",
+        "U nkuvhatedze-vho.",
+        "Nkuvhatedze zwandani zwau,",
+        "Ndi awele kha Iwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ntsendedze nga lufuno,",
+        "Nkokodzele tadulu.",
+        "Ntsendedze tsini,",
+        "Ndi de khotsi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tsini-tsini hau Murena,",
+        "Ndi si u tutshele.",
+        "Ndi takalela u vha tsini,",
+        "Ndi hone ndo fushea."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi sendedzwe nga Muya wau,",
+        "Ndi fane na Iwe.",
+        "Mvuse, ntanzwe ndi bve tshika,",
+        "Kha ndi vhe muvhuya."
+      ],
+      "number": 4
+    }
+  ]
+}

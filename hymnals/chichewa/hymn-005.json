@@ -1,0 +1,36 @@
+{
+  "number": 5,
+  "language": "ny",
+  "title": "5 - Kuli Bwanji Kwathu?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOW FAR FROM HOME?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1 Kuli bwanji kwathu? Ndinafunsa, mlonda iye nati:",
+        "Usiku wapita ndithu, kwayandika kucha;",
+        "Usalire, yendabe ndi chiyembekezo chodala",
+        "Mpaka udzafika m’mwamba pa tsiku losatha.",
+        "2 Ndafunsa msrikali wa Khristu, iye nayimba nati:",
+        "Ndidzamenyanatu nkhondo patsala pang’ono.",
+        "Usalire, pirira kufikira nkhondo idzatha,",
+        "Pakuti olakika adzalandira mphotho.",
+        "3 Ndinafunsa dziko, nyanja ndi dzuwa izo zinati:",
+        "Nthawi ili kutha Yesu ali pafupitu,",
+        "Usalire, zizindikiro zili kuonekatu,",
+        "Chilengedwe chonse chilindira kudza kwake.",
+        "4 Kwathu mpafupitu! mau osangalatsa mtimanga,",
+        "Omwe adapukuta misozi ya olira,",
+        "Usalire, tidzakomanatu osalekananso",
+        "Zobvuta zitatha m’nyumba ya Atate wathu."
+      ],
+      "number": 2
+    }
+  ]
+}

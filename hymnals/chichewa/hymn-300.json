@@ -1,0 +1,34 @@
+{
+  "number": 300,
+  "language": "ny",
+  "title": "300 - Mpumulo Kwa Otopa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "REST FOR THE WEARY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Kwao Mkristu kwa ulemu, Ndi malo a mpumulo;",
+        "Mpulumutsi anapita komwe Mtima ufuna",
+        "CHORUS:",
+        "Mpumulo kwa otopa, Mpumulo kwa otopa,",
+        "Mpumulo kwa otopa; Mukapumadi;",
+        "Patsidya pa Yordano, M’minda ya Edeneyo",
+        "Muli mtengo wa moyo, Mukapumadi.",
+        "2. Akundimangira nyumba  Idzakhala muyaya",
+        "Ndidzakhalitsatu uko, M’dzikolo la cimwemwe.",
+        "3. Zowawa sizidzalowa, Cisoni kulibenso;",
+        "Koma m’kati mwa mtendere, Ndidzabvala korona",
+        "4. Imfa idzamarizidwa, Tsoka lidzacotsedwa;",
+        "Adzapfuula mokondwa Pa tsiku la mdzukiro",
+        "5. Yimbani olowa m’Mwamba, Yimbani cigonjetso,",
+        "Mukadzalowa m’ziyoni, Khoma mudzaliona."
+      ]
+    }
+  ]
+}

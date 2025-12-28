@@ -1,0 +1,37 @@
+{
+  "number": 226,
+  "language": "nd",
+  "title": "226 Cisho Ngivume",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi cisho ukuba l’kholwa,",
+        "Ngi cisho uKrestu ngi Mkholwe,",
+        "Noko uthi ombi, Namhla, moya hamba,",
+        "Ngelinye ilanga, ngokubiza."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U yacisho ukuphenduka,",
+        "U cish’ ukuvum’ inguquko,",
+        "Ng’oba usancengwa, Futhi usanxuswa,",
+        "Ng’uJesu noMoya, Moni buya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cish’ ukuvuma kudlulile,",
+        "Cish’ ukuvuma s’u silele,",
+        "U ngebeleselwe, Nxa se ulahliwe,",
+        "Isililo sizwe, Ngi lahliwe."
+      ],
+      "number": 3
+    }
+  ]
+}

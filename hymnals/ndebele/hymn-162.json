@@ -1,0 +1,46 @@
+{
+  "number": 162,
+  "language": "nd",
+  "title": "162 Yonke Indlela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "uJesu u ya ngi hola",
+        "A ngi celi okunye",
+        "Ngi nga sola umsa wAkhe",
+        "Yena onguMholi na?",
+        "Ngi nokuthul’ okwezulu,",
+        "Nxa ngakhile naYeke",
+        "Ngo’ba ngi yazi ukuthi: U yeza konke kakhe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yonk’ indlel’ u yankihola",
+        "Indlel’ i lula ngaYe",
+        "U yangipha ukunqoba",
+        "A ngi fuze ngesinkwa",
+        "Nxa ngi dinwe ukuhamba",
+        "Nomoya sewomile",
+        "Ngi yabona ngaphambili Lomthombo wosindiso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yonk’ indlel’ u yangihola",
+        "O! yek’ uthando lwAkhe",
+        "Ngi yathenjiswa okuhle",
+        "Endlini ka Baba le",
+        "Nxa ngi thol’ impilo entsha",
+        "Ngi phaphel’ ezulwini",
+        "Ngi yocula njalo njalo, UJesu wongihola"
+      ],
+      "number": 3
+    }
+  ]
+}

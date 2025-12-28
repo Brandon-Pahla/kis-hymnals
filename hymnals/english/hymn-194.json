@@ -1,0 +1,71 @@
+{
+  "number": 194,
+  "language": "en",
+  "title": "194 Love At Home.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "There is beauty all around,",
+        "When there’s love at home;",
+        "There is joy in every sound,",
+        "When There’s love at home.",
+        "Peace and plenty here abide,",
+        "Smiling fair on every side;",
+        "Time doth softly, sweetly glide,",
+        "When there’s love at home."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Love at home, love at home;",
+        "Time doth softly, sweetly glide,",
+        "When there’s love at home."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "In the cottage there is joy,",
+        "When there’s love at home;",
+        "Hate and envy ne’er annoy,",
+        "When there’s love at home.",
+        "Roses blossom ‘neath our feet,",
+        "All the earth’s a garden sweet,",
+        "Making life a bliss complete,",
+        "When there’s love at home."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kindly heaven smiles above,",
+        "When there’s love at home;",
+        "All the earth is filled with love,",
+        "When there’s love at home.",
+        "Sweeter sings the brooklet by,",
+        "Brighter beams the azure sky;",
+        "O, there’s One who smiles on high,",
+        "When there’s love at home."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus, make me wholly thine,",
+        "Then there’s love at home;",
+        "May thy sacrifice be mine,",
+        "Then there’s love at home.",
+        "Safely from all harm I’ll rest,",
+        "With no sinful care distressed;",
+        "Through thy tender mercy blessed,",
+        "When there’s love at home."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 209,
+  "language": "guz",
+  "title": "209 Ong'use Ang'e N'aye Tata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ong'use ang'e n'Aye Tata,Nganeti'onyagate,Ang'e ase amabok'ao,Nyare gotimoka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ong'use n'obwanchani,(Ong'us' ong'use n'obwanchani),Ng'us' ang'e, Igor'as'ore(Ong'us n'obwanchani,Goch'as'ore Igoro,)Ng'usa ange Gocha as'ore."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ong'use ang'e Omotoria,Timba inche bweka,Ombwate n'okoboko kwao,Erio nintimoke."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ong'us' as' Omoik omuya.Erio nkogwekane;Onsibie, onchene, nindabe,Goika mbe omuya."
+      ],
+      "number": 4
+    }
+  ]
+}

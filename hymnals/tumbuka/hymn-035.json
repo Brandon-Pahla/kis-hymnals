@@ -1,0 +1,68 @@
+{
+  "number": 35,
+  "language": "tum",
+  "title": " 35 Chamkuwa Chimwemwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 35 Chamkuwa Chimwemwe",
+        "WHAT A FELLOVWSHIP"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Chamkuwa nadi chimwemwe kura;",
+        "Pakweghama m'mawoko ghake;",
+        "Vitumbiko 'mwe vya kwa Chiuta;",
+        "Pakweghama m'mawoko ghake."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Pakweghama, wati",
+        "Wandifighirire Muvyakofya",
+        "Pakweghama m'mawoko ghake"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B&T",
+        "Pakweghamira, pakweghamira,",
+        "Wati wandifighirire,",
+        "Muvyakofya 'mwe,",
+        "Muvyakofya 'mwe,",
+        "Pakweghama m'mawoko ghake."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Njakunozga 'mwe nthowa ya Fumu,",
+        "Pakweghama mmawoko",
+        "Njakungweruka nthowa ya Yesu,",
+        "Pakweghama m'mawoko ghake."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Palije icho ndingachiwopa",
+        "Pakweghama m'mawoko ghake,",
+        "Ndiri na mtende pakwenda nayo,",
+        "Pakweghama m'mawoko ghake."
+      ],
+      "number": 5
+    }
+  ]
+}

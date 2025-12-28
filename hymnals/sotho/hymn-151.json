@@ -1,0 +1,38 @@
+{
+  "number": 151,
+  "language": "st",
+  "title": "151 Na Ho Tla Ba Teng Linaleli?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke hopola kajeno fats’e le letle, ke tla fihla teng ka phirima;",
+        "Ka mohau oa ’Moloki ke tla ba haufi na ke tla roala linaleli?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Na linaleli li tla ba teng moqhakeng ha letatsi le tla likela...",
+        "Ha ke tsoha tulong eo e khutsitseng na ke tla roala linaleli."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka matla ’Morena ke leke ho etsa ke buse le meea timelong,",
+        "Ke tle ke roale naleli tse phatsimang letsatsing leo A tla rokoang."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thabo e tla ba kakang mohlang ke ’monang ke bea liperela maotong.",
+        "Ho tla ba monate moo motseng oa gauda ha ke tla roala linaleli."
+      ],
+      "number": 3
+    }
+  ]
+}

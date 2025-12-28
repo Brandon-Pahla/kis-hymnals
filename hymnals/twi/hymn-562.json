@@ -1,0 +1,57 @@
+{
+  "number": 562,
+  "language": "tw",
+  "title": "Mommra Mmɛto Twab're",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mommra mmɛto twab're dwon,",
+        "Daa 'duan ho aseda!",
+        "Adekan a yɛde brɛ",
+        "Nyame yɛ aseda."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kan no, ansa na 'kuafo",
+        "Di wɔn afahyɛ no,",
+        "Wɔde nnɔbae mu 'dekan",
+        "Kɔmaa ɔsɔfo no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛbɛma yɛn w'rɛ afi",
+        "Adebɔ mfiase no,",
+        "Na nyansapɛm' nimdeɛ nti,",
+        "Yɛahw're 'nwanwadč anaa?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔbɔadeɛ Tumfo Nyame,",
+        "Wo a nkwa ny'naa fi Wo,",
+        "Gye yɛn akyɛde 'yinom,",
+        "Yɛn som ne yɛn nnwom ny'naa"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnea 'kɔm renne wiase",
+        "B'rč a yɛn de yɛamee nti",
+        "Ma yɛnsiesie yɛn ho sɛ",
+        "Yɛbɛkyɛ yɛn aduan."
+      ],
+      "number": 5
+    }
+  ]
+}

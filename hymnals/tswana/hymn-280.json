@@ -1,0 +1,46 @@
+{
+  "number": 280,
+  "language": "tn",
+  "title": "280 Kopelo Tsa Boipelo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kopelo Tsa Boipelo, Tsatsing Je Je Lentle,",
+        "Re tla baka Mmoloki, Botshelo le tsela."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Re opela Dipako tsa Kgosi, (ya rona),",
+        "Re opela kgalalelo’a Kgosi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Ratile Banyana, Fa’ Na’le Lefatsheng,",
+        "Le a le legodimong Wa re Rata r’a itse."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Rata Pako Tsa ’Gwe, G’utlwa Dipolelo,",
+        "Tsa A le Galelia Wa bogologolo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mmoloki Yo O Sego, Re Khubama Fano,",
+        "Re lopa O re thuse Go tshelela Wena."
+      ],
+      "number": 4
+    }
+  ]
+}

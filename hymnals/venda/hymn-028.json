@@ -1,0 +1,55 @@
+{
+  "number": 28,
+  "language": "ve",
+  "title": "28 di nee Tshifhinga Tsha U Vha Mukhethwa.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:500",
+        "AH:276"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Di-nee tshifhinga tsha u do amba,",
+        "Dzula na Murena u ambe nae,",
+        "Ita vhukonani, thusa vhahota,",
+        "Phathutshedzo dzawe u si dzi hangwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Di-ite Mukhethwa na mushumoni,",
+        "di-nee tshifhinga tsha u rabela,",
+        "Nga u sedza Yesu U mu edzise,",
+        "Hu vhonale Ene fhedzi kha Iwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Di-ite Mukhethwa u Mu tevhele,",
+        "Hothe hu ne wa ya O ranga phanda,",
+        "Musi wa dakalo kana zwililo,",
+        "Khwathisa kha Yesu pfa ipfi lawe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Di-ite Mukhethwa mbilu i rule,",
+        "U do u dededza nga zwa tadulu,",
+        "Na muya Mukhethwa wo ranga phanda,",
+        "U u lugisela kha zwa tadulu."
+      ],
+      "number": 5
+    }
+  ]
+}

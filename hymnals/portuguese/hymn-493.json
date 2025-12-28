@@ -1,0 +1,47 @@
+{
+  "number": 493,
+  "language": "pt",
+  "title": "Minha Mão em Tua Mão",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Minha Mão em Tua Mão"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uma vez pela noite mui triste ma achava,",
+        "Num intenso e terrível negror,",
+        "E ao sentir-me tão só eu clamei: ó Pai,",
+        "Não escondas Teu rosto de amor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Minha mão em Tua mão",
+        "Quero Ter ao seguir",
+        "Daqui ao distante lar.",
+        "Vem me guiar com Teu amor,",
+        "Sempre junto de Ti, Senhor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Poderei, qual um rei, habitar um palácio,",
+        "Ter poder e riquezas na mão,",
+        "Mas mui triste serei se estiver a sós,",
+        "Em angústia e cruel solidão."
+      ],
+      "number": 4
+    }
+  ]
+}

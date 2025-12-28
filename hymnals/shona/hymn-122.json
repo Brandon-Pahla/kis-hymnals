@@ -1,0 +1,43 @@
+{
+  "number": 122,
+  "language": "sn",
+  "title": "122 Petyo, Kune Mwi Tenzi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Petyo, Petyo, ne mwoyo venyu, Ndiswendedze imwi munokosha",
+        "Ndifungatireyi paditi, Ndiyige muninga, yezororo,",
+        "Ndiyige \"Muninga, yezororo.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Petyo, Petyo, handina chiro chemupiro kuna Jesu mambo;",
+        "Chete mwoyo unechitema, Ndicheneseyi ne ropa renyu;",
+        "Ndicheneseyi ne ropa renyu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Petyo, Petyo, zve kuva wenyu, Ndino siya zvese zvechitema",
+        "Rufaro rwacho, nekuzvida, Ndipenyi Jesu",
+        "Akarowerwa, Ndipenyi Jesu akarowerwa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Petyo, Petyo, ndichikupona, Dakara ndiswike m’mbiri",
+        "Yenyu, Ndinozowa wenyu narini,",
+        "Petyo Muponesi, petyo nemwi,Petyo Muponesi, petyo nemwi"
+      ],
+      "number": 4
+    }
+  ]
+}

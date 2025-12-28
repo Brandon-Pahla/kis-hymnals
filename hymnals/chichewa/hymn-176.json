@@ -1,0 +1,46 @@
+{
+  "number": 176,
+  "language": "ny",
+  "title": "176 - Chiyembekezo Chodala",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BLESSED HOPE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Chiyembekezotu Chodalitsikacho,",
+        "Choposa zinthu zonsezo Za dziko lathuli."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ilipo nyalitu Yowala m’mdimamo,",
+        "Yomwetu isonyeza ’fe, Za manda onsewo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Alipo mauwo Osangalatsatu,",
+        "Achotsa makaikowo A nsisi zakezo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ee, mau akewo Atimasula ’fe;",
+        "Ndiwotu nyali yathuyo, Chiyembekezero."
+      ],
+      "number": 5
+    }
+  ]
+}

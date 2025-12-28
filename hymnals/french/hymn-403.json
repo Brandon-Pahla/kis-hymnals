@@ -1,0 +1,43 @@
+{
+  "number": 403,
+  "language": "fr",
+  "title": "Seigneur, tu nous partages",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Seigneur, tu nous partages ton corps et ton sang,",
+        "Seigneur, tu nous partages ton corps et ton sang,",
+        "Et nous allons, tout joyeux, vers toi, en chantant :"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Tu es le Dieu fidèle, éternellement,",
+        "Tu es le Dieu fidèle, éternellement !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "L’amour que tu nous donnes nous a libérés,",
+        "L’amour que tu nous donnes nous a libérés,",
+        "Et nous marchons vers la sainteté de ton nom."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu as tracé la route qui mène à toi,",
+        "Tu as tracé la route qui mène à toi,",
+        "Et nous allons, invitant le monde à ta joie :"
+      ],
+      "number": 4
+    }
+  ]
+}

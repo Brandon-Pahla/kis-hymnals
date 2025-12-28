@@ -1,0 +1,58 @@
+{
+  "number": 289,
+  "language": "tum",
+  "title": " 289 Mundipokerere",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 289 Mundipokerere",
+        "TAKE ME AS I AM"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nkhulira kwa Imwe Fumu kwambula imwe ndifwenge",
+        "Mundithaske ine, Fumu mundipokerere."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "M'ndipokerere, m'ndipokerere,",
+        "Mundithaske ine, Fumu mundipokerere."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ndine muheni chomene kweni mukafwira ine,",
+        "Mungamanya kundinozga mundipokerere."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nkhutondeka kujinozga ndijipereke ndamwene,",
+        "Mundithaske imwe mwekha mundipokerer"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Nkhuwa mu malundi ghinu mundiwone Fumu yane,",
+        "Muchite mulimo winu mundipokerere."
+      ],
+      "number": 5
+    }
+  ]
+}

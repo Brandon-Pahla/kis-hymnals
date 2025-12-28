@@ -1,0 +1,56 @@
+{
+  "number": 272,
+  "language": "xh",
+  "title": "272 Phosa Intambo Yobomi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Phos’ intambo kwiliz’ elimnyama,",
+        "Kukho umntu ongasindiswayo;",
+        "Nguban’ onganceda isihlobo,",
+        "Aphos’ intambo naye azincame?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Phosa intambo! ’Ntambo yobomi!",
+        "Kukho olahlekayo.",
+        "Phosa intambo! ’Ntambo yobomi!",
+        "Kukh’ otshonayo namhla."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phos’ intambo yobomi, phangisa;",
+        "Mus’ ukulibala, khawuleza!",
+        "Bona, uyatshona, yiza namhla",
+        "Nomkhombe wobomi, Yiza noncedo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phos’ intambo yobomi kofayo,",
+        "Utshona kububi obukhulu;",
+        "Umoya wezilingo nentlungu,",
+        "Kamsinya, wobakhukhulisa bemke."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Liyaphela ixesha loncedo,",
+        "Botshona mpel’ abalahlekayo,",
+        "Ngxama, mzalwana, ixesh’ alikho;",
+        "Phosa intambo basindise namhla."
+      ],
+      "number": 4
+    }
+  ]
+}

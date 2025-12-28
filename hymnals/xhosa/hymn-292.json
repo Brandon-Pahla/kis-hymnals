@@ -1,0 +1,38 @@
+{
+  "number": 292,
+  "language": "xh",
+  "title": "292 NdingokaYesu Ngokupheleleyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinezandlana zokusebenza; Ndinezwana lokubonga,",
+        "’Ndletyana zokuphulaphula, Nelizwana lokuvuma."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Siza kuwe, Nkosi, Singabantwan’ abancinci;",
+        "Siza kuwe, Nkosi, Sifunde ngaWe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinenyawana zokuhamba Ndiye phezulu ezulwini;",
+        "’Mehlwana okufund’ iBhaibhile Ndixele ngolo thando."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le ntliziywana ndipha ngayo, Nalo mphefumlo ngokaYesu;",
+        "Obu bomi bam bonke bobakhe, Ndizinikela kuye."
+      ],
+      "number": 3
+    }
+  ]
+}

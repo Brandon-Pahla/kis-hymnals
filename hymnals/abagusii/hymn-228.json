@@ -1,0 +1,42 @@
+{
+  "number": 228,
+  "language": "guz",
+  "title": "228 Namanyire Oyokondaa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kemerind' eng'etanaine,'Bis' enchera y'obogima,Tinkwoboa ekiageranamanyir' oyokondaa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Namanyir' oyokondaa,As' enyancha y'emechandoEmerindo y'emechando,Yes' andae onsi mbuya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kemerindo ekonucha,'Se bitarre bi' emechando;Tinkwoboa ekiageranamanyire oyokondaa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kamatemw' agonchichera,Nyancha neba embe mono;Korende ning'ike ng'umbu,Namayire oyokondaa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Obwanchani bw' Omotoria,Bontang'aine as'enchera;Nimwegene goika ng'ike,Namanyire oyokondaa."
+      ],
+      "number": 5
+    }
+  ]
+}

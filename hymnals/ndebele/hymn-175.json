@@ -1,0 +1,37 @@
+{
+  "number": 175,
+  "language": "nd",
+  "title": "175 Msindisi, Nje NgoMalusi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Msindisi, nje ngomalusi, Si hole ngomsa wAkho,",
+        "Ehlungwini lAkho sondle; U sakhele is’baya,",
+        "Jes ‘oweth’ obusisiwe! Was’ thenga si ngabAkho;",
+        "Jes ‘oweth’ obusisiwe! Was’ thenga si ngabAkho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si ngabAkh’ u bosilinda, Mqondisi wezindlela;",
+        "Si vikele esonweni, Si bone si ngaduki.",
+        "Jes ‘oweth’ obusisiwe! Yizwa O, Nkosi yethu,",
+        "Jes ‘oweth’ obusisiwe! Yizwa O, Nkosi yethu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wathembis’ ukusithola, Thina zoni nxa si nje;",
+        "U nomusa wokusipha Si gezwe si bemhlophe;",
+        "Jes ‘oweth’ obusisiwe! Si zobuyela kuWe,",
+        "Jes ‘oweth’ obusisiwe! Si zobuyela kuWe."
+      ],
+      "number": 3
+    }
+  ]
+}

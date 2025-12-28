@@ -1,0 +1,46 @@
+{
+  "number": 160,
+  "language": "xh",
+  "title": "160 Ndigcinelwe u-Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "\"Ndigcinelwe u-Yesu!\" Ngamandla ka-Thixo;",
+        "Kungabikho bala kum, Ndilandel’ u-Yesu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "\"Ndigcinelwe u-Yesu!\" Nkosi ndingowaKho;",
+        "Mandingabi nto, konke, konke; Wena unto zonke."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Ndigcinelwe u-Yesu!\" Ndimkhonza ngovuyo;",
+        "Ndisenz’ intando yakhe, Ngamaxesha onke."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Ndigcinelwe u-Yesu!\" Kude nehlabathi;",
+        "Ndingothobekileyo, Ontliziyo intle."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Ndigcinelwe u-Yesu!\" Ndinguye owakhe!",
+        "Kuse ephakadeni, NdingowaKhe yedwa."
+      ],
+      "number": 4
+    }
+  ]
+}

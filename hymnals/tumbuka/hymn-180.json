@@ -1,0 +1,57 @@
+{
+  "number": 180,
+  "language": "tum",
+  "title": " 180 Nyengo Yakwiza Fumu Ntha Tikumanya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 180 Nyengo Yakwiza Fumu Ntha Tikumanya",
+        "CH 540 WE KNOW NOT THE HOUR"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nyengo yakwiza Fumu ntha tikumanya,",
+        "Vimanyikwiro vikuphara wakwiza,",
+        "Kuti wizengeso n'phangano liweme,",
+        "Nyengo ntha timanye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wizenge (wizenge) tinozgeke,",
+        "tiLinde, WIzenge (wizenge)HaLeLuya! HaLeLuya!",
+        "Izenge m'mabingu m'uchindami wa wiske",
+        "Nyengo ntha timanye."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Kuli chiponosko kwa wakuchipenja,",
+        "Unenesko uli m'mazgu gha Chiuta,",
+        "Uchimi wose ukulongola suzgo,",
+        "Nyengo ntha timanye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Ttirombenge nyali zikugolera,",
+        "Titiyimbenge kumanya suz mnthazi,",
+        "inindizgenge yisuke Fumu yize,",
+        "Nyengo ntha timanye."
+      ],
+      "number": 4
+    }
+  ]
+}

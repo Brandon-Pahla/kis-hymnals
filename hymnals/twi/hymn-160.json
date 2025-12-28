@@ -1,0 +1,47 @@
+{
+  "number": 160,
+  "language": "tw",
+  "title": "Kɔ W'anim Sɛ ɔberempɔn",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kɔ W'anim sɛ ɔberempɔn,",
+        "'Man nyinaa to Hosiana;",
+        "Agyenkwa b'rɛfo, tu Wo kwan,",
+        "Berɛw ne ntama di ahim."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kɔ W'anim sɛ ɔberempɔn,",
+        "Kɔ odwo 'nuonyam mu kowu;",
+        "Kristo, fiW' nkonimdi ase",
+        "Wɔ awufo ne bɔne so."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kɔ W'anim sɛ ɔberempɔn,",
+        "Akofo a wotu nam wim;",
+        "De ahodw'ri ne aw'rɛhow",
+        "Hwɛ afɔr' a ɛrebɛn no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kɔ W'anim sɛ ɔberempɔn.",
+        "Kɔ ɔdwo 'nuonyam mu kowu,",
+        "Bɔ Wo ti ase ma ɔyaw,",
+        "Na gye Wo tumi di hene."
+      ],
+      "number": 4
+    }
+  ]
+}

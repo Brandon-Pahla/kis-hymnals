@@ -1,0 +1,47 @@
+{
+  "number": 45,
+  "language": "nd",
+  "title": "45 Ngi Phe iBhaibhele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi ph’ iBhaibhele elikhanyisayo, Kuze ku thokozisw’ ohambayo",
+        "Akukho ‘lifu elingasisitha, KuJes’ oweza kusisindisa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi ph’ iBhaibhele ‘sithunyw’ esingcwele Lize nami li ngi khanyisele",
+        "Izithembiso nothando ndawonye, Ku zohlala phakade ku kunye"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi ph’ iBhaibhele nxa ku khon’ usizi, Nanxa umoya wami u pansi",
+        "Ngi ph’amazwi a khulunywa nguJesu, Kuze ku bonw ‘uMkhululi wethu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi ph’ iBhaibhele ekhanyis’ indlela Lize li bonis’ ingozi lapha",
+        "Li yisiban’ esikhanyisa kahle; Ukuze ngi mbone ngi mlandele"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi ph’iBhaibhele yiso isibane Ozosiphakamis’ elibeni",
+        "Li nokukhanyisa kwasezulwini, Naphesheya kwalo iJordani"
+      ],
+      "number": 5
+    }
+  ]
+}

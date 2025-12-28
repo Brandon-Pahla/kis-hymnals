@@ -1,0 +1,26 @@
+{
+  "number": 208,
+  "language": "ts",
+  "title": "208. MIYELAN, MIYELAN, RITO RA HLEVA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BE SILENT, BE SILENT",
+        "1. Miyelan, Miyelan Rito Ra Hleva;",
+        "Miyelan, Miyelan, Yingiselani.",
+        "CHORUS",
+        "Tshinelani Khwatsi, Hosi Yi Kona; Tshinelani, Tshinelan, Ya Hi Vitana.",
+        "T&B Nyandlamelan, Nyandlamelan,",
+        "Hosi Yi Kona; Tshinelan, Tshinelan, Yi Ri Tanani.",
+        "2. Miyela, Miyelan, Ka Kwetsima La;",
+        "Ku Twakala Hungu, Ra Nsovo Kwala.",
+        "3. Miyelan, Miyelan, A Hi Khongelen;",
+        "Hi Twa Ta Edeni, Ka Nkarhi Lowu.",
+        "4. Miyelan, Miyelan, Tintswalo Takwe;",
+        "Ku Rhula, Ku Rhula, Rindzelan Hosi."
+      ],
+      "number": 1
+    }
+  ]
+}

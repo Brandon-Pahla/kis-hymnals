@@ -1,0 +1,51 @@
+{
+  "number": 34,
+  "language": "st",
+  "title": "34 Ke Khotso Moeeng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ha khotso e le teng tseleng ea ka, Ha bofutsana bo le teng;",
+        "Leha ho le joang, O nthutile hore ke re",
+        "Ke khotso moeeng oa ka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke khotso...le moeeng...",
+        "Ke khotso",
+        "Ke khotso le moeeng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leha Satane a ntlela ka teko, Ke ba le monahano oo,",
+        "Hore Jesu O nkutloela bohloko;",
+        "O nts’olletse mali a Hae."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le sebeng ke tletse le eona thabo, Sebe sa ka ka botlalo;",
+        "Se khokhothetsoe sefapanong sa Hae,",
+        "Boka Morena moea oa ka."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu akofisa pono ea tumelo, Le ea ho tlosoa ha maru",
+        "Lekolilo le lle Morena ’theohe",
+        "Le teng esale khotso moeeng."
+      ],
+      "number": 4
+    }
+  ]
+}

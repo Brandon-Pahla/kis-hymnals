@@ -1,0 +1,54 @@
+{
+  "number": 149,
+  "language": "sn",
+  "title": "149 Famba Mukupenya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Famba mukupenya kwaTenzi",
+        "Kukutungamire Mweya unobva kudenga",
+        "Uno dzinga dima"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa…mba mukupenya 3x",
+        "Famba mukupenya kwaMwari"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Famba mukupenya kweidi",
+        "Kwemanzwi a Mwari",
+        "Mwenje unokutungamira",
+        "Mutendi wa Tenzi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Famba mukupenya kwake",
+        "Kana kunedima",
+        "Dima rotiza kupenya",
+        "Kwe zuva raMwari"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Famba mukupenya",
+        "Uzive rudo rwake",
+        "Mwari Ukama hwedu mupasi",
+        "Huchanaka kumsoro"
+      ],
+      "number": 5
+    }
+  ]
+}

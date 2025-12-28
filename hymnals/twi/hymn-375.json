@@ -1,0 +1,49 @@
+{
+  "number": 375,
+  "language": "tw",
+  "title": "Yɛ 'Dwuma Ade Resa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛ 'dwuma ade resa,",
+        "Yɛ 'dwuma anɔpa;",
+        "B're a bosu regugu,",
+        "Yɛ 'dwuma nhw'ren mu",
+        "Yɛ 'dwuma b're a owia",
+        "Hy'rɛn wɔ ɛda no mu;",
+        "Yɛ 'dwuma ade resa",
+        "'Ma nnipa apɔn."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛ 'dwuma ade resa,",
+        "Yɛ 'dwuma owia b're;",
+        "Yɛ 'dwuma wɔ b're pa mu,",
+        "Home bɛba ntɛm.",
+        "B're tiawa biara mu no,",
+        "Yɛ b'ribi pa bi sie;",
+        "Yɛ 'dwuma ade resa",
+        "'Ma nnipa apɔn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛ 'dwuma ade resa,",
+        "Owia rekɔtɔ yi;",
+        "Anwumm're wia rebɔ yi,",
+        "Yɛ na hann retwam';",
+        "Yɛ kosi b'rč a owia tɔ,",
+        "Na ɛrenhyerɛn bio;",
+        "Yɛ 'dwuma na sum redu",
+        "Nnipa dwumá asa"
+      ],
+      "number": 3
+    }
+  ]
+}

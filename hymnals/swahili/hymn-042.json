@@ -1,0 +1,47 @@
+{
+  "number": 42,
+  "language": "sw",
+  "title": "42 - Ewe Roho wa Mbinguni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Ewe Roho wa mbinguni, maombi sikia!",
+        "Makao yako yafanye, mioyoni mwetu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Kama nuru tupenyeze, giza uondoe,",
+        "Siri yako tuione, na amani yako."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Kama moto tusafishe, choma dhambi yetu,",
+        "Roho zetu ziwe zote, hekalu la Bwana."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Kama umande na uje, utuburudishe,",
+        "Moyo mkavu utakuwa, ni wenye baraka."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "Kama upepo Ee Roho, katika pentekoste",
+        "Ukombozi utangaze, kwa kila taifa."
+      ]
+    }
+  ]
+}

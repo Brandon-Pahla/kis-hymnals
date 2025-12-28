@@ -1,0 +1,51 @@
+{
+  "number": 393,
+  "language": "tw",
+  "title": "Homeda Ne Ne Hann Wura",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Homeda ne ne hann Wura,",
+        "Mebɔ Wo da kronkron no se;",
+        "Me kra brɛfo anigyede,",
+        "Me komá a 'bubu w'rɛkyekye;",
+        "Me komá a 'bubu w'rɛkyekye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Somdwoe, ne nigye da kronkron,",
+        "Wo mmere ho hia ma me daa;",
+        "Mma bɔne adwen biara nsɛe",
+        "Wo mu 'somdwoe a minya no;",
+        "Wo mu 'somdwoe a minya no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dɛw bɛn ara na wɔde sen!",
+        "Kommyɛ kronkron n'efi wɔn mu!",
+        "Wɔn dwom dɛdɛ no fro kɔ s'ro,",
+        "Ͻte sɛ s'ro 'nisoadehu,",
+        "Ͻte sɛ s'ro 'nisoadehu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, ma memmɔ Wo se daa,",
+        "W'anim wɔ homeda yi mu;",
+        "Na W'akoa adwen daa sɛ Wo",
+        "Homeda yɛ nhyira mmɔho,",
+        "Homeda yɛ nhyira mmɔho."
+      ],
+      "number": 4
+    }
+  ]
+}

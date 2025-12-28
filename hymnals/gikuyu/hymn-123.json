@@ -1,0 +1,32 @@
+{
+  "number": 123,
+  "language": "ki",
+  "title": "123. Riu Nikuraatuka (NK 92)",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Rĩu nĩkuratuka, Andu othe mahuruke,",
+        "Nĩtugucokia ngatho",
+        "Tuona njata na mweri, ikengete.",
+        "Ngai wĩ Mũtheru, Wĩ Mũnene,",
+        "Wathaga kũndũ guothe,",
+        "Thĩ-ĩno ona matu-inĩ, Wĩ Mũtheru",
+        "2.",
+        "We Mũgai wa muoyo, Wathaga kũndũ guothe",
+        "Tũmenyerere wega, Tondũ We wĩ hakuhĩ",
+        "Nginya gũkĩe.",
+        "3.",
+        "Wendo waku mũnene, ũtũikũrũkĩre,",
+        "Twarĩrie wega waku, Ta njata cĩa matu-inĩ",
+        "Nginya gũkĩe.",
+        "4.",
+        "Na rĩrĩa ũgoka thĩ, ũtũtware Igũrũ",
+        "We Ngai wa araika, Tũgatũũrania nawe",
+        "Nginya tene."
+      ],
+      "number": 1
+    }
+  ]
+}

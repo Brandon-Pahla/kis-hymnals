@@ -1,0 +1,59 @@
+{
+  "number": 20,
+  "language": "tum",
+  "title": " 20 Mzimu Wane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 20 Mzimu Wane",
+        "AWAKE, MY SOUL"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mzimu wane 'we wukanga,",
+        "Chimbira luwiro",
+        "Mphumphu yiriko",
+        "Iyo yikulindizga iwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mazgu gha Fumu, Chiuta,",
+        "Ghakukuchenya we,",
+        "Njombe wati wakupenge,",
+        "Para ukukhumba."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "wakaboni wakuchanya",
+        "Wakukulawiska, Luwako",
+        "Vyose vyakale,",
+        "Lawiska panthazi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Mponoski mutirongozge",
+        "Tambe majuwani,",
+        "Para tatonda,",
+        "Tamthula Katundu kwa Imwe."
+      ],
+      "number": 5
+    }
+  ]
+}

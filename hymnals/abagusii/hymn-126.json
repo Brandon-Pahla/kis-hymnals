@@ -1,0 +1,35 @@
+{
+  "number": 126,
+  "language": "guz",
+  "title": "126 'Meremo Yaerire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Meremo yaerire,'Sabato y'Omonene,Twasoa ogotimoka,n'Omorembe chinkoro."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Namany' as'okwegena,'Sabat' as'obotongi,N'ogwancha kway'Omotoria,N'omochengo chinkoro."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Korigereria ng'umbu,As'amais' atarore,'Buya bwaye bw'ogokumia,Sabato chinkoro ime."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Togosoa ens'enyia,'S'obuya bwonsi bore,'S'Esabato etaere,Tomenye goika kare."
+      ],
+      "number": 4
+    }
+  ]
+}

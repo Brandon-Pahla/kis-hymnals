@@ -1,0 +1,49 @@
+{
+  "number": 383,
+  "language": "tw",
+  "title": "Anigye Ne Homeda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Anigye ne homeda,",
+        "O, ɔde ne hann da;",
+        "Aw'rɛhow ano ad'ru,",
+        "Da a emu hyerɛn.",
+        "Wo mu na nnipa nyinaa",
+        "Koto 'henguan' anim,",
+        "To kronkron, kronkron, kronkron,",
+        "Ma Tete Kwaframmoa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Woyɛ beá a wɔabɔ ho ban,",
+        "Ahum a etu mu;",
+        "Turo a Paradise,",
+        "Nɔsubɔnten sen hɔ;",
+        "Woyɛ nsunwini nsuti,",
+        "ɔbra anwea yi so;",
+        "Yefi Wo mu, sɛ Pisga,",
+        "Hwɛ bɔhyɛ 'sase no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dá a yenya mu nsusui pa,",
+        "Woyɛ ɔdɔ da pa;",
+        "Da a yɛma yɛn dɔ so",
+        "Fi ha dwen soro hɔ;",
+        "Yenya dom foforo daa,",
+        "Yɛn homeda yi mu",
+        "Yɛhwehwɛ homč a aka",
+        "Fi soro trabea hɔ."
+      ],
+      "number": 3
+    }
+  ]
+}

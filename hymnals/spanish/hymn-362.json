@@ -1,0 +1,55 @@
+{
+  "number": 362,
+  "language": "es",
+  "title": "Con sin igual amor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Con sin igual amor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Con sin igual amor Cristo me ama,",
+        "su dulce paz en mi alma derrama,",
+        "y por salvarme su vida dio:",
+        "ya pertenezco a él."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Ya pertenezco a Cristo,",
+        "¡cuán pura es su amistad!",
+        "Por las edades durará,",
+        "y por la eternidad."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por mis pecados fui condenado,",
+        "mas hoy por Cristo soy perdonado;",
+        "del hondo abismo me levantó:",
+        "ya pertenezco a él."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mi corazón palpita de gozo,",
+        "Cristo es de Dios el don más precioso;",
+        "por redimirme su sangre dio,",
+        "ya pertenezco a él."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "number": 166,
+  "language": "pt",
+  "title": "Novas de Amor e Vida",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Novas de Amor e Vida"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, cantai, outra vez cantai, novas de amor e vida!",
+        "Pois eu nelas encontro paz: novas de amor e vida!",
+        "Belas, sublimadas, puras, inspiradas:"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Novas dos Céus! Bênçãos de Deus!",
+        "Novas de amor e vida!",
+        "Novas dos Céus! Bênçãos de Deus!",
+        "Novas de paz e luz!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem Jesus Cristo a todos dar novas de amor e vida!",
+        "Dai ouvidos ao Seu chamar: novas de amor e vida!",
+        "Salva todo crente, salva livremente!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vós, ó crentes, a voz alçai: novas de amor e vida!",
+        "Vós, ó anjos, também clamai: novas de amor e vida!",
+        "Cristo, o Rei da glória, dá-nos a vitória!"
+      ],
+      "number": 5
+    }
+  ]
+}

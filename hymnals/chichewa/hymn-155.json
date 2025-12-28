@@ -1,0 +1,53 @@
+{
+  "number": 155,
+  "language": "ny",
+  "title": "155 - Kapenatu Si Ku Phiriko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I WILL GO WHERE YOU WANT ME TO GO"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kapenatu si ku phiriko, Kapena ku nyanjako,",
+        "Kapena ku nkhondo komwetu, Mufuna ndipite ’ne;",
+        "Komatu akandituma ’ne Ku dziko la ’lendowo,",
+        "Ndilola mwa mphamvu ya Mbuyeyo, Ndzapita mufunako."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndzapita kumene mufunako,",
+        "M’phiri, m’dambo, ndi m’nyanjamo;",
+        "Ndzanena zimene mufunazo,",
+        "Ndzatsata Mpulumutsiyo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Alipo mau Ambuyeyo, Afuna ndinenedi;",
+        "Kapena kuli wochimwayo Wosowa thandizoli;",
+        "Ambuye, mkanditsogoza’ne, Ingavute njirayo,",
+        "Ndzauza uthenga wabwinowo, Ndzanena mufunazo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Alipo malo a inenso Ku munda wa Mbuyeyo,",
+        "Ndzagwira ntchito yotutayo Ya Yesu wopachikwa.",
+        "Pokhulupilira mwanumo, Podziwa mndikonda ’ne,",
+        "Ndzachita kufunatu kwanuko, Ndzakhala mufunazo."
+      ],
+      "number": 4
+    }
+  ]
+}

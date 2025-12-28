@@ -1,0 +1,47 @@
+{
+  "number": 57,
+  "language": "sn",
+  "title": "57 Uyo unoda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Vese’wo vanonzwa, rauranyi",
+        "Soko rakanaka murese pasi",
+        "Kuti vanhu vese ngaarinzwe’ri",
+        "Uyo unoda, uya"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uyo unoda, uyo unoda",
+        "Tuma soko pagomo nemikana",
+        "Baba wodikanwa akudaidza",
+        "Uyo unoda, Uya"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uyo unouya, nhasi uya",
+        "Pinda pamusiwo wazarurirwa",
+        "Jesu ndiyenzira yeidi ega",
+        "Uyo unoda, Uya"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uyo unoda, dawira idi",
+        "Uyo unoda tiwira ngeizwi",
+        "Uyo unoda, upenyu narini",
+        "Uyo unoda, Uya"
+      ],
+      "number": 4
+    }
+  ]
+}

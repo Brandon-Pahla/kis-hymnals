@@ -1,0 +1,43 @@
+{
+  "number": 230,
+  "language": "sn",
+  "title": "230 Ini Ndini Nzira",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tese taita sehwayi dzapumhuka kure;",
+        "Ndingaona senyi nzira yekuva mudanga?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndi...rinzira...,Idi...upenyu...",
+        "(Ndirinzira, ndirinzira, Ndirinzira Idi upenyu)",
+        "Hawu uyi kuna Baba asineni.",
+        "Ndiri...rinzira...,Idi...upenyu...",
+        "(Ndirinzira, ndirinzura, Ndirinzira Idi upenyu)",
+        "Hawu uyi kuna Baba aineni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndatenderedzwa nenhamo Mwari anondinzwa;",
+        "Apo wazhinji wochema, Ndoziva senyi idi?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuna Kristu nzira nedi, Handicha pumhuki;",
+        "Ondi isa kuna Baba; Kumusha wembiri"
+      ],
+      "number": 4
+    }
+  ]
+}

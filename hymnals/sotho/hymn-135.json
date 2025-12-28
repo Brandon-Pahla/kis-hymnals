@@ -1,0 +1,46 @@
+{
+  "number": 135,
+  "language": "st",
+  "title": "135  Ke Ea U rata Morena.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke ea U rata Morena, o feta lefats’e;",
+        "Hoba U mphile khotso, E sa senyeheng"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ha ho’a boleloa hohle, Ka ’rato le ntletseng.",
+        "Ha h’oa boleloa hohle, Mali A ntlhatsoitseng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U haufi ho fetisa, Bohle ba lefats’e;",
+        "Khopolo ea Hao e monate Ho fetisa pina."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U mphile le eona thabo, ’Me ke tla nyakalla;",
+        "Kantle ho lerato la Hao, Ke lula ka ts’oabo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Moloki e motle oa ka, Ho tla lula joang teng;",
+        "Ha tsela ena e le ntle, Ha kena le Uena."
+      ],
+      "number": 4
+    }
+  ]
+}

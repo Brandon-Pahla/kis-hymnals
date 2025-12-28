@@ -1,0 +1,55 @@
+{
+  "number": 34,
+  "language": "en",
+  "title": "34 When Peace Like A River",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "When peace like a river attendeth my way,",
+        "When sorrows like sea billows roll;",
+        "Whatever my lot, Thou hast taught me to say,",
+        "“It is well, it is well with my soul.”"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "It is well... with my soul",
+        "It is well; it is well",
+        "with my soul."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tho` Satan should buffet, tho` trials should come,",
+        "Let this blest assurance control,",
+        "That Christ hath regarded my helpless estate,",
+        "And hath shed his own blood for my soul."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "My sin- O the bliss of the glorious tho`t! -",
+        "My sin, not in part, but the whole,",
+        "Is nailed to his cross and I bear it no more;",
+        "Praise the Lord, praise the Lord, O my soul!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "And, Lord, haste the day when the faith shall be sight",
+        "The clouds be rolled back as a scroll,",
+        "The trump shall resound, and the Lord shall descend;",
+        "“Even so”- it is well with my soul"
+      ],
+      "number": 4
+    }
+  ]
+}

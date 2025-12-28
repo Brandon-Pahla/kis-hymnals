@@ -1,0 +1,55 @@
+{
+  "number": 566,
+  "language": "es",
+  "title": "Centinelas del Maestro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Centinelas del Maestro"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Centinelas del Maestro,",
+        "por doquiera pregonad",
+        "de la cruz las buenas nuevas,",
+        "de Jesús y su bondad."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Centinelas del Maestro,",
+        "la trompeta haced oír;",
+        "y que el hombre que la escuche,",
+        "vida pueda recibir."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por la cima de los montes,",
+        "por los valles, por el mar,",
+        "por doquier el evangelio",
+        "hoy os toca proclamar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A los antros del pecado,",
+        "dondequiera haya aflicción,",
+        "id con las alegres nuevas",
+        "de la plena redención."
+      ],
+      "number": 5
+    }
+  ]
+}

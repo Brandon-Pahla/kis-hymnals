@@ -1,0 +1,70 @@
+{
+  "number": 506,
+  "language": "es",
+  "title": "¡De pie, de pie, cristianos!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡De pie, de pie, cristianos!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡De pie, de pie, cristianos!,",
+        "soldados de la cruz.",
+        "Seguid el estandarte",
+        "de vuestro Rey, Jesús,",
+        "pues victoriosamente",
+        "sus huestes mandará,",
+        "y al fiero enemigo,",
+        "pujante, vencerá."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡De pie, de pie, cristianos!,",
+        "pues suena ya el clarín",
+        "llamando al conflicto",
+        "al bravo paladín.",
+        "Soldados obedientes,",
+        "henchios de valor,",
+        "portaos en la lucha",
+        "con bríos y vigor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡De pie, de pie, cristianos!,",
+        "en Dios la fuerza está;",
+        "el débil brazo humano",
+        "bien pronto os faltará.",
+        "Tomando la armadura",
+        "de Dios, con oración,",
+        "donde el deber os llame,",
+        "id presto con tesón."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡De pie, de pie, cristianos!,",
+        "al fin el galardón;",
+        "si hoy la lucha es recia,",
+        "mañana habrá canción.",
+        "Quien salga victorioso",
+        "corona obtendrá,",
+        "y con el Rey de gloria",
+        "por siempre vivirá."
+      ],
+      "number": 5
+    }
+  ]
+}

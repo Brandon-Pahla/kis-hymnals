@@ -1,0 +1,47 @@
+{
+  "number": 94,
+  "language": "nd",
+  "title": "94 Ikhaya Lami LeSabatha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Isikolo seSabatha,",
+        "Si thandeka kimi;",
+        "Inhliziyo i qaphele",
+        "Umhla weSabatha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sabatha ... elihle...,",
+        "Sabatha... elihle...",
+        "Inhliziyo iqaphele,",
+        "Umhla weSabatha"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lapha ngaqala, ngabona",
+        "Indlela yobomi;",
+        "Lapha ngacinga okuhle,",
+        "Ngazuza ikhaya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wayemi khona uJesu,",
+        "Wangibiza Yena;",
+        "Ukuba ngi nkhethe Yena",
+        "NeSabatha lAkhe."
+      ],
+      "number": 4
+    }
+  ]
+}

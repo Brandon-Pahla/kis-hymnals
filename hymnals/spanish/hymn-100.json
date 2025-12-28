@@ -1,0 +1,54 @@
+{
+  "number": 100,
+  "language": "es",
+  "title": "¡Dulces momentos!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Dulces momentos!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Dulces momentos consoladores",
+        "los que me paso junto a la cruz!",
+        "Allí sufriendo crueles dolores",
+        "veo al Cordero, Cristo Jesús."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De sus heridas, la viva fuente",
+        "de pura sangre veo manar,",
+        "que, salpicando mi impura frente,",
+        "la infame culpa logra borrar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Veo su angustia ya terminada,",
+        "hecha la ofrenda de la expiación;",
+        "su noble frente, mustia, inclinada,",
+        "y consumada mi redención."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Dulces momentos, ricos en dones,",
+        "de paz y gracia, de vida y luz!",
+        "Solo hay consuelo y bendiciones,",
+        "cerca de Cristo, junto a la cruz."
+      ],
+      "number": 5
+    }
+  ]
+}

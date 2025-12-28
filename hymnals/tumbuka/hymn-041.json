@@ -1,0 +1,68 @@
+{
+  "number": 41,
+  "language": "tum",
+  "title": " 41 Chiuta Wa Msungilireni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 41 Chiuta Wa Msungilireni",
+        "GOD BE WITH YOU"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Chiuta wamsungilireni",
+        "mpaka tikakumaneso,",
+        "Warongozge wamsungeni;",
+        "Chiuta wamsungilireni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mpaka tikurmane;",
+        "pamarundi gha Yesu;",
+        "Mpaka tikumane;",
+        "Chiuta wamsungilireni."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Chiuta wamsungilireni,",
+        "ndiyo wamfukatireni;",
+        "Wampeniso na chakurya;",
+        "Chiuta wamsungilireni."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Chiuta wamsungilireni;",
+        "na para mukusuzgiKa,",
+        "yo ndi movwiri winu;",
+        "Chiuta wamsungilireni."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Chiuta wamsungilireni;",
+        "mwakutemwa kwake kose,",
+        "M urwani mose wasunge;",
+        "Chiuta wamsungilireni."
+      ],
+      "number": 5
+    }
+  ]
+}

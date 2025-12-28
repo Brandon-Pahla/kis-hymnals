@@ -1,0 +1,35 @@
+{
+  "number": 128,
+  "language": "guz",
+  "title": "128 Rituko Richenu Mono",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Rituko richenu mono,Riatongetwe na Nyasae,Totimoke rituko riaye,Natosesenigwe mono."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. .Twatimokir' Esabato,Twagokire gosasima;N'ogotera tomobake,Ase obwanchani bwaye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tobake Nyasae mono,Ase Yeso Omotoria;Ase amanyinga aye,Twanyorire okwabera."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Kina ki'ebibe nogokwa,Atokweret' Omotoria;Tobwat' amachiko Aye,Titosari' amang'an' Aye."
+      ],
+      "number": 4
+    }
+  ]
+}

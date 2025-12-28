@@ -1,0 +1,28 @@
+{
+  "number": 326,
+  "language": "ny",
+  "title": "326 - Mpingo Wa Akristu ’Fe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WE’RE A LITTLE CHRISTIAN BAND"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Mpingo wa Akristu ’fe, tikondwra mwa Ambuye",
+        "Tinka m’dziko labwino, tikondwera mwa Ambuye.",
+        "CHORUS:",
+        "Mpulumutsi, Mtitsogoze bwino bwino,",
+        "Pakupita kunka mmwambamo.",
+        "2. Timayenda bwinotu, tikondwera mwa Ambuye",
+        "Tigonjetsa mdaniyo, tikondwera mwa Ambuye.",
+        "3. Msanga tidzapumadi, tikondwera mwa Ambuye",
+        "Tidzabvala kronayo, tikondwra mwa Ambuye."
+      ]
+    }
+  ]
+}

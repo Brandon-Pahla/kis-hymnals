@@ -1,0 +1,48 @@
+{
+  "number": 41,
+  "language": "tw",
+  "title": "Nyankopɔn Anuonyam H'ran a",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyankopɔn anuonyam h'ran a,",
+        "Ͻde hann fi daa hann mu ba;",
+        "Nkwa Hann, nsuti a ɛtč ase,",
+        "Da pá a ɛde hann ma naa ny'naa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, nokwar' 'Wia, W'animtew",
+        "Mmra yɛn so 'dehyedi hann mu;",
+        "Honhom no hann a ɛtew ho,",
+        "Hy'rɛn yɛn fam ha adwen no mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nigye da a ɛresen no",
+        "Ma 'dwenemtew sɛ 'nɔpawi,",
+        "Gyidi te sɛ 'wigyinae hann,",
+        "B'rč a 'nadwo sum nhyɛ yɛn kra so."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nɔpa 'nuonyam hy'rɛn fam ne wim;",
+        "Momma 'Nɔpa kronn no nsɔre;",
+        "Agya no mma hwehwɛ Ne mmoa",
+        "To N'anuonyam din no ho dwom.",
+        "Amen."
+      ],
+      "number": 4
+    }
+  ]
+}

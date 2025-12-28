@@ -1,0 +1,58 @@
+{
+  "number": 284,
+  "language": "en",
+  "title": "284 While The Days Are Going By.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "There are lonely hearts to cherish,",
+        "While the days are going by;",
+        "There are weary souls who perish,",
+        "While the days are going by;",
+        "If a smile we can renew,",
+        "As our journey we pursue,",
+        "O, the good we all may do,",
+        "While the days are going by."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Going by, going by, Going by, going by,",
+        "(Going by) (going by) (going by) (going by)",
+        "O, the good we all may do,",
+        "While the days are going by!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "There is no time for idle scorning,",
+        "While the days are going by;",
+        "Let your face be like the morning,",
+        "While the days are going by;",
+        "For the world is full of sighs,",
+        "Full of sad and weeping eyes;",
+        "Help your fallen brother rise,",
+        "While the days are going by."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "All the loving links that bind us,",
+        "While the days are going by;",
+        "One by one we leave behind us,",
+        "While the days are going by,",
+        "But the seeds of good we sow,",
+        "Both in shade and shine will grow,",
+        "And will keep our hearts aglow,",
+        "While the days are going by."
+      ],
+      "number": 3
+    }
+  ]
+}

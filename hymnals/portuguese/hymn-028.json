@@ -1,0 +1,59 @@
+{
+  "number": 28,
+  "language": "pt",
+  "title": "Morre o Dia",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Morre o Dia"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morre o dia, põe-se o Sol;",
+        "Desce à Terra, na amplidão,",
+        "Suave calma, doce paz;",
+        "Vem, medita em oração,",
+        "Em oração"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Santo, santo, santo és, nosso Deus!",
+        "Toda a Terra e altos Céus",
+        "Dão-Te graças e louvor,",
+        "A Ti, Senhor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quando as sombras sobrevêm,",
+        "Cobre-nos com Tua mão .",
+        "Tu, que lá no Céu estás,",
+        "Vem ao nosso coração,",
+        "Ao coração."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quando a noite a nós vier,",
+        "E chegar a escuridão,",
+        "Que em Tua graça, ó Deus,",
+        "Haja, enfim, ressurreição,",
+        "Ressurreição."
+      ],
+      "number": 5
+    }
+  ]
+}

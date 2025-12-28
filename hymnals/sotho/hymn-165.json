@@ -1,0 +1,47 @@
+{
+  "number": 165,
+  "language": "st",
+  "title": "165 Ke Ea U Rata.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke ea u rata Uena, Moren’a ka",
+        "Le ’Moloki oa ka, Molimo Oa ka;",
+        "Ke ea u rata, Uena u ea tseba,",
+        "Hoba ke rata joang, ketso ea bonts’a."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke ea thaba, Ka thabo eo e makatsang,",
+        "Hoba thabo ea ka ke eo e sa shoeng;",
+        "Ke sheba leruo ka hlolohelo,",
+        "Jesu le mangeloi ke ba ratehang."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke lehlohonolo la Jesu Oa ka,",
+        "Bophelo le poloko li atisoe;",
+        "Pina ea ka e be lerato la Hao,",
+        "Mohau oa hao o nts’usumetsa pelo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke mang ea ts’oanang le ’Moloki Jesu;",
+        "Oa nthata ’me O nthusa le ho bina,",
+        "Ke tla ’moka ka meloli e phefa,",
+        "Ha moea oa ka o sa le nyakallong."
+      ],
+      "number": 4
+    }
+  ]
+}

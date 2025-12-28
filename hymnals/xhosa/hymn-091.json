@@ -1,0 +1,47 @@
+{
+  "number": 91,
+  "language": "xh",
+  "title": "91 Lindani Nithandaze",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lindani i-Nkosi, Iya biza namhla;",
+        "Lindani niqine, Lindani ma-Kristu;",
+        "Qinani nilinde, ’Tshaba lunamandla,",
+        "Thembani ku-Yesu, Linda ningadinwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mlinde--njengo--kuthanda--za (soprano.)",
+        "Mlindeni ngokuthandaza,",
+        "(O, lindani; O lindani! O, lindani, O lindani) (Alto),",
+        "Mlindeni ebusuku nasemini; (Bonke) Tenor, Bass",
+        "Lindani nonke."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gxothani okubi, Lahlan’ ukusola,",
+        "Umvuzo ngowenu, Ekhay’ ezulwini;",
+        "Lindani maKholwa, Nalindwa ngu-Kristu,",
+        "Uyanazi nonke, Nithengwe ngegazi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thembani ku-Yesu, Thandazani kuYe,",
+        "Hloman’ izikhali, Nilinde i-Nkosi;",
+        "Xa ubon’ ilanga, Ungalibali ke;",
+        "Ngalo elixesha, Linda, Mkristu, linda."
+      ],
+      "number": 3
+    }
+  ]
+}

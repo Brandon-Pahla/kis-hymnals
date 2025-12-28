@@ -1,0 +1,46 @@
+{
+  "number": 252,
+  "language": "xh",
+  "title": "252 Themba U-Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yiza moni onesono I-Nkos’ inenceba,",
+        "Wophiwa uphumlo Ngokuthemba izwi laKhe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Themb’ uYesu, Themb’ uYesu, Mthembe ngoku,",
+        "Wosindiswa, Wosindiswa Khona namhlanje."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Yesu waphalaz’ igazi Kwanentsikelelo;",
+        "Ngen’ uhlanjwe kulo msinga Uhlamba isono."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "NguYesu oyiNdlela Eya ekuphumleni;",
+        "Kholwa kuYe kamsinyane Usikeleleke."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yiza, hamba neli Bandla, Uye ezulwini;",
+        "Sohlala sivuya njalo Kube naphakade."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 118,
+  "language": "nd",
+  "title": "118 UJesu Wahlawula Konke",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "uMsindisi u the, Aw’ u naw’ amandla",
+        "Linda u khuleke Letha kimi konke"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu, Mhlauli Ngi phiwe nguWe",
+        "Izono zi susiwe, Zenziwa zamhlophe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi, ngi bonile AwAkho amandla",
+        "Aguqul’isoni Nenhliziyo embi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Angi nakulunga Okwomusa wAkho",
+        "Ngogeza izono Ngegazi leWundlu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phambili kweNkosi Ngi zozincengela",
+        "Ngi kubeke konke Enyaweni zAkhe"
+      ],
+      "number": 5
+    }
+  ]
+}

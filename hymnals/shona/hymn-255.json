@@ -1,0 +1,37 @@
+{
+  "number": 255,
+  "language": "sn",
+  "title": "255 Ndinomudai Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinomudayi Jesu, Ndiri’ye murombo",
+        "Mweni ne mufambi, Handina neupfumi",
+        "Ndoda rudo rwaJesu, Ruzondinyaradza",
+        "Nekunditungamira, Muve simba rangu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndoda mwoyo waJesu, Mundipewo mutsa",
+        "Ndionese zviyedzo, Neurombo hwangu",
+        "Ndinoda Mweya m’tsvene, Ugondidzidzisa",
+        "Undionese Jesu, Muponesi wangu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinomudayi Jesu, Ndichamuonayi,",
+        "Muri murarabungu, Pachigaro chenyu,",
+        "Pamwe nevana venyu, Ndichafara kwazvo",
+        "Kuimba murukudzo, Nekuona Tenzi"
+      ],
+      "number": 3
+    }
+  ]
+}

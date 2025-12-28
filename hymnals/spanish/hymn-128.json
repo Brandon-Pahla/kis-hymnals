@@ -1,0 +1,66 @@
+{
+  "number": 128,
+  "language": "es",
+  "title": "¡Tu nombre es dulce, buen Jesús!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Tu nombre es dulce, buen Jesús!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Tu nombre es dulce, buen Jesús!",
+        "¡Oh cuánta paz, consuelo y luz",
+        "dimana de tu santa cruz!,",
+        "mi luz, mi esperanza."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Dulce nombre: Emanuel!",
+        "¡Dulce nombre, siempre fiel!",
+        "¡Dulce nombre: gloria a él",
+        "los santos todos canten!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesús; en cuyo corazón",
+        "descargo entera mi aflicción,",
+        "pues calma toda turbación,",
+        "Jesús, tu amado nombre."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu nombre pláceme escuchar;",
+        "lo siento a mi alma alentar.",
+        "Cual canto calma mi llorar,",
+        "Jesús, tu santo nombre."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jamás contó profano autor",
+        "cuán dulce el nombre es del",
+        "Señor;",
+        "ascienda siempre mi loor",
+        "a su glorioso nombre."
+      ],
+      "number": 6
+    }
+  ]
+}

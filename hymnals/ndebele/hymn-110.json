@@ -1,0 +1,39 @@
+{
+  "number": 110,
+  "language": "nd",
+  "title": "110 Ba Busisiwe Abenzayo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yizwa amazwi oMsindisi, A ngamazwi okuphila.",
+        "Zwana u khumbule u Jesu wathi: \"Ba busisiwe abenzayo!\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ba busisiwe abenz’ imyalo, Busisiwe, busisiwe!",
+        "Ba busisiwe abenz’ imyalo, Busisiwe, busisiwe!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ku yize konk’ ukuzwa kwethu: Im’yalo nezithembiso.",
+        "Uma si ngakugcini konke loku, \"Ba busisiwe abenzayo!\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ba zongena eMzini bona, Ba thukululw’ ekoneni;",
+        "Ba hlanjululwe, ba nodumo bona, Ba dle iz’ thelo zokuphila."
+      ],
+      "number": 4
+    }
+  ]
+}

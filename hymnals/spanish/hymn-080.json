@@ -1,0 +1,56 @@
+{
+  "number": 80,
+  "language": "es",
+  "title": "Venid, pastorcillos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Venid, pastorcillos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Venid, pastorcillos,",
+        "venid a adorar",
+        "al Rey de los cielos",
+        "nacido en Judá;",
+        "sin ricas ofrendas",
+        "podemos llegar,",
+        "que el Niño prefiere",
+        "la fe y la bondad."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Un rústico techo",
+        "abrigo le da,",
+        "por cuna un pesebre,",
+        "por templo un portal;",
+        "en lecho de pajas",
+        "incógnito está",
+        "quien quiso a los astros",
+        "su gloria prestar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hermoso lucero",
+        "le vino a anunciar,",
+        "y magos de oriente",
+        "buscándole van;",
+        "delante se postran",
+        "del Rey de Judá;",
+        "de incienso, oro y mirra,",
+        "tributo le dan."
+      ],
+      "number": 4
+    }
+  ]
+}

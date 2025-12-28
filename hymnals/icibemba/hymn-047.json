@@ -1,0 +1,33 @@
+{
+  "number": 47,
+  "language": "bem",
+  "title": "47 - PA MIPUMA YA YODANI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ON JORDAN’S STORMY BANKS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Pa mipuma ya Yodani Ndemona kwishilya,",
+        "Eko icalo ca Kenani Fintu fyandi uko.",
+        "CHORUS:",
+        "Tukatusha mu calo cisuma,",
+        "Kwishilya pa mipuma Kulya,",
+        "Nokwimba ulwimbo lwa Mpanga pe na pe,",
+        "Kwikala pamo na Yesu",
+        "2. lcalo ico cawama Bushiku takuli,",
+        "Yesu e kasuba uko apela lubuto.",
+        "3. Inshita nshi nkafika 'ko kupalwa pe na pe,",
+        "Nokumona Tata wandi, Kutusha ku mwakwe?",
+        "4. Nomba umutima wandi, Tautemwa muno,",
+        "Nangu mabimbi bukali, Ndefwaya kwishilya."
+      ],
+      "number": 2
+    }
+  ]
+}

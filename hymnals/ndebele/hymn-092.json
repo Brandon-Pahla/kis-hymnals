@@ -1,0 +1,45 @@
+{
+  "number": 92,
+  "language": "nd",
+  "title": "92 U Ngakhohlwa iSabatha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ni ngabokhohlwa iSabatha leNkosi;",
+        "Yebo, lihle kunawo wonke amalanga.",
+        "Li yasiphumuza emsebenzini yethu;",
+        "Li silethel’ ukuphumula kwaphezulu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Li thokozelele ilanga leSabatha,",
+        "Li thokozelele ilanga leSabatha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Li londoloze iSabatha Mdumise",
+        "Owathi Yena, Ngi yindlela yokuphila",
+        "Nxa si mlandela uMsindisi wethu lapha",
+        "U zosipha amanzi okuphila Yena"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngelanga eliNgcwele si zakumbonga;",
+        "uJesu iSihlobo esithandekayo;",
+        "NguMsindisi Yena onothando nomusa;",
+        "Izithembiso zAkhe zi ukuthokoza."
+      ],
+      "number": 4
+    }
+  ]
+}

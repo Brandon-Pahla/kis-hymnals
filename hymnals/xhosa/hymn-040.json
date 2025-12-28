@@ -1,0 +1,59 @@
+{
+  "number": 40,
+  "language": "xh",
+  "title": "40 Themba Uthobele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Xa sihamba neNkos’, Sinelizwi laYo,",
+        "Ikhanyisel’ indlela yethu, Senz’ intando yaYo,",
+        "Ihlala nathi ke, Kwa nabo bonk’ abavumayo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Thobelani nize nonwatyiswe,",
+        "Thembelani kuYesu, Nize nimthobele."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akukho bumnyama, Akukho namafu,",
+        "Xa sihamba naW’endleleni; Akukho loyiko,",
+        "Akukho nyembezi, Xa sithemba sikuthobele."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Umthwalo awukho, Alukho nosizi,",
+        "Usithwalela imithwalo; Akukho lahleko,",
+        "Akukho bunzima, Xa sithemba sikuthobela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asinakulwazi Uthand’ olungaka,",
+        "’De sinikele konke kuYe; Kuba olo thando,",
+        "Kwanayo imfobe, Oyenzela abamthembayo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sohlala noYesu, sinobudlelane,",
+        "Sihamba sincokola naYe; Xa simsebenzela,",
+        "Akukho loyiko, Kuba simthemba simthobela."
+      ],
+      "number": 5
+    }
+  ]
+}

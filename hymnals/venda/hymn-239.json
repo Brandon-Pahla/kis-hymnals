@@ -1,0 +1,71 @@
+{
+  "number": 239,
+  "language": "ve",
+  "title": "239. Wo Neta Naa?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Wo no neta naa, wo hwala wo lemelwa naa?",
+        "Yesu uri Ida kha nne awela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Dzintho dzi a nkokodzela kha Murena naa?",
+        "Milenzheni na kha zwanda dzi hone"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Na i hone khare i ne ya munakisa?",
+        "Ee! I hone ya vhutungu ha mipfa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nda mu toda nda tevhela ndi do wana ni?",
+        "U tambula vvhuleme na zwililo."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Nda farelela kha Ene ndi do wana ni?",
+        "Ndi awela seli ha Yorodane."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "6. Ndi tshi ri a ntanganedze u do hana naa?",
+        "Naho zwothe zwi tshi fhira ndo linga."
+      ],
+      "number": 7
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "7. Ndo fhatutshedzwa naa, ndi a mutevhela naa?",
+        "Ngei seli vhakhethwa vha ri Ee, Amen."
+      ],
+      "number": 8
+    }
+  ]
+}

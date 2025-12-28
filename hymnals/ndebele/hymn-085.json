@@ -1,0 +1,37 @@
+{
+  "number": 85,
+  "language": "nd",
+  "title": "85 Ngi Babaz’ Amandl’ eNkosi!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi babaz’ amandl’ eNkosi A dal’ izintaba;",
+        "Nal’ ulwandle alweneka, Nesibhakabhaka;",
+        "Ngi babaza leyongqondo, Nelanga yalenza,",
+        "Nenyang’ ebus’ ebusuku, Yebo, nenkanyezi!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi babaz’ umusa waYo, O si pha ukudla;",
+        "Ya dala ngelizwi laYo, Wonke amabandla;",
+        "Si bon’ izimangaliso, Nhlangothini zonke,",
+        "Njalo ku yamangalisa, OkweNkosi konke!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi babaza zon’ imbali, Utshani, nenkungu;",
+        "Ku yafakaza ngoMenzi, Noba ku thule du!",
+        "NgaYe ku yaphila naphi, Ku yondliwa kona.",
+        "Si ngabalekela ngaphi?, Nalapho u khona!"
+      ],
+      "number": 3
+    }
+  ]
+}

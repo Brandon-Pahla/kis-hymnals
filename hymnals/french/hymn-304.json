@@ -1,0 +1,51 @@
+{
+  "number": 304,
+  "language": "fr",
+  "title": "Jésus, je te suivrai...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus, je te suivrai partout,",
+        "Jésus, je te suivrai partout,",
+        "Soit dans la tristesse,",
+        "Soit dans l'allégresse,",
+        "Jésus, je te suivrai partout."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus, je te suivrai toujours,",
+        "Jésus, je te suivrai toujours,",
+        "Si l'épreuve abonde",
+        "Ta paix est profonde.",
+        "Jésus, je te suivrai toujours."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je te suivrai dès aujourd'hui,",
+        "Je te suivrai dès aujourd'hui,",
+        "Mon âme affranchie",
+        "Vivra de ta vie.",
+        "Je te suivrai dès aujourd'hui."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je te suivrai jusques au bout,",
+        "Je te suivrai jusques au bout,",
+        "Si pour moi tu plaides,",
+        "Seigneur, si tu m'aides,",
+        "Je te suivrai jusques au bout."
+      ],
+      "number": 4
+    }
+  ]
+}

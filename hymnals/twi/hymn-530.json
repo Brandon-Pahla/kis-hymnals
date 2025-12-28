@@ -1,0 +1,44 @@
+{
+  "number": 530,
+  "language": "tw",
+  "title": "B'rč a 'Somdwoe Ba Sɛ Asuten Me Kwan So",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "B'rč a 'somdwoe ba sɛ asuten me kwnan so",
+        "B'rč a 'w'rɛhow  bɔ sɛ po 's'rɔkyɛɔɔ",
+        "Nea 'besi biara Woaky'rɛ me nea menka;",
+        "Eye pii, eye pii ma me kra."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Eye pii ma me kra,",
+        "Eye pii, eye pii ma me kra."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Awerɛkyekyesɛm bɛn ni ɔ sɛ wɔde",
+        "Me bɔne no nyinaa abɔ",
+        "Asɛnnua nom' na ɛnna so nso me bio!",
+        "Yi N'ayɛ, Yi N'ayɛ O me kra!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aw'rade ma bɔhyɛ da no mmra ntɛm na",
+        "Mununkum mmobɔ sɛ nwoma;",
+        "T'robɛnto bɛbom na Aw'rade besian,",
+        "\\\"Yiw ampa\\\", eye pii ma me kra."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 111,
+  "language": "st",
+  "title": "111 Che Ha Teng.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ha teng motsoalle ’a ts’oanang le Jesu, che le a mong! Che le a mong!",
+        "Ha teng ea ka re phekolong moea, che le a mong! Che le a mong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesu O tseba mathata a rona O re thusa tsatsing lohle",
+        "Ha ho motsoalle ea ts’oanang le Jesu che ha eo che ha eo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha teng ea phahameng ho mo feta che ha eo che ha eo",
+        "Hape ha teng ea ikokobelitseng, che ha eo che ha eo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha e teng nako eo a seng haufi che ha e teng che ha e teng,",
+        "Ha bo teng siu boo a sa khothatseng ha bo eo ha bo eo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O kil’a lahla mohalaleli che le a mong che le a mong,",
+        "Kapa a lahla moetsalibe che le a mong che le a mong."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O kil’a lahla mohalaleli che le a mong che le a mong,",
+        "Kapa a lahla moetsalibe che le a mong che le a mong."
+      ],
+      "number": 5
+    }
+  ]
+}

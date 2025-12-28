@@ -1,0 +1,37 @@
+{
+  "number": 313,
+  "language": "xh",
+  "title": "313 Owam Umnqamlezo Ndiwuthwele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu ndithwel’ umnqamlezo, Ndishiye konke ngaWe;",
+        "Andinanto zizezinye, NguWe wedwa ongowam;",
+        "Andinabhongo limbi kum, Elo ke lithemba lam;",
+        "Lona libubutyebi bam, ’Zulu nomhlaba zezam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Andifuni nto yelizwe, Kwaba njalo nge-Nkosi;",
+        "Kulukuhla kodwa apha; Ndithemba wena Nene;",
+        "Xeshikweni undithanda Thixo onobulumko",
+        "Bonke bangandithiya-ke, Ndikuwe kulungile."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndisinga eluzukweni, Ndithwelwe ngumthandazo,",
+        "Ndingena ephakadeni, Ndikhokelwa ngu-Thixo.",
+        "Uyaphel’ umsebenzi wam, Lohle luphel’ uhambo,",
+        "Ithemba loba ludumo, Ndinyuselw’ endumiswen’."
+      ],
+      "number": 3
+    }
+  ]
+}

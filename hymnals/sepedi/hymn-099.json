@@ -1,0 +1,56 @@
+{
+  "number": 99,
+  "language": "nso",
+  "title": " 99 GE KE HLATLOBA SEFAPANO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 99 GE KE HLATLOBA SEFAPANO",
+        "АН 89/90 CH 120",
+        "WHEN I SURVEY THE WONDROUS CROSS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ge ke hlatloba fapano,",
+        "Moo Morena a nkhwetšego,",
+        "'Humi bjaka ke lefela,",
+        "Mme ke nyatša boikgogomošo,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bona hlogong, diatleng,",
+        "dinaong,Maswabi lerato mmogo,",
+        "Di kile tša kopanywa neng,",
+        "Le mmitlwa go faphahlogo;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ge nna ke be ke timetše,",
+        "Ka humana go swarelwa,",
+        "Bjale nka se ikgogomoše,",
+        "Ke phološwa ke sefapano;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ge nka fana ka 'tsopa le,",
+        "Go ka be go sa lekana,",
+        "Lerato le lekgethwa,",
+        "Le nyaka bophelo bja ka;"
+      ],
+      "number": 5
+    }
+  ]
+}

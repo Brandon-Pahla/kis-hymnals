@@ -1,0 +1,29 @@
+{
+  "number": 109,
+  "language": "bem",
+  "title": "109 - WAPIMWA WAPELUKA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WEIGHED AND WANTING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Lintu Kapingula 'ka-tu-pima fya mu mutima,",
+        "Bushe tukaba baci-ne, Nangula ifinangwa?",
+        "CHORUS:",
+        "Wabika 'we pa cipimo, Na-upelu-ka;",
+        "Nupimwa ne shiwi lyakwe, Na-upelu-ka,",
+        "2. Tukomfwe shiwi lyaku-ti, \"Wacita bwino iwe,\"",
+        "Nangu bushe tukomfwa-’ti, \"Iwe naupeluka.\"",
+        "3. Natumumfwile Mupa-shi, IIy' aletupapata,",
+        "Nga twacelwa tukomfwa-’ti, \"Inshita nomba yapwa.\""
+      ],
+      "number": 2
+    }
+  ]
+}

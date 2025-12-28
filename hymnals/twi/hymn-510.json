@@ -1,0 +1,55 @@
+{
+  "number": 510,
+  "language": "tw",
+  "title": "Sɛ Woma Nyame Kyerɛ Wo Kwan",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ woma Nyame kyerɛ wo kwan",
+        "Na wode wo w'rɛ hyɛ Ne mų a,",
+        "ɔbɛtra wo nkyɛn b're biara mu",
+        "Amaw 'nidaso ne hoɔden;",
+        "'Fisɛ wɔn a wɔtwer' Nyame",
+        "Dɔ no, si wɔn dan botan so."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mfaso bɛn na ɛwɔ nusu ne",
+        "'Bufuw ne basamtu hun' mu?",
+        "Sɛ wowɔ Ne banbɔ no mu a,",
+        "ɔrennɔ wo 'w'rɛhow b're mu?",
+        "Nea ɔfaa 'sɛnnua maa wo no",
+        "De w' bɛfa dehw're biaram' dwoo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Twɛn Ne mmere wɔ boasetɔ mu,",
+        "Fa 'nidaso ne koma pa",
+        "Gye neɛ w'Agya fi Ne pɛ ne Ne",
+        "Dɔ mu de ma wo biara no;",
+        "Nea ɔpaw wo yɛɛ Ne de no,",
+        "Nim wo komam ahiade ny'naa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "To dwom, bɔ mpae, na hwɛ N'akwan yie,",
+        "Di nokware wɔ wo som mu;",
+        "Twer' N'asɛm, ewom womfata de",
+        "Wubehu sɛ ɛyɛ nokwar'",
+        "Nyame rempo ɔkra biará a",
+        "ɔtwer' No nokware mu no."
+      ],
+      "number": 4
+    }
+  ]
+}

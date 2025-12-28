@@ -1,0 +1,35 @@
+{
+  "number": 257,
+  "language": "luo",
+  "title": "257 Ka Boche Polo Oyawo E Wi Gode",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ka boche polo oyawoe wi gode mabeyo,Kendo ka chieng` marienymaber osemenyo wi gode.Wanyalo somo herane,e lihudu me polo,Eka wanang`ere maber,ka rondo oserumo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wanang`e...re malong`o,(Wanang`e...re malong`o);Ok wana...pogre kendo,(Ok wana...pogre kendo);E saa ma...piny yaworenwa,(E saa ma...piny yaworenwa);Ka rondo...oserumo,(Ka rondo oserumo, oserumo);E saa ma...piny yaworenwa,(E saa ma piny yaworenwa);Ka rondo...oserumo,(Ka rondo oserumo, oserumo)."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ka watimo marach ka wakiani wan dhano matho,Ka waweyo chik mag ng`wonokwatemo bedo maber,Ng`wonone mar kuwe noumwa,Richowa mag ndalogi,Ka tich matek oserumo,Ka rondo oserumo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ka rondo oseyaworewanang`e osiepewa,Kaka wuonwa bende ong`eyonyithinde duto te;Ka ndalo maduong`no biro,koa malo yor ugwe,E chunywa duto warito,Nyaka rondo rum chutho."
+      ],
+      "number": 4
+    }
+  ]
+}

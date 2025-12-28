@@ -1,0 +1,63 @@
+{
+  "number": 161,
+  "language": "nd",
+  "title": "161  Mina neNkosi Yami",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi nomhlob’ oligugu",
+        "Ngi mthanda kakhulu",
+        "U nothand’ oluhle kimi",
+        "U yang’thokozisa",
+        "A ngi ngehlukane naYe",
+        "Ngi mthand’ eseduze",
+        "Sesohlala ndawonye",
+        "Mina naYe"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi khathele, ng’diniwe",
+        "Yen’ u yangizwela",
+        "Nxa eth’ a ngeyame kuWe",
+        "Ngokusizwa nguYe",
+        "U ngi hol’ ekukhanyeni",
+        "Ngendlel’ ekhanyayo",
+        "Sesohamba ndawonye",
+        "Mina naYe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi ntshel’ insizi zami",
+        "Nokuthaba kwami",
+        "Ngi mtshel’ injabulo yami",
+        "Nokung’ casulayo",
+        "Asho engingakwenzayo",
+        "Nokuzama kwami",
+        "Si khulume ndaWonye",
+        "Mina naYe"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Waz’ ukuthi ngondele",
+        "Ukuleth’ omunye",
+        "Ngako u thi,",
+        "Shumayela izwi losindiso",
+        "U th’ a ngi lande ngothando",
+        "Eza kufa ngalo",
+        "Si sebenza ndawonye",
+        "Mina naYe"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "number": 157,
+  "language": "ts",
+  "title": "157. WE MUBYARI LA RILAKA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HARVERST TIME",
+        "1. We Mubyari La Rilaka, La Byalaka Yo Mbewu;",
+        "La Teleke Hi Rirhandzu, U Ta Katekisiwa.",
+        "CHORUS",
+        "Xiyaxiya We Murimi, Mavele Lamanene; Ntshovelo Wu Kusuhani, Swirimiwa Swa Vupfa.",
+        "2. Ku Wa Mberha Na Vusiku, Ku Phamela Swo Swilo;",
+        "Leswi Pfumalekaka, Ka Lava Tshembhekaka.",
+        "3. Byala U Nga Karhateki, U Nga Chavi Na Nchumu;",
+        "Tiya Ku Tikeriweni, U Ta Tshovela Ngopfu."
+      ],
+      "number": 1
+    }
+  ]
+}

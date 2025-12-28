@@ -1,0 +1,37 @@
+{
+  "number": 52,
+  "language": "en",
+  "title": "52 Come, Thou Fount Of Every Blessing.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Come, thou fount of every blessing,Tune my heart to sing thy grace;",
+        "Streams of mercy, never ceasing, call for songs of loudest praise.",
+        "Teach me ever to adore thee, may I still thy goodness prove,",
+        "While the hope of endless glory, Fills my heart with joy and love."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Here I raise my Ebenezer, hither by thy help I’ve come;",
+        "And I hope by thy good pleasure, Safely to arrive at home.",
+        "Jesus sought me when a stranger, Wand’ring from the fold of God;",
+        "He to rescue me from all danger, Interposed his precious blood"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, to grace how great a debtor, daily I’m constrained to be!",
+        "Let thy goodness like a fetter; Bind me closer still to thee;",
+        "Prone to wander, Lord I feel it, Prone to leave the God I love,",
+        "Here’s my heart, O, take and seal it; Seal it for thy courts above."
+      ],
+      "number": 3
+    }
+  ]
+}

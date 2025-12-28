@@ -1,0 +1,56 @@
+{
+  "number": 78,
+  "language": "pt",
+  "title": "Coroai-O Rei dos Reis",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Coroai-O Rei dos Reis"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eis que Chefe tão glorioso",
+        "É Jesus, o bom Senhor,",
+        "Que lutou mui vitorioso",
+        "Para ser o salvador!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Coroai-O, vós, remidos,",
+        "Coroai-O Rei dos reis!",
+        "Coroai-O, vós, remidos,",
+        "Coroai-O Rei dos reis!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vinde, todos, coroá-Lo:",
+        "Nosso salvador capaz!",
+        "No poder entronizá-Lo",
+        "Príncipe da nossa paz!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Escutai o grande aplauso!",
+        "Triunfou o bom Jesus!",
+        "Ele toma, já, Seu reino,",
+        "Coroado Rei na luz!"
+      ],
+      "number": 5
+    }
+  ]
+}

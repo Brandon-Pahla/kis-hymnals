@@ -1,0 +1,57 @@
+{
+  "number": 75,
+  "language": "tum",
+  "title": " 75 Pulikizgani Muliska",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 75 Pulikizgani Muliska",
+        "HARK TIS THE SHEPHERD'S VOICE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Pulikizgani muliska,",
+        "wakuchema ku mapopa,",
+        "Kuchema mberere zake,",
+        "izo ziri kutayika,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mzinjizge. mzinjizge,",
+        "zifumeko kukwananga,",
+        "Mzinjizge, mzinjizge,",
+        "mziwezgere kwa Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ndinjani 'mwe tiwalute,",
+        "kukapenja zakuzgewa,",
+        "Ndinjani wamkuzipenja",
+        "kuti zinjire m'lukutu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Pulikani zikulira,",
+        "kumapiri ghakutali,",
+        "Yesu mliska walusungu,",
+        "wati zose zize kwake."
+      ],
+      "number": 4
+    }
+  ]
+}

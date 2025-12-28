@@ -1,0 +1,28 @@
+{
+  "number": 287,
+  "language": "ki",
+  "title": "287. Nuu Ungiumba Ihua?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nũũ ũngĩũmba ihũa, Ndingĩhota ĩĩ-wee",
+        "Nũũ ũngĩũmba ihũa, Gũtirĩ thengia Ngai.",
+        "2.",
+        "Nũũ ũngĩkiuria mbura, ndingĩhota ĩĩ-wee?",
+        "Nũũ ũngĩkiuria mbura, Gũtirĩ thengia Ngai.",
+        "3.",
+        "Nũũ ũngĩkĩaria riũa, Ndingĩhota ĩĩ-wee?",
+        "Nũũ ũngĩkĩaria riũa, Gũtirĩ thengia Ngai.",
+        "4.",
+        "Nũũ ũngĩreehe rũhuuho, Ndingĩhota –wee?",
+        "Nũũ ũngĩreehe rũhuuho, Gũtirĩ thengia Ngai.",
+        "5.",
+        "Nũũ ũngĩtheria ngoro, Ndingĩhota ĩĩ-we?",
+        "Nũũ ũngĩtheria ngoro, gũtĩrĩ thengia Ngai."
+      ],
+      "number": 1
+    }
+  ]
+}

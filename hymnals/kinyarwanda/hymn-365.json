@@ -1,0 +1,28 @@
+{
+  "number": 365,
+  "language": "rw",
+  "title": "365 Dor'Umwami Yes'Araje",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 365 Dor'Umwami Yes'Araje",
+        "**1**",
+        "Dor'Umwami Yes'araje,",
+        "Nguriya araje mu bicu.",
+        "Ashagawe n'abamarayika,",
+        "Benshi batabarika.",
+        "**Gusubiramo:**",
+        "Ndatwaranira rwose,",
+        "Kugera mw'ijuru heza.",
+        "Haleluya Yesu nahimbazwe!",
+        "**2**",
+        "Reb'abera bazamurwa,",
+        "Baririmb'indirimbo nziza.",
+        "Impanda zirangurura,",
+        "Mbega ngo Yes'aramwenyura!"
+      ],
+      "number": 1
+    }
+  ]
+}

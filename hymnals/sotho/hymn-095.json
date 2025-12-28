@@ -1,0 +1,47 @@
+{
+  "number": 95,
+  "language": "st",
+  "title": "95 Re Bolokiloe Veke E ’Ngoe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Re tsoile vekeng e ’ngoe, Molimo ’re tlisitse;",
+        "Re batleng hlohonolo, re mo lete kajeno;",
+        "Letsatsi le letle lee ka pele ponts’o ea tse ka pele,",
+        "Letsatsi le letle lee ka pele ponts’o ea tse ka pele."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha re kopa mohau, ka bitso la ’Moloki,",
+        "Re bonts’e sefahleho, tlosa lihlong tsa rona,",
+        "Re lahle tsa lefats’e re phomola tsatsing lee,",
+        "Re lahle tsa lefats’e re pomola tsatsing lee."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha re tla U rorisa, re utloe boteng ba Hao,",
+        "Re bone khalalelo, ha re tlile lebaleng,",
+        "U re nee Morena, mosebetsi o sa feleng,",
+        "U re nee Morena, mosebetsi o sa feleng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A evangeli ea Hao e ts’elise bakhethoa,",
+        "E hlole le bokhopo e tlise tokoloho,",
+        "Ka lisabbatha tsohle, re buse le Morena,",
+        "Ka lisabbatha tsohle, re buse le Morena."
+      ],
+      "number": 4
+    }
+  ]
+}

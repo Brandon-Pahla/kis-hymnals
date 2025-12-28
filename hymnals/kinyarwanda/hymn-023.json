@@ -1,0 +1,39 @@
+{
+  "number": 23,
+  "language": "rw",
+  "title": " 23 Untambe Hejuru Mwuka Wera",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 23 Untambe Hejuru Mwuka Wera",
+        "**1**",
+        "Untambe hejuru Mwuka Wera,",
+        "Ngo mpirwe nawe!",
+        "Nyuzuz'umugisha wawe,",
+        "Ngwino ngwin'unyuzure!",
+        "**Gusubiramo:**",
+        "Nyuzura! nyuzura!",
+        "Yesu ngwin'unyuzure!",
+        "Nyuzuz'umugisha wawe!",
+        "Ngwino ngwin'unyuzure!",
+        "**2**",
+        "Ushobora kunyuzura,",
+        "Ariko sinz'uburyo.",
+        "Ndagushaka Mwuka Wera,",
+        "Ngwino ngwin'unyuzure!",
+        "**3**",
+        "Sinkomeye ndababaye,",
+        "Ndunam'imbere yawe.",
+        "Mwuka mwiza wo mw ijuru,",
+        "Mp'urukundo nyuzura.",
+        "**4**",
+        "Ngwin'unyeze kand'unkize!",
+        "Tuz'umutima wanjye!",
+        "Niw'umpumuriz'unkiza,",
+        "Unyuzure rwos'ubu."
+      ],
+      "number": 1
+    }
+  ]
+}

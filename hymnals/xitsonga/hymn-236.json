@@ -1,0 +1,25 @@
+{
+  "number": 236,
+  "language": "ts",
+  "title": "236. MASANGWEN YA NTSAKO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HIS LOVING KINDNESS",
+        "1. Masangwen Ya Ntsako, Pfuka Moya Wanga Dzunisa Yesu,",
+        "U Fanele Ku Dzuniwa, U Na Rirhandzu Ngopfu.",
+        "CHORUS",
+        "Rirhandzu Ra Nsovo Na Malwandla, A Wu Ndzi Hakerisi.",
+        "2. U Ndzi Kumile Vubihin,",
+        "U Ndzi Rhandzile Ndzi Ri Tano, U Ndzi Ponisile,",
+        "Hi Ro Rirhandzu Na Malwandla.",
+        "3. Hambi Valala, Misava Na Ku Fa, Swi Nga Ndzi Kaneta,",
+        "U Hlayisa Moya Wanga, Hi Matimba Ya Wena.",
+        "4. Maxangwini Wa Ndzi Rhendzela, Ndzi Heleriwa Hi Moya,",
+        "U Kusuhi Na Ku Ndzi Ntshuxa, Hi Ku Lulama Kaku."
+      ],
+      "number": 1
+    }
+  ]
+}

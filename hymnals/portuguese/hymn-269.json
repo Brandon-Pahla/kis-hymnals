@@ -1,0 +1,58 @@
+{
+  "number": 269,
+  "language": "pt",
+  "title": "Eu Sei Que Vive o Redentor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Eu Sei Que Vive o Redentor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu sei que vive o Redentor,",
+        "Pois Ele a morte já venceu.",
+        "Ao Céu subiu o Salvador,",
+        "E Seu perdão me concedeu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "O mundo há de perecer,",
+        "Jamais aqui me vai deter;",
+        "Em breve ao Mestre seguirei",
+        "Ao lar, à casa paternal.",
+        "Em breve ao Mestre seguirei",
+        "Ao lar, à casa paternal."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A fé deponho em meu Senhor,",
+        "Os meus pecados perdoou.",
+        "Por mim sofreu desprezo e dor,",
+        "E por Seu sangue me salvou."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus em breve voltará,",
+        "A fim de o povo Seu buscar.",
+        "Ao lar eterno os levará,",
+        "E ali pra sempre irão morar."
+      ],
+      "number": 5
+    }
+  ]
+}

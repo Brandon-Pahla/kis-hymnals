@@ -1,0 +1,34 @@
+{
+  "number": 331,
+  "language": "xh",
+  "title": "331 Yanga Intliziyo Yam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yanga intliziyo yam Ingaphuma ezonweni;",
+        "Wanga umphefumlo wam ungangen’ ebungcweleni.",
+        "Yiva, yiva, Nkosi yam, Yiva ukukhunga kwam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwanga ukuhamba kwam Kungabheka ezulwini;",
+        "Zanga zonk’ izenzo zam Zingayam e-Nkosini.",
+        "Nceda, nceda, Nkosi yam, Nceda ukulinga kwam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwanga ukuvuya kwam Ndingavuya futhi ngawe;",
+        "Kwanga ukuzama kwam Ndingalandelana nawe.",
+        "Vuma, vuma, Nkosi yam, Ndiye ezulwini nam."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 174,
+  "language": "bem",
+  "title": "174 - KWA BUSEKO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOW CHEERING!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kwa bu-seko ku-su-bila ‘lyo twa-cula-pano;",
+        "Kulatwafwa mu macusho 'lyo tuli pano nse,",
+        "Kulatwafwa mu macusho 'lyo tuli pano nse.",
+        "2. Kwatu-langa 'ko-tu-tushe, tuka-teka-nankwe;",
+        "'Ko tukamonana bonse tatwakalekane,",
+        "'Ko tukamonana bonse tatwakalekane.",
+        "3. Mu mpa-nge yi ta-ba-bifya, taba-tunkwa-iyo;",
+        "Ubuseko tabwakapwe bukekalila pe,",
+        "Ubuseko tabwakapwe bukekalila pe.",
+        "4. Mu ca-lo‘mo ta-ba-losha, ne mfwa-tamwa-kabe;",
+        "'Bakaba mu calo cilya kuba nga bangeli,",
+        "'Bakaba mu calo cilya kuba nga bangeli.",
+        "5. We nshita we bu-tu-kisha, mupu--sushi--isa;",
+        "Twafuluko kukumona tufike ku mwesu",
+        "Twafuluko kukumona tulike ku mwesu."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "number": 331,
+  "language": "fr",
+  "title": "Ô Jésus, ma joie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Jésus, ma joie,",
+        "Toi que Dieu m'envoie,",
+        "Mon Sauveur, mon roi.",
+        "Viens à ma prière,",
+        "Mettre ta lumière",
+        "Et ta vie en moi !",
+        "De mon cœur sois le Seigneur :",
+        "Hors de toi, seul adorable,",
+        "Rien n'est désirable."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quand le mal menace,",
+        "Ô Jésus, ta grâce",
+        "S'offre à notre foi.",
+        "Tu nous justifies,",
+        "Tu promets la vie",
+        "À celui qui croit.",
+        "Ton amour est mon recours;",
+        "En lui seul je me confie.",
+        "Veille sur ma vie !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seul Jésus m'attire,",
+        "Seul il peut suffire",
+        "Pour remplir mon cœur.",
+        "Il est ma richesse :",
+        "Tous les biens paraissent",
+        "Pour moi sans valeur.",
+        "Les terreurs ni les douleurs",
+        "Ne méritent qu'on les craigne",
+        "Puisque Jésus règne !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sois le seul exemple",
+        "Que mes yeux contemplent,",
+        "Ô Jésus, mon roi !",
+        "Donne-moi de vivre",
+        "Pour t'aimer, te suivre",
+        "Et mourir en toi !",
+        "Chaque jour, que ton amour",
+        "Me soutienne dans ma voie,",
+        "Ô Jésus, ma joie !"
+      ],
+      "number": 4
+    }
+  ]
+}

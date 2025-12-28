@@ -1,0 +1,52 @@
+{
+  "number": 74,
+  "language": "ve",
+  "title": "74 Ri A Zwala Mbeu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:369",
+        "AH:363"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ri a zwala mbeu, mbeu yo lugaho,",
+        "Matsheloni, masiari na madekwana,",
+        "Ro rindela-vho tshifhinga tsha u kana,",
+        "Ri do takala ro hwala mikano."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ro hwala khano, ro hwala khano,",
+        "Ri do takala ro hwala mikano."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ri a zwala mbeu maduvhani othe,",
+        "A ri nga ofhi khuli ya vhusiku,",
+        "Ro swika mafheleloni a mushumo,",
+        "Ri do takala ro hwala mikano."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri zwalela Murena nga mitodzi,",
+        "Huno rine a ri ofhi vhuleme,",
+        "Ho fhela zwililo ri do mu vhona-vho,",
+        "Ri do takala ro hwala mikano."
+      ],
+      "number": 4
+    }
+  ]
+}

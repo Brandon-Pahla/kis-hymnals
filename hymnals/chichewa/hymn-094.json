@@ -1,0 +1,46 @@
+{
+  "number": 94,
+  "language": "ny",
+  "title": "94 - Skulu Ya Sabata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SWEET SABBATH SCHOOL!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Skulu ya Sabata ndithu, Yokondedwa ndine;",
+        "Mtima wanga uikonda, Skulu ya Sabata."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Skulu ya (bwino), Sabata (bwino),",
+        "Skulu ya (bwino), Sabata (bwino),",
+        "Mtima wanga uikonda, Skulu ya Sabata."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi mmenemo mtima wanga, Uyamba kudziwa;",
+        "Ndinayamba kuikonda, Skulu ya Sabata."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yesu ndi mau okonda, Andiitanatu;",
+        "Ndipo ndisankha yekhayo, M’skulu ya Sabata."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "number": 94,
+  "language": "en",
+  "title": "94 Sweet Sabbath School!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sweet Sabbath School! More dear to me,",
+        "Than fairest palace dome,",
+        "My heart e’er turns with joy to thee,",
+        "My own dear Sabbath home."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sabbath home (sweet home)!",
+        "Blessed home, (sweet home)",
+        "Sabbath home, (sweet home)",
+        "Blessed home!",
+        "My heart e’er turns with joy to thee,",
+        "My own dear Sabbath Home."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Here first my willful, wand’ring heart,",
+        "The way of life was shown,",
+        "Here first I sought the better part,",
+        "And gained a Sabbath home."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Here Jesus stood with loving voice,",
+        "Entreating me to come,",
+        "And make him my only choice,",
+        "In this dear Sabbath home."
+      ],
+      "number": 3
+    }
+  ]
+}

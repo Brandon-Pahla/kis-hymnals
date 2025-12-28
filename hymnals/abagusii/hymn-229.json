@@ -1,0 +1,35 @@
+{
+  "number": 229,
+  "language": "guz",
+  "title": "229 Omotoria  Ntang'ane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Omotoria ntang'ane,Ase chinchera chionsi,Nde buya kond' as'ore,Mb' as' obwanchani bwao."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndae, ndae,Omotoria tinsira;Ndae amatuk' onsi,Ndae chinchera chionsi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Naye obotamero,'Kero emechand' ere,Nde buya kore ang'e,Nsemeretie as'ore."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndae goik' omoerio,'Mechando yaerire,\"Ngik' as' ense botaire,Marig'aratinyigwe."
+      ],
+      "number": 4
+    }
+  ]
+}

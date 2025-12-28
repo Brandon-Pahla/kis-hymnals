@@ -1,0 +1,23 @@
+{
+  "number": 233,
+  "language": "ts",
+  "title": "233. NDZI BYELE HI TA KHALE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TELL ME THE OLD, OLD STORY",
+        "1. Ndzi Byele Hi Ta Khale, Ta Leswi Endlekeke, Ta Vukwetsimi Byakwe, Na Ta Rirhandzu,",
+        "Ndzi Hlamusele Kahle, Onge U Byela N’wana. Hi Ku Va Ndzi Tsanile, Ndzi Hele Ntamu.",
+        "CHORUS",
+        "Ndzi Byele Hi Ta Khale, Ta Yesu Muponisi,",
+        "Ta Leswi Nga Endleka, Ta Rirhandzu Rakwe.",
+        "2. Ndzi Byele Hi Ta Khale, Rito Lero Tshembheka, To Kutsuriwa Swivin, Hi Ye Muferi,",
+        "Tshama U Ndzi Tsundzuxa, Mina La Nga Mudyohi, Ndzi Ta Kota Ku Hlula Emiringweni.",
+        "3. Engeta U Ndzi Byela, Ta Ku Susa Wo Nchavo, Swa Misava Swa Tika, A Swi Hakeli,",
+        "Ndzi Byele Hi Timhaka, Leti Ti Nga Na Ntshembho, Ta Yesu Mukutsuri, La Ponisaka."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 185,
+  "language": "nd",
+  "title": "185 Ukuba Khona",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Si yokhuluma ngekhaya, Nelizw’ elivundileyo,",
+        "Ilizwe lakhona lihle, Nokuhlala khona kuhle!",
+        "Si khuluma ngezindlela; Nangendong’ ezikhanyayo,",
+        "Li yamangalisa lona Kunjan’ ukuhlala khona."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si yasho akuko sono, Nosizi nokuhlupheka;",
+        "Laph’ izilingo azikho, Kunjan’ ukuhlala khona!",
+        "Si yakhuluma ngothando, Nezingub’ ezambathwayo.",
+        "Ibandla loqobo lile, O kuhl’ ukuhlala khona!."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi lungile lapha mina; Ngize ngi ye ezulwini,",
+        "Masinyane ngi zokuzwa, Ubumnandi bakhona le.",
+        "Si zohamb’ emasimini, Ngobukhosi obukhulu,",
+        "Izingelosi za khona, Kanye noJesu ngokwAkhe."
+      ],
+      "number": 3
+    }
+  ]
+}

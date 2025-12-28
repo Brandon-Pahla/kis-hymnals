@@ -1,0 +1,31 @@
+{
+  "number": 214,
+  "language": "bem",
+  "title": "214 - BUSHE YESU KUTI ANSUNGA?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "DOES JESUS CARE?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bushe Yesu kuti ansunga, Ilyo ndi mu macusho?",
+        "'Lyo nafininwa ne fya mu calo, Fyalenge nshilo kulepa",
+        "CHORUS:",
+        "Ala-nsunga, Ninji-shiba, Tatemwa ilyo ncula,",
+        "Inshiku nasho shanasha, Mupusushi wandi alansunga.",
+        "2. Bushe Yesu kuti ansunga, Nge nshila yafitisha?",
+        "Kasuba kawa, yaise mfifi, Bushe kuti aba pepe?",
+        "3. Bushe Yesu kuti ansunga, Nga nawa mumatunko?",
+        "Ilyo na cula, nshili no bwafwo, Nalila bushiku bonse.",
+        "4. Bushe Yesu kuti ansunga, Nga nasha 'ba mu calo?",
+        "Nangu mutima wandi wa cula, Bushe tekuti amone?"
+      ],
+      "number": 2
+    }
+  ]
+}

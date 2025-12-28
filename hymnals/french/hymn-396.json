@@ -1,0 +1,47 @@
+{
+  "number": 396,
+  "language": "fr",
+  "title": "Pour que nos cœurs",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Pour que nos cœurs deviennent de chair,",
+        "Tu as rompu le pain,",
+        "Comme un fruit de justice,",
+        "Comme un signe d'amour."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pour que nos cœurs deviennent de sang,",
+        "Tu as versé le vin,",
+        "Comme un puits de tendresse,",
+        "Comme un signe de paix."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pour que nos cœurs respirent ta vie,",
+        "Tu as donné ta mort",
+        "Comme un jour qui se lève,",
+        "Comme un cri d'avenir."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pour que nos cœurs éclatent de vie,",
+        "Nous fêtons ta mémoire,",
+        "Tu libères ton peuple",
+        "Et tu es son chemin."
+      ],
+      "number": 4
+    }
+  ]
+}

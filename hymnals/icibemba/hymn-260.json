@@ -1,0 +1,35 @@
+{
+  "number": 260,
+  "language": "bem",
+  "title": "260 - ILUNGU LYA WAMA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "VALE OF BEULAH"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndepita mwilungu ili baletila libi.",
+        "Lelo nasanga mu nshila muli fye amaluba;",
+        "Ilungu lya wama ninshila isuma,",
+        "Mupusushi nyende nankwe inshita fye shonse",
+        "CHORUS:",
+        "We lungu lya wama Walicindamisha;",
+        "We mpanga we yabulayo Nakumona kulya",
+        "2. Tekuti kube cinshingwa cakulishe nshila,",
+        "Lulumbi lwa Mupusushi lubutishe nsnila;",
+        "Abangeli baleimba inyimbo shisuma,",
+        "Shawamisha, shansekesha ilyo ndeya mu nshila",
+        "3. Awe ndi u-wacimwemwe, Ndeya ku musumba,",
+        "Nakulasekela lyonse lyo nshila yabuta;",
+        "Ndi apepi no kumona fibi fyaisulwa,",
+        "Pantu iyi e nshila i-yalola ku mulu."
+      ],
+      "number": 2
+    }
+  ]
+}

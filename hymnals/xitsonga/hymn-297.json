@@ -1,0 +1,23 @@
+{
+  "number": 297,
+  "language": "ts",
+  "title": "297. YENA A TIYIMISELE KU NDZI FELA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE WAS ONE WHO WAS WILLING",
+        "1. Yena A Tiyimisele Ku Ndzi Fela, Leswaku Mina Ndzi Ta Hanya,",
+        "U Yi Fambile Ndlela Ya Xihambano, Ku Hlantswa Swidyoho Swa Mina.",
+        "CHORUS",
+        "Swi Beleriwile Exihambanweni, U Herise Swidyoho Swanga,",
+        "Hi Gome Yesu U Fe Xihambanweni, U Fele Swidyoho Swa Mina.",
+        "2. U Ndzi Lehisela Mbilu Hi Rirhandzu, Loko A Ndzi Basisa Mbilu,",
+        "U Surile Nandzu, Se Ndzi Ntshuxiwile, U Susile Swidyoho Swanga.",
+        "3. Masiku Hinkwawo Ndzi Ta Namarhela, Ndzi Nge Ku Siyi Muponisi,",
+        "Hi Nomu Ni Mbilu Ndzi Ta Yimbelela, U Rhwarile Swidyoho Swanga."
+      ],
+      "number": 1
+    }
+  ]
+}

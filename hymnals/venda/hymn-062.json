@@ -1,0 +1,55 @@
+{
+  "number": 62,
+  "language": "ve",
+  "title": "62 Ndi A U Funa Iwe Yesu Wanga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:321",
+        "AH:234"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi a U funa Iwe Yesu wanga,",
+        "Nga Iwe namusi ndi litsha zwivhi,",
+        "U Mutshidzi wanga mufeli wanga,",
+        "Zwino Yesu wanga ndi a U funa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi a U funa ngauri wo mpfuna,",
+        "Wa di-nekedza ngei tshifhammbanoni,",
+        "Ndi a U funa ngauri wo mpfela,",
+        "Zwino Yesu wanga ndi a U funa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kha hone vhutshilo na lwone lufu,",
+        "Ndi do u rendisa Mutshidzi wanga,",
+        "Naho ndo thovhoni yanga ya lufu,",
+        "Zwino Yesu wanga ndi a U funa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nduni dza vhuhosi ndi do takala,",
+        "Ngei tadulu ndi do di U renda,",
+        "Ndi do imba ndo hwala khare yanga,",
+        "Zwino Yesu wanga ndi a U funa.."
+      ],
+      "number": 5
+    }
+  ]
+}

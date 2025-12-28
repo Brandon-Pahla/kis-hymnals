@@ -1,0 +1,54 @@
+{
+  "number": 27,
+  "language": "tn",
+  "title": "27 Re Ya Go Baka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Re Ya Go Baka Modimo Ka Morwa",
+        "Ka Jeso Yo’ suleng mme O tsogile."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Halelujah kgalalelo, Haleluja amen",
+        "Haleluja kgalalelo, Re tsose gape"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Ya Go Baka Modimo Ka Moya",
+        "’Sedi je le re bontshitseng Mmoloki"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kgalalelo Go Kwana E Tlhabilweng",
+        "Yo’ belegeng dibe tsotlhe tsa rona."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kgalalelo Go Modimo O Tshwaro,",
+        "Yo’ re rekileng A re etelela."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Tsose Gape Re Tlatse Lorato,",
+        "Re tsosiwe ka molelo wa godimo."
+      ],
+      "number": 5
+    }
+  ]
+}

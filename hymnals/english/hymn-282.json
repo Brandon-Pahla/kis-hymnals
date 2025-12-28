@@ -1,0 +1,46 @@
+{
+  "number": 282,
+  "language": "en",
+  "title": "282 Ten Thousand Harps",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hark! Ten thousand harps and voices,",
+        "Sound the note of praise above;",
+        "Jesus reigns, and heav’n rejoices,",
+        "Jesus reigns, the God of love;",
+        "See, he its on yonder throne;",
+        "Jesus rules the world alone,",
+        "Hallelujah! Hallelujah! Hallelujah! Amen."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "King of glory, reign forever,",
+        "Thine an everlasting crown;",
+        "Nothing from thy love shall ever,",
+        "Those whom dost seal thine own;",
+        "Happy objects of thy grace,",
+        "Destined to behold thy face,",
+        "Hallelujah! Hallelujah! Hallelujah! Amen."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Saviour, hasten thine appearing;",
+        "Bring, O bring, the glorious day;",
+        "When the awful summons hearing,",
+        "Heav’n and earth shall pass away!",
+        "Then with golden harps, we’ll sing,",
+        "“Glory, glory to our King.”",
+        "Hallelujah! Hallelujah! Hallelujah! Amen."
+      ],
+      "number": 3
+    }
+  ]
+}

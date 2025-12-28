@@ -1,0 +1,38 @@
+{
+  "number": 224,
+  "language": "xh",
+  "title": "224 Izibane Mazivuthe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Inceba yoBawo wethu Iyakhazimla njalo;",
+        "Thina uthe masigcine Izibane zivutha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Izibane mazivuthe, Zikhanyise nakude!",
+        "Wothi ngoko usindise Udway’ olusindwayo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Isono sitsho kwamnyama, Ayagquma amaza;",
+        "Iintsizana zikhangele Ukukhany’ elunxwemen’."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lungis’ isibane saKho, ’Kuze kukhany’ elwandle;",
+        "Kwabo basing’ elunxwemen’, Bangaduk’ ebumnyamen’."
+      ],
+      "number": 3
+    }
+  ]
+}

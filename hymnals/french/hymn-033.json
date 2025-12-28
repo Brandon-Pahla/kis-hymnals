@@ -1,0 +1,47 @@
+{
+  "number": 33,
+  "language": "fr",
+  "title": "L’enfant est né...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "L’enfant est né à Bethléhem,",
+        "Alléluia!",
+        "Réjouis-toi, Jérusalem,",
+        "Alléluia, Alléluia!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Au ciel les anges vont chantant,",
+        "Alléluia!",
+        "Pour annoncer le saint enfant,",
+        "Alléluia, Alléluia!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le Sauveur est né aujourd’hui,",
+        "Alléluia!",
+        "Et les bergers s’en vont à lui,",
+        "Alléluia, Alléluia!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dans l’humble étable ils sont entrés,",
+        "Alléluia!",
+        "Avec leur seule pauvreté,",
+        "Alléluia, Alléluia!"
+      ],
+      "number": 4
+    }
+  ]
+}

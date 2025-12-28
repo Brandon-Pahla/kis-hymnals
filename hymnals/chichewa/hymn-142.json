@@ -1,0 +1,38 @@
+{
+  "number": 142,
+  "language": "ny",
+  "title": "142 - Tsiku Lokoma Leroli",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOW SWEET!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tsiku lokoma leroli, Loposa enawo;",
+        "La kuganiza zinthu za Mulungu wathuyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Inde, kukoma kumvatu Za mau akewo,",
+        "Otembenuza mtimawo Kuloza mmwambamo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ngati sititha tchimolo, Kusiya tokha ’fe,",
+        "Ambuye wathu, Yesuyo, Adzalichotsatu."
+      ],
+      "number": 4
+    }
+  ]
+}

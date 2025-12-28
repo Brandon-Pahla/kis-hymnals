@@ -1,0 +1,35 @@
+{
+  "number": 94,
+  "language": "guz",
+  "title": "94 Motori' Atotebia Torende",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Motori' atotebia torende,tosabe riokaAru' Omoika bwe chinguru'Se baria banchire."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Totebia torende tosabe,Tob' abarwaniTokonye toigw' eriogi riao,Koigwer 'obogima."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Totebia torende tosabe,Naki bwango ng'acheGototimokia atoire,Enka ya botambe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Totebia torende, tosabe,'Mogambi ochireNa toigwere n'omogoko,Torende goik' ache."
+      ],
+      "number": 4
+    }
+  ]
+}

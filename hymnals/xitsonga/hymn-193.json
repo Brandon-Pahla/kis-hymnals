@@ -1,0 +1,23 @@
+{
+  "number": 193,
+  "language": "ts",
+  "title": "193. XANA U RHANDZA KU HANYELA YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HIS WAY WITH THEE",
+        "1. Xana U Rhandza Ku Hanyela Yesu Ntsena, U Famba Nayena Ndleleni Xana?",
+        "Xana Unga Rhuna Ndzwalo Waku Ka Yena, Teka Ku Rhandza Kakwe.",
+        "CHORUS",
+        "Matimba Yakwe Mangaku Ncica, Ngati Yakwe Yingaku Tiyisa, Rirhandzu Rakwe Ringaku Fambisa, Ku Ya La Ku Faneleke.",
+        "2. Xana Wan’wi Amukela Ku Ku Kutsula? U Rhandza Ku Sukela Hinkwaswo Ke?",
+        "U Rhandza Ku Pona, U Rhandza Ku Ku Pfuna,",
+        "Teka Ku Rhandza Kakwe.",
+        "3. Xana U Lava Ku Wisa Mfun’weni Wakwe, Xana U Lava Ku Kuma Ntiyiso,",
+        "U Lava Ku N’wi Tirhela Hiku Tshembheka, Teka Ku Rhandza Kakwe."
+      ],
+      "number": 1
+    }
+  ]
+}

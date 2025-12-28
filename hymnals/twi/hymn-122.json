@@ -1,0 +1,55 @@
+{
+  "number": 122,
+  "language": "tw",
+  "title": "Tie! Abɔfo To Nnwom Sɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tie abɔfo to nnwom sɛ",
+        "'Nuonyam nka Hen' fof'ro no;",
+        "Asomdwoe nka asase;",
+        "Nyame ne bɔn'yefō abom;",
+        "Aman, momfa ah'rusi",
+        "Ne s'ro nto anigye nnwom",
+        "Ne abɔfokuw nteam sɛ",
+        "'Wɔawo Kristo Betlehem'.",
+        "Tie! Abɔfo to dwom sɛ",
+        "'Nuonyam nka Hen' fof'ro no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kristo a s'ro ny'naa som No,",
+        "Kristo, daa Awurade;",
+        "Wɔawo Hen' mmoa 'didibea",
+        "B're a 'bɔfo to dwom sɛ;",
+        "'Somdwoe nka 'sase sofo,",
+        "Ma 'kra a wosųro nyɛ komm;",
+        "Kristo abɛtra fam ha,",
+        "Yesu, yɛn Immanuel.",
+        "Tie! Abɔfo to dwom sɛ",
+        "'Nuonyam nka Hen' fof'ro no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mommɔ 'se mma 'Somdwoe Hen'!",
+        "Mommɔ Trenee Wia no 'se!",
+        "ɔde nkwa ne hann aba,",
+        "'Yar'sa wɔ Ne ntaban mu.",
+        "Ogyaa N'anuonyam wɔ s'ro,",
+        "Bae, sɛnea nnipa renwu.",
+        "ɔrebenyan nnipa mma",
+        "Ama wɔn awofof'ro.",
+        "Tie! Abɔfo to dwom sɛ",
+        "'Nuonyam nka Hen' fof'ro no"
+      ],
+      "number": 3
+    }
+  ]
+}

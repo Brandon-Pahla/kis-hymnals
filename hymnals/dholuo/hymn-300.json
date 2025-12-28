@@ -1,0 +1,35 @@
+{
+  "number": 300,
+  "language": "luo",
+  "title": "300 Yesu, Analu Bang`i",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu analu bang`i,Asewinji kiluonga;Adwaro mond` itelna,Inyisa wang`yori."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Analu bang`i,analu bang`i,Analu bang`ika ma itelona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yesu, mak itelona,An abiro bayo yo;Ok ang`eyo wang`yori,In mondo itelna."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. An kenda nanyap chutho,To di po kaol e yo;An ageno tekoni,Adwaro itelna."
+      ],
+      "number": 4
+    }
+  ]
+}

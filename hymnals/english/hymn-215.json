@@ -1,0 +1,58 @@
+{
+  "number": 215,
+  "language": "en",
+  "title": "215 Wait, And Murmur Not.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "The home where changes never come,",
+        "Nor pain nor sorrow, toil nor care;",
+        "Yes! ‘tis a bright and blessed home;",
+        "Who would not fain be resting there?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, wait, (meekly wait)",
+        "meekly wait and murmur not,",
+        "O, wait, (meekly wait)",
+        "meekly wait and murmur not,",
+        "O, wait, (meekly wait) O, wait, (meekly wait)",
+        "O, wait, and murmur not. (O murmur not)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yet when bowed down beneath the load,",
+        "By heaven allowed, thine earthly lot,",
+        "Thou yearn’st to reach that blest abode,",
+        "Wait, meekly wait, and murmur not."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "If in thy path some thorns are found,",
+        "O, think who bore them on His brow;",
+        "If grief thy sorrowing heart has found,",
+        "It reached a holier than thou."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Toil on, nor deem, though sore it be,",
+        "One sigh unheard, one prayer forgot;",
+        "The day of rest will dawn for thee,",
+        "Wait, meekly wait, and murmur not."
+      ],
+      "number": 4
+    }
+  ]
+}

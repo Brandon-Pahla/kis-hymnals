@@ -1,0 +1,55 @@
+{
+  "number": 46,
+  "language": "tum",
+  "title": " 46 Mazgu Gha Umoyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 46 Mazgu Gha Umoyo",
+        "SING THEM OVER AGAIN"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mwimbenge mazgu ghaweme,",
+        "mazgu gha umoyo Ghanozgeso",
+        "mtima wane, mazgu gha umoyo,",
+        "Mazgu gha uchizi, ghakundisambizga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ngakunozga, nga uchizi,",
+        "mazgu gha umoyo. (kawiri)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Khristu wakutipa tose,",
+        "mazgu gha umoyo;",
+        "Wa muheni upulike, mazgu gha umoyo,",
+        "Chose nchawanangwa, tiwe wakusangwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Likuchema ivangeli,",
+        "mazgu gha umoyo,",
+        "Wati wakugowokere, mazgu gha umoyo,",
+        "Yesu mtaski mwene, watuwiske iwe."
+      ],
+      "number": 4
+    }
+  ]
+}

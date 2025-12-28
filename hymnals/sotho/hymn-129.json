@@ -1,0 +1,37 @@
+{
+  "number": 129,
+  "language": "st",
+  "title": "129 Jesu Hlohonolofatsa.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu U itse ha ho phutheliloe, Bobeli, boraro Uena U ba teng.",
+        "Re lumela lentsoe re khumamile, Jesu tlo U re hlohonolofatse."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesu tlo hlohonolofatse bohle, Jesu hlohonolofatsa U be haufi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu U no ’le teng le nakong tsohle, Empa re ea U rata ka ho sa eng kae,",
+        "Tlo hle U hlohonolofatse,Utloa U re amohele ha re rapela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu U lokise mantsoe a rona, U be teng le merapelong ea rona;",
+        "Ts’epo ea rona e lule ho Uena, E khanye e be ts’oeu tsela ea rona."
+      ],
+      "number": 3
+    }
+  ]
+}

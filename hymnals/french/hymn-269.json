@@ -1,0 +1,63 @@
+{
+  "number": 269,
+  "language": "fr",
+  "title": "Pour toi, j'ai donné ma vie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Pour toi, j'ai donné ma vie",
+        "Pour toi, j'ai versé mon sang;",
+        "Ton âme, à Satan ravie,",
+        "Échappe à son bras puissant.",
+        "L'amour qui se sacrifie,",
+        "L'as-tu saisi par la foi?",
+        "Pour toi, j'ai donné ma vie :",
+        "Pécheur, qu'as-tu fait pour moi ?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pour toi, j'ai quitté mon Père,",
+        "Mon trône dans les hauts cieux,",
+        "Le séjour de la lumière,",
+        "Les alléluias joyeux.",
+        "Pauvre, isolé sur la terre,",
+        "Moi, le grand et puissant Roi,",
+        "Pour toi, j'ai quitté mon Père :",
+        "Toi, qu'as-tu laissé pour moi ?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pour toi, j'ai pris la souffrance,",
+        "Pour toi, j'ai versé des pleurs;",
+        "J'ai, dans mon amour immense,",
+        "Bu ta coupe de douleurs.",
+        "Mon pardon, ma délivrance,",
+        "Mon salut tout est à toi !",
+        "Pour toi, j'ai pris la souffrance :",
+        "Toi, qu'as-tu souffert pour moi ?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Veux-tu me donner ta vie ?",
+        "Veux-tu me donner ton coeur ?",
+        "Renoncer à ta folie,",
+        "Et du mal être vainqueur ?",
+        "Ton âme heureuse et bénie",
+        "Vivra d'amour et de foi.",
+        "Veux-tu me donner ta vie ?",
+        "Pécheur, je suis mort pour toi !"
+      ],
+      "number": 4
+    }
+  ]
+}

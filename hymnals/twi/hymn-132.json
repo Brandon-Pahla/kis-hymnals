@@ -1,0 +1,43 @@
+{
+  "number": 132,
+  "language": "tw",
+  "title": "Omommra, 'Gyidifo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O mommra, 'gyidifo, mō a mo ho sɛpɛ mo;",
+        "O mommra, O mommra mommra Betlehem;",
+        "Mommra mmɛhwɛ No wɔawo abɔfo Hen'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O mommra ma yensom No,",
+        "O mommra ma yensom No,",
+        "O mommra ma yensom No,",
+        "Yesu Kristo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abɔfokuw, monto, monto dwom nkamfo No,",
+        "O mommra, mo a mote s'ro hɔ nyinaa:",
+        "'Anuonyam wɔ soro ma Onyankopɔn'"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yiw, 'Wura, akwaaba, wɔawo Wo 'nɔpa yi,",
+        "Wura Yesu, Wo na anuonyam wɔ Wo,",
+        "Agya no Asɛm aba honam mu nnɛ."
+      ],
+      "number": 3
+    }
+  ]
+}

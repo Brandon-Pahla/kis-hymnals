@@ -1,0 +1,44 @@
+{
+  "number": 544,
+  "language": "es",
+  "title": "Hoy el sábado glorioso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Hoy el sábado glorioso"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hoy el sábado glorioso",
+        "nos invita a descansar.",
+        "¡Qué tranquilo es el reposo,",
+        "tras el arduo trabajar!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dios, que el día nos señala",
+        "con mil pruebas de su amor,",
+        "\"santo sábado\" lo llama:",
+        "es el día del Señor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Para el hombre fue apartado",
+        "en la misma creación;",
+        "fue por Cristo sancionado",
+        "con su ejemplo y bendición."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": 162,
+  "language": "guz",
+  "title": "162 Ngocha Nd' Omosalaba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ngocha nd' Omosalaba,Inch' Omwor' omouko;Natigire bi'ens'eye,Ntunyan' Omosalaba."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nagwanchir' aye Yeso,Eng'ondi ya Kalwari;Nakunamir' as'oreOnkonye Omotoria."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nakorereira mono,Nabuirwe n'ebibe;Yes' otebire bori,\"Nindabitinyie bionsi\"."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Bionsi narur' as'ore,Ribaga ne chinguru;'Nkoro yane narure,Bibe biao botambe:"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Yeso nache naende!Naisanek' as'are,Ker' oyor' omochenu,Motogie Omotoria."
+      ],
+      "number": 5
+    }
+  ]
+}

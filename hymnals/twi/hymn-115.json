@@ -1,0 +1,44 @@
+{
+  "number": 115,
+  "language": "tw",
+  "title": "O Bra, O Bra Immanuel",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O bra, O bra Immanuel,",
+        "Na bɛpɔn Israel nneduafo",
+        "A wɔresu nnommumfam' ha,",
+        "Kosi sɛ Nyame Ba bepue."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Di dɛ, di dɛ, Immanuel",
+        "Bɛba wo nkyɛn, O Israel!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O bra, Wo ɔsoro nyansa,",
+        "Bɛtoto nneɛma nyinaa yie;",
+        "Bɛkerɛ yɛn nimdeɛ kwan no,",
+        "Na ma yɛmfa dɛw nnante so."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O bra, aman anidaso,",
+        "Na bɛka nnipa nyinaa bom;",
+        "Ma nitan ne ɔko to ntwa.",
+        "Fa s'ro 'somdwoe hyɛ wiase ma."
+      ],
+      "number": 3
+    }
+  ]
+}

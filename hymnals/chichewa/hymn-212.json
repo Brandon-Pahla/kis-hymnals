@@ -1,0 +1,30 @@
+{
+  "number": 212,
+  "language": "ny",
+  "title": "212 - Ndiyimba Mu Mtima Mokondwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE COMES TO MY HEART"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Ndiyimba mu Mtima mokondwa! Ndi nyimbo yokoma, yoyera;",
+        "Ndiyimba za Yesu Mbuyanga, Anditonthozane phe!",
+        "CHORUS:",
+        "Cete! Cete! M’mtima mtenderemu phe;",
+        "Udzera kwa Yesu wokonda, Mtendere mu mtimamu.",
+        "2. Pa mtanda Mbuyanga nafera, Adandicotsera zocimwa;",
+        "Anandigulira mtendere, Anditonthozane phe!",
+        "3. Pomsankha Yesuyo Mbuyanga, Mtendere walowa mu Mtima;",
+        "Ndapeza dalitso loposa, Anditonthozane phe!",
+        "4. Pokonda Yesuyo, mtendere, Ku nthawi zosatha mtendere;",
+        "Potsata Mbuyanga apatsa, Mtendere mu mtimamu."
+      ]
+    }
+  ]
+}

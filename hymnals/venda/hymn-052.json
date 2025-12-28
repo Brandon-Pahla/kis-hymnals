@@ -1,0 +1,45 @@
+{
+  "number": 52,
+  "language": "ve",
+  "title": "52 Ida Iwe Tshisima",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:334",
+        "AH:197"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. ’da tshisima tsha vhutshilo, ndi a U renda Iwe,",
+        "Ndi lutsinga lwa tshilidzi, lwo fanelaho thendo,",
+        "Mmpfunze u U hulisa-vho, hu vhoneswe Mudzimu,",
+        "Mbilu yanga kha i dale, lufuno na dakalo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. nne ndi fulufhela Iwe, U tombo li tshidzaho,",
+        "Ndi fulufhela u tshidzwa, u swikela U tshi da,",
+        "Ndi Yesu we a ndzhenisa, ngomu sambini lawe,",
+        "Dzikhomboni nda di tshidzwa, nga malofha a Yesu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi na mulandu muhulu, wa tshilidzi tsha Yesu,",
+        "Mphe-vho u luga hau, ndi vhuyele ha Iwe,",
+        "Ndi na zwivhi zwinzhi Yesu, ndi di lata kha Iwe,",
+        "U i dzhie mbilu yanga, i lavhelese Iwe."
+      ],
+      "number": 4
+    }
+  ]
+}

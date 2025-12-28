@@ -1,0 +1,35 @@
+{
+  "number": 140,
+  "language": "luo",
+  "title": "140 Adwaro Manyo Rombe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Adwaro manyo rombe mobayo,Mondo gibi ir Yesu Jakwath;Anyisgi weche kaka owacho,\"Biuru ira, aherou.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abiro dhiyo(koro) mondo amanygi,Rombe molalma nobayo (chutho),Mondo gidonje kund (Yesu) Jawarwa;Yesu Nyaromboma notho ni wan (mothonwa)."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Adwaro manyo rombe mobayo,Mondo anyisgi Yesu Jawar;Mondo akelgi, duto giyudiNgima mochwere mosingonwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mano e tich ma adwaro timo,tinde awinjo koluongae;Mondo ating` rombe mosepodho,akelgi ir Jakwadha Maber."
+      ],
+      "number": 4
+    }
+  ]
+}

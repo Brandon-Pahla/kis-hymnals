@@ -1,0 +1,54 @@
+{
+  "number": 15,
+  "language": "ve",
+  "title": "15 Yesu U A Mpfuna",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:190",
+        "AH:455"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1, Yesu U a mpfuna, na Bivhili i ralo;",
+        "Vhana ndi vha Murena, Maanda avho ndi Ene."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu ya pfuna, U a pfuna nne;",
+        "Yesu ya pfuna, I ralo Bivhili."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2, Yesu U a mpfuna, ndi Ene O ’pfelaho;",
+        "Muvula litadulu, ntanzwe zwivhini zwanga."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yesu U a mpfuna, naho ndi mulwadze-vho;",
+        "Musi ndi matunguni, U ilafha nne-vho."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Yesu U a mpfuna, arali nda mu funa;",
+        "U da hawe hu tsini, A da a dzhia nne."
+      ],
+      "number": 5
+    }
+  ]
+}

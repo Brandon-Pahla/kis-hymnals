@@ -1,0 +1,24 @@
+{
+  "number": 227,
+  "language": "ts",
+  "title": "227. NGATI YAKWE YI HALAKILE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "AT THE CROSS",
+        "1. Ngati Yakwe Yi Halakile, U Ndzi Ferile,",
+        "Ku Hava Xilo Xo X’endla, Mina Wa Vudyoho.",
+        "CHORUS",
+        "Xihambanweni, Ndzi Kume Rivoningo,",
+        "Ndzwalo Wa Mina Wa Nyamalala, Ndzi Pfumela,",
+        "Ndzi Pfuriwa Mahlo, Ndzi Tsakile Hi Masiku.",
+        "2. U Konye Xihambanweni, Hi Manyala Yanga,",
+        "Nsovo, Malwandla, Rirhandzu, Swi Ndzi Fumbarhile.",
+        "3. Rirhandzu Ri Nge Hakeriwi, Hi Gome Ranga,",
+        "Ku Hava Xilo Xo X’endla, I Ku Tinyiketa"
+      ],
+      "number": 1
+    }
+  ]
+}

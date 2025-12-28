@@ -1,0 +1,37 @@
+{
+  "number": 140,
+  "language": "st",
+  "title": "140 Lentsoe La Jesu.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "K’utloa ntsoe la Jesu le re \\\"Tlo phomole ho ’na;",
+        "Robala ha u khathetse Moo sefubeng sa ka.\\\"",
+        "Ke tla le ho ’Moloki, Ke khathetse haholo,",
+        "Ka fumana phomolo teng, Eena A nthabisa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke utloile Jesu A re, \\\"Ke u nea feela",
+        "Uena ea nyoretsoeng mesi: ’Me o phele,\\\"",
+        "Ka tla ho Jesu Ka noa metsi a phelisang;",
+        "Ka nyorolloa, ka nchafala, Joale ke phelile."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke utloile Jesu A re, ke seli la fats’e;",
+        "Sheba ho ’na O chabeloe, Tsatsi la phatsimo.",
+        "Ka talima Jesu, Eena le letsatsi la ka;",
+        "Ke tla tsamaea seling lee ke qete leeto."
+      ],
+      "number": 3
+    }
+  ]
+}

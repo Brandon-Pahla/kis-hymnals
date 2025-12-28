@@ -1,0 +1,70 @@
+{
+  "number": 204,
+  "language": "st",
+  "title": "204 Khutla Moleleri",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lefats’eng le-sele, moo U ileng teng,",
+        "Utloa lentsoe le re: \\\"Mora oa ka.\\\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Khutla moleleri, khutlela hae,",
+        "U ntse U ea tahlehong, \\\"Tlo hae, tlo hae.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lefats’eng la tlala moo U akhehang,",
+        "Tlo koano nyakallong, \\\"Mora oa ka.\\\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tlohela mahlanya le bofutsana",
+        "Le ho kula pelong \\\"Mora oa ka.\\\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bona ho ntso butsoe, U sa le oa ka,",
+        "Ke ntse ke u rata \\\"Mora oa ka.\\\""
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U so’ hlahlathile na u ntse u ea?",
+        "Tlo U tla tsoareloa \\\"Mora oa ka.\\\""
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lijo li lokile ha ua lebaloa,",
+        "Tulo E ntse e le teng, ’Mora’ka.\\\""
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha U na motsoalle, le eona ts’epo,",
+        "Ke ’na ea lerato \\\"Mora oa ka.\\\""
+      ],
+      "number": 7
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 90,
+  "language": "xh",
+  "title": "90 Waphela Umsebenzi Wentsuku Ezintandathu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kuphelil’ ukusebenza, Sesiqala i-Sabatha;",
+        "Yiza Moy’ uzokuvuya Ngolusuku walukhetha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yiza sibonge i-Nkosi Ngokuphumla okumnandi;",
+        "Intsikelelo mawethu Zabekwa nguy’ u-Mkhululi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zingathi ezingcamango Zethu zibonge u-Thixo;",
+        "Ukuze yen’ okholwayo Amkelisw’ okwabhalwayo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ukuvuy’ entliziyweni Kulithemba emhlabeni,",
+        "Elanikwa ebandleni, Lavela kuY’ ezulwini."
+      ],
+      "number": 4
+    }
+  ]
+}

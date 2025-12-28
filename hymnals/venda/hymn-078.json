@@ -1,0 +1,48 @@
+{
+  "number": 78,
+  "language": "ve",
+  "title": "78 todani Vho Xelaho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:373",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. todani avho vho xelaho, Ni vha thuse-ha nga tshilidzi;",
+        "Vha fheni-ha maipfi a Murena, Ane ari: Idani nothe.’"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Iyani-ha kule henengei thavhani,",
+        "Ni de navho vhothe vha sa mu divhi,",
+        "Ngomu sambini la Yesu Mufeli,",
+        "O ombelwa nga vhaitazwivhi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. todani avho vho no xelaho, Vhaswogeni-ha vhade khae;",
+        "Vha kokodzeni nga yone ndila, i no ya hone vhutshiloni."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi a tuwa-vho Yesu o mbidza, U ntevhele nga misi yothe.’",
+        "toda vho faho na vho no waho, u ri vha do divhadzwa Yesu."
+      ],
+      "number": 4
+    }
+  ]
+}

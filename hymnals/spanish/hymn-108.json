@@ -1,0 +1,70 @@
+{
+  "number": 108,
+  "language": "es",
+  "title": "Amigo fiel es Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Amigo fiel es Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amigo fiel es Cristo,",
+        "alivio él me da;",
+        "me ama con un tierno amor",
+        "que siempre durará.",
+        "Sin él vivir no puedo ya;",
+        "cercano siempre está.",
+        "Así moramos ¡untos",
+        "Jesús y yo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mis faltas no ignora.",
+        "Mis males puede ver.",
+        "Anhela que me apoye en él:",
+        "me puede sostener.",
+        "El guía mi alma a la luz,",
+        "me indica mi deber.",
+        "Así andamos juntos",
+        "Jesús y yo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Confíole mis penas,",
+        "le digo mi gozar.",
+        "Con él no siento ya temor,",
+        "y alegre puedo andar.",
+        "Me dice lo que debo hacer,",
+        "me impulsa a progresar.",
+        "Así hablamos ¡untos",
+        "Jesús y yo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Él sabe cuánto anhelo",
+        "salvar a un pecador;",
+        "me ruega ir a pregonar",
+        "cuán grande es su amor,",
+        "que anuncie eterna redención",
+        "con fe y con fervor.",
+        "Así obramos juntos",
+        "Jesús y yo."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 680,
+  "language": "tw",
+  "title": "Honhom Kronkron, Tie Yɛn",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Honhom Kronkron, tie yɛn,",
+        "Boa yɛn nnwonto yim';",
+        "Hom' gu 'yeyi dwom a",
+        "Yɛde ba no mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Honhom Kronkron, nyan yɛn",
+        "Wɔ yɛn mpaebɔ mu;",
+        "Bɛn yɛn na ky'rɛ yɛn nea",
+        "Ͻsɛ sɛ yɛyɛ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Honhom Kronkron, hyerɛn",
+        "Yɛn nwoma yi so",
+        "Fa nann pa a yehia",
+        "Hyerɛn 'mu nsɛm so."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "number": 9,
+  "language": "xh",
+  "title": "9 U-Yesu Uyeza Kwakhona",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Likhaliseni ixilongo bo! ’Yes’ uyaphind’ ukuza;",
+        "Qinisa mhambi, memelelani, ’Yes’ uyaphind’ ukuza."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "’Yeza njalo! ’Yeza njalo! U-Yes’ uyeza njalo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hlokomisani ezintabeni, ’Yes’ uyaphind’ ukuza;",
+        "I-Mvana seyikufuphi namhla, ’Yes’ uyaphind’ ukuza."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khwazan’ zilwandle, Phezu kwamaza, ’Yes’ uyaphind’ ukuza;",
+        "Elunxwemeni, mabeve bonke, ’Yes’ uyaphind’ ukuza."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iziboniso zisixelela, ’Yes’ uyaphind’ ukuza;",
+        "Umoya uyaduma kakhulu, ’Yes’ uyaphind’ ukuza."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Izizwe ziyabonisa mpela, ’Yes’ uyaphind’ ukuza;",
+        "Abantu bonke mabaqondise, ’Yes’ uyaphind’ ukuza."
+      ],
+      "number": 5
+    }
+  ]
+}

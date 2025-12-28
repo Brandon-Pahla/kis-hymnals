@@ -1,0 +1,31 @@
+{
+  "number": 45,
+  "language": "bem",
+  "title": "45 - MPENI CIPINGO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "GIVE ME THE BIBLE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mpeni Cipingo, ntanda ya lubuto, Eca kukosesha ulebifya;",
+        "Takuli ibimbi lingacifisa, Pantu Yesu aishile tula.",
+        "CHORUS:",
+        "Mpeni Cipingo, lubuto lwa mweo, Lubuto lwenu kuti lwa mbaka;",
+        "Kutemwa na malayo fikaba pe, Bu kasuke bushiku bu kapwe.",
+        "2. Mpeni Cipingo lyo ndi no bulanda. Lintu mpulumushi shafulila,",
+        "Mpeni mashiwi yasoswa na Yesu, Kuti nkabe no kucetekela",
+        "3. Mpeni Cipingo cibutisha nshila, Nkamone fibi fya muno calo;",
+        "Cikabutisha if yo fya fitisha, E cingapela fye umutende.",
+        "4. Mpeni Cipingo lubuto lwa mweo, Ulwa kunkosesha mumfwa yandi;",
+        "Nangu ulubuto ulwa ku mulu, Nangu ululumbi lwakwa Lesa,"
+      ],
+      "number": 2
+    }
+  ]
+}

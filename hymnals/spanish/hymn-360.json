@@ -1,0 +1,55 @@
+{
+  "number": 360,
+  "language": "es",
+  "title": "En Jesucristo, mártir de paz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### En Jesucristo, mártir de paz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En Jesucristo, mártir de paz,",
+        "en horas negras y de tempestad,",
+        "hallan las almas dulce solaz,",
+        "grato consuelo, felicidad."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Gloria cantemos al Redentor,",
+        "que por nosotros quiso morir;",
+        "y que la gracia del Salvador",
+        "siempre dirija nuestro vivir."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En nuestras luchas, en el dolor,",
+        "en tristes horas de gran tentación,",
+        "calma le infunde, santo vigor,",
+        "nuevos alientos al corazón."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando en la lucha falte la fe",
+        "y esté el alma por desfallecer,",
+        "Cristo nos dice: \"Siempre os daré",
+        "gracia divina, santo poder\"."
+      ],
+      "number": 5
+    }
+  ]
+}

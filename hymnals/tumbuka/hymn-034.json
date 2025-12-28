@@ -1,0 +1,66 @@
+{
+  "number": 34,
+  "language": "tum",
+  "title": " 34 Mtende Nga Ndi Mronga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 34 Mtende Nga Ndi Mronga",
+        "WHEN PEACE LIKE A RIVER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mtende nga ndi mronga wandizingizga,",
+        "Nanga vitima viwuke;",
+        "Kweni nkhukhumba kuti ndisorepo;",
+        "Mutende, mutende wa m'mtima."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mutende mu mtima,",
+        "mutende wuzure mu mtima."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nanga Satana wangandipamantha;",
+        "Tindifwiririrengepo;",
+        "Pa Yesu uyo wakafwira ine,",
+        "Wakandiwombola ku nyifwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nkhum'wongani Yesu mwandisutula,",
+        "Uheni wane wamala,",
+        "Ukamalira para pa mphinjika;",
+        "Mrumbe Yesu wa mtima wane."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Kwa imwe a Yesu, tikulindizga;",
+        "Thegha ntha lingatiruska;",
+        "Mbata ya mungelo yiwawatenge!",
+        "Fumu yikhirenge mudera."
+      ],
+      "number": 5
+    }
+  ]
+}

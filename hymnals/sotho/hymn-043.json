@@ -1,0 +1,47 @@
+{
+  "number": 43,
+  "language": "st",
+  "title": "43 Ho Robala Ho Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Robala ts’epong ho Jesu,",
+        "Moo ho seng motho ea ka llang;",
+        "Khatholohong e monate,",
+        "Sera se ke ke sa u ts’osa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Robala ho Jesu Hantle,",
+        "Uena mootseli joale!",
+        "Ea ts’epileng ho phomola,",
+        "Lehlohonolong kamehla."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Robala Khotsong Ea Hae!",
+        "Tsoho ea Hae e leng ts’epo;",
+        "Ha ho ts’abo, malimabe,",
+        "Hona matleng a ’Moloki."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Robala ’me u tla tsoha,",
+        "Ha lekolilo le tla lla;",
+        "U robe tlamo lebitleng,",
+        "U tsohe u le ea sa shoeng."
+      ],
+      "number": 4
+    }
+  ]
+}

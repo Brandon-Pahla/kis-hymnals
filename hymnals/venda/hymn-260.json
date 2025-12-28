@@ -1,0 +1,52 @@
+{
+  "number": 260,
+  "language": "ve",
+  "title": "260. Ndi do Fhira Govhani la Kanana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi do fhira govhani li no pfi ndi likhethwa;",
+        "Kha nne ndi lone govha lila la Kanana.",
+        "Hune nda pfa mafhungo a takadzaho mbilu;",
+        "Mutshidzi U tsini na nne lwendoni lwothe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Iwe govha la Kanana U thikho ya nne.",
+        "Ngauri ndi vhona shango ili ndi tshe kule."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. A huna gole disaho swiswi ndilani;",
+        "Ngauri tshedza tsha Murena tsho i tshenisa.",
+        "Hu kha di imbelelwa lu divhaho tadulu;",
+        "Hu pfala luimbo lu ntakadzaho nandi!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi tshimbila ndo takalela tshedza tshavhudi;",
+        "maduvha othe ndi do di dzula ndo takala.",
+        "Ndi sendela-vho dzikhoroni dza muvhuso;",
+        "Nga ndila i yaho muvhusoni wa tadulu."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 706,
+  "language": "tw",
+  "title": "N11 “I'm Not Ashamed”",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "M'Aw'rade ho nyε m' aniwu,",
+        "Sε migyina ma No;",
+        "Mesɔ N'asεm mu ‘nidi mu",
+        "N'sεnnua ho ‘nuonyam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dua no ho! Dua no ho!",
+        "Hɔ na me hu hann no",
+        "Na me koma m' adesoa no tew hwee,",
+        "Hɔ na menam gyidi so huu ade,",
+        "Na~εnnε m'ani gye daa nyinaa!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Wura Yesu, me nim ne din –",
+        "Ne din nko na metwer',",
+        "Ɔremma me kra ani nwu,",
+        "Na m'ani da so~ampa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne bɔhyε tim hɔ sε N'agua;",
+        "N'Obetumi ahwε,",
+        "Nea mede mahyε Ne nsa m' no,",
+        "Akosi da no mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ɔbεbɔ me din tantan no",
+        "Wɔ N'Agya anim hε;",
+        "Na Yerusalem fof'ro no m',",
+        "Me kra benya trabea."
+      ],
+      "number": 4
+    }
+  ]
+}

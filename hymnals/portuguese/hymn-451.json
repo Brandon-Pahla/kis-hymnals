@@ -1,0 +1,60 @@
+{
+  "number": 451,
+  "language": "pt",
+  "title": "Recordação da Infância",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Recordação da Infância"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "É doce agora relembrar",
+        "Os dias infantis,",
+        "Em que a voz de minha mãe",
+        "Ouvia mui feliz:"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "\"Filhinho, dorme, dorme em paz;",
+        "Deus cuidará de nós.",
+        "Não chores mais e dorme bem;",
+        "Deus velará por nós.\"",
+        "Sua fé me fez confiar em Deus,",
+        "Que não nos deixa a sós.",
+        "Apraz-me sempre repetir:",
+        "\"Deus cuidará de nós.\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tomando-me nos braços seus,",
+        "Bem junto ao coração,",
+        "Cantava para me aninar,",
+        "A maternal canção:"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E quando estou em aflição,",
+        "Em desalento e dor,",
+        "Pareço ainda ouvir-lhe a voz",
+        "Dizer-me com amor:"
+      ],
+      "number": 5
+    }
+  ]
+}

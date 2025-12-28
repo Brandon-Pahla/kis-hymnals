@@ -1,0 +1,46 @@
+{
+  "number": 135,
+  "language": "tn",
+  "title": "135 Ke Ya Go Rata Morena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Ya Go Rata Morena, Go Gaisa Tsa ’Fatshe;",
+        "Gonne O mphile kagiso E e sa senyegeng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ga go ya bolelwa gotlhe, Ka rato lo ntletseng;",
+        "Ga go ya bolelwa gotlhe, Madi a a ntlhatswang."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Gaufi Go Gaisa Botlhe Ba Lefatshe;",
+        "Monate kgopolong ya ’Go Go gaisa kopelo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Mphile Boitumelo Mme Ke Tla Ipela;",
+        "Kwa ntle ga rato lwa Gago Ke nna mo maswabing."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mmoloki Yo Montle Wa Me; Go Tla Nna Jang K’o Teng?",
+        "Fa re ka rweswa boipelo Go Wena fatshing je."
+      ],
+      "number": 4
+    }
+  ]
+}

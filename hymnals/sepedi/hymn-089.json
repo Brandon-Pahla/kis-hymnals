@@ -1,0 +1,58 @@
+{
+  "number": 89,
+  "language": "nso",
+  "title": " 89 BOTSE NAKO YA THAPELO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 89 BOTSE NAKO YA THAPELO",
+        "AH 267 CH 316",
+        "SWEET HOUR OF PRAYER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Botse nako ya thapelo,",
+        "E mpitšago mo lefaseng.",
+        "E bolela tihoko tša ka,",
+        "Go tate moo a mpiletšang,",
+        "Mohlang ke leng mahlomoleng,",
+        "ke bona phologo ya ka,",
+        "Ke phonyoga mo melekong,",
+        "a nako ya go rapela;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Botse nako ya thapelo,",
+        "Ke tliša kgopelo tša ka,",
+        "Go yena eo a tshepegang,",
+        "Go šegofatša mofeti,",
+        "O ntaela go mo nyaka,",
+        "Ke dumele kgaugelo,",
+        "Tšohle tša ka di go yena,",
+        "Ke lete nako 'a thapelo!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Botse nako ya thapelo,",
+        "Ke humana go kgothatšwa,",
+        "Ke sepele ka lethabo,",
+        "Ke bone legae ke ye ntshe,",
+        "Ke tho tsoga bosafeleng,",
+        "Ke phele ka bosatelego,",
+        "Ke goelele ke goelele,",
+        "Šala botse gorapela;"
+      ],
+      "number": 4
+    }
+  ]
+}

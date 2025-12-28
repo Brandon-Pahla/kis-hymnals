@@ -1,0 +1,42 @@
+{
+  "number": 290,
+  "language": "xh",
+  "title": "290 Sisebenzela U-Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Vuya sisebenzela uThixo; Sivuma ukumsebenzela;",
+        "Konke akutshoyo yena kuthi, Sokwenza ngokupheleleyo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tenor &amp; Bass:",
+        "Yesu, Ngawe, Yesu Ngawe, Sakusebenza, ewe ngokuchwayitha.",
+        "Usincede, usincede emsebenzini waKho.",
+        "Soprano &amp; Alto",
+        "Yesu Ngawe ke sakusebenza ngokuchwayita.",
+        "Usincede ke emsebenzini waKho."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngokuvuya siyashumayela Ngothando lwaKhe ezizweni;",
+        "’Yesu ubukhosi bukaYise, Uthulula iintsikelelo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sithe cwaka silandel’ iNkosi, Siyahamba sizimisele;",
+        "Sibaqondisa abaphambuka Kuyo iMvana eyafayo."
+      ],
+      "number": 3
+    }
+  ]
+}

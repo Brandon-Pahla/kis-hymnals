@@ -1,0 +1,35 @@
+{
+  "number": 299,
+  "language": "luo",
+  "title": "299 Nende Aluoko Lueta",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nende aluoko lueta,Mondo gibed maler;Kendo giti niYesu saa duto tinende."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Onego aritraKwonde madhiye,Mond` ati ni Yesutich maber kende."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ita ni mond` owinjeE kinde duto te;Abed gi chuny mar timotich ma nyathi nyalo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Wang`a mond` orit luetakuom duto matimo;Ni kik atim wach moroma Yesu ok morgo."
+      ],
+      "number": 4
+    }
+  ]
+}

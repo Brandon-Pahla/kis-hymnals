@@ -1,0 +1,56 @@
+{
+  "number": 733,
+  "language": "tw",
+  "title": "N38 Sinners Jesus Will Receive",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kristo bεgye bɔn'yɔfo!",
+        "Ka ɔdom nsεm yi kyerε",
+        "Wɔn a wɔafom s'ro kwan so,",
+        "Nenam kwa, hwehwe ase."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "To dwom no, kɔ so to bio;",
+        "Kristo gye nnebɔn'yεfo;",
+        "Ma nsεm nom' nna hε pefee:",
+        "Kristo gye nnebɔn'yεfo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bra na ɔbεmaw' home;",
+        "Twere No, N'asεm tene;",
+        "Obeyi bɔn' hɔ koraa;",
+        "Kristo gye nnebεn'yεfo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me koma mmu me fɔ bio,",
+        "Me ho atew mm'ra no ho;",
+        "Nea ɔhoh'ro me bɔnen'",
+        "Yεε mm'ra no apεde ny'naa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kristo gye nnebɔn'yεfo,",
+        "Me sεε yi nso ɔgye me,",
+        "Tew me ho nkekae nyinaa,",
+        "De me ka Ne ho kɔ s'ro."
+      ],
+      "number": 4
+    }
+  ]
+}

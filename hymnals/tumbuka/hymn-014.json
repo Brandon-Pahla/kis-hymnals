@@ -1,0 +1,60 @@
+{
+  "number": 14,
+  "language": "tum",
+  "title": " 14 Pulika Ndarama",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 14 Pulika Ndarama",
+        "HEAR THE PENNIES DROPPING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Pulika ndarama tikuziponya!",
+        "Tikuzipereka zose kwa Yesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ngwingwi! Ngwingwi!",
+        "Ngwingwi! Ngwingwi!",
+        "Tikuziponya! Tikuzipereka",
+        "Zose kwa Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Tose tipereke ndarama zithu;",
+        "Kuti wanji wapulike za Yesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Pa kuzipereka tikusungizga,",
+        "Chiuta withu wawezgerengepo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Chomene Yesu wakukhumba ise;",
+        "Kuti tipereke mitima yithu."
+      ],
+      "number": 5
+    }
+  ]
+}

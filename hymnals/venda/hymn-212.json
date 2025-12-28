@@ -1,0 +1,59 @@
+{
+  "number": 212,
+  "language": "ve",
+  "title": "212. Mulalo U Takadzaho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:253"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Zwi no do takadza mbilu,",
+        "(mbilu) Zwa dakalo misi yothe, (yothe)",
+        "Ndi dovha hafhu nda imba; mulalo wavhudi-vho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mulalo u difhaho wa tadulu, (tadulu)",
+        "Mulalo u mangadzaho,",
+        "U bvaho kha Mudzimu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mulalo kha tshifhambano,",
+        "Wo lifha na lufu wanga, (lwanga)",
+        "A huna munwe murango, Ndi lufuno lwawe-vho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndo nanga Yesu Murena;",
+        "(nanga) Mbilu yo dala tshilidzi, (dala)",
+        "Kha Ene ndi wana shudu, Tshifhiwa tsha Mudzimu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndi di-sendeka kha Yesu,",
+        "(tsini) Ndi dzula ndi tsini hawe, (tsini)",
+        "Ndo vhoxwa-vho nga mulalo, Tshifhiwa tsha Mudzimu."
+      ],
+      "number": 5
+    }
+  ]
+}

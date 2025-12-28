@@ -1,0 +1,43 @@
+{
+  "number": 95,
+  "language": "fr",
+  "title": "Jour de grâce",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jour de grâce, jour heureux,",
+        "Oh! quand donc vas-tu paraître!",
+        "Jour où Christ, le Fils de Dieu,",
+        "Seul sera le roi, le maître,",
+        "Le berger d’un seul troupeau",
+        "Rassemblé dans son repos!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oui, la terre entière attend,",
+        "Toute créature espère.",
+        "Il viendra, cet heureux temps,",
+        "Le royaume et sa lumière.",
+        "Mais il est dès maintenant",
+        "Au milieu de ses enfants."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Jésus, que ton amour",
+        "Fasse en nous briller sa flamme!",
+        "C’est le feu du nouveau jour",
+        "Qui doit éclairer notre âme!",
+        "Que le Saint-Esprit de Dieu",
+        "Renouvelle terre et cieux."
+      ],
+      "number": 3
+    }
+  ]
+}

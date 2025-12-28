@@ -1,0 +1,44 @@
+{
+  "number": 45,
+  "language": "es",
+  "title": "Después, Señor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Después, Señor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Después, Señor, de haber tenido aquí",
+        "de tu Palabra la bendita luz,",
+        "a nuestro hogar condúcenos y allí",
+        "de todos cuida, buen Pastor, Jesús."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En nuestras almas grabe con poder",
+        "tu fiel Palabra cada exhortación;",
+        "y que tu ley, pudiendo comprender,",
+        "contigo estemos en mayor unión."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Al terminar, Señor, mi vida aquí,",
+        "mis ojos pueda sin temor cerrar,",
+        "y en mi glorioso despertar que en ti",
+        "de paz eterna pueda disfrutar."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 205,
+  "language": "tw",
+  "title": "Anɔpa Fɛfɛ No Reba Ntɛm So",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Anɔpa fɛfɛ no reba ntɛm so,",
+        "Yesu reba ntɛm,",
+        "Abɛfa Ne mma agyidifo no",
+        "Akɔ bɔhyɛ fie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O yehu anɔpa fɛfɛ no hann sɛ",
+        "Ͻrepue 'nadwo sum mu;",
+        "O yehu anɔpa fɛfɛ no hann a",
+        "Ͻbɛhy'rɛn damoam'."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔbɛbɔ asɛmpa no ho daw'ru",
+        "Aman nyinaa mu;",
+        "Ayef'rokunu no rentwentwɛn bio:",
+        "T'robɛnto bebom."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hann abɔfo nyinaa bɛka Ne ho",
+        "Apue wɔ wim hɔ;",
+        "Temmufon' bɛba abefa Ne mma",
+        "Akɔ daa nkwa mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Adɔfo awɔn ntam atete no",
+        "Behyia bio da no;",
+        "Na wɔn a wɔn koma abubu no",
+        "Nusu ny'naa bɛsa."
+      ],
+      "number": 4
+    }
+  ]
+}

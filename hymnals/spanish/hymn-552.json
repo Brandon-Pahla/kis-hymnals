@@ -1,0 +1,62 @@
+{
+  "number": 552,
+  "language": "es",
+  "title": "¡Oh!, cuánto necesita",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Oh!, cuánto necesita"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh!, cuánto necesita obreros el Señor,",
+        "que vayan presurosos al campo de",
+        "labor.",
+        "Alegre yo le digo, con todo mi valor:",
+        "Conmigo cuenta tú, Señor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Voy, Señor; voy, Señor,",
+        "a trabajar alegre y con fervor.",
+        "Sí, voy, Señor, voy, Señor;",
+        "conmigo cuenta tú, Señor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ahora, en la batalla, ven, cíñeme,",
+        "Señor;",
+        "tu célica armadura dé aliento, fe y",
+        "valor.",
+        "Para vencer las huestes del fiero",
+        "tentador,",
+        "conmigo cuenta tú, Señor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La carga que soporta la pobre",
+        "humanidad,",
+        "con todos mis esfuerzos yo debo",
+        "aliviar;",
+        "para salvar las almas, doquier me",
+        "toque estar,",
+        "conmigo cuenta tú, Señor."
+      ],
+      "number": 5
+    }
+  ]
+}

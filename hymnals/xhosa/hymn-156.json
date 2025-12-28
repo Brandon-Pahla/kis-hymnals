@@ -1,0 +1,40 @@
+{
+  "number": 156,
+  "language": "xh",
+  "title": "156 Amazwi Omsindo Akafuneki",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Awufuneki umsindo, Ngokufuman’ uthethe;",
+        "Intliziyo mayihluze Ngaphambi kokuthetha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "\"Manithandane,\" Utsh’ um-Sindisi,",
+        "Bantwana, thobelani u-Yihlo;",
+        "\"Manithandane\" Utsh’ um-Sindisi,",
+        "Bantwana, Mveni Yena."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uthando lunobunyulu, Bungcwele ubuhlobo,",
+        "Ukuze bonakaliswe Lilizwi lobudenge."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Umsind’ ufane wenziwe, Nengcinga engendawo--",
+        "Ubuhlobo buyaphulwa Nangezwi l’nye lomsindo."
+      ],
+      "number": 3
+    }
+  ]
+}

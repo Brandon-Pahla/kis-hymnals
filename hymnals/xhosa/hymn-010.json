@@ -1,0 +1,46 @@
+{
+  "number": 10,
+  "language": "xh",
+  "title": "10 Sohlangana Emlanjeni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sohlangana emlanjeni, Apho kukhanya kuhle;",
+        "Amanzi emahle lawo, avela ku-Yehova."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sohlangana emlanjeni, Komhle wona, komhle wona umlambo;",
+        "Sakuhlangana nabangcwele, Ngasetronen’ ka-Thixo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Elunxwemeni lomlambo, sohamba sibulisa;",
+        "Sidumis’ uThixo wethu, Imihla yonke khona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Emlanjeni wokukhanya, sowulahla umthwalo;",
+        "Ngesisa saku khululwa, samkele izitsaba."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Emlanjeni okhanyayo, usizi alukho tu",
+        "Intliziyo zakuvuya, Ngobuhle obukhulu."
+      ],
+      "number": 4
+    }
+  ]
+}

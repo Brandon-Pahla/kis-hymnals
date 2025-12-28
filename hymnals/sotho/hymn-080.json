@@ -1,0 +1,55 @@
+{
+  "number": 80,
+  "language": "st",
+  "title": "80 Sebetsang",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sebetsang he bahlanka ba Molimo,",
+        "A re sebetseng tsela’ Morena rona;",
+        "Ka lentsoe la Hae re tla fumana matla",
+        "A re etseng ka matla ’rona ntho tsohle"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sebetsang... khothalang...Sebetsang...khothalang...",
+        "A re ts’epeng Morena A be a fihle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sebetsang le fepe batho ba lapileng",
+        "Le ba hulele selibeng sa bophelo;",
+        "Sefapano e tla ba thabo ea rona.",
+        "“Re bolela bophelo bo se nang theko.”"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le sebetseng hoba mosebetsi o teng,",
+        "Hobane ’muso oa lefifi o tla oa,",
+        "Bitso la Jehova le tla utloahala;",
+        "Ho boleloe bophelo bo se nang theko."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sebetsang Morena a be a tlo fihla,",
+        "Mageloi a tla tla ho tla kotula;",
+        "Re tla lula motseng oa bahalleli;",
+        "Re bine bophelo bo seng theko."
+      ],
+      "number": 5
+    }
+  ]
+}

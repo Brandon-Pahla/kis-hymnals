@@ -1,0 +1,34 @@
+{
+  "number": 133,
+  "language": "xh",
+  "title": "133 Ukuhamba No-Thixo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndihambe naWe, Thixo wam, Njengay’ u-Enok’ mandulo;",
+        "Ndibambe wena ngesandla, Uze-ke udlelane nam;",
+        "Nax’ indlela isithele, Yesu, mandihambe naWe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndingekhe ndihambe ndedwa, Luvuthuza uqhwithela;",
+        "Inyawo zam zithiyelwe, Ndilalelwe zintshaba zam;",
+        "Zolis’ ugqumo lolwandle; O Mongameli, hamba nam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa ndibambelele kuWe, Andiw’ nanzi ngant’ umhlaba,",
+        "Ndohamba ndikhaliphile; Ndithwel’ indwe yomnqamlezo;",
+        "Ndide ndibon’ i-Ziyoni; Msindisi wam, ’zu hambe nam."
+      ],
+      "number": 3
+    }
+  ]
+}

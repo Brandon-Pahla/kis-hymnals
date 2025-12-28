@@ -1,0 +1,47 @@
+{
+  "number": 548,
+  "language": "tw",
+  "title": "Monkamfo Dɔ Nyamč a Ne Mu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Monkamfo dɔ Nyamč a Ne mu",
+        "Na yɛtč ase keka yɛn ho;",
+        "ɔhwɛ yɛn so b're nyinaam'fi",
+        "Mmofraase kosi mpanyin b'rem."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nea ɔhyɛɛ yɛn yɛn mmofrab'rem",
+        "Maa yedw'riw mfomso aban gui;",
+        "B'rč a yɛdwen afof'ro ho no",
+        "ɔkyerɛɛ sɛnea Ne man nyin."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nea ɔhyɛ sɛ yɛnkɔ so nsom,",
+        "B'rč a onyin ma yɛp're home,",
+        "Na ɔky'rɛ yɛn sɛ yɛda so,",
+        "Wɔ dwuma bi di wɔ baabi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻnde nka b're sɛe asɛm bio,",
+        "Mmom hwɛ Nyame na f'ro kɔ s'ro;",
+        "Adesae b'rem da na sɔre",
+        "'Hoɔden mu toa kwantu no so."
+      ],
+      "number": 4
+    }
+  ]
+}

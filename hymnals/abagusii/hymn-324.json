@@ -1,0 +1,35 @@
+{
+  "number": 324,
+  "language": "guz",
+  "title": "324 Mbigusuigwe Aria Kaiwari",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bororo, gwechand'okonge,Biarosia chinkoro,Mbigusuigwe aria Kalwari,Yeso nare ang'e."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mbigusuigwe aria Kalwari,Kalwari, Kalwari,Mbigusuigwe aria Kalwari,Yeso nare ang'e."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tigera Yes'onsi rero,Bwoba n'ogwechanda,Mbigusuigwe aria Kaiwari,Yeso nare ang'e."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mochandeku Yes'Arora,mechando, mariga,Mbigusuigwe aria Kalwari,Yeso nare ang'e."
+      ],
+      "number": 4
+    }
+  ]
+}

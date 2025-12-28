@@ -1,0 +1,35 @@
+{
+  "number": 131,
+  "language": "guz",
+  "title": "131 Omonene Ka Bogokia",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Omonene kabogokia,Noigw' eriogi riane;'S' ore inche ningosabe,Ninkogaramere."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Igoro Kristo achiete,Gosaber' abaye;Komworokia Tata oye,Ebirero biaito."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Omoika oo andae,Chinchera chindonge;Rongeyia ker' omoremo,As'obosio bwane."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Abanchet' erieta riao,abasemeretie;Monguru obaetanane,'Buya bun'eng'aya."
+      ],
+      "number": 4
+    }
+  ]
+}

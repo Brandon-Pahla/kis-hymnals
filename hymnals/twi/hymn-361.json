@@ -1,0 +1,46 @@
+{
+  "number": 361,
+  "language": "tw",
+  "title": "Tie! Mete 'Guanhwɛfo No Nne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tie! mete 'Guanhwɛfo no nne",
+        "Wɔ sum huhu sare no so;",
+        "Refrɛ Ne nguan a wɔafom kwan",
+        "Afi Ne nguanbuwm' kɔ aky'ri"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Fa wɔn bra, fa wɔn bra,",
+        "Fa wɔn fi bɔne wuram' bra;",
+        "Fa wɔn bra, fa wɔn bra,",
+        "Fa 'kwantofo brɛ Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hena bɛboa Guanhwɛfo no",
+        "Ma Wahwehwɛ akwantofo?",
+        "Hena de wɔn bɛba buw nom',",
+        "Nea awɔ bi renne wɔn no?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tie! Wɔresu sar' so nohoaa,",
+        "Mmepɔw atenten no so hɔ;",
+        "Tie! Yɛn Wura reka ky'rɛw' sɛ;",
+        "Kɔhwehwɛ Me nguan, fa wɔn bra."
+      ],
+      "number": 3
+    }
+  ]
+}

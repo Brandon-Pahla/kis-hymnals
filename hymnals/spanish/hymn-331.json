@@ -1,0 +1,52 @@
+{
+  "number": 331,
+  "language": "es",
+  "title": "La mañana gloriosa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### La mañana gloriosa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuán gloriosa será la mañana",
+        "cuando venga Jesús el Salvador;",
+        "cuando todos, unidos como",
+        "hermanos,",
+        "bienvenida daremos al Señor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "No habrá necesidad de la luz el",
+        "resplandor;",
+        "ni el sol dará su luz, ni tampoco su",
+        "calor.",
+        "Allí llanto no habrá, ni tristeza, ni",
+        "dolor;",
+        "porque entonces Jesús, el Rey del",
+        "cielo,",
+        "para siempre será el Consolador."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Esperamos la mañana gloriosa",
+        "para dar la bienvenida al Dios de",
+        "amor.",
+        "Donde todo será color de rosa,",
+        "en la santa presencia del Señor."
+      ],
+      "number": 4
+    }
+  ]
+}

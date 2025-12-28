@@ -1,0 +1,45 @@
+{
+  "number": 295,
+  "language": "en",
+  "title": "295 Sound The Battle Cry.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sound the battle cry, See! The foe is nigh;",
+        "Raise the standard high for the Lord;",
+        "Gird your armor on, Stand firm every one,Rest your cause upon His holy word."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Rouse, then, soldiers! Rally round the banner!",
+        "Ready, steady, pass the word along;",
+        "Onward, forward, shout aloud Hosanna!",
+        "Christ is Captain of the mighty throng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Strong to meet the foe, Marching on we go,",
+        "While our cause we know must prevail;",
+        "Shield and banner bright, Gleaming in the light,",
+        "Battling for the right, we ne’er can fail."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Thou God of all Hear us while we call,",
+        "Help us one and all, by Thy grace;",
+        "When the battle’s done, And the victory won,",
+        "May we wear the crown before Thy face."
+      ],
+      "number": 3
+    }
+  ]
+}

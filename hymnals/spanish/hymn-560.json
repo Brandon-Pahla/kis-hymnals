@@ -1,0 +1,65 @@
+{
+  "number": 560,
+  "language": "es",
+  "title": "Cristo está buscando obreros",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cristo está buscando obreros"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo está buscando obreros hoy",
+        "que quieran ir con él.",
+        "¿Quién dirá: \"Señor, contigo voy,",
+        "yo quiero serte fiel\"?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Oh Señor!, es mucha tu labor,",
+        "y obreros faltan ya;",
+        "danos luz, ardiente fe y valor,",
+        "y obreros siempre habrá."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo quiere mensajeros hoy",
+        "que anuncien su verdad.",
+        "¿Quién dirá: \"Señor, yo listo estoy,",
+        "haré tu voluntad\"?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hay lugar si quieres trabajar",
+        "por Cristo en su labor.",
+        "Puedes de su gloria al mundo hablar,",
+        "de su bondad y amor."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Vives ya salvado por Jesús?",
+        "¿Su amor conoces ya?",
+        "¡Habla, pues, anuncia que en la luz",
+        "de Cristo vives ya!"
+      ],
+      "number": 6
+    }
+  ]
+}

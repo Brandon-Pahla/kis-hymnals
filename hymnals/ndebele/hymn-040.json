@@ -1,0 +1,65 @@
+{
+  "number": 40,
+  "language": "nd",
+  "title": "40 Themba Nilalele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa si yilandela, iNkosi ngempela",
+        "Ku zokhany’ endleleni yethu",
+        "Si lalel’ uKrestu, Si be naYe lapha",
+        "Uma si muzwa, si mhlonipha"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lalelani! Akukho okunye",
+        "Okuthabis’ iNkosi, Um’ i ngelalelwe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akukho thunzana, Akukho yezana",
+        "Ku xoshwa ukumomotheka",
+        "Aku ngesabeke, Asinge bubule",
+        "Uma si muzwa, si mhlonipa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akukho bunzima, Akukho bulima",
+        "Yena angebususe kithi",
+        "uMsindisi wethu, Konke ku ngehluphe",
+        "Uma si muzwa, si mhlonipha"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Namhla si ngebone, Uthando lu khona",
+        "Nxa si beka konk’ elathini",
+        "Zi gqitshwe izono, Asiph’ ukwethaba",
+        "Uma si muzwa, si mhlonopha"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngakukudlelana, Nangokuthandana",
+        "Sohamb’ endleleni si ngezwa",
+        "Okuhle si kwenze, Si mlandele naphi",
+        "Uma si muzwa, si mhlonipha"
+      ],
+      "number": 6
+    }
+  ]
+}

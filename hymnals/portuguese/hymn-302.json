@@ -1,0 +1,44 @@
+{
+  "number": 302,
+  "language": "pt",
+  "title": "Minha Oração",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Minha Oração"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mais força me inspira, mais ódio ao mal,",
+        "Mais calma nas lutas, mais alto ideal;",
+        "Mais fé no meu Mestre, mais dedicação,",
+        "Mais gozo em servi-Lo, mais consagração."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mais justo me faze, mais sábio, Senhor;",
+        "Mais firme na Causa, com zelo e fervor;",
+        "Mais reto na vida, mais triste ao pecar;",
+        "Um filho submisso, mais pronto em amar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mais puro me faze, mais santo em Jesus;",
+        "Mais de Sua graça, mais perto da cruz;",
+        "Mais rica esperança, mais fé e poder,",
+        "Pra sempre servir-Te e Te obedecer."
+      ],
+      "number": 4
+    }
+  ]
+}

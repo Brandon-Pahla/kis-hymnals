@@ -1,0 +1,28 @@
+{
+  "number": 190,
+  "language": "guz",
+  "title": "190 'Monene Tari Ebi' Ankio",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Monene tari ebi'ankio,IngosabaNyasae ndende timocha,Rero riokaNkonye nkore emeremo,Na gosabaNkwane na oboitongo,Rero Tata."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tinkor' okogania kwane,'Mwango koigwaOnkonye inyare koigwa,Rero TataTinkwana ayan' amabe,Bwango bwangoMbwate ebikoba biane,Boire pi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kero kende mb' omokiru,kende ngokeNyegene obuya bwao,Rero TataMonene tari ebi'ankioIngosabaNdende, Ondae, Onyanche,Boire pi."
+      ],
+      "number": 3
+    }
+  ]
+}

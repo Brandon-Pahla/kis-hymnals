@@ -1,0 +1,38 @@
+{
+  "number": 127,
+  "language": "xh",
+  "title": "127 Uya Ndithanda Nam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Xa awayo ugqatyana, ’Thix’ umkathalele;",
+        "Ezithanda-nje intaka, Uya ndithanda nam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Undithanda, undithanda, Uya ndithanda nam;",
+        "Kuba kwa nezincinane, Naz’ uya zithanda."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uhombisa inyibiba, Abuyi ayiqhole;",
+        "Ethanda intyatyambo-nje, uya ndithanda nam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zenziwa ngu-Thixo zonke, Ngobukhulu bazo;",
+        "Kwa nab’ abantwana bakhe Uba thanda bonke."
+      ],
+      "number": 3
+    }
+  ]
+}

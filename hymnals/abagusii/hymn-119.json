@@ -1,0 +1,35 @@
+{
+  "number": 119,
+  "language": "guz",
+  "title": "119 'Sabato Enchenu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Sabato enchenu,'Banto bagokeire,Toganyete koigw' eng'ana,Chinkoro chigoke."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Tuk'erio Esabato,Neri'a'aye Tata,Naintwe otosesenieTokogosasima."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Seseni' abachenu,Kero togosaba,Togoker' ogotimoka,Torend' Esabato."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Chisabato chikoerainse aiga,Esabat'etakoeraNtotimoke Igoro."
+      ],
+      "number": 4
+    }
+  ]
+}

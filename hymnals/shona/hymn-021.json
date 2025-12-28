@@ -1,0 +1,65 @@
+{
+  "number": 21,
+  "language": "sn",
+  "title": "21 Ndouya Kumuchinjiko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndouya kumchinjiko,",
+        "Upofu neurombo",
+        "Handidi chimwe chiro,",
+        "Asi ruponeso’rwo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndosimbira kunemwi, Nyenye yepaCalvary,",
+        "Ndinopfugama pasi, Mundiponese ini"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu ndokuchemera,",
+        "Moyo wangu waipa,",
+        "Jesu’ye wataura,",
+        "Ndinozo-kuchenura"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndapa zvese kunemwi,",
+        "Zviro zvese zvepasi",
+        "Moyozve nemuviri,",
+        "Uve wenyu narini"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndosimbira kunemwi,",
+        "Mune zvitsidzo zvenyu",
+        "Zvino ndarapwa ini,",
+        "Neropa’ro raKristu"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu arikuuya,",
+        "Moyo wangu wazara,",
+        "Zvino ndakachenurwa,",
+        "Mbiri kuna Jehova"
+      ],
+      "number": 6
+    }
+  ]
+}

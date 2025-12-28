@@ -1,0 +1,65 @@
+{
+  "number": 37,
+  "language": "es",
+  "title": "Dios os guarde",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Dios os guarde"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dios os guarde en su divino amor,",
+        "hasta el día en que lleguemos",
+        "a la patria do estaremos",
+        "para siempre con el Salvador."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Al venir Jesús nos veremos",
+        "a los pies de nuestro Rey;",
+        "reunidos todos seremos,",
+        "un redil habrá y solo una grey."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dios os guarde en su divino amor;",
+        "en la senda peligrosa",
+        "de esta vida tormentosa",
+        "os conserve en paz y sin temor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dios os guarde en su divino amor,",
+        "os conduzca su bandera,",
+        "y os conceda en gran manera",
+        "de su Espíritu consolador."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dios os guarde en su divino amor,",
+        "con su gracia os sostenga",
+        "hasta cuando Cristo venga",
+        "en su reino con gran esplendor."
+      ],
+      "number": 6
+    }
+  ]
+}

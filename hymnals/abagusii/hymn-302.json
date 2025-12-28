@@ -1,0 +1,28 @@
+{
+  "number": 302,
+  "language": "guz",
+  "title": "302 Er'oyoraremeri' Emechando",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Er'oyoraremereri'emechando,Agenderere gotuny'Omotoria;Kegocha tikerikeramoonchore,'Tig'eira yayekob'Omotari."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Abakomorosianayar'amake,Bagwetutukania'R'anyora 'nguru;Takobugwa rinde,Narwanigwa saki,Nekony'ekiageraAr' Omotari."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ay'otorwanereran'Omoika,Twamanyire omwandoN'obogima;Obobe mbotame,Tinkwobo'ay'abanto,Botuko na mobasomb'omotari."
+      ],
+      "number": 3
+    }
+  ]
+}

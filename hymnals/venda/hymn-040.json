@@ -1,0 +1,68 @@
+{
+  "number": 40,
+  "language": "ve",
+  "title": "40 Fulufhela U di tukufhadze",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:590",
+        "AH:223"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ri tshi pfa Murena, na ipfi lawe-vho,",
+        "U vhonetshela ndila yashu,",
+        "Ri tshimbila nae, U dzula na rine,",
+        "Na vha pfaho, Vha mu hulisa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Thetshelesa, U di-tukufhadze,",
+        "U fulufhele Yesu, U di-tukufhadze."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. A ri nyadzi tshithu, Lufunoni lwawe,",
+        "Ro di-nekedza tshothe Yesu, Ro funwa nga Iwe,",
+        "A ri ofhi tshithu, Tshi bvelelaho ri na Iwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. A huna vhuleme. Naho hu u ofha,",
+        "Ri wana malamba mahulu. A hu na tshinyalo,",
+        "Naho e mathupho, nga u pfa ri wana mashudu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. A ri soli tshithu, lufunoni lwawe,",
+        "Ri tshi vhea zwothe kha Ene, U sumba lufuno,",
+        "Na lone dakalo, Kha ri mu pfe ri mu hulise."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Musi ri tshi pfana, Ri do tuwa rothe,",
+        "Yesu u do ri dzhia rothe, Ri do dzula nae,",
+        "Ra tshimbila nae, Ra tshidzwa nga hu sa fheliho."
+      ],
+      "number": 6
+    }
+  ]
+}

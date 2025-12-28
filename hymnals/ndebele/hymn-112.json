@@ -1,0 +1,39 @@
+{
+  "number": 112,
+  "language": "nd",
+  "title": "112 Ukuphila Ekubhekeni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Isiphambano si nokuphila uJesu wathi, \"Ngi bheke\"",
+        "Imfuyo nelizwe ku yize, Phambili ngi zobona okuhle."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ku khona ukuphila, Ekubhekheni kodwa.",
+        "Ukuphila okuhle Khona eKhalivari"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi sandu ukubona uJesu, Wang’ momothekela nami,",
+        "Lapha ngi bona izilingo, Isiphambano si ngamandl’ami"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi zobheka zonke izinsuku Ngi themba isithembiso;",
+        "Othemb’ amandla aphezulu A ngezawisa ngumlingi yena"
+      ],
+      "number": 4
+    }
+  ]
+}

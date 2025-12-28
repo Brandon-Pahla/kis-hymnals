@@ -1,0 +1,67 @@
+{
+  "number": 203,
+  "language": "nd",
+  "title": "203 O, Masisakaze!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, masisakaze Indaba ezinhle,",
+        "Ebantwinibonke,",
+        "Endaweni zonke,",
+        "Ulim’ lwamaKrestu Malusho kakhulu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nang’ uMthokozisi, Nang’ uMthokozisi,",
+        "Yena ufikile Ephum’ ezulwini,",
+        "KuBaba iNkosi O, makusakazwe,",
+        "Laku khon’abantu, Nang’ uMthokozisi!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Budlul’ ubusuku, Nans’ imin’ enkulu,",
+        "Sathul’ isililo,",
+        "Nolak’ olulwayo,",
+        "Phezu kwamagquma, Liyadlul’ ilanga"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bheka nans’ iNkosi, Ipheth’ insindiso,",
+        "Yomunt’ othunjiwe,",
+        "Ukuz’ akhululwe Ebumnyamenile",
+        "Kuvulwe kahlehle!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ye’ alunqamuki Uthando lweNkosi,",
+        "Mabatshelwe ngalo",
+        "Abangaqondiyo,",
+        "Ngomsa mina ‘soni Ngofana neNkosi"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hlabe lunkenteze es’bhakabhakeni",
+        "Abangcwel’ ezulwini",
+        "Baphendule phansi",
+        "Hlabela ngothando, Olungephele qha!"
+      ],
+      "number": 6
+    }
+  ]
+}

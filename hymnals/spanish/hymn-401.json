@@ -1,0 +1,55 @@
+{
+  "number": 401,
+  "language": "es",
+  "title": "Eterna Roca es mi Jesús",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Eterna Roca es mi Jesús"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eterna Roca es mi Jesús,",
+        "refugio en la tempestad;",
+        "confianza he puesto yo en él,",
+        "refugio en la tempestad."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Roca eterna, nuestra protección,",
+        "nuestra fuerza, nuestro Salvador,",
+        "nuestro auxilio en la tribulación,",
+        "consolación en el dolor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Es sombra en día de calor,",
+        "refugio en la tempestad;",
+        "defensa eterna es mi Señor,",
+        "refugio en la tempestad."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh!, Roca eterna, mi Jesús,",
+        "refugio en la tempestad,",
+        "sé tú mi guía, fuerza y luz,",
+        "refugio en la tempestad."
+      ],
+      "number": 5
+    }
+  ]
+}

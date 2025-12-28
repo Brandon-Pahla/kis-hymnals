@@ -1,0 +1,59 @@
+{
+  "number": 185,
+  "language": "tw",
+  "title": "Yesu Ne Me Wiase Nyinaa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu ne me wiase nyinaa,",
+        "Me nkwa m'ade nyinaa,",
+        "ɔne me daa daa ahoɔden;",
+        "Migyaw Nō a mehwč ase",
+        "Me w'rɛ how a, mekɔ Ne nkyɛn,",
+        "Obi nkyekye me werɛ saa;",
+        "Me w'rɛ how a ɔgye m'ani, M'adamfo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu ne me wiase nyinaa,",
+        "Me sɔhwɛ mu yɔnko,",
+        "Mekɔsrɛ Ne hɔ nɔhyira,",
+        "ɔma ma ebu so;",
+        "ɔde awia ne nɔsu ma,",
+        "ɔde awi nnɔbae nso ma;",
+        "Awia, nɔsu, awi nnɔbae, M'adamfo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu ne me wiase nyinaa",
+        "Medi No nokware;",
+        "O, mɛyɛ dɛn apo Damfo'i,",
+        "B're a Odim' nokwar yi?",
+        "Midi N'akyi a, eye ma me,",
+        "ɔwɛn me awia ne 'nadwo;",
+        "Midi N'akyi 'wia ne 'nadwo, M'adamfo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu ne me wiase nyinaa,",
+        "Mempɛ yɔnko biara;",
+        "Metwer' No nnɛ, na mɛtwer' No,",
+        "B're a nkwa nna'I betwam;",
+        "Me ne Damfo'i tra bɛyɛ fɛ;",
+        "Nɔkwa a ɛto rentwa da,",
+        "Daapem nɔkwa, daa anigye, M'adamfo."
+      ],
+      "number": 4
+    }
+  ]
+}

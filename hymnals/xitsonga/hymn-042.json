@@ -1,0 +1,22 @@
+{
+  "number": 42,
+  "language": "ts",
+  "title": "42. NTSAKO WA NHLANGANO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WITH FRIENDS ON EARTH",
+        "1. Ntsako Wa Nhlangano,",
+        "Na Vanghana Swa Nkarhinyana, Kambe Timbilu Ta Vava, Loko Se Hi Hambana.",
+        "CHORUS",
+        "Etilweni A Ku Hambaniwi, Hambaniwi Tikweni Ra Wona Ntsako, A Ku Hambaniwi.",
+        "2. Ntshembo Wu Kona, Hambi Varhandziwa Va Hi Siya,",
+        "Loko Hinkwaswo Swi Herile, Hi Ta Va Na Vona.",
+        "3. Kona A Ka Ha Sarisiwi, Vona Varhandziwa,",
+        "Kambe Ku Ta Twakala, Tinsimu Ta Ntsako Ntsena."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "number": 425,
+  "language": "pt",
+  "title": "Que Tempo Já Faz?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Que Tempo Já Faz?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que tempo já faz que falaste com Deus.",
+        "Contandoo os segredos da alma?",
+        "Que tempo já faz que oraste ao Senhor",
+        "E de joelhos ouviste-Lhe a voz?",
+        "Que tempo já faz que não andas com Deus,",
+        "Deixando-O guiar tua vida?",
+        "Teu Amigo quer ser,",
+        "Quer dar-te poder",
+        "Tu precisas sentir Seu amor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que tempo já faz que ajoelhas-te a sós",
+        "E oraste ao Teu Deus lá do Céu?",
+        "Que tempo já faz que o Teu coração",
+        "Se apega aos pecados teus?",
+        "Que tempo já faz que não falas de Deus,",
+        "Pregando a mensagem do Mestre?",
+        "Teu Amigo que ser,",
+        "Quer dar-te poder,",
+        "Implantar Seu amor em Teu ser."
+      ],
+      "number": 3
+    }
+  ]
+}

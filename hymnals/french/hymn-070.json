@@ -1,0 +1,60 @@
+{
+  "number": 70,
+  "language": "fr",
+  "title": "À toi la gloire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "À toi la gloire,",
+        "Ô ressuscité!",
+        "À toi la victoire",
+        "Pour l'éternité!",
+        "Brillant de lumière,",
+        "L'ange est descendu,",
+        "Il roule la pierre",
+        "Du tombeau vaincu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "À toi la gloire!",
+        "Ô ressuscité!",
+        "À toi la victoire!",
+        "Pour l'éternité!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vois-le paraître :",
+        "C'est lui, c'est Jésus,",
+        "Ton Sauveur, ton Maître!",
+        "Oh! ne doute plus.",
+        "Sois dans l'allégresse,",
+        "Peuple du Seigneur,",
+        "Et redis sans cesse",
+        "Que Christ est vainqueur."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Craindrais-je encore?",
+        "Il vit à jamais,",
+        "Celui que j'adore,",
+        "Le Prince de Paix;",
+        "Il est ma victoire,",
+        "Mon puissant soutien,",
+        "Ma vie et ma gloire :",
+        "Non, je ne crains rien."
+      ],
+      "number": 4
+    }
+  ]
+}

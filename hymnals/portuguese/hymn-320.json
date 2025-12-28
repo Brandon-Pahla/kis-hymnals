@@ -1,0 +1,56 @@
+{
+  "number": 320,
+  "language": "pt",
+  "title": "A Todo Semelhante Meu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A Todo Semelhante Meu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A todo semelhante meu",
+        "Contarei que Deus é amor.",
+        "O mundo desconhece o bem",
+        "E Jesus, o Redentor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Falarei de Deus",
+        "E do Seu amor.",
+        "Para o mundo mostrarei Jesus,",
+        "Com maior fervor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Da eterna graça sem igual",
+        "Aos perdidos falarei,",
+        "Guiando-os deste mundo mau",
+        "Para os pés do amado Rei."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mais vasto que o imenso mar",
+        "É de Deus o grande amor;",
+        "Por isso proclamá-lo-ei",
+        "Para todo pecador."
+      ],
+      "number": 5
+    }
+  ]
+}

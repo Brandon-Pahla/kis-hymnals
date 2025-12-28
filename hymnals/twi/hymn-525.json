@@ -1,0 +1,45 @@
+{
+  "number": 525,
+  "language": "tw",
+  "title": "Botan a Ͻk'rɔn Sen Me Ne Hintabea",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Botan a ɛk'rɔn sen me ne hintabea,",
+        "Hɔ na me kra nam yaw ne 'ko mu tu kɔ;",
+        "Bɔne ama mayɛ mm'rɛw nso meyɛW' de,",
+        "Tete Bō a wɔahy'ra Wo, mihinta Wo mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ao mihinta Wo my ara",
+        "Tete Bō a Wɔahy'ra wo,",
+        "Mihinta Wo mu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Owigyinae kommyɛ ne 'w'rɛhow b're mu",
+        "B'rč a sɔhwɛ de ne tumi kata me so;",
+        "ɔbra 'hum tu me so na 's'rɔkye bɔ a,",
+        "Tete Bō a wɔahy'ra Wo, minhinta wo mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mm're pii a 'tamfo no tu me so sa no,",
+        "Miguan de me haw kɔ me Guankɔbea nkyɛn;",
+        "Mm're pii a sɔhwe bɔ sɛ po 's'rɔkyɛ no,",
+        "O me kra Botan, mehinta wɔ Wo mu."
+      ],
+      "number": 3
+    }
+  ]
+}

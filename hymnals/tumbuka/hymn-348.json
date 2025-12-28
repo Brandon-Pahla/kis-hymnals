@@ -1,0 +1,25 @@
+{
+  "number": 348,
+  "language": "tum",
+  "title": " 348 Ujule Pa Muryango",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 348 Ujule Pa Muryango",
+        "You Must Open The Door"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ujule pamuryango,",
+        "kuti Yesu wanjire,",
+        "Para wamzomera tiwakuthaske,",
+        "Mjulire mtima wako."
+      ],
+      "number": 2
+    }
+  ]
+}

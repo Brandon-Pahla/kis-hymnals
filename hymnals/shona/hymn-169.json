@@ -1,0 +1,47 @@
+{
+  "number": 169,
+  "language": "sn",
+  "title": "169 Mudyi Wenhaka Yeumambo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mudyi wenhaka ngenyi uchirara",
+        "Uchiwona musha wavepetyo",
+        "Muka umire upfeke chishangu",
+        "Chimbidza nguva yakupfuura"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndidzi dzenyika dziri kunyongana",
+        "Dziri kubvunda kwazvo nekutya",
+        "Inzwa mzkumbo engoro dzobvunda",
+        "Mudyi wenhaka usanonoke"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Usanyengedzwe nezviro zvenyika",
+        "Rufaro rwayo rwunopfuura",
+        "Siya ruchiva nepfuma yepasi",
+        "Mudyi wenhaka chisiya zvese"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Misa musoro ziso ritarise",
+        "Uwone mbiri yaJesu mambo",
+        "Wona kupenya kwake kumakomo",
+        "Mudyi wenhaka imba ufare"
+      ],
+      "number": 4
+    }
+  ]
+}

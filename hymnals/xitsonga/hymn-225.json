@@ -1,0 +1,25 @@
+{
+  "number": 225,
+  "language": "ts",
+  "title": "225. MUKRISTE PFUKA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NO CHRISTIAN, AWAKE",
+        "1. Mukriste Pfuka, Yesu Wa Lerisa, Tamela Xitlhangu Emavokweni,",
+        "Kongoma Muringi, Tiya Kongoma, Phaphuka U Langutana Na Nala.",
+        "CHORUS",
+        "Yima Tserha, Tiya Mbilu, Tani Hi Nhenha, Kongoma Nala.",
+        "2. Khombo Ri Nga Fika U Tivonela,",
+        "U Nga Hundzuluki, Kongoma Mahlwen, Nala Wa Munyama, U Ta Hluriwa. Phaphuka U Langutana Na Nala.",
+        "3. Hi Matimba Lwela Ndlela Ya Hosi, Hi Matimba Lwana Ku Fika Makumu,",
+        "Hatlisa, Landzela, Wa Ku Lerisa, Phaphuka U Languta Na Nala.",
+        "4. U Nga Kanakani U Le Kusuhi,",
+        "U Ta Ku Khongotela, Hi Tintswalo,",
+        "A Kambexa Rirhandzu Swanga Nambu, Phaphuka U Langute Na Nala."
+      ],
+      "number": 1
+    }
+  ]
+}

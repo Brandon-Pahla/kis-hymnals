@@ -1,0 +1,53 @@
+{
+  "number": 225,
+  "language": "st",
+  "title": "225 Ema Joaloka Mohale",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Moloki O re uena m’kreste tsoha,",
+        "Ka thebe la sabole ka letsohong;",
+        "Loana le meleko boea ka sebete,",
+        "Empa ka bohale talima sera."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ema, ema ka bohale; Ema u talimane le sera."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hoo e leng kotsi u ho hlokomele u se cheche",
+        "U se na thebe;",
+        "Ha u tla li hlola lira tsa hau,",
+        "Ema mohale u itlhokomele."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Loanela taba tsa morena,",
+        "Ka matla u loane ho fihla qetellong;",
+        "Mo latele hohle moo A u isang;",
+        "Loana ka bohale talima sera."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsoela pele Morena oa hao O teng,",
+        "O u nea mosa le sebete;",
+        "Lerato la Morena le ka noka,",
+        "Ka hoo ema talimana le sera"
+      ],
+      "number": 4
+    }
+  ]
+}

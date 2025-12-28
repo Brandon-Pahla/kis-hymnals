@@ -1,0 +1,54 @@
+{
+  "number": 210,
+  "language": "tw",
+  "title": "Munnyan Na 'Nadwo Retwam Ntɛm",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Awɛmfo a wɔwɔ s'ro reteam;",
+        "Munnyan, Yerusalem, monsɔr'!",
+        "ɔdasum dɔn no rebɔ brɛoo,",
+        "Ne teaseɛnam nan rewoso ba;",
+        "Mo mmaabun mmadwemma, monwɛn,",
+        "Momfa ɔpɛ nsɔre",
+        "Monkohyia 'Yef'rokun'; Haleluya!",
+        "Momfa mo 'kanea mfa sum nom',",
+        "Monyɛ ntɛm nkɔfra dɔm no mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sion te awɛmfo no dwom,",
+        "Ne koma de anigye woso.",
+        "Onyan, sɔre fi 'w'rɛhow mu,",
+        "N'ayef'rokun' ba 'nuonyam mu,",
+        "ɔde dom adi nim nokwar' mu;",
+        "Ns'romma no apue, hann aba.",
+        "Mommɔ 'se mma 'W'rade,",
+        "Yɛn 'henkyɛw, yɛn 'katua; Haleluya!",
+        "Yɛde nnwom nante hare so",
+        "Kɔfra 'yef'rodɔm nom' 'nigyem."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame Guammaa, ɔs'ro som Wo,",
+        "Nnipa ne 'bɔfo to dwom W'anim,",
+        "Nsankuw ne akasa nne mu;",
+        "Yegyina 'bohemma 'pon ho,",
+        "Yɛma yɛn nne so tea mu dennen",
+        "Twa W'ahengua hyɛnhyɛn ho hyia;",
+        "Aniwa biara nhui,",
+        "Na aso biara ntee 'Nigye sei da;",
+        "Yɛma dwom so 'dɔm kɛse mu,",
+        "De yi W'ayɛ nna santen ny'naa.\""
+      ],
+      "number": 3
+    }
+  ]
+}

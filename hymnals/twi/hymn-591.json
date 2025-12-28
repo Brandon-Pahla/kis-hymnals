@@ -1,0 +1,43 @@
+{
+  "number": 591,
+  "language": "tw",
+  "title": "Yɛn 'Dwumayɛ nč Agodim'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn 'dwumayɛ nč agodim',",
+        "Yesu, Wone yɛn ntra daa;",
+        "Ma yɛmmɔ yɛn ho mmɔden",
+        "Sɛ yebedi Wo nokwar,",
+        "Na yɛatum' ato dwom sɛ:",
+        "Yɛyɛ ɔhempɔn no mma."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma yɛmfa Wo tumi nnyae",
+        "Kokobɔne  at'rosɛm,",
+        "'Dwemmɔne, 't'rimɔdensɛm",
+        "Ne nneɛmā a ɛnso W'ani,",
+        "Na yɛatum' ato' dwom sɛ:",
+        "Yɛyɛ ɔhempɔn no mma."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛyɛ ɔhempo no mma;",
+        "Momma yenni no nokwar'",
+        "Na yɛnsɔ N'ani daa ny'naa",
+        "Yɛn 'dwumayɛ nč agodim'",
+        "Na yɛatum' ato dwom sɛ:",
+        "Yɛyɛ ɔhempɔn no mma."
+      ],
+      "number": 3
+    }
+  ]
+}

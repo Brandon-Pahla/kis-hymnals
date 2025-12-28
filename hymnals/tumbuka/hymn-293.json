@@ -1,0 +1,57 @@
+{
+  "number": 293,
+  "language": "tum",
+  "title": " 293 Wakukhung' uska N'njani?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 293 Wakukhung' uska N'njani?",
+        "KNOCKING, KNOCKING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Wakukhung'uska n'njani?",
+        "Kulindizga waweme?",
+        "Ndiyo mlendo wa lusungu,",
+        "Palijeso munyake.",
+        "Ine nkhuzizwa nkhanira,",
+        "Mundijulire mryango.",
+        "Mundijulire mryango"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Wachali kukhung'uska,",
+        "Kulindizga waweme.",
+        "Chijalo ntchinonono mbu?",
+        "Viswaswa vyamerap0,",
+        "Vyakumatika vyati bi!",
+        "Na vyakudemerera,",
+        "Na vyakudemerera."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Wakukhung'uska n'pera,",
+        "Kulindizga waweme.",
+        "Inya 'mwe wakukhung'uska,",
+        "Na chisoti cha minga.",
+        "Mponoski wakulindizga,",
+        "Kasi ungam'njizga cha?",
+        "Kasi ungam'njizga cha?"
+      ],
+      "number": 4
+    }
+  ]
+}

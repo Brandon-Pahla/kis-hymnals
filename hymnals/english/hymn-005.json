@@ -1,0 +1,63 @@
+{
+  "number": 5,
+  "language": "en",
+  "title": "5 How Far From Home",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "How far from home? I asked as on",
+        "I bent my steps the watchman spake:-",
+        "“The long, dark night is al-most over,",
+        "The morning soon will break.",
+        "Then weep no more, but speed thy flight,",
+        "With hope’s bright star thy guiding ray,",
+        "Till thou shall reach the realms of light,",
+        "In ev-erlast-ing day.”"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I asked the war-rior on the field:",
+        "This was his soul-inspring song:",
+        "With courage, bold, the sword I’ll wield,",
+        "The bat-tle is not long.",
+        "Then weep no more, but well en-dure",
+        "The con-flict, till thy work is done;",
+        "For this we know, the prize is sure,",
+        "When vic-to-ry is won."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I asked a-gain; earth, sea and sun",
+        "Seemed, with one voice, to make reply:",
+        "“Time’s wasting sands are near-ly run,",
+        "E-ter-ni-ty is nigh.",
+        "Then weep no more-with warning tones",
+        "Portentious signs are thick’ning round,",
+        "The whole cre-a-tion, wait-ing, groans,",
+        "To hear the trumpet sound.”"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Not far from home! O blessed thought!",
+        "The trav’ler’s lonely heart to cheer;",
+        "With oft a heal-ing balm has brought,",
+        "And dried the mourner’s tear.",
+        "Then weep no more, since we shall meet",
+        "Where weary footsteps never roam-",
+        "Our tri-als past our joys complete,",
+        "Safe in our Father’s home."
+      ],
+      "number": 4
+    }
+  ]
+}

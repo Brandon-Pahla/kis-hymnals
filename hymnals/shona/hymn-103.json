@@ -1,0 +1,39 @@
+{
+  "number": 103,
+  "language": "sn",
+  "title": "103 Makafanira Kubarwa Zwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mutongi akauya kuna Jesu, Kuzo bvunza nenzira yeupenyu;",
+        "Tenzi Akamupindura Akati, \"Barwa nyi zwe patswa,\" (patswa)"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Barwa nyizwe patswa, (patswa) Barwa nyizwe patswa, (patswa)",
+        "Nge idi, idi ndinoti kunewe, \"Barwa nyizwe patswa\" (patswa)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vana vevanhu tereranyi izwi, Rataurwa nedi na Jesu Tenzi,",
+        "Usaite iri soko re nhando, \"Barwa-nyizwe patswa\" (patswa)"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Imwi muchapinda munezororo, Munoimba rwiyo newa poneswa,",
+        "Muwane upenyu husinga gumi, \"Barwa-nyizwe patswa.\" (patswa)"
+      ],
+      "number": 4
+    }
+  ]
+}

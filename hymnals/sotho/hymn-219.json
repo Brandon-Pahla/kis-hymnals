@@ -1,0 +1,37 @@
+{
+  "number": 219,
+  "language": "st",
+  "title": "219 Jehova U Ntsamaise",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U ntsamaise, Jehova, Ke moeti lefats’eng,",
+        "Kea fokola ’me U matla, U nts’oare ka seatla.",
+        "Bohobe ba leholimo nkhorise (bis)."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Open now the crystal fountain,",
+        "U bule joale seliba, Sa metsi a folisang,",
+        "A leru la mollo chesang, Se ntsamaise leetong,",
+        "Mopholosi U be khothatso ea ka.",
+        "Mopholosi U be khothatso ea ka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke fihlile Jordane, U tlose ts’abo ho ’na;",
+        "U mpalamise maqhubu, U mphihlise Kanana,",
+        "Uena ke tla U rorisa ka thabo",
+        "Uena ke tla U rorisa ka thabo."
+      ],
+      "number": 3
+    }
+  ]
+}

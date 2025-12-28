@@ -1,0 +1,63 @@
+{
+  "number": 384,
+  "language": "tw",
+  "title": "Dapɛn Fof'ro Mu Nyame",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dapɛn fofro mu Nyame",
+        "Ahwɛ y'akwantu so dwoo;",
+        "Momma yɛnhwehwɛ nhyira,",
+        "Yɛretwɛn Ne fie nnɛ yi;",
+        "Dapɛn nyinaa mu da pa,",
+        "Daa home ho sɛnky'rɛnne.",
+        "Dapɛn nyinaa mu da pa,",
+        "Daa home ho sɛnky'rɛnne."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B're a yɛnam Dimafo",
+        "Din mu hwehwɛ ɔdom yi,",
+        "Fa W'aniim pa no ky'rɛ yɛn,",
+        "Yi yɛn bɔn' ne fɛre hɔ;",
+        "Gye yɛn dadwen ne haw mu,",
+        "Ma yɛnhome Wo mu nnɛ.",
+        "Gye yɛn dadwen ne haw mu,",
+        "Ma yɛnhome Wo mu nnɛ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛsɔre anɔpa a,",
+        "Ma yɛnte nka sɛ Wobɛn;",
+        "Y'aba W'ahengua so yi,",
+        "Ma y'ani nhu W'anuonyam;",
+        "'Wura ma yɛnka daapem",
+        "Aponto no nhwɛ wɔ ha.",
+        "'Wura ma yɛnka daapem",
+        "Aponto no nhwɛ wɔ ha."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma 'sɛmpa no ho 'nigye",
+        "Nni bɔn' so nim, nkyekye w'rɛ;",
+        "Ma ɔdom aba nnɔɔso",
+        "Mfa 'hosan mma obiara;",
+        "Ma home nna ny'naa nyɛ saa,",
+        "Kosi sɛ yebedi hen;",
+        "Ma home nna ny'naa nyɛ saa,",
+        "Kosi sɛ yebedi hen'."
+      ],
+      "number": 4
+    }
+  ]
+}

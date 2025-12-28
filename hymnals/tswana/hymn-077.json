@@ -1,0 +1,54 @@
+{
+  "number": 77,
+  "language": "tn",
+  "title": "77 Ke Rata Go Bolela Polelo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Rata Go Bolela Polelo’a Godimo,",
+        "Ka Jeso kgalalelong, Ka Jeso loratong;",
+        "Ke rata go e bolela, Gonne k’itse ke nnete,",
+        "E nkgorisa keletsong, Go gaisa tsotlhe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke rata go bolela Polelo kgalalelong,",
+        "Puo ya bogolo-golo Ya rato lwa Jeso."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Rata Go Bolela Puo E Gakgamatsang,",
+        "Go feta le digouda tsa toro tsa rona;",
+        "Ke rata go e bolela, E ntiretse thata,",
+        "Mme ke ka ntata eo. Ke’ lo bolelelang."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Rata Go Bolela Puo E Monate,",
+        "Mme fa ke e bolela, E botshe bogolo;",
+        "Ke rata go e bolela, Gonne bangwe ga ba’",
+        "Utlwa thom’a poloko, E tswang go Modimo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Rata Go E Bolela, Gonne Ba Ba E Itseng,",
+        "Ba rata go e utlwa, Le jaaka ba bangwe;",
+        "Fa ke le kgalalelong Kopelo ya me ’ntsha,",
+        "E tla nna yone ele, E ke e ratileng"
+      ],
+      "number": 4
+    }
+  ]
+}

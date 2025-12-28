@@ -1,0 +1,48 @@
+{
+  "number": 185,
+  "language": "fr",
+  "title": "Tout joyeux bénissons",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tout joyeux, bénissons le Seigneur,",
+        "Chantons et célébrons ses louanges,",
+        "Adorons avec foi le Sauveur,",
+        "Nous joignant aux célestes phalanges."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Gloire à Dieu! Gloire à Dieu!",
+        "Que ce chant retentisse en tout lieu!",
+        "Gloire à Dieu! Gloire à Dieu!",
+        "Que ce chant retentisse en tout lieu!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dieu, dans son incomparable amour,",
+        "Du ciel envoya son Fils unique,",
+        "Et la terre et les cieux, dans ce jour,",
+        "S'unissent pour chanter ce cantique."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous voulons désormais, bon Sauveur,",
+        "T'aimer par dessus toute autre chose,",
+        "Forme ton amour dans notre coeur,",
+        "Et puis, de chacun de nous, dispose!"
+      ],
+      "number": 4
+    }
+  ]
+}

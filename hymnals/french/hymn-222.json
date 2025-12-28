@@ -1,0 +1,43 @@
+{
+  "number": 222,
+  "language": "fr",
+  "title": "Paralysés par les nombreuses peurs",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Paralysés par les nombreuses peurs",
+        "Qui tuent en nous l'audace des témoins,",
+        "Nous nous taisons quand souffre l'innocent,",
+        "Nous sommeillons, tandis qu'il meurt de faim.",
+        "Mais toi, Seigneur, qui portas nos péchés,",
+        "Change nos cœurs pour que naisse ta paix."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Désespérés par tant de reniements",
+        "Qui nous reprochent notre lâcheté,",
+        "Nous n'avons plus la force d'avancer,",
+        "Rien ne soulève nos pas fatigués.",
+        "Mais toi, Seigneur, qui portas nos péchés,",
+        "Change nos cœurs et nous serons sauvés."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Toujours enclins à ne pas pardonner,",
+        "À critiquer et même à condamner,",
+        "Nous entourons nos frères de mépris,",
+        "Nous refusons de leur tendre la main.",
+        "Mais toi, Seigneur, qui portas nos péchés,",
+        "Change nos cœurs et que vienne l'amour."
+      ],
+      "number": 3
+    }
+  ]
+}

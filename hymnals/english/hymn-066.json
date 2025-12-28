@@ -1,0 +1,48 @@
+{
+  "number": 66,
+  "language": "en",
+  "title": "66 Happy Day",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, happy day! That fixed choice,",
+        "On thee, my Saviour and my God;",
+        "Well may this glowing heart rejoice,",
+        "And tell its raptures all abroad"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Happy day, happy day,",
+        "When Jesus washed my sins away!",
+        "He taught me how to and pray,",
+        "And live Rejoicing ev’ry day,",
+        "Happy day! Happy day!",
+        "When Jesus washed my sins away!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Tis done, the great transaction’s done;",
+        "I am my Lord’s and he is mine",
+        "He drew me and I followed on,",
+        "Rejoiced to own the call divine."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Now rest, my long divided heart,",
+        "Fixed on this blissful center rest;",
+        "Nor ever from thy Lord depart,",
+        "With him ev’ry good possessed"
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 283,
+  "language": "ve",
+  "title": "283. munwe U do Dzhena Nga Khoro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:176"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. munwe u do dzhena nga khoro, Zwe’ zwino, zwe’ zwino;",
+        "A thetshele vhugala ha hone, Hu nga vha nne? na inwi?",
+        "U do tshimbila kha musuku, A vhone madzanga henengei;",
+        "O fulufhedziswaho kale, Hu nga vha nne? Kana inwi?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. munwe u do rula muhwalo, Zwe’ zwino, zwe’ zwino;",
+        "Vha tendaho vha wana khare, Hu nga vha nne? kana inwi?",
+        "munwe u do vhona Murena, Matungu a shango o fhela;",
+        "U do takala nae tshothe, Hu nga vha nne? kana inwi?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. munwe u do wana ho valwa, Zwe’ zwino, zwe’ zwino;",
+        "Ipfi la ri: A thi ni divhi.’ Hu nga vha nne? kana inwi?",
+        "A vhidzelela a si pfiwe, Vothi la hone li si vulwe;",
+        "munwe u do dzinwa malamba, Hu nga vha nne? kana inwi?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "munwe u do imba lwa gundo, Zwe’ zwino, zwe’ zwino;",
+        "Na mavhuthu o no tshidzwaho, Hu nga vha nne? kana inwi?",
+        "munwe u do resha na vhanwe, Vha funwa na vho faho kale;",
+        "Vha dzula vhugalani tshothe, Hu nga vha nne? Kana inwi?"
+      ],
+      "number": 5
+    }
+  ]
+}

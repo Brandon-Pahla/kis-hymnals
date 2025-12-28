@@ -1,0 +1,67 @@
+{
+  "number": 68,
+  "language": "es",
+  "title": "Todo lo que ha creado Dios",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Todo lo que ha creado Dios"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Todo lo que ha creado Dios",
+        "alce su voz para cantar;",
+        "Aleluya, aleluya.",
+        "Dorado y brillante sol,",
+        "y luna de plateada luz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Alabadle, alabadle;",
+        "aleluya, aleluya, aleluya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ligera brisa o vendaval,",
+        "nube que cruza el cielo azul:",
+        "Alabadle, aleluya.",
+        "Rosado y bello amanecer,",
+        "tranquilo y calmo anochecer."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rugiente y tempestuoso mar,",
+        "arroyo alegre al correr:",
+        "Alabadle, aleluya.",
+        "Oh, fuego ardiente, abrazador,",
+        "que da calor a nuestro hogar."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Todas las cosas, adorad",
+        "con humildad al Creador,",
+        "alabadle, aleluya.",
+        "Todo lo que ha creado Dios",
+        "alabe al soberano Rey."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "number": 428,
+  "language": "es",
+  "title": "Su oveja soy",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Su oveja soy"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Junto a aguas tranquilas",
+        "me apacienta Jesús;",
+        "juntos andamos al atardecer.",
+        "Todos somos ovejas",
+        "de su tierno redil;",
+        "su oveja soy.",
+        "Aguas hay, protección,",
+        "cuando estoy con el Señor",
+        "Jesús.",
+        "Soledad, aflicción,",
+        "ya no temo con Jesús."
+      ],
+      "number": 2
+    }
+  ]
+}

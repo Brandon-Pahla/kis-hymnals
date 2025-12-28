@@ -1,0 +1,62 @@
+{
+  "number": 225,
+  "language": "ve",
+  "title": "225. Imani Sa Muhali",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:610",
+        "AH:367"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mukriste vuwa! U ralo Murena,",
+        "ditame nga mafumo na tshitangu,",
+        "Ni yo lwa na mulingi ni sa ofhi,",
+        "Ni vhe muhali ni tshi livha swina."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Imani-ha sa muhali",
+        "Imani no livhana na swina."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ni tshi livhana na khombo ni thanye,",
+        "Ni funa u kunda mmbi dza swiswi,",
+        "Ni furalele, tshitangu tshi hone,",
+        "Ni vhe muhali, ni tshi livha swina."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Lwelani fhungo la Murena wanu,",
+        "Ilwani u swikela vhufheloni",
+        "Hune a ni isa ni ye no thanya,",
+        "Ni vhe muhali ni tshi livha swina."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Futelelani Murena u tsini,",
+        "U do ni nea Maanda na tshilidzi,",
+        "Lufuno lu elaho sa mulambo,",
+        "Ni vhe muhali, ni tshi livha swina."
+      ],
+      "number": 5
+    }
+  ]
+}

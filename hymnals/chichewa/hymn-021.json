@@ -1,0 +1,32 @@
+{
+  "number": 21,
+  "language": "ny",
+  "title": "21 - Ndiri Kudza Kwa Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I AM COMING TO THE CROSS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Ndiri kudza kwa Yesu, Ndasauka ndachimwa;",
+        "Zonse zanga ndisiya, Kukapeza moyotu.",
+        "CHORUS:",
+        "Yesu ndikhulupira, Munafera inedi,",
+        "Mwa umphawi ndipempha, Mundipulumutsetu.",
+        "2. Inde Inu ndifuna, Ndinachimwa kwambiri;",
+        "Yesu ati, Ndichotsa Zakuipa zakozo.",
+        "3. Yesu zonse ndipatsa, Zili zanu tsopano,",
+        "Mtima wanga wonsewu, Muli mwini waketu.",
+        "4. Ndikukhulupirani, Mwazi wanu ndidziwa,",
+        "Wayeretsa inenso, Ndapachikwa ndi Khristu.",
+        "5. Yesu adzandidzaza Mtima wanga wonsewu,",
+        "Ine ndiri woyera, Yesu wanga nditama."
+      ]
+    }
+  ]
+}

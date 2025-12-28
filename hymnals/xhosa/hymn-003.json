@@ -1,0 +1,46 @@
+{
+  "number": 3,
+  "language": "xh",
+  "title": "3 Ubuso ngoBuso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ukubonana ngobuso No-Kristu uMsindisi;",
+        "Loba njanina uvuyo, Lokumbona uYesu!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ukubonana ngobuso Ngaphaya kwenkwenkwezi.",
+        "Ebuqaqaulini Bakhe, ndakumbona ngobuso."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngok’ ndibona kaluzizi, kuko okusithayo;",
+        "Liyez’ ilanga elihle, ndobon’ uzuko lwaKhe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiya kugcob’ ukumbona, Kophela ukukhala;",
+        "Konke okungaziwayo kwa kukhanyiswa khona."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ukubonana ngobuso Naye uMphathi wami;",
+        "Siya kubukana thina noYesu uMsindisi."
+      ],
+      "number": 4
+    }
+  ]
+}

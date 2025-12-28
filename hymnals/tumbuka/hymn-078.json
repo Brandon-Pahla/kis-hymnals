@@ -1,0 +1,66 @@
+{
+  "number": 78,
+  "language": "tum",
+  "title": " 78 Wataska Wakufwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 78 Wataska Wakufwa",
+        "RESCUE THE PERISHING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Wataska wakufwa wapwelerera,",
+        "Uwapoke ku uheni wawo",
+        "Lirira wasovyi, wuska wakuwa,",
+        "Waphalira vya Yesu mponoski."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wataska wakufiwa, wapweLerera,",
+        "Yesu ngwa Lusungu kuponoska."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nanga wakumtinkha, wakulindizga,",
+        "Kupokelera awo wapera,",
+        "Wakuweyerera na phamphu lose,",
+        "Wakupera tiwagowokere."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Awo mbakuphyoka na mrwani wawo,",
+        "Ntha wakumanya kuweleramo,",
+        "Wezi na kutemwa vingawachizga,",
+        "Wangendaso na nkhongono ziphya."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Wataska wakufwa, ndi mlimo wako,",
+        "Yesu tiwakupe mphavu zake,",
+        "Ku nthowa yifinyi wawezgereso,",
+        "Yesu wakafwira wamayinga.."
+      ],
+      "number": 5
+    }
+  ]
+}

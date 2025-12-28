@@ -1,0 +1,31 @@
+{
+  "number": 82,
+  "language": "st",
+  "title": "82 Hoseng Kameso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Morena ha e-sa le hoseng, Utloa kopo ea ka;",
+        "Ho Uena ke tla rapela, Ke talimme Uena."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A u ke U nkhule moeeng, Tseleng ena ea Hau;",
+        "Mesebetsi eohle ea ka, E tle loke hantle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bao ba O ratang Jesu, E ba tla kholisoa;",
+        "Molimo O tla ba thusa, Ka mohau oa Hae."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "number": 70,
+  "language": "luo",
+  "title": "70 Nyasaye Wachokore",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nyasaye wachokoregi chuny mar hera ka;Hera moriwo chunywa kaEn hera mar Nyasaye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. E nyim kom-duong`Wuonwa Walamo gi chunywa;Kuom yie, gi geno, gi paro,Chunywa bedo achiel."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Wariwo chandruokwa,Gi ting`wa duto be;Wajiwore kuom NyasachwaKwakonyore maber."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "number": 118,
+  "language": "es",
+  "title": "Cuando estés cansado y abatido",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cuando estés cansado y abatido"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando estés cansado y",
+        "abatido,",
+        "dilo a Cristo, dilo a Cristo;",
+        "angustiado por el gozo huido,",
+        "dilo a Cristo, el Señor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Dilo a Cristo, dilo a Cristo,",
+        "él es tu amigo mejor;",
+        "otro no hay como él amante",
+        "hermano;",
+        "dilo a Cristo, el Señor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si en ti sientes grande",
+        "amargura,",
+        "dilo a Cristo, dilo a Cristo;",
+        "si en tu vida hay faltas",
+        "ocultadas,",
+        "dilo a Cristo, el Señor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si el nublado de tristeza",
+        "temes,",
+        "dilo a Cristo, dilo a Cristo;",
+        "si saber de tu mañana",
+        "quieres,",
+        "dilo a Cristo, el Señor."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Te perturba el contemplar la",
+        "muerte?",
+        "Dilo a Cristo, dilo a Cristo.",
+        "¿En el reino anhelas pronto",
+        "verte?",
+        "Dilo a Cristo, el Señor."
+      ],
+      "number": 6
+    }
+  ]
+}

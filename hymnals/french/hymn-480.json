@@ -1,0 +1,55 @@
+{
+  "number": 480,
+  "language": "fr",
+  "title": "Nous t'adorons, Dieu vivant",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nous t'adorons, Dieu vivant et fidèle,",
+        "Qui nous sauvas d'une mort éternelle,",
+        "En nous scellant pour ta gloire, à jamais,",
+        "Par la vertu de ton Esprit de paix.",
+        "En nous scellant pour ta gloire, à jamais,",
+        "Par la vertu de ton Esprit de paix."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu vins briser notre dur esclavage,",
+        "Et ton Esprit nous rend le témoignage",
+        "Qu'en Jésus-Christ nous sommes adoptés",
+        "Pour tes enfants et pour tes rachetés.",
+        "Qu'en Jésus-Christ nous sommes adoptés",
+        "Pour tes enfants et pour tes rachetés."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le malheureux qui, dans son infortune,",
+        "S'adresse à toi, jamais ne t'importune.",
+        "Allez à lui, fatigués et chargés,",
+        "Vous reviendrez guéris ou soulagés.",
+        "Allez à lui, fatigués et chargés,",
+        "Vous reviendrez guéris ou soulagés."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous voulons donc marcher à ta lumière,",
+        "Guide céleste, Esprit de notre Père.",
+        "Oui, nous voulons, docile à ta voix,",
+        "Suivre joyeux le chemin de la croix.",
+        "Oui, nous voulons, docile à ta voix,",
+        "Suivre joyeux le chemin de la croix."
+      ],
+      "number": 4
+    }
+  ]
+}

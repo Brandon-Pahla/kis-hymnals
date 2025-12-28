@@ -1,0 +1,35 @@
+{
+  "number": 117,
+  "language": "guz",
+  "title": "117 'Monene Nakwegene?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Segi yokorwanerera,'Keene noboronge'Segi ndoro yokorwania,chinguru chi'omosunteBaremu barigirie,Eri'ere nakwegene?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Monene Nakwegene,Nomoe, oboneneRem' okwane nomokia,Eri'ere nakwegene?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Rora bacha nendamwamu,Nechinguru chi'omobeNechinguru chi'omobisakorw' ense y'omosunte,'Baremu barigirie,Eri' ere nakwegene."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tata igo atoroche,'Malaik' atotoriaYeso ner' Omorai oito,titokonyara kogwaBaremu nababua,Eri' ere nakwegene?"
+      ],
+      "number": 4
+    }
+  ]
+}

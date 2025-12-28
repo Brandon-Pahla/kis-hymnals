@@ -1,0 +1,36 @@
+{
+  "number": 311,
+  "language": "ts",
+  "title": "311. SWI SASEKILE NGOPFU KU FAMBA NA YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Swi Sasekile Ngopfu Ku Famba Na Yesu,",
+        "wi Sasekile Ngopfu Ku Famba Na Yesu;",
+        "Swi Sasekile Ngopfu Ku Famba Na Yesu,",
+        "I Siku Lerikulu Ka Mina Na Le Ka Wena.",
+        "2. A Ndza Ha Naveli Swilo Swa Misava,",
+        "A Ndza Ha Naveli Swilo Swa Misava,",
+        "A Ndza Ha Naveli Swilo Swa Misava,",
+        "I Siku Lerikulu Ka Mina Na Le Ka Wena.3. Ku Yiva Swa Vanhu A Ndza Ha Swi Lavi,",
+        "Ku Yiva Swa Vanhu A Ndza Ha Swi Lavi,",
+        "Ku Yiva Swa Vanhu A Ndza Ha Swi Lavi,",
+        "I Siku Lerikulu Ka Mina Na Le Ka Wena.",
+        "4. Ku Hleva Van’wana A Ndza Ha Swi Lavi,",
+        "Ku Hleva Van’wana A Ndza Ha Swi Lavi,",
+        "Ku Hleva Van’wana A Ndza Ha Swi Lavi,",
+        "I Siku Lerikulu Ka Mina Na Le Ka Wena.",
+        "5. Ku Dzaha Mafole A Ndza Ha Swi Lavi,",
+        "Ku Dzaha Mafole A Ndza Ha Swi Lavi,",
+        "Ku Dzaha Mafole A Ndza Ha Swi Lavi,",
+        "I Siku Lerikulu Ka Mina Na Le Ka Wena.",
+        "6. Ku Hlahluva Tinhlolo A Ndza Ha Swi Lavi,",
+        "Ku Hlahluva Tinhlolo A Ndza Ha Swi Lavi;",
+        "Ku Hlahluva Tinhlolo A Ndza Ha Swi Lavi,",
+        "I Siku Lerikulu Ka Mina Na Le Ka Wena."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 109,
+  "language": "tum",
+  "title": " 109 Apo Fumu Yizampima",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 109 Apo Fumu Yizampima",
+        "WEIGHED AND WANTING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Apo Fumu yizampima,",
+        "vyakubisika vyose,",
+        "Kasi ise tizamkwera,",
+        "panji tizamtondeka?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Fumu yakupima iwe,",
+        "wapere era,",
+        "Na marango m mazgu ghake,",
+        "wapere era."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Tampulika mazgu ghake,",
+        "wachita makora 'we,",
+        "Panji wizam nena kuti,",
+        "fumapo wakwananga."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Tampulika mzimu wake,",
+        "nyengo yichali waka,",
+        "Panji tichedwenge mbwenu,",
+        "na mpaka tinangike."
+      ],
+      "number": 4
+    }
+  ]
+}

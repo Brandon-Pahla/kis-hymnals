@@ -1,0 +1,63 @@
+{
+  "number": 63,
+  "language": "fr",
+  "title": "Roi couvert de blessures",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Roi couvert de blessures,",
+        "Meurtri pour mon péché,",
+        "Roi tout couvert d'injures,",
+        "À la croix attaché,",
+        "Des splendeurs éternelles",
+        "Autrefois couronné,",
+        "C'est d'épines cruelles",
+        "Que je te vois orné."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ainsi ton sang expie",
+        "Mes péchés odieux :",
+        "Pour me donner la vie",
+        "Tu meurs en ces bas lieux.",
+        "Rebelle et misérable,",
+        "Je m'abats devant toi ;",
+        "Rédempteur charitable,",
+        "Ah ! prends pitié de moi !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tourne vers moi ta face,",
+        "Fidèle et bon Sauveur !",
+        "Oh ! quel trésor de grâce",
+        "Je trouve en ta douleur.",
+        "Mourant pour mon offense,",
+        "Tu m'acquis, ô Jésus !",
+        "Du coeur la renaissance",
+        "Et la paix des élus."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oui, pour ton agonie,",
+        "Pour ta vive douleur,",
+        "Je veux, toute ma vie,",
+        "Te bénir, bon Sauveur !",
+        "Ta grâce est éternelle,",
+        "Et rien jusqu'à la fin,",
+        "Ne pourra, Dieu fidèle,",
+        "Me ravir de ta main."
+      ],
+      "number": 4
+    }
+  ]
+}

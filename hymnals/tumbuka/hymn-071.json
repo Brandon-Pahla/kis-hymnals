@@ -1,0 +1,55 @@
+{
+  "number": 71,
+  "language": "tum",
+  "title": " 71 Kasi Zina Lane Lalembeka?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 71 Kasi Zina Lane Lalembeka?",
+        "IS MY NAME WRITTEN THERE?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Fumu ntha nkhudoka kuti ndiwe msambazi,",
+        "Nkhukhumba kukanjira mcharu cha kuchanya,",
+        "M'buku linu lituwa la mu'fumu winu,",
+        "Zina lane lirimo m'buku la umoyo?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kasi zina Lane Lini kuLembeka?",
+        "M'buku Linu Lituvwa, kasi Iiri mumo?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Zakwananga n'zinandi izo ndiri nazo,",
+        "Ndopa za muwomboli zikandithikira,",
+        "Mukapangana kale mu buku lituwa,",
+        "Nanga ziwe ziswesi, zitisukikenge."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mu msumba wa golide, m'nyumba zakutowa,",
+        "Wose mbatuwa wakuvwara uchindami,",
+        "Uheniso kulije kwa muyirayira,",
+        "Zina lane lirimo m'buku la umoyoo?"
+      ],
+      "number": 4
+    }
+  ]
+}

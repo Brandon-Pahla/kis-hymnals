@@ -1,0 +1,56 @@
+{
+  "number": 343,
+  "language": "pt",
+  "title": "Vamos Batalhar",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Vamos Batalhar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vamos batalhar, juntos pelejar,",
+        "Todos a lutar, vamos já.",
+        "Eis que nosso Rei com as hostes vem",
+        "Tão glorioso! Quem O vencerá?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Vamos, crentes, vamos já avante,",
+        "Firmes sempre, com o Rei da paz.",
+        "Cristo é nosso forte Comandante,",
+        "Ele é nosso General capaz."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vamos avançar, sem temor alçar,",
+        "Sim, fazer brilhar nossa luz.",
+        "Trevas vão fugir, glórias hão de vir,",
+        "Venham todos aclamar Jesus!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Deus, glorioso Pai, sempre à frente vai,",
+        "Firmes, pois, Lutar com ardor.",
+        "Quando o fim chegar, findo o batalhar,",
+        "Vem-nos coroar, por Teu amor!"
+      ],
+      "number": 5
+    }
+  ]
+}

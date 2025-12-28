@@ -1,0 +1,49 @@
+{
+  "number": 767,
+  "language": "tw",
+  "title": "NG17 Agya Bεhwε",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Agya bεhwε, Agya bεka,",
+        "Me Nyame bεdi ama me o;",
+        "Nyame a ɔntɔ nko, ɔnna",
+        "Dabiara da o;",
+        "Agya bεhwε, Agya bεka,",
+        "Me Nyame bεdi ama me o;",
+        "Metwere No a,metwere ɔbotan",
+        "M’anim ngu ase ara da o."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sε asεm bi to me a;",
+        "Me Nyame bεdi ama me o;",
+        "Sε ɔko ba me so a,",
+        "Me Nyame bɔko agye me o.",
+        "Ɔbεka ama me, ɔbεdi ama me,",
+        "Ɔbεko agye me nti mensuro hwee.",
+        "Agya bεhwε, Agya bεka,",
+        "M Nyame bεdi ama me o",
+        "Metwere No a, metwere ɔbotan",
+        "M’anim ngu ase ara da o."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame no ara, me bɔfo no,",
+        "Yehowa wɔ hɔ ma me o",
+        "Me dɔfo Yesu, ɔmpa m’akyi ara da o",
+        "Nyame no ara,me bɔfo no",
+        "Yehowa wɔ hɔ ma me o",
+        "Ɔnim me fi y’afun’ mu",
+        "Ansa na wɔ woo me o."
+      ],
+      "number": 2
+    }
+  ]
+}

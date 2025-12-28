@@ -1,0 +1,49 @@
+{
+  "number": 261,
+  "language": "tw",
+  "title": "A W'rade Honhom Yii Ne Pɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Aw'rade Honhom yii ne pɛ",
+        "Ky'rɛɛ tete 'hotefo;",
+        "Buee wɔn 'koma ne wɔn ano",
+        "Ma wɔkaa N'anuonyam,",
+        "Wofi aw'rɛhow sum no mu",
+        "Kaa Asɛm no kyerɛe,",
+        "Na hann a na ɛrepue nom,",
+        "Wɔkaa 'W'rade mmae no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ad'yifo no kɔ akyi no,",
+        "Asɛm a ɛbɛyɛɛ",
+        "'Nipa no bae, nea ad'yifo",
+        "Dii Ne ho 'danse no.",
+        "Oyii hann a ɛkyɛn sō adi,",
+        "Nea ɔyɛ hann mu Hann;",
+        "ɔbɛyɛɛ nipa sɛ yɛn no,",
+        "Oyii Agya no ky'rɛe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Daa Honhom a Wokasa ky'rɛ",
+        "Adwen ne ahonim,",
+        "Sɛnea nnɛ yi yɛbɛhwehwɛ",
+        "Ayɛ Agya no pɛ;",
+        "Fa nkwasɛm, Kristo no, brɛ yɛn,",
+        "Nea ɔyɛ nkwa kwan no;",
+        "Ma yɛn ahobrɛase koma,",
+        "Ma yɛmfa nyɛ setie."
+      ],
+      "number": 3
+    }
+  ]
+}

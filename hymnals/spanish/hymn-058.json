@@ -1,0 +1,63 @@
+{
+  "number": 58,
+  "language": "es",
+  "title": "Grande es el Amor Divino",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Grande es el Amor Divino"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Grande es el amor divino,",
+        "es más amplio que el mar.",
+        "¡Qué bondad en su justicia!",
+        "Vino el mundo a libertar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "El nos llama con amor;",
+        "¡oh, sigamos al Señor!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En la sangre del Maestro",
+        "hay poder de salvación,",
+        "sanidad hay para el alma,",
+        "y del mal hay protección."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mas, oh cuánto limitamos",
+        "por la débil comprensión",
+        "su poder, su magna gracia,",
+        "despreciando su gran don."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Respondamos prestamente",
+        "al llamado de Jesús;",
+        "redimionos ampliamente",
+        "por su muerte en la cruz."
+      ],
+      "number": 6
+    }
+  ]
+}

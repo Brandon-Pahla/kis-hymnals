@@ -1,0 +1,55 @@
+{
+  "number": 272,
+  "language": "en",
+  "title": "272 Throw Out The Lifeline.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Throw out the lifeline across the dark wave,",
+        "There is a brother whom someone should save;",
+        "Somebody’s brother! Oh, who then will dare,",
+        "To throw out the lifeline, his peril to share?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Throw out the lifeline! Throw out the lifeline!",
+        "Someone is drifting away! Throw out the lifeline!",
+        "Throw out the lifeline! Someone is sinking today."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Throw out the lifeline with hand quick and strong;",
+        "Why do you tarry, why linger so long?",
+        "See! He is sinking; oh, hasten today,",
+        "And out with the life boat! Away, then, away!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Throw out the lifeline to danger-fraught men,",
+        "Sinking in anguish where you’ve never been;",
+        "Winds of temptation and billows of woe,",
+        "Will soon hurl them out where the dark waters flow."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Soon will the season of rescuer be o’er,",
+        "Soon will they drift to eternity’s shore;",
+        "Haste, then, my brother, no time for delay,",
+        "But throw out the lifeline and save them today."
+      ],
+      "number": 4
+    }
+  ]
+}

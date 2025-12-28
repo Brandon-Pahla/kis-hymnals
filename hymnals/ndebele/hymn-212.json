@@ -1,0 +1,48 @@
+{
+  "number": 212,
+  "language": "nd",
+  "title": "212 Khufika Kimi Ubumnandi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kufika kim’ ubumnandi Bok’hlabelela ngiphinde,",
+        "Ngicule futhi nafuthi Ngesiph’ esihle seNkosi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ukuthula, Ukuthula, Isipho esimnandi,",
+        "O, kumangalisay’ ukuthula,",
+        "Sipho sothando se Nkosi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "NgoKrestu ukuthula kwavela Ngokufa ngahlawulelwa,",
+        "Asikh’is’sekelo, Esidlula lesisipho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "UJesu sengiMbek’ umqhele Yagcwala eyam’inhliziyo",
+        "Zibusisa zakhe zodwa Ngazuza ukuthula."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "KuJesu nginokuthula Nxa nginaye kuhl’ impela",
+        "Akuveli luth’olunye Ngaphandle kokuthula."
+      ],
+      "number": 5
+    }
+  ]
+}

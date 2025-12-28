@@ -1,0 +1,25 @@
+{
+  "number": 350,
+  "language": "tum",
+  "title": " 350 Taya Masugzo Ghako",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 350 Taya Masugzo Ghako",
+        "Roll Your Burdens Away"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Taya masuzgo ghako,",
+        "taya masuzgo ghako,",
+        "Fumu yikufumyirenge vyose,",
+        "taya masuzgo ghako."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "number": 70,
+  "language": "tum",
+  "title": " 70 Para Yesu Wizamkuwungany",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 70 Para Yesu Wizamkuwungany",
+        "WHENJESUS SHALL GATHER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Para Yesu wizamkuwunganya,",
+        "wanthu wa mitundu yose,",
+        "Kasi tayamkwima wuli ise,",
+        "pachizumbe chacheruzgo?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wamkuwunganya pamo tinigu,",
+        "mwerero wose wamkutaya,",
+        "Kasi tayamkwima wuLi ise,",
+        "zuwa Lira La njeruzgo?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Kasi tayampulika wakuti,",
+        "wachita makora iwe?",
+        "Panji ise tayamkutenthema",
+        "nakutayika kuwalo?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Yesu wizamkondwa pakuwona,",
+        "wumba wa wakUWombokwa,",
+        "Wam wavwalika vya kugadima,",
+        "pakumuchindika Fumu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Tiyeni tose tirindizgenge,",
+        "tigozgenge nyali zithu,",
+        "Para mwenenthengwa wamkuchema,",
+        "tikawe wakunozgeka."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "Para tiwenge wakunozgeka,",
+        "na kuzizipizga m'vyose,",
+        "Pa umaliro wa lwendo lwithu,",
+        "tamruta nayo kuchanya."
+      ],
+      "number": 6
+    }
+  ]
+}

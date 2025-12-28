@@ -1,0 +1,55 @@
+{
+  "number": 21,
+  "language": "nd",
+  "title": "21 Ngi Yeza eSiphambanweni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yeza Nkosi yami, Ngi yimpuputhe mina",
+        "Ngi nikela okwami, KuWe ongangigcina"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yeza Nkosi yami, KuWe Msindisi wami",
+        "Ngi cela Menzi wami, Ak’ungamkele nami"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Umoya uyakhala, Ku bus’ okubi kimi",
+        "uJes’ u thi lalela, Ngosusa konk’ okubi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Konke ngi kunikela, Kanye nomoya wami",
+        "Ngibe ngowAk’ impela, Kuze kube nanini"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi z’esiphambanweni, Igazi lang’ophela",
+        "Ngi zilahl’ othulini, NoKrestu ngi bethelwe"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu woz’ ungamkhele, U ng’ enze ngi phelele",
+        "Ngi bengohlanzekile, Dumo! kulo iWundlu"
+      ],
+      "number": 6
+    }
+  ]
+}

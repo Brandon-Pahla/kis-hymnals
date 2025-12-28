@@ -1,0 +1,68 @@
+{
+  "number": 130,
+  "language": "tum",
+  "title": " 130 Ndine Winu Fumu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 130 Ndine Winu Fumu",
+        "I AM THINE, O LORD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ndine winu ndapulika mazgu,",
+        "Mwe gha chitemwa chinu,",
+        "Nkhunweka kwima mu chigomezgo,",
+        "M'ndiguzire kwa imwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "M'ndiguzire (kwinu) kufupi namwe,",
+        "Na kumphinjika yinu,",
+        "M'ndiguzire kwinu 'mwe Fumu yane,",
+        "Ku ndopa zikathika."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mndipatulire ku mimo winu,",
+        "M'nkhongono za uchizi,",
+        "Ndimdodoliskeni imwe Fumu,",
+        "Mumakhumbiro ghinu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nkhudoka kuwa na nyengo namwe,",
+        "Pa chizumbe kuchanya,",
+        "Pakujikamira imwe Fumu,",
+        "Nga mubwezi na mnyake."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Za ukuru wa chitemwa chinu,",
+        "Ndam manyira kusirya,",
+        "Nkhutondeka kuphala chimwemwe,",
+        "Mpaka nkhafike kura."
+      ],
+      "number": 5
+    }
+  ]
+}

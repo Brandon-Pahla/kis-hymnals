@@ -1,0 +1,33 @@
+{
+  "number": 27,
+  "language": "bem",
+  "title": "27 - TWATASHA  MWE  LESA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WE PRAISE THEE O GOD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Twatasha mwe Le-sa ku Mwana wenu,",
+        "Ye-su afwile ukutula ifwe.",
+        "CHORUS:",
+        "Aleluya! Aleluya! Aleluya! Ameni;",
+        "Aleluya! Aleluya! Mutwimye limbi.",
+        "2. Twatasha Lesa ku Mupashi wenu,",
+        "A-tulangile Mupusushi wesu.",
+        "3. Lulumbi lonse kwa Lesa mukulu,",
+        "A-tushitile nomba tuli bakwe.",
+        "4. Lulumbi lonse ku Mwana wa Mpanga.",
+        "A-sendele fya bipa fyesu fyonse.",
+        "5. Mutwimye nokwi-sula fye kutemwa,",
+        "Ko-sesha mitima yesu kuli iMwe."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "number": 149,
+  "language": "pt",
+  "title": "Espero a Manhã Radiosa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Espero a Manhã Radiosa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Espero a manhã radiosa,",
+        "O bendito alvorecer,",
+        "Quando as mágoas e tristezas",
+        "Desta vida eu esquecer"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Eu espero mui ansioso,",
+        "Meu Jesus aqui voltar;",
+        "Eu aguardo as boas-vindas",
+        "De Jesus, na praia de outro mar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Espero já mui cansado",
+        "Dos embates do viver,",
+        "Mas quando isto for passado,",
+        "Galardão hei de receber."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Espero já mui ansioso",
+        "O celeste lar de amor;",
+        "Qual um viajor saudoso,",
+        "Quero a vinda do Senhor."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Espero encontrar queridos",
+        "Na mansão celestial;",
+        "Receber do Mestre amado.",
+        "Um abraço fraternal."
+      ],
+      "number": 6
+    }
+  ]
+}

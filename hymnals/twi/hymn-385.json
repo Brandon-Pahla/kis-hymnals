@@ -1,0 +1,44 @@
+{
+  "number": 385,
+  "language": "tw",
+  "title": "A Debɔ Mu ɔbohemma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Adebɔ mu ɔbohemma",
+        "A wɔahy'ra so atew ho,",
+        "Ͻtra mm're ne nsakrae nyinaa",
+        "Wɔde ma yɛn 'nuonyam mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dá a wɔahy'ra ama 'nipa,",
+        "ɔbɔadeɛ nsam akyɛde."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bɔne, yare, mpaebɔ ne 'su",
+        "To twa wiase awiei b'rem';",
+        "Nso Wo Homeda tim hɔ daa.",
+        "Yɛde dɛw da Wo ase."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, ahum ne awiam, ky'rɛ yɛn",
+        "Sɛnea yɛhome Wo mu,",
+        "Wo Homeda mu asomdwoe",
+        "Ntwa yɛn ho nhyia daa nyinaa."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 104,
+  "language": "ve",
+  "title": "104. Ida Muvhofhololi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi a u lilela Ida kha nne, Ida-ha Mutshidzi;",
+        "Ndi a u dzindela Ida kha nne, Ida-ha Mutshidzi;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndo vha ndo xela ngei dzithavhani, nda vha kule na hayani;",
+        "Khumise ndi vhuyele hayani, Ida-ha Mutshidzi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. A thi na vhuawelo vhusiku, Ida-ha Mutshidzi;",
+        "Wa ndavhelesa ndi n ga di tshila, Ida-ha Mutshidzi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi tshimbila ndaila dzi kondaho, Ida-ha Mutshidzi;",
+        "Mato anga a lilala kha’we, Ida-ha Mutshidzi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. U si sande u di-nyadza hanga, Ida-ha Mutshidzi;",
+        "Ndi a lila apfa thabelo yanga, Ida-ha Mutshidzi."
+      ],
+      "number": 5
+    }
+  ]
+}

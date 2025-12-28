@@ -1,0 +1,63 @@
+{
+  "number": 159,
+  "language": "ny",
+  "title": "159 - Mbuyanga Ndisowa Inu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOW MUCH I NEED THEE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mbuyanga, ndisowa Inu!",
+        "Ndine wosaukadi;",
+        "Mundigwire dzanja,",
+        "Mbuye, Mundilimbikitsetu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nthawitu zonsezo,",
+        "Ndimasowa Inu, Mbuye!",
+        "Nthawitu zonsezo,",
+        "Yesu mundisunge ’ne."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mundiveke zakuyera,",
+        "Zanga zili nsanzatu;",
+        "Mndiphunzitse kupemphera,",
+        "Mundipatse mphamvuzo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Munditsogolere, Mbuye,",
+        "Ndekha ndilepheradi;",
+        "Myende nane pa miyalapo,",
+        "Ndinu nyali yangayo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndingapezetu mavuto,",
+        "Oliritsa mtimanga;",
+        "Ndidzaumirira Inu",
+        "Mdzandisangalatsadi."
+      ],
+      "number": 5
+    }
+  ]
+}

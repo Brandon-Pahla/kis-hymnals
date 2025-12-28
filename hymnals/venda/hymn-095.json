@@ -1,0 +1,55 @@
+{
+  "number": 95,
+  "language": "ve",
+  "title": "95 Murena Wo Ri Linda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:384",
+        "AH:386"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.Murena wo ri linda kha maduvha a vhege,",
+        "Ri nee Phathutshedzo musi ri phanda hau,",
+        "Heli duvha lavhudi li sumbedza zwIdaho,",
+        "Heli duvha lavhudi li sumbedza zwIdaho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ri humbela tshilidzi, nga dzina lau Mutshidzi,",
+        "Ri sedze nga tshilidzi, U tuse zwivhi zwashu,",
+        "Ri ruliwe mathupho ri awele na Iwe,",
+        "Ri ruliwe mathupho ri awele na Iwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri renda dzina lau, i vha tsini na rine,",
+        "Ri vhone vhurena hau, musi ri nduni yau,",
+        "Ri thetshedze namusi vhudi vhu sa fheliho,",
+        "Ri thetshedze namusi vhudi vhu sa fheliho."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Fhungo lau kha li pfale,li kunde vhuvhi hothe,",
+        "Hu vhone mitshelo yalo dzimbiluni dzashu,",
+        "Ri rende nga Savhatha u swikela u tshi da,",
+        "Ri rende nga Savhatha u swikela u tshi da."
+      ],
+      "number": 5
+    }
+  ]
+}

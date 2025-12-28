@@ -1,0 +1,56 @@
+{
+  "number": 507,
+  "language": "tw",
+  "title": "Me Ne Yesu Wu, Na Wɔagyem' Atom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me ne Yesu wu, na wɔagyem' atom,",
+        "Me ne Yesu tra s'ro nkwa fof'ro mu,",
+        "Mehwɛ Yesu kosi 'nuonyam hy'rɛn no",
+        "B're biara mu no, O 'W'ra, me wɔ Wo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "B're biara mu no, ɔkōra me Ne dɔm',",
+        "B're biara mu no, mewɔ nkwa fi s'ro;",
+        "Mehwɛ Yesu kosi 'nuonyam hy'rɛm no,",
+        "B're biara mu no, O 'W'ra, mewɔ Wo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɔhwɛ biara ntoo yɛn a Onni hɔ',",
+        "Adesoa biara nni hɔ a ɔnsoa;",
+        "'W'rɛhowdi bi nni hɔ a ɔnka ho,",
+        "B're biara mu no, mewɔ Ne banbɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Koma yaw ne 'pinisi bi nni hɔ,",
+        "Na nusu ne yawdi bi nso nni hɔ;",
+        "Mmusu bi nni hɔ a ennu N'anim,",
+        "B're biara mu no, ɔdwen Ne de ho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mmerɛwyɛ bi nni hɔ a ɔnte nka,",
+        "Yare bi nni hɔ a ɔntumi nsa;",
+        "'W'rɛhow ne dɛw wɔ b're biara mu no,",
+        "Yesu m'Agyenkwa no ne me wɔ hɔ."
+      ],
+      "number": 4
+    }
+  ]
+}

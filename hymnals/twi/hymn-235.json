@@ -1,0 +1,55 @@
+{
+  "number": 235,
+  "language": "tw",
+  "title": "Kristo Ayɛ Nokwar' Fapem",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kristo ayɛ nokwar' fapem,",
+        "Yɛn ti ne tweaso tiboɔ;",
+        "'W'rade ayi No, ɔsom bo,",
+        "ɔka Asafo no bom;",
+        "Sion Kronkron, daa daa boafo,",
+        "ɔne yɛn ahotoso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'rade, bɛtra asɔr'fi a",
+        "Yɛrefrɛ Wo wɔ mu yim';",
+        "Bra wɔ W'ayamye no ny'naa mu,",
+        "Tie Wo nkurɔfo mpaebɔ.",
+        "Na hwie Wo nhyira no ny'naa gu",
+        "W'asomfo so nnɛ da yi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "YɛsrɛW', ma Wo nokwar' 'somfo",
+        "Nnya wɔn abisade ny'naa;",
+        "Nea wɔne ahy'rafo nya fi",
+        "Wo hɔ no ntra ha daa daa;",
+        "Na wɔne Wo nni ahen' wɔ",
+        "W'anuonyam mu afebɔɔ."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Yeyi, 'nidi nka Agya no,",
+        "'Yeyi, 'nidi nka 'Ba no,",
+        "'Yeyi, 'nidi nka Honhom no,",
+        "Daa Nyame baasak'ro no;",
+        "Moyɛ k'ro 'nuonyam ne tumim'",
+        "Kosi mm'rč a enni awiei."
+      ],
+      "number": 4
+    }
+  ]
+}

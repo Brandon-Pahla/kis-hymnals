@@ -1,0 +1,48 @@
+{
+  "number": 123,
+  "language": "ve",
+  "title": "123. Dzina Li Re likhethwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Dzina lone li funwaho, ndi line nda li divha;",
+        "lo nekedzwa nga Mudzimu, nga murwa a funwaho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndi lone likhethwa, ndi lone likhethwa;",
+        "lo bva tadulu la swika fhano,",
+        "lo da na vharunwa nga vhunwe vhusiku,",
+        "ndi lone dzina la Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kha nne li da na mashudu, uri ndi mu rende-vho;",
+        "Ndi imba dzina la Ene na hone vhudi halo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi imbela luimbo ngauri ndo vhofhololwa,",
+        "Ndi rende lini na lini, dzina lo ambiwaho."
+      ],
+      "number": 4
+    }
+  ]
+}

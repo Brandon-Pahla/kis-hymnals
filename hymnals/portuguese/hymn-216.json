@@ -1,0 +1,56 @@
+{
+  "number": 216,
+  "language": "pt",
+  "title": "Eu Achei Junto à Cruz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Eu Achei Junto à Cruz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu achei junto à cruz",
+        "Límpido manancial.",
+        "Limpo estou, por Jesus,",
+        "Livre de todo o mal."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Vem, Jesus, meu Senhor,",
+        "Toma-me pela mão.",
+        "Tenho paz, luz e amor,",
+        "Sob Tua proteção."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quero andar com Jesus,",
+        "Por onde me levar,",
+        "Pois eu sei, pela luz,",
+        "Meus passos quer guiar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sinto paz, doce paz,",
+        "Mesmo que sofra a dor.",
+        "Grato sou, pois Jesus",
+        "Guarda-me em Seu amor."
+      ],
+      "number": 5
+    }
+  ]
+}

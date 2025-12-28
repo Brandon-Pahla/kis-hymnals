@@ -1,0 +1,31 @@
+{
+  "number": 96,
+  "language": "tn",
+  "title": "96 Tla Ka Pula",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tla Ka Pula Tsatsi Ja Boikhutso Mo Lefatshing;",
+        "O tle mo sefubeng se, Lesedi ja godimo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsatsi Ja Tuulalo, Go Fitlha Nako Tsa Go;",
+        "Phodiso bohutsaneng, Re bo re wetse tiro."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsatsi Je Le Boitshepo, Ja Pako Le Thapelo,",
+        "Ke je le tlhalefisang, Ja masego a mantsi."
+      ],
+      "number": 3
+    }
+  ]
+}

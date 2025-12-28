@@ -1,0 +1,48 @@
+{
+  "number": 341,
+  "language": "fr",
+  "title": "Repos si doux",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Repos si doux, repos béni,",
+        "Consacré par le créateur,",
+        "Ô sabbat ! ô don infini,",
+        "Tu conduis à la paix du cœur."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Repos si doux, repos de Dieu,",
+        "Où se révèle son amour,",
+        "Tu fus pour les siens, en tout lieu,",
+        "De tous, le plus précieux jour."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Repos si doux, repos du ciel,",
+        "Où sur les ailes de la foi,",
+        "Mon âme, au rivage éternel,",
+        "S'élance, allègre, vers son roi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sabbat béni, bonheur divin,",
+        "Consacré par le créateur,",
+        "Tu restes sur notre chemin,",
+        "La joie et le repos du cœur.",
+        "Amen."
+      ],
+      "number": 4
+    }
+  ]
+}

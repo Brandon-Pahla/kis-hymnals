@@ -1,0 +1,66 @@
+{
+  "number": 315,
+  "language": "pt",
+  "title": "Hoje Ajuda a Alguém",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Hoje Ajuda a Alguém"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lança os olhares em tomo de ti,",
+        "Sim, ajuda hoje a alguém!",
+        "Sê um auxílio ao teu próximo ali,",
+        "Sim, ajuda hoje a alguém!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Sim, ajuda hoje a alguém,",
+        "Demonstra-lhe amor também;",
+        "Remove o temor e promove o amor,",
+        "Oh, sim ajuda hoje a alguém."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muitos aguardam Palavras de amor,",
+        "Sim, ajuda hoje a alguém!",
+        "Inda que seja pequeno o favor,",
+        "Sim, ajuda hoje a alguém!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muitos têm cargas pesadas demais,",
+        "Sim, ajuda hoje a alguém!",
+        "Quantos sucumbem em seus tristes ais!",
+        "Sim, ajuda hoje a alguém!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muitos da vida cansados estão,",
+        "Sim, ajuda hoje a alguém!",
+        "Muitos procuram obter salvação,",
+        "Sim, ajuda hoje a alguém!"
+      ],
+      "number": 6
+    }
+  ]
+}

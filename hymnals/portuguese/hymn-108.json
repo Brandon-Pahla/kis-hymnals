@@ -1,0 +1,70 @@
+{
+  "number": 108,
+  "language": "pt",
+  "title": "Tudo Ele Fez por Mim",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Tudo Ele Fez por Mim"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo Jesus veio um dia a Belém,",
+        "Para sofrer aflições e desdém.",
+        "Veio por causa do amor que me tem,",
+        "A procurar-me a mim!",
+        "A procurar-me a mim!",
+        "A procurar-me a mim!",
+        "Veio por causa do amor que me tem,",
+        "A procurar-me a mim."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo, por Seu sacrifício na cruz,",
+        "Deu-me alegria do reino de luz,",
+        "E no caminho do Céu me conduz;",
+        "Tudo Ele fez por mim!",
+        "Tudo Ele fez por mim!",
+        "Tudo Ele fez por mim!",
+        "E no caminho do Céu me conduz;",
+        "Tudo Ele fez por mim."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo te espera e chama por ti:",
+        "Ele te diz: com amor te remi.",
+        "Vem, pois Jesus já fez tanto por ti!",
+        "Não te demores mais!",
+        "Não te demores mais!",
+        "Não te demores mais!",
+        "Vem, pois Jesus já fez tanto por ti!",
+        "Não te demores mais."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo, meu Mestre, de novo virá,",
+        "Sim, com os anjos! Que glória será!",
+        "Eu face a face verei a Jeová,",
+        "Quando me vier buscar!",
+        "Quando me vier buscar!",
+        "Quando me vier buscar!",
+        "Eu face a face verei a Jeová,",
+        "Quando me vier buscar!"
+      ],
+      "number": 5
+    }
+  ]
+}

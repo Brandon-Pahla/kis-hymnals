@@ -1,0 +1,39 @@
+{
+  "number": 145,
+  "language": "nd",
+  "title": "145 Ungazenz’ Izaba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ungazenz’ izaba, ku khon’ umsebenzi, Lungela ukwenza iNkos’ ekushoyo;",
+        "Ukunxusa kwaYo, ku qondiswe kuwe, Yamkel’ uze wenze umsebenzi waYo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wozake (namhla) uz’ u ngalanduli, Wozake (namhla) lungel’ umsebenzi;",
+        "Uz’ u ngalanduli, Khothiw’ ezulwini: \"Wal’ intando Yami; Waliw’ ezulwini!\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ungazenz’ izaba, namhla u yabizwa; Kade u ngavumi, pangis’ u lalele;",
+        "Ku vuthw’ amasimu, akukho muvumi, Ma u thobe wena, wenzele iNkosi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ungazenz’ izaba, balekel’ ingozi, Ncuthando loniwe, lu muka phakade;",
+        "Uma u sancengwa, u tshelwa ngezulu, UJes’ esancenga: \"Woz’ u thethelelwe!\""
+      ],
+      "number": 4
+    }
+  ]
+}

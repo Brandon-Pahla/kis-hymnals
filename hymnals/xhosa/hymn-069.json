@@ -1,0 +1,38 @@
+{
+  "number": 69,
+  "language": "xh",
+  "title": "69 Lindela Ngase Manzini Okuphila",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Siya kuphumla emanzini Awase mthonjeni;",
+        "U-Yesu wehla ezulweini, Wema emhlabeni."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Siya kuphumla emanzini (thina), Sakulinda emanzini (thina);",
+        "Sakuphumla emanzini (wona), Amanzi okuphila."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa sidiniwe kuku-hamba, Kumnand’ ukuphumla,",
+        "Apho amanzi entyiloza, Apho sakuhlamba."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yizani ke ku-Yesu Kristu, Wonipha amandla;",
+        "Nguye amanzi okuphila, Sela unganxanwa."
+      ],
+      "number": 3
+    }
+  ]
+}

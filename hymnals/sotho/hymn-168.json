@@ -1,0 +1,47 @@
+{
+  "number": 168,
+  "language": "st",
+  "title": "168 Jesu Ke Molisa Oa Ka.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu ke molis’a ka ha ke hloke,",
+        "Ke ja botaleng ke bolokehile,",
+        "O ntisa metsing a khutsitseng tu,",
+        "O ntlhokomela ha ke lahlehile."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le ha ke tsamaea moriting oa lefu,",
+        "Ha u nkhula ha ke na ts’abo ea bobe,",
+        "Molamu oa hao o tla mpoloka,",
+        "Ha ke oeloe ke kotsi, O le haufi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O ntukiselitse tafole mo lintoeng,",
+        "Senoelo sa ka se ea khaphatseha;",
+        "O ntlotsitse ka tse nkhang hamonate,",
+        "Ke tla kopang hape sa ts’ireletso?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Molimo oa ka ho loka le mohau,",
+        "Li ntatela ho fihlela ho Uena;",
+        "Ke batla tsela bo-ntate moholo,",
+        "Fats’eng la bojaki ’musong oa Hau."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "number": 282,
+  "language": "ve",
+  "title": "282. Zwihwana Zwa Zwigidi Zwa Fumi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Thetshelesani maipfi a imba ngei tadulu",
+        "Yesu ndi Ene Muvhusi, tadulu vha takala.",
+        "O dzula kha khulunoni ndi Muvhusahothe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Aleluya, Aleluya, Aleluya, Amen."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Vhusa Murena wa vhothe, vhusa nga hu sa fheli.",
+        "Vhau vha nga si fhambane, vhala vho nwaliwaho",
+        "Dakalo lau li khavho, vho tshidzwa nga Iwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Vhilula Murena wa tshothe, duvha lau li sendele.",
+        "Hu tshi tavhiwa mukosi, shango li tshi vho lovha.",
+        "Ri do imbelela ra ri, ’Thendo kha Murena.’"
+      ],
+      "number": 4
+    }
+  ]
+}

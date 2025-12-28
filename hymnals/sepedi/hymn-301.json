@@ -1,0 +1,27 @@
+{
+  "number": 301,
+  "language": "nso",
+  "title": " 301 MORENA FELONG LE LEKGETHWA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 301 MORENA FELONG LE LEKGETHWA",
+        "АН 393",
+        "THE LORD IS IN THE HOLY TEMPLE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moren 'o dutše felong go kgethwa,",
+        "Moren o dutše felong go kgethwa,",
+        "Lefase le homole,",
+        "'Fase le homole 'pele Gagwe,",
+        "Homolang, Homolang, Pele Gagwe;"
+      ],
+      "number": 2
+    }
+  ]
+}

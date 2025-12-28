@@ -1,0 +1,39 @@
+{
+  "number": 63,
+  "language": "sw",
+  "title": "63 - Niuonapo Msalaba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Niuonapo Msalaba, Kristo aliponifia,",
+        "Kwangu pato ni hasara, kiburi nakichukia."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Na nisijivune Bwana, ila kwa sadaka yako,",
+        "Upuzi sitaki tena, zi chini ya damu yako."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Tazama kichwani kwake, mikononi na miguu,",
+        "Huzuni pendo twaona, vyabubujika daima."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Vitu vyote vya dunia, si sadaka ya kutosha,",
+        "Pendo zako zaniwia, nafsi mali na maisha."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "number": 149,
+  "language": "nd",
+  "title": "149 Hamba Ekukhanyeni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hamb’ ek’khanyeni kweNkosi Ku zokuqondisa;",
+        "uMoy’ Ovel’ ezulwini Wochith’ ubumnyama."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "(Kathathu) Ha . . . mba nok’khanya . . .",
+        "(Thath’ ukukhany’ ukukhanya kweNkosi)",
+        "(Bonke) Hamb’ ek’khanyeni kweNkosi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thath’ ubhaqa lweVangeli Lwelizwi leNkosi.",
+        "Lukhanyo lwas’ ebusheni Kwabathemb’ iNkosi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phath’ ubhaqa kumk’ ithunzi Nxa u sendleleni;",
+        "Loxoshel’ ithunzi kude Izi fik’ iNkosi!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hamb’ ek’khanyeni wofunda Ngothando lweNkosi",
+        "Nobuhle bobudlelwana Bosis’ ezulwini."
+      ],
+      "number": 5
+    }
+  ]
+}

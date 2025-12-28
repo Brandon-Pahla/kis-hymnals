@@ -1,0 +1,47 @@
+{
+  "number": 299,
+  "language": "nd",
+  "title": "299 Zename Njalo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Zename njal’ iz’nhliziyo, Kunga ngen’ ukusola",
+        "Lok’ uyasinak’ uBaba Es’thanda enomusa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mazename njalo njalo, Sizungezwe kukhanya",
+        "Inobuhl’ indlela yemfanelo Sename njalo njalo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Siholwa isandla sAkhe, Isono asilutho",
+        "Uthembis’ ukusisiza Singaphuth’ isi’ thembiso"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uma siyek’ umsebenzi Sizw’ ub’ hlungu bokona",
+        "Siya mbozwa-mbo ithunzi! Licime ukwethaba"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yek’ injabulo yomsulwa! Ndlela yakh’ imhlophe",
+        "Masithath’ iseluleko, Zond’ ok’bi, thand’ okuhle"
+      ],
+      "number": 5
+    }
+  ]
+}

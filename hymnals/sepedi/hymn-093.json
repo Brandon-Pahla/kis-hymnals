@@ -1,0 +1,46 @@
+{
+  "number": 93,
+  "language": "nso",
+  "title": " 93 A TŠATŠI LA BOIKHUTŠO LE LETHABO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 93 A TŠATŠI LA BOIKHUTŠO LE LETHABO",
+        "АН 389 CH 463",
+        "O DAY OF REST AND GLADNESS!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A tšatši la boikhutšo, tšatši la lethabo,",
+        "Mofedisi wa dillo, Lea halalela ka botse,",
+        "Mašaba a godimo, A pele ga terone,",
+        "Ba re go halalela, Wena Modimo;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sabata ke seširo sa batshwenyegilego,",
+        "Tšhem 'e farafarilwego ke noka tse botse,",
+        "Sediba se ratwago ke ba nyorilwego,",
+        "Ge le go wena, Re bona legae;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A tšatši le le botse, Tšatši la lerato,",
+        "Ke tšatši la go nagana dilo tša legodimo,",
+        "Re humana Tšhegofatšo tšatšing la boikhutšo,",
+        "Re hloka go ikhutša kua madulong a mabotse;"
+      ],
+      "number": 4
+    }
+  ]
+}

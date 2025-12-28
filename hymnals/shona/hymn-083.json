@@ -1,0 +1,47 @@
+{
+  "number": 83,
+  "language": "sn",
+  "title": "83 Ngarikudzwe Zita",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngatiimbe pamwe tese,",
+        "Kudza zita’ro raTenzi,",
+        "Mbiri yaMambo’yo Mwar,",
+        "Kudza zita’ro raTenzi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mwese kudzanyi zita raTenzi;,",
+        "Kudza zita’ro raTenzi,",
+        "Rine simba kuponesa,",
+        "Kudza zita’ro raTenzi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu zita remasimba,",
+        "Kune tsime yedi unza vakaneta,",
+        "Tinoshumaira, Jesu vatifira,",
+        "Pamchinjiko wake wakatiponesa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngatibvume zvinyangadz ,",
+        "Kudza zita’ro raTenzi,",
+        "Tachenurwa ngeroparo, ,",
+        "Kudza zita’ro raTenzi"
+      ],
+      "number": 4
+    }
+  ]
+}

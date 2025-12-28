@@ -1,0 +1,61 @@
+{
+  "number": 422,
+  "language": "tw",
+  "title": "Yɛnam Rekɔ Sion",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mo a modɔ Nyame",
+        "Mommra mma yenni dɛw;",
+        "Momma yemmom nto dwom dɛdɛ,",
+        "Momma yemmom nto dwom dɛdɛ,",
+        "Ntwa 'hengua no ho nhyia,",
+        "Ntwa 'hengua no ho nhyia,"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yɛnam rekɔ Sion,",
+        "Sion a ɛyɛ fɛ no mu,",
+        "Yɛnam, yɛnam rekɔ Sion,",
+        "Nyankopɔn kuro fɛfɛ nom'."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔn a wonnim No no",
+        "Tum' gyae Ne ho dwom to;",
+        "Nanso ɔs'ro Hene mma no,",
+        "Nanso ɔs'ro Hene mma no,",
+        "Bɛka wɔn dɛw aky'rɛ",
+        "Bɛka wɔn dɛw aky'rɛ"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sion bepɔ ma yɛn Ͻdew ahorow pii,",
+        "Ansa na yɛadu soro hɔ",
+        "Ansa na yɛadu soro hɔ,",
+        "Anante sika so, anante sika so."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻnde yɛbɛto nnwom Apopa yɛn nusu;",
+        "Yɛnam Imanuel 'sase so,",
+        "Yɛnam Imanuel 'sase so,",
+        "Rekɔ s'ro man no mu,",
+        "Rekɔ s'ro man no mu."
+      ],
+      "number": 4
+    }
+  ]
+}

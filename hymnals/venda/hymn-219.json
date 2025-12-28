@@ -1,0 +1,51 @@
+{
+  "number": 219,
+  "language": "ve",
+  "title": "219. Nthange Phanda O Yehova",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:538",
+        "AH:303"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nthange phanda, O, Yehova,",
+        "Ndi mudali shangoni,",
+        "U na Maanda, nne a thina,",
+        "ndi nne a re muhota,",
+        "U Mutshidzi ... U Mutshidzi ...",
+        "Iwe tshitangu tshanga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. U tshisima tsha u tshidza,",
+        "Tshe tsha phulwa nga Yesu,",
+        "Tshi vhonale tshi tshi ela,",
+        "Tshi tanzwe zwivhi zwanga,",
+        "U Mutshidzi ... U Mutshidzi ...",
+        "Iwe tshitangu tshanga."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndo no swika Yorodane,",
+        "tusa U ofha hanga,",
+        "Mpheletshedze ndi awela,",
+        "I vha Mutshidzi wanga.",
+        "U Mutshidzi ... U Mutshidzi ...",
+        "Iwe tshitangu tshanga."
+      ],
+      "number": 4
+    }
+  ]
+}

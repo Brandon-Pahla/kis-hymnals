@@ -1,0 +1,56 @@
+{
+  "number": 252,
+  "language": "nd",
+  "title": "252 Woza Moni Onezono",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Woza moni onezono",
+        "INkosi inesisa",
+        "Ngempela yokuphumuza",
+        "Nxa ushi’ izono"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Themb’ uJesu, themb’ uJesu,",
+        "UboMthemba nje! Wosindiswa,",
+        "wosindiswa Khona, namhlanje!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "UJesu wachith’ igazi",
+        "‘Waletha iz’busiso",
+        "Manje cwila kuzamcolo",
+        "Uhlanzwe yigazi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "NguY’ uJesu oyindlela",
+        "Ey’ ekuphumleni",
+        "Uyokukhiph’ ebubini",
+        "Uma uMlandela"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Woza kwes’mhlop’ isixulu",
+        "Uy’ ebungcweleni",
+        "Uhlal’ ekujabuleni",
+        "Zonke izinsuku"
+      ],
+      "number": 5
+    }
+  ]
+}

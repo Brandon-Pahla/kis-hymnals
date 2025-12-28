@@ -1,0 +1,29 @@
+{
+  "number": 17,
+  "language": "ny",
+  "title": "17 - Chikondi Chitikondwetsa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "’TIS LOVE THAT MAKES US HAPPY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Chikondi chikondwetsa, Nichikonza njira;",
+        "Chimatithangata ife, Kukonda anzathu.",
+        "CHORUS:",
+        "Mulungu ndiye chikonditu, Ndifetu ana akewo.",
+        "Chikondi chikondwetsa, Nichikonza njira;",
+        "Chimatithangata ife, Kukonda anzathu.",
+        "2. Dzikoli n’la chisoni, La imfa ndi nthenda,",
+        "Tidzachita mbali yathu, Kuthangata ena.",
+        "3. Moyo uno ukatha, Tikadzanka m’mwamba,",
+        "Tidzayimba kosaleka, Za kukonda kwake."
+      ]
+    }
+  ]
+}

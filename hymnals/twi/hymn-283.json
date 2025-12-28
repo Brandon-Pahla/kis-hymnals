@@ -1,0 +1,49 @@
+{
+  "number": 283,
+  "language": "tw",
+  "title": "O 'Yesu a Wugyina",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O 'Yesu a Wugyina",
+        "ɔpon' akyi retwɛn",
+        "'Hobrɛase ne 'bodwoky'rɛm',",
+        "Sɛ Worensian kra ho;",
+        "Kristofo 'niwufo a",
+        "Yekųra Ne din, frankaa,",
+        "'Niwu kɛse wɔ yɛn so,",
+        "Sɛ yɛma No twɛn hɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu a Worebɔ pon,",
+        "Hwɛ Wo nsa ho atwa",
+        "Ne Wo t'ri so nsɔekyɛw no",
+        "Ne W'ani so nusu;",
+        "Hwɛ sɛ 'dɔ a ɛtrá adwen",
+        "Retwɛn boasetɔ mu,",
+        "Na bɔn' a ennė nsɛso",
+        "Nso rebram ɔpon no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu a Wugu so s'rɛ",
+        "Wɔ 'hobrɛase mu sɛ:",
+        "'Mibewu maa mo, Me mma",
+        "Dɛn na moyɛ Me yi?'",
+        "O, W'ra, yɛde 'niwu ne",
+        "'W'rɛhow bue yɛn komam'",
+        "Agyenkwa pa, bɛhyɛn mu",
+        "Na fa yɛ Wo fie daa."
+      ],
+      "number": 3
+    }
+  ]
+}

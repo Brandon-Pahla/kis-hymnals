@@ -1,0 +1,47 @@
+{
+  "number": 535,
+  "language": "tw",
+  "title": "Metwer' Wo, Aw'rade Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Metwer' Wo, Aw'rade Yesu",
+        "Metwer' Wo nkutoo,",
+        "Metwer' Wo wɔ Wo daa nkwagye",
+        "Kɛse nti."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Metwer' Wo sɛ menya faf'ri,",
+        "Mekoto W'anim,",
+        "Wo dom ne mmɔb'rɔhun' nti nnɛ",
+        "Metwer' Wo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Metwer' Wo sɛ kyerɛ me kwan,",
+        "Wo nko di m'anim;",
+        "Na fa m'ahiade ny'naa ma me",
+        "Da biara."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Metwer' Wo, Aw'rade Yesu",
+        "Mma menhwč ase da,",
+        "Metwer' Wo kosi daapem wɔ",
+        "Ade ny'naam'."
+      ],
+      "number": 4
+    }
+  ]
+}

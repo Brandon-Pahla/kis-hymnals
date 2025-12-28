@@ -1,0 +1,47 @@
+{
+  "number": 97,
+  "language": "tw",
+  "title": "Ewim Abɔde Kɔntɔnkrɔn",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ewim abɔde kɔntɔnkrɔn",
+        "Ne ahintasɛm W'ra,",
+        "Ͻyɛ W'adebɔ tumi mu",
+        "Na yɛn ahoɔden fi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "W'adwen mu na 'bɔde ny'naa fi,",
+        "Yɛɛ mfiasede biara,",
+        "Na awo ntoatoaso biaram'",
+        "'W'ra, W'at'rimpɔ dā adi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wobɔɔ 'nipa Wo suban so,",
+        "Ewom bɔne sɛee no;",
+        "Nso Woyɛɛ nkwagye nhyehyɛe a",
+        "Wode bɛgye ne kra."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma yenhu Wo nokware no",
+        "Ne Wo pɛ ho 'hoɔden;",
+        "Kosi sɛ 'dɔ a yɛn kra hwehwɛn'",
+        "Bɛhyɛ yɛn ma koraa."
+      ],
+      "number": 4
+    }
+  ]
+}

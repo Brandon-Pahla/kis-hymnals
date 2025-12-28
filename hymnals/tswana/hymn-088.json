@@ -1,0 +1,55 @@
+{
+  "number": 88,
+  "language": "tn",
+  "title": "88 Se Mphete",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Se Mphete Mmoloki Oa Me,",
+        "Kea Go rapela;",
+        "Fa O etela ba bangwe,",
+        "Se mphete le nna."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jeso, Jeso, O nkutlwe telong;",
+        "Fa O etela ba bangwe,",
+        "Se mphete le nna."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E Re Teroneng Ya Tshwaro",
+        "Ke gololege;",
+        "Ke khubame ka boingotlo,",
+        "Nthusa tumelong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E Re Ka Ke Ikanya Wena,",
+        "Ke tla Go batla;",
+        "Mphodisa moya o dintho,",
+        "Tshwarong mpoloka."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Motswedi Wa Kgomotso,",
+        "Go gaisa tsotlhe;",
+        "Ga ke na ope lefatshing:",
+        "Ke Wena fela."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 207,
+  "language": "fr",
+  "title": "Louez l'Éternel en tous lieux",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Louez l'Éternel en tous lieux,",
+        "Lui qui créa le firmament;",
+        "Louez, louez-le constamment,",
+        "Louez-le jusque dans les cieux."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unissez aux plus belles voix",
+        "Et la trompette et le hautbois,",
+        "Faites résonner tour à tour",
+        "Et la musette et le tambour."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que l'univers chante à son tour",
+        "Le Dieu puissant, le Dieu d'amour.",
+        "Vous les élus, vous les humains,",
+        "En son honneur, chantez sans fin."
+      ],
+      "number": 3
+    }
+  ]
+}

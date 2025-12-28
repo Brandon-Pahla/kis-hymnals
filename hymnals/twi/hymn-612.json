@@ -1,0 +1,54 @@
+{
+  "number": 612,
+  "language": "tw",
+  "title": "Me Kra, Nyan, Bɔ Mmɔden Biara",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kristo nsraafo, monkɔ Sɛnea mokɔ sa,",
+        "Yesu asɛnnua no Momfa nni anim.",
+        "ɔsahen' Kristo di Yɛn anim tia dɔm;",
+        "Monkɔ akonim hɔ, Ne frankaa rekɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kristo nsraafo, monkɔ Sɛnea mokɔ sa;",
+        "Yesu asɛnnua no Momfa nni anim."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame asafo no, Kɔ sɛ dɔm kɛse;",
+        "Kristofo, yɛnenam Nea treneefo fae;",
+        "Mpaapaemu nni yɛn mu, na yɛyɛ biako,",
+        "Biako wɔ asɛnkam', 'nidasom' ne dɔm."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nhenkyɛw, nhengua asɛe, 'Henni hwe ase,",
+        "Yesu asafo de Ebetim hɔ daa;",
+        "Asaman apon mpo Remmu mfa so da;",
+        "Yɛwɔ Kristo bɔhyɛ a enni huammɔ."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yaanom, monkɔ anim, Momfra yɛn kuw yim',",
+        "Mo ne yɛn nyinaa mmom Nto  nkonimdi dwom;",
+        "Anuonyam ne 'nidi Nka ɔhen Kristo,",
+        "Eyi na abɔfo Ne nnipa to daa."
+      ],
+      "number": 4
+    }
+  ]
+}

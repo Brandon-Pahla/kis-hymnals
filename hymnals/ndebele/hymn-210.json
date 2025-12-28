@@ -1,0 +1,63 @@
+{
+  "number": 210,
+  "language": "nd",
+  "title": "210 Yena UKrestu Usihlengile!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yen’ uKrestu usihlengile,",
+        "UMsindis’ osimanga Sihlengiwe, kuhlauliwe"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "UMsindis’ osimamga!, UMsindis’ osimamga!",
+        "Ong’ uJesu wami UMsindis’ osimanga!, YiNkosi yami!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ungihlanze egazini,",
+        "UMsindis’ osimanga Ung’buyisel’ eNkosini."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Usus’ inhliziyo embi,",
+        "UMsindis’ osimanga! Manj’ ubusa ngaphakathi"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ungaphal’ imini yonke,",
+        "UMsidis’ osimanga! Ngikholele ‘nsuku zonke."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ungiph’ amandl’ okunqoba,",
+        "UMsindis’ osimanga! Ngiphumelele ngilingwa"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sengimph’ inhliziyo yami,",
+        "UMsindis’ osimanga! Izwe alihambi nami."
+      ],
+      "number": 7
+    }
+  ]
+}

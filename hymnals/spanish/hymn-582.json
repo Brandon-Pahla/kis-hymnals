@@ -1,0 +1,54 @@
+{
+  "number": 582,
+  "language": "es",
+  "title": "Hoy venimos cual hermanos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Hoy venimos cual hermanos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hoy venimos cual hermanos",
+        "a la Cena del Señor;",
+        "acerquémonos, cristianos;",
+        "que nos llene santo amor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En memoria de su muerte",
+        "y la sangre que vertió,",
+        "celebremos el banquete",
+        "que en su amor nos ordenó."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Recordando las angustias",
+        "que sufriera el Salvador,",
+        "dividida se halla el alma",
+        "entre el gozo y el dolor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Invoquemos la presencia",
+        "del divino Redentor;",
+        "que nos mire con clemencia",
+        "y nos llene de su amor."
+      ],
+      "number": 5
+    }
+  ]
+}

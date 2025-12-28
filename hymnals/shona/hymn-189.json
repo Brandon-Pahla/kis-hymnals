@@ -1,0 +1,51 @@
+{
+  "number": 189,
+  "language": "sn",
+  "title": "189 Hapana Musha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hatina musha panyika",
+        "Hatifari kuva pano",
+        "Zvinofadza mweya yedu",
+        "Kutswaka musha unowuya",
+        "Kutswaka musha unowuya"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hatina musha panyika",
+        "Tinoda musha \\‘rikure",
+        "Zita rawo Izioni",
+        "Unopenya nguva dzose",
+        "Unopenya nguva dzose"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Musha une runyararo",
+        "Vafambi vachazorora",
+        "Da ndine mapapiro",
+        "Ndayiuya ndizorore",
+        "Ndayiuya ndizorore"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mweya wangu chinyarara!",
+        "Mwari anoziva nguva",
+        "Ndichaita kuda kwake",
+        "Iye ondipa zororo",
+        "Iye ondipa zororo"
+      ],
+      "number": 4
+    }
+  ]
+}

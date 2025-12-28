@@ -1,0 +1,65 @@
+{
+  "number": 511,
+  "language": "pt",
+  "title": "Oh! Que Belos Hinos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Oh! Que Belos Hinos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! que belos hinos cantam lá nos Céus!",
+        "É que o filho mau, ao lar voltou!",
+        "Vede lá ao longe o Pai já abraçar",
+        "Esse filho que Ele tanto amou."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Glória, anjos mil entoam lá!",
+        "Glória, ouvem-se, as harpas já!",
+        "É o santo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "dando o seu louvor,",
+        "Pois se converteu um pecador."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! que belos hinos cantam lá nos Céus!",
+        "Pois se converteu um pecador!",
+        "Alma revoltosa, convertida a Deus,",
+        "Deixa o mundo e volta ao Pai de amor."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! arrependidos, hoje festejai,",
+        "Como os anjos fazem com fervor!",
+        "Ide pressurosos, vós, e anunciai,",
+        "Que se resgatou um pecador."
+      ],
+      "number": 6
+    }
+  ]
+}

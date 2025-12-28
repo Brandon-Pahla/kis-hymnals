@@ -1,0 +1,54 @@
+{
+  "number": 121,
+  "language": "ve",
+  "title": "121. Ndi do Imba Lufuno Lwa Yesu.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:183",
+        "AH:111"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi do ima nga lufuno, lwa Yesu we a mpfuna,",
+        "O siya litadulu, a fa tshifhambanoni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndi imba nga lufuno, mbilu yanga renda,",
+        "O ntshidza nga lufuno, Ndi imba nga lufuno."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi sa’thu na u lila, Yesu a mbo nndilela",
+        "Ndi sa’thu na u rabela, Ene a nthabelela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Lufuno ulwo a luho fhano na litadulu",
+        "Lwo ntanzwa zwivhi zwothe, zwa nga sa Mahada."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Naho ndi songo luga, Ene o di mpfuna,",
+        "A rudza mbilu yanga, Nthuse ndi u fune."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "number": 84,
+  "language": "tn",
+  "title": "84 Batho Botlhe A Re Bakeng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Batho Botlhe A Re Bakeng",
+        "Modimo; O o re tshetsang;",
+        "O bakeng bontsi godimong;",
+        "Bakang Rara, Morwa, Moya."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bakang Modimo, Morena,",
+        "Mpho tsotlhe si tswa go One",
+        "Mmakeng tlase, le ’godimong",
+        "Bakang RARA, MORWA, MOYA."
+      ],
+      "number": 2
+    }
+  ]
+}

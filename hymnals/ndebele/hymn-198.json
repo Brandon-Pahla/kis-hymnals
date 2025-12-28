@@ -1,0 +1,52 @@
+{
+  "number": 198,
+  "language": "nd",
+  "title": "198 Isihlobo Esihle NguJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, isihlob’ esihl’ uJesu Nxa u hanqiwe izinsizi.",
+        "Woqinis’ inhliziyo, Asuse lonk’ uvalo.",
+        "O, isihlob’ esihl’ uJesu!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Isihlob’ esihl’ uJesu, Esihl’ insuku ngensuku",
+        "Nxa u wa wokusiza, Nxa u khala wokuzwa,",
+        "O, isihlob’ esihl’ uJesu!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yek’ isihlob’ esihl’ uJesu, U za kimi a ngi duduze.",
+        "Ngencikile kuYena, Ngi ngehlelwe nayini.",
+        "O, isihlob’ esihl’ uJesu!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa ngedlul’ ethunzin’ losizi, Amanz’ eJordan’ egubhuza;",
+        "Ngi ngeshaywe luvalo, uJesu u nosizo.",
+        "O, isihlob’ esihl’ uJesu!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa si fik’ ezulwin’ ekhaya, Nezingcwele sibendawonye;",
+        "Sohlabelel’ ogwin, Si bonge si ngaphezi.",
+        "O, isihlob’ esihl’ uJesu!"
+      ],
+      "number": 5
+    }
+  ]
+}

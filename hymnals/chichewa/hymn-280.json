@@ -1,0 +1,30 @@
+{
+  "number": 280,
+  "language": "ny",
+  "title": "280 - Mfumu Yathu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "OUR KING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Nyimbo zathu zokoma, Tadza nazo lero,",
+        "Kudzayamika Mbuye, Njira ndi moyowo",
+        "CHORUS:",
+        "Tiyimbatu kutamanda Mfumu (Mfumu)",
+        "Tiyimbatu Ulemu kwa Mfumu.",
+        "2. Anakonda tiana pokhala pansiopo,",
+        "Ngakhale ali m’mwamba amatikondabe.",
+        "3. TIkonda kumyimbira, Ndi kumva za Iye",
+        "Pamene anakhala pa dziko kalelo",
+        "4. Mpulumutsi wodala, Tikugwadirani,",
+        "Kuti mutithandize kukhulupiranu."
+      ]
+    }
+  ]
+}

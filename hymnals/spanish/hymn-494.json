@@ -1,0 +1,65 @@
+{
+  "number": 494,
+  "language": "es",
+  "title": "Cerca un alma agobiada está",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cerca un alma agobiada está"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cerca un alma agobiada está,",
+        "ve y ayúdala hoy;",
+        "hazle algún acto de pura amistad,",
+        "ve y ayúdala hoy."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Ve y ayúdale hoy.",
+        "No tardes, mas di: \"Ya voy\".",
+        "Al débil sé escudo y viste al desnudo.",
+        "¡Oh, ve y ayúdale hoy!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Ves a un vecino sin fuerza y valor?",
+        "Ve y ayúdale hoy;",
+        "habla a su oído palabras de amor,",
+        "ve y ayúdale hoy."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Otro confronta una cruel tentación?",
+        "Ve y ayúdale hoy;",
+        "clama al Señor en ferviente oración,",
+        "ve y ayúdale hoy."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hay quien ya busca el camino del bien.",
+        "Ve y ayúdale hoy.",
+        "Di con la Esposa y Espíritu: \"Ven\".",
+        "Ve y ayúdale hoy."
+      ],
+      "number": 6
+    }
+  ]
+}

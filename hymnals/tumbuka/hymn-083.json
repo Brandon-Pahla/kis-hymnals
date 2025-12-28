@@ -1,0 +1,57 @@
+{
+  "number": 83,
+  "language": "tum",
+  "title": " 83 Wanthu Wanandi Wakwimba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 83 Wanthu Wanandi Wakwimba",
+        "O FOR A THOUSAND TONGUES"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Wanthu wanandi wakwimba,",
+        "Thuwuska zina la Fumu",
+        "Uchindami kwa Chiuta,",
+        "Thuwuska zina la Fumu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Litumbikike, Litumbikike,",
+        "Zina La Kananda, Yesu,",
+        "Litumbikike, Litumbikike,",
+        "Zina La Kananda, Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mzina ili m'lije wofi,",
+        "Muzina la Fumu Yesu,",
+        "Ndi sumu kwa iwe mheni,",
+        "Zina la kananda, Yesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Watonda kwananga kose,",
+        "Lithuwuskike zina 'lo,",
+        "Ndopa zake zikusavya,",
+        "Lithuwuskike zina lo."
+      ],
+      "number": 4
+    }
+  ]
+}

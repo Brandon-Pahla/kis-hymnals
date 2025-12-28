@@ -1,0 +1,47 @@
+{
+  "number": 641,
+  "language": "tw",
+  "title": "Nyame Nam Dɔ So De 'Sase Yi Fɛm Yɛn",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame nam dɔ so de 'sase yi fɛm yɛn,",
+        "ɔmaa no botae wɔ b're ne beae mu;",
+        "Adebɔ mu ade ketewaa bi de,",
+        "Nanso ɛno ne adasa atrae."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aseda nka Nyame wɔ emu nnepa",
+        "Ne nkwa a ekura yɛn mu no ho,",
+        "Yɛkyɛ no yie a, ɛso obiara so,",
+        "Ahonya a emu nni hwehwɛbea."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akodi fi tete asɛe so nnɔbae;",
+        "Nhyɛso fi tete amia asase,",
+        "Yefi tete asɛe nea 'hia ma binom,",
+        "Ahwie bɔne agu nkwa nsuti hɔ."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Sase yɛ 'W'rade dea, ɔde ama yɛn,",
+        "Sɛ ahwɛfo a yɛnnɔ mmɔ ho ban;",
+        "Aw'rade pa, yi yɛn fi ne sɛe ny'naa ho,",
+        "Kosi wiase a enni awiei nom'!"
+      ],
+      "number": 4
+    }
+  ]
+}

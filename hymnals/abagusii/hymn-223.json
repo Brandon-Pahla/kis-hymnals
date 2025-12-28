@@ -1,0 +1,42 @@
+{
+  "number": 223,
+  "language": "guz",
+  "title": "223 Goika Nche Mbe N'Omotoria",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Goika nche mbe n'Omotoria,Tingotara nche bweka,'Moigwe ore ang'e nainche'Mabok' ay' amboanie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moy'one tokwoboa (tokwoboa),'S' arandae ningende (ningende)Gose tinkwemurungania,Mbwatie chinchera chiaye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Goika nche mbe n'Omotoria,'Kiagera nd'omoreu;Nanyare kong' oboremu,Ond' atanyare bori."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Goika nche mbe n'Omotoria,As' orogendo rwane;'S'emechando n'as'obuya,Nonya nase chisegi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Goika nche mbe n'Omotoria,Ab'Omorai nchera;Goika ngik'ekiambokero,Nsoe as'ens'eri'enyia."
+      ],
+      "number": 5
+    }
+  ]
+}

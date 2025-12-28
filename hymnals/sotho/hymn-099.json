@@ -1,0 +1,39 @@
+{
+  "number": 99,
+  "language": "st",
+  "title": "99 Ha Ke Boha Sefapanong",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke boha sefapano, Moo Moren’a ka shoetseng teng;",
+        "Leruo la fats’e lena, Le ke ke la nthusa letho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bonang hlohong, le matsohong, Masoabi, lerato ke tseo;",
+        "Li kopane ka mohlolo, Ho ea roesitsoeng meutloa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A ho se rorisoe letho, Ha e se sefapano sa Hae;",
+        "Lintho tsohle tsee sa thuseng, Ke tla li tela Morena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leha nka rua lefats’e, Eo hase mpho e lekaneng;",
+        "Rato leo le lekakang, Le nqosa bophelo ba ka."
+      ],
+      "number": 4
+    }
+  ]
+}

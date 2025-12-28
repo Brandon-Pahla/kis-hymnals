@@ -1,0 +1,56 @@
+{
+  "number": 360,
+  "language": "pt",
+  "title": "Fixa Teus Olhos no Mestre",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Fixa Teus Olhos no Mestre"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se amargas tristezas da vida",
+        "Curvarem-te a fronte em dor,",
+        "E vendo a esperança perdida,",
+        "Caíres nas mãos do temor,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Fixa teus olhos no Mestre,",
+        "Confia no bom Salvador;",
+        "Fruirás, na luta terrestre,",
+        "Maravilhas do Seu doce amor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se as ondas cruéis do oceano",
+        "Quiserem a nave tragar,",
+        "E as vagas do mal tão insano",
+        "Fizerem-te a fé vacilar,"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se aflito, sem fé, sem coragem,",
+        "Vagando nas sendas do mal,",
+        "Do mundo seguindo a miragem,",
+        "Não ouves a voz divinal,"
+      ],
+      "number": 5
+    }
+  ]
+}

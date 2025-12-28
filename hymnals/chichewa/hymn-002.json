@@ -1,0 +1,30 @@
+{
+  "number": 2,
+  "language": "ny",
+  "title": "2 - Indetu Pakhomo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "The Coming King"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1 Mfumu yathu ili kudza, Yomwe inafera ife;",
+        "Koma olungama okha, Adzapita nawo.",
+        "CHORUS:",
+        "Indetu pakhomo Ali pafupitu pakhomo,",
+        "Ali kudza (inde) ali kudza (Mbuye) Inde ali pakhomo.",
+        "2 Zizindikiro zakezo, Zili kukwanitsidwatu,",
+        "Posachedwa tidzamona, Akudza m’mitambo.",
+        "3 Musayang’ane pa dziko, Kupeza mtendere wathu,",
+        "Mpaka Yesu adzabwera Kudzachotsa imfa.",
+        "4 Pompo m’dziko latsopano Tidzakhalamo kosatha,",
+        "Imfa sidzakhala uko, Ku nthawi zosatha."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "number": 227,
+  "language": "xh",
+  "title": "227 Emnqamlezweni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U-Msindisi woph’ igazi, Wafa na ngenxa yam?",
+        "Ube ngafa na ngenxa yam Ndingento yalutho?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Emnqamlezweni Ndabona ukukhanya,",
+        "Wesuka wonk’ umthwalo wesono;",
+        "Apho ngokholo Ndanokubona,",
+        "Ndinovuyo yonke imihla."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zizono zam ezaxhoma I-Nkosi emthini;",
+        "Yek’ uthando kwanenceba Andinike zona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Usizi lwam alwanel’ ukubonis’ uthando,",
+        "Ngoko, Nkosi, ndinikela Wonke umzimba wam."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 385,
+  "language": "pt",
+  "title": "Deus Está nas Sombras",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Deus Está nas Sombras"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se da noite as sombras te cercarem,",
+        "E a obra finda parecer,",
+        "Amanhã risonho, Deus promete,",
+        "Sem mais nuvens negras a temer."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Sombras, Deus está nas sombras;",
+        "Firme é Seu amor em cuidar de nós.",
+        "Sombras, Deus está nas sombras;",
+        "Não nos deixará lutar em dor, a sós."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se a Jesus anelas ver nas sombras,",
+        "Se anseias dele Seu amor,",
+        "Hás de achar o Salvador ao lado,",
+        "Um constante amigo e protetor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quando as sombras o meu céu toldarem,",
+        "Mesmo que o sol não possa ver,",
+        "Em Jesus encontro meu refúgio,",
+        "Nas tormentas deste meu viver."
+      ],
+      "number": 5
+    }
+  ]
+}

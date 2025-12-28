@@ -1,0 +1,55 @@
+{
+  "number": 26,
+  "language": "xh",
+  "title": "26 Njengoko Ndinjalo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinje, Nkosi, ndiza ndinje, Nali lodwa ilizwi lam,",
+        "Lokuba wandifela nam; Mvana kaThixo, ndiyeza."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinje, Nkosi, ndiza ndinje, Ndinge lisul’ ityala lam;",
+        "Ndohlanjwa ngelo gazi nam; Mvana kaThixo, ndiyeza."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinje, Nkosi, ndiza ndinje, Ndinoval’ entliziyweni;",
+        "Luphehla umbilini wam, Mvana ka-Thixo, ndiyeza."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinje, Nkosi, Ndiza ndinje, Ndibomvu, ndinobumfama;",
+        "Phofu konke usinika, Mvana ka-Thixo, ndiyeza."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinje, Nkosi, ndiza ndinje, Yihlambe intliziyo yam.",
+        "Ndicokise, ndihlambise, Mvana ka-Thixo, ndiyeza."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinje, Nkosi, ndiza ndinje, Ndibanga uthando lwaKho;",
+        "Ndiyaziphosa, ndingowaKho, Mvana ka-Thixo, ndiyeza."
+      ],
+      "number": 6
+    }
+  ]
+}

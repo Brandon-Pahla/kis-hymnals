@@ -1,0 +1,46 @@
+{
+  "number": 285,
+  "language": "en",
+  "title": "285 There Is A Place Of Quiet Rest.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "There is a place of quiet rest,",
+        "Near to the heart of God;",
+        "A place where sin can not molest,",
+        "Near to the heart of God."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O Jesus, blest Redeemer,",
+        "Sent from the heart of God,",
+        "Hold us, who wait before Thee,",
+        "Near to the heart of God."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "There is a place of comfort sweet,",
+        "Near to the heart of God;",
+        "A place where we our Saviour meet,",
+        "Near to the heart of God."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "There is a place of full release,",
+        "Near to the heart of God;",
+        "A place where all is joy and peace,",
+        "Near to the heart of God."
+      ],
+      "number": 3
+    }
+  ]
+}

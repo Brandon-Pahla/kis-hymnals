@@ -1,0 +1,53 @@
+{
+  "number": 117,
+  "language": "ny",
+  "title": "117 - Ndinamva Mauwo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I AM COMING, LORD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndinamva mauwo, Andiitana ’ne;",
+        "Ndisambe m’mwazi wanuwo, Wodzera mtandamo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndili kudzatu; Ndidza kwanuko!",
+        "Munditsuke mtimamo, Ndi mwazi wanuwo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndilibe mphamvuzo, Mundilimbitsa ’ne;",
+        "Mundiyeretsa konseko, Ndiyerayera mbu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Atero ndaniyo? Ndi Yesu wabwino,",
+        "Apatsa mvanu mtendere; Ndi mphamvu mtimamo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nditama mwaziwo! Nditama nsisizo,",
+        "Nditama Yesu Mbuyeyo, Chiyero chathucho."
+      ],
+      "number": 5
+    }
+  ]
+}

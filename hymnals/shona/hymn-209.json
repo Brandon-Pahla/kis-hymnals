@@ -1,0 +1,47 @@
+{
+  "number": 209,
+  "language": "sn",
+  "title": "209 O, Kufamba Na Mwari",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kufamba pamwe naMwari",
+        "Kufamba kwek’denga",
+        "Murimwenje unopenya",
+        "M’nzira yekudenga"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dzika njiva inoyera",
+        "M’tumwi wakanaka",
+        "Ndinochiwenga chitema",
+        "Cha’mubvisa k’neni"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndakafara m’urunyararo",
+        "Ndichikutondera!",
+        "Ndasara ndisina chiro",
+        "Pasi harindipi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndibatsire kukurira",
+        "Zvinondifadzazvo",
+        "Ngandizvikurire ndinamate",
+        "Imwi chete"
+      ],
+      "number": 4
+    }
+  ]
+}

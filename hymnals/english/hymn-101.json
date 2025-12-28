@@ -1,0 +1,57 @@
+{
+  "number": 101,
+  "language": "en",
+  "title": "101 Jesus Is Calling.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus is tenderly calling thee home,",
+        "Calling today, calling today;",
+        "Why from the sunshine of love wilt thou roam,",
+        "Farther and farther away?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Call…ing today….call…ing today,",
+        "(Calling today, calling today;",
+        "Calling today, calling today,)",
+        "Jes…….us is call…ing, is tenderly calling today.",
+        "(Jesus is tenderly calling today)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus is calling the weary to rest,",
+        "Calling today, calling today;",
+        "Bring him thy burden, and thou shalt be blest;",
+        "He will not turn thee away."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus is waiting, oh, come to Him now,",
+        "Waiting today, waiting today;",
+        "Come with thy sins, at His feet lowly bow;",
+        "Come, and no longer delay."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus is pleading, oh, list to His voice,",
+        "Hear Him today, Hear Him today;",
+        "They who believe on His name shall rejoice;",
+        "Quickly arise and away."
+      ],
+      "number": 4
+    }
+  ]
+}

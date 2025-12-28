@@ -1,0 +1,47 @@
+{
+  "number": 51,
+  "language": "en",
+  "title": "51 Baptize Us Anew",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Baptize us anew, With power from on high,",
+        "With love, oh refresh us! Dear Savior, draw nigh",
+        "We humbly beseech thee, Lord Jesus we pray",
+        "With love and the spirit baptize us today"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unworthy we cry, Unholy unclean,",
+        "O wash us and cleanse us, from sin’s guilty stain",
+        "We humbly beseech thee, Lord Jesus we pray",
+        "With love and the spirit baptize us today"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O heavenly dove, Descend from on high",
+        "We plead thy rich blessings, In mercy draw nigh",
+        "We humbly beseech thee, Lord Jesus we pray",
+        "With love and the spirit baptize us today"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O list the glad voice, From heaven it came",
+        "Thou art my beloved, Well pleased I am",
+        "We praise thee; we bless thee, dear Lamb that was slain",
+        "We laud and adore thee, Amen and Amen"
+      ],
+      "number": 4
+    }
+  ]
+}

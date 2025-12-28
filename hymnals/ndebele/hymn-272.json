@@ -1,0 +1,47 @@
+{
+  "number": 272,
+  "language": "nd",
+  "title": "272 Phons’ Intambo Kok’phila Kul’ Iza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Phons’ intambo yoku’phila kul’iza, Nang’ umfowethu ungamsindisa",
+        "O, ngubani ozozidela Aphons’ iNtambo yoK’phila emfela?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phonsa iNtambo! yoK’phila!, Omunye uyamuka,",
+        "Phonsa iNtambo! Yona yoK’phila! Kushon’ omunye namhla."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phons’ iNtambo yoK’phila masinya, Ngani uyalibala kangaka?",
+        "Mbon’ esecwila, wenze manje; Ngomkhumbi woKuphila, yana kude."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phons’ iNtambo yoK’phila kofayo, Eshon’ osizin’ olwesabekayo!",
+        "Kuwo esililo amaza, Masinya azomkhukhula amanzi"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sizodlul’ isi’khathi sokulenga, Bawelel’ ogwini lokulahlwa",
+        "Kaloku mfowethu, sheshisa! Phons’ iNtambo namuhla basindiswe"
+      ],
+      "number": 5
+    }
+  ]
+}

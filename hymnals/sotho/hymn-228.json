@@ -1,0 +1,49 @@
+{
+  "number": 228,
+  "language": "st",
+  "title": "228 Bokang, Bokang",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bokang, bokang ’Moloki oa rona Jesu,",
+        "Rato la hae, tlong, le mo tumiseng",
+        "Maholimong, mafats’eng e be sehou,",
+        "Se mo bokeng ka pelo li le ling.",
+        "O molemo, O lerato hakakang!",
+        "O boloka bohle ba mo ts’epang",
+        "Amohelang lithoko tsa mangeloi,",
+        "Ho mo tlotlisa, Jesu ’Moloki,"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bokang, bokang ’Moloki oa rona, Jesu,",
+        "Ke konyana e hlabetsoeng rona.",
+        "Sefapanong ka mali a hae le lefu,",
+        "O phethile topollo ea rona.",
+        "Molahluoa ea neng a khotse lihlong,",
+        "Joale ke Morena leholimomng.",
+        "’Mokeng, ’mokeng! Ke ts’epo, thabo ea rona",
+        "Sehlabelo, ’Moloki, Morena"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bokang, bokang ’Moloki oa rona Jesu,",
+        "Le tumiseng mohale ea fentseng.",
+        "Ka lebitleng O hlotse matla a lefu,",
+        "A nyelisa bo-Satane ponts’eng.",
+        "O n’a shoele, joale ke ea phelileng.",
+        "’Me O phela ka mehla le mehleng,",
+        "’Mokeng, ’mokeng, lona bana ba topollo.",
+        "Mo tumiseng hohle ka nyakallo"
+      ],
+      "number": 3
+    }
+  ]
+}

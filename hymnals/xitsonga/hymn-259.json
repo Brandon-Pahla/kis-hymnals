@@ -1,0 +1,25 @@
+{
+  "number": 259,
+  "language": "ts",
+  "title": "259. HI TA HLANGANA NTSUNGENI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SHALL WE MEET BEYOND THE RIVER?",
+        "1. Hi Ta Hlangana Ntshungeni, Wa Nambu Wa Vutomi,",
+        "I Ku Vonaka Ntsea, Ku Hava Na Maxangu.",
+        "CHORUS",
+        "Hi Ta Hlangana Ke? Ntsungeni Wa Nambu, Ku Ta Hlanganiwa Xana? Ndhawini Leyo Rhula?",
+        "2. Eribuweni Ra Nambu, Xanan Hi Ta Hlangana?",
+        "Ntsako Wu Ta Va Wukulu, Xana Hi Ta Va Swin’we?",
+        "3. Emutini Wo Saseka, Makhumbi Ya Vangama,",
+        "Wu Akiwe Hi Xikwembu, Xana U Ta Va Kona.",
+        "4. Loko Yesu Muponisi, A Landza Vana Vakwe,",
+        "U Ta Hi Tsundzuka Xana? Xana A Hi Nge Sali?",
+        "Vuyelelo Ro Hetelela Ee Hi Ta Hlangana, Ntsungeni Wa Nambu, Ina Ku Ta Hlanganiwa, Ndhawini Leyo Rhula."
+      ],
+      "number": 1
+    }
+  ]
+}

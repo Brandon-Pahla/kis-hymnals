@@ -1,0 +1,57 @@
+{
+  "number": 84,
+  "language": "xh",
+  "title": "84 Dumisani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dumisani u-Yehova",
+        "Osinik’ Izipho zonke;",
+        "Dumisani emhlabeni",
+        "Nina nizidalwa nonke."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dumisani zingelosi",
+        "Ezihlala enyangweni;",
+        "Nonke nidumis’ u-Yise",
+        "Nyana, Moya Oyingcwele."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Singabantu be-Nkosi, be-Nkosi, be-Nkosi,",
+        "Singabantu be-Nkosi, Siculel’ i-Nkosi.",
+        "Yesu ngu-Mthuthuzeli, Silindel’ uMsindisi;",
+        "Sohlabela ngohambo NguYe u-Mkhokeli."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yizani siy’ ekhaya, Ekhaya, ekhaya,",
+        "Yizani siy’ ekhaya, Kubo ngaphesheya.",
+        "Yizani siy’ ekhaya, Sibonane khon’ apho,",
+        "Yesu siya hlabela, Sikufuph, ekhaya."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngokuvuya sovuma, Sovuma, sovuma,",
+        "Ngokuvuya sovuma, sihambe sithetha.",
+        "’Bamhlophe nabantsundu, Bonke becul’ ingoma,",
+        "Betsholoza no-Yesu e-Jerusalema."
+      ],
+      "number": 5
+    }
+  ]
+}

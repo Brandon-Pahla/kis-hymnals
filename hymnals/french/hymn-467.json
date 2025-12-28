@@ -1,0 +1,48 @@
+{
+  "number": 467,
+  "language": "fr",
+  "title": "Près de Jésus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Près de Jésus, je trouve un sûr asile.",
+        "Et si mon ciel est parfois menaçant,",
+        "Il me rassure, en lui je suis tranquille :",
+        "Dans ma faiblesse agit son bras puissant."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Près de Jésus, nulle frayeur,",
+        "La joie est indicible.",
+        "Près de Jésus, je suis vainqueur,",
+        "L'âme heureuse et paisible."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Près de Jésus, je suis béni sans cesse,",
+        "Allègrement, je porte mes fardeaux.",
+        "Un mot de lui dissipe ma tristesse",
+        "Et son amour me donne le repos."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Près de Jésus, ô douceur infinie,",
+        "Je veux marcher heureux jour après jour;",
+        "Jusqu'à la fin du combat de la vie,",
+        "En lui goûter un éternel amour."
+      ],
+      "number": 4
+    }
+  ]
+}

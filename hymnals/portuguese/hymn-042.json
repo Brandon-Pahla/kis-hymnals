@@ -1,0 +1,47 @@
+{
+  "number": 42,
+  "language": "pt",
+  "title": "Noite de Paz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Noite de Paz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tudo é paz! Tudo amor!",
+        "Dormem todos em redor.",
+        "Em Belém Jesus nasceu,",
+        "Rei da paz, da Terra e Céu;",
+        "Nosso Salva dor é Jesus, Senhor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Glória a Deus! Glória a Deus!\"",
+        "Cantam anjos lá nos Céus;",
+        "Boas novas de perdão,",
+        "Graça eterna, salvação.",
+        "Prova desse amor, dá o Redentor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rei da paz, Rei do amor,",
+        "É Jesus o Salvador.",
+        "Vinde todos Lhe pedir",
+        "Que nos venha conduzir;",
+        "Deste mundo, a luz é o Senhor Jesus."
+      ],
+      "number": 4
+    }
+  ]
+}

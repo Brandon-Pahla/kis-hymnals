@@ -1,0 +1,46 @@
+{
+  "number": 145,
+  "language": "sn",
+  "title": "145 Usakumbire Kuregererwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Usade kuregererwa kune basa",
+        "Mira usewenze, kwese ungaiswe",
+        "Kukona kwake kuri kupiwa iwe",
+        "Gashira uwane basa rekudenga"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O huya… usawe senyope,O huya… mira",
+        "usewenze; Usade kuregererwa",
+        "Ungazonzwi achiti kunewe, hauchina basa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Usade kuregererwa, wadaidzwa",
+        "Chikasika iwe kuita basaro",
+        "Minda yatoibva vacheki vashoma",
+        "Farira kuita basa rake Tenzi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Usade kuregererwa",
+        "Kunengozi mukunonoka kuita basa rake",
+        "Uchinyengererwa neinzwi raTenzi",
+        "Jesu anemutsa uya uponeswe"
+      ],
+      "number": 4
+    }
+  ]
+}

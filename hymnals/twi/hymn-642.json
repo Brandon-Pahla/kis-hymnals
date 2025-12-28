@@ -1,0 +1,49 @@
+{
+  "number": 642,
+  "language": "tw",
+  "title": "Yɛde Adwen a Ͻyɛ Nnam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛde adwen a ɛyɛ nnam",
+        "Yi W'ayɛ, dwen W'adwen;",
+        "Honhom Kronkron, fa Wo dom bra,",
+        "Ky'rɛ yɛn nea Kristo ky'rɛe.",
+        "Yɛn adesuam', ma yemmisa",
+        "S'ro nyansā a ɛba ma",
+        "'Hoɔdenfo ne 'hobrɛasefō a",
+        "Wobisa wɔ gyidim'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yede nipaduā a ɛyɛ den",
+        "Yi W'ayɛ, yɛ Wo pɛ;",
+        "Honhom no asɔrefie a",
+        "Yefi mu yi W'ayɛ.",
+        "Yɛde yɛn ho nyinaa ma Wo",
+        "Sɛ afɔrebɔde;",
+        "'Fisɛ Wo nko na Woatua yɛn",
+        "Nkwagye ka ama yɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛde koma a ɛyɛ kronn",
+        "Yi W'ayɛ, hu W'akwan;",
+        "Na yɛma yɛn nne so to dwom",
+        "De yi W'ayɛ daa daa.",
+        "Koma a nkamfo ahyɛ ma",
+        "Bɛsom Wo daapem de,",
+        "Yɛde y'adwen ne nipadua",
+        "Yi Wo ayɛ seesei."
+      ],
+      "number": 3
+    }
+  ]
+}

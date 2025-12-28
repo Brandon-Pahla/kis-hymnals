@@ -1,0 +1,57 @@
+{
+  "number": 101,
+  "language": "tw",
+  "title": "ɔs'ro Agya Dɛɛfo No Mma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ɔs'ro Agya dɛɛfo no mma",
+        "Boa wɔn ano Ne kokom dwoo;",
+        "Nnomaa anaa s'ro nsoromma",
+        "Nnya 'hintabea a ɛte saa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame no ara yɛn' Ne de;",
+        "Wɔyɛ frɔmm Ne dɔ kronkron nom'",
+        "ɔgye wɔn fi mmusu ny'naa mu",
+        "ɔsoa wɔn Ne tum' basa so."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nɔkwa anaa owu ntumi",
+        "Ntetew 'W'rade ne Ne mma mu;",
+        "Ohwie Ne dom no gu wɔn so,",
+        "Na Onim wɔn aw'rɛhow ny'naa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Momfa dɛw nkamfo Aw'rade;",
+        "Mo Hwɛfo ntɔ nko na ɔnna;",
+        "Mo Banbɔfo no pɛ mu no,",
+        "'Tamfo biara bedi nkogu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ ɔma o, sɛ ɔfa o,",
+        "Onyame werɛ mfi Ne mma;",
+        "Ne dɔ botae ara ne sɛ",
+        "ɔbɛma wɔn ayɛ kronkron."
+      ],
+      "number": 5
+    }
+  ]
+}

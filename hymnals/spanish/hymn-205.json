@@ -1,0 +1,65 @@
+{
+  "number": 205,
+  "language": "es",
+  "title": "Dadme la Biblia",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Dadme la Biblia"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dadme la Biblia, reluciente estrella,",
+        "norte del nauta en tormentoso mar",
+        "nunca el nublado esconderá su brillo,",
+        "pues las tinieblas puede disipar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Dadme la Biblia, santa y clara nueva,",
+        "luz del camino angosto y celestial;",
+        "regla y promesa, ley y amor unidos",
+        "hasta que rompa el alba eternal"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dadme la Biblia, en mi desaliento,",
+        "cuando el pecado cáuseme temor;",
+        "dadme los fieles dichos del Maestro;",
+        "siempre me encuentre junto al Salvador."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dadme la Biblia, antorcha a mis pisadas",
+        "en la insegura senda terrenal;",
+        "única luz constante en las tinieblas;",
+        "prenda de paz y amparo celestial."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dadme la Biblia, luz de vida eterna;",
+        "junto al sepulcro su esplendor alzad;",
+        "sobre el Jordán destáquense las puertas",
+        "fulgidas de la célica ciudad."
+      ],
+      "number": 6
+    }
+  ]
+}

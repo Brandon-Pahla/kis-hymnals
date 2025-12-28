@@ -1,0 +1,47 @@
+{
+  "number": 2,
+  "language": "sn",
+  "title": "2 Petyo Kana Nepam’suvo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mambo aripo pam’suwo, Iye wafa pamchinjiko;",
+        "Asi unowuya zvino Kutora vake’vo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pamsuwo, Pam’suwo, Pam’suwo, Hunde’po pam’suwo;",
+        "Anouya, Anouya, hunde ari pam’suwo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zviwoneso zvekuuya, Zvino zviri kuitika;",
+        "Toona nekukasika Musi wakanaka."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Musanangise pasi’po, Kuti kusine dambudzo;",
+        "Dakara Muponesi’wo Auye pasi’po."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndizvo mupasi’po itsva, Tichagara nekugara;",
+        "Kufa kuchawa kusafa, Haiperi nguva."
+      ],
+      "number": 5
+    }
+  ]
+}

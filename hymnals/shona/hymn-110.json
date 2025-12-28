@@ -1,0 +1,39 @@
+{
+  "number": 110,
+  "language": "sn",
+  "title": "110 Wakakomborerwa Awo Wanoita",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Inzwa mazwi aMuponesi Ndiwo mazwi eupenyu.",
+        "Inzwa utondere Jesu akati, \"Vakomborerwa vaiti.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vakakomborerwa vakarurama, komborerwa, komborerwa,",
+        "Vakakomborerwa vano’ta m’temo komborerwa, komborerwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hakutibatsiri kunzwa kwedu mitemo nezvitsidzo;",
+        "Kuzvinzwa, kuzviita hakuponesi; Vakomborerwa vanoita."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vanozopinda mumusha vakasunungurwa zviitema",
+        "Vasukwa, nembiri, zvino narini, Vanodya muti veupenyu."
+      ],
+      "number": 4
+    }
+  ]
+}

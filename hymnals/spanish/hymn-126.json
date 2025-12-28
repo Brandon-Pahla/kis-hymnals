@@ -1,0 +1,70 @@
+{
+  "number": 126,
+  "language": "es",
+  "title": "Abrigadas y salvas en el redil",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Abrigadas y salvas en el redil"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abrigadas y salvas en el redil",
+        "las noventa y nueve están;",
+        "pero allá en el bosque perdida va",
+        "una pobre rendida de afán,",
+        "por el monte escabroso y",
+        "aterrador,",
+        "muy lejos vagando del Pastor,",
+        "muy lejos vagando del Pastor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"¿Del rebaño no bastan, tierno",
+        "Pastor,",
+        "las noventa y nueve aquí?\"",
+        "Mas responde el Pastor. \"Una oveja hoy",
+        "descarriada va lejos de mí.",
+        "Y en la sierra escarpada ya voy a",
+        "entrar,",
+        "mi pobre oveja a rescatar,",
+        "mi pobre oveja a rescatar\"."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No sabrá el mortal del río veloz",
+        "que el Pastor tuvo que cruzar;",
+        "ni cuan negra la noche fue en que",
+        "él salió",
+        "su oveja perdida a buscar.",
+        "Sus gemidos y quejas podía oír;",
+        "enferma estaba y por morir,",
+        "enferma estaba y por morir."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Una grande algazara luego se oyó,",
+        "por doquier retumbando fue,",
+        "a la célica puerta la voz llegó:",
+        "\"Alegraos, que mi oveja encontré\".",
+        "Y cantaban los ángeles en redor:",
+        "\"¡Lo suyo rescata el buen Pastor,",
+        "lo suyo rescata el buen Pastor!\""
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "number": 579,
+  "language": "pt",
+  "title": "Eu Te Amo, ó Deus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Eu Te Amo, ó Deus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu te amo ó Deus, ergo meu louvor.",
+        "Minh 'alma vem te adorar, Senhor.",
+        "Aceita, pois, este meu louvor,",
+        "Como gratidão por teu grande amor."
+      ],
+      "number": 2
+    }
+  ]
+}

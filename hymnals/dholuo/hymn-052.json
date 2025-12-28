@@ -1,0 +1,28 @@
+{
+  "number": 52,
+  "language": "luo",
+  "title": "52 Jawar Yesu Itelna",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Jawar Yesu itelnae ngimana mar chandruokGapaka mogingore,masiche be mopondoIn Jaloch maduong` mar nam,Jawar Yesu itelna."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kat` apaka gingore,Inyalo kueyo yamo.Apaka mager winjikichiko mondo gikwe.In Jaloch maduong` mar nam,Jawar Yesu itelna."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ka achiegni gi chopo,ka yembe malich kudhoEdho nam mokwe maber,ka ayiengora kuomi Yie,Awinji kiwachona,\"Kik iluor anatelni.\""
+      ],
+      "number": 3
+    }
+  ]
+}

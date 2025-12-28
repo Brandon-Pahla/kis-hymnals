@@ -1,0 +1,55 @@
+{
+  "number": 119,
+  "language": "tw",
+  "title": "A Bɔfō a Mufi 'Nuonyam Mu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Abɔfō a mufi 'nuonyam mu,",
+        "Muntu mfa wiase nyinaa;",
+        "Mō a motoo adebɔ ho nnwom,",
+        "Monka 'Gyenkwa awo nky'rɛ;",
+        "Mommra mmɛsom, mommra mmɛsom",
+        "ɔhen' Kristō a wɔawo No."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nguanhwɛfo a mowɔ sar' so,",
+        "Rewɛn mo nguan anadwo;",
+        "Nyame ne nnipa abɛtra,",
+        "'Bofra no hann hy'rɛn aky'ri;",
+        "Mommra mmɛsom, mommra mmɛsom",
+        "ɔhen' Kristō a wɔawo No."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyansafo, munnyae adwennwen,",
+        "Hann kɛse apue aky'ri",
+        "Monkɔhehwɛ aman 'nidason'",
+        "Moahu N'awo ho ns'romma;",
+        "Mommra mmɛsom, mommra mmɛsom",
+        "ɔhen' Kristō a wɔawo No."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ahotefo a moakoto",
+        "Rewɛn 'nidaso ne sųrom",
+        "Awurade besian mpófrim",
+        "Aba N'asɔrefie hɔ;",
+        "Mommra mmɛsom, mommra mmɛsom",
+        "ɔhen' Kristō a wɔawo No."
+      ],
+      "number": 4
+    }
+  ]
+}

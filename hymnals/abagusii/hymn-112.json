@@ -1,0 +1,35 @@
+{
+  "number": 112,
+  "language": "guz",
+  "title": "112 Tenena Ase Yeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tenena ase Yeso,Abarwani baye,'Moki' ebendera igoro,Tebaisa kobugwa!Morae mogand' oye,Bobui as'obobuiMobabu' ababisaErio Krist' agambe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tenena ase Yeso,Igwera engoma,Esegi yarorire,'tuko ri' ObobuiAbaye mokorere,korwani' ababisaRemereri' emechando,Ogokwa nokoba"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tenena ase Yeso,'Se chinguru chiayeNaki amabok' aino,Takobaisana;Bek' enguba y'Enchili,Gesa mogosaba;'S'emerem' egotoka,Timoirana nyuma."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tenena ase Yeso,Esegi neere;Rero nario esegi,ankio nobobuiEre Oyorabue,Gutwa y'obogimaEr'amo n'Omorwoti,Mbagambe botambe."
+      ],
+      "number": 4
+    }
+  ]
+}

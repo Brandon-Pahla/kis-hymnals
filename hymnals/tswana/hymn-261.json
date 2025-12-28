@@ -1,0 +1,38 @@
+{
+  "number": 261,
+  "language": "tn",
+  "title": "261 Ke Edeneng Kwa Go Gontle",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Edeneng Kwa Go Gontlhe, Botshe Tidimalong",
+        "Pedung tse di futsafetseng, Wena o nne tlotso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke Edeneng kwa go gontlhe, Gaeng ja baitshepi,",
+        "Gantsi ke le mo tlalelong ke Lora boikhutso jwa ’Go."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mo Pelong Ya Yo O Lelang, Go Phatsima Tsatsi,",
+        "Ja kgwaso ya baengele, Ba opelang kgakala."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go Legae Ja Mmoloki, Teng Le Ba ’Tlhapileng;",
+        "Lefatshing ja kgalalelo, Go kopelo e ntsha."
+      ],
+      "number": 3
+    }
+  ]
+}

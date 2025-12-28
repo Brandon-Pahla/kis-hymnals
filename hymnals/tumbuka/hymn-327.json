@@ -1,0 +1,78 @@
+{
+  "number": 327,
+  "language": "tum",
+  "title": " 327 Wakuchema Ise Kusirya Lira",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 327 Wakuchema Ise Kusirya Lira"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Wakuchema ise kusirya lira",
+        "tumizgani mazgu,",
+        "Wakukhumba kuti waponoskeke tumizgani mazgu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "(Bass)",
+        "Tithuwuske mazgu gha",
+        "Fumu na mtima withu wOse,",
+        "Pakumuchindika Chiuta",
+        "na kusunga marango, Tumizga mazgu gha",
+        "uthenga kose wapuLikiske,",
+        "Tumizga mazgu gha",
+        "udhenga ungaLekanga chara",
+        "(S/A/T)",
+        "Tithuwuske mazgu gha",
+        "Fumu na mitima yakuzonmera",
+        "Pakumuchindika Chiuta",
+        "na kusungaso mazgu ghake, Tumizga mazgu gha",
+        "uthenga kose wapuLikiske,",
+        "Tumizga mazgu gha",
+        "uthenga ungaLekanga chara."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Tapulika ntchemerezgo kusirya",
+        "umizgani mazgu",
+        "Tiwezgere lusungu lwithu lose",
+        "tumizgani mazgu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Tirombe uchizi wa Fumu yithu",
+        "tumizgani mazgu,",
+        "Mzimu wa Fumu waye posepose",
+        "tumizgani mazgu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Tingavukanga kuchita uweme",
+        "tumizgani mazgu,",
+        "Pakuguza wanthu awo wazgewa",
+        "tumizgani mazgu."
+      ],
+      "number": 5
+    }
+  ]
+}

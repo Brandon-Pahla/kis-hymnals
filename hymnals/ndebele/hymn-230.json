@@ -1,0 +1,41 @@
+{
+  "number": 230,
+  "language": "nd",
+  "title": "230 Ngi Y’Indlela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Njengemv’ ezul’entabeni Iduke nezinye;",
+        "Ngi ngathol’ indlela njani Ebuyel’ ekhaya?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngiy’ iNdlela, ‘Qiniso nok’Phila,",
+        "Ku ngeze muntu kuBaba phandle kwami,",
+        "Ngiy’ iNdlela, ‘Qiniso nok’Phila,",
+        "Ku ngeze muntu kuBaba phandle kwami."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Insizi zingididile Sengi fun’iNkosi;",
+        "Abanye bathi, Lenale! Iqiniso liphi?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Krest’ ukuPhila neNdlela Ngi ngeze ngamshiya;",
+        "Wongiqondisa kuBaba Ngi hlale ekhaya."
+      ],
+      "number": 4
+    }
+  ]
+}

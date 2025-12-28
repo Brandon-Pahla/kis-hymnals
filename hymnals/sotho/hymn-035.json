@@ -1,0 +1,38 @@
+{
+  "number": 35,
+  "language": "st",
+  "title": "35 Ho Its’etleha Matsohong A Sa Feleng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A setsoalle, le nyakallo, matsohong a sa feleng,",
+        "Lehlohonolo, le khotso ea ka, matsohong a sa feleng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Its’etlehe (ho Jesu Morena) O bolokehe kahohle;",
+        "Itsetlehe (ho Jesu Morena) Matsohong a sa feleng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Monate ho tsamaea leetong, matsohong a sa feleng;",
+        "Ho khanya joang tseleng kamehla, matsohong a sa feleng."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tla ts’oha eng ke ts’abe le eng matsohong a sa feleng?",
+        "Ke na le khotso ho Morena, matsohong a sa feleng."
+      ],
+      "number": 3
+    }
+  ]
+}

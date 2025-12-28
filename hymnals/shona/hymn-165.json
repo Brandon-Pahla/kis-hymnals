@@ -1,0 +1,47 @@
+{
+  "number": 165,
+  "language": "sn",
+  "title": "165 Ndino Muda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndomuda, ndomuda, ndomuda Tenzi",
+        "Ndomuda Imwizve Muponesi wangu",
+        "Ndomuda ndomuda Munozviziva",
+        "Mabasa angu ese anopangidza"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndofara, ndofara, Ndoofaraini",
+        "Kufara kwangu kwese hakuperi",
+        "Ndorindira pfuma yangu ikoko",
+        "NaJesu, newese, Nengirosizve"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Jesu M’ponesi Mandiponesa",
+        "Upenyu neruponeso ngezvenyu",
+        "Ruri rwiyo rwangu nezita renyu",
+        "Ndinofarisisa nemutsa wenyu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyani wofanana nemwi Tenzi",
+        "Anonyemwerera Nekundida ini",
+        "Ndinozo mukudza, Nengoma dzese",
+        "Nenzizi dzemutsa dzinondifadza"
+      ],
+      "number": 4
+    }
+  ]
+}

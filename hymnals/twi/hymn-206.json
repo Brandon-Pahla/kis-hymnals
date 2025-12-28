@@ -1,0 +1,56 @@
+{
+  "number": 206,
+  "language": "tw",
+  "title": "Mehyia Kristo m'Agyenkwa No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mehyia Kristo m'Agyenkwa no,",
+        "Yebehu yɛn ho ara;",
+        "Da a mehu No anigyem,",
+        "Yesu a Owu maa me."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mehu ɔno ara anim,",
+        "Wɔ ewim akyi nohoa,",
+        "Mehu N'anim anuonyam mu,",
+        "Daakye bi mehu N'anim."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mɔprempren de esum yi nti,",
+        "Mihu no ketewaa bi;",
+        "Nanso ɛda pa bi reba",
+        "A mehu N'anuonyam no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B'rč a 'w'rɛhow ne yaw bɛpa no",
+        "N'anim bɛyɛ 'nigye yie;",
+        "Sɛ wɔtene 'tempɔn no wie,",
+        "Na esum nso dan hann a."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ahotɔ b're nom' mehu No!",
+        "Mehu No ahyɛ No nso,",
+        "Mehu me Dimafo anim",
+        "Kristo a ɔde me no."
+      ],
+      "number": 4
+    }
+  ]
+}

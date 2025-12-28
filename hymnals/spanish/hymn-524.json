@@ -1,0 +1,67 @@
+{
+  "number": 524,
+  "language": "es",
+  "title": "Traían en silencio presentes al Señor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Traían en silencio presentes al Señor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Traían en silencio",
+        "presentes al Señor;",
+        "su amor humilde y puro",
+        "les daba gran valor;",
+        "palabras de consuelo",
+        "y hechos de bondad,",
+        "Jesús los recibía",
+        "por su sinceridad."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¿Quisieras dar a Cristo",
+        "el más precioso don?",
+        "Di: \"Cristo, mi Maestro,",
+        "te doy mi corazón\"."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aparte de los otros",
+        "un pobre viador",
+        "miraba cómo daban",
+        "tributos al Señor.",
+        "Él nada poseía;",
+        "sentía gran amor,",
+        "¡y cuánto anhelaba",
+        "dar algo de valor!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Señor\", clamó el hombre,",
+        "\"acepta tú mi don,",
+        "acepta lo que tengo:",
+        "mi triste corazón\".",
+        "Le dijo el buen Maestro",
+        "al pobre viador:",
+        "\"De todos los presentes",
+        "es este el mejor\"."
+      ],
+      "number": 5
+    }
+  ]
+}

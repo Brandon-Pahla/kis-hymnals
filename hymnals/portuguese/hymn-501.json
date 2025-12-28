@@ -1,0 +1,46 @@
+{
+  "number": 501,
+  "language": "pt",
+  "title": "Mansão Sobre o Monte",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Mansão Sobre o Monte"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aguardo o dia de emoção sem-par,",
+        "No qual terei um belíssimo lar,",
+        "Entre colinas e vales formosos,",
+        "Donde se avista a cidade eternal."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Terei uma casa, no alto do monte,",
+        "Com flores lindas por todo o jardim;",
+        "Aves cantando nas copas frondosas,",
+        "Rejubilando, na vida sem fim."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Manhãs bem claras, sem nuvens escuras,",
+        "O Sol radiante, está sempre a brilhar;",
+        "Animaizinhos, sem susto ou temores,",
+        "Entre crianças a correr e a brincar."
+      ],
+      "number": 4
+    }
+  ]
+}

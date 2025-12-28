@@ -1,0 +1,34 @@
+{
+  "number": 121,
+  "language": "sw",
+  "title": "121 - Katika Wenye dhambi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Katika wenye dhambi, ndimi mkuu wao,",
+        "Ila Yesu akaja, kwa dhambi alikufa,",
+        "Akamimina damu, niupate uzima."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Ajabu! Pendo lake, pendo lililo kuu,",
+        "Pendo lisilo mwisho, lidumulo milele,",
+        "Lililonitafuta, ingawa sikumpenda."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Ingawa ni mbaya, Kristo ni vyote kwangu,",
+        "Ajua haja zangu, huzuni zangu zake,",
+        "Hata katika vita, akiwapo salama."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 126,
+  "language": "ve",
+  "title": "126. Ndo Vhofhololwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:194"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi na luimbo lwa thendo, lwa u vhofhololwa;",
+        "Nga Mutshidzi khotsi-anga, we a mbofholola."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tshe nda vhofhololwa, tshe nda vhofhololwa;",
+        "Thendo kha dzina lawe, tshe nda vhofhololwa,",
+        "Ndi do mu renda Yesu wanga."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. U mpfushisa nga vhurena, nga u vhofhololwa;",
+        "Ndi ite lufuno lwawe, O mbofholola-vho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Na vhutungu vhu khagala, ha u tshidzwa hanga;",
+        "Vhu tusa u tima-tima, na u ofha hothe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Wo mbetshela haya hanga, wo mbofholola-vho;",
+        "Nda dzula nga hu sa fheli, ndo vhofhololwa nne."
+      ],
+      "number": 5
+    }
+  ]
+}

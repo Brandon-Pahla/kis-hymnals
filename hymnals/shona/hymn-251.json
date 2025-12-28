@@ -1,0 +1,51 @@
+{
+  "number": 251,
+  "language": "sn",
+  "title": "251 Kuchema Hakundi Ponesi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Handinga ponesvi, kana dai ndicheme,",
+        "Hazvinga bvisi kutya, Kana kubvisa zvivi,",
+        "Kuchema inhando"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu akandifira, Pamuti akatambura;",
+        "Anondisunungura, Ndiye anogona"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Basa \\‘ribatsiri, kana zvandinoita,",
+        "Ne pfungwa dzakanaka, hadzi shanduri mweya;",
+        "Basa \\‘ribatsiri"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana kurindira, hakundi batsiriba",
+        "Asi kuti ndifire, tsitsi nemutsa wake,",
+        "Kurindir’ inhando"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chete rudairo, kana Kristu m’ponesi,",
+        "Nebasa Rake rese, Tibatsirenyi Tenzi,",
+        "Muti ponesewo"
+      ],
+      "number": 5
+    }
+  ]
+}

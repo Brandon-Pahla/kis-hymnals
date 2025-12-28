@@ -1,0 +1,57 @@
+{
+  "number": 47,
+  "language": "sn",
+  "title": "47 Ndinomira PaJordani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinomira paJordani,",
+        "Nekunangisisa,",
+        "Kunyika’yo yeKenani,",
+        "Uko kune musha"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tichazorora kunyika iyo,",
+        "Nguva shoma tichazorora",
+        "Toimba rwiyo rwaMosisi naJesu,",
+        "NaJesu tichazogara"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kumakomo akanaka,",
+        "Kuriko kupenya,",
+        "Uko Kristu anotonga,",
+        "Hakuchina dima"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndichasvika’ko rini’ko?",
+        "Nekukomborerwa,",
+        "Nekuona Baba vangu,",
+        "NaIye kugara?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moyo wangu wafarira,",
+        "Unoda kuenda,",
+        "Handityi chiro chouya,",
+        "Ndashinga kufamba"
+      ],
+      "number": 5
+    }
+  ]
+}

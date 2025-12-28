@@ -1,0 +1,61 @@
+{
+  "number": 128,
+  "language": "ny",
+  "title": "128 - Nthawi Ya Pemphero",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BLESSED HOUR OF PRAYER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nthawi ya pempheroyo, powerama ife,",
+        "Tisonkhana kwa Yesu, Ambuyathuyo;",
+        "Tikakhulupiratu adzatibisanso,",
+        "Tidzapeza mpumulo tikapempheratu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndi yokomadi, nthawi ya pempho,",
+        "Tidzapeza mpumulo tikapempheratu"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nthawi ya pempheroyo, Yesu ali mfupi",
+        "Ndi chifundo chakecho atimvera ’fe.",
+        "Atiuza nkhawazo, tizataye kwa ’Ye,",
+        "Tidzapeza mpumulo, tikapempheratu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nthawi ya pempheroyo, akuyesedwawo",
+        "Amatula kwa Yesu zisoni zawo;",
+        "Yesu wachifundoyo amazichotsatu,",
+        "Tidzapeza mpumulo tikapempheratu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nthawi ya pempheroyo tikhulupiranso",
+        "Kuti zomwe tisowa tilandiradi;",
+        "Tikakhulupiradi nkhawa zichokanso;",
+        "Tidzapeza mpumulo tikapempheratu."
+      ],
+      "number": 5
+    }
+  ]
+}

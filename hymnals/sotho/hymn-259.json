@@ -1,0 +1,54 @@
+{
+  "number": 259,
+  "language": "st",
+  "title": "259 Re Tla Kopana Ka Mose",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Re tla kopana ka mose, Moo ho seng lifefo na?",
+        "Khalalelong e sa feleng. Moo ho seng mahlomola?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Na re tla kopana. Re tla kopana ka mose?",
+        "Na re tla kopana teng, Moo ho senang lifefo?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re tla kopana libohong, Re fetile lifefong.",
+        "Re tiise boits’oareletso, Libohong la holimo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re tla kopana motseng, meahong e phatsimang.",
+        "Marakong a jasepere, A ahetsoeng le rona."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re kopane le ’Moloki, Ha a tla nka ba Hae,",
+        "Na re tla tseba mohau? Re lule troneng ea Hae?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "FINAL CHORUS",
+        "E re tla kopana, Re tla kopana ka mose,",
+        "E re tla kopana teng, Moo ho senang lefifi."
+      ]
+    }
+  ]
+}

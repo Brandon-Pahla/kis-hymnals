@@ -1,0 +1,47 @@
+{
+  "number": 78,
+  "language": "sn",
+  "title": "78 Tsvakanyi Vakarasika",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tsvakanyi vese vakarasika",
+        "Nekuvaunza kwaMponesi",
+        "Soko raJesu kutaurira",
+        "Uya kuneni, Iye ati"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yendai kure... pamakomo’yo",
+        "Unzai vafambi... kumusha",
+        "Pinzai m’danga... raMuponesi",
+        "Jesu Nyenye... yabayiwa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsvakanyi vese vakarasika",
+        "Kuvaratidza kuna Jesu",
+        "Kutungamira muiyo nzira",
+        "Yeruponeso neupenyu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndizvo ndinoda, ngekuti Jesu",
+        "Vandidayidza kum’teera",
+        "Kuvabatsira vakarasika",
+        "Nekuna Jesu kuvaunza"
+      ],
+      "number": 4
+    }
+  ]
+}

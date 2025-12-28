@@ -1,0 +1,67 @@
+{
+  "number": 384,
+  "language": "es",
+  "title": "El jardín de oración",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### El jardín de oración"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hay jardín memorable y hermoso,",
+        "do las rosas exhalan su olor;",
+        "allí Cristo en santo reposo",
+        "levantó su plegaria de amor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Oh, qué bello jardín, el jardín de",
+        "oración",
+        "donde el alma se encuentra con",
+        "Dios.",
+        "Allí miro al Señor y escucho su voz,",
+        "en la hora de la oración."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Un vergel de eternal primavera",
+        "porque Dios allí da bendición.",
+        "Es el sitio do Cristo me espera,",
+        "el bendito rincón de oración."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hay un huerto do Cristo me ofrece",
+        "mis penurias y cargas quitar.",
+        "Allí el gozo del cielo florece",
+        "y mi copa se ve rebosar."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Es el sitio do Cristo te invita",
+        "a implorar su bondad y perdón.",
+        "Es allí donde el alma contrita",
+        "se recoge con fe y devoción."
+      ],
+      "number": 6
+    }
+  ]
+}

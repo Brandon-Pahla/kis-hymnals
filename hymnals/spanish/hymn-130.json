@@ -1,0 +1,28 @@
+{
+  "number": 130,
+  "language": "es",
+  "title": "Cristo, Cristo, Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cristo, Cristo, Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo, Cristo, Cristo;",
+        "otro nombre no hay igual.",
+        "Santo, tierno, puro;",
+        "tú llevaste la cruz por mí.",
+        "Cristo, Cristo, Cristo,",
+        "cielo y tierra te alabarán.",
+        "Rey de reyes, sublime Señor,",
+        "no hay otro igual a ti."
+      ],
+      "number": 2
+    }
+  ]
+}

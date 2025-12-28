@@ -1,0 +1,46 @@
+{
+  "number": 64,
+  "language": "xh",
+  "title": "64 Xela Ku-Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Udiniwe, unomvandedwa-na? Yitsho ku-Yesu, yitsho ku-Yesu;",
+        "Unosizi olungapheliyo? Luxelele u-Yesu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yitsho ku-Yesu, yitsho ku-Yesu, Nguye umhlobo waKho;",
+        "Akunaye ongomnye umhlobo, Yitsho ku-Yesu yedwa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zihla ngezidlele inyembezi? Yitsho ku-Yesu, yitsho ku-Yesu;",
+        "Unezono ezingaziwayo? Yitsho ku-Yesu yedwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unosizi-na entliziyweni? Yitsho ku-Yesu, yitsho ku-Yesu;",
+        "Intliziyo yaphukile yini? Yitsho ku-Yesu yedwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uyoyik’ ukucinga ngokufa? Yitsho ku-Yesu, yitsho ku-Yesu;",
+        "Ukhalela umbuso wakhe-na? Yitsho ku-Yesu yedwa."
+      ],
+      "number": 4
+    }
+  ]
+}

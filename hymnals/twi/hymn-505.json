@@ -1,0 +1,46 @@
+{
+  "number": 505,
+  "language": "tw",
+  "title": "Mihia M'adofo Mpaebo No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mihia m'adɔfo mpaebɔ no",
+        "Menam ɔbra kwanfo so yi;",
+        "Sɛnea mɛyɛ nokwafo pa",
+        "Atra ase daa 'ma Yesu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mepɛ sɛ me nnamfo bɔ mpae",
+        "De soa me kra brɛfo kɔ s'ro",
+        "Na wɔsrɛ ma me Nyame hɔ,",
+        "Mihia m'adɔfo mpaebɔ no."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mihia m'adɔfo mpaebɔ no",
+        "Na aboa me sɔhwɛ b're mu",
+        "De me kra brɛfō akɔ Ne nkyɛn",
+        "Na Wakora me Ne tumim'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mepɛ sɛ nnamfo bɔ mpae mam'",
+        "De soa me gyidi ntaban so,",
+        "Na mafa 'kwan hihiaa no so,",
+        "Yɛn Agya 'nuonyam dom no mu."
+      ],
+      "number": 3
+    }
+  ]
+}

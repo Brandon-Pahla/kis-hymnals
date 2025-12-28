@@ -1,0 +1,37 @@
+{
+  "number": 44,
+  "language": "tw",
+  "title": "Adekyee Aba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Adekyee aba, sɛnea 'dii kan no,",
+        "Anomaa asu, sɛ kan de no.",
+        "Yɛto ayeyi, dwonto ne 'dekyee,",
+        "Ne Asɛm no a efim' bae nti."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Sutɔ fof'ro a efi s'ro yɛ fɛ,",
+        "Te sɛ bosu a edii kan no.",
+        "Yɛto ayeyi, mfuw a afɔ nō a",
+        "Ͻde mudi pue fi neá Otiae no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Wia hann no wɔ me! 'Dekyee no wɔ me;",
+        "Ne ny'naa fi hann a Eden hui no!",
+        "Yɛto ayeyi anɔpa biara,",
+        "Da foforo a Nyamč abɔ nti."
+      ],
+      "number": 3
+    }
+  ]
+}

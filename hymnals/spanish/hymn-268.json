@@ -1,0 +1,55 @@
+{
+  "number": 268,
+  "language": "es",
+  "title": "Puedo oír tu voz llamando",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Puedo oír tu voz llamando"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Puedo oír tu voz llamando,",
+        "suavemente susurrando,",
+        "que a mi alma está hablando:",
+        "\"Trae tu cruz y ven en pos de mí\"."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Seguiré do tú me guíes,",
+        "seguiré do tú me guíes,",
+        "seguiré do tú me guíes;",
+        "dondequiera, fiel, te seguiré."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sufriré por ti, Maestro.",
+        "Si el camino es siniestro",
+        "tú serás refugio nuestro;",
+        "moriré contigo, mi Jesús."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me darás la gracia y gloria",
+        "de obtener la gran victoria,",
+        "y contar la dulce historia:",
+        "que por mí Jesús su vida dio."
+      ],
+      "number": 5
+    }
+  ]
+}

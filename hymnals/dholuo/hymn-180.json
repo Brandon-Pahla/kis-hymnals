@@ -1,0 +1,35 @@
+{
+  "number": 180,
+  "language": "luo",
+  "title": "180 Un Muhero Ruodh Polo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Un muhero Ruodh polo,Weruru kuwuotho ka;Wendewa omedo duong`Ni Yesu ma Jawarwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Wan wadwaro piny maber,Kaka kwerewa machon;Yesu e motelonwa,Obedo Jakwath mang`won."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kik waluor masiche wuoth,thurwa koro chiegini;Wanane Jatelowa,Ok nowewa nyaka chieng`."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Wuothuru, Jowetewa;Kik wariwre e wang`yo;Yueyo to oritowa,Wanacham mwandu kuno."
+      ],
+      "number": 4
+    }
+  ]
+}

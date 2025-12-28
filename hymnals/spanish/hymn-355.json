@@ -1,0 +1,55 @@
+{
+  "number": 355,
+  "language": "es",
+  "title": "Yo voy feliz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Yo voy feliz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aquel en cuyo corazón",
+        "reside el santo amor,",
+        "de gozo siempre la canción",
+        "eleva al Salvador."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Yo voy feliz con Cristo, el Rey,",
+        "mi Salvador, mi Protector.",
+        "Yo voy feliz con Cristo, el Rey;",
+        "mis cargas Jesús me quitó."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesús me ama, bien lo sé,",
+        "pues oye mi clamor;",
+        "y si lo sigo por la fe",
+        "será mi Redentor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La vida aquí terminará,",
+        "el fin ha de llegar;",
+        "mas la promesa fiel será:",
+        "Jesús me salvará."
+      ],
+      "number": 5
+    }
+  ]
+}

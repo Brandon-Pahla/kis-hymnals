@@ -1,0 +1,37 @@
+{
+  "number": 93,
+  "language": "nd",
+  "title": "93 Usuku Lokuphumula Nolwenjabulo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Usuku lokuphumla, nalo lwenjabulo,",
+        "Lu susa izinhlungu, lu xosh’ inhlupheko.",
+        "Ba ya dumisa ngalo nabasezulwini;",
+        "Ba ya hlabela bathi, \"Ngcwele! Ngcwele! Nkosi!\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "iSabatha yinqaba yabahluphekile,",
+        "Insimu egeleza amanzi amahle;",
+        "Li njengomthomb’ othandwa yib’ abomileyo,",
+        "iPhisg’ esibonela izwe elizayo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Usuku olumnandi, khona ebantwini,",
+        "Usuku ku catshangwe, ku bhekw’ ezulwini.",
+        "Si thol’ umus’ omusha, ngalo lolusuku;",
+        "Si zophumula ngalo, si fika phezulu."
+      ],
+      "number": 3
+    }
+  ]
+}

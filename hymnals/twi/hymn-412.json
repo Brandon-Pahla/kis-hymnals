@@ -1,0 +1,56 @@
+{
+  "number": 412,
+  "language": "tw",
+  "title": "Ne Bra Bɛhoa Me Sen Suky'rɛmma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hwɛ Yesu a Onni bɔne no;",
+        "Agya, ma me Ne bra pa no bi.",
+        "B're a me bra yɛ sɛ damm'ram yi,",
+        "Ne bra bɛhoa me sen suky'rɛmma"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ne bra bɛhoa me sen suky'rɛmma,",
+        "Mehu Ne bra a edi mu no;",
+        "B're a me bra yɛ sɛ damm'ram yi'",
+        "Ne bra bɛhoa me sen suky'rɛmma."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mm'rato ap'rak'ru no yɛ kɛse;",
+        "Ayɛ me mu fi; me kra bɔ hu;",
+        "Yesu, sɛ Wokata me ho a,",
+        "Mm'ra no rentum' mmu me atɛn bio."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mepɛ sɛ menya fafri mu dɛw;",
+        "Yesu kura 'tade fitaa bi;",
+        "\\\"'W'rade megye, mepo me de no,",
+        "De 'nigye fura Wo bra kronn no\\\"."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne wu no apata me bɔne,",
+        "N'abrabɔ pa no abu me bem,",
+        "N'asɛm ho setie atew me ho;",
+        "Me W'ra san bá a, ɔbɛhyɛm' 'nuonyam."
+      ],
+      "number": 4
+    }
+  ]
+}

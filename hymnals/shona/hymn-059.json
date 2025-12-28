@@ -1,0 +1,63 @@
+{
+  "number": 59,
+  "language": "sn",
+  "title": "59 Jesu Mudikani Wemwoyo Wangu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu wangu mudiwa,",
+        "Ndinouya kunemwi",
+        "Mananda andibata,",
+        "Chiripo champupuri",
+        "Ndiwige Mponesi,",
+        "Dakara kwanyarara",
+        "Munonditungamira,",
+        "Kumusha wekudenga"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndimwi Chidziwiriro,",
+        "Hakuchinazve chimwe",
+        "Musandisiya ndega,",
+        "Tenzi mundibatsire",
+        "Ndosimbira kunemwi,",
+        "Rubatsirozve rwangu",
+        "Mundifukidze ini,",
+        "Ngemapapiro enyu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndimwi Kristu ndinoda,",
+        "Zvese’zvo munondipa",
+        "Simudza vaputsika,",
+        "Rapanyi vanorwara",
+        "Zita renyu royera,",
+        "Ini ndega ndashata",
+        "Ndazara ngezvitema,",
+        "Mwazara’di nemutsa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kune mutsa kunemwi,",
+        "Wekuchenesa ini",
+        "Rega uzondirapa,",
+        "Mwoyo wangu mukati",
+        "Zvetsime reupenyu,",
+        "Pinda mumwoyo wangu",
+        "Rirambe \\‘chiwerera,",
+        "Kuzondipa upenyu"
+      ],
+      "number": 4
+    }
+  ]
+}

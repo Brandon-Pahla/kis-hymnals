@@ -1,0 +1,37 @@
+{
+  "number": 299,
+  "language": "fr",
+  "title": "À toi, mon Dieu, je me donne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "À toi, mon Dieu, je me donne,",
+        "Je me donne tout entier !",
+        "Ton amour est ma couronne",
+        "Ta force est mon bouclier."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je te donne mes journées",
+        "Mes succès ou mes revers.",
+        "Je te donne mes années",
+        "Mes printemps et mes hivers."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dans la joie ou la souffrance,",
+        "Je veux te suivre en tout lieu.",
+        "Toute ma vie à l'avance,",
+        "Je te l'apporte, ô mon Dieu."
+      ],
+      "number": 3
+    }
+  ]
+}

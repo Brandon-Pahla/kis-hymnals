@@ -1,0 +1,47 @@
+{
+  "number": 14,
+  "language": "sn",
+  "title": "14 Inzwai Mapeni’wo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Inzwai mapeni’wo, Arikuiswa",
+        "Ese ndeaJesu, Unogashira"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gwendere, Gwendere, Gwendere, Gwendere Ari kuiswa;",
+        "Ese ndeaJesu, Unogashira"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Arikuiswa’mo, Kubva m’tuwoko;",
+        "Tinounza chipo Kuna Jesu’wo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tirivo vaduku, Tine mapeni;",
+        "Zvetava vakuru, Tokupa zhinji"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana tisina’ba, Tomupa rudo;",
+        "Zveunozoruda, Afare narwo"
+      ],
+      "number": 5
+    }
+  ]
+}

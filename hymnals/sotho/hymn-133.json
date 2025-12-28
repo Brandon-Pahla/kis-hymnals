@@ -1,0 +1,34 @@
+{
+  "number": 133,
+  "language": "st",
+  "title": "133  Ke Tsamaea Le Molimo.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ntlohele ke tsamaee le Uena, Molimo joale ka Enoke;",
+        "U nts’oare ka letsoho la Hau, U bue ka bonolo le ’na.",
+        "Leha ke sa bone tsela, Jesu U tsamaee le ’na."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke tsamaea ke le mong, Sefefo se halefile;",
+        "Fifi le nts’oara maotong, Lira li ntaletse haufi;",
+        "U khutsisitse leoatle Morena tsamaea le ’na."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke phomola ho Uena, Tsa lefats’e ke lefeela;",
+        "Ke nka leeto ka sebete, Ke tla phahamisa ’fapano",
+        "Ke be ke bone Sione, ’Moloki A tsamaea le ’na."
+      ],
+      "number": 3
+    }
+  ]
+}

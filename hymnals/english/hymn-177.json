@@ -1,0 +1,60 @@
+{
+  "number": 177,
+  "language": "en",
+  "title": "177 No Night There.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "In the land of fade-less day,",
+        "Lies “the city four-square.”",
+        "It shall never pass away,",
+        "And there is “no night there.”"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "God shall “wipe away all tears;”",
+        "(God shall “wipe away all tears)",
+        "There’s no death, no pain, no fears;",
+        "(There’s no death, no pain, no fears;)",
+        "And they count not time by years,",
+        "(And they count not time by years, by years)",
+        "For there is “no night there.”",
+        "( For there is “no night there.”)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "All the gates of pearl are made,",
+        "In “the city four-square,”",
+        "All the streets with gold are laid,",
+        "And there is “no night there.”"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "And the gates shall never close,",
+        "To “the city fore-square,”",
+        "There life’s crystal river flows,",
+        "And there is “no night there.”"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "There they need no sunshine bright,",
+        "In “that city fore-square.”",
+        "For the Lamb is all the light,",
+        "And there is “no night there.”"
+      ],
+      "number": 4
+    }
+  ]
+}

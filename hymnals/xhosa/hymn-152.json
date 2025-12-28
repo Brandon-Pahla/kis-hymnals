@@ -1,0 +1,46 @@
+{
+  "number": 152,
+  "language": "xh",
+  "title": "152 Thetha Nom-Phefumlo Wam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Thetha nomphefumlo wam, Ngelithambileyo;",
+        "Ngolo thando yithi kum; \"Akushiywe wedwa,\"",
+        "Vula lentliziyo yam, Ive wena ngoku,",
+        "Ndizale yindumiso; Mandigcobe ngawe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Thetha nam usebenza Uthando lwaKho kum;",
+        "Yithi, \"Ungumeyisi, ukhululekile,\"",
+        "Thetha yonk’ imihla, Nkos, Ngelithambileyo,",
+        "Ndisebezele uthi akundishiyile."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nab’ abantwana baKho, BaKhokhele wena;",
+        "Bazalise ngovuyo, Nangokuthandaza,",
+        "Baphelelise kuwe, Bonk’ ubomi babo.",
+        "Khawuleza ufike, Size sikubone."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wena wazityhilayo Kwabo bakudala,",
+        "Ndazis’ imfanelo yam, Emthethweni waKho,",
+        "Ndize ndikuzukise, Ndiboniswa nguwe.",
+        "Ndiyavuya Nkosi yam, Ndinembheko kuwe."
+      ],
+      "number": 3
+    }
+  ]
+}

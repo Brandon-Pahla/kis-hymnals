@@ -1,0 +1,47 @@
+{
+  "number": 16,
+  "language": "fr",
+  "title": "L’air , la mer, la terre",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "L’air , la mer, la terre et le ciel,",
+        "Rendent gloire à l’Éternel;",
+        "Qu’on entende aussi ma voix",
+        "En l’honneur du Roi des rois!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dans le ciel, sans voix, sans bruit,",
+        "Comme l’astre de la nuit,",
+        "Le soleil redit toujours :",
+        "« Qu’il est grand, ce Dieu d’amour! »"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Les forêts, les champs, les prés,",
+        "Sur la terre parsemés,",
+        "Font, avec les animaux,",
+        "Le bonheur du Dieu Très-Haut."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Les oiseaux aux chants si doux,",
+        "Le tonnerre et son courroux,",
+        "Sont l’ouvrage de ses mains",
+        "Et soumis à ses desseins."
+      ],
+      "number": 4
+    }
+  ]
+}

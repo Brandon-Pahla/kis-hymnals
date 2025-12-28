@@ -1,0 +1,35 @@
+{
+  "number": 130,
+  "language": "luo",
+  "title": "130 Wachokore Gi Mor Tinde",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Wachokore gi mor tinde, kidira mar Nyasaye;Gi mor bende wawer nyimi kwapako nyingi ka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ot kama jogi lamoi Onego bed malerChuny ji mosayi odi ni Ilosogi maber."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Muya Maler, Jakony mang`won, Dak ie kanisa ni;Teche liel saa duto Te Komenyo e piny."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nyasaye man malo, miwa mor Nyaka chunywa oyieng`,A waneni Wang` gi wang`, Kwamor ma nyaka chieng`."
+      ],
+      "number": 4
+    }
+  ]
+}

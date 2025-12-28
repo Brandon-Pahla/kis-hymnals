@@ -1,0 +1,47 @@
+{
+  "number": 169,
+  "language": "nd",
+  "title": "169 Ndlalifa yoMbuso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndlalifa yombuso u ngabolala",
+        "U lalelan’ eduze nekhaya?",
+        "Vuka phaphama, hloma izikhali",
+        "Khalipha i’skhathi si yadlula"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Izizwe zomhlaba zi yahlokoma",
+        "Zi yathuthumela ngokwesaba",
+        "Lalela! amasond’ a ya gedleza",
+        "Ndlalifake, u ngabolibala"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U ngalandeli izinto zomhlaba",
+        "Injabulo yazo I yadlula",
+        "Dela inkanuko nemfuyo lapha",
+        "Ndlalif’ u bofulahela konke"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phakamis’ ikhanda, qondis’ iliso",
+        "Qaphel’ umbuso ka Jes’ ozayo",
+        "Bhek’ u seduze nank’ u sufikile",
+        "Ndlalifa thokoz’ u hlabelele"
+      ],
+      "number": 4
+    }
+  ]
+}

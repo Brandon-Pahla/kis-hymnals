@@ -1,0 +1,56 @@
+{
+  "number": 55,
+  "language": "tn",
+  "title": "55 A O Tswa Go Jeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A O Tswa Go Jeso Go Kopa Bontle?",
+        "O tlhapile mading a Kwana?",
+        "A o ikantse Ene gompieno?",
+        "O tlhapile mading a Kwana?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O tlhapile mading,",
+        "Mading a a tlhapisang moya (a Kwana T. &amp; B.)",
+        "A o kobo e ntle e e phatsimang,",
+        "O tlhapile mading a Kwana?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A O Sepela Le Ene Mmoloki?",
+        "O tlhapile mading a Kwana?",
+        "A o ikhutsa go Eo O bapotsweng?",
+        "O tlhapile mading a Kwana?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Go Tla Monyadi O Tla Nna Montle,",
+        "O tlhapile mading a Kwana?",
+        "O iketleditse go aga ’seding?",
+        "Le go tlhapa mading a Kwana?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Latlha Dikobo Tse Di Tletseng Boleo,",
+        "Mme o tlhape mading a Kwana.",
+        "Go motswedi o o tlhapisang moya,",
+        "Tla o tlhape mading a Kwana."
+      ],
+      "number": 4
+    }
+  ]
+}

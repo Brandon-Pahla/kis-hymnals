@@ -1,0 +1,24 @@
+{
+  "number": 14,
+  "language": "ts",
+  "title": "14. YINGISANI MALI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HEAR THE PENNIES DROPPING",
+        "1. Yingisani Mali, Ya Minyikelo;",
+        "Hi Ya Nyika Hosi, Yi Ya Ka Yona.",
+        "CHORUS",
+        "Ngece, Ngece, Ngece, Ngece, Xibyeni Xakwe; I Ya Hosi Yesu, Yi Ya Ka Yena.",
+        "2. Ngece, Ngece, Ngece, I Minyikelo;",
+        "I Nyiko Ya Yesu, Yi Pfa Ka Vana.",
+        "3. Hambi Hi Ri Vana, Hi Ha Swintsongo;",
+        "Loko Hi Kurile, Hi Ta Ha Ngopfu.",
+        "4. Loko Hi Hava, Hi Ha Rirhandzu;",
+        "Swi Ta N’wi Tsakisa; Hosi Ya Hina."
+      ],
+      "number": 1
+    }
+  ]
+}

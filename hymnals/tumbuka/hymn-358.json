@@ -1,0 +1,24 @@
+{
+  "number": 358,
+  "language": "tum",
+  "title": " 358 Lawiskani Pa Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 358 Lawiskani Pa Yesu",
+        "Turn Your Eyes Upon Jesus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lawiskani pa Yesu 'mwe mum'dodoliske lyo,",
+        "Vya pa charu viwenge vyawaka,",
+        "pakuwona kuwala kwake."
+      ],
+      "number": 2
+    }
+  ]
+}

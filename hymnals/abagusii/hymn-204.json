@@ -1,0 +1,42 @@
+{
+  "number": 204,
+  "language": "guz",
+  "title": "204 Naigw'eriogi Riao",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Naigw'eriogi riao,Kondangeria nchiche,Nsibigwe n'amanyinga o'Tegete Kalwari."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngochand' as'ore,Ngocha nde bono,Onsibi' as' amanyinga,'Tegete Kalwari."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nonya nche nd'omworo,nomente chinguru,Nonsibi 'obobe bwane pi,Goika mb'omochenu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yeso ondangeirie,mb'omoikeranu,Gosemeria n'omorembe,As'ense na Igoro."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Goker'amanyingaBuya bw'okoboria,Gokera Yes'Ekeegwa,Oboronge bwaito."
+      ],
+      "number": 5
+    }
+  ]
+}

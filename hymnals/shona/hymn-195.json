@@ -1,0 +1,47 @@
+{
+  "number": 195,
+  "language": "sn",
+  "title": "195 O Rimi Remwoyo Unopona",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinoda rimi remoto,",
+        "Rakapenyera vatsvene;",
+        "Rakaita vade denga,",
+        "Nekushinga mudambudzo!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uripiko mweya Tenzi,",
+        "Wakashingisa Abrama;",
+        "Wakapfawisa Pauro,",
+        "Wamupa simba redenga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Simba makapa Erija,",
+        "Harichipo here nhasi;",
+        "Rakapenyesa Mozisi,",
+        "Rapa Jobo rukuriro,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi tonderayi kare,",
+        "Mutipenyi tsitsi itswa;",
+        "Apo tomupanyi mwoyo,",
+        "Tidireyi mweya wenyu."
+      ],
+      "number": 4
+    }
+  ]
+}

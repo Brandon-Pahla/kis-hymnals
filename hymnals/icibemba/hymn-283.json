@@ -1,0 +1,36 @@
+{
+  "number": 283,
+  "language": "bem",
+  "title": "283 - BUSHE NI'WE BUSHE NI'NE?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SHALL YOU? SHALL I"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. limo 'kengila pa cipata, No-mba fye, no-mba fye:",
+        "No kuba mu lulumbi lulya, Bushe ni'we? Bushe ni'ine?",
+        "Akenda mu misebo ilya, Akalamona ifisuma,",
+        "No kulya filya twaebelwe; Bushe ni 'we? Bushe ni 'ne?",
+        "2. Umo akatulo lupanda, No-mba fye, No-mba fye;",
+        "Bakamufwika icitebo, Bushe ni 'we? Bushe ni 'ne?",
+        "Umo akalamone Mfumu, Macusho ya calo yakapwa,",
+        "Akalasekelela nankwe; Bushe ni 'we? Bushe ni 'ne?",
+        "3. Umo akakunta pa cibi, No-mba fye, No-mba fye;",
+        "Akomfwe shiwi, \"Nshikwishibe,' Bushe ni 'we? Bushe ni 'ne?",
+        "Aketa tabakarnwasuke, Pantu icibi cikesalwa,",
+        "Tabakamupele cilambu; Bushe ni 'we? Bushe ni 'ne?",
+        "4. Umo akemba ulwa bwansho, No-mba fye, No-mba fye:",
+        "Kwimba pamo na bapusuka, Bushe ni 'we? Bushe ni 'ne?",
+        "Kuposhanya palya pa cabu, Na batemwikwa ba pa calo,",
+        "Akaba mu lulumbi lwa pe, Bushe ni 'we? Bushe ni 'ne?"
+      ],
+      "number": 2
+    }
+  ]
+}

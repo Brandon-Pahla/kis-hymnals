@@ -1,0 +1,77 @@
+{
+  "number": 364,
+  "language": "fr",
+  "title": "Nous t'adorons",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nous t'adorons, toi que notre cœur aime,",
+        "Ô Rabboni!",
+        "Nous avons soif de ta sainteté même,",
+        "Maître béni !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Verse en nos cœurs,",
+        "Ô Christ, ta charité,",
+        "Et mets sur nous ta sublime beauté."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Parfait modèle, incomparable Maître,",
+        "Bénis-nous tous.",
+        "Comme tu fus, nous voulons toujours être,",
+        "Humbles et doux."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh ! donne-nous ton amour inlassable",
+        "Pour les perdus,",
+        "Cet amour vrai qui cherche le coupable",
+        "Loin de Jésus."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qu'en nous voyant, oublieux de nous-mêmes,",
+        "Tous pour chacun,",
+        "Le monde ému dise : “Oh ! combien ils s'aiment !",
+        "Ils sont tous un !”"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ouvre le ciel, réponds à la prière",
+        "Que nous t'offrons.",
+        "Imprime enfin ton divin caractère",
+        "Sur tous nos fronts."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Rien ne surpasse,",
+        "Ô Christ, ta charité,",
+        "Rien ici-bas n'égale ta beauté."
+      ],
+      "number": 7
+    }
+  ]
+}

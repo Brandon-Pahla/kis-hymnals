@@ -1,0 +1,63 @@
+{
+  "number": 617,
+  "language": "tw",
+  "title": "Yɛte Ase, Yɛte Nkwa Mu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛte ase, yɛte nkwa mu,",
+        "Bere a ɛyɛ hu mu,",
+        "Mm'rɛ mu bere a asetra",
+        "Ayɛ dadwen kɛse yi.",
+        "Tie, amanaman resɔre,",
+        "Gog ne Magog kɔ sɛe mu;",
+        "Tie, dɛn ni? Abɔde nyinaa",
+        "Si apini kɔ n'awiei?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kristoni, boa wo ho kɔko,",
+        "Hyɛw' ho den kɔ akonim;",
+        "Hyɛ nkwagye dadekyɛw no na",
+        "Fa 'sɛmpa kyɛm no kura;",
+        "Fa asomdwoe nkatabo no,",
+        "Kura honhom mu nkrantɛ;",
+        "Kɔ w'anim akokod'ru mu",
+        "Wɔ Yehowa 'hoɔden mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na ahonhommɔne hen' no,",
+        "Wiase daadaafo kɛsen',",
+        "Nea b're bi otuu Yesu a",
+        "Wɔahy'ra No no so sa no,",
+        "De ahoɔden nwanwaso ba",
+        "'Fisɛ ne b're rebā awiei",
+        "Ama wɔde ahenni no",
+        "Ama asomdwoe Hen' no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Kristoni sɔr', ko ɔko no;",
+        "Ko kodu nkonimdi mu;",
+        "Kosi sɛ wo Sahen' teɛm sɛ",
+        "\\\"'W'rade akoa, mo ne yɔ\\\"",
+        "Nea odi nokwar' na ɔtram'",
+        "Kosi awiei no nkutoo,",
+        "Benya bɔhyɛ atra ase",
+        "Ahenni no mu daapem."
+      ],
+      "number": 4
+    }
+  ]
+}

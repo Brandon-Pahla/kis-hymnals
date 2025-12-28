@@ -1,0 +1,86 @@
+{
+  "number": 345,
+  "language": "fr",
+  "title": "C'est Jésus qui...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "C'est Jésus qui nous rassemble !",
+        "C'est Jésus notre Sauveur !",
+        "En Église, tous ensemble,",
+        "Demeurons corps du Seigneur !",
+        "C'est Jésus qui nous rassemble !",
+        "C'est Jésus notre Sauveur !",
+        "Dieu immense et Dieu si proche,",
+        "Le Seigneur est avec nous.",
+        "Dieu fait chair en notre monde,",
+        "Le Seigneur est avec nous.",
+        "Fils de l'homme, notre frère,",
+        "Le Seigneur est avec nous"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Envoyé vers les plus pauvres,",
+        "Le Seigneur est avec nous.",
+        "Partageant toute misère,",
+        "Le Seigneur est avec nous.",
+        "Pour montrer l'amour du Père",
+        "Le Seigneur est avec nous."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pain de vie, vraie nourriture,",
+        "Le Seigneur est avec nous.",
+        "Pain rompu pour notre monde,",
+        "Le Seigneur est avec nous.",
+        "Pain de Dieu pour toute route,",
+        "Le Seigneur est avec nous."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dieu lumière en nos ténèbres,",
+        "Le Seigneur est avec nous.",
+        "Dieu de grâce, Dieu fidèle,",
+        "Le Seigneur est avec nous.",
+        "Pour la joie de son Église,",
+        "Le Seigneur est avec nous."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Par l’Esprit qui nous fait vivre",
+        "Le Seigneur est avec nous.",
+        "Par son souffle dans nos âmes,",
+        "Le Seigneur est avec nous.",
+        "Par sa force au cœur de l’homme,",
+        "Le Seigneur est avec nous."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Messager de l’espérance,",
+        "Le Seigneur est avec nous.",
+        "Espérance du royaume,",
+        "Le Seigneur est avec nous.",
+        "Maintenant et d’âge en âge,",
+        "Le Seigneur est avec nous."
+      ],
+      "number": 6
+    }
+  ]
+}

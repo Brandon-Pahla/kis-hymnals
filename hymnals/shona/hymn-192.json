@@ -1,0 +1,47 @@
+{
+  "number": 192,
+  "language": "sn",
+  "title": "192 Mbiri Kuzita Rake",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Pam’chinjiko Akatifira, Akatichenura zvitema,",
+        "Ropa rake rikawerera, Mbiri kuna’ye"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mbiri kuna’ye, Mbiri kuna’ye,",
+        "Ropa rake rakati-samba Mbiri kuna’ye"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ruponeso runoshamisa, Jesu ari kugara neni;",
+        "Pam’chinjiko akanditora, Mbiri kuna’ye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsime rinobvisa zvitema, Ndinofara ndawa mariri;",
+        "Umo Jesu andichenura, Mbiri kuna’ye."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uya kutsime rakanaka, Zviunze kuna Muponesi;",
+        "Pindamo nhasi uperere Mbiri kuna’ye"
+      ],
+      "number": 5
+    }
+  ]
+}

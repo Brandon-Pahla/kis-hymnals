@@ -1,0 +1,54 @@
+{
+  "number": 7,
+  "language": "es",
+  "title": "Oh Dios, mi soberano Rey",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Oh Dios, mi soberano Rey"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh Dios, mi soberano Rey;",
+        "a ti daré loor;",
+        "tu nombre yo exaltaré,",
+        "santísimo Señor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tus obras evidencia son",
+        "de tu infinito amor,",
+        "y cantan con alegre voz",
+        "las glorias del Señor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aquel que busca salvación,",
+        "en Cristo la hallará;",
+        "y su ferviente petición",
+        "él pronto atenderá."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eternamente durará",
+        "el reino del Señor.",
+        "Allí sus siervos gozarán",
+        "la plenitud de amor."
+      ],
+      "number": 5
+    }
+  ]
+}

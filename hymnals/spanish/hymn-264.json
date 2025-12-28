@@ -1,0 +1,74 @@
+{
+  "number": 264,
+  "language": "es",
+  "title": "Un día más por Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Un día más por Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Un día más por Cristo,",
+        "y menos por vivir;",
+        "mas hoy el cielo,",
+        "que tanto anhelo,",
+        "más cerca está que ayer.",
+        "Colmada mi alma está de luz",
+        "y amor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Un día más por Cristo,",
+        "un día más por Cristo,",
+        "un día más por Cristo,",
+        "y menos por vivir."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Un día más por Cristo,",
+        "por mi glorioso Rey;",
+        "pues mis deberes",
+        "ya son placeres:",
+        "su amor proclamaré.",
+        "Jesús murió; mi vida así compró."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Un día más por Cristo;",
+        "cuán grato es para mí",
+        "contar la historia,",
+        "mostrar la gloria",
+        "del que me salva aquí.",
+        "Mi corazón rebosa en bendición."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh, cuan bendita obra",
+        "de Cristo mi Señor!",
+        "Tras prueba dura,",
+        "un alma pura",
+        "me da su santo amor.",
+        "Y esto sé: con Cristo reinaré."
+      ],
+      "number": 6
+    }
+  ]
+}

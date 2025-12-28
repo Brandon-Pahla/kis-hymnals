@@ -1,0 +1,68 @@
+{
+  "number": 212,
+  "language": "tum",
+  "title": " 212 Nkhwimba Mkukondwa Mu Mtima",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 212 Nkhwimba Mkukondwa Mu Mtima",
+        "CH 609 THERE COMES TO MY HEART"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nkhwimba m'kukondwa mu mtima (nkhwimba)",
+        "Sumu ya chimwemwe nadi (nadi),",
+        "Nkhuyiyimba ruta-ruta (ruta),",
+        "Mtende mu mtima wane."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mtende, mtende kufumira kwa Fumu (Fumu)",
+        "Mwe mtende wakuzizwiska,",
+        "Kufumira kuchanya."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mphinjika yatipa mtende (mtende),",
+        "Nhnstu wakamala mlandu (mlandu),",
+        "Kulje mtende kunyake (nyake),",
+        "Kweni kwa Fumu yane."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Pakumuzormenna mwa yadi).",
+        "Pakumuzomera Yesu (Yesu),",
+        "Mtende nkhasanga mwa lyo (Iyo)",
+        "Knasanga thumbiko nadi (nadi)."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Na mtende ndiri mwa Yesu (Yesu),",
+        "Mutende mwa Chiuta.",
+        "Pakukhala m'fupi nayo (nayo),",
+        "Mtende wakuzala nadi (nadi),",
+        "Mutende mwa Chiuta."
+      ],
+      "number": 5
+    }
+  ]
+}

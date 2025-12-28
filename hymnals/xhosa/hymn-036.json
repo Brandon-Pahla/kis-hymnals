@@ -1,0 +1,34 @@
+{
+  "number": 36,
+  "language": "xh",
+  "title": "36 Lukhangele Kuwe Ukholo Lwam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lukhangele kuwe, Mvana ye-Kalvari, Ukholo lwam,",
+        "Ndive ndithandaza, Susa ityala lam,",
+        "Kususela namhla, Ndenz’ owaKho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinke amandla, Kwa nenzondelelo, Solufefe;",
+        "Uthando lwam kuWe maluvuthe nene,",
+        "Ekubeni wena Wandifela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Naxa kumnyama kum Ndibanjwe zintsizi, Ndikhokele;",
+        "Gxotha ubumnyama, Sula inyembezi,",
+        "Mandingaze ndimke Kuwe Ndlela."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "number": 179,
+  "language": "ve",
+  "title": "179. Naa Wo Mu Lindela Yesu Musi A Tshi da",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Naa wo mu lindela Yesu musi a tshi da? (2)",
+        "Vhona u a da, vhona u a da,",
+        "Ambara luga Yesu u a da."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Vhonani Yesu u a da, u a da, (2)",
+        "Vhona u a da, vhona u a da,",
+        "Ambara luga, Yesu u a da."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Dzi duge dzimbone dzashu, Yesu u a da, (2)",
+        "U tsini u a da, u tsini u a da,",
+        "Luga-ha Yesu u a da."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri tanganedza Yesu musi a tshi vhuya, (2)",
+        "Ndi ngoho u a da, ndi ngoho u a da,",
+        "Ri do mu vhona a tshi da."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ri imba haleluya musi a tshi vhuya, (2)",
+        "Vhona u a da, vhona u a da,",
+        "Imbani haleluya a tshi da."
+      ],
+      "number": 5
+    }
+  ]
+}

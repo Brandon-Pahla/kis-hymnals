@@ -1,0 +1,35 @@
+{
+  "number": 11,
+  "language": "guz",
+  "title": "11 Yes 'Omonyaira",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yes' omonyaira, nonya nabakeBachire gosaba, nobe aroro;Twanchire ring'ana togosasime,Yeso tosesenie, natokorore."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yeso tosesenie, nao toraa;Inchuo tosesenie, mono botambe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nkwabete na intwe korw'agwo kare,Ko ntokoganetie goika oche;Inchuo Omoboria, toe obuya,Toigwe otwanche, otosesenie."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yeso otokonye, natogotogie,Totere as'ore, igw' ogosaba;Buna togosaba, erio twegene,Erio tosemerie, twanche kobua."
+      ],
+      "number": 4
+    }
+  ]
+}

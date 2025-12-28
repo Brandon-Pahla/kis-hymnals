@@ -1,0 +1,57 @@
+{
+  "number": 281,
+  "language": "tum",
+  "title": " 281 Nyenyezi Yakuwala Mchanya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 281 Nyenyezi Yakuwala Mchanya",
+        "A BEAUTIFUL STAR"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nyenyezi yakuwala m'chanya",
+        "na uchindami wa Chiuta,",
+        "Kuwala kwake ku'rongozga",
+        "wazeru kumsanga mwana."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "YIKuwaLa yikuwaLa nyenyezi",
+        "yiweme m phin,",
+        "YIKU WaLa yiku waLa",
+        "chiponosko chitnu chiza"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mazgu ghakayowoya kuti nyengo",
+        "yakwana ya nyenyezi,",
+        "wakayirondezga nyenyezi - ndi",
+        "\"Khristu nthanda ya mlenje.\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nase tirondezge nga ndiwo,",
+        "kuwala kwa charu chapasi,",
+        "Tirombe mpaka tikafike",
+        "ku chipumulo kuchanya."
+      ],
+      "number": 4
+    }
+  ]
+}

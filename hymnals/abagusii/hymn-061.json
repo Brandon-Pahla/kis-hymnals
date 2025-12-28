@@ -1,0 +1,35 @@
+{
+  "number": 61,
+  "language": "guz",
+  "title": "61 Ngosanga Ki Mogok'o Igoro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ngosanga ki, 'mogoko IgoroNyeegek' ase Yeso bwekaNgosesenigwa ki 'Morembe kiNyeegek' ase Yeso bweka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eegeke, Moremb' otari n'obobeEegeke, Eegek' ase Yeso bweka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ninyenyar' enchera enyerereNyeegek' ase Yeso bweka'Nchera nenyare koba enyangoNyeegek' ase Yeso bweka."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tikeri kende gekonyirokiaNyeegek' ase Yeso bwekaNinde nomorembe bw'OmoneneNyeegek' ase Yeso bweka."
+      ],
+      "number": 4
+    }
+  ]
+}

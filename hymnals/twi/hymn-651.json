@@ -1,0 +1,37 @@
+{
+  "number": 651,
+  "language": "tw",
+  "title": "'Nigye Ne Fič a Ͻgye Wo Tom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Nigye ne fič a ɛgye Wo tom, 'W'ra Yesu,",
+        "Adamfo nokwafo ne yɔnko pa;",
+        "Nea koma ne 'aniwa de dɛw hyia Wo,",
+        "Na wɔde ahop're yɛ W'apɛde."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nigye ne fič a awarefo tra bom na",
+        "Wɔde adwenk'ro gye Wo dɔ no di",
+        "Dɔ ne yaw mu, nkɔso ne ahohia mu",
+        "Tebea ny'naam', wɔda Wo banbɔ adi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nigye ne fič a wɔde mmofra brɛ Wo wɔ",
+        "Mpaebɔ mu, O mmofra Yɔnko dɔfo!",
+        "Faakō a wɔtra Wo nan ase yɛ setie",
+        "Ma W'asɛm da W' ase Wo banbɔ ho."
+      ],
+      "number": 3
+    }
+  ]
+}

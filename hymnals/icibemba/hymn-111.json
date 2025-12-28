@@ -1,0 +1,33 @@
+{
+  "number": 111,
+  "language": "bem",
+  "title": "111 - TAKULI NAKALYA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NO, NOT ONE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tatwaba na chibusa nga Yesu takuli nakalya,",
+        "Uinga tuposhe mitima yesu takuli nakalya.",
+        "CHORUS:",
+        "Alishibo kuchula kwesu twakula sungwa suke se,",
+        "Takwaba na chibusa nga Yesu takuli nakalya",
+        "2. Chibusa weswena wa mushilo, takwabo linga Yesu,",
+        "Uwaicefya uwafukisha, takwabo linga Yesu.",
+        "3. Takwaba nshite lyabo kutali, Alaba apepi;",
+        "Takwaba bushikwi lya shibapo, Alaba mupepi.",
+        "4. Takwaba chibuso yo atamfya, Takwaba we nakalya,",
+        "Nangu mubi uyo ashingafwaya, T'akwaba we nakalya.",
+        "5. Tatwakwate chabupe nga Yesu takwaba nakalya;",
+        "Bushe akatila nshi mwishibe Awe ta-kwakabe"
+      ],
+      "number": 2
+    }
+  ]
+}

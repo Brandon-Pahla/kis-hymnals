@@ -1,0 +1,29 @@
+{
+  "number": 19,
+  "language": "rw",
+  "title": " 19 Ba Mas'Udacumura",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 19 Ba Mas'Udacumura",
+        "**1**",
+        "Ba mas'udacumura!",
+        "Ibyaha bigota,",
+        "Bihora bikwegera cyane,",
+        "Ng'utajya mw'ijuru.",
+        "**2**",
+        "Ba maso rwana senga!",
+        "Nturek'urugamba!",
+        "Ururasany'iminsi yose,",
+        "Utabaz'Imana.",
+        "**3**",
+        "Komeza nturanesha!",
+        "Wirekur'intwaro!",
+        "Dor'intambara ntirashira,",
+        "Udahaw'ikamba."
+      ],
+      "number": 1
+    }
+  ]
+}

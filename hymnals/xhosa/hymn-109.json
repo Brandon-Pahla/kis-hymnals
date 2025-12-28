@@ -1,0 +1,38 @@
+{
+  "number": 109,
+  "language": "xh",
+  "title": "109 Uvavanyiwe Uyalambatha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngexesha lokuvavanywa, kunikw’ okwaphakade;",
+        "Soba njenge-golide-na, Mhlawumbi njengo-thuli?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "I-Nkos’ ikuvavanyile, Uyalambatha;",
+        "Ikuvavanye ngelizwi, Uyalambatha."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Soweva-n’anje amazwi, \"He-ke, tyaphile\";",
+        "Mhlawumb’ isigwebo sokufa, \"Moni uyalambatha?\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U-Moya uya sicenga, Isekho-nje inceba,",
+        "Lumka wabhala u-Thixo, Egweba bona bonke."
+      ],
+      "number": 3
+    }
+  ]
+}

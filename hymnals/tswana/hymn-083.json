@@ -1,0 +1,38 @@
+{
+  "number": 83,
+  "language": "tn",
+  "title": "83 Go Opela Ka Dipuo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Go Opela Ka Dipuo: Go Sego Leina Ja Jeso:",
+        "Kgalalelo ya Modimo, Go sego leina ja Jeso:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ga sego leina, Go sego leina, Go sego leina ja Jeso.",
+        "Ga sego leina, Go sego leina, Go sego leina ja Jeso."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso Yo O Re Gomotsang, Go Sego Leina Ja Jeso:",
+        "Ke pina go moleofi, Go sego leina ja Jeso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Thuba Thata Ya Sebe, Go Sego Leina Ja Jeso:",
+        "Re tlhapa mading a Gagwe, Go sego leina ja Jeso."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "number": 287,
+  "language": "ts",
+  "title": "287. LOKO NDZI RINGIWA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "IN THE HOUR OF TRIAL",
+        "1. Loko Ndzi Ringiwa, Yesu Tshinela, Ndzi Nga Ku Landzuri Eku Tsaneni;",
+        "Ne Ku Tsekatsekeni U Ndzi Letela, U Nga Pfumeleli Leswaku Ndzi Wa.",
+        "2. Hambi Swa Misava Swi Koka Mahlo, Ndzi Vona Rifuwo Ni Swa Mafurha;",
+        "Yesu Ndzi Tsundzuxe Gome Golgota, Ndzi Vona Wena Exihambanweni.",
+        "3. Loko U Pfumelela Mahlomulo, Hambi Maxangu Ma Ndzi Wela Henhla;",
+        "Tivonakarise Ndzi Ku Languta,",
+        "Swi Nga Ndzi Lovisi Ndzi Tshembe Wena."
+      ],
+      "number": 1
+    }
+  ]
+}

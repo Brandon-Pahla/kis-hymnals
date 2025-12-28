@@ -1,0 +1,43 @@
+{
+  "number": 166,
+  "language": "xh",
+  "title": "166 Liwa Laphakade",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Liwa lamaphakade, Wakrazulwa ngenxa yam;",
+        "Mandizifihle kuWe, Ndiphiliswe ngegazi",
+        "Elaphum’ ephangweni, Lindihlam’ esonweni."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndikhohliwe kukwenza Okuyalwe ngumthetho;",
+        "Nangani ndingayeki Ukuzama ndilila,",
+        "Andingecimi sono, Ndosinda ngaWe wedwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiza ndingaphethe nto, Ndithe nca eKrusini;",
+        "Ndingoze, ndambathise; Ndikholiwe, ndincede;",
+        "Ndingcolile, Mthombo wam, Ndihlambe ’ze ndingafi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndisahleli nje apha, Akucim’ amehlo am,",
+        "Ndophumla engcwabeni, Ndilindele umgwebo,",
+        "Liwa lamaphakade, Mandizifihle kuWe."
+      ],
+      "number": 4
+    }
+  ]
+}

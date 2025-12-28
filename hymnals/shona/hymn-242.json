@@ -1,0 +1,39 @@
+{
+  "number": 242,
+  "language": "sn",
+  "title": "242 Rakakomborerwa Pfundo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngarikomborerwe, Pfundo-ro rerudo!",
+        "Rweukama hwe uKristu, sehwekumusoro"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pamberi pababa, To’nza minamato",
+        "Nedonzo, nezvidiso, zvedu zvese ngezvimwe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tino’kowerana mitoro nenhamo!,",
+        "Tinonzwirana urombo mukutambudzika"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti tapatsana, Tinonzwa urombo",
+        "Kut’tine rusimbiro! Tichazo kumbana"
+      ],
+      "number": 4
+    }
+  ]
+}

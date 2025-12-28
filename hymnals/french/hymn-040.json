@@ -1,0 +1,48 @@
+{
+  "number": 40,
+  "language": "fr",
+  "title": "Un bel enfant s’est endormi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Un bel enfant s’est endormi",
+        "Dans les bras de Marie,",
+        "Des anges puissants près de lui,",
+        "De simples bergers veillent."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "C’est bien lui, le Christ, le Roi",
+        "Chanté par tous les anges saints.",
+        "En lui, placez votre foi,",
+        "À vos douleurs, il met fin."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pourquoi ce manque de confort,",
+        "Autour de lui ces bêtes?",
+        "Croyez que, malgré ce décor,",
+        "C’est un grand jour de fête."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Portez-lui myrrhe, encens et or,",
+        "Car ces biens lui reviennent.",
+        "Ce Roi partage notre sort,",
+        "Il enlève nos peines."
+      ],
+      "number": 4
+    }
+  ]
+}

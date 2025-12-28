@@ -1,0 +1,46 @@
+{
+  "number": 1,
+  "language": "tn",
+  "title": "1 Letsa ’Naka Molebedi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Letsa ’Naka Molebedi, Botlhe Ba Tlhagisiwe:",
+        "Botlhe ba ba utlwang thomo, Ba ikwatlhae ba tshele"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Letsa ’naka molebedi, Lo utlwale kgakala",
+        "Modimo O ya lo roma, Gololang bagolegwi"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lo Letseng Thata Dithabeng, Lefifing Le Leseding:",
+        "’Watle le bolela thomo, Polok’a boitumelo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lo Letseng Le Kwa Ditseleng, Kwa Go Leng Batimedi:",
+        "Dilo tsotlhe di baakantswe, Rara O ba letile."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leletsang Ba Ba Imelwang, Ba Eletsang Kgololo,",
+        "Kuang taletso ya Mmoloki, E e reng \"Tlang kwa go nna\""
+      ],
+      "number": 4
+    }
+  ]
+}

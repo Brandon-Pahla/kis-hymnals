@@ -1,0 +1,54 @@
+{
+  "number": 116,
+  "language": "ny",
+  "title": "116 - Mtima Walemedwa Ko?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NOTHING FOR JESUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mtima walemedwa ko, Yesu alibe malo?",
+        "Muli tchimo lokha ko, Yesu alibe malo?",
+        "Iye wangoimatu, Agogoda mtimamo,",
+        "Adandaulira ’we, Kodi alibe malo?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nthawiyo wataya ko, Sugwira nchito yake?",
+        "Mphamvuzo watayanso, Sugwira ntchito yake?",
+        "Sunaleke tchimolo, Sunakope munthuyo?",
+        "Sunabweze mlendoyo, Sugwira nchito yake?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Wangofuna dzikoli, Nthawi ya Yesu ’libe?",
+        "Ntchito yake waleka, Nthawi ya Yesu ’libe?",
+        "Ungotsata dzikoli, Chuma ndi zoipazi,",
+        "Kudzikondweretsa ’we, Nthawi za Yesu ’libe?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ee, masamba okhawo, Wamana Yesu mphatso?",
+        "Mmanja mwako muli mbe, Wamana Yesu mphatso?",
+        "Sunasunge kanthui, Sunagwire ntchitoyo?",
+        "Sudzakondwa tsikulo, Pakuonatu Yesu."
+      ],
+      "number": 5
+    }
+  ]
+}

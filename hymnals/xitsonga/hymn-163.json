@@ -1,0 +1,23 @@
+{
+  "number": 163,
+  "language": "ts",
+  "title": "163. HOSI YESU WA VITANA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HARK THE VOICE OF JESUS CALLING",
+        "1. Hosi Yesu Wa Vitana,",
+        "A Ku: Ndzi Ta RHuma Man Masimu Se Ya Vupfile Va Kwihi Vatshoveri?",
+        "I Khale A Hi Vitana Leswaku Hi Ta Tirha, I Mani A Hlamulaka: Ina Hosi Ndzi Rhume?",
+        "2. Hambi U Nga Tsemakanya Malwandle U Ya Kule,",
+        "VA Kona Kwala Kusuhi Unga Tivisa Vona, Hambi U Nga Chumayeri Ku Fana Na Pawulu, Va Byele Hi Ta Rirhandzu Lerikulu Ra Yesu.",
+        "3. Hambi U Nga Ri Murindzi La Nga Exihondzweni,",
+        "Ku Kombisa vanhu Tilo Na Va Nyika Ku Rhula, Hi Malwandla, Mikhongelo U Nga Tirhela Hosi, Tani Hi Yena Aroni Mupfuneti Wa Muxe.",
+        "4. Loko Mimoya Ya Vanhu Yi Karhi Yi Lahleka,",
+        "U Nga Vuli: A Ndzi Nchumu Ndzi Pfumala Matimba Amukela Hi Ku Tsaka Ntirho Wa Hosi Yerhu, Hlamula Hi Ku Tiyisa: Ina Hosi Ndzi Rhume."
+      ],
+      "number": 1
+    }
+  ]
+}

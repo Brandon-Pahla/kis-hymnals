@@ -1,0 +1,54 @@
+{
+  "number": 44,
+  "language": "st",
+  "title": "44 Ke Tla Mo Tseba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ha mosebetsi oa ka o s’o felile mona,",
+        "’Mele ona o tla apara ho sa shoeng;",
+        "Ke tla tseba Molopolli oa ka ka nqane,",
+        "O tla nkamohela a bososela."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke tla... mo tseba, ke tla mo tseba, ke pholositsoe,",
+        "Ke tla ema le Eena, A na le maqeba liatleng tsa Hae."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thabo e tla ba kholo ha ke ’mona ’fahleho;",
+        "Ha leihlo la mosa le nchebile,",
+        "Pelo ea ka e tla ’moka ka mosa lerato,",
+        "Holimo ke lokiselitsoe tulo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke hopola barat’oa ba se ba shoele khale;",
+        "Ke hopola tumeliso le nokeng,",
+        "Ha re ka ke ra arohana hona Edene;",
+        "Takatso ke ho bona le ’Moloki."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tla tsoa khorong tsa motse, ke apere tse ts’oeu;",
+        "O tla nkenya teng, moo ho seng meokho;",
+        "Ke tla ’ne ke bine pina ea balopolloa,",
+        "Ke lakatsa ho bona ’Moloki teng."
+      ],
+      "number": 4
+    }
+  ]
+}

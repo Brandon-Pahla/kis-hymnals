@@ -1,0 +1,51 @@
+{
+  "number": 494,
+  "language": "fr",
+  "title": "Tendre Sauveur, je viens à toi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tendre Sauveur, je viens à toi,",
+        "Je voudrais te servir",
+        "Comme un disciple d'autrefois,",
+        "Je veux me soumettre à ta loi,",
+        "Te croire et t'obéir."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je t'apporte mon pauvre cœur,",
+        "Remplis-le de ta paix.",
+        "Pour qu'il t'adore avec ferveur,",
+        "Rends-le plus pur et viens, Seigneur,",
+        "Y régner désormais."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Maintenant, au monde bruyant",
+        "Fais que je reste sourd,",
+        "Pour entendre à travers le vent,",
+        "Le feu, l'orage et l'ouragan",
+        "Ta tendre voix d'amour."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seigneur, à tes pieds je me tiens,",
+        "Calme et silencieux.",
+        "Je sais que je suis l'un des tiens,",
+        "Et pour jamais que j'appartiens",
+        "Au royaume des cieux."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": 54,
+  "language": "guz",
+  "title": "54 \"Bw'emechando\"",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. \"Bw'emechando!\" Ndietaki as'Omwana O Nyasae'Chete kobori' ababeHaleluya n'Omotoria!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Kabogori' obosoku,'Gaitwa ribaga riane'Kangora 'S' amanyinga,Haleluya n'Omotoria!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Bamochi ababe tware,'Re tare nakemoaEkeng'wanso ekiya,HaIeluya n'Omotoria!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Kaimokigwa agakwa,Karera \"Yaerire!\"Bono Igoro are,Haleluya n'Omotoria!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. 'Ker 'arach' Omogambi,kwoyia ababorigweNtotere ogotera,Haleluya n'Omotoria!"
+      ],
+      "number": 5
+    }
+  ]
+}

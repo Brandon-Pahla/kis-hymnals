@@ -1,0 +1,24 @@
+{
+  "number": 56,
+  "language": "es",
+  "title": "De tal manera amó",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### De tal manera amó"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De tal manera amó al mundo nuestro Dios",
+        "que ha dado a su Hijo, Cristo el Señor;",
+        "que todos los que en él confían en verdad,",
+        "tienen vida eternal."
+      ],
+      "number": 2
+    }
+  ]
+}

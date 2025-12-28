@@ -1,0 +1,16 @@
+{
+  "number": 431,
+  "language": "fr",
+  "title": "Louons, chantons...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Louons, chantons en chœur le Créateur.",
+        "Adorons le Seigneur, le bienfaiteur.",
+        "Tous ensemble d'un même cœur."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "number": 605,
+  "language": "pt",
+  "title": "Vem Despedir-nos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Vem Despedir-nos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem despedir-nos ó Salvador,",
+        "Com Tua graça, Teu santo amor.",
+        "Nossos caminhos guia-os aqui;",
+        "Dá-nos descanso junto de Ti.",
+        "Amém."
+      ],
+      "number": 2
+    }
+  ]
+}

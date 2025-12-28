@@ -1,0 +1,51 @@
+{
+  "number": 525,
+  "language": "pt",
+  "title": "Obedecer é Melhor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Obedecer é Melhor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Obedecer é melhor do que sacrificar;",
+        "Melhor é sempre atender a Deus e a lei guardar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "A Deus com fé, nossa alma volvamos,",
+        "À Sua lei obedeçamos,",
+        "Pois obedecer é melhor do que sacrificar,",
+        "Melhor é sempre atender a Deus",
+        "E a lei guardar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dizeis que não é preciso mais a lei guardar?",
+        "Olhai que a Bíblia em lugar algum a faz tombar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Virão as bênçãos de Deus a quem a lei seguir;",
+        "Oh! sim, Jesus nos ajuda a toda a lei cumprir."
+      ],
+      "number": 5
+    }
+  ]
+}

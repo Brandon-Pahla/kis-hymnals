@@ -1,0 +1,54 @@
+{
+  "number": 213,
+  "language": "ve",
+  "title": "213. Luimbo Lwanga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:257"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu Mutshidzi wanga, U luimbo lwanga,",
+        "Yesu Mutshidzi wanga, Vhutunguni hanga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu Muvhofhololi, Ndi a u imbela,",
+        "Khonani inwe a iho, Shangoni lothe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. U fulufhelo langa, Minwahani yothe,",
+        "Naho hu tshi da swiswi, U luimbo lwanga."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi fushwa nga’we Yesu, Iwe khotsi-anga,",
+        "Ndi ’we Mufunwa wanga, kha lifhasi lothe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Dzithendo na zwirendo, Hone fhano fhasi,",
+        "Dzithendo na zwirendo, Na ngei tadulu."
+      ],
+      "number": 5
+    }
+  ]
+}

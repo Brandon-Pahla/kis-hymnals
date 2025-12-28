@@ -1,0 +1,63 @@
+{
+  "number": 337,
+  "language": "xh",
+  "title": "337 Bawo, Ngobubele Bakho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bawo, ndingumtwana waKho, Noko ndonileyo,",
+        "Ndiyalila phambi kwaKho Bawo, ndixolele."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iziphoso zam zininzi, Azinakubalwa;",
+        "Noko ndibhekise kuwe, Bawo, ndixolele."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Imithetho ndiyaphule, Wena ndakudela;",
+        "U-Msindisi ndimlahlile, Bawo, ndixolele."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndone ngako ukuthetha, Ndone nangengcinga,",
+        "Ndone nangemisebenzi, Bawo ndixolele."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Noko ndibe ndifanele Ukukubulela;",
+        "Ndone ngokukulibala, Bawo, ndixolele."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngaz’ izono ezininzi, Bawo ndizonele;",
+        "Wena ndikuhlazisile, Bawo, ndixolele."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ungu-Thixo onenceba Engazang’ iphele;",
+        "Ngako ndiyalila, ndithi, Bawo, ndixolele."
+      ],
+      "number": 7
+    }
+  ]
+}

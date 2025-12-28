@@ -1,0 +1,46 @@
+{
+  "number": 455,
+  "language": "es",
+  "title": "Mi mano ten",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Mi mano ten"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mi mano ten, Señor; me siento débil:",
+        "sin ti no puedo riesgos afrontar;",
+        "tenla Señor; mi vida el gozo llene",
+        "de verme libre así de todo azar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mi mano ten; permite que me",
+        "animen",
+        "mi regocijo, mi esperanza en ti;",
+        "tenla Señor, y compasivo impide",
+        "que caiga en mal cual una vez caí."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mi mano ten; mi senda es tenebrosa",
+        "si no la alumbra tu radiante faz;",
+        "por fe si alcanzo a percibir tu gloria,",
+        "¡cuán grande gozo!, ¡cuan profunda",
+        "paz!"
+      ],
+      "number": 4
+    }
+  ]
+}

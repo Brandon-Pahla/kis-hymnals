@@ -1,0 +1,44 @@
+{
+  "number": 81,
+  "language": "ny",
+  "title": "81 - Gwira Zinchito Zake ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WORK, FOR THE NIGHT IS COMING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Gwira zintchito zake, Mdima ukudzatu,",
+        "Yamba mmamawa ndithu, Kuli kuchatu.",
+        "Gwiranso msana monse, Mpaka madzulowo.",
+        "Gwira, usiku udza, Posachedwatu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Gwira zintchito zake, Mdima ukudzatu,",
+        "Gwira masana onse, Kusanadei.",
+        "Udzapumula bwino, Potha zintchitozo,",
+        "Gwira, usiku udza, posachedwatu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mkhristu gwiratu ntchito, Mdima ukudzatu,",
+        "Dzuwa lapita kale, Msanga kuda bi!",
+        "Gwira madzulodzulo, Usanagonetu,",
+        "Msanga zintchito zonse Tere zithatu."
+      ],
+      "number": 4
+    }
+  ]
+}

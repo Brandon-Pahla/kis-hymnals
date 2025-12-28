@@ -1,0 +1,63 @@
+{
+  "number": 323,
+  "language": "fr",
+  "title": "Ah ! donne à mon âme",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ah ! donne à mon âme",
+        "Plus de sainteté,",
+        "Plus d'ardente flamme,",
+        "De sérénité,",
+        "Plus de confiance,",
+        "Pour rester debout,",
+        "Plus de patience,",
+        "Pur supporter tout !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fais que je contemple",
+        "Sans cesse l'Agneau,",
+        "Son vivant exemple,",
+        "Sa croix, son tombeau,",
+        "Sa grâce fidèle,",
+        "Son immense amour,",
+        "Sa gloire éternelle,",
+        "Son prochain retour !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus, à mes",
+        "Tu veux compatir;",
+        "De toutes tes armes",
+        "Viens me revêtir.",
+        "Par plus de prière,",
+        "De zèle et de foi,",
+        "Que dans la lumière",
+        "Je marche avec toi !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Donne à ton service",
+        "Un cœur plus joyeux,",
+        "Prompt au sacrifice,",
+        "Toujours sous tes yeux,",
+        "Qui chante et qui tremble,",
+        "Humble en sa ferveur,",
+        "Un cœur qui ressemble",
+        "Au tien, mon sauveur."
+      ],
+      "number": 4
+    }
+  ]
+}

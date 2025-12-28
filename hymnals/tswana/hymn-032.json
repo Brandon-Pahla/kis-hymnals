@@ -1,0 +1,46 @@
+{
+  "number": 32,
+  "language": "tn",
+  "title": "32 Morena Fika Ja Rona",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Morena Fika Ja Rona, Phemelo Tsatsing Ja Phefo",
+        "Re boloke mo dintelong, Phemelo tsatsing ja phefo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lefika ’le nonofileng, Moruti kwa go mogote,",
+        "Moeteledi wa rona, Phemelo tsatsing ja phefo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sekhukhu Le Tshireletso, Phemelo Tsatsing Ja Phefo;",
+        "Ga go poifo ya mmaba, Phemelo tsatsing ja phefo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morwalela Lefa O Tla, Phemelo Tsatsing Ja Phefo;",
+        "Re iphitlha mo Modimong, Phemelo tsatsing ja phefo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lefika Je Le Boitshepo, Phemelo Tsatsing Ja Phefo",
+        "O nna mothusi wa rona, Phemelo tsatseng ja phefo"
+      ],
+      "number": 4
+    }
+  ]
+}

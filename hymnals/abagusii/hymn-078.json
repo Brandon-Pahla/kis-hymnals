@@ -1,0 +1,28 @@
+{
+  "number": 78,
+  "language": "guz",
+  "title": "78 Korer'Omonen' Emerem'Emiya ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Korer'Omonen' emerem'emiya n'ogwancha,Kabe n'oboremu kora motari koiroka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nonya Saitani nabek'emeribo y'obobe,Oy'otorangeirie n'omwegenwa natorende."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Eira yaye as'abasomba baye ner'eye'\"'Meremo yao as'Omonene teri bola\""
+      ],
+      "number": 3
+    }
+  ]
+}

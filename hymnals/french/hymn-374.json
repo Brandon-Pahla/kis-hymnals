@@ -1,0 +1,57 @@
+{
+  "number": 374,
+  "language": "fr",
+  "title": "Nous bâtirons notre maison",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nous bâtirons notre maison, Seigneur,",
+        "Sur le rocher de ta parole.",
+        "Nous bâtirons notre maison,",
+        "Nous appuyant sur ton amour."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous fermerons notre maison, Seigneur,",
+        "Aux vents de haine et de violence.",
+        "Nous fermerons notre maison :",
+        "N'y entrera que ton amour."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous ouvrirons notre maison, Seigneur,",
+        "À ceux qui souffrent l'injustice.",
+        "Nous ouvrirons notre maison",
+        "Pour qu'y rayonne ton amour."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous fleurirons notre maison, Seigneur,",
+        "Pour que l'enfant y soit en fête.",
+        "Nous fleurirons notre maison,",
+        "Donnant la vie et ton amour."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous garderons notre maison, Seigneur,",
+        "Dans la grisaille et dans l'orage.",
+        "Nous garderons notre maison,",
+        "Vainqueurs du mal par ton amour."
+      ],
+      "number": 5
+    }
+  ]
+}

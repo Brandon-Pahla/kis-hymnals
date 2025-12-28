@@ -1,0 +1,47 @@
+{
+  "number": 315,
+  "language": "tw",
+  "title": "Sɛ Me Ne Nyame Renantew",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ me ne Nyame renantew",
+        "ɔs'ro trabea mu a,",
+        "Hann bi bɛhyerɛn kwan no mu",
+        "Dem' akɔ 'Guammaan' nkyɛn."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ab'rɔnoma kronkron, san bra!",
+        "'Home somafo pa:",
+        "Mikyi bɔn' a ɛhyɛɛW' w'rɛhow,",
+        "Pam Wo fii me ho no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asomdwoe mm're a minyae no,",
+        "Meda so kae no yie!",
+        "Agyaw bun bi wɔ me mu a,",
+        "Wiase ntum' nhyɛ no ma."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Honi biara a minim no,",
+        "Sɛnea ɛte biara,",
+        "Ma mentew mfi W'agua no ho,",
+        "Na mensom Wo nkutoo."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 143,
+  "language": "tw",
+  "title": "'Nadwo Komm, 'Nadwo Kronn",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Nadwo komm, 'nadwo kronn,",
+        "Baabiara ayɛ hann;",
+        "Ͻna baabun ne Abofra,",
+        "'Kokoaa kronkron a ɔyɛ mm'rɛw;",
+        "Da s'ro asomdwoe mu,",
+        "Da s'ro asomdwoe mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nadwo komm, 'nadwo kronn,",
+        "Sum no kɔ, hann aba;",
+        "Nguanhwɛfo tie abɔfo dwom:",
+        "Haleluya! ɔhene mo!",
+        "Wɔawo 'Gyenkwa Kristo,",
+        "Wɔawo 'Gyenkwa Kristo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nadwo komm, 'nadwo kronn,",
+        "Nyame Ba, Dɔ Hann pa;",
+        "Hann hy'rɛn fi W'anim kronkron mu,",
+        "ɔdom nkwagye anɔpa no,",
+        "'W'ra Yesu, W'awo mu,",
+        "'W'ra Yesu, W'awo mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nadwo komm, 'nadwo kronn,",
+        "Hyerɛn, ns'romma nwanwa;",
+        "Momma yɛne 'bɔfo nto dwom:",
+        "Haleluya nka yɛn Hene;",
+        "Wɔawo 'Gyenkwa Kristo,",
+        "Wɔawo 'Gyenkwa Kristo."
+      ],
+      "number": 4
+    }
+  ]
+}

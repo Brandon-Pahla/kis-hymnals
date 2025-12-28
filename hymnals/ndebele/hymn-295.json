@@ -1,0 +1,41 @@
+{
+  "number": 295,
+  "language": "nd",
+  "title": "295 Hlabani uMkhosi weMpi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hlabani umkhosi nas’ isitha; Vusan’ is’miso seNkosi",
+        "Hlomani izikhali nonkana, Thembel’ an’ ezwini leNkosi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vukani mabutho, buthanani",
+        "Qhubelan’ ilizwi phambili",
+        "Hambani nimemeze, Hosana!",
+        "uKrestu yiNduna yomkhosi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amandl’ okulwa siyowathola: Sazi ukuthi sonqoba",
+        "Isihlangu sethu siyakhanya, Sonqoba ngenxa yokulunga"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi ephakamileyo sizwe, Ngomusa wAkho sisize",
+        "Nxa impi yonke isiphelile Siyozuza umqhele kuWe"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 96,
+  "language": "sn",
+  "title": "96 Tinofara Ngemusi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tinofara ngemusi",
+        "Wakapiwa ngemutsa",
+        "Unotifadzisisa",
+        "Sekujeka kwedenga"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Musi wekunamata",
+        "Kuimba nekutenda",
+        "Nekufunga ngebasa",
+        "ReMusiki wedenga"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sabata rinokosha",
+        "Musi wekuzorora",
+        "Nekutipa kuziva",
+        "Ndiwo takomborerwa"
+      ],
+      "number": 3
+    }
+  ]
+}

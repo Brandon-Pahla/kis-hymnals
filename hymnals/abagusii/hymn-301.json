@@ -1,0 +1,42 @@
+{
+  "number": 301,
+  "language": "guz",
+  "title": "301 Yes'Onyanchire Bori",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yes'onyanchire bori,Biblia yantebia;'Bana bonsi nabaye;'Re nare n'echinguru."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yes'onyanchire,Yes'onyanchire;Yes'onyanchire,Biblia yantebia."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. .Yes'okwet'onyanchire,Nansibi'ebibe biane;'Nyigorer'ebisieri,'Rio nainche nsoe igoro."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yes'onyanchire mono,Nony'ekero ndwarete;'Re nandende botambe,Nony'ekero nkorara."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nabe nainche botambe,'Se chinchera ngoeta;Nainche kondamwanche bo,Nang'ir'enka ya igoro."
+      ],
+      "number": 5
+    }
+  ]
+}

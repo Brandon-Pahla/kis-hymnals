@@ -1,0 +1,46 @@
+{
+  "number": 600,
+  "language": "tw",
+  "title": "Wɔama 'Gyidifo Nyinaa Bɔhyɛ Pa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔama 'gyidifo nyinaa bɔhyɛ paɔ",
+        "\\\"Hwɛ, Meba ntɛm abɛgye M'ankasa de,",
+        "Munnyina pintinn kosi sɛ Mɛba;",
+        "Monneda sɛ binom; monwɛn na montwɛn\\\"."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "\\\"Munnyina Pintim\\\", ɔs'ro bɔhyɛ paɔ",
+        "\\\"Yiw, wɔde ahenni no bɛma mo\\.",
+        "\\\"Mommra M'anigyem, montra M'agua so;",
+        "Ahenkyɛw retwɛn mo; munnyina pintinn\\\"."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛbɛwɛn b'rč a yɛn 'kanea redɛre;",
+        "ɔba afof'ro nkyɛn sɛ \\\"wifo 'nadwo\\\"",
+        "Yenim sɛ Wabɛn, nso yɛnnim da no;",
+        "Mmom fefɛb're ky'rɛ sɛ 'huhub're abɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn 'nidaso ni, egy'na N'asɛm soɔ",
+        "Yɛn W'ra Yesu anuounyam ahoyi no;",
+        "Bɔhyɛ horow no nyinaa tɔfa ni:",
+        "\\\"Hwɛ, Mereba ntɛm so, munnyina pintinn\\\"."
+      ],
+      "number": 3
+    }
+  ]
+}

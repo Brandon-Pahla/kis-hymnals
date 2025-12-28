@@ -1,0 +1,23 @@
+{
+  "number": 275,
+  "language": "ts",
+  "title": "275. KU NGA HERIKI KWIH?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ENTERNITY! WHERE?",
+        "1. Ku Nga Heriki Kwih? Swi le Mpfhukeni, Epongweni Ne Ku Rhuleni Swi Kona;",
+        "Xivutiso Lexo Lavaka Nhlamulo: Hi Leswaku Ku Nga Heriki! Kwihi?",
+        "2. U Ta Va Kwihi Hilaha Ku Nga Heriki? Na Vahlawuriwa Kumbe Valahleki? Xin’we Xa Swona, Eka Leyimbirhi?",
+        "Kwihi Hi Laha Kunga Heriki Ke?",
+        "3. Xana U Ta Kuma Nkavelo Muni? Wo Tiphina Misaveni Ungs Khatali?",
+        "U Endla Vubihi Hinkwabyo-nkwabyo? Ku Fikela Ku Nga Heriki Kwihi?",
+        "4. Wa Fanela Ku Phaphuka Makwerhu, Sweswi Xikwembu Xi Ta Ku Avanyisa; Namuntlha Ku Nga Tsemiwa Ta Wena,",
+        "Xana Wena U Ya Helela Kwihi?",
+        "5. Xana U Ta Ya Helela Kwihi Ke? U Nga Etleli U Tiphina Misaveni; U Nga Si Tihlamulela Swa Wena, Mhaka Yo U Ta Ya Helela Kwihi?"
+      ],
+      "number": 1
+    }
+  ]
+}

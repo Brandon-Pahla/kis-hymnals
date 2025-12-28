@@ -1,0 +1,40 @@
+{
+  "number": 220,
+  "language": "sn",
+  "title": "220 Nyikayekumusha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kumusha! O kumusha!, Kwakasununguka!",
+        "Hakuna usiku, Mangwanani basi",
+        "Ndinoda uyo musha, Ndinouchemera",
+        "Musha usina kurwadza wondoda kusvika",
+        "Musha usina kurwadza wondoda kusvika"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi ari kumusha, Nengirosi dzake",
+        "Hakuna chitemayo, Kana nezviyedzo",
+        "Nzwiyo dzekumusha’yo ndodzinzwa munzebe",
+        "Kuti ndofunga nemusha, Ndinobva ndachema",
+        "Kuti ndofunga nemusha, Ndinobva ndachema"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vagari vekumusha, Vanondidaidza",
+        "Urombozve nerufo hazvisopindimo",
+        "O nyika inodiwa!, Iri kumusosro!",
+        "Kristu tiunze kumusha werudorwo rwenyu",
+        "Kristu tiunze kumusha werudorwo rwenyu"
+      ],
+      "number": 3
+    }
+  ]
+}

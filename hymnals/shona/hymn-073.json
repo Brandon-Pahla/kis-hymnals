@@ -1,0 +1,65 @@
+{
+  "number": 73,
+  "language": "sn",
+  "title": "73 Apo Mambo Anopinda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mambo wedu atidayidza",
+        "Kuchidyo chake che kudenga",
+        "Tomira senyi mukutongwa",
+        "Mambo apinda"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Apo Mambo apinda, Kuzotitonga",
+        "Tichamira senyi apo, Mambo apinda"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mambo Jesu ane chiremba",
+        "Pakange pazoiswa minzwa",
+        "Nembiri yake ticham’ona",
+        "Mambo apinda"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvakaigwa zvichaoneswa",
+        "Apo tapinda pakutongwa",
+        "Zvemumwoyo tinozviwana",
+        "Mambo apinda"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Achafara pakutiona",
+        "Kuti tapfeka nguwo chena",
+        "Ndizvo kunesu kunonaka",
+        "Mambo apinda"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi, tinokumbira mutsa",
+        "Kuti tese tinozomira",
+        "Munzwimbo dzedu nekusatya",
+        "Mambo apinda"
+      ],
+      "number": 6
+    }
+  ]
+}

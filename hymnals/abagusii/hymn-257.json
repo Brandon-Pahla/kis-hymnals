@@ -1,0 +1,35 @@
+{
+  "number": 257,
+  "language": "guz",
+  "title": "257 Ko Rirumbe Riasirire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ko rirumbe riasirirekorwa as'ebitunwa,Omobaso okobaraogotongia emambia;Natosome rirube riayeri'obwanchani bwaye,Tomanyane twensi buya,rirumbe rigosira."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tomanya --- ne buya pi,(Tomanya ---- ne buya pi)Totare ----- amo twensi,(Totare ---- amo twensi)Bogokia --- moka igoro,(Bogokia ---- moka 'goro)Rirumbe---- rigosira,(Rirumbe ---- rigosira)Bogokia ----mokaigoro,(Bogokia ---- moka 'goro)Rirumbe -----rigosira,(Rirumbe ----- rigosira)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tokomocha koinyorabuna intwe namaroba,Togosaria amachikona gochandeka tweka;Chimbaba chiaye chindabuchitub' ebibe biaito,Okorenda gokoera,rirumbe rigosira."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Rirumbe rigototuba,Tata natomanyete,'Bosi' as'obosio tomanyane,na baria twanchete;Korwa ng'umbu yabarire buya,yakiamokire,Ekiriri kegoeta,rirumbe rigosira."
+      ],
+      "number": 4
+    }
+  ]
+}

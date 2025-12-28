@@ -1,0 +1,86 @@
+{
+  "number": 567,
+  "language": "es",
+  "title": "Si en valles de peligros",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Si en valles de peligros"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si en valles de peligros",
+        "yo tengo que pasar,",
+        "o si por altas cumbres",
+        "en paz me toca andar;",
+        "ya que seguro estoy",
+        "si en sol o sombra voy,",
+        "a cualquiera parte,",
+        "iré con Jesús."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "A cualquiera parte, iré",
+        "con Jesús;",
+        "doquiera que esté,",
+        "del Cielo tendré",
+        "la santa luz.",
+        "Es mi privilegio aquí",
+        "llevar su cruz;",
+        "iré, pues, a cualquiera parte",
+        "con Jesús."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si el agua de la vida",
+        "es mi deber llevar,",
+        "al pecador rendido",
+        "por yermo al transitar;",
+        "si es que me toca a mí",
+        "llevar su amor allí,",
+        "con tal que él me guíe,",
+        "iré con Jesús."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mas si es mi suerte en casa",
+        "la santa cruz llevar,",
+        "cuando otros la pregonan",
+        "allende el ancho mar;",
+        "por prueba de mi fe,",
+        "su fallo aceptaré,",
+        "y adonde él me lleve,",
+        "iré con Jesús."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De cuanto manda Cristo",
+        "no debo yo dudar;",
+        "más bien seguir fielmente",
+        "la voz que me ha de guiar.",
+        "Si quedo, pues, o voy,",
+        "markdowno siempre estoy,",
+        "pues doquiera tengo",
+        "conmigo a Jesús."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "number": 125,
+  "language": "ny",
+  "title": "125 - Muli Dzuwa M’phiri Muja",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SUNLIGHT IN THE HEART"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Muli dzuwa m’phiri muja, Muli dzuwa m’nyanjamo;",
+        "K’wala kwake kumagwera Pa maudzu ponsepo;",
+        "Koma dzuwa lopambana Lili m’mtima mwangamu;",
+        "Ka’mba komwe mukhalitsa, Kuli dzuwa lowala."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Muli dzuwa lakuwalitsa! Muli dzuwa m’mtimanga.",
+        "Yesu adzachotsa mdima, Muli dzuwa m’mtimanga."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndisiya ’ne nsoni zanga Ndi zovala za nsanza;",
+        "Mundivekatu zoyera, Ndiyamika m’mtimamo;",
+        "Kuli malo a ulemu Munandikonzera ’ne;",
+        "Mtima wanga ufunako, Ndidzatsata Inutu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Inu, Yesu, mwandigula, Ndine wanu konseko,",
+        "Munayatsa nyali yanga, Iwalire Inuyo;",
+        "Kuli malo a ulemu Munandikonzera ’ne,",
+        "Mtima wanga ufunako, Ndidzatsata Inuyo."
+      ],
+      "number": 4
+    }
+  ]
+}

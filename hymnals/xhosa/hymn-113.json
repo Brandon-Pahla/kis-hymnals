@@ -1,0 +1,46 @@
+{
+  "number": 113,
+  "language": "xh",
+  "title": "113 Uyabiza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U-Yes’ uyabiza ngezwi lenceba, Uyabiza, wena nam;",
+        "Ulind’ elucangweni lwentliziyo, Ulindele wena nam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yizan,’ nina, Nidiniweyo, yizan’;",
+        "U-Yes’ uyabiza ngokunyameka, Wena, O moni yiza!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Simeleni xa u-Yes’ esicenga, Ebongozela thina?",
+        "Masingahilizel’ inceba zakhe, Ezenza ngenxa yethu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Laphela ixesha, yemk’ imizuzu, Likushiya wena nam;",
+        "Amathunz’ okufa ayasondela, Afika kuwe nakum."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cinga ngothando aludingileyo, Eludinge wena nam;",
+        "Sonile use nenceba noxolo, Uxolo kuwe nakum."
+      ],
+      "number": 4
+    }
+  ]
+}

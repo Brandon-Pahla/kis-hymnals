@@ -1,0 +1,47 @@
+{
+  "number": 394,
+  "language": "tw",
+  "title": "Yegyaw Haw Ny'naa Hy'ra",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yegyaw haw ny'naa hy'ra Homeda 'nɔpa yi;",
+        "Yefi nsase ne aky'riky'ri po so;",
+        "Pagya ayeyi nnwom pa a ɛyɛ dɛ",
+        "B'rč a 'bɔde ny'naa de wɔn koma maW' no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ewom, 'nipa nkutoo ne W'abɔde a",
+        "ɔnhyɛW' 'nuonyam, Wo tum' ne Wo dɔ ho;",
+        "Nso nkae bi wɔ a wɔdɔW' na wɔkae",
+        "Wo mm'ra kronkron ne Wo Homeda no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Homeda Wura, 'Gyenkwa ne ɔbɔadeɛ;",
+        "Dwudwo apinisi nyinaa ano;",
+        "Ka Wo mm'rasɛm mu asomdwoe kyerɛ yɛn;",
+        "Fa Eden home ma ɔkra biara."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma yennya Wo tumi no mu ahoɔden",
+        "Ne W'ahobrɛase kommyɛ no bi daa;",
+        "Ͻno na yebew'ra sika pon no mu",
+        "Ato nkwagye dwom Homeda biara."
+      ],
+      "number": 4
+    }
+  ]
+}

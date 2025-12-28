@@ -1,0 +1,66 @@
+{
+  "number": 111,
+  "language": "en",
+  "title": "111 No, Not One.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "There’s not a friend like the lowly Jesus,",
+        "No, not one! No, not one!",
+        "None else could heal all our soul’s diseases,",
+        "No, not one! No, not one!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesus knows all about our struggles,",
+        "He will guide till the day is done,",
+        "There’s not a friend like the lowly Jesus,",
+        "No, not one! No not one!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No friend like him is so high and holy,",
+        "No, not one! No, not one!",
+        "And yet no friend is so meek and lowly,",
+        "No, not one! No, not one!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "There’s not an hour that he is not with us,",
+        "No, not one! No, not one!",
+        "No night so dark but his love can cheer us,",
+        "No, not one! No, not one!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Did ever saint find this friend forsake him?",
+        "No, not one! No, not one!",
+        "Or sinner find that he would not take him?",
+        "No, not one! No, not one!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Was e’er a gift like the Saviour given?",
+        "No, not one! No, not one!",
+        "Will he refuse us a home in heaven?",
+        "No, not one! No, not one!"
+      ],
+      "number": 5
+    }
+  ]
+}

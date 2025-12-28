@@ -1,0 +1,32 @@
+{
+  "number": 234,
+  "language": "ny",
+  "title": "234 - Yesu Nyali Ya Dziko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "JESUS THE LIGHT OF THE WORD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Ha! Nayimba angelo, Yesu nyali ya dziko;",
+        "Mwana wabadwa Mfumu, Yesu nyali ya dziko.",
+        "CHORUS:",
+        "Yenda m’kuunika kwabwiniko,",
+        "Idza kumene kuli cifuno,",
+        "Kuwala kwa msana ndi usiku;",
+        "Yesu, nyali ya dziko.",
+        "2. Mapfukonu kondwani, Yesu nyali ya dziko;",
+        "Kondwani ndi a m’mwamba, Yesu nyali ya dziko.",
+        "3. M’mwamba amlekeza, Yesu nyali ya dziko;",
+        "Yesu Mbuye wosatha, Yesu nyali ya dziko.",
+        "4. Mfumu ya mtenderedi, Yesu nyali ya dziko;",
+        "Dzuwa la cilungamo, Yesu nyali ya dziko."
+      ]
+    }
+  ]
+}

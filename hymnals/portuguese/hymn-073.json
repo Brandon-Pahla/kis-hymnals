@@ -1,0 +1,34 @@
+{
+  "number": 73,
+  "language": "pt",
+  "title": "Rei dos Reis",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Rei dos Reis"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rei dos reis! Deus, criador do Céu!",
+        "Honra e glória ao Deus infinito em poder!",
+        "Terra e Céu, cantai ao grande Rei!",
+        "Deus criador, Deus redentor, Deus, Rei dos reis!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Adorai, glorificai o nome de Cristo!",
+        "Exaltai, magnificai Jesus, o senhor!",
+        "Terra e Céu, cantai louvor a Deus!",
+        "Ele morreu! Ele venceu! É Rei dos reis!"
+      ],
+      "number": 3
+    }
+  ]
+}

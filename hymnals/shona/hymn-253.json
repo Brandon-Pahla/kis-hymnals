@@ -1,0 +1,31 @@
+{
+  "number": 253,
+  "language": "sn",
+  "title": "253 Izraeri Mufudzi Akanaka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tarisa Izraeri, Mufudzi weidi",
+        "Anodana zvakanaka, Hwai dzake duku!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ati Dzibvumire, Kuti dziuye kwandiri",
+        "Ndiye anokomborera, Tenzi we ngirosi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tinounza nekutenda,Tenzi chikotsayi",
+        "Zvinotava nerufaro,Tava wenyu chose"
+      ],
+      "number": 3
+    }
+  ]
+}

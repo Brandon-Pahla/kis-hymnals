@@ -1,0 +1,47 @@
+{
+  "number": 227,
+  "language": "tw",
+  "title": "Baabiara Nea Owia Hyerɛn",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Baabiara nea owia hyerɛn,",
+        "Yesu bedi hene hɔ daa;",
+        "N'ahenni trɛw fi pom' kɔ pom'",
+        "Kosi sɛ ɔsram rennum bio."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aman ne kasa biara nso",
+        "De nnwonto pa bɛtra Ne dɔm';",
+        "Na mmotafowa nso ato",
+        "Hosana ama Ne din no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nhyira wɔ nea Odi hene;",
+        "Deduani bubu mpoky'rɛ mu;",
+        "Na ɔbrɛfo nya daa home,",
+        "Na wɔn a ɔkɔm de wɔn mee."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma abɔde biara nsɔre",
+        "Mfa anuonyam mmrɛ yɛn Hen' no,",
+        "'Bɔfo mfa nnwom mfi s'ro nsian bio,",
+        "Na asase nnye so Amen."
+      ],
+      "number": 4
+    }
+  ]
+}

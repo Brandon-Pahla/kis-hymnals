@@ -1,0 +1,35 @@
+{
+  "number": 126,
+  "language": "luo",
+  "title": "126 Kidich Nyasaye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kidich Nyasaye, ndalo mamor,Meduru paro Jakonywa;To tinende waweyo tichKaka Nyasaye nowachonwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Paruru, kawuono,Kaka Nyasaye nochweyo piny;Ka nochweyo polo gi piny,Koro eka nodiro En;Wan bende tinende,wachokre diro gi Nyasaye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nyasaye nowachonwa niya;Atieko gwedho Sabato;To wadwaro mondo NyasayeOmednwa gweth mare tinde."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Keturu chunyu kuom Yesu,To en nomiu kuwe mare;Nitie wang`yo moro bende,To en modwaro witowa."
+      ],
+      "number": 4
+    }
+  ]
+}

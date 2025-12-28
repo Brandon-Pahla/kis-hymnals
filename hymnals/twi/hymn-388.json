@@ -1,0 +1,58 @@
+{
+  "number": 388,
+  "language": "tw",
+  "title": "Mma Mo W'rɛ Mfi Hom'da",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mma mo w'rɛ mfi Hom'da",
+        "A Nyame ahy'ra,",
+        "Dapɛn mu da a ɛhy'rɛn,",
+        "Dapɛn mu da pa ni.",
+        "Ͻma home fi nnwumam',",
+        "Ͻka s'ro dɛw kyerɛ;",
+        "Ne hann nhy'rɛma fi soro",
+        "Hy'rɛn wɔ ahoɔfɛ mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "'Kwaaba, 'kwaaba, daa akwaaba.",
+        "Homedā a wɔahy'ra;",
+        "'Kwaaba, 'kwaaba, daa akwaaba,",
+        "Homedā a wɔahy'ra."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Munsie Homeda no",
+        "Kronkron na nnɛ monsom",
+        "Nea ɔsee N'asuafo sɛ:",
+        "\\\"Mene nɔkwa kwan no\\\".",
+        "Sɛ yefi ɔdwo mu di",
+        "'Gyenkwan' akyi fam há a,",
+        "ɔbɛma yɛanom nsutė a",
+        "Daa nkwa sen' fi mu no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anigye kronkron da,",
+        "Yebedi ne mm're pan'",
+        "Wɔ 'seda nnwontom' ama",
+        "Yesu, mmofra yɔnko;",
+        "O Agyenkwa dɔfo pa,",
+        "Sɛnea W'ayamye te;",
+        "Wo bɔhyɛ pa no ky'rɛ sɛ,",
+        "Wobɛtra yɛn komam'."
+      ],
+      "number": 3
+    }
+  ]
+}

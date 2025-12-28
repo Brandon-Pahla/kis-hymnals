@@ -1,0 +1,63 @@
+{
+  "number": 139,
+  "language": "sn",
+  "title": "139 Ndawana Shamwari",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndawana shamwari",
+        "Yakandida ndisingazivi",
+        "Akandipfuwa nerudo",
+        "Akandisunga kwa’ri",
+        "Mwoyo wangu wasungwa",
+        "Nepfundo-ro rakasimba",
+        "Jesu ndiri wako ini",
+        "Uriwangu narini"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndawana shamwari",
+        "\\‘Yoshamwari yakandifira",
+        "Handi upenyuba chete",
+        "Asi akazvipira",
+        "Zwe ndinazvo handizvangu",
+        "Ndakamuchengetera",
+        "Mwoyo, simba, upenyu zvese",
+        "Ngezvake narini"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndawana shamwari",
+        "Akapiwa masimba ese",
+        "Kundichengeta munzira",
+        "Inoyenda kudenga",
+        "Mbiri iri kupenyayo",
+        "Kuti indisimbise",
+        "Ngandirinde ndisewenze",
+        "Pamberi ndozorora"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndawana shamwari",
+        "Inemutsa idi nerudo",
+        "Ndimutungamiri kwaye",
+        "Anenzero nesimba",
+        "Kuna iye anondida",
+        "Ndinowana masimba",
+        "Korufo rungakurira?",
+        "Ndiri wenyu narini"
+      ],
+      "number": 4
+    }
+  ]
+}

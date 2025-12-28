@@ -1,0 +1,47 @@
+{
+  "number": 220,
+  "language": "ve",
+  "title": "220. Shango li Re Haya Hashu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:436",
+        "AH:428"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Haya havhudi Shango lashu la mulalo!",
+        "A huna vhusiku khalo, Ndi mutsho fhedzi;",
+        "Ndo li lindela tshothe, Fhano ndi la mbilu;",
+        "Shango ilo a li na mathupho, A no dina;",
+        "Shango ilo a li na matungu, vhu no dina."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Khotsi o dzula khalo na vharunwa vhawe;",
+        "A hu’ tshivhi na mulingo kha ilo shango;",
+        "Nyimbo dza hone dzi bvuma ndevheni dzanga;",
+        "Mitodzi i a bva nda humbula kha ilo shango."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Vhadzuli vha hone mmbidza uri ndi ye;",
+        "Hayani hu si na lufu na zwi vhavhaho;",
+        "Yawee! Shango lifunwa! la dzawelo fulu!",
+        "Kristo ri ise rothe hayani ha lufuno;",
+        "Kristo ri ise rothe hayani ha lufuno."
+      ],
+      "number": 4
+    }
+  ]
+}

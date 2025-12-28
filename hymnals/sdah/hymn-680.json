@@ -1,0 +1,28 @@
+{
+  "number": 680,
+  "language": "en-sdah",
+  "title": "680 Holy Spirit, Hear Us",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Holy Spirit, hear us; Help us while we sing; Breathe into the music Of the praise we bring."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Holy Spirit, prompt us When we kneel to pray; Nearer come, and teach us What we ought to say."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Holy Spirit, shine Thou On the Book we read; Gild its holy pages With the light we need."
+      ],
+      "number": 3
+    }
+  ]
+}

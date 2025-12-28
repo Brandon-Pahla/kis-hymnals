@@ -1,0 +1,33 @@
+{
+  "number": 390,
+  "language": "fr",
+  "title": "Seigneur dirige",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Seigneur, dirige et sanctifie",
+        "Toute la vie de tes enfants.",
+        "Que ta lumière,",
+        "Sur leur carrière,",
+        "Brille en tout temps !",
+        "Que, sous ta garde et sous tes ailes,",
+        "Ils soient fidèles, forts et constants !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Soumets leur âme à l'Évangile,",
+        "Au joug facile, plein de douceur;",
+        "Fais-leur entendre",
+        "L'appel si tendre",
+        "De leur Sauveur;",
+        "Que, pour répondre à sa promesse,",
+        "Ils aient sans cesse, le même cœur !"
+      ],
+      "number": 2
+    }
+  ]
+}

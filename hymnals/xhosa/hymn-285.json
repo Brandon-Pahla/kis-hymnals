@@ -1,0 +1,38 @@
+{
+  "number": 285,
+  "language": "xh",
+  "title": "285 Kukho Indawo Yokuphumla",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kukho indawo yophumlo, Kufuphi kubawo;",
+        "Aph’ isono singahluphi, Kufuphi kuBawo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O! Yesu, Msindis’ omhle Ovela kuBawo,",
+        "Sibambe silindile, Kufuphi kuBawo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kukho indawo emnandi, Kufuphi kuBawo;",
+        "Apho kukho uMsindisi, Kufuphi kuBawo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kukh’ indawo yolonwabo, Kufuphi kuBawo;",
+        "Ndawo yoxolo novuyo, Kufuphi kuBawo."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "number": 190,
+  "language": "tum",
+  "title": " 190 Wende Na Zina La Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 190 Wende Na Zina La Yesu",
+        "PRECIOUS NAME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Utemwe zina la Yesu mwana wakusuzgika,",
+        "Liti likusanguluske wendenge nalo kose."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain:",
+        "Zina 'mwe (Zina mwe)",
+        "La Yesu. (La Yesu)",
+        "Zina La charu chose",
+        "Zina 'mwe (Zina 'mwe)",
+        "La Yesu (La Yesu)",
+        "Zina La charu chose."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Utemwe zina la Yesu liwenge nguru yako,",
+        "Para uli mu viyezgo utamphe mukuromba."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Zina iweme nda Yesu ndilo likukhwimiska,",
+        "Para watipokerera ndipo tikumwimbira."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Pakumulambira Yesu kuwa m'malundi ghake,",
+        "Themba la mathemba ghose para lwendo lwamala."
+      ],
+      "number": 6
+    }
+  ]
+}

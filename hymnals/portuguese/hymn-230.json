@@ -1,0 +1,65 @@
+{
+  "number": 230,
+  "language": "pt",
+  "title": "Sou Feliz com Jesus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Sou Feliz com Jesus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se paz, a mais doce, me deres gozar,",
+        "Se dor a mais forte sofrer;",
+        "Oh, seja o que for, Tu me fazes saber",
+        "Que feliz com Jesus hei de estar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Sou feliz com Jesus!",
+        "Sou feliz com Jesus,",
+        "Meu Senhor!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Embora me assalte o cruel Satanás,",
+        "E ataque com vis tentações,",
+        "Oh, sim, certo estou, mesmo em tais provações,",
+        "Em Jesus acharei força e paz."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus, meu Senhor, ao morrer sobre a cruz",
+        "Livrou-me da culpa e do mal;",
+        "Salvou-me Jesus, oh, mercê sem igual!",
+        "Sou feliz, e hoje vivo na luz."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A vinda eu anseio do meu Salvador;",
+        "Em breve virá me buscar;",
+        "E então lá no Céu vou pra sempre morar,",
+        "Com remidos, na luz do Senhor."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": 273,
+  "language": "fr",
+  "title": "Je vivais sans foi...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Je vivais sans foi, sans Dieu,",
+        "Quand Jésus m’ouvrit les cieux;",
+        "Son amour était plus fort",
+        "Que les chaînes de la mort;",
+        "En Jésus glorifié",
+        "Par la foi je revivrai."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Son incomparable amour",
+        "Est le plus puissant secours;",
+        "Plus profond que l’océan,",
+        "Sans égal dans son élan;",
+        "C’est pour moi qu’il est venu",
+        "Et je ne le quitte plus."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! combien je suis heureux",
+        "Quand je marche avec mon Dieu;",
+        "Si je me confie en lui,",
+        "Il dissipe mes soucis;",
+        "Car Jésus m’a tout donné :",
+        "Le bonheur, la liberté."
+      ],
+      "number": 3
+    }
+  ]
+}

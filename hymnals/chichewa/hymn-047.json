@@ -1,0 +1,32 @@
+{
+  "number": 47,
+  "language": "ny",
+  "title": "47 - Ndaimirira pa Gombe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ON JORDAN’S STORMY BANKS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Ndaimirira pa gombe, Ndiyang’anitsitsa,",
+        "Ku Kanani wabwinoyo, Komwe ndidzalowa.",
+        "CHORUS:",
+        "Tidzapumula mdziko lokondwa (lokondwa),",
+        "Kuoloka pa gombe lija (lowala),",
+        "Tidzayimba nyimbo ya Mose,",
+        "Ndikukhala ndi Yesu nthawi zonse.",
+        "2. Pa madambo akuluwo, ’Dzawala tsikulo,",
+        "Khristu adzalamulira, Nadzachotsa mdima.",
+        "3. Ndidzafika uko liti, Ndikudalitsidwa,",
+        "N’dzamona liti Atate, Kuti ndikapume?",
+        "4. Moyo wanga ukondwera, Kusiya dzikoli;",
+        "Nkana namondwe aombe, Sindiopa konse."
+      ]
+    }
+  ]
+}

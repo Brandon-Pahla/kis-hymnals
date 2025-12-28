@@ -1,0 +1,35 @@
+{
+  "number": 66,
+  "language": "guz",
+  "title": "66 Nanyorire Omosani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nanyorire Omosani!'Kanyancha ntaramanya;Akang'usa n'obwanchani,Nabo inche ndamwanche.Ime as'enkoro yane,Ere, ong'eir' obuyaNind' oyoye ner'oyone,Igo kare na kare."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nanyorire Omosani!Agakwa na gontoria;Tari ekeegwa goika,Akerua omonyene.Tindi gwetogeria gento,Bionsi nebiaye Yeso;'Nkoro, chinguru, 'bogima,Biaye kare na kare."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nanyorire Omosani!Oeirwe okobua,Kondaa gochia Igoro,Na kong'ikia aroroBonene bwarorekana,Mboinyore botambeBono nkore emeremo,Nintimoke botambe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nanyorire Omosani!'Muya omoitongoAgonsemia na kondaa,OyokondwanereraEre akanyancha mono,Ninki kerandusie o?Ogokwa tigokondusia,Noyoye nde botambe."
+      ],
+      "number": 4
+    }
+  ]
+}

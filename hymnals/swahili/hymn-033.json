@@ -1,0 +1,43 @@
+{
+  "number": 33,
+  "language": "sw",
+  "title": "33 - Karibu Sana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Karibu sana univute, karibu sana daima niwe,",
+        "Bwana napenda unishike, unilinde nisitengwe nawe,",
+        "Unilinde nisitengwe nawe."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Karibu sana sina kitu, sina sadaka kwa Bwana Yesu,",
+        "Isipokuwa moyo wangu, uutakase katika damu,",
+        "Uutakase katika damu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Karibu sana wewe nami ninafurahi kuacha dhambi,",
+        "Anasa zote na kiburi, nipe niliyemsulibisha,",
+        "Nipe niliyemsulibisha."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Karibu ssana hata mwisho, hata mbinguni nisimamapo,",
+        "Daima dawamu niwepo, nitakapoona uso wako,",
+        "Nitakapoona uso wako."
+      ]
+    }
+  ]
+}

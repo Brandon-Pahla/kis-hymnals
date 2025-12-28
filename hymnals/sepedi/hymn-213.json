@@ -1,0 +1,67 @@
+{
+  "number": 213,
+  "language": "nso",
+  "title": " 213 KOŠA YA KA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 213 KOŠA YA KA",
+        "AH 257 CH 613",
+        "MY SONG."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso Morekolodi,",
+        "O kopelo ya ka,",
+        "M'phološi monkhomotši,",
+        "Ke le mahlomoleng,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Jeso Morekolodi,",
+        "Ke opela wena,",
+        "Ga ke na le mogwera,",
+        "Ya swanang le wena;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O kholofelo ya ka,",
+        "Ka mengwaga yohle,",
+        "Ge leswiswi le mpipa,",
+        "Keledi di rotha;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tshepile M'phološi,",
+        "Mogwer'a 'potego,",
+        "Gobane ke'a go rata,",
+        "Go feta tšohle 'faseng;"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke wena thabo la ka,",
+        "'Faseng le la sebe,",
+        "O tlo ba thabo la ka,",
+        "Le kwa legodimong;"
+      ],
+      "number": 6
+    }
+  ]
+}

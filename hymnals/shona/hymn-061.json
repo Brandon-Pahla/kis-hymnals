@@ -1,0 +1,56 @@
+{
+  "number": 61,
+  "language": "sn",
+  "title": "61 Zvimwe ZvaJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hunde ndinooda kunzwazve",
+        "NdiJesu nerudo rwake",
+        "Neruponeso rwemutsa",
+        "RwaIye wakandifira"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E, Zvimwe zvaJesu, E, zvimwe zvaJesu",
+        "Zvimwe’zvo zvekuponeswa,",
+        "NaIye wakandifira"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvimwe ndinooda kufunda",
+        "Zverudo rwake rwomweya",
+        "Mudzimu unoera’o",
+        "Mundidzidzise zvese’zvo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvimwe zva Jesu mundipe",
+        "Inzwi rake muBhaibheri",
+        "Anotaura kuneni",
+        "Ndinomuteererazve"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvimwe zva Jesu ndiMambo",
+        "Achatonga pachigaro",
+        "Zvimwezve umambo hwenyu",
+        "Hunde, uyai Tenzi Jesu"
+      ],
+      "number": 5
+    }
+  ]
+}

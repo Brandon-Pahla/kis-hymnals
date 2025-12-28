@@ -1,0 +1,62 @@
+{
+  "number": 420,
+  "language": "fr",
+  "title": "Plus haut que l'azur...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Plus haut que l'azur des cieux,",
+        "Espoir, espoir si doux !",
+        "Est un pays merveilleux,",
+        "Espoir, espoir si doux !",
+        "Là, Jésus réunira",
+        "Ceux que la mort sépara !",
+        "Le soleil de Dieu luira.",
+        "Espoir, espoir si doux !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Là-haut cessent les douleurs,",
+        "Espoir, espoir si doux !",
+        "Dieu séchera tous les pleurs.",
+        "Espoir, espoir si doux !",
+        "Qu'ils sont beaux, les saints palais,",
+        "Asile éternel de paix",
+        "Où la mort n'entre jamais !",
+        "Espoir, espoir si doux !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Là-haut, radieux espoir !",
+        "Espoir, espoir si doux !",
+        "Ce sera le grand revoir.",
+        "Espoir, espoir si doux !",
+        "Rassemblés près du Seigneur,",
+        "Nous jouirons d'un bonheur",
+        "Éternel en sa splendeur.",
+        "Espoir, espoir si doux !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Là-haut, sur la harpe d'or,",
+        "Espoir, espoir si doux !",
+        "Unis dans un saint transport,",
+        "Espoir, espoir si doux !",
+        "Les élus n'ont qu'un seul vœu,",
+        "Exalter l'Amour de Dieu,",
+        "L'Amour, l'amour de Dieu."
+      ],
+      "number": 4
+    }
+  ]
+}

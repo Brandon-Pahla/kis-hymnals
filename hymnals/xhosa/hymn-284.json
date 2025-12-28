@@ -1,0 +1,44 @@
+{
+  "number": 284,
+  "language": "xh",
+  "title": "284 Imihla Idlula",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kukhi’intliziy’ enosizi, Nomphefumlo ofayo;",
+        "Singazisa ukonwaba Ixesha lisekhona;",
+        "Singazis’ ukuvuya kolu hambo lunzima;",
+        "Okuhle singakwenza Imihla isavuma."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Imihle . . . ivuma . . . imihla . . . ivuma,",
+        "Okuhle singakwenza imihla isavuma."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Makungabikho buvila, Masikhany’ okwemini;",
+        "Izwe lizele intlungu, Nosizi olukhulu.",
+        "Izwe lizel’ inyembezi Nokukhal’ okuninzi;",
+        "Nceda bonk’ abawayo, Imihla isavuma."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uthando lwasemhlabeni Olusibambileyo,",
+        "Masilushiy’ apha phantsi, Imihla isavuma.",
+        "Ngenxa yembewu entle, Esiyihlwayelayo,",
+        "Sohlala sinovuyo, Imihla isavuma."
+      ],
+      "number": 3
+    }
+  ]
+}

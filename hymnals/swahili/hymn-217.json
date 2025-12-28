@@ -1,0 +1,30 @@
+{
+  "number": 217,
+  "language": "sw",
+  "title": "217 Omba Sana Asubuhi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Omba sana asubuhi, omba sana mchana,",
+        "Omba sana na jioni, Bwana hutusikia."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Mungu hujibu maombi, asubuhi na mchana,",
+        "Hata hutungojea tena, wakati wa jioni."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Na tuimbe asubuhi, tena saa za mchana."
+      ]
+    }
+  ]
+}

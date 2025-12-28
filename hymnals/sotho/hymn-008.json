@@ -1,0 +1,46 @@
+{
+  "number": 8,
+  "language": "st",
+  "title": "8 Ha Lekolulo Le Lla",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ha lekolulo le se le lla, le nako e se feta,",
+        "Ho tla fihla tsatsi le emeng joalo.",
+        "Ba pholositsoeng lefats’eng, ba tla bokelloa bohle,",
+        "Ha ba bitsoa holimo ke tla ba teng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ha ba bitsoa leholimong,",
+        "Haba bitsoa Leholimong",
+        "Ha ba bitsoa leholimong",
+        "Ha ba bitsoa holimo ke tla ba teng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka nako eo e ntle, ha ba se ba tsosoa bohle;",
+        "Ba tla ba le seemo se secha bohle,",
+        "Ba khethiloeng ha ba se ba bokeletsoa hona teng.",
+        "Ha ba bitsoa holimo ke ke tla ba teng,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha re sebeletseng Morena le be le likele;",
+        "Re bueng ka lerato la Morena,",
+        "Ha re eshoa mosebetsi oa rona o tla bo fela,",
+        "Ha ba bitsoa holimo ke tla ba teng."
+      ],
+      "number": 3
+    }
+  ]
+}

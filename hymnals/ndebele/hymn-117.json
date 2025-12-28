@@ -1,0 +1,47 @@
+{
+  "number": 117,
+  "language": "nd",
+  "title": "117 Ngi Yeza Nkosi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi zwa izwi lAkho ‘Nkosi Li ngibiza",
+        "Ngize ngi hlamb’ egazini LoMsindisi wami."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yeza, Nkosi Ngi yeza kuWe",
+        "Ma ngi gezwe ngi bemhle Egazini lAkho"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi swele amandla Wen’ u naw’ impela",
+        "Eyam’ insila I hlanzwe Ngize ngi bemhlophe"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi bizwa nguJesu Ngothand’ olukhulu",
+        "Ngethembe ekuthuleni KuWe ezulwini"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dumo kuligazi! Hlonipha lomusa",
+        "Dumo kuY’ iNkos’ uKrestu! U ngamandla ethu"
+      ],
+      "number": 5
+    }
+  ]
+}

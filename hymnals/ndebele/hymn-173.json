@@ -1,0 +1,57 @@
+{
+  "number": 173,
+  "language": "nd",
+  "title": "173 O, Ngenkolo!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi fun’ inkol’ engesabi",
+        "Nom’ i sezitheni.",
+        "Engesabi ubunzima:",
+        "Benswelo nosizi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Engebubule i sole,",
+        "Noma i sishaywa;",
+        "Ngesikhathi sobuhlungu,",
+        "Yencik’ eNkosini."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inkolo ekhazimlayo",
+        "Zi vukil’ iz’phepho;",
+        "Engozini i ngesabi,",
+        "I ngathandabuzi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I mel’ ukunyonkolozwa;",
+        "Enganak’ i hlekwa.",
+        "I ngek’ i ngwinywe lulwandle",
+        "Nobuqili bonke."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi ngi ph’ inkol’ enjalo;",
+        "Noma ku ngehlani.",
+        "Ngozwa lapha ubumnandi,",
+        "Bekhay’ ezulwini."
+      ],
+      "number": 5
+    }
+  ]
+}

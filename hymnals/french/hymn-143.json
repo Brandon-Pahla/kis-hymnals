@@ -1,0 +1,111 @@
+{
+  "number": 143,
+  "language": "fr",
+  "title": "Louez Dieu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Louez Dieu, car il est bon,",
+        "Louez-le pour tous ses dons.",
+        "Sa bonté dure à toujours,",
+        "Éternel est son amour."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Sa bonté dure à toujours,",
+        "Éternel est son amour."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gloire au Seigneur des seigneurs,",
+        "Au tout puissant Créateur.",
+        "Sa bonté dure à toujours,",
+        "Éternel est son amour."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ses ouvrages sont parés",
+        "De sagesse et de beauté.",
+        "Sa bonté dure à toujours,",
+        "Éternel est son amour."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il a déployé les cieux,",
+        "Il les a semés de feux.",
+        "Sa bonté dure à toujours,",
+        "Éternel est son amour."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il a donné les saisons,",
+        "Les labours et les moissons.",
+        "Sa bonté dure à toujours,",
+        "Éternel est son amour"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pour son peuple il a ouvert",
+        "La route au creux de la mer.",
+        "Sa bonté dure à toujours,",
+        "Éternel est son amour."
+      ],
+      "number": 7
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quand nous étions opprimés,",
+        "Sa main nous a relevés.",
+        "Sa bonté dure à toujours,",
+        "Éternel est son amour."
+      ],
+      "number": 8
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il nous donne d’habiter",
+        "Le pays de sa bonté.",
+        "Sa bonté dure à toujours,",
+        "Éternel est son amour."
+      ],
+      "number": 9
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pour tout homme il multiplie",
+        "Un pain de force et de vie.",
+        "Sa bonté dure à toujours,",
+        "Éternel est son amour.",
+        "10",
+        "Rendez grâce au Dieu des cieux,",
+        "Tous ses dons sont merveilleux.",
+        "Sa bonté dure à toujours,",
+        "Éternel est son amour."
+      ],
+      "number": 10
+    }
+  ]
+}

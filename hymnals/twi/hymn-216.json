@@ -1,0 +1,52 @@
+{
+  "number": 216,
+  "language": "tw",
+  "title": "Sɛ Wɔbobɔ Din S'ro Noho a",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Da a Aw'rade abɛn no bebom",
+        "Na b're nni hɔ bio",
+        "Na anɔpa daapem hann fɛfɛn' bepue;",
+        "Dā a wɔbɛboa wɔn a wɔapɔn wɔn",
+        "Ano mpoano hɔ no,",
+        "Sɛ wɔbobɔ din s'ro nohoá a mɛkɔ hɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sɛ wɔbobɔ din s'ro nohoá a,",
+        "Sɛ wɔbobɔ din s'ro nohoá a,",
+        "Sɛ wɔbobɔ din s'ro nohoá a,",
+        "Sɛ wɔbobɔ din s'ro nohoá a mɛkɔ hɔ."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Da a Kristo mu 'wufo bɛsɔre",
+        "mununkum mu no,",
+        "Wobenya Ne sɔre anuonyam no bi;",
+        "B're a Ne de bɛboaboa wɔn ano",
+        "wɔn fie wɔ s'ro no,",
+        "Na wɔbobɔ din s'ro nohoá a mɛkɔ hɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Momma yɛnyɛ adwuma fi 'nɔpa",
+        "Kosi anwumm're,",
+        "Na yɛnka N'anwanwa dɔ no nkyerɛ,",
+        "Na sɛ yɛn fam ha bra ne adwuma",
+        "yi to nso wie twa,",
+        "Na wɔbobɔ din s'ro nohoá a mɛkɔ hɔ."
+      ],
+      "number": 3
+    }
+  ]
+}

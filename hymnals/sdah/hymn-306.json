@@ -1,0 +1,35 @@
+{
+  "number": 306,
+  "language": "en-sdah",
+  "title": "306 Draw Me Nearer",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. I am Thine, O Lord, I have heard Thy voice, And it told Thy love to me; But I long to rise In the arms of faith, And be closer drawn to Thee."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain : Draw me nearer, nearer, Blessed Lord, To the cross where Thou hast died; Draw me nearer, nearer, Blessed Lord, To Thy precious, bleeding side."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Consecrate me now to Thy service Lord, By the power of grace divine; May my soul look up With a steadfast hope And my will be lost in Thine."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. O the pure delight of a single hour That before Thy throne I spend, When I kneel in prayer, and with Thee my God, I commune as friend with friend!"
+      ],
+      "number": 4
+    }
+  ]
+}

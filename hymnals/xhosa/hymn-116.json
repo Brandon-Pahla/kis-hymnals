@@ -1,0 +1,47 @@
+{
+  "number": 116,
+  "language": "xh",
+  "title": "116 Nento Ku-Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Unamaxhal’ umxhelo, Akanandaw’ u-Yesu?",
+        "Ubanjiswe zibatha, Akanandaw’ uYesu?",
+        "Bona nanko emnyango, Emana enkqonkqoza;",
+        "Mphulaphul’ ebongoza; Akanandaw’ u-Yesu?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mus’ ukuchith’ ixesha, Unga msebenzela-na?",
+        "Ngamandl’ owaphiweyo, Unga msebenzela-na?",
+        "Ison’ akusoyisi, Akuzuzi ’mphefumlo,",
+        "Obhadulayo yena; ’Ngamsebenzel’ u-Yesu?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngenxa yobu butyebi, Akanaxesh’ u-Yesu?",
+        "Uvimb’ izinto zonke, Akanaxesh’ u-Yesu?",
+        "’Ziyolo nobutyebi, ’zinto ozifunayo,",
+        "Ufun’ ezizezaKho; Akanaxesh’ uYesu?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ingamagqabi odwa, Ziphina iziqhamo?",
+        "Akunaz’ izithungu, Ziphina iziqhamo?",
+        "Akunalo nokhozo, akusebenzanga-nto,",
+        "Akusayi kugcoba X’ uhlangana no-Yesu"
+      ],
+      "number": 4
+    }
+  ]
+}

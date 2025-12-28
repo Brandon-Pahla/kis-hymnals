@@ -1,0 +1,47 @@
+{
+  "number": 114,
+  "language": "tn",
+  "title": "114 Tswalo Se Teng Se Aegilwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tswalo Se Teng Se Aegilweng,",
+        "Marang a tswang ka sone,",
+        "A tswa mokgorong kgakala, Loratong lwa Mmoloki."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "A boutlwelo botlhoko; Le nna ke buletswe kgoro?",
+        "Le nna, le nna? A e buletswe le nna?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tswalo Se Buletswe Botlhe, Ba Ba Batlang Poloko;",
+        "Bahumi, Bahumanegi, Ba ditso le merafe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tswelelang Gare Ga Baba; Fa Tswalo Se Sa Butswe,",
+        "Ka mokgoro tsa’ng serwalo, Sesupo sa lorato."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moseja Ole Wa Noka Re Tla Rola Mokgoro,",
+        "Re tsee rwalo sa botshelo, Re Mo rate godimong."
+      ],
+      "number": 4
+    }
+  ]
+}

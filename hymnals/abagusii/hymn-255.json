@@ -1,0 +1,42 @@
+{
+  "number": 255,
+  "language": "guz",
+  "title": "255 Tenen' As' Ekeene",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tenen' as' ekeeneGwer 'Omonene,Basike bari 'abake'Mogand' o Danieli."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mobe buna Danieli,Tenena mweka,Mobe n'ogwanchaokonge timoiroka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Bant' abange basir'as' obwoba bwabo,Ng'a mbab' abakong'ubabe buna Danieli."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Bant' abanene monobare im'as'ense,Mbagwe bakoumer'omogand' o Danieli."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Imoki' ebenderamobue 'babisa,Moserie Saitanias'eriogi ria Danieli."
+      ],
+      "number": 5
+    }
+  ]
+}

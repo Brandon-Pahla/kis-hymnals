@@ -1,0 +1,58 @@
+{
+  "number": 537,
+  "language": "es",
+  "title": "Sábado santo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Sábado santo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sábado santo de Jehová",
+        "es este día de solaz.",
+        "En él adoro al Hacedor,",
+        "y halla mi alma así la paz,",
+        "y halla mi alma así la paz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Todas sus horas santas son;",
+        "nunca las vivo para mí,",
+        "y nada vil perturba así",
+        "mi comunión feliz con Dios,",
+        "mi comunión feliz con Dios."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Esta delicia semanal",
+        "es anticipo aquí de Sion;",
+        "me acerca al trono celestial",
+        "al alentar mi devoción,",
+        "al alentar mi devoción."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Todo pesar olvido hoy;",
+        "dejo también mi cruel afán.",
+        "Del sábado es autor Jesús:",
+        "ríndole entonces culto a él,",
+        "ríndole entonces culto a él."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "number": 91,
+  "language": "ve",
+  "title": "91 Fhatuwani Tshifhinga Ndi Tshipfufhi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Fhatuwa Murena a tshi vhidzelela,",
+        "Dzula wo mu lindela nga nungo dzothe;",
+        "Khwathisani vhatendi swina lo halifha,",
+        "Fhatuwani nangwe muhwe a tshi lenga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dzulani ni tshi rabela,",
+        "Lindelani vhusiku na masiari,",
+        "Nothe ni ralo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Pandelani khofhe, ni songo gungula,",
+        "Ni do fhiwa malamba a vhuawelo,",
+        "Fhatuwa, rabela, na Yesu o ralo;",
+        "A bvisa na biko, malofha a rotha."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Fhulufhelani Yesu, thanyelani Swina,",
+        "Ambarani thovho ni lindele Yesu,",
+        "Musi lo no tsha ni songo vhya na hangwa;",
+        "Tshone tshifhinga tshau lindela Yesu."
+      ],
+      "number": 4
+    }
+  ]
+}

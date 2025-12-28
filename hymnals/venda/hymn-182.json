@@ -1,0 +1,55 @@
+{
+  "number": 182,
+  "language": "ve",
+  "title": "182. Mutsho (duvha) Muhulu Wo No Sendela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:205",
+        "AH:394"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mutsho muhulu wo no sendela, Yesu u a da;",
+        "U do dzhia vha vhana vhawe,",
+        "Vha ya hayani."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ri vhona mutsho muhulu wo swika, Vhusiku ho no fhela.;",
+        "Lupenyo lwa helo duvha lu do fhanza na mavhIda."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mafhungo madifha a do huwelelwa kha vhothe;",
+        "Muhwe ha tsha lenga, Phalaphala i do lila."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Na vharunwa vhawe vhothe vha do mu fhelekedza;",
+        "A tshi da u dzhia vhawe Mathupho a fhela."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Vhahashu vho faho kale vha do dovha vha vhonwa;",
+        "Hu do fhulutwa mitodzi ya u lilelana."
+      ],
+      "number": 5
+    }
+  ]
+}

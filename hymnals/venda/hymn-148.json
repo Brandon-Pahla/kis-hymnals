@@ -1,0 +1,52 @@
+{
+  "number": 148,
+  "language": "ve",
+  "title": "148. Hothe Hothe Ndi Na Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:508",
+        "AH:224"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Hothe hothe ndi na Yesu ndi nga ya,",
+        "naho a tshi nnyisa hothe shangoni,",
+        "Hu si na Yesu a hu na dakalo,",
+        "hothe ndi na Yesu a thi nga ofhi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kha lothe lifhasi, a thi nga ofhi,",
+        "Hothe hothe ndi na Yesu ndi nga ya."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Hothe hothe ndi na Yesu thi ndothe,",
+        "thama dzo ntutshela o sala na nne,",
+        "Naho a tshi thuma hothe shangoni,",
+        "hothe ndi na Yesu ndi a mu renda."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Hothe hothe na Yesu ndi nga lala,",
+        "na musi lufu lu tshi nga sendela,",
+        "Ndi divha zwauri ndi do vuwa,",
+        "hothe hothe na Yesu ndi hayani."
+      ],
+      "number": 4
+    }
+  ]
+}

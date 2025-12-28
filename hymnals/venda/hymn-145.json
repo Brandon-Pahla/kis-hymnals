@@ -1,0 +1,54 @@
+{
+  "number": 145,
+  "language": "ve",
+  "title": "145. Ni Songo Hana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ni songo tou hana, mushumo muhulu,",
+        "Ni vhe no no luga, musi ni tshi runwa,",
+        "Ene nga tshilidzi u khou ni vhidza,",
+        "Mune wa tadulu, U ruma inwi-ha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Idani ni songo mangala,",
+        "Idani ni de mushumoni,",
+        "Ni songo mangala ni sa do shoniswa,",
+        "Nga u hana hanu na latwa tadulu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ni songo tou hana, ni tshi vhidzwa zwino,",
+        "Ndi kale no hana, tavhanyani zwino,",
+        "Masimu o vhibva, vhakani a vha-ho,",
+        "Mushumo wa Yesu, ni u takalele."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ni songo tou hana, ndi khombo u bvafha,",
+        "Wa vhenga lufuno lu do tuwa tshothe,",
+        "Tshilidzi tshi hone, no sumbwa tadulu,",
+        "Yesu o lindela, adani ni hangwelwe."
+      ],
+      "number": 4
+    }
+  ]
+}

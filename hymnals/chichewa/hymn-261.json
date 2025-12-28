@@ -1,0 +1,28 @@
+{
+  "number": 261,
+  "language": "ny",
+  "title": "261 - Dambo Lokongola La Edene",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BEAUTIFUL VALLEY OF EDEN"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Dambo labwino Edene, Muli bata msana;",
+        "Mitima ya otopabe Ipuma nicira.",
+        "CHORUS:",
+        "Dambo labwino Edene, Kwao kwa odala,",
+        "Ndazunzikadi ndi mabvuto, Ndidzatu ndidzapume.",
+        "2. Mtima wosowa woliraa, Ndzapeza mwayi,",
+        "Nuimba nyimbo nda’ngelo, Akutaritari.",
+        "3. Ali kwao Mpulumutsi; Ndi oomboledwa",
+        "Dziko la ulemerero, Imvani nyimboyo."
+      ]
+    }
+  ]
+}

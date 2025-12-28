@@ -1,0 +1,55 @@
+{
+  "number": 80,
+  "language": "sn",
+  "title": "80 Ngatibate Basa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngatibate basa varanda vaMwari,",
+        "Ngatitewere nzira yaJesu tenzi,",
+        "Ngeinzwi rake’ro tinosimbiswazve,",
+        "Ngatite nemasimba basa rake"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tichiri… kubata… Tichiri kubata,",
+        "Ngatisi… mbirire… dakara tenzi auya"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngatibate basa kugutsa vanoda,",
+        "Kune tsime yedi unza vakaneta,",
+        "Tinoshumaira, Jesu vatifira,",
+        "Pamchinjiko wake wakatiponesa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngatibate basa riripo revese,",
+        "Umambo hwedima hwuchazoputswa’di",
+        "Nezita raJehova rinozokudzwa,",
+        "Kuti soko revangeri rinokura"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngatibate basa kuti rizopera,",
+        "Vacheki vachadzika kundopupura",
+        "Ndizvo tichagara naJesu kumusha,",
+        "Tichaimba narini, Tazoponeswa"
+      ],
+      "number": 5
+    }
+  ]
+}

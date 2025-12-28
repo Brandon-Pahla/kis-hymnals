@@ -1,0 +1,54 @@
+{
+  "number": 264,
+  "language": "st",
+  "title": "264 Tsatsi Le Halalelang",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tsatsi le halalelang, La Jehova ’Morena;",
+        "Ke lona la bosupa, Le khethiloe ke Eena."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Le amohele, Le amohele,",
+        "Rea u thabela, phomolo ea Morena."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mosebetsi oa qetoa, Ho e so qale lona,",
+        "A le hlohonolofatsa, Ke ka hoo re phomolang."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Batho ba le fetotse, Ba khetha la Sontaha;",
+        "Talima mangolo ha, a bolelle joalo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ba bangata ba sa re, Sontaha e lokile,",
+        "Empa buka’ Morena eona ea ba hanyetsa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Na ka talimisisa, Ka e bona Sabatha;",
+        "Ka phakisa ho kena, tseleng ena ea ’nete."
+      ],
+      "number": 5
+    }
+  ]
+}

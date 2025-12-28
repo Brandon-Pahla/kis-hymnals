@@ -1,0 +1,46 @@
+{
+  "number": 105,
+  "language": "en",
+  "title": "105 Able To Deliver.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Able to deliver! Sound it far and near;",
+        "Able to deliver whosoe’er will hear;",
+        "From the fiery furnace, from the sinner’s doom,",
+        "Jesus will deliver whosoe’er will Come."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Able to deliver, Able to save,",
+        "When you are, my brother",
+        "Able to believe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Able to deliver! Can it really be?",
+        "Is there any power can deliver me?",
+        "Tell me, tell me truly, is the Christ once slain,",
+        "Able to deliver me from Satan’s Chain?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Able to deliver! Courage, trembling one!",
+        "Are you serving Jesus? He will save his own;",
+        "Fear not Satan’s power, cling to Jesus’ hand,",
+        "Cease your fear and doubting,",
+        "boldly for him stand."
+      ],
+      "number": 3
+    }
+  ]
+}

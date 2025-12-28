@@ -1,0 +1,28 @@
+{
+  "number": 32,
+  "language": "luo",
+  "title": "32 Koro Ka Wachokore",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Koro ka wachokore,Ni mondo wahing Yesu,Wanapar Yesu Kristo,Wanayiee gi chunywa;Koro wahingo Yesu,Ma notho e Kalwari."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ka wachamo mkate ni,Kawamadho kikombe ni,Wanahing ringre JawarMa nogur e yath ni wan;Wanahing remb Ruoth Yesuma nochwer e Kalwari."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nyasachwa, ornwa Muchi,mondo donji e chunywa;Koro wahingo Wuodi,kaka En notho niji,Kaka rembe nochwernwa,Ka notho e Kalwari."
+      ],
+      "number": 3
+    }
+  ]
+}

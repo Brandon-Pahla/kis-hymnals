@@ -1,0 +1,57 @@
+{
+  "number": 491,
+  "language": "fr",
+  "title": "Qu'en toi je vive",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Qu'en toi je vive, Seigneur bien-aimé,",
+        "Ô source vive de félicité,",
+        "Qu'à toi je pense, le jour et la nuit,",
+        "Car ta clémence toujours me bénit."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dieu, dans ta sagesse rayonne sur moi :",
+        "Le mal me presse, toujours garde-moi;",
+        "Père, fais grâce, pardonne à ton fils,",
+        "Montre ta face, vis en mon esprit."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lorsque je ploie sois mon ferme appui,",
+        "Donne ta joie, sois mon sûr abri,",
+        "Ma forteresse, mon seul bouclier,",
+        "De la détresse tu sais me garder."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fuir la richesse les propos flatteurs,",
+        "Dans l'allégresse servir le Seigneur :",
+        "Mon but suprême c'est lui, mon Sauveur,",
+        "Car si je l'aime, il vit dans mon cœur."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "À toi la gloire, Seigneur notre Dieu,",
+        "Car ta victoire nous ouvre les cieux.",
+        "Fais, ô bon Maître, toujours, en tous lieux,",
+        "À tous connaître ton nom glorieux."
+      ],
+      "number": 5
+    }
+  ]
+}

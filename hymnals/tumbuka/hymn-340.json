@@ -1,0 +1,72 @@
+{
+  "number": 340,
+  "language": "tum",
+  "title": " 340 Phangano La Magomezgeko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 340 Phangano La Magomezgeko",
+        "CM 1990"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Phangano la magomezgeko,",
+        "Nkhani yiweme (nkhani yiweme).",
+        "Wakwizaso luwiro Yesu",
+        "Mponoski wane (M'ponoski wane)",
+        "Umaliro wa Suzgo lose",
+        "waneng enera (wang'enera)",
+        "Fumu tolani mtima wane,",
+        "ndilute namwve"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wakwiza nadi (sono sono)",
+        "Manyi mphauLi (wandoyowoye)",
+        "Nzam'wona maso na maso",
+        "mu'chindami wake (chindami wake)",
+        "Waneng'enera (neng enera),",
+        "NLeke uheni (n'Leke uheni)",
+        "NditiLutenge kukhaLa naye myirayira."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Phangano la magomezgeko,",
+        "Nkhani yiweme (nkhani yiweme).",
+        "Vyose kose kose vikuti",
+        "waneng'enera (waneng'enera)",
+        "Ntha watichedwe Yesu kwiza",
+        "kutola wake (kutola wake)",
+        "Kuluta nawo m'charu",
+        "cha mutende ku chanya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Phangano la magomezgeko,",
+        "Nkhani yiweme (nkhani yiweme)",
+        "Vya m'charu ndavikana vyose",
+        "kumulindira (kumulindira)",
+        "Malo ghakutowa kuchanya",
+        "wandinozgera (wandinozgera)",
+        "Uko ndam'khalanga",
+        "na Yesu muyirayira."
+      ],
+      "number": 4
+    }
+  ]
+}

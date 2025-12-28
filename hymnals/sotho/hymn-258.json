@@ -1,0 +1,31 @@
+{
+  "number": 258,
+  "language": "st",
+  "title": "258 Tumelo E Phelang",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Molao o batla tumelo e le ’ngoe e phelileng;",
+        "E e reng Molimo Oa re: Mesebetsi e phelileng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena; U re ts’oarele molao oa Hau o robiloe,",
+        "Oona oa halalela ’me ha re o utloisise."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ts’oarela tlolo ea rona, Tlosa bokhopo ba rona.",
+        "Thusa ka baka la Mora, Re boloke molao hape"
+      ],
+      "number": 3
+    }
+  ]
+}

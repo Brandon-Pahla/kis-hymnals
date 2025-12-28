@@ -1,0 +1,47 @@
+{
+  "number": 207,
+  "language": "st",
+  "title": "207 Tiisa Tsoarelo Ea Ka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke bone ea leketlang",
+        "Matsoalong le maling",
+        "A ntalimile hantle,",
+        "Ke eme sefapanong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha nka ke ka e lebala,",
+        "Eona chalimo eo",
+        "Leha a ne a sa bue,",
+        "E ne ka oa nkahlola."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chalimo ea bobeli, e re;",
+        "Ke u ts’oaretse, Ke shoele,",
+        "Hore uena u phele,",
+        "Mali ’ona a lefile."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leha ke senola lefu",
+        "La Hae ka libe tsa ka,",
+        "Hoo ke sephiri se tisang",
+        "tsoarelo ea me."
+      ],
+      "number": 4
+    }
+  ]
+}

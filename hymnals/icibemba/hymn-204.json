@@ -1,0 +1,37 @@
+{
+  "number": 204,
+  "language": "bem",
+  "title": "204 - BWELA WE WA LUBA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WELCOME WANDERER WELCOME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mu-mpanga ya bwe-ni mo walubila",
+        "Ukomfwe shiwi, \"We mwana wandi.\"",
+        "CHORUS:",
+        "Bwela wewalubile, Bwela ku mushi!",
+        "Waliye chiyeyeye, We bwela! Bwela!",
+        "2. U-mo muli nsa-la, No kutembuka",
+        "'Sa kubuseko, we mwana wandi.",
+        "3. Fu-ma ku fika-nsa, No kushumfwana;",
+        "Mutima wacu-la mwana wandi.",
+        "4. Ci -bi nacisu-lwa, U-cili wandi;",
+        "Ndekulolela, we mwana wandi.",
+        "5. Ku-tali 'ko wa-ya, Na nombo leya?",
+        "Nalikwelela, Bwela we mwana wandi",
+        "6. Mo-na ifya ku-lya, Ni-mpekanisha;",
+        "'So ipakishe, we mwana wandi.",
+        "7. Fi-busa tapa-li, Ng'anda ne ncito;",
+        "Nalikutemwa, We mwana wandi."
+      ],
+      "number": 2
+    }
+  ]
+}

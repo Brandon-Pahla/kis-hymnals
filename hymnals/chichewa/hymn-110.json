@@ -1,0 +1,53 @@
+{
+  "number": 110,
+  "language": "ny",
+  "title": "110 - Odala Ali Akuchita",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BLESSED ARE THEY THAT DO"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Imva mau a Mpulumutsi,",
+        "Mau owona a moyo;",
+        "Wosasamalawe kumbukiratu,",
+        "Odala ali akuchita."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Odala ochita malamulo,",
+        "Odalatu odalatu;",
+        "Odala ochita malamulo,",
+        "Odala ndi akuchita."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ngakhale timve malamulo,",
+        "Ndi malonjezano ake;",
+        "Kumvako sikungatipulumutse,",
+        "Odala ali akuchita."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Adzalowa mu mzinda uja,",
+        "Opanda tchimo ndi imfa;",
+        "Atayeretsedwa kwa nthawi zonse,",
+        "Adzadya za mtengo wa moyo."
+      ],
+      "number": 4
+    }
+  ]
+}

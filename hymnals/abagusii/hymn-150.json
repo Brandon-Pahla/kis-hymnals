@@ -1,0 +1,42 @@
+{
+  "number": 150,
+  "language": "guz",
+  "title": "150 Omogwenia Ore Ang'e",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Omogwenia ore ang'e,Yes' omonyamaberaAgosasokia chinkoro,Igw' eriogi ria Yeso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ter' abamalaika,Erieta riogwatora;Ogotera okuya,Rieta riaye Yeso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Obonene as' Engondi,Namwegenire YesoBono nanchir' Omotoria,Nanchir' erieta riaye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Riet' erio riseri' obwoba,Rieta rinde tiriyoNaki nkogokigwa koigwa,Erieta riaye Yeso."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Gakoretana egutwa,Egutwa y'obogimaToikaranse amo nere,Togan' okoborigwa."
+      ],
+      "number": 5
+    }
+  ]
+}

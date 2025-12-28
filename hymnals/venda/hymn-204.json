@@ -1,0 +1,78 @@
+{
+  "number": 204,
+  "language": "ve",
+  "title": "204. U A tanganedzwa! Mutendeleki, U A tanganedzwa!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. U shangoni line la bva vhatsinda,",
+        "Ipfa ipfi li tshi ri: ’Murwa wanga.’"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Vhuya mutendeleki, da hayani,",
+        "Wo xelela kule, Ida hayani.’"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Shangoni la ndala, Wo no homelwa;",
+        "Ida u takale, ’Murwa wanga.’"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Siya mipengo, U be kha dzithoni,",
+        "Vhulwadze ha muya, ’Murwa wanga.’"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Munango wo vulwa, Iwe u wanga,",
+        "Ndi kha di u lisa, ’Murwa wanga.’"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Wo shavhela kule, Wo kundelwa naa?",
+        "Ndo no u hangwela, ’Murwa wanga.’"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "6. Ida zwiliwani, u songo hangwa,",
+        "Ida ndi hayani, ’Murwa wanga.’"
+      ],
+      "number": 7
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "7. A u na khonani, A u na haya,",
+        "Ndi u funa ngazwo, ’Murwa wanga.’"
+      ],
+      "number": 8
+    }
+  ]
+}

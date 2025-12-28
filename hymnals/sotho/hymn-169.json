@@ -1,0 +1,47 @@
+{
+  "number": 169,
+  "language": "st",
+  "title": "169 Mojalefa Oa Borena.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mojalefa—Borena u otsellang,",
+        "U robalelang haufi le lehae?",
+        "Tsoha phahama, U itlame thekeng,",
+        "Akofa nako e se e ea feta."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Merabe ea lefats’e e ea loana,",
+        "E’a thothomela e tletse ts’abo;",
+        "Mamela utloa ho luma makoloi,",
+        "Mojalefa U se ke ua lieha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se emele litakatso tsa lefats’e,",
+        "Menate ea teng ke ee iphellang,",
+        "Khaola tlamo tsa sera tsee u tlammeng,",
+        "Mojalefa reteleha joale."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Talima hantle phahamisa hloho;",
+        "Hlokomela ’muso oa Jesu o tlang,",
+        "Bona leseli le chaba lithabeng;",
+        "Mojalefa U nyakalle U bine."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 91,
+  "language": "pt",
+  "title": "Jesus é Melhor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Jesus é Melhor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus é melhor, sim, que ouro e bens.",
+        "Jesus é melhor do que tudo que tens;",
+        "Melhor que riquezas e posições;",
+        "Melhor muito mais do que milhões"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Pode ser um rei com poder nas mãos,",
+        "Mas do mal escravo, sim.",
+        "Mil vezes prefiro o meu Jesus,",
+        "E servi-lo até o fim."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus é melhor que qualquer valor;",
+        "Amigo leal, no prazer e na dor;",
+        "Melhor do que tudo, Ele é pra mim,",
+        "Melhor que qualquer amigo, enfim."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus é mais puro que a linda flor;",
+        "Jesus é o Sol da Justiça e do amor;",
+        "Jesus é a fonte que satisfaz,",
+        "Caminho do bem, verdade e paz."
+      ],
+      "number": 5
+    }
+  ]
+}

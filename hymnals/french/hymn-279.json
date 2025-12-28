@@ -1,0 +1,51 @@
+{
+  "number": 279,
+  "language": "fr",
+  "title": "Christ a rompu ma chaîne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Christ a rompu ma chaîne",
+        "De son bras tout puissant.",
+        "Il a porté ma peine,",
+        "Il a versé son sang,",
+        "Il a versé son sang."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus est ma richesse,",
+        "Il connaît mes besoins.",
+        "Jamais dans la détresse",
+        "Ne me manquent ses soins,",
+        "Ne me manquent ses soins."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus est pour mon âme",
+        "Comme l'ombre à midi,",
+        "Comme en hiver la flamme",
+        "Pour mon corps engourdi,",
+        "Pour mon corps engourdi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus est mon modèle.",
+        "Que ne suis-je avec lui",
+        "Saint, aimant et fidèle,",
+        "Parfait dès aujourd'hui,",
+        "Parfait dès aujourd'hui."
+      ],
+      "number": 4
+    }
+  ]
+}

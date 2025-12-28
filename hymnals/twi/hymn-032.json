@@ -1,0 +1,47 @@
+{
+  "number": 32,
+  "language": "tw",
+  "title": "Sɛ Yɛhyɛ Nyame 'Nounyam Yɛn",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ yɛhyɛ nyame 'nounyam yɛn dwomtom'",
+        "Na yɛn nkamfo si ahantan kwan a,",
+        "ɛte sɛnea abɔde ny'naa team sɛ:",
+        "Haleluya!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mpɛn pii na yehu wɔ yɛn dwonto mu,",
+        "Nnyigyei mu suahun' s'roko foforo,",
+        "B're a ɔsom kanyan yɛn ma yɛto",
+        "Haleluya!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "So anadwo no Yesu anto dwom,",
+        "B're a bonsam ne haa dii asi no?",
+        "Momma yɛnto dwom mma nkonimdifon':",
+        "Haleluya!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma wɔnfa nsanku ny'naa nto 'yeyi dwom;",
+        "Ma wɔn a wɔwɔ dwonto nne mmɔ 'se;",
+        "nyame, ma yɛn gyidi mfa ndwom daa,",
+        "Haleluya!"
+      ],
+      "number": 4
+    }
+  ]
+}

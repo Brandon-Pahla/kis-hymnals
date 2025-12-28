@@ -1,0 +1,30 @@
+{
+  "number": 4,
+  "language": "ny",
+  "title": "4 - Ali Kudza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HE IS COMING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1 Timamva uthenga wabwinotu, M’mene tiri kunka kwathu;",
+        "Msanga Mpulumutsi adzabwera, Kukhala Mfumu yathu.",
+        "CHORUS:",
+        "Ali kudza posacedwa, Inde ali kudza pa dzikoli;",
+        "Ndipo tidzapita tonse kumwamba, Pakubwera Yesuyo.",
+        "2 Manda a anthu oyera mtima, Adzatsegulidwa ndithu;",
+        "Ndipo onse ogonera m’mandamo, Adzakhalanso moyo.",
+        "3 Sitidzalekananso kwathu ko, Tidzayimba za chombolo;",
+        "Anthu a mitundu yonse adzadza, Kupembedza Mfumuyo.",
+        "4 Tidzayimba aleluya, Amen! Msanga tikasamalira;",
+        "Dikirani ndi kupemphera nonse, Tidzabvala korona."
+      ]
+    }
+  ]
+}

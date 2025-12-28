@@ -1,0 +1,44 @@
+{
+  "number": 155,
+  "language": "xh",
+  "title": "155 Ndoya Apho Undithuma Khona",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Akungebi phezu kwentaba, Kungabi nase lwandle;",
+        "Kungabi khona nase mfazwen’, Endifuna khon’ i-Nkos’",
+        "Koko mhlawumb’ indibizela Kwizwe ndingalaziyo,",
+        "Ndotsho ndithi, Nkos’ ethandekayo, Ndoy’ aph’ undifuna khona."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nkos’ ethandekayo, ndoya apho, Entabeni nase lwandle;",
+        "Ndothetha amazwi aKho, Nkosi, Ndibe kukuthanda kwaKho."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U-Yesu angathanda namhla Ndenze amazw’ amahle,",
+        "Kungako kwindlela yesono Endingathi ndimncede;",
+        "Wena, Msindisi, ndikhokhele Kulendlela inzima,",
+        "Ndakuthi nditsholoze kamnandi, Nditheth’ amazwi amahle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngenyaniso kukho indawo Kweli lizwe libanzi,",
+        "Wokumsebenzela u-Yesu; Ukufuna aboni,",
+        "Ngoko ndikunika konk’ okwam, Ndisaz’ uya ndithanda,",
+        "Ngovuyo ndenze intando yaKho, Ndibe lont’ uthanda yona."
+      ],
+      "number": 3
+    }
+  ]
+}

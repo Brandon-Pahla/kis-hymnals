@@ -1,0 +1,56 @@
+{
+  "number": 350,
+  "language": "pt",
+  "title": "Eu Pertenço ao Meu Rei",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Eu Pertenço ao Meu Rei"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu pertenço ao meu Rei, filho sou do Senhor,",
+        "Nas eternas mansões morarei.",
+        "Já das glórias ouvi, lá da pátria de amor;",
+        "Com Seus filhos as desfrutarei."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Eu pertenço ao meu Rei, filho sou do Senhor;",
+        "Ele nunca me esquece, eu o sei.",
+        "Dar-me-á salvação por Seu grande favor,",
+        "E na glória perene estarei."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu pertenço ao meu Rei, é por mim Seu amor;",
+        "Sua paz e descanso terei.",
+        "Seu conforto me vem mitigar qualquer dor;",
+        "Com amor guardará Sua grei."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu pertenço ao meu Rei, a promessa é real;",
+        "Salvará os que amarem Sua lei.",
+        "Junto ao trono de Deus, na cidade eternal,",
+        "Com os salvos um dia estarei."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "number": 166,
+  "language": "ve",
+  "title": "166. Tombo la Mirafho yothe.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:300",
+        "AH:237"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tombo le nda korelwa, Ndi di dzumbe kha Iwe;",
+        "Ndi tshidzwe nga malofha, E a bva dzinthoni,",
+        "Ivha mushonga tshothe, U ntanzwe zwivhini."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. ’Thi koni u vuledza maambwa nga mulayo;",
+        "Naho nda fungelela hani na nga zwililo,",
+        "Ndi nga si thuthe tshivhi, Mutshidzi ndiwe fhedzi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi da ndi si na tshithu, Nda losha tshifhambano;",
+        "Ndi fhedzi ndi ambadzwe, ndo xela kha ndi thuswe,",
+        "Ndo tshinya Yesu wanga, ntanzwe uri ndi si fe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndi tshi vuledza lwendo, ndo kunda lone swina;",
+        "Ndi tshi ya hu sa dihwi, Ndi vhona khulunoni,",
+        "Tombo la kalekale, Ndi di dzumbe kha Iwe."
+      ],
+      "number": 5
+    }
+  ]
+}

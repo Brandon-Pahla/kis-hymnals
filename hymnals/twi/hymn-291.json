@@ -1,0 +1,67 @@
+{
+  "number": 291,
+  "language": "tw",
+  "title": "Yenhuu Wo Sɛnea Ͻfata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yenhuu Wo sɛnea ɛfata,",
+        "Yensuaa Wo nyansa, 'dom ne tum';",
+        "Fam ha nneɛma ne nsɛnhunu",
+        "Ahyɛ yɛn adwene mu ma;",
+        "'W'ra, ma yɛn hann mfa nhu W' nokwar''",
+        "Yehu Wo a, ma yɛn nyansa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yensųroo Wo sɛnea ɛfata,",
+        "Saa'ra na yɛnkotoo W'anim,",
+        "Yɛnhwɛ yɛn nneyɛe ne nsɛm so,",
+        "Na yɛnkae sɛ Onyame bɛn;",
+        "'W'ra, boa ma yenhu sɛ Wobɛn,",
+        "Dom yɛn sɛnea yebesųro Wo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛnnɔɔ Wo sɛnea ɛfata,",
+        "Ͻmfa yɛn ho sɛ Wodɔ yɛn;",
+        "'Wura, yɛnhwehwɛɛ W'ahoyi,",
+        "Yɛmfaa nnamyɛ nhwehwɛɛ W'anim.",
+        "Ma yɛn dɔ ne 'hotew koma,",
+        "A yɛde bɛte Wo dɔ nka."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛnsom Wo sɛnea ɛfata,",
+        "Hwɛ yɛagyae yɛn dwumadi ny'naa;",
+        "Dwuma a yɛmfa 'hoɔden nyɛ,",
+        "ɔko a yedi mu nkogu.",
+        "'W'ra, ma yɛn ɔpɛ ne tumi",
+        "A yɛde bɛko ama Wo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dabɛn na yebehu Wo na",
+        "Yɛasųro, adɔ W', asom Wo yie!",
+        "Dabɛn na yebefi sɔhwɛm',",
+        "Ayɛ pɛ wɔ hann 'sase'i so!",
+        "'W'ra, ma yensiesie yɛn ho daa",
+        "Na yɛahu Wo asom Wo hɔ."
+      ],
+      "number": 5
+    }
+  ]
+}

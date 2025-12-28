@@ -1,0 +1,42 @@
+{
+  "number": 213,
+  "language": "luo",
+  "title": "213 Teko Nyasaye Orita",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Teko Nyasaye orita,Abed ng`at Yesu chuth;Abed maler e pinynikaluwo ndach Yesu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Teko Nyasaye orita;Ruoth, apodho nyimi;Ok an gimoro chutho,chutho, In ngimana duto."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Teko Nyasaye orita,Atim gi modwaro;Abed ng`ate malong`o,Moikre ni tich Ruoth."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Teko Nyasaye orita,Apogra chuth kod piny;Abed gi chuny mar Yesu-mamuol, mang`won, maler."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Teko Nyasaye orita,Abed ng`ate kende;Abed ng`at Yesu koro,Kendo ma nyaka chieng`."
+      ],
+      "number": 5
+    }
+  ]
+}

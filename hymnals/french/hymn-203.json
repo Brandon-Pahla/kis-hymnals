@@ -1,0 +1,46 @@
+{
+  "number": 203,
+  "language": "fr",
+  "title": "Jésus est au milieu de nous",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus est au milieu de nous,",
+        "Son regard s'abaisse sur nous,",
+        "Sa douce voix, l'entendez-vous?",
+        "Je veux vous bénir tous!",
+        "Je veux vous bénir tous!",
+        "Sa douce voix, l'entendez-vous?",
+        "Je veux vous bénir tous!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus est au milieu de nous,",
+        "Son regard s'abaisse sur nous,",
+        "Sa douce voix, l'entendez-vous?",
+        "Je veux vous sauver tous!",
+        "Je veux vous sauver tous!",
+        "Sa douce voix, l'entendez-vous?",
+        "Je veux vous sauver tous!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus est au milieu de nous,",
+        "Son regard s'abaisse sur nous,",
+        "Sa douce voix, l'entendez-vous?",
+        "Oh! je vous aime tous!",
+        "Oh! je vous aime tous!",
+        "Sa douce voix, l'entendez-vous?",
+        "Oh! je vous aime tous!"
+      ],
+      "number": 3
+    }
+  ]
+}

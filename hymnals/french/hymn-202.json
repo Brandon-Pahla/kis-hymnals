@@ -1,0 +1,17 @@
+{
+  "number": 202,
+  "language": "fr",
+  "title": "Gloire à Dieu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Gloire à Dieu, notre Créateur !",
+        "Gloire à Jésus, le Rédempteur !",
+        "Gloire à l'Esprit, le consolateur !",
+        "Alléluia ! Alléluia ! Alléluia !"
+      ],
+      "number": 1
+    }
+  ]
+}

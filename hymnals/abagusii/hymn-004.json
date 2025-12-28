@@ -1,0 +1,35 @@
+{
+  "number": 4,
+  "language": "guz",
+  "title": "4 Togi' Okobua Kwa Yeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Togi'okobua kwa YesoMalaika sasima,Ret'egutwa y'obogambi,mobekere Yeso;Ret'egutwa y'obogambi,mobekere Yeso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Nw'abachore b'Omonene,mwaborigwe nere,Moiogi'OyobatotitieAs'Obuya bwaye;Motogi'Oyobatoririe'As'Obuya bwaye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Na inwe abanto bonsimor' ase ense eye,'Howse hwonsi nobwaye,mobeker'egutwa;'Bonene hwonsi nobwaye,mobeker'egutwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Amo n'omoganda'gigoro,Natomosasime,Ntosange am'ogotera,Komoa 'bonene;Ntosange am'ogotera,Komoa 'bonene."
+      ],
+      "number": 4
+    }
+  ]
+}

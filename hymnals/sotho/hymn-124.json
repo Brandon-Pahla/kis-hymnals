@@ -1,0 +1,47 @@
+{
+  "number": 124,
+  "language": "st",
+  "title": "124 Se Be ’Na E Be Kreste.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "E se be ’na, Eena A holisoe,",
+        "A phahame, A bonoe A tsejoe,",
+        "E se be ’na e be Kreste chalimong,",
+        "Kreste monahanong le teng lentsoeng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E se be ’na, ke Kreste ea ts’elisang;",
+        "O hlakola khapha tse ts’olohang,",
+        "O phahamisa maoto a khathetseng;",
+        "E se be ’na, Krest’a tlose ts’abo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kretse fela, ha ho mantsoe a lahloang,",
+        "Kreste fela, ho se bosaoana;",
+        "Kreste fela, e seng ho ikholisa,",
+        "Kreste fela, ho sa fumanoe ’na."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E se be ’na, Kreste O ’nea tsohle,",
+        "Kreste matla le bophelo ba ka;",
+        "Kreste fela ’meleng, bophelong, moeeng,",
+        "Kreste fela le ka ho sa eeng kae."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 95,
+  "language": "xh",
+  "title": "95 Usilondolozile u-Thixo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Usilondolozile ngale veki u-Thixo;",
+        "Masicele endlwini intsikelelo kuYe;",
+        "Usuku kuzo zonke oluhle ezintsuku,",
+        "Usuku kuzo zonke oluhle ezintsuku."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa sicela inceba ngegama lo-Msindisi,",
+        "Sibonile ubuso baKho, usisindise;",
+        "Siphe namhla siphuml’ e-misebenzini yethu,",
+        "Siphe namhla siphuml’ e-misebenzini yethu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Size apha igama laKho ukudumisa;",
+        "Khona apha namhlanje masiv’ udumo lwaKho;",
+        "Siphe njalo sibekho aph’ esidlweni saKho,",
+        "Siphe njalo sibekho aph’ esidlweni saKho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mayimenyezwe kubo aboni iVangeli,",
+        "Ibe nentuthuzelo kwazabo iintliziyo,",
+        "Ukuze i-Sabatha zethu zibe zezintle,",
+        "’De sivuke ngalo mhla siy’ ezulwini kuWe."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 113,
+  "language": "nd",
+  "title": "113 Ebiza!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "uJesu u si bizela ekhaya U biza wena nami,",
+        "U yalinda inhliziyo mvulele, U linda mina nami"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Buy’ ekhaya, Wena odiniweyo U yakuncengisis’",
+        "uJesu ethi O, moni buy’ ekhaya!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ni ngali ukunxusa kwoMsindisi Unxusa nina nami,",
+        "I sekhona indawo, ni ngaphuzi U yancenga ngomusa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wozani isikhathi si yadlula Nemizuzu kaloku,",
+        "Ithunzi lokufa kwethu li yeza Yamkeleni uJesu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cabangani ngomusa ka Jehova Othembisile bonke",
+        "Noko sonile wosithethelela Si thethelelwe konke."
+      ],
+      "number": 5
+    }
+  ]
+}

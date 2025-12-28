@@ -1,0 +1,57 @@
+{
+  "number": 512,
+  "language": "es",
+  "title": "Nunca estéis desanimados",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Nunca estéis desanimados"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nunca estéis desanimados:",
+        "gracia divina obtendréis;",
+        "Cristo os sostiene en la lucha,",
+        "y en su poder triunfaréis."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Nunca os rindáis, nunca os rindáis,",
+        "nunca os rindáis en las pruebas;",
+        "Cristo las desterrará;",
+        "fiad en Jesús, fiad en Jesús;",
+        "cuanto más duras las luchas,",
+        "tanto más gracia os dará."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si os oprimen las cargas,",
+        "si es sombrío el vivir,",
+        "ved hacia el lado risueño,",
+        "vuestro camino al seguir."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nunca estéis desanimados:",
+        "su brazo os sostendrá;",
+        "siempre confiad en su gracia;",
+        "vuestro luchar premiará."
+      ],
+      "number": 5
+    }
+  ]
+}

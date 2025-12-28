@@ -1,0 +1,61 @@
+{
+  "number": 9,
+  "language": "ve",
+  "title": "9 Yesu U A da Hafhu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:213",
+        "AH:406"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kha ri lidze-ha phalaphala-vho, Yesu u a da hafhu",
+        "Khwatha mudali vhidzelelani, Yesu u a da hafhu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U a da hafhu! U a da hafhu! Yesu u a da hafhu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Huwelelani na dzithavhani, Yesu u a da hafhu;",
+        "Ngwana yo no vha tsini vhukuma, Yesu u a da hafhu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Lwanzhe lu ambe nga magabelo, Yesu u a da hafhu;",
+        "Lu thudze khunzikhunzini lu ri, Yesu u a da hafhu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. U fhihamelwa ha shango hu ri, Yesu u a da hafhu;",
+        "Muya na madumbu zwa bvumela, Yesu u a da hafhu."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. U sinyuwa ha dzitshakha hu ri, Yesu u a da hafhu;",
+        "Ndivho yo no dala lwa u dala, Yesu u a da hafhu."
+      ],
+      "number": 6
+    }
+  ]
+}

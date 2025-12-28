@@ -1,0 +1,61 @@
+{
+  "number": 63,
+  "language": "ny",
+  "title": "63 - Ndingayere Bwanji ’Ne?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHAT CAN WASH AWAY MY SIN?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndingayere bwanji ’ne? Mwazi wa Ambuye Yesu.",
+        "Nch’ani chindichizanso? Mwazi wa Ambuye Yesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mtsinje wa mwaziwo, Undiyeretsanso;",
+        "Sin’dziwa winanso, Mwazi wa Ambuye ndiwo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Pakudetswa ndiona, Mwazi wa Ambuye yesu.",
+        "Pakuchimwa nditchula, Mwazi wa Ambuye Yesu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Zina sizikwanatu, Mwazi wa Ambuye ndiwo.",
+        "Ntchito zanga zichepa, Mwazi wa Ambuye ndiwo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndimakhulupiradi, Mwazi wa Ambuye Yesu.",
+        "Zolungama zangazi, Mwazi wa Ambuye Yesu."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Poyamika ndiyimba Mwazi wa Ambuye Yesu.",
+        "Ndithokoza Mbuyanga, Mwazi wa Ambuye Yesu."
+      ],
+      "number": 6
+    }
+  ]
+}

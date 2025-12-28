@@ -1,0 +1,66 @@
+{
+  "number": 219,
+  "language": "es",
+  "title": "Tan triste y tan lejos de Dios",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Tan triste y tan lejos de Dios"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tan triste y tan lejos de Dios me",
+        "sentí",
+        "y sin el perdón de Jesús.",
+        "Mas cuando su voz amorosa oí",
+        "que dijo: \"Oh, ven a la luz\","
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Yo todo dejé para andar en la luz,",
+        "no moro en tinieblas ya más;",
+        "encuentro la paz en seguir a Jesús",
+        "y vivo en la luz de su faz."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Qué amigo tan dulce es el tierno Jesús!",
+        "¡Tan lleno de paz y de amor!",
+        "De todo este mundo es la fúlgida luz",
+        "el nombre del buen Salvador."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De mi alma el anhelo por siempre será",
+        "más cerca vivir de la cruz,",
+        "do santo poder y pureza me da",
+        "la sangre de Cristo Jesús."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh! ven a Jesús, infeliz pecador;",
+        "no vagues a ciegas ya más.",
+        "Sí, ven a Jesús, tu benigno Señor,",
+        "que en él salvación hallarás."
+      ],
+      "number": 6
+    }
+  ]
+}

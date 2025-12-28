@@ -1,0 +1,47 @@
+{
+  "number": 217,
+  "language": "tw",
+  "title": "A Safon' Atwɛn Yie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A safon' atwɛn yie",
+        "Sɛ ebehu ne W'ra;",
+        "Na ɛretwɛn sɛ ankonam,",
+        "ɔhɔho manfrani."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Enkosi da bɛn, 'W'ra,",
+        "Kronkron ne Nokwafo;",
+        "Woremmu ntɛm mma W'asafo",
+        "'Pinisi ne mogya?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛpɛ sɛ yɛteW' nne",
+        "Na yehu W'anim nso;",
+        "Na yɛahyɛ W'ahenkyɛw no bi",
+        "Sɛnea yɛwɔ W' dom no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, bra na bɛpopa",
+        "Mmusu, bɔne, nkekae;",
+        "Fa yɛn bɔne wiase yi yɛ",
+        "Wo de fɛfɛ no bio."
+      ],
+      "number": 4
+    }
+  ]
+}

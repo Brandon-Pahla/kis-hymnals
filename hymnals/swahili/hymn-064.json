@@ -1,0 +1,27 @@
+{
+  "number": 64,
+  "language": "sw",
+  "title": "64 - Piga Panda ya Injili",
+  "stanzas": [
+    {
+      "type": "chorus",
+      "lines": [
+        "1",
+        "Piga panda ya injili, onyesha watu wote,",
+        "Ili anayesikia, atubu aokoke.",
+        "CHORUS:",
+        "Piga panda ya injili, uipige kwa nguvu,",
+        "Mungu amekuagiza, mateka wawe huru.",
+        "2",
+        "Uipige vilimani, kwa kila tambarare,",
+        "Pande zote miji yote, isikie injili.",
+        "3",
+        "Uipige mipakani, barabarani pia,",
+        "Iwatangazie wote, wanaitwa na Baba.",
+        "4",
+        "Uipige watu wengi, wataka wawe huru,",
+        "Waambie kwamba Yesu, asema “Njoni kwangu.”"
+      ]
+    }
+  ]
+}

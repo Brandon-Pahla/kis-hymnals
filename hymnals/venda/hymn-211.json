@@ -1,0 +1,54 @@
+{
+  "number": 211,
+  "language": "ve",
+  "title": "211. Phathutshedzo Dzi Ngaho Mvula",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:195",
+        "AH:153"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ri do wana phathutshedzo, ndi lone fulufhelo.",
+        "Tshifhinga tsha mvuseledzo i bvaho ha Mudzimu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mvula tshirulu, mvula ya phathutshedzo",
+        "Nangwe ro wana tshilidzi, Ri lila phathutshedzo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ri do wana phathutshedzo dzi do ri vusuludza",
+        "Ri pfa mubvumo wa mvula ya dzone phathutshedzo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri humbela phathutshedzo, dzi shulule Murena.",
+        "Fulufhedziso li phethwe, ri khwathiswe Murena."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ri do wana phathutshedzo, ro bula zwivhi zwashu.",
+        "Ri tshi vhidzelela Yesu, ri tanzwiwe nga Ene."
+      ],
+      "number": 5
+    }
+  ]
+}

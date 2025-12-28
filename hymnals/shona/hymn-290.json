@@ -1,0 +1,40 @@
+{
+  "number": 290,
+  "language": "sn",
+  "title": "290 Tinofara Kubatira Tenzi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tinofara kubatira Tenzi, Tinobvuma kumubatira",
+        "Basa iro Tenzi anotipa, Tinoita nekutendeka"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tomubatira, toenda mberi",
+        "Tine rufaro, Tomubatira",
+        "Pano mumunda wake"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tinofara kuparadza shoko, Nerudo kune vanhu pasi",
+        "Jesu arikupenya kwaBaba, Anotipa zvikomborero"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nekupfava totevera Tenzi, Tinofamba nekuperera",
+        "Topangidza vamwe kuna Tenzi, Nevanyangadzi kugwayana"
+      ],
+      "number": 4
+    }
+  ]
+}

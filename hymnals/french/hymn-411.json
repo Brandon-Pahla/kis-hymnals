@@ -1,0 +1,16 @@
+{
+  "number": 411,
+  "language": "fr",
+  "title": "Merci pour ce repas",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Merci pour ce repas, alléluia.",
+        "Merci pour ce repas, alléluia.",
+        "Merci pour ce repas, alléluia."
+      ],
+      "number": 1
+    }
+  ]
+}

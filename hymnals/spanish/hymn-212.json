@@ -1,0 +1,56 @@
+{
+  "number": 212,
+  "language": "es",
+  "title": "A tu puerta Cristo está",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A tu puerta Cristo está"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A tu puerta Cristo está.",
+        "Ábrele.",
+        "Si le abres entrará.",
+        "Ábrele.",
+        "Tu pecado quitará,",
+        "luz y paz derramará,",
+        "su perdón te otorgará.",
+        "Ábrele."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ábrele, oh pecador.",
+        "Ábrele.",
+        "Al amante Salvador",
+        "ábrele.",
+        "Hoy te ofrece salvación,",
+        "del pecado el perdón;",
+        "saciará tu corazón.",
+        "Ábrele."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No le hagas esperar.",
+        "Ábrele.",
+        "No le obligues a marchar.",
+        "Ábrele.",
+        "¡Qué dolor después tendrás,",
+        "cuando en vano clamarás",
+        "y perdido te hallarás!",
+        "Ábrele."
+      ],
+      "number": 4
+    }
+  ]
+}

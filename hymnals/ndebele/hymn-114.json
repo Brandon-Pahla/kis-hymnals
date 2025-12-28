@@ -1,0 +1,46 @@
+{
+  "number": 114,
+  "language": "nd",
+  "title": "114 Vulelwe Mina Isango",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Isango ngenxa yam’li mi Ngi savulelwe nami;",
+        "Ku bonakala isisa Nothando loMsindisi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yeka umusa ongaka! Ngi savulelwe intuba?",
+        "Mina...Mina...Ngi shiyelwe intuba?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Isango li savulelwe Bonk’ abazosindiswa.",
+        "Izicebi nezicaka Nabezizweni bonke."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phambili makuqhubekwe Isango li vuliwe,Yamukel’ umusa wAkhe U fumane umqhele."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yebo, phesheya kwomfula Is’phambano sothulwa",
+        "Ngi thwale wona umqhele Ezulwini ngi buse."
+      ],
+      "number": 5
+    }
+  ]
+}

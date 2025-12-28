@@ -1,0 +1,49 @@
+{
+  "number": 182,
+  "language": "fr",
+  "title": "Que toute la terre",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Que toute la terre",
+        "Acclame ton nom,",
+        "Jésus, notre frère,",
+        "Toi notre pardon !",
+        "Que chacun s'incline",
+        "Devant ta grandeur,",
+        "Toi seul en es digne,",
+        "À toi seul l'honneur !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Toi qui es le Maître,",
+        "Le Roi, le Seigneur,",
+        "Tu as voulu naître",
+        "Comme un serviteur,",
+        "Parole éternelle,",
+        "Verbe créateur,",
+        "Une chair mortelle",
+        "Voile ta splendeur."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Force, honneur, louange",
+        "À toi, Crucifié !",
+        "Plus haut que les anges",
+        "Ton nom est chanté.",
+        "Que chacun s'incline",
+        "Devant ta grandeur,",
+        "Toi seul en es digne,",
+        "À toi, seul l'honneur !"
+      ],
+      "number": 3
+    }
+  ]
+}

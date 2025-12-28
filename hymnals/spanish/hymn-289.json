@@ -1,0 +1,55 @@
+{
+  "number": 289,
+  "language": "es",
+  "title": "¿Qué me puede dar perdón?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¿Qué me puede dar perdón?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Qué me puede dar perdón?",
+        "Solo de Jesús la sangre.",
+        "¿Y un nuevo corazón?",
+        "Solo de Jesús la sangre."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Precioso es el raudal",
+        "que limpia todo mal.",
+        "No hay otro manantial",
+        "sino de Jesús la sangre."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fue rescate eficaz",
+        "solo de Jesús la sangre.",
+        "Trajo santidad y paz",
+        "solo de Jesús la sangre."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cantaré junto a sus pies,",
+        "solo de Jesús la sangre.",
+        "El Cordero digno es.",
+        "Solo de Jesús la sangre."
+      ],
+      "number": 5
+    }
+  ]
+}

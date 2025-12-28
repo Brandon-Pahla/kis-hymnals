@@ -1,0 +1,44 @@
+{
+  "number": 83,
+  "language": "pt",
+  "title": "Glórias ao Rei de Amor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Glórias ao Rei de Amor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Glórias ao Rei de amor, ao Rei, Senhor Jesus!",
+        "O Seu divino e santo amor provou ali na cruz.",
+        "A Cristo, o Redentor, darei louvor sem fim,",
+        "Louvor ao santo Rei de amor, que a vida deu por mim."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Glórias ao Rei da luz, do bem o manancial!",
+        "Louvor ao nobre Rei da luz, ao dom celestial.",
+        "Senhor da Terra e mar, da luz que ao Céu conduz,",
+        "Louvor ao nobre Rei da luz, ao Rei que a Deus traduz."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Glórias ao Rei da paz, ao Rei, Senhor e Deus!",
+        "Louvor ao grande Rei da paz, ao Rei dos altos Céus;",
+        "O Rei, por Teu favor, ali irei morar,",
+        "Gozar a eterna e doce paz, a paz do eterno lar."
+      ],
+      "number": 4
+    }
+  ]
+}

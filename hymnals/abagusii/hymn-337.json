@@ -1,0 +1,35 @@
+{
+  "number": 337,
+  "language": "guz",
+  "title": "337 Mobake Omonda Yeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mobake Omonda Yeso,Mo'ekengw'anso bonoEr'otwabeir'ebibeOmogwenia oito;Momobake, momobake,Omogambi botambe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mobake as'obwanchanAorogeti'ens'eye'Mobak'Ere botambe,Otosibiri'ebibe;Momobake, momobake,Ner'Oyo bw'ekeene."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Buna Tat'ogotorendaEre otomanyire,Atotaboria riokaKorw'ase ababisa;Momobake, momobake,Abar'ang'e na aare."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Amalaika mobake,Inwe morochaine,Erioba n'omotienyiBikomotung'amera;Momobake, momobake,Yes'Omond'O igoro."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 11,
+  "language": "luo",
+  "title": "11 Yesu, Isesingo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu isesingo,kata ji manokchokore e nyingi,inibed kodgi;Wan wageno wachni,ka walemo ka;Yesu, bi igwedhwa,fwenyrinwa koro."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, bi igwedhwa,ka waling` kae;Yesu, bi igwedhwa,bed butwa pile."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nisebedo kodwandalo mokadho;To wadwari kodwanyaka piny ogik;Binwa, yaye Jawarwa,nyiswa ng`wononi;Winjwa kendo yienwa,gwedhwa kwalemo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yesu, konywa mondowapaki maber;Bedi Kuom alamwama walami go.Mond` itegnwa yiewa,kijiwo chunywa;Pong` chunywa gi hera,menynwa wang` yorwa."
+      ],
+      "number": 4
+    }
+  ]
+}

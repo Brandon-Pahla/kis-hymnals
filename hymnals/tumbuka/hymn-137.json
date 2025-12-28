@@ -1,0 +1,68 @@
+{
+  "number": 137,
+  "language": "tum",
+  "title": " 137 Charu Mtole, mndipe Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 137 Charu Mtole, mndipe Yesu",
+        "GIVE ME JESUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Charu mtole, mndipe Yesu,",
+        "vya m'charu 'mwe n'vyawaka,",
+        "Chitemwa chake nchikuru,",
+        "nchakukhalirira swi!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lusungu Lwake ndukuru,",
+        "chitemwa chakuruska,",
+        "Chiponosko chakuzuLa,",
+        "umoyo myirayira."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Charu mtole, mndipe Yesu,",
+        "wakundisanguluska,",
+        "Mtaski wakundipwerera,",
+        "mmasuzgo nditimbenge."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Charu mtole, mndipe Yesu,",
+        "wakundimwemwetera,",
+        "M'lwendo lwane lwa uzimu",
+        "wakungweruska nthowa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Charu mtole, mndipe Yesu,",
+        "ndigomezge mphinjika,",
+        "Pa umaliro kuchanya,",
+        "nkhawone Fumu yane."
+      ],
+      "number": 5
+    }
+  ]
+}

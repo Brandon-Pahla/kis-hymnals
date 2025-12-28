@@ -1,0 +1,49 @@
+{
+  "number": 96,
+  "language": "tw",
+  "title": "ɔsoro Ntremu Kɛse No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ɔsoro ntremu kɛse no,",
+        "Nea ɛky'rɛ ahosu fɛfɛ,",
+        "Na ɛde soro nkanea hy'rɛn,",
+        "Ͻka wɔn mfiase tebea ky'rɛ.",
+        "Owia a ɛnhome da no",
+        "Yi ne Bɔfo no tumi ky'rɛ",
+        "Na ɛma asase biara",
+        "Hu Otumfo nsaanodwuma."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B'rč a adesae fi ase no,",
+        "ɔsram toa 'nwanwadwuman' so;",
+        "Na 'nadwo biara no, ɛka",
+        "N'awo ho asɛm ky'rɛ sase,",
+        "B'rč a ne ho nsoromma ny'naa hy'rɛn",
+        "Na nsase horow ny'naa nso di",
+        "Anwanwasɛm no ho 'danse",
+        "De trɛw nokwasɛm nom' mmaa ny'naa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dɛn ná ɛnantew kommyɛ na",
+        "Etwa asase ho yi?",
+        "Dɛn na enni nnyigyei biara",
+        "B'rč a ɛhy'rɛn fa n'a kwan so no?",
+        "Ne ny'naa di ah'rusi kɛse",
+        "De nne a anuonyam wɔ mu",
+        "Na ɛto dwom b'rč a ɛhy'rɛn sɛ,",
+        "'ɔsoro nsa na ɛyɛɛ yɛn'."
+      ],
+      "number": 3
+    }
+  ]
+}

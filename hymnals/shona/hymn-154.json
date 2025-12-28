@@ -1,0 +1,77 @@
+{
+  "number": 154,
+  "language": "sn",
+  "title": "154 Murindi Ndiudze",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "M’rindi nditaurire",
+        "Nekuyedza kweZioni",
+        "Zvioniso zvekuuya kwake",
+        "Zwaonwa here",
+        "M’fambi simuka ona",
+        "Kunze koda kuyedza",
+        "Zvipfekedze nguwo dzako",
+        "Kwaedza chimuka"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M’rindi, ona kupenya",
+        "Kovhenekera zvese",
+        "Zvionso pasi rese",
+        "Manenj’ emusi m’kuru",
+        "Apo tsuri inorira",
+        "Kum’tsa vese vakafa",
+        "Kubva munyika ne nyanza,",
+        "Vapfeka kusaora"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Murindi ona kupenya,",
+        "Kwegore reSabata",
+        "Vese vanodaidzira,",
+        "Umambo hwave petyo",
+        "Mufambi ndoona mbiri",
+        "Nyikayo yeKenani",
+        "Nemusha wakanakisa,",
+        "Wakakwirira kwazvo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muguta’ro rendarama,",
+        "Pachigaro chopenya",
+        "Pana mambo akanaka",
+        "Otonga nyika yese",
+        "Umo mumakomo ayo,",
+        "Maranzi anopenya",
+        "Mumhendero menzizidzo",
+        "Munokura maruva"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Murindi nyika yapetyo,",
+        "Michero nemaruva",
+        "O mhiriyo kunofadza",
+        "Mitiyo ye Edeni",
+        "Inzwa mavi anoimba",
+        "Owungira mumweya",
+        "Ne mazana anoimba",
+        "Tese tichazo vako"
+      ],
+      "number": 5
+    }
+  ]
+}

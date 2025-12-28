@@ -1,0 +1,30 @@
+{
+  "number": 275,
+  "language": "bem",
+  "title": "275 - UMUYAYAYA NI KWI?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ETERNITY WHERE?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Umuyayaya bushe ni kwi waba? Tekutl ucumfwe lelo e-ko waba;",
+        "Lipu-sho likalamba: Muyayaya? Lipu-sho likalamba: Waba kwisa?",
+        "2. Umuyayaya bushe ni kwi waba? Niku balubulwa nangu ku baluba;",
+        "Cirno pali fibili: Muyayaya, Cimo pali fibili: Waba kwisa?",
+        "3. Umuyayaya bushe ni kwi waba? Salo bu-suma bwa calo no bwa mulu:",
+        "Cisu-ma ukusala Muyayaya, Cisu-ma ukusala: Waba kwisa?",
+        "4. Umuyayaya bushe ni kwi waba? Ubupi-ngulo bwa Mfumu buli pepi:",
+        "Ile-lo ulesala: Muyayaya, Ile-lo ulesala: Waba kwisa?",
+        "5. Umuyayaya bushe ni kwi waba? Cibusa wilatemwa ifya mu calo;",
+        "Asu-ka ilipusho Muyayaya, Asu-ka ilipusho Waba kwisa?"
+      ],
+      "number": 2
+    }
+  ]
+}

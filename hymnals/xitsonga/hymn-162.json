@@ -1,0 +1,24 @@
+{
+  "number": 162,
+  "language": "ts",
+  "title": "162. YESU MULETERI WANGA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ALL THE WAY MY SAVIOUR LEADS",
+        "1. Yesu Muponisi Wanga, Ndzi Nga Ha Lava Yini,",
+        "A Ndzi Na Ku Kanakana, Hi Tintswalo Ta Yena, Ndzi Tshama Eku Rhuleni, Ndzi Pfumela Ka Yena,",
+        "Hambi Mhangu Yi Ndzi Wela. Yesu U Ta Ndzi Lwela (Bis)",
+        "2. Yesu Muleteri Wanga, U Ndzi Tiyisa Mbilu,",
+        "Exikarhi Ka Miringu, Na Ndlela Yo Nonon’hwa,",
+        "Endzalwen Ne Ndlaleni, U Vuswa Bya Vutomi,",
+        "Ndzi Vona Nambu Wa Ntsako, Wu Timulaka Torha (Bis)",
+        "3. Yesu Muleteri Wanga, La Teleke Rirhandzu,",
+        "U Tshembisile Ku Wisa, Endlwini Ya Tatana, Loko U Ndzi Ha Vutomi, Lebyi Byi Nga Heriki,",
+        "Ndzi Ta Tlhandlukela Henhla, Ndzi Nghena Ku Tsaken (Bis)"
+      ],
+      "number": 1
+    }
+  ]
+}

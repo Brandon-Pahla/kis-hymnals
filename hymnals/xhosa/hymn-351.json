@@ -1,0 +1,47 @@
+{
+  "number": 351,
+  "language": "xh",
+  "title": "351 Usizi Nalu Lumi Lodwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Usizi nalu lumi lodwa, Iintlungu naazi zimi zodwa,",
+        "Nab’ ububele bumi bodwa, Emnqamlezweni."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I-Nkosi yehla ezulwini, Eyaba ngumntu ebantwini,",
+        "Yenzelwa thina boon’ indini, Emnqamlezweni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ukholo lwethu looma phina? Ithemba lwethu looma phina?",
+        "Uthando lwethu looma phina? Emnqamlezweni."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ingozi ingaphela yonke, Ityala liyahlaulwa lonke,",
+        "Izoono zoxolelwa zonke; Emnqamlezweni."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zibona iingelosi phantsi, Ziqwalasele futh’ ezantsi,",
+        "Zibona isimanga, naasi! Emnqamlezweni."
+      ],
+      "number": 5
+    }
+  ]
+}

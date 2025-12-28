@@ -1,0 +1,37 @@
+{
+  "number": 206,
+  "language": "nd",
+  "title": "206 Wenzeni Na?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nganikela ukuphila kwami ngawe,",
+        "Ukuze u be ngohlengiweyo wena,",
+        "Nganikela ukuphila, Wa ngi nikani na?",
+        "Nganikela ukuphila, Wa ngi nikani na?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Indlu ka Baba ekhanyayo kakhulu,",
+        "Ngayishiya, ngeza ngaba nesizungu ,",
+        "Ngakushiya, ngakushiya konke ngenxa yakho,",
+        "Wena, washiyani ngenxa yomsebenzi wami?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngahlupheka oku ngalinganiswayo;",
+        "Ukukhulula wena ekubhubheni,",
+        "Ngakushiya, ngakushiya konke ngenxa yakho,",
+        "Wathwalani wena ngenxa yomsebenzi wami?"
+      ],
+      "number": 3
+    }
+  ]
+}

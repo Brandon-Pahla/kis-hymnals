@@ -1,0 +1,31 @@
+{
+  "number": 738,
+  "language": "tw",
+  "title": "N43 Great God of Wonders",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyamè a, Woyεε anwanwade!",
+        "W'akwan ky'rε Wo s'ro abodin;",
+        "Nanso Wo dom faf'ri pii no",
+        "Hy'rεn b'ro W'anwanwade ny'naa so",
+        "Hena n'ɔde bɔn' f'ri sε Wo?",
+        "Hena n'ɔwɔ ‘dom pii sε Wo?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yεde dεw a enni kabea",
+        "Gye yεn Nyame nkyεn fafiri,",
+        "Amumɔyε biaram' faf'ri",
+        "Faf'ri a Yesu mogya atɔ:",
+        "Hena n'ɔde bɔn' f'ri sε Wo?",
+        "Hena n'ɔwɔ ‘dom pii sε Wo"
+      ],
+      "number": 2
+    }
+  ]
+}

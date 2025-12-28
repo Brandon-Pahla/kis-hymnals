@@ -1,0 +1,68 @@
+{
+  "number": 128,
+  "language": "tum",
+  "title": " 128 Pa Nyengo Ya Lurombo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 128 Pa Nyengo Ya Lurombo",
+        "BLESSED HOUR OF PRAYER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Pa nyengo ya lurombo mukusopa kwithu,",
+        "Pakongana kwa Yesu, mtaski na m'bwezi,",
+        "Para tiza kwa lyo wativikilire,",
+        "Wakuvuka pumula nkhuwenme kuromba."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain:",
+        "Nadi njiweme nyengo ya rombo,",
+        "Tisange chipumuLo nkhuweme kuromba."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Pa nyengo ya lurombo mutaski mphafupi,",
+        "Na mtima  wakutemwa  wapulikenge,",
+        "Wakuti timthulire vyakwenjezga vithu,",
+        "Wakuvuka pumula nkhuweme kuromba."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Pa nyengo ya lurombo kwa wakuyezgeka,",
+        "Wakum'phalira mtaski vitima vyawo,",
+        "Na mtima wa lusungu wakusezga suzgo,",
+        "Isange chipumulo nkhuweme kuromba."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Pa nyengo ya lurombo timgomezge iyo,",
+        "Vitumbiko vya Fumu tipokerenge,",
+        "Na chigomezgo chose titaye masuzgo,",
+        "chipumulo nkhuweme kuromba."
+      ],
+      "number": 6
+    }
+  ]
+}

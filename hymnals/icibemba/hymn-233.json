@@ -1,0 +1,35 @@
+{
+  "number": 233,
+  "language": "bem",
+  "title": "233 - NJEBO MULUMBE WAKALE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TELL ME THE OLD, OLD STORY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Njeba umulumbe wakale wa fya kwa Yesuu no lulumbi,",
+        "Nokutemwa kwaakwe;",
+        "Loondoolola mulumbe, kwati-nikumwana nalikana,",
+        "Wama cusho, uwabuula maaka.",
+        "CHORUS:",
+        "Unjebe umulu-mbe, umulumbe wakale,",
+        "Unjebe umulumbe, Yesu nokutemwa.",
+        "2. Njebe umulumbe ukuti njishibishe,",
+        "Ine ndi waa mpuulumushi, untu aafwilile;",
+        "Njeebo mulumbe lyoonse nokuunjeebe cine,",
+        "Mushita iishaa macusho, ukusansamusha.",
+        "3. Njeba umulumbe, lintu waba no mweenso,",
+        "Pamulanduu waacalweci, Naifiifyabaamo,",
+        "Ee, lulumbi lwacaalo, lulii kuumutima",
+        "Njeba muulumbe, wakale, Yeswaleekupoosha."
+      ],
+      "number": 2
+    }
+  ]
+}

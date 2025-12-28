@@ -1,0 +1,46 @@
+{
+  "number": 121,
+  "language": "xh",
+  "title": "121 Ndovuma Ngothando Luka-Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndovuma ngolothando, Lowandithanda tanci;",
+        "Washiy’ amazw’ amahle, Wafa emnqamlezweni."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndovuma (ndovuma) ngolothando, ’ntliziyo (’ntliziyo) yam yobonga;",
+        "Waf’ ukuze (ukuze) Ndidl’ ubom,--Ndovum’ uthando lwakhe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndathi ndingekalili ’Yesu walila tanci;",
+        "Ndingekenzi mthandazo Wabe ethandazile."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thando Lungcwele nzulu! Alunamlinganiso,",
+        "Luth’ izono zimnyama Luzenze zibe mhlophe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Andenzanga ’kulunga, Noko undithandile,",
+        "Wazuz’ intliziyo yam; Ndincede ndikuthande."
+      ],
+      "number": 4
+    }
+  ]
+}

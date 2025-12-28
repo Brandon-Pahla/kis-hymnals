@@ -1,0 +1,46 @@
+{
+  "number": 178,
+  "language": "xh",
+  "title": "178 U-Kristu Uyabuya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kungenzeka kube kungexa lentsasa, Xa ukukhanya kwelanga kuthi-chapha,",
+        "Khona u-Hesu wofika eno zuko, Ukuphuthuma abaKhe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, Nkos’, koda kube nini, Ukuze sigcobe,",
+        "Sitsho sithi, Uyabuya, Haleluya! Amen, Haleluya! Amen."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kungaba kusemini, Mhlaumbi ngorhatya, Kanti kunga naphakathi kobusuku,",
+        "Olothi uzuko lwaKhe lukhazimle, X’ u-Yesu amkel’ abaKhe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hosana, yovuma imikhosi yaKhe, Inabangcwele ziphahlwe zi-ngelosi,",
+        "Wothi u-Yesu ngozuko nobabalo Abamkele kuy’ abaKhe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uvuyo lokuba singa soze sife! Kungekho kufa, lusizi, nakoyika,",
+        "Sixhwilelw’ emafin’ siy’ eluzukweni, X’ u-Yesu amkel’ abaKhe."
+      ],
+      "number": 4
+    }
+  ]
+}

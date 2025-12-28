@@ -1,0 +1,37 @@
+{
+  "number": 475,
+  "language": "tw",
+  "title": "'Yaresa 'D'ru Wɔ Gilead a",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Yaresa 'd'ru wɔ Gilead a,",
+        "Ͻsa pėrafo yare;",
+        "'Yaresa 'd'ru wɔ Gilead a,",
+        "Ͻsa kra no yare."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mitumi nya abasamtu",
+        "Dwen sɛ m'adw'ma yɛ kwa;",
+        "Nanso Honhom Kronkron no ba",
+        "Bɛkanyan me kra bio."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ wuntum' nka 'sɛm sɛ Petro,",
+        "Mmɔ mpae sɛ Paulo a,",
+        "Wubetum' aka Yesu dɔ n'",
+        "S'Owu maa nnipa ny'naa."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "number": 86,
+  "language": "sw",
+  "title": "86 - Ukaribie Tena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Ukaribie tena, ewe siku ya raha,",
+        "Roho yakusalimu, kama mwanga wa mbingu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Raha yako tulivu, yafurahisha moyo,",
+        "Yatuliza taabu, hata waisha mwendo."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Ee siku takatifu, ya sifa na maombi,",
+        "Na kutuhekimisha, baraka yako kubwa."
+      ]
+    }
+  ]
+}

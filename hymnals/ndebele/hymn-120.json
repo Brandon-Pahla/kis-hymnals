@@ -1,0 +1,39 @@
+{
+  "number": 120,
+  "language": "nd",
+  "title": "120 Ngi Yakholwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Baba, ngi ziletha kuWe U ng’uMsizi Wena",
+        "Nxa ngi zisitha ngakuWe Ngi ngaya ngaphi na?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Namhlanjena ngi yakholwa, uJes’ u ngi fele",
+        "Wachitha igazi lAkhe, Ukungikhulula"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yakholw’ eNdodaneni Engiph’ amandl’ aYo",
+        "Konke ukweswela kwami Ku gcwaliswa yiYo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mqalisi wokukholwa kwam’ Ngi vusa amehlo",
+        "Ma ng’amukel’ isipho sam’ Ngi philiswe ngaso"
+      ],
+      "number": 4
+    }
+  ]
+}

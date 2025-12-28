@@ -1,0 +1,45 @@
+{
+  "number": 279,
+  "language": "es",
+  "title": "Transfórmame a tu imagen",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Transfórmame a tu imagen"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hoy pido en oración",
+        "que perdones mi tibieza;",
+        "pues quiero, de corazón,",
+        "consagrarme a ti, Señor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Renuévame, Señor;",
+        "inspírame valor;",
+        "transfórmame a tu imagen;",
+        "renuévame, Señor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A otros quiero llevar",
+        "tu mensaje de esperanza;",
+        "viviendo para servir,",
+        "compartiendo tu amor."
+      ],
+      "number": 4
+    }
+  ]
+}

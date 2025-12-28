@@ -1,0 +1,60 @@
+{
+  "number": 505,
+  "language": "fr",
+  "title": "À Jésus, je m'abandonne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "À Jésus, je m'abandonne;",
+        "Ce qu'il me dit, Je le crois,",
+        "Et je prends ce qu'il me donne,",
+        "La couronne avec la croix."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Compter sur lui d'heure en heure,",
+        "Tant que dure le combat.",
+        "Que l'on vive ou que l'on meure,",
+        "Compter sur lui, tout est là.",
+        "Que l'on vive ou que l'on meure,",
+        "Compter sur lui, tout est là."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que si l'ennemi se montre,",
+        "Mon cœur n'en n'est point troublé",
+        "Avec Christ à sa rencontre",
+        "Je puis aller sans trembler."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Suis-je en paix, vers la lumière",
+        "Mon chant s'élève attendri,",
+        "Pour se changer en prière",
+        "Si l'horizon s'assombrit."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qu'on m'approuve ou qu'on me blâme,",
+        "Et demain comme aujourd'hui,",
+        "Je ne veux, quoi qu'on réclame,",
+        "Jamais compter que sur lui."
+      ],
+      "number": 5
+    }
+  ]
+}

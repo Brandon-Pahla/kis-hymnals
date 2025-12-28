@@ -1,0 +1,63 @@
+{
+  "number": 351,
+  "language": "tw",
+  "title": "Nyame, Wo Nsa Na Aky'rɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame, Wo nsa na aky'rɛ",
+        "Wo nguankuw kwan daa ny'naa;",
+        "Wɔaky'rɛw anwanwasɛm no",
+        "Ky'rɛw no fa baabiara;",
+        "Yɛn agyanom nyaa W'adɔe,",
+        "Na yehu wɔn nnwuma;",
+        "Edi 'danse: asafo,",
+        "Gyidi ne 'W'rade k'ro."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "W'abɔfo de 'nigyesɛm",
+        "Brɛɛ 'kɛse ne nkumaa;",
+        "Wɔfrɛɛ nnipa sɛ wɔmmra",
+        "ɔhen 'ponto ase;",
+        "Eyi ne wɔn nky'rɛky'rɛ ny'naa",
+        "Nneyɛe ne kasa mu,",
+        "Ky'rɛɛ nnipa sɛ: asafo,",
+        "Gyidi ne 'W'rade k'ro."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B'rč a na sum kabii red'ru",
+        "Nnipa mma ny'naa so no,",
+        "Aw'rade somaa Wo nkoa,",
+        "Hann mma a Woapaw wɔn,",
+        "Wode Wo dom pii no guu",
+        "Wɔn ne Wo nk'rɔfo so.",
+        "Nea wɔkae ne: asafo,",
+        "Gyidi, ne 'W'rade k'ro."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "W'adɔe renni yɛn huammɔ,",
+        "W'adwuma nso renka;",
+        "Wo nsa nifa boa yɛn yi,",
+        "Nkonim bɛyɛ yɛn de.",
+        "Abɔfo ne nnipa ny'naa",
+        "Bɛkamfo Wo din no,",
+        "Wɔn dwom bɛyɛ: asafo,",
+        "Gyidi, ne 'W'rade k'ro."
+      ],
+      "number": 4
+    }
+  ]
+}

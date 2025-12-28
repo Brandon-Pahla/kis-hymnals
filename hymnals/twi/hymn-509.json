@@ -1,0 +1,57 @@
+{
+  "number": 509,
+  "language": "tw",
+  "title": "Aw'rade 'Hotefo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Aw'rade 'hotefo, monhwɛ fapem a",
+        "Wɔato ama mo gyidi, N'asɛm no mu;",
+        "Asɛm bɛn ara na ɔnka nky'rɛ mo bio,",
+        "Mo a moaguan akohinta Yesu mu?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\\\"Nsuro Me ne W'wɔ hɔ, mma wo koma ntu,",
+        "Mene wo Nyankopɔn, na Maboa wo nso;",
+        "Mɛhyɛ wo den aboa wo 'ma woagyina,",
+        "Me trenee nsa dennen no bɛsɔ wo mu.\\\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\\\"Sɛ Mesoma wo sɛ fa nsubun mu a,",
+        "'W'rɛhow nsubɔnten renyiri mfa wo so,",
+        "'Fisɛ Mɛka wo ho ahy'ra wo haw no,",
+        "Na Mate w'amanehun' kɛse no ho\\\"."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\\\"Sɛ w'akwan no dan ogya sɔhwɛ mu a",
+        "Wubenya Me dom a ɛboro so no;",
+        "Ogyaframa renhye wo; Mahyehyɛ sɛ,",
+        "Ͻnhye wo ho fi nte wo sika pa ho.\\\""
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\\\"ɔkra a ɔtwer' Yesu no nya home,",
+        "Merennyae ne mu mma N'atamfo no da;",
+        "Mmom ɔhaw kɛse bɛwoso ne kra de",
+        "Nanso merennyae no da biɔara da.\\\""
+      ],
+      "number": 5
+    }
+  ]
+}

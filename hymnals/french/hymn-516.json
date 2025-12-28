@@ -1,0 +1,63 @@
+{
+  "number": 516,
+  "language": "fr",
+  "title": "Oui, Jésus, c'est vers toi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Oui, Jésus, c'est vers toi,",
+        "Toujours plus haut !",
+        "Que s'élève ma foi,",
+        "Toujours plus haut !",
+        "Libre de tout lien,",
+        "Poursuivant le seul bien,",
+        "Mon regard sur le tien,",
+        "Toujours plus haut !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu calmes la douleur,",
+        "Toujours plus haut !",
+        "Tu satisfais le coeur,",
+        "Toujours plus haut !",
+        "Das les rudes combats,",
+        "Les clameurs d'ici-bas,",
+        "Tu diriges mes pas",
+        "Toujours plus haut !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oui, c'est là mon soupir,",
+        "Toujours plus haut !",
+        "Tu connais mon désir,",
+        "Toujours plus haut !",
+        "Perçant l'obscurité,",
+        "Montre-moi ta clarté,",
+        "Ta divine beauté,",
+        "Toujours plus haut !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Marche, me dit Jésus,",
+        "Toujours plus haut !",
+        "Oh ! ne t'arrête plus,",
+        "Toujours plus haut !",
+        "Bientôt je reviendrai",
+        "Et te délivrerai.",
+        "Oui, je t'introduirai",
+        "Chez moi, là-haut !"
+      ],
+      "number": 4
+    }
+  ]
+}

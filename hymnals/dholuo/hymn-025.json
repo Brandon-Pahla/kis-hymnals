@@ -1,0 +1,49 @@
+{
+  "number": 25,
+  "language": "luo",
+  "title": "25 In E Ngimana Mochwere",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. In e ngimana mochweremoloyo duto me piny;E wuodha duto me piny ka,Jawar yie awuoth kodi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kodi Ruoth, kodi Ruoth,Kodi Ruoth, kodi Ruoth;E wuodha duto me piny ka,Jawar yie awuoth kodi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ok alem ne mor mar pinyni,ok alem mond` ayud dwong`;Na ti gi mor kat e chandruok,Yie mondo awuoth kodi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kodi Ruoth, kodi Ruoth,Kodi Ruoth, kodi Ruoth;Na ti gi mor kat e chandruok,Yie mondo awuoth kodi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Telna e pinyni mar mudhoting`a mondo alo piny;Eka mondo adonj kodie ngima ma ok norum."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kodi Ruoth, kodi Ruoth,Kodi Ruoth, kodi Ruoth;Eka mondo adonj kodiE ngima ma ok norum."
+      ],
+      "number": 6
+    }
+  ]
+}

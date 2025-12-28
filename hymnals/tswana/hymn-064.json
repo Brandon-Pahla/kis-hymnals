@@ -1,0 +1,56 @@
+{
+  "number": 64,
+  "language": "tn",
+  "title": "64 A O Tlaletswe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A O Tlaletswe, O Phatloga Pelo?",
+        "Itsise Jeso, Itsise Jeso,",
+        "A o hutsafaletse boitumelo?",
+        "Itsise Ene Jeso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Itsise Jeso, itsise Jeso,",
+        "Ke tsala e itsiweng;",
+        "Ga o na tsala, le morwa rrago,",
+        "O bolelele Jeso."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A O Lela O Ise O Itewe?",
+        "Itsise Jeso Itsise Jeso,",
+        "A o na le dibe tse di fitlhilweng?",
+        "Itsise, Ene Jeso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A O Boifa ’Ru A Bohutsana?",
+        "Itsise Jeso, Itsise Jeso;",
+        "A o eletsa se se tlang ka moso?",
+        "Itsise Ene Jeso."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A O Tshwengwa Ke Kgopolo Ya Loso?",
+        "Itsise Jeso, Itsise Jeso,",
+        "A o eletsa bogosi jwa Jeso?",
+        "Itsise Ene Jeso."
+      ],
+      "number": 4
+    }
+  ]
+}

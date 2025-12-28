@@ -1,0 +1,46 @@
+{
+  "number": 8,
+  "language": "xh",
+  "title": "8 Xa Sebe Bizwa Phezulu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Xa ixilongo likhala nexesha selidlule,",
+        "Kofika usuku olumi njalo,",
+        "Abasindiswayo behlanganiselwa kwelozwe,",
+        "Bebizwa phezulu ndakuba khona."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Xa sebe . . . bizwa phezulu,",
+        "Xa sebe . . . bizwa phezulu,",
+        "Xa sebe . . . bizwa phezulu,",
+        "Bebizwa phezulu ndakuba khona."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngalo ntsasa yhoba ntle apho sebe vuswa bonke,",
+        "Boza benesimo esitsha ngoko;",
+        "Abanyuliweyo behlanganiselwa ekhaya,",
+        "Bebizwa phezulu ndakuba khona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Masiyisebenzele iNkosi lide litshone,",
+        "Masazisane ngothando lwe-Nkosi;",
+        "Singafa, uyaphela umsebenzi wethu apha,",
+        "Bebizwa phezulu ndakuba khona."
+      ],
+      "number": 3
+    }
+  ]
+}

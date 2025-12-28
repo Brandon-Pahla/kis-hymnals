@@ -1,0 +1,47 @@
+{
+  "number": 402,
+  "language": "tw",
+  "title": "Yɛnam Kristom Fofroyɛ Ne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛnam Kristom fof'royɛ ne",
+        "ɔgye so kamfo nkaede yi,",
+        "De ky'rɛ Aw'rade no wu",
+        "Kosi Ne mmae."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne honam a wɔabubu no,",
+        "Yehu wɔ paanoo nkaede yim';",
+        "Ͻnam saa so ma yɛn dɔ mee",
+        "Kosi Ne mmae."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yehu Ne yawdi kɛse ne",
+        "Ne mogyá a Ohwie gu maa yɛn;",
+        "Nsa no bɛka 'hintasɛm no",
+        "Kosi Ne mmae."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛkae 'nadwo a woyii No",
+        "Mae, nam som yi so kae mmae no,",
+        "Aniwu ne 'nuonyam no bom",
+        "Kosi Ne mmae."
+      ],
+      "number": 4
+    }
+  ]
+}

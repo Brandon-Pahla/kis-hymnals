@@ -1,0 +1,35 @@
+{
+  "number": 560,
+  "language": "tw",
+  "title": "Ma Ateasefo Nyinaa Nta Aseda Dwom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ma ateasefo nyinaa nto aseda dwom,",
+        "Mma ɔbɔadeɛ Nyame wɔ nkonimdi mu;",
+        "ɔno a ɔbɔɔ yɛn, na ɔbɔ yɛn ho ban,",
+        "Nea ɔgyɛ yɛn taataa kɔ yɛn brɛa awiei,",
+        "Ne frankaa bua yɛn so, Ne hann di yɛn anim",
+        "Sɛ ogya dum a ɛhyerɛn anadwo;",
+        "Kosi sɛ sunsuma bɛy'rɛ, na sum betwam",
+        "B'rč a yetu yɛn kwan fi hann mu kɔ hann mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne mm'ra yɛ adwuma: ns'romma nam n'akwan so,",
+        "Owia de setie hyerɛn fa ne kwan so;",
+        "Nɔkoko ne mmepɔ, nsuten ne nsuwa ne",
+        "Po bun nyinaa paem ka sɛ ɔyɛ kronkron,",
+        "Ͻsɛ sɛ yɛn nso yɛkyerɛ yɛn dɔ ne dɛw,",
+        "Na Yɛde anigye ne nkamfo to dwom,",
+        "Kosi sɛ ateasefo nyinaa bebom ato",
+        "Hosana ne 'yeyi ama s'ro Nyame."
+      ],
+      "number": 2
+    }
+  ]
+}

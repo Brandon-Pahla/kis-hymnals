@@ -1,0 +1,35 @@
+{
+  "number": 35,
+  "language": "bem",
+  "title": "35 - E BUCIBUSA E BUSEKESHA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHAT A FELLOWSHIP"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. E busibusa, e busekesha",
+        "Lintu Yesu aletusunga;",
+        "Umutende pe aletupela,",
+        "Lintu tulemusumina fye.",
+        "CHORUS:",
+        "Ta-tu-ti-na Pantu Yesu e Katula;",
+        "Ta-tu-ti-na Lintu Yesu aletusunga.",
+        "2. Cawama nomba, ukukonka pe,",
+        "Lintu Yesu aletusunga,",
+        "Lubuto lwakwe munshila yesu,",
+        "Lintu tulemusumina fye.",
+        "3. Tatwakatine, mwenso takuli,",
+        "Lintu Yesu aletusunga;",
+        "Atupela pe mutende wakwe,",
+        "Lintu tulemusumina fye."
+      ],
+      "number": 2
+    }
+  ]
+}

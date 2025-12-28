@@ -1,0 +1,46 @@
+{
+  "number": 295,
+  "language": "ve",
+  "title": "295. tavha Mukosi Mmbi I Tsini",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:614",
+        "AH:469"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. tavha mukosi mmbi i tsini, Imela ngoho ya Murena;",
+        "Dzhia pfumo u ime u khwathe, U di tike nga ipfi lawe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Imani-ha maswole a Yesu, Thanya u fhirise na fhungo",
+        "Iya phanda, imba hosana; Kristo Khosi ya litadulu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Khwatha u tshi tangana na swina, Ri tshi ya phanda he ra livha;",
+        "Ri tshi divha hune ra do ya, Tshitangu na tshedza tshihulu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mudzimu ri a u vhidzelela, Ri thuse rothe nga tshilidzi;",
+        "Musi nndwa yo fhela ro kunda, Ri ambadze khare ya gundo."
+      ],
+      "number": 4
+    }
+  ]
+}

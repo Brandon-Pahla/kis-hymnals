@@ -1,0 +1,80 @@
+{
+  "number": 368,
+  "language": "fr",
+  "title": "Seigneur, rassemble-nous",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Seigneur, rassemble-nous",
+        "Dans la paix de ton amour !",
+        "Nos fautes nous séparent,",
+        "Ta grâce nous unit :",
+        "La joie de ta victoire",
+        "Éclaire notre nuit."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu es notre espérance",
+        "Parmi nos divisions;",
+        "Plus haut que nos offenses",
+        "S'élève ton pardon."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seigneur, vois la misère",
+        "Des peuples affamés;",
+        "Partage sur la terre",
+        "Le pain de l'unité !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Heureux le cœur des pauvres",
+        "Qui cherchent l'unité !",
+        "Heureux dans ton royaume",
+        "Les frères retrouvés !"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fais croître en notre attente",
+        "L'amour de ta maison !",
+        "L'Esprit dans le silence",
+        "Fait notre communion."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ta croix est la lumière",
+        "Qui nous a rassemblés:",
+        "Ô joie de notre terre,",
+        "Tu nous a rachetés."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La mort est engloutie,",
+        "Nous sommes délivrés;",
+        "Qu'éclate en nous la vie,",
+        "Seigneur ressuscité !"
+      ],
+      "number": 7
+    }
+  ]
+}

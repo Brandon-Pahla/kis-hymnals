@@ -1,0 +1,37 @@
+{
+  "number": 394,
+  "language": "fr",
+  "title": "C'est toi, Seigneur, le pain rompu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "C'est toi, Seigneur, le pain rompu,",
+        "Livré pour notre vie.",
+        "C'est toi, Seigneur, notre unité,",
+        "Jésus ressuscité !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus, nous rappelons ta mort",
+        "Et ta résurrection,",
+        "Et dans la foi nous attendons",
+        "Le jour de ton retour."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous partageons un même pain,",
+        "Dans une même foi,",
+        "Et nous formons un même corps :",
+        "L'Église de Jésus."
+      ],
+      "number": 3
+    }
+  ]
+}

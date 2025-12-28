@@ -1,0 +1,49 @@
+{
+  "number": 532,
+  "language": "tw",
+  "title": "Da Biara Ne Dɔnhwerew Biara Mu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Da Biara Ne Dɔnhwerew Biara MuDa biara ne dɔnhwerew biara mu,",
+        "Minya 'hoɔden de hyia me haw ha;",
+        "B're a metwer' m'Agya nyansa mu dom no",
+        "Biribiara ntumi mmɔ me hu da,",
+        "Nea Ne komam' wɔ 'yamye b'ro so no",
+        "Ma da biara ade a ehia;",
+        "ɔdɔ mu, yaw ne anigye ka bom,",
+        "'Somdwoe ne home fra dwumayem'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'rade no ara bɛn me da biara,",
+        "Dɔn biaram', ɔmam' dom sononko;",
+        "ɔsoa me dadwen ny'naa kyekye me w'rɛ,",
+        "Nea Ne din ne 'Fotufo Tumfo.",
+        "Ne mma ne N'agyapade ho banbɔ",
+        "Yɛ 'sodė a ɔde too Ne ho so;",
+        "W'ahoɔden bɛyɛ sɛnea wo nna te:",
+        "Eyi ne bɔ a ɔhyɛɛ me no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻnde boa me ahohia biara mu,",
+        "Sɛnea mɛtwer' Wo bɔhyɛ 'Wura,",
+        "Na manhw're gyidim aw'rɛkyekye a",
+        "Minya fi W'Asɛm kronkron mu no;",
+        "Sɛ mihyia 'brɛ ne 'manč a boa me, 'W'ra,",
+        "Ma minnye, sɛneā efi Agya nsam,",
+        "Nna ne nnɔnhwerew a ɛretwam no",
+        "Kosi bɔhyɛ asase no so."
+      ],
+      "number": 3
+    }
+  ]
+}

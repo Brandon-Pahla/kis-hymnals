@@ -1,0 +1,26 @@
+{
+  "number": 602,
+  "language": "pt",
+  "title": "Graça, Amor e Comunhão",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Graça, Amor e Comunhão"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que a graça de Jesus, o amor de Deus o Pai,",
+        "E a comunhão do Espírito habite em nós;",
+        "Que a graça de Jesus, o amor de Deus o Pai,",
+        "E a comunhão do Espírito em nós.",
+        "Estejam pra sempre, Eternamente,",
+        "Amém."
+      ],
+      "number": 2
+    }
+  ]
+}

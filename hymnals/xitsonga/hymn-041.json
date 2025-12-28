@@ -1,0 +1,25 @@
+{
+  "number": 41,
+  "language": "ts",
+  "title": "41. XIKWEMBU A XI MI HLAYISE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "GOD BE WITH YOU!",
+        "1. Xikwembu A Xi Mi Hlayise, Hosi Yi Mi Khongotela, Yi Mi Hlayisa Ndleleni,",
+        "Ku Kondza Hi Vonana Kambe.",
+        "CHORUS",
+        "Loko Hita Hlangana Kambe, Emahlweni Ka Xinyimpfana, Loko Hi Ta Hlangana Kambe, Hosi A Yi Mi Sirhelele.",
+        "2. Hosi A Yi Mi Sirhelele, Hosi A Yi Mi Vukarhe",
+        "Yi Mi Phamela Swakudya, Ku Kondza Hi Vonana Kambe.",
+        "3. Hosi A Yi Mi Sirhelele, Maxangwini Ya Misava,",
+        "Wa Swi Kota Ku Vukarha, Ku Kondza Hi Vonana Kambe.",
+        "4. Hosi A Yi Mi Sirhelele, Hi Rirhandzu Lerikulu,",
+        "Hambi Rifu Ri Fikile,",
+        "Ku Kondza Hi Vonana Kambe."
+      ],
+      "number": 1
+    }
+  ]
+}

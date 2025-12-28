@@ -1,0 +1,47 @@
+{
+  "number": 62,
+  "language": "xh",
+  "title": "62 Yesu Wam Ndiya Kuthanda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiya kuthanda Nkos’, wena, Yesu wam,",
+        "Ngenxa yaKho ndiya zidel’ izono;",
+        "UnguYe u-Msindisi, noMfeli wam,",
+        "Uba beke ndakuthanda, kunamhla."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiya kuthanda, kuba wandithanda,",
+        "Wahlaulela phaya emnqamlezweni;",
+        "Ndiya kuthanda kuba wandifela,",
+        "Uba beke ndakuthanda, kunamhla."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ekuphileni kwa nasekufeni,",
+        "Ndizakudumisa u-Msindisi wam;",
+        "Ndothi elukhukweni lwam lokufa,",
+        "Uba beke ndakuthanda, kunamhla"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwizindlu zobukhosi ngokugcoba,",
+        "Ezulwini ndiya kukudumisa,",
+        "Nditsholoze ndithwele isithsaba,",
+        "Uba beke ndakuthanda, kunamhla."
+      ],
+      "number": 4
+    }
+  ]
+}

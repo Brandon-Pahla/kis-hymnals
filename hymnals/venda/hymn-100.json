@@ -1,0 +1,45 @@
+{
+  "number": 100,
+  "language": "ve",
+  "title": "100 Ri Na thama Khulu Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:499",
+        "AH:271"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.Ri na thama khulu Yesu, O hwala zwivhi zwashu;",
+        "Zwo naka u isa khae, zwothe nga dzithabelo,",
+        "Ri xelelwa nga mulalo, Mu ngafha-ngafha nandi!",
+        "Nge ra si ise zwililo, Kha Yesu nga thabelo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ri nao na matungu vho? Milingo na khakhathi?",
+        "Ri songo vhuya ra shavha, Kha ri rabele Ene:",
+        "Ri nga wana’fhi khonani, i ngaho Ene Yesu?",
+        "Ndi Ene we a ri divha, Musi ri tshi rabela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri lemelwa nga mihwalo, Mulingo na mathupho,",
+        "Mutshidzi washu muhulu, Ri a mu rabela-vho;",
+        "Ri tutshela dzikhonani, Kha ri mu vhudze zwothe;",
+        "U a ni kwengweledza-ha, U do ni tsireledza."
+      ],
+      "number": 4
+    }
+  ]
+}

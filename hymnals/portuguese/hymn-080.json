@@ -1,0 +1,72 @@
+{
+  "number": 80,
+  "language": "pt",
+  "title": "Há Tais Cantos Lá no Céu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Há Tais Cantos Lá no Céu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Há tais cantos lá no Céu,",
+        "Que aqui ninguém jamais ouviu!",
+        "Sempre os anjos cantam glórias",
+        "Ao Cordeiro do Senhor.",
+        "Harpas sempre em harmonia,",
+        "Sempre a voz em claros tons.",
+        "Quem nos dera ser assim,",
+        "Servindo ao Rei e Salvador!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "\"Santo! Santo!\"",
+        "É o canto de anjos bons.",
+        "Eu hei de um dia unir",
+        "A voz a tais aclamações!",
+        "Mas quando eu lhes contar a história",
+        "Desta redenção: Mudez!",
+        "Não podem compreender",
+        "Tão grande salvação!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mesmo que eu não seja um anjo,",
+        "Lá no Céu hei de cantar.",
+        "Vou unir-me ao grande coro",
+        "Dos remidos do Senhor",
+        "Louvarei meu salvador",
+        "Que sobre a cruz por mim morreu,",
+        "Que pagou as minhas culpas",
+        "E libertação me deu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Esse canto de vitória,",
+        "Sim, os anjos ouvirão.",
+        "É qual voz de muitas águas,",
+        "Voz de grande multidão.",
+        "O Universo inteiro pára,",
+        "Em espanto e admiração,",
+        "Ante o canto dos remidos",
+        "Ao Senhor da redenção!"
+      ],
+      "number": 5
+    }
+  ]
+}

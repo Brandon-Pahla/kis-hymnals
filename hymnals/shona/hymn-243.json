@@ -1,0 +1,47 @@
+{
+  "number": 243,
+  "language": "sn",
+  "title": "243 Muka, Mwoyo, Muka!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Muka mwoyo wangu, Bvisa kutya kwese",
+        "Mupiro weropa vakapirwa ini",
+        "Ur’pamberi penyupo, Ur’pamberi penyu",
+        "zvino; Zita rangu raka nyorwa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ari kumusoro, Kumirira ini",
+        "Nekundinunura, Neropa’ro rake",
+        "Iye Akatifira, Aparadza ropa rake",
+        "Riri pachigaro chemutsa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Madzvadzi mashanu, Epa Karivari",
+        "Ondinamatira, Nekundimirira",
+        "Oti musunungure, Otizve musunungure",
+        "Musarege mutadzi afe"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Baba anomunzwa, Anoyera wake",
+        "Haanga musiyi, Mwana wake ega",
+        "Mweya wake wonzvika, Uchitaura uchiti",
+        "Wabarwa patsva kuna Mwari"
+      ],
+      "number": 4
+    }
+  ]
+}

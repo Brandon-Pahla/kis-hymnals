@@ -1,0 +1,56 @@
+{
+  "number": 513,
+  "language": "pt",
+  "title": "As Águas Batismais",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### As Águas Batismais"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nas claras águas deste mar,",
+        "Os meus pecados deixarei,",
+        "Depois, então, irei morar",
+        "Com o divino Rei."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Deixarei no mar,",
+        "Minhas culpas deixarei, deixarei;",
+        "Deixarei, no mar,",
+        "E no Céu irei morar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Desejo agora consagrar",
+        "A minha vida ao Salvador,",
+        "Deixando todo o meu pesar",
+        "Aos pés do Redentor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aqui as culpas vou deixar,",
+        "E vida nova então terei,",
+        "E assim um dia irei morar",
+        "Com o divino Rei."
+      ],
+      "number": 5
+    }
+  ]
+}

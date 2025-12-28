@@ -1,0 +1,39 @@
+{
+  "number": 82,
+  "language": "ve",
+  "title": "82 Murena Nga Matsheloni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:039",
+        "AH:031"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu matsheloni ipfa, u rabela hanga;",
+        "Iwe ndi do u rabela, ndo U lavhelesa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nkokodze nga muya wau, ndi ndilani yau;",
+        "Hothe u tshimbila yanga, nndededze Murena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Vha funaho Iwe Yesu, vha do fushwa vhothe,",
+        "Mudzimu Ene RaMaanda, U hangwela vhothe."
+      ],
+      "number": 4
+    }
+  ]
+}

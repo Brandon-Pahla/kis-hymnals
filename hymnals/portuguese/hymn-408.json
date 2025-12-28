@@ -1,0 +1,46 @@
+{
+  "number": 408,
+  "language": "pt",
+  "title": "Dá-me Tua Paz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Dá-me Tua Paz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dá-me Tua paz, Mestre, dá-me Tua paz,",
+        "Se tristezas vêem conturbar-me o coração;",
+        "Não serei tentado, nem o mal verei,",
+        "Se me deres paz, bom Mestre; dá-me Tua paz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Dá-me Tua paz, Mestre,",
+        "Dá-me Tua paz, Mestre,",
+        "Pois andar sem Ti não posso;",
+        "Dá-me Tua paz."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dá-me Tua paz, Mestre, dá-me Tua paz,",
+        "Sim, nas horas más, quando em treva envolto estou.",
+        "Guia, pois, meus passos, para eu não cair,",
+        "Pois andar sem Ti não posso; dá-me Tua paz."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "number": 48,
+  "language": "st",
+  "title": "48 Thabo Haufinyane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Thabo e tla ba teng qetellong, Ha bakotuli ba fihla,",
+        "Mantsiboea ka mangata, hona Jerusalema."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Thabo haufinyane, Thabo e sa feleng,",
+        "Thabo kapele bakotuli ba tla ea hae ’moho"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lintle pina tse li tla binoang, Lipelo li tletse thabo,",
+        "Re boka Jesu morena Motseng oa Jerusalema"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hloeko thabo li re emetse, Meahong metle ea gauta;",
+        "Jesu O ea e lokisa, Hona teng Jerusalema."
+      ],
+      "number": 3
+    }
+  ]
+}

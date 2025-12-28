@@ -1,0 +1,47 @@
+{
+  "number": 196,
+  "language": "nd",
+  "title": "196 A Khon’ Amandl’ eGazini",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U fis’ ukwethulwa isono na? A khon’ amandla egazini;",
+        "U fis’ ukunqoba okubi na? A khon’ amandl’ egazini."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A khona mandla egazini, LeWundlu leWundlu",
+        "A khona mandla egazini, Gazin’ elihle leWundlu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U fis’ ukudela ulaka na? A khon’ amandla egazini;",
+        "Woza u zohlanzwa kulo wena A khon’ amandl’ egazini."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U yafisa ukuba mhlophe qhwa! A khon’ amandla egazini;",
+        "Woza u zohlanzwa kulo wena A khon’ amandl’ egazini."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U ngesebenzele iNkosi na? A khon’ amandla egazini;",
+        "U fisa ukuyidumisa na? A khon’ amandl’ egazini."
+      ],
+      "number": 5
+    }
+  ]
+}

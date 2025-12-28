@@ -1,0 +1,55 @@
+{
+  "number": 195,
+  "language": "ve",
+  "title": "195. Yawee! Khavhu Ya Mulilo (Mudugumo)",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:264",
+        "AH:149"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mudugumo u dugaho,",
+        "U vhonetshela vhakhethwa;",
+        "Vha tshi ya ngei makoleni,",
+        "U vha nea Maanda othe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yesu u ’fhi ula muya,",
+        "We wa swaya Abram ngawo?",
+        "Wa kona ngawo Paulosi,",
+        "A dugiswa nga khuthalo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. A ngafhi Maanda a Yesu,",
+        "O hwalaho na Elia?",
+        "Kha Mushe-vho o tou penya,",
+        "A nea Yobo mulayo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Humbula Yesu zwa kale,",
+        "Lugisa mushumo wau;",
+        "Ri a u renda nga dzimbilu,",
+        "Ri funa Muya mukhethwa."
+      ],
+      "number": 5
+    }
+  ]
+}

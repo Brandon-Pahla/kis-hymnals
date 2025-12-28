@@ -1,0 +1,37 @@
+{
+  "number": 104,
+  "language": "sw",
+  "title": "104 - Yesu Aliniita, “Njoo”",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Yesu aliniita “Njoo, Raha iko kwangu,",
+        "Kichwa chako ukilaze, kifuani mwangu,”",
+        "Nilikwenda kwake mara, sana nilichoka,",
+        "Nikapata kwake raha, na furaha tena."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Yesu aliniita “Njoo, kwangu kuna maji,",
+        "Maji ya Uzima bure, unywe uwe hai.”",
+        "Nilikwenda kwake mara, na maji nikanywa,",
+        "Naishi kwake na kiu, kamwe sina tena."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Yesu aliniita “Njoo, dunia i giza,",
+        "Ukiitazama nuru, ‘takung’arizia.",
+        "Nilikwenda kwake mara, yeye jua langu,",
+        "Ni kila wakati mwanga, safarini mwangu."
+      ]
+    }
+  ]
+}

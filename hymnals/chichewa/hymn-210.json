@@ -1,0 +1,34 @@
+{
+  "number": 210,
+  "language": "ny",
+  "title": "210 - Mombolo Wozizwitsa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHAT A WONDERFUL SAVOUR"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Khristu nsembe ya ocimwa, Mombolo wozizwitsa!",
+        "Taomboledwa ndi mwazi, Mombolo wozizwitsa!",
+        "CHORUS:",
+        "Mombolo wozizwitsa ndiye Yesu wanga!",
+        "Mombolo wozizwitsa Ndi Yesu Mbuye.",
+        "2. Nditama mwazi wacewo, Mombolo wozizitswa!",
+        "Wandifitsa kwa Mulungu, Mombolo wozizwitsa!",
+        "3. Wanditsuka chimo lonse, Mombolo wozizwitsa!",
+        "Mfumu ndiye m’kati mwanga, Mombolo wozizwitsa!",
+        "4. Ndiri naye m’njira monse, Mombolo wozizwitsa!",
+        "An’sunga tsiku ndi tsiku, Mombolo wozizwitsa!",
+        "5. Andipatsa cigonjetso, Mombolo wozizwitsa!",
+        "Ndi m’mayeso cipambano, Mombolo wozizwitsa!",
+        "6. Ndampatsa Mtima wonsewu, Mombolo wozizweitsa!",
+        "Dziko silingathandize; Mombolo wozizwitsa!"
+      ]
+    }
+  ]
+}

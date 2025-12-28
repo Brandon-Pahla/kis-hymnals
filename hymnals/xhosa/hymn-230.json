@@ -1,0 +1,39 @@
+{
+  "number": 230,
+  "language": "xh",
+  "title": "230 Ndiyindlela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Njengemvu ezintabeni, Ndemka kuMsindisi;",
+        "Kubomi, noxolo, Ndingabuyela njani na?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndi . . . yiNdlela . . . Bomi . . . Nyaniso,",
+        "(NdiyiNdlela, NdiyiNdlela, NdibuBomi kwaneNyaniso)",
+        "Akukho uza kuBawo ngaphandle kwam."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iintsizi zindiphahlile, Sendifun’ iNkosi;",
+        "Abanye bathi, \"Le nale.\" Iphi iNyaniso?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndibuyela kwiNyaniso, U-Bomi neNdlela;",
+        "NguKristu okhokelela Ekhaya kuBawo."
+      ],
+      "number": 3
+    }
+  ]
+}

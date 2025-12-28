@@ -1,0 +1,56 @@
+{
+  "number": 260,
+  "language": "tw",
+  "title": "Sian Bra Me So, Honhom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sian bra me so, Honhom Kronkron,",
+        "Guar' me suro koma yi,",
+        "Fa Wo kronkronyɛ hyɛ me mu,",
+        "Bra, O bra bɛhyɛ me ma."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hyɛ me ma, hyɛ me ma,",
+        "Yesu bɛhyɛ me ma nnɛ;",
+        "Fa Wo Kronkronyɛ hyɛ mu;",
+        "Bra, O bra bɛhyɛ me ma."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wubetumi ahyɛ me ma,",
+        "Ewom mintumi nky'rɛ de,",
+        "Nanso mihia Wo yie ara,",
+        "Bra, O bra bɛhyɛ me ma."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mm'rɛwyɛ ahyɛ me ma mm'roso,",
+        "Mekoto Wo nan ase;",
+        "S'ro Honhom a Wotč ase daa,",
+        "Fa Wo dɔ no hyɛ me ma."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tew me ho, hy'ra me, na gye me,",
+        "Hohoro me koma mu;",
+        "Wo ne W'rɛkyekfo, Gyefo,",
+        "Wode dɛw hyɛ me mu ma."
+      ],
+      "number": 4
+    }
+  ]
+}

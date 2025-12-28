@@ -1,0 +1,53 @@
+{
+  "number": 79,
+  "language": "ny",
+  "title": "79 - Kufuna Antchito",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "FAR AND NEAR THE FIELDS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mindatu yayera kale",
+        "Dzinthu dzonse dzachanso;",
+        "Pafupi ndi kutaliko",
+        "M’dziko lonse lapansi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mbuye tikupempha Inu,",
+        "Kokosani antchito;",
+        "Atumizeni msangatu,",
+        "Nthawi isanethe’i."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Atumizeni m’mawatu,",
+        "Ndi nthawi ya usana;",
+        "Ngakhale dzuwa lilowa,",
+        "Agwirebe ntchitoyo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndipo inu otumidwa,",
+        "Gwirani ntchitoyo;",
+        "Ndipo potsiriza ntchito",
+        "Mudzadza ndi chimwemwe."
+      ],
+      "number": 4
+    }
+  ]
+}

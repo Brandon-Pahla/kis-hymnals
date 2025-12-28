@@ -1,0 +1,41 @@
+{
+  "number": 295,
+  "language": "sn",
+  "title": "295 Da’Dzira Hondo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Da’Dzira Hondo, mhandu yapetyo, Sim’dza mureza waTenzi",
+        "Pfeka chishangu, Simbayi mese, Simbirayi painzwi rake"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vakani simudzayi mureza",
+        "Gadzirira, nyeweranayi",
+        "Enda mberi, Daidza Hosana!",
+        "Kristu m’tungamiri wehondo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Farayi mukumbane nemhandu, Idi rinokurirazve",
+        "Chishangu nemureza zvipenye, Tichakurira, hatitadzi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Mwari wevese chitinzwayi, Tibatsireyi netsitsi",
+        "Hondo yazopera, takurira, Tingazopfekawo zviremba"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "number": 297,
+  "language": "nd",
+  "title": "297 Zibethelw’ Emthini",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kwaba khon’ owavuma ‘kufela mina, Ukuz’ ongafanel’ aphile",
+        "Indlela yesiphambano wayihamba, Ezami zaxolelwa zonke"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zibethelw’ emthini, Zibethelw’ emthini;",
+        "Wezwa ‘buhlung’ obukhulu",
+        "U Jesu emthini wakhala ngomunyu Ethwel’ izono zami lapho"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kimina unesineke ethandeka, Ehlanzis’ eyam’ inhliziyo",
+        "Phinde ngilahlwe sengi nok’ khululeka, Ezam’ zingezi bethelweyo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngonamathel’ uMsindisi ngingadeli, Ngohamba ngithokoza njalo",
+        "Ng’cule ngomlomo nangenhliziyo yami, Ngith’ ezam’ zesuliw’ izono"
+      ],
+      "number": 4
+    }
+  ]
+}

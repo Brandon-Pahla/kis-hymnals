@@ -1,0 +1,38 @@
+{
+  "number": 146,
+  "language": "tw",
+  "title": "Sɛ Mekan Tete Abasɛm Dɛdɛ No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ mekan tete abasɛm dɛdɛ no,",
+        "B're a Yesu traa nnipa mu,",
+        "Sɛnea ɔfrɛɛ mmofraa sɛ",
+        "Ne nguammaa no a,",
+        "Mepɛ sɛ na 'nka meka ho bi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mepɛ sɛ 'nka ɔde Ne nsa too me so,",
+        "Ná ɔde Ne basa twaa me ho,",
+        "Na 'nka mahu N'animtew a ɔde kaa sɛ:",
+        "'Momma mmofraa no kwan mmra Me nkyɛn'"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M'ani agyina saa anuonyam b're no,",
+        "B're pa a ɛyɛ dɛ kyɛn so,",
+        "B'rč a mmofraa dɔfo a wofi tebea nyinaam',",
+        "Begu Ne so agye nhyira no."
+      ],
+      "number": 3
+    }
+  ]
+}

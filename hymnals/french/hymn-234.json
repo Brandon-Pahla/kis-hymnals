@@ -1,0 +1,15 @@
+{
+  "number": 234,
+  "language": "fr",
+  "title": "Alléluia, parole du Seigneur",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Alléluia, alléluia, parole du Seigneur !",
+        "Alléluia, alléluia, parole dans nos cœurs !"
+      ],
+      "number": 1
+    }
+  ]
+}

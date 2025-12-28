@@ -1,0 +1,56 @@
+{
+  "number": 99,
+  "language": "tw",
+  "title": "Nyame Bɛhwe Wo So",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mmaw' bo nntu, nea 'besi biara",
+        "Nyame bɛhwɛ wo so;",
+        "Tra Ne dɔ ntaban no ase,",
+        "Nyame bɛhwɛ wo so."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nyame bɛhwɛ wo so",
+        "Wɔ da biara, akwan ny'naa mu",
+        "ɔbɛhwɛ wo so yie;",
+        "Nyame bɛhwɛ wo so."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔbra nnwuma ma wo bo tų a",
+        "Nyame bɛhwɛ wo so;",
+        "Sɛ mmusu ba w'akwan mu a,",
+        "Nyame bɛhwɛ wo so."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔbɛma wo nea ehia wo ny'naa",
+        "Nyame bɛhwɛ wo so;",
+        "ɔremfa hwee nkame wo da",
+        "Nyame bɛhwɛ wo so."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ sɔhwɛ no te dɛn arā a,",
+        "Nyame bɛhwɛ wo so,",
+        "ɔkra brefo, twer' Ne kokom,",
+        "Nyame bɛhwɛ wo so."
+      ],
+      "number": 4
+    }
+  ]
+}

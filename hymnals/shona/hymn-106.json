@@ -1,0 +1,40 @@
+{
+  "number": 106,
+  "language": "sn",
+  "title": "106 Tinowakira Padombo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tinozowakira paDombo, Jesu Dombo remako...re",
+        "Tinozomira takashinga, Cham’pupuri Chouya,"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tozo...wakira paDo...mbo Kristu",
+        "(Tozowakira padombo Kristu) (Tozowakira padombo Kristu)",
+        "(Pamve) Tozowakira padombo Kristu, Padombo guru."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vamwe vanowaka pajecha, Pandangariro dzepfuma;",
+        "Vamwe pachitema nehondo, Pambiri nerufaro."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O wakira paDombo redi; Nheyo yedi yakasimba,",
+        "Rine vimbo inokurira; vimbo yeruponeso."
+      ],
+      "number": 4
+    }
+  ]
+}

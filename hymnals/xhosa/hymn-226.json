@@ -1,0 +1,37 @@
+{
+  "number": 226,
+  "language": "xh",
+  "title": "226 Phants’ Ukoyiseka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Phants’ ukukholwa kaloku nje;",
+        "Phantse ukumvuma uKristu;",
+        "Koko us’ke uthi, \"Hamba, Moya umke,",
+        "Ndothi ngomhla wumbi Ndikubize.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phants’ ukukholwa, yiza namhla!",
+        "Phants’ ukukholwa, Mus’ ukumka,",
+        "’Yesu uyamema, Kwanaz’ izithunywa,",
+        "Ith’ imithandazo, O, yiza bo!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phants’ ukukholwa, kuvuniwe!",
+        "Umelwe kukutshabalala!",
+        "Ukuthi, \"uphantse\" akuxeli lutho;",
+        "Sikhalo sosizi---Selahleko."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 136,
+  "language": "es",
+  "title": "¡Oh, cuánto amo a Cristo!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Oh, cuánto amo a Cristo!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Su nombre hermoso yo anhelo oír",
+        "y siempre quiero alabar.",
+        "Es dulce son en mi corazón,",
+        "me llena de gozo y paz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Oh, cuánto amo a Cristo!",
+        "¡Oh, cuánto amo a Cristo!",
+        "¡Oh, cuánto amo a Cristo!",
+        "¡Primero Jesús me amó!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me habla de su inmenso amor",
+        "y de su muerte en la cruz.",
+        "Su sangre Cristo vertió por mí,",
+        "por darme la salvación."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Su nombre me habla de gran bondad.",
+        "Él siente mi aflicción.",
+        "Comprende penas, dolor, temor,",
+        "cual nadie jamás podrá."
+      ],
+      "number": 5
+    }
+  ]
+}

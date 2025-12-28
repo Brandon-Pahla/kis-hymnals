@@ -1,0 +1,33 @@
+{
+  "number": 24,
+  "language": "bem",
+  "title": "24 - NDEMUKABILA PE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I NEED THEE EVERY HOUR"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndemukabila pe. Mfumu ya luse;",
+        "Tapali upela mutende nga Imwe.",
+        "CHORUS:",
+        "Ndemukabila Mfumu, nshita shonse kuno;",
+        "Mumpale ine Yesu Naisa nomba.",
+        "2. Ndemukabila pe, Kaleni Mupepi,",
+        "Satana 'kafilwa nga muli mupepi.",
+        "3. Ndemukabila pe. Bulanda ne nseko;",
+        "Nangu tamwikale, Mweo wandi wafwa",
+        "4. Ndemukabila pe. Mumfundishe lelo:",
+        "Ubufwayo bwenu, Muwamye mutima.",
+        "5. Ndemukabila pe, Lesa wamushilo;",
+        "Muncite wacine. Mwe mfumu yandi"
+      ],
+      "number": 2
+    }
+  ]
+}

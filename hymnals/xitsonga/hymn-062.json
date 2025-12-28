@@ -1,0 +1,25 @@
+{
+  "number": 62,
+  "language": "ts",
+  "title": "62. YESU NDZA KU RHANDZA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "MY JESUS I LOVE THEE",
+        "1. Yesu Ndza Ku Rhandza, Ndzi N’wana Waku,",
+        "Hikokwalaho Ndzi Suka Ne Vudyohwen, Mukutsuri Na Muponisi Wanga,",
+        "Na Kona Sweswi Ndza Ku Rhandza Ngopfu.",
+        "2. Ndza Ku Rhandza Hikuva Wa Ndzi Rhandza, U Ndzi Xave Hi Ngati Xihambanwen,",
+        "La Nga Tiyisela Harhi Ya Mitwa,",
+        "Na Kona Sweswi Ndza Ku Rhandza Ngopfu.",
+        "3. Hambi Vuton’wini Kumbe Ku Feni, Ku Hanyeni Ndzi Ta Dzunisa Wena,",
+        "Hambi Rifu Ri Ndzi Rindzele Mahlwen, Na Kona Sweswi Ndza Ku Rhandza Ngopfu.",
+        "4. Tindlwini To Kwetsima Na Ta Ntsako, Ndzi Ta Ku Gandzela Ku Vangameni,",
+        "Ndzi Ta Yimbelela Na Harhi Yanga,",
+        "Na Kona Sweswi Ndza Ku Rhandza Ngopfu."
+      ],
+      "number": 1
+    }
+  ]
+}

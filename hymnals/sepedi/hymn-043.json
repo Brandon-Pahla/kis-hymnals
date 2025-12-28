@@ -1,0 +1,56 @@
+{
+  "number": 43,
+  "language": "nso",
+  "title": " 43 ROBALA TSHEPONG GO JESO.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 43 ROBALA TSHEPONG GO JESO",
+        "АН 477 CS 489",
+        "ASLEEP IN JESUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Robala tshepong go Jeso,",
+        "Mo go sa tsogweng ka sello;",
+        "O khuditše ka boroko,",
+        "A ka se tsošwe le go tshwenywa;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ithobalele go Jeso,",
+        "Boroko bjo bo monate;",
+        "Go ikhutša o le tshepong,",
+        "Kholofelong ya bosafeleng;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Robala go Jeso khutšong,",
+        "Tsogo ya gwe ke e kgethwa;",
+        "Ga go poifo, tahlego,",
+        "Tše širang matl 'a Mophološi;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Robala mme o tlo tsošwa,",
+        "Phalafala ge e letšwa;",
+        "Go phatloge le lebitla,",
+        "O tsošwe ka bosafeleng;"
+      ],
+      "number": 5
+    }
+  ]
+}

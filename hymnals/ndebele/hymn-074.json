@@ -1,0 +1,46 @@
+{
+  "number": 74,
+  "language": "nd",
+  "title": "74 Si Thwele Izinyanda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Si hlwanyela inhlanyelo yokulunga,",
+        "Ekuseni nemini nantambama;",
+        "‘Se si mele isikhathi sokuvuma",
+        "Si zothokoza si thwel’ izinyanda."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phinda",
+        "Si thwel’ inyanda, si thwel’ inyanda,",
+        "Si zothokoza, si thwel’ izinyanda."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si hlwanyela elangeni nemthunzini,",
+        "A s’esabi inkungu yobusika;",
+        "Si zowuqeda phambili umsebenzi,",
+        "Si zothokoza si thwel’ izinyanda."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si hlwanyelela iNkosi ngenyembezi,",
+        "Si nosizi izikhath’ eziningi;",
+        "Sekuphelile ukukhala soMbona,",
+        "Si zothokhoza si thwel’ izinyanda."
+      ],
+      "number": 4
+    }
+  ]
+}

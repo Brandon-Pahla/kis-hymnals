@@ -1,0 +1,47 @@
+{
+  "number": 124,
+  "language": "nd",
+  "title": "124 Hai Mina! Kepha ng’uKrestu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Akungabi yimi, kodwa ng’uKrestu",
+        "Ozobonwa, aziwe, akhonzwe;",
+        "Athandwe kuyo yonke im’cabango",
+        "Ozohlonshwa, aphakanyiswe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akungabi yimi, kodwa ng’uKrestu",
+        "Ozothokozisa osizini;",
+        "Owesula inyembezi zabantu",
+        "Othulisa konke ukwesaba."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "uKrestu, kuphela uJesu Krestu",
+        "Akufanel’ ukuzibabaza;",
+        "uKrestu kuphela uJesu Krestu",
+        "Ngi ngazibonakalisi mina."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akungabi yimi, kodwa ng’uKrestu",
+        "Ogcwalisa ukweswela kwami;",
+        "uKrestu kuphela uJesu Krestu",
+        "Namhlanje kuze kube nanini."
+      ],
+      "number": 4
+    }
+  ]
+}

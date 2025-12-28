@@ -1,0 +1,64 @@
+{
+  "number": 83,
+  "language": "es",
+  "title": "La primera Navidad",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### La primera Navidad"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La primera navidad en Belén sucedió,",
+        "a pastores el ángel les anunció.",
+        "Velaban el rebaño con solicitud",
+        "en la noche de invierno de dulce quietud."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Navidad, Navidad,",
+        "Jesús nació.",
+        "Es el Mesías, el Rey de Israel."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La estrella contemplaron con grande pavor,",
+        "en el este brillando con gran resplandor.",
+        "Día y noche alumbró esa luz celestial,",
+        "anunciando las nuevas de gozo eternal."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Del oriente es guiada por esa gran luz,",
+        "una hueste de sabios buscando a Jesús.",
+        "Deseaban contemplar y adorar al Señor;",
+        "a la estrella siguieron por su resplandor."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Los sabios, al llegar al humilde mesón,",
+        "reverentes se postran en adoración.",
+        "Oro y mirra le ofrecen al niño Jesús",
+        "y regresan gozosos con la nueva luz."
+      ],
+      "number": 6
+    }
+  ]
+}

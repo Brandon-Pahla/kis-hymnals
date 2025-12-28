@@ -1,0 +1,79 @@
+{
+  "number": 11,
+  "language": "tum",
+  "title": " 11 Nditimrondezgani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 11 Nditimrondezgani",
+        "I WILL FOLLOW THEE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nditimrondezgani Fumu,",
+        "Kose uko mukuya,",
+        "Kose uko mukurazga,",
+        "Nditimurondezgani."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nditimrondezgani Fumu,",
+        "Imwe mukandifwira,",
+        "Nanga wose wampateni,",
+        "Nditimurondezgani."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nanga m'nthowa muwe minga,",
+        "Ndipo njamswaswayira,",
+        "Namweso mukenda mumo,",
+        "Nditimurondezgani."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nanga ine ndisuzgike,",
+        "Naviyezgo vinandi,",
+        "Fumu namwe mkayezgeka,",
+        "Nditimurondezgani."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Nanga ndisuzgike viwi,",
+        "Ntha tindimukaneni,",
+        "Mkasuzgika kwakuruska",
+        "Nditimurondezgani."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "M'vimphupulu na mwakofya",
+        "Mutindirongozgenge,",
+        "Mkambuka mmayigha kale,",
+        "Nditimurondezgani."
+      ],
+      "number": 6
+    }
+  ]
+}

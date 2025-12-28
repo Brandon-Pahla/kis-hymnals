@@ -1,0 +1,24 @@
+{
+  "number": 179,
+  "language": "ts",
+  "title": "179. XANA U N’WI RINDZERILE YE MUTEKI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BEHOLD THE BRIDEGROOM",
+        "1. Xana Un’wi Rindzerile Ye Muteki, Sweswi Wa Ta;",
+        "Vonan Wa Ta, U Kusuhi, Ambalani, Muteki Wa Fika.",
+        "CHORUS",
+        "Vona Muteki Wa Fika Sweswi, Xana U N’wi Rindzerile Wena Ke? Languta Wa Fika U Le Kusuhi, Rindzela, Muteki Wa Fika.",
+        "2. Rivoningo Ra Wena Ri Ta Pfurha Ke? Loko A Ta;",
+        "Wa Ta Sweswi Hi Xihatla, Tilulamise, Muteki Wa Ta.",
+        "3. Loko A Fika Hi Ta N’wi Hlanganisa, Loko A Ta;",
+        "Swa Tshembisa, U Ta Fika, Wa Fika Hi Ta N’wi Hlanganisa.",
+        "4. Hi Ta Huwelela Hi Ku Aleluya, Loko A Ta;",
+        "Aleluya Yena Wa Ta, Loko A Fika Hi Ta N’wi Dzuna."
+      ],
+      "number": 1
+    }
+  ]
+}

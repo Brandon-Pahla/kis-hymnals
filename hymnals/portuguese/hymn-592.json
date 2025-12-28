@@ -1,0 +1,23 @@
+{
+  "number": 592,
+  "language": "pt",
+  "title": "Pai, Imploramos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Pai, Imploramos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pai, imploramos Teu favor;",
+        "Concede Tua santa paz, Senhor.",
+        "Amém."
+      ],
+      "number": 2
+    }
+  ]
+}

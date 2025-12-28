@@ -1,0 +1,32 @@
+{
+  "number": 238,
+  "language": "ny",
+  "title": "238 - Akulowa M’zipata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SWEEPING THROUGH THE GATES"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Awa ndani pa tsidya la Nyanja, Omwe payola manda acetu,",
+        "Akondwera mwa Yesu? Asamba m’mwazi Wace.",
+        "CHORUS:",
+        "Akulowa mzinda wa Yerusalemu,",
+        "Asamba m’mazi (wace) wa nkhosa;",
+        "Alowa m’zipata za Yerusalemu,",
+        "Asamba m’mwazi Wace.",
+        "2. Awa ndiwo anapeza Yesu, Pamene anali anyamata,",
+        "Nalandira cisomo, Asamba m’mwazi Wace.",
+        "3. Awa ndiwo mansautso yao, Anapeza kupuma mwa Yesu,",
+        "Mtendere mu mtimamo, Asamba m’mwazi Wace.",
+        "4. Iwo adapirira mabvuto, Anapyola pakati pa moto:",
+        "Yesu ati idzani, Asamba m’mwazi Wace."
+      ]
+    }
+  ]
+}

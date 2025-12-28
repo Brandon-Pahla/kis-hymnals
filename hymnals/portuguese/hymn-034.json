@@ -1,0 +1,66 @@
+{
+  "number": 34,
+  "language": "pt",
+  "title": "Quão Grande És Tu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Quão Grande És Tu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Senhor meu Deus, quando eu, maravilhado,",
+        "Fico a pensar nas obras de Tuas mãos,",
+        "Estrelas mil a cintilar no espaço,",
+        "De Teu poder, em manifestação,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Então minh'alma canta a Ti, Senhor:",
+        "Quão grande és Tu! Quão grande és Tu!",
+        "Então minh'alma canta a Ti, Senhor:",
+        "Quão grande és Tu! Quão grande és Tu!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se ao calminhar por campos e florestas,",
+        "Escuto as aves belas a cantar;",
+        "Se estendo o olhar do alto da montanha",
+        "E a fonte além eu ouço a murmurar,"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se penso, então, que sem poupar Teu Filho,",
+        "O enviaste pra morrer por mim,",
+        "Levando à cruz os meus pecados todos,",
+        "Para eu viver eternamente assim,"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E ao vir Jesus em resplendor e glória,",
+        "Para levar-me ao lar dos filhos Seus,",
+        "Prostrar-me-ei em gratidão infinda,",
+        "E exclamarei: Quão grande és Tu, meu Deus!"
+      ],
+      "number": 6
+    }
+  ]
+}

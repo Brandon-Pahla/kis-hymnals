@@ -1,0 +1,46 @@
+{
+  "number": 272,
+  "language": "tw",
+  "title": "Fa Kyerɛw Kronkron Nsoromma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Kyerɛw Kronkron nsoromma no ma me,",
+        "Ͻkyekye kwantuni baakofo w'rɛ;",
+        "Ahum ntumi nkata ne hyerɛn no so,",
+        "'Fisɛ Yesu bɛgyee nnebɔn'yɛfo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Fa Kyerɛw Kronkron asɛmpa no ma me,",
+        "Wo hann no bɛwɛn me kwan teaa no mu,",
+        "Bɔhyɛ ne mm'ra ne ɔdɔ ahyɛ mu ma,",
+        "Kosi sɛ adesae bɛdan daa hann."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Ky'rɛw no ma me b'rč a me koma 'bubu,",
+        "Na bɔne de hu ahyɛ me kra so;",
+        "Fa 'sɛmpa a Yesu aka no ma me,",
+        "Na menka sɛ Agyenkwa no abɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Ky'rɛw no ma me ma ɛnhy'rɛn me kwan so",
+        "Ky'rɛ me mmusu a ɛwɔ wiɔase,",
+        "Ahotɔ kanea no bɛpam sum nyinaa;",
+        "Kanea no nko na ɛky'rɛ 'somdwoe kwan."
+      ],
+      "number": 3
+    }
+  ]
+}

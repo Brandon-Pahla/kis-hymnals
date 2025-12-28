@@ -1,0 +1,22 @@
+{
+  "number": 124,
+  "language": "ts",
+  "title": "124. KRESTE A DZUNIWE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NOT I, BUT CHRIST",
+        "1. Kreste A Dzuniwe, Ku Nga Ri Mina, A Ku Vonakale Kreste Ntsena;",
+        "Ku Nga Vi Mina, Kambe Ku Va Kreste, Hi Marito Na Mianakanyo.",
+        "2. Kreste A Dzuniwe Ku Nga Ri Mina, Yena Loyi A Khongotelaka;",
+        "La Sulaka Mihloti Emahlweni Yena Loyi A Susaka Nchavo.",
+        "3. Kreste Ntsena Ku Hava Un’wana, Kreste Ntsena Ku Hava Swo Antswa,",
+        "Kreste Ntsena Ehandle Ka Mina, Kreste Ntsena Ku Hava Vumina.",
+        "4. I Kreste Ntsena La Ndzi Hlayisaka, Yena Loyi A Ndzi Hlayisaka;",
+        "Kreste Ntsena La Hanyisaka Moya, U Kona Hi La Ku Nga Heriki."
+      ],
+      "number": 1
+    }
+  ]
+}

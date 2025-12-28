@@ -1,0 +1,31 @@
+{
+  "number": 211,
+  "language": "bem",
+  "title": "211 - MFULA YE PALO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SHOWERS OF BLESSING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kukabe mfula ye pa-lo, Bulayo bwa kutemwa;",
+        "Nshita isuma ike-sa, Kufuma kuli Yesu.",
+        "CHORUS:",
+        "Mfula ye palo Eyo tulekabila;",
+        "Mu luse lwenu twalomba, Imfula ya bupalo",
+        "2. Kukabe mfula ye pa-lo, Yakutubukulula;",
+        "Mu mpili na mu miko-nko, Monse mukabe mfula",
+        "3. Kukabe mfula ye pa-lo, Ikafuma ku mulu:",
+        "Ikapelwa yakutwa-fwa, Kusose shiwi Lyakwe.",
+        "4. Kukabe mfula ye pa-lo, Yalaisa fye bwangu:",
+        "Tulapile kuli Lesa, No kwita pali Yesu."
+      ],
+      "number": 2
+    }
+  ]
+}

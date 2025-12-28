@@ -1,0 +1,56 @@
+{
+  "number": 155,
+  "language": "pt",
+  "title": "Vive em Mim",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Vive em Mim"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vive, Santo Espírito,",
+        "Neste meu pobre ser!",
+        "Faz no meu coração a luz",
+        "Do Céu resplandecer."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Vive em mim, vive em mim,",
+        "Santo e bom Consolador.",
+        "Limpa do mal meu coração,",
+        "Reine nele só o amor"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fala, Santo Espírito,",
+        "Fala-me com poder;",
+        "Pois para a redenção real",
+        "Eu quero renascer."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo, Santo Espírito,",
+        "Enche-me de fervor,",
+        "Para que eu ponha o meu viver",
+        "Nas mãos do Salvador."
+      ],
+      "number": 5
+    }
+  ]
+}

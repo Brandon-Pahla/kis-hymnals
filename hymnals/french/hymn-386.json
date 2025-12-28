@@ -1,0 +1,28 @@
+{
+  "number": 386,
+  "language": "fr",
+  "title": "Toi, lève-toi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Toi, lève-toi et va au nom du Christ",
+        "Porter l'amour de Dieu au monde !",
+        "Toi, lève-toi et va au nom du Christ",
+        "Porter l'amour de Dieu au monde !",
+        "Comment les autres croiront-ils ce qu'ils n'ont pas connu ?",
+        "Comment les peuples de la terre serviront-ils Jésus ?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Comment les pauvres, les mendiants seront-ils rassasiés ?",
+        "Les prisonniers, les réfugiés seront-ils consolés ?"
+      ],
+      "number": 2
+    }
+  ]
+}

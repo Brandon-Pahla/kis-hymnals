@@ -1,0 +1,47 @@
+{
+  "number": 200,
+  "language": "fr",
+  "title": "Reste avec nous",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Reste avec nous, Seigneur, le jour décline,",
+        "La nuit s'approche et nous menace tous;",
+        "Nous implorons ta présence divine;",
+        "Reste avec nous, Seigneur, reste avec nous."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En toi, nos coeurs ont salué leur maître,",
+        "En toi, notre âme a trouvé son époux.",
+        "À ta lumière, elle se sent renaître;",
+        "Reste avec nous, Seigneur, reste avec nous."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dans nos combats, si ta main nous délaisse,",
+        "Satan vainqueur nous meurtrit de ses coups;",
+        "Que ta puissance arme notre faiblesse,",
+        "Reste avec nous, Seigneur, reste avec nous."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sous ton regard, la joie est sainte et bonne,",
+        "Près de ton coeur, les pleurs mêmes sont doux;",
+        "Soit que ta main nous frappe ou nous couronne,",
+        "Reste avec nous, Seigneur, reste avec nous."
+      ],
+      "number": 4
+    }
+  ]
+}

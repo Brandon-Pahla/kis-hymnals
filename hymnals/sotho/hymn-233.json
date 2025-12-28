@@ -1,0 +1,44 @@
+{
+  "number": 233,
+  "language": "st",
+  "title": "233 Ntjoetseng Taba Ea Khale",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A ke le ntjoetseng litaba ka tse sa tsejoeng.",
+        "Ka Jesu khalalelong ka Jesu leratong,",
+        "Le mpolelleng hantle joalo le ka ngoana,",
+        "Kea fokola ke khathetse ke fumanehile"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Le ke le ntjoetse taba, le ke le ntjoetse taba,",
+        "Le ke le ntjoetse taba ka Jesu leratong"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le ntjoetseng ka bonolo le ka kutloisiso,",
+        "Ka topollo e makatsang pholiso ea sebe,",
+        "E phetoe hangata ke se e lebale,",
+        "Ka nako e fe le e fe e ke e nts’elise."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le mpheteleng eona le ha le ts’aba hore,",
+        "Ke thetsoa ke lefats’e menateng ea lona,",
+        "Ha botle ba lefats’e bo feta mahlong a ka,",
+        "Ntjoetse taba ea khale ka rato la Jesu."
+      ],
+      "number": 3
+    }
+  ]
+}

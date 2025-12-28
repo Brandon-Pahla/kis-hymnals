@@ -1,0 +1,58 @@
+{
+  "number": 212,
+  "language": "en",
+  "title": "212 Sweet Peace.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "There comes to my heart one sweet strain",
+        "(sweet strain)",
+        "A glad and a joyous refrain (refrain),",
+        "I sing it again and again,",
+        "Sweet peace, the gift of God’s love."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Peace, peace, sweet, peace,",
+        "Wonderful gift from above, (above)",
+        "Oh, wonderful, wonderful peace,",
+        "Sweet peace the gift of God’s love."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Through Christ on the cross peace was made,",
+        "(was made)",
+        "My debt by His death was all paid,",
+        "No other foundation is laid,",
+        "For peace, the gift of God’s love."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "When Jesus as Lord I had crowned (had crowned),",
+        "My heart with His peace did abound (abound)",
+        "In Him the rich blessing I found,",
+        "Sweet peace, the gift of God’s love."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "In Jesus for peace I abide, (abide)",
+        "And as I keep close to His side (His side)",
+        "There’s nothing but peace doth betide,",
+        "Sweet peace, the gift of God’s love."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 56,
+  "language": "xh",
+  "title": "56 Nkosi, Ndiyeza Ekhaya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndibhadule kude, Thixo, Sendibuyela;",
+        "Ndidiniwe zizono zam, Nkosi, ndiyeza."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndiyeza ekhaya, Sendidiniwe;",
+        "Vul’ ingalo zothando, Nkosi, ndiyeza."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndonakalise kakhulu, Sendiguquka,",
+        "Ngenyembezi ezikrakra, Nkosi, Ndamkele."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndidiniwe kaphambuka, ndiyabuyela;",
+        "Ndithemba uthando lwaKho, Ndiphe ufefe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinesicelo esinye, Ndiphe uYesu;",
+        "Wandifela ’ze ndiphile, Nkosi ndiyeza."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndihlambise namhla, Nkosi; Ndiyeza kuWe;",
+        "Ndibe mhlophe njengekhephu; Nkosi, Ndiyeza."
+      ],
+      "number": 5
+    }
+  ]
+}

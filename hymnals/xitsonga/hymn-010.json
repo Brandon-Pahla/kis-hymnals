@@ -1,0 +1,24 @@
+{
+  "number": 10,
+  "language": "ts",
+  "title": "10. HI TA HLANGANA HAMBYENI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SHALL WE GATHER AT THE RIVER",
+        "1. Hi Ta Hlangana Nambyeni, Laha Ku Kwetsimaka;",
+        "Matini Layo Saseka, Ya Pfaka Ka Xikwembu.",
+        "CHORUS",
+        "Hi Ta Hlangana Nambyeni, Wona Nambu Lowu Wo Saseka; Hi Ta Ya Hlangana Kona, Xiluvelweni Xa Hosi.",
+        "2. Eribuweni Ra Nambu, Hi Ta Xewetana Kona; Hi Dzunisa Hosi Yesu,",
+        "Siku Hinkwaro Ra Ntsako.",
+        "3. Hi Nga Si Fika Nambyeni, Hi Ta Cukumeta Ndzhwalo;",
+        "Hi Tintswalo Ha Ntshuxiwa, Hi Nyikiwa Tiharhi.",
+        "4. Enambyeni Wo Kwetsima, Rona Rendzo Ri Ta Hela;",
+        "Timbilu Tita Tlangela, Hi Tinsimu To Rhula."
+      ],
+      "number": 1
+    }
+  ]
+}

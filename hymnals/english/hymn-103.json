@@ -1,0 +1,46 @@
+{
+  "number": 103,
+  "language": "en",
+  "title": "103 Ye Must Be Born Again.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A ruler once came to Jesus by night,",
+        "To ask Him the way of Salvation and light;",
+        "The Master made answer in words true and plain,",
+        "“Ye must be born again.”"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "“Ye must be born again,",
+        "Ye must be born again,",
+        "I verily, verily, say unto thee,",
+        "Ye must be born again.”"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ye children of men, attend to the world,",
+        "So solemnly uttered by Jesus the Lord;",
+        "And let not this message to you be in vain,",
+        "“Ye must be born again.”"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O ye who would enter that glorious rest,",
+        "And sing with the ransomed the song of",
+        "The blest; The life everlasting if you would obtain,",
+        "“Ye must be born again.”"
+      ],
+      "number": 3
+    }
+  ]
+}

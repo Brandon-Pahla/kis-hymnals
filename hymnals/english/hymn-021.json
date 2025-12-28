@@ -1,0 +1,49 @@
+{
+  "number": 21,
+  "language": "en",
+  "title": "21 I am coming to the cross",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I am coming to the cross, I am poor, and weak, and blind;",
+        "I am counting all but dross, I shall full salvation find."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I am trusting, Lord, in thee",
+        "Blessed Lamb of Calvary!",
+        "Humbly at thy cross I bow",
+        "Save me Jesus, save me now."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Long my heart has sighed for thee, long has evil reigned within?",
+        "Jesus sweetly speak to me, “I will cleanse you from all sin”"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Here I give all to thee, friends and time and earthly store;",
+        "Soul and body thine to be, wholly thine for ever more."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "In thy promises I trust, Now I feel the blood applied;",
+        "I am ev`ry whit made whole; Glory, glory to the Lamb"
+      ],
+      "number": 5
+    }
+  ]
+}

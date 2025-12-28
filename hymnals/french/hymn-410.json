@@ -1,0 +1,77 @@
+{
+  "number": 410,
+  "language": "fr",
+  "title": "Merci, Seigneur, pour ta lumière",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Merci, Seigneur, pour ta lumière,",
+        "Merci pour tous les clairs matins;",
+        "Merci d'entendre ma prière,",
+        "D'être mon soutien."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Merci, Seigneur, pour tous mes frères,",
+        "Merci de les avoir donnés.",
+        "Merci, car si l'amour s'altère,",
+        "Tu veux pardonner."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Merci, Seigneur, pour toute joie,",
+        "Merci pour mes divers travaux,",
+        "Merci car, quand soudain je ploie,",
+        "Tu prends mes fardeaux."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Merci, Seigneur, pour la vieillesse,",
+        "Merci pour les petits enfants,",
+        "Merci pour toutes tes promesses,",
+        "Pour tes soins constants."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Merci, Seigneur pour ta parole,",
+        "Merci par elle tu m'instruis,",
+        "Merci car elle est ma boussole,",
+        "Elle me conduit."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Merci, Seigneur, pour ta présence,",
+        "Merci pour ton parfait salut.",
+        "Merci des dons que tu dispenses",
+        "À tous tes élus."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Merci Seigneur, pour ta puissance,",
+        "Merci de me donner l’Esprit.",
+        "Merci pour ton amour immense",
+        "Qui partout nous suit."
+      ],
+      "number": 7
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "number": 103,
+  "language": "pt",
+  "title": "Nome Precioso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Nome Precioso"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leva tu contigo o nome",
+        "De Jesus, o Salvador,",
+        "Este nome dá consolo,",
+        "Seja no lugar que for."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Nome bom, doce à fé,",
+        "A esperança do porvir;",
+        "Nome bom, doce à fé,",
+        "A esperança do porvir."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Este nome, leva, sempre,",
+        "Para bem te defender.",
+        "Ele é arma ao teu alcance,",
+        "Quando o mal te aparecer."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! que nome tão precioso!",
+        "Traz conforto ao coração.",
+        "Sendo Por Jesus aceito,",
+        "Hás de ter o Seu perdão."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nome Santo e venerável,",
+        "Cristo, Príncipe da paz!",
+        "Rei dos reis, Senhor eterno!",
+        "Lá no Céu o aclamarás!"
+      ],
+      "number": 6
+    }
+  ]
+}

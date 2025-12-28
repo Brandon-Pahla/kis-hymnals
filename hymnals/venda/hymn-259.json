@@ -1,0 +1,54 @@
+{
+  "number": 259,
+  "language": "ve",
+  "title": "259. Ri do tangana Seli Ha Mulambo Naa?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:431"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ri do tangana seli, Hu si na magabelo naa?",
+        "Ha dakalo li sa fheli, Mathupho a si tsheho?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ri do tangana seli lula lwa mulambo naa?",
+        "Ri do tangana seli, Hu si tshe na magabelo?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ri do tangana hayani hu si tshe na madumbu?",
+        "Ri do tangana lwanzheni lu sa tsha do fhela naa?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri do tangana mudini wa thanga dzi penyaho?",
+        "Mudi wa mitsheto ya thengo, Wo fhatwa nga khotsi?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ri do tanganedza Kristo, A tshi da u ri dzhia?",
+        "Ri kha di do Mu divha naa? Ri do dzula naE naa?"
+      ],
+      "number": 5
+    }
+  ]
+}

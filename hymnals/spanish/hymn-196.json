@@ -1,0 +1,44 @@
+{
+  "number": 196,
+  "language": "es",
+  "title": "Santo Espíritu de Dios",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Santo Espíritu de Dios"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo Espíritu de Dios",
+        "brilla en mi corazón;",
+        "vuelve en día la oscuridad",
+        "de mi noche de aflicción."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Poderoso Espíritu,",
+        "limpia este corazón,",
+        "porque sobre mi alma el mal",
+        "ejerció cruel opresión."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, divino Espíritu,",
+        "mora en mi corazón.",
+        "Quita todo ídolo,",
+        "reina en plena posesión."
+      ],
+      "number": 4
+    }
+  ]
+}

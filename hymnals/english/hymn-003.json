@@ -1,0 +1,56 @@
+{
+  "number": 3,
+  "language": "en",
+  "title": "3 Face To Face",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Face to face with Christ my Saviour,",
+        "Face to face what will it be?",
+        "When with rapture I behold Him,",
+        "Jesus Christ who died for me."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Face to face shall I behold Him,",
+        "Far beyond the starry sky;",
+        "Face to face in all His glory.",
+        "I shall see Him by and by!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Only faintly now, I see Him,",
+        "With the dark’ning veil between,",
+        "But the blessed day is coming;",
+        "When His glory shall be seen."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "What rejoicing in His in His presence,",
+        "When Are banished grief and pain,",
+        "When the crooked ways are straightened,",
+        "And the dark things shall be plain."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Face to face! O! blissful moment!",
+        "Face to face to see and know;",
+        "Face to face with my redeemer,",
+        "Jesus Christ who loves so."
+      ],
+      "number": 4
+    }
+  ]
+}

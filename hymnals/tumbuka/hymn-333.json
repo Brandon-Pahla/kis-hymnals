@@ -1,0 +1,51 @@
+{
+  "number": 333,
+  "language": "tum",
+  "title": " 333 Para Tiri Na Chitima",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 333 Para Tiri Na Chitima",
+        "We Are Sorrowful"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Para tiri na chitima masozi m'maso ghakwikha,",
+        "Kuwalilira wabali Yesu mutipulike"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mukavwala thupi lithu mukamanyaso masuzgo,",
+        "Mkalilira m'bwezi winu Yesu mutipulike."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Apo nase tizamkufwa mvuchi taleka kuthuta,",
+        "Nyifwa yatizingirizga Yesu mutipulike."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Namwe mkafwa pa mphinjika mukathiska ndopa zinu,",
+        "Ndipo mkagona m'malaro Yesu mutipulike."
+      ],
+      "number": 5
+    }
+  ]
+}

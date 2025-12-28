@@ -1,0 +1,35 @@
+{
+  "number": 212,
+  "language": "guz",
+  "title": "212 Nanchire Koba Omwan' Oye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nanchire koba omwan' oye;Imanye enchera;Nkor' emeremo y' Omotoria,Onkonye bono."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Noyoo (Yeso), Noyoo (Yeso),Noyoo eye neira;Noyoo (Yeso), Noyoo (Yeso),Noyoo nde kegima."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Nibo y'ense ig' ere bosa,Otari aroro;Natigire bionsi kegima,Naye enibo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kondatugut' ebinto bi'ense,Ika ang'e nainche;Ebigochia kare as'ore,Binkonye inche."
+      ],
+      "number": 4
+    }
+  ]
+}

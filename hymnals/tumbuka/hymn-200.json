@@ -1,0 +1,48 @@
+{
+  "number": 200,
+  "language": "tum",
+  "title": " 200 Mtuwa, Mtuwa, Mtuwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 200 Mtuwa, Mtuwa, Mtuwa",
+        "C.H. 73 HOLY, HOLY, HOLY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mtuwa, mtuwa, mtuwa! Fumu mwa mphavu",
+        "Namacherochero tikumwimbirani!",
+        "Mtuwa, mtuwa, mtuwa! mwalusungu lose,",
+        "Fumu yakuwusa myirayira."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mtuwa, mtuwa, mtuwa! kwimba wangelo,",
+        "Nakuponya pasi mphumphu kumrumbani,",
+        "Vikwi vikwi m'chanya vikumlambiran,",
+        "Mkawako, mliko, muwengeko swi!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mtuwa, mtuwa, mtuwa! chisi chabisa,",
+        "Maso gha tawanthu ntha ghakumwonani,",
+        "Mtuwa ndimwe pera palijeso m'nyake,",
+        "wamphavu, m'weme, wakufikapo."
+      ],
+      "number": 4
+    }
+  ]
+}

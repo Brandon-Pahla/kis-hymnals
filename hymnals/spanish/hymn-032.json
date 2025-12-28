@@ -1,0 +1,26 @@
+{
+  "number": 32,
+  "language": "es",
+  "title": "Nos reunimos en tu santuario",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Nos reunimos en tu santuario"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nos reunimos en tu santuario,",
+        "donde santos ángeles te rinden",
+        "su loor.",
+        "Vamos a adorar tu gran nombre;",
+        "en la santidad de tu presencia",
+        "te alabo, Señor."
+      ],
+      "number": 2
+    }
+  ]
+}

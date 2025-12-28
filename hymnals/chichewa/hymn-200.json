@@ -1,0 +1,44 @@
+{
+  "number": 200,
+  "language": "ny",
+  "title": "200 - Ndinu Wakuyera!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOLY, HOLY, HOLY!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndinu wakuyera! Wa mphamvu zonse,",
+        "Nthawi ya m’mamawa tiyimba nyimboyi;",
+        "Mlengi wachifundo tikuyamikani,",
+        "Ee, Mlungu m’modzi mwa Atatuwo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndinu wakuyera! Onse pa dziko",
+        "Akuyimbirani nakupempherani;",
+        "Akumwamba omwe nagwadira Inu,",
+        "Wa chikhalire ndi wosafai."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndinu wakuyera! Ife ochimwa,",
+        "Ulemero wanu sitimaona bi!",
+        "Mwayeradi nokha, wina saoneka;",
+        "Wangwiro m’mphamvu ndi m’kuyeramo."
+      ],
+      "number": 4
+    }
+  ]
+}

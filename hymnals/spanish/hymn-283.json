@@ -1,0 +1,25 @@
+{
+  "number": 283,
+  "language": "es",
+  "title": "Ven, Señor Jesús",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ven, Señor Jesús"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ven, Señor Jesús, dirige mi pensar;",
+        "ven, Señor Jesús, protege mi mirar;",
+        "ven, Señor Jesús, modela mi hablar;",
+        "oh, ven, Señor Jesús, mi corazón te",
+        "entrego."
+      ],
+      "number": 2
+    }
+  ]
+}

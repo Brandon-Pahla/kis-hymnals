@@ -1,0 +1,47 @@
+{
+  "number": 21,
+  "language": "tw",
+  "title": "Nyame K'ro a Womporɔ Na Wonhu Wo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame k'ro a Womporɔ na wonhu Wo",
+        "Wo a Wote hann a yentumi nhu mu,",
+        "Wɔahy'ra Wo, 'Nuonyamfo, Tetekwaframoa,",
+        "'Tumfo nkonimdifo, yɛkamfo Wo din."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wonhome, Wompep're, Woyɛ komm sɛ hann;",
+        "Ͻnka Wo b'ribiara, Wode tum' di hen';",
+        "W'atɛntrenee te sɛ mmepɔ. ɛk'rɔn sen'",
+        "Mununkum a ɛma yiedi ne dɔ no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akɛse ne nkumaa ny'naa, Woma wɔn nkwa;",
+        "Wote ase daa, nokwar' nkwa wɔ Wo mu;",
+        "Yɛyɛ prɔmprɔm te sɛ nhaban wɔ dua so,",
+        "Yɛtete gu, yera, na Wonsakra da."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nuonyam Agya Tumfo, Hann Agya Kronkron,",
+        "W'abɔfo kata wɔn anim kamfo Wo;",
+        "Yebeyi Wo ayɛ: boa yɛn ma yenhu",
+        "Sɛ anuonyam hann na ɛde Wo hinta."
+      ],
+      "number": 4
+    }
+  ]
+}

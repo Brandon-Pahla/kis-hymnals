@@ -1,0 +1,37 @@
+{
+  "number": 90,
+  "language": "st",
+  "title": "90 Botle Nako Ea Thapelo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Botle nako ea thapelo! E mpitsang mona lefats’eng,",
+        "Ke bolela kopo tsa ka, Ho Ntate moo a mpiletsang;",
+        "Mohla ke le mahlomoleng, Ke bona pholoho le teng,",
+        "Ke phonyoha moo molekong, Ka nako ea ho rapela."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Botle nako ea thapelo! Ke tla isa kopo ea ka,",
+        "Ho Eena eo ea ts’epang; Ho halaletsa moeti,",
+        "O ntaela o re, ke ’matle, Ke lumele mohau oa hae,",
+        "Tsohle tsa ka li ho eena, ke lete nako’a thapelo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Botle nako ea thapelo!ke fumane khothatso teng,",
+        "Ke tsamaea ke le thabong ke bone hae ke ea fihla",
+        "Ke tsoha ke le ea sa shoeng ke kena moo bosafeleng",
+        "Ke luluetse sebakeng sala hantle moo thapelong."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "number": 158,
+  "language": "st",
+  "title": "158 Akofa Tsatsi La Thabo.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kotulo ea lefats’e e haufi,",
+        "Morena bitsa bakotuli ba Hao.",
+        "Hole le haufi koro e butsoitse;",
+        "E se e loketse ho ke’ngoa seotlong"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Akofa... tsatsi thotang...mangata;",
+        "Akofa... tsatsi re iseng mangata."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moso ola o sa khutleng thabong,",
+        "O nts’o atamela ka lilemo;",
+        "Koro ee qhalantsoeng ke sona sebe,",
+        "E phuthoe hlabula le e-so fete."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ho hotle ho sebetsa ka lerato,",
+        "Nokana e teng e tsoang leholimong,",
+        "Ke lerato leo le re emelang,",
+        "Ts’imong boinehelong bo re makatsang."
+      ],
+      "number": 3
+    }
+  ]
+}

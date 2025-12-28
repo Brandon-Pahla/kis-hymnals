@@ -1,0 +1,47 @@
+{
+  "number": 144,
+  "language": "nd",
+  "title": "144 Emhlabeni Olidundu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi qond’ indlel’ enyukayo Ngi khwela zonk’ izinsuku.",
+        "Ngi nguye okhulekayo; Nkosi, ngi mise phezulu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi, ngi simamiseke Emhlabeni olidundu,",
+        "Endaweni ephakheme Nkosi, ngi mise phezulu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A ngi thandi ukuhlala Lapho kunenkan’ enkulu.",
+        "Kumb’ abanye, ba ngahlala, Mina ngi thanda phezulu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngiph’ inhlalw’ ehlanzekile uSathan’ u yangigwaza;",
+        "Kodw’ inkolo yam’ I zwile; Nkosi, Ngi mise phezulu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi zokhwel’ esiqongweni Ngi bone ukukhazimla;",
+        "Ngi finyel’ ezulwini Nkosi, ngi mise phezulu."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 237,
+  "language": "nd",
+  "title": "237 Sukumelan’ UJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sukumelan’ uJesu Mabuth’ es’phambano;",
+        "Misan’ umthetho wAkhe Mani ngawu lahli,",
+        "Ninqobe nokunqoba Imp’ iholwa nguYe;",
+        "Size sichithw’ isitha uJesu abuse."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sukumelan’ uJesu Lalelani izwi;",
+        "Yiyanini empini Ngal’usuk’ oluhle,",
+        "Madoda, mukhonzeni Phakathi kwezitha;",
+        "Niqine engozini Lwanini ngamandla."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sukumelan’ uJesu Thembelani kuYe;",
+        "Nowa nxa nizethemba Ningazisho neze!",
+        "Hlomani ngeVangeli Nikhuleke njalo;",
+        "Nxa nibizwa kukubi Ningaphuthi lapho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sukumelan’ uJesu Impi izophela;",
+        "Namhla kunga dum’ impi Ngomso ukunqoba,",
+        "Nobani onqobayo Wothweswa umqhele;",
+        "Yena kanye noJesu Wobusa phakade."
+      ],
+      "number": 4
+    }
+  ]
+}

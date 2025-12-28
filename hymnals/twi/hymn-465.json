@@ -1,0 +1,49 @@
+{
+  "number": 465,
+  "language": "tw",
+  "title": "Metee Sɛ Yesu Nne Ka Sɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Metee sɛ Yesu nne ka sɛ:",
+        "\\\"Bra Me nkyɛn bɛhome;",
+        "Fa wo ti bra, wo a woabrɛ",
+        "Fa bɛto Me kokom\\\".",
+        "Mebaa Yesu nkyɛn sɛ mete'i",
+        "ɔbrɛ ne aw'rɛhowm';",
+        "Minyaa ahomegye Ne mu,",
+        "Wama me anigye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Metee sɛ Yesu nne ka sɛ:",
+        "\\\"Hwɛ na Mede nkwa nsu",
+        "Ma kwa, wo a sukɔm de wo",
+        "Koto nom bi nya nkwa\\\".",
+        "Na mebaa Yesu nkyɛn bɛnom",
+        "Nɔkwa asuten no;",
+        "Me sukɔm gyae na me kra nyan,",
+        "Seesei mete Ne Mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Metee sɛ Yesu nne ka sɛ:",
+        "\\\"Mene sum wiase'i hann;",
+        "Hwɛ Me, na w'anɔpa bepue",
+        "Na wo da ayɛ hann\\\".",
+        "Mehwɛɛ Yesu anim mehuu",
+        "Me nsoromma, m'awia,",
+        "Mɛnante saa nkwa hann no mu",
+        "Kosi m'akwantų awiei."
+      ],
+      "number": 3
+    }
+  ]
+}

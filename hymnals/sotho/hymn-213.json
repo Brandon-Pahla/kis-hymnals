@@ -1,0 +1,46 @@
+{
+  "number": 213,
+  "language": "st",
+  "title": "213 Pina Ea Ka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu ’Moloki oa ka, ke Uena pina’ka,",
+        "U Mopholosi oa ka litsietsing tsa ka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesu ’Moloki oa ka, Ke bina ka Uena,",
+        "Ha ke na le motsoalle, Ea ts’oanang le Uena."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Uena ts’epo ea ka, Ka lilemo tsohle,",
+        "U nts’u le pina ea ka le har’a mafifi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu ke U ts’epile, Ke lumetse Uena;",
+        "U moratuoa oa ka fats’eng lena lohle."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Uena thabo ea ka, fats’eng lena mona;",
+        "Ke Uena thabo ea ka leholimong la Hao."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "number": 283,
+  "language": "ts",
+  "title": "283. UN’WANA U TA NGHENA NYANGWEN",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SOMEONE WILL ENTER THE PEARLY GATE",
+        "1. Un’wana U Ta Nghena Nyangweni, Hi Siku Rin’wana,",
+        "U Ta Nghena Ku Kwetsima, Hi Wena Ke! Kumbe Mina? Ku Famba Ndleleni Ya Nsuku, Vona Ntumbuluko Wo Xonga, Na Swo Saseka Swo Tsakisa, Hi Wena Ke? Kumbe Mina?",
+        "2. Xihambano Xi Ta Rhuriwa, Hi Siku Rin’wana,",
+        "Ku Ta Mukeriwa Tiharhi, Hi Wena Ke? Kumbe Mina? Un’wana U Ta Vona Yesu,",
+        "A Ntshuxiwile Nhlomulweni, Wu Ta Va Ntsako Hi Masiku, Hi Wena Ke? Kumbe Mina?",
+        "3. Un’wanyana U Ta Gongondza, Hi Siku Rin’wana,",
+        "Ku Twakala: “A Ndzi Ku Tivi” Hi Wena Ke? Kumbe Mina? A nge Titwi Hambi A Rila, Rivanti Ri Lotleriwile,",
+        "U Ta Tsoniwa Na Hakelo, Hi Wena Ke? Kumbe Mina?",
+        "4. Vuyimbeleri Bya Ku Hlula, Hi Siku Rin’wana,",
+        "Va Dzunisa lava Poneke, Hi Wena Ke? Kumbe Hi Mina?",
+        "Ku Ta Xewetaniwa Kona, Na Lva Feleke Hosini, Ku Tshamiwa Evukosini,",
+        "Hi Wena Ke? Kumbe Mina?"
+      ],
+      "number": 1
+    }
+  ]
+}

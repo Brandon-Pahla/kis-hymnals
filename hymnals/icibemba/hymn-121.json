@@ -1,0 +1,31 @@
+{
+  "number": 121,
+  "language": "bem",
+  "title": "121 - KUTEMWA KWA KWA YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I WILL SING OF JESUS’ LOVE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kutemwa kwakwa Yesu, Eko na ... kulaimba;",
+        "Pantu a- ntemwa kale, No kufwa pa Kalvari.",
+        "CHORUS:",
+        "Nakula ... i-mba lyonse, Kutemwa ... kwa-kwa Yesu;",
+        "Ukuti mbe no mweo, Wene e wamfwilile.",
+        "2. Nalila ne minsoshi, Na Yesu ... andilila;",
+        "Kupepa kwandi kwafye, Kano u-kwa kwa Yesu.",
+        "3. Kutemwa .. , kwa kwa Yesu, Kwacilo ... mulu, calo;",
+        "No bubi bwafitisha, Bukabu-ta nge mpemba.",
+        "4. Nshakuci tile kantu, Pakuti ... 'We untemwe:",
+        "Nakupa ... umutima. Ngafwa ku-ti nkutemwe."
+      ],
+      "number": 2
+    }
+  ]
+}

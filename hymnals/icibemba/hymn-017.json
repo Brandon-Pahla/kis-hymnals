@@ -1,0 +1,31 @@
+{
+  "number": 17,
+  "language": "bem",
+  "title": "17 - TEMWA KUTUSEKESHA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "‘TIS LOVE THAT MAKES US HAPPY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Temwa kutusekesha, Yawamisha nshila;",
+        "Itwafwa ifwe kutemwa Bambi inshiku pe.",
+        "CHORUS:",
+        "Atemwa, ifwe twana twakwe;",
+        "Atemwa tukonka Yesu;",
+        "Temwa kutusekesha, Yawamisha nshila;",
+        "Itwafwa ifwe kutemwa bambi inshiku pe.",
+        "2. Bucushi bwafulisha, Imfwa ne yabubi;",
+        "No kutemwa tukaesha Ukwafwa bambi pe",
+        "3. Lintu umweo wapwa, Lesa aletwita,",
+        "Lwimbo lwesu nshiku shonse Kutemwa kwa Yesu"
+      ],
+      "number": 2
+    }
+  ]
+}

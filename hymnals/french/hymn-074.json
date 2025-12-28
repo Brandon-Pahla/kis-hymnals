@@ -1,0 +1,16 @@
+{
+  "number": 74,
+  "language": "fr",
+  "title": "Christ est ressuscité (Canon)",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Christ est ressucité,",
+        "De son tombeau il s'est levé,",
+        "Alléluia! Alléluia!"
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 226,
+  "language": "tw",
+  "title": "Momma Mo Ti So",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Momma mo ti so, 'ponkɛse!",
+        "Hwɛ sɛ 'nuonyam Hen' no retwɛn;",
+        "Ahene mu Hen' no rebɛn,",
+        "Wiase Agyenkwa no wɔ ha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'rade tene, ɔyɛ boafo;",
+        "Mmɔb'rɔhun' wɔ Ne nkyɛn daa daa;",
+        "Na kronkronyɛ ne N'ahenkyɛw;",
+        "Haw mu tema ne Ne poma."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nhyira nka ɔman ne kuro",
+        "A wɔbɔ ɔhen' Kristo din:",
+        "'Nigye nka koma ne fie a",
+        "ɔhen' yi ba mu nkonimdim'."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bue wo koma pon mu ma No;",
+        "Yɛ no asɔr'fie a wɔatew ho",
+        "Ama ɔsoro dwumadi;",
+        "Nea mpaebɔ, 'dɔ ne 'nigye wom."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔgyefo, bra me koma mu,",
+        "Mibue sɛ bɛtra mu, 'Wura;",
+        "Ma mente Wo nka wɔ me mu,",
+        "Yi W' dom ne dɔ adi ky'rɛ me."
+      ],
+      "number": 5
+    }
+  ]
+}

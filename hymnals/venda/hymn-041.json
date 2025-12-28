@@ -1,0 +1,54 @@
+{
+  "number": 41,
+  "language": "ve",
+  "title": "41 Mudzimu A Vhe Na Inwi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:065",
+        "AH:479"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.Mudzimu a vhe na’nwi nothe, a ni tshimbidze nga ndila,",
+        "A ni vhiele luhura, ri dovhe ri vhonane hafhu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ri de ri tangane, phanda ha Yesu hafhu,",
+        "Ri de ri tangane, Mudzimu a vhe na ’nwi nothe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mudzimu a vhe na’nwi nothe, ni vhe tshilidzini tshawe,",
+        "A ni fhe zwiliwa zwawe, ri dovhe ri vhonane hafhu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mudzimu a vhe na’nwi nothe, matunguni a milingo,",
+        "A tou ni kuvhatedza, ri dovhe ri tangane hafhu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mudzimu a vhe na’nwi ’nothe, A ni dadze nga lufuno,",
+        "Ni tsireledzwe kha lufu, Mudzimu a vhe na’’nwi nothe."
+      ],
+      "number": 5
+    }
+  ]
+}

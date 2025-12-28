@@ -1,0 +1,45 @@
+{
+  "number": 71,
+  "language": "nd",
+  "title": "71 Ibizo Lami Libhaliwe Khona Na?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi ngidel’ imfuyo nayo igolide,",
+        "Ngikhalel’ ukungema kwelisha ilizwe;",
+        "Encwadini yoMbuso, khona ezulwini,",
+        "Msindis’ othandekhayo, mangitshelwe nami."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kamb’ elam’ ibizo, libhaliwe yini?",
+        "Kwenhl’ incwadi yoMbuso, likhona yini na?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi izono zami, zinganges’hlabathi;",
+        "Kodwa igazi lAkho, lanele kumoni.",
+        "Ngob’ is’thembiso sAkho, sona sibhaliwe:",
+        "\"Ngogez’ izono zakho, bese zibamhlope.\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Umuzi okhanyayo, ozindlu zimhlophe,",
+        "Unabangcwele bodwa, abangubo zinhle;",
+        "Ngeke kwangena into ewungcolisayo,",
+        "Zikhon’ izingelosi, eziwulindayo."
+      ],
+      "number": 4
+    }
+  ]
+}

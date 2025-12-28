@@ -1,0 +1,35 @@
+{
+  "number": 123,
+  "language": "guz",
+  "title": "123 Eskuru Y'Esabato",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Eskuru y' Esabato,Ngiya mon'ase nde;Moy'one okogokeire,Esabat enyansu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sabato (Sabato)Enyansu (enyansu)Sabato (Sabato)Enyansu (enyansu)Moy'one okogokeire,Esabat'enyansu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nkoro yane entayayi,'Karor'encher' enyia;Nkarigia aas'agiya,Enka y'esabato."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. As'eriogi riobwanchani,Yeso ondangeire;Erio' mochor'erev bweka,'S'enka y'Esabato."
+      ],
+      "number": 4
+    }
+  ]
+}

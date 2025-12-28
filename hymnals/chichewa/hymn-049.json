@@ -1,0 +1,29 @@
+{
+  "number": 49,
+  "language": "ny",
+  "title": "49 - Ganizo Lokoma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ONE SWEETLY SOLEMN THOUGHT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ganizo lokoma, Limadza m’mtimamu;",
+        "Ndili pafupi ndi kwathu, Koposa kalelo.",
+        "CHORUS:",
+        "Pafupitu, Ndi kwathuko;",
+        "Ndili pafupi ndi kwathu, Koposa kalelo.",
+        "2. Kufupi ndi Tate, Komwe kuli malo;",
+        "Ku mpando wa Yesu Mbuye Ku nyanja yoyera.",
+        "3. Ndili kupitatu, Nditula katundu;",
+        "Ndisiya mtanda wangawo, Kuvala korona."
+      ],
+      "number": 2
+    }
+  ]
+}

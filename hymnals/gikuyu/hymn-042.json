@@ -1,0 +1,31 @@
+{
+  "number": 42,
+  "language": "ki",
+  "title": "42. Uhoro Wa Muoyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "ũhoro wa muoyo, Nĩ wa Mwathani Jesũ,",
+        "Ningĩ nĩ wa hinya ma, gũtũtoongoragia.",
+        "2.",
+        "Na maũndũ mooru, mangĩtũkuhĩrĩria,",
+        "Jesũ nĩwe mũhoti, Wa gũtũhonokia.",
+        "3.",
+        "Hĩndĩ ya magerio, Nĩwe mũtũteithia,",
+        "Tũngĩmũkaĩra ma, nĩegũtũhonokia.",
+        "4.",
+        "Mũndũ ũmwĩhokete, ndangĩaga gũkena,",
+        "Tondũ ũtheri wake, arĩ naguo mwene.",
+        "5.",
+        "ũtoonga wa thĩ ĩno, Ndũngĩtũnyamarũra,",
+        "No thaayũ wa Mwathani, ndũrĩ na mũhaka.",
+        "6.",
+        "Matukũ maathira, Magũtũũra gũũkũ thĩ,",
+        "Tũgatũũra na Jesũ, tene ona tene."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 246,
+  "language": "xh",
+  "title": "246 Theth’ Izwana NgoYesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Theth’ izwana ngoYesu Umhlobo wenene;",
+        "Xel’ indaba emnandi, Xel’ akwenzele kona."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Theth’ izwana ngoYesu, Sinced’ endleleni;",
+        "Izwana ngoYesu, Thetha, vuma, thandaza."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Theth’ izwana ngoYesu, ’Zono zixolelwe;",
+        "Ukuze ngofefe Ufike ezulwini."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Theth’ izwana ngoYesu, Akukho bunzima",
+        "Xa uthi \"Ndiyamthanda Kuba wandifela.\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Theth’ izwana ngoYesu, Sukuchith’ ixesha;",
+        "Ngokuthula uthi tu, Wovuna okubi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Theth’ izwana ngoYesu, Wozuza amandla;",
+        "Xa ukholo lufile, Yek’ akomeleze."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "number": 112,
+  "language": "sn",
+  "title": "112 Upenyu Mukutarisa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Pamuchinjiko pane upenyu, Jesu Ati, \"Nditarise.\"",
+        "Pasi nepfuma ngezvenhando, Pamberi ndoona zvakanaka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mune u-penyu muku-tarisa muchinjiko.",
+        "(Upenyu m’kutarisa pam’chinjiko vaKristu,)",
+        "Upenyu hwakanaka kutarisa Kalvari",
+        "(Upenyu hwakanaka tarisa paKalvari, pakalvari.)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Apo ndakamutarisa Jesu, Iye Akanyemwerera,",
+        "Kuti ndava mumatambudzo, Muchinjiko unondisimbisa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinozotarisa muchinjiko, Ndosimbira muchinjiko;",
+        "Hakuna anozoputsika Vanosimbira simba redenga."
+      ],
+      "number": 4
+    }
+  ]
+}

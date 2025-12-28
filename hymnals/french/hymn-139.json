@@ -1,0 +1,70 @@
+{
+  "number": 139,
+  "language": "fr",
+  "title": "Ô ma joie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Ô ma joie, quand je suis parti",
+        "Pour la maison du Seigneur.",
+        "Quelle joie quand on m’a dit :",
+        "« Allons à la maison du Seigneur ! »",
+        "Et maintenant",
+        "Notre marche prend fin",
+        "Devant tes portes, Jérusalem.",
+        "Jérusalem bâtie comme une ville",
+        "Où tout ensemble fait corps."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "C’est là que montent les tribus",
+        "Les tribus du Seigneur ;",
+        "C’est là qu’Israël doit rendre grâces",
+        "Et confesser le nom du Seigneur ;",
+        "C’est là le siège du pouvoir,",
+        "Le siège de la maison de David."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Appelez la paix sur Jérusalem :",
+        "« Ceux qui t’aiment",
+        "Seront réconciliés.",
+        "Que la paix soit dans tes murs",
+        "Et la sécurité dans tes parvis. »"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pour l’amour de mes frères,",
+        "De mes amis,",
+        "Je dis : « Que la paix soit sur toi ! »",
+        "Par amour pour la maison",
+        "Du Seigneur, notre Dieu,",
+        "Je demande pour toi le bonheur."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gloire au Père, au Fils,",
+        "Au Saint-Esprit,",
+        "Maintenant et à jamais,",
+        "Au Dieu qui est,",
+        "Qui était et qui vient,",
+        "Dans les siècles des siècles."
+      ],
+      "number": 5
+    }
+  ]
+}

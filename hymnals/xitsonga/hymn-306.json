@@ -1,0 +1,17 @@
+{
+  "number": 306,
+  "language": "ts",
+  "title": "306. NDZI VONE TINXAKA TA MISAVA HINKWAYO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndzi Vone Tinxaka Ta Misava Hinkwayo, Ti Yime Mahlweni Ka Hosi;",
+        "Va Pfula Tibuku Ta Mintirhi Ya Vanhu, Ha Un’we Va Tengisiwa Nandzu.",
+        "Swi Lo Yini U Nga Chavi Xikwembu, Swi Lo Yini U Nga Chavi Tatana;",
+        "Ndzi Vone Tinxaka Ta Misava Hinkwayo, Ti Yime Mahlweni Ka Hosi."
+      ],
+      "number": 1
+    }
+  ]
+}

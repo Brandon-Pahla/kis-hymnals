@@ -1,0 +1,45 @@
+{
+  "number": 107,
+  "language": "nd",
+  "title": "107 Ngi Tshele Indaba ka Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi tshel’ indaba ka Yesu, Yilob’ enhliziyweni;",
+        "Ngi tshel’ indab’ eligugu Ehlamusa kamnandi.",
+        "Iculo lezingelozi Mhlan’ ezalwa uJesu,",
+        "Dumo ngakweliPhezulu Nokuthul’ emhlabeni."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi tshel’ indaba ka Jesu Yilob’ enhliziyweni;",
+        "Ngi tshel’ indaba eligugu Ehlamusa kamnandi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wazil’ eyedwa ehlane Yish’ ubunzima bAkhe;",
+        "Elingwa ngezono zethu Wanqob’ ekugcineni.",
+        "Yisho umsebenzi wAkhe Yish’ ubunzima bAkhe,",
+        "Wadelwa wezw’ ubuhlungu Engenakhay’ empofu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yisho nges’ phambano sAkhe Nomunyu wobuhlungu;",
+        "Yisho nangethuna lAkhe Yisho ngovuko lwAkhe.",
+        "Ngi thintwa yisis’ es’khulu Sicacile kakhulu,",
+        "Yi phinde kimi lendaba Yokungihlawulela."
+      ],
+      "number": 4
+    }
+  ]
+}

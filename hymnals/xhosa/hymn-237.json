@@ -1,0 +1,47 @@
+{
+  "number": 237,
+  "language": "xh",
+  "title": "237 Sukumelan’ U-Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sukumelan’ uYesu majon’ omnqamlezo;",
+        "Mayiphakame indwe, Ingoyisakali,",
+        "Phambili ngoloyiso,Uyanikhokela,",
+        "Lude luphel’ utshaba, U-Yesu yiNkosi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sukumelan ’uYesu, Litsho ixilongo,",
+        "Phambili edabini, Ngale mini yaKhe.",
+        "Madoda hlanganani Nilwe nal’ utshaba,",
+        "Yibani nesibindi, Nikhule ngamandla."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sukumelan’ uYesu, Thembelani kuYe,",
+        "Nowa xa nizithemba, NguYe onamandla.",
+        "Xhobelan’ ivangeli Nithandaze njalo;",
+        "Xa nibizwa kukubi, Manifumaneke."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sukumelan’ uYesu Kufuph’ ukuphela,",
+        "Naxa nilwa namhlanje Ngomso luloyiso.",
+        "Kulowo weyisayo, Sikhon’ isithsaba,",
+        "Alawule noYesu Kube naphakade."
+      ],
+      "number": 4
+    }
+  ]
+}

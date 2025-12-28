@@ -1,0 +1,68 @@
+{
+  "number": 112,
+  "language": "fr",
+  "title": "Comme une terre",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Comme une terre altérée",
+        "Soupire après l'eau du ciel,",
+        "Nous appelons la rosée",
+        "De ta grâce, Emmanuel!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Fraîches rosées,",
+        "Descendez sur nous tous!",
+        "O divines ondées,",
+        "Venez, arrosez-nous !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Descends, ô pluie abondante,",
+        "Coule à flots dans notre coeur,",
+        "Donne à l'âme languissante",
+        "Une nouvelle fraîcheur."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne laisse en nous rien d'aride",
+        "Qui ne soit fertilisé;",
+        "Que le coeur le plus avide",
+        "Soit pleinement arrosé."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oui, que les déserts fleurissent",
+        "Sous tes bienfaisantes eaux;",
+        "Que les lieux secs reverdissent",
+        "Et portent des fruits nouveaux."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Viens, ô salutaire pluie,",
+        "Esprit de grâce et de paix,",
+        "Répands en nous une vie",
+        "Qui ne tarisse jamais."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 242,
+  "language": "en",
+  "title": "242 Blest Be The Tie.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Blest be the tie that binds,",
+        "Our hearts in Christian love!",
+        "The fellowship of kindred minds,",
+        "Is like to that above."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Before our Father’s throne,",
+        "We pour our ardent prayers;",
+        "Our fears, our hopes, our aims are one,",
+        "Our comforts and our cares."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "We share our mutual woes,",
+        "Our mutual burdens bear;",
+        "And often for each other flows,",
+        "The sympathizing tear."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "When we asunder part,",
+        "It gives us inward pain;",
+        "But we shall still be joined in heart,",
+        "And never part again."
+      ],
+      "number": 4
+    }
+  ]
+}

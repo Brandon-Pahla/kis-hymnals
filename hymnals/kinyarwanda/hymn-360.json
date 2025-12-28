@@ -1,0 +1,30 @@
+{
+  "number": 360,
+  "language": "rw",
+  "title": "360 Wisubika Kwihana Nshuti",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 360 Wisubika Kwihana Nshuti",
+        "**1**",
+        "Wisubika kwihana nshuti;",
+        "Ni nko kubwir'Umwuka Wera,",
+        "Ngo genda rwose,",
+        "Jye nzihan'undi munsi.",
+        "Mbega ng'uribuza amahirwe!",
+        "**2**",
+        "Wisubika kwihana nshuti;",
+        "Dore Yes'atez'ibiganza.",
+        "Ihan'uyu munsi, emer'umusange;",
+        "Aguh'ubugingo agukize.",
+        "**3**",
+        "Wisubika kwihana nshuti;",
+        "Dor'igihe kirarangiye.",
+        "Rwos'igihe cy'imbabazi kirashize,",
+        "Fatirana bwang'usange Yesu."
+      ],
+      "number": 1
+    }
+  ]
+}

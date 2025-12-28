@@ -1,0 +1,38 @@
+{
+  "number": 261,
+  "language": "xh",
+  "title": "261 Ntili Entle Yase-Eden",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ntili entle yase-Eden, Imnandi emini;",
+        "Kwintliziy’ ediniweyo Izis’ ukuphila."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ntili entle yase-Eden, Khaya lobumnandi;",
+        "Xa ndifikelwe zinkathazo, Ndicing’ obo bumnandi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kontliziyo ikhalayo Iyakhany’ imini;",
+        "Inengoma yengelosi, Izis’ ubumnandi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nal’ ikhaya loMsindisi, Nabathengwa balo;",
+        "Abo bathengwa ngegazi Bavum’ ingom’ entsha."
+      ],
+      "number": 3
+    }
+  ]
+}

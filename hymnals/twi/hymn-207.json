@@ -1,0 +1,46 @@
+{
+  "number": 207,
+  "language": "tw",
+  "title": "Ebia Ͻbɛyɛ 'Nɔpa a Ade Rekye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ebia ɛbɛyɛ 'nɔpa a ade rekye,",
+        "B're a owia hann repam anadwo sum no;",
+        "Na Yesu bɛba wɔ N'anuonyam nyinaa mu",
+        "Abɛgye Ne de wiasem'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "'W'ra Yesu, enkosi da bɛn?",
+        "Na yɛato 'h'rusi dwom?",
+        "Kristo reba, Haleluya!",
+        "Haleluya! Amen, Haleluya! Amen."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ebia ɛbɛyɛ 'wigyinae anaa nhema,",
+        "Ebia anadwo 'dasu mu sum kɛse no",
+        "Bɛdan hann wɔ Yesu anuonyam kɛse nom,",
+        "B'rč a ɔbɛgye Ne de no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ahosɛpɛ ni sɛ yɛrenhu owu bio!",
+        "Yare, aw'rɛhow ne osu betwam akɔ;",
+        "Yebehyia 'W'rade wɔ wim akɔ 'nuonyam mu,",
+        "B'rč a ɔbɛgye Ne de no"
+      ],
+      "number": 3
+    }
+  ]
+}

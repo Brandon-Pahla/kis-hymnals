@@ -1,0 +1,36 @@
+{
+  "number": 99,
+  "language": "bem",
+  "title": "99 - LINTU NAMONA LUPANDA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHEN I SURVEY THE WONDEROUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Lintu namona ‘lupanda,",
+        "Mfumu yandi yafwile 'ko;",
+        "Fyuma fyandi fyonse fyafye;",
+        "Ndesula cilumba candi.",
+        "2. Mona ifintu acita,",
+        "Pantu atutemwishisha;",
+        "Nomba fibi fyandi fyonse,",
+        "Ndeposa mu m'lopa wakwe.",
+        "3. Ine nalubile kale,",
+        "Nomba naelelwa cine;",
+        "Nshili ne cintu kuilumba,",
+        "Kano mu lupanda lwakwe.",
+        "4. Nangu calo conse candi,",
+        "lci cacepa kupelwa;",
+        "Kuli ukutemwa kwakwe,",
+        "Alefwayo mweo weka."
+      ],
+      "number": 2
+    }
+  ]
+}

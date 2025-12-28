@@ -1,0 +1,25 @@
+{
+  "number": 149,
+  "language": "ts",
+  "title": "149. FAMBA KU VONAKALENI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WALK IN THE LIGHT",
+        "1. Famba Ku Vonakaleni, A Wu Nga Lahleki;",
+        "Moya Lowo Kwetsima, Hlongola Munyama.",
+        "CHORUS",
+        "Ku. . .Vonakale. . .ni (Famba Ku Vonakaleni)",
+        "Famba Ku Vonakalani Ka Hosi.",
+        "2. Famba Ku Vonakaleni, Ka Rito Ra Hosi;",
+        "Ku Sukela Evutshweni, U Va Lo Tshembeka.",
+        "3. Famba Ku Vonakaleni, U Nga Chavisiwi;",
+        "Munyama Wu Ta Baleka, Loko Hosi Yi Ta.",
+        "4. Famba Ku Vonakaleni, Hosi Ya Ku Rhandza;",
+        "Ntsako Wa Le Tilweni, Wu Tlula Misava."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "number": 276,
+  "language": "xh",
+  "title": "276 U-Yesu Wandifuna",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yes’ uMsindisi wez’ eBethlehem;",
+        "Wazalelw’ emkhombeni ngosizi;",
+        "O! malibongwe iGama laKhe, Wayefuna mna.",
+        "Wayefuna mna . . . Wayefuna mna . . .",
+        "O! malibongwe iGama lakhe, Wayefuna mna."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wahlaul’ ityala emnqamlezweni,",
+        "’Kuze ndikhululwe esonweni;",
+        "O! isimanga, weva kanjani? Wayefela mna.",
+        "Wayefela mna . . . Wayefela mna . . .",
+        "O! isimanga, weva kanjani? Wayefela mna."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lo Yesu wayekho kwamandulo,",
+        "Wandifuna ndikude nekhaya;",
+        "Ngokuzola wandicenga-cenga, Endibiza mna.",
+        "Endibiza mna . . . Endibiza mna . . .",
+        "Ngokuzola wandicenga-cenga, Endibiza mna."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U-Yes’ uMsindisi uyabuya,",
+        "Liding’ elihle kwabaKholwayo;",
+        "Ndombona ndivuye xa esiza, Ezok’ thatha mna.",
+        "Ezothatha mna . . . Ezothatha mna . . .",
+        "Ndombona ndivuye xa esiza, Ezok’ thatha mna."
+      ],
+      "number": 4
+    }
+  ]
+}

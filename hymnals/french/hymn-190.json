@@ -1,0 +1,43 @@
+{
+  "number": 190,
+  "language": "fr",
+  "title": "Comme au premier jour",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Comme au premier jour le jour se lève.",
+        "Un chant de rêve",
+        "S'élève aux cieux.",
+        "En ce nouveau jour, dans ta lumière,",
+        "En toi j'espère,",
+        "Seigneur, mon Dieu !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dès le matin clair vient la rosée ;",
+        "L'herbe enchantée",
+        "Lève ses brins.",
+        "L'oiseau dans les airs te glorifie,",
+        "Je te confie",
+        "Mes lendemains."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Et la lumière donne naissance",
+        "À l'espérance,",
+        "Jour de bonheur !",
+        "Tout est prière, aussi j’aspire",
+        "À te redire :",
+        "Merci Seigneur !"
+      ],
+      "number": 3
+    }
+  ]
+}

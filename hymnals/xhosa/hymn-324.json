@@ -1,0 +1,43 @@
+{
+  "number": 324,
+  "language": "xh",
+  "title": "324 Thetha, Nkosi, Ndilindele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Thetha, Nkosi, ndilindele Oko kuthethwayo kum;",
+        "Elolizwi lenkuthazo Malivakaliswe kum.",
+        "Ndimamele, Nkosi yam, Theth’ ilizwi laKho kum."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuze ndibe nokuqonda, Malibizw’ igama lam;",
+        "Ndibe nokukulandela Wen’ ongu-Malusi wam;",
+        "Kumadlelo amahle, Apho ndonwaba khona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Noko ndingento yalutho Maundive Nkosi yam;",
+        "Nguwe wedwa olwaziyo, Ulangazelelo lwam;",
+        "Uyazaz’ intswelo zam, Mandisikelelwe nam."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thetha, ndiv’ ilizwi laKho, Ndizilungiselele",
+        "Ukufeza ngenyameko Wonk’ umyalezo waKho;",
+        "Ndimamele, Nkosi yam, Elolizwi laKho kum."
+      ],
+      "number": 4
+    }
+  ]
+}

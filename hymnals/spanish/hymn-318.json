@@ -1,0 +1,65 @@
+{
+  "number": 318,
+  "language": "es",
+  "title": "En la mansión de mi Señor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### En la mansión de mi Señor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En la mansión de mi Señor",
+        "no habrá ya más tribulación,",
+        "no habrá pesar, ningún dolor,",
+        "que me quebrante el corazón."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Allá no habrá tribulación,",
+        "ningún pesar, ningún dolor;",
+        "y entonaré feliz canción",
+        "de alabanza al Señor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Resulta triste estar aquí",
+        "muy lejos de mi Redentor,",
+        "mas morarán con él allí",
+        "los redimidos por su amor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Perfecto amor encontraré",
+        "en la mansión do Cristo está;",
+        "perfecta calma allí tendré,",
+        "y mi alma al fin descansará."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En su presencia gozaré",
+        "su inmenso amor, su gran bondad;",
+        "feliz con Cristo reinaré",
+        "por toda la eternidad."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "number": 466,
+  "language": "pt",
+  "title": "Louvai-O",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Louvai-O"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Louvai-O! Louvai-O!",
+        "Todas as crianças;",
+        "Deus é amor! Deus é amor!",
+        "Louvai-O! Louvai-O!",
+        "Todas as crianças;",
+        "Deus é amor! Deus é amor!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Servi-O! Servi-O!",
+        "Todas as crianças;",
+        "Deus é amor! Deus é amor!",
+        "Servi-O! Servi-O!",
+        "Todas as crianças;",
+        "Deus é amor! Deus é amor!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amai-O! Amai-O!",
+        "Todas as crianças;",
+        "Deus é amor! Deus é amor!",
+        "Amai-O! Amai-O!",
+        "Todas as crianças;",
+        "Deus é amor! Deus é amor!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Louvai e Adorai-O!",
+        "Todas as crianças;",
+        "Deus é amor! Deus é amor!",
+        "Louvai e Adorai-O!",
+        "Todas as crianças;",
+        "Deus é amor! Deus é amor!"
+      ],
+      "number": 5
+    }
+  ]
+}

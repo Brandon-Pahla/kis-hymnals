@@ -1,0 +1,51 @@
+{
+  "number": 67,
+  "language": "xh",
+  "title": "67 Ukusinga E-Ziyon",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yizani be-Nkosi, Sazise ngothando;",
+        "Sidume ngengom’ emnandi, Sidume ngengom’ emnandi,",
+        "Sibek’ ubukhosi, Sibek’ ubukhosi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Masiye e-Ziyon’ Au! Ubuhle be-Ziyoni;",
+        "Tenor &amp; Bass: Masiye khon’ eZiyon.",
+        "Siya singisa phezulu, Umzi omhle oka-Thixo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngekhe bahlabele Abange nambeko;",
+        "Ke abantwana be-Nkosi, Ke abantwana be-Nkosi,",
+        "Baya memelela, Baya memelela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Intaba ye-Ziyon’, Izis’ okumnandi,",
+        "Ngohambo lwase-Zulwini, Ngohambo lwase-Zulwini,",
+        "Ndlela ye-golide, Ndlela yegolide."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bongani ngengoma, Sulan’ inyembezi,",
+        "Dumo ku-Emanueli, Dumo ku-Emanueli,",
+        "Mkhokel’ ezulwini, Mkhokel’ ezulwini"
+      ],
+      "number": 4
+    }
+  ]
+}

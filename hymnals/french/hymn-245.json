@@ -1,0 +1,17 @@
+{
+  "number": 245,
+  "language": "fr",
+  "title": "Conduis-moi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Conduis-moi, montre-moi le bon chemin,",
+        "La force de mes lendemains.",
+        "Car tu es Dieu, le Dieu qui me sauve,",
+        "Le Dieu qui me garde dans son lieu saint."
+      ],
+      "number": 1
+    }
+  ]
+}

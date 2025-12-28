@@ -1,0 +1,46 @@
+{
+  "number": 512,
+  "language": "fr",
+  "title": "Guide-moi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Guide-moi, berger fidèle,",
+        "En ce monde pèlerin,",
+        "Prends pour toi mon cœur rebelle,",
+        "Guide-moi, sois mon soutien,",
+        "Pain de vie, pain de vie,",
+        "De ta grâce nourris-moi,",
+        "De ta grâce nourris-moi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sois pour moi la source vive",
+        "Des biens les plus précieux,",
+        "Fais que pour toi seul je vive,",
+        "Guide-moi du haut des cieux.",
+        "Viens, protège, viens, protège,",
+        "Sois mon roc, mon bouclier,",
+        "Sois mon roc, mon bouclier."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Du Jourdain je suis les rives;",
+        "Quand j'ai peur, rassure-moi.",
+        "À Sion, qu'enfin j'arrive,",
+        "Affermis ma faible foi;",
+        "Tes louanges, tes louanges,",
+        "À jamais, je chanterai,",
+        "À jamais, je chanterai."
+      ],
+      "number": 3
+    }
+  ]
+}

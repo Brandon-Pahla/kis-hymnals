@@ -1,0 +1,35 @@
+{
+  "number": 86,
+  "language": "guz",
+  "title": "86 'S'Omogoko Natomokerere",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'S'omogoko natomokorere,Omonen'emerem'emiya;Kende gionsi bun'Er'arachike,'S'okwegena natogekore."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Korera (Korera) Yeso,As'omogoko (ee) As'omogoko,Korera (Korera) Yeso,'S'omogond'oy'as'ense."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'S'omogoko ntoteb'omogano,Bw'obwanchani bway'as'abanto;Krist' ore oborabu bwa Tata,Natoe ogosesenigwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'S'oboitongo tomotunye Yeso,Totare chincher'atarete;Toirani' abasiru as'Omotoria,Baror' Emanwa ya Nyasae."
+      ],
+      "number": 4
+    }
+  ]
+}

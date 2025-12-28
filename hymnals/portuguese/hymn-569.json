@@ -1,0 +1,56 @@
+{
+  "number": 569,
+  "language": "pt",
+  "title": "Oh, Vale do Éden, Formoso!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Oh, Vale do Éden, Formoso!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, vale do Éden, formoso,",
+        "Pátria de amor e luz!",
+        "Trazes aos tristes o gozo,",
+        "Fala-nos de Jesus."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Oh, vale do Éden, formoso,",
+        "Pátria que não tem par!",
+        "Oh! Como eu me sinto saudoso",
+        "De ti, meu eterno lar!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bem cedo nossos anseios",
+        "Hão de se realizar;",
+        "Não mais teremos receios,",
+        "Nem aflições, pesar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lá junto ao trono divino,",
+        "Os salvos cantarão",
+        "Doces acordes de um hino",
+        "Que fala de perdão."
+      ],
+      "number": 5
+    }
+  ]
+}

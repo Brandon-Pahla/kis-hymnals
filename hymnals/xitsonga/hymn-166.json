@@ -1,0 +1,24 @@
+{
+  "number": 166,
+  "language": "ts",
+  "title": "166. RIBYE RA MASUNGULO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ROCK OF AGES",
+        "1. Ribye Ra Masungulo, Ndzi Tumbela Ka WEna, Ngati Leyi Mpfempfaka,",
+        "Hlangutini Ra Wena, A Yi Hlantswe Vudyoho,",
+        "Ndzi Sala Ndzi Tengile.",
+        "2. A Hi Mintirho Yanga, Yi Nga Ndzi Khanisaka,",
+        "Ndzi Nga Lwa Hi Matimba, Ndzi Tshonisa Mihloti, Swi Nge Susi Vudyoho, Ndzi Ponise Xikwembu.",
+        "3. A Ndzi Tshembhanga Nchumu, Handle Ka Xihambani, Fihla Vusweti Byanga,",
+        "Tsetsela Hi Nsovo, Ndzi Ta Exihlobyeni, Ndzi Ponise Ku Loven.",
+        "4. Makun’win Ya Rendzo, Ndzi Ta Rindza Esirhen,",
+        "Ku Kondza Loko Yesu A Ta Ata Ndzi Pfuxa, Ribye Ra Masungulo,",
+        "Ndza Tumbela Ka Wena."
+      ],
+      "number": 1
+    }
+  ]
+}

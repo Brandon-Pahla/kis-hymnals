@@ -1,0 +1,42 @@
+{
+  "number": 109,
+  "language": "guz",
+  "title": "109 Tokob'Omosunte",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tokob'Omosunte Yes'ogocha,Tokob'Omosunte Yes'ogocha;Tokob'Omosunte Yes'ogocha,Kobaira abanchwa nka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kobaira abanchwa nka ('ra nka),Kobaira abanchwa nka ('ra nka);Tokob' Omosunte Yes' Ogocha,Kobaira abanchwa nka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Bororo mbokoba Yes' Ogocha,Bororo mbokoba Yes' Ogocha;Neb'emambi' engiya Yes'ogocha.Kobaira abanchwa nka."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kweumia ngokaiy' Eker'agocha,Kweumia ngokaiy' Eker'agocha;Rigesa rigiya Yes'ogocha,Kobaira abanchwa nka."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Matera, makwania Yes'ogocha,'Matera, makwania Yes'ogocha;Koumer' abasani Yes'ogocha;Kobaira abanchwa nka."
+      ],
+      "number": 5
+    }
+  ]
+}

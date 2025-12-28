@@ -1,0 +1,37 @@
+{
+  "number": 175,
+  "language": "xh",
+  "title": "175 Msindisi, Njengo-Malusi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sikhokhele njengo-Malus’; Sinqwena njalo, Nkosi;",
+        "Salusele kwelo dlelo, Sakhele ubuhlanti;",
+        "Yesu wethu, Yesu wethu, Wasithenga kwaphela;",
+        "Yesu wethu, Yesu wethu, Wasithenga kwaphela."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "SingabaKho Mhlobo wethu, Sigcine endleleni;",
+        "Sikhusele esonweni; Sifune sakunxaxha;",
+        "Yesu wethu, Yesu wethu, Sive sakuthandaza;",
+        "Yesu wethu, Yesu wethu, Sive sakuthandaza."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wena uthe wosamkela Noxa sizintsizana;",
+        "Unenceba nobabalo, Sihlambe ngamandl’ aKho;",
+        "Yesu wethu, Yesu wethu, Siyabuya ngokunje;",
+        "Yesu wethu, Yesu wethu, Siyabuya ngokunje."
+      ],
+      "number": 3
+    }
+  ]
+}

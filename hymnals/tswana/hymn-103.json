@@ -1,0 +1,46 @@
+{
+  "number": 103,
+  "language": "tn",
+  "title": "103 Mmusi O Tsile Go Jeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mmusi O Tsile Go Jeso ’Sigo,",
+        "Go Mmotsa ka tsela ya polokego;",
+        "Moruti a araba ka thanolo.",
+        "\"Lona tsalwang gape.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "\"Lona tsalwang gape,",
+        "Lona tsalwang gape,",
+        "Ammaruri, amaaruri, Ke go ra’a,",
+        "Lona tsalwang gape.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bana Ba Batho Reetsang Foko",
+        "Je le builweng ke Jeso Morena,",
+        "Lo se le dire thomo ya lefela",
+        "\"Lona tsalwang gape.\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lona Ba Lo Ka Tsenang Boikhutsong,",
+        "Lwa opela gone le babolokwa,",
+        "Fa lo tla bona’ tshelo bo sa khutleng,",
+        "\"Lona tsalwang gape.\""
+      ],
+      "number": 3
+    }
+  ]
+}

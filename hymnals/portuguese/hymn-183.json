@@ -1,0 +1,66 @@
+{
+  "number": 183,
+  "language": "pt",
+  "title": "Dá Teu Coração a Jesus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Dá Teu Coração a Jesus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Queres o teu vil pecado vencer?",
+        "Dá teu coração a Jesus.",
+        "Queres também Seu favor receber?",
+        "Dá teu coração a Jesus."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Vem logo, sem hesitar",
+        "Vem a Jesus te entregar!",
+        "Oh, busca em Cristo o perdão,",
+        "E dá-Lhe teu coração."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Em santidade desejas viver?",
+        "Dá teu coração a Jesus.",
+        "Queres do Espírito Santo o poder?",
+        "Dá teu coração a Jesus."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A tempestade não quer acalmar?",
+        "Dá teu coração a Jesus.",
+        "Queres as tuas paixões dominar?",
+        "Dá teu coração a Jesus."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dentre os amigos alguém te traiu?",
+        "Dá teu coração a Jesus.",
+        "Busca a amizade de quem te remiu;",
+        "Dá teu coração a Jesus."
+      ],
+      "number": 6
+    }
+  ]
+}

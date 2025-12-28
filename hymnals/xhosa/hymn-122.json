@@ -1,0 +1,43 @@
+{
+  "number": 122,
+  "language": "xh",
+  "title": "122 Kufuphi Ngakumbi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kufuphi neyakh’ intliziyo, Nditsalele kuyo m-Sindisi wam;",
+        "Ndisongele kuwe Nkosi yam, Ndifihl’ \"Ezibukweni Lophumlo\"",
+        "Ndifihl’ \"Ezibukweni Lophumlo.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kufuphi nawe, Andinanto, Tu nombingelelo, Kumkani wam;",
+        "Kuphela ndiza nentliziyo, Nceda yihlamb’ egazini laKho,",
+        "Nceda yihlamb’ egazini laKho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kufuphi nawe, ndingowaKho, Ngovuyo ndilahl’ isono sonke,",
+        "Noyolo kwa nekratshi laso, Ndinik’ u-Yesu obethelweyo,",
+        "Ndinik’ u-Yesu obethelweyo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kufuphi nawe, kusekh’ ubom’ Ndize ndinqatyisw’ eluzukweni;",
+        "Ndibe lapho ngonaphakade, Kufuphi nawe O Msindisi wam.",
+        "Kufuphi nawe, O Msindisi wam."
+      ],
+      "number": 4
+    }
+  ]
+}

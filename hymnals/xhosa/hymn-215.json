@@ -1,0 +1,48 @@
+{
+  "number": 215,
+  "language": "xh",
+  "title": "215 Lindela Ungasoli",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ikhay’ elingaguquki, Elingenazo nentsizi,",
+        "Ewe! Likhaya loyolo; Nguban’ ongelithandiyo?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Linda ngobulali nomonde, Linda ngobulali nomonde;",
+        "(Linda, O, linda ngobulali nomonde) (2)",
+        "Linda, linda, linda ungasoli.",
+        "(Linda, O, linda; Linda, O, linda; Linda ungasoli, ungasoli)."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Naxa uqotywa ngumthwalo, Oko kwenziw’ ezulwini,",
+        "Unga ungade ufike, Linda ngobulali wena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ukub’ indlel’ inameva, Cinga ngowathwal’ entloko;",
+        "Ukub’ uzele lusizi, Kwakunjalo nakongcwele."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thwala noko kubuhlungu, Ngathi akukhathalelwe;",
+        "Umhla wophumlo wofika; Linda ngobulali wena."
+      ],
+      "number": 4
+    }
+  ]
+}

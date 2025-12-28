@@ -1,0 +1,46 @@
+{
+  "number": 38,
+  "language": "tn",
+  "title": "38 Tlhomamang Lo Emele Modimo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tlhomamang Lo Emele Modimo,",
+        "Modumong wa ntwa, le mo dintelong;",
+        "Ke ’Fika fela, je le nonotshang,",
+        "Fa sebe se le gaufi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "A re emeng ’Fikeng, Re tlhomame, Fikeng,",
+        "Lefikeng ja ga Kresete",
+        "Mme fa re itshoka, Re tla tlhomama,",
+        "Gare ga ba’ mo teroneng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tlhomamang Lo Emele Tshiamo,",
+        "Lo itsheke pelo, lo nne tumelong;",
+        "Ke Lefika je le nayang phenyo,",
+        "Diphosong tsa lefatshe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tlhomamang Mme Lo Emele Nnete,",
+        "E tla lo thusa, lefa e diega;",
+        "Ke ’Fika je le nayang kagiso,",
+        "Fa go fetile phefo."
+      ],
+      "number": 3
+    }
+  ]
+}

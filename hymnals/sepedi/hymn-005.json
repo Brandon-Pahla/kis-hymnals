@@ -1,0 +1,72 @@
+{
+  "number": 5,
+  "language": "nso",
+  "title": " 5 A GAE KE KGOLE NA?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 5 A GAE KE KGOLE NA?",
+        "AH 414 CH 665",
+        "HOW FAR FROM HOME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gae ke kgole kudu na?",
+        "Ke botšišitše moleti,",
+        "A re 'šego bofetile,",
+        "Bjale go tla masa,",
+        "Ka gona \"O se sa lla,",
+        "Eupša sepela ka tshepo,",
+        "O tlo fihla matšatšing",
+        "Ao a sa feleng\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke botšišitšese hlopeng,",
+        "Košaya sona ke e reng,",
+        "\"Ka sebete ke tlo lwa ntwa,",
+        "Ka tshosa le bora,",
+        "Ka gona \"O se sa lla,",
+        "Ntweng o kgotlelele,",
+        "Moputso ke wa mofenyi,",
+        "ge jetšea fentse\":"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke botsisitse 'long tšohle,",
+        "Di re ka lentšu le letee,",
+        "'\"Nako yona e a fela,",
+        "Gae le bonale\",",
+        "Ka gona o se sa lla,",
+        "Di pontiho di a bonala,",
+        "Dilo tšohle di tsetsela",
+        "Di nyoretšwe Khutšo\";"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gae ga go sa le kgole,",
+        "A kakanyo e botse bjang,",
+        "E ba thabong molelere,",
+        "Phumola megokgo,",
+        "Ka gona \"O se sa lla,",
+        "Re tlo kopana kwa pele,",
+        "Matshwenyego a fedile,",
+        "Motseng wa khuso\""
+      ],
+      "number": 5
+    }
+  ]
+}

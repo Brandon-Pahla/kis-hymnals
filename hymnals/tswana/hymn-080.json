@@ -1,0 +1,54 @@
+{
+  "number": 80,
+  "language": "tn",
+  "title": "80 Kwa Tirong!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kwa Tirong: Kwa Tirong: Roma Ba Modimo,",
+        "Re lateleng tsela ya Moren’a rona;",
+        "Ka lefoko ja Gagwe A re nonotshe,",
+        "A re direng ka thata se re se dirang."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Re direng, re direng, Re direng, re direng,",
+        "R’ ikanyeng, re diseng, Re direng Morena A tle."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwa Tirong: Kwa Tirong: Ba Tlala Ba Jeseng;",
+        "Motsweding wa Botshelo isang banyorwi;",
+        "Kgalalelo ya rona e nne mokgorong,",
+        "Fa re bolela mafoko a \"Poloko.\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwa Tirong: Kwa Tirong: Botlhe Ba Ka Dira,",
+        "Gonne bogosi jwa lefifi bo tla wa;",
+        "Leina ja Jehofa le tla godiswa,",
+        "Mo go dumeng ga mantswe, \"Poloko fela\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwa Tirong: Kwa Tirong Go Ya Kwa Bokhutlong,",
+        "Gonne go tla thobo go tla le barobi;",
+        "Mme re tla nna legaeeng ja babolokwa,",
+        "Mme re ntse re opela \"Poloko fela\""
+      ],
+      "number": 4
+    }
+  ]
+}

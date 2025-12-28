@@ -1,0 +1,27 @@
+{
+  "number": 262,
+  "language": "tw",
+  "title": "'Dɛw Honhom Kronkron",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ɔdɛw honhom bi wɔ saa beae ha,",
+        "Na minim sɛ ɛyɛ Aw'rade honhom;",
+        "ɔdɛw kɛse wɔ obiarā anim,",
+        "Na minim sɛ wɔte Aw'rade no nka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "'Dɛw Honhom Kronkron, S'ro Ab'rɔnoma,",
+        "Tra yɛn nkyɛn ha na Fa Wo dɔ hyɛ yɛn ma,",
+        "Nhyira yi nti, yɛma koma so 'yeyim',",
+        "Na yebehu ampa'ra sɛ yɛanya nkanyan",
+        "B're a yebefi ha."
+      ]
+    }
+  ]
+}

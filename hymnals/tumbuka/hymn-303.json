@@ -1,0 +1,86 @@
+{
+  "number": 303,
+  "language": "tum",
+  "title": " 303 Kale Wanthu M'lukutu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 303 Kale Wanthu M'lukutu",
+        "Who Is He In Yonder Stall?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Kale wanthu m'lukutu wakamusopa mwana."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndiyo Yesu Fumu yane Ndiyo Fumu ya kuchanya,",
+        "vianthu wamjikamire timutamike Fumu,"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Wakakavuka lyo nakuchita milimo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Munthu uyo ni njani wakuyezgeka nthena?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Wakalira ni njani pakufwa m'bwezi wake?"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "M'munda mula ni njani wakathiska ndopa ntho!?"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "6.",
+        "lyo ni njani m'mphinga wakafiwira warwani?"
+      ],
+      "number": 7
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "7.",
+        "Mu madazi ghatatu wakafuma m'malaro?"
+      ],
+      "number": 8
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "8.",
+        "Wakwizaso ni njani muchizumbe chituwa?"
+      ],
+      "number": 9
+    }
+  ]
+}

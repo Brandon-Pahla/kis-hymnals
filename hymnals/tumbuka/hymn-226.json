@@ -1,0 +1,34 @@
+{
+  "number": 226,
+  "language": "tum",
+  "title": " 226 Pachoko choko Kukopeka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 226 Pachoko choko Kukopeka",
+        "ALMOST PERSUADED"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Pachoko choko kugomezga",
+        "achoko choko kumzomera,",
+        "Yunji wakuti nthe, 'Ruta Mzimu Mtuwa,",
+        "Nditi ndikucheme dazi linji.  2.",
+        "Pachoko choko Iza sono",
+        "achoko choko 'ngazerezga,",
+        "Yesu wakuchema wangelo walipo,",
+        "Wanji wakuromba wize sono.  3.",
+        "Pachoko choko vuna 'mala",
+        "achoko choko soka liza,",
+        "Kutondeka kwiza ndi soka likulu,",
+        "Wamkulira nadi 'mwe ndachedwa."
+      ],
+      "number": 2
+    }
+  ]
+}

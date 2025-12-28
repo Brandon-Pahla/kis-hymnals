@@ -1,0 +1,35 @@
+{
+  "number": 52,
+  "language": "guz",
+  "title": "52 Ar 'As' Egetunwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ar' as' egetunwanor' omosalaba,Bw' emechando n'obosoku;Naywanchir' Omote,S'omuy' Omosera,Gatokwer' abanyabibe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngoker' omosalaba oria,bobui bwane mbeke inseNintarer' omosalab' oria,Kaa nyoonchoreri' egutwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Omosalab' oria,ochayire n'ense,Nore nomong'us' ase nde;Ng'ondi ya Nyasae,Gatig'obonene,Koyoira aria kalwari."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'S' Omosalab' oria,Nimbe Omwegenwa,Nyimoki' obosoku bwaye,Erio nandangerie,gochia nka igoro,'Nsange obonene bwaye."
+      ],
+      "number": 4
+    }
+  ]
+}

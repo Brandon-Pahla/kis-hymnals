@@ -1,0 +1,46 @@
+{
+  "number": 197,
+  "language": "pt",
+  "title": "Cristo Tocou-me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cristo Tocou-me"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Preso por imenso fardo",
+        "De pecado e de temor,",
+        "Foi que Cristo, então, tocou-me,",
+        "E assim não sou mais tal pecador."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Tocou-me, sim, tocou-me.",
+        "Oh! quanta paz no coração!",
+        "Fui transformado e novo sou;",
+        "E hoje eu tenho salvação."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Desde que encontrei meu Mestre,",
+        "Sinto paz, prazer sem-par;",
+        "Meus louvores ergo a Cristo,",
+        "Seu nome a todos vou proclamar."
+      ],
+      "number": 4
+    }
+  ]
+}

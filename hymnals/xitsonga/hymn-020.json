@@ -1,0 +1,22 @@
+{
+  "number": 20,
+  "language": "ts",
+  "title": "20. PFUKA, TIYA MOYA WANGA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "AWAKE, MY SOUL",
+        "1. Pfuka Tiya Moya Wanga, Kongoma Mahlweni;",
+        "Tiyisela Eka Hosi, U Ta Kuma Harhi.",
+        "2.Xikwembu Xa Ku Vitana; Hi Rito Ra Xona;",
+        "Hi Yena A Hakelaka, Loyi A Hlulaka.",
+        "3.Varhumiwa Va Xikwembu, Va Ku Langutile;",
+        "Rivala Leswi Hundzeke, Kongoma Mahlweni.",
+        "4.Muponi Musunguri, Wa Rendzo Ra Hina;",
+        "Hi Ta Kuma Eka Yena, Hakelo Ya Hina."
+      ],
+      "number": 1
+    }
+  ]
+}

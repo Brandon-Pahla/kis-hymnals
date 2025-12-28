@@ -1,0 +1,55 @@
+{
+  "number": 279,
+  "language": "en",
+  "title": "279 “Come Unto Me.”",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O heart bowed down with sorrow! O eyes that long for sight!",
+        "There’s gladness in the believing; In Jesus there is light."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "“Come unto me,….. all ye ………… that labor,",
+        "(Come, O come, come unto me,)",
+        "(Come, O come, all ye that labor;) and ... are heavy laden, and I …… will give you rest ………",
+        "(Come, O come, heavy laden souls,)",
+        "( I .. will give you rest)",
+        "Take … my yoke upon you, and learn ….of me ……",
+        "(Come, O, come, come, take my yoke,)",
+        "(Come, O come, come learn of me;)",
+        "for I . Am meek and lowly in heart;",
+        "And ye shall find rest unto your souls.",
+        "(I am meek and lowly in heart;)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Earth’s fleeting gain and pleasure, Can never satisfy;",
+        "‘Tis love our joy doth measure, For love can never die."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Divinest consolation, Doth Christ the Healer give;",
+        "Art thou in condemnation? Repent, believe, and live."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "His peace is like a river, His love is like a song;",
+        "His yoke’s a burden never; ‘Tis easy all the way."
+      ],
+      "number": 4
+    }
+  ]
+}

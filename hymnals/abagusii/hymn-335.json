@@ -1,0 +1,49 @@
+{
+  "number": 335,
+  "language": "guz",
+  "title": "335 Inwe Abarwani Mweroisie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Intwe abarwani,Mbweroisie kegima,Mobe noboremu,Mogende nomokia."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nonya bono segi,Mobe nokwegena,Oyo 'barangerie,Nare amo ninwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Gaki motenene,Mobe nokwegenaMoyetache ense,Omosunte bwonsi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Gaki motenene,Mobe nokwegenaMoyetache ense;Omosunte bwonsi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Nabae chiguru;mogese kegima,Timoba 'batamu;Ase 'segi ime."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "6. Rigori mokobua;Ne chinguru chiaye,Igoro mogende,Nobonene mono."
+      ],
+      "number": 6
+    }
+  ]
+}

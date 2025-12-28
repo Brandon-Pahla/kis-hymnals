@@ -1,0 +1,52 @@
+{
+  "number": 22,
+  "language": "xh",
+  "title": "22 Nkosi Ndive",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi, ndive ngezibele, Ezesisa ezobom;",
+        "Ozigalelayo wena, Mazifike zize kum.",
+        "Zize kum, zize kum, Mazifike zize kum."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndingadlulwa Nkosi, Bawo! Ndingashiywa, Nkosi yam!",
+        "Ndinezono, entliziyweni, kodwa noko yiza kum.",
+        "Yiza kum, yiza kum, Kodwa noko yiza kum."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndingadlulwa O Msindisi! Ndingalahlwa, Nkosi yam!",
+        "Uyibiza, ndiyanqwena, ’Zundibize ndize nam,",
+        "Ndize nam, ndize nam, ’Zundibize ndize nam."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndingadlulwa Moy’ Ongcwele! Ndingashiywa, Nkosi yam!",
+        "Mandibone mina mfama, Theth’ ilizwi phezu kwam",
+        "Phezu kwam, phezu kwam, Theth’ ilizwi phezu kwam"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Olothando lwaKho, Thixo, Elogazi, Nkosi yam!",
+        "Izibele ZaKho zonke, Mazihlale apha kum",
+        "Apha kum, apha kum, Mazihlale apha kum."
+      ],
+      "number": 5
+    }
+  ]
+}

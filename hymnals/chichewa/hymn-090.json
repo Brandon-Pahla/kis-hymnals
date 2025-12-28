@@ -1,0 +1,54 @@
+{
+  "number": 90,
+  "language": "ny",
+  "title": "90 - Ntchito Ya Pa Mlungu Yatha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ANOTHER SIX DAYS’ WORK"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ntchito ya pa mlungu yatha,",
+        "Sabata lina layamba;",
+        "Moyo wangawe pumula,",
+        "Mlungu wadalitsa lero."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Idza yamika Ambuye,",
+        "Yemwe apatsa mpumulo;",
+        "Timadalitsidwa lero,",
+        "Koposa masiku ena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mayamiko athu m’mwamba,",
+        "Akweratu monga nsembe;",
+        "Kuti Khristu atipatse",
+        "Dalitso m’mitima yathu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mpumulowu uli ngati",
+        "Fanizo la wakumwamba,",
+        "Komwe mpingo udzapuma,",
+        "Zitatha zowawa zonse."
+      ],
+      "number": 5
+    }
+  ]
+}

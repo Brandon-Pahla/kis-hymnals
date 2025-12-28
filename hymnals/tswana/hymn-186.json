@@ -1,0 +1,39 @@
+{
+  "number": 186,
+  "language": "tn",
+  "title": "186 Tlung Ya Go Morena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tlung Ya ’Go Morena, Re Kopanye Gone;",
+        "Tla le Wena ka re tsenye Fa pele ga Gago."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dipelo Tsa Rona Dia Go Lwalela;",
+        "Le one mowa wa rona O Go Tlhoafaletse."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go Lopa Ga Gago, Rara, Re Go Utlwe",
+        "Fa go bulwa foko ja’Go, Le Wena re utlwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Re Baakanye Rona Batho Ba ’Go",
+        "Mogang re swang, re boela Loroding lwa Gago."
+      ],
+      "number": 4
+    }
+  ]
+}

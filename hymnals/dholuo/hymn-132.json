@@ -1,0 +1,28 @@
+{
+  "number": 132,
+  "language": "luo",
+  "title": "132 Wago Ni Ruoth Erokamano",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Wago ni Ruoth Nyasachwa erokamano ngang`;To oseritowa ma nyaka nend` okinyi.Yesu ritwa gotienoni, kaka iseritowa chon."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. To tichwa mar tinende koro oserumo;Kendo waduogo paki, kendo wakwayoi,Iritwa duto ka mang`won ka wanindo gotienoni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nyasaye, bedi Jakwadhwa, kaka nisingo chonNikech nitie e piny ka gik moko maricho Yaye!Yesu, winjwa koro: warwa e gik maricho gi."
+      ],
+      "number": 3
+    }
+  ]
+}

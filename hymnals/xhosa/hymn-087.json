@@ -1,0 +1,43 @@
+{
+  "number": 87,
+  "language": "xh",
+  "title": "87 Bawo Siza Kuwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bawo siza kuWe, AkaKho ongomnye;",
+        "Uyinqaba yethu, Themba lethu;",
+        "Umhlaba umnyama xa ungekho wena;",
+        "Yiz’ usithuthuzel’ O, Msindisi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Bawo siza kuWe, Sinetyala; u-Msindisi nguWe; Siyakhala."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sisindise thina Kuzo zonk’ intshaba;",
+        "Ungu-Mthetheli no-Mhlawuleli;",
+        "Thina siyoyika; Siqinise Bawo,",
+        "Ngengalo yegazi, Sisindise."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Siph’ inceba yaKho, Nelo lizwi laKho;",
+        "Nenyawo zethu ziqondisise.",
+        "O, sikhokele Nkos’ Size S’yokuwela,",
+        "Sibe ngaphesheya Ezulwini."
+      ],
+      "number": 3
+    }
+  ]
+}

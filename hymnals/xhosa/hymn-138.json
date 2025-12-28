@@ -1,0 +1,63 @@
+{
+  "number": 138,
+  "language": "xh",
+  "title": "138 Ukuzinikela Ngokupheleleyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi nab’ ubomi bam, Ndibunikela wena,",
+        "Nanzi kwa nezandla zam, Zisebenzise wena."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndihlambe kwelo gazi laKhe (lexabiso),",
+        "Ndiguxe kulomsing’ unyulu (wempiliso),",
+        "Ndikunikela, Nkos’ konk’ okwam, Kuse ephakadeni."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi nanz’ inyawo zam, Zinamend’ okukhonza;",
+        "Nali nezwi lengoma, Kuye u-Kumkani wam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi Nang, umlomo wam, Uzel’ udaba lwaKho;",
+        "Nantsi kwa nendyebo yam,--Iyonke yeyaKho Nkos’."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi nants’ imihla yam, Ndikudumise ngayo;",
+        "Nantsi kwa nengqondo yam, Yenza ngegunya laKho."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi nants’ intando yam, Ayisobe ibe yam;",
+        "Nantsi nentliziyo yam, Yenz’ isihlalo saKho."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi nal’ uthando lwam, Loba yindyebo yaKho;",
+        "Nabu nab’ ubuntu bam, Zonke ngonaphakade."
+      ],
+      "number": 6
+    }
+  ]
+}

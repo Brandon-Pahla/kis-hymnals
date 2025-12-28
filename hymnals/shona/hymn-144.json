@@ -1,0 +1,57 @@
+{
+  "number": 144,
+  "language": "sn",
+  "title": "144 Panzwimbo yakakwirira",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiri kukwira munzira",
+        "Yekudenga misi yese",
+        "Ndichi namata munzira",
+        "Tenzi ndikwidzei kudenga"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndisimudzenyi ndimiseyi,",
+        "Nerudawiro kudenga",
+        "Panzwimbo yakakwirira,",
+        "Tenzi ndimise kudenga"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Handidi zvangu kugara",
+        "Apo pane kupokana",
+        "Asi vamwe vangagara",
+        "Tenzi ndimise kudenga"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndoda kugara kudenga",
+        "Kana Satan’ Andinetsa",
+        "Rudairo rwangu rwese",
+        "Ngerwe kugara kudenga"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndoda kukwira kum’soro",
+        "Ndione kupenya kwenyu",
+        "Ndino namatira kuti",
+        "Tenzi ndiise kum’soro"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 87,
+  "language": "bem",
+  "title": "87 - KULI IMWE TATA TWAISA ILELO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "FATHER WE COME TO THEE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kuli Imwe Tata twaisa ilelo,",
+        "Mwe ilinga lyesu twapapata;",
+        "Mu calo camfimfi, takuli lubuto,",
+        "Mutusansamusha Tata wesu.",
+        "CHORUS:",
+        "Kuli Imwe Tata tuleisa",
+        "Ku mapepo yesu mumfwe nomba.",
+        "2. Mupusushe ifwe ku bupulumushi,",
+        "Ube linga lyesu insiku pe;",
+        "Tunaka no mwenso na balwani besu,",
+        "Tulemufwaisha kutukosha.",
+        "3. Mutupale lelo mucikuku cenu,",
+        "Mututangilile ku mweo pe,",
+        "Na mu nshita shesu shonse mwituleka,",
+        "Pela icifulo ku mobe pe."
+      ],
+      "number": 2
+    }
+  ]
+}

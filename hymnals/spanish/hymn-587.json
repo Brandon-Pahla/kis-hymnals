@@ -1,0 +1,44 @@
+{
+  "number": 587,
+  "language": "es",
+  "title": "Te dedicamos, oh Señor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Te dedicamos, oh Señor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Te dedicamos, oh Señor,",
+        "hoy esta casa de oración.",
+        "Con gratitud y devoción",
+        "la consagramos a tu honor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que tu presencia siempre aquí",
+        "sea un refugio al mortal.",
+        "Escucha toda oración",
+        "y acepta nuestra adoración."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, Padre, ven a bendecir",
+        "este lugar y a tu grey.",
+        "Que en este templo siempre esté",
+        "tu Santo Espíritu hasta el fin."
+      ],
+      "number": 4
+    }
+  ]
+}

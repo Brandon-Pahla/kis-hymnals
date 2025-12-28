@@ -1,0 +1,70 @@
+{
+  "number": 348,
+  "language": "es",
+  "title": "Dicha grande",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Dicha grande"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dicha grande es la del hombre",
+        "cuyas sendas rectas son,",
+        "lejos de los pecadores,",
+        "lejos de la tentación.",
+        "A los malos consejeros",
+        "deja por temor al mal;",
+        "huye de la gente impía,",
+        "burladora e inmoral."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Antes en la Ley divina",
+        "cifra su mayor placer,",
+        "meditando día y noche",
+        "en su divinal saber.",
+        "Este, como el árbol verde,",
+        "bien regado, y en sazón,",
+        "frutos abundantes rinde,",
+        "y hojas que perennes son."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuanto emprende es prosperado,",
+        "duradero le es el bien.",
+        "Muy diverso resultado",
+        "sacan los que nada creen,",
+        "pues se pierden como el tamo",
+        "que el ciclón arrebató,",
+        "de pasiones remolino",
+        "que a millones destruyó."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En el juicio ningún malo,",
+        "por lo tanto, se alzará.",
+        "Entre justos congregados,",
+        "insensatos nunca habrá,",
+        "porque Dios la vía mira",
+        "por la cual los suyos van.",
+        "Otra es la de los impíos:",
+        "a la nada volverán."
+      ],
+      "number": 5
+    }
+  ]
+}

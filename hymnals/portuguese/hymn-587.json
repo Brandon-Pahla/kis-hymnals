@@ -1,0 +1,44 @@
+{
+  "number": 587,
+  "language": "pt",
+  "title": "Santo, Santo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Santo, Santo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo, santo, Pai bondoso,",
+        "Santo, santo, Deus poderoso,",
+        "Entregamos nossos corações a Ti, em devoção.",
+        "Pai bondoso, Te adoramos."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo, santo, Cristo amado,",
+        "Pela cruz nós somos redimidos;",
+        "Elevamos nossas mentes em constante adoração.",
+        "Cristo amado, Te adoramos."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo, santo, Santo Espírito,",
+        "Enche de poder nossas vidas.",
+        "Suplicamos Tua graça, Teu auxilio e direção.",
+        "Santo espírito, Te adoramos."
+      ],
+      "number": 4
+    }
+  ]
+}

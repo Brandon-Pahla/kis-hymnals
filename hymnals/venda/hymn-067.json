@@ -1,0 +1,59 @@
+{
+  "number": 67,
+  "language": "ve",
+  "title": "67 Kha Vha de Vha Murena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:422",
+        "AH:435"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kha vha de vha Yesu, ri hashe lufuno,",
+        "Ri imba nyimbo dzavhudi, Ri imba nyimbo dzavhudi,",
+        "Ri hulisa Yesu, ri hulisa Yesu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kha ri ye Tsioni,",
+        "A si u naka Tsioni, Ri khou ya tadulu,",
+        "Mudi wavhudi wa Mudzimu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Vha sa mu divhiho, vha litshe u imba,",
+        "Fhedzi vhana vha Mudzimu, Fhedzi vhana vha Mudzimu,",
+        "Vha do imbelela, vha do imbelela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Thavhani Tsioni, ri do takalesa,",
+        "Ndila ya u tadulu, Ndila ya u tadulu,",
+        "Ndi mususku, fhedzi, ndi musuku fhedzi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Renda-ha nga nyimbo, Fhuluta mitodzi,",
+        "Thendo kha Immanuele, Thendo kha Immanuele,",
+        "U murangaphanda, Khosi ya tadulu."
+      ],
+      "number": 5
+    }
+  ]
+}

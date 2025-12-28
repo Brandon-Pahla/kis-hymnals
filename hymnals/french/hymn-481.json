@@ -1,0 +1,17 @@
+{
+  "number": 481,
+  "language": "fr",
+  "title": "Son nom est Jésus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Son nom est Jésus, Jésus.",
+        "Il vient pour te consoler.",
+        "Il guérit les cœurs brisés, soulage les opprimés.",
+        "Il est toujours capable de délivrer."
+      ],
+      "number": 1
+    }
+  ]
+}

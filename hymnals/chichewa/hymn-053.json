@@ -1,0 +1,44 @@
+{
+  "number": 53,
+  "language": "ny",
+  "title": "53 - Mzimu Ndi Mtsogoziyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOLY SPIRIT, FAITHFUL GUIDE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mzimu ndi mtsogoziyo M’njira ya Chikhristuyo,",
+        "Mtitsogoze ndinutu, Pa ulendo wathuwu.",
+        "Miyoyo ikondweratu, Pomva mau akewo;",
+        "Pakunena Mzimuyo, “Osochera, bwerani.”"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Bwenzi lathu ndinutu, Mkhale mfupi nafetu,",
+        "Msatisiye tokhafe, Pakuyenda m’mdimamu.",
+        "Pakuomba mphepozo, Timaopa m’mtimamo",
+        "Tsono timva mauwo, “Osochera, bwerani.”"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mnene nchito yathatu, Mmene tidikira ’Nu,",
+        "Pakukhumba m’mwambamo, Tsono tipempherabe.",
+        "Nthawi ya mavutowo Tikhulupirira ’Nu,",
+        "Tsono timva mauwo, “Osochera, bwerani.”"
+      ],
+      "number": 4
+    }
+  ]
+}

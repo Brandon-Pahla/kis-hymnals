@@ -1,0 +1,54 @@
+{
+  "number": 119,
+  "language": "ve",
+  "title": "119. Gabelo li tanzwaho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:332",
+        "AH:375"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kheli gabelo litswuku, lo tsa lo atama;",
+        "Yesu u a tshidza vhothe, U sumba nthoni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lutsinga kholu lwa u tamba, zwino ndi a tamba hafhu;",
+        "Kha hu rendwe ene Yesu, ndo tanzwiwa, ee o ntanzwa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi wana u sikwa huswa, hone malofhani;",
+        "Zwivhi zwothe zwi do fhela, zwa fa nga Murena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi tshimbila ndi tshedzani, ndi tshi ya tadulu;",
+        "Nguvho dzanga dzo tanzwiwa, nga Yesu Murena."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndi tshimangadzo tsha Yesu, tsha u rengwa hanga;",
+        "Ndi Yesu a zwi divhaho, zwa u tshidzwa hanga."
+      ],
+      "number": 5
+    }
+  ]
+}

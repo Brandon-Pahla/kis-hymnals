@@ -1,0 +1,62 @@
+{
+  "number": 489,
+  "language": "fr",
+  "title": "Le vent souffle où il veut",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Le vent souffle où il veut et, toi,",
+        "tu entends sa voix",
+        "mais tu ne sais pas d'où il vient",
+        "et tu ne sais pas où il va, le vent (le vent).",
+        "As-tu compté les grains de sable",
+        "Sur les bords de la mer ?",
+        "As-tu compris le chant des vagues",
+        "Aux pays des matins clairs ?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quand tu regardes les étoiles",
+        "Au manteau de la nuit,",
+        "Tu voudrais bien lever le voile",
+        "Qui te masque l'infini."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il est si long le long voyage",
+        "Sur un sol inconnu.",
+        "Il est si loin l'autre rivage",
+        "Que tu cherches les pieds nus."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Comme l'oiseau, loin de la terre,",
+        "Tu voudrais t'envoler",
+        "Vers le soleil, vers la lumière,",
+        "Dans un ciel de liberté."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "As-tu sondé le cœur de l'homme",
+        "Au secret de sa soif ?",
+        "As-tu creusé jusqu'aux racines,",
+        "Jusqu'aux sources de sa vie ?"
+      ],
+      "number": 5
+    }
+  ]
+}

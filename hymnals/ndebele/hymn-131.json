@@ -1,0 +1,37 @@
+{
+  "number": 131,
+  "language": "nd",
+  "title": "131 Ngi Fuze uJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ma ngi fuze uJesu, Yona iNkosi yami,",
+        "Vuma uMsindisi wam’, Eze ahlale kimi;",
+        "Ma ngi fuze uJesu, Kulo lel’ izwe pansi,",
+        "Ngi swele okoMoya; Hlala nami, Msindisi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa kukhala inyoni, Ayinake ngomusa,",
+        "Ebon’ ezinye ziwa; Ngeqiniso wongizwa;",
+        "Welus’ indhlela yami, Aze aze ayiqondise,",
+        "Ngi thanda ngi be ngcwele; Hlala nami Msindisi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma ngi fuze uJesu, Ngi phila nsuku zonke.",
+        "Ngi thanda ukuphumla, Endawen’ ethulile;",
+        "Ngibe ngozelwe busha, Ngentando yAkh’ uJesu",
+        "Angibe nokukholwa; Hlala nami, Msindisi."
+      ],
+      "number": 3
+    }
+  ]
+}

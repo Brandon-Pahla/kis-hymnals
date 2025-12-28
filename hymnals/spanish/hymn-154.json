@@ -1,0 +1,63 @@
+{
+  "number": 154,
+  "language": "es",
+  "title": "Dad gloria al Cordero Rey",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Dad gloria al Cordero Rey"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dad gloria al Cordero Rey,",
+        "suprema potestad;",
+        "de su divino amor la Ley",
+        "postrados aceptad,",
+        "de su divino amor la Ley",
+        "postrados aceptad."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vosotros, hijos de Israel,",
+        "residuo de su grey,",
+        "loores dad a Emanuel",
+        "y proclamadle Rey,",
+        "loores dad a Emanuel",
+        "y proclamadle Rey."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Naciones todas, escuchad",
+        "y obedeced su Ley",
+        "da gracia, amor y santidad,",
+        "y proclamadle Rey,",
+        "de gracia, amor y santidad,",
+        "y proclamadle Rey."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dios quiera que con los que",
+        "están",
+        "del trono en derredor,",
+        "con cantos por la eternidad",
+        "a Cristo demos honor,",
+        "con cantos por la eternidad",
+        "a Cristo demos honor."
+      ],
+      "number": 5
+    }
+  ]
+}

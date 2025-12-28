@@ -1,0 +1,38 @@
+{
+  "number": 295,
+  "language": "xh",
+  "title": "295 Hlabani Umkhosi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hlaban’ umkhosi nalu utshaba, Vusan’ indlela yeNkosi;",
+        "Xhobani nime nonke ngabanye, Thembelan’ ezwini leNkosi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Vukani madoda, buthanani, Qhubelan’ iLizwi phambili;",
+        "Phambili, Hlabelani, \"Hosana!\" NguKristu umkhokel’ omkhulu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngamandla masibheke phambili, Sisazi soze soyiswe;",
+        "Ikhaka nendwe zikhanya njalo, Ngokulunga ngekhe soyiswe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Baw’ ophezulu sive sicela, Sincede sonke ngofefe;",
+        "Xa sesilwile, sesoyisile, Sozuza isithsaba kuWe."
+      ],
+      "number": 3
+    }
+  ]
+}

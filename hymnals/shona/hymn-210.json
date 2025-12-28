@@ -1,0 +1,74 @@
+{
+  "number": 210,
+  "language": "sn",
+  "title": "210 Jesu Muponesi Anoshamisa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi akatichenura",
+        "Tenzi anoshamisa",
+        "Takanunurwa nem’tengo!",
+        "Tenzi anoshamisa!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu wangu Muponesi anoshamisa! Jesu wangu Muponesi anoshamisa!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndom’tenda neropa rake",
+        "Tenzi anoshamisa!",
+        "Randidzosa kuna Mwari",
+        "Tenzi anoshamisa!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akasamba mwoyo wangu",
+        "Tenzi anoshamisa!",
+        "Zvino arikutonga’mo",
+        "Tenzi anoshamisa!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ofamba neni munzira",
+        "Tenzi anoshamisa!",
+        "Anondichengeta",
+        "Iye Tenzi anoshamisa!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anoti ndikurire",
+        "Tenzi anoshamisa!",
+        "Ndikurire nguva dzese",
+        "Tenzi anoshamisa!"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinomupa mwoyo wese",
+        "Tenzi anoshamisa!",
+        "Pasi harina rutivi",
+        "Tenzi anoshamisa!"
+      ],
+      "number": 7
+    }
+  ]
+}

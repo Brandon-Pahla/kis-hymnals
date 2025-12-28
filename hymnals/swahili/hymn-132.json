@@ -1,0 +1,47 @@
+{
+  "number": 132,
+  "language": "sw",
+  "title": "132 - Bwana ni Mchunga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Bwana ni mchunga sitahitaji,",
+        "Majani mabichi malisho yangu.",
+        "Ananinywesha maji matulivu,",
+        "Atanirudisha nikipotea."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Nipitapo bondeni mwa mauti,",
+        "U mlinzi wangu sitaogopa,",
+        "Fimbo yako yatosha kunilinda,",
+        "Ukinifariji sina hasara."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Kati ya mateso meza waandaa,",
+        "Na kikombe changu kinafurika,",
+        "Umenipaka kichwani mafuta,",
+        "Nitaulizaje zaidi kwako?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Wema na fadhili zinifuate,",
+        "Siku zangu zote hata milele,",
+        "Nami nitakaa nyumbani mwa Bwana,",
+        "Katika ufalme wa pendo lake."
+      ]
+    }
+  ]
+}

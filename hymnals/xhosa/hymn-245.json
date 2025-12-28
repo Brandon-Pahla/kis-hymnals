@@ -1,0 +1,54 @@
+{
+  "number": 245,
+  "language": "xh",
+  "title": "245 Akukho Gama Limbi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Eli gama likaYesu Liyathandeka kuthi;",
+        "Phezulu bathemba lona Nathi sithemba lona."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Gam’ e . . . lihle, Alikho igam’ elinje;",
+        "Gam’ e . . . lihle, Alikho igam’ elinje;"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alikho igam’ elihle, Livuyis’ intliziyo;",
+        "Alikho igam’ elinje, Ngegama likaYesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyathemba ndakumbona Xa aphuthum’ abaKhe;",
+        "Ndiyathemba ndakumbona Ndivuye emoyeni."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndakusebenza noYesu Entsimini kaThixo;",
+        "Koba kuhle xa uYesu Andisikelelayo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa athand’ ukuba ndife, Kuhle ndifele kuYe;",
+        "Koba kuhle xa uYesu Alithemba lam Yena."
+      ],
+      "number": 5
+    }
+  ]
+}

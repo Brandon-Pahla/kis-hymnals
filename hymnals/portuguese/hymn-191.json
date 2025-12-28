@@ -1,0 +1,66 @@
+{
+  "number": 191,
+  "language": "pt",
+  "title": "Quero Estar ao Pé da Cruz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Quero Estar ao Pé da Cruz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quero estar ao pé da cruz,",
+        "De onde rica fonte",
+        "Corre franca e salutar,",
+        "Sobre o rude monte."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Sim, na cruz, sim, na cruz",
+        "Sempre me glorio,",
+        "Té que ao fim vá descansar",
+        "Salvo, além do rio."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A tremer ao pé da cruz,",
+        "Graça eterna achou-me;",
+        "Lá a Estrela da manhã",
+        "Raios Seus mandou-me."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sempre a cruz, Jesus meu Deus,",
+        "Queiras recordar-me;",
+        "Dela, à sombra, ó Salvador,",
+        "Queiras abrigar-me."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Junto à cruz, ardendo em fé,",
+        "Sem temor vigio,",
+        "Pois ao lar paterno irei,",
+        "Salvo, além do rio."
+      ],
+      "number": 6
+    }
+  ]
+}

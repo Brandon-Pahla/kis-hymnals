@@ -1,0 +1,65 @@
+{
+  "number": 247,
+  "language": "es",
+  "title": "Yo te seguiré",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Yo te seguiré"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yo te seguiré, ¡oh Cristo!,",
+        "dondequiera que estés;",
+        "donde tú me guíes, sigo;",
+        "sí, Señor, te seguiré."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Yo te seguiré, ¡oh Cristo!",
+        "Tú moriste para mí.",
+        "Aunque todos te negaren,",
+        "yo, Señor, te seguiré."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aunque duro el camino,",
+        "sin señales y sin luz,",
+        "seguiré siempre confiado",
+        "en las huellas de Jesús."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Afligido, agotado,",
+        "débil, lleno de dolor,",
+        "regocíjome, pues ando",
+        "en las huellas del Señor."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si me guías al gran río",
+        "del Jordán, no temeré;",
+        "has pasado tú su frío,",
+        "y gozoso seguiré."
+      ],
+      "number": 6
+    }
+  ]
+}

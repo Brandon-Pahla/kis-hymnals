@@ -1,0 +1,46 @@
+{
+  "number": 37,
+  "language": "tw",
+  "title": "Me Kra Kamfo Wo Yɛfo No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me kra kamfo wo Yɛfo no",
+        "Nnwom a ɛf'ro kɔ s'ro mu;",
+        "Nea Ne dɔ de s'ro akyɛde",
+        "Ahyɛ wo nna ny'naa ma no.",
+        "Mehwehwɛɛ No, Otiee me su;",
+        "N'abɔfo kronkron bɔ nsraban",
+        "Wɔn a wɔdɔ No no ho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Awurade yɛ ma wɔn a",
+        "Wɔhwehwɛ No 'w'rɛhowb'rem';",
+        "ɔkyekye mmɔb'rɔfo werɛ.",
+        "Ma yɛn da biara mu 'dom.",
+        "'W'rɛhow tra hɔ 'nadwo ny'naa a",
+        "'Dekyee bepue dɛw ne hann mu",
+        "De nhy'ra fi N'anim aba."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔbɛdan N'ani brɛoo aky'rɛ",
+        "'Manehunfō a wɔbɛn No;",
+        "Ne dɔ 'yamye to rentwa mma",
+        "Wɔn a wɔtwer' No sųro No.",
+        "Yɛn Nyankopɔn rennyaw Ne de;",
+        "Ne s'ro agua no tim hɔ daa;",
+        "N'ahenni begyina daa."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "number": 408,
+  "language": "tw",
+  "title": "'W'rá a Wudi Hen S'ro 'Nuonyam Mu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'W'rá  a Wudi hen s'ro 'nuonyam mu,",
+        "Wō a Wudii kan nyan fii wum',",
+        "Wo nkutoo ne yɛn banbɔfō a",
+        "Wama Wo mma so wɔ s'ro; Haleluya!",
+        "Yesu, nokwar' nkwa 'bodoo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yehu Wo 'hobrɛase tebeam",
+        "Sɛ Betlehem hɔ de no,",
+        "W'abɔfo bɔW' 'se ha sɛ hɔ;",
+        "Wo, Yisai aseni no. Haleluya!",
+        "Yɛne wɔn ka bom som Wo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame 'Guammaa, W'afɔre no",
+        "Dii mu b'rč a wokum Wo no;",
+        "Ͻyɛ 'fɔre a ne mudi",
+        "Bɛkɔ so atra hɔ daa, Haleluya!",
+        "Ahoh'ro akra bɔne."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔs'ro mana a woma nkwa,",
+        "Botan a nsu fi mu pue;",
+        "S'ro ne 'sase to hosana",
+        "Som Wo, 'Guammaa a Wuwui no;",
+        "Haleluya! Woasɔr' kɔ s'ro 'nuonyam mu."
+      ],
+      "number": 4
+    }
+  ]
+}

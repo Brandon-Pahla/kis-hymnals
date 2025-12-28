@@ -1,0 +1,46 @@
+{
+  "number": 96,
+  "language": "ny",
+  "title": "96 - Idza Tsiku Lopuma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WELCOME, WELCOME, DAY OF REST"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Idza tsiku lopuma, Lopatsidwa ku dziko.",
+        "Idza mmtima mwangamu, Monga nyali ya mmwamba."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tsiku lokondweretsa, Likupita msangatu;",
+        "Litisangalatsanso Mpaka ntchito idzatha."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tsiku loyeretsetsa, Tsiku lakupemphera;",
+        "Tsiku lakulandira madalitso anuwo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Idza tsiku lopuma ndi zimphamvu za mmwamba,",
+        "Ndi kuyera kwanuko Kudze m’mtima mwangamu."
+      ],
+      "number": 5
+    }
+  ]
+}

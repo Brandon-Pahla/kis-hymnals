@@ -1,0 +1,40 @@
+{
+  "number": 229,
+  "language": "xh",
+  "title": "229 Ngubani Ongecala LeNkosi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nguban’ ongecala leNkosi?",
+        "Mabin’ amacela, Wen’ uphi?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nyu . . . la, Nyu . . . la Kuwo la macala mabini;",
+        "(Ongecala leNkos’, Ongecala leNkos’)",
+        "Nyu . . . la, Nyu . . . la Kuwo la macala wen’ uphi?",
+        "(Ongecala leNkos’, Ongecala leNkos’)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Baninzi kwelibi icala;",
+        "Icala elingenamandla."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyula eleNkosi icala;",
+        "Lilo lodwa ke elililo."
+      ],
+      "number": 3
+    }
+  ]
+}

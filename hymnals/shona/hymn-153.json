@@ -1,0 +1,38 @@
+{
+  "number": 153,
+  "language": "sn",
+  "title": "153 Kwanhasi Basi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi handinamatiri zvamangwana",
+        "Mundibvise muchitema nhasi chete",
+        "Ndisazotaura inzwi renhandoba",
+        "Namayi muromo wangu, nhasi basi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndisewenze ndinamate kwazo Tenzi",
+        "Ndiwe nemutsa mumanzwi nemubasa",
+        "Ndisimbisenyi, kuita inzwi renyu",
+        "Ndide kuzvipira ini, nhasi basi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kanazve nhasi upenyu hungapere",
+        "O ngandisimbiswe ini nemwi Tenzi",
+        "Saka, handinamatiri zvamangwana",
+        "Ndibatenyi, ndichengete, Tenzi nhasi,",
+        "Amen"
+      ],
+      "number": 3
+    }
+  ]
+}

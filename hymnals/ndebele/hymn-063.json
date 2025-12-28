@@ -1,0 +1,55 @@
+{
+  "number": 63,
+  "language": "nd",
+  "title": "63 Kuphela Ligazi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi ngagezwa ng’ubani? Ng’uJesu ngegazi lAkhe.",
+        "Ngi ngahlanzeka njani? Muhlophe ngegazi lAkhe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La y’igug’ igazi! Li yagezisisa;",
+        "Kuphela igazi, Lona lodwa likaJesu!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi funa ukugezwa: Egazini lika Jesu;",
+        "Ngi thol’ ukuxolelwa: Egazini lika Jesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi ngavunywa ng’ubani? Ng’uJesu ngegazi lAkhe;",
+        "Ngi ngaphete lutho na? Yebo ngal’ igazi lAkhe!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Li miph’ ithemba lami? Egazini lika Jesu;",
+        "Kuph’ ukulunga kwami? Egazini lika Jesu."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi babaz’ ubani na? UJesu ngegazi lAkhe;",
+        "Ngodums’ ubani na? UJesu ngegazi lAkhe."
+      ],
+      "number": 6
+    }
+  ]
+}

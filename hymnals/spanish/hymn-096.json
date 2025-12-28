@@ -1,0 +1,54 @@
+{
+  "number": 96,
+  "language": "es",
+  "title": "Al contemplar la excelsa cruz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Al contemplar la excelsa cruz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Al contemplar la excelsa cruz",
+        "do el Rey de gloria sucumbió,",
+        "lo que antes parecía luz",
+        "sin vacilar hoy dejo yo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No me permitas, Dios, gloriar,",
+        "más que en la muerte del Señor;",
+        "lo que más pueda ambicionar",
+        "lo doy gozoso por su amor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si la riqueza terrenal",
+        "pudiera yo a mis plantas ver,",
+        "pequeña ofrenda mundanal",
+        "sería el írsela a ceder."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aquel dolor tan grande y cruel",
+        "que así sufrió mi Salvador",
+        "demanda que consagre a él",
+        "mi ser, mi vida y mí amor."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 52,
+  "language": "nd",
+  "title": "52 Woza Mthombo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Woza, Mthombo wez’ busiso, Wena wokudunyiswa;",
+        "Imifula eyomusa, I fanel’ ukubongwa;",
+        "Ngi fundis’ ukuhlonipha, Umusa wAkho kimi;",
+        "Eyam’ inhiziyo y’ophe, Ngothando lwAkho kimi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mina ngi zozifunela, Ilitshe lokuphepha;",
+        "Ngomsa wAkho ngothembela, Ekufiken’ ekhaya;",
+        "uJesu wangingenisa, Emhlambini owAkhe",
+        "Engozini ngasindiswa, Ngalo igazi lAkhe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi necala elikhulu, Ngomusa owangipha;",
+        "Vumel’ ukulunga Krestu, Ku ngi buyise namhla;",
+        "‘Nkosi, ngi ses’ebubini, Ngi thoba phambi kwakho;",
+        "Nansi inhliziyo yami, Beka uphawu lwAkho."
+      ],
+      "number": 3
+    }
+  ]
+}

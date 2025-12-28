@@ -1,0 +1,37 @@
+{
+  "number": 81,
+  "language": "fr",
+  "title": "Si Dieu est pour nous",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Si Dieu est pour nous, pourquoi craindre?",
+        "Qui donc pourrait nous ébranler?",
+        "Pourquoi crier, pourquoi nous plaindre?",
+        "Par son Fils, il a tout donné."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dieu est celui qui justifie,",
+        "Qui donc pourrait nous accuser?",
+        "Pour nous, Jésus donna sa vie,",
+        "Pour nous, il est ressuscité."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il est à la droite du Père,",
+        "Il intercède, il est vivant!",
+        "Malgré la mort, malgré la guerre,",
+        "En lui nous sommes triomphants."
+      ],
+      "number": 3
+    }
+  ]
+}

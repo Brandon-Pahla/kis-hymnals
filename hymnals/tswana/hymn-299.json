@@ -1,0 +1,36 @@
+{
+  "number": 299,
+  "language": "tn",
+  "title": "299 Morena Nthobela Senkgwe Se Se Tshedileng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Morena Nthobela Senkgwe Se Se Tshedileng,",
+        "O etse Kwa lewatleng; Morena, moseja, K’a Go bona;",
+        "Mo’ a me o batla Wena Lefoko."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Ntshegofaletse Boamma’ruri,",
+        "Jaaka senkgwe sa kwa Galelia;",
+        "Kgolego’ tla fela, Kgole di we;",
+        "Go wena nlta bona Aleluja!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Mowa, Botshelo,’foko A ’Go;",
+        "K’akofa g’ikoba,Mme ke bokoa;",
+        "Wen’ O thuso ya me,Tshelo jwa me;",
+        "Ke fenye ke utlwa ’foko ja ’Go"
+      ],
+      "number": 3
+    }
+  ]
+}

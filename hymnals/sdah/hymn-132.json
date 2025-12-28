@@ -1,0 +1,29 @@
+{
+  "number": 132,
+  "language": "en-sdah",
+  "title": "132 O Come, All Ye Faithful",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. O come all ye faithful, Joyful and triumphant, O come ye, O come ye to Bethlehem Come and behold Him, Born the King of angels!",
+        "CHORUS: O come, let us adore Him, O come, let us adore Him, O come, let us adore Him, Christ, the Lord!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Sing, choirs of angels, Sing in exultation, O sing, all ye citizens of heaven above! Glory to God, Glory in the highest!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yea Lord we greet Thee, Born this happy morning, Jesus, to Thee be all glory given; Word of the Father, Now in flesh appearing!"
+      ],
+      "number": 3
+    }
+  ]
+}

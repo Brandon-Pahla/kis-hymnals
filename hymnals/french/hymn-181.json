@@ -1,0 +1,35 @@
+{
+  "number": 181,
+  "language": "fr",
+  "title": "Que la gloire du Seigneur",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Que la gloire du Seigneur subsiste à jamais,"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qu'il se réjouisse de ses œuvres !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je chanterai le Seigneur tant que j'existerai,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je célébrerai son nom tant que je vivrai."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 183,
+  "language": "sn",
+  "title": "183 Batisisa Dakara Ndiuye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Chitsidzo chake, Kuwadawiri",
+        "Ona ndouya, Kugashira vangu",
+        "Batisisanyi, njodzi huru",
+        "Musazorareba, Rinda namata"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Batisisanyi!, Chitsidzo chake",
+        "Umambo hwake hwopiwa imwi",
+        "Pinda mu’faro, Mutonge neni",
+        "M’chapiwa zviremba, Mira murinde"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tomurindira mwenje \\‘chipfuta",
+        "Anouya sembava pausiku",
+        "Zvino apetyo, Hatizi’ musi",
+        "Miti yootunga, zhizha rapetyo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tariro iri painzwi rake",
+        "Kuonekwa kwaTenzi wedu",
+        "Chitsidzo ichi, chopinda zvose",
+        "Ona ndinouya, batisisayi"
+      ],
+      "number": 4
+    }
+  ]
+}

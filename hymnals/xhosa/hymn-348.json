@@ -1,0 +1,37 @@
+{
+  "number": 348,
+  "language": "xh",
+  "title": "348 Nakuba Namhla Thina Siphilile",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nakuba namhla thina siphilile,",
+        "Singathi ngomso sibe sesifile,",
+        "Imini zokuphila asizazi;",
+        "Imini yokubhubha asiyazi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ukufa kuyabhaqa kwa kudala:",
+        "Angaba yedwa onokwaluphala:",
+        "Abatsha nabo bayabhaqwa futhi;",
+        "Nangeli lixa kungafika kuthi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yivani, nani booni, nikhumbule,",
+        "Ilizwi eli niliphula-phule;",
+        "Nibuye nonke ezoonweni zenu,",
+        "Kubek’ ithemba ekufeni kwenu."
+      ],
+      "number": 3
+    }
+  ]
+}

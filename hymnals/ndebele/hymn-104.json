@@ -1,0 +1,47 @@
+{
+  "number": 104,
+  "language": "nd",
+  "title": "104 Woza Mkhululi Omkhulu Woza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi zwe, Nkosi, ubenomsa kimi Za Mkhululi woza;",
+        "uMoya wami u fisa Wena Za Mkhululi Woza."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngizulile kud’ ezintabeni; Zulile kude nekhaya.",
+        "Ma ngi thathwe ngi lethw’ es’ bayeni Za Mkhululi Woza."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asikho isiphephelo sami Za Mkhululi;",
+        "Ngi bheke ngi thole ukukhanya Za Mkhululi Woza."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Indlela yam’ i yangikhataza Za Mkhululi, Woza;",
+        "Amehlo’ ami a bheke uthando Za Mkhululi, Woza."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U ngalahl’ ukuzisola kwami Za Mkhululi, Woza;",
+        "Lalela ukukhuleka kwami Za Mkhululi, Woza."
+      ],
+      "number": 5
+    }
+  ]
+}

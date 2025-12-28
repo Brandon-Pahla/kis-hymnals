@@ -1,0 +1,63 @@
+{
+  "number": 320,
+  "language": "tum",
+  "title": " 320 Yesu Mponoski Withu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 320 Yesu Mponoski Withu",
+        "Sinners Jesus Will Receive"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Yesu Mponoski withu wakupokera wose,",
+        "Na wakwananga wuwo wazgewera kutali"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mwimbenge sumu mwe mwimbengeso,",
+        "A Yesu Fumu ntha vakane,",
+        "MpuLike mazgu gha uthenga wakwananga 'mwe wize,",
+        "Bass/Tenor",
+        "Mwimbe mwimbenge mwimbe mwimbenge,",
+        "A Yesu Fumu inya 'mwe nthawakane, nthawakane,",
+        "PuLika nadi, Inya uweme, wakwananga 'mwe wize."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Imwe mwize kwa Yesu watimpumuzganinge,",
+        "Nadi mu mtima winu muwenge mtende wake."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Pa dazi lira kale wakandipokerera,",
+        "Wakandisuka ine m mtima mwane mwatowa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Wakandifwira Yesu pa charu chino kale,",
+        "Ntha nkhopaso mulandu pakwiza Fumu yane."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "number": 258,
+  "language": "tw",
+  "title": "Bɔ Y'asu Fof'ro Wɔ S'ro Tumi Mu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bɔ y'asu fof'ro",
+        "Wɔ s'ro tumi mu,",
+        "O, fa dɔ dwudwo yɛn!",
+        "'Gyenkwa pa, twiw bɛn."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yɛsrɛ Wo 'hobrɛasem'",
+        "W'ra Yesu, yɛsrɛ;",
+        "Fa dɔ ne Honhom no",
+        "Bɔ yɛn asu nnɛ."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛteam sɛ yɛnsɛ,",
+        "Yɛn ho agu fi,",
+        "O, guar' yɛn tew yɛn",
+        "ho Fi bɔn' nkekae mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O s'ro 'B'rɔnoma,",
+        "Fi soro hɔ sian!",
+        "Yɛsrɛ Wo nhy'ra kɛse;",
+        "Dom mu, twiw bɛn yɛn."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O tie 'nigye nne!",
+        "Efi s'ro ka sɛ:",
+        "Wo ne Me dɔ Ba no,",
+        "Wosɔ M'ani yie."
+      ],
+      "number": 4
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yɛkamfo Wo, hy'ra Wo,",
+        "'Guammaā a wokum No,",
+        "Yɛyi W'ayɛ, kamfoW'.",
+        "Amen ne Amen."
+      ]
+    }
+  ]
+}

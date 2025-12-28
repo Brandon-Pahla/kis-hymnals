@@ -1,0 +1,55 @@
+{
+  "number": 70,
+  "language": "st",
+  "title": "70 Re Tla Ema Joang Kahlolong",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ha Jesu a bokella lichaba, Pel’a Hae ho bonahala,",
+        "Re tla ema joang pe’la kahlolo, Tsatsing le leholo la tsoho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O tla bokella koro seotlong, Empa ’moko o tla qhaloa;",
+        "Re tla ema joang pel’a kahlolo? Tsatsing le leholo la tsoho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na re tla utloa ’Moloki ha a re: “Mohlanka ea bileng khabane”,",
+        "Kapa re tletse ts’abo le tepello, Re falalitsoe teroneng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O tla bososela ha a ba bona; A bona lets’oao la Hae,",
+        "A ba apesa ka botle ba khanya, Ba khumama maotong a Hae."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A re falimeheng re be chalimong, Mabone a uke haholo;",
+        "Ha monyali a memela bohaling, Re be re itukisitse."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lipelo li lebile leholimong, Ka mamello re emetse;",
+        "Ha ts’iu tsa bojaki li felile, Re tla itihela maotong a Hae"
+      ],
+      "number": 6
+    }
+  ]
+}

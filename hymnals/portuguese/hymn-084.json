@@ -1,0 +1,68 @@
+{
+  "number": 84,
+  "language": "pt",
+  "title": "O Cântico dos Salvos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### O Cântico dos Salvos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! que canto que, soando,",
+        "Enche os ares de dulçor!",
+        "São os salvos entoando",
+        "Graças mil ao Redentor!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Ouve as vozes de vitória,",
+        "Em caminho para a glória,",
+        "Proclamando a doce história",
+        "De Jesus e Seu amor!",
+        "Proclamando a doce história",
+        "De Jesus e Seu amor!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Deus excelso! Resgatou-nos",
+        "E nos deu libertação!",
+        "Com poder Ele salvou-nos",
+        "Da eterna perdição!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Graça infinda! Deus aceita",
+        "Os rebeldes, com favor!",
+        "Pois jamais Cristo rejeita",
+        "O contrito pecador!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aceitai, pois, sem limite,",
+        "A divina compaixão!",
+        "Deus estende Seu convite,",
+        "Abraçai a salvação!"
+      ],
+      "number": 6
+    }
+  ]
+}

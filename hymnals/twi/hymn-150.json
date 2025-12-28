@@ -1,0 +1,75 @@
+{
+  "number": 150,
+  "language": "tw",
+  "title": "Hena n'ɔda Mmoa Dan Mų a",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hena n'ɔda mmoa dan mų a",
+        "Nguanhwɛfo koto No yi?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Aw'radč a, O anwanwasɛm,",
+        "Aw'radč a, anuonyam Hen' no!",
+        "Yɛkoto No 'hobrɛasem'",
+        "Yɛhyɛ No ahen' mu Hen';",
+        "Yɛkoto No 'hobrɛasem' ɔ ahen' mu",
+        "Hen'; Yɛhyɛ No hen',",
+        "Yɛhyɛ Yesu no ahen' mu Hen'."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hena na 'haw hyɛ No sō a",
+        "Odi mmuada sar' so yi?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hena na nnipa mpempem",
+        "To 'h'rusi dwom ma No yi?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hena na ɔdasum yi",
+        "ɔbɔ mpae Getsemane?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hena n'ɔsɛn dua bi so",
+        "Rewu 'nimguase wu yi?"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hena na Wanyan 'fi 'wum'",
+        "Rebɛgye nnipa nkwa yi?"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hena n'Ofi N'agua so",
+        "Di wiase ny'naa so Hen' yi?"
+      ],
+      "number": 7
+    }
+  ]
+}

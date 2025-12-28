@@ -1,0 +1,62 @@
+{
+  "number": 264,
+  "language": "ve",
+  "title": "264. Ili duvha likhethwa, Vhuawelo Ha Yehova",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:381"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ili duvha likhethwa, ndi la Yehova washu,",
+        "Hu vhulunga la sumbe, lo fhatutshedzwa tshothe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "li a funwa, li a funwa . . .. . .",
+        "Ri a vhu takalela, ha Yesu vhuawelo"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mishumo ya mbo fhedzwa, la mbo di thoma lone,",
+        "lo shudufhadzwa ngoho, zwenezwo ra awela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. lo tou shandukiswa, ha khwathiswa Swondaha,",
+        "Sedza manwalo awe, one ha ambi izwo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Na vhanzhi vha nga di ri, Swondaha ndi ya ngoho;",
+        "Fhedzi bugu ya khotsi, I kha di vha hanedza."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Ndo sedza nda i vhona, yone Savhatha ya ngoho;",
+        "Nda mbo di i tanganedza, yone ngoho na ndila."
+      ],
+      "number": 6
+    }
+  ]
+}

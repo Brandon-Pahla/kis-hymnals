@@ -1,0 +1,47 @@
+{
+  "number": 5,
+  "language": "nd",
+  "title": "5 Kude Kangakanani eKhaya?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ekhaya ku sekude na? Ngi buzil’ umlindi yena.",
+        "Wath’ ub’ suku: Bu yaphela, Manje seku yasa.",
+        "Ngakho: U ngabusakhala, Kodwa, hamba u phalale;",
+        "U zofik’ ezinsukwini, Ezingasapheli!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se ngi buzile ibutho, Ingoma yebutho ithi:",
+        "Ngesibindi ngi zokulwa, Ngay’inkemba yodwa",
+        "Ngakho: U ngabusakhala, Empini bekezela-",
+        "Umvuz’ u phiw’ ophumile, Nxa esenqobile."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi buzile into zonke, Zi sho ngazwi linye zonke;",
+        "Isikhathi si yaphela, Ikhaya li vele.",
+        "Ngakho: U ngabusakhala, Iziboniso zi yanda",
+        "Konkana ku yabubula, Ku fun’ inkululo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ekhaya a kusekude, Yeka! Umkhumbulo omhle;",
+        "Thokoza ke wena mhambi, Sul’ izinyembezi.",
+        "Ngakho: U ngabusukhala; Si zohlangana phambili,",
+        "Izinhlupho zi phelile: Emzin’ othulile."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 4,
+  "language": "es",
+  "title": "Alabanzas sin cesar",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Alabanzas sin cesar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alabanzas sin cesar",
+        "entonemos al Señor;",
+        "himnos mil a su bondad",
+        "entonemos con amor.",
+        "Él nos da la plenitud",
+        "de su gracia celestial;",
+        "es la fuente de salud",
+        "para el infeliz mortal."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Del pecado abrumador",
+        "él nos vino a libertar;",
+        "nos ofrece salvación,",
+        "y nos llama sin cesar.",
+        "Ya podemos recorrer",
+        "el camino terrenal",
+        "sin temor hasta obtener",
+        "nuestra herencia celestial."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Y entretanto que el Señor",
+        "nos recíba donde está,",
+        "entonemos el loor",
+        "que bondoso aceptará.",
+        "Mientras huelle nuestro pie",
+        "este mundo pecador,",
+        "ofrezcámosle con fe",
+        "nuestro canto, nuestro amor."
+      ],
+      "number": 4
+    }
+  ]
+}

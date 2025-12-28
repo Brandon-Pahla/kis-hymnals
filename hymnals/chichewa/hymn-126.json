@@ -1,0 +1,53 @@
+{
+  "number": 126,
+  "language": "ny",
+  "title": "126 - Ilipo Nyimbo Ndikonda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SINCE I HAVE BEEN REDEEMED"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ilipo nyimbo ndikonda Kuyimba ineyo,",
+        "Ya Yesu Mbuye wangayo, Ch’omboledwere ’ne."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ntaomboledwa ’ne, Ndzalemekezatu dzina la Ambuyeyo.",
+        "Ntaomboledwa ’ne, Ndidzalemekeza dzinalo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Wakukwanitsa mtimanga Ndi Yesu Khristuyo;",
+        "Ndichita chifuniro ’ke, Ch’omboledwere ’ne."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ilipo mboni yangayo, Ch’omboledwere ’ne.",
+        "Yochotsa nkhawa, manthanso, Ch’omboledwere ’ne."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Alipo malo angawo, Wandikonzera ’Ye.",
+        "Kumene ndidzakhalako, Ntaomboledwa ’ne."
+      ],
+      "number": 5
+    }
+  ]
+}

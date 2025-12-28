@@ -1,0 +1,55 @@
+{
+  "number": 98,
+  "language": "ny",
+  "title": "98 - Mombolo Akhale Nane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I MUST HAVE THE SAVIOUR WITH ME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mombolo akhale nane, Kwenda ndekha sinditha",
+        "Akhale pafupi nane, An’gwire m’dzanja lake."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sindidzaopa nthenda (E! nthenda),",
+        "Akanditsogolera (tsogoza)",
+        "N’dzapita wosang’ung’udza,",
+        "Kutsata mapazi’ke."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Chikhulupiro changachi, Chili chofoka ndithu;",
+        "Andilimbikitsa Iye, Ndi mau ake okha."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mombolo akhale nane, Nd’yende m’njira ya moyo;",
+        "Kupyola mayeso onse, Ndikumenyana nkhondo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mombolo akhale nane, Kuti anditsogoze;",
+        "Kufikira nditafika, Ku tsidya lina lija."
+      ],
+      "number": 5
+    }
+  ]
+}

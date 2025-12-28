@@ -1,0 +1,56 @@
+{
+  "number": 242,
+  "language": "nso",
+  "title": " 242 GO ŠEGOFALE KOPANO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 242 GO ŠEGOFALE KOPANO",
+        "CH 432 AH 481",
+        "BLEST BE THE TIE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go šegofale,",
+        "Kopano leratong,",
+        "Bogwera mokhwi,",
+        "Bo swane le bja legodimong:"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka pele ga terone,",
+        "Re lla ka thapelo,",
+        "Maikemišetšo a rena,",
+        "Ke a tee go fihla khutšong;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mathwenyego ohle,",
+        "Le yona merwalo,",
+        "Le go llelana ga rena,",
+        "Le kwelano bohloko;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ge re kgaogana,",
+        "re kwa bohloko,",
+        "Eupša re tshepa gore",
+        "Re tlo kopana gape;"
+      ],
+      "number": 5
+    }
+  ]
+}

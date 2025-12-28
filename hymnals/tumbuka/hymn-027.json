@@ -1,0 +1,69 @@
+{
+  "number": 27,
+  "language": "tum",
+  "title": " 27 Tikum'wongani Fumu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 27 Tikum'wongani Fumu",
+        "WE PRAISE THEE, O GOD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Tikum'wongani, Fumu ya uchizi,",
+        "M'katuma mponoski kufwira ise."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Haleluya timchindike,",
+        "Haleluya Amen,",
+        "Haleluya timsopenge,",
+        "Chiuta withu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Tikuwongaso Chiuta wa mphavu,",
+        "Chifukwa cha Mzimu winu mutuwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Tim'chindikenge, mwana wa mberere;",
+        "Uyo wakafwira kutiwombola."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Tikum 'wongani, Fumu ya uchizi,",
+        "Mwe mukatigula na ndopa zinu."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "Tipamphuskeni mu chitemwa chinu,",
+        "Mtibuske na moto wa Mzimu winu."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "number": 219,
+  "language": "nd",
+  "title": "219 Ngi Hole O, Jehova!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngihole Wena Jehova Ngi ngumhambi,",
+        "Nkosi yam’ U namandla, angi nawo Ngiya wacela kuWe",
+        "O, Msindisi! NguWe oSihlangu sam’"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lowo Mtombo wosindiso Owavulwa ngenxa yam’",
+        "Ma uvele umpompoze Uzigez’ izono zam’",
+        "O, Msindisi! NguWe oLusizo lwam’"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngifikile eJordani Susa ukwesaba kwam’",
+        "U zungi phelekezele Yiba ungu Msizi wam,",
+        "O, Msindisi! NguWe oliThemba lam’"
+      ],
+      "number": 3
+    }
+  ]
+}

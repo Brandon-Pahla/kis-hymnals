@@ -1,0 +1,35 @@
+{
+  "number": 255,
+  "language": "rw",
+  "title": "255 Mbes'Aho Tuzahurira Ku Cyambu?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 255 Mbes'Aho Tuzahurira Ku Cyambu?",
+        "**1**",
+        "Mbes'aho tuzahurira ku cyambu cya rwa ruzi,",
+        "Ahahor'umucy'iteka, Ntihab'umubabaro?",
+        "**Gusubiramo:**",
+        "Mbes'aho tuzahurira ku cyambu cya rwa ruzi?",
+        "Tuzabonanirayo tuhanezererw'iteka?",
+        "**2**",
+        "Tuzahurira ku cyamb'urugendo rurangiye?",
+        "Mbes'aho tuzahurirayo, Maze twiruhutse?",
+        "**3**",
+        "Mbes'aho twese tuzahurira mu mudugudu,",
+        "Wubatswe n'Uhoraho, Urimbishijwe yasipi?",
+        "**4**",
+        "Abacunguwe bose, Bazaririmb'indirimbo,",
+        "Kand'ibiremwa byose bizasingiz'Uhoraho.",
+        "**5**",
+        "Mbes'aho tuzabonana n'abo twakundanaga,",
+        "Maze twumv'amajwi yabo tubareba mu maso?",
+        "**6**",
+        "Mbese tuzabonana na Krist'Umukiza wacu,",
+        "Aje kujyan'intore ze mu bwami buhoraho?"
+      ],
+      "number": 1
+    }
+  ]
+}

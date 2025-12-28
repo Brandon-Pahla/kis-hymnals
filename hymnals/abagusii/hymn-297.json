@@ -1,0 +1,35 @@
+{
+  "number": 297,
+  "language": "guz",
+  "title": "297 Monene Ng'Emeremo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Monene ng'emeremo,Nkore as'omogoko;Nonya timbwati nguru,Ko ndigeti'emeremo,'Mabok'ane neng'ea,Merem'emeke nkore:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Monene ng'emeremo,Nkore as'omogoko"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nyegene kand'omoke,Amang'an'a Biblia;Ntare chinchera chiao,Nkore n'ogwancha kwao,'Nkoro, 'Maboko nkoe,Ngokorer'Omorwoti:"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ninsimek'embusuro,Nkor'emerem'emiya;As'Obwanchani nkonya,Ng'ikeranie nkwegene,Nyorokie ngokorere,'Meremo korwa bono."
+      ],
+      "number": 4
+    }
+  ]
+}

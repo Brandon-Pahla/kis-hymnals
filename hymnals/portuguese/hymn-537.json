@@ -1,0 +1,56 @@
+{
+  "number": 537,
+  "language": "pt",
+  "title": "Cristo Salva o Pecador",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cristo Salva o Pecador"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo salva o pecador,",
+        "Lava o rude coração;",
+        "Ao contrito, com amor,",
+        "Oferece salvação."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Confiai em Seu poder;",
+        "Confiai em Seu amor,",
+        "Crede, sim, que Cristo quer",
+        "Libertar o pecador."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo salva o pecador",
+        "E concede-lhe perdão.",
+        "Aceitai o bom Senhor,",
+        "Aceitai de coração."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vinde todos, e achareis",
+        "Paz e luz no Redentor,",
+        "Vinde, então recebereis",
+        "Vida eterna, do Senhor."
+      ],
+      "number": 5
+    }
+  ]
+}

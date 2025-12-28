@@ -1,0 +1,47 @@
+{
+  "number": 113,
+  "language": "tw",
+  "title": "Sɛnea 'F'rote P're Hwehwɛ Nsu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnea 'f'rote p're hwehwɛ nsu",
+        "Brč a wɔrepam no no;",
+        "Sɛ me kra hwehwɛ Wo Nyame,",
+        "Ne W'adɔe nso ne no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me Nyamč a Wote ase daa,",
+        "Me kra b'rɛfo hia Wo;",
+        "O da bɛn na mehu W'anim,",
+        "Wo Tweaduampɔn Nyame."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me kra, dɛn nti na woaboto?",
+        "Nya 'nidaso na to",
+        "Wo Nyankopɔn ayeyi dwom ɔ",
+        "W'ahoɔden nsuti no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Agya, ɔba, Honhom Kronkron,",
+        "Nyame a yɛsom No;",
+        "Anuonyam nka Wo fi seesei",
+        "De kosi afebɔɔ."
+      ],
+      "number": 4
+    }
+  ]
+}

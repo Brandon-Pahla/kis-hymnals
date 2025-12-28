@@ -1,0 +1,43 @@
+{
+  "number": 192,
+  "language": "sw",
+  "title": "192 - Mwamba Wenye Imara",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Mwamba wenye imara, kwako nitajificha,",
+        "Maji hayo na damu, yaliyotoka humu,",
+        "Hunisafi na dhambi, hunifanya mshindi."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Kwa kazi zote pia, sitimizi sheria.",
+        "Nijapofanya bidii, nikilia na kudhii,",
+        "Hayaishi makosa, ndiwe wa kuokoa."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Sina cha mkononi, naja msalabani,",
+        "Nili tupu nivike, ni mnyonge nishike,",
+        "Nili mchafu naja, nioshe nisijafa."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Nikungojapo chini, na kwenda kaburini,",
+        "Nipaapo mbinguni, na kukwona enzini,",
+        "Roho yangu na iwe, rahani mwako wewe."
+      ]
+    }
+  ]
+}

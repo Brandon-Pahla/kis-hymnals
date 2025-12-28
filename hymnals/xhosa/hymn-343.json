@@ -1,0 +1,62 @@
+{
+  "number": 343,
+  "language": "xh",
+  "title": "343 Nanku Ndimi Ndinkqonkqoza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nanku ndimi ndinkqonkqoza, Kolucango lwaKho, moni,",
+        "Ngelithambiley’ ilizwi: Ndingene-na? Ngingene-na?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndimi emnyango ndinkqonkqoza, Ndimi ndicenga ngomonde,",
+        "Uthini, moni olusizi, Ndingene-na? Ndingene-na?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndawanyamezela mna Amanxeb’ okubethelwa,",
+        "Ngenxa yaKho, mgqithindini: Ndingene-na? Ndingene-na?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndev’ intlungu zomnqamlezo, Ndalala nasengcwabeni;",
+        "Ndizond’ ukonwaba kwaKho: Ndingene-na? Ndingene-na?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiza ndinoxolo lwaKho, Ndiza nokonwaba kwaKho,",
+        "Wen’ unamaxhal’ ezono: Ndingene-na? Ndingene-na?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndingumhlobo, ndibubomi, Ndilikhaka, Ndililiwa,",
+        "Ongazinqabisa kulo: Ndingene-na? Ndingene-na?"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yemka ke imini yaKho, Latshona ilanga laKho;",
+        "Use sendlelen’ yembubho: Ndingene-na? Ndingene-na?"
+      ],
+      "number": 6
+    }
+  ]
+}

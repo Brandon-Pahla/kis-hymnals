@@ -1,0 +1,47 @@
+{
+  "number": 273,
+  "language": "sn",
+  "title": "273 Tsamira Mumaoko A Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tsamira maoko aJesu, Unobatsirwa, batsirwazve",
+        "Kuti uchimusimbirazve, Uchazofara"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsamira mumaoko ake, Simbira murudo netsitsi",
+        "Tarisa kudenga kumusha, Tsamira kuna Jesu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsamira maoko aJesu, Anokujekesera nzira",
+        "Chimutevera nerufaro, Inzva inzvi rake"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsamira maoko aJesu, Unza matambudziko ako",
+        "Mutoro unokuremera, Ipa kuna Tenzi"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsamira maoko aJesu, Zvino chisiya zvese kw’ari",
+        "Ane mutsa, anerudozve, Anoona zvese"
+      ],
+      "number": 5
+    }
+  ]
+}

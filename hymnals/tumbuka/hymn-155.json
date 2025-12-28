@@ -1,0 +1,68 @@
+{
+  "number": 155,
+  "language": "tum",
+  "title": " 155 Ndirute Uko Mukukhumba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 155 Ndirute Uko Mukukhumba",
+        "I WILL GO WHERE YOU WANT ME TO GO"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Panji ntha kungawa ku phiri,",
+        "panji m'mayigha m'nyanja",
+        "Panji pakati pa chinkhondo,",
+        "mukukhumba ndirute,",
+        "Para wangandituma ine",
+        "ku charu cha wayeni,",
+        "Ndizomerenge mnkhongono zake,",
+        "ndirute ko mkukhumba."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndirutenge uko mukukhumba,",
+        "Mphiri, m'dambo na munyanja",
+        "Ndiyowoyenge ivyo m'kukhumba,",
+        "Ndirondezgenge Mponoski."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Pali mazgu gha Fumu yane",
+        "ghakuti ndiyowoye,",
+        "Panji waliko wakwananga",
+        "wakusowa wovwiri,",
+        "Fumu para mwandirongozga visuzge viti uli,",
+        "Ndipharazgenge uthenga winu",
+        "kufiska khumbo linu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mwe nkhumanya malo ghaliko",
+        "mumunda wa wadada,",
+        "Ndichite mlimo wa kuvuna",
+        "wa Yesu muponoski,",
+        "Pakumugomezgani imwe,",
+        "nkhumanya mkunditemwa,",
+        "Ndichitenge khumbo linu Fumu,",
+        "ndiwe icho mkukhumba."
+      ],
+      "number": 4
+    }
+  ]
+}

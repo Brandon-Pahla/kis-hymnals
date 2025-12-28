@@ -1,0 +1,23 @@
+{
+  "number": 127,
+  "language": "ts",
+  "title": "127. XINDZINGIRI LEXI WAKA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "GOD SEES THE LITTLE SPARROW FALL",
+        "1. Xindzingiri Lexi Waka, Yesu Wa Xi vona;",
+        "Loko A Xi Rhandza Xona, U Rhandza Na Mina.",
+        "CHORUS",
+        "Wa Ndzi Rhandza Wena Yesu, Ndza Swi Tiva Mina;",
+        "U Rhandza Ntumbuluko, Na Mina Wa Ndzi Rhandza.",
+        "2. U Sasekise Makhon’wa, A Ya Ha Nun’hwelo;",
+        "Loko A Rhandza Swivula, U Rhandza Na Mina.",
+        "3. Swiluva Na Swinyenyana, Swikulu, Swintsongo;",
+        "Na Vana Lavantsongo, U Rhandza Hinkwavo."
+      ],
+      "number": 1
+    }
+  ]
+}

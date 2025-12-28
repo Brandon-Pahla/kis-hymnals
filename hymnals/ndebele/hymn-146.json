@@ -1,0 +1,47 @@
+{
+  "number": 146,
+  "language": "nd",
+  "title": "146 Ukuphila Kwakho Kimi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Phila phakathi kwami, O! Jesu Nkosi yam’",
+        "Ma ngizw’ ukusho kwAkho Ngokuxakeka kwam’,",
+        "Phila phakathi kwami, Kuzo zonk’ izinto.",
+        "Kube ‘bukosi bAkho ‘Ngi hlale ngi nento."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Umzimba u nikelwe Ungabi nasono",
+        "Makuthi se kuvezwa OwAkho uMbuso!",
+        "Nomhlaba wonk’ u thule Umzimb’ u guqulwe",
+        "Kuhle njengo wAkho nje, ’Ze u nga phendulwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Izinto zawo njalo Zi thobele Wena",
+        "Zi vume imithwalo Eshiwo nguWena,",
+        "Zi suke zi phaphame - Noba, kubi kuhle!",
+        "Zonke ma zi gijime Imihla ngemihla."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma zi chume zi zothe - Zizwe izwi lAkho.",
+        "Zi hlala zi lindele: Nxa uzifunayo.",
+        "Phila phakathi kwami, O! Jesu Nkosi yam’",
+        "Kube bukosi bAkho Nas’ ekufeni kwam’."
+      ],
+      "number": 4
+    }
+  ]
+}

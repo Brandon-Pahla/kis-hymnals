@@ -1,0 +1,30 @@
+{
+  "number": 309,
+  "language": "bem",
+  "title": "309 - YESU WESU AFYELWE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE BIRTH OF JESUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu wesu afyelwe, Mu Betelemu;",
+        "Asendeme mu fyani, Fya mu mukondo",
+        "2. O, Yesu uleshiba, Ifinti kuno;",
+        "Washo bufumu bobe, Kututula 'fwe.",
+        "3. O, Cibusa ca bana, Ndetota Iwe;",
+        "Pantu washile kale, Ing'anda iyobe.",
+        "4. Ndemukabila Yesu, Ukwafwa ine;",
+        "Ndemukonke nshiku pe, Ndemunakila.",
+        "5. Ndepalamina Iwe, Cibusa wandi;",
+        "Ndetemwa ukuleka, Fyabipa fyandi."
+      ],
+      "number": 2
+    }
+  ]
+}

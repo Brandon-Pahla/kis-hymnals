@@ -1,0 +1,43 @@
+{
+  "number": 30,
+  "language": "tw",
+  "title": "Nyame Kronkron, Yɛkamfo W'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame Kronkron, yɛkamfo W',",
+        "Ade ny'naa Wura, yɛkoto W'!",
+        "Fam hafo ny'naa hyɛ W'ase,",
+        "Na ɔsorofo ny'naa Kamfo W';",
+        "W'ahennim' trɛw nni kabea,",
+        "Wudi hen' kosi daapem."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muntie s'ro dwom dennen a",
+        "Abɔfo nnwontofo reto;",
+        "Kerubim ne Serafim,",
+        "Wɔreto ayeyi dwom daa;",
+        "Wɔn nne dɛdɛ hyɛ s'ro ma:",
+        "Kronkron, Kronkron, Kronkron, W'ra."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Agya Kronkron, 'Ba Kronkron,",
+        "Honhom Kronkron, yɛbɔ Mo din,",
+        "Mo ny'naa ka bom yɛ baako,",
+        "Nyame K'ro a ntetewm' nni W' mu,",
+        "Yebu nkotodwe kamfo W',",
+        "B'rč a yekųra hintasɛm nom'."
+      ],
+      "number": 3
+    }
+  ]
+}

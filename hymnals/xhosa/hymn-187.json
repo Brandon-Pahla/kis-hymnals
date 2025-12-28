@@ -1,0 +1,31 @@
+{
+  "number": 187,
+  "language": "xh",
+  "title": "187 Iculo Lokwahlukana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Msindisi ngenxa yegama laKho Sinyusa ngazwi nye indumiso;",
+        "Sikubonga wena kule nkonzo, Siguqile siph’ izwi loxolo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sikhaphel’ ekhaya kolu hambo; Nguw’ isiqalo kwa nesiphelo;",
+        "Salus’ imilomo nentliziyo, Sibiza kuwe sikuyo lendlu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Siph’ uxolo lwaKho kobu bomi, Luze lube liyeza nosizo;",
+        "Kuze kuthi wakuthi kwanele, Sibize, O Nkosi size kuWe"
+      ],
+      "number": 3
+    }
+  ]
+}

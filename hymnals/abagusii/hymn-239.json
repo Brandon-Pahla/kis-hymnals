@@ -1,0 +1,42 @@
+{
+  "number": 239,
+  "language": "guz",
+  "title": "239 Rituko Rinene Ngocha Rire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Rituko rinene ngocha rire,Yeso nachicheKoira abana abageni,Enka y'omwando."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Natorore ogokia kw'emambia,Kogoseria OmosunteNatorore ogokia, Kw'emambia,kogwata chimbera."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Mang'ana yenchilinarandigw' ebisaku bionsi,Monene bw'enyangitateban' amarandi abuge."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Ba igoro bonsi bamokobenamar' agwoka,Omogambi ache abair'abayease batakwe"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Bari' abasani twatiganete,Natororane,Baria barosir' emioyobatinyigw' amariga."
+      ],
+      "number": 5
+    }
+  ]
+}

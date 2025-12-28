@@ -1,0 +1,55 @@
+{
+  "number": 265,
+  "language": "ve",
+  "title": "265. Mulalo, Mulalo Naa?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:463",
+        "AH:263"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mulalo kha shango la zwivhi naa?",
+        "Malofha awe a na mulalo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mulalo mishumo yo anda naa?",
+        "Ri awela ri tshi mu shumela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mulalo matungu o anda?",
+        "Ri khae ri do wana mulalo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mulalo vhafunwa vhe kule?",
+        "Ro lavheleswa nga Yesu rothe."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Mulalo, ri sa divhi zwi daho?",
+        "Ri divha Yesu, ndi a vhusaho."
+      ],
+      "number": 6
+    }
+  ]
+}

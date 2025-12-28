@@ -1,0 +1,46 @@
+{
+  "number": 193,
+  "language": "tn",
+  "title": "193 O Ka Tshelela Jeso Boitshekong",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O Ka Tshelela Jeso Boitshekong Ka Metlha?",
+        "O ka tsama’a Nae tseleng tshesane?",
+        "O ka Mo lesa A go rwalela morwalo?",
+        "Mma A tsamae nao."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Thata ’Gwe e ka go siamisa;",
+        "Madi a ’Gwe a ka go ntlafatsa;",
+        "Rato lwa ’Gwe lo ka go bontsha,",
+        "Fa Go tshwanetse a tsamae nao."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A O Ka Mo Lesa Gore A Go Golole?",
+        "O ka itse kagiso go neeleng tsotlhe?",
+        "A O ka Mo lesa gore A go boloke?",
+        "Mma A tsamae nao."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A O Ka Bona Boikhutso Bogosing Jwa ’Gwe?",
+        "A O ka supa boammaaruri jwa ’Gwe?",
+        "A mo tirong ya ’Gwe O ka dira bojotlhe",
+        "Mma A tsamae nao."
+      ],
+      "number": 3
+    }
+  ]
+}

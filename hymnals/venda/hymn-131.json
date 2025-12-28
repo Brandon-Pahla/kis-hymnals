@@ -1,0 +1,45 @@
+{
+  "number": 131,
+  "language": "ve",
+  "title": "131. Kha Ndi Fane Na Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kha ndi fane na Yesu, Ene Murena wanga;",
+        "Tenda Mutshidzi wanga, a de a dzule na nne.",
+        "Kha ndi fane na Yesu, shangoni fhano fhasi;",
+        "Ndi lila muya wau, dzula na nne Mutshidzi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Zwinoni zwi tshi tshila, U a zwi lavhelesa;",
+        "A tshi vhona zwi tshi wa, ngoho na nne U do mpfa,",
+        "U sedza ndila yanga, uri a ndendedze-vho;",
+        "Ndi funa u khethiwa. Dzula na nne Mutshidzi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kha ndi fane na Yesu, ndi tshile misi yothe;",
+        "Ndi funa u awela, fhethu ho fhumulaho,",
+        "Ndo bebiwa nga huswa, nga lufuno lwa Yesu;",
+        "Kha ndi vhe na lutendo, dzula na nne Mutshidzi."
+      ],
+      "number": 4
+    }
+  ]
+}

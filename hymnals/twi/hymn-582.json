@@ -1,0 +1,48 @@
+{
+  "number": 582,
+  "language": "tw",
+  "title": "Kristo, Yɛne Wo Yɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kristo, yɛne Wo yɛ adwuma no,",
+        "Ewom yɛyɛ mm'rɛw ne Bɔneyɛfo;",
+        "Yɛde yɛn 'de ny'naa maW',",
+        "Yɛtč ase ma Wo nko,",
+        "Wo dom mu yɛadi nim Y'adwumayɛm'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛne W' yɛ adwuma Mmorɔn hun' so,",
+        "Yetutu anammɔn, Sɛ Wo de no;",
+        "Yɛfrɛ ahiafo ba Ma 'dedamfikyi so",
+        "Bɔ mmɔden gye akra Y'adwumayɛm'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Gyenkwa, yɛmmrɛ da wɔ Y'adwumayɛm';",
+        "Yɛn suahun' horow ny' naa Nn'ru Wo de no;",
+        "Yɛn w'rɛkyekye ne sɛ Wo dom dɔɔso ma yɛn;",
+        "Yɛn brɛ dan anigye Y'adwumayɛm'."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nti momma yɛnko so Y'adwumayɛm'",
+        "Kosi sɛ yɛbɛgye Bɔne wiase' i;",
+        "Kosi sɛ akra ny'naa Bɛgye W' akamfo",
+        "Aka yɛn ho daapem Y'adwumayɛm'."
+      ],
+      "number": 4
+    }
+  ]
+}

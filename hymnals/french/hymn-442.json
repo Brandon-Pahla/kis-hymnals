@@ -1,0 +1,28 @@
+{
+  "number": 442,
+  "language": "fr",
+  "title": "Comme brame le cerf",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Comme brame le cerf après les courants d'eau, je crie à toi.",
+        "Je soupire après toi, mon âme a soif du Dieu vivant.",
+        "Tu es, Jésus mon seul soutien,",
+        "Je veux unir mon cœur au tien.",
+        "Comme brame le cerf après les courants d'eau, je crie à toi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "À quoi bon se désoler ?",
+        "À quoi bon se lamenter ?",
+        "Je veux te célébrer, toi seul es mon Sauveur, tu es mon Dieu."
+      ],
+      "number": 2
+    }
+  ]
+}

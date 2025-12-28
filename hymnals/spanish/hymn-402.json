@@ -1,0 +1,71 @@
+{
+  "number": 402,
+  "language": "es",
+  "title": "¡Oh!, salvo en la Roca",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Oh!, salvo en la Roca"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh!, salvo en la Roca más alta que",
+        "yo,",
+        "la Roca de vida que Cristo abrió,",
+        "brindando a su pueblo las aguas de",
+        "paz.",
+        "Oh, Roca divina, serás mi solaz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Salvo en ti, salvo en ti,",
+        "¡oh, Roca bendita,",
+        "me escondo en ti!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si vienen conflictos, tumultos,",
+        "dolor:",
+        "a Cristo, mi Roca, yo voy sin",
+        "temor;",
+        "recibo consuelo, consejos y luz:",
+        "la Roca divina es mi amante Jesús."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Y cuando mi vida se acerque a su",
+        "fin",
+        "y oiga por fe el divino clarín,",
+        "tus límpidas aguas trayendo virtud,",
+        "oh, Roca divina, serán mi salud."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "El lóbrego valle no temo cruzar,",
+        "pues tú me guiarás y me harás",
+        "descansar;",
+        "seguro en tu guarda, con paz",
+        "dormiré:",
+        "Jesús, el Eterno, es mi Roca, mi Rey."
+      ],
+      "number": 6
+    }
+  ]
+}

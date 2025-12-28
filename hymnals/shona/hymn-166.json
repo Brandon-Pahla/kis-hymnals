@@ -1,0 +1,55 @@
+{
+  "number": 166,
+  "language": "sn",
+  "title": "166 Dombo Remakore",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dombo remakore,",
+        "Ndiwigenyi kunemwi",
+        "Rega mvura neropa,",
+        "Zvakabza parutivi",
+        "Ndibatsirenyiwo,",
+        "Mundibvise zvitema"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Harisi basa rangu,",
+        "Ringamufadza imi",
+        "Kusi kudisa kwanga,",
+        "Kana kuchema kwangu",
+        "Zvese hazvindisambi,",
+        "Ndimi munoponesa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Handina chekumupa,",
+        "Ndouya kum’chinjiko",
+        "Ndinoda kupfekedzwa,",
+        "Ndinokumbira tsitsi",
+        "Ndotizira kutsime,",
+        "Ndisambenyi M’ponesi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti ndava parufu,",
+        "Maziso \\‘ngu apfigwa",
+        "Ndosvika nyika itsva,",
+        "Ndoona muchitanga",
+        "Muridombo rekare,",
+        "Ndiwigenyi kinemwi"
+      ],
+      "number": 4
+    }
+  ]
+}

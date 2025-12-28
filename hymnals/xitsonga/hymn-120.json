@@ -1,0 +1,26 @@
+{
+  "number": 120,
+  "language": "ts",
+  "title": "120. TATANA NDZI TA KA WENA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "FATHER, I STRETCH MY HANDS TO THEE",
+        "1. Tatana Ndzi Ta Ka Wena, Mupfuni Hi Wena;",
+        "Loko U Ndzi Fularhela, Nta Ya Kwihi Xana.",
+        "2. Ndza Pfumela Ka Nyimpfana, Ndzi Nyike Matimba;",
+        "Ku Pfumaleni Ka Mina, Wa Ndzi Enerisa.",
+        "3. Ndzi Tlakusa Mahlo Yanga Eka Wena Hosi;",
+        "Ndzi Nyike Vutomi Byaku, Ndzi Nga Lovi Hosi.",
+        "4. U Nga Ndzi Tshiki Ndzi Lova, Vula Ndzi Ta Hanya;",
+        "Ndzi Ta Wisa Ndzi Rindzela, Moya Wo Kwetsima.",
+        "5. Ndzi Nga Tsaka Hosi Yanga, Loko Ndzi Ku Vona;",
+        "Ndzi Yingisa Rito Raku Na Tintswalo Taku.",
+        "6. Ndza Pfumela Hakunene, Yesu U Ndzi Fele;",
+        "Ngati Yakwe Yi Halaka, Leswaku Ndzi Pona."
+      ],
+      "number": 1
+    }
+  ]
+}

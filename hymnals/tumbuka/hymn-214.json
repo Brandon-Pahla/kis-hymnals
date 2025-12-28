@@ -1,0 +1,68 @@
+{
+  "number": 214,
+  "language": "tum",
+  "title": " 214 Kasi YesuWakupwerera?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 214 Kasi YesuWakupwerera?",
+        "DOES JESUS CARE?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Kasi Yesu wakupwerera,",
+        "Para ndiri m'masuzgo?",
+        "Katundu mzito wakundifyenya,",
+        "Ndipo nthowa yandivuska?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nkhumanya wakupwerera,",
+        "M'suzgo wana chitima,",
+        "Para vyaLema usiku wiza,",
+        "Mponoski wakupwerera."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Kasi Yesu wakupwerera,",
+        "Para nthowa njakofya?",
+        "Para kwafipa na chisi chiza,",
+        "Wakuwa pafupi nane?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Kasi Yesu wakupwerera,",
+        "Para vinthu vyan'tonda?",
+        "ara nkhulira kwambura mtende,",
+        "Masozi usiku wose?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Kasi Yesu wakupwerera,",
+        "Para nkhufuma m'charu?",
+        "Para nkhuzirika 'mwe na nyifwa,",
+        "Kasi wakuwona chara?"
+      ],
+      "number": 5
+    }
+  ]
+}

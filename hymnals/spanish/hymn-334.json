@@ -1,0 +1,59 @@
+{
+  "number": 334,
+  "language": "es",
+  "title": "Cuánto anhelo llegar",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cuánto anhelo llegar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuánto anhelo llegar al celeste",
+        "hogar,",
+        "a la margen del río de vida;",
+        "sorpresas sin fin me aguardan allá;",
+        "mas ¡oh, qué será ver a Cristo!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Oh, qué será ver a Cristo!",
+        "¡Qué será ver al Señor!",
+        "Pronto nos llevará",
+        "al eterno hogar,",
+        "mas ¡oh, qué será ver a Cristo!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unos han de morir para no más",
+        "vivir,",
+        "mas los justos a vida retornan.",
+        "¡Qué gozo será volverlos a ver!,",
+        "mas ¡oh, qué será ver a Cristo!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando vaya a vivir en aquella ciudad,",
+        "cuando vea el rostro divino,",
+        "no habrá más dolor, ni muerte",
+        "jamás.",
+        "¡Oh, sí, qué será ver a Cristo!"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "number": 130,
+  "language": "sn",
+  "title": "130 ’Ndiri Wenyu Tenzi’",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiri wenyu Tenzi, Ndanzwa Izwi, Rataura nerudo,",
+        "Ndinoda kusimba murudairo. Ndiwe petyo nemwi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndipfuwe-nyi Petyo naTenzi: (Pe-tyo pe-tyo)",
+        "Petyo nemuchinjiko. Ndipfuwenyi ndiwe",
+        "Petyo naTenzi, Petyo nedivi renyu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndipirenyi kubasaro renyu, nesimbaro retsitsi",
+        "Mweya wangu utarise imwi, nerudo ruwe rwenyu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndine rufaro Tenzi panguva ndiri-pamberi penyu,",
+        "Ndichipfugama nemwizve Mwari Tichitaurirana."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kune rudo rwondisingazivi, Dakara ndiswikeko;",
+        "Rufaro rwo-ndisingasvikiri, Dakara ndiwe nemwi."
+      ],
+      "number": 5
+    }
+  ]
+}

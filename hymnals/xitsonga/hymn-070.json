@@ -1,0 +1,27 @@
+{
+  "number": 70,
+  "language": "ts",
+  "title": "70. LOKO HOSI YESU A TA VITANA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHEN JESUS SHALL GATHER THE NATION",
+        "1. Loko Hosi A Ta Vitana, Vanhu Hinkwavo Misaven, Ka Yo Mitlawa Leyimbirhi,",
+        "Xana Hi Ta Va Ka Wihi?",
+        "CHORUS",
+        "U Ta Hlengeleta Wo Mavele, A Cukumeta Wona Mungu,",
+        "Ka Yona Mintlawa Leyimbirhi, Xana Hi Ta Va Ka Wihi?",
+        "2. Xana Yesu U Ta Ku Ka Wena, “Nandza Wo Tshembeka Nghena”",
+        "Kumbe U Ta Ku Hlongolela Kule; U Lahlekeriwa Hi Tilo.",
+        "3. U Ta Tsakela Malandza Yakwe, Va Nga Lava Va Funghiweke,",
+        "U Ta Va Mbexa Ti Nguvu To Basa, Vona Va N’wi Khinsamela.",
+        "4. A Hi Phaphukeni Hi Rhindzela, Hi Pfurhisa Na To Timboni,",
+        "Loko Se Muteki A Ta Fika, A Kuma Hi N’wi Rindzele.",
+        "5. A Hi Tlakusen Tinhloko Henhla, Hi Langusa Kwale Tilweni,",
+        "Loko Rendzo Rita Fika Makumu, Hi Ta Tiphina Na Hosi."
+      ],
+      "number": 1
+    }
+  ]
+}

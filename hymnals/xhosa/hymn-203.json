@@ -1,0 +1,60 @@
+{
+  "number": 203,
+  "language": "xh",
+  "title": "203 Umthuthuzeli Ukhona",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, masisasaze indaba ezintle Ebantwini bonke,",
+        "Endaweni zonke. Onke amaKristu mawatsho ngovuyo,",
+        "\" ’Mthuthuzel’ ukhona.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mthuthuzel’ ukhona, Mthuthuzel’ ukhona,",
+        "U-Moy’ oyiNgcwele, Idinga lezulu. O, masisasaze",
+        "Indaba ezintle, \" ’Mthuthuzel’ ukhona.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Budlul’ ubusuku, Kuvela imini, Akukho kulila,",
+        "Nomsindo awukho; Njengokwegolide, Iyakhany’ imini,",
+        "’Mthuthuzel’ ukhona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bona nats’ iNkosi Ipheth’ impiliso, Onk’ amaKhoboka",
+        "Ayakhululeka. Ezintolongweni Mayitsho ingoma,",
+        "’Mthuthuzel’ ukhona."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uthando lweNkosi lolwanaphakade, Mandithethe ngalo,",
+        "Nenceba kuboni; ’Kuze ndingumoni Ndifane noYesu,",
+        "’Mthuthuzel’ ukhona."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hlab’ emoyen’ izwi, Mazitsh’ iingelosi, Baphendule phantsi",
+        "Ngothando lwenene; Hlabel’ ungayeki, ’Ngoma yoloyiso,",
+        "’Mthuthuzel’ ukhona."
+      ],
+      "number": 5
+    }
+  ]
+}

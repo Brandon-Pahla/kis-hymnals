@@ -1,0 +1,45 @@
+{
+  "number": 187,
+  "language": "ve",
+  "title": "187. Luimbo Lwa U Onesana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Muphulusi ri a imba hafhu,",
+        "Phisalema dza u onesana,",
+        "Ro lavhelesa u shudufhadzwa,",
+        "Kha ri fhiwe ipfi la mulalo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ri vhuye ri tuwe nga mulalo,",
+        "Ri tshi vuwa naho ri tshi lala,",
+        "Linda milomo na mbilu dzashu",
+        "Musi ri tshi bva kha ino nndu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri fhe-vho mulalo vhutshiloni,",
+        "U ri fhumudze na zwililoni,",
+        "Musi u tshi vho do ri zwo fhela,",
+        "Khotsi ri vhidze ri do awela."
+      ],
+      "number": 4
+    }
+  ]
+}

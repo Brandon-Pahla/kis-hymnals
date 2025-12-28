@@ -1,0 +1,39 @@
+{
+  "number": 96,
+  "language": "xh",
+  "title": "96 Luvuyele, Luveyele Langa Lokuphumla",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Siyavuya ngalo mhla Owasikelelwayo;",
+        "Siwamkela ngovuyo, Ngokwelanga lezulu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lilanga lokuphumla, Lihamba kuhl’ ixesha;",
+        "Sithuthuzelwa ngalo, Kude kuphel’ ubomi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Min’ engcwele enkulu, Yokubonga iNkosi,",
+        "Sifunda ngawo lo mhla, Ngentsikelelo zaKho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Siyavuya ngalo mhla, Neempembelelo zawo;",
+        "Sivula nentliziyo, Siphe uMoya waKho."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "number": 557,
+  "language": "tw",
+  "title": "Mommra, Mo Asedafo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Momfa nnɔbae dwom mm'ra fie,",
+        "Wɔaboa nnɔbae ny'naa ano,",
+        "Ansa na 'pɛb're adu;",
+        "Yɛn Bɔfo Nyankopɔn no",
+        "Ma yɛn nea ehia yɛn ny'naa;",
+        "Mommra Onyankopɔn fie",
+        "Na monto nnɔbae ho dwom!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛyɛ Nyame afuw a,",
+        "Yɛsow N'ayeyi aba;",
+        "Wogu awi pa ne wųra",
+        "Enyin ma dɛw anaa yaw;",
+        "Ahaban ne bɛtem pue",
+        "Afei ɛyɛ awi pa;",
+        "Afuw Wura, yɛsrɛ Wo,",
+        "Ma yɛnyɛ aba pa nko!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn Nyankopɔn no bɛba",
+        "De Ne nnɔbae akɔ fie;",
+        "Da no Obeyi bɔne",
+        "Ny'naa afi N'afuw no mu;",
+        "ɔbɛhyɛ N'abɔfo ma",
+        "Wɔahyew aba bɔne no;",
+        "Na wɔde awi pa no",
+        "Akogu N'asan so daa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo nkonim asafo bra",
+        "Bɛto otwab're ho dwom;",
+        "Wɔaboa nnɔbae ny'naa ano",
+        "Afi yaw ne bɔne mu;",
+        "Wɔatew wɔn ho kosi daa,",
+        "Wɔbɛtra Nyame fie daa,",
+        "Abɔfo mpem du, mommra",
+        "Momfa 'nuonyam nnɔbae mm'ra."
+      ],
+      "number": 4
+    }
+  ]
+}

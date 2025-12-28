@@ -1,0 +1,36 @@
+{
+  "number": 142,
+  "language": "sn",
+  "title": "142 Kunakayi!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Zuva rakanakisa Rakapinda ese",
+        "Totorasa pfungwa dzenyika",
+        "Tofunga naMwari"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mazwi erudo akanaka",
+        "Kubva kuna Iye",
+        "Ku’nza masodzi enhamo",
+        "Ot’svitsa kudenga"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti tidzinge zvitema",
+        "Tayedza tatadza",
+        "Iye anoona mwoyo",
+        "Anotibatsira"
+      ],
+      "number": 3
+    }
+  ]
+}

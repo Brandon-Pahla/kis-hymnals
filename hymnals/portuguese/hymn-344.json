@@ -1,0 +1,56 @@
+{
+  "number": 344,
+  "language": "pt",
+  "title": "Ó Cristãos, Avante!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ó Cristãos, Avante!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó cristãos, avante! Sem temor marchar!",
+        "Pela cruz de Cristo, com ardor lutar.",
+        "Cristo, o nosso Mestre, guia o batalhão;",
+        "No calor da guerra ergue Seu pendão."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Ó cristãos, avante!",
+        "Marchar, marchar, marchar!",
+        "Pela cruz de Cristo,",
+        "Com ardor lutar!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó cristãos, avante, contra Satanás!",
+        "A Jesus seguindo, príncipe da paz.",
+        "Nunca o inimigo prevalecerá!",
+        "Com as hostes santas Cristo vencerá!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Reinos pereceram, tronos e nações,",
+        "Mas a Igreja vence, mesmo em aflições.",
+        "Vamos, pois, avante, com fervor marchar,",
+        "Rumo para a glória, nosso eterno lar."
+      ],
+      "number": 5
+    }
+  ]
+}

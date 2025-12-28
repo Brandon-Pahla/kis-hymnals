@@ -1,0 +1,40 @@
+{
+  "number": 436,
+  "language": "tw",
+  "title": "Kuro No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kuro no, O kuro no, Adehye 'sase no;",
+        "'Desae nni kuro no mu, B're biara yɛ 'dekyee",
+        "M'ani 'gyina kuro no, Me koma di yaw ha;",
+        "Yawdi bi nni kuro nō a Merebɛn no no mu.",
+        "Yawdi bi nni kuro nō a Merebɛn no no mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M'Aw'rade ne abɔfo Fɛfɛ wɔ kuro nom';",
+        "Bɔne bi nni kuro nom', Na sɔhwɛ nso nni hɔ,",
+        "Dwom a wɔto kuro nom' Gyigye wɔ m'asomu",
+        "Na midwen kuro no hō a, Na m'ani ataa nsu;",
+        "Na midwen kuro no hō a, Na m'ani ataa nsu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔn a wɔte kuro nom' Refrɛ me sɛ memmra,",
+        "Nea wu anaa 'w'rɛhow bi Nhyɛn wɔn fie kronkron nom'",
+        "ɔman pa a ɛwɔ yɛn, S'ro home ne 'somdwoe;",
+        "O Kristo, fa yɛn ny'naa bra Wo gye dɔ kuro nom'",
+        "O Kristo, fa yɛn ny'naa bra Wo gye dɔ kuro nom'."
+      ],
+      "number": 3
+    }
+  ]
+}

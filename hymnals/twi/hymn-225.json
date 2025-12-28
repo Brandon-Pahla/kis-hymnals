@@ -1,0 +1,60 @@
+{
+  "number": 225,
+  "language": "tw",
+  "title": "Nyame Da N'at'rimpɔ Adi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame da N'at'rimpɔ adi",
+        "B're a mfe resen no;",
+        "Nyame da N'at'rimpɔ adi",
+        "Na b're no retwe bɛn;",
+        "Twe ara na ɛretwe bɛn Etwa sɛ ɛba'ra;",
+        "B'rč a Nyame anuonyam bɛhyɛ 'sase so ma,",
+        "Sɛnea nsu ayɛ po ma no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Efi apuei de kɔ atɔeɔ Nea nnipa tia biara;",
+        "Nyame nam 'somafo pii so",
+        "Kasa ky'rɛ aman ny'naa.",
+        "Monyɛ aso ntie me, mo nsase",
+        "Ne mo nsupɔw no ny'naa;",
+        "Sɛ Nyame anuonyam bɛhyɛ 'sase so ma,",
+        "Sɛnea nsu ayɛ po ma no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛrekɔ wɔ Nyame tumim',",
+        "Kristo frankaa dė anim;",
+        "Na 'nuonyam asɛmpa hann no",
+        "Ahy'rɛn wɔ wiase ny'naa;",
+        "Yɛko wɔ 'w'rɛhow ne bɔnem'",
+        "Ma nnommum faw'hodi;",
+        "Na Nyame anuonyam ahyɛ 'sase so ma,",
+        "Sɛnea nsu ayɛ po ma no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nea yetum' yɛ biara nni mu",
+        "Gye sɛ Nyame hy'ra so;",
+        "Nyame amma aba no nkwá a",
+        "Yɛrennya hwee twab'rem;",
+        "Twe ara na ɛretwe bɛn, Etwa sɛ ɛba'ra;",
+        "B'rč a Nyame anuonyam bɛhyɛ 'sase so ma,",
+        "Sɛnea nsu ayɛ po ma no."
+      ],
+      "number": 4
+    }
+  ]
+}

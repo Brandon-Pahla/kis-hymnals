@@ -1,0 +1,55 @@
+{
+  "number": 39,
+  "language": "en",
+  "title": "39 My  Hope  Is  Built",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "My hope is built on nothing less,",
+        "Than Jesus’ blood and righteousness",
+        "I dare not trust the sweetest frame,",
+        "But wholly lean on Jesus’ name."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "On Christ, the solid Rock, I stand;",
+        "All other ground is sinking sand,",
+        "All other ground is sinking sand."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "When darkness seems to veil his face,",
+        "I rest on his unchanging grace;",
+        "In ev’ry high and stormy gale,",
+        "My anchor holds within the vail."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "His oath, his covenant, and blood,",
+        "Support me in the whelming flood;",
+        "When all around my soul gives way,",
+        "He then is all my hope and stay."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "When he shall come with trumpet sound,",
+        "O may I then in him be found",
+        "Clad in his righteousness alone,",
+        "Faultless to stand before the throne."
+      ],
+      "number": 4
+    }
+  ]
+}

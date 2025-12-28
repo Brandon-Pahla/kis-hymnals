@@ -1,0 +1,40 @@
+{
+  "number": 156,
+  "language": "st",
+  "title": "156 Mantsoe A Khalefo A Se Tsoe.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ho se tsoe melomong ea lona mantsoe a khalefo,",
+        "Tse boima tse kapelong Li lahloe li e so senye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Le ke le rataneng (Le rataneng) Ho bua ’Moloki (Le rataneng),",
+        "Bana utloang taelo ea Ntate; (Ke taelo ea Ntate)",
+        "Le ke le rataneng, (Le rataneng) Ho bua ’Moloki,",
+        "(Le rataneng) Bana utloang taelo ea Hae."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lerato ke le hloekileng Metsoalle e ts’epehang;",
+        "Li se ke tsa sengoa fela Ka bona booatla fela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lentsoenyana la khalefo, Le ferekanya pelo;",
+        "Tse ntle tsa bophelo li rojoa ke le le leng fela."
+      ],
+      "number": 3
+    }
+  ]
+}

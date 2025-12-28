@@ -1,0 +1,55 @@
+{
+  "number": 98,
+  "language": "sn",
+  "title": "98 Muponesi Aneni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Muponesi garai neni",
+        "Handichafamba ndega",
+        "Ndinoda kuziva kuti",
+        "Munonditungamira"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndizvo mwoyo hautyi, Munditungamire’di",
+        "Ndinoenda kwese kwese, Ndikuteera ini"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muponesi garai neni",
+        "Handina’ba masimba",
+        "Asi munesimba imwi,",
+        "Munozondibatsira"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muponesi garai neni",
+        "Muupenyu hwangu’wo",
+        "Mukutambudzika kwangu",
+        "Nezvemurufaro’wo"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muponesi garai neni",
+        "Mundione munzira",
+        "Kuti ndizoswika ini",
+        "Kumusha wekudenga"
+      ],
+      "number": 5
+    }
+  ]
+}

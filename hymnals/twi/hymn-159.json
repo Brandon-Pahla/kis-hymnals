@@ -1,0 +1,46 @@
+{
+  "number": 159,
+  "language": "tw",
+  "title": "Bepɔ Bi So Na Asɛnnua",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bepɔ bi so na asɛnnua dedaw bi si,",
+        "Yaw ne fɛre ho sɛnky'rɛnne.",
+        "Medɔ asɛnnua dedaw yi a ɛso na",
+        "Wiase nti wokum' me dɔfo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Na mɛyɛ asɛnnua no atuu,",
+        "Kosi sɛ mewie me ko no ko:",
+        "Mɛtwere asɛnnua dedaw no,",
+        "Na adan me ahenkyɛw da bi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asɛnnua a wiase buu no animtia no",
+        "Twetwe m'adwen sɛ biribi.",
+        "Efisɛ Nyame 'Guammaa gyaw N'anuonyam s'ro,",
+        "Bɛsoa kɔɔ Kalbre sum mu hɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Medi asɛnnua gow yi nokware daa daa,",
+        "Mɛsoa N'aniwu ne fɛre;",
+        "Na daakye ɔbɛfrɛ me de me kɔ fie a,",
+        "Manya N'anuonyam no bi daa."
+      ],
+      "number": 3
+    }
+  ]
+}

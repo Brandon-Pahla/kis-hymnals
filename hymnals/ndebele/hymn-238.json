@@ -1,0 +1,55 @@
+{
+  "number": 238,
+  "language": "nd",
+  "title": "238 Ngobani Labo?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngoban’ abadlul’ amagagasi, Phesheya kwama ngcwaba bathi, thu!NgoJesu bedumisa, Behlanziwe liWundlu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bengena phakath’ eJerusalem’ eNtsha! Behlanziwe leWundlu.",
+        "(’Gazini leWundlu)",
+        "Bengena phakath’ eJerusalem’ eNtsha! Behlanziwe liWundlu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yibo labo ebusheni babo Bahlakani pha ba kheth’ uJesu;",
+        "Benela ngaYe labo Behlanziwe liWundlu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yibo abathwal’ inhlungu laba Bazuza ukuphumla k’uJesu;",
+        "Begcwele ukuthula Behlanziwe liWundlu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yibo abaphathekayo kabi Bema emlilweni obuhlungu",
+        "UJes’ uthi, \"Nyukani!\" Nihlanziwe liWundlu."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Baphephel’ ogwin’ olukhanyayo Sekudlule ukufa nenhlungu;",
+        "Bathaba njalo-njalo Behlanziwe liWundlu."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "number": 120,
+  "language": "ny",
+  "title": "120 - Atate, Ndziperekatu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I DO BELIEVE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Atate, ndziperekatu, Palibe winanso,",
+        "Popanda Inu, Mbuyanga, Ndidzanka kutiko?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Eh! Ndikhulupirira ’Ye, Wondifera ine.",
+        "Anapereka mwazi ’ke, Kupulumutsa ’ne."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndikhulupira Mwanayo, Ndifuna mphamvu ’ke;",
+        "Zoipa zanga zonsezo, Mzichotse Inutu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kwa Inu, Mbuye, mwini wa Chikhulupirocho,",
+        "Mndipatse mphatso yanuyo, Ndingafe m’mtimanga."
+      ],
+      "number": 4
+    }
+  ]
+}

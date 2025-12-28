@@ -1,0 +1,51 @@
+{
+  "number": 459,
+  "language": "tw",
+  "title": "Sɛ 'Yef'rokun 'Te Ne Nk'rɔfom'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ 'yef'rokun 'te ne nk'rɔfom',",
+        "ɔhen' te wɔ ne man mu,",
+        "ɔwɛnfo te wɔ aban mu,",
+        "Hyɛnkafo, af'rė anim no,",
+        "Wote saa ma me, 'W'ra."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ nsuti te ma turow no",
+        "Kanea te wɔ esum mu,",
+        "'Gyapade te wɔ korabea,",
+        "Mana, apam 'dakam' no,",
+        "Wote saa ma me, 'W'ra."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ nhenepa te ne tebeam',",
+        "Ͻwoɔ te wɔ ne kyɛm mu,",
+        "Sɛnea hann te kanea mu na",
+        "Agya te wɔ ofie no,",
+        "Wote saa ma me, 'W'ra."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ owia hann te wɔ ewim,",
+        "Sunsum te wɔ ahwehwɛm',",
+        "Nnuaba te wɔ b'rɔdoma so,",
+        "Bosu te nwura so no,",
+        "Wote saa ma me, 'W'ra."
+      ],
+      "number": 4
+    }
+  ]
+}

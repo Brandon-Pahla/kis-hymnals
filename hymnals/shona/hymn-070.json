@@ -1,0 +1,57 @@
+{
+  "number": 70,
+  "language": "sn",
+  "title": "70 Tinomira Senyi Murutongwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Apo Jesu anounganidza",
+        "Vanhu vese pamberi pake",
+        "Tinomira senyi mukutongwa",
+        "Pamusi werumuko rwake?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Achaunganidzira mapfunde",
+        "Asi anopisa hundiwo",
+        "Tinomira senyi murutongo",
+        "Rwemusi mukuru uyo?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tinonzwa here inzwi raJesu",
+        "Muranda wakanaka iwe",
+        "Zvimwe tinodedera nekutya",
+        "Tinobviswa pahope yake"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndizvo ngatirindire nemwenje",
+        "Iri kupenye zvakanaka",
+        "Kuti apo mukwambo auya",
+        "Tagadzirira kundopinda"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mwoyo yedu irikunangisa",
+        "Apo Jesu ari kudenga",
+        "Tinombo mirira nekutiwa",
+        "Dakara rwendo’ru rwapera"
+      ],
+      "number": 5
+    }
+  ]
+}

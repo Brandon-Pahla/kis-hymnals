@@ -1,0 +1,35 @@
+{
+  "number": 311,
+  "language": "guz",
+  "title": "311 Monene Ninkoigwete",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Monene ninkoigwete,Nganyet' eng'ana yao,Nyigwet' okwane ondemie;'Monene kwana bono;Ningotegererete,As'ari'onsi orantebie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Monen' onyator'erieta,Eri' omonye nase nde,Kwana nainche ntunye bwango,Ndemete nsibogete;'S'Omorisi'ararae,'Kiriri Ki'egetare."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nonya nd'omoke, ochayire,Tonseri 'otanyigweti,Monene nomanyet' onsi,Ayar'enkoro yane;Nomanyet' okogania,Kwana eri'onsesenie."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Monene Kwan'ombek'ang'e,Riogi riao riigweke,'S'okoigwera n'omogoko,Nimbwati' eng'ana yao;Monene ninkoigwete,Koranche kwana nainche."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "number": 291,
+  "language": "xh",
+  "title": "291 Ifanele Imvana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ifanele iMvana, Ifanele iMvana;",
+        "Ifanele iMvana, Yahlatywa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dumo, Haleluya! Mbonge Halelua!",
+        "Dumo, Haleluya! KwiMvana."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ubukumkani baKho Mabufike bulaule,",
+        "Kuphele obesono, O, Mvana."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ingathi singahlala Simthanda simdumisa,",
+        "Side sifik’ eZiyon’ Simbone."
+      ],
+      "number": 3
+    }
+  ]
+}

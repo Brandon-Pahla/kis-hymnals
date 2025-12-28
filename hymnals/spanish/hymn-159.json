@@ -1,0 +1,67 @@
+{
+  "number": 159,
+  "language": "es",
+  "title": "Yo espero la mañana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Yo espero la mañana"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yo espero la mañana",
+        "del gran día sin igual,",
+        "del cual dicha eterna",
+        "emana",
+        "y deleite perennal."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Esperando, esperando",
+        "otra vida sin dolor",
+        "y la grata bienvenida",
+        "de Jesús, mi amante",
+        "Salvador."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yo espero la victoria,",
+        "de la muerte al fin triunfar,",
+        "recibir la eterna gloria",
+        "y mis sienes coronar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yo espero ir al cielo,",
+        "donde reina eterno amor;",
+        "peregrino soy y anhelo",
+        "las moradas del Señor."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pronto espero unir mi canto",
+        "al triunfante y celestial,",
+        "y cambiar mi amargo llanto",
+        "por el himno angelical."
+      ],
+      "number": 6
+    }
+  ]
+}

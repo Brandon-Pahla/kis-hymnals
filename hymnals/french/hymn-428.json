@@ -1,0 +1,58 @@
+{
+  "number": 428,
+  "language": "fr",
+  "title": "Tout est fait pour...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tout est fait pour la gloire de Dieu,",
+        "Amen ! Amen !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Tout dépend de ce que tu en fais.",
+        "Amen ! Amen !  Amen ! Amen !  Amen !",
+        "Tout est fait pour la gloire de Dieu,",
+        "Amen ! Amen !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La vie, c'est pour la gloire de Dieu,",
+        "Amen ! Amen !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le culte est pour la gloire de Dieu,",
+        "Amen ! Amen !"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le printemps pour la gloire de Dieu,",
+        "Amen ! Amen !"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "L'offrande est pour la gloire de Dieu,",
+        "Amen ! Amen !"
+      ],
+      "number": 6
+    }
+  ]
+}

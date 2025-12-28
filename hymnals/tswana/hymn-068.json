@@ -1,0 +1,64 @@
+{
+  "number": 68,
+  "language": "tn",
+  "title": "68 Ke Rekolotswe Kea Bolela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Rekolotswe: Kea Bolela:",
+        "Ke rekolotswe ka madi",
+        "Rekolotswe ka tshwaro ya Gwe,",
+        "Ke ngwana’ Gagwe ka gale."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Rekolotswe, ke rekolotswe ka madi;",
+        "Rekolotswe, ke ngwana’ Gagwe ka gale."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rekolotswe: Kea Itumela:",
+        "Ga go puo e ka bolelang;",
+        "K’itse gore sedi ja Gagwe",
+        "Le tla nnela ruri le nna."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "K’akanya Ka Morekolodi,",
+        "Ke M’akanya tsatsi jotlhe;",
+        "K’opela ke sa didimale;",
+        "K’opela rato lwa Gagwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Tla Bona Bontleng Jwa Gagwe",
+        "Kgosi e intumedisang,",
+        "Ke Yo O ntisang ka lorato,",
+        "Yo mphang kopelo bosigong."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "K’itse Serwalo Se Ntetile",
+        "Kwa moseja mannong mantle;",
+        "Mme le ba’ itekaneditsweng,",
+        "Ke tla nna gae le Morena."
+      ],
+      "number": 5
+    }
+  ]
+}

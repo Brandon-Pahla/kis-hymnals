@@ -1,0 +1,45 @@
+{
+  "number": 92,
+  "language": "sn",
+  "title": "92 Musarikanganwe Sabata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Musarikanganwe Sabata raMwari,",
+        "Riri rakanaka kupinda misi yese,",
+        "Rinounza zororo, rudo nerufaro ,",
+        "Kunaka kwekudenga kunojeka naro"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tinotenda ngeSabata, musi waMwari,",
+        "Tinotenda ngeSabata, musi waMwari"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chengeta Sabata, mum’kudze’di Jesu,",
+        "Wakati, Ndirinzira, Idi Neupenyu,",
+        "Kuti timuteere Jesu pasi pano ,",
+        "Anotipa kudenga kugara ikwoyo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Musi unoyera, ngatiimbe nhasi,",
+        "Zviyimbo zvekutenda Jesu Muponesi ,",
+        "O, Mponesi wemutsa, ngerudo rukuru ,",
+        "Tatenda ngechitsidzo, munogara nesu"
+      ],
+      "number": 4
+    }
+  ]
+}

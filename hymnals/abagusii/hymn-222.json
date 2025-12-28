@@ -1,0 +1,35 @@
+{
+  "number": 222,
+  "language": "guz",
+  "title": "222 Ekerengererio Kiang'iranereire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ekerengererio,Kiang'iranereire;Naikire ang'e na seito,Kobua riria kare."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ang'e seito,Ang'e seito;Angie seito rero, rero,Kobua riria kare."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ang'e nka ya Tata,'S'obomeny' obonge;Ase Yeso akogamba,Nyancha y'ekerore."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ang'e goika seito,Ntore chigurube;K'emechando yaerire,Mbek'egutw' engiya."
+      ],
+      "number": 4
+    }
+  ]
+}

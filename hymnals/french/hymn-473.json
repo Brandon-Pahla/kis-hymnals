@@ -1,0 +1,54 @@
+{
+  "number": 473,
+  "language": "fr",
+  "title": "Toi, ne prends rien",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Toi, ne prends rien pour le voyage,",
+        "J'ai tout prévu, ne t'en fais pas,",
+        "Toi, ne prends rien, mais prends courage,",
+        "C'est seulement ce qu'il faudra.",
+        "Moi, je me charge des bagages,",
+        "Des lourdes pierres et de tes cris,",
+        "Moi, je me charge de tes nuages,",
+        "Des vents contraires et de ta pluie.",
+        "Porte des fruits, laisse les feuilles,",
+        "Garde la foi, sème la vie,",
+        "Ouvre les yeux, moi, je t'accueille,",
+        "Lève la tête et puis souris."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rejette au loin les apparences",
+        "Et dans la mer tous tes « pourquoi »,",
+        "Chante à nouveau ton espérance",
+        "Tu sais, je connais bien ta voix.",
+        "Détends les rides de ton front",
+        "Qui se mélangent au fil des heures,",
+        "Alors les rires te reviendront",
+        "Comme le soleil, comme une fleur."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mais je voudrais aussi te dire...",
+        "Et pourtant tu le sais déjà,",
+        "Que si tu me laisses conduire",
+        "Tu ne le regretteras pas.",
+        "Efface tout et tu verras",
+        "La nuit disparaître au grand jour",
+        "Respire à fond, rappelle-toi,",
+        "Les signes de mon prochain retour."
+      ],
+      "number": 3
+    }
+  ]
+}

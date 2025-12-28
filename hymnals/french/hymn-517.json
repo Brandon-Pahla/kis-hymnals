@@ -1,0 +1,46 @@
+{
+  "number": 517,
+  "language": "fr",
+  "title": "Seigneur dirige tous mes pas",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Seigneur dirige tous mes pas",
+        "Vers le ciel, ma patrie !",
+        "Mon Dieu ! Ne me délaisse pas,",
+        "Dans ta grâce infinie.",
+        "Remplis-moi d'une sainte ardeur",
+        "Pour toi, mon Chef et mon Sauveur;",
+        "Toi, mon trésor, et ma vie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu sais bien que souvent ma foi",
+        "Est faible et languissante.",
+        "Saint d'Israël, protège-moi",
+        "Par ta vertu puissante.",
+        "Sois mon asile et mon secours :",
+        "Daigne en moi signaler toujours",
+        "Ta faveur éclatante."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jusqu'au jour où je te verrai",
+        "Dans l'éternelle gloire,",
+        "Où, près de toi, j'exalterai",
+        "Ta mort expiatoire.",
+        "Sois ma seule part et mon fort,",
+        "Mon gain dans la vie et la mort,",
+        "Ma joie et ma victoire."
+      ],
+      "number": 3
+    }
+  ]
+}

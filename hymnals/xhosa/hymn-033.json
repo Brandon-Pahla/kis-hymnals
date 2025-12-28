@@ -1,0 +1,46 @@
+{
+  "number": 33,
+  "language": "xh",
+  "title": "33 Uya Ndikhokela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U-Yes’ uya ndikhokela, Ngeyakhe intuthuzelo;",
+        "Noko konk’ endikwenzayo Isandla sakhe sikho kum."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Uya ndirhola u-Yesu, Ngaso esakhe isandla;",
+        "Ndiza kumlandela ke mna, Ekuben’ endikhokela"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Noba kumnyama kuthe thsu, Nasemanzin’ enkathazo;",
+        "Andinanto ithusayo, Kuba ungaphambili kwam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Andisoli, andikhali, Nkosi ndiya qinisela;",
+        "Kuko konke ndiya vuya, Ekuben’ undikhokela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wakuphela umsebenzi, NgaWe Yesu ndingoyisa;",
+        "Andikoyika ukufa, U-Yesu endikhokela."
+      ],
+      "number": 4
+    }
+  ]
+}

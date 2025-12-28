@@ -1,0 +1,46 @@
+{
+  "number": 30,
+  "language": "xh",
+  "title": "30 Uratya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ilanga liya tshona, Izulu liya phumza,",
+        "Linda uz’ uthandaze, Ubusuku bukhanyis’ izibane."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ngcwele, ngcwele, ngcwele ku-Yehova;",
+        "Izulu kwa nomhlaba ziyambonga uBawo, u-Somandla."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi yokuphila kwam, Izulu likhaya lam,",
+        "Sibutha amadinga ombuso wokulunga; wasithenga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ukuhlwa kusondele, Ngofefe yenz’ inceba,",
+        "Ubuso nobukhosi busithwe zinkwenkwezi, Uyingcwele."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa singasaboniyo Ubusuku nemini,",
+        "Nkosi yaz’ ingelosi, Makufike ukusa Buka-Yesu."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": 462,
+  "language": "es",
+  "title": "Dame a Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Dame a Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De mañana al despertar,",
+        "de mañana al despertar,",
+        "de mañana al despertar,",
+        "dame a Cristo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Dame a Cristo, dame a Cristo.",
+        "Nada más quiero yo, dame a Cristo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En la noche al descansar,",
+        "en la noche al descansar,",
+        "en la noche al descansar,",
+        "dame a Cristo."
+      ],
+      "number": 4
+    }
+  ]
+}

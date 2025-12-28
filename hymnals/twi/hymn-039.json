@@ -1,0 +1,47 @@
+{
+  "number": 39,
+  "language": "tw",
+  "title": "Aw'rade, Wobɛte Me Nne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Aw'rade, Wobɛte me nne",
+        "Anɔpa nnwonto mu;",
+        "Na mɛbɔ mpae akyerɛ Wo,",
+        "Wo na mehwɛ W'anim."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔsoro hɔ, nea Kristo kɔ",
+        "Kodi ma 'hotefo;",
+        "Na ɔde yɛn nnwom ne nsɛm gu",
+        "N'Agya 'hengua anim."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, ma Wo Honhom nni m'anim",
+        "Wɔ trenee akwan so;",
+        "Ma 'sɛde kwan biara ntene",
+        "Nyɛ petee wɔ m'anim."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔn a wɔdɔ Wo, sųro Wo din",
+        "Behu wɔn apɛde;",
+        "Onyame Tweaduampɔn de dom",
+        "Bɛyɛ kyɛm ama wɔn."
+      ],
+      "number": 4
+    }
+  ]
+}

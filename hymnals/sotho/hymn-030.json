@@ -1,0 +1,50 @@
+{
+  "number": 30,
+  "language": "st",
+  "title": "30 Tsatsi Le Ea Likela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tsatsi le ea likela, Mantsiboea a fihla;",
+        "Tlong rapelang Morena, Ha naleli li hlaha",
+        "Leholimong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Oa halalela, Morena ka;",
+        "Lefats’e leholimo, Li ea u rorisa ka;",
+        "Mehla eohle."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena oa bophelo, Le oa lefats’e lohle.",
+        "Re phuthe bana ba hao, Leratong le leholo; Eba haufi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Letsatsi le liketse; Joale re u emetse;",
+        "Hore U re fe khotso, Ea Hao ee sa sirelang;",
+        "U re thuse."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha bosiu bo feta, Ho feta mahlomola;",
+        "Leholimong U re fe, Hore re tle re bone;",
+        "Uena Jesu."
+      ],
+      "number": 4
+    }
+  ]
+}

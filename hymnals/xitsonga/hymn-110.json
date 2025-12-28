@@ -1,0 +1,22 @@
+{
+  "number": 110,
+  "language": "ts",
+  "title": "110. TWANANI MARITO YA YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BLESSED ARE THEY THAT DO",
+        "1. Twanani Marito Ya Yesu, I Marito Ya Vutomi;",
+        "Tsundzukani Leswaku Yesu U Te: “Ku Katekile La Endlaka”",
+        "CHORUS",
+        "Va Katekile Lava Endlaka, Ku Rhandza Ka Mukutsuri. Va Katekile Lava Endlaka, Ku Rhandza Yena Muvumbi.",
+        "2. A Swi Hi Pfuni Ku Va Vatwi, Ntsena Va Swo Switshembiso;",
+        "A Hi Ponisiwi Hi Swona Ntsena, “Ku Katekile La Endlaka”",
+        "3. Va Ta Nghena Kaya Hi Ntsako, Va Tshunxiwe Swidyohweni;",
+        "Va Kwetsima Va Vangama Swinene, Va Dya Mihandzu Ya Vutomi."
+      ],
+      "number": 1
+    }
+  ]
+}

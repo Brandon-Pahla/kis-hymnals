@@ -1,0 +1,35 @@
+{
+  "number": 64,
+  "language": "bem",
+  "title": "64 - BUSHE MULENAKA NO BULANDA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ARE YOU WEARY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bushe mulenaka no bulanda? Mwebeni Yesu;",
+        "Mwebeni Yesu; Bushe ubuseko bwenu bwaya?",
+        "Mwebeni Yesu eka",
+        "CHORUS:",
+        "Mwebeni Yesu, mwebeni Yesu, E cibusa mupepi;",
+        "Tapali umbi pamo nga Yesu, Mwebeni Yesu eka",
+        "2. Bushe minsoshi ilepona pe? Mwebeni Yesu,",
+        "Mwebeni Yesu; Imitima yenu muli bubi?",
+        "Mwebeni Yesu eka.",
+        "3. Bushe muli nomwenso ukufwa? Mwebeni Yesu,",
+        "Mwebeni Yesu; Mulepembela 'kwisa kwa Kristu?",
+        "Mwebeni Yesu eka.",
+        "4. Bushe muletina amalanda? Mwebeni Yesu,",
+        "Mwebeni Yesu; Mulelangulukila mailo?",
+        "Mwebeni Yesu eka"
+      ],
+      "number": 2
+    }
+  ]
+}

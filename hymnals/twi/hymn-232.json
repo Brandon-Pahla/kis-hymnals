@@ -1,0 +1,57 @@
+{
+  "number": 232,
+  "language": "tw",
+  "title": "Nkotodwe Ny'naa Nkoto",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nkotodwe ny'naa nkoto Wɔ Yesu din mu;",
+        "Tɛkrɛma ny'naa nka sɛ ɔyɛ 'nuonyam Hen!",
+        "Ͻyɛ Agya no pɛ Sɛ yɛmfrɛ No W'ra;",
+        "ɔ'na Ofi mfiase Yɛ Asɛm Tumfo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻnam N'asɛm so na ɔbɔɔ ade ny'naa;",
+        "Soro abɔfodɔm Hann asafo ny'naa;",
+        "Nhengua ne tumidi, ɔsoro ns'romma",
+        "Ne soro nhyehyɛe a Enni ano ny'naa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔbrɛɛ N'ase kakra; S'Obenya din bi",
+        "Afi 'bɔnefō ano, Wɔn nti na ɔbae;",
+        "ɔyɛ 'Gyenkwa Nyame Aw'rade Kristo,",
+        "Nea 'sɛ sɛ wɔsom No Na wɔtwer' No daa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "MunsiN' hen' mo komam' Na momma Onni",
+        "Nea ɛntene biara Ne at'rɔ ny'naa so;",
+        "Monhyɛ No mo Sahen' Wɔ sɔhwɛ b're mu;",
+        "Momfa Ne pɛ nnante Ne hann tumi mu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yiw, saa 'W'ra Yesu yi Bɛsan aba bio",
+        "Wɔ N'agya 'nuonyam mu Ne N'abɔfodɔm;",
+        "Wɔde ahenni ny'naa 'Henkyɛw ahyɛ No,",
+        "Ma yɛn koma nka sɛ ɔyɛ 'nuonyam Hen'."
+      ],
+      "number": 5
+    }
+  ]
+}

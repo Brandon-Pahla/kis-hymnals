@@ -1,0 +1,37 @@
+{
+  "number": 327,
+  "language": "ny",
+  "title": "327 - Alikuitana Uko Tsidyalo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE’S A CALL COMES RINGING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Alikuitana uko tsidyalo, Tumizani mauawo,",
+        "Iwo akufuna Mpulumutsiyo, Tumiza mauwo.",
+        "CHORUS (Bass):",
+        "Tibukitse mau acewo, Ndi mitima yonseyo",
+        "Pakumlemekeza Mlunguyo, Ndi kusunga mwauwo,",
+        "Tuma mau a uthengawo, Kuli konse amvetu,",
+        "Tuma mau a uthengawo, Osaleka konse bi.",
+        "(Soprano, Alto, and Tenor):",
+        "Tibukitse mau acewo, Ndi mitima yakufunatu,",
+        "Pakumlemekeza Mlunguyo, Ndi kusunga mau acewo",
+        "Tuma mau a uthengawo, Kuli konse amvetu,",
+        "Tuma mau a uthengawo, Osaleka konse bi.",
+        "2. Tamva kuitana tsidya lijalo, Tumiza mauwo,",
+        "Tipereke za cifundo zathuzo, Tumiza mauwo.",
+        "3. Tipempheretu cisomo caceco, Tumiza mauwo,",
+        "Mzimu wa Ambuye anke ponsepo, Tumiza mauwo.",
+        "4. Tisaleme pakucita zabwino, Tumiza mauwo,",
+        "Pakukopa anthu osocerawo, Tumiza mauwo."
+      ]
+    }
+  ]
+}

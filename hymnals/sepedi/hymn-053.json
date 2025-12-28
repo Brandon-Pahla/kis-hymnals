@@ -1,0 +1,58 @@
+{
+  "number": 53,
+  "language": "nso",
+  "title": " 53 MOYA O MOKGETHWA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 53 MOYA O MOKGETHWA",
+        "АН 148 CH 211",
+        "HOLY SPIRIT FAITHFUL GUIDE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moya o mokgethwa,",
+        "hlatla mokreste kgauswi;",
+        "Re goge ka seatla,",
+        "Re baeng lefaseng;",
+        "E\"a lapilego a kwe,",
+        "Ntšu la mohomotši;",
+        "Seba 'tlang molelere",
+        "ntatele go ya gae'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O mogwer 'a potego,",
+        "O kgauswi go thuša.",
+        "O se ke wa re šia,",
+        "Poifong le leswiswing;",
+        "Ge go le matshwenyego,",
+        "Dipelo di fifala,",
+        "Seba 'ta molelere,",
+        "Ntatele go ya gae'."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ge mošom 'o fedile,",
+        "Re tlo leta tokologo;",
+        "Re maketše thapelong,",
+        "Re sa tsebe re ngwadilwe,",
+        "Re taboga meetsefula,",
+        "'Kgopelang madi 'a Jeso,",
+        "Seba 'tla molelere",
+        "ntatele go ya gae';"
+      ],
+      "number": 4
+    }
+  ]
+}

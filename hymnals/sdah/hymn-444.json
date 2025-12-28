@@ -1,0 +1,35 @@
+{
+  "number": 444,
+  "language": "en-sdah",
+  "title": "444 I’m A Pilgrim",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. I 'm a pilgrim, and I'm a stranger; I can tarry, I can tarry but a night; Do not detain me, for I am going To where the fountains are ever flowing."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain : I'm a pilgrim, and I'm a stranger; I can tarry, I can tarry but a night."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. There the glory is ever shining! O, my longing heart, my longing heart is there; Here in this country so dark and dreary, I long have wandered forlorn and weary."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. There's the city to which I journey My Redeemer, my Redeemer is its light! There is no sorrow, nor any sighing, Nor any tears there, or any dying."
+      ],
+      "number": 4
+    }
+  ]
+}

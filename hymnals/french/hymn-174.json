@@ -1,0 +1,58 @@
+{
+  "number": 174,
+  "language": "fr",
+  "title": "Ô bonne nouvelle!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ô bonne nouvelle!",
+        "Dieu donne en Jésus",
+        "La vie éternelle",
+        "Aux pécheurs perdus."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Puissance, richesse,",
+        "Force, gloire, honneur,",
+        "Louange et sagesse",
+        "À notre Sauveur!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Victime innocente,",
+        "Jésus a porté",
+        "Sur la croix sanglante",
+        "Notre iniquité."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dans ses meurtrissures",
+        "Est notre pardon,",
+        "Et dans ses blessures",
+        "Notre guérison."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En Christ la victoire",
+        "Et la sainteté,",
+        "La vie et la gloire",
+        "Pour l'éternité."
+      ],
+      "number": 5
+    }
+  ]
+}

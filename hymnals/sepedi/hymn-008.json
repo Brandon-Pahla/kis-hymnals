@@ -1,0 +1,61 @@
+{
+  "number": 8,
+  "language": "nso",
+  "title": " 8 GE BA BITŠWA GODIMO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 8 GE BA BITŠWA GODIMO",
+        "CS 865",
+        "WHEN THE ROLL IS CALLED UP YONDER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ge phalafala e lela le nako e fedile,",
+        "Go fihla nako yeo e sa feleng;",
+        "Ba bakgethilwego lefaseng ba tlo phuthana,",
+        "Ba bitšwa godimong ke tlo ba gona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušulošo",
+        "Šetše ba....bitšwa",
+        "'Godi.....mong",
+        "Šetše ba..... bitšwa.",
+        "'Godi.... mong",
+        "Šetše ba.....bitšwa",
+        "'Godi......",
+        "Ba bitšwa",
+        "'Godimong ke tlo ba gona;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka nako e botse mo bahu ba tlo tsošwang bohle,",
+        "Ba tlo ba le bopo le leswa bohle",
+        "Ba bakgethilwego šetše ba phuthegela Gae,",
+        "Ba bitšwa godimong ke tlo ba gona"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A re šomeleng Morena go fihlela phirimong",
+        "Ka rato la Gagwe a re boleleng",
+        "Ge re hwa go tlo fela modiro wa rena mokhwi",
+        "Ba bitšwa 'Godimong ke tlo ba gona."
+      ],
+      "number": 5
+    }
+  ]
+}

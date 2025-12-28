@@ -1,0 +1,43 @@
+{
+  "number": 19,
+  "language": "fr",
+  "title": "Qui dit au soleil",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Qui dit au soleil sur la terre",
+        "D'éclairer tout homme en tout lieu,",
+        "Et qui donne aux nuits leur mystère?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "C'est l'Éternel, c'est notre Dieu.",
+        "C'est l'Éternel, c'est notre Dieu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le bleuet et le ciel superbe,",
+        "Qui les a teints d'un si beau bleu?",
+        "Qui verdit l'émeraude et l'herbe?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quand nous pleurons, qui nous console?",
+        "Qui veille sur nous en tout lieu?",
+        "Qui nous soutient par sa parole?"
+      ],
+      "number": 4
+    }
+  ]
+}

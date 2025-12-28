@@ -1,0 +1,24 @@
+{
+  "number": 47,
+  "language": "ts",
+  "title": "47. ERIBUWEN RA YORDANI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ON JORDAN’S STORMY BANKS",
+        "1. Eribuwen Ra Yordan, Ndza Kota Ku Vona;",
+        "Tiko Ra Ntsako Kanana, Kona La Ndzi Yaka Kona.",
+        "CHORUS",
+        "Hi Ta Wisa Kaya Ra Ntsako…. (Ra Ntsako) Ntsungen Wa Ribuwa Ra Rihlaza; Hi Yimba Risimu Ra Muxe Na Yesu, Ni Ku Tshama Na Nyimpfana",
+        "2. Emisaveni Leyintshwa, Ku Voninga Hosi;",
+        "Yesu I Ku Vonakala, Ku Pfumala Na Munyama.",
+        "3. Ndzi Ta Fika Rini Kaya? Ndzi Katekisiwa;",
+        "Ndzi Ta Vona Rini Hosi, Ndzi Tshama Mfun’weni Wakwe.",
+        "4. Ndzi Hisekela Ekaya, Ndzi Rhandza Ku Muka;",
+        "Magandlati Ya Yordani, A Ya Na Ku Ndzi Sivela."
+      ],
+      "number": 1
+    }
+  ]
+}

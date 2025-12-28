@@ -1,0 +1,33 @@
+{
+  "number": 223,
+  "language": "bem",
+  "title": "223 - KU MUKONKA KONSE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "FOLLOW ALL THE WAY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndeumfwa Yesu 'lenjita, Noluse Wen' alanjita;",
+        "Ndeumfwa shiwi lileti, 'Sa unkonke lyonse, unkonke.",
+        "CHORUS:",
+        "Nakula sendo lupanda, no kukonko Mupusushi;",
+        "Uko konse ntungulula, Ku mukonka konse fye.",
+        "2. Nangu nshila yafitisha, Makasa nayo yanaka;",
+        "Lelo umutima wandi wena kumukonka lyonse.",
+        "3. Yes' ali kuntanshi yandi, Lubuto munshila yandi;",
+        "Nga nanaka alampa amaka, Nakulamukonka lyonse.",
+        "4. Mu mikonko alansunga, lyonse alampelo kulya;",
+        "Ndamukabila fye lyonse, Nakulamukonka lyonse.",
+        "5. Walintemwa Mfumu yandi, Nsungwe mumaboko yenu;",
+        "Mucikuku cobe nsungwe, Nakulamukonka lyonse."
+      ],
+      "number": 2
+    }
+  ]
+}

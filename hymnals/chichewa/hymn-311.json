@@ -1,0 +1,28 @@
+{
+  "number": 311,
+  "language": "ny",
+  "title": "311 - E, Mzimuu Wa Mulungu ’Nu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O SPIRIT OF THE LIVING GOD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. E, Mzimu wa Mulungu, ’Nu, Mukhale m’mtimanga;",
+        "Ndi zangazo ndipatsatu Kwa Inu, Mbuyanga",
+        "CHORUS:",
+        "Mdzaze, mdzaze ’ne, Mdzaze Mzimu Woyera ’Nu,",
+        "Mdzaze, mdzaze ’ne, Wanu ndikhaletu.",
+        "2. Ndifunatu kucitadi Kufuna kwanuko;",
+        "Sin’funa kanthu kena bi, Mndidzaze, mtimamo,",
+        "3. Ndilibe kanthu kabwino, Kopatsa Inuyo;",
+        "Mutsuke Mtima wangawo, Ndi mwazi wanuwo."
+      ]
+    }
+  ]
+}

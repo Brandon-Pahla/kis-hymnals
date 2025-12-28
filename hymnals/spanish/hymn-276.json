@@ -1,0 +1,56 @@
+{
+  "number": 276,
+  "language": "es",
+  "title": "Con nuestras mentes",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Con nuestras mentes"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Con nuestras mentes, oh Señor,",
+        "queremos dar loor.",
+        "Ven, Santo Espíritu de amor,",
+        "verdad impártenos.",
+        "Que al buscar tu voluntad,",
+        "que en tu Palabra está,",
+        "podamos escuchar, oh Dios,",
+        "Tu clara y dulce voz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Con nuestros cuerpos, oh Señor,",
+        "queremos dar loor.",
+        "Un templo somos para ti,",
+        "do siempre anhelas vivir.",
+        "Nos entregamos ante aquel",
+        "que en una cruz murió.",
+        "Nos consagramos a servir",
+        "a nuestro Creador."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Con nuestro corazón, Señor,",
+        "queremos dar loor.",
+        "Mantennos puros para ver",
+        "tus sendas por la fe.",
+        "Nos inclinamos ante ti,",
+        "te damos nuestro ser.",
+        "Con mente, cuerpo y corazón",
+        "queremos obedecer."
+      ],
+      "number": 4
+    }
+  ]
+}

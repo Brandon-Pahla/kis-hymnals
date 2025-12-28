@@ -1,0 +1,55 @@
+{
+  "number": 606,
+  "language": "es",
+  "title": "Llama Jesús, el Buen Pastor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Llama Jesús, el Buen Pastor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Llama Jesús, el Buen Pastor,",
+        "a los corderos con amor.",
+        "Tantas ovejas lejos van,",
+        "de su redil vagando están."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Búscalos, llámalos,",
+        "los niñitos trae al Salvador.",
+        "Búscalos, llámalos,",
+        "los niñitos trae a Cristo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Quién al Pastor ayudará",
+        "y a los corderos buscará?",
+        "¿Quién al redil los traerá,",
+        "do protegidos los tendrá?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por el desierto lejos van,",
+        "y en el frío errando están.",
+        "Pues, el Señor te dice a ti:",
+        "\"Mis corderitos trae a mí\"."
+      ],
+      "number": 5
+    }
+  ]
+}

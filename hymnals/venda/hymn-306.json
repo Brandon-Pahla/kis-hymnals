@@ -1,0 +1,27 @@
+{
+  "number": 306,
+  "language": "ve",
+  "title": "306. Ndo Vhona Dzitshakha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndo vhona dzitshakha, tshakha dzothe dza shango,",
+        "Dzo ima phanda ha Mudzimu,",
+        "Ha vulwa dzibugu dza mishumo ya vhathu,",
+        "Nga muthihi vha sengiswa milandu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iwe u nnyi u sa ofhi Mudzimu,",
+        "Iwe u nnyi u sa ofhi Ragole,",
+        "Ndo vhona dzitshakha, tshakha dzothe dza shango",
+        "Dzo ima phanda ha Mudzimu."
+      ],
+      "number": 2
+    }
+  ]
+}

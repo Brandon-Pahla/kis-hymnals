@@ -1,0 +1,45 @@
+{
+  "number": 81,
+  "language": "ve",
+  "title": "81 Vhusiku Vha A da",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Shuma hu da vhusiku, shuma li tshe hone,",
+        "Musi u si na Maanda, ho fhela nungo;",
+        "Tshedza tshi sa vhonali, shuma masiari,",
+        "Shuma hu da vhusiku, zwothe zwo fhela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Shuma hu da vhusiku, lo kovhela duvha,",
+        "U shuma duvha lothe, u songo hangwa;",
+        "U shumise tshifhinga, u si sie fhethu,",
+        "Shuma hu da vhusiku, zwothe zwo fhela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Shuma hu da vhusiku, mirunzi yo tiba,",
+        "Thungo ya vhukovhela, duvha lo no ya;",
+        "Linda u khwathisese, linga u khuthale,",
+        "li vho ya u kovhela, zwothe zwo fhela."
+      ],
+      "number": 4
+    }
+  ]
+}

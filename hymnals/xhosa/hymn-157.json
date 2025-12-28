@@ -1,0 +1,38 @@
+{
+  "number": 157,
+  "language": "xh",
+  "title": "157 Ixesha Lokuvuna",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lowo uhamba elila, Ethwaliswe imbewu,",
+        "Engaze aphel’ amandla, Uyenzelwa inceba."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Bona oko kukhazimla! Kokuphuma kwembewu;",
+        "Nang’ amasimi emhlophe, Lixesha lokuvuna."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngay’ imibethe yezulu, Ikhazimla imitha;",
+        "Kophum’ iziqham’ ezihle, Zinikwa ng’ Oyingcwele."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hlwayel’ ungaze udinwe, Ungoyikiswa lutho;",
+        "Ingakhangeleka njani, Wovuya sisivuno."
+      ],
+      "number": 3
+    }
+  ]
+}

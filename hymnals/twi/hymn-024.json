@@ -1,0 +1,44 @@
+{
+  "number": 24,
+  "language": "tw",
+  "title": "Nsoromma Biara Bɛto Dwom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nsoromma biara bɛto dwom;",
+        "'Bɔde 'kɛse ne nkumaa;",
+        "Mommra mmɛkamfo s'ro Hen' no,",
+        "Wɔ din biarā a minim mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "S'ro Nyame, fam Nipa;",
+        "Kronkron ne din a minim."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B're a 'bɔde nyinaa Hen' no,",
+        "Wɔwoo No 'sase so no,",
+        "Na nipadua no yɛ kronkron,",
+        "Na awo no yɛ kronkron."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nsoromma ahorow nyinaa,",
+        "'Bɔde 'kɛse ne nkumaa;",
+        "Mommra mmɛkamfo s'ro Hen' no,",
+        "Wɔ din biarā a munim mu."
+      ],
+      "number": 3
+    }
+  ]
+}

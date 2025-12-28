@@ -1,0 +1,62 @@
+{
+  "number": 67,
+  "language": "tum",
+  "title": " 67 Zaninge Imwe Mose",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 67 Zaninge Imwe Mose",
+        "COME, WE THAT LOVE THE LORD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Zaninge mose'mwe mukutemwa Yesu,",
+        "Timwimbirenge zisumu,",
+        "Timwimbirenge zisumu,",
+        "Ku chizumbe chake, ku chizumbe chake."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tendenge ('mwe) pamoza,",
+        "kuruta kuya kuchanya,",
+        "Wakhristu 'mwe tikuruta (ruta)",
+        "ku Ziyoni wakutowa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Wanandi wakana kumwimbira Yesu,",
+        "Ise wake timwimbire,",
+        "ise wake timwimbire,",
+        "Kumchindika iyo kumchindika",
+        "iyo Ise nga mba Khristu,",
+        "tikondwenge m'charu,",
+        "Kwakuruska wanthu wanji,",
+        "kwakuruska wanthu wanji,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Tindafike kura, tindafike kura.",
+        "Timbe na chimwemwe,",
+        "masozi ghomire, Pakwenda kuya kuchanya,",
+        "pakwenda kuya Kuchanya,",
+        "Ku charu chiweme, ku charu chiweme"
+      ],
+      "number": 4
+    }
+  ]
+}

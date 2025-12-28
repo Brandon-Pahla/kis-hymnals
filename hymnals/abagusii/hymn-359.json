@@ -1,0 +1,35 @@
+{
+  "number": 359,
+  "language": "guz",
+  "title": "359 Natotere Bono Buya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Natare bono buya,Ogotera ok'obuya,Yeso Obuete ebibe,Otokorire boronge."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Okobua, ebinto bionsi,Tera ig'abanto bonsi,Yeso Obuete ebibe,Otokorire boronge."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nonya twanyor'as'ens'eye,'Mechando n'ogotemwa,Ring'an'eri narisane,Otokorire boronge."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Na Ka Yeso andangeirie,Kogenda Igor'as'are,Nin'ter'ogoter'okoyia,Otokorire boronge."
+      ],
+      "number": 4
+    }
+  ]
+}

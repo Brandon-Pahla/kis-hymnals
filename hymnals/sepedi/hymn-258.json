@@ -1,0 +1,46 @@
+{
+  "number": 258,
+  "language": "nso",
+  "title": " 258  TUMELO E PHELAGO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 258  TUMELO E PHELAGO",
+        "CS 790",
+        "ONE LIVING FAITH"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Molao o nyaka tumelo",
+        "E tee e phedilego,",
+        "Eo e rego Modimo ore:",
+        "Ditiro tše phedilego;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena, O re swarele,",
+        "Molao wa 'Go o robilwe,",
+        "Wona o a halalela mme",
+        "Ga re o kwešiše;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Swarela tlolo ya rena,",
+        "Tloša bobe bja rena,",
+        "Thuša ka baka la Morwa,",
+        "Re boloke molao gape;"
+      ],
+      "number": 4
+    }
+  ]
+}

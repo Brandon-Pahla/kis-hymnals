@@ -1,0 +1,63 @@
+{
+  "number": 6,
+  "language": "tw",
+  "title": "O Monsom Aw'rade 'Hokeka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O Monson Aw'rade 'hokeka",
+        "kronkron mu,",
+        "Monkoto N'anim,",
+        "monka N'ayeyi",
+        "Wɔ setie fɛfɛ ne",
+        "'hobrɛase huanhuam mu.",
+        "Koto N', yi N'ayɛ,",
+        "Ne din ne 'W'rade."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa w'adesoa ne dadwen gu",
+        "Ne nan ase,",
+        "ɔbɛsoa ne ny'naa",
+        "wɔ Ne koma so;",
+        "ɔbɛkyekye wo werɛ",
+        "atie wo mpaebɔ,",
+        "Ahwɛ w'anammɔn",
+        "de asi neā eye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nsuro, fa w'ade",
+        "ketewa ne w'ahonya,",
+        "Sɛ ɛte biara,",
+        "bra N'abangua so",
+        "Nokwar' a ɛsɔ ani",
+        "ne 'hobrɛase dɔɔ",
+        "'Yinom sɛɛ na",
+        "fa bɔ No afɔre."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ mpo yɛde ba",
+        "'hopopo ne sųro mu a",
+        "ɔbɛgye wɔ Ne din",
+        "a ɛsom bo m'",
+        "Anɔpa 'nigye wie",
+        "anwumm're nusu mu",
+        "'Hopopo ne sųro",
+        "wie 'nidaso mu."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "number": 52,
+  "language": "bem",
+  "title": "52 - ISENI NOMBA KATULA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "COME, THOU FOUNT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Iseni nomba Katula, M'wamye mutima wandi;",
+        "Mimana ya luse lwa pe, Yatwita ukutasha,",
+        "Ndefwaya ukumutasha, pantu luse lwafula;",
+        "Busumino bwa mweo pe, Bulempelo buseko.",
+        "2. Ndeimika Ebenesar, Mwangafwilile ine;",
+        "Ndesumina ukufika ku nganda ya Katula;",
+        "Yesu amfwaile ine, Nalubile mu mfifi,",
+        "Ampuswishe ku macusho, Ampele umulopa.",
+        "3. Luse lwenu lwafulisha, Ndelumone nshiku pe;",
+        "Kabili ndefwaya nomba, Mpalame kuli Imwe;",
+        "Ine ndi ne mpulumushi, Shonse ndepela Imwe;",
+        "O, Yehofa ndemufwaya, Munyingishe ku mulu"
+      ],
+      "number": 2
+    }
+  ]
+}

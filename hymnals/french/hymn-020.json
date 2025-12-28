@@ -1,0 +1,47 @@
+{
+  "number": 20,
+  "language": "fr",
+  "title": "C'est toi, Jésus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "C'est toi, Jésus, que recherche mon âme,",
+        "À te trouver se bornent mes souhaits.",
+        "C'est ton regard que sur moi je réclame.",
+        "Rends-moi, Seigneur, rends-moi ta douce paix!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jadis j'errais dans les sentiers du monde,",
+        "Ne connaissant ni ton nom, ni ta loi.",
+        "Tu me cherchas dans cette nuit profonde,",
+        "Et, pour toujours, m'en tiras par la foi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ta voix d'amour, à moi se fit entendre :",
+        "J'appris alors que tu m'as racheté;",
+        "Et ton Esprit à mon coeur fit comprendre",
+        "Ce qu'est, ô Dieu, ta grande charité."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Prends donc pitié de ma grande misère,",
+        "Soumets mon coeur, brise sa dureté.",
+        "À Golgotha, mon âme, te fut chère :",
+        "Je compte, ô Dieu, sur ta fidélité."
+      ],
+      "number": 4
+    }
+  ]
+}

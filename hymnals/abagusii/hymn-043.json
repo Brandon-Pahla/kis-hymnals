@@ -1,0 +1,35 @@
+{
+  "number": 43,
+  "language": "guz",
+  "title": "43 Ntebi' Amang'ana A Yeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ntebi' amangana a Yeso,Mbeke onsi omoyoNyorokereria boronge,Maya abuete onsiNtebie bun' Amalaika,Baterete kaiborwa\"Obonen' ase Nyasae,'Moremb' obuy'as'ense\"."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ntebi' emeremo ya Yeso,Mbeke onsi enkoroNyorokereria boronge,Maya abuete onsi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Keng'ata bweka eroro,Ntebi'engak' akorete'S'ebibe biait' agatemwa,Omoeri'akabuaNtebi' engaki y'emeremo,N'oboror'anyoreteAchayetwe nagochandwa,'Motak' otari n'enka."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ntebie ase abambetwe,Akaba n'obororoNtebi' ember' atindegetwe,Ntebie bun'are moyo'Bwanchani 'S'mang'an' ayio,Bore maiso maroreKarakira ndararera,'Bwanchani bwamboririe."
+      ],
+      "number": 4
+    }
+  ]
+}

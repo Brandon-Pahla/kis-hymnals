@@ -1,0 +1,47 @@
+{
+  "number": 180,
+  "language": "nd",
+  "title": "180 A si Wazi Umzuzu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mhl’ ebuy’ uJesu, umzuzu awaziwa",
+        "Imiqondiso, i bika Yen’ u yeza",
+        "Laph’ esebuya, s’ojabula kakhulu!",
+        "A si waz’ umzuzu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U yeza a si linde, si lunge",
+        "U yeza aleluya! Aleluya!",
+        "U za ngobukhosi buka Yise ngamafu",
+        "A si lwaz’ usuku"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ba nokukhanya abafun’ usindiso",
+        "Ba neqiniso abalambulelwayo",
+        "Iz’nduleliso zi yasho u zakuza",
+        "A si waz’ umzuzu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma si qaphele, si linde, si khuleke",
+        "Si zosebenza ize iNkos’ I fike",
+        "Si jabulele si bheke lolosuku!",
+        "A si waz’ umzuzu"
+      ],
+      "number": 4
+    }
+  ]
+}

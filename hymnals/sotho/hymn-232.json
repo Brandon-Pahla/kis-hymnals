@@ -1,0 +1,43 @@
+{
+  "number": 232,
+  "language": "st",
+  "title": "232 Ha Nka Ke Ka U Tlohela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ha nka ke ka u lesa, ha ke na ho u lahla,",
+        "Ke tla u hula, ke boloke, ka baka la lebitso la ka.",
+        "U se ke ua ts’aba bobe u nke keletso ea ka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha u tleloa ke lifefo, u mpitsetse thapelong,",
+        "Ke tla u nka matsohong, tiisong ea hlokomelo,",
+        "Le melekong, le melekong, ke ntlafaletsoe tsela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ho le khanya holimo, le uena u le khanyeng,",
+        "Thabo e le kalo ka ka noka, tsohle e le nyakallo hle,",
+        "Ke tla ba le uena, ke tla ba le uena, ke hule khato tsa’u."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha moea o tepeletse, o tletse mahlomola,",
+        "Hohle ho thibane ts’o ke tla khantsa,",
+        "Le folaga le folaga ea rato la ka e bonoe."
+      ],
+      "number": 4
+    }
+  ]
+}

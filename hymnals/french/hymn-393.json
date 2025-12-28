@@ -1,0 +1,47 @@
+{
+  "number": 393,
+  "language": "fr",
+  "title": "Tel que je suis",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tel que je suis, sans rien à moi,",
+        "Sinon ton sang versé pour moi",
+        "Et ta voix qui m'appelle à toi,",
+        "Agneau de Dieu, je viens, je viens !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tel que je suis, bien vacillant,",
+        "En proie au doute à chaque instant,",
+        "Lutte au dehors, crainte au dedans,",
+        "Agneau de Dieu, je viens, je viens !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tel que je suis, ton coeur est prêt,",
+        "À prendre le mien, tel qu'il est",
+        "Pour tout changer, Sauveur parfait !",
+        "Agneau de Dieu, je viens, je viens !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tel que je suis, ton grand amour",
+        "A tout pardonné sans retour",
+        "Je veux être à toi dès ce jour;",
+        "Agneau de Dieu, je viens, je viens !"
+      ],
+      "number": 4
+    }
+  ]
+}

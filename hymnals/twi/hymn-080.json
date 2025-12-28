@@ -1,0 +1,49 @@
+{
+  "number": 80,
+  "language": "tw",
+  "title": "Nyame Wiase, Sɛnea Ͻtrɛw",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame wiase, sɛnea ɛtrɛw,",
+        "Ͻyɛ nwanwa, na ɛyɛ fɛ,",
+        "Ͻtra onipa nhunumu,",
+        "Nso ɛntra Agya no nhwɛso!",
+        "Yɛnyɛ 'hɔho 'sase yi so",
+        "A yetwa yɛn ho 'wi yė ase;",
+        "Yɛyɛ Nyame mma, 'ha yɛ fie",
+        "Ma yɛn ne mmusuakuw nyinaa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nipa wiase, nea wɔbɔ bra,",
+        "Nea 'nigye ne yaw di afra,",
+        "Bɔne ne papa ayɛ ma,",
+        "Nso ɛsɛ sɛ papa di hen'!",
+        "'Yi ne wiase a Nyame dɔ,",
+        "Ne Yɛfo t'rimbɔ yɛ papa;",
+        "Nyame nkonimdi bɔhyɛ no,",
+        "Da adi Ne nipayɛ mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bere wiase a mfe pii wom!",
+        "Da k'ro bi, bere gyinaa dinn,",
+        "Saa bere kunin a wɔtim",
+        "Asɛnnua bi bepɔ so no;",
+        "Wohuu 'dɔ tumi yaw ne 'wum';",
+        "Bere 'hintasɛm daa adi,",
+        "Nyame akwan mu nyansa no",
+        "'Dom a ɛsa 'nipa yare."
+      ],
+      "number": 3
+    }
+  ]
+}

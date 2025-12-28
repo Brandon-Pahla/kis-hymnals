@@ -1,0 +1,29 @@
+{
+  "number": 273,
+  "language": "bem",
+  "title": "273 - SHINTILILA MU MABOKO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LEAN ON HIS ARMS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Shinti-lila we pali Ye-su, A-kula kwafwa Kula kwafwa;",
+        "Nga wa-cetekela kute-mwa, Uke-mba ulwimbo.",
+        "CHORUS:",
+        "Shinti-lila, Mucetekele; Shinti-lila. Mu luse lwakwe;",
+        "Shinti-Iila, Mona ku mulu, Ba, muma-boko yakwe",
+        "2. Shinti-lila we pali Ye-su, A-kabu-tishe-, Nshila yobe;",
+        "Konka uko alekutwa-la; Umfwe shiwi lyakwe.",
+        "3. Shinti-lila we pali Ye-su, Mu-shile fyonse-, Shile lyonse:",
+        "Aba no kutemwa no lu-se, Ala-mona fyonse"
+      ],
+      "number": 2
+    }
+  ]
+}

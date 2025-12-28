@@ -1,0 +1,63 @@
+{
+  "number": 148,
+  "language": "fr",
+  "title": "Adorons le Roi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Adorons le Roi,",
+        "Le Roi glorieux !",
+        "Acceptons sa loi,",
+        "Qui nous rend heureux !",
+        "Son pouvoir nous garde,",
+        "Son amour nous suit,",
+        "Son œil nous regarde",
+        "Le jour et la nuit."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Racontons en chœur",
+        "Les dons qu'il nous fit :",
+        "Un puissant Sauveur",
+        "Et son Saint-Esprit.",
+        "Maître du tonnerre",
+        "Et des ouragans,",
+        "C'est un tendre Père",
+        "Pour tous ses enfants."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ses divines lois",
+        "Règlent l'univers ;",
+        "Sa puissante voix",
+        "Apaise les mers.",
+        "Il est notre Maître,",
+        "Notre défenseur ;",
+        "En Christ il veut être",
+        "Notre Rédempteur."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ses compassions",
+        "Dépassent encor",
+        "L'océan, les monts",
+        "Et les astres d'or.",
+        "Chantons ses louanges,",
+        "Pécheurs rachetés,",
+        "Et comme les anges",
+        "Disons ses bontés."
+      ],
+      "number": 4
+    }
+  ]
+}

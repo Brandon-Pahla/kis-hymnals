@@ -1,0 +1,63 @@
+{
+  "number": 177,
+  "language": "tum",
+  "title": " 177 M'charu Chambula Chisi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 177 M'charu Chambula Chisi",
+        "C.H. 558 NO NIGHT THERE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "M'charu chambula chisi muli msumba mula;",
+        "Ncharu ntha nchakumala kulije usiku."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wamkufyura masozi,",
+        "(wamkufyura masozi);",
+        "KuLijeso na nyifwa,",
+        "(kuLije nthenda, nyifwa),",
+        ": Myaka ntha wakupenda,",
+        "(myaka ntha wakupenda kura);",
+        "KuLje usiku."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Vipata ndi vya ngale mumusumba uwo;",
+        "Miseu nja golide, kulije usiku."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Vipata ntha wamjala mumusumba uwo;",
+        "Kuli mronga wa moyo kulije usiku."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Zuwa lilije nchito mumusumba uwo;",
+        "Ungweru ndi mwenecho kulije usiku."
+      ],
+      "number": 5
+    }
+  ]
+}

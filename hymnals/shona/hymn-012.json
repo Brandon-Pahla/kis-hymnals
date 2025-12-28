@@ -1,0 +1,47 @@
+{
+  "number": 12,
+  "language": "sn",
+  "title": "12 Iripo Tsime",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Iripo tsime izere Neropa raJesu;",
+        "Vanyangadzi vasamba’mo, Vanochena naro"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mbavha yokufa yafara Kuona tsime’yo",
+        "Kana ini munyangadzi, Ndinochena nayo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyenye yaMwari, ropaIro, Harishaye simba",
+        "Dakara vanhu vaJesu, Vese vaponeswa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi ndinodawirazve, Kana ndakatadza",
+        "Vandigadzirira chipo, Chawanwa ngeropa"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nekudenga ndichaimba, Ngesimba nerudo",
+        "Kuti ngeropa raJesu, Ndaponeswa naro"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 443,
+  "language": "tw",
+  "title": "'Desae Bi Nni S'ro Ho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Desae bi nni s'ro hɔ,",
+        "Man a wɔahy'ra no mu;",
+        "Dwunmaden ne ɔbrɛ nni hɔ,",
+        "Ͻhɔ yɛ ɔdɔ nko."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Aw'rɛhow remma hɔ,",
+        "Aw'rɛhow remma hɔ;",
+        "ɔdɔ nko na ɛwɔ s'ro hɔ,",
+        "Aw'rɛhow remma hɔ."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yawdi bi nni s'ro hɔ,",
+        "ɔbra yɛ 'nigye nko;",
+        "Nusu yɛ kan nneɛma no bi,",
+        "Ne nyinaa atwam kɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bɔne bi nni s'ro hɔ,",
+        "Monhwɛ hy'rafo dɔm no;",
+        "Wɔn nyinaa hyɛ ntade fitaa,",
+        "Na wɔto dwon kronkron."
+      ],
+      "number": 3
+    }
+  ]
+}

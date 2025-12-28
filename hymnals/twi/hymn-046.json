@@ -1,0 +1,52 @@
+{
+  "number": 46,
+  "language": "tw",
+  "title": "Wo Ne Me Ntra, Onwin' Adwo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wo ne me ntra, onwin' adwo!",
+        "Adekyee atwam kɔ;",
+        "Anwumm're sunsuma aba;",
+        "Anadwo reba ntɛm!",
+        "Dɔfo pā a Wote me komam',",
+        "Bra na bɛtra me fie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "'Gyenkwa, ne me ntra 'nadwo yi,",
+        "Hwɛ, anwumm're adu!",
+        "'Gyenkwa, ne me ntra 'nadwo yi,",
+        "Hwɛ, anwumm're adu!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo ne me ntra, onwin' adwo!",
+        "Me ne W' nantew nnɛ no,",
+        "Ama me koma ahosan,",
+        "Yɛn nkitahodi nom'.",
+        "Wo nsɛm no ahyɛ me kra ma",
+        "De me abɛn Wo nkyɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo ne me ntra, onwin' adwo!",
+        "Mɛyɛ ankonam 'nadwo' I",
+        "B're a me ne Wo nni nkɔmmɔ,",
+        "Na minhu Wo hann no.",
+        "Misųro sɛ ɛbɛma wiase sum",
+        "Abɛhyɛ me fie ma."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 245,
+  "language": "tn",
+  "title": "245 Ga Go Ina Lepe Je Lengwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ga G’ina Lepe Je Lengwe Je Le Tshwanang Le Jeso,",
+        "Ke boipelo jwa ba’ngele, Le Mokreste lefatshing."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Leina ...lentle...Ga go je le tshwanang jwa pelo,",
+        "Leina...lentle...Ke leina la ga Jeso."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga Go Je Le Tshwanang Najo; Bofutsaneng Jwa Pelo,",
+        "Ga go je le tshwanang najo Boitumelo jwa pelo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E, Ka Jone Ke Tla Mmona, Mogang O Tla Bonala,",
+        "Ka jone A nkamogele, A nkgomotse mo moyeng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa’ Rata Ke Mo Direle Ka Metlha Tshimong Ya’gwe,",
+        "Foo go gontle fa Jeso A Ntshegofaletsa tsotlhe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa A Rata Gore Loso Lo Nkame Tsopa Le Swang,",
+        "Foo go gontle fa Jeso e Le boitumelo jwa me."
+      ],
+      "number": 5
+    }
+  ]
+}

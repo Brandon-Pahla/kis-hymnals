@@ -1,0 +1,55 @@
+{
+  "number": 43,
+  "language": "ve",
+  "title": "43 O Lala E Kha Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:477"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. O lala e kha Murena,",
+        "Afho hune ha sa lilwe;",
+        "Vhuawelo ha vhudisa,",
+        "A huna tshi thithisaho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ene o lala zwavhudi,",
+        "O awela o lindela;",
+        "O tenda a kha di tshila,",
+        "O fulufhela Mukhethwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. lala kha Yesu tshete,",
+        "Zwino u vhuaweloni;",
+        "Mutshidzi a re na Maanda,",
+        "U do mu vusa nga vhuya."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. U tshandani tsha Mudzimu,",
+        "U do vuswa nga Mutshidzi;",
+        "U do li sia livhIda,",
+        "Yesu a tshi do mu vusa."
+      ],
+      "number": 5
+    }
+  ]
+}

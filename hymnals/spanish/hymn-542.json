@@ -1,0 +1,54 @@
+{
+  "number": 542,
+  "language": "es",
+  "title": "Amo tu sábado",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Amo tu sábado"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amo tu sábado;",
+        "te adoraré, Señor;",
+        "pues dulce paz encuentro en él,",
+        "profunda y serena fe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro angelical",
+        "tu creación cantó;",
+        "elevaré, también, mi voz",
+        "en gratitud y amor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, nuestro Creador,",
+        "tu generoso don",
+        "me santifique en tu amor,",
+        "y así veré tu faz."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Y en la Santa Sion",
+        "siempre entonaré",
+        "himnos de eterna gratitud",
+        "por tu inefable amor."
+      ],
+      "number": 5
+    }
+  ]
+}

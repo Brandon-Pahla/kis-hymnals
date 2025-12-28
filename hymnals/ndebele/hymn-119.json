@@ -1,0 +1,47 @@
+{
+  "number": 119,
+  "language": "nd",
+  "title": "119 Iza Elihlanzayo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi bona iza libomvu Umthomb’ oshonayo",
+        "Won’ u ngamandla kaJesu Yena owophayo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "uMfula ngi yowubona, Low’ ongihlanzisisayo",
+        "Se ngi cwilil’ egazini, Bong’ iNkosi ehlanzayo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi thol’ ukuphil’ okusha Khona egazini",
+        "Izono zonke zi yafa Lapho eMfuleni"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi vuka ng’enziwa musha Ngobhaqa lweZulu",
+        "Ngi nenhliziy’ emhlophe qhwa! EnaYe uKrestu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Isimanga esikhulu Lelo ‘gazi lodwa",
+        "Lika Jesu, Jesu Krestu Lasicithekela"
+      ],
+      "number": 5
+    }
+  ]
+}

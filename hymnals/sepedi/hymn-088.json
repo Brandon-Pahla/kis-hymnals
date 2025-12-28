@@ -1,0 +1,57 @@
+{
+  "number": 88,
+  "language": "nso",
+  "title": " 88 SE MPHETE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 88 SE MPHETE",
+        "AH 187 CH 559",
+        "PASS ME NOT!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se mphete Mmoloki wa ka, Ekwa 'llo sa ka,",
+        "Ge ntše o bitša ba bangwe, Se mphete le nna;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Jeso, Jeso, E kwa thapelo,",
+        "Ge o etela ba bangwe, Se mphete le nna;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Teroneng ya kgaugelo, Ke gaugelwe,",
+        "Ke khuname ka boinyatšo, Nthuše tumelong;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gobane ke tshepa wena, Ke tio go nyaka,",
+        "Mphološe moyeng o nkgogang, Hle mpoloke;"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O motswedi wa khomotšo, Go feta tšohle,",
+        "Ga ke na emongwe faseng, Ke wena fela;"
+      ],
+      "number": 6
+    }
+  ]
+}

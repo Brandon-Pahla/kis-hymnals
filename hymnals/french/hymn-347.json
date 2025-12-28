@@ -1,0 +1,39 @@
+{
+  "number": 347,
+  "language": "fr",
+  "title": "Dieu fait de nous...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dieu fait de nous en Jésus-Christ des hommes libres.",
+        "Tout vient de lui, tout est pour lui : qu'il nous délivre !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Peuple choisi pour témoigner de l'Évangile,",
+        "Laisse ta vie se ranimer aux sources vives !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Peuple choisi pour exister dans la prière,",
+        "Prends en tes mains le monde entier et sa misère !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Peuple choisi pour l'unité de tous tes frères,",
+        "Ouvre tes bras et reconnais les dons du Père !"
+      ],
+      "number": 4
+    }
+  ]
+}

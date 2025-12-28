@@ -1,0 +1,54 @@
+{
+  "number": 101,
+  "language": "ve",
+  "title": "101 Yesu U A Vhidza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.Yesu u ri Idani hayani, U vhidza inwi namusi;",
+        "U si lambe musi wa u tshidzwa, U landulela mini?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U ya vhidza, Inwi zwino",
+        "Yesu U khou ni vhudza nga khumbelo khulu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Na vho netaho u a vha vhidza, U a vha vhidza namusi;",
+        "Ida kha Ene, U fhatutshedzwe, nga Ene Yesu zwino."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ida-ha zwino o u lindela, O lindela iwe zwino;",
+        "’da na zwivhi u di tukufhadze, U songo hangwa, Ida."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. U tshi mu toda u ya u thusa, U ya thusa, ada namusi;",
+        "Vhane vha tenda vha do takala, tavhanya u a vhidza."
+      ],
+      "number": 5
+    }
+  ]
+}

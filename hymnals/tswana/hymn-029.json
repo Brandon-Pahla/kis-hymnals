@@ -1,0 +1,57 @@
+{
+  "number": 29,
+  "language": "tn",
+  "title": "29 Sala Le Nna",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sala Le Nna: Tsatsi Lea Phirima;",
+        "Go ya ntshofala; Morena sala:",
+        "Fa go se bathusi le kgomotso,",
+        "Thuso ya batlhoki, sala le nna."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Botshelo Bo Feta Ka Bonako;",
+        "Thamo le tlotlo tsa ’fatshe jeno;",
+        "Tsotlhe dia feta di ya nyelela,",
+        "Wena Yo sa feteng sala le nna."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga Ke Kope Foko Je Le Fetang,",
+        "Mme jaak’ O ntse le barutwa Jeso,",
+        "Kgomotso ka bopelotelele,",
+        "Tla mme O se ete sala le nna."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Go Batla Ka Dinako Tsotlhe,",
+        "Tshwaro ya ’Go ’ka fenya Satane.",
+        "Ke mang yo’ tla nkgogang jaaka Wena?",
+        "Botlhokung, kgatlhegong, sala le nna"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa O Le Teng Ke Tlelwa Ke Thata;",
+        "Le khutsafalo ga e botlhoko;",
+        "Ga ke tshabe loso le lebitla;",
+        "Kea di Fenya fa O sala le nna."
+      ],
+      "number": 5
+    }
+  ]
+}

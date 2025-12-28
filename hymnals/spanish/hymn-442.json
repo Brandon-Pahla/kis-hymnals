@@ -1,0 +1,59 @@
+{
+  "number": 442,
+  "language": "es",
+  "title": "¡Oh! ¡Maestro y Salvador!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Oh! ¡Maestro y Salvador!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh! ¡Maestro y Salvador!,",
+        "no me dejes desmayar;",
+        "en tu gracia y en tu amor",
+        "solo fío sin cesar,",
+        "solo fío sin cesar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pobre y débil sé que soy,",
+        "lo confieso, mi Señor.",
+        "A tus pies rendido estoy,",
+        "dame fuerzas y valor,",
+        "dame fuerzas y valor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dime tú lo que he de ser,",
+        "las palabras que he de",
+        "hablar,",
+        "lo que siempre debo hacer,",
+        "mientras voy hacia el hogar,",
+        "mientras voy hacia el hogar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Solo así feliz seré",
+        "en mi vida espiritual;",
+        "solo así morar podré",
+        "en la patria celestial,",
+        "en la patria celestial."
+      ],
+      "number": 5
+    }
+  ]
+}

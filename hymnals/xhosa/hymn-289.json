@@ -1,0 +1,54 @@
+{
+  "number": 289,
+  "language": "xh",
+  "title": "289 Ndithathe Ndinje",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, Nkosi ndiyakhala, Nkosi ndisize ndiyafa;",
+        "Zisa ukuphila kwaKho, Undithathe ndinje."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndithathe, Nkosi (Nkosi), Ndithathe ndinje (ndinje);",
+        "Khausondez’ usindiso, Undithathe ndinje."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndizele zizono, Yesu, Ngegazi laKho ndihlambe;",
+        "Ndenze ngokuthanda kwaKho, Undithathe ndinje."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Imisebenzi emihle Ayikho kum apha, Nkosi;",
+        "Ndisize ngegama laKho, Undithathe ndinje."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyaguqa kuWe, Nkosi, Ndibhek’ enyaweni zaKho;",
+        "Uqalile umsebenzi, Undithathe ndinje."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa uthanda ndisebenze, Ndikhaliphise ingqondo;",
+        "Uze undisebenzise, Undithathe ndinje."
+      ],
+      "number": 5
+    }
+  ]
+}

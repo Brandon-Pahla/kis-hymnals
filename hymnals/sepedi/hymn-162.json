@@ -1,0 +1,64 @@
+{
+  "number": 162,
+  "language": "nso",
+  "title": " 162  TSELENG YOHLE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 162  TSELENG YOHLE",
+        "АН 296 CH 259",
+        "ALL THE WAY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tseleng M'phološi wa nkgoga,",
+        "A nka kgopelang gape?",
+        "Nka belaela mogau wa 'Gwe,",
+        "Yen' a nhlatlago bophelong.",
+        "Kgothatšo ya legodimo,",
+        "Ge ke dula go yena,",
+        "Ke tseba tšohle tše ntlalelago",
+        "Jeso o lokiša tšohle,",
+        "Ke tseba tšohle tše ntlalelago",
+        "Jeso o lokiša tšohle;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tseleng M'phološi wa nkgoga,",
+        "O ntokišetša tsela,",
+        "O mpha tšhegofatšo tekong,",
+        "O mpha senkwa sa 'phelo,",
+        "Le ge ke le wa go thekesela,",
+        "Ke swarwa ke lenyora,",
+        "Go elela mo leswikeng,",
+        "Sediba sa lethabo,",
+        "Go elela mo leswikeng,",
+        "Sediba sa lethabo;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tseleng M'phološi wa nkgoga,",
+        "A botlalo bja rato,",
+        "O ntshepišitse khutšo,",
+        "Ntlong ya Tate godimo,",
+        "Ge ke tsogela bophelong,",
+        "Ke fofela bogošing,",
+        "Ke tlo opela ka mehla,",
+        "Jes'o nkgogile tseleng,",
+        "Ke tlo opela ka mehla,",
+        "Jes'o nkgogile tseleng;"
+      ],
+      "number": 4
+    }
+  ]
+}

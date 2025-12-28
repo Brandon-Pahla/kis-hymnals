@@ -1,0 +1,46 @@
+{
+  "number": 57,
+  "language": "st",
+  "title": "57 Ea Utloang",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mang le mang, ea utloang a ke a re: “Tlo!",
+        "A hoe mantsoe a molemo fats’eng,",
+        "A bolele hohle moo ho leng batho,",
+        "Le ha e le mang a tle."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Le ha e le mang, le ha ele mang,",
+        "A bolelle bohle ba mona fats’eng,",
+        "Ntate oa bitsa, O re, \\\"ba tle hae,”",
+        "Le ha e le mang a tle."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leha e le mang ea tlang se liehe,",
+        "Joale tsela e butsoe u ka kena,",
+        "Jesu ke ’nete tsela e phelisang,",
+        "Le ha e le mang a tle"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "“Leha e le mang polokeho e teng,",
+        "Leha e le mang a lule le ruri,",
+        "Leha e le mang, bophelo ba ’nete;",
+        "Le ha e le mang a tle"
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "number": 269,
+  "language": "sn",
+  "title": "269 Ndina Muponesi Anoshamisa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndina muponesi anoshamisa, Anondishamisa ini",
+        "Anondiviga mubako redombo, Kune nzizi dzerufaro"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anondiviga mubako redombo",
+        "Rinobvisa nyota yese",
+        "Aviga vupenyu murudo rwake",
+        "Ofukidza neruoko, Anondifukidza ini"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndina muponesi anoshamisa, Anorerutsa mitoro",
+        "Anondimisa handizotenheki, Ndiye anondipa simba"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nguva dzese anondikomborera, Ndozadzwa nembiri yake",
+        "Mbiri kuna Mwari ndomuimbira, Ndiye mununuri wangu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti ndapfeka mbiri ndozokwira, Tokumb’ naye m’makore",
+        "Ruponeso rudo runoshamisa, Toimba tese kudenga"
+      ],
+      "number": 5
+    }
+  ]
+}

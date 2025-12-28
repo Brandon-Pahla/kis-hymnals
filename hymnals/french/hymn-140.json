@@ -1,0 +1,63 @@
+{
+  "number": 140,
+  "language": "fr",
+  "title": "Oh! que c’est chose belle1",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Oh ! Que c’est chose belle",
+        "De te louer, Seigneur,",
+        "De chanter ta splendeur",
+        "Au milieu des fidèles ;",
+        "Quand le jour vient de naître,",
+        "D’annoncer ta bonté",
+        "Et ta fidélité",
+        "Quand la nuit va paraître."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tes œuvres surprenantes",
+        "Ont réjoui mon cœur,",
+        "Et je dirai, Seigneur,",
+        "Leur sagesse étonnante ;",
+        "Tes pensées sont profondes,",
+        "Plus il les étudie,",
+        "Plus l’homme est interdit ;",
+        "Ta main garde le monde."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si les méchants fleurissent",
+        "Comme l’ivraie des champs",
+        "Et si des arrogants",
+        "Les projets réussissent,",
+        "C’est pour qu’ils disparaissent,",
+        "Par la mort emportés,",
+        "Et que soient dévoilés",
+        "Les plans de ta sagesse."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu oins d’une huile fraîche",
+        "Le front de ton enfant ;",
+        "On le voit rayonnant,",
+        "Vigoureux comme un cèdre.",
+        "Sa gloire et sa richesse",
+        "Sont d’orner ta maison ;",
+        "Tes fruits chaque saison",
+        "Combleront sa vieillesse."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "number": 162,
+  "language": "st",
+  "title": "162 Tseleng ’Moloki O Ea Nkalosa.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Moloki moo A nkisang teng, Na nka kopa hape eng.",
+        "Na nka belaela mohau oa Hae ha mphelisa.",
+        "Khothatso ea leholimo, ha ke lula ho Eena",
+        "Ke tseba tsohle tse ntlelang Jesu O etsa hanle.",
+        "Ke tseba tsohle tse ntlelang Jesu O etsa hanle."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Moloki moo A nkisang teng, O ntokisetsa tsela,",
+        "O ’nea mohau melekong, le sejo se phelisang;",
+        "Leha ke ntse ke tetema, ke tleloa ke lenyora",
+        "Ho phalla lefikeng Mohloli oo e leng oa thabo.",
+        "Ho phalla lefikeng Mohloli oo e leng oa thabo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Moloki moo A nkisang, teng leratong ka botlalo;",
+        "O nts’episitse phomolo, ntlong ea Ntate holimo;",
+        "Ha ke tsohela bophelong ke fofela boreneng",
+        "Ke bine kamehla eohle Jesu ’nkalose tseleng.",
+        "Ke bine kamehla eohle Jesu ’nkalose tseleng."
+      ],
+      "number": 3
+    }
+  ]
+}

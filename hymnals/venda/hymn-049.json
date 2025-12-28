@@ -1,0 +1,62 @@
+{
+  "number": 49,
+  "language": "ve",
+  "title": "49 Muhumbulo Wavhudi.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:324"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Muhumbulo muswa ngavhe u tshi nndela,",
+        "Zwino ndo no vha tsini na u swika hayani."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndo no vha tsini na haya,",
+        "Ndo no vha tsini-tsini zwino u fhira zwa kale."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tsini khotsi-anga na haya ha vhudi,",
+        "Ndi tsini na khulunoni, henengei tadulu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tsini na u swika nda rulwa mihwalo,",
+        "Ndi tshi sia dzikhakhathi, ndi yo wana khare."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Vhukati ha swiswi, madumbu vhusiku,",
+        "Hu mbo taha mulambo u isaho tshedzani."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Khotsi, tika lutendo lwanga lu khwathe,",
+        "’Si nditshe ndi ndothe khunzikhunzini ya lufu."
+      ],
+      "number": 6
+    }
+  ]
+}

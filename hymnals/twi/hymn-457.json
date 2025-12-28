@@ -1,0 +1,72 @@
+{
+  "number": 457,
+  "language": "tw",
+  "title": "Medɔ Sɛ Mɛka 'Sɛm No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Medɔ sɛ mɛka 'sɛm no,",
+        "S'ro nneɛma a wonhu;",
+        "Yesu ne N'anuonyam no",
+        "Jesu ne Ne dɔ no.",
+        "Medɔ sɛ mɛka 'sɛm no,",
+        "'Fisɛ ɛyɛ nokwar';",
+        "Ema m'ahwehwɛde a",
+        "B'ribi fof'ro ntum' mma."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Medɔ sɛ mɛka 'sɛm no",
+        "Ͻbɛyɛ m'anuonyamsɛm",
+        "Sɛ mɛka tetesɛm no,",
+        "Yesu ne Ne dɔ no."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Medɔ sɛ mɛka 'sɛm no,",
+        "Ͻyɛ 'nwanwade a",
+        "Ͻkyɛn nsusui pā a yehu",
+        "Wɔ adaeso nyinaam';",
+        "Medɔ sɛ mɛka 'sɛm no;",
+        "Ayɛ bi ama me,",
+        "Enti na mereka no",
+        "Seesei aky'rɛ wo no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Medɔ sɛ mɛka 'sɛm no,",
+        "Ne ka yɛ m'anigye;",
+        "B're biara a mɛka no",
+        "Ͻma ɔdɛw mm'roso;",
+        "Medɔ sɛ mɛka 'sɛm no,",
+        "'Fisɛ binom nnya ntee",
+        "Nkwagyesɛm no a efi",
+        "Nyame nnwuma mu no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Medɔ sɛ mɛka 'sɛm no,",
+        "'Fisɛ wɔn a wonim",
+        "Mpo ho pere wɔn te sɛ",
+        "Wɔn a wɔntee da no;",
+        "Na meto dwom fof'ro no",
+        "Wɔ anuonyam mu a,",
+        "Ͻbɛyɛ tetesɛm a",
+        "Madɔ no mpɛm pii no."
+      ],
+      "number": 4
+    }
+  ]
+}

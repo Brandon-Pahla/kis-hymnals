@@ -1,0 +1,49 @@
+{
+  "number": 92,
+  "language": "tw",
+  "title": "Wiase'i Yɛ M'Agya De",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wiase'i yɛ m'Agya de,",
+        "Mete m'asom pefee,",
+        "Abɔde nnwom a ɛwoso",
+        "Ne nnwom a efi s'ro;",
+        "Wiase'I yɛ m'Agya de,",
+        "Esi pi m'adwen mu,",
+        "Sɛ mmotan, nnua, po ne ewim'",
+        "Yɛ Ne nsaanodwuma."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wiase'i yɛ m'Agya de,",
+        "'Wim nnomaa towɔn nnwom,",
+        "Anɔpa hann ne sukooko,",
+        "Yi wɔn Yɛfo n'ayɛ;",
+        "Wiase'I yɛ m'Agya de,",
+        "ɔhy'rɛn neá ɛyɛ nyinaam'",
+        "ɔnam mframa a ɛbɔ mu",
+        "Kasa ky'rɛ m' baabiara."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wiase'i yɛ m'Agya de,",
+        "O, mma me w'rɛ mmfi da,",
+        "Sɛ mfomso kɔ so dɛn ará a",
+        "Onyankopɔn di hen'",
+        "Wiase'i yɛ m'Agya de,",
+        "Dɛn nti na me w'rɛ how,",
+        "'W'rade yɛ Hen', ma s'ro nwoso",
+        "Na asase nni dɛw."
+      ],
+      "number": 3
+    }
+  ]
+}

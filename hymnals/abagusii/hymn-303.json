@@ -1,0 +1,35 @@
+{
+  "number": 303,
+  "language": "guz",
+  "title": "303 Nanyanchete",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nyas'aror'amaber'as'enyonigekogwa nse;Onye bwanchete chinyoni,Nainche nanyanchete."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nanyanchete, nanyanchete,Nainche nanyanchete;Bun'anchet'ebike,Nainche nanyanchete."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ebisicha bir'ense,Nyasae abitonga;Onye bwanchet'ebisicha,nainche nanyanchete."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nyasa'agatonga bionsi,chinyoni n'ebisicha;Takweba abana baye,Nainche nanyanchete."
+      ],
+      "number": 4
+    }
+  ]
+}

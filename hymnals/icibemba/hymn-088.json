@@ -1,0 +1,39 @@
+{
+  "number": 88,
+  "language": "bem",
+  "title": "88 - MWINCILA INE KATULA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "PASS ME NOT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mwinchila ine Katula,",
+        "Mumfwe kuli 'ne;",
+        "Apo mulemona bambi,",
+        "Mwinchila ine.",
+        "CHORUS:",
+        "Yesu, Yesu, mumfwe kuli 'ne;",
+        "Apo mulemona bambi, Mwinchila ine.",
+        "2. Ku ci puna ca kwa Lesa,",
+        "Ndefwayo kwafwa;",
+        "Ndefukama mu bulanda,",
+        "Mungafwe ine.",
+        "3. Mu kutemwa kwakwa Yesu,",
+        "Ndesumina 'ne;",
+        "Mutima wandi 'kalipa,",
+        "Muntule ine.",
+        "4. Mu ntulo ya nsansamusho,",
+        "No mweo wandi;",
+        "N'ani umbi pano calo,",
+        "N’ani ku mulu"
+      ],
+      "number": 2
+    }
+  ]
+}

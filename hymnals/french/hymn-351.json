@@ -1,0 +1,58 @@
+{
+  "number": 351,
+  "language": "fr",
+  "title": "Je connais un pays",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Je connais un pays par-delà le ciel bleu,",
+        "Où tous les bienheureux seront auprès de Dieu,",
+        "Dans le repos parfait, le séjour ravissant;",
+        "Là, plus de deuil cruel, de douleur, de tourment."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Dans la maison là-haut,",
+        "Où je serai bientôt,",
+        "Rien ne troublera plus",
+        "Le bonheur des élus."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je connais un palais dans la sainte cité,",
+        "Plein de charme ineffable et de félicité,",
+        "Où Jésus est entré depuis longtemps déjà,",
+        "Et dans ses doux parvis, mon Dieu m'introduira."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je connais un rivage où l'ouragan n'est plus,",
+        "Où tout est pleine paix, car le port, c'est Jésus,",
+        "Aucun flot menaçant n'atteint le racheté,",
+        "Dans le céleste abri, loin du monde agité."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je connais un cantique entonné dans les cieux,",
+        "C'est le chant de l'Agneau qui retentit joyeux;",
+        "Ô sublime harmonie, ô glorieux transport,",
+        "Bientôt je l'entendrai, qu'il est heureux mon sort!"
+      ],
+      "number": 5
+    }
+  ]
+}

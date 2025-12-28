@@ -1,0 +1,37 @@
+{
+  "number": 219,
+  "language": "tn",
+  "title": "219 O Nkgoge Wena Jehofa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O Nkgoge, Wena Jehofa. Ke Moeti Lefatsheng;",
+        "Ke bokoa, mme o thata; O ntshware ka seatla;",
+        "O nkgorise, Ka senkgwe sa ’godimo, O nkgorise",
+        "Ka senkgwe sa ’godimo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Bule Janong Motswedi Wa Metsi A Fodisang;",
+        "A leru je le molelo, Le nkgoge mo loetong;",
+        "Mogolodi, O nne nonofo ya me. Mogolodi,",
+        "O nne nonofo ya me."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Ke Fitlhile Jordane, O Tlose Poifo Go Nna;",
+        "Ntlodisa noka e golang Mpa’a moseja Kanana;",
+        "Wena ke tla Go opela pako: Wena ke tla",
+        "Go opelela pako."
+      ],
+      "number": 3
+    }
+  ]
+}

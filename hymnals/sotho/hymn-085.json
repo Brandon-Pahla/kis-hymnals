@@ -1,0 +1,37 @@
+{
+  "number": 85,
+  "language": "st",
+  "title": "85 Ke bina Matla ’Molimo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke bina matla ’Molimo a entseng lithaba;",
+        "Ao a alileng leoatle le sona sebaka,",
+        "Ke makatsoa ke kelello ee entseng letsatsi,",
+        "Khoeli ho busa bosiu, E, le linaleli."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke bona le ona mosa, Oo re fang le lijo,",
+        "Entse’ le ’ona makhotla ka lentsoe la Ona;",
+        "Re bona tsee re makatsang le ka hohle—hohle",
+        "Tsohle li ea re makatsa ke tsa ’ona tsohle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lipalesa tse makatsang, Le joang le lifefo,",
+        "Tsohle li paka ka ’Mopi; Leha li thotse tu!",
+        "Ke Eena ea li phelisang Ea li fepang hohle,",
+        "Re ka balehela ho-kae? Kae le kae Oa bona."
+      ],
+      "number": 3
+    }
+  ]
+}

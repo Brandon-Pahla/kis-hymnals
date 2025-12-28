@@ -1,0 +1,55 @@
+{
+  "number": 513,
+  "language": "es",
+  "title": "Honra al hombre de valor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Honra al hombre de valor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Honra al hombre de valor,",
+        "pronto a obedecer",
+        "el mandato del Señor,",
+        "tal cual lo fue Daniel."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "A Daniel imita;",
+        "dalo a conocer;",
+        "muéstrate resuelto y firme,",
+        "aunque solo estés."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muchos yacen sin valor,",
+        "que pudieran ser",
+        "nobles héroes del Señor,",
+        "tal cual lo fue Daniel."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lucha en nombre del Señor",
+        "sin desfallecer.",
+        "Sé en la lucha vencedor,",
+        "tal cual lo fue Daniel."
+      ],
+      "number": 5
+    }
+  ]
+}

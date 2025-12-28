@@ -1,0 +1,37 @@
+{
+  "number": 289,
+  "language": "fr",
+  "title": "Il est une source abondante",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Il est une source abondante, toujours ouverte au pèlerin.",
+        "Son eau limpide et jaillissante est le remède souverain.",
+        "Ses bords sont d'un accès facile, l'enfant même peut y puiser.",
+        "Son onde rend toujours fertile le sol qu'elle vient arroser."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De cette source bienveillante, de son flot pur, vivifiant,",
+        "S'élève une voix consolante parlant d'amour à tout passant.",
+        "Ô flot sanglant, source bénie, seule richesse du pécheur,",
+        "Tu lui donnes paix, joie et vie, le ciel et l'éternel bonheur."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Elle est au pied du bois infâme que l'amour divin a dressé.",
+        "Ô croix bénie, ancre de l'âme, refuge du cœur oppressé,",
+        "Sous ton ombre mystérieuse, je sens mon cœur se ranimer.",
+        "Mon âme sort victorieuse de la lutte et vit pour aimer."
+      ],
+      "number": 3
+    }
+  ]
+}

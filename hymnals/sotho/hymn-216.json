@@ -1,0 +1,46 @@
+{
+  "number": 216,
+  "language": "st",
+  "title": "216 Ha Ke Inots’i",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bolutung? Che ha ke mong ha Jesu a le teng,",
+        "Oa nkhothatsa, tseba O haufi.",
+        "Setloaeli? Se teng, Jesu ke motsoalle;",
+        "Kea fetoha, Eena che! Ha fetohe hohang."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Che ha ke inots’i, che ha ke inots’i,",
+        "O ts’episitse ho se ntlohele bo’notsing (bis)",
+        "Che, che, ha ke i’nots’i, che, ha ke’ nots’i,",
+        "O ts’episitse ho se ntlohele bonots’ing. D.C."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ua sitoa? Che, ha ke le fubeng sa Hae,",
+        "Moea oa k’o thabile, phomolong ea Hae?",
+        "E ha ke na thuso ? Empa ke maname,",
+        "Tsohong a matla a Jesu, joal’o mpolokile."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke letile? E, ke letile. O re ke.",
+        "Lete ke mpa ke makala; Ke’ng se liehisang.",
+        "Morena thabo? E, e sa boleloeng,",
+        "Motheo o matla, Thabo ea morena’ ka."
+      ],
+      "number": 3
+    }
+  ]
+}

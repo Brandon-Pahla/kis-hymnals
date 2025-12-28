@@ -1,0 +1,67 @@
+{
+  "number": 39,
+  "language": "tum",
+  "title": " 39 Gomezgo Pa Jarawe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 39 Gomezgo Pa Jarawe",
+        "MY HOPE IS BUILT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Gomezgo lane layima,",
+        "pa Yesu Khristu mutuwa,",
+        "Palije zina linyake,",
+        "kweni la Yesu ndipera."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nkhwima pa Khristu, jarawe,",
+        "charu chapasi ndi mchenga;",
+        "Charu chapasi ndi mchenga."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Pakuzingiziwa ine,",
+        "ndiphokwerenge mwa lyo;",
+        "M vimphupuru na m mayigha,",
+        "ndichimbilre kwa Yesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Phangano lake na ndopa,",
+        "vikuvikilira ine;",
+        "Para ine nkhutondeka,",
+        "nditiwenge mwa Yesu swi!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Pakulira mbata m'dera,",
+        "kuwuska w'ake w'akufwa;",
+        "NKnasangike pamo nawo,",
+        "wambura mlandu na Yesu."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 161,
+  "language": "tw",
+  "title": "Wudi Hen' Dua Nwanwa So",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wudi hen' dua nwanwa so,",
+        "Nyame 'Guammaa, yehuW'yaw;",
+        "Sum kata W'aw'rɛhow so,",
+        "Obi ntum' nhu Wo yaw no;",
+        "Obi ntum nhu ɔhaw a",
+        "Wo nko Wuhyiaa no kommyɛm'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nnɔnhw're mmiɛnsa mu kommyɛm;",
+        "Wo ne sum mu 'tumfo koe,",
+        "Wiase bɔn' nti, wɔpoo Wo",
+        "Sum kabii twaa Wo ho hyiae,",
+        "Kosii b're a wɔahyɛ no.",
+        "B're a Nyame 'Guammaan' wui."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tie nteam a egyigye pii",
+        "Kɔ s'ro mununkum kɛsem'!",
+        "Wo, Agya no Ba k'ro no,",
+        "Nyame Ba a wɔasra Wo,",
+        "Wubisaɔso ebetum'?",
+        "Sɛ 'dɛn nti na Woagya Me?'"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, sɛ 'hu ne apini",
+        "Hyɛ yɛn kra bɔn'yɛfo sō a,",
+        "Wo a Wuhyiaa saa yaw yi,",
+        "Sɛnea Wo de renny'ra no,",
+        "Ma yenhu wɔ ɔyaw nteam",
+        "Wɔ sum no mu sɛ Wobɛn."
+      ],
+      "number": 4
+    }
+  ]
+}

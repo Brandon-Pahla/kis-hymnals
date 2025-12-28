@@ -1,0 +1,35 @@
+{
+  "number": 148,
+  "language": "guz",
+  "title": "148 Oyoraigwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. \"Oyoraigwe\" aake eriogi!'Tom' amang'an' amaya ense yonsi;Ens' eye yonsi banyore ring'ana;\"Oyorigetie, nache!\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Oyorigetie, Oyorigetie\"'Bitunwa n'amagoko rirandigweNtat' omwanchi okorangeri' omosiru\"Oyorigetie, nache!\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. \"Onde bwensi\" ogocha tatebana;Bon' egesieri ngiasie tig' asoeYeso ner' Ekeene n'er'enchera;\"Oyorigetie nache!\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. \"'Yorigetie\" ache, nero eira;\"'Yorigetie\" 'remererie botambe\"Oyorigetie\" Bogima bwa kare;\"Oyorigetie, nache!\""
+      ],
+      "number": 4
+    }
+  ]
+}

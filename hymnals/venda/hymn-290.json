@@ -1,0 +1,52 @@
+{
+  "number": 290,
+  "language": "ve",
+  "title": "290. Ri Takala Ri Tshi Shumela Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ri takala ri tshi shumela Yesu,",
+        "Ri tenda u mu shumela",
+        "Zwothe zwine Ene a ri vhudza,",
+        "Ri do ita ri sa tahedzi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu, nga Iwe ri do kona zwothe nga dakalo,",
+        "U ri fhatutshedza mushumoni Wau."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nga lutendo na lufuno lwawe,",
+        "Ri funza vhothe vha shangoni,",
+        "Na Yesu e kha vhuhosi hawe",
+        "U do shulula phathutshedzo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri tevhela Murena nga vhulenda,",
+        "Ri tshimbila nae tshothe,",
+        "Ri tshi talifhisa vho xelaho,",
+        "Nga yone Ngwana ya Mudzimu."
+      ],
+      "number": 4
+    }
+  ]
+}

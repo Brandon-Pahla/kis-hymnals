@@ -1,0 +1,50 @@
+{
+  "number": 13,
+  "language": "pt",
+  "title": "Louvamos-Te, ó Deus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Louvamos-Te, ó Deus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Louvamos- Te, ó Deus, pelo dom de Jesus,",
+        "Que por nós, pecadores, foi morto na cruz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Aleluia! Toda a glória",
+        "Te rendemos sem fim.",
+        "Aleluia! Tua graça",
+        "Imploramos. Amém."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Louvamos- Te, ó Deus, pelo Espírito, luz",
+        "Que nos tira das trevas e a Cristo conduz."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "0, vem nos encher de celeste fervor,",
+        "De esperança e bondade, de fé, zelo e amor."
+      ],
+      "number": 5
+    }
+  ]
+}

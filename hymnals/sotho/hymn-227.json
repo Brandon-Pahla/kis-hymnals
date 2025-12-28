@@ -1,0 +1,38 @@
+{
+  "number": 227,
+  "language": "st",
+  "title": "227 Sefapanong",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "’Moloki O ts’olotse mali, A shoa Morena ’ka;",
+        "A itela A ba nchoela seboko see kang ’na."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Fapanong, fapanong, moo ke boneng leseli le moroalo oapelo oa roloa,",
+        "Ka tumelo ka bona leseli, ’Me joale ke ntse ke le thabong."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na ke ka liketso tsa ka, A sholeng sefateng;",
+        "Kutloelo-bohloko, rato ke tse fetisisang"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Marotholi a masoabi a ke ka a lefa;",
+        "Ke ’na enoa Morena ’ka ke tla ke le joalo."
+      ],
+      "number": 3
+    }
+  ]
+}

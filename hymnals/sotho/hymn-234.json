@@ -1,0 +1,46 @@
+{
+  "number": 234,
+  "language": "st",
+  "title": "234 Jesu ’Seli La Lefats’e",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mangeloi haa bina, Jesu seli lefats’eng;",
+        "Khalalelo Moreneng, Jesu seli lefats’eng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Re tsam’a seling le letle, Tlong phatsimong ealehlohonolo;",
+        "Le re phatsimela nakong tsohle, Jesu seli lefats’eng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsohang bohle ka thabo, Jesu se li lefats’eng;",
+        "Tlong hlolong le holimo, Jesu se lefatse’eng."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kreste O khabisitsoe, Jesu seli lefats’eng;",
+        "Moren’a ea sa feleng, Jesu seli lefats’eng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bokang Moren’a ea sa feleng, Jesu seli lefats’eng.",
+        "Bokang tsatsi la toka, Jesu seli lefats’eng."
+      ],
+      "number": 4
+    }
+  ]
+}

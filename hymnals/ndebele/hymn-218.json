@@ -1,0 +1,47 @@
+{
+  "number": 218,
+  "language": "nd",
+  "title": "218 Sinye Isisekelo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sinye isisekelo seBandla nguJesu,",
+        "Isidalwa esisha ngamanzi, nangezwi,",
+        "Walenza umakoti wAkhe oligugu",
+        "Lathengwa ngegazi, walifela lingafi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Labakhethw’ emhlabeni wonke, kodwa linye,",
+        "Umgomo walo, yiny’ iNkosi, kuny’ uk’ kholwa",
+        "Liny’ igam’ el’ingcwele, kuny’ ukudl’ okungcwele;",
+        "Kukhon’ ithemba linye nokubekezela"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Liyahlekwa, liyacindizelwa kakhulu;",
+        "Yisith’ esus’ uJesu lapho limi khona,",
+        "Abangcwele bahamba bebheke phezulu,",
+        "Masinya ukukhala kuzonyamalala"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Enkathazweni nasekulingweni kwalo,",
+        "Lilinde ngokuthula umvuz’ ongapheli;",
+        "Kuthi ekugcineni lithol’ isi’busiso",
+        "Ibandl’ el’vele lidumisa lingayeki!"
+      ],
+      "number": 4
+    }
+  ]
+}

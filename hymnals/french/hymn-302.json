@@ -1,0 +1,43 @@
+{
+  "number": 302,
+  "language": "fr",
+  "title": "Fais de moi...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Fais de moi un instrument,",
+        "un instrument d'adoration,",
+        "J'élève mes mains en ton nom.",
+        "Fais de moi un instrument,",
+        "un instrument d'adoration,",
+        "J'élève mes mains en ton nom."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fais de nous une symphonie,",
+        "une symphonie d'adoration,",
+        "J'élève mes mains en ton nom.",
+        "Fais de nous une symphonie,",
+        "une symphonie d'adoration,",
+        "J'élève mes mains en ton nom."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je te chanterai toujours",
+        "un chant d'amour d'adoration,",
+        "J'élève mes mains en ton nom.",
+        "Je te chanterai toujours",
+        "un chant d'amour d'adoration,",
+        "J'élève mes mains en ton nom."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 68,
+  "language": "st",
+  "title": "68 Topollo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Topollo ke rata ho e pheta, Ke lopolotsoe ka mali;",
+        "Ke lopolotsoe ka mohau, Ke ngoana Hae kamehla."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Topollo! Topollo! E leng ka maling’konyana",
+        "Topollo, topollo, Ke ngoana Hae kamehla."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Topollo e ea nthabisa, Haho puo e nka e buang;",
+        "Ke tseba hore seli la Hae, Le lutse ho ’na kamehla."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke nahana ka Mopholosi, Ke nahana tsatsi lohle;",
+        "Ke ntse ke bina ke sa khutse, Ke bina lerato la Hae."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tla bona botle ba Hae, Morena eo a nthabisang;",
+        "Ratong la Hae O a nkalosa, O isa pina’ bosiu."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke ea tseba moqhaka o teng, Mane meahong e metle;",
+        "Kapele ha ho ’so phethiloe, Ke tla lula le Morena."
+      ],
+      "number": 6
+    }
+  ]
+}

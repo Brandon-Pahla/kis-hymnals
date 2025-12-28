@@ -1,0 +1,28 @@
+{
+  "number": 192,
+  "language": "es",
+  "title": "Llena mi ser",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Llena mi ser"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo Espíritu de Dios,",
+        "llena tú mi ser.",
+        "Santo Espíritu de Dios,",
+        "dame tu poder.",
+        "Toma mi ser",
+        "para amoldarlo.",
+        "Santo Espíritu de Dios,",
+        "llena tú mi ser."
+      ],
+      "number": 2
+    }
+  ]
+}

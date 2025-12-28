@@ -1,0 +1,27 @@
+{
+  "number": 256,
+  "language": "ny",
+  "title": "256 - Mulungu Munathangata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "OUR HELP IN ACES PAST"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mulungu munathangata, Mudzathangathabe;",
+        "Woticinjiriza mz’opsa, Kwanu mutifitse!",
+        "2. Mwa mthunzi wa mpando wanu, Ndimo tibisala",
+        "Dzanja lanu liposadi, Tiri mosunguka.",
+        "3. Dziko linakhazikidwa Mapiri naima,",
+        "Mulungu wosamariza, Zako zosathera",
+        "4. Zaka ngati usiku, M’mawa kusanace."
+      ],
+      "number": 2
+    }
+  ]
+}

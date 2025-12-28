@@ -1,0 +1,56 @@
+{
+  "number": 47,
+  "language": "ve",
+  "title": "47 Seli Na Yorodane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:620",
+        "AH:419"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi do ima Yorodane, Nda vhona zwa seli,",
+        "Ndi sedze shango la-vhudi, lone li re Kanana."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ra awela shangoni la-vhudi,",
+        "seli shangoni la-vhudi-sa,",
+        "Ri do imba nyimbo dza Mushe na",
+        "Ngwana, ra dzula na Yesu tshothe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ngei midavhini yavhudi, duvha lo tavha,",
+        "Yesu ndi tshedza tsha hone, swiswi li do tuswa-vho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi do swika lini hone, ndi fhatutshedzwe-vho,",
+        "Ndi do vhona lini khotsi, nda dzula vhurenani."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mbilu yanga yo takala, a i tshe ho fhano,",
+        "Nangwe maswina e manzhi, ndi do kondelela-vho."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 1,
+  "language": "st",
+  "title": "1 Letsa phala Molebeli",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Letsa phala ea evangeli, bohle ba khalemeloe;",
+        "Bohle ba utloang molaetsa, ba inyatse ba phele."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U e letse molebeli, E utloahale hole...",
+        "Molimo O ea u roma, lokolla ba litlamong."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E utloahale phahameng, le hona bakeng tsohle;",
+        "Leoatle le ke le pake, poloko ee thabisang"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E letse le teng litseleng, moo o leng balahlehi;",
+        "Ntho tsohe li lokisitsoe, Ntate O ba emetse."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Letsetsa ba leng bothateng, ba batlang tokoloho;",
+        "Utloang memo ea ’Moloki, ee e reng le tleng ho ’na."
+      ],
+      "number": 4
+    }
+  ]
+}

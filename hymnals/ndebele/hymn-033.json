@@ -1,0 +1,47 @@
+{
+  "number": 33,
+  "language": "nd",
+  "title": "33 U Yangihola",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "uJesu u yangihola, NgawAkh’ amazwi omusa",
+        "Kuko konk’ engikwenzayo, uJesu u yangihola"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U yangihola uJesu, Ngesandla sAkhe impela",
+        "Ngi zakumlandela mina, uJesu u yangihola"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Noma ku mnyama kuthe tsu! Nakuzo izikhukula",
+        "Mina angesabi lutho, uJesu u yangihola"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Angisoli, angikhali, ‘Nkosi, ngi zoqinisela",
+        "Kuko konke ngiyathaba, uJesu u yangihola"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxas’ uphelil’ umsebenzi, NgoJesu se ngi nqobile",
+        "Angiyikwesab’ ukufa, Nas, eJordan’ wongihola"
+      ],
+      "number": 5
+    }
+  ]
+}

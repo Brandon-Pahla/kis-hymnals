@@ -1,0 +1,34 @@
+{
+  "number": 222,
+  "language": "ny",
+  "title": "222 - M’manja A Yesu Wanga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SAFE IN THE ARMS OF JESUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. M’manja a Yesu wanga ndiri kugonamo,",
+        "Mommo aphimba ine naco cikondico.",
+        "Mvera! Mudzera mmwamba mau a Yesu wanga,",
+        "\"Mwana ndisungira pano pa matima panga\"",
+        "CHORUS:",
+        "M’manja a Yesu wanga ndiri kugonamo,",
+        "Mommo aphimmba ine naco cikondico.",
+        "2. M’manja a Yesu wanga nkhawa zonsezi zi!",
+        "Momwe zoipa zanga sizindibvuta bi.",
+        "Mommo mulibe nsoni, mommo mokoma monse.",
+        "Sindiliramo msozi, nkondwa ndi Mtima wonse.",
+        "3. Mtima umabisala m’manja mwa Yesumo,",
+        "Mbuye musunge ine, ndikhulupira ’Nu.",
+        "Mommo wa cete ine mpaka wocoka mdima,",
+        "Tsono ndiona komwe Yesu wokoma Mtima."
+      ]
+    }
+  ]
+}

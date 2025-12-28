@@ -1,0 +1,38 @@
+{
+  "number": 281,
+  "language": "tn",
+  "title": "281 Naledi E Ntle",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Naledi E Ntle Ya Tswa ’Sigong, Ka Lesedi Ja Boitsheko;",
+        "Ya goga banna ba botlhale Go bona ’lao jwa Mmoloki."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "’Sa phatsima, ’sa phatsima, Naledi’a polok’a Modimo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ba Bonye Fokung Boammaruri, ’Ne Le Nako Ya Go",
+        "phatsima;",
+        "Ba latela sedi ja yone, Kreste naledi ya moso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Tla Latela Jaaka Bone, \"Lesedi Ja Lefatshe’ Jotlhe;",
+        "Re tla latela seding ja ’Gwe Go ya kwa gae legodimong."
+      ],
+      "number": 3
+    }
+  ]
+}

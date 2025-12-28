@@ -1,0 +1,51 @@
+{
+  "number": 170,
+  "language": "ve",
+  "title": "170. Musiki Murena Wanga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:015",
+        "AH:054"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Musiki Murena wanga ndi livhuha;",
+        "Khathutshelo yau, Tshisima mashudu anga",
+        "Khathutshelo yau, Tshisima mashudu anga"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi tshivhumbwa, ndi tshila nga Iwe fhedzi",
+        "Mudzimu wanga Iwe U toda thendo khulu",
+        "Mudzimu wanga Iwe U toda thendo khulu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Murena ndi nga itani, zwothe ndi zwau,",
+        "Ndi tama u livhuwa yone khangwelo yanga,",
+        "Ndi tama u livhuwa yone khangwelo yanga."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Vusa muya wanga, nga Maanda makhethwa,",
+        "Uri ndi swikele kha lufuno lwau-vho,",
+        "Uri ndi swikele kha lufuno lwau-vho."
+      ],
+      "number": 5
+    }
+  ]
+}

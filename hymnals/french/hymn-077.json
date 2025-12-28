@@ -1,0 +1,35 @@
+{
+  "number": 77,
+  "language": "fr",
+  "title": "Quand Jésus-Christ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Quand Jésus-Christ ressuscité",
+        "S’éleva jusqu’aux cieux",
+        "Fut-il reçu dans sa cité",
+        "En Seigneur glorieux?",
+        "Lorsqu’il parcourt tous les sentiers",
+        "Tracés au ciel par lui,",
+        "Le feu jaillit-il de ses pieds",
+        "Dans l’espace infini?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "À nos regards il est caché,",
+        "Oui, mais en ces bas lieux,",
+        "Où ses amis sont rassemblés,",
+        "Il est au milieu d’eux.",
+        "C’est là que brille sa splendeur.",
+        "Qu’il accorde ses dons.",
+        "C’est ainsi que notre Sauveur",
+        "Rend gloire à son saint nom."
+      ],
+      "number": 2
+    }
+  ]
+}

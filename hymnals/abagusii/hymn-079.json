@@ -1,0 +1,35 @@
+{
+  "number": 79,
+  "language": "guz",
+  "title": "79 Totamera Kende",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Totamera kende, 'Meremo nereo,Kabe ang'ogende, Ase oratomweOkorangeirire, Botamb' as' obuya,Tibwang' emeremo, 'Miya ya Igoro."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aye nchwo (bono) Totamera kende,Aye nchwo (bono) Kabe ang' ogendeTotamera kende, Ande notebigwe,\"Aye gwanchayete, Togochia Igoro\"."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Totamera kende, 'Monen' orangeirie,Kwangir' aye mono, Igw' eriogi bwangoRigesa riamire, 'Bagesi nabake,Kabe n'omogoko, Korer' Omonene."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Totamera kende, Bono totebana,Tomochaya Ere, Ande nagotigeRibaga korire, Orore Igoro,Ngosororwa ore Inchuo nabwaberwe."
+      ],
+      "number": 4
+    }
+  ]
+}

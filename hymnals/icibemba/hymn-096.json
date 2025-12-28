@@ -1,0 +1,32 @@
+{
+  "number": 96,
+  "language": "bem",
+  "title": "96 - SABATA LYA TEMWIKWA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WELCOME, WELCOME, DAY OF REST"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Sabata lyatemwikwa,",
+        "Lyatupelwe mu luse;",
+        "Isa nomba kuli 'fwe,",
+        "Kasuba ka kwa Lesa.",
+        "2. Kasuba kakutusha,",
+        "No kutasha Yehofa;",
+        "Kapelwa kutupala;",
+        "No kubwesha kwa Lesa",
+        "3. Kasuba kamushilo,",
+        "No kutota Katula;",
+        "Sabata lyatemwikwa;",
+        "Mapalo yafulisha."
+      ],
+      "number": 2
+    }
+  ]
+}

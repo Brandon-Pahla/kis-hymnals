@@ -1,0 +1,38 @@
+{
+  "number": 7,
+  "language": "xh",
+  "title": "7 Amagugu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Maxa sele fika yena ukubuth’ imfuyo",
+        "Yonk’ imfuyo eligugu, bathandwa baKhe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Njengazo inkwenkwezi Sokhany’ isithsaba",
+        "Boqaqamba bebahle, kweso sitsaba."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wowabutha, wowabutha, amagugu aKhe;",
+        "Abanyule bayakhanya, Bethandwa nguYe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abantwana abancinci, Abathand’ u-Yesu,",
+        "Bayimfuyo ka-Yehova, Amagug’aKhe."
+      ],
+      "number": 3
+    }
+  ]
+}

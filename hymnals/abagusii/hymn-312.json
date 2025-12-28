@@ -1,0 +1,42 @@
+{
+  "number": 312,
+  "language": "guz",
+  "title": "312 Bono Bwairire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bono bwairire Riagorobire;Tobiswe naende 'Mosunte ime."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Bono natorore Ching'enang'eni;Ebitongwa bionsi Nkorara bire."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Renda abarwaire N'abakoromwa;'S'amaber'amange Tiga tomiamie."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ase obotuko 'Malaik'aoBache batorende Gatwararire."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Erio agwo mambia Gatokoboka,Tore abachenu 'S'obosio bwao."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "number": 222,
+  "language": "sn",
+  "title": "222 Kuchengetwa Mumaoko AJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndachengetwa na Jesu, pachipfuwa chake,",
+        "Rudo rwakaparadzwa, Mweya wozorora,",
+        "Tereranyi ngirosi, Dzoimba kwandiri,",
+        "Mumundawo wembiri, Munyanza inokosha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndachengetwa na Jesu, Pachipfuwa chake,",
+        "Ropa rakaparadzwa, Mweya wozororo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndachengetwa naJesu, Kubva mudambudzo,",
+        "Nezviyedzo zvepasi, Handityi chitema,",
+        "Ndabviswa mukusuwa, Nemukutya kwese.",
+        "Asara matambudzo, nemasodzi mashoma."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu, bako remwoyo, Iye andifira;",
+        "Dombo iro rekare, Ndosimbira imi",
+        "Ndomira ndakatiwa, Dima ripfuure;",
+        "Ndomirira dakara, Zuva ritirobuda."
+      ],
+      "number": 4
+    }
+  ]
+}

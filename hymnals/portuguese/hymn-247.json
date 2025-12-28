@@ -1,0 +1,56 @@
+{
+  "number": 247,
+  "language": "pt",
+  "title": "Graças",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Graças"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Graças dou, sim, pela vida,",
+        "Que o bom Deus a mim legou;",
+        "Graças dou por meu futuro,",
+        "E por tudo o que passou;",
+        "Pelas bênçãos derramadas,",
+        "Pela dor e aflição;",
+        "Pelo Seu cuidado infindo,",
+        "Pela graça do perdão."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Graças pelo azul celeste,",
+        "E por nuvens que há também;",
+        "Pelas rosas do caminho",
+        "E os espinhos que elas têm;",
+        "Pela aurora, pela noite,",
+        "Pela estrela que brilhou;",
+        "Pela prece respondida,",
+        "E a esperança que raiou."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pela cruz e o sofrimento,",
+        "E eternal ressurreição;",
+        "Pelo amor que é sem medida,",
+        "Pela paz no coração;",
+        "Pela lágrima vertida",
+        "E o consolo que é sem-par;",
+        "Pelo dom da eterna vida,",
+        "Sempre a Deus irei louvar."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "number": 40,
+  "language": "ts",
+  "title": "40. ENDLELEN YA HOSI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHEN WE WALK WITH THE LORD",
+        "1. Endlelen Ya Hosi Wa Hi Voningela, Hi Ku Kwetsima Lokunghasi,",
+        "Endlelen Ya Yesu Wa Hi Sirhelela, Hinkwavo Lava Pfumelaka.",
+        "CHORUS",
+        "Pfumelani, A Ku Na Yin’wana, Ndlela Yo Ya Ka Yeso Handle Ko Pfumela.",
+        "2. Ndzhutini Wa Rifu, Munyama Wa Ntima, I Yini Mahlweni Ka Yena,",
+        "Hambi Wona Nchavo, Na Yona Mihloti,",
+        "Hosi Yeso U Swi Hlurile",
+        "3. Mirhwalo Ya Hina, Na Wo Mahlomulo, Yesu Wa Hi Rhwalela Swona,",
+        "Ku Vavisekeni, Ni Le Maxangwini, Xikwembu Xa Hi Chavelela.",
+        "4. Rirhandzu Ra Yesu A Ri Nga Tikombi, Loko Hi Nga Si Tinyiketa,",
+        "U Hi Komba Ntsako Na Rona Rirhandzu Hinkwerhu Lava N’wi Tshembaka.",
+        "5. Vahluri Hinkwavo Va Ta Tshama Swin’we Ni Ku Famba-famba Na Yena,",
+        "Marito Ya Yena, Swiletelo Swakwe, Hi Ta Swi Yingisa Hi Ntsako."
+      ],
+      "number": 1
+    }
+  ]
+}

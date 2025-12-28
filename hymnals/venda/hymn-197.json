@@ -1,0 +1,54 @@
+{
+  "number": 197,
+  "language": "ve",
+  "title": "197. A Hu Nga Vhi Na Govha la Swiswi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:208",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Swiswi a li nga vhi hone hafhu, Musi Yesu a tshi vhuya fhano;",
+        "Swiswi a li nga vhi hone hafhu, A tshi da u dzhia vhawe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "A tshi do dzhia vhawe, A tshi do dzhia vhawe;",
+        "Swiswi a li nga vhi hone hafhu, Musi Yesu a tshi da."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. A hu nga vhi na matungu hone, A hu tsha do vha na zwi dinaho;",
+        "Hu do vha matsheloni avhudi, Musi Yesu a tshi da."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mitodzi a i tsha do vha hone, Zwililo a zwi tsha do vha hone;",
+        "I do vha khano khulu ya thendo, Vhawe vha this do tuwa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Vha do imba nyimbo dza dakalo, Dzi do vha nyimbo dza ndumeliso;",
+        "Na dakalo lihulu a tshi da, A tshi tuwa na vhawe."
+      ],
+      "number": 5
+    }
+  ]
+}

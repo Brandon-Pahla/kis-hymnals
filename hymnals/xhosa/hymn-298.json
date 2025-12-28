@@ -1,0 +1,47 @@
+{
+  "number": 298,
+  "language": "xh",
+  "title": "298 Akukho Okwam, Onke Kokwakho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, usizi nobuhlungu, Ngexesha ndizithanda;",
+        "Ngekratsi ndithi kuYesu: Oku kwam, kokwam ndedwa;",
+        "Oku kwam, kokwam ndedwa; Oku kwam, kokwam ndedwa.",
+        "Ngekratsi ndithi kuYesu: Oku kwam, kokwam ndedwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wandifumana ndambona Esif’ emnqamlezweni;",
+        "Ngokuthandabuza ndathi: Inxenye yeyam yona;",
+        "Inxenye yeyam yona, Inxenye yeyam yona;",
+        "Ngokuthandabuza ndathi: Inxenye yeyam yona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inceba ephilisayo Andinika ngesisa,",
+        "Indithobe ndasebenza: Okuncinane kokwam;",
+        "Okuncinane kokwam, Okuncinane kokwam.",
+        "Indithobe ndasebenza: Okuncinane kokwam."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uthando luphakamile, Longamele izulu;",
+        "Lunzulu kunolwandle, Lundoyisele ukuthi:",
+        "Konke kokwaKho, Nkosi, Konke kokwaKho, Nkosi.",
+        "Lundoyisele ukuthi: Konke kokwaKho, Nkosi."
+      ],
+      "number": 4
+    }
+  ]
+}

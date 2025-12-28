@@ -1,0 +1,65 @@
+{
+  "number": 236,
+  "language": "ve",
+  "title": "236. Vuwa Nga Nyimbo Muya Wanga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Vuwa nga nyimbo muya wanga, Renda Mutshidzi tshothe;",
+        "U funa luimbo lwanga, Tshilidzi tshawe tsho hula!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1) Tshilidzi, tshilidzi Tshawe, Yone mbofholowo khulu!",
+        "(2) Tshilidzi, tshilidzi Tshawe, Mbofholowo ya vhukuma!",
+        "(3) Tshilidzi, tshilidzi Tshawe, Mbofholowo yo khwathaho!",
+        "(4) Tshilidzi, tshilidzi Tshawe, Mbofholowo yo lugaho!",
+        "(5) Tshilidzi, tshilidzi Tshawe, Mbofholowo i sa fheli!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. O ’mbona ndi matopeni, A di ’pfuna lwa vhukuma;",
+        "U mmbuisa ndo no xela; Tshilidzi tshawe tsho hula!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Naho maswina e manzhi, Naho shango li tshi hana,",
+        "U dededza muya wanga; Tshilidzi tshawe tsho khwatha!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Khombo i tshi vho nga gole, lo nzwinzwimala zwihulu,",
+        "U dzula na nne tshothe, Tshilidzi tsha u luga wee!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Khosi I tshi swika fhano, I isa vhatshidzwa haya,",
+        "Ndi do imba ndo takala vhuthu hawe vhu sa fheli."
+      ],
+      "number": 6
+    }
+  ]
+}

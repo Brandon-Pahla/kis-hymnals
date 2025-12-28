@@ -1,0 +1,37 @@
+{
+  "number": 184,
+  "language": "nd",
+  "title": "184 Thabani iNkosi Iyeza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Thabani iNkos’ iyeza, Yamkeleni nonke!",
+        "Yilungiselen’ indawo,",
+        "Ni bonge uMbumbi, Ni bonge uMbumbi.",
+        "Ni boni bonge uMbumbi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thabani iza kubusa! Dumisani Yena,",
+        "Nxa amasimu namatshe,",
+        "Ebonga iNkosi, Ebonga iNkosi.",
+        "Ebo-ebonga iNkosi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U zobusa uJehova! Dumisani Yena,",
+        "Ngobukhosi bokulunga,",
+        "Kwaziswe uthando, Kwaziswe uthando",
+        "Kwazi- kwaziswe uthando."
+      ],
+      "number": 3
+    }
+  ]
+}

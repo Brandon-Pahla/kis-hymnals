@@ -1,0 +1,55 @@
+{
+  "number": 301,
+  "language": "tum",
+  "title": " 301 Fumu Yiri Pafupi Kwiza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 301 Fumu Yiri Pafupi Kwiza",
+        "1.",
+        "Fumu yiri pafupi kwiza nkhupulika nthena,",
+        "Nyenyezi mchanya zikUzimwa sono kuli pafupi kucha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain:",
+        "Inta sono ndi matandakucha.",
+        "Mwe sono ndi matandakucha nadi;",
+        "Usiku waLuta, muhanya wafika,",
+        "Inya, sono ndi matandakucha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Vimanyikwiro pa zuwa, mwezi, m nyanja na m'dera",
+        "ViIkupharazga ku tawanthu Fumu yiri pafupi kwiza."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Ndi nyengo ya mpingo kuleka kujikuzga sono",
+        "Na mahomwa, nyall ugozge, Kulindizga matandakucha."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Rutani luwiro muzinthowa mukawacheme,",
+        "Wamphundukwa, wambula maso, wanozgekere kwiza kwake."
+      ],
+      "number": 5
+    }
+  ]
+}

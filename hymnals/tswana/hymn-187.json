@@ -1,0 +1,37 @@
+{
+  "number": 187,
+  "language": "tn",
+  "title": "187 Mmoloki Re Baka Ina Ja ’Go",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mmoloki Re Baka ’Ina Ja ’Go",
+        "Kopelong ya rona ya Kgaogano;",
+        "Re Go Tlotla re ise re tswale,",
+        "Foo re khubama re leta Wena."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Nee Kagiso Fa Re Ya Kwa Gae;",
+        "Re simolole re fetse nao;",
+        "Re femele sebing le ditlhonnye,",
+        "Tlung e, fa re bitsa ’ina ja’Go."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Nee Kagiso Mo Tshelong Jono,",
+        "Kgomotso ya rona bofutsaneng;",
+        "Mogang O re laolang go khutla,",
+        "Morena, re biletse kagisong."
+      ],
+      "number": 3
+    }
+  ]
+}

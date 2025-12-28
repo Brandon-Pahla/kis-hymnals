@@ -1,0 +1,54 @@
+{
+  "number": 725,
+  "language": "tw",
+  "title": "N30 When I Fear my Faith Will Fail",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ehu ma me gyidi dwo,",
+        "Kristo sɔ me mu;",
+        "Ɔtanfo hyε me so a.",
+        "Otum' su me mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ɔbεsɔ me mu, ɔbεsɔ me mu,",
+        "‘Fisε m'Agyenkwa dɔ me,",
+        "Ɔbεsɔ me mu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sε mintumi nnyina a,",
+        "Ɔbεsɔ me mu:",
+        "Me dɔ no ano taa dwo,",
+        "Ɔbεsɔ me mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Obu me aboɔdenne ɔbεsɔ me mu:",
+        "‘Gyidifo ne N'anigye,",
+        "Ɔbεsɔ me mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ɔremma me kra nyera,",
+        "Kristo sɔ me mu,",
+        "Watɔ me aboɔden pa,",
+        "Ɔbεsɔ me mu"
+      ],
+      "number": 4
+    }
+  ]
+}

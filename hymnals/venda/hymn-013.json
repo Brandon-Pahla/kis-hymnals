@@ -1,0 +1,62 @@
+{
+  "number": 13,
+  "language": "ve",
+  "title": "13 Ndi Tshene Sa Mahada",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:318",
+        "AH:200"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Murena kha ndi vhe o fhelelaho;",
+        "Ndi tama uri U dzule na nne;",
+        "U bvise yothe midzimu i sili;",
+        "U ntanzwe-vho ndi tshene sa Mahada."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sa Mahada, sa Mahada-vho!",
+        "ntanzwe-vho ndi tshene sa Mahada."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yesu ntsedze U ngeyo tadulu;",
+        "Nthuse ndi vhe tshithavhelo Tshau;",
+        "Ndi a dinekedza tshothe-tshothe-vho;",
+        "ntanzwe-vho ndi tshene sa Mahada."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yesu ndi a di nyadza ndi humbela;",
+        "Ndo gwadama nayoni dza Murena;",
+        "Zwino ndi di nekedza tshothe-tshothe-vho;",
+        "ntanzwe-vho ndi tshene sa Mahada."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Yesu ndo U lindela nga vhulenda;",
+        "Ida U ntsikele mbilu ntswa;",
+        "Ngauri a funaho a U mu hani;",
+        "ntanzwe-vho ndi tshene sa Mahada."
+      ],
+      "number": 5
+    }
+  ]
+}

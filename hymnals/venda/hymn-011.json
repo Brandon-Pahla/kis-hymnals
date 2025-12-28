@@ -1,0 +1,62 @@
+{
+  "number": 11,
+  "language": "ve",
+  "title": "11 Ndi do U Tevhela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:623",
+        "AH:282"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi do u tevhela Yesu, Hothe hune wa nnyisa;",
+        "Hune wa ya ndi do ya-vho, Murena ndi do di ya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndi do u tevhela Yesu, Wo fhaladza malofha;",
+        "Na musi u tshi nyadziwa, Ndi do di U tevhela"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Naho ndila i na mipfa, Na musi hu madini;",
+        "Ndi do gwadama nga misi, Nda do di U tevhela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3 Naho mathupho e manzhi, Ndi tshi lingwa nga hothe;",
+        "Ndila i dihwa nga iwe, Ndi do di U tevhela"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndededze ndi matunguni, Naho ndi kha vhushai;",
+        "Iwe wo lingwa nga zwothe, Ndi do di U tevhela."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Arali U nga ntutshela, Ndi do sala ndi ndothe;",
+        "Nda si divhe hune nda ya, Ndi funa U tevhela"
+      ],
+      "number": 6
+    }
+  ]
+}

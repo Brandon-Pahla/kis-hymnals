@@ -1,0 +1,46 @@
+{
+  "number": 4,
+  "language": "st",
+  "title": "4 O Ea Tla",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Monate ha litaba li tlela moeti, leha a le hole le lehae;",
+        "Kapeele-peele ’Moloki O tla hlaha, ’Me kapele ’muso’ tla ba"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O ea tla, O ea tla kapele, O tla lefats’eng lena hape;",
+        "Baeti ba khathetseng ba tla ea khanyeng, ha ’Moloki A tla ho busa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mabitla a baeti batho ba khale, a tla buloa joaleka pele;",
+        "Bongata bo robetseng le leoatleng, bo tla phela hape lefats’eng."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re tla kopana lehaeeng la Edene, Re bine lipina tsa thabo,",
+        "Ho tsoa Leboea, Boroa, balopolloa ba tla khumamela Morena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alleluya amen, Alleluya hape, kapele re tla ba teng bohle;",
+        "Lebelang ka ts’epo le nyakalleng ke hona, re roale moqhaka oa khanya."
+      ],
+      "number": 4
+    }
+  ]
+}

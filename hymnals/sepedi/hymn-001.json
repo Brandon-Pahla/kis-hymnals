@@ -1,0 +1,67 @@
+{
+  "number": 1,
+  "language": "nso",
+  "title": " 1 LETŠA PHALAFALA MOLETI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 1 LETŠA PHALAFALA MOLETI",
+        "AH 350 CH 613",
+        "WATCHMAN, BLOW THE GOSPEL TRUMPET"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Letša phalafal'a efangedi,",
+        "Bohle ba kgalemelwe,",
+        "Bohle ba kwago molaetša,",
+        "Ba ikokobetše ba phele;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušulošo",
+        "Letša phalafala moleti,",
+        "Ekwagale kgole,",
+        "Modimo o a go roma,",
+        "Lokolla ba tlemilwego,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E kwagale dithabeng,",
+        "le gona mafelong ohle,",
+        "Lewatle le tumiše,",
+        "Phološo e thabišago;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E letšeng le mebileng,",
+        "moo go lego batimedi,",
+        "Dilo tšohle di lokišitšwe,",
+        "Tate o ba letile;"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leletša ba lego mathateng,",
+        "Ba lakatšago go phološwa,",
+        "Ekwang taletšo ya M'phološi,",
+        "Yeo e rego \"etlang keno go nna\""
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "number": 288,
+  "language": "ve",
+  "title": "288. Vho disa Mpho Ha Yesu.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:346"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Vho disa mpho tsini na nayo dza Yesu,",
+        "U funa ha Mutshidzi hu na phathutshedzo,",
+        "Mulalo na maipfi avhudi zwo thusa,",
+        "U tshi vhala zwothe u wana zwo di naka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wo nekedza Yesu naa, zwifhiwa zwavhudi?",
+        "Wo nekedza mbilu naa, wa isa khae naa?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ho vha hu na mueni we a thetshelesa,",
+        "Hu lavheleswa dzothe mpho dze dza bviswa,",
+        "Musadzi uyo o bvisa nga mbilu yothe,",
+        "A da a ima a si na na tshe a fara."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. A lila nga vhutungu: ’Khotsi wa tshilidzi,",
+        "tanganedza muvhili wanga na mbilu-vho.’",
+        "Yesu ene a mu fhindula ari: ’Mpho",
+        "Ndi khulwane vhukuma u fhira dza vhothe’."
+      ],
+      "number": 4
+    }
+  ]
+}

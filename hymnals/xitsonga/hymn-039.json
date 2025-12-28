@@ -1,0 +1,24 @@
+{
+  "number": 39,
+  "language": "ts",
+  "title": "39. NDZI TSHEMBILE YESU NTSENA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "MY HOPE IS BUILT ON NOTHING LESS",
+        "1. Ndzi Tshembile Yesu Ntsena, Hi Yena Khokholo Ranga,",
+        "A Ndzi Nga Titshembi Mina, Ndzi Tshembile Yena Tsena.",
+        "CHORUS",
+        "Yesu Kreste I Khokholo. Hinkwaswo-nkwaswo Swa Hundza, Hinkwaswo Leswi Swa Hundza.",
+        "2. Ku Te Mphu! Mahlweni Yanga, Ndzi Pfune Hosi Ya Mina,",
+        "Miringo Yi Ndzi Talele, Yi Ndzi Lahlisa Mpfumelo.",
+        "3. Switshembiso Swi Tiyile, Eka Lava N’wi Tshembaka Hambi Ndzi Ri La Tsaneke",
+        "Yesu Ndza Ha N’wi Tshembile.",
+        "4. Mhalamhala Yi Ta Yimba, Ndzi Ta Ya Kona Mina,",
+        "Ndzi Ambele Swo Kwetsima, Ndzi Fana Na Yona Hosi."
+      ],
+      "number": 1
+    }
+  ]
+}

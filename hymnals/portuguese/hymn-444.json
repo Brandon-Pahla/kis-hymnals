@@ -1,0 +1,66 @@
+{
+  "number": 444,
+  "language": "pt",
+  "title": "Face a Face",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Face a Face"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quanto almejo ver a Cristo!",
+        "Ver-Lhe o rosto, que prazer!",
+        "Quando enfim, no lar eterno,",
+        "Poderei pra sempre O ver!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Face a face eu hei de vê-Lo,",
+        "Quando vier em glória e luz;",
+        "Face a face lá na glória",
+        "Hei de ver meu bom Jesus!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muito ao longe já O avisto,",
+        "Vejo como por um véu,",
+        "Mas desejo em breve vê-Lo",
+        "Face a face lá no Céu!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! que encanto estar com Cristo,",
+        "Onde já não há mais dor!",
+        "Livre de qualquer perigo,",
+        "Desfrutando Seu amor!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Face a face, que alegria",
+        "Há de ser viver assim,",
+        "Vendo o rosto tão querido",
+        "De quem morto foi por mim!"
+      ],
+      "number": 6
+    }
+  ]
+}

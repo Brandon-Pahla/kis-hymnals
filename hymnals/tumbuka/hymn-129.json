@@ -1,0 +1,55 @@
+{
+  "number": 129,
+  "language": "tum",
+  "title": " 129 Yesu Mkapangana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 129 Yesu Mkapangana",
+        "JESUS, COME AND BLESS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Yesu mkapangana kuli kose 'mwe,",
+        "Watatu wongana muti muweko,",
+        "Tikumgomezgani kumtamikani,",
+        "Yesu mtitumbike mujirongore."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu mtitumbike pakumsopani,",
+        "Yesu mtitumbike muwe pafupi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Yesu mwawa nase kunyuma kose,",
+        "Tikumukhumbani muwenge nase,",
+        "Mwize imwe mtaski m lusungu winu,",
+        "Mtipulike ise mutitumbike."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Yesu mutovwire timwimbireni,",
+        "Mukuromba kwithu imwe mpulike,",
+        "Chigomezgo chithu m'chikuzge ndimwe,",
+        "Mutipe chitemwa m'ungweru winu."
+      ],
+      "number": 4
+    }
+  ]
+}

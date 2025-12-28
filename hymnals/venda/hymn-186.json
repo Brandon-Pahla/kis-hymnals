@@ -1,0 +1,55 @@
+{
+  "number": 186,
+  "language": "ve",
+  "title": "186. Khotsi Ro tangana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Khotsi ro tangana,",
+        "Fhano nduni yau,",
+        "’da kha rine ri tshi dzhena,",
+        "Ro da phanda hau."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Na dzimbilu dzashu,",
+        "Dzi a u lilela,",
+        "Na mimuya yashu rothe,",
+        "Yo di u lindela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Dzindaela dzau,",
+        "Khotsi kha ri dzi pfe,",
+        "Hu tshi vhalwa fhungo lau,",
+        "Khotsi nga ri li pfe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ri di lugisele,",
+        "rine vhathu vhau,",
+        "Uri ri swike tadulu",
+        "Ri awele tshothe."
+      ],
+      "number": 5
+    }
+  ]
+}

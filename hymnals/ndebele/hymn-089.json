@@ -1,0 +1,37 @@
+{
+  "number": 89,
+  "language": "nd",
+  "title": "89 Isikathi Esimnandi Sokukhuleka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ku mnandi ukukhuleka Ku ngi nqanda osizini;",
+        "Ku ngibikela kuBaba Konke ukuswela kwami;",
+        "Ngezikhathi zenhlupheko Ngi vama ukupholiswa;",
+        "Ngi phunyuk’ ekkulingweni Nges’ khathi sokukhuleka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ku mnandi ukukhuleka Ku zothwala izcelo;",
+        "KuYe iqiniso lAkhe Li busisa olindayo;",
+        "U thi mangi fune Wena Ngi likholwe izwi lAkho,",
+        "KuWe ngi zoletha konke Nge linde ngokukhuleka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ku mnandi ukukhuleka Ingathi ngi ngaduduzwa;",
+        "Ngize ngibone ikhaya Ngi phaphele khona kuYe.",
+        "Kuthu ngumzimba omusha; Ngenyuke ngi thol’ umvuzo.",
+        "Ngi memeze, Ngi memeze; Sala kahle kukhuleka!"
+      ],
+      "number": 3
+    }
+  ]
+}

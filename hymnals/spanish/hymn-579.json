@@ -1,0 +1,65 @@
+{
+  "number": 579,
+  "language": "es",
+  "title": "La fuente veo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### La fuente veo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La fuente veo carmesí,",
+        "el ancho manantial,",
+        "que de Jesús, mi Salvador,",
+        "emana perennal."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "La fuente veo carmesí;",
+        "con su poder me limpia a mí.",
+        "¡Oh, gloria a Dios!, me limpia a mí,",
+        "me limpia, ¡oh sí!, me limpia a mí."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Soy nueva criatura en él;",
+        "me hizo renacer,",
+        "y el hombre viejo nunca más",
+        "podrá prevalecer."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gozoso espero ir con Jesús",
+        "a mi celeste hogar;",
+        "allí, cual fuente, de la cruz",
+        "su amor ha de manar."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anhelo en la luz andar",
+        "sin el mundano error;",
+        "deseo un limpio corazón",
+        "que agrade al Salvador."
+      ],
+      "number": 6
+    }
+  ]
+}

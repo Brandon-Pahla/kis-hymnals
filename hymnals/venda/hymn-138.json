@@ -1,0 +1,64 @@
+{
+  "number": 138,
+  "language": "ve",
+  "title": "138. U di-nekedza tshothe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Vhutshilo hanga ngovhu, ndi kumedza Murena.",
+        "Na zwanda ngezwi, zwi shumise Murena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ntanzwe malofhani a Ngwana (a Ngwana)",
+        "Ndi tambe tshothe tshisimani (tshi tshidzaho)",
+        "Ndi di-nekedza tshothe kha Murena",
+        "U swika vhufheloni"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Milenzhe yanga ngei, I shumele Murena.",
+        "Ipfi langa li imbe thendo dzau Murena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mulomo wanga ngoyu, u nule fhungo lau.",
+        "Na zwothe zwi re zwanga, zwi vhe zwau Murena."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. maduvha othe anga, ndi rende-vho Murena.",
+        "Na mihumbulo yanga, i dededzwe nga Iwe."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Ndi ite lufuno lwau, ndi hangwe zwi re zwanga.",
+        "Mbilu yanga nga i vhe yone khulunoni yau."
+      ],
+      "number": 6
+    }
+  ]
+}

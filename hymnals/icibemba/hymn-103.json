@@ -1,0 +1,35 @@
+{
+  "number": 103,
+  "language": "bem",
+  "title": "103 - MULEFY ALWA LIBILI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "YE MUST BE BORN AGAIN"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Chilolo aishi-le kuli Yesu,",
+        "Kumwipusha ifya lupusukilo,",
+        "Mfumu nayo yamwaswike bwino,",
+        "\"Mufya-lwe libili.\"",
+        "CHORUS:",
+        "\"Mufya-lwe libili. Mufya-lwe libili,",
+        "Ndemweba ine ifya cine cine, mufyalwe libili.\"",
+        "2. Mwe bana baba-ntu kutikeni,",
+        "Mashiwi ayafuma kuli Yesu,",
+        "Mwiya mona yamashiwi nga yafye,",
+        "\"Mufya-lwe libili.\"",
+        "3. Mwe bakwingila-mo mubutusho,",
+        "Nokwimbo lwimbo ulwabapusuka,",
+        "Nga mulefwaya ukusango mweo,",
+        "\"Mufya-lwe libili.\""
+      ],
+      "number": 2
+    }
+  ]
+}

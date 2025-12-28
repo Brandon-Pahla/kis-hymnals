@@ -1,0 +1,38 @@
+{
+  "number": 136,
+  "language": "st",
+  "title": "136 Ke Hopola Golgotha.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Moo a nkisang teng ke tla ea, ke ithule ho mo ts’epa,",
+        "Ke ’ne ke hopole hore O bolailoe Golgotha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesu O nkisa le hohle, Jesu O tla nkisa le tseleng.",
+        "Ke motsoalle Ea ts’epehang, ke hopola Golgotha."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke thabela mohau oa Hae, ke huloe ke rato la Hae,",
+        "’Rato la Hae le monate, ke le halaletsang bohle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tsamaea ka sebete, Jesu a le haufi le ’na,",
+        "Ke ts’epa ho bona Jesu ka tsatsi le leng Golgotha."
+      ],
+      "number": 3
+    }
+  ]
+}

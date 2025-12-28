@@ -1,0 +1,46 @@
+{
+  "number": 3,
+  "language": "st",
+  "title": "3 Fahleho Li Tla Bonana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Fahleho li tla bonana, le Kreste Mopholosi;",
+        "Ke tla thaba ha ke ’mona Jesu Mothusi oa ka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Fahleho li tla bonana ka nqane ho sebaka,",
+        "Fahleho li tla bonana, le Jesu Mopholosi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tla ’mona ho ler’otho, O sa ntsea nts’iretse;",
+        "Tsatsi le letle le ea tla, ke tla ’mona ka lona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tla thabela ho ’mona, ho lla ho tla feela;",
+        "Hohle ho hong ho sa tsejoeng, ho tla bonesoa hohle."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Faheho li tla bonana, le Mopholosi oa ka,",
+        "Re tla bonana le Eena, Jesu ’Moloki oa ka."
+      ],
+      "number": 4
+    }
+  ]
+}

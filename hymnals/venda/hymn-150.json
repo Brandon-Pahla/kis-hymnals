@@ -1,0 +1,64 @@
+{
+  "number": 150,
+  "language": "ve",
+  "title": "150. Vhakani Vha Ngafhi?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:366",
+        "AH:360"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Vha ngafhi vhathu vha no do kana?",
+        "Vha de vha kuvhanganye khulane,",
+        "Nga segere dzi re yone ngoho,",
+        "Vha ite mushumo vha sa neti."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndi nnyi a no do da u kana?",
+        "Na u kuvhanganya one mavhele,",
+        "A de a thuse u vhuisa.",
+        "Mavhele a bvaho tsimuni."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Imani magondoni ni sedze,",
+        "Sedzani thoro dzo salaho.",
+        "Vhukati ha tshene ri sedzese,",
+        "Ni a nange ni dise hayani."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mavhele o no vhibva tsimuni,",
+        "Shango lothe lo lindela khano.",
+        "Vhashumi vho tahela nga Maanda,",
+        "Idani mushumo ndi muhulu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Idani-ha na segere dzothe,",
+        "Ni kuvhanganye mavhele othe.",
+        "Khwathani, Murena a tshi vhuya",
+        "Ni do takala nae hayani."
+      ],
+      "number": 5
+    }
+  ]
+}

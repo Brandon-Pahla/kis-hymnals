@@ -1,0 +1,42 @@
+{
+  "number": 266,
+  "language": "luo",
+  "title": "266 E Pinyno Maber Manyien",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. E pinyno maber manyien,Nitie dala maler;Nosiki ma nyaka chieng`,Kendo mudho onge."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyasaye noyuwe pi wang`wa,Onge tho kata kuyo;Ok gikwan kata ndalo (ndalo),Nikech mudho onge."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Dhorangeye mag lulu,E dalano maler;Yorene mag dhahabu,Kendo mudho onge."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Dhorangeyene ok lor,E dalano maler;Aoch ngima mol kanyo,Kendo mudho onge."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Kanyo ok gidwar wang` chieng`,E dalano maler;To Nyarombo En lerne,Kendo mudho onge."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 61,
+  "language": "ve",
+  "title": "61 Ndi divhe Zwinzhi Nga Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:245",
+        "AH:109"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi divhe zwinzhi nga Yesu, ndi funze vhanwe nga Ene.",
+        "Ndi vhone u tshidza hawe, lufuno nge a mpfela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndi divhe nga Yesu, ndi divhe nga Yesu,",
+        "Ndi vhone u tshidza hawe, lufuno nge a mpfela."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Amba hafhu nga Murena, bula vhuhulwane hawe,",
+        "A mphe na muya wawe, u divhise Yesu wanga."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. di-funze hafhu nga Yesu, sendela nga u rabela,",
+        "Thetshelesa ipfi lawe, u kone u vhudza vhanwe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Amba nga Yesu Murena, nga tshidzulo tsha vhuhosi,",
+        "Vhulunga idzo ndaela, dza u vhuya ha vhakhethwa."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 101,
+  "language": "st",
+  "title": "101 Jesu Oa Bitsa.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu O u bitsa ka bonolo, Hona joale, Hona joale;",
+        "U furallelang lerato la Hae,U nts’u ikela hole?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O...nts’a...bitsa, O...nts’a bitsa.",
+        "Jesu O bitsa ka mohau joale."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu O bitsa ba mokhathaleng, Hona joale;",
+        "Mo nehe thoto ea libe tsohle, U ke ke ua soabisoa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        ".Jesu O ’emetse, tlo ho Eena, O ’emetse, O ’emetse;",
+        "Tlisa libe tsa hao maotong a Hae, Tlo se ke ua lieha."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu O u pheheletse utloa, Utloa joale, utloa joale;",
+        "Ba mamelang pitso ba tla thaba, Ema U ee ho Eena."
+      ],
+      "number": 4
+    }
+  ]
+}

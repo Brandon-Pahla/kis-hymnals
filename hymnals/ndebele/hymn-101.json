@@ -1,0 +1,47 @@
+{
+  "number": 101,
+  "language": "nd",
+  "title": "101 U Yabiza uJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "uJesu u yakubizel’ ekhaya, U yabizwa, wona namhla.",
+        "Kungani u ngasondeli kuYe U qhela, u zilahla."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uyabizwa, Uyabizwa",
+        "UJesu uyakubiza wena namhlanje"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "uJes’ u yabiz’ odiniweyo, U yam’biza, u yam’biza;",
+        "Leth’ umthwalo wakho u phumule, Yen’ akafulatheli."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "uJes’ u lindile, woza manje: U lindile, u lindile.",
+        "Woza u zolahl’ izono zonke Woza u ngalibali."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "uJes’ u yanxusa, woza kuYe: Muzwe namhla, muzwe namhla.",
+        "Abakholwayo ngebizo lAkhe, Bona ba zothokoza."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "number": 363,
+  "language": "fr",
+  "title": "Nous sommes un",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nous sommes un dans un lien d'amour,",
+        "Nous sommes un dans un lien d'amour.",
+        "Notre esprit est uni avec l'Esprit de Dieu,",
+        "Nous sommes un dans un lien d'amour."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Maintenant, chantons tous ensemble;",
+        "Et que son amour se répande.",
+        "Prenons-nous par la main et le monde verra :",
+        "Nous sommes un dans un lien d'amour."
+      ],
+      "number": 2
+    }
+  ]
+}

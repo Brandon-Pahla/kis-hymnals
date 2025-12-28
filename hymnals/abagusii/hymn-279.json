@@ -1,0 +1,35 @@
+{
+  "number": 279,
+  "language": "guz",
+  "title": "279 Tenena ase Chiira Chia Yeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tenena ase chiira chia Yeso,Nigo aratogigw'Ere botambe;Moterer' Omonene bw'emeganda,Tenen' ase chiira chiaye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O-te-ne-ne(Tenen'ase chiirachi tenen'ase chiira)Tenena'ase chiira chi'omoneneo-to-ne-ne(Tenen'ase chiira,Tenen'ase chiira)Tenen' ase chiira chiaye"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tenena ase chiira chia Yeso,Omobe Saitani tagotema;Gochia enchera yaye eria embe,Tenen' ase chiira chiaye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tenena ase chiira chia Yeso,Mogende n' Er' esegi timorosa;Moyeb' emeganda ya Saitan,Tenen' ase chiira chiaye."
+      ],
+      "number": 4
+    }
+  ]
+}

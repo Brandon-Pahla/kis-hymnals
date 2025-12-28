@@ -1,0 +1,35 @@
+{
+  "number": 306,
+  "language": "guz",
+  "title": "306 Motogie 'Nw' Abana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Motogie'inw'aban'abake,'Bwanchani, 'Bwanchani;Motogie'inw'aban'abake,'Bwanchani, 'Bwanchani."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Aka mbuya inw'abana,'Bwanchani, 'Bwanchani;Aka mbuya inw'abana,'Bwanchani, 'Bwanchani."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mwanche, mwanche inw'abana,'Bwanchani, 'Bwanchani;Mwanche, mwanche inw'abana;'Bwanchani, 'Bwanchani."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Bana mobeker'egutwa,'Bwanchani, 'Bwanchani;'Bana mobeker'egutwa,'Bwanchani, 'Bwanchani."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "number": 172,
+  "language": "ve",
+  "title": "172. Zwi do Guma Lini?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Zwi do guma lini, U do swika lini naa?",
+        "Mbilu yo netiswa nga u lenga hau-vho.",
+        "Naa li do swika lini duvha la madzanga?",
+        "Vhurena hau vhu tshi vhonala kha vhau."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Zwi do guma lini naa? U do vhuya lini?",
+        "Vha tendaho vho vhuya vha fhungudzea-vho.",
+        "Vhunzhi ha vhathu vho no di wela zwivhini,",
+        "A vha gathi vha funaho u swika hau."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. O vusa vho lalaho, Ruma ipfi, vusa.",
+        "Vhakhethwa kha vha ri: ’Murena o sendela!’",
+        "Kha dzi duge dzimbone, Ri ime ro khwatha.",
+        "Vhothe vha takalele dakalo lihulu."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 120,
+  "language": "fr",
+  "title": "Souffle du Dieu vivant",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Souffle du Dieu vivant,",
+        "Anime tout en moi.",
+        "Que ton amour me rende aimant",
+        "Servant ainsi que toi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Souffle du Dieu vivant,",
+        "Viens purifier ma foi.",
+        "Que ce soit ton vouloir puissant",
+        "Qui s’accomplisse en moi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Souffle du Dieu vivant,",
+        "Mets ton feu dans mon cœur ;",
+        "Que tout en moi soit rayonnant",
+        "De ton éclat, Seigneur."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Souffle du Dieu vivant,",
+        "Écarte enfin la mort ;",
+        "Que pour jamais, dès maintenant,",
+        "J’appartienne au Dieu fort."
+      ],
+      "number": 4
+    }
+  ]
+}

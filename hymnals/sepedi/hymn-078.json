@@ -1,0 +1,61 @@
+{
+  "number": 78,
+  "language": "nso",
+  "title": " 78 NYAKANG BA LAHLEGI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 78 NYAKANG BA LAHLEGI",
+        "CS 532",
+        "SEEKING THE LOST"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyakang ba lahlegi ka bonolo,",
+        "Ba hlahlathang kgole dithabeng,",
+        "Ba feng mantšu a phedišago,",
+        "A re 'tlang gae lehono le';"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "E yang kgole, kua Dithabeng tšohle..",
+        "(E yang kgole.. kwa.. dithabeng.. tšohle).",
+        "Le ba bušeng..",
+        "(Le ba buseng.. Ba.. balahlegilego..)",
+        "Mohlapeng wa Morekolodi wa ka..",
+        "(Mohlapeng wa Morekolodi wa ka..)",
+        "Jeso kwana.. ya badiradibe",
+        "(Jeso kwana.. ya.. badiradibe..)"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyakang ba lahlegi ka bonolo.",
+        "Ba pelo tše tletšeng bohloko,",
+        "Ba gogeleng tseleng ya poloko,",
+        "Ba šupeng tsela ya bophelo;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke ya gona ka Jeso ya mpitšang,",
+        "Ke mo latela mehla yohle,",
+        "Ke hlokomele ba ba gobetšeng,",
+        "Ke ba tliše go Jeso tsela;"
+      ],
+      "number": 5
+    }
+  ]
+}

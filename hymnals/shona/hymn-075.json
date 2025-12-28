@@ -1,0 +1,45 @@
+{
+  "number": 75,
+  "language": "sn",
+  "title": "75 Vapinzenyi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Inzwa inzwi reMufudzi",
+        "Kunze kugwenga redima",
+        "Arikudaidza hwai",
+        "Dzakarasika’ko kure"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pinzanyi, Pinzanyi, Dzese dzarasika pinzanyi",
+        "Pinzanyi, Pinzanyi, Unza dzese kuna Jesu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyani anobatsira",
+        "M’fudzi mukuru wemutsa?",
+        "Kuti aone dzaraswa",
+        "Nekudzipinza mudanga"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inzwanyi dziri kuchema",
+        "Kugomo guru kugwenga",
+        "Tenzi anoti kunesu",
+        "Endanyi kutswaka dzangu"
+      ],
+      "number": 4
+    }
+  ]
+}

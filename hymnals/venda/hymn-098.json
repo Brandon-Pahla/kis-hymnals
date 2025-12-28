@@ -1,0 +1,54 @@
+{
+  "number": 98,
+  "language": "ve",
+  "title": "98 Kha Ndi Ende Na Mutshidzi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:124"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.Kha ndi ende na Mutshidzi, Ndi ndothe a thi koni",
+        "Ndi Mu pfe e tsini na nne, A tshi n-kuvhatedza."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Muya wanga si ofhe, Litsha a range phanda;",
+        "Naho a tshi nnyisa hothe, ndi do di mu tevhela."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kha ndi ende na Mutshidzi, Lutendo lu tshi dzima,",
+        "U do amba a phumudzo, A sa konwi nga munwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kha ndi ende na Mutshidzi, kha u tshimbila hanga;",
+        "Kha madumbu na kha duvha, na vhukati ha mipfa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Kha ndi ende na Mutshidzi, A linde ndila yanga;",
+        "Ndi vhuye ndi swike Yordan, Na fhala seli hawo."
+      ],
+      "number": 5
+    }
+  ]
+}

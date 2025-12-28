@@ -1,0 +1,68 @@
+{
+  "number": 160,
+  "language": "tum",
+  "title": " 160 Ndisungikire Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 160 Ndisungikire Yesu",
+        "KEPT FOR JESUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ndisungikire Yesu!",
+        "Mwa nkhongono zake,",
+        "Charu ntha chingajanda",
+        "kuti ndimrondezge."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndisungikire Yesu!",
+        "Fumu nkhumrombani,",
+        "Ine mwe ndiri waka,",
+        "waka Imwe ndimwe vyose."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ndisungikire Yesu!",
+        "Ndimutewetere,",
+        "Ndichite khumbo lake",
+        "la Yesu Mponoski."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Ndisungikire Yesu!",
+        "Charu ndichileke,",
+        "Ndiwenge wakuzika",
+        "Mutuwa mu mtima."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Ndisungikire Yesu!",
+        "Nadi ndiwe wake,",
+        "Ndiwe wa lyo pera",
+        "nyengo yiri yose."
+      ],
+      "number": 5
+    }
+  ]
+}

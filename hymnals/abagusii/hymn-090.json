@@ -1,0 +1,35 @@
+{
+  "number": 90,
+  "language": "guz",
+  "title": "90 igw' Omogano Bw'ogokumia",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Igw' omogano bw' ogokumia,Twamenyet' abasiruYes' agaika n'obonene,Gatorusi' egesibo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ng' otorusiri' omosunte?(Nere Yeso obambetwe)'Nki akorete? (Agankwera)Ng'ai akare? 'goro gotosabera(Egene Igoro gotosabera.)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Taiyo orenge gototoria,nonya namalaika'Kabambwa agachayw' akangwa,'Yomo ase Nyasae."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mbwerue ase Omotori'oyo?Mbwanche bwekany 'as'are?Naye noror' obuya bwaye,Nagotori' ere bono."
+      ],
+      "number": 4
+    }
+  ]
+}

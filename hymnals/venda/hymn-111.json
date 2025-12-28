@@ -1,0 +1,62 @@
+{
+  "number": 111,
+  "language": "ve",
+  "title": "111. A Huna munwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi nnyi khonani i ngaho Yesu? A huna! A huna!",
+        "A nga fhodzaho malwadze ashu? A huna! A huna!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U a divha mathupho ashu, Nga Ene a do fheliswa,",
+        "Ndi nnyi khonani i ngaho Yesu, A huna! A huna!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. A huna munwe a re Mukhethwa,A huna! A huna!",
+        "E mu dzia u di-tukufhadza, A huna! A huna!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ha koni u vha kule na rine, ha koni, ha funi!",
+        "Na vhusiku u tsini na rine, u tsini na rine."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. No vhuya na pfa a tshi ni hana? Ho ngo ni landula!",
+        "Ha ngo vhuya a hana mutshinyi, haho na muthihi!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Naa hu na mpho i fhiraho Yesu? A huna! A huna!",
+        "U do ri hana makoleni naa? Ha nga do ri hana!"
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "number": 286,
+  "language": "tum",
+  "title": " 286 Munditole",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 286 Munditole",
+        "BEAR ME ON"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nkhudoka kuwona zuwa Warunji wamnjira",
+        "Ku Ziyoni na chivwalo chituwa mkukondwa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "MunditoLe m'nditoLe ku Ziyoni",
+        "Ku musumba uweme uwo, warunji amkhaLa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ndampulika Haleluya wa wakuwombokwa,",
+        "Nane pamoza na iwo tamkwimba lusumu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mulenje utuwa uwo m'khristu waku'doka,",
+        "Wakupuputa masozi mkukondwa kwa Fumu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Nkhukhumba Yerusalemu chikaya cha Fumu,",
+        "Nkhukhumba nkharye vipasi vyakupa umoyo."
+      ],
+      "number": 5
+    }
+  ]
+}

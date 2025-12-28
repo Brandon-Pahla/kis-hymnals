@@ -1,0 +1,43 @@
+{
+  "number": 54,
+  "language": "tw",
+  "title": "Hann Pa, Nyame Dom a",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hann pa, Nyame dom a",
+        "Wohwɛ Agya n' anim;",
+        "Daa 'nuonyam kata Wo ho;",
+        "Kronkronni a wɔahy'ra W',",
+        "Yɛn Agyenkwa Kristo,",
+        "W'ahoyi yɛ anigye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Adekyee retwam komm,",
+        "Yehu anwumm're hann,",
+        "B're a yɛreto yɛn dwom;",
+        "Agyā a Ne tumi so,",
+        "Ne Bā a Woyɛɛ 'nipa,",
+        "Ne Honhom Kronkron dɛɛfon'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wofata sɛ Wogye",
+        "Nnwom kronkron nkamfo ny'naa,",
+        "O, Nyame Ba, nkwa Mafo;",
+        "ɔs'ros'roni, Wo na",
+        "Wiase hyɛ W 'anuonyam,",
+        "Wɔbɛma Wo so daa daa."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 545,
+  "language": "pt",
+  "title": "Vem o Grande Dia",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Vem o Grande Dia"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem o grande dia, o grande dia,",
+        "Vem o grande dia, sem tardar,",
+        "Quando os ímpios e santos separados hão de ser;",
+        "'Stais vós prontos para o dia final?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "'Stais vós prontos? 'Stais vós prontos?",
+        "'Stais vós prontos para o dia final?",
+        "'Stais vós prontos? 'Stais vós prontos",
+        "Para o dia final?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem o alegre dia, o alegre dia,",
+        "Este alegre dia perto está,",
+        "Mas alegre será somente ao que ama o Salvador,",
+        "'Stais vós prontos para o dia final?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Um glorioso dia, glorioso dia,",
+        "Um glorioso dia há de ser,",
+        "Mas a glória virá somente ao que ama o Salvador, '",
+        "Stais vós prontos para o dia final?"
+      ],
+      "number": 5
+    }
+  ]
+}

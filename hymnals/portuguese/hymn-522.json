@@ -1,0 +1,48 @@
+{
+  "number": 522,
+  "language": "pt",
+  "title": "Pelo Pão Nós Oramos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Pelo Pão Nós Oramos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pelo pão nós oramos, ó Senhor.",
+        "Pelo pão nós oramos, ó Senhor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "E contritos aqui meditamos em Teu amor.",
+        "Senhor, ouve a nossa voz!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pelo vinho oramos, ó Senhor.",
+        "Pelo vinho oramos, ó Senhor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E agora louvamos-Te, ó Senhor.",
+        "E agora louvamos-Te, ó Senhor."
+      ],
+      "number": 5
+    }
+  ]
+}

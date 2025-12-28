@@ -1,0 +1,45 @@
+{
+  "number": 236,
+  "language": "es",
+  "title": "A Jesús entrega todo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A Jesús entrega todo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Has corrido tras un arco iris,",
+        "y ahora muy cansado estás.",
+        "Toma todos esos sueños rotos,",
+        "y a los pies de Cristo ponlos ya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "A Jesús, a Jesús, a Jesús entrega todo:",
+        "sueños rotos y heridas del corazón.",
+        "A Jesús, a Jesús, a Jesús entrega todo;",
+        "y la tristeza en gozo cambiará."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Él no prometió sol todos los días;",
+        "sé que a veces viene la tormenta.",
+        "Pero nos ofrece un corazón nuevo,",
+        "que cante aun en medio del dolor."
+      ],
+      "number": 4
+    }
+  ]
+}

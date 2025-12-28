@@ -1,0 +1,60 @@
+{
+  "number": 140,
+  "language": "tum",
+  "title": " 140 Mazgu Gha Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 140 Mazgu Gha Yesu",
+        "THE VOICE OF JESUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mazgu gha Yesu ghakati,",
+        "\"Iza upumule,",
+        "Gona, wakuvuka iwe,",
+        "nyekezga pa ine.\"",
+        "Nkhiza kwa iyo umo",
+        "ndiliri wakuvuka,",
+        "Mwa iyo nkhasanga",
+        "mtende wandisanguluska."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mazgu gha Yesu ghakati,",
+        "'Nkhupereka waka,",
+        "Mai gna umoyo umwe,",
+        "pokelera umwe.",
+        "NKhiza kwa Yesu na",
+        "kumwa mu mronga wa moyo,",
+        "Nyota yikamala sono",
+        "nkhukhala mwa iyo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mazgu gha Yesu ghakati,",
+        "\"Ndine nyali m'charu,",
+        "Lawiska kwa ine",
+        "kuti kukungwerukire.",
+        "Nkhalawiska Yesu na",
+        "kusangako ungweru,",
+        "Ndipo mu ungwe uwo",
+        "nditi ndendemo swi!"
+      ],
+      "number": 4
+    }
+  ]
+}

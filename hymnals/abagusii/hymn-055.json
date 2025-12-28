@@ -1,0 +1,28 @@
+{
+  "number": 55,
+  "language": "guz",
+  "title": "55 Nter' Okobua Kwa Nyasae",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nter' okobua kwa Nyasae,Gwatong' ebitunwa,Kwaara chinyancha chionsi,kwaagacha Igoro;Bong'aini bwaye bwachika,Risase kobara;Motienyi, ching'enang'eni,nkoigwera bire."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nter' obuya bw'Omonene,Bwaret' endagera;'Kabitonga nering'ana,kabikor' ebiya,'Monen' a'makumia ao,Aichir' ense yonsi!Nonya nas'ense ngotacha,N'erioba igoro!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Mote tori ense aa,otagokobaka;'Mare aichora n'omwaga,Gokwayachikire;Bionsi bire moyoobo nay'okobirenda;Ense teri torebise,Nyasae otarore."
+      ],
+      "number": 3
+    }
+  ]
+}

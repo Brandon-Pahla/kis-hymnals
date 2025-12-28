@@ -1,0 +1,46 @@
+{
+  "number": 297,
+  "language": "tn",
+  "title": "297 Go No Go Le Mongwe Yo Na A Ntshwela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Go Ne Go Le Mongwe O Na Ntshwela,",
+        "Gore sethobogwa ke tshele,",
+        "Mme tsela ya mokgoro O na’ tsamaya,",
+        "Go itshwarela ’be me tsotlhe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O di kokothetse mokgorong wa Gagwe,",
+        "O ratile go di belega",
+        "Ka tlalelo Jeso O ile mokgorong!",
+        "Mme A ya teng le dibe tsa me."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Bonolo, Lorato Le Pelonomi",
+        "F’A ntlosa mabebe mo pelong,",
+        "Mme ’’ga go tshekiso’’ k’itse ke golotswe,",
+        "Ka ’be tsa me tsotlhe ’bapotswe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Tla Kampa Mmoloki Mme Ke Sa Tloge",
+        "Ke tla eta boitumelong,",
+        "Ka kopelo ’pounameng, kopelo pelong",
+        "Gore ’be tsa me di tlositswe."
+      ],
+      "number": 3
+    }
+  ]
+}

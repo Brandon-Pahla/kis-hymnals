@@ -1,0 +1,49 @@
+{
+  "number": 365,
+  "language": "guz",
+  "title": "365 Yeso Omonene Nyigwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yeso Omonene nyigwa,'Go ndasir'ontankonyeti;Ong'obuya bwa'Obonge,Naboigo ng'ira."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nche n'omonyen'ebibe,'Manyinga'o nyegenete;Kondach'as'ore, tokwanga,Naboigo ng'ira."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Okoegwa kw'ogokonyeka,Komanya nindengererie;Ndich' as'ore rebisanyi,Naboigo ng'ira."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. As'origetie gontoma,Ntoma nainche nindegende;Ime na isiko n'obuya,Naboigo ng'ira."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. As'origetie ong'e buya,Ng'a n'obwanchani oboyia;Ime na Isiko boichore,Naboigo ng'ira."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "6. Erio esegi ekoera,Nyuma okobua gokoera;Nao abwo ndakorere,Naboigo ng'ira."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "number": 601,
+  "language": "tw",
+  "title": "Sion Fasu So Awɛmfo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sion fasu so awɛmfo,",
+        "Anadwo dɔn bɛn mu ni?",
+        "So anɔpa ns'romma repue?",
+        "Ade bɛkyɛ yɛn seesei?",
+        "Mō adehu mu,",
+        "Hann bi hy'rɛn wɔ mu anaa?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, monkɔ so nka nkyerɛ yɛn",
+        "So yɛadu 'kwantun' awiei?",
+        "So yɛrebɛn fie hɔ anaa?",
+        "Yetumi hu 'sase no? Yehu ampa",
+        "Sɛ ahenni no abɛn?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hann repue na ade rekye,",
+        "Momma yɛnteɛteɛm' kɛse;",
+        "Yehu 'dekyee ns'romma repue",
+        "Hyɛnhyɛn wɔ ewim nohoa!",
+        "Munnė 'h'rusi;",
+        "Na mo nkwagye no abɛn."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛahu 'kwanky'rɛdč a ɛky'rɛ sɛ",
+        "Ampa yɛabɛn 'sase no;",
+        "Anim ara na yɛrekɔ,",
+        "Ͻrenkyɛ yebedu fie; Momma mo nne",
+        "So nto 'h'rusi dwom kronkron."
+      ],
+      "number": 4
+    }
+  ]
+}

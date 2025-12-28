@@ -1,0 +1,56 @@
+{
+  "number": 542,
+  "language": "pt",
+  "title": "De Jesus a Doce Voz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### De Jesus a Doce Voz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De Jesus, a doce voz,",
+        "Ouvi, eu, pecador.",
+        "Aceitei, de coração,",
+        "Jesus, meu Salvador."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Meu pecado, sim,",
+        "Já na cruz pagou,",
+        "E por graça sem igual,",
+        "Jesus me resgatou."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Retidão em mim não há,",
+        "Por graça salvo sou.",
+        "A Jesus sou devedor,",
+        "Pois já me perdoou."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por Jesus eu gozo paz,",
+        "E tenho Seu favor.",
+        "Nada aqui me faltará,",
+        "Se estou junto ao Senhor."
+      ],
+      "number": 5
+    }
+  ]
+}

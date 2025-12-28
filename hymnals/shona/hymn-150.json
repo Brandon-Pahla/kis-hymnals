@@ -1,0 +1,55 @@
+{
+  "number": 150,
+  "language": "sn",
+  "title": "150 Waripi Wakohwi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Vacheki varipi vanocheka",
+        "Misumbu inochekwa kuminda",
+        "Nemajeko basa ngariitwe",
+        "Usamire dakara tapedza"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Varipi vacheki, Ndiyani o’ya anotibatsira",
+        "Ndiani achatibatsira, kuunganidza iyi mwanda"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Endanyi munzira mundotsvaka",
+        "Mbeu ingakure mune zvtse",
+        "Tswakai kwese musingasiyi",
+        "Unganidzai vese kumusha"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Minda yaku ibva kwese kwese",
+        "Pasi rakamirira kuchekwa",
+        "Vacheki vashoma, basa iguru",
+        "Tikanonoka tinozoshaya"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vana vevanhu unzanyi majeko",
+        "Muvunganidze mbewu dzaTedzi",
+        "Batai basa Tenzi auye",
+        "Mozopiwa rufaro kuenga"
+      ],
+      "number": 5
+    }
+  ]
+}

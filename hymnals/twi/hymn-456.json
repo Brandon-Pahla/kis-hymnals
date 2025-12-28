@@ -1,0 +1,63 @@
+{
+  "number": 456,
+  "language": "tw",
+  "title": "Mewɔ Adamfo Pa Bi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mewɔ Adamfo pa bi,",
+        "ɔsom me bo bebree;",
+        "ɔwɔ ayamhyehye ma me,",
+        "ɔdɔ me nokwarem';",
+        "ɔnka me hō a mentumi ntra,",
+        "Me kɔn dɔ sɛ ɔbɛn me,",
+        "Enti me ne No tra bom,",
+        "Me ne me W'ra."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻtɔ dā a na mabotow,",
+        "Onim sɛ meyɛ mm'rɛw,",
+        "Mede dɛw hwehwɛ Ne hɔ mmoa,",
+        "Fisɛ ɔpe no saa;",
+        "ɔde me fa hann kwan no so,",
+        "Owia ntremu ase,",
+        "Enti me ne No tra bom,",
+        "Me ne me W'ra."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Meka m'awerɛhow ne",
+        "M'anigye ny'naa ky'rɛ No,",
+        "Meka nea ɛsɔ m'ani ne,",
+        "'Bufuwsɛm ny'naa kyrɛ No;",
+        "ɔky'rɛ me nea 'sɛ sɛ meyɛ,",
+        "ɔma me nkuranhyɛ,",
+        "Enti yedi nkɔmmɔ bom,",
+        "Me ne me W'ra."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Onim sɛ mepere sɛ",
+        "Mɛgye kra brɛfo bi,",
+        "ɔhyɛ me sɛ menkɔ nkɔka",
+        "ɔdɔ nsɛm no mma No,",
+        "Na menka N'awanwa dɔ ne",
+        "Nea 'nti Owui no nky'rɛ;",
+        "Enti yɛyɛ 'dwuma bom,",
+        "Me ne me W'ra."
+      ],
+      "number": 4
+    }
+  ]
+}

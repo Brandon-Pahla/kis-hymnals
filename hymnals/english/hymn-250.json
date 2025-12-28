@@ -1,0 +1,44 @@
+{
+  "number": 250,
+  "language": "en",
+  "title": "250 Yield  Not  To  Temptation.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yield not to temptation, For yielding is sin,",
+        "Each victory will help you, Some other to win.",
+        "Fight manfully onward, Dark passions subdue,",
+        "Look ever to Jesus, He’ll carry you through."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ask the Saviour to help you, Comfort, strengthen, and keep you;",
+        "He is willing to aid you, He will carry you through."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Shun evil companions, Bad language disdain,",
+        "God’s name hold in reverence, Nor take it in vain.",
+        "Be thoughtful and earnest, Kind-hearted and true,",
+        "Look ever to Jesus, He’ll carry you through."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "To him that o’er cometh, God giveth a crown,",
+        "Thro’ faith we shall conquer, Tho’ often cast down",
+        "He who is our Saviour, Our strength will renew,",
+        "Look ever to Jesus, He’ll carry you through."
+      ],
+      "number": 3
+    }
+  ]
+}

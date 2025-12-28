@@ -1,0 +1,24 @@
+{
+  "number": 268,
+  "language": "ts",
+  "title": "268. HOSI, XIDZEDZE XI FIKILE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "MASTER, THE TEMPEST IS RAGING!",
+        "1. Hosi Xidzedze Xi Fikile, Mapapa Ya Dzwihele, MAgandlati Ya Khapakhapa, A Nga Kona Mupfuni;",
+        "Ha Fa A Wu Na Mhaka Ke, Leswi U Ngo Tlela? Hi Ahlameriwe Hi Sirha, Lwandle Ri Hlundzukile.",
+        "CHORUS",
+        "Magandlati, Mheho, Yingisani, Rhulani, Ku Rhula, Na Lwandle Leri Hlundzukeke, Madimona, Vanhu Na Hinkwaswo; Byatso Byi nge Mitiwi Hi Mati, Na N’wini Wa Wona Ntumbuluko,",
+        "Swi Ta Yingisa Xileriso, Swi Rhula Swi Ku Ntsee! Swi Ta Yingisa Rito Rakwe, Swi Miyela.",
+        "2. Hosi Sweswi Ndzi Le Gomen, Nhlomulo Wa Ndzi Tika, Ndzi Karhatekile Mbilwini, Ndzi pfune Ndza Kombela;",
+        "Swidyoho Na Wo Nhlomulo, Swa Ndzi Tshikelela, Ndza Lova Wena Hosi Yanga, Hatlisa U Ndzi Pfuna.",
+        "3. Hosi U Hetile Nchavo, Na Dyambu Ri Humile,",
+        "Na Lwandle Ri Tele Malwandla, Mfumo Wa Yesu Tana; Muponisi U Nga Ndzi Siyi, U Tshama Ka Mina,",
+        "Ku Kondza Ndzi Fika Ntsungeni, Ribuweni Ra Ntsako."
+      ],
+      "number": 1
+    }
+  ]
+}

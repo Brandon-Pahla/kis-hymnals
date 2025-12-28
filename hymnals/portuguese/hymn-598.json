@@ -1,0 +1,24 @@
+{
+  "number": 598,
+  "language": "pt",
+  "title": "Vem, Espírito Santo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Vem, Espírito Santo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem Espírito Santo,",
+        "Vem transforma meu ser.",
+        "Dá-me Tua paz, a luz do Teu bem,",
+        "É o que eu te peço, Amém."
+      ],
+      "number": 2
+    }
+  ]
+}

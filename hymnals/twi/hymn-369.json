@@ -1,0 +1,45 @@
+{
+  "number": 369,
+  "language": "tw",
+  "title": "Nnɔbae No Bɛba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yegu aba 'nɔpa, yegu 'yamye aba,",
+        "Yegu no awiab're ne 'nwumm're bosum;",
+        "Yɛtwɛn otwa ne nnɔbae anoboaboa b're,",
+        "Yɛde ah'rusi de nnɔbae no bɛba."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nnɔbae no bɛba, nnɔbae no bɛba,",
+        "Yɛde ah'rusi de nnɔbae no bɛba,",
+        "Nnɔbae no bɛba, nnɔbae no bɛba,",
+        "Yɛde ah'rusi de nnɔbae no bɛba."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yegu no 'wia ketee, gu no sunsuma mu,",
+        "Nɔsuro mununkum anaa awɔb're;",
+        "Ͻrenkyɛ na twab're no mu nnwuma asa",
+        "Yɛde ah'rusi de nnɔbae no bɛba."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛde nusu regu ama Owura no,",
+        "Hwammɔdi yɛn 'kwaaba B'rč a yɛn su to atwa",
+        "Yɛde ah'rusi de nnɔbae no bɛba."
+      ],
+      "number": 3
+    }
+  ]
+}

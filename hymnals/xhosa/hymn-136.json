@@ -1,0 +1,38 @@
+{
+  "number": 136,
+  "language": "xh",
+  "title": "136 Ndikhumbul’ i-Kalvari",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndoy’ apho andisa khona, Kuba ndimthembile Yena,",
+        "Kuba kwaye kungenxa yam, Ukuze af’ e-Kalvari."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Umkhokeli wam ngu-Yesu, Ebusuku nasemini,",
+        "Ungu Mhlobo wam wenene; ndikhumbula i-Kalvari."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unencas’ umthetho waKhe, Uya khokela kakuhle,",
+        "Imnand’ intando yaKhe kum, Ingcwaliswe e-Kalvari."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akukho kuthandabuza, Ndihamba ndino-Kristu wam,",
+        "Ndithemba ndohle ndimbone u-Yesu wase-Kalvari."
+      ],
+      "number": 3
+    }
+  ]
+}

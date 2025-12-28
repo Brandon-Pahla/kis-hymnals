@@ -1,0 +1,67 @@
+{
+  "number": 313,
+  "language": "tw",
+  "title": "Sɛnea Mete'i",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnea mete'i minni hwee ka,",
+        "Sɛ me nti Wuhwiee Wo mogya;",
+        "Na Worefrɛ me sɛ memmra,",
+        "Nyame 'Guammaa maba (maba)."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnea mete'i mintumi ntwɛn,",
+        "Sɛ mɛpopa bɔne biako;",
+        "Wo mogya na ɛh'ro bɔne,",
+        "Nyame 'Guammaa maba (maba)."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnea mete'i mayɛ pasaa,",
+        "Akyinnye ne ap'rep're mu;",
+        "Suro ne ko wɔ baabiara,",
+        "Nyame 'Guammaa maba (maba)."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnea mete'i ofuraeni;",
+        "Adehu ne adwenemtew.",
+        "Nea 'hia nyinaa, minya Wo mu,",
+        "Nyame 'Guammaa maba (maba)."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnea mete'i, Wobɛgye me,",
+        "De af'ri me, atew me ho;",
+        "'Fisɛ megye Wo bɔhyɛ di",
+        "Nyame 'Guammaa maba (maba)."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnea mete'i Wo dɔ a minnim,",
+        "Abubu 'kwanside ny'naa mu;",
+        "Afei meyɛ Wo nko de daa,",
+        "Nyame 'Guammaa maba (maba)."
+      ],
+      "number": 6
+    }
+  ]
+}

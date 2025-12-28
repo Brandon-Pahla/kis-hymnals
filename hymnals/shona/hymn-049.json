@@ -1,0 +1,45 @@
+{
+  "number": 49,
+  "language": "sn",
+  "title": "49 Kufunga Kamwezve",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kufunga kamwezve,",
+        "Kuchiri kuuya,",
+        "Ndiri pedyo kudenga’ro,",
+        "Kupinda kare’ko"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiri pedyo, Ndiri pedyo,",
+        "Ndiri pedyo kudenga’ro,",
+        "Kupinda kare’ko"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kumba kwaBaba,",
+        "Kune imba zhinji,",
+        "Nekune icho chigaro",
+        "ChaJesu M’ponesi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pedyo kuenda’po, Pedyo kuzorora,",
+        "Pedyo kusiya dambudzo,",
+        "Pedyo pekufara"
+      ],
+      "number": 4
+    }
+  ]
+}

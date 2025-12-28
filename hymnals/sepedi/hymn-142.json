@@ -1,0 +1,46 @@
+{
+  "number": 142,
+  "language": "nso",
+  "title": " 142  GO MONATE BJANG",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 142  GO MONATE BJANG",
+        "CH 458 AH 382",
+        "HOW SWEET"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le monate bjang tšatši le,",
+        "Leo le halalelago,",
+        "Ge re lahla tša lefase,",
+        "Re lebelela Modimo;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A mantšu a Khutšo,",
+        "Ao a tšwago go Yena,",
+        "A tsošago ya iponago molato,",
+        "Go ya legodimong;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mme ge go tloša dibe,",
+        "Go re paella,",
+        "Yena yo a bonago tša pelong,",
+        "O romela mogau;"
+      ],
+      "number": 4
+    }
+  ]
+}

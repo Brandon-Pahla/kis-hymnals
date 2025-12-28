@@ -1,0 +1,47 @@
+{
+  "number": 380,
+  "language": "tw",
+  "title": "A Kwaaba, 'Home Da Pa!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Akwaaba, 'home da pa!",
+        "Nhyira nka wo mm're kronkron!",
+        "Yɛbɛtwere Nea Onim",
+        "Yɛn mmerɛwyɛ ne sintɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akwaaba, Eden da pa!",
+        "'Hotefo home kronkron!",
+        "Ma wo mm're mmra yɛn nkyɛn bio,",
+        "Sɛ anɔpa hann fɛfɛ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akwaaba, dá a 'W'rade 'hy'ra,",
+        "Brɛ ne dadwen to betwa.",
+        "Da a N'asɛm de 'si hɔ,",
+        "Ayeyi ne mpaebɔ da."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akwaaba, da a 'Gyenkwan'",
+        "De yɛɛ yɛn trenee nhwɛso.",
+        "Da a Nyame se yɛnkae;",
+        "Nna mu dá a yɛhy'ra Ne din."
+      ],
+      "number": 4
+    }
+  ]
+}

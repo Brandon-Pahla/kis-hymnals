@@ -1,0 +1,47 @@
+{
+  "number": 84,
+  "language": "nd",
+  "title": "84 Dumisani uNkulunkulu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dumisan’ uNkulunkulu,",
+        "Osiph’ iz’busiso zonke!",
+        "Nani mabandl’ aphezulu,",
+        "Dumisani Yena nonke."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si ngabantu beNkosi, beNkosi, beNkosi,",
+        "Si ngabantu beNkosi, Si culel’ iNkosi.",
+        "Jesu nguMongameli, Si lindele Msindisi,",
+        "Sohlabela ngohambo, NguY’ uMhlabelisi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wozani si y’ekhaya, Ekhaya, ekhaya,",
+        "Wozani si y’ekhaya, khubo le phesheya.",
+        "Wozani si y’ekhaya, Si bonane laphaya,",
+        "Jesu si yahlabela, Seku duz’ ekhaya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngokuthaba sovuma, Sovuma, sovuma,",
+        "Ngokuthaba sovuma, ‘Sihambi khuluma.",
+        "Ba muhlophe nabansundu, Bonke be,",
+        "nengoma; Behlabela noJesu, eJerusalema."
+      ],
+      "number": 4
+    }
+  ]
+}

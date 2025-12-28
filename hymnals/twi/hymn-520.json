@@ -1,0 +1,57 @@
+{
+  "number": 520,
+  "language": "tw",
+  "title": "M'Aw'rade Yesu Yɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "M'Aw'rade Yesu Yɛ 'Gyenkwa nwanwani,",
+        "ɔyɛ 'Gyenkwa nwanwani mam'",
+        "ɔde me kra sie botan no tok'ru mu",
+        "Nea mihu 'hom'ka nsubɔnten."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "ɔde me kra sie botan a ɛkata",
+        "'Sase wesee so no tok'rum,",
+        "ɔde me nkwa sie Ne dɔ bun' no ase.",
+        "De Ne nsa kata me so hɔ.",
+        "De Ne nsa kata me so hɔ."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M'Aw'rade Yesu yɛ 'Gyenkwa nwanwani,",
+        "Oyi m'adesoa nyinaa hɔ;",
+        "Okura me mu na merenhinhim da,",
+        "ɔma me 'hoɔden sɛ 'dekyee."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔma nhyira bu so bere biara mu,",
+        "Na b'rč a manya Ne s'ro mayɛ",
+        "Meto dwom 'nigyem sɛ 'nuonyam nka Nyame,",
+        "Gyefo a manya No yi nti."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B'rč a mifura Ne hann, na dɛw mu mef'ro",
+        "Kohyia No mununkum mu no,",
+        "Me ne mpempem bɛbo 'se Ne nkwagye pa",
+        "Ne Ne dɔ nwanwaso no ho."
+      ],
+      "number": 4
+    }
+  ]
+}

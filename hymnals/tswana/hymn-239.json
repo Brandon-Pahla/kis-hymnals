@@ -1,0 +1,63 @@
+{
+  "number": 239,
+  "language": "tn",
+  "title": "239 A O Lapile",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A O Lapile Tshotlegong, A O Tlalelong? \"Tla Go Nna,\"",
+        "A re \"O tle mo Boikhutsong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A O Na Le Tshupo Go Nkgogela Go Ene?",
+        "Diatleng, naong tsa ’Gwe, go na le dintho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A O Na Le Serwalo Se Rwalang Ke Kgosi?",
+        "E, serwalo sa tlhomamo, Sa mitlwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Ke Mmona, Ke Latela, Fano, Ke Na Le’ng?",
+        "Ke bofutsana, tiro le Selelo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Ke Mo Ngaparela O Na Le’ng Bofelong?",
+        "Bofutsaneng le tirong, ke Fetile."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Ke Re A Nkamogele, A O Tla Re Nnyaa?",
+        "Go ka feta ’godimo le Lefatshe."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Ke Dira Tsotlhe, A O Tla Ntshegofatsa?",
+        "Baitshepi le babolawa, Ba re, E."
+      ],
+      "number": 7
+    }
+  ]
+}

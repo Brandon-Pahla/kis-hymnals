@@ -1,0 +1,41 @@
+{
+  "number": 143,
+  "language": "ny",
+  "title": "143 - Mbuye Mtipititse",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LORD DISMISS US"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mbuye, mtipititse tonse, Ndi dalitso lanulo;",
+        "Mwa chikondi chanu, Mbuye, Mutipatse nsisizo.",
+        "Mutitsitsimutse ife Pakuyenda m’dzikoli."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tiyamika Inu, Mbuye, Kamba ka uthengawu;",
+        "Mphatso za chipulumutso Zidzazetu mtimamu,",
+        "Kuti ife tikhalebe Okhulupirikawo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nsiku zathu zonse, Mbuye, Tipereka kwanuko;",
+        "Mutilimbikitse, Mbuye, Kuti tisatopei,",
+        "Mpaka tidzaone tonse, Ulemerero wanu."
+      ],
+      "number": 4
+    }
+  ]
+}

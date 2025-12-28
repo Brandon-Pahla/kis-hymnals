@@ -1,0 +1,51 @@
+{
+  "number": 147,
+  "language": "tw",
+  "title": "Kristo Gyina Bepɔ So",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kristo gyina bepɔ so,",
+        "Anuonyam hann twa Ne ho hyia;",
+        "Momma yɛne 'hotefo",
+        "Ne abɔfo nyi No ayɛ:",
+        "Haleluya, Haleluya, Haleluya."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛde 'hopopo huu sɛ",
+        "Mose ne Elia rekasa:",
+        "'Diyifo ne mm'ra no ny'naa",
+        "Nam wɔn so ky'rɛ wɔn anigye:",
+        "Haleluya, Haleluya, Haleluya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nuonyam munumkum no bae;",
+        "Nyankopɔn fi ahum no mu",
+        "Bɔɔ yesu din sɛ Ne Ba;",
+        "Na aman team ahodw'ri mu!",
+        "Haleluya, Haleluya, Haleluya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Yi ne Nyame dɔ Ba no:",
+        "mm'ra ne 'diyifo y'ra N'anim;",
+        "'Dikanfo ne awiei no,",
+        "Ma abɔde ny'naa nkamfo No;",
+        "Haleluya, Haleluya, Haleluya."
+      ],
+      "number": 4
+    }
+  ]
+}

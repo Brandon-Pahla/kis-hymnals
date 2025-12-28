@@ -1,0 +1,35 @@
+{
+  "number": 246,
+  "language": "en-sdah",
+  "title": "246 Worthy, Worthy Is the Lamb",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Worthy, worthy is the Lamb, Worthy, worthy is the Lamb; Worthy, worthy is the Lamb That was slain."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain : Glory, hallelujah! Praise Him, hallelujah! Glory, hallelujah To the Lamb!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Saviour, let Thy kingdom come! Now the power of sin consume; Bring Thy blest millennium, Holy Lamb."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Thus may we each moment feel, Love Him, serve Him, praise Him still Till we all on Zion's hill See the Lamb"
+      ],
+      "number": 4
+    }
+  ]
+}

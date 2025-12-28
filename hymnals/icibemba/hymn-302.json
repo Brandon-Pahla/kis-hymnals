@@ -1,0 +1,32 @@
+{
+  "number": 302,
+  "language": "bem",
+  "title": "302 - TULI BANA BA MFUMU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WE ARE CHILDREN OF A KING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tuli bana ba Mfumu, ba Mfumu, ba Mfumu,",
+        "Tuli bana ba Mfumu, tuleimba nomba;",
+        "Tulekonka Yesu pe, nomba tatuletina,",
+        "Tulekonka mupepi, tuleimba pe pe",
+        "2. Tule-enda kumwesu, kumwesu, kumwesu,",
+        "Tule-enda kumwesu, tuleimba nomba;",
+        "Ku ng'anda yakwa Tala, mfifi takuli kulya,",
+        "Yes' elubuto kulya, tuleimba pe pe.",
+        "3. Sekela tule-enda, kumwesu, kumulu,",
+        "Sekela tule-enda, tuleimba nomba;",
+        "Tuleimba nshiku pe, bakosa baleimba,",
+        "Palwendo tuleimba, tuleimba pe pe."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "number": 253,
+  "language": "xh",
+  "title": "253 UMalusi Umile",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nank’ umalusi umile, Enobuhle bonke;",
+        "Yiva ubiza izimvu, Aziwole zonke."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Mazize kum apha zonke, Ngobulali bazo;\"",
+        "\"Kwakungenxa yezi zimvu Ukufa kweNkosi.\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sinikela kuWe, Nkosi, Ezo zimvu zaKho;",
+        "Sizizimvu zaKho thina, Nabantwana bethu."
+      ],
+      "number": 3
+    }
+  ]
+}

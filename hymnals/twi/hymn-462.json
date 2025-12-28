@@ -1,0 +1,46 @@
+{
+  "number": 462,
+  "language": "tw",
+  "title": "Nokwasɛm Pa Ni, Yesu Yɛm' De",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nokwasɛm pa ni, Yesu yɛm' de,",
+        "O, s'ro anuonyam a maka mahwɛ;",
+        "Nyame atɔde, nkwagye dehye",
+        "Honhom awo me, wɔaguar'm mogyam'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "M'asɛm ara ni, me dwom nso ni,",
+        "Mɛkamfo m'Agyenkwa daa nyinaa,",
+        "M'asɛm ara ni, me dwom nso ni,",
+        "Mɛkamfo m'Agyenkwa daa nyinaa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ahofama pa anigye pa!",
+        "ɔdɛw ho anisoɔadehu ni:",
+        "Abɔfo de mmɔborɔhunu",
+        "Ne ɔdɔ ho nsɛm fi s'ro sian ba."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ahofama pa, home aba",
+        "M'Agyenkwa mu na manya ahotɔ",
+        "Merewɛn, retwɛn soro",
+        "Ne papa mee me, mete Ne dɔm'"
+      ],
+      "number": 3
+    }
+  ]
+}

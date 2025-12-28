@@ -1,0 +1,31 @@
+{
+  "number": 3,
+  "language": "bem",
+  "title": "3 - LINTU NKAMONA ICINSO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "FACE TO FACE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Lintu nkamona ici-nso Ca kwa Yesu Katula,",
+        "Nkasekela pakala-mba Kumona Mupusushi.",
+        "CHORUS:",
+        "Nkamona icinso cakwe ‘ko kumulu kumwakwe;",
+        "Nkamumona mululumbi Yesu Kristu Katula.",
+        "2. Nomba nshimumona bwino Pamulandu wa bubi,",
+        "Lelo munshita yapa-lwa Mpulumushi shikapwa.",
+        "3. Tukasekela ici-bi Lintu 'Mfumu ikesa;",
+        "Ububi bonse buka-pwa, Fyamfifi fyamoneka",
+        "4. Lintu nkamumona Ye-su, No kumwishiba cine;",
+        "Lintu nkamona Katu-la Elyo nkasekela pe"
+      ],
+      "number": 2
+    }
+  ]
+}

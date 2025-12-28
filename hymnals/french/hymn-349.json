@@ -1,0 +1,68 @@
+{
+  "number": 349,
+  "language": "fr",
+  "title": "Réjouis-toi, chrétien",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Réjouis-toi, chrétien, voici ton Maître,",
+        "Il va quitter son glorieux palais ;",
+        "Trois messagers ici-bas vont paraître",
+        "Et préparer le royaume de paix."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Veille encor’, bientôt dans la gloire",
+        "Notre Roi paraîtra des cieux.",
+        "C'est pour Sion l'immortelle victoire :",
+        "Voici le jour, frère, lève les yeux !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le premier ange, au vol grand et rapide,",
+        "Sur tous les lieux répète, solennel :",
+        "Crains le Seigneur, ô toi, monde perfide,",
+        "Le jugement va descendre du ciel !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fuis Babylone ! annonce le deuxième.",
+        "Le bon Berger rassemble ses troupeaux;",
+        "Il les conduit à la maison qu'il aime",
+        "Et sur l'impie il répand ses fléaux."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le troisième ange apporte son message,",
+        "Et les appels de la grâce ont pris fin.",
+        "Loin de l'Agneau, funeste est le breuvage",
+        "Où l'ennemi consomme son destin !"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sauveur du monde, écoute la prière",
+        "De tes enfants, sur le déclin du jour :",
+        "Fais, par l'Esprit, qu'ils portent la lumière",
+        "De l'Évangile annonçant ton retour !"
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "number": 55,
+  "language": "luo",
+  "title": "55 Awero Teko Mar Nyasaye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Awero teko mar NyasayeMa noloso gode,Ma noketo nembe matut,Ma noyaro polo;Awero rieko mochiko Wang`chieng` mondo mi piny ler;Dwe to orieny kuom chikne to,Sulwe duto winje."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Awero ng`wono mar NyasayeMamiyowa chiemo,Nochweyo duto gi Wachne,Noneno duto ber,Ruoth, ka manade mang`iyoaneno tich mag lueti;Polo ohulo duong` Nyasaye,Piny nyiso herane."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yien,to gi cham, g`alote be,Duto hulo duong`ni;Yembe kudho, be koth ochweNikech chikni, Ruodhwa,Duto mimiyo ngima togibedo e bwo ritni;Onge kamoro mwadhiyeto Nyasaye ni kanyo."
+      ],
+      "number": 3
+    }
+  ]
+}

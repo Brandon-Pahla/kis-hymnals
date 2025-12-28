@@ -1,0 +1,45 @@
+{
+  "number": 129,
+  "language": "nd",
+  "title": "129 Jesu, Sibusise",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu Wena wathi, \"Nxa ku buthene",
+        "Ababili nabathathu ngi khona\";",
+        "Si yakholw’ izwi lAkho, soguqile",
+        "Jesu, woza u si busise thina."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu, woza u si busise sonke;",
+        "Jesu, si busise u beseduze."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu, u bu khona ngez’ khathi zonke,",
+        "Kodwa si yakuthanda kwokuphela;",
+        "Woza O! ‘Msindis’ obusisiweyo",
+        "Si zwe, u s’amkele, nxa si khuleka."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu, sisahlabelela sisize",
+        "Ube khon’ ekukhulekeni kwethu;",
+        "Ukuz’ ithemba lethu libe kuWe",
+        "I kany’ ibe mhlope indlela yethu."
+      ],
+      "number": 4
+    }
+  ]
+}

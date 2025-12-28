@@ -1,0 +1,37 @@
+{
+  "number": 81,
+  "language": "nd",
+  "title": "81 Qina, Bu Yeza Ubusuku",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Qina ku yez’ ukuhlwa; Qin’ imin’ i khona.",
+        "Namazol’ a sekhona; Imbal’ i hluma;",
+        "Ku se khon’ ukukhanya, Qin’ imin’ i khona;",
+        "Qina ku yez’ ukuhlwa, Kophela konke!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qina ku yez’ ukuhlwa, Li zoshon’ ilanga.",
+        "Sebenz’ imini yonke, U nga phumuli;",
+        "Yenza ku gcwale konke, Ku nga phuthi lutho;",
+        "Qina ku yez’ ukuhlwa, Kophela konke."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qina ku yez’ ukuhlwa, A yez’ amathunzi.",
+        "Laphay’ entshonalanga, se ku ntambama;",
+        "Qina sekuzophela, Zama u kuthale;",
+        "Ngoba ku yez’ ukuhlwa, Kophela konke."
+      ],
+      "number": 3
+    }
+  ]
+}

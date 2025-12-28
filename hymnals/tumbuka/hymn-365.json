@@ -1,0 +1,35 @@
+{
+  "number": 365,
+  "language": "tum",
+  "title": " 365 Muchindikane Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 365 Muchindikane Yesu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muchindikani Yesu, Yumoza:",
+        "Muchindikani Yesu, Mtuwa.",
+        "Wose:",
+        "Muchindikani Yesu,",
+        "Yumoza:",
+        "Mtuwa, Mtuwa, Mtuwa, Mtuwa,",
+        "Wose:",
+        "Mtuwa, Mtuwa, Mtuwa, Mtuwa,",
+        "Muchindikani Yesu, Mtuwa.",
+        "Wakum'chemani Imwe, Mtuwa.",
+        "Rekani kumkanira, Mtuwa.",
+        "Yesu Wali pafupi, Mtuwa,",
+        "Yeghaninge Katundu, winu.",
+        "Katundu ndi mitima, yinu.",
+        "Mwize nayo kwa Yesu, Mtuwa"
+      ],
+      "number": 2
+    }
+  ]
+}

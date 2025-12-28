@@ -1,0 +1,48 @@
+{
+  "number": 84,
+  "language": "sn",
+  "title": "84 Tendanyi Mwari",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tendanyi Mwari Jehova,",
+        "Imwi pasi nekudenga,",
+        "Kudza Baba neM’rumbwana,",
+        "NeMudzimu Unoyera. Amen"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tiri wana wa Mambo, wa Mambo, wa,",
+        "Mambo; Tiri wana waMambo, Toimba pa",
+        "rwendo; Jesu Mutungamiri, Isu,",
+        "hatichazotyi; Titerere kwa ari,",
+        "Toimba pa rwendo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tinoenda kumusha, kumusha, kumusha,",
+        "Tinoenda kumusha, Toimba pa rwendo,",
+        "Tinoenda kumusha, Apo kusina dima,",
+        "Jesu ari kupenya, Toimba pa rwendo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nge rufaro toenda, toenda, toenda,",
+        "Ngerufaro toenda, Toimba pa rwendo,",
+        "Hatiregi kuimba, Mwoyo iri kushinga, ,",
+        "Dakara tinoswika, Toimba pa rwendo"
+      ],
+      "number": 4
+    }
+  ]
+}

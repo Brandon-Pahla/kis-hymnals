@@ -1,0 +1,62 @@
+{
+  "number": 114,
+  "language": "pt",
+  "title": "Meu Jesus é Cativante",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Meu Jesus é Cativante"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Meu Jesus é cativante, meigo, bom, leal, capaz.",
+        "Um sorriso confortante sempre aos lábios Ele traz.",
+        "Quando a alma é vacilante, em Jesus encontra paz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Quanto O amo! Quanto O amo!",
+        "Pois por mim morreu na cruz!",
+        "Quanto O amo! Quanto O amo!",
+        "Quanto amo a meu Jesus!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A um mundo de pecado, por amor de mim desceu,",
+        "E por mim Se fez culpado: o Inocente Se fez réu.",
+        "O perdão dos meus pecados meu Jesus me concedeu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muitas vezes fui indigno, mas Jesus não me deixou,",
+        "E comigo foi benigno, minhas faltas perdoou,",
+        "E das garras do maligno meu Jesus me libertou."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Meu Jesus é meu amparo, minha paz e salvação.",
+        "Queres tu também amá-Lo, receber o Seu perdão?",
+        "Oh, não deves rejeitá-Lo; abre-Lhe teu coração."
+      ],
+      "number": 6
+    }
+  ]
+}

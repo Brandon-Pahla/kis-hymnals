@@ -1,0 +1,48 @@
+{
+  "number": 443,
+  "language": "fr",
+  "title": "Comme un phare",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Comme un phare sur la plage",
+        "Perçant l'ombre de la nuit,",
+        "L'amour de Dieu, dans l'orage,",
+        "Cherche l'homme et le conduit."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Ô Sauveur! Que ta lumière",
+        "Resplendisse sur les flots,",
+        "Et, vers le ciel, qu'elle éclaire",
+        "Et sauve les matelots."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nulle étoile n'étincelle",
+        "Pour guider le voyageur.",
+        "Qui gardera la nacelle",
+        "Des dangers et des frayeurs?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dans la nuit qui m'environne",
+        "De ton amour, ô Jésus!",
+        "Que par moi l'éclat rayonne",
+        "Aux yeux des marins perdus!"
+      ],
+      "number": 4
+    }
+  ]
+}

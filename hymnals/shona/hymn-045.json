@@ -1,0 +1,57 @@
+{
+  "number": 45,
+  "language": "sn",
+  "title": "45 Ndipe Bhaibheri",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndipe Bhaibheri, nyenyedzi yapihwa,",
+        "Vafambi vese kutungamira,",
+        "Zvampupuri’zvo zvisingazodzimi,",
+        "Kujeka’ko kunotipenyera"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndipe Bhaibheri, masoko matsvene,",
+        "Ndinoteera kujeka kwaro,",
+        "Zvikohomedzo, zvitsidzo mutemo,",
+        "Nerudo, zvese zvakumbana’mo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndipe Bhaibheri, apo ndatambudzwa,",
+        "Ngezvitema neurombo hwazvo,",
+        "Ndipe mazwi’yo Jesu ataura,",
+        "Kunditondedza aripo pedyo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndipe Bhaibheri, ndinofamba naro,",
+        "Rinditsiure nge zvakaipa,",
+        "Mwenje weruponeso mune dima,",
+        "Kundipangidza nzira yekudenga"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndipe Bhaibheri, mwenje weupenyu,",
+        "Usingagumi, newakanaka,",
+        "Rindiratidze rujeko rwaJesu,",
+        "Rindionese mbiri kudenga"
+      ],
+      "number": 5
+    }
+  ]
+}

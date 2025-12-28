@@ -1,0 +1,56 @@
+{
+  "number": 160,
+  "language": "nd",
+  "title": "160 Gcinelwe uJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, ngi gcinelw’ uJesu!,",
+        "Ng’phase ngamandl’ Akhe",
+        "Akukho bubi bezwe",
+        "Nxa ng’landel’ uJesu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, ‘ngi gcinelw’ uJesu!, Nkosi ngi yaguqa",
+        "A ng’fisi, lutho! lutho! lutho!",
+        "Wen, u yiko Konke"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, ngi gcinelw’ uJesu!,",
+        "Ng’enze akushoyo",
+        "YeNkosi inhliziyo",
+        "I thabe kakhulu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, ngi gcinelw’ uJesu!,",
+        "Ngomoya ng’thobeke",
+        "Ngehlukane nelizwe",
+        "Ngi mnene ngobuntu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, ngi gcinelw’ uJesu!,",
+        "Ngi ngowAkh’ impela",
+        "Ngi be ngowAkhe njalo",
+        "Yen’ uJesu wethu"
+      ],
+      "number": 5
+    }
+  ]
+}

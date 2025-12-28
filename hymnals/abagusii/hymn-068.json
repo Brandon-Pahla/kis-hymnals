@@ -1,0 +1,35 @@
+{
+  "number": 68,
+  "language": "guz",
+  "title": "68 Amaena Yeso N'Oyone",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Amaene 'Yeso n'oyone,Bwansu bw'obonene obochenuOmonyamwando O Nyasae,'Boirw' as' Omoika, n'amanyinga."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Mogano n'ogotera kwane,Motogie 'Motoria botambe'Mogano n'ogotera kwane,Motogie 'Motoria botambe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Koigwera n'omogok' omuya,'Ndoto chingiya chianchichera'Malaika barwa igoro,Baret' amaber' obwanchani."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Koigwera n'ogotimoka,Ningoke ime y'OmotoriaNdende, nganye, ntengere 'goro,Ng'ichorw' obuya n'obwanchani."
+      ],
+      "number": 4
+    }
+  ]
+}

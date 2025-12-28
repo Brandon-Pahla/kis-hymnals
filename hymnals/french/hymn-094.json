@@ -1,0 +1,58 @@
+{
+  "number": 94,
+  "language": "fr",
+  "title": "nIl va venir, le Seigneur",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Il va venir, le Seigneur que j'adore;",
+        "Bientôt sa voix retentira du ciel.",
+        "À mes regards, l'horizon se colore",
+        "Des purs rayons du soleil éternel."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Gloire à toi seul, Seigneur Jésus,",
+        "Gloire à jamais, gloire à ton nom!",
+        "De ton beau ciel je ne sortirai plus,",
+        "Et pour toujours, j'exalterai ton nom."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qu'autour de moi s'élève la tempête,",
+        "Je suis en paix, car tu veilles sur moi;",
+        "Je puis, ô mon Sauveur, lever la tête,",
+        "Tu vas venir me prendre auprès de toi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Maison du Père où ton amour m'appelle,",
+        "Sainte cité, demeure des élus,",
+        "Les lieux qu'éclaire une gloire éternelle",
+        "Me sont ouverts par toi-même, ô Jésus!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bonheur ineffable! Quand dans ta gloire,",
+        "Aux yeux des rachetés, tu paraîtras,",
+        "Jésus, avec le cri de la victoire,",
+        "Près de toi, pour toujours, tu me prendras."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "number": 213,
+  "language": "ny",
+  "title": "213 - Nyimbo Yanga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "MY SONG"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Yesu mombolo wanga, Ndinu nyimbo yanga",
+        "Mpulumutsi wabwino, Ndikamabvutika",
+        "CHORUS:",
+        "Yesu Mombolo wanga, Ndiyimbira Inu;",
+        "Palibe bwenzi lina, Ndikondana nalo.",
+        "2. Ndiyembekezera’nu, Mwa zaka zonsezi,",
+        "Ndikapanikizidwa, Polira misozi.",
+        "3. Inu nokha Mbuyanga, Bwenzi ndi mtsogozi,",
+        "Ndikondetsa Inutu, Kuposa za dziko",
+        "4. Msangalatsi ndi Inu, M’dziko la ucimo,",
+        "Ndikuganizani’nu M’zipata za m’Mwamba."
+      ]
+    }
+  ]
+}

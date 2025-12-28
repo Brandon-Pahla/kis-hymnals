@@ -1,0 +1,38 @@
+{
+  "number": 79,
+  "language": "tn",
+  "title": "79 Kgakala, Gaufi Masimo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kgakala, Gaufi Masimo A Na Le Diako;",
+        "Go phatsima gouda ya one dithabeng, mabaleng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Morena romela barobi: Re ya Go rapela;",
+        "Ba romele go tsa’a diako, Nako e ya feta."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ba Romele Ka Maphakela, Le Mo Motshegaring,",
+        "Fa letsatsi le ya phirimong ba di phuthe gotlhe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wena O Rongwang Ke Morena, O Phuthe Diako,",
+        "Legodimong maitsiboeng O tla itumela."
+      ],
+      "number": 3
+    }
+  ]
+}

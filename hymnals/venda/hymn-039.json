@@ -1,0 +1,54 @@
+{
+  "number": 39,
+  "language": "ve",
+  "title": "39 Fulufhelo langa lo Fhatwa Khae",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:522",
+        "AH:212"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.Fulufhelo langa li kha malofha awe avhudi,",
+        "Ndi nga si di-fulufhele, ndi tikwa nga dzina lawe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu Kristo, thavha yanga, zwinwe zwothe zwi do fhela",
+        "Zwothe zwinwe zwi do fhela."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Maswiswi e phanda hanga, ndi di-tika nga tshilidzi,",
+        "Na madumbu e ndilani, ndi nga si late lutendo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi mulanga wo khwathaho, kha vho mu fulufhelaho,",
+        "Naho ndi tshi shaya nungo, Yesu ndo mu fulufhela."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Hu tshi lila phalaphala, ndi do gonya nda ya khae,",
+        "Ndo ambadzwa ya vhukhethwa, nda sendela khulunoni."
+      ],
+      "number": 5
+    }
+  ]
+}

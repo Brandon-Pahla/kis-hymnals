@@ -1,0 +1,54 @@
+{
+  "number": 65,
+  "language": "ve",
+  "title": "65 Zwo Naka U Fulufhela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:524",
+        "AH:201"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Zwo naka u fulufhela, u tenda ipfi lawe,",
+        "U divha fulufheldziso, Na zwe Yesu a amba."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu, Yesu ndo mu funa, ndo mu sedzisa nne,",
+        "Yesu fulufhelo langa, mphe tshilidzi na nne."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Zwo naka u fulufhela, kha one malofha-vho,",
+        "divha ilo fulufhelo, zwi isa kha Mutshidzi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Zwo naka u fulufhela, u tshi litsha-vho zwivhi,",
+        "Yesu we a nembelela, U ri nea malamba."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndi gude u fulufhela, Yesu Iwe Mutshidzi,",
+        "Ndi divha uri U na nne, u ya nga hu sa fheli"
+      ],
+      "number": 5
+    }
+  ]
+}

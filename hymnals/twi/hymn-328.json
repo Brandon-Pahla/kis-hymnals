@@ -1,0 +1,37 @@
+{
+  "number": 328,
+  "language": "tw",
+  "title": "So Yesu Nko Nsoa 'Sɛnnua No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "So Yesu nko nsoa 'sɛnnua no",
+        "Na wiase ny'naa nkɔ kwa?",
+        "Dabi, obiara wɔ 'sɛnnua;",
+        "'Sɛnnua wɔ hɔ ma me."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mɛsoa asɛnnua kronkron no",
+        "Kosi s'ɔbɛpɔn me;",
+        "Na makɔ fie 'kɔhyɛ 'henkyɛw",
+        "'Henkyɛw wɔ hɔ ma me."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Megyina 'hwehwɛ 'bɔnten hɔ,",
+        "Kristo nan no ase;",
+        "De me sika kyɛw ato hɔ",
+        "Na mabɔ Ne din no."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 22,
+  "language": "en",
+  "title": "22 Lord I Hear",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lord, I hear of show`rs of blessing,",
+        "thou art scattering full and free;",
+        "Show`rs the thirsty soul refreshing;",
+        "Let some drop now fall on me;"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Even me, even me, let some drops fall on me."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pass me not, O gracious Father!",
+        "Sinful though my heart may be;",
+        "Though mightest leave me,",
+        "but the rather let thy mercy rest on me."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Have I long in sin been sleeping?",
+        "Long been sighting, grieving thee?",
+        "Has the world my heart been keeping?",
+        "O forgive and rescue me!."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pass me not, O Holy Spirit!",
+        "Thou canst make the blind to see;",
+        "Testify of Jesus` merit;",
+        "speak the word of peace to me."
+      ],
+      "number": 5
+    }
+  ]
+}

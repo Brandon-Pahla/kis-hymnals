@@ -1,0 +1,62 @@
+{
+  "number": 198,
+  "language": "tw",
+  "title": "So Metumi Anya Mfaso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "So metumi anya mfaso",
+        "Wɔ Agyenkwa no mogya mu?",
+        "Owu maa mč a mehaw No no?",
+        "Mč a mepam No kɔɔ 'wu mu no?",
+        "Anwanwa dɔ, ɛbɛyɛ dɛn",
+        "Na me Nyame bewų ama me?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Anwanwa dɔ, ɛbɛyɛ dɛn",
+        "Na me Nyame bewų ama me?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ogyaw N'Agya 'henni wɔ s'ro,",
+        "ɔdom a enni kabea nti;",
+        "Ogyaw ade nyinaa de 'dɔ",
+        "Kyii mogya maa Adam 'sefo;",
+        "Ͻyɛ mmɔb'rɔhun' kɛse kwa,",
+        "Sɛ me Nyame bɛhwehwɛɛ me."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me kra daa afiase yie",
+        "Wɔ bɔne ne wiase sum mu;",
+        "W'aniwa mu hann kanyan me;",
+        "Minyanee, afiase yɛɛ hann,",
+        "Me mpoky'rɛ fi gui, midii dɛw,",
+        "Mesɔree ntɛm bedii W'akyi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Minsuro afobu bio nnɛ;",
+        "Yesu ne N'ade ny'naa wɔ me!",
+        "Mete Ne mu, me nkwa Nsuti.",
+        "ɔde s'ro trenee ahyɛ me;",
+        "Mede nnam kɔ 'hengua n'anim,",
+        "Kɔgye m'ahenkyɛw Kristo mu."
+      ],
+      "number": 4
+    }
+  ]
+}

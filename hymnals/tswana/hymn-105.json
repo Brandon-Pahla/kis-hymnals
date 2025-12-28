@@ -1,0 +1,44 @@
+{
+  "number": 105,
+  "language": "tn",
+  "title": "105 Yo O Ka Gololang",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yo O Ka Gololang; Bolelang Gotlhe;",
+        "O golola mang le mang yoo utlwang;",
+        "Bokepisong moleofi yo timetseng,",
+        "Jeso O tla golola yo o tla tlang."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yo O ka gololang; Boloka janong,",
+        "Fa O ka dumela Mokaulengwe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yo O Ka Gololang; Ruri Ke Jalo?",
+        "A go na le thata e ka nkgololang?",
+        "A ruri Keresete yo tlhabilweng",
+        "O ka nkgolola kgoleng ya Satane?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yo O Ka Gololang; Nametso Mmoifi;",
+        "O direla Jeso? Boloka ba ’Gwe",
+        "Se boife Satane, O tshware Jeso,",
+        "O se belaele O eme fela."
+      ],
+      "number": 3
+    }
+  ]
+}

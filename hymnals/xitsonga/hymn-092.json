@@ -1,0 +1,22 @@
+{
+  "number": 92,
+  "language": "ts",
+  "title": "92. MI NGA YI RIVALI SAVATA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "DON’T FORGET THE SABBATH",
+        "1. Mi Nga Yi Rivali Savata Ra Xikwembu, I Siku Lero Xonga Ku Tlula Hinkwawo,",
+        "Hi Wisa Emintirhweni Hi Kuma Na Ku Tsaka, Ri Hi Nyika Na Ntsako Wa Le Kaya Tilwen.",
+        "CHORUS",
+        "Ri Amukelen Siku Leri Ra Savata, Ri Amukelen Siku Leri Ra Savata.",
+        "2. Hlayisani Savata Ku Dzunisa Xikwembu, Yena U Te ‘Hi Mina Ndlela Ni Vutomi’",
+        "Loko Hi Landzela Yesu Hi Ku Titsongahata, U Hi Nyika Vutomi Lebyi Nga Heriki.",
+        "3. I Siku Lero Tenga Ha Ri Khensa Swinene, Hi Yimbelela yesu Munghana Lonene,",
+        "Munghana Wa Tintswalo Muponisi Werhu, Switshembiso Swa Yena Hi Leswi Tiyeke."
+      ],
+      "number": 1
+    }
+  ]
+}

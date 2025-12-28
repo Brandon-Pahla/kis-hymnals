@@ -1,0 +1,35 @@
+{
+  "number": 9,
+  "language": "luo",
+  "title": "9 Jachwechna Gi Ruodha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Jachwechna gi Ruodha,Gigo ma an godo;Nayudo duto e lueti,Gweth duto a kuomi;Nayudo duto e lweti,Gweth duto a kuomi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nikech an chwech mari,Angima kuomi Ruoth;An kaparo kak`ikonya Chunya opakoi;An kaparo Kak`ikonya Chunya opakoi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ruoth, damii ang`o?Duto ne mari chon;Achiwoni chunya chuthokata korach kama.Achiwoni chunya chuthokata korach kama."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Pong` chunya gi hera,Imiya tekoni;Weche, paro, gi ngimana,Obed mari chutho.Weche, paro, gi ngimana,Obed mari chutho."
+      ],
+      "number": 4
+    }
+  ]
+}

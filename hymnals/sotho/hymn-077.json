@@ -1,0 +1,52 @@
+{
+  "number": 77,
+  "language": "st",
+  "title": "77 Batlang Malahleha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Batlang malahleha ka bonolo,",
+        "E leng ba hlahlathang lithabeng;",
+        "“Tlong koano ho ’Na,” ke thomo ea Hae,",
+        "U e bolele teng kajeno."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le eeng hole, hole lithabeng,",
+        "Khutlisang malahleha, malahleha hape,",
+        "Mohlapeng oa ’Moloki oa ka,",
+        "Jesu ea hlabetsoeng ba-etsalibe.",
+        "Bass",
+        "Le eeng hole—hole koa lithabeng,",
+        "Khutlisang hape;",
+        "Moo mohlapeng oa malahleha ’Moloki,",
+        "Jesu Konyana ea balibe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le batleleng Jesu malahleha,",
+        "Ba pelo tse tletseng bohloko;",
+        "Ba huleleng tseleng ea poloko,",
+        "Ba supiseng tsel’a bophelo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tla ea hoba Jesu A mpitsa,",
+        "Ke tla mo latela kamehla;",
+        "Ke tlamelle pelo tse robiloeng,",
+        "Ke ba supisa Jesu tsela."
+      ],
+      "number": 4
+    }
+  ]
+}

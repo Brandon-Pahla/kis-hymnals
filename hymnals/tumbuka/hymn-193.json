@@ -1,0 +1,57 @@
+{
+  "number": 193,
+  "language": "tum",
+  "title": " 193 Kasi Ungakhala Umoyo Nga Ngwa Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 193 Kasi Ungakhala Umoyo Nga Ngwa Yesu",
+        "C.S. 58 HIS WAY WITH THEE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Kasi ungakhala umoyo nga ngwa Yesu?",
+        "Nakwenda nayo munthowa yifinyi;",
+        "Ungazomera wayeghe katundu wako?",
+        "Mzomere wende nawe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nkhongono zake zinga wa nawe,",
+        "Ndopa zake zingakusutuLa,",
+        "Chitemwa chake chizuLe m'mtima,",
+        "Nkhuweme kuti wendenge nayo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Kasi ungamzomerezga wakusutule?",
+        "Wakupenge mtende pakumrondezga?",
+        "Wakuthaske, wakufighirire, ungawa?",
+        "Mzomere wende nawe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mu ufumu wake ungakasanga malo?",
+        "Ungam'manya nadi kuti ndi Fumu?",
+        "Ungateweta mlimo wake nyengo zose?",
+        "Mzomere wende nawe."
+      ],
+      "number": 4
+    }
+  ]
+}

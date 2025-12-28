@@ -1,0 +1,63 @@
+{
+  "number": 52,
+  "language": "fr",
+  "title": "Nous avons vu les pas",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nous avons vu les pas de notre Dieu",
+        "Tracer sur notre terre",
+        "Pour les enfants, les jeunes et les vieux,",
+        "Une route de lumière.",
+        "Reviendra-t-il marcher sur nos chemins,",
+        "Changer nos cœurs de pierre?",
+        "Reviendra-t-il semer au creux des mains",
+        "L’amour et la lumière?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous avons vu danser les malheureux",
+        "Comme aux jours de la fête,",
+        "Et le bonheur qui passait dans leur yeux",
+        "Leur faisait lever la tête.",
+        "Reviendra-t-il marcher sur nos chemins,",
+        "Changer nos cœurs de pierre?",
+        "Reviendra-t-il semer au creux des mains",
+        "L’amour et la lumière?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous avons vu les riches s’en aller",
+        "Le cœur et les mains vides,",
+        "Et les mendiants venir se régaler",
+        "Au retour de l’enfant prodigue.",
+        "Reviendra-t-il marcher sur nos chemins,",
+        "Changer nos cœurs de pierre?",
+        "Reviendra-t-il semer au creux des mains",
+        "L’amour et la lumière?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous avons vu fleurir en plein hiver",
+        "Les fleurs de la tendresse;",
+        "Nous avons vu jaillir en plein désert",
+        "Une source d’allégresse.",
+        "Tu reviendras marcher sur nos chemins,",
+        "Changer nos cœurs de pierre.",
+        "Tu reviendras semer au creux des mains",
+        "L’amour et la lumière."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "number": 30,
+  "language": "bem",
+  "title": "30 - KASUBA KAWA NOMBA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "DAY IS DYING IN THE WEST"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kasuba kawa nomba, Twapelwa ukutusha,",
+        "Nomba toteni Lesa Ku mapalo twapelwa pa kasuba",
+        "CHORUS:",
+        "Lesa Wamushilo mukalamba;",
+        "Bonse kuno no mulu",
+        "Bamutotela nomba Lesa Wesu.",
+        "2. Lesa Mfumu ya mweo, lfintu fyonse fyenu;",
+        "Mutupale 'fwe bonse, Lintu tulemupepa mube nefwe.",
+        "3. Tata mutusunge fwe lintu mfimfi yaisa;",
+        "Tulemutasha lelo Ne mitima yacine, Lesa wesu.",
+        "4. Lintu fyonse fikapwa, Milimo yonse yapwa,",
+        "Lesa wesu wa mulu Mutupele cifulo kuli imwe"
+      ],
+      "number": 2
+    }
+  ]
+}

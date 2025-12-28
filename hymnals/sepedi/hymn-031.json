@@ -1,0 +1,56 @@
+{
+  "number": 31,
+  "language": "nso",
+  "title": " 31 TŠATŠI LA MOYA WA KA.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 31 TŠATŠI LA MOYA WA KA",
+        "AH 35 CH 321",
+        "SUN OF MY SOUL"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tšatši la moya wa ka Mphološi,",
+        "Ga go bošego ge o le gona,",
+        "Go se be le maru lefaseng,",
+        "Go tla mahlong a ka;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ge ke tlelwa ke boroko,",
+        "Maahlo a ka a otsela,",
+        "Mogopolo wa ka 'fobeng,",
+        "sa M'phološi o ikhutse;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dula le nna mantšiboa,",
+        "Ke le nosi nka se phele,",
+        "Dula le nna Ke bošego,",
+        "Gobane ga ke nyake go hwa,"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ntshegofatse ge ke tsoga,",
+        "Ke sepela mo lefaseng,",
+        "Leratong la gago ke be ke,",
+        "Tsene legodimong;"
+      ],
+      "number": 5
+    }
+  ]
+}

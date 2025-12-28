@@ -1,0 +1,42 @@
+{
+  "number": 16,
+  "language": "guz",
+  "title": "16 Ninkoganeti' Omonene!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ninkoganeti' Omonene!Igo inde n'ebibe;Mbwate okoboko ndae,Erio nyare korora."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Botambe, botambe,Ninkoganeti' Omonene!Botambe, botambe,Omotoria ondende."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mbekere oboitongo,Ebibe biambuire;Nyoroki' oboreu bwane,Ing'a chinguru chiao."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tinkoiroka as'ore,aye nondae buya;Tara na inch' Omotoria,Nay' obogima bwane."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Kende gionsi nagechicha,'Mogoko n'obororo;Omoyo nobe as'ore,Naye orantimokie."
+      ],
+      "number": 5
+    }
+  ]
+}

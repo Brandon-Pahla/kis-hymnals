@@ -1,0 +1,56 @@
+{
+  "number": 124,
+  "language": "pt",
+  "title": "Meu Nome em Suas Mãos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Meu Nome em Suas Mãos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Meu caminho ponho em Suas mãos,",
+        "Nelas deixo estar minha oração.",
+        "Nestas santas mãos estão gravados",
+        "Meu nome e o teu, ó meu querido irmão."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Meu nome está nas mãos, nas mãos de meu Jesus;",
+        "Foi ali na cruz que o escreveu.",
+        "Esquecer-me não será possível:",
+        "Tem sobre as mãos meu nome lá no Céu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Há um sinal em Suas mãos de luz,",
+        "Que no próprio Céu nos lembra a cruz.",
+        "Mas também está meu pobre nome",
+        "Escrito ali nas mãos de meu Jesus."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Foi na dura cruz em que morreu,",
+        "Que tais cicatrizes recebeu.",
+        "Mas ao ver as mãos assim sangrarem,",
+        "El' viu também ali o meu nome."
+      ],
+      "number": 5
+    }
+  ]
+}

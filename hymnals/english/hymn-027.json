@@ -1,0 +1,56 @@
+{
+  "number": 27,
+  "language": "en",
+  "title": "27 We Praise Thee, O God",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "We praise thee, O God, for the Son of thy love,-",
+        "For Jesus who and is now gone above."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hallelujah! Thine the glory,",
+        "Hallelujah! Amen;",
+        "Hallelujah! Thine the glory,",
+        "Revive us again."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "We praise thee, O God, for thy Spirit of light,",
+        "Who has shown us our Saviour, and scatter`d our night."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "All glory to the Lamb that was slain,",
+        "Who has borne all our sins, and has cleansed ev`ey stain."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "All glory and praise to then God of all grace,",
+        "Who has brought us and sought us, and guided our ways."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Revive us again; fill each heart with thy love;",
+        "May each soul be re kindled with fire from above?"
+      ],
+      "number": 5
+    }
+  ]
+}

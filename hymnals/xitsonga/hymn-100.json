@@ -1,0 +1,25 @@
+{
+  "number": 100,
+  "language": "ts",
+  "title": "100. HI NA MUNGHANA I YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHAT A FRIEND WE HAVE IN JESUS",
+        "1. Hi Na Munghana I Yesu, Ku Rhwala Swivi Swerhu,",
+        "Hi Nga Swi Yisa Hinkwaswo, Hi Xona Xikhongelo;",
+        "Ha Lahlekela Hi Ntsako, Hi Tidlaya Hi Mpingu,",
+        "Hi Tshika Ku Wu Rhulela, Ka Yena Hosi Yesu.",
+        "2. Xana Nala Wa Hi Ringa, Hi Miringo Ya Yena,",
+        "A Nga Hi Heti Matimba, Hi Nga Khongela Hosi;",
+        "U Kwihi Xana Munghana, Wo Fana Na Xikwembu; Yesu Wa Hi Tivisisa, A Hi Byeleni Yena.",
+        "3. Hi Na Ndzwalo Lowo Tika Wa Swidyoho Swa Hina,",
+        "Muponisi I Khokholo, Khongela Yena Hosi;",
+        "A Wa Ha Ri Na Vanghana? Tivisa Yona Hosi,",
+        "Yona Yi Ta Ku Angarha, U Ta Kuma Ku Wisa."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "number": 404,
+  "language": "pt",
+  "title": "Ó Deus, Contigo Almejo Andar",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ó Deus, Contigo Almejo Andar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó Deus contigo almejo andar,",
+        "sim como Enoc contigo andou",
+        "Ó toma, pois a minha mão,",
+        "pois sabes que mui débil sou",
+        "E se o caminho escuro for,",
+        "Contigo quero andar, Senhor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Não posso andar sozinho, ó Deus,",
+        "a tempestade ruge hostil",
+        "Mil laços se armam aos meus pés;",
+        "à espreita estão perigos mil",
+        "Para arrastar-me à perdição;",
+        "só tenho em Ti a salvação."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Podendo andar contigo, ó Deus,",
+        "o mundo aqui é sem valor",
+        "Eu sigo pois a Tua luz,",
+        "E avanço firme, sem temor",
+        "E ainda lá no eterno lar Contigo,",
+        "ó Deus almejo andar"
+      ],
+      "number": 4
+    }
+  ]
+}

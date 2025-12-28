@@ -1,0 +1,53 @@
+{
+  "number": 266,
+  "language": "ve",
+  "title": "266. Yesu Ndi do U Tevhela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:444"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu ndi do tevhela",
+        "Ndi tshi pfa u tshi mmbidza",
+        "Ndi da ndo tou takala",
+        "U nnyise hayani."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndi do tevhela",
+        "Ndi do tevhela",
+        "Hune wa nnyisa ndi do u tevhela."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mato a xela ndila",
+        "nayo dzi xela ndila",
+        "Ndi nga vha ndo tou netesa",
+        "Mphe-vho Maanda."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi nga vha vhutunguni",
+        "Zwivhi zwo thivha ndila",
+        "Ndi do dzula ndo khwatha",
+        "Ndi tshi u tevhela"
+      ],
+      "number": 4
+    }
+  ]
+}

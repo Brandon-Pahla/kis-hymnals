@@ -1,0 +1,41 @@
+{
+  "number": 8,
+  "language": "ny",
+  "title": "8 - Pakwitana Mbuye Wanga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHEN THE TRUMPET"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Pakwitana Mbuye wanga potsiriza dzikoli,",
+        "Pakufika tsiku la kuwalalo,",
+        "Posonkhana akumvera, pakuona Yesuyo,",
+        "Ndidzakondwerera naye komweko",
+        "CHORUS:",
+        "Pakwitana Mbuye wanga (Mbuyanga),",
+        "Pakwitana Mbuye wanga (Mbuyanga),",
+        "Pakwitana Mbuye wanga,",
+        "Ndidzakondwerera naye komweko.",
+        "2. Potuluka mmanda mwao, anthu ake onsewo,",
+        "Tidzasanganatu nao nthawiyo.",
+        "Pakuuka osankhidwa, kunka naye Yesuyo,",
+        "Ndidzakondwerera naye komweko.",
+        "3. Tisaleke kugwirabe ntchito ya Mulunguyo,",
+        "Tibukitse mbiri yake mdzikoli,",
+        "Ndi podzatha moyo wathu ndi zintchito zathuzo,",
+        "Tidzakondwerera naye komweko.",
+        "CHORUS (lotsiriza):",
+        "Pakwitana Mbuye wathu (Mbuyathu),",
+        "Pakwitana Mbuye wathu (Mbuyathu),",
+        "Pakwitana Mbuye wathu,",
+        "Tidzakondwerera naye komweko."
+      ]
+    }
+  ]
+}

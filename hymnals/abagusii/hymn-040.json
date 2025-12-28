@@ -1,0 +1,35 @@
+{
+  "number": 40,
+  "language": "guz",
+  "title": "40 'Karar' As 'Embera",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Karar' as' embera,Yes' Omotoria;Kaganya Koboka,'Monen' one."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kaboka korw' embera,Nobobui as' omobisaAkabok' akabua omosunteAmenyete n'abachenu kogambaKaboka, kaboka, Alleluy' akaboka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Bakarend' embera,Yes' Omotoria;Bakarenda bosa,Monen' one."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tabuetwe nogokwa,Yes' Omotoria;Kabu' ebisibo,Monen' one."
+      ],
+      "number": 4
+    }
+  ]
+}

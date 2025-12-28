@@ -1,0 +1,54 @@
+{
+  "number": 223,
+  "language": "xh",
+  "title": "223 Landela Yonk’ Indlela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiva uMsindis’ ebiza, Ngelizw’ elithambileyo;",
+        "Liwa ezindlebeni zam, \"Landela mna yonke imihla.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndithabath’ umnqamlezo wam, Msindisi wam ndimlandele;",
+        "Aph’ andikhokela khona, Ndoba naYe yhonke indlela."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nok’ indlel’ ibugxwayiba, Noko ndidinwe inyawo,",
+        "Intliziyo idlamkile, Ndilandela yonke indlela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu solok’ ukhokela, Ukhanyeza phezu kwami,",
+        "Ndakutyhaf’ undomeleza, Ndilandela yonke indlela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Naxa ndidlul’ emfuleni, Uz’ undondle ngay’ imana;",
+        "Yiba nam ngamaxa onke, Ndilandela yonke indlela."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndigcin’ entliz’ weni yaKho, Ndifihl’ engalweni zaKho;",
+        "Undenzele ubabalo, Ndilandela yonke indlela."
+      ],
+      "number": 5
+    }
+  ]
+}

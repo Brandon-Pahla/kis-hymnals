@@ -1,0 +1,47 @@
+{
+  "number": 94,
+  "language": "tw",
+  "title": "Abɔde a Ͻwɔ Hɔ Ny'naa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Abɔde a ɛwɔ hɔ ny'naa",
+        "Ka wɔn Bɔfo ayeyi ky'rɛ;",
+        "Nyame nsaandwuma biara",
+        "Ky'rɛ sɛnea Osi som bo fa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔdom a ɔde gyee yɛn mu",
+        "Na yehu N'anuonyam kɛse;",
+        "ɔtwee yɛn kɔɔ 'sɛnnua no so,",
+        "De mogya dehye no gyee yɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻha na Ne din ny'naa di mu,",
+        "Adwen' ntum' nhu, nyansa ntum' nky'rɛ",
+        "Nea ɛyɛ kɛse sen 'yinom ɔ",
+        "Ne tumi, nyansa, ne Ne dɔ."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛbɛbɔ Ne din no daa daa,",
+        "De nne a nnipá aso ntee da",
+        "Ne 'bɔfo akamfo 'Guammaa n'",
+        "Asom N'Agya 'hengua anim."
+      ],
+      "number": 4
+    }
+  ]
+}

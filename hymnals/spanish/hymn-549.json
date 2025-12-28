@@ -1,0 +1,56 @@
+{
+  "number": 549,
+  "language": "es",
+  "title": "Ya el fin se acerca",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ya el fin se acerca"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ya el fin se acerca de tu día santo;",
+        "benigno acepta la oración, Señor,",
+        "que te ofrecemos en humilde canto,",
+        "cual sacrifico de agradable olor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por las mercedes a tu amor debidas,",
+        "por el descanso y plácido solaz,",
+        "mil gracias sean solo a ti rendidas,",
+        "Rey de los reyes, Príncipe de paz."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Haz que del mundo la escabrosa",
+        "senda",
+        "correr podamos con seguro pie;",
+        "y en los conflictos que la duda",
+        "tienda,",
+        "tu luz alumbre nuestra débil fe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Este descanso de sagrada holgura",
+        "es de las almas celestial festín;",
+        "nos anticipa la sin par ventura",
+        "de aquel reposo que será sin fin."
+      ],
+      "number": 5
+    }
+  ]
+}

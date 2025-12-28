@@ -1,0 +1,45 @@
+{
+  "number": 103,
+  "language": "st",
+  "title": "103  Le Tsoaloe Hape.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "’Musi O tlile ho Jesu bosiu,",
+        "Ho botsa ka poloko le leseli;",
+        "Moruti A etsa karabo e ntle,",
+        "“Phetang le tsoaloe hape.”"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Pheta u tsoaloe hape.",
+        "Ka ’nete-nete ke re ho uena;",
+        "“Phetang le tsoaloe hape.”"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bana ba batho le mameleng lentsoe,",
+        "Le builoeng ke Jesu Morena,",
+        "Se keng la etsa thomo ea lefeela",
+        "“E ka khona U tsoaloe hape.”"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lona ba le ka kenang moo phomolong,",
+        "La bina pina le ba lopollotsoeng;",
+        "Bophelo bo sa feleng ke ba lona,",
+        "“Phetang le tsoaloe hape.”"
+      ],
+      "number": 3
+    }
+  ]
+}

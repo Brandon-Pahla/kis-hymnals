@@ -1,0 +1,46 @@
+{
+  "number": 250,
+  "language": "xh",
+  "title": "250 Mus’ Ukuhendeka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mus’ ukuhendeka, Oko sisono,",
+        "Ngalo uloyiso Wozuza omnye;",
+        "Yomelela ulwe, Yoyis’ umnqweno,",
+        "Khangela kuYesu, Wokuphumelisa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hamb’ ucel’ uMsindisi,",
+        "Eze akukhusele;",
+        "Uyavum’ ukunceda,",
+        "Wokuthwala yena."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kheth’ abalingane, Uthetha nyulu,",
+        "Umhlonel’ uThixo, Moyike wena;",
+        "Yiba sengqondweni, Unobubele;",
+        "Khangela kuYesu, Wokuphumelisa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuy’ oweyisayo Nas’ isithsaba,",
+        "Soyisa ngokholo, Noko kunzima;",
+        "U-Msindisi wethu Wosihlaziya.",
+        "Khangela kuYesu, Wokuphumelisa."
+      ],
+      "number": 3
+    }
+  ]
+}

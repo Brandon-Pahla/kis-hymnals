@@ -1,0 +1,30 @@
+{
+  "number": 215,
+  "language": "ny",
+  "title": "215 - Linda Usadandaule",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WAIT AND MURMUR NOT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Kwathu kosasinthikako, Ndi masautso kulibe;",
+        "Inde kwathu kowalako, Kodi sudzapumulako?",
+        "CHORUS:",
+        "Linda, usadandauletu, Linda usadandauletu;",
+        "Linda, Linda, Usadandauletu.",
+        "2. Walemedwa ndi katundu, Wa zinthu za dziko lino,",
+        "Tsiku lopuma lidzadza( fatsa usadandaule.",
+        "3. M’njira muli minga kodi, Iye anabvala minga;",
+        "Wapeza cisoni kodi, Iye cinamgwera kale.",
+        "4. Gwira ntchito upirire, Ngakhale umanyozeka;",
+        "Tsiku lopuma lifika, Linda usadandaule."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "number": 9,
+  "language": "bem",
+  "title": "9 - LISHENI INTANDALA NA MAKA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LIFT UP THE TRUMPET"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Lisheni inta-ndala namaka; Yesu Mfumu akesa!",
+        "Angisheni mwi-mbe imwe beni; Yesu Mfumu akesa",
+        "CHORUS:",
+        "Yesu akesa, Yesu akesa, Yesu Mfumu akesa!",
+        "2. Mwe mpili lete-ni ifiunda; Yesu Mfumu akesa!",
+        "Aisa no lu-lumbi ulwakwe, Yesu Mfumu akesa",
+        "3. Na iwe cambe-shi ulandishe, Yesu Mfumu akesa!",
+        "Ulandishishe ku bantu bonse, Yesu Mfumu akesa!",
+        "4. Ifinkukuma filetulanga, Yesu Mfumu akesa!",
+        "Ne fipupu na-fyo nefifine, Yesu Mfumu akesa!",
+        "5. Twishibila ku-ndupwa bukali, Yesu Mfumu akesa!",
+        "Na mano yafu-lisha mu bantu, Yesu Mfumu akesa!"
+      ],
+      "number": 2
+    }
+  ]
+}

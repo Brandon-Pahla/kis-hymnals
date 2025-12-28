@@ -1,0 +1,56 @@
+{
+  "number": 32,
+  "language": "pt",
+  "title": "Deus é nosso Pai Amado",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Deus é nosso Pai Amado"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jamais teu coraçăo se turbe,",
+        "Nem nele haja algum temor;",
+        "Pois Deus, do Céu, de ti bem cuida;",
+        "Oh, confia em teu Senhor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Deus é nosso Pai amado,",
+        "Que das aves zela bem;",
+        "Dá ao lírio tanta glória !",
+        "Sim, te atenderá também."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O fardo pode ser pesado,",
+        "Grande a cruz a conduzir;",
+        "Levando a Cristo teu cuidado,",
+        "Vais com Ele o repartir."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No céu, se negras nuvens pairam,",
+        "Dando a ti perturbaçăo,",
+        "Oh, busca em Cristo novo alento;",
+        "NEle há consolaçăo."
+      ],
+      "number": 5
+    }
+  ]
+}

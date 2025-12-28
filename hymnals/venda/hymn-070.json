@@ -1,0 +1,62 @@
+{
+  "number": 70,
+  "language": "ve",
+  "title": "70 U do Kuvhanganya Dzitshakha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:396"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. U do kuvhanganya dzitshakha, Dzi do vhonala phanda hawe,",
+        "Ri do vha ri kha tshiimo-de, vhanwe vha tshi mu tanganedza."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Rine henefho ri do ima ’fhi, nga duvha lihulu,",
+        "Musi vhathu vha tshi vho khethwa, Nga ilo duvha lihulu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Hu do vha hu tshi vhusa Mutshidzi, Ene Ngwana yo lugaho,",
+        "A ri nga do tetemela naa, Ra mu shavha ra ya thavhani?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Vhanwe u do vha kuvhatedza, Vha re na luswayo lwawe-vho,",
+        "U do vha ambadza u luga, Vha dzula marumbini awe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Arali ri vha lindelaho, Ri na mbone dzi tshi di duga,",
+        "Musi muhwe a tshi do swika, Ri do kona u fhufha rothe."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Mbilu yanga lilala tadulu, ndi kone u kondelela,",
+        "Ri khalwo lwendo lwa u tuwa, Lwa u ya muvhusoni wawe."
+      ],
+      "number": 6
+    }
+  ]
+}

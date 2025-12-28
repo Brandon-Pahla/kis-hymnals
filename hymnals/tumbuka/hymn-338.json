@@ -1,0 +1,54 @@
+{
+  "number": 338,
+  "language": "tum",
+  "title": " 338 Uko Mthuzi Kulije",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 338 Uko Mthuzi Kulije",
+        "CM 1985"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Tawuka kuya ku msumba lupiri",
+        "Iwa Ziyoní Kumalo ghakutowa",
+        "kwakuruska nkhanira (kuchanya)",
+        "Sono sono chiwuru cha awo mbatuwa",
+        "mtima Tamukongana na mlenji uko",
+        "mthuzi kulije (kulije)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Wakusuzgika, zinchimi, wanthu",
+        "watuwa mtima Wamyowoya nkhani",
+        "yakuwombokwa kwawo kwandanda (kwandanda)",
+        "Tamp'lika na kwimba nawo",
+        "kwa muyirayira swi Tamukongana",
+        "na m'lenji uko m'thuzi kulije (kulije)"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Sumu tizamkwimba na wanyithu",
+        "wakutemweka Tamukongana pa sirya",
+        "la msumba wa kuchanya (kuchanya)",
+        "Mponoski wati wizenge masuzgo",
+        "ntha ghaliko Tamkukumana na mlenji",
+        "uko mthuzi kulije (kulije)"
+      ],
+      "number": 4
+    }
+  ]
+}

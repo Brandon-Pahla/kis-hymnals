@@ -1,0 +1,68 @@
+{
+  "number": 104,
+  "language": "tum",
+  "title": " 104 Mndipulike",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 104 Mndipulike",
+        "COME, GREAT DELIVERER, COME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mndipulike, muwe na lusungu,",
+        "Mwe mutaski mwize,",
+        "Mzimu wane ukunweka nadi,",
+        "Mwe mutaski mwize."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "NdapuLukira pa mapiri zi!",
+        "Kutali na Fumu yane",
+        "Mundovwire na kundiwezgaso,",
+        "'Mwe mutaski mwize."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Malo ghakubisama kulije,",
+        "Mwe mutaski mwize,",
+        "Mdima wiza, mungweruske ine,",
+        "\"Mwe mutaski mwize."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nkhwenda ndekha, malundi ngazio,",
+        "Mwe mutaski mwize",
+        "Maso ghane nkhwinula kwa imwe,",
+        "Mwe mutaski mwizze."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Mwe pulikani kutampha kwane,",
+        "Mwe mutaski mwize",
+        "Ndapera nadi m'ndipokerere,",
+        "Mwe mutaski mwize."
+      ],
+      "number": 5
+    }
+  ]
+}

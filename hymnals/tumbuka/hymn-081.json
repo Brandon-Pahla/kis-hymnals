@@ -1,0 +1,48 @@
+{
+  "number": 81,
+  "language": "tum",
+  "title": " 81 Teweta Mlimo Wake",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 81 Teweta Mlimo Wake",
+        "WORK, FOR THE NIGHT IS COMING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Teweta mlimo wake, chisi chitizenge,",
+        "Wambe na mlenjilenji, sono kukucha,",
+        "Teweta zuwa lose kufika ku mise,",
+        "Teweta nyengo yose mwaluwiro 'we."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Teweta mlimo wake, chisi chitizenge,",
+        "Teweta zuwa lose, na mbwezga-mise,",
+        "Pakumara kwa mlimo wampumula nadi.",
+        "Teweta nyengo yose mwaluwiro 'we."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mkhristu teweta mlimo, chisi chitizenge,",
+        "Dazi laruta kale, chisi chafika,",
+        "Teweta na nkhongono papo undagone",
+        "Luwiro mlimo wose uti umare."
+      ],
+      "number": 4
+    }
+  ]
+}

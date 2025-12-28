@@ -1,0 +1,54 @@
+{
+  "number": 293,
+  "language": "nso",
+  "title": " 293  KOKO! КОКО",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 293  KOKO! КОКО!",
+        "CS 35",
+        "KNOCKING, KNOCKING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Koko! Koko! Ke mang?",
+        "Eme, eme botseng!",
+        "Ke moeng le Morena wa ka,",
+        "Yo bjalo sešo a bonwe pele,",
+        "Moya wa ka, go a makatša,",
+        "O ka se bule mojako?",
+        "O ka se bule na?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Koko! Koko! O gona!",
+        "O eme, botseng!",
+        "Lebati le boima go bulega,",
+        "Bobi le manti di tlemme lebati,",
+        "Di tlemeletše mojakong,",
+        "Di tlemeletše mojakong,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Koko! Koko! Boning!",
+        "O eme, botseng!",
+        "Tsogo le mabadi lea opaopa,",
+        "Kgare ya mmetlwa e hlogong",
+        "Go phadima mahlo ka bonolo,",
+        "Na o tlo tlogela M'phološi,",
+        "A eme, a eme?"
+      ],
+      "number": 4
+    }
+  ]
+}

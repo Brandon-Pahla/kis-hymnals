@@ -1,0 +1,37 @@
+{
+  "number": 624,
+  "language": "tw",
+  "title": "Mepɛ Sɛ Yesu Nem' Nantew",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mepɛ sɛ Yesu nem' nantew,",
+        "Mepɛ sɛ Yesu nem' nantew,",
+        "M'abrabɔ akwantu yi mu,",
+        "Mepɛ sɛ Yesu nem' nantew."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me sɔhwɛ mu, 'W'ra nem' nnantew,",
+        "Me sɔhwɛ mu, 'W'ra nem' nnantew,",
+        "Sɛ nkwa sunsuma resa a,",
+        "Me sɔhwɛ mu, 'W'ra nem' nnantew."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M'aw'rɛhow mu, 'W'ra, nem' nnantew",
+        "M'aw'rɛhow mu, 'W'ra, nem' nnantew",
+        "B're a me koma di yaw no,",
+        "M'aw'rɛhow mu, 'W'ra, nem' nnantew."
+      ],
+      "number": 3
+    }
+  ]
+}

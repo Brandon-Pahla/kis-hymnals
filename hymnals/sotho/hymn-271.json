@@ -1,0 +1,37 @@
+{
+  "number": 271,
+  "language": "st",
+  "title": "271 Leha Li Se Li Le Khubelu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Leha li kaba khubelu, Li tla ba ts’oeu-ts’oeu.",
+        "Leha li ka ba khubelu, Li tla ba ts’oeu-ts’oeu.",
+        "Le ha li joaloka krimson, Li tla soeufala.",
+        "Leha li ka sekarelata (bis) Tla ba joaloka lehloa. (bis)"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Utloa le ntsoe le u qekang Khutlela ho Molimo!",
+        "Utloa le ntsoe le u qekang, Khutlela ho Molimo!",
+        "O na le mohau o moholo, Rato le hlollang.",
+        "Utloa le ntsoe le u qekang,(bis) Khutlela ho Molimo! (bis)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O ts’oarela tlolo tsa hau, ’Me O tla li lebala.",
+        "O ts’oarela tlolo tsa hau, ’Me O tla li lebala.",
+        "\\\"Shebang ho ’Na, batho kaoela!\\\"Ho bua Morena,",
+        "O ts’oarela le li tlolo, (bis) ’Me O tla li lebala. (bis)"
+      ],
+      "number": 3
+    }
+  ]
+}

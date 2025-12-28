@@ -1,0 +1,57 @@
+{
+  "number": 326,
+  "language": "xh",
+  "title": "326 Uyeza Ephahlwe Yimikhosi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Uyeza! Uyeza! ephahlwe yimikhosi,",
+        "Kwa lowo ubefela aboni emhlabeni,",
+        "Uyeza! Uyeza! ephahlwa ziingelosi,",
+        "Zimphahla ngamawaka esebungcwaliseni."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uyeza! Uyeza! usiza emgwebeni,",
+        "Yivani ixilongo livus’ abantu bonke,",
+        "Bovuka ngokwalama bavuke ekufeni,",
+        "Bamiswe phambi kwakhe owazi into zonke."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uyeza! Uyeza! intshaba ziye phina,",
+        "Ezazimbandezela ephantsi emhlabeni?",
+        "Engu-Kumkani ngoku, seziya kuthinina?",
+        "Zokhal’ ezintabeni, \"Zintaba siweleni!\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uyeza! Uyeza! incwadi zivuliwe,",
+        "Izizwe zonke zimi ukuv’ ilizwi lakhe;",
+        "Lilizwi lomgqibelo, kobonwa xa liviwe,",
+        "Akukho ukusinda ekugwebeni kwakhe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uyeza! Uyeza! ebukwa ngabangcwele,",
+        "Engu-Mkhululi wabo owehla emafini;",
+        "Bonyuka kunye Naye ndawonye nezihlwele,",
+        "Emveni kokugweba, ukuya ezulwini."
+      ],
+      "number": 5
+    }
+  ]
+}

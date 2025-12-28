@@ -1,0 +1,22 @@
+{
+  "number": 228,
+  "language": "ts",
+  "title": "228. VONGAN! VONGAN! YENA YESU MUKUTSURI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "PRAISE HIM! PRAISE HIM!",
+        "1. Vongan! Vongan! Yena Yesu Mukutsuri, Nsovo Wakwe A Wu Khensiwe,",
+        "Tintsumi Dzunisani, Hoyozelani, Hi N’wi Khensa Hi Mbilu Na Moya, I Murisi La Teleke Rirhandzu,",
+        "U Ponisa Lava N’wi Tshembhaka, Yimbelelani Tinsimu To Dzunisa, Hi Ntsako N’wi Tlangeleni Yesu.",
+        "2. Vongan! Vongan! Yena Yesu Mukutsuri, Swidyoho Swerhu U Swi Ferile,",
+        "Mukutsuri, Ntshembho Werhu Na Khokholo, U File Matshan’weni Ya Hina, Mahlomulo U Hi Rhwalele Wona. Leri I Rirhandzu Ra Ntiyiso, Yimbelelani Tinsimu To Dzunisa, Hi Ntsako N’wi Tlangeleni Yesu.",
+        "3. Vongan! Vonga! Yena Yesu Mukutsuri, Matilo Twarisani Hosanna,",
+        "Yesu Hanya Hi Masiku Ni Masiku, Hosi, Muprista, Na Muprofeta, Ku Fuma, Misava Swiku Rindzele, Matimba, Vukosi, I Bya Wena,",
+        "Yimbelela Tinsimu Ta Ku Dzunisa, Hi Ntsako N’wo Tlangeleni Yesu."
+      ],
+      "number": 1
+    }
+  ]
+}

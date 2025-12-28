@@ -1,0 +1,42 @@
+{
+  "number": 88,
+  "language": "luo",
+  "title": "88 E Dho Wath Man Loka Nam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. E dho wath man loka nam;Pewe rieny kuno malerNitie duol moluongaee;nyaka aret adhi kanyo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Koro adhi ok adwar dekoNikech Ruoth e ma luongaWe adhi nyak` awinj RuodhaJopinywa koro oritu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Awinjo Ruoth kowacho,Un jokeyo ret uruNikech puothe nimabor,jopinywa we uru adhi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. E apaka mogingorebat moting`e ma nenoNe rangeye bende oyawkendo jomolal luonga."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Wuonwa, minwa,nyithindwa nyaka agonu oritiNikech dho wath nam mabornitie tich ma Ruoth luonga."
+      ],
+      "number": 5
+    }
+  ]
+}

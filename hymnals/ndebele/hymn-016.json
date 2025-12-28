@@ -1,0 +1,39 @@
+{
+  "number": 16,
+  "language": "nd",
+  "title": "16 Zinyawana Qaphelani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi gezil’ izandla, Ngazenza zabamhlope",
+        "uJesu ngamnika, Zi msebenzele kuhlwe"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nina, ‘zinyawana, Qaphelani bo!",
+        "Lapho ning’sa khona, Kube kuJesu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi tshel’ izindlebe, Zizwe-ke, yonk’ imihla",
+        "Umsebenzi wonke, Ongenziwa yizandhla"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amehl’ alindile, Lapho zi qonde khona",
+        "Ngi ngaze ngi gange, Bes’ uJesu ngi mona"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "number": 50,
+  "language": "sn",
+  "title": "50 Nyika Yakanaka Kudenga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyika yakanaka kudenga",
+        "Toiona ngekudawira",
+        "Baba vedu vatimirira",
+        "Vanotigadzirira musha"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ikwo’yo… Pamberi… Tichazosangana ikwo’yo",
+        "Ikwo’yo… Pamberi… Tichazosangana ikwo’yo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tichaimba kunyika iyo,",
+        "Nziyo dzevakakomborerwa",
+        "Moyo haizochemi’yo zve",
+        "Kunyika’yo yekuzorora"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tichamupa kutenda kwazvo",
+        "Kuna Baba vedu kudenga",
+        "Ngechipo chikuru che rudo",
+        "Misi yese takomborerwa"
+      ],
+      "number": 4
+    }
+  ]
+}

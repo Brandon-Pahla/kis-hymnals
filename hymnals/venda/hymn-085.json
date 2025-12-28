@@ -1,0 +1,45 @@
+{
+  "number": 85,
+  "language": "ve",
+  "title": "85 Tenda Maanda A Mudzimu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:088",
+        "AH:067"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tenda Maanda a Mudzimu, O sika dzithavha,",
+        "Na lwanzhe lwe a lu ita, na lutombo lwothe.",
+        "Ndi khoda uvhu vhutali, ho itaho duvha,",
+        "Na wone nwedzi vhusiku, na dzone dzinaledzi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Imbelela nga dakalo, O ri fha zwiliwa,",
+        "O sika nga ipfi law, zwothe zwa shangoni,",
+        "Ri vhona zwi mangadzaho, mashangoni othe,",
+        "Henefhano fhano fhasi, na ngei tadulu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Zwothe zwithu zwi re hone, zwi tshila nga Ene,",
+        "Makole na muya zwothe, zwi khoda Musiku,",
+        "Zwisikwa zwi tshila ngae, zwi fushwa ngae Ene,",
+        "Ri nga shavhela ngafhi naa? Murena u hone."
+      ],
+      "number": 4
+    }
+  ]
+}

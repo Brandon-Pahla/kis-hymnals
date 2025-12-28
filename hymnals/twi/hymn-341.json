@@ -1,0 +1,46 @@
+{
+  "number": 341,
+  "language": "tw",
+  "title": "Anuonyam Nka Nyame",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Anuonyam nka Nyame, nea Wayɛ no so,",
+        "Sɛ ɔdɔɔ wiase de Ne Ba no kyɛɛ yɛn;",
+        "Na ɔde Ne nkwa yɛɛ bɔne ho mpata,",
+        "Na Obuee nkwa pon sɛ emu na yɛnhyɛn."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yi Aw'rade ayɛ, ma 'sase nte Ne nne;",
+        "Yi Aw'rade ayɛ, ma amansan 'ni nnye,",
+        "Momfa 'Ba Yesu so mmra Agya no nkyɛn;",
+        "Monhyɛ No anuonyam na nea Wayɛ so."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkwagye a edi mu mogya atɔde,",
+        "Ͻyɛ Nyame bɔhyɛ ma nea ɔgye di;",
+        "Bɔn'yɛfo a ɔgye di nokwarem no,",
+        "Nya Yesu nkyɛn faf'ri amonom hɔ ara."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nea Wakyerɛ yɛn ne nea Wayɛ no so,",
+        "Yɛn anigye so wɔ ɔba Yesu mu;",
+        "Nanso dá a yebehu Yesu anim no,",
+        "Ͻbɛyɛ nwanwa, yɛn ani bɛgye pii."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 310,
+  "language": "luo",
+  "title": "310 Nitie Kamaber Mar Yweyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nitie kamaber mar yweyomachiegni gi Nyasaye;Kama richo ok nyal donje,machiegni gi Nyasaye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ruoth Yesu ma Jawarwa,No or koa polo,Iwinjwa wan mwariti,machiegni gi Nyasaye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nitie kanyo maber mar hoch,machiegni gi Nyasaye;Kama warom` e gi Jawar,machiegni gi Nyasaye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kanyo ji duto ni thuolo,machiegni gi Nyasaye,En kama mor gi kwe nitie,machiegni gi Nyasaye."
+      ],
+      "number": 4
+    }
+  ]
+}

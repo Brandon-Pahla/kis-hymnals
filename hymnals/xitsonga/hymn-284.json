@@ -1,0 +1,22 @@
+{
+  "number": 284,
+  "language": "ts",
+  "title": "284. LOKO TIMBILU TI VAVA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHILE THE DAYS ARE GOING BY",
+        "1. Loko Timbilu Ti Vava, Hambi Moya Wu Tsana, Hi Ku Famba Ka Masiku, U Ta Kuma Ku Rhula;",
+        "Hambi Rendzo Ri Tika, Vonakarisa Ntsako, Swa Koteka Ku Endla, Mintirho Leyinene.",
+        "CHORUS",
+        "Ha Ha Ri Na NKarhi, Ha Ha Ri Na Nkarhi, Hi Endla Leswinene, Nkarhi Wa Ha Pfumela.",
+        "2. Hi Nga Tshuki Hi Loloha, Loko Ri Xa Ri Pela, Misava Yi Na Switlhavi, Maxanga Na Swirilo;",
+        "Hinkwako Kuna Gome, Vanhu Va Kalakala, Va Khongotele Wena, NKarhi Wa Ha Pfumela.",
+        "3. Swilo Swa La Misaveni, Swona Swa Tshumbitela, A Swi Sale Kwala Hansi, Siku Rin’wana Ra Ta;",
+        "Hikuva Hi Haxile, Mbewu Ya Ku Lulama, Hi Ta Kuma Ku Rhula, Nkarhi Wa Ha Pfumela."
+      ],
+      "number": 1
+    }
+  ]
+}

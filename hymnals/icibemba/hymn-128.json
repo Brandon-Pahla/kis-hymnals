@@ -1,0 +1,39 @@
+{
+  "number": 128,
+  "language": "bem",
+  "title": "128 - INSHITA YA KUPEPA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BLESSED HOUR OF PRAYER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Inshita ya kupepa ni ‘lyo twafininwa;",
+        "'Lyo tuya kuli Yesu cibusa wesu;",
+        "Nga twamucetekela, ena katulama,",
+        "Emuti ku-banaka, cisumo kuyo kwali.",
+        "CHORUS:",
+        "Nshita yapalwa, nshita ya kupepa,",
+        "Emuti kubanaka, cisumo kuyo kwali.",
+        "2. Inshita ya kupepa ni ‘lyo Yesu ‘lipo,",
+        "Ena wa luse kuli 'Iwe bana bakwe;",
+        "Masakamano yonse tubike pa nkasa,",
+        "Emuti kubanaka, cisumo kuyo kwali.",
+        "3. Inshita ya kupepa ni ‘lyo tuletunkwa,",
+        "Tuye ku mupusushi uwatutemwa;",
+        "No mutima wa luse alefumya fyonse,",
+        "E muti kabanaka, cisumo kuyo kwali.",
+        "4. Pa nshita ya kupepa tumucetekela,",
+        "Ukuti fyo tufwaya aletupela;",
+        "Nga twamucetekela akatukakula,",
+        "E muti kubanaka, cisumo kuyo kwali."
+      ],
+      "number": 2
+    }
+  ]
+}

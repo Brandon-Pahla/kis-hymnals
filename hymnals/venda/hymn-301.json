@@ -1,0 +1,46 @@
+{
+  "number": 301,
+  "language": "ve",
+  "title": "301. Hu Si Kale Murena U do Vhuya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Hu si kale Murena U do vhuya,",
+        "U da u dzhia vhothe vha mu funaho,",
+        "Vho faraho milayo ya Mudzimu,",
+        "Vha re na vhutanzi ha Yesu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Vhulunga milayo, ni songo hangwa na Savhatha,",
+        "(Na vhutanzi)",
+        "Ni fulufhedzee, Yesu u tsini na u vhuya, Rembuluwani.",
+        "(Kha Mudzimu)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. A tshi do vhuya zwi do nga ndi lupenyo,",
+        "A ruma vharunwa na phalaphala,",
+        "Hu do pfala mukosi wa u khura,",
+        "Vho faraho milayo vha re na vhutanzi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Vhafu vho khethwaho vha tshi do vusiwa,",
+        "Vha tshilaho vha do shandukiswa,",
+        "Ndi hone vha tshi do mu tanganedza,",
+        "A tuwa navho a vha isa ha Mudzimu."
+      ],
+      "number": 3
+    }
+  ]
+}

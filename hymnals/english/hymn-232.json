@@ -1,0 +1,55 @@
+{
+  "number": 232,
+  "language": "en",
+  "title": "232 I Will Never Leave Thee.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I will never, never leave thee,",
+        "I will never thee forsake;",
+        "I will guide, and save, and keep thee,",
+        "For my name and mercy’s sake;",
+        "Fear no evil, Fear no evil,",
+        "Only all my counsel take."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "When the storm is raging round thee,",
+        "Call on me in humble prayer;",
+        "I will fold my arms around thee,",
+        "Guard thee with the tend’rest care;",
+        "In the trial, In the trial,",
+        "I will make thy pathway clear."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "When the storm is raging round thee,",
+        "Call on me in humble prayer;",
+        "I will fold my arms around thee,",
+        "Guard thee with the tend’rest care;",
+        "In the trial, In the trial,",
+        "I will make thy pathway clear."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "When thy soul is dark and clouded,",
+        "Filled with doubt, and grief and care;",
+        "Through the mists by which ‘tis shrouded,",
+        "I will make the light appear,",
+        "And the banner, and the banner,",
+        "Of my love I will appear"
+      ],
+      "number": 4
+    }
+  ]
+}

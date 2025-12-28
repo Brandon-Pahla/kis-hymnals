@@ -1,0 +1,35 @@
+{
+  "number": 231,
+  "language": "guz",
+  "title": "231 Ande Onsi Gantangaine",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ande onsi gantang'aine,Nindagende mwegenete;Nkoinyora bun'ankwerete,Akabambw'aria Kalwari."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yeso nandae botambe,Yeso nandae and'onsi;Omosani bw'Ogokumia,Agankwer 'ase Kalwari"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nagokire komoigwera,Nagokire gantangaine'Gwancha kway'ogwansu ase nde,Gochenire na Kalwari."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nindagende tinkoiroka,Ngoke Kristo kare ang'e;Nsemeretie komorora,Yes'Omosani onkwerete."
+      ],
+      "number": 4
+    }
+  ]
+}

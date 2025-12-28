@@ -1,0 +1,34 @@
+{
+  "number": 43,
+  "language": "es",
+  "title": "Agua de vida",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Agua de vida"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Agua de vida aquí encontré,",
+        "fuente de eterna salvación;",
+        "agua que siempre me saciará,",
+        "pues Jesús me renovará."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Luego de tributar con fe",
+        "culto de gloria al Creador,",
+        "reconsagramos el corazón",
+        "al Señor que nos redimió. Amén."
+      ],
+      "number": 3
+    }
+  ]
+}

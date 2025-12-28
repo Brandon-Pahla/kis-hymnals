@@ -1,0 +1,35 @@
+{
+  "number": 433,
+  "language": "fr",
+  "title": "Pour tout l'espoir",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Pour tout l'espoir du clair matin,",
+        "Et le repos du soir ;",
+        "Pour tant d'amis, de vrais liens,",
+        "Et pour ton doux regard ;",
+        "Pour ta lumière dans la nuit,",
+        "La paix, la guérison ;",
+        "Pour l'œuvre à faire et ton appui,",
+        "Seigneur, nous te louons."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh ! viens, Seigneur, oui, hâte-toi,",
+        "Tes dons sont merveilleux !",
+        "Mets dans nos cœurs l'amour, la joie,",
+        "Et comble tous nos vœux.",
+        "Étends sur nous, du haut des cieux,",
+        "Ta grâce, ton pouvoir.",
+        "Quel jour de gloire quand nos yeux",
+        "Pourront, enfin, te voir !"
+      ],
+      "number": 2
+    }
+  ]
+}

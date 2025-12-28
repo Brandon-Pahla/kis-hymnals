@@ -1,0 +1,56 @@
+{
+  "number": 138,
+  "language": "pt",
+  "title": "A Manhã de Luz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A Manhã de Luz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A manhã de luz já está raiando,",
+        "Logo o Rei virá;",
+        "E Seu povo, então, para o lar eterno",
+        "Ele levará."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "A manhã gloriosa está raiando,",
+        "Breve surgirá a luz!",
+        "A manhã gloriosa está raiando,",
+        "Eis que vem Jesus!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inda se ouve o som do evangelho eterno,",
+        "Não vos demoreis!",
+        "Pois bem cedo vem, e com majestade,",
+        "Cristo, o Rei dos reis."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Volverão à vida os queridos mortos,",
+        "Em exultação!",
+        "Que alegria infinda nos encontrarmos",
+        "Na eternal mansão!"
+      ],
+      "number": 5
+    }
+  ]
+}

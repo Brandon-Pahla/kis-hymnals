@@ -1,0 +1,54 @@
+{
+  "number": 115,
+  "language": "nd",
+  "title": "115 Inyanga Enkulu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Inyanga enkul’ iyeza Onesisa uJesu.U khulum’ indleb’ ivuswe, Imlalele uJesu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iphimbo elimnandi, Li sho kahle ulimi!",
+        "Yaze yamnand’ingoma, Jesu!, yebo, Jesu!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zonk’ izono zi xolelwe Zwan’ izwi lika Jesu.",
+        "Phezulu mawenyukele Thwel’ umqhele noJesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Udumo kuYo Imvana Se ngi yamkhol’ uJesu,",
+        "Ngi thanda lona igama Igama lika Jesu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akukh’ onga xosh’ uvalo Ngaphandle kwAkh’ uJesu,",
+        "May’ u yadel’ umphefumlo U thembela kuJesu."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxase fika naw’ umqhele Umqhele wobukhosi,",
+        "Si yakuhlala ngakuYe Si xoxe ngosindiso."
+      ],
+      "number": 6
+    }
+  ]
+}

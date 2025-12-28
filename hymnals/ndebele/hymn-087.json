@@ -1,0 +1,38 @@
+{
+  "number": 87,
+  "language": "nd",
+  "title": "87 Baba Siza KuWe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Baba siza kuWe Akakho omunye; U yinqaba yethu, Themba lethu.",
+        "Umhlaba umnyama, nxa ungekho Wena; Yiba ng’uMduduzi, Baba wethu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Baba siza keWe, Si nga lahlwa Asinaw’ amandla, Nkosi si zwe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si sindise thina Kuzo zonk’ izitha; Yiba nguMduduzi Endleleni.",
+        "Thina si yesaba, Si qinise Baba; Ngengalo yamandla, Si sindise."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si phe umsa wAkho, Bek’ upau lwAkho; Sus’ inyawo zethu Esonweni.",
+        "Woza u si khipe Kuzo izinhlupho; Ze si finylele Ezulwini."
+      ],
+      "number": 4
+    }
+  ]
+}

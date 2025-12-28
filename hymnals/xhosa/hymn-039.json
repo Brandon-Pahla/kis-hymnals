@@ -1,0 +1,46 @@
+{
+  "number": 39,
+  "language": "xh",
+  "title": "39 Iliwa Eliqinileyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngu-Yesu oli-Liwa lam, Inguye u-Sindiso lwam;",
+        "Ndingeze ndikuthemb’ okwam, Ngu-yesu nje umxhasi wam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U-Yesu Kristu li-Liwa, Konk’ okunye kuya dlula;",
+        "Konk’ okunye kuya dlula."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nobumnyama buphambi kwam, Mandingozeli Nkosi yam;",
+        "Nezulu lindiwela nam, Mandinga lahl’ ukholo lwam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Isifungo siqinile Kubo abamthembileyo;",
+        "Xa ithemba seliwile, u-Yesu ndisamthembile."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa likhala ixilongo, Ke yena wobonakala,",
+        "Eno bungcwalisa bonke, Yena ulilo i-Liwa."
+      ],
+      "number": 4
+    }
+  ]
+}

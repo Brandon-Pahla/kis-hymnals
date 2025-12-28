@@ -1,0 +1,39 @@
+{
+  "number": 99,
+  "language": "xh",
+  "title": "99 Umnqamlezo Omangalisayo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndakuqwalasel’ i-krusi, Ekwaxhonyw’ eyam i-Nkosi;",
+        "Ndoncama yonk’ inzuzo yam, Ndilidelel nekratshi lam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bonan’ intloko nezandla, Kunye nawo amanxeba,",
+        "Akrazulwa ngenxa yethu; Yeka! Uthand’ olungaka!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nda ndiyawalahlekile; Ndazuz’ ukuthethelelwa;",
+        "Yala, ndingaziqhayisi Kodwa kube ngomnqamlezo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zonk’ indyebo endinazo Zingumnikelo omncinci;",
+        "Ngenxa yothand’ olungaka Ndinikela impilo yam."
+      ],
+      "number": 4
+    }
+  ]
+}

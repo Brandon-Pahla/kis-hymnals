@@ -1,0 +1,77 @@
+{
+  "number": 40,
+  "language": "tum",
+  "title": " 40 Pulikira",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 40 Pulikira",
+        "TRUST AND OBEY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Pakwenda na Yesu, mu ungweru wake;",
+        "Wakutirongozga mu nthowa;",
+        "Pakulima mlimo, nayo wakuwapo,",
+        "Na wose wakumpulikira."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Pulikira palijeso nthowa,",
+        "yakukondwa mwa Yesu Kweni pulikira."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Kulije mudima, kulije nyathutwe;",
+        "Kweni watingweruskirenge,",
+        "Wofi na vitima vimarenge nadi,",
+        "Tigomezge, tipulikire."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Kulije visuzgo nesi na vitima,",
+        "Kweni wamtipa njombe yake,",
+        "Kwam'kuavye nyifwa, nesi kulekana,",
+        "Pakupulikana na Yesu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Ntha tingamanyiska, vyakutemwa kwake,",
+        "Pakureka kujipereka,",
+        "Chifukwa lusungu na kusangwa kwake,",
+        "Wakupa wakumpulikira."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "Muchikoreskano, tayamkuwa nayo,",
+        "Panji kwendezgana na lyo,",
+        "Tichitenge vyose, nakumurondezga,",
+        "Pakumupulikira Yesu."
+      ],
+      "number": 6
+    }
+  ]
+}

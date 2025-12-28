@@ -1,0 +1,44 @@
+{
+  "number": 584,
+  "language": "pt",
+  "title": "Oh, Como é Bom Louvar",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Oh, Como é Bom Louvar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, como é bom louvar a Deus,",
+        "sempre louvá-lo assim!",
+        "Por Seu amor, favores Seus,",
+        "louvor terá de mim."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Meu coração de pedra é,",
+        "mas novo há de ser,",
+        "Quando por fim co'amor e fé,",
+        "Jesus mudar meu ser."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ao palmilhar a senda aqui,",
+        "faze-me bom Senhor.",
+        "Possa viver, viver por Ti,",
+        "Em Teu divino amor."
+      ],
+      "number": 4
+    }
+  ]
+}

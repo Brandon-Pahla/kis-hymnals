@@ -1,0 +1,40 @@
+{
+  "number": 221,
+  "language": "nd",
+  "title": "221 Nxa Likhala Ijuva",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa likhala ijuba ke Lenza kube kuhle kimi,",
+        "Bese ngicabang’ iNkosi Ngi khumbule eGalile."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chrous",
+        "O! Galile elimnandi, Lapha kwakuthand’ uJesu,",
+        "O! Galile ‘lihuhlaza, woz’ uhlabelele kimi!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lapha ku geleza ‘manzi Laph’ inyoni zi yabonga",
+        "Zi dumisa ngalilanga Ngodumo lwase Galile."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa ngi bala kwakhona le NgaYe owa hamb’ olwandhle,",
+        "Ngi kufisa kodwa kandwa kanye Ukumlandel’ eGalile."
+      ],
+      "number": 4
+    }
+  ]
+}

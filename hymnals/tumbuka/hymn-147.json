@@ -1,0 +1,65 @@
+{
+  "number": 147,
+  "language": "tum",
+  "title": " 147 Dada Mndiguzire Kwa Imwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 147 Dada Mndiguzire Kwa Imwe",
+        "DRAW ME CLOSER TO THEE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Dada mndiguzire kwa imwe,",
+        "mundikumbatire,",
+        "Mndivumbatire Fumu yane,",
+        "kuti ndipumule."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "S/A:",
+        "Mchitemwa chinu Fumu",
+        "mndiguzire kwa imwe,",
+        "T/B:",
+        "Muchitemwa cha imwe Fumu,",
+        "nadi mndiguzire kwa imwe,",
+        "S/A:",
+        "Mundi-gu-j-e kwinu kuchanya",
+        "T/B:",
+        "Mchiterwa chinu Fumu",
+        "mndiguzire kwa imwe,",
+        "mndiguzire kuchanya."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Yesu mndiguzire kwa imwe,",
+        "ndingamlekaninge,",
+        "Ndimanye muli nane nadi,",
+        "ndileke kuzgewa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mzimu mndiguzire kwa imwe,",
+        "ndilingane namwe,",
+        "Mnditozge, mndisavye ku mtima",
+        "kuti ndituwe tu!"
+      ],
+      "number": 4
+    }
+  ]
+}

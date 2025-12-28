@@ -1,0 +1,57 @@
+{
+  "number": 149,
+  "language": "en",
+  "title": "149 Walk In The Light.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Walk in the light the Lord has given,",
+        "To guide thy steps aright;",
+        "His Holy Spirit, sent from heaven,",
+        "Can cheer the darkest night."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Walk in the light, ……………… Walk in the light.",
+        "(Walk in the light, in the beautiful light of God, x2)",
+        "Walk in the light,",
+        "(Walk in the light, in the beautiful light of God)",
+        "Walk in the light, the light of God."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Walk in the light of gospel truth,",
+        "That shines from God’s own Word;",
+        "A light to guide in early youth,",
+        "The faithful of the Lord."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Walk in the light; though shadows dark,",
+        "Should fall across thy way;",
+        "Darkness will flee before the light,",
+        "Of God’s eternal day."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Walk in the light, and thou shalt know,",
+        "The love of God to thee;",
+        "The fellowship, so sweet below,",
+        "In heav’ns will sweeter be."
+      ],
+      "number": 4
+    }
+  ]
+}

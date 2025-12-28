@@ -1,0 +1,70 @@
+{
+  "number": 33,
+  "language": "tum",
+  "title": " 33 Fumu Yikundirongozga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 33 Fumu Yikundirongozga",
+        "HE LEADENTH ME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Fumu yikundirongozga mazgu",
+        "Ghakukondwereska",
+        "Icho ndiri na kuchita",
+        "Ndiyo wakundirongozga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain:",
+        "Wakundirongozga ine",
+        "Na woko Lake Chiuta;",
+        "Nditi ndimrondezge",
+        "Fumu wakundirongozga ndiyo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nyengo zinyake masuzgo,",
+        "Nyengo zinyake kukondwa;",
+        "Mu nyanja ya vimasuzgo",
+        "Imwe mukundirongozga."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Fumu ndimkoreni woko,",
+        "Ndisinginikenge chara;",
+        "Ndikhutiskike mu vyose,",
+        "Pakuti wakurongozga."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Uvwe mulimo wamala,",
+        "Uvwe m'uchizi ndatonda;",
+        "Mnyifwa ntha tindichimbire",
+        "Fumu yikundirongozga."
+      ],
+      "number": 6
+    }
+  ]
+}

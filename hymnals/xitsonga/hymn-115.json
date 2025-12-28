@@ -1,0 +1,24 @@
+{
+  "number": 115,
+  "language": "ts",
+  "title": "115. N’ANGA YIKULU YI KONA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE GREAT PHYSICIAN NOW IS NEAR",
+        "1. N’anga Yikulu Yikona, Wa Tsetselela Yesu;",
+        "Wa Hi Tshuxa Swidyohweni, Twana Rito Ra Yena.",
+        "CHORUS",
+        "Tintsumi Ta N’wi Vonga, Na Vanhu Va Dzunisa; Hi Tinsimu To Khensa, Yesu Wo Rhandzeka.",
+        "2. Hi Yimbelela Nyimpfana, Khokholo Ra Vutomi;",
+        "Ndzi Rhandza Vito Ra Yesu, Dzunisani Vito Rakwe.",
+        "3. Rito Rakwe Ra Matimba, Ri Susa Wo Mapfalo;",
+        "Ri Tisa Ku Rhula Moyen, Ku Rhula Ka Xikwembu.",
+        "4. Loko Yesu A Ta Vuya, U Ta Nyika Tiharhi;",
+        "A Nyika Tona Tinhenha, Vona Lava Hluleke."
+      ],
+      "number": 1
+    }
+  ]
+}

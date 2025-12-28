@@ -1,0 +1,45 @@
+{
+  "number": 1,
+  "language": "tw",
+  "title": "Ayeyi Nka Nyame Tumfo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ayeyi nka Nyame Tumfo",
+        "ade ny'naa so Hene!",
+        "O, me kra yi N'ayɛ, n'ɔyɛ",
+        "W'ahoɔden ne nkwagye;",
+        "Mo a mote ny'naa,",
+        "Muntwiw mmra N'asɔrefi;",
+        "Momfa anigye ntontom No."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ayeyi nka Nyame a Odi",
+        "Ade ny'naa so Hene!",
+        "ɔde Ne ntaban bɔ w'ho ban",
+        "Mma wo nea ehia wo!",
+        "Enti wunhui,",
+        "Sɛ ɔde w'abisade ny'naa",
+        "Ama w'sɛnea Wahyehyɛ no?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ayeyi nka Nyame a Ohy'ra",
+        "W'adwuma, bɔ w'ho ban;",
+        "N'ayamye ne N'ahummɔb'rɔ nni",
+        "W'akyi da biara; Susu ho bio,",
+        "Nea Tweaduampɔn tumi yɛ,",
+        "Sɛ ɔde Ne dɔ fa w'yɔnko."
+      ],
+      "number": 3
+    }
+  ]
+}

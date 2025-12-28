@@ -1,0 +1,46 @@
+{
+  "number": 358,
+  "language": "tw",
+  "title": "A Ky'riky'ri Ne Bɛnkyɛe Nyinaa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Aky'riky'ri ne bɛnkyɛe nyinaa,",
+        "Nnɔbae ahoa wɔ mfuw mu:",
+        "Aba no hyerɛn baabiaraɔ",
+        "Mmepɔ so ne abɔn mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Otwa W'ra, soma apaafo!",
+        "'W'ra tie yɛn, yesu frɛ Wo",
+        "Ma wɔmmɛboa nnɔbaen' ano.",
+        "Ansa na twab're atwam."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Soma wɔn anɔpahema,",
+        "Soma wɔn awiabere;",
+        "B're a owia rekɔtɔ no",
+        "Ma wɔmmoa ano mmaa ny'naa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo a wo W'ra resoma wo,",
+        "Boa nnɔbae pa ny'naa ano",
+        "Na awiei no, wode 'nigye",
+        "Bɛkɔ ɔsoro fie hɔ."
+      ],
+      "number": 3
+    }
+  ]
+}

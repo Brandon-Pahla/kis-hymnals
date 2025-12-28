@@ -1,0 +1,24 @@
+{
+  "number": 2,
+  "language": "ts",
+  "title": "2. HOSI YESU U LE NYANGWEN’",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE COMING KING IS AT THE DOOR",
+        "1. Hosi Yesu U Le Nyangwen, La Nga Rhwala Xihambano;",
+        "Sweswi Lava Lulameke, Va ta Ponisiwa",
+        "CHORUS",
+        "Enyangwen, Enyangwen, Hosi Yesu U le Nyangwen; Yesu Wa Ta, Yesu Wa Ta, Yesu U le Nyangwen.",
+        "2. Swikombiso Swa Kombisa, Leswaku Yesu Wa Vuya;",
+        "Hi Ta Hatla Hi N’wi Vona, Hosi Ya Matilo.",
+        "3. Langutani Misaveni, Ku Hlupheka A Ku Heli;",
+        "Ku Kondza Ku Fika Hosi, Yi Ta Swi Herisa.",
+        "4. Kwale Tikweni Lerintshwa. Hi ta Hanya Evuntsweni, Lava Faka Va Nga Ha Fi;",
+        "Masiku Hinkwawo."
+      ],
+      "number": 1
+    }
+  ]
+}

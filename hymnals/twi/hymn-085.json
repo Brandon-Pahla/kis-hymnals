@@ -1,0 +1,55 @@
+{
+  "number": 85,
+  "language": "tw",
+  "title": "Daa Agyā a Wutumi Gye Nkwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Daa Agyá a Wutumi gye nkwa,",
+        "Wo basa sɔ as'rɔkye mu,",
+        "Na Wohyɛ ɛpo kɛse no",
+        "Sɛ ɛnsɛ sɛ ɛtra n;ahye;",
+        "Tie yɛn b're a yesu frɛ Wo",
+        "Ma po so 'hohia mufo no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kristo, Wo a nsu tie Wo nne,",
+        "Na wɔyɛɛ komm W'asɛm anim;",
+        "Wo a Wonantee ɛpo so,",
+        "Na Wodaa b're a ɛreh'ru;",
+        "Tie yɛn b're a yesu frɛ Wo",
+        "Ma po so 'hohia mufo no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Honhom Kronkron a Wubutuu",
+        "Nsu a sum ahyɛ so n' ani;",
+        "Na Womaa n'abufuw to twae,",
+        "De asomdwoe hyɛɛ ananmu:",
+        "Tie yɛn b're a yesu frɛ Wo",
+        "Ma po so 'hohia mufo no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔdɔ ne tumi Basak'ro,",
+        "Wo a Woyɛ 'kwantufo kyɛm;",
+        "Wobɔ wɔn ho ban fi mmepɔ,",
+        "'S'rɔkye, ogya, ne 'tamfo nsam;",
+        "Yɛbɛto ayeyi dwom fi",
+        "'Sase ne po so ama Wo."
+      ],
+      "number": 4
+    }
+  ]
+}

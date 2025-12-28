@@ -1,0 +1,58 @@
+{
+  "number": 15,
+  "language": "tum",
+  "title": " 15 Yesu Wakunditemwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 15 Yesu Wakunditemwa",
+        "JESUS LOVES ME!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Yesu wakunditemwa mazgu ghandiphalira,",
+        "Twana tuchoko nthwake, ndi mulara watose."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "E! wakutemwa! wakunditemwa,",
+        "E! wakutemwa mazgu ghakuphara."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Yesu wakandifwira, wakajura kuchanya,",
+        "Wandisuke uheni, nkhanjireko kuchanya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Yesu wakunditemwa na m'maurwani ghane,",
+        "Na mkusuzgika kwane, Yesu m'ndovwire ine."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Yesu wakulongozga, wali pafupi nane,",
+        "Wizamukunditora kuya nane kuchanya."
+      ],
+      "number": 5
+    }
+  ]
+}

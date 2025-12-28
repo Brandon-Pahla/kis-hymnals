@@ -1,0 +1,57 @@
+{
+  "number": 275,
+  "language": "sn",
+  "title": "275 Upenyu! Kupi?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Upenyu kupi? Hwuri mumweya",
+        "Mubopoto, mukunyarara hwurimo",
+        "Mubvunz’ unotyisa, upenyu! Kupi?",
+        "Mubvunz’ unotyisa, upenyu! Kupi?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Upenyu kupi? O! Upenyu! Kupi?",
+        "Mumbiri nevapona? Kana kuraswa?",
+        "Muchimwe cheizvi, Upenyu! Kupi?",
+        "Muchimwe cheizvi, Upenyu! Kupi?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Upenyu! Kupi?, Ingakowere seyi",
+        "Murufaro rusina idi rwenyiko",
+        "Gadzira mubvunzo, Upenyu? Kupi?",
+        "Gadzira mubvunzo, Upenyu? Kupi?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Upenyu! Kupi?, O shamwari funga",
+        "Nekukasika, Mwari achatonga",
+        "Nhas’ ungamisire, Upenyu! Kupi?",
+        "Nhas’ ungamisire, Upenyu! Kupi?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Upenyu! Kupi?, O! Upenyu! Kupi?",
+        "Usarare kana kufadzwa nenyika",
+        "Funga nemubvunzo, Upenyu! Kupi?",
+        "Funga nemubvunzo, Upenyu! Kupi?"
+      ],
+      "number": 5
+    }
+  ]
+}

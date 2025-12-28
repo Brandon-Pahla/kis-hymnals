@@ -1,0 +1,56 @@
+{
+  "number": 448,
+  "language": "es",
+  "title": "Salvador, mi bien eterno",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Salvador, mi bien eterno"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Salvador, mi bien eterno,",
+        "más que vida para mí,",
+        "en mi fatigosa senda",
+        "tenme siempre junto a ti;",
+        "junto a ti, junto a ti,",
+        "junto a ti, junto a ti;",
+        "en mi fatigosa senda",
+        "tenme siempre junto a ti."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No me afano por placeres,",
+        "ni renombre busco aquí;",
+        "vengan pruebas o desdenes,",
+        "tenme siempre junto a ti;",
+        "junto a ti, junto a ti,",
+        "junto a ti, junto a ti;",
+        "vengan pruebas o desdenes,",
+        "tenme siempre junto a ti."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En el valle de la muerte",
+        "no te alejes, sino allí,",
+        "tu presencia me aliente",
+        "tenme siempre junto a ti;",
+        "junto a ti, junto a ti,",
+        "junto a ti, junto a ti;",
+        "tu presencia me aliente,",
+        "tenme siempre junto a ti."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "number": 144,
+  "language": "guz",
+  "title": "144 Nkaigwa Yeso Ogokwana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nkaigwa Yeso ogokwana\"Ninchwo otimoke;Ikaransa kwarosire,Bweegek' ase nde.\"Inkamochiera ndosete,Nde n'omoichano!Akang'a obotimoko,Ere ongokirie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nkaigwa Yeso ogokwana,\"Nigo nkorua bosa;Amache ya Obogima,Yanywe obe moyo\".Ngacha ase Yeso nkanywa'Nsoko y'obogima;Erang'o yan' egasira,Nigo nche nde moyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nkaigwa Yeso ogokwana,\"Ninche Omobaso;Ondigererie Orabe,Orabe botambe\".Nkamorigereria Yeso'kang' eng'enang'eniNintare as'oborabu,Nkore orogendo."
+      ],
+      "number": 3
+    }
+  ]
+}

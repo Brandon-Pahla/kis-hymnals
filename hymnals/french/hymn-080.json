@@ -1,0 +1,54 @@
+{
+  "number": 80,
+  "language": "fr",
+  "title": "Voici l’étoile du matin",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Voici l’étoile du matin",
+        "Que fait briller l’amour divin :",
+        "Pure et sainte lumière!",
+        "Répands en nos cœurs ta clarté,",
+        "Viens dissiper l’obscurité",
+        "Qui règne sur la terre."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Seigneur! Sauveur!",
+        "Fils du Père,",
+        "Ta lumière salutaire",
+        "Nous conduit et nous éclaire."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Voici le pain venu des cieux,",
+        "Messager de l’amour de Dieu",
+        "Pour tous ceux qui espèrent.",
+        "Remplis-nous jusqu’à satiété",
+        "De tes magnifiques bontés,",
+        "Toi qui est notre frère."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Voici la porte du salut",
+        "Ouverte à tous ceux qui ont cru",
+        "Qu’ils pourront voir ta face.",
+        "Conduis nos pas jusqu’à ce jour",
+        "Où, accueillis par ton amour,",
+        "Nous chanterons ta grâce."
+      ],
+      "number": 4
+    }
+  ]
+}

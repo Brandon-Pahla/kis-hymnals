@@ -1,0 +1,50 @@
+{
+  "number": 131,
+  "language": "fr",
+  "title": "Comme un cerf",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Comme un cerf altéré brâme",
+        "Après le courant des eaux,",
+        "Ainsi soupire mon âme,",
+        "Seigneur, après tes ruisseaux ;",
+        "Elle a soif du Dieu vivant,",
+        "Et s'écrie, en le suivant :",
+        "« Ô mon Dieu,",
+        "Quand donc sera-ce",
+        "Que mes yeux verront ta face ? »"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pour pain je n’ai que mes larmes,",
+        "Et nuit et jour, en tout lieu,",
+        "Lorsqu’en mes dures alarmes",
+        "On me dit : « Que fait ton Dieu ? »",
+        "Je regrette la saison",
+        "Où j’allais en ta maison,",
+        "Chantant avec les fidèles",
+        "Tes louanges immortelles."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mais quel chagrin te dévore ?",
+        "Mon âme, rassure-toi !",
+        "Espère en Dieu, car encore",
+        "Il sera loué par moi,",
+        "Quand d'un regard seulement",
+        "Il guérira mon tourment.",
+        "Même au fort de ma souffrance",
+        "J'attendrai sa délivrance."
+      ],
+      "number": 3
+    }
+  ]
+}

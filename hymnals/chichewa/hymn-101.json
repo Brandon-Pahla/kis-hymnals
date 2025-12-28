@@ -1,0 +1,32 @@
+{
+  "number": 101,
+  "language": "ny",
+  "title": "101 - Yesu Alikuitana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "JESUS IS CALLING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Yesu alikuitana iwe, Lero lomwe, lero lomwe;",
+        "Bwanji unasocherera iwe, Kutali kutaliko?",
+        "CHORUS:",
+        "Aitana lero lomwe; Yesu alikuitana iwe tsopano.",
+        "(Tenor and Bass):",
+        "Aitana lero lomwe; Aitana lero lomwe;",
+        "Yesu alikuitana lero, ’itana iwe tsopano.",
+        "2. Yesu aitana wotopa ’we, Lero lomwe, lero lomwe",
+        "Tula katundu wako pa Iye; Ndipo sadzakukana.",
+        "3. Yesu alikulindira iwe, Lero lomwe, lero lomwe;",
+        "Idza ndi machimo ako onse; Idzatu usachedwe.",
+        "4. Yesu ali kudandaulira, Lero lomwe, lero lomwe;",
+        "Okhulupira adzakondwera; Podzakomana naye."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "number": 60,
+  "language": "fr",
+  "title": "Gethsémané, lieu de prière",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Gethsémané, lieu de prière,",
+        "Où le Sauveur lutte à genoux :",
+        "Tremblant, il prend la coupe amère.",
+        "Il va souffrir et c’est pour nous."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Que sa victoire nous apprenne",
+        "Comment en lui vivre en vainqueur,",
+        "Avoir pour le péché la haine",
+        "Et de l’amour pour le pécheur."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Portant sa croix jusqu’au Calvaire,",
+        "C’est le Seigneur roué de coups.",
+        "Pourquoi sa mort ? Pour qui ce drame ?",
+        "Pour nous, pécheurs, rien que pour nous !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Regardons ces soldats infâmes",
+        "Percer sa chair avec leurs clous.",
+        "Pourquoi sa mort ? Pour qui ce drame ?",
+        "Pour nous, pécheurs, rien que pour nous !"
+      ],
+      "number": 4
+    }
+  ]
+}

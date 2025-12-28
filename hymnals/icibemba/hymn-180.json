@@ -1,0 +1,37 @@
+{
+  "number": 180,
+  "language": "bem",
+  "title": "180 - INSHITA TATWISHIBE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WE KNOW NOT THE HOUR"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mfumwi leisa; Inshita tatwishibe;",
+        "Malangililo yaleti Alaisa,",
+        "Lintwa kabwela, Bulayo bu bwacine,",
+        "Nshita ta-twishibe.",
+        "CHORUS:",
+        "Akesa (Akesa), Pempuleni teyanyeni;",
+        "Akesa (Akesa), Haleluya! Haleluya!",
+        "'Kesa mu makumbi, Mululumbi lwakwa Wishi.",
+        "Nshita ta twishibe.",
+        "2. Kulyu lubuto kuli balya bamano;",
+        "Mwi buku lyakwe emo fili fishinka;",
+        "Ifile sonta kuli bulya bushiku,",
+        "Nshita ta-twishibe.",
+        "3. Kulalolela, Nenyali shileyaka,",
+        "Twakulabomba, Twakula mulolela",
+        ", Kwanga nokwimba, Bonse balya bamano,",
+        "Nshita ta-twishibe."
+      ],
+      "number": 2
+    }
+  ]
+}

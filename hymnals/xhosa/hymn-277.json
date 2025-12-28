@@ -1,0 +1,37 @@
+{
+  "number": 277,
+  "language": "xh",
+  "title": "277 Kukhanya Ndikhokhele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Makukhanye Kwintsunguz’ emnyama, Ndikhokele.",
+        "Sekuhlwile Ndikude nekhaya, Ndikhokele.",
+        "Ndigcine ndingaze ndikhubeke;",
+        "Mandibone apho ndiyaKhona."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Andizange Ndithandaze ndithi, \"Ndikhokele!\"",
+        "Ndahamba apho ndithanda khona, NdingaKholwa;",
+        "Ndathand’ ihlabathi nento zalo;",
+        "Bulibale obo bomi Nkosi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngeli xesha Undisikelele, Ndikhokele.",
+        "Hamba nam, Bude ubumnyama Bubaleke;",
+        "Xa kusayo ndibon’ iingelosi,",
+        "Waneliswa wonke umnqweno wam."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "number": 50,
+  "language": "ny",
+  "title": "50 - Bwinoli Tipita",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE'S A LAND"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kuli dziko labwino m’mwamba",
+        "Lakuwala koposa dzuwa,",
+        "Ndi Atate akonza malo,",
+        "Pokhalira ife komweko."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Bwinoli tipita,",
+        "Tikomana ku dziko lija (lijalo)."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tidzayimba komweko nyimbo,",
+        "Za abwino omvera Yesu,",
+        "Sitidzamvatu zisoninso,",
+        "Tidzakondwa masiku onse."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tidzatama Atate wathu,",
+        "Kuti iye ’napatsa Yesu,",
+        "Kuchotsera zochimwa zonse,",
+        "Ndi kutidalitsira ife."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "number": 141,
+  "language": "tum",
+  "title": " 141 Ndiwe Winu Nkhanira",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 141 Ndiwe Winu Nkhanira",
+        "WHOLLY THINE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ndiwe winu nkhanira,",
+        "Fumu mundisambizgenge,",
+        "Ndichitenge khumbiro",
+        "linu mundovwirenge."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nd'we winu (Fumu),",
+        "nd'ie winu (Fumu),",
+        "Ndiwe winu nkhuromba,",
+        "Ndwe winu (Fumu),",
+        "nd've winu (Fumu).",
+        "Ndiwe wa Imwe sono."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Kasi usambazi nkhavichi",
+        "kwambura 'mwe Fumu?",
+        "Nditi ndivilekenge",
+        "vyose ndize kwa imwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Apo nkhuvileka vya",
+        "m'charu m'we nane pafupi,",
+        "Ndisangenge vyose kwa",
+        "imwe nd'sangulukenge."
+      ],
+      "number": 4
+    }
+  ]
+}

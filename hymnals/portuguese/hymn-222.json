@@ -1,0 +1,56 @@
+{
+  "number": 222,
+  "language": "pt",
+  "title": "Oh! Que Belo Hino Deus me Deu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Oh! Que Belo Hino Deus me Deu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu canto um hino inspirado",
+        "Por Jesus, meu Redentor;",
+        "Jamais aqui soou com tal fervor",
+        "Este canto de amor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Oh! que belo hino Deus me deu!",
+        "Me pôs no coração dulcíssima canção!",
+        "Oh! que belo hino Deus me deu!",
+        "Um hino do divino amor!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu amo a Cristo que foi morto",
+        "Sobre a cruz pra me salvar;",
+        "Jesus um hino em meus lábios pôs,",
+        "Para a Deus melhor louvar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quando estiver eu lá na glória,",
+        "Vendo os anjos a cantar,",
+        "Um belo hino vou cantar também,",
+        "Lá no meu eterno lar!"
+      ],
+      "number": 5
+    }
+  ]
+}

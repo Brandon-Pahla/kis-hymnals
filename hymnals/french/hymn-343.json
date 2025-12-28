@@ -1,0 +1,63 @@
+{
+  "number": 343,
+  "language": "fr",
+  "title": "Une paix soulage",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Une paix soulage",
+        "Aujourd'hui nos cœurs;",
+        "Libres, ils partagent",
+        "Un divin bonheur.",
+        "Ce bonheur se nomme",
+        "Repos du sabbat.",
+        "Gloire au Fils de l'homme,",
+        "Car son jour est là !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus nous convie,",
+        "Même à deux ou trois,",
+        "À mettre en nos vies",
+        "L’écho de sa foi.",
+        "Nous voulons connaître",
+        "Jésus, Fils de Dieu.",
+        "Il nous donne d’être",
+        "Un parfum des cieux."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Comme au sanctuaire,",
+        "Dans les anciens jours,",
+        "Apprenons du Père",
+        "Justice et amour.",
+        "Soyons à l'écoute",
+        "De ce qu'il nous dit.",
+        "Marchons sur la route",
+        "Vers ses saints parvis."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous serons son temple,",
+        "Par lui habité,",
+        "Nous suivrons l'exemple",
+        "De sa sainteté.",
+        "Jésus nous devance",
+        "Dans le lieu très saint.",
+        "Entrons en confiance",
+        "Au repos divin."
+      ],
+      "number": 4
+    }
+  ]
+}

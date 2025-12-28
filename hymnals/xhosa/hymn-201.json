@@ -1,0 +1,46 @@
+{
+  "number": 201,
+  "language": "xh",
+  "title": "201 Wandikhupha Emgxobhozweni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndabon’ uYehova Ndanoloyika Ngesono esasindoyelisela;",
+        "Ndakhala kuYe ndisemgxobhozweni, Ngesisa wandibeka ngaphezulu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wandikhupha emgxobhozweni Wandibek’ endawen’ ebanzi;",
+        "Wafak’ ingoma phakathi kwam, Ndiyavuma \"Haleluya!\""
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndibekwe kwiLiwa Elikufuphi Ukuze ndiqine ndihlale khona.",
+        "Akukho kuwa xa Ndihleli apha, Ngofefe ndofumana isithsaba."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wandiph’ ingom’ entsha yokudumisa; Ubusuku nemini ndotsholoza.",
+        "Intliziyo iphalala luvuyo, Ndiyakumdumisa uMsindisi wam."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndovuma ingoma Ngenceba yaKhe, Ndimdumise bambone bonk’ abantu;",
+        "Ndosasaza usindiso Nakude Bade bamthembe bamkhonz’ uYehova."
+      ],
+      "number": 4
+    }
+  ]
+}

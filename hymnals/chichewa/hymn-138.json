@@ -1,0 +1,83 @@
+{
+  "number": 138,
+  "language": "ny",
+  "title": "138 - Ndipereka Moyowu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ENTIRE CONSECRATION"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndipereka moyowu",
+        "Kwa Ambuye wanga ’Nu;",
+        "Manjawa achitetu",
+        "Chifuniro chanucho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Munditsuke ine mtima mbu (E, ine mbu),",
+        "M’mwazi wa Ambuye Yesuyo (E, Yesuyo),",
+        "Kwanu Mbuyanga ndidziperekadi,",
+        "Kwanu nthawi zonsezo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndipereka miyendoyi,",
+        "Ikhaletu yanuyo;",
+        "Mau ayimbirenso",
+        "Inu Mfumu yangayo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndipereka milomo,",
+        "Inenetu mauwo;",
+        "Ndipereka chumacho,",
+        "Sindimana kanthui."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndipereka nsikuzo,",
+        "Kuti ndiyamike ’Nu;",
+        "Ndipereka nzeruzo",
+        "Kuchitatu ntchitoyo."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Chifuniro changacho",
+        "Chikhaletu chanunso;",
+        "Ndipereka mtimanga,",
+        "Ukhaletu wanunso."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "6. Ndipereka chikondi",
+        "Pa mapazi anuwo;",
+        "Munditenge ndensene,",
+        "Ndikhaletu wanuyo."
+      ],
+      "number": 7
+    }
+  ]
+}

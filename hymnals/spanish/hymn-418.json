@@ -1,0 +1,67 @@
+{
+  "number": 418,
+  "language": "es",
+  "title": "Padre, yo vengo a ti",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Padre, yo vengo a ti"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Padre, yo vengo a ti;",
+        "solo hay en ti poder.",
+        "Protégeme, Señor,",
+        "mi ayudador.",
+        "Sombras tan solo aquí,",
+        "más densas hoy que ayer,",
+        "me cercan, mas me harás",
+        "un vencedor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Padre, yo vengo a ti,",
+        "oye mi voz;",
+        "confío solo en ti,",
+        "dame tu amor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ampárame, Señor;",
+        "dame tu dulce amor.",
+        "Aleja el mal de mí,",
+        "dame tu paz.",
+        "¡Oh, Padre, líbrame",
+        "de todo cruel dolor,",
+        "y en el cielo al fin",
+        "vea tu faz!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Padre, yo vengo a ti;",
+        "dame tu bendición.",
+        "Confío en ti, Señor;",
+        "sé mi sostén.",
+        "Tu gracia y tu poder",
+        "llenen mi corazón.",
+        "Guíame por tu amor",
+        "al santo Edén."
+      ],
+      "number": 5
+    }
+  ]
+}

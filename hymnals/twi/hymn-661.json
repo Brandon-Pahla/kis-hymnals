@@ -1,0 +1,33 @@
+{
+  "number": 661,
+  "language": "tw",
+  "title": "Kronkron, Kronkron, Kronkron",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kronkron, Kronkron,",
+        "Kronkron Ne Awurade!",
+        "Kronkron, Kronkron,",
+        "Kronkron Ne Onyankopɔn!",
+        "Nea ɔte ase daa, ɔbɛyɛ saa daa;",
+        "Odi hen' sro ne fam;",
+        "Mummeyi N'ayɛ!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kronkron, Kronkron,",
+        "Kronkron Ne Awurade!",
+        "Kronkron, Kronkron, Kronkron",
+        "Ne Onyankopɔn! 'Nuonyam ne dɔ fata",
+        "Nea yɛkamfo Non'",
+        "Kronkron, Kronkron, Kronkron",
+        "Ne Awurade!"
+      ],
+      "number": 2
+    }
+  ]
+}

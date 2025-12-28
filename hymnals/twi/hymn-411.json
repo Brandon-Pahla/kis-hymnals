@@ -1,0 +1,57 @@
+{
+  "number": 411,
+  "language": "tw",
+  "title": "Kamfo Nyame Ba No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kamfo Nyame Ba no,",
+        "B're ne beae Wura no,",
+        "Nyame a ɔmaa hann bae no,",
+        "Hy'rɛn Yesų anim seesei."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hwɛ nsa a Watrɛw mun';",
+        "Na ɔyɛ Tumfo de,",
+        "ɔfaa mpopaho ne guasɛn,",
+        "Na ɔda so som yɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔno Nyame asɛm,",
+        "Asafo no Ti no,",
+        "Frɛ yɛn bom sɛ Ne nnamfo pa,",
+        "Ma yɛkyɛ 'bodoo no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Owu ne nkwa Wura,",
+        "Yɛto N'ayeyi no;",
+        "Yɛkyɛ bodoo yi n'asɛm so,",
+        "Nyankopɔn ne Hene,"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛma k'ruwa yi so",
+        "'Nidasom', fisɛ Nea",
+        "ɔde 'nigye soaa 'sɛnnua no",
+        "Asɔre di hen' daa."
+      ],
+      "number": 5
+    }
+  ]
+}

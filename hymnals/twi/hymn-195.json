@@ -1,0 +1,66 @@
+{
+  "number": 195,
+  "language": "tw",
+  "title": "Nhyira Bosu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔbɛtɔ nhyira bosu,",
+        "Eyi ne ɔdɔ bɔhyɛ;",
+        "Ahoɔden mmerɛ nso bɛba,",
+        "Agyenkwa de fi soro."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nhyira bosu,",
+        "Nhyira bosu hia yɛn;",
+        "Adom nsu retɔ yɛn ho hyia,",
+        "Nanso yɛsrɛ nsu n'ara."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔbɛtɔ nhyira bosu,",
+        "Ͻma y'ahoɔden fof'ro;",
+        "Nkoko so ne abon mu,",
+        "Yɛte nsu nnyigyei pii."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔbɛtɔ nhyira bosu,",
+        "'Wura, tɔ bi gu yɛn so;",
+        "Ma yɛn ahoɔden fof'ro nnɛ,",
+        "Bɛhyɛ W'asɛm anomyam."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔbɛtɔ nhyira bosu,",
+        "O anka ɛretɔ nnɛ;",
+        "Nnɛ a yɛreka yɛn bɔne yi,",
+        "Na yɛrefrɛ Yesu yi!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔbɛtɔ nhyira bosu,",
+        "Sɛ yɛyɛ setie nko a;",
+        "Ahoɔden mmerɛ nso bɛba",
+        "Sɛ yɛma Nyame kwan a."
+      ],
+      "number": 5
+    }
+  ]
+}

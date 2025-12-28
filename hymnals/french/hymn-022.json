@@ -1,0 +1,63 @@
+{
+  "number": 22,
+  "language": "fr",
+  "title": "Il y avait tant d’amour",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Il y avait tant d’amour,",
+        "Quand les anges dans le ciel",
+        "Chantaient dans la nuit de Noël,",
+        "Aux bergers d’Israël.",
+        "Gloire à Dieu, Hosannah!",
+        "Paix vous soit, ne craignez pas,",
+        "C’est à Bethléhem en Judée,",
+        "Qu’un Sauveur est né!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il y avait tant d’amour,",
+        "Quand sur les bords du Jourdain",
+        "Jésus appelait tous les siens,",
+        "À suivre son chemin.",
+        "Pêcheur de Galilée,",
+        "Pour Jésus ont tout quitté,",
+        "Leurs cœurs ont brûlé à sa voix,",
+        "Quand il disait : « Suis-moi! »"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il y avait tant d’amour,",
+        "Sur la croix de Golgotha.",
+        "Mon Sauveur a payé pour moi,",
+        "Sublime Roi des rois!",
+        "Seigneur, ta vie pour moi?",
+        "Ma raison n’y suffit pas,",
+        "Comment comprendre tant d’amour,",
+        "Sans ton divin secours?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il y avait tant d’amour,",
+        "Jésus est ressuscité!",
+        "Auprès de Dieu, il est monté,",
+        "Il viendra nous chercher.",
+        "Tu nous redis d’aimer,",
+        "D’aimer et de pardonner,",
+        "Trouveras-tu un peu d’amour,",
+        "Au temps de ton retour?"
+      ],
+      "number": 4
+    }
+  ]
+}

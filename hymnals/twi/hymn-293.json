@@ -1,0 +1,47 @@
+{
+  "number": 293,
+  "language": "tw",
+  "title": "S'ro Agya Hy'ra Yɛn Seesei",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "S'ro Agya hy'ra yɛn seesei;",
+        "Yɛkoto Kristo 'sɛnnuan;",
+        "Yi yɛn afodi ne yaw;",
+        "Tie na sa yɛn yar' seesei."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, 'Wura, saa berɛ yi,",
+        "Soma Wo dom ne Wo tum',",
+        "B're a yɛtwer' W'asɛm yi,",
+        "'W'ra, bra behy'ra yɛn seesei."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Wura, yɛsrɛ mmɔb'rɔhun'",
+        "Wɔ saa hia berɛ yi mu;",
+        "Mɔfa nhyira nkame yɛn;",
+        "Dan yɛn amiadi 'somdwoe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, Dɔfo a wɔahy'ra Wo,",
+        "Wopue yɛn so sɛ owia;",
+        "Woyɛ hann ne nkwa yɛn mu,",
+        "'Gyenkwa a, bɔn' nni Wo mu."
+      ],
+      "number": 4
+    }
+  ]
+}

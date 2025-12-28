@@ -1,0 +1,47 @@
+{
+  "number": 78,
+  "language": "tw",
+  "title": "Nyame Dɔ Yɛn Sɛ ɔsomaa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame dɔ yɛn sɛ ɔsomaa 'Gyenkwa n';",
+        "Nyame dɔ yɛn, na ɔdɔ me nso.",
+        "Dɔ a enni awiei! Mɛto N'ayeyi,",
+        "Nyame dɔ Ne mma, ɔdɔ me nso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔsomaa 'Gyenkwa, Gyefo hy'rafo no;",
+        "ɔsomaa No sɛ ɔmmɛgye me.",
+        "Dɔ a enni awiei! Mɛto N'ayeyi,",
+        "Nyame dɔ Ne mma, ɔdɔ me nso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔmaa m' akwaaba, Mmɔb'rɔhun' 'sɛm ni;",
+        "ɔmaa m' akwaaba, ɔs'ro nne ni.",
+        "Dɔ a enni awiei! Mɛto N'ayeyi,",
+        "Nyame dɔ Ne mma, ɔdɔ me nso."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nuonyam ne 'nidi nka daapem dɔ no",
+        "Mmeresanten ne mfesanten ny'naa.",
+        "Dɔ a enni awiei! Mɛto N'ayeyi,",
+        "Nyame dɔ Ne mma, ɔdɔ me nso."
+      ],
+      "number": 4
+    }
+  ]
+}

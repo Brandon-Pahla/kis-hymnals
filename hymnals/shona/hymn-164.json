@@ -1,0 +1,49 @@
+{
+  "number": 164,
+  "language": "sn",
+  "title": "164 Pamakumbo AJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Pamakumbo ake Jesu",
+        "Ndonzwa manzwi erudo",
+        "Nzwimbo iyo inokosha",
+        "Ndoida nguva dzose",
+        "Pamakumbo ake Jesu",
+        "Ndichaona zvekare",
+        "Rudo rwake runokosha",
+        "Rwapfuwa mwoyo wangu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pamakumbo ake Jesu",
+        "Ndipo ndonoponeswa",
+        "Apo ndinosiya zvese",
+        "Nditore kuzorora",
+        "Pamakumbo ake Jesu",
+        "Ndonamata ndochema",
+        "Ndo gashira tsitsi dzake",
+        "Ndofara nguva dzese"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndikomborerenyi Tenzi",
+        "Ndorinda pamakumbo",
+        "Ndiringisenyi nerudo",
+        "Ndione usu hwenyu",
+        "Ndipenyi pfungwa yaJesu",
+        "Kuti ndiyere saye",
+        "Kuti ndiwe neumbowo",
+        "Hwekuti ndina Jesu"
+      ],
+      "number": 3
+    }
+  ]
+}

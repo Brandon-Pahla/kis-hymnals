@@ -1,0 +1,53 @@
+{
+  "number": 461,
+  "language": "fr",
+  "title": "Mon cœur est comme une flûte",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Mon cœur est comme une flûte de roseau",
+        "Que Jésus remplit de musique,",
+        "Mon cœur est comme une flûte de roseau",
+        "Qu'il fait chanter, Alléluia !",
+        "Qu'il fait chanter, Alléluia !",
+        "Un jour, je rencontre Jésus,",
+        "Il me regarde, il me sourit,",
+        "Tel que je suis, je sais qu'il m'aime,",
+        "Je suis joyeux et libre."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il me guide, il est mon berger.",
+        "Dans le danger il me conduit,",
+        "Il dit mon nom quand il m'appelle :",
+        "J'avance avec confiance."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous marchons vers un beau pays,",
+        "Vers le repos et vers la paix,",
+        "Vers le repas où il se donne",
+        "Lui-même en nourriture."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il est vraiment le bon berger,",
+        "C'est par amour que pour sauver",
+        "Chaque brebis de son troupeau,",
+        "Il a donné sa vie."
+      ],
+      "number": 4
+    }
+  ]
+}

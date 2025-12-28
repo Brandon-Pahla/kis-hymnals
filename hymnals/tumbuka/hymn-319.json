@@ -1,0 +1,63 @@
+{
+  "number": 319,
+  "language": "tum",
+  "title": " 319 Nditibenge Vya Chiuta",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 319 Nditibenge Vya Chiuta",
+        "I Will Sing The Wondrous Story"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nditimbenge vya Chiuta vyakunditemwa kwake",
+        "Wakatuma mwana wake kwizakandifwira 'ne."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Inya, ndizamkwimba sumu 'mwe ya kutemwa kwake,",
+        "Ndizamkwimba na wangeLo wakukhaLa kuchanya.",
+        "(Bass/ALto/Tenor)",
+        "Ndamkwimba ndamkwimba sumu,",
+        "Kutemwa, kutemwa ndamkwimba,",
+        "WangeLo awo wakukhaLa kuchanya,",
+        "E, kuchanya."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "'Mwe nkhachitanga uheni walikuluwa vyose,",
+        "Nkhakhalanga m'zakwánanga wali kufumya zose."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Wandipa umoyo wake umoyo utuwa tu!",
+        "Iie ndiri mwana wake wakundilera ine."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Nkhuyiwonga Fumu yane nditiyitamikenge,",
+        "Nditandazge mbiri yake ya chitemwa chikuru."
+      ],
+      "number": 5
+    }
+  ]
+}

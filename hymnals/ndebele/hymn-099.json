@@ -1,0 +1,47 @@
+{
+  "number": 99,
+  "language": "nd",
+  "title": "99 Isiphambano Esimangalisayo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi bhek’ esiphambanweni",
+        "Lapho kwafela iNkosi;",
+        "Ku yize yonk’ imfuyo yam’",
+        "Ngi nengwa ukuzidla kwam’."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si bona kuzo izandla,",
+        "Nezinyawo amanxeba;",
+        "Zabhotshozwa ngenxa yethu",
+        "Yeka uthand’ olungaka!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mina nga ngi lahlekile;",
+        "Ngathol’ ukuthethelelwa.",
+        "Yala, ngi ngazibabazi",
+        "Kodwa esiphambanweni."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma ngi nawo wonk’ umhlaba;",
+        "Kunga ngumnikel’ omncane.",
+        "Ngenxa yothand’ olungaka!",
+        "Ngomnik’ ukuphila kwami."
+      ],
+      "number": 4
+    }
+  ]
+}

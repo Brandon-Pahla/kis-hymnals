@@ -1,0 +1,47 @@
+{
+  "number": 645,
+  "language": "tw",
+  "title": "Yɛn Agyanom Nyamč a WoTumi Nsa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn agyanom Nyamč a Wo tumi nsa",
+        "Ky'rɛ nsase horow a 'yɛ fɛ no kwan;",
+        "Nsoromma hyɛnhyɛn no kwan wɔ ewim,",
+        "Yɛn nnaase nnwom ba W'ahengua anim."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo dɔ aky'rɛ yɛn kwan mm're a atwam,",
+        "'Sase a Wode ma yɛn kwa yi so;",
+        "Bɛyɛ yɛn Sodifo ne Kwanky'rɛfo.",
+        "W'asɛm ne yɛn mm'ra, W'akwan, yɛn akwan."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bɔ yɛn ho ban fi ko ne yar'dɔm mu,",
+        "Fa Wo tumi nsa no bɔ yɛn ho ban;",
+        "Fa Wo nokwar' som no hyɛ yɛn komam';",
+        "Ma Wo nnepa no nsiesie yɛn 'somdwoem'"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kanyan Wo nk'rɔfo yɛn brɛ kwan no so,",
+        "Di yɛn anim fi sum mu kɔ 'dekyeem'",
+        "Fa ɔsoro dɔ ne dom hyɛ yɛn ma;",
+        "Na 'nuonyam ne nkamfo nyɛ Wo de daa."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "number": 216,
+  "language": "fr",
+  "title": "Viens dans mon cœur",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Viens dans mon cœur,",
+        "Viens dans mon cœur,",
+        "Oui, viens dans mon cœur, ô Jésus.",
+        "Viens aujourd'hui et pour toujours.",
+        "Oui, viens dans mon cœur, ô Jésus."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Reste en mon cœur,",
+        "Reste en mon cœur,",
+        "Oui, reste en mon cœur, ô Jésus.",
+        "Reste aujourd'hui et pour toujours.",
+        "Oui, reste en mon cœur, ô Jésus."
+      ],
+      "number": 2
+    }
+  ]
+}

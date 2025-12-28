@@ -1,0 +1,42 @@
+{
+  "number": 296,
+  "language": "tn",
+  "title": "296 Nkgoga Ke Se Timele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nkgoga Ke Se Timele, Mmoloki Ka Bonolo;",
+        "Ke bolokegile fa ke le tlhakoring lwa ’Go"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nkgoga, nkgoga, Mmoloki bonolo O nkgoge ;",
+        "Nakong ke se timele, Nkgoga tseleng yotlhe (le yotlhe)",
+        "T.&amp; B.",
+        "Nkgoga,nkgoga, Mmoloki ka bonolo O nkgoke;",
+        "Phetogong nakong ke se timele, Nkgoga tseleng",
+        "yotlhe(leng yotlhe)."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wena Phemelo Ya Me, Makhubung A Botshelo;",
+        "O le gaufi poloko, O tsholofelo ya me."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkgoga Go Ya Bokhutlong, Sefefo Se Khutlile,",
+        "Ntla fitlha ’fatshing ’tsatsi, kwa ’keledi di seyong."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 327,
+  "language": "tw",
+  "title": "Mepɛ Yesu Mmom Sen Sika Ne Dwetɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mepɛ Yesu mmom sen sėkane dwetɛ;",
+        "Mɛyɛ Ne de sen sɛ menya 'hode pii;",
+        "Mepɛ Yesu mmom sen adan ne nsase,",
+        "Mɛma N'apira nsa adi m'anim."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sen' sɛ mɛyɛ wiase mu 'hempɔn bi",
+        "Na bɔn' afa me dommum;",
+        "Mepɛ Yesu mmom sen' ade biará a",
+        "Wiase yi de bɛma."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mepɛ Yesu mmom sen onipa nkamfo;",
+        "Medi nokwar' ama N'adwuma pa no;",
+        "Mepɛ Yesu mmom sen wiase mu din pa,",
+        "Medi Ne din kronkron no ho nokwar'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu ho yɛ fɛ sen sukooko biara,",
+        "ɔyɛ dɛ sen ɛwo dɛdɛ biara nso;",
+        "ɔno na me honhom redi Ne ho kɔm,",
+        "Mepɛ Yesu mmom s'Obedi m'anim."
+      ],
+      "number": 3
+    }
+  ]
+}

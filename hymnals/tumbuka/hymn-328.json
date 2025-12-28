@@ -1,0 +1,68 @@
+{
+  "number": 328,
+  "language": "tum",
+  "title": " 328 Para Tafika Kuchanya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 328 Para Tafika Kuchanya",
+        "When We All Get to Heaven"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Yimbani vya kuzizwiska,",
+        "Vya chitemwa cha yesu",
+        "Malo ghakutowa,",
+        "wakutinozgera kuchanya"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Para tafika kuLa,",
+        "Lizamkuwa dazi Lakukondwa!",
+        "Pakumwona yesu,",
+        "Tizamwimba mwakundwa!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Pakwenda munthowa iyi,",
+        "Masuzgo ghawengepo",
+        "para ulendo wamara,",
+        "Suzgo lizamkumara"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Tiyeni tigomezgeke,",
+        "Titewete mulimo",
+        "Pakwizakamiwona iye,",
+        "Wizamkutipa njombe"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Tilawiske njombe yira,",
+        "Tizamkuwona iye",
+        "Pakujulika vipata,",
+        "Tizamnyira mumsumba"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "number": 610,
+  "language": "tw",
+  "title": "O Kristoni, Ow'ra No Hyɛ Wo Sɛɛ Nyan",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O Kristoni, Ow'ra no hyɛ wo sɛɛ nyan,",
+        "Fa wo dadekyɛw, w'akokyɛm ne nkrantɛ,",
+        "Kohyia ɔdaadaafo kɛse no, nsuro;",
+        "Gyina tamfo no anim 'kokod'ru mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "'Kokod'ru mu, 'kokod'ru mu;",
+        "Gyina 'tamfon' anim 'kokod'ru mu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa 'hoɔden yɛ wo Wura no adwuma,",
+        "Fa 'hwɛyie ne mmɔdenbɔ ko kodu 'wiei,",
+        "Kɔ nea ɔbɛky'rɛ wo no kokod'ru mu;",
+        "Gyina 'tamfo no anim kokod'ru mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kɔ w'anim, nnye kyim na wo sahen' abɛn,",
+        "Okura dom ne 'w'rɛkyekye de ma wo;",
+        "Ne dɔ no bɛsen sare so sɛ nsuten,",
+        "Gyina 'tamfo no anim kokod'ru mu."
+      ],
+      "number": 3
+    }
+  ]
+}

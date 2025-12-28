@@ -1,0 +1,46 @@
+{
+  "number": 187,
+  "language": "nso",
+  "title": " 187  KOŠA YA RENA YA KAROGANO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 187  KOŠA YA RENA YA KAROGANO",
+        "AH 25 CH 34",
+        "OUR PARTING HYMN"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mophološi re tumiša ina la 'Go,",
+        "Kopelong ya rena ya kgaogano,",
+        "Re šegofatšwe ke wena,",
+        "'Ntšu la khutšo re ke re lefiwe,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re yeng gae re tladitšwe khutšo,",
+        "Ge re tsoga le ge re robala,",
+        "O phemele sebeng le dihlong,",
+        "Ge šetše re tlo tšwa ka ntlong ye,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re nee khutšo e sa felego,",
+        "O re homotše le manyaming,",
+        "Ge o re go rena go fedile,",
+        "Re biletše Khutšong Morena;"
+      ],
+      "number": 4
+    }
+  ]
+}

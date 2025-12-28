@@ -1,0 +1,53 @@
+{
+  "number": 391,
+  "language": "fr",
+  "title": "Seigneur Jésus, je veux...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Seigneur Jésus, je veux répondre par le baptême à ton appel."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Je veux te suivre, près de toi vivre,",
+        "T'être fidèle, marcher sans peur.",
+        "Je veux te suivre, près de toi vivre,",
+        "Avec ta force, mon doux Sauveur."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mort avec toi, je ressuscite pour proclamer ton grand amour."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que mon cœur soit plein de ta joie, pour la répandre autour de moi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lorsque le doute remplit mon âme, remplis-moi de ta vérité."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que je sois l'un de tes disciples, les yeux fixés sur mon Seigneur."
+      ],
+      "number": 6
+    }
+  ]
+}

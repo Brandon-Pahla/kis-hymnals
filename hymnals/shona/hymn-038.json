@@ -1,0 +1,47 @@
+{
+  "number": 38,
+  "language": "sn",
+  "title": "38 Mira Padombo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Miriranyi’wo kuna Jehova,",
+        "Mukutambudzwa zvemuurombo,",
+        "IDombo rega rinopa simba,",
+        "Muyedzi ari pedyo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Miranyi paDombo, simbiranyi apo,",
+        "Dombo ndiKristu ega,",
+        "Kuti takurira tichazomira,",
+        "Nechita chichaponeswa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Miriranyi mese kururama,",
+        "Moyo ushinge nerudawiro",
+        "IDombo rega rinokurira,",
+        "Zvitema zvepasi’po"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Miranyi mese muidi’ro,",
+        "Kana ranonoka richakura,",
+        "IDombo rega rinotipa’wo",
+        "Kuzorora kudenga"
+      ],
+      "number": 4
+    }
+  ]
+}

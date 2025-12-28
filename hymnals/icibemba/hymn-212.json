@@ -1,0 +1,31 @@
+{
+  "number": 212,
+  "language": "bem",
+  "title": "212 - MUTENDE USUMA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SWEET PEACE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mu mutima muli lwimbo, Natemwa kulubwekesha;",
+        "Ndemba libili libili-, Mutende wa kutemwa.",
+        "CHORUS:",
+        "U-mu-te-nde. E bupe bwa ku mulu;",
+        "Mutende wakupapisha, E bupe bwakwa Lesa.",
+        "2. Umutende pa lupanda, Imisha yandi yapelwe;",
+        "Takuli mufula umbi-, Kano fye umutende.",
+        "3. Yesu Mfumu asamikwe, Muli 'ne mwali mutende;",
+        "Nasangilemo bupalo-. Mutende wa kutemwa.",
+        "4. Muli Yesu ndeikala, No kwenda mupepi nankwe;",
+        "Takuli cimo cacila-. Mutende wa kutemwa"
+      ],
+      "number": 2
+    }
+  ]
+}

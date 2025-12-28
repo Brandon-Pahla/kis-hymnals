@@ -1,0 +1,54 @@
+{
+  "number": 53,
+  "language": "fr",
+  "title": "Nous voulons par nos cantiques",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nous voulons par nos cantiques,",
+        "Te rendre gloire, ô Fils unique,",
+        "Fils éternel du Dieu des cieux.",
+        "De toi vient la délivrance;",
+        "Ta mort nous donne l’assurance",
+        "De notre salut glorieux."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Louange, empire, honneur,",
+        "À toi puissant Sauveur, alléluia!",
+        "À toi, Jésus, le roi des rois,",
+        "Qui pour nous mourus sur la croix!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus, prince de la vie,",
+        "Que tout en nous te glorifie,",
+        "Que tout proclame ton amour!",
+        "C’est dans ta grâce éternelle",
+        "Que notre foi se renouvelle",
+        "Et s’affermit de jour en jour."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seigneur, nous te rendons gloire,",
+        "Toi dont la mort et la victoire",
+        "Ont fait de nous des rachetés.",
+        "Délivrés par tes blessures,",
+        "Et guéris par tes meurtrissures,",
+        "Nous adorons ta charité."
+      ],
+      "number": 4
+    }
+  ]
+}

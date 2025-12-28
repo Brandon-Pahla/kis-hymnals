@@ -1,0 +1,62 @@
+{
+  "number": 245,
+  "language": "ve",
+  "title": "245. A Hu Na Linwe Dzina.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:253",
+        "AH:98"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Heli dzina la Murena, li todea kha rine,",
+        "tadulu vha funa lone, Na rine ndi lashu-vho;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dzina la Murena, A huna linwe,",
+        "Dzina la Murena, A li ho dzina linwe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. A hu na na dzina linwe, li takadzaho mbilu,",
+        "A hu na na linwe dzina, li no nga la Murena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi a fulufhela ndi do mu vhona, a tshi vhuya.",
+        "Ndi a fulufhela ndi do mu vhona, nda takala."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndi do shuma na Murena, Tsimuni ya Mudzimu,",
+        "Zwi do vha zwithu zwavhudi, ndi tshi fhatutshedzwa-vho."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. A tshi funa u ri ndi fe, ndi do fela kha Ene,",
+        "Ndi zwavhudi musi Yesu, E fulufhelo langa."
+      ],
+      "number": 6
+    }
+  ]
+}

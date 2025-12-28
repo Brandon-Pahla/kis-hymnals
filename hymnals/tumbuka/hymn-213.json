@@ -1,0 +1,68 @@
+{
+  "number": 213,
+  "language": "tum",
+  "title": " 213 Yesu Mponoski Wane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 213 Yesu Mponoski Wane",
+        "C.H. 613 MY SONG"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Yesu mponoski wane,",
+        "Ndimwe sumu yane,",
+        "Mwomboli, msanguluski,",
+        "Para ndasuzgika."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu mponoski wane,",
+        "Ndimwimbireninge,",
+        "PaLije m'bwezi m'nyake,",
+        "WakuLuska Imwe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ndimwe musanguluski,",
+        "Mvyaka vyane vyose,",
+        "Visuzgo vyan'zingizga,",
+        "Nkhulira masozi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nkhugomezga mwa Imwe,",
+        "M'bwezi na M'rongozgi,",
+        "Nkhumutemwani Imwe,",
+        "Kwakuruska vyose."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Ndimwe kukondwa kwane,",
+        "M'charu cha uheni,",
+        "Ndimwe kukondwa kwane,",
+        "M'charu cha kuchanya."
+      ],
+      "number": 5
+    }
+  ]
+}

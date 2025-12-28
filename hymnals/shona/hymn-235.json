@@ -1,0 +1,44 @@
+{
+  "number": 235,
+  "language": "sn",
+  "title": "235 Musi Wadzokazve",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Musi wezororo wauya zve",
+        "Wakakomborerwa pakusika",
+        "Apo Tenzi akamisa basa",
+        "Kuti zvese zvive murunyararo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti misirenyi, Uyu musi",
+        "Kudzidza kuita rudo rwake",
+        "Ano tinzwa Apo tinokwidza",
+        "Minamato, zve nenzwiyo nzedu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chitinzwayi Tenzi wemapasi",
+        "Nemutsa chinzwayi vana venyu",
+        "Tonderayi nechitsidzo chenyu",
+        "Pangidzayi vanhu tsitsi dzenyu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Baba imwi muri vimbo yeduMunotirwira, M’notungamiraMuri m’chengeti wedu mu’penyuNgandiwe wenyu narini Baba"
+      ],
+      "number": 4
+    }
+  ]
+}

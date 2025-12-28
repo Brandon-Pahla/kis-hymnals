@@ -1,0 +1,39 @@
+{
+  "number": 127,
+  "language": "sn",
+  "title": "127 Anoda Zwe Ini",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mwari avona kashiri kaputsika pasi;",
+        "Kuti achida kashiri Anodazve ini."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anondida, anondida, anondida ini,",
+        "Anoda zviduku zvese, anodazve ini."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anogadzira maruva akanaka kwazvo;",
+        "Kuti anoda maruva anodazve ini."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mwari wakasika zvese, shiri ne maruva,",
+        "Haachakanganwi tupwere, Twese anotuda."
+      ],
+      "number": 4
+    }
+  ]
+}

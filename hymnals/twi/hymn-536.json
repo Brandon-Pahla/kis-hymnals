@@ -1,0 +1,49 @@
+{
+  "number": 536,
+  "language": "tw",
+  "title": "Nyamč a Wotrɛw S'ro Hyɛnhyɛn Nom'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyamč a Wotrɛw s'ro hyɛnhyɛn nom'",
+        "Wō a Wob'ro b're ne beae so,",
+        "Na Woma 'wia nya hann kɛse",
+        "De hy'rɛn fa ewin ny'naa no;",
+        "Wo mmā a yɛyɛ Wo nsɛso yi",
+        "Ne Wo Kyɛ 'debɔ tumi",
+        "'Bɔadeɛ a Wugu 'debɔ so,",
+        "Ky'rɛ yɛn nea 'sɛ sɛ yɛyɛ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛfi yɛn 'busua'i mfiase kɔ",
+        "Nsasč a yɛnsoo ho dae so;",
+        "Yɛanya ewimfa mu dɛw de",
+        "Akyinkyin 'wim mmaa nyinaa,",
+        "Yɛayɛ mfiasedem' nhwehwɛmu,",
+        "Na yɛadi tumi kɛse;",
+        "Eyi de nkwa mu adesɛe",
+        "Anaa nkonimdi brɛ yɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B're a ewim tew ky'rɛ no,",
+        "Ma no nkanyan yɛn fof'ro:",
+        "Adebɔ botae nna, yɛsom",
+        "Afof'ro hyɛ W'anuonyam;",
+        "Ma bɔhyɛ mmra yɛn daeso mu,",
+        "Na mfiase biara nyɛ yie;",
+        "'Bɔadeɛ, ky'rɛ yɛn kwan kosi sɛ",
+        "Yɛne Wo botae bebom."
+      ],
+      "number": 3
+    }
+  ]
+}

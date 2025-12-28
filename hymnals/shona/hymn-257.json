@@ -1,0 +1,31 @@
+{
+  "number": 257,
+  "language": "sn",
+  "title": "257 Mira Usingatenheki",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mira usingatenheki, Umire segomo",
+        "Mwey’ unosimbira Tenzi, Unosimba sedombo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hakuna chimwe, Chingachengeta zvakanaka",
+        "Kupfuura maoko, Anerudo aJesu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Itirayi zvakanaka, Vanomusimbira",
+        "Vanozorora muidi,Varipamitemo"
+      ],
+      "number": 3
+    }
+  ]
+}

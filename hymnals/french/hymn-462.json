@@ -1,0 +1,37 @@
+{
+  "number": 462,
+  "language": "fr",
+  "title": "Ô toi qui donnes...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ô toi qui donnes la vie,",
+        "À tes pieds je veux m'asseoir,",
+        "Comme s'asseyait Marie",
+        "À l'heure douce du soir."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mon être entier te réclame;",
+        "Tout n'est que faiblesse en moi,",
+        "Viens te pencher sur mon âme,",
+        "Elle a tant besoin de toi!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Maître, à tes pieds je m'incline,",
+        "Je t'appartiens sans retour,",
+        "Verse en moi ta paix divine,",
+        "Répands en moi ton amour."
+      ],
+      "number": 3
+    }
+  ]
+}

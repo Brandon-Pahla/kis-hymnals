@@ -1,0 +1,47 @@
+{
+  "number": 27,
+  "language": "sw",
+  "title": "27 - Tena Mwokozi Twalitukuza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Tena Mwokozi twalitukuza,",
+        "Jina lako lenye kupendeza,",
+        "Twangojea neno la amani,",
+        "Kabla hatujakwenda nyumbani."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Tupe amani njiani mwetu,",
+        "Wewe u mwanzo u mwisho wetu,",
+        "Dhambini kamwe isiingie,",
+        "Midomo ikutajayo wewe."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Utupe amani usiku huu,",
+        "Ili gizani kuwe nuru kuu,",
+        "Tulinde kwa kuwa kwako Bwana,",
+        "Usiku ni sawa na mchana."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Tupe amani ulimwenguni,",
+        "Ndiyo dawa yetu majonzini,",
+        "Na ikitwita sauti yako,",
+        "Tupe amani milele kwako."
+      ]
+    }
+  ]
+}

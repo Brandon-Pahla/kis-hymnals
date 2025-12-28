@@ -1,0 +1,47 @@
+{
+  "number": 30,
+  "language": "tn",
+  "title": "30 Tsatsi Le Ya Phirima",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tsatsi Le Ya Phirima; Boikhutso Jwa Godimo:",
+        "Obamang fa bosigo Bo bonesa dipone Legodimong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O boitshepo More-na Modimo!",
+        "Legodimo lefatshe di baka Wena Mogodimo-dimo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena Oa Botshelo, Tlase Ga Gae Ja Gago,",
+        "Rona ba re Go batlang, Re phuthele sakeng,",
+        "Gonne O gaufi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Lefifi Le Tsena, Re Tsee Ratong Lwa Gago,",
+        "Kgalalelong le tshwarong Ya losire lwa Gago r’a tlhatloga"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Dinaledi, ’Tsatsi, Bosigo, Di Nyelela,",
+        "Moren’a ba’ngele re Senolele moso wa bosakhutleng"
+      ],
+      "number": 4
+    }
+  ]
+}

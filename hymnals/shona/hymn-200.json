@@ -1,0 +1,43 @@
+{
+  "number": 200,
+  "language": "sn",
+  "title": "200 M’tsvene M’tsvene",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "M’tsvene, M’tsvene, M’tsvene",
+        "Mwari Samasimba",
+        "Tinomuimbira pamangwani ese",
+        "M’tsvene, M’tsvene, M’tsvene",
+        "Mune nyasha huru",
+        "Umwe mitatu pamwe chetezwe"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M’tsvene, M’tsvene, M’tsvene",
+        "Vose vanodaro",
+        "Vakapfugamira Imwi Mwari wedu",
+        "M’tsvene, M’tsvene, M’tsvene",
+        "Vachimunamata",
+        "Makaperera simba nerudo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M’tsvene, M’tsvene, M’tsvene",
+        "Hamuvonwi Imwi",
+        "Mbiri yenyu huru haivonekwiba",
+        "M’tsvene, M’tsvene, M’tsvene",
+        "Ndimwi M’tsvene mega",
+        "Makarurama nekunakazve"
+      ],
+      "number": 3
+    }
+  ]
+}

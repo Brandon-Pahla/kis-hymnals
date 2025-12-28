@@ -1,0 +1,39 @@
+{
+  "number": 342,
+  "language": "xh",
+  "title": "342 Wazithwal’ Izono, Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wazithwal’ izono, Yesu, Zingezono zaKho;",
+        "Walihlaul’ ityala, Yesu, Lingetyala laKho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wawungumntu onentsizi, Ungemoni wena;",
+        "Laphalal’ igazi laKho Uyingcwele Wena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iziphoso zethu zonke Zabalelwa kuWe;",
+        "Nezilandu zethu zonke Zabalelwa kuWe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sixolelwa, siphiliswa, Ngezontlungu zaKho;",
+        "Siyahlanjwa ezonweni, Ngelogazi laKho."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "number": 538,
+  "language": "pt",
+  "title": "Ó, Vem a Jesus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ó, Vem a Jesus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus lá no Céu, já de glória revestido,",
+        "O meu Advogado Se constituiu;",
+        "E sempre sustenta e defende o redimido;",
+        "Oh, podes dizer que também te remiu?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Ó, vem a Jesus! Ó, vem a Jesus!",
+        "Eterna ventura terás pela cruz!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Minh'alma tem paz, tudo é calmo como um rio;",
+        "É paz que no Céu tem o seu manancial;",
+        "Foi Deus quem ma deu, por Jesus em quem confio.",
+        "E tu, inda não tens a paz divinal?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Um manto tão alvo a mim foi outorgado,",
+        "Lavado no sangue do meu Redentor!",
+        "O crente em Cristo, por Deus é perdoado;",
+        "Também tu serás, crendo já no Senhor!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morada já tenho com todos os remidos,",
+        "Um lar preparado na casa de Deus;",
+        "Ali não há morte, nem mágoas, nem gemidos;",
+        "Terás tu também um lugar lá nos Céus?"
+      ],
+      "number": 6
+    }
+  ]
+}

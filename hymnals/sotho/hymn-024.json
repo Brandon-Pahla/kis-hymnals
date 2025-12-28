@@ -1,0 +1,54 @@
+{
+  "number": 24,
+  "language": "st",
+  "title": "24 Ke Ea U Hloka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kea u hloka Jesu, Uena Mopholosi,",
+        "Lentsoe la hao Jesu, ke le khothatsang,"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "E Uena kea U hloka, ka linako tsohle",
+        "Mphe lehlohonolo, ke tla ho Uena."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kea U Hloka Jesu lula haufi le ’na",
+        "Teko ke ea li ’hlola ha u le haufi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kea U hloka Jesu, thabong le bohlokong;",
+        "Phakisa hle U tle, ’phelo ha se letho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kea U hloka Jesu, nthute thato ea hao,",
+        "U phethe ka ho ’na, lits’episo tsa hao."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kea U hloka Jesu, moea ’halalelang,",
+        "Nketse oa hao ruri, mora oa Molimo."
+      ],
+      "number": 5
+    }
+  ]
+}

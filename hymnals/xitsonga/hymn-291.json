@@ -1,0 +1,22 @@
+{
+  "number": 291,
+  "language": "ts",
+  "title": "291. YA KHENSEKA NYIMPFANA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WORTHY, WORTHY, IS THE LAMB",
+        "1. Ya Khenseka Nyimpfana, Khanimambo Ha Tsaka; Khanimambo Ha Tsaka,",
+        "Muferi.",
+        "CHORUS",
+        "Wa Kwetsima Yesu, Dzunisani Yena; Mi Ku: ‘Aleluya’ Nyimpfana.",
+        "2. Tisa Mfumo Wa Wena, Wu Herisa Vudyoho;",
+        "Hi Ta Kuma Ku Wisa, Nyimpfana.",
+        "3. Tshamani Mi Tsundzuka, Mi Tirha Hi Rirhandzu;",
+        "Ku Fika Hi N’wi Vona, Siyoni."
+      ],
+      "number": 1
+    }
+  ]
+}

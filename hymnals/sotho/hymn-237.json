@@ -1,0 +1,47 @@
+{
+  "number": 237,
+  "language": "st",
+  "title": "237 Emang Emelang Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Emang, emelang Jesu, lona ba holimo;",
+        "Phahamisang molao ha o s’o senyehe;",
+        "Le hlole li ho hlola le huloa ke Eena.",
+        "Lira tsohle le fele Kreste ka Morena."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Emang, emelang Jesu le utloeng mokhosi;",
+        "Le ee mo ntoeng e thata, hona tsatsing lena;",
+        "Banna mo sebeletseng, mo lireng tse ngata,",
+        "Le tiisetse moreneng le loane ka matla."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Emang emelang Jesu, Emang matleng a Hae,",
+        "Le se le tla haelloa, se ke la its’epa,",
+        "Hlomelang ka lentsoe he, tiang mo thapelong,",
+        "Mo le bitsoang, likotsing, se ke la lieha."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Emang, emelang Jesu, ntoa e ea fela,",
+        "Kajeno ke mokhosi, ka moso ke tlholo,",
+        "Ea hlolang o tla neoa Kola sa bophelo,",
+        "Le Morena O tla busa ka hosafeleng."
+      ],
+      "number": 4
+    }
+  ]
+}

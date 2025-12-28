@@ -1,0 +1,41 @@
+{
+  "number": 69,
+  "language": "nd",
+  "title": "69 Phumula Ngas’eManzini Okuphila",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "S’ophumula ngas’emanzini, Acwengekileyo;",
+        "Khona uJesu u lindile Si yombona lapho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "S’ophumula ngas’ emanzi…ni...",
+        "Si phumule ngas’ emanzi…ni...",
+        "Phumula ngas’ emanzi…ni...",
+        "Omthombo wokuphila!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa si diniwe ukuhamba, Ku mnand’ ukuhlala;",
+        "Duze namanzi okuphila, Emthonjen’ omusha."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngako k’uJesu Krestu woza, U qiniswe, u me;",
+        "Ng’Yen’ amanzi okuphila, Nath’ u ngabusoma."
+      ],
+      "number": 4
+    }
+  ]
+}

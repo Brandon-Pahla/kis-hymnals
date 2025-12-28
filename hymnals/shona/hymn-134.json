@@ -1,0 +1,45 @@
+{
+  "number": 134,
+  "language": "sn",
+  "title": "134 Rudo Runoshamisa Rwa Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Panzwimbo yakakwirira",
+        "Mwoyo wangu unotenda",
+        "Ndiyani angatsanangura",
+        "Neurwu rudo rwaJesu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rwoshamisa, Rwoshamisa, Ururudo rwaJesu",
+        "Runotishamisa isu, Ururudo rwaJesu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rufaro pamasikati",
+        "Nerujeko panedima",
+        "Mushonga mudambudzo",
+        "Irwo rudo rwo rwaJesu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tariro yesununguro",
+        "Mubatsiri ndaputsika",
+        "Muupenyu nemukufa",
+        "Ndirwo uru rudo rwaJesu"
+      ],
+      "number": 4
+    }
+  ]
+}

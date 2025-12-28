@@ -1,0 +1,56 @@
+{
+  "number": 117,
+  "language": "st",
+  "title": "117  Kea Tla Morena.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke utloa lentsoe la hao,",
+        "Le mpitsa Morena,",
+        "Ho ntlafatsoa maling a hao,",
+        "A tsoang moo Kalfari."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kea tla Morena,",
+        "Ke tla ho uena,",
+        "U ntlhatsoise moo maling",
+        "A tsoang moo Kalfari."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tla ka phokolo,",
+        "Matla a hau uena,",
+        "U ntlhoekise libeng tsohle,",
+        "Ke be ea hloekileng."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Jesu ea mpitsang",
+        "Tumelong, leratong",
+        "Lits’episo le moo khotsong,",
+        "Fats’eng leholimong."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rorisang mali a hae,",
+        "Rorisang poloko,",
+        "Rorisang neo ea Morena,",
+        "Tiiso ea rona."
+      ],
+      "number": 4
+    }
+  ]
+}

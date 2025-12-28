@@ -1,0 +1,39 @@
+{
+  "number": 242,
+  "language": "xh",
+  "title": "242 Iqhina Elisikelelekileyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Intamb’ ebophelel’ intliziyo zethu,",
+        "Ngolo thando lwaphezulu, Iyintsikelelo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ebusweni baKho, bawo sinikela",
+        "Lonk’ usizi, nokoyika Namathemba ethu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iintlupheko zethu Nemithwalo yethu,",
+        "Nokukhalelana kwethu, Konke kundawonye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa sisahlukana, Siphathwa lusizi,",
+        "Sihlangana ngentliziyo Side sibonane."
+      ],
+      "number": 4
+    }
+  ]
+}

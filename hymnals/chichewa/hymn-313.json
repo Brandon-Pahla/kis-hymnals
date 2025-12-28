@@ -1,0 +1,32 @@
+{
+  "number": 313,
+  "language": "ny",
+  "title": "313 - Pa Ubatizo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "PRAYER AT BAPTISM"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Atate muwapenye Anzathu onsewo;",
+        "Abvomereza dzina La Yesu Kristuyo;",
+        "Alonjezetsa lero Kutsata Mbuyeyo,",
+        "Mwathangatire iwo Asabwererenso.",
+        "2. Onsewa afa ndithu M’zoipa zawozo;",
+        "Tsopano aikidwa Ndi Kristu m’mandamo;",
+        "Auke iwo onse Kuyenda nayeyo;",
+        "Aphe nthawi zonse Ndi kudya mauwo.",
+        "3. Muwalimbitse, Mbuye, Kuyenda m’njirayi,",
+        "Ndi kugonetsa mdani Masiku onsewo;",
+        "Muwathangate iwo Kukopa enawo,",
+        "Amene ali kufa M’zoipa zawozo."
+      ],
+      "number": 2
+    }
+  ]
+}

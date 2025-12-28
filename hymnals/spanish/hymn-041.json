@@ -1,0 +1,25 @@
+{
+  "number": 41,
+  "language": "es",
+  "title": "Gracia, amor y comunión",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Gracia, amor y comunión"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que la gracia de Jesús, el amor de Dios el Padre",
+        "y la comunión del Espíritu nos llenen hoy.",
+        "Que la gracia de Jesús, el amor de Dios el Padre",
+        "y la comunión del Espíritu eternal",
+        "perduren por siempre en nuestro corazón."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "number": 24,
+  "language": "ny",
+  "title": "24 - Ndifuna Yesuyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I NEED THEE EVERY HOUR"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndifuna Yesuyo, Ambuyanga,",
+        "M’mtendere ndinkemo, Mwa Iyeyu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndifuna Inu, Yesu, Nthawiyi ndifuna,",
+        "Kwa Yesuyo, Mbuyanga, Ndifunako."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndifuna Yesuyo, Movutamu,",
+        "Ndipulumukemo Mwa Iyeyu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndifuna Yesuyo, Mokondwa ndi",
+        "Mowawa, adzemo Ndi moyodi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndifuna yesuyo, Ndichite ’ne",
+        "Zofuna zakezo, Ndidzazebe."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Ndifuna Yesuyo Woyeratu,",
+        "Ndikhale wakeyo, Wa Iyeyu."
+      ],
+      "number": 6
+    }
+  ]
+}

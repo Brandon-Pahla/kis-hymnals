@@ -1,0 +1,43 @@
+{
+  "number": 170,
+  "language": "xh",
+  "title": "170 Menzi No-Kumkani Wam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Menzi, Kumkani wam, Ndiyakubulela;",
+        "’Sisa saKho singumthombo Wentsikelelo zam;",
+        "’Sisa saKho singumthombo Wentsikelelo zam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndisis’ adalwa saKho, Ndiphile kuwe qha;",
+        "Thixo wam, wen’ ufuna kum Indumis’ ebanzi;",
+        "Thixo wam, wen’ ufuna kum Indumis’ ebanzi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndingathinina, Nkos’ Ngezi zinto zaKho?",
+        "Unga ndingakubulela; Ath’ ukukhohlwa kwam!",
+        "Unga ndingakubulela; Ath’ ukukhohlwa kwam!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndivuselele Nkos’ Ngamandla angcwele;",
+        "Ndize ndibe kukho konke Ukuthanda kwaKho;",
+        "Ndize ndibe kukho konke Ukuthanda kwaKho."
+      ],
+      "number": 4
+    }
+  ]
+}

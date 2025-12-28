@@ -1,0 +1,35 @@
+{
+  "number": 290,
+  "language": "luo",
+  "title": "290 Yesu, In Osiep Nyithindo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu, In Osiep nyithindo,Bedi Osiepna;Mak lueta, ibedi kodaKawuotho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Puonja mond` atim makare,To ayom chutho;Ne In nyathi, e momiyoIng`eyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Taya pile, Yesu Kristo,To ing`eyo yo;An akia, an afuwo;Naruenyo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Bedi koda, kik iweya,In e Osiepna;Anadwari pile pileNyaka chieng`."
+      ],
+      "number": 4
+    }
+  ]
+}

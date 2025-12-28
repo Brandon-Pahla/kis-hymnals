@@ -1,0 +1,47 @@
+{
+  "number": 299,
+  "language": "sn",
+  "title": "299 Garai Makafara",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mwoyo yedu ngaifare, Tinogununguneyi",
+        "Kana ivo Baba vedu, Vachingotichengeta?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngatifare, ngatifare, Tinovona kupenya",
+        "Nzira yebasa yakanakisa, Kana tichifara"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Apo achitungamira, Kana izvo zvitema",
+        "Zvinozotikurirazve, Jesu anotibatsira"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana tichirega basa, Tino rwadziwa mwoyo",
+        "Mumvuri unoswedera, Kuzodzinga rufaro"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O! vatsvene vanogara, Vachifarisisazve",
+        "Nzira yavo inopenya, Idayi zvakanaka"
+      ],
+      "number": 5
+    }
+  ]
+}

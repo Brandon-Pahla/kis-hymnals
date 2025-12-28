@@ -1,0 +1,59 @@
+{
+  "number": 498,
+  "language": "fr",
+  "title": "Jésus m'entend",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus m'entend lorsque par la prière",
+        "Je vais à lui sans crainte et sans effroi;",
+        "Il veut toujours plaider devant son Père",
+        "Pour un pécheur repentant tel que moi.",
+        "Et si parfois le ciel paraît d'airain,",
+        "Je sais que mon Sauveur divin,",
+        "Au temps voulu me répondra, me répondra."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus m'entend lorsque dans ma détresse,",
+        "Avec ferveur j'implore son secours;",
+        "Je sais qu'il a pitié de ma faiblesse",
+        "Et que mon cri parvient à lui toujours.",
+        "S'il semble sourd aux appels de ma foi,",
+        "Je prends courage, car mon Roi,",
+        "Au temps voulu me répondra, me répondra."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus m'entend quand j'implore sa grâce,",
+        "Tout près de moi je sens battre son cœur.",
+        "Il ne saurait longtemps cacher sa face",
+        "Celui qui fait ma joie et mon bonheur.",
+        "S'il tarde encore, il viendra sûrement;",
+        "Et lui qui m'aime tendrement,",
+        "Au temps voulu me répondra, me répondra."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus m'entend; oui, j'en ai l'assurance,",
+        "Il a perçu les accents de ma voix.",
+        "J'avance en paix, guidé par l'espérance,",
+        "Sur le sentier de ses divines lois.",
+        "Et je l'attends toujours avec bonheur,",
+        "Car Jésus, mon divin Sauveur,",
+        "Au temps voulu me répondra, me répondra."
+      ],
+      "number": 4
+    }
+  ]
+}

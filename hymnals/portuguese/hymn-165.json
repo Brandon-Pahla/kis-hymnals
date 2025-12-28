@@ -1,0 +1,56 @@
+{
+  "number": 165,
+  "language": "pt",
+  "title": "Dá-me a Bíblia",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Dá-me a Bíblia"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dá-me a Bíblia que eu tanto anelo,",
+        "Por seu caminho quero sempre andar;",
+        "Suas palavras são a doce nova",
+        "Que nosso Mestre veio anunciar"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Dá-me a Bíblia, livro tão precioso!",
+        "Santa doutrina, fonte é de luz.",
+        "São seus ensinos um sublime gozo;",
+        "Eles conduzem para o bom Jesus."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dá-me a Bíblia, dela eu preciso,",
+        "Pois do pecado há de me livrar;",
+        "Suas palavras têm poder e alento",
+        "Que minha alma podem renovar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dá-me a Bíblia, que meu guia seja;",
+        "Por toda a vida, meu caminho e luz.",
+        "Seus bons ensinos sejam sempre o astro",
+        "Que me conduza para o pé da cruz."
+      ],
+      "number": 5
+    }
+  ]
+}

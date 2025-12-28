@@ -1,0 +1,55 @@
+{
+  "number": 215,
+  "language": "st",
+  "title": "215 Ema ’Me U Se Belaele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lehae moo ho seng phetoho,",
+        "Bohloko le bofutsana;",
+        "E ke lehae la khotso,",
+        "Ke mang eo a sa le rateng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ema. . . ’me u se belaele,",
+        "Ema. . . ’me u sebelaele,",
+        "Ema. . . Ema, U se belaele."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha u sitoa ke moroalo,",
+        "Oa hao hona teng lefats’eng;",
+        "U hlolohetsoe lehae,",
+        "Ema U se belaele."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha tsela e le meutloa,",
+        "Ho ee leng hlohong ea Hae;",
+        "Ha pelo e le bohlokong,",
+        "Ea Hae e u hlomohetse"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leha bothata bo le teng,",
+        "Tsoela pele ka thapelo;",
+        "Phomolo e tla u tlela,",
+        "Ema u se belaele."
+      ],
+      "number": 4
+    }
+  ]
+}

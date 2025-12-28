@@ -1,0 +1,44 @@
+{
+  "number": 375,
+  "language": "es",
+  "title": "Sed puros y santos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Sed puros y santos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sed puros y santos, mirad al Señor,",
+        "permaneced fieles, orad sin cesar;",
+        "y que la Palabra del buen Salvador",
+        "os lleve en la vida a servir y amar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sed puros y santos, Dios nos juzgará;",
+        "orad en secreto: respuesta vendrá.",
+        "Su Espíritu Santo revela a Jesús,",
+        "y su semejanza en nos él pondrá."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sed puros y santos, Cristo nos guiará;",
+        "seguid su camino, en él confiad;",
+        "en paz o en zozobra, la calma dará",
+        "quien nos ha salvado de nuestra maldad."
+      ],
+      "number": 4
+    }
+  ]
+}

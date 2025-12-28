@@ -1,0 +1,39 @@
+{
+  "number": 291,
+  "language": "sn",
+  "title": "291 Yakafanira Nyenye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yakafanira nyenye, Yakafanira nyenye;",
+        "Yakafanira nyenye, Yabaiwa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mbiri, Hariruya, Kudza Hariruya!",
+        "Mbiri, Hariruya! Kunyenye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi unza umambo! Huzopedza chitema;",
+        "Unzai makore churu, Moyera."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nguva dzese tinonzwa, Tim’de Timusandire",
+        "Tinosvika Zioni, Tim’one"
+      ],
+      "number": 4
+    }
+  ]
+}

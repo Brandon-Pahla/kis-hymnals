@@ -1,0 +1,64 @@
+{
+  "number": 149,
+  "language": "ny",
+  "title": "149 - Yenda Mkuunika",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WALK IN THE LIGHT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yenda mk’unika kwakeko, Atsogolere ’we;",
+        "Ndi Mzimu wa kumwambayo ’Dzainga mdimawo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yendanibe, Mkuunikatu;",
+        "Yendanibe, Mkun’ikatu kwa Mlunguyo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "(Bass and Tenor):",
+        "Yendanibe mku’nikatu kwa Mlunguyo,",
+        "Yendanibe mku’nikatu kwa Mlunguyo,",
+        "Yendanibe mku’nikatu kwa Mlunguyo;",
+        "Mku’nikatu kwa Mlunguyo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yenda mku’nika Yesuyo, Wowala m’mauyo,",
+        "Atsogolera onsewo, Okhulupirawo"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nkana mithunzi igwetu, Kudetsa njirayo.",
+        "Mdimawo udzathawatu, Ku’nika kwakeko."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Yenda mku’nika kwakeko, Udziwe nsisizo,",
+        "Chikondi chidzaposadi, Pofika mmwambamo."
+      ],
+      "number": 6
+    }
+  ]
+}

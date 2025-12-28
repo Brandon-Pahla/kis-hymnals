@@ -1,0 +1,39 @@
+{
+  "number": 435,
+  "language": "fr",
+  "title": "Sans fin...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sans fin, Seigneur, Dieu, notre Père, sans fin, Seigneur, nous te louons.",
+        "La terre exulte d'allégresse, béni sois-tu, Dieu des vivants."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "L'oiseau reçoit sa nourriture, la fleur se pare de beauté.",
+        "Tu aimes toute créature, tu sais le prix de nos années."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu es, Seigneur, notre lumière, toi seul nous sauves de la mort.",
+        "Ton fils offert à tous les peuples est pour chacun le pain vivant."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Heureux les hommes qui t'adorent, le monde ouvert à ton amour !",
+        "L'Esprit déjà te nomme Père ; un jour, Seigneur, nous te verrons."
+      ],
+      "number": 4
+    }
+  ]
+}

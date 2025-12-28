@@ -1,0 +1,30 @@
+{
+  "number": 325,
+  "language": "ny",
+  "title": "325 - Pakupempha Ife Pano",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHILE WE PRAY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Pakupempha ife pano, pakwitana \"Tateyo,",
+        "Podziwitsa m’tima mwanga, bwratu kwa Mbuyeyo",
+        "CHORUS:",
+        "Idzatu, idzatu, kwa Mbuyathu Yesudi,",
+        "Idzatu, idzatu, iwe bwera leroli.",
+        "2. Unacimwacimwa ndithu, wasocera mtarimo,",
+        "Unacedweranji kudza pa kulinda Yesuyo?",
+        "3. M’dziko lino pansi pano sukapeza kanth;umo",
+        "Kokkwanitsa Mtima wako, bweratu kwa Mbuyeyo.",
+        "4. Bvumbulutsa zonse zako zobisika m’mtimamo,",
+        "Ayeretsa moyo wako nao mwazi wacewo."
+      ]
+    }
+  ]
+}

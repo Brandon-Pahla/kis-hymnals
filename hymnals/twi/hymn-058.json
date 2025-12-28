@@ -1,0 +1,25 @@
+{
+  "number": 58,
+  "language": "tw",
+  "title": "Tie, Anwumm're Dwom Regyigye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tie, anwumm're dwom regyigye",
+        "Wɔ asu no so bɔkɔɔ;",
+        "Ne nnyigyei no rebɛn ara."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛte no bɔkɔɔ wɔ asom.",
+        "Di ah'rusi, di ah'rusi,",
+        "Di ah'rusi, Amen."
+      ],
+      "number": 2
+    }
+  ]
+}

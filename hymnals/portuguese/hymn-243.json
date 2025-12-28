@@ -1,0 +1,60 @@
+{
+  "number": 243,
+  "language": "pt",
+  "title": "Que Te Darei, Meu Mestre?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Que Te Darei, Meu Mestre?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que Te darei, me Mestre,",
+        "Meu Rei e meu Senhor?",
+        "Tenho tão pouco pra Te ofertar",
+        "Mas é com mui grande amor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Cristo, Senhor bendito,",
+        "Tudo fizeste a mim,",
+        "Tu desceste lá do Céu,",
+        "Dando ao pecado fim;",
+        "Que Te darei meu Mestre,",
+        "Por Teu imenso amor?",
+        "Meu coração e todo o meu ser,",
+        "Te entregarei, Senhor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que Te darei, meu Mestre,",
+        "Por Teu sublime amor?",
+        "Todos meus bens e tudo o que sou,",
+        "Deponho a Teus pés, Senhor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que Te darei, meu Mestre,",
+        "Meu grande Salvador?",
+        "Com gratidão e com devoção,",
+        "A Ti renderei louvor."
+      ],
+      "number": 5
+    }
+  ]
+}

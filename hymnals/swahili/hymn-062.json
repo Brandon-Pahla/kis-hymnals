@@ -1,0 +1,47 @@
+{
+  "number": 62,
+  "language": "sw",
+  "title": "62 - Napenda Kitabu Chake",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Napenda kitabu chake, kilichotoka mbinguni,",
+        "Barua kwangu ya Bwana, ujumbe wake wa pendo."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Humo ndani ya kitabu, sura ya Yesu naona,",
+        "Karatasi zimekuwa, nyayo zake za kiongozi."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Neno lake tamu sana, kama asali naona,",
+        "Natamani kulionja, ni mkate wa uzima."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Mapenzi yake mwumbaji, yanafunuliwa humo,",
+        "Hazina kuu ya hekima, utajiri wa ajabu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "Mwangaza wa ulimwengu, angaza humo moyoni,",
+        "Uwe mwandamizi pote, taa ya hatua zangu."
+      ]
+    }
+  ]
+}

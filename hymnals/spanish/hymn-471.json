@@ -1,0 +1,51 @@
+{
+  "number": 471,
+  "language": "es",
+  "title": "Condúceme, Maestro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Condúceme, Maestro"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Condúceme, Maestro, por tu",
+        "bondad,",
+        "y así jamás me falte seguridad;",
+        "no puedo un solo paso sin ti",
+        "andar;",
+        "oh, mi Jesús, sé siempre mi",
+        "Luminar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En tu amor envuelve mi corazón,",
+        "y dale paz y calma en la aflicción;",
+        "que halle en ti reposo allá en la",
+        "cruz,",
+        "que siempre me halle cerca de ti,",
+        "Jesús."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Y cuando fuerte azote la",
+        "tempestad,",
+        "y al alma desanime la adversidad,",
+        "condúceme, Maestro, por tu",
+        "bondad,",
+        "y así jamás me falte seguridad."
+      ],
+      "number": 4
+    }
+  ]
+}

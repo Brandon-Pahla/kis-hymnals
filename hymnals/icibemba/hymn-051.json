@@ -1,0 +1,31 @@
+{
+  "number": 51,
+  "language": "bem",
+  "title": "51 - MWE LESA WESU MULUBATISHO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BAPTIZE US A NEW"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mwe Lesa wesu mu lubatisho,",
+        "Na maka ya mulu Lesa palama",
+        "CHORUS:",
+        "Twapapata nomba Katula wesu",
+        "Kutemwa no M'pashi mulubatisho.",
+        "2. Ifintu fyesu e fyafye fyeka,",
+        "Tusambe ufumye ububi bwesu.",
+        "3. We Mupusushi tupalwe nomba,",
+        "Twalomba mapalo, palama ifwe.",
+        "4. Mumfwe ishiwi, ishiwi lyakwe",
+        "Ube watemwikwa nasekelela."
+      ],
+      "number": 2
+    }
+  ]
+}

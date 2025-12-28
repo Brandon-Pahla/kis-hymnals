@@ -1,0 +1,55 @@
+{
+  "number": 13,
+  "language": "nd",
+  "title": "13 Mhlope Ku Neqhwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, ‘Nkosi ngi fisa ukuphelela",
+        "Ngi thanda ukuba u hlale nami",
+        "Xebula wonke amaxhwala ami",
+        "Ngi gezisiswe ngaphezu kweliqhwa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ku neliqhwa Ye! Ku neliqhwa",
+        "Ngi gezisiswe ngaphezu kweliqhwa!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Jesu ngiqaphele u sezulwini",
+        "Ngelekelel’ ukuphum’ ebubini",
+        "Ngi yazinikela ngokuphelele",
+        "Ngi gezisiswe ngaphezu kweliqhwa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Jesu ngi yakunxusa ngokuncenga",
+        "Ngi kulindel’ ezinyaweni zAkho",
+        "Ngi zinikela nako enginako",
+        "Ngi gezisiswe ngaphezu kweliqhwa!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Jesu ngi linda ngokubekezela",
+        "Phenduka inhliziyo iyakhala",
+        "Kulowo, okufunayo kawali",
+        "Ngi gezisiswe ngaphezu kweliqhwa!"
+      ],
+      "number": 5
+    }
+  ]
+}

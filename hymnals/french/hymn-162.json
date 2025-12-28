@@ -1,0 +1,43 @@
+{
+  "number": 162,
+  "language": "fr",
+  "title": "Gloire à l'Éternel",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Gloire, gloire à l'Éternel !",
+        "Qu'un cantique solennel (bis)",
+        "De nos cœurs monte à son trône !",
+        "Quand il crée, oh ! qu'il est grand, (bis)",
+        "Qu'il est juste en punissant !",
+        "Qu'il est bon quand il pardonne !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il parle! ... et cet univers",
+        "Se lève aux puissants concerts (bis)",
+        "De sa parole vivante ;",
+        "Et des astres radieux (bis)",
+        "Sa main jette dans les cieux",
+        "La poussière étincelante."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Dieu, que tes rachetés",
+        "Toujours chantent les bontés (bis)",
+        "De celui qui leur pardonne !",
+        "Gloire, gloire à l'Éternel ! (bis)",
+        "Ce cantique solennel",
+        "Montera jusqu'à son trône."
+      ],
+      "number": 3
+    }
+  ]
+}

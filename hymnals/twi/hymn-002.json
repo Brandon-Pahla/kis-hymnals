@@ -1,0 +1,58 @@
+{
+  "number": 2,
+  "language": "tw",
+  "title": "Yɛn Nyame Hen'Abɔde Ny'naa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn Nyame Hen' abɔde ny'naa",
+        "Momma mo nne so mma yɛnto",
+        "Haleluya, Haleluya!",
+        "Owia fɛfɛ a ɛhyerɛn,",
+        "ɔsram a ɛma hann 'nadwo!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Munyi N'ayɛ, munyi N'ayɛ,",
+        "Haleluya, Haleluya, Haleluya!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ahum a etu, mframa brɛoo,",
+        "Mununkum ā ɛde mframa nam;",
+        "Munyi N'ayɛ, Haleluya!",
+        "Anɔpa, di dɛw 'nigye mu;",
+        "Anwumm're hann, ma wo nne so;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nɔsu kronnyen a ɛresen,",
+        "Monto dwom mma mo Aw'rade!",
+        "Munyi N'ayɛ, Haleluya!",
+        "Ogya a ɛhyerɛn fɛfɛ,",
+        "Na ɛma yɛn hyew ne kanea;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma 'bɔde ny'naa nhy'ra ɔbɔadeɛ,",
+        "Nsom No wɔ ahobrɛase mu!",
+        "Munyi N'ayɛ, Haleluya!",
+        "Munyi Agya, ɔba ayɛ!",
+        "Ne Honhom no! Baasa K'ro no!"
+      ],
+      "number": 4
+    }
+  ]
+}

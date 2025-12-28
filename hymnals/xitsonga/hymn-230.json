@@ -1,0 +1,23 @@
+{
+  "number": 230,
+  "language": "ts",
+  "title": "230. TANI HI NYIMPFU LEYI LAHLEKEKE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I AM THE WAY",
+        "1. Tani Hi Nyimpfu Leyi Lahlekeke Ntshaveni, Xana Ndzi Ta Kuma Ndlela Yo Tlhelela Kaya?",
+        "CHORUS",
+        "Ndzi Ndlela, Ntiyiso Na Vutomi, La Taka Ka Tatana U Ta Hi Mina, Ndzi Ndlela, Ntiyiso Na Vutomi, La Taka Ka Tatana U Ta Hi Mina.",
+        "T&B Yesu U Ri Hi Mina Ndlela Na Ntiyiso Na Vutivi La Taka Ka Tatana U Ta Hi Mina,",
+        "Yesu U Ri Hi Mina Ndlela Na Ntiyiso Na Vutomi, La Taka Ka Tatana U Ta Hi Mina.",
+        "2. Maxangu Ya Ndzi Karhata, Se Ndzi Lava Hosi,",
+        "Ntiyiso Wu Kwihi Ke, Muponisi U Kwihi?",
+        "3. Yesu I Vutomi,",
+        "Ndzi Ta Tshama Eka Yena, U Ta Ndzi Yisa Ka, Tatana Kona Ekaya."
+      ],
+      "number": 1
+    }
+  ]
+}

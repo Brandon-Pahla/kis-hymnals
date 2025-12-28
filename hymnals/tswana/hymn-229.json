@@ -1,0 +1,41 @@
+{
+  "number": 229,
+  "language": "tn",
+  "title": "229 Mang Yo O Moreneng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mang Yo O Moreneng? Tlhomamong;",
+        "Tlhakoring tse pedi, O fa kae?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tlhopha, janong, Tshiamong, bosuleng, O fa kae.",
+        "Tlhopha, Janong, Tshiamong, bosuleng, O fa kae.",
+        "T.&amp;B.",
+        "Mang yo o Moreneng, Mang yo o Moreneng,",
+        "Tshiamong, bosuleng O fa kae?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bontsi Ga Bo Tlhophe Tshiamo;",
+        "Mme ga se ntlha e e Tlhomameng."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tla Ntlheng Ya Morena; Ka Ntlha Yang?",
+        "Poloko e gone Kganteje."
+      ],
+      "number": 3
+    }
+  ]
+}

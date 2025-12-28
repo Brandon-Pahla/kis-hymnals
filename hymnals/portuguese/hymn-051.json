@@ -1,0 +1,42 @@
+{
+  "number": 51,
+  "language": "pt",
+  "title": "Clara Noite",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Clara Noite"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Clara noite, feliz e calma;",
+        "Doce paz já envolve o céu.",
+        "Vibram vozes em nossa alma,",
+        "Pois Jesus, nosso Rei, nasceu.",
+        "Rompam as fontes da alegria,",
+        "Pois já nasceu o Salvador.",
+        "Rompam as fontes da alegria,",
+        "Pois já nasceu o Salvador."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cantam anjos no firmamento",
+        "Um louvor ao Menino Deus;",
+        "Brilha a estrela, por um momento,",
+        "A indicar o Senhor dos Céus.",
+        "Todos cantemos: \"Deus conosco,",
+        "Noite feliz, feliz Natal!\"",
+        "Todos cantemos: \"Deus conosco,",
+        "Noite feliz, feliz Natal!\""
+      ],
+      "number": 3
+    }
+  ]
+}

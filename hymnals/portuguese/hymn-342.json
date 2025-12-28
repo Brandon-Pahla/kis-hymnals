@@ -1,0 +1,56 @@
+{
+  "number": 342,
+  "language": "pt",
+  "title": "Grande Comandante",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Grande Comandante"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Grande Comandante Cristo nos será,",
+        "Nesta guerra santa à frente marchará;",
+        "Nunca Suas hostes abandonará;",
+        "Há de até o fim lutar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Sempre avante, manda o General.",
+        "Sempre avante! guerra contra o mal!",
+        "Firmes, fortes, nunca vacilar!",
+        "Com Jesus havemos de ganhar!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seu pendão glorioso vamos defender,",
+        "Hostes inimigas sempre combater;",
+        "Nosso General por certo irá vencer.",
+        "Seguiremos a Jesus."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na feroz batalha temos proteção,",
+        "E afinal, em coro, junto à multidão,",
+        "Entoaremos todos a real canção,",
+        "Quando nós chegarmos lá"
+      ],
+      "number": 5
+    }
+  ]
+}

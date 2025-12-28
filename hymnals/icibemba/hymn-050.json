@@ -1,0 +1,29 @@
+{
+  "number": 50,
+  "language": "bem",
+  "title": "50 - CALO TUSUMINA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE’S A LAND"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Calo tusumina ciliko, No busumino tucimona",
+        "Pantu Tata alepembela, Tukekala mu calo cilya.",
+        "CHORUS:",
+        "Tukaya kumana Kucalo Yesu ateyanya (teyanya);",
+        "Tukaya kumana Na Yesu na bonse basuma.",
+        "2. Pa cabu cawama tukemba, Nyimbo sho shawama shapalwa;",
+        "E, no bulanda takwakabe, No kulila kwine kukapwa",
+        "3. A nakuli Shifwe mu mulu, Tukamulumbanya ne mbila;",
+        "Mulandu wa bupe, Kutemwa, Na mapalo ya nshiku shonse"
+      ],
+      "number": 2
+    }
+  ]
+}

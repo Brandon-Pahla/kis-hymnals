@@ -1,0 +1,32 @@
+{
+  "number": 11,
+  "language": "ny",
+  "title": "11 - Ndidzakutsatani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I WILL FOLLOW THEE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Ndidzakutsatani Mbuye, Kuli konse mupita;",
+        "Ndidzakutsatani Mbuye, Inde n’dzakutsatani.",
+        "CHORUS:",
+        "Ndidzakutsatani Mbuye, Yemwe munandifera;",
+        "Ngakhale akukaneni, Ndidzakutsatani ’Nu.",
+        "2. Nkana njira ndi ya minga Yopanda matakadzo,",
+        "Mukandikonzera Ine, Mokondwa n’dzatsata ’nu.",
+        "3. Nkana chisautso chidza, Kapena ndiyesedwa;",
+        "Mbuyenso anayesedwa, Ndidzamtsata mokondwa.",
+        "4. Nkana ndipeze mavuto, Sindidzakukanani;",
+        "Mnazunzidwanso koopsa Ndidzatsatabe Inu.",
+        "5. M’mafunde ndi mozamamo, Mudzanditsogolera;",
+        "M’nayenda m’mafunde kale, Ndidzakutsatani ’Nu."
+      ]
+    }
+  ]
+}

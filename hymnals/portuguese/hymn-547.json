@@ -1,0 +1,58 @@
+{
+  "number": 547,
+  "language": "pt",
+  "title": "Oh! Bela Terra de Esplendor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Oh! Bela Terra de Esplendor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pra terra abençoada vou,",
+        "Ansioso peregrino sou",
+        "Em busca do feliz lugar",
+        "No qual eu hei de descansar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Oh, bela terra de esplendor,",
+        "Querida herança do Senhor;",
+        "Olhando, velo além do mar",
+        "Que em breve eu hei de atravessar,",
+        "A linda praia perenal,",
+        "Do eterno lar celestial."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Comigo vai o meu Senhor,",
+        "Do mal me guarda com amor,",
+        "De paz transborda o coração,",
+        "E certo estou da salvação."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na vastidão celestial",
+        "Há de soar canto imortal",
+        "Da triunfante multidão",
+        "Cantando a grande redenção."
+      ],
+      "number": 5
+    }
+  ]
+}

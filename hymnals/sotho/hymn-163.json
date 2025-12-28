@@ -1,0 +1,47 @@
+{
+  "number": 163,
+  "language": "st",
+  "title": "163 Roma ’Na.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu o nts’a botsa a re: Ana ke tla roma mang?",
+        "Kotulo e kholo ruri, Ke mang na, ke mang ea eang?",
+        "Morena o nts’a tlerola, Moputso o mongata,",
+        "Na ke mang ea ea araba? \"Roma ’na, ha u rata!\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leha u sa rongoe hole, Ho ruta bahedene,",
+        "Bona ba tletse kahohle, Le koano ba haufi,",
+        "Leha e se ka puo ea Mangeloi le Paulose,",
+        "Bolela rato la Jesu, U re: O shoetse bohle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leha u sa beoe qhooeng, lerakong la Zione,",
+        "U supa tsela holimo, U tumisa tsa khotso",
+        "Ka merapelo ea hao, U ka etsa tse hlokoang",
+        "U ka ts’oana le Aarone, Ua ts’eetsa moprofeta."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha meea ea batho e shoa, Morena a u bitsa,",
+        "Ho se ea utloang ha u re:\"Ha ho seo nka se etsang,\"",
+        "Ka thabo ke tla sebetsa, Thabela mosebetsi,",
+        "Arabela u mpe u re: \"Roma ’na, Moren’a ka.\""
+      ],
+      "number": 4
+    }
+  ]
+}

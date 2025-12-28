@@ -1,0 +1,63 @@
+{
+  "number": 131,
+  "language": "es",
+  "title": "Bendito es el nombre de Jesús",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Bendito es el nombre de Jesús"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bendito es el nombre de",
+        "Jesús,",
+        "a cuantos le confiesan con",
+        "amor.",
+        "Jesús es Rey por la eternidad,",
+        "¡Aleluya! ¡Aleluya!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tú eres Señor, Castillo y Roca",
+        "fiel;",
+        "el Capitán que lucha contra el",
+        "mal;",
+        "bendita Luz en la oscuridad,",
+        "¡Aleluya! ¡Aleluya!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3- Que con valor peleen por",
+        "Jesús",
+        "los santos que aman a su",
+        "Salvador.",
+        "Dios les dará, por gracia,",
+        "galardón,",
+        "¡Aleluya! ¡Aleluya!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De mar a mar y en la Santa",
+        "Ciudad,",
+        "el canto pronto habrá de",
+        "resonar",
+        "al Creador, bendito Redentor:",
+        "¡Aleluya! ¡Aleluya!"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 151,
+  "language": "tum",
+  "title": " 151 Nkhughanaghana Za Charu Chakutowva",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 151 Nkhughanaghana Za Charu Chakutowva",
+        "WILL THERE BE ANY STARS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nkhughanaghana za charu chakutowa,",
+        "Ndamfikako pa umaliro,",
+        "M'wezi wake, ndamkwima pamo na Fumu,",
+        "Kasi mphumphu yane ya m'wala?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ka pam 'kuwa nyenyezi pa mphumphu yane",
+        "Para vinthu vyose vyamaLa? (vyamaLa)",
+        "NdamkhaLa na watuwa wose kuchanya,",
+        "Kasi mphumphu yane ya m'waLa? (ya mwaLa)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "M'nkhongono za Fumu nditoketokenge,",
+        "Kuguzira myoyo kwa lyo,",
+        "Kuti nkhapokere nyenyezi zituwa,",
+        "Nakupokera vitumbiko."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "'Mwe chamkuwa chimwemwe pakumuwona,",
+        "Na kuwa mu malundi ghake,",
+        "Chimwemwe cham'kula m'msumba wa golide,",
+        "Para mphumphu yane yam'wala."
+      ],
+      "number": 4
+    }
+  ]
+}

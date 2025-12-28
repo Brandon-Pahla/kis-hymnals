@@ -1,0 +1,47 @@
+{
+  "number": 613,
+  "language": "tw",
+  "title": "Fa W'adoɔden No Ko Ko Pa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Fa w'ahoɔden no ko ko pa",
+        "Kristo  ne w'ahoɔden nifa;",
+        "Sɔ abrabɔ pa no mu yie",
+        "Ͻbɛyɛw' ahenkyɛw daapem."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame dom mu tu mm'rika pa,",
+        "Ma w'ani so na hwɛ N'anim;",
+        "N'kwa ne ne kwan da w'anim;",
+        "Kristo ne kwan ne akyɛde."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Faw' dadwen to wo Hwɛfo so,",
+        "Twer' No n'Obehu wo mmɔfɔ;",
+        "Twer' No, na wo kra behu sɛ",
+        "Kristo ne ne nkwa ne ne dɔ."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mɔpa aba na ɔbɛn wo;",
+        "ɔnsakra da, wo som No bo;",
+        "Wo de gye di na wubehu",
+        "Sɛ Kristo ne w'ade nyinaa."
+      ],
+      "number": 4
+    }
+  ]
+}

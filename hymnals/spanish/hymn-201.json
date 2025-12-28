@@ -1,0 +1,47 @@
+{
+  "number": 201,
+  "language": "es",
+  "title": "Canción del Espíritu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Canción del Espíritu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, deja que el Señor te envuelvacon su Espíritu de amor; satisfaga hoy tu alma y corazón.",
+        "Entrégale lo que él te indique,",
+        "y su Espíritu vendrá",
+        "sobre ti y vida nueva te dará."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Cristo, ¡oh, Cristo!",
+        "Ven y llénanos.",
+        "Cristo, ¡Oh, Cristo!",
+        "Llénanos de ti."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alzamos nuestra voz con gozo,",
+        "nuestra alabanza a tí;",
+        "con dulzura te entregamos nuestro ser.",
+        "Entrega toda tu tristeza",
+        "en el nombre de Jesús,",
+        "y abundante vida hoy tendrás en él."
+      ],
+      "number": 4
+    }
+  ]
+}

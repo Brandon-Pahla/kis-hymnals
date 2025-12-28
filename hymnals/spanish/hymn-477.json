@@ -1,0 +1,61 @@
+{
+  "number": 477,
+  "language": "es",
+  "title": "Los que aman al Señor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Los que aman al Señor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Los que aman al Señor",
+        "eleven su canción,",
+        "que en dulces notas de loor,",
+        "que en dulces notas de loor,",
+        "ascienda a su mansión,",
+        "ascienda a su mansión."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "A Sion caminamos,",
+        "nuestra ciudad tan gloriosa;",
+        "marchando todos cantamos",
+        "de Dios y la bella mansión."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unida está, oh Dios,",
+        "tu fiel y amada grey;",
+        "y cantan todos a una voz,",
+        "y cantan todos a una voz,",
+        "los hijos del gran Rey,",
+        "los hijos del gran Rey."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cantemos con fervor,",
+        "dejemos el pesar,",
+        "marchemos libres de temor,",
+        "marchemos libres de temor,",
+        "al más feliz hogar,",
+        "al más feliz hogar."
+      ],
+      "number": 5
+    }
+  ]
+}

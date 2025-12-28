@@ -1,0 +1,55 @@
+{
+  "number": 93,
+  "language": "sw",
+  "title": "93 - Jua la Rohoni Mwangu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Jua la rohoni mwangu, mpendwa Mwokozi wangu,",
+        "Usiku giza hapana, ukiwa karibu Bwana."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Nikipata usingizi, nijaze fikara hizi,",
+        "Ni tamu sana, nilale pendoni mwako milele."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Kaa nami ewe Bwana, usiku kama mchana,",
+        "Nisiishi mbali nawe, ni uhai kuwa nawe."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Kama mtoto mnyonge, ameshawishwa atange,",
+        "Mtafute ewe Bwana, ujirudishie tena."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "Wagonjwa wape amani, waneemeshe maskini,",
+        "Waliao, Mtulizi, wape wote usingizi."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 6,
+      "lines": [
+        "Asubuhi tutokapo, tukaribie tulipo,",
+        "Twingiapo duniani, tuwe mwako mkononi."
+      ]
+    }
+  ]
+}

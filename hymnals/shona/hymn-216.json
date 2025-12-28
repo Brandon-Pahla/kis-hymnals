@@ -1,0 +1,46 @@
+{
+  "number": 216,
+  "language": "sn",
+  "title": "216 Handisi Ndega",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Handisiri ndega kwete ndina Jesu",
+        "Anondifadza ini, nokuti aneni",
+        "Handizoshayi shamwari ndina Jesu",
+        "Ini ndinopinduka, Iye haapinduki"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Handisiri ndega ndina Jesu",
+        "Watsidza kusandis’ya",
+        "Kundisiya ini ndega, ini ndega"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Handineti, kwete, ndakamutsamira",
+        "Mweya wangu wofara, kuzorora kwa’ri",
+        "Handi zvibatsiri, kuti ndiri ndega",
+        "Asi ndinaye Jesu, akandichengeta"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hunde ndarindira, Ati ndirindire",
+        "Ndashama kuti Tenzi ngenyi Anonoka",
+        "Hunde ndinofara Rufaro rukuru",
+        "Ndine nheyo yeidi, Iri Tenzi wangu"
+      ],
+      "number": 4
+    }
+  ]
+}

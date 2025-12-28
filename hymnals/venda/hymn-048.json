@@ -1,0 +1,46 @@
+{
+  "number": 48,
+  "language": "ve",
+  "title": "48 Vhufheloni Ri do Takala",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:430",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Vhufheloni ri do takala, ro kuvhangana hayani,",
+        "Ri do ya na mitshelo yashu, mudini wa vhudi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U takala, U takala, hu sa fheli, u takala,",
+        "Pembelani duvha li a da, la (u) khurela vhothe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Dzinyimbo dza hone dzo naka, Ri do imba nga dakalo,",
+        "Ra renda Murena washu mudini ula muswa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ho lindelwa u do pembela, vhudzulo hone ndi vhunzhi,",
+        "Ho itwaho nga Murena, mudini ula muswa."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 208,
+  "language": "pt",
+  "title": "Graça Excelsa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Graça Excelsa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, graça excelsa de Jesus!",
+        "Perdido, me encontrou!",
+        "Estando cego, me fez ver;",
+        "Da morte me livrou!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A graça libertou-me assim,",
+        "E meu temor levou.",
+        "Oh! quão preciosa é para mim",
+        "A hora em que me achou!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mil lutas, dores, tentações",
+        "Caíram sobre mim,",
+        "Porém, a graça me salvou!",
+        "Feliz eu sou, enfim!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E quando ao Céu em glória eu for,",
+        "Ao lar de paz e luz,",
+        "Pra sempre, então, eu cantarei",
+        "Da graça de Jesus!"
+      ],
+      "number": 5
+    }
+  ]
+}

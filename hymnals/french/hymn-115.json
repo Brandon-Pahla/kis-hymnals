@@ -1,0 +1,55 @@
+{
+  "number": 115,
+  "language": "fr",
+  "title": "Quand l’Esprit de Dieu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Quand l’Esprit de Dieu habite en moi",
+        "Je chante comme David.",
+        "Quand l’Esprit de Dieu habite en moi",
+        "Je chante comme David.",
+        "Je chante, je chante, je chante comme David.",
+        "Je chante, je chante, je chante comme David."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quand l’Esprit de Dieu habite en moi",
+        "Je prie comme David.",
+        "Quand l’Esprit de Dieu habite en moi",
+        "Je prie comme David.",
+        "Je prie, je prie, je prie comme David.",
+        "Je prie, je prie, je prie comme David."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quand l’Esprit de Dieu habite en moi",
+        "Je loue comme David.",
+        "Quand l’Esprit de Dieu habite en moi",
+        "Je loue comme David.",
+        "Je loue, je loue, je loue comme David.",
+        "Je loue, je loue, je loue comme David."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quand l’Esprit de Dieu habite en moi",
+        "Je danse comme David.",
+        "Quand l’Esprit de Dieu habite en moi",
+        "Je danse comme David.",
+        "Je danse, je danse, je danse comme David.",
+        "Je danse, je danse, je danse comme David."
+      ],
+      "number": 4
+    }
+  ]
+}

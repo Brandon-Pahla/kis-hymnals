@@ -1,0 +1,65 @@
+{
+  "number": 253,
+  "language": "es",
+  "title": "Tuyo soy, Jesús",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Tuyo soy, Jesús"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tuyo soy, Jesús, pues oí tu voz",
+        "que en amor llamome a mí;",
+        "mas anhelo en alas de fe subir,",
+        "y más cerca estar de ti."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Aún más cerca, cerca de tu cruz,",
+        "llévame, oh Salvador;",
+        "aún más cerca, cerca, cerca de la luz",
+        "viva yo, ¡oh buen Pastor!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A seguirte a ti me consagro hoy,",
+        "motivado por tu amor;",
+        "y mi espíritu, alma y cuerpo doy",
+        "por servirte, mi Señor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh, cuan pura y santa delicia es",
+        "de tu comunión gozar;",
+        "conversar contigo y tu dulce voz",
+        "cada día escuchar!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De tu gran amor no comprenderé",
+        "cuál es la profundidad,",
+        "hasta que contigo, Jesús, esté",
+        "en gloriosa eternidad."
+      ],
+      "number": 6
+    }
+  ]
+}

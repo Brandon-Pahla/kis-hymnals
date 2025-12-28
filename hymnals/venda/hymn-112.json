@@ -1,0 +1,46 @@
+{
+  "number": 112,
+  "language": "ve",
+  "title": "112. Huna Vhutshilo Kha Tshifhambano",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Hu na vhutshilo kha tshifhambano, Yesu u ri sedza tshone;",
+        "Zwa lino shango ndi lifhedzi, Sedza lupfumo kha tshifhambano."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sedzesa, U do tshila, sedzesa tshifhambano;",
+        "Humbula-vho vhukhethwa, sedzesa tshifhambano."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nga duvha le nda vhona Mutshidzi, a takala a tshi mmbona;",
+        "Musi ndi tshi dzhena zwivhini, nda sedza Tshifhambano ndo tshila."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndo dzula ndo sedza Tshifhambano, ndo fulufhela Mudzimu;",
+        "Sathane ha fhenyi muthu o fulufhela Maanda a tadulu."
+      ],
+      "number": 4
+    }
+  ]
+}

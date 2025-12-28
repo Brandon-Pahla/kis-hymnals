@@ -1,0 +1,35 @@
+{
+  "number": 281,
+  "language": "guz",
+  "title": "281 Gokw' Ase Yeso!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Gokw'ase yeso! Nokuyaond'ataboke korera;Nobotimoker'obuya,Botasarigwe n'obobe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Gokw'ase yeso! o mbuyaase oy'ogosundoka;Gotimok'as'okwegena,Gosemeria 'sesenirie."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Gokw'ase yeso! 'Morembe,'koboka gosesenirie;'Nguru chi'omotoria nchigotangwan' obobe, n'obwoba."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Gokw'ase Yeso!Nobok'egetureri gekobuga;Chimbera nachimanoke,Baboke tibakwa rinde."
+      ],
+      "number": 4
+    }
+  ]
+}

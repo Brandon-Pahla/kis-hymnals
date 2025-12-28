@@ -1,0 +1,47 @@
+{
+  "number": 235,
+  "language": "tn",
+  "title": "235 Gape Go Bo’a Tsatsi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Gape Go Bo’a Tsatsi Ja Boikhutso,",
+        "Le segofaditswe ke Jehofa;",
+        "Fa O re laotseng go ema tirong,",
+        "Mme botlhe ba tle ba nne kagisong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Re Emiseng Letsatsi Je Go",
+        "Ithuta thato ya ’Gwe, r’ utlwe;",
+        "Mme O tla utlwa fa re tlhatlosa",
+        "Merapelo le pako tsa rona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena Wa Mafatshe O Reetse,",
+        "Utlwa ntswe ja bana ba ’Go tshwarong;",
+        "Tsholofetso ya ’Go e tlhomane,",
+        "Bonatsa tshwaro go ba timetseng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rra Tsholofelo’a Rona Godimong,",
+        "Thata, taolo tsa ’Go dia re goga",
+        "Botshelong ke modisa le tsala,",
+        "Kgalalelo, bogolo, ke tsa ’Go."
+      ],
+      "number": 4
+    }
+  ]
+}

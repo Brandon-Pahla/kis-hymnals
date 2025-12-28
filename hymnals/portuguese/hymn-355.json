@@ -1,0 +1,66 @@
+{
+  "number": 355,
+  "language": "pt",
+  "title": "Oh, Não Temas, Sou Contigo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Oh, Não Temas, Sou Contigo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se a fé por vezes falta,",
+        "Quando o Sol não posso ver,",
+        "A Jesus eu digo humilde:",
+        "Oh, vem meu Piloto ser."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "\"Oh, não temas, sou contigo,",
+        "Teu Piloto até o fim!",
+        "Não te importes co'o perigo;",
+        "Eis a mão, confia em Mim.\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quando a tentação me envolve",
+        "E não posso a Cristo ver,",
+        "Eis que em meio à tempestade,",
+        "Ouço o Salvador dizer:"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quando a alma está ferida",
+        "Pelas ondas da aflição,",
+        "Volvo o olhar ao meu Piloto,",
+        "E este canto escuto então:"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se do mar à praia chego,",
+        "Mesmo havendo turbilhão,",
+        "Vejo meu Piloto ao lado,",
+        "Creio em Sua direção."
+      ],
+      "number": 6
+    }
+  ]
+}

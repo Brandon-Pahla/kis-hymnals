@@ -1,0 +1,34 @@
+{
+  "number": 319,
+  "language": "xh",
+  "title": "319 Masibulele Ku-Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Masibulele ku-Yesu, Ngokuba wasifela,",
+        "Wasenzela izibele ngokusifela kwakhe.",
+        "Tarhu! Bawo, Yiba nofefe kuthi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thina bantwana bemfama, Oweza kuthi apha,",
+        "Akwakhetha bala lamntu, Wafel’ abazimfama,",
+        "Tarhu! Bawo, Yiba nofefe kuthi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abantsundu, nabamhlophe Mababulele kunye;",
+        "Mabavakalise bonke, baculele i-Nkosi.",
+        "Tarhu! Bawo, Yiba nofefe kuthi."
+      ],
+      "number": 3
+    }
+  ]
+}

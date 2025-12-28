@@ -1,0 +1,40 @@
+{
+  "number": 26,
+  "language": "bem",
+  "title": "26 - NGE FINTU NDI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "JUST AS I AM"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nge fintu ndi, ndi wafibi,",
+        "lelo M'lopa wasumine,",
+        "Elyo mwanjita kuli Mwe.",
+        "CHORUS:",
+        "Mwe Mwana Lesa, naisa.",
+        "2. Nge fintu ndi, ndi impofu,",
+        "Naisa munsambe ine,",
+        "Munsambishe no mulopa,",
+        "3. Nge fintu ndi, Nacushiwe",
+        "namatontonkanyo yabi,",
+        "Yakutwishika no mweso,",
+        "4. Nge fintu ndi, ndimupina,",
+        "Ndefwaya ukuposhiwa;",
+        "Nkasanga fyonse kuli Mwe,",
+        "5. Nge fintu ndi, mulepoka,",
+        "Mulemposha no kunsamba,",
+        "Pantu namucetekela",
+        "6. Nge fintu ndi, ukutemwa",
+        "kula nkula kuli Imwe,",
+        "Nomba ndiwenu fye Mweka"
+      ],
+      "number": 2
+    }
+  ]
+}

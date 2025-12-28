@@ -1,0 +1,43 @@
+{
+  "number": 232,
+  "language": "tn",
+  "title": "232 Ga Ke Na Go Tlogela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ga Ke Na Go Go Tlogela, Ga Ke Na Go Go Latlha;",
+        "Ntla go goga, Ke boloke, Ka ntlha ya leina ja me,",
+        "O se boife Bosula, Tsala kgakololo ya Me."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa O Tlelwa Ke Difefo, O Mpitse Mo Thapelong;",
+        "Ketla go tshola mabogong, Tisong ya tlhokomelo;",
+        "Mo ditekong, Mo ditekong, K’o ntlafaletse tsela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Godimo Le Le Phepa, Mme O Le Mo Phatsemong,",
+        "Boitumelo ’kete noka, Tsotlhe e le boipelo;",
+        "Ke tla nna nao, Ke tla nna nao, Ke goga kgato tsa ’go."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Mo’a Wa’ Go O Le Fifing, O Tletse Bofutsana,",
+        "Mo’waneng o go tlaletseng, Ke tla bonatsa ’sedi,",
+        "Le sekgele, Le sekgele, Sa rato lwa Me se bonwe."
+      ],
+      "number": 4
+    }
+  ]
+}

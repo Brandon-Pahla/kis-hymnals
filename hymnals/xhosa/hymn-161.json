@@ -1,0 +1,47 @@
+{
+  "number": 161,
+  "language": "xh",
+  "title": "161 Mna ne-Nkosi Yam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndino-Mhlobo wodidi, Ndimthanda kakhulu,",
+        "Undithantasa ngothando, Uthembekile kum;",
+        "’Ndinge hlali kude naYe, Ndingaba kufuphi,",
+        "Ngoko sihlala kunye ne-Nkosi yam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyatyhafa, ndidinwe, Undazi ndingento,",
+        "Az’ andayamise kuye, ena luncedo lwam;",
+        "Nguy’ ondikhokhel’ endlelen’, Kukhanye kamnandi;",
+        "Ngoko sihamba kunye ne-Nkosi yam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndimxela zonk’ intsizi, Kwa nokuvuya kwam,",
+        "Nako ukukholiswa kwam, Nokukhathazayo;",
+        "Yena uthi mandenze nje, Nohlobo lokwenza,",
+        "Ngoko sithetha kunye ne-Nkosi yam."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uyalaz’ unxano lwam, Lokuzuza umntu,",
+        "Uthi ngoko andithume, Ngelizwi lothando,",
+        "Ndazise ngothando lwakhe, Nangokufa kwaKhe,",
+        "Sisebenza kunye-ke ne-Nkosi yam."
+      ],
+      "number": 4
+    }
+  ]
+}

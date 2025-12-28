@@ -1,0 +1,46 @@
+{
+  "number": 224,
+  "language": "en",
+  "title": "224 Let The Lower Lights Be Burning.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Brightly beams our Father’s mercy,",
+        "From His light-house ever more,",
+        "But to us He gives the keeping,",
+        "Of the lights along the shore."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Let the lower lights be burning!",
+        "Send a gleam across the wave!",
+        "Some poor fainting, struggling seaman,",
+        "You may rescue, you may save."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dark the night of sin has settled,",
+        "Loud the angry billows roar;",
+        "Eager eyes are watching, longing,",
+        "For the lights along the shore."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Trim your feeble lamp, my brother;",
+        "Some poor sailor tempest-tost;",
+        "Trying now to make the harbor,",
+        "In the darkness may be lost."
+      ],
+      "number": 3
+    }
+  ]
+}

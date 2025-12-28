@@ -1,0 +1,55 @@
+{
+  "number": 218,
+  "language": "ve",
+  "title": "218. Murango Wa Tshivhidzo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:348",
+        "AH:334"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Murango wa tshivhidzo, ndi Yesu Murena.",
+        "Tshi vha tshi vhumba tshiswa nga madi na ipfi,",
+        "A da-vho a tshi nanga, u’ tshi vhe tshikhethwa;",
+        "O renga nga malofha, a mbo di tshi fela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ho nangwa tshakha dzothe, dza vha na vhuthihi,",
+        "Kha hu tshidzwa huvhuya, Murena muthihi;",
+        "Dzina li re likhethwa, tshiliwa tshithihi,",
+        "Fulufhelo lithihi, tshilidzi vhukuma."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. U shoniswa hu ngafho, hu vhonwa nga rothe;",
+        "Maswina a tshi sanda, Tombo li re thikho,",
+        "Lutendo lwa vhakhethwa, vha lila lunzalo",
+        "Vhusiku ha u lila, hu do vha luimbo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Na u shengedzwa hatsho, na dzinndwa khatsho;",
+        "Tsho lindela mulalo, u sa do fhelaho,",
+        "Sa bono li penyaho, tsho fhatutshedziwa,",
+        "Tshivhidzo tshi na gundo, tshi na vhuawelo."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "number": 123,
+  "language": "en",
+  "title": "123 The Holiest Name.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dearest name in earth or heaven,",
+        "Sweetest name my heart hath known;",
+        "By the Father it was given,",
+        "To his well beloved Son."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "‘Tis the holiest name,………. ‘Tis the holiest name",
+        "(Blessed name!) (blessed name!)",
+        "From the Father’s lips to the earth it came.",
+        "Brought by angels of light,………",
+        "In the stillness of night,",
+        "Was the dear, dear name of Jesus."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "To my heart it brings a blessing,",
+        "And my lips take up the strain;",
+        "And his wond’rous name confessing,",
+        "Tell its sweetness over again."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, my soul would swell the chorus,",
+        "Singing his redeeming love;",
+        "And ascribe eternal praises,",
+        "To the name all names above."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "number": 7,
+  "language": "bem",
+  "title": "7 - ALEISA ALEISA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHEN HE COMETH"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Aleisa, aleisa Kusenda a-bakwe,",
+        "Abo bonse ababuta Abatemwikwa",
+        "CHORUS:",
+        "Nge ntanda kubeka Mu- ci tebo cakwe,",
+        "Bakabeka ku mulu Abantu bakwe.",
+        "2. Akasenda, akasenda Kung’anda yakwe,",
+        "Abo bonse bamumfwila Abatemwikwa.",
+        "3. Bana bonse, bana bonse Bamutemwa Yesu,",
+        "E'fisamo ifyawama Abatemwikwa."
+      ],
+      "number": 2
+    }
+  ]
+}

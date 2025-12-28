@@ -1,0 +1,58 @@
+{
+  "number": 234,
+  "language": "pt",
+  "title": "Oh, Dia Feliz!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Oh, Dia Feliz!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Feliz o dia em que aceitei",
+        "Do meu Senhor a salvação.",
+        "A grande paz que eu alcancei",
+        "Jamais deixou meu coração."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Que prazer eu senti",
+        "No dia em que me converti!",
+        "Seguro estou no Salvador,",
+        "E tenho paz em Seu amor.",
+        "Sou Feliz, tão feliz,",
+        "Pois em Jesus me satisfiz!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Exulta, pois, meu coração,",
+        "Em meu Jesus, supremo Deus,",
+        "Porque te deu a redenção,",
+        "Trazendo a ti perdão dos Céus."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O voto que eu então tomei,",
+        "Minh'alma, sim, o cumprirá.",
+        "E sem cessar eu renderei",
+        "Louvor que a Deus exaltará."
+      ],
+      "number": 5
+    }
+  ]
+}

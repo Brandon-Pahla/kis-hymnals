@@ -1,0 +1,42 @@
+{
+  "number": 526,
+  "language": "pt",
+  "title": "A Lei do Meu Senhor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A Lei do Meu Senhor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sábia, justa, santa e pura",
+        "É a lei do meu Senhor,",
+        "Que corrige a vida impura",
+        "Do perdido pecador.",
+        "Do Senhor o ensinamento",
+        "Sempre ali perfeito está;",
+        "É tão rica em Seus preceitos",
+        "E conselhos santos dá!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Do Senhor os bons conselhos,",
+        "Justos e benignos são;",
+        "Neles vejo, quais espelhos,",
+        "Quanto é mau meu coração.",
+        "Mais que o Sol resplandecente,",
+        "Os preceitos do Senhor",
+        "Iluminam nossa mente,",
+        "Com divino resplendor."
+      ],
+      "number": 3
+    }
+  ]
+}

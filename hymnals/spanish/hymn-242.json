@@ -1,0 +1,65 @@
+{
+  "number": 242,
+  "language": "es",
+  "title": "Una es, Señor, mi petición",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Una es, Señor, mi petición"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Una es, Señor, mi petición,",
+        "pues en mi senda infiel erré:",
+        "sea por agua o en crisol,",
+        "¡oh, límpiame!, ¡oh, límpiame!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Oh, límpiame de mi maldad",
+        "en tu crisol, si he menester!",
+        "No importa el medio, oh Señor,",
+        "¡oh, límpiame!, ¡oh, límpiame!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si al alma das más luz, Señor,",
+        "agradecido cantaré;",
+        "pero de un puro corazón",
+        "más gozaré, más gozaré."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Solo en el limpio corazón",
+        "podrá tu faz resplandecer",
+        "y ser completa la visión",
+        "de tu poder, de tu poder."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quiero mi senda enderezar,",
+        "libre del mal ser quiero hoy;",
+        "pero sin ti vano es luchar,",
+        "indigno soy, indigno soy."
+      ],
+      "number": 6
+    }
+  ]
+}

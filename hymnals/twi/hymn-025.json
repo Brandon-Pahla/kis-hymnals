@@ -1,0 +1,37 @@
+{
+  "number": 25,
+  "language": "tw",
+  "title": "Munyi Aw'rade Ayɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Munyi Aw'rade ayɛ, Haleluya!",
+        "'Hotefō a mowɔ fam ha, Haleluya!",
+        "S'ro 'hengua ho abɔfo, Haleluya!",
+        "Wɔn a wonim Ne dɔ no, Haleluya!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "S'ro ne asase nka mmom', Haleluya!",
+        "Wɔnka N'anwanwade nky'rɛ, Haleluya!",
+        "Mm're nyinaa ne mmaa nyinaa, Haleluya!",
+        "Munyi No ayɛ daa daa, Haleluya!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Munyi N'ayɛ mpɛ Ne dom, Haleluya!",
+        "Monkamfo Ne dom nhyehyɛe, Haleluya!",
+        "Nea Wayɛ ama nnipa, Haleluya!",
+        "Nea ɔnam Ne Ba so ma, Haleluya!"
+      ],
+      "number": 3
+    }
+  ]
+}

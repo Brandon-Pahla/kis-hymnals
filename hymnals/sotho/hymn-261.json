@@ -1,0 +1,38 @@
+{
+  "number": 261,
+  "language": "st",
+  "title": "261 Edeneng Moo Botleng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Khohlo e ntle ea Edene, Monate boikhutsong,",
+        "Lipelong tse hlomohileng, Utloang phoka la Hae."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Khohlo e ntle ea Edene, Lehaeng la bahloeki,",
+        "Hangata ha ke tsieloa, Ke lora phomolo ’a Hau."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pelong e u tsetselelang, Ho benya letsatsi,",
+        "La pina ea mangeloi, A binang hole koa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hae le teng la ’Moloki, Hlopheng se hlatsoitsoeng,",
+        "Lefats’eng la khalalelo, khabola pina e ncha."
+      ],
+      "number": 3
+    }
+  ]
+}

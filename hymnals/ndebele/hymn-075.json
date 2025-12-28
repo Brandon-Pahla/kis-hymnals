@@ -1,0 +1,39 @@
+{
+  "number": 75,
+  "language": "nd",
+  "title": "75 Zwan’ Izwi loMalusi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Zwan’ ilizwi loMalusi Le ehlane elimnyama;",
+        "Li biz’ izmvu zeNkosi Ezikude nesibaya."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zi ngeniseni-ke, Zi vela ezintabeni;",
+        "Zi ngeniseni-ke, Zi letheni k’uJesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ng’ubani-ke, ozohamba Ayocinga abaduki;",
+        "Ng’ubani ozobalanda Bez lapha ba ngabhubhi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zwana ukukhala kwazo Ezintaben’ ezinkulu;",
+        "UJes’ uMalusi wakho u thi: \"Buyisa izimvu.\""
+      ],
+      "number": 4
+    }
+  ]
+}

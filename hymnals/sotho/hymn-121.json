@@ -1,0 +1,46 @@
+{
+  "number": 121,
+  "language": "st",
+  "title": "121 Ke Bina Ka Rato La Jesu.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke bina ’rato la Jesu Eena ea nthatileng,",
+        "O tlohile holimo, A tla ho shoa Golgoth"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke bina lerato la Hae, Jesu ke tla ’moka,",
+        "O nchoetse ke tla phela, ke tla bina lerato."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pele ke e-s’o ho lle, Jesu O tla ntelela;",
+        "Leha ke es’o rapele O ile a nthapella."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A boteng ba lerato lefats’e ha le tsebe;",
+        "Ha libe tse kang tsa ka le tsona li ka ba ts’oeu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke na se molemo, O ne A ka nthata joang?",
+        "Morena U nkhapile, nthuse hore ke ’rate."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": 155,
+  "language": "ts",
+  "title": "155. KU NGA VA ETINHLOHLORHINI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I’LL GO WHERE YOU WANT ME",
+        "1. Ku Nga Va Etinhlohlorhini, Kumbe Bubutsen Lwandle, Hambi Ku Rhanga Enyimpini, Leswi Ndzi Faneleke;",
+        "Xiritwana Ndzi Ta Xitwa, Hambi Ndlela Ndzi Nga Yi Tivi, Ndzi Ta Tinyiketa Ka WEna, “Hi Mina Loyi, Ndzi Rhume”.",
+        "CHORUS",
+        "Ndzi Ta Ya Laha U Ndzi Rhumaka, Tintshaveni Hambi Lewandle; Ndzi Ta Fambisa Rito Ra Wena,",
+        "Ndzi Ta Endla Ku Rhandza Ka Wena.",
+        "2. U Nga Ha Rhandza Ndzi Vulavula, Marito Ya Rirhandzu, Ya Ku Vuyisa Mulahleki, Ndleleni Ya Vudyoho;",
+        "We Mukutsuri Ndzi Letele, Hambi Ndlela Yi Vava, Ndzi Fambisa Rito Ra Wena, Na Ko Ku Rhandza Ka Wena.",
+        "3. Ku Na La Ku Nga Nyawuriki Ndzi Nga Tirhaka Kona, Ndzi Ku Tirhela Nkarhinyana, Yesu Muferi Wanga;",
+        "Ndzi Tiseketela Ka Wena, Hikuva Wa Ndzi Rhandza, Ndzi Ta Endla KU Rhandza Kaku, Ndzi Ta Va N’wana Wa Wena."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "number": 230,
+  "language": "tn",
+  "title": "230 Jaaka Nku Thabeng Serameng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jaaka Nku Thabeng Serameng, Botlhe Ba Timetse;",
+        "Botshelong, Kagisong, sakeng, Ntla bona jang tsela?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke Nna tsela, ’mmaaruri, ’tshelo; Ga go yo’tlang go",
+        "Rara fa e se ka Nna. Ke Nna tsela, ’mmaaruri, ’tshelo;",
+        "Ga go yo’tlang go Rara fa e se ka Nna.",
+        "T.&amp;B. Ke Nna tsela, ke Nna tsela, le boammaaruri le",
+        "botshelo;",
+        "Ga go yo’tlang go Rara fa e se ka Nna.",
+        "Ke Nna tsela, Ke Nna tsela, le boammaaruri le botshelo;",
+        "Ga go yo’ tlang go Rara fa e se ka Nna."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Timetswa Ke Pelaelo, Go Modimo Nka Ya;",
+        "Fa bansti ba re, \"Fa, fale,\" Nk’itse jang ’mmaaruri?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go Kreste, Tsela, Botshelo, Boammaaruri, K’e Tla;",
+        "O tla nkgogela go Rara, Gaeng ja bosakhutleng."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "number": 201,
+  "language": "ve",
+  "title": "201. O Nnula Thopheni Ya Zwivhi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tshilidzi tsha Yehova tsho mmangadza,",
+        "Musi ndi tshi khou nuvhela zwivhini.",
+        "Nda vhidzelela ndi ngomu thopheni,",
+        "Nga tshilidzi a mmbea ho omaho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O nnula thopheni ya zwivhi,",
+        "O mmbea tomboni lo khwathaho",
+        "A mpfudza luimbo luswa;",
+        "Nda mu khoda Haleluja!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. A nnyimisa tomboni tsini hawe,",
+        "Ndi tshee ndo ima khalo na namusi.",
+        "Ndi nga si tsha dovha nda wela fhasi,",
+        "Nga tshilidzi ndi do wana-vho khare."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. O mpha luimbo luswa lwa u khoda,",
+        "Vhusiku na masiari ndi imbe,",
+        "Mbilu yanga yo dadzwa nga dakalo,",
+        "Ngauri Mutshidzi ndi do mu vhona."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndi khoda nga Maanda zwe a nnyitela,",
+        "Uri na vhanwe vha de vha mu vhone.",
+        "Uri vha re tsini na vha re kule,",
+        "Vha gude u fulufhela Mudzimu."
+      ],
+      "number": 5
+    }
+  ]
+}

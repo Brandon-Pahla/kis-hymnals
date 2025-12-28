@@ -1,0 +1,54 @@
+{
+  "number": 56,
+  "language": "st",
+  "title": "56 Ke Lelerile",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke lelerile Morena, Ke se ke tla hae;",
+        "Tse tsa sebe ke li tetse , Nate U nthole."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke tla hae, Ke tla hae,",
+        "Ha ke sa solla, Mpulele leholimo; Ntate U nthole."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke sentse lilemo tse ntle, Ke se ke tla hae.",
+        "Ketla ke lla ka likhapha, Ntate U nthole."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke ne ke lahlehile, Ke se ke tla hae,",
+        "U nkise teng leholimong; Ntate U nthole"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pelo ea ka e sitiloe, Ke se ke tla hae.",
+        "Joale ke fumane Jesu, Ntate U nthole."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke hloka mali a hae, Ke se ke tla hae;,",
+        "Ntlhapise ke soeufale, Ntate U nthole"
+      ],
+      "number": 5
+    }
+  ]
+}

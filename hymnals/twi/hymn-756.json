@@ -1,0 +1,70 @@
+{
+  "number": 756,
+  "language": "tw",
+  "title": "NG6 Nyame W'akwan Dɔɔso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame, W'akwan dɔɔso,",
+        "‘Dasani biara nhu mu yie,",
+        "Nyame, Wo nnwuma yε hu,",
+        "Ɛhia gyidi nko;",
+        "Ɛyε den ma ɔdasani,",
+        "Sε ɔbεhu W'akwan nyinaa mu;",
+        "Agya, nea mesrε Wo ne sε,",
+        "Ma mennɔ Wo nkutoo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hena na ɔte sε Wo (Nyame)?",
+        "Hena na ɔte sε Wo (Nyame)?",
+        "Wo na Woka na Woyε,",
+        "Obiara nte sε Wo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ɔs'ro ka W'anuonyam,",
+        "Na ewim ky'rε Wo nsa~ano adwuma",
+        "Wiase nyinaa wɔ Wo,",
+        "Ɛyε Wo nko de.",
+        "Hena na ɔne Wo p're adeε?",
+        "Hena na ɔne Wo di asie?",
+        "Ɛyε Wo Nyame nkutoo dea,",
+        "Ɛyε Wo de daa daa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Obi nkyεm Wo Nyame,",
+        "Hena na ɔnsuro Wo tumidi?",
+        "Aman nyinaa bɔ b'rim,",
+        "Sε wɔte Wo nne a;",
+        "Wo nne ma nifrafo hu ade.",
+        "Mpakye mpo tumi nante",
+        "Ɛnam Wo tumi kεse nti",
+        "Hena na ɔnsuro Wo?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɔtee Wo nne akyε,",
+        "Yɔtee bi wε Sinai bepɔ so;",
+        "Suro nti yεantumi Ne Wo ankasa ankyε;",
+        "Wo nne maa agyanom ho popoe",
+        "Nketenkete kitaa wɔn Sε yεansuro",
+        "Wo nne yi a Yεn ho bεpo daakye."
+      ],
+      "number": 4
+    }
+  ]
+}

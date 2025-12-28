@@ -1,0 +1,28 @@
+{
+  "number": 14,
+  "language": "guz",
+  "title": "14 Nyasae Nintare N' Aye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nyasae nintare Naye,Bun' Enoku atarete;Mbwate okoboko kwane,Inkwane n' Aye boronge;Nintaror' enchera buya;Yeso, ntare amo Naye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tingotara inche bweka,Mwaga nomotindi bori;Amatemwa abuchire,Ababisa nabange bo;Kiria emerindo nyancha,Omonene! ntare Naye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Korambwate okoboko,Ense tekombera kende;Nintare nde omoremu,Goika ng'ik' Omoerio;Ndore omochie Zayoni,Omotoria, ntare Naye."
+      ],
+      "number": 3
+    }
+  ]
+}

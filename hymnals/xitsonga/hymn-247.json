@@ -1,0 +1,22 @@
+{
+  "number": 247,
+  "language": "ts",
+  "title": "247. BANA MHALAMHALA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "RING THE BELLS OF HEAVEN",
+        "1. Bana Mhalamhala, Ntsako Namuntlha, U Vuyile Ku Lahlekeni;",
+        "Vona Tatana Wa N’wi Hlanganisa, No Vukarha La Karheleke.",
+        "CHORUS",
+        "Wa Kwetsima Tintsumi Ta Khankha, Hi Ro Risimu Ra Vahluri, Vunyingi Lebyikulu Ngopfu, Byi Yimbelela “Wa Kwetsima”.",
+        "2. Bana Mhalamhala Ntsako Namuntlha, Mutsendzeleki U Vuyile,",
+        "Mbilu Yi Hambanile Ni Vudyoho, U Tswariwe Hi Vuntshwa.",
+        "3. Bana Mhalamhala, Tana Nkhubyeni, A Hi Tlangeleni Ku Hlula,",
+        "Bulani To Nandziha Bya Vulombe, Se U Tswariwe Hi Vuntshwa."
+      ],
+      "number": 1
+    }
+  ]
+}

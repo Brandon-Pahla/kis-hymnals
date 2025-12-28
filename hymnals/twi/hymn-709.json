@@ -1,0 +1,48 @@
+{
+  "number": 709,
+  "language": "tw",
+  "title": "N14 There was One who",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Obi de ɔpε sii m´anan mu wu maa me,",
+        "Sε ɔkra a ɔmfata nnya nkwa;",
+        "ɔde ɔpε faa asεnnua so kwan no so,",
+        "De me bra mu bɔne nyinaa kyεe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wɔabɔ asεnunm´,",
+        "Wɔabɔ asεnunm´,",
+        "O hwε seneá ɔde ɔpε soae!",
+        "Yaw ne adehwere",
+        "Pii na Yesu de soaa",
+        "Me bɔne kɔɔ asεnnua no so!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Onyaa odwo, adɔe ne boasetɔ maa me,",
+        "N´Oyii me komam´bɔne nyinaa,",
+        "Afobu nni hɔ bio, afei made me ho",
+        "W´ɔabɔ me bɔne nyinaá asεnnuam'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Metintm m´Agyenkwa den, merennyaw No da;",
+        "Mede dεw betu me kwan daa daa",
+        "Na mede m´ano ne me komá ato dwom sε,",
+        "Wɔayi bɔne afi hɔ kɔ."
+      ],
+      "number": 3
+    }
+  ]
+}

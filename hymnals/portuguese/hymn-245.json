@@ -1,0 +1,32 @@
+{
+  "number": 245,
+  "language": "pt",
+  "title": "Gratidão",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### GratidãoÓ Pai que estás no Céu,",
+        "Venho Te agradecer",
+        "Por Teu cuidado e amor",
+        "Ao dirigir meu ser.",
+        "Graças a Ti Senhor.",
+        "Meus lábios em louvor",
+        "Não podem expressar",
+        "Quão grato sou a Ti."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Graças a Ti, Senhor!",
+        "Por Tua proteção",
+        "E bênçãos de Tua mão,",
+        "Graças a Ti, Senhor!",
+        "Graças a Ti, Senhor. (bis)"
+      ],
+      "number": 2
+    }
+  ]
+}

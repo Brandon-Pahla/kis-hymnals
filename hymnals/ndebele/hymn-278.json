@@ -1,0 +1,37 @@
+{
+  "number": 278,
+  "language": "nd",
+  "title": "278 Akhuyam’ Indlela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Akuyon’ indlela, Nom’ imnyama Nkosi!",
+        "Ngihole ngokwAkho, Ung’khethel’ eyami",
+        "Ngingezikhethele ngingethande loko,",
+        "Ngikhethele Wena ngothi-ke ngime ngqo!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "NgoWakho uMbuso, Vezake indlela,",
+        "Nokukhanya kuwo, Hleze ng’shiy’indlela",
+        "Gcin’ uk’phila kwami, noma kuhle, kubi",
+        "Ngokubona kwAkho Ngithole nantoni"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngikhethel’ is’hlobo, Ng’xwale nom’ impilo",
+        "Ngikhethel’ okwami, ‘Nala nob’ indlala",
+        "Kunga khethi mina, kok’khulu nok’ncane",
+        "Ngu Wena Mandl’ ami, Nakuko okunye"
+      ],
+      "number": 3
+    }
+  ]
+}

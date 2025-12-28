@@ -1,0 +1,49 @@
+{
+  "number": 272,
+  "language": "fr",
+  "title": "Aujourd’hui, tu m’appelles",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Aujourd’hui, tu m’appelles,",
+        "Tu veux laver mon coeur;",
+        "Et mes pensers rebelles,",
+        "Tu veux changer, Seigneur.",
+        "Loin de ta bergerie",
+        "J’errais dans le péché.",
+        "Pour me sauver la vie,",
+        "Jésus, tu m’as cherché."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aujourd’hui. ta grâce ouvre",
+        "La porte du salut :",
+        "Tous ceux que ton sang couvre",
+        "Sont parmi tes élus.",
+        "Et le Père avec joie,",
+        "Pardonne au pauvre enfant.",
+        "Qui délaissant sa voie,",
+        "Vient à lui, repentant."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La maison de mon Père,",
+        "Je ne puis m’en passer;",
+        "Il l’ouvre à ma prière,",
+        "Sans jamais se lasser.",
+        "Jésus, c’est lui la porte,",
+        "Me connaît par mon nom.",
+        "Si tout passe, qu'importe !",
+        "J’ai place en sa maison !"
+      ],
+      "number": 3
+    }
+  ]
+}

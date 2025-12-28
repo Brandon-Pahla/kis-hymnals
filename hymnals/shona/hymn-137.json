@@ -1,0 +1,55 @@
+{
+  "number": 137,
+  "language": "sn",
+  "title": "137 Tora Hako Pasi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ungatore hako pasi",
+        "Nerufaro rwaro rwese",
+        "Asi ndipe hangu Jesu",
+        "Anogara narini"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsitsi dzake dzakadzama, Nerudorwo rukuru",
+        "Rununuro rwakakomba, Chitsidzo che upenyu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ungatora hako pasi",
+        "Undipe hangu Jesu",
+        "Anondi nyaradza mweya",
+        "Naya ndinozoimba"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ungatora hako pasi",
+        "Undipe hangu Jesu",
+        "Ndione kufara kwake",
+        "Kondifadza munzira"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ungatora hako pasi",
+        "Undipe hangu Jesu",
+        "Ndinosimbira m’chinjiko",
+        "Dakara ndimuone"
+      ],
+      "number": 5
+    }
+  ]
+}

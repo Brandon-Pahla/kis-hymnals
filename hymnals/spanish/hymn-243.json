@@ -1,0 +1,58 @@
+{
+  "number": 243,
+  "language": "es",
+  "title": "Entrego todo a Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Entrego todo a Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Todo mi vil pecado",
+        "dejo ante mi Jesús;",
+        "él lleva toda carga,",
+        "liberación me da,",
+        "liberación me da."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mis culpas traigo a Cristo,",
+        "vengo a lavar mi mal;",
+        "en su preciosa sangre,",
+        "cual nieve quedará,",
+        "cual nieve quedará."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le entrego mi miseria,",
+        "su plenitud me da;",
+        "él sana mi alma enferma,",
+        "y redención me da,",
+        "y redención me da."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yo quiero ser cual Cristo,",
+        "con humildad vivir;",
+        "yo anhelo estar con Cristo,",
+        "siempre vivir con él,",
+        "siempre vivir con él."
+      ],
+      "number": 5
+    }
+  ]
+}

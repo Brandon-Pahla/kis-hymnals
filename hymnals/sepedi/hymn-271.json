@@ -1,0 +1,64 @@
+{
+  "number": 271,
+  "language": "nso",
+  "title": " 271  LE GE ŠETŠE E LE TŠE DIKHUBEDU.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 271  LE GE ŠETŠE E LE TŠE DIKHUBEDU.",
+        "CS 79",
+        "THO' YOUR SINS BE AS SCARLET"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le ge di kaba khubedu,",
+        "Di tlo ba tšhweu - tšhweu,",
+        "Le ge di kaba khubedu,",
+        "Di tlo ba tšhweu, tšhweu,",
+        "Le ge di kaba bja ka letsoku,",
+        "Di tlo šweufala,",
+        "Le ge di ka hibila,",
+        "Le ge di ka hibila,",
+        "Di tlo ba bjaka lehlwa,",
+        "Di tlo ba bja ka lehlwa;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ekwa lentšu le go kgopelago,",
+        "Boela go Modimo!",
+        "Ekwa lentšu le go kgopelago,",
+        "Boela go Modimo!",
+        "O pelo hlomogi ka kudu,",
+        "Gomme o lerato,",
+        "Ekwa lentšu le go kgopelago,",
+        "Boela go Modimo!",
+        "Ekwa lentšu le go kgopelago,",
+        "Boela go Modimo!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O swarela phošo tša Gago,",
+        "Gomme o tlo di lebala,",
+        "O swarela phošo tša Gago,",
+        "Gomme o tlo di lebala,",
+        "Lebelelang go Nna batho bohle,",
+        "Go bolela Modimo,",
+        "O swarela diphošo tša Go,",
+        "Gomme o llo di lebala,",
+        "O swarela diphošo tša Go,",
+        "Gomme o tlo di lebala,"
+      ],
+      "number": 4
+    }
+  ]
+}

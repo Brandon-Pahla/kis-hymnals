@@ -1,0 +1,40 @@
+{
+  "number": 297,
+  "language": "sn",
+  "title": "297 Zvakaroverwa Pamuchinjiko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kwava noumwe wakafa panzwimbo yangu, Kuti mweya sowang’ upone",
+        "Wabvuma kufamba m’nzira yemuchinjiko, Kuti asunungure ini"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvakaroverwa’po, Pam’chinjiko wake",
+        "O zvizhinji sey’ atakura!, Nekurwadzwa kose;",
+        "Jesu atakura, zvese zvitema zvangu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anemutsa, rudo, nenyasha kuneni, Anochenesa mwoyo wangu",
+        "Handichina kuraswa, ngasununguka, Zvaroverwa pam’chinjiko"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndichabatirira kuna muponesi, Ndichafara ndiri murwendo",
+        "Ndine rwiyo momwoyo nepamuromo, Zvitema zvangu zvazobviswa"
+      ],
+      "number": 4
+    }
+  ]
+}

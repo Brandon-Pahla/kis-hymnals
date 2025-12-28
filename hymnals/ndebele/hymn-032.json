@@ -1,0 +1,46 @@
+{
+  "number": 32,
+  "language": "nd",
+  "title": "32 Isiphephelo Ngesikhati Sesiphepho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Inkos’ I liDwala lethu, I yisiphephelo sethu",
+        "Inqaba noMthunzi wethu, I yisiphephelo sethu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Li Dwala... elinamandla, Ng’uMthunzi… owalomhlaba;",
+        "Ng’uMholi... wethu impela, U yiSiphephelo sethu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "uJesu nguMthunzi wethu, U yiSiphephelo sethu",
+        "As’esabi, u ngowethu, U yiSiphephelo sethu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa si hanqwa impopoma, U yiSiphephelo sethu",
+        "Si huba yona ingoma, U yiSiphephelo sethu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inqaba neDwala lethu, U yiSiphephelo sethu Hlal’ eduze Msizi wethu, U yiSiphephelo sethu"
+      ],
+      "number": 5
+    }
+  ]
+}

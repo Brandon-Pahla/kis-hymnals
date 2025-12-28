@@ -1,0 +1,44 @@
+{
+  "number": 410,
+  "language": "pt",
+  "title": "Faz Brilhar a Tua Luz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Faz Brilhar a Tua Luz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Faz brilhar em mim, Jesus,",
+        "Tua luz, divina luz!",
+        "Tira o véu dos olhos meus,",
+        "Para ver os feitos Teus!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Reine em mim a Tua paz,",
+        "Teu amor que bênçãos traz!",
+        "Sinta eu o perdão",
+        "O poder da redenção!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que prazer será pra mim,",
+        "Ó Jesus, viver assim!",
+        "Sou feliz em tua luz,",
+        "Mui feliz, ó meu Jesus!"
+      ],
+      "number": 4
+    }
+  ]
+}

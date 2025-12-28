@@ -1,0 +1,52 @@
+{
+  "number": 181,
+  "language": "ve",
+  "title": "181. Ro Lindela U Vhuya Hawe.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:398"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tshifhinga tsha u vhuya hawe, a tshi divhiwi nga muthu,",
+        "Hu nga vha vhusiku ro lala, hu nga vha hu madau-tsha,",
+        "Kha ri fhatuwe ri rabele, dzi duge dzimbilu dzashu,",
+        "U swikela a tshi do swika, ri do khana nga dakalo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ro u lindela, ro u lindela,",
+        "Ro u lindela, ro ima ro u lindela."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi humbula matungu awe, musi a tshi renga rine,",
+        "O sia madzulo avhudi, a da a fela vhatshinyi,",
+        "Ndi humbula u di-nekedza, na vhothe vha mu tendaho,",
+        "Ro fulufhela u da hawe, ro dzula ro lavhelesa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Murena ndi Mutshidzi washu, ndi a u funa nga misi,",
+        "U vhonana nga tshifhatuwo, na vhana vha do u khada,",
+        "U do vha muhatuli kha vhanwe, kha vhanwe wa takadza,",
+        "Kha nne u do vha u khonani, ndo dzula ndo u lindela."
+      ],
+      "number": 4
+    }
+  ]
+}

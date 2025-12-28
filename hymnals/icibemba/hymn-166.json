@@ -1,0 +1,32 @@
+{
+  "number": 166,
+  "language": "bem",
+  "title": "166 - MWE CILIBWE CA KALE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ROCK OF AGES"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mwecilibwe ca kale, Kamfisame muli Mwe,",
+        "Umulopa na menshi, Fyafumine muli Mwe",
+        "Ekundapwa kwa fibi, Nsangululwe kububi.",
+        "2. Milimo ya maboko, Tetici-te mafunde,",
+        "Maka yandi nemwine, Nokuponya filamba,",
+        "Tekuti fi fintule, Kanofye Imwe Yesu.",
+        "3. Takuli co naleta, Njikate ku lupanda;",
+        "Mumfwike ndi no bwamba, Ngafwa, nimbulwa maka;",
+        "Naisa kuli Imwe, Munsambe ninkesa fwa.",
+        "4. Ilyo nkaleko mweo, Yakashibata menso;",
+        "Nokwikala mu mfifi, Ndolele bupingulo;",
+        "Mwe cili-bwe cakale, Kamfisame muli mwe."
+      ],
+      "number": 2
+    }
+  ]
+}

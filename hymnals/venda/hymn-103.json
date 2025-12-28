@@ -1,0 +1,53 @@
+{
+  "number": 103,
+  "language": "ve",
+  "title": "103. Dovhani Ni Bebwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Linwe gota li tshi da ha Yesu,",
+        "la vhudzisa Yesu nga u tshidziwa;",
+        "Mutshidzi a takutshedza nga u ri,",
+        "’Dovha u bebiwe!’ (hafhu)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U bebiwe hafhu, U bebiwe hafhu,",
+        "Ngoho, ngoho, ndi amba na’we ndi ri.",
+        "’Dovha u bebiwe!’ (hafhu)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Vhoinwi vhathu nothe shangoni,",
+        "Ipfani ipfi la Yesu Murena;",
+        "Ni tshi talukanya maipfi haya,",
+        "’Dovha u bebiwe!’ (hafhu)"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Inwi ni funaho vhuawelo,",
+        "Ni rende na vhatshidzwa nga luimbo;",
+        "Ni tshi tama u dzhena vhutshiloni,",
+        "’Dovha u bebiwe!’ (hafhu)"
+      ],
+      "number": 4
+    }
+  ]
+}

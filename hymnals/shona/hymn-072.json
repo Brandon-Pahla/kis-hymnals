@@ -1,0 +1,47 @@
+{
+  "number": 72,
+  "language": "sn",
+  "title": "72 Kutonga Kwawamba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kurikuwamba kutonga kwaMwari",
+        "Mabhuku anozarurwa",
+        "Mabasa ese nezvifungo",
+        "Mwari anozotonga"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tichazomira senyiko,",
+        "Pamusi mukuru uyo?",
+        "Tinozoraswa naye here?",
+        "Zvimwe tinoponeswa’vo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kutonga kunowamba kunaiwo",
+        "Vakarara’vo vakafa",
+        "Pakarepo vari kupona",
+        "Vese vanozotongwa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tichamira senyiko isu apo",
+        "Zviro zvese zvapangidzwa?",
+        "Kubva mabhuku ekudenga",
+        "Vangani vachamira"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "number": 236,
+  "language": "nd",
+  "title": "236 Vuka Moy’ Uhlabelele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Vuka, moya wam’ uthobe Udumis’ uMhlengi wakho,",
+        "Uthi mangi hlabelele O, yek’ isisa sesihle!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U nesisa, u nesisa, O yek’ isisa sesihle!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wa ngi bona ngonakele Wang’thanda nanxa kunjalo,",
+        "Wang’ sindisa ngi dukile Yek’ ubukhulu besisa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U nesisa, u nesisa Yek’ ubukhulu besisa!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Noba izitha zandile Noba umhlab’ ulwa nami,",
+        "U yahol’ umoya wami Yek’ amandl’ esisa sAkhe!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U nesisa, u nesisa Yek’ amandl’ esisa sAkhe!"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Izinhlupo zi njengefu, Seziduma njengezulu,",
+        "Njalo um’ eduze kwami Yek’ ubuhle bomsa wAkhe!"
+      ],
+      "number": 7
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U nesisa, u nesisa Yek’ ubuhle bomsa wAkhe"
+      ],
+      "number": 8
+    }
+  ]
+}

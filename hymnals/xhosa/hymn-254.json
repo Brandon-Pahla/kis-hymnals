@@ -1,0 +1,34 @@
+{
+  "number": 254,
+  "language": "xh",
+  "title": "254 Dumisa U-Yehova",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dumis’ uYehova, Nawo wonk’ umhlaba,",
+        "Makabongwe, Bong’ inceba yaKhe, Nothand’ olukhulu;",
+        "Makabongwe kuba unamandla."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vuthel’ ixilongo, Khwaza indumiso",
+        "Zoloyiso. Thabatha uhadi, udlale ingoma,",
+        "’Ngoma yokubong’ iGama laKhe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngexa udumisa Vuma ngentlokoma,",
+        "Kube mnandi. Wokupha uMoya, Akusikelele.",
+        "Makabongwe kuba uyiNkosi."
+      ],
+      "number": 3
+    }
+  ]
+}

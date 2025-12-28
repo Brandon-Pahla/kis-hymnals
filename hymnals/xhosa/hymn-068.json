@@ -1,0 +1,54 @@
+{
+  "number": 68,
+  "language": "xh",
+  "title": "68 Ndikhululwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mna sendakhululwa ngegazi! Ndakhululwa nguYesu ke;",
+        "Ndakhululwa ngalo ufefe, SendikuYe naphakade."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndikhu . . . lulwe Ngalo igazi leMvana;",
+        "Ndikhu . . . lulwe NdingowaKhe naphakade."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mna ngo-Yesu ndivuyisiwe, Ngoku kukho uvuyo kum;",
+        "Oko kukhanya kwaKhe kunam, Ngokuba ndazuzwa nguYe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndakumkhumbula u-Msindisi, Ndicamange ngaYe njalo;",
+        "Ndakucula ndingathi cwaka, Ndimbonge ngothando lwaKhe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "KuYesu ndiyazi ndobona U-Msindisi onothando;",
+        "Undigcina endikhusela, Undipha ingom’ emnandi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Isithsaba sindilindele Kwelo khaya liphezulu;",
+        "Kufuphi nabangcwele kanye, Ndakuba naYe phezulu."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "number": 511,
+  "language": "es",
+  "title": "Marcharé en la divina luz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Marcharé en la divina luz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Marcharé en la divina luz,",
+        "marcharé, siempre marcharé;",
+        "en las huellas del buen Jesús,",
+        "siempre marcharé."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Vestido blanco yo tendré,",
+        "corona eterna ceñiré;",
+        "feliz allí podré gozar,",
+        "en el Edén sin par."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Marcharé con mi Guía fiel,",
+        "marcharé, siempre marcharé;",
+        "triunfaré por la fe en él,",
+        "siempre marcharé."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Marcharé almas a buscar,",
+        "marcharé, siempre marcharé;",
+        "los perdidos a rescatar,",
+        "siempre marcharé."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por Jesús, más que vencedor",
+        "marcharé, siempre marcharé;",
+        "al hogar de mi Salvador,",
+        "siempre marcharé."
+      ],
+      "number": 6
+    }
+  ]
+}

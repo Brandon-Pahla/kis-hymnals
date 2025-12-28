@@ -1,0 +1,36 @@
+{
+  "number": 29,
+  "language": "bem",
+  "title": "29 - UBE NA INE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ABIDE WITH ME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ube naine kasuba kawa,",
+        "Mfimfi yafula ube naine!",
+        "No wakungafwa wine nshikwete,",
+        "We kafwa wandi ube na ine!",
+        "2. Inshiku shandi shilepwa bwangu",
+        "Fintu fyamucalo fili fyafye,",
+        "Fyonse fili fyakupitilila,",
+        "We ushaluka ube na ine!",
+        "3. Ndekufwaya inshiku shonse pe",
+        "Uluse lobe lwaansha fyonse,",
+        "Ube intungulushi yandi,",
+        "Muli fyonsefye ube na ine!",
+        "4. Nshatine kuti ube na ine,",
+        "Amacusho tekuti yancushe,",
+        "Wamfwa ukwansha kobe kulikwi?",
+        "Nkansha ne pantu uti na ine!"
+      ],
+      "number": 2
+    }
+  ]
+}

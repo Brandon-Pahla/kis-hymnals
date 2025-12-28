@@ -1,0 +1,48 @@
+{
+  "number": 264,
+  "language": "fr",
+  "title": "Doucement, tendrement",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Doucement, tendrement, Jésus appelle,",
+        "Nous appelle, vous et moi.",
+        "Patiemment Jésus attend le rebelle,",
+        "Il nous attend vous et moi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Venez, venez, venez à moi,",
+        "Fatigués, chargés, venez à moi.",
+        "Doucement, tendrement, Jésus appelle :",
+        "« Venez, oh ! venez à moi. »"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le monde, hélas, est une ombre qui passe,",
+        "Passe pour vous et pour moi.",
+        "Gloire à Jésus ! Au ciel est une place",
+        "Prête pour vous et pour moi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Au vrai bonheur Jésus-Christ nous convie,",
+        "Bonheur pour vous et pour moi.",
+        "Il nous l'acquit quand il donna sa vie,",
+        "Sa vie est pour vous et moi."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 99,
+  "language": "sn",
+  "title": "99 Muchinjiko Unoshamisa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Apo ndinozotondera",
+        "Muchinjiko waM’ponesi",
+        "Zviri zvangu ndinoshora",
+        "Zvese’zvo hazvibatsiri"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ona maropa anobva",
+        "Musoro diti mawoko",
+        "Hakuna rudo rumweba",
+        "Neurombo hwakadaro"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana ini ndakashata",
+        "Ndasunungurwa naIye",
+        "Chiro chimwe handichadi",
+        "Asi muchinjiko wake"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti ndirinazvo zvese",
+        "Zviri chipo chidukuzve",
+        "Urwo rudo rwakadaro",
+        "Runoda upenyu hwese"
+      ],
+      "number": 4
+    }
+  ]
+}

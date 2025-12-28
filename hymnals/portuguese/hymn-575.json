@@ -1,0 +1,55 @@
+{
+  "number": 575,
+  "language": "pt",
+  "title": "Silêncio",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Silêncio"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Silêncio! Silêncio!",
+        "É santo o lugar.",
+        "Ensinos preciosos",
+        "Provêm deste altar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ": Silêncio!, Silêncio",
+        "Na casa de Deus!",
+        "Escuta a mensagem",
+        "Que vem lá dos Céus!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Silêncio! Silêncio!",
+        "Perante o Senhor!",
+        "Atenta às palavras",
+        "De luz e de amor!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Silêncio! Silêncio!",
+        "É tempo de orar,",
+        "E com reverência",
+        "Em Deus meditar."
+      ],
+      "number": 5
+    }
+  ]
+}

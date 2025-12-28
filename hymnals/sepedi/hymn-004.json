@@ -1,0 +1,67 @@
+{
+  "number": 4,
+  "language": "nso",
+  "title": " 4 O ETLA KA PELE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 4 O ETLA KA PELE",
+        "AH 407 CH 669",
+        "HE IS COMING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Monate mafoko tsebeng tša molelere,",
+        "Ge a sepela kgolekgole;",
+        "Setšego le kgauswi a boe Mophološi,",
+        "Ka pele mmuso o tle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušulošo",
+        "O etla, O etla ka pejana,",
+        "O etla 'faseng lekhwi gape",
+        "Balelere bona ba",
+        "Ikhumanele 'gae la M'phološi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bohle ba kilego ba bolokiwa,",
+        "Ba tsoge gape pheletsong;",
+        "E le ba lewatleng leo le tebileng,",
+        "Bophelo ba tlo bofiwa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lefaseng le leswa re tlo kopana,",
+        "Re opele koš' 'a bogoši.",
+        "Go tšwa Lebowa, Borwa ba tlo kopana,",
+        "Ba tumiše Kgos 'a magosi"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Haleluya Amen ! Haleluya gape:",
+        "Ka tshepagalo re tlo bantshe;",
+        "Letang, ka tshepo, go fihlela nako,",
+        "Mphapahlogo re tlo o rwala."
+      ],
+      "number": 6
+    }
+  ]
+}

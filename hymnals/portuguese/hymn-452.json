@@ -1,0 +1,82 @@
+{
+  "number": 452,
+  "language": "pt",
+  "title": "Meu Nome na Oração",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Meu Nome na Oração"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quando inda eu tinha a vida em flor,",
+        "Na mocidade vã,",
+        "Nos dias sem cuidado ou dor,",
+        "De vida folgazã,",
+        "Eu vi, ao suave anoitecer,",
+        "De joelhos, minha mãe,",
+        "E num suspiro ouvi-lhe, então,",
+        "Meu nome na oração."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Meu nome na oração,",
+        "Meu nome na oração!",
+        "Ouvi dos lábios de mamãe,",
+        "Ouvi meu nome na oração!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Não dei então, nenhum valor",
+        "À prece de mamãe,",
+        "Mas comoveu-me o coração",
+        "Sentir seu grande amor;",
+        "E quando a vida se tornou",
+        "Repleta de amargor,",
+        "Em vão eu quis ouvir então",
+        "Meu nome na oração."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu prossegui, sem atender",
+        "À terna voz de Deus,",
+        "Que me queria converter,",
+        "Levar-me ao seio Seu;",
+        "Mas quando o meu pecado eu vi,",
+        "Perdido me senti;",
+        "Então lembrei com emoção,",
+        "Meu nome na oração."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aquele aflito coração,",
+        "Na terra há muito jaz,",
+        "Mas traz-me ainda sempre paz",
+        "Lembrar a oração;",
+        "E lá no Céu, mamãe e eu",
+        "Louvores vamos dar",
+        "A Deus, que em Sua compaixão,",
+        "Ouviu a oração."
+      ],
+      "number": 6
+    }
+  ]
+}

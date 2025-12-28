@@ -1,0 +1,47 @@
+{
+  "number": 62,
+  "language": "nd",
+  "title": "62 Jesu Wami, Ngi Yakuthanda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yakuthanda Wena Jesu wami,",
+        "Ngenxa yAkho ngi del’ izono namhla;",
+        "U ng’ uMsindisi-ke,, noMhlengi wami,",
+        "Uma ngakuthanda Jesu, ku namhla."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yakuthanda, ngoba wangithanda,",
+        "Esiphambanweni ngahlaulelwa;",
+        "Ngi yakuthanda ngoba wangifela,",
+        "Uma ngakuthanda Jesu, ku namhla."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ekuphileni nakuko ukufa,",
+        "uMsindisi wami ngi zomdumisa;",
+        "Ngothi ecansini lami lokufa,",
+        "Uma ngakuthanda Jesu, ku namhla."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Endlini zobukosi ngi jabule,",
+        "Ngi hlal’ ezulwini ngi kudumisa;",
+        "Ngi hlabelele ngi thwele umqhele,",
+        "Uma ngakuthanda Jesu, ku namhla."
+      ],
+      "number": 4
+    }
+  ]
+}

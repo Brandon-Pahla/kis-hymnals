@@ -1,0 +1,53 @@
+{
+  "number": 8,
+  "language": "en",
+  "title": "8 When The Roll Is Called Up Yonder",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "When the trumpent of the Lord shall sound,",
+        "and time shall be nomore,",
+        "And the morning breaks, eternal, bright and fair;",
+        "When the saved of the earth shall gather,",
+        "over on the other show,",
+        "When the roll is called up yonder, I’ll be there."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "When the roll is called up yonder,",
+        "When the roll is called up yonder,",
+        "When the roll is called up yonder,",
+        "When the roll is called up yonder",
+        "I’ll be there."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "On that bright and cloudless morning,",
+        "when the dead in Christ shall rise,",
+        "And the glory of His resurrection share;",
+        "When His chosen ones shall gather,",
+        "to their home beyond the skies,",
+        "When the roll is called up yonder I’ll be there."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Let us labour for the Master,",
+        "from the down till setting sun,",
+        "Let us talk of all His wondrous love and care,",
+        "Then, when all of life is over,",
+        "and our work on earth is done,",
+        "When the roll is called up yonder I’ll be there."
+      ],
+      "number": 3
+    }
+  ]
+}

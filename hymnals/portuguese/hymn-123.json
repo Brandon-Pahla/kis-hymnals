@@ -1,0 +1,56 @@
+{
+  "number": 123,
+  "language": "pt",
+  "title": "O Amor de Jesus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### O Amor de Jesus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O amor de Jesus é tão puro e leal",
+        "Que aclara o meu viver.",
+        "O amor de Jesus me liberta do mal",
+        "E envolve meu pobre ser.",
+        "Tão meigo e tão bom é Jesus!",
+        "El' guia-me com Sua mão.",
+        "O amor de Jesus é qual fonte de luz:",
+        "Tirou-me da escuridão."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O amor de Jesus é mais vasto que o mar;",
+        "Sustém-me na provação",
+        "O amor de Jesus, qual fragrância da flor,",
+        "Inunda meu coração.",
+        "Sua paz dá-me calma e prazer,",
+        "Eu sei que há um Céu para mim.",
+        "A Cristo Jesus minha vida darei,",
+        "Por Seu grande amor, sem fim."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O amor de Jesus minha vida refez",
+        "E deu-me de novo a paz.",
+        "Agora, feliz, quero sempre seguir",
+        "A senda que satisfaz.",
+        "Servindo a Jesus, meu Senhor,",
+        "Com zelo e com devoção,",
+        "Desejo falar e cantar desse amor",
+        "Que luz traz ao coração."
+      ],
+      "number": 4
+    }
+  ]
+}

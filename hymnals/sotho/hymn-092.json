@@ -1,0 +1,37 @@
+{
+  "number": 92,
+  "language": "st",
+  "title": "92 Letsatsi La Phomolo Le Thabo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Letsatsi la phomolo, Letsatsi la thabo,",
+        "Mofelisi oa lillo, Ea khanyang ka botle;",
+        "Mats’oele a holimo, A pel’a terone,",
+        "A bina khalalello, Ho Uena Molimo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U seliba see koellang, Komellong ea naha,",
+        "U ts’upiso ea tsela, E isang holimo;",
+        "Letsatsi la hlaboso, E tsoang ho rateng,",
+        "Ka lona re tsohela, Tsohle tse phahameng."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke letsatsi le letle, Tsatsi la lerato;",
+        "Ke tsatsi la ho ithuta, Lintho tsa holimo,",
+        "Ke la lehlohonolo, Tsatsi la phomolo,",
+        "Re batla ho phomola, Tulong, ea-ne ee ntle."
+      ],
+      "number": 3
+    }
+  ]
+}

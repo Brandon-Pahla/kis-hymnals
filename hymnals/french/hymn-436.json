@@ -1,0 +1,43 @@
+{
+  "number": 436,
+  "language": "fr",
+  "title": "Toi qui disposes",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Toi qui disposes",
+        "De toutes choses",
+        "Et nous les donnes chaque jour",
+        "Reçois ô Père!",
+        "Notre prière",
+        "De reconnaissance et d'amour."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le don suprême",
+        "Que ta main sème",
+        "C'est notre pardon, c'est ta paix",
+        "Et ta clémence,",
+        "Trésor immense",
+        "Est le plus grand de tes bienfaits."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que par ta grâce,",
+        "L'instant qui passe",
+        "Serve à nous rapprocher de toi!",
+        "Et qu'à chaque heure,",
+        "Vers ta demeure,",
+        "Nos cœurs s'élèvent par la foi!"
+      ],
+      "number": 3
+    }
+  ]
+}

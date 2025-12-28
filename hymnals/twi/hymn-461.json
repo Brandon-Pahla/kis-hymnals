@@ -1,0 +1,44 @@
+{
+  "number": 461,
+  "language": "tw",
+  "title": "Me Kra Yɛ Komm: Aw'rade Wɔ W'afa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me kra yɛ komm: Aw'rade wɔ w' afa,",
+        "Fa boasetɔ soa wo yaw 'sɛnnua no;",
+        "MaW' Nyame kwan ma ɔnhyehyɛ w'akwan,",
+        "Nsakrae biara mu no ɔnsea da;",
+        "Me kra yɛ komm: Wo s'ro 'Damfo pa no",
+        "Bɛma woanya awiei pa wɔ haw mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me kra yɛ komm: Wo Nyame no kura",
+        "Daakyem' sɛnea W'ayɛ nea atwan no;",
+        "Mma b'ribiara nwosow w'anidaso,",
+        "Seesie 'hintasɛm ny'naa mu bɛda hɔ;",
+        "Me kra yɛ komm: 'srɔkye ne ahum nim",
+        "Nea Odii wɔn so ha b're bi no nne."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me kra yɛ komm: na b're no rebɛn sɛ",
+        "Yɛne Aw'rade bɛtra afebɔɔ;",
+        "Brč a basmtu, yaw ne suro 'twan kɔ,",
+        "'W'rɛhow asa; dɔ mu dɛw aba bio",
+        "Me kra yɛ komm: nusu ne nsakrae twā a,",
+        "B'rč a wɔahy'ra yɛn no, yebehyia mu bio.",
+        "\""
+      ],
+      "number": 3
+    }
+  ]
+}

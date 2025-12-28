@@ -1,0 +1,47 @@
+{
+  "number": 168,
+  "language": "en",
+  "title": "168 The Lord Is My Shepherd.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "The Lord is my shepherd, no want Shall I know;",
+        "I feed in green pastures, safe-folded I rest;",
+        "He leadeth my soul where the still waters flow,",
+        "Restores me when wand’ring, redeems when oppressed."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tho’ the valley and shadow of death tho’ I stray,",
+        "Since thou art my guardian, no evil I fear;",
+        "Thy rod shall defend me, Thy staff be my stay,",
+        "No harm can befall with my Comforter near."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "In the midst of affliction my table is spread,",
+        "With blessings unmeasured my cup runneth o’er;",
+        "With perfume and oil thou annointest my head;",
+        "O, what shall I ask of thy providence more."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Let goodness and mercy, my bountiful God,",
+        "Still follow my steps till I meet thee above;",
+        "I seek by the path which my fore fathers trod,",
+        "Thru’ the land of their sojourn, thy kingdom of love."
+      ],
+      "number": 4
+    }
+  ]
+}

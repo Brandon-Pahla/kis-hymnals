@@ -1,0 +1,47 @@
+{
+  "number": 62,
+  "language": "sn",
+  "title": "62 Jesu Wangu Ndinokuda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu, ndinokuda muri wangu’wo",
+        "Ndinosiya zvese zvakaipa’zvo",
+        "Mununuri wangu Muponesi’wo",
+        "Kuti ndakakuda, asi nazvino"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinomuda ngekuti mwakandida",
+        "Pamuchinjiko mwakandiponesa",
+        "Pamsana pangu mwakatambudzwa’po",
+        "Kuti ndakakuda, asi nazvino"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana muupenyu, kana mukufa",
+        "Ndichakuda Imwi, mwandiponesa",
+        "Ndichiti, apo ndabatwa nerufo",
+        "Kuti ndakakuda, asi nazvino"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kumusha kwembiri, kunofarisa",
+        "Ndichakudza Imwi ikwo kudenga",
+        "Kudenga ndichaimba urwo rwiyo",
+        "Kuti ndakakuda, asi nazvino"
+      ],
+      "number": 4
+    }
+  ]
+}

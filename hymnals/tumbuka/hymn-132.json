@@ -1,0 +1,58 @@
+{
+  "number": 132,
+  "language": "tum",
+  "title": " 132 Yesu Mndisungilire Ku Mphinjika",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 132 Yesu Mndisungilire Ku Mphinjika",
+        "NEAR THE CROSS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Yesu m'ndisungilire ku mphinjika yinu,",
+        "Uko kukufumira mronga wakuchizga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mmphinjika, mmphinjika muwe uchindami,",
+        "Ndisuke ndifikenge m'charu cha kusirya."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nda munthu wa chitenthe nkhasangamo wezi,",
+        "Nyenyezi ya mulenji yikandiwalira."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mu mphinjika a Yesu, mwana wa Chiuta,",
+        "ndovwire ndendengemo mu mufwiri wake."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Ndilindilire mumo, kugomezga ruta,",
+        "Noisuke ndifikemo m'charu cha kusilya."
+      ],
+      "number": 5
+    }
+  ]
+}

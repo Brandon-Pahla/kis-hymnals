@@ -1,0 +1,38 @@
+{
+  "number": 16,
+  "language": "st",
+  "title": "16 Maotonyana A Hlokomele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke hlapile liatla, Hantle hoseng hona;",
+        "’Me ka li nea Jesu, Ho mo sebeletsa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "A maotonyana, A hlokomele,",
+        "Le leng le le leng; Le be ho Jesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke joetsitse tsebe, Tsa ka ho mo mamela;",
+        "Ketsong e bonolo, Ea liatlanyana."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mahlo a ka a bona, Ketsong le papaling;",
+        "A thibeloe le kotsing, Ka thato ea Jesu."
+      ],
+      "number": 3
+    }
+  ]
+}

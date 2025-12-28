@@ -1,0 +1,46 @@
+{
+  "number": 299,
+  "language": "xh",
+  "title": "299 Masichwayite!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Masichwayit’ iintliziyo, Singakhe sikhalaze;",
+        "U-Bawo onobubele usikhathalele ke."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Chwayitani Onk’ amaxa, Onk’ amaxa, Kukhanya macal’ onke!",
+        "Imfanelo yethu Iyemnandi, Masigcobe njalo ke."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngobubel’ usikhokela; Xa singahlaselwayo,",
+        "Ukho eluncedo lwethu, Olungasoze luwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa sityeshel’ imfanelo, Sifikelwa zintlungu,",
+        "Sisityekelwe sithunzi, Ibemb’ ingoma yethu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bayavuy’ abalungile, bahamba ngokonwaba;",
+        "Masikuv’ ukucetyiswa, Sithand’ ukulungisa."
+      ],
+      "number": 4
+    }
+  ]
+}

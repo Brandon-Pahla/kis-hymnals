@@ -1,0 +1,56 @@
+{
+  "number": 332,
+  "language": "tw",
+  "title": "Afei Mahu Mogya 'S'rɔkye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Afei mahu mogya 's'rɔkye,",
+        "Saa bura kɛse no;",
+        "Yesu, me W'rā a ɔgye nkwa no,",
+        "Ky'rɛ Ne mfem p'ratwa no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mihu nsu a ɛtew ho no,",
+        "Metɔ mu ma ɛtew me ho;",
+        "Munyi Awurade ayɛ!",
+        "Na atew me ho ampa'ra."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mihu abɔde fof'ro no,",
+        "Mete mogya no nne;",
+        "Ͻkasa ma bɔnesu wu",
+        "Nsu a ɛtew ho nom'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mesɔr' nante s'ro hann no mu",
+        "Fi wiase bɔnem wɔ",
+        "Koma kronn ne 'tade fitaá a",
+        "Kristo di mu Hen' mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔdom nwanwa, s'ro aba fam,",
+        "Mete mogya no nka;",
+        "Na me Yesu nko na Onim,",
+        "Yesų a wokum No no."
+      ],
+      "number": 4
+    }
+  ]
+}

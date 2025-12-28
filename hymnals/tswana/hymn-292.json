@@ -1,0 +1,44 @@
+{
+  "number": 292,
+  "language": "tn",
+  "title": "292 Atla Pedi Go Direla Jeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "’A Tla Pedi Go Direla Jeso,",
+        "’Leme longwe lwa go Mmaka,",
+        "’Tsebe pedi f’A nkgakolola,",
+        "’Leme longwe go opela."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Re etla Morena,Mosong wa nyana jwa rona,",
+        "Re etla Morena, Go ithut’ Wena."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Nao Pedi Go Tsamaya Tsela",
+        "E yang makgotleng ’godimong;",
+        "Matlho mebedi a Bibela, ’Bolelang,",
+        "’Rato lwa Jeso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Pelo Nngwe Go E Naya Jeso,",
+        "Mowa mongwe go bolokwa,",
+        "Tshelo bongwe tirelong ya ’Gwe,",
+        "Nna fela go nna wa Gagwe."
+      ],
+      "number": 3
+    }
+  ]
+}

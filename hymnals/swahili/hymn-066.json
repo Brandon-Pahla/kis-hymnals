@@ -1,0 +1,39 @@
+{
+  "number": 66,
+  "language": "sw",
+  "title": "66 - Roho Yangu Amka Sasa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Roho yangu amka sasa, mara jitahidi,",
+        "Shindano ni lake Bwana, zawadi ni taji."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Sauti ni yake Mungu inayokuita,",
+        "Ndiyo aliyekirimu, taji ya uzima."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Mashahidi ndio wengi, wanaokuona,",
+        "Ya nyuma usifikiri, bali mwendo kaza."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Bwana umetuanzisha, katika shindano,",
+        "Kwa vile tunaposhinda, ushindi ni wako."
+      ]
+    }
+  ]
+}

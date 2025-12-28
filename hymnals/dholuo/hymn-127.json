@@ -1,0 +1,35 @@
+{
+  "number": 127,
+  "language": "luo",
+  "title": "127 Nyasaye Gwedh Skundwa Mar Sabato",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nyasaye, gwedh Skundwa mar Sabato,Bedi Jatendwa, kwachokore;Tawa gi rieko gi herani,Kwaluwo yori."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Skund Sabato konyowa;Skund Sabato konyowa;Mondo wasom Wach Nyasaye pile,Ndalo duto te."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Chwo, to gi mon, gi nyithindo be;Chokore mond` giwinj Wachni;Muchi Maler obed JapuonjwaKwasomo Wachni."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Weche mwawinjo e Skundwa ka;Mi mondo gimoki e chunywa;Mondo wawuoth kuomgi e nyim ji;Kwaluwo ndachi."
+      ],
+      "number": 4
+    }
+  ]
+}

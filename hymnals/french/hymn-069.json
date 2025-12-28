@@ -1,0 +1,63 @@
+{
+  "number": 69,
+  "language": "fr",
+  "title": "Agneau de Dieu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Agneau de Dieu, dans ta grandeur",
+        "Tu règnes en Sion.",
+        "Mais tu pris un poids de douleur",
+        "Que, nous, nous méritons.",
+        "Tu t’es chargé de nos péchés",
+        "Ô Rédempteur du monde.",
+        "Portant ta croix tu as marché",
+        "Dans une horreur profonde."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Agneau sans tache, c’est pour moi",
+        "Que tu voulu t’offrir.",
+        "Tout ce fardeau pesant sur toi.",
+        "C’était pour me guérir.",
+        "Grâce à tes main, tes pieds cloués,",
+        "Tu as brisé nos chaînes.",
+        "Du tombeau tu t’es relevé,",
+        "Supprimant notre peine."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Autour de toi tous les élus",
+        "Dans leurs vêtements blancs,",
+        "Proclament le nom de Jésus,",
+        "Béni dans tous les temps.",
+        "Car le mystère de l’Agneau",
+        "En son dur esclavage",
+        "Met dans nos cœurs un chant nouveau,",
+        "Pour ce bel héritage."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Agneau de Dieu, pour ton amour,",
+        "Merci du fond du cœur",
+        "Sauvés de la mort pour toujours,",
+        "Nous goûtons le bonheur.",
+        "Dans le ciel enfin réunis,",
+        "Nous chantons tes louanges.",
+        "Ô père, ô Fils, ô Saint-Esprit",
+        "Avec le chœur des anges."
+      ],
+      "number": 4
+    }
+  ]
+}

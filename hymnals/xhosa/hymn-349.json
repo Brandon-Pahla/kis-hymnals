@@ -1,0 +1,63 @@
+{
+  "number": 349,
+  "language": "xh",
+  "title": "349 Kukho Abaqhayisayo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kuhko abaqhayisayo Ngokobutsha babo;",
+        "Kukho naabo bazidlayo Ngokubuhle babo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kukho abakratshileyo Ngokutyeba kwabo;",
+        "Kukho nabadeliweyo Ngobuhlwempu babo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kukho abadumileyo Ngokokwazi kwabo;",
+        "Kukho ababongiweyo Ngobukhosi babo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kukho abagwagwisayo Ngokhalipho lwabo;",
+        "Kukho naabo boyikwayo Ngobukhulu babo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kanti ezintlobo-ntlobo Zomka emhlabeni;",
+        "Kanti ezintlobo-ntlobo Zoya ekufeni."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Um-Eyisi weento zonke Uya kubeyisa;",
+        "Um-Thobisi weento zonke Wobakhahlelisa."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inye into ngaloomini Eya kusekela;",
+        "Kukukholwa eNkosini, Leyo yasifela."
+      ],
+      "number": 7
+    }
+  ]
+}

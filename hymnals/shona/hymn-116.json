@@ -1,0 +1,47 @@
+{
+  "number": 116,
+  "language": "sn",
+  "title": "116 Hamuna Nzvimbo YaJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Uzerea ne kunetswa, Ha’na nzwimbo ya Jesu?",
+        "Wabatwa nemirau, Ha’na nzwimbo ya Jesu?",
+        "O, Amire pamusiwo, O gugudza-gugudza!",
+        "Munzwe onyengerera Ha’na nzwimbo ya Jesu?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unopambadza nguwa, Hana basa ra Jesu?",
+        "Usapambadza Simba, Ha’na basa raJesu?",
+        "Hauyedzi kukunda, Kana kuwana Mweya;",
+        "Daidza warasika; Ha’na basa raJesu?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unotswaka upfumi, Ha’na nguva ya Jesu?",
+        "Usinga bati basa, Ha’na nguva ya Jesu?",
+        "Rufaro ne upfumi, Ndizvo zviro unoda,",
+        "Kuyedza kuzvifadza; Ha’na nguva ya Jesu?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Watakura zvenhando, Ha’na m’chero va Jesu?",
+        "Haunaba misumbu, Ha’na m’chero va Jesu?",
+        "Hauna kana chiro, kuripa basa rako;",
+        "Hauwani rufaro, Wokumbana na Jesu?"
+      ],
+      "number": 4
+    }
+  ]
+}

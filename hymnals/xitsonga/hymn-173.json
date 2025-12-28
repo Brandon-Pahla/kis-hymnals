@@ -1,0 +1,26 @@
+{
+  "number": 173,
+  "language": "ts",
+  "title": "173. RIPFUMELO LERO TIYA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O FAR A FAITH THAT WILL NOT SHRINK",
+        "1. Ripfumelo Lero Tiya, Ra Tshikeleriwa;",
+        "A Ri Chavi Na Nchumu, Vusiwana Hambi Rifu (Bis)",
+        "2. A Hi Rona Ro Vilela, Ri Nge Tlhuvutsiwi;",
+        "Enkarhini Wa Gome,",
+        "Hi Hlayiseka Ka Yesu. (Bis)",
+        "3. Ripfumelo Lero Xonga, Ku Nga Ta Xidzedze;",
+        "A Ri Chavi Na Khombo, Ri Hava Ku Kanakana. (Bis)",
+        "4. Yi Nga Vomba Misava, A Ri Nga Hundzuki;",
+        "Xidyoho Xa Hluleka,",
+        "Na Vuxisi Bya Xitsandzeka. (Bis)",
+        "5. Ndzi He Ripfumelo Rero, Ro Pfumala Nchavo;",
+        "Ku Ndzi Nyika Ku Tsaka, Ekaya Henhla Tilweni. (Bis)"
+      ],
+      "number": 1
+    }
+  ]
+}

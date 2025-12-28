@@ -1,0 +1,51 @@
+{
+  "number": 134,
+  "language": "tw",
+  "title": "Yesu, 'Hoɔfɛfo a Wodwo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu,'hoɔfɛfo a Wodwo,",
+        "Woayɛ W'Agya no apɛde;",
+        "Woagya Wo soro ahengua",
+        "Abɛfa yɛn 'nimguase su,",
+        "Yesu,'hoɔfɛfo a Wodwo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu,'hoɔfɛfo a Wodwo,",
+        "Wode 'dɛw ahyɛ wiase ma;",
+        "Wufi s'ro aba 'sase so,",
+        "De aw'rɛkyekye rebrɛ yɛn,",
+        "Yesu,'hoɔfɛfo a Wodwo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu,'hoɔfɛfo a Wodwo,",
+        "Woyɛ ɔdɔ a nkekae nnim;",
+        "Fa dɔ gya kanyan yɛn koma,",
+        "Na yɛayɛ nea Wo koma pɛ,",
+        "Yesu,'hoɔfɛfo a Wodwo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu,'hoɔfɛfo a Wodwo,",
+        "Boa yɛn ma yɛnyɛ W'apɛde;",
+        "Nea yɛwɔ nyinaa yɛ Wo de,",
+        "Ma yenni Wo nokware daa,",
+        "Yesu,'hoɔfɛfo a Wodwo."
+      ],
+      "number": 4
+    }
+  ]
+}

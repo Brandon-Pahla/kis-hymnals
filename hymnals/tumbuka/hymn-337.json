@@ -1,0 +1,67 @@
+{
+  "number": 337,
+  "language": "tum",
+  "title": " 337 Padazi Ilo Ndizamkuwukaso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 337 Padazi Ilo Ndizamkuwukaso",
+        "When I Shall Awake"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Pa dazi ilo ndizamkuwukaso",
+        "kuluta uko kulije chisi,",
+        "Ukuwalako mbuchindami pera",
+        "ine ndamkuhenera."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ine ndamkuhenera ine ndamkuhenera,",
+        "Pa dazi iLo ndizamkuwukaso",
+        "ndizamukuhenera."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Pa dazi ilo ndizakumuwona",
+        "wamkundipokerera mkukondwa,",
+        "Pakupokerera uchizi wake",
+        "ine ndamkuhenera."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Pakukumana na wakutemweka",
+        "Awo tikalekana mu nyifwa,",
+        "Penepapo ine ndakum'chindika",
+        "ine ndamkuhenera."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Ndakummuwona Yesu sono sono",
+        "Uyo wakandifwira 'ne kale,",
+        "Ndakum'mwimbira kwa muyirayira",
+        "ine ndamkuhenera."
+      ],
+      "number": 5
+    }
+  ]
+}

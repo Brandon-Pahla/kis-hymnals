@@ -1,0 +1,47 @@
+{
+  "number": 199,
+  "language": "nd",
+  "title": "199 Makubongwe uNkulunkulu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Makubongw’ iNkosi ngekwenzileyo,",
+        "Yathand’ ilizwe yasiph’ uJesu;",
+        "Wadel’ ukuphila ngezono zethu,",
+        "Wavula isango si ngene ngalo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bongani iNkosi, mawuzwe umhlaba,",
+        "Bongani iNkosi, yenamani ‘bantu,",
+        "Wozani kuYise ngay’ iNdodana;",
+        "Nimnike udumo ngakwenzileyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yek’ inkululo ithengwe ngegazi!",
+        "Sithembiso seNkosi kokholwayo;",
+        "Isoni esibi esikholwayo",
+        "Masinya si yaxolelwa nguJesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kukhul’ akwenzile wakufundisa;",
+        "Inkul’ intokozo ngay’ iNdodana,",
+        "Koba kuhle kuphakame, kumsulwa;",
+        "Lapho si bona senyuka noJesu."
+      ],
+      "number": 4
+    }
+  ]
+}

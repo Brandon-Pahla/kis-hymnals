@@ -1,0 +1,41 @@
+{
+  "number": 141,
+  "language": "nd",
+  "title": "141 OwAkho Impela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi fisa ukuba ngowAkho, O Msindisi wami;",
+        "Ngi fundise intando yAkho, Ngi size, Nkosi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi ngowAkho Nkosi,",
+        "Ngi ngowAkho impela",
+        "Ngi yafunga Nkosi,",
+        "Ngi ngowAkho impela"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Imfuyo yomhlaba i yini, Nkosi nxa u ngekho;",
+        "Ngi yakudela konke mina Ngi zuz’ okwAkho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi lahla okomhlaba konke Buy’ eduze, Nkosi;",
+        "KuWe nganele ngako konke Msindisi wami."
+      ],
+      "number": 4
+    }
+  ]
+}

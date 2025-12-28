@@ -1,0 +1,43 @@
+{
+  "number": 46,
+  "language": "en",
+  "title": "46 Sing Them Over Again To Me.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sing then over again to me, Wonderful words of life;",
+        "Let me more of their beauty see, Wonderful words of life;",
+        "Words of life and beauty, Teach me faith and duty."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Beautiful words, wonderful words,",
+        "Wonderful words of life;",
+        "Beautiful words, wonderful words,",
+        "Wonderful words of life."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Christ the blessed One, gives to all, Wonderful words of life;",
+        "Sinner, list to the loving call, Wonderful words of life;",
+        "All so freely give, Wooing us to heaven,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sweetly echo the gospel call, Wonderful of words life;",
+        "Offer pardon and peace to all, Wonderful words of life;",
+        "Jesus, only Saviour, Sanctify forever,"
+      ],
+      "number": 3
+    }
+  ]
+}

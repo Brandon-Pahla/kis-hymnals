@@ -1,0 +1,42 @@
+{
+  "number": 216,
+  "language": "guz",
+  "title": "216 Buna Nde Nachire as' ore",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Buna nde nachir' as'ore,Inche tingwekor' omuya'Manyinga oka ngosaba,Ntorie as' amaber' ao."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Buna (Buna inde),inde (Buna inde)Buna nde nachir' as'ore(Buna inde)Nyingw 'Onsesenie onkonye,Buna nde nachir' as'ore."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Buna nde ko namanyire,\"'Manyinga ok' aisanire\"Gonsibia ndabe kegima,Erio nkwegene kegima."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Buna nde nachire rero,\"'Moy'one okorereire\"Tinkomenya are naye,Noyoo nganetie koba."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nkoro yane n' obogima,Gotimoka nyor' as'oreGantayayete ndosete,\"Ntimok 'obwanchani bwao\"."
+      ],
+      "number": 5
+    }
+  ]
+}

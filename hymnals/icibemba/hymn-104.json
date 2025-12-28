@@ -1,0 +1,33 @@
+{
+  "number": 104,
+  "language": "bem",
+  "title": "104 - KALUBULA ISA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "COME GREAT DELIVERY, COME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ngumfwe Mfumu, umbelelyo luse kalubula isa;",
+        "Mweo wandi ule mufuluka, kalubula isa;",
+        "CHORUS:",
+        "Naile kumpili kwa talala,",
+        "kutalyu kufuma kumwesu.",
+        "Shi mbuleni mbikeni mwicinka",
+        "kalubula isa;",
+        "2. Nshi kwete cifulo, nelye nganda kalubula isa;",
+        "Mweo lubuto fyaba kuli mwe. kalubula isa.",
+        "3. Nshila yana-sha makasa yandi, Kalubula isa:",
+        "Cimwemwe cobe condekabila, kalubula isa.",
+        "4. Nangu waka-na ukwesha kwandi, kalubula isa;",
+        "Sakamano kupapata kwandi, kalubula isa."
+      ],
+      "number": 2
+    }
+  ]
+}

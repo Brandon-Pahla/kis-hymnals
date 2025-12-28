@@ -1,0 +1,62 @@
+{
+  "number": 480,
+  "language": "tw",
+  "title": "Aw'rade, Amansan Agya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Aw'rade, amansan Agya",
+        "Fa yɛn bɔne kyɛ yɛn;",
+        "Na fa adwen pa hyɛ yɛn ma,",
+        "Ma yɛmfa ɔbra kronn nsom Wo,",
+        "Mfa 'nidi nyi W'ayɛ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma yɛmfa 'hotoso pa sɛ",
+        "Wɔn a wɔtee 'W'rade",
+        "Frɛ no wɔ Siria po ho no;",
+        "Ma yɛnyɛ sɛ wɔn ara pɛ,",
+        "Nɔsɔre nni W'akyi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Homegye da wɔ Galilee",
+        "Mmepɔ atifi hɔ;",
+        "Nea Yesu koto ne Wo dii",
+        "Daa nkwa ho nkitaho kommyɛm'",
+        "A efi dɔ mu no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tɔ Wo kommyɛ bosu pa no",
+        "Kosi yɛn ko n'awiei;",
+        "Yi brɛ ne haw fi yɛn kra mu,",
+        "Na yɛmfi ɔbra pa mu nka",
+        "W'asomdwoe ahoɔfɛ."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Home W'ayaressa d'ru no",
+        "Gu yɛn apɛde so;",
+        "Ma 'tenka nnyae, na honam nna;",
+        "Kasa fi 'gya ne mframa mu,",
+        "'Somdwoe nne ketewa."
+      ],
+      "number": 5
+    }
+  ]
+}

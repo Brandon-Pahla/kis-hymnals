@@ -1,0 +1,68 @@
+{
+  "number": 44,
+  "language": "tum",
+  "title": " 44 Para Nchito Yane Yamara",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 44 Para Nchito Yane Yamara",
+        "WHEN MY LIFE-WORK IS ENDED"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Para mlimo wane wamara mucharu ichi,",
+        "Para ndajambuka sirya la nyanja,",
+        "Para ndamvwara thupi lambura kuvundaso,",
+        "Apo ndam' kum 'manya mponoski wane."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndam 'kum manya ndam kum'manya",
+        "pakwizakima pa Lwande Iwake.",
+        "Ndam kummanya ndam'kum manya na",
+        "mabamba m'mawoko ghake"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mutma wane wizamkucha pa kumuwona,",
+        "Nakuwona chisko chake chituwa.",
+        "Ndizamkumrumba iye na mtima wane wose,",
+        "Malo wakundinozgera kuchanya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Enya ndizam'kusangwa kuwonaso wanyane,",
+        "Awo nkhalekana nawo mucharu",
+        "Chakwamba ndam'kuwonana nayoYesu wane,",
+        "Wakutemweka wane kwakuruska."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Kuporota pa vipata kunjira mu msumba,",
+        "Yesu wazamkundirongozga ine,",
+        "Sumu ku nyengo zose ndamkwimba nakusangwa,",
+        "Para ndakam 'wona mponoski wane"
+      ],
+      "number": 5
+    }
+  ]
+}

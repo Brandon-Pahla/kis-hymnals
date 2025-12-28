@@ -1,0 +1,55 @@
+{
+  "number": 15,
+  "language": "sn",
+  "title": "15 Jesu Anondidisa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu wandidisa’ni,",
+        "Randiudza Bhaibheri;",
+        "Vana vanomudisa,",
+        "Muponesi wavada"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu wandida, Jesu wandida",
+        "Jesu wandida, Bhuku randiudza"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu wakandifira,",
+        "Wakasiya’ro denga",
+        "Wakauya pasizve,",
+        "Kuponesa’vo vese"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu wandidisa’ni,",
+        "Ndine urombo ini;",
+        "Wakazarurira’wo,",
+        "Nzira yekudenga’ro"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu wandidisa’ni,",
+        "Uripetyo’zve neni;",
+        "Kuti ndikamuda’ye,",
+        "Unozonditorazve"
+      ],
+      "number": 5
+    }
+  ]
+}

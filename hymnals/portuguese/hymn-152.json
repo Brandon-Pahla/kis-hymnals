@@ -1,0 +1,63 @@
+{
+  "number": 152,
+  "language": "pt",
+  "title": "Vencendo Vem Jesus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Vencendo Vem Jesus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Já refulge a glória eterna de Jesus o Rei dos Reis;",
+        "Breve os reinos deste mundo ouvirão as Suas leis!",
+        "Os finais da Sua vinda mais se mostram cada vez.",
+        "Vencendo vem Jesus!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        "(1,2):",
+        "Glória, glória, aleluia!",
+        "Glória, glória, aleluia!",
+        "Glória, glória, aleluia!",
+        "Vencendo vem Jesus!",
+        "2.",
+        "O clarim que chama os crentes à batalha já soou;",
+        "Cristo à frente do Seu povo multidões já conquistou.",
+        "O inimigo em retirada seu furor patenteou.",
+        "Vencendo vem Jesus!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E por fim entronizado as nações há de julgar;",
+        "Todos grandes e pequenos o Juiz hão de encarar.",
+        "E os remidos triunfantes em fulgor hão de cantar:",
+        "Vencido tem Jesus!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        "(3):",
+        "Glória, glória, aleluia!",
+        "Glória, glória, aleluia!",
+        "Glória, glória, aleluia!",
+        "Vencido tem Jesus!"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 529,
+  "language": "tw",
+  "title": "Ne Ntaban 'Se",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ne ntaban 'se, mete hɔ asomdwoe mu;",
+        "'Sum kabii ne ahum kɛse tu a,",
+        "Mɛko so atwer' No, ɔbɛkora me,",
+        "'Fisɛ Wagye me na meyɛ Ne ba."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ne ntaban 'se, ne ntaban 'se,",
+        "Hena bɛte Ne dɔ ntam?",
+        "Me kra bɛtra Ne ntaban ase",
+        "Asomdwoe mu afebɔɔ."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne ntaban 'se, 'w,rɛhow mu guankɔbea ni!",
+        "Koma no hwɛ ne homebea 'nigyem';",
+        "Se minnyā ad'ru mma m'ayaresa fam hā a,",
+        "Ehɔ de, minya 'w'rɛkyekye ne nhy'ra."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne ntaban 'se, O nigye a ɛsom bo!",
+        "Mehinta hɔ kosi nsɔhwɛ awiei;",
+        "Wɔakōra me so, mmusu bi ntumi nhaw me,",
+        "Mewɔ Yesum' a, mewɔ banbɔ daa."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "number": 239,
+  "language": "ts",
+  "title": "239. U KARHELE, U TSANILE?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ART THOU WEARY?",
+        "1. U Karhele, U Tsanile, U Ni Nhlomulo?",
+        "Yesu U Ri Tana U Ta Wisa.",
+        "2. Xana Ku Na Swikombiso Swo Ya Ka Yena?",
+        "Timbanga Ti Kona Mirini Wakwe.",
+        "3. Xana U Hlovile Hi Harhi Ya Vukosi?",
+        "U Hlekuriwa Hi Harhi Ya Mitwa.",
+        "4. Ndzi Ta KUma Yini Ke Loko Ndzi N’wi Landza?",
+        "Maxangu, Nhlomulo Na Yo Mihloti.",
+        "5. Hakelo Yo Tiyisela I Yini Xana? I Ku Hlula Wo Maxang, U Hanya.",
+        "6. A Nga Pfumela Xana Ku Ndzi Amukela? Ee Loko Tintswalo Ti Nga Si Pfala.",
+        "7. Xana Wu Ko Nkateko Wo Khoma Swi Tiya?",
+        "Vakwetsimi Va Ku: “Ina, Swi Tano”."
+      ],
+      "number": 1
+    }
+  ]
+}

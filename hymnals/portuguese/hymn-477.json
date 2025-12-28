@@ -1,0 +1,58 @@
+{
+  "number": 477,
+  "language": "pt",
+  "title": "Canção da Vida",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Canção da Vida"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pai querido obrigado pelos planos,",
+        "Grandes sonhos especiais pra mim.",
+        "Tu me guias nos caminhos desta vida.",
+        "Ao Teu lado nada faltará."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu Te amo mais que tudo.",
+        "Quando forte, quando fraco,",
+        "Ao meu lado estás.",
+        "Agradeço Pai querido,",
+        "Por ligar a nossa vida",
+        "Em num só coração."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pai querido obrigado pelos planos,",
+        "Grandes sonhos especiais pra mim.",
+        "Tu me guias nos caminhos desta vida.",
+        "Ao Teu lado nada faltará."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu Te amo mais que tudo.",
+        "Quando fraco, Tua força",
+        "Nunca falhará.",
+        "Por Tua graça, Pai, imploro",
+        "Transformar a minha vida",
+        "Em uma canção."
+      ],
+      "number": 5
+    }
+  ]
+}

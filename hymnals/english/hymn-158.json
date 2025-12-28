@@ -1,0 +1,48 @@
+{
+  "number": 158,
+  "language": "en",
+  "title": "158 Hasten On, Glad Day.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "The world’s glorious harvest is fast drawing on,",
+        "The Master is calling his reapers to come;",
+        "The grain bright and golden, in fields far and near,",
+        "Is ripe for the garner when he shall appear."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hasten on glad day, Bear the sheaves. Away;",
+        "(Hasten on, angel reapers, come, glad day,",
+        "Bear the sheaves to the garner, far away;)",
+        "Hasten on, glad day, Bear us .. home.",
+        "(Hasten on, angel reapers, come, glad day,",
+        "Bring the “harvest home.”"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "That morn everlasting, that day free from tears,",
+        "Is swiftly approaching as on roll the years;",
+        "The wheat, rudely scattered by sin’s cruel blast,",
+        "Then hasten to gather e’er autumn be past."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O sweet is the labor that floweth from love,",
+        "A stream never failing, whose Fount is above;",
+        "“Tis love that invites us, ‘tis love points the field,",
+        "‘Tis love wields the sickle, and wondrous the yield."
+      ],
+      "number": 3
+    }
+  ]
+}

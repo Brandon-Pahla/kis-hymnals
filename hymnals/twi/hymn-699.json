@@ -1,0 +1,52 @@
+{
+  "number": 699,
+  "language": "tw",
+  "title": "N4 Ayeyi Nnwomto",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Afei ayeyi nnwomto mu,",
+        "Na mekamfo Awurade;",
+        "Me ne ahotefo bebom' aka se:",
+        "Yesu aye ade,",
+        "Yesu aye~ade nyinaa yie!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Na afei dwom yi bewosow,",
+        "Ebewosow, ebewosow;",
+        "Na dwom yi bewosow,",
+        "Ebewosow den se:",
+        "Yesu aye ade,",
+        "Yesu aye~ade nyinaa yie!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se obonsam de n'agyan no",
+        "Bewowo me koma mu a,",
+        "Mede ‘yi bepam, bepam n'abufuw:",
+        "Yesu aye ade,",
+        "Yesu aye~ade nyinaa yie!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na se medu ‘man pa no mu,",
+        "Na me nsa ka trabea no a,",
+        "Me dwom yi bewosow,",
+        "Ebewosow den se:",
+        "Yesu aye ade,",
+        "Yesu aye~ade nyinaa yie!"
+      ],
+      "number": 3
+    }
+  ]
+}

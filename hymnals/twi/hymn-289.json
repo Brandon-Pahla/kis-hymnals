@@ -1,0 +1,36 @@
+{
+  "number": 289,
+  "language": "tw",
+  "title": "Agyenkwa No Pɛ Sɛ ɔhyɛn Wo Komam'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Agyenkwa no pɛ sɛ ɔhyɛn wo komam',",
+        "Adɛn na womma No kwan?",
+        "B'ribiara nni wiase a esi wo kwan,",
+        "Dɛn mmuae na wowɔ ma No?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "B're horow pii Agyenkwa no atwɛn,",
+        "Seesei nso Ogu so retwɛn;",
+        "Rehwɛ sɛ wubebue ɔpon mu anaa,",
+        "O ɔpɛ sɛ ɔhyɛn mu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ wutu 'nammɔn kɔ 'Gyenkwa no nkyɛn a,",
+        "Wubehu Ne nsá a Wabuem ';",
+        "Gye No na wo sum no nyinaa to betwa,",
+        "ɔbɛtra wo komam' daa."
+      ],
+      "number": 2
+    }
+  ]
+}

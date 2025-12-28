@@ -1,0 +1,54 @@
+{
+  "number": 4,
+  "language": "ve",
+  "title": "4 U a da",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:442",
+        "AH:407"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. A’difha mafhungo ndevheni ya mudali, e kule-kule na hayani",
+        "Hu tsini-tsini-ha u vhuya ha Murena, na muvhuso U a da nawo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U a da, U a da nga u tavhanya, U a da fhano shangoni;",
+        "Vhatshimbili vha do dzhena hayani, musi Yesu a tshi vhuya."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Vho faho kale-kale vho lala zwaloni, vha do vuwa zwaloni zwavho;",
+        "Vhothe vhare lwanzheni lu re na maanda, vha do vhu wana vhutshilo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri do di tangana ngei shangoni liswa, ri tshi do imba ro takala;",
+        "Vhane vha bva kule na kha mashango othe, ri do rabela Mudzimu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Haleluya Amen Haleluya Amen, ri do swika nga u tavhanya;",
+        "Fhatuwa u fulufhele Murena khotsi, U a da Murena na khare."
+      ],
+      "number": 5
+    }
+  ]
+}

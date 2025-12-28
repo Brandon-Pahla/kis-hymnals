@@ -1,0 +1,35 @@
+{
+  "number": 104,
+  "language": "luo",
+  "title": "104 Wagedi e Lwanda Mangima",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Wagedi e lwanda mangima,kuom Yesu lwanda mochwere;En kar Konyruokwae piny marach,ka yamb temruok okudho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Waged e Lwanda,(Waged e Lwanda, Lwanda motegno),Waged e... Lwanda.waged e lwanda,Lwanda motegno,Kristo e Lwandano."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Moko gedo kuom kuoyo mayom,Gigeno mwandu mar pinyni;Moko ketore kuom timbe piny,kuom morne to gi gombo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Wageduru kuom Lwanda matek,en mise ma ok nomukre;En gi migeno ma nyaka chieng`,Genruok mar warruok marwa."
+      ],
+      "number": 4
+    }
+  ]
+}

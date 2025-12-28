@@ -1,0 +1,49 @@
+{
+  "number": 78,
+  "language": "fr",
+  "title": "Ton amour divin surpasse",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ton amour divin surpasse,",
+        "Les plus grands amours humains;",
+        "Tu vins nous chercher par grâce,",
+        "Sur nos ténébreux chemins.",
+        "Jésus! Ton amour si tendre,",
+        "Guérissant nos cœurs meurtris,",
+        "Prêt à pardonner, comprendre,",
+        "Ton amour nous a conquis!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ton amour seul nous délivre,",
+        "Ton amour seul nous rend forts",
+        "Pour te servir et te suivre",
+        "Dans la vie et dans la mort.",
+        "Nous joignant au cœur des anges",
+        "Dès ici-bas, nuit et jour,",
+        "Nous proclamons tes louanges :",
+        "Gloire à l’éternel amour!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ton amour fait sa demeure",
+        "Dans nos cœurs, par ton esprit;",
+        "Et sa flamme d’heure en heure",
+        "D’espérance nous remplit.",
+        "Christ, priant pour nous sans trêve,",
+        "L’œuvre que tu commenças",
+        "En nous ton Esprit l’achève,",
+        "Toi l’alpha, toi l’oméga."
+      ],
+      "number": 3
+    }
+  ]
+}

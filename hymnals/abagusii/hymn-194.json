@@ -1,0 +1,42 @@
+{
+  "number": 194,
+  "language": "guz",
+  "title": "194 Tar' Enchera Y'Omonene",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tar' enchera y'Omonene,'Korae botambeOmoik' oye korwa igoro,Oseri' omosunte"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tar' enchera, Tar' enchera(Tara ase oborabu bwa Nyasae,Tara ase oborabu bwa Nyasae)Tar' enchera(Tara ase oborabu bwa Nyasae)Tar' enchera ya Nyasae."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tar' omobaso bw'Enjili,okorwa igoroOkorae kor'omoke,'Mwegeni o Nyasae."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tar' omobaso, 'mosunte,Noribia boeto;Omosunte norasireEmiaka n'emiaka."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tar' omobaso omanye,Nyasa' Omwanchani;Obwanchani nabokine,Igoro bokume."
+      ],
+      "number": 5
+    }
+  ]
+}

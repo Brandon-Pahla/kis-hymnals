@@ -1,0 +1,24 @@
+{
+  "number": 367,
+  "language": "es",
+  "title": "Gracias, Dios",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Gracias, Dios"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gracias, Dios, por la salvación;",
+        "gracias, Dios, por tu gran perdón.",
+        "Gracias, Dios, por darme a mí",
+        "la vida eterna, oh ¡gloria a ti!"
+      ],
+      "number": 2
+    }
+  ]
+}

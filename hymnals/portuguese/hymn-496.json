@@ -1,0 +1,50 @@
+{
+  "number": 496,
+  "language": "pt",
+  "title": "Cristo, Dá-nos Tua Paz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cristo, Dá-nos Tua Paz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó, deixa Cristo, o grande Mestre,",
+        "Envolver-te com amor;",
+        "Abre o coração e escuta a Sua voz.",
+        "Muitos problemas que te trazem",
+        "A tristeza e a dor,",
+        "Não terão lugar se Cristo em ti morar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Cristo, ó Cristo,",
+        "Dá-nos Tua paz!",
+        "Cristo, ó Cristo,",
+        "Dá-nos Tua paz!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó, canta agora a melodia",
+        "Que enternece o coração,",
+        "Com louvor suave e doce ao Senhor.",
+        "Sim, toda lágrima e tristeza",
+        "Hão de desaparecer;",
+        "Hás de ter mais vida em Cristo, o Salvador."
+      ],
+      "number": 4
+    }
+  ]
+}

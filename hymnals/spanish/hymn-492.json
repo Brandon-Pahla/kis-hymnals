@@ -1,0 +1,59 @@
+{
+  "number": 492,
+  "language": "es",
+  "title": "¡Trabajad! ¡Trabajad!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Trabajad! ¡Trabajad!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Trabajad! ¡Trabajad! Somos siervos",
+        "de Dios;",
+        "seguiremos la senda que Cristo trazó.",
+        "Recibiendo el poder que su Espíritu da,",
+        "el deber que nos toca cumplido será."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Trabajad! ¡Trabajad!",
+        "¡Esperad y velad!",
+        "¡Siempre orad y confiad!,",
+        "que Cristo pronto volverá."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Trabajad! ¡Trabajad! Hay que dar de",
+        "comer",
+        "al que pan de la vida quisiere tener.",
+        "Hay enfermos que irán a los pies del",
+        "Señor",
+        "al saber que por gracia los sana su",
+        "amor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Trabajad! ¡Trabajad! Fortaleza pedid;",
+        "el reinado del mal con valor combatid;",
+        "conducid sus cautivos al Libertador",
+        "y decid que por gracia redime su amor."
+      ],
+      "number": 5
+    }
+  ]
+}

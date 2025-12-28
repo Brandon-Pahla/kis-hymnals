@@ -1,0 +1,49 @@
+{
+  "number": 16,
+  "language": "tum",
+  "title": " 16 Imwe Tumalundi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 16 Imwe Tumalundi",
+        "I WASH MY HANDS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ndasamba m'mawoko ghane, ndatuwiskika,",
+        "Nkhughapereka ghose ku mlimo wa Yesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Imwe tumalundi mwende makora,",
+        "Mngatirongozganga m'nthowa ziheni."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Makutu ghapulike, zuwa lose ill,",
+        "Mawoko ghachitenge milimo yiweme."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Maso ghalawiskenge mlimo wawo wose,",
+        "Ghaleke zakwananga Yesu walongozge."
+      ],
+      "number": 4
+    }
+  ]
+}

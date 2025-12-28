@@ -1,0 +1,46 @@
+{
+  "number": 173,
+  "language": "fr",
+  "title": "Ô Dieu de sainteté",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Dieu de sainteté",
+        "Que, pour l'éternité,",
+        "Ici sur terre,",
+        "Sur les flots, dans les cieux,",
+        "L'on proclame en tous lieux",
+        "Le règne bienheureux",
+        "De la lumière."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Christ dont la bonté",
+        "Vainquit infirmité,",
+        "Mort et détresse.",
+        "Toi dont l'amour divin",
+        "De nos maux se souvint.",
+        "Dieu commande qu'enfin",
+        "Le jour paraisse !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Saint Esprit, revoir",
+        "Ton message d'espoir",
+        "Et d'allégresse !",
+        "Viens embraser nos cœurs,",
+        "Du mal, rends-nous vainqueurs,",
+        "Dissipe nos erreurs,",
+        "Que le jour naisse !"
+      ],
+      "number": 3
+    }
+  ]
+}

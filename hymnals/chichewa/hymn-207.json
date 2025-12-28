@@ -1,0 +1,36 @@
+{
+  "number": 207,
+  "language": "ny",
+  "title": "207 - Cikhululukiro Coona",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SEALS MY PARDON"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndinaona pa Mtandapo",
+        "Wothatha ndi mwazi",
+        "Ali kundiyang’anitsa,",
+        "Pafupi ndi mtanda",
+        "2. Sindihta Kuiwala,",
+        "Zomwe ndinaona",
+        "Ngati ndine ndinamupha,",
+        "Zidziwika zokha",
+        "3. Anandiyang’anitsanso,",
+        "Ngati kundiuza",
+        "Imfa yino, mwazi uno,",
+        "zikupulumutsa",
+        "4. Chimo langa linamupha,",
+        "Loda ngati mdima,",
+        "Cinsisi ca cisomoco,",
+        "Cakhululukira"
+      ],
+      "number": 2
+    }
+  ]
+}

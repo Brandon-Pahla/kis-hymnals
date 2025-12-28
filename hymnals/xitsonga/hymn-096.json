@@ -1,0 +1,20 @@
+{
+  "number": 96,
+  "language": "ts",
+  "title": "96. AMUKELANI SIKU RO WISA MISAVENI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WELCOME, WELCOME, DAY OF REST",
+        "1. Amukelani Siku, Ro Wisa Misaveni;",
+        "Tana Exifuveni, Rivoningo Ra Tilo.",
+        "2. Siku Leri Ra Ntsako A Wu Twakali Nkarhi;",
+        "Ri Horisa Switlhavi, Ku Fika Emakumu.",
+        "3. Siku Ro Hlawuleka, Siku Ro Dzuna Hosi;",
+        "Siku Ro Tlharihisa, Siku Ra Minkateko."
+      ],
+      "number": 1
+    }
+  ]
+}

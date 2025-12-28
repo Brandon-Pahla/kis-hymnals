@@ -1,0 +1,55 @@
+{
+  "number": 460,
+  "language": "es",
+  "title": "Quiero estar cerca de Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Quiero estar cerca de Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quiero estar cerca de Cristo,",
+        "en su presencia habitar.",
+        "Siempre yo quiero servirlo,",
+        "siempre a su lado he de andar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Quiero estar junto a mi Cristo,",
+        "quiero estar cerca de él.",
+        "Es un Amigo constante",
+        "y un Salvador siempre fiel."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quiero estar cerca de Cristo,",
+        "¡nada me separará!",
+        "Pues por su gracia soy salvo,",
+        "su voluntad he de obrar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quiero estar junto a mi Cristo,",
+        "su fortaleza me da.",
+        "Quiero contar sus bondades,",
+        "y en su sendero avanzar."
+      ],
+      "number": 5
+    }
+  ]
+}

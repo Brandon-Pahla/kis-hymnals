@@ -1,0 +1,46 @@
+{
+  "number": 87,
+  "language": "ve",
+  "title": "87 Khotsi Ri da Ha Iwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:244"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Khotsi ri da kha Iwe a hu na munwe, U mutsireledzi, fulufhelo,",
+        "Shangoni ndi swiswi arali u siho, Ri fhumudze rothe khotsi-ashu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Khotsi ri da kha ’we si ri sie;",
+        "A ri tshe na Maanda Yesu ri pfe"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ri tshi dzhena rothe maswinani ashu, I vha Mukhuthadzi ri lwendoni,",
+        "rine ri a ofha khitsi ri khwathise, Nga tshanda tsha Maanda ri phuluse."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri fhe-vho tshilidzi na luswayo lwau, Bvisa milenzhe yash zwivhini,",
+        "Ida u ri bvise kha one mathupho, U swika ri tshi swika tadulu."
+      ],
+      "number": 4
+    }
+  ]
+}

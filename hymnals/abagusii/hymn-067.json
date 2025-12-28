@@ -1,0 +1,42 @@
+{
+  "number": 67,
+  "language": "guz",
+  "title": "67 Nyasa' Abarende Botambe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nyasa' abarende botambe;Abateneni' abaraeBuna abanchani baye;Nyasa' abarende botambe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Erio (erio) tororane,Tororan' omoerio (moerio)Erio (erio) tororane,Nyasa' abarende botambe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nyasa' abarende botambe,Ababise n'echimbabaEndagera ebaisane;Nyasa' abarende botambe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nyasa' abarende botambe,Ase emechando yonsiAbaagate kegima,Nyasa' abarende botambe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nyasa' abarende botambe,Mobe n'obwanchani mwensi'Siri' obwoba bw'amakweri,Nyasa' abarende botambe."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 152,
+  "language": "ve",
+  "title": "152. Amba Na nne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Amba na nne Murena nga ipfi lavhudi,",
+        "Nga lufuno lwavhudi, a thi nga u siyi.",
+        "U vule mbilu yanga, i pfe Iwe fhedzi,",
+        "Nndadze-vho nga dzithendo, ndi takadzwe nga’we."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Amba nga u hevhedza, lufuno lwau kha nne,",
+        "Uri ndi vhe mukundi o vhofhololwaho,",
+        "Amba nga misi nga vhulenda Yesu,",
+        "Nga ndi U pfe u tshi ri a thi nga u siyi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Amba na vhana vhau, vha sumbedze ndila,",
+        "Vha dadze nga dakalo, vha funze thabelo,",
+        "U vha nee vhutshilo, vhutshilo vhukhethwa.",
+        "disa muvhuso wau ri u takalele."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Amba sa kale-kale U tshi di sumbedza,",
+        "Mpfunze mulayo wau, ndi ite zwivhuya,",
+        "U mpfunze U u renda, nthuse ndi u khode,",
+        "Ndi ite nga dakalo, ndi do u hulisa."
+      ],
+      "number": 4
+    }
+  ]
+}

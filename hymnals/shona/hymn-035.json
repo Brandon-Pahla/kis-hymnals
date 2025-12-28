@@ -1,0 +1,45 @@
+{
+  "number": 35,
+  "language": "sn",
+  "title": "35 Kutsamira Mumaoko Asingagumi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tine ukama, tine kufara,",
+        "Kutsamira m’maoko ake,",
+        "Chikomborero, runyararo’wo,",
+        "Kutsamira m’maoko ake"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kutsamira, Mumaoko’iwo aJesu,",
+        "Kutsamira, Mumaoko ake aJesu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kunotapira kufamba m’nzira,",
+        "Kutsamira m’maoko ake,",
+        "Nzira yapenya, zuva nezuva,",
+        "Kutsamira m’maoko ake"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chinyi ndinotya, nekutizira?",
+        "Kutsamira m’maoko ake,",
+        "Ngerunyararo, Tenzi wapedyo,",
+        "Kutsamira m’maoko ake"
+      ],
+      "number": 4
+    }
+  ]
+}

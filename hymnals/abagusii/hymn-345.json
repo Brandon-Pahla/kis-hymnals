@@ -1,0 +1,42 @@
+{
+  "number": 345,
+  "language": "guz",
+  "title": "345 Kira Tegerera",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kira tegera,'Kemonyo nkere,Kira tegerera,Toigwe ring'ana."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tara ng'or'Omonenenao Are aa,Tara ng'or'Ateba,Tosuke ang'e."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kira tegerera,N'achenu aas'aa,'Matabau atebeNg'ana ri'obuya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kira tegerera,Torw'ogosaba,Tun'ay'Edeni,Tosange amo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Kira tegerera,Amaber'Aye,Kira tegerera,Gany'Omonene."
+      ],
+      "number": 5
+    }
+  ]
+}

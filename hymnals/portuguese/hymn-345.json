@@ -1,0 +1,56 @@
+{
+  "number": 345,
+  "language": "pt",
+  "title": "Lutai por Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Lutai por Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lutai, lutai por Cristo! Soldados sois da cruz.",
+        "Alçai Seu estandarte, fazei brilhar a luz,",
+        "A fim de que outros vejam o amor que nos conduz",
+        "À mais feliz vitória, com Deus e com Jesus!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Lutai por Cristo,",
+        "Soldados sois da cruz!",
+        "Alçai Seu estandarte,",
+        "Bem alto deixei brilhar a luz!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Estai bem preparados ao toque do clarim;",
+        "Segui de perto a Cristo, até da luta o fim!",
+        "As armas empunhando, cobertos de valor;",
+        "Dispostos, bem ousados, marchai, pois, sem temor!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó, confiai em Cristo, na Sua proteção,",
+        "Pois vem o fim da guerra, já vem a redenção!",
+        "Então, fiéis soldados, em luz resplendereis;",
+        "No lar do Rei da glória, em paz descansareis."
+      ],
+      "number": 5
+    }
+  ]
+}

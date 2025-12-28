@@ -1,0 +1,58 @@
+{
+  "number": 121,
+  "language": "en",
+  "title": "121 I Will Sing Of Jesus’ Love.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I will sing(I will sing)of Jesus’ love,",
+        "Sing of him(sing of him)who first loved me;",
+        "For he left(for he left)bright worlds above,",
+        "And died on Calvary."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "I will sing(I will sing) of Jesus’ love,",
+        "Endless praise(endless praise)",
+        "My heart shall give,",
+        "He has died(he has died)",
+        "that I might live;",
+        "I will sing his love to me."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ere a tear(ere a tear)had dimed mine eyes,",
+        "Jesus’ tears(Jesus tears) for me did flow;",
+        "Ere my first(ere my first) faint prayer could rise,",
+        "He had prayed in tones of woe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O the depths(o the depths) of love divine!",
+        "Earth or heav’n(earth or heav’n) can never know;",
+        "How that sins(how that sins) as dark as mine,",
+        "Can be made as white as know."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nothing good(nothing good) for him I’ve done;",
+        "How could he(how could he) such love bestow?",
+        "Lord I own(Lord I own) my heart is won,",
+        "Help me now mylove to show."
+      ],
+      "number": 4
+    }
+  ]
+}

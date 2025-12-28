@@ -1,0 +1,54 @@
+{
+  "number": 292,
+  "language": "pt",
+  "title": "Onde Quer Que Seja",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Onde Quer Que Seja"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Onde quer que seja com Jesus irei;",
+        "Ele é meu bendito Salvador e Rei.",
+        "Seja para a guerra, para batalhar,",
+        "Seja para os campos, para semear."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Onde quer, onde quer que Jesus mandar",
+        "Sempre junto dEle eu irei andar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Sempre seguirei a Cristo meu Senhor\",",
+        "Diz o coração que sente o Seu amor.",
+        "Perto dEle sempre bem seguro vou",
+        "Onde quer que seja mui markdowne estou."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seja, pois, pra onde for que me levar,",
+        "Eu encontrarei ali meu doce lar.",
+        "Onde quer que seja sempre cantarei:",
+        "\"Tu, Senhor, comigo estás; não temerei.\""
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 549,
+  "language": "tw",
+  "title": "Nguankuw No Guanhwɛfo Pa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nguankuw no Guanhwɛfo pa,",
+        "Bɔ Wo 'guammaa yi ho ban;",
+        "Wo tumi b'rō ade ny'naa so,",
+        "Hwee ntum' nnye me mfi Wo nsam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Guanhwɛfo pā a Wobɛn me,",
+        "Ma Wo guammaa nte Wo nne;",
+        "Mma m'anammɔn nto kwan mfi",
+        "Trenee kwan hihiaa no so."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mɛkɔ nea Wudi m'anim,",
+        "Anante W'anammɔn mu;",
+        "Kosi sɛ medu s'ro hɔ",
+        "Ahu me Guanhwɛfo no."
+      ],
+      "number": 3
+    }
+  ]
+}

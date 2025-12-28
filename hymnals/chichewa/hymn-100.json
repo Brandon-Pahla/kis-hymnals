@@ -1,0 +1,44 @@
+{
+  "number": 100,
+  "language": "ny",
+  "title": "100 - Bwenzi Lathu Ndiye Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHAT A FRIEND WE HAVE IN JESUS!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bwenzi lathu ndiye Yesu, Atikonda ifetu,",
+        "Zifunsiro zathu zonse, Tipemphere Mbuyathu;",
+        "Mtima phe tisowa tonse, Zitivuta chabeko,",
+        "Kaamba sitimanka konse Kumpemphera Mlunguyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tili nazo zotiyesa, Zitidetsa nkhawamu,",
+        "Tisadandaule chabe, Timpemphere Mbuyathu;",
+        "Kodi tikaona wina, Timkhulupiriramo?",
+        "Yesu atidziwa bwino, Timpemphere yekhayo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kodi tikulema nazo, Zotiwawa m’mtimamo,",
+        "Atipulumutsa Yesu, Timpemphere Iyeyu.",
+        "Kodi akuthawa m’bale, Pempheratu bwenzilo,",
+        "Akusunga mkono mwake, Udzapumuliramo."
+      ],
+      "number": 4
+    }
+  ]
+}

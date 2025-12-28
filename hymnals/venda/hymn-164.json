@@ -1,0 +1,45 @@
+{
+  "number": 164,
+  "language": "ve",
+  "title": "164. Ndi Dzula Tsini Ha Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi dzula tsini ha Yesu, Ndi pfa maipfi awe",
+        "Fhethu henefho ho naka, ndi do dzula ndi hone.",
+        "Ndi dzula tsini ha Yesu, Ndi tshi sedza zwa kale;",
+        "Nga he a nkhathutshela nne, U swika a tshi nngwana."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi dzula tsini ha Yesu, Mashudu mangafhani!",
+        "Ndi mu vhudza zwa matungu, ndi wana vhuawelo.",
+        "Ndi dzula tsini ha Yesu, Uri ndi tshi rabela",
+        "Ndi wane dzikhathutshelo, Na u fhumudza hawe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ntshudufhadze Murena, Ndi da kha nayo dzau,",
+        "Nga tshilidzi ndi do vhona, Tshifhatuwo tsha Yesu",
+        "Mihumbulo i vhe yawe, na nne ndi fane nae,",
+        "Hu vhe vhutanzi ha uri ndi dzula ndi na Yesu."
+      ],
+      "number": 4
+    }
+  ]
+}

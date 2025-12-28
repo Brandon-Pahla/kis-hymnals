@@ -1,0 +1,76 @@
+{
+  "number": 26,
+  "language": "nso",
+  "title": " 26 BJALO KA GE KE LE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 26 BJALO KA GE KE LE",
+        "AH 191 CH 222",
+        "JUST AS I AM"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bjalo ka ge ke le Morena,",
+        "Madi a 'Go a nhlatswitse",
+        "Mme o mpiletša go wena,",
+        "Kwan 'a Modimo ke etla"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bjalo ka ge ke le Morena;",
+        "Go ntšha sebe moyeng wa ka;",
+        "Wena o hlatšwa ka madi,",
+        "Kwan 'a Modimo ke etla."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bjalo ka ge ke lahlega,",
+        "Dintweng le ngongoregong;",
+        "Ka teng le poifo ka ntle,",
+        "kwan 'a Modimo ke etla."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bjalo ka ge ke le hlokong,",
+        "Ponong, khumong le phodisong.",
+        "Ee tšohle ke ya di hloka,",
+        "Kwan 'a Modimo ke etla."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bjalo ka ge ke le nisee,",
+        "O nhlatšwe, O nswarele",
+        "Gobane O tshepisitse,",
+        "Kwan 'a Modimo ke etla."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bjalo ka ge ke le 'rato,",
+        "le thubile dilo tšohle;",
+        "Ke tlo ba wa Gago fela,",
+        "Kwan 'a Modimo ke etla."
+      ],
+      "number": 7
+    }
+  ]
+}

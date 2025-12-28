@@ -1,0 +1,55 @@
+{
+  "number": 732,
+  "language": "tw",
+  "title": "N37 Jesus is Tenderly Calling You Home",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu refrε wo bɔkɔɔ sε bra fie,",
+        "Ɔrefrε wo, refrε wo nnε;",
+        "Dεn nti na wufi ɔdɔ hann no ho",
+        "Na worefom kwan kɔ yi?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ɔrefrε wo, refrε wo nnε-",
+        "Yesu de nne bɔkɔɔ frfrε wo,",
+        "Refrε wo nnε"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu frε ‘brɔfo sε ɔmmɔhome'",
+        "Ɔrefrε wo, refrε wo nnε:",
+        "Fa w'adesoa brε No n'Obegyiraw'",
+        "Ɔrempam wo mfi Ne nkyεn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu retwɔn wo, O, bra Ne nkyɔn nnɔ;",
+        "Ɛretwɔn wo, retwɔn wo nnɔ,",
+        "Fa wo bεne bra bɔkoto N'anim;",
+        "Bra, ntwentwɔn wo nan ase."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu redi ma wo, O tie Ne nne,",
+        "Tie Ne nne, tie Ne nne nnɔ,",
+        "Wεn a wεgye No di ani bɔgye:",
+        "Ka wo ho na sεre kε."
+      ],
+      "number": 4
+    }
+  ]
+}

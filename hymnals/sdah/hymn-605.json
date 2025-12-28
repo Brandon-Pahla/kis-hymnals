@@ -1,0 +1,28 @@
+{
+  "number": 605,
+  "language": "en-sdah",
+  "title": "605 My Soul, Be on Thy Guard",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. My soul, be on thy guard! Ten thousand foes arise; The hosts of sin are pressing hard To draw thee from the skies."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. O watch, and fight, and pray! The battle ne’er give o’er; Renew it boldly every day, And help divine implore."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ne’er think the victory won Nor lay thine armour down; Thy arduous task will not be done Till thou obtain the crown."
+      ],
+      "number": 3
+    }
+  ]
+}

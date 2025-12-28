@@ -1,0 +1,38 @@
+{
+  "number": 266,
+  "language": "tn",
+  "title": "266 Jeso Ntla Go Latela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso Ntla Go Latela, Gonne K’utlwa O Mpitsa,",
+        "’Ratong ikanyong ke tla, Gore O nkise gae."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ntla Go latela, Ntla Go latela,",
+        "Ntla Go latela Kae le kae ko’nkisang."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Matlho A Ka Tswa Tseleng, ’Naonyana Tsa Fapoga;",
+        "Lefa ke le bokoa, Mme O thata ya me."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le Ke Le Bofutsaneng, Dibe Di Le Mo Tseleng;",
+        "Ke tla nna pelokgale Fa ke Go latela."
+      ],
+      "number": 3
+    }
+  ]
+}

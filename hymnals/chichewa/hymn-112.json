@@ -1,0 +1,45 @@
+{
+  "number": 112,
+  "language": "ny",
+  "title": "112 - Yang’ana Pa Mtanda Kwa Yesuyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LIFE IN A LOOK"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yang’ana pa mtanda kwa Yesuyo, Kuti upeze moyowo;",
+        "Chuma cha m’dziko nchakuthatu, Chosatha tipeza pa mtandapo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Poyang’ana Yesuyo, Pakuona mtandawo,",
+        "Tingapeze moyowo, Poyang’ana Yesuyo (E, Yesuyo)."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ambuye anandikondweratu, Mmene ndinayan’gana ’Ye;",
+        "Pondifikira mayesowo, Pa mtandapo ndipeza mphamvuzo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndidzayang’anabe pa mtandapo, Pokhulupira Yesuyo;",
+        "Yemwe amakhulupira ’Ye Sadzagwa m’mayeso a m’dzikoli."
+      ],
+      "number": 4
+    }
+  ]
+}

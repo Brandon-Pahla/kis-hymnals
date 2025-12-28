@@ -1,0 +1,37 @@
+{
+  "number": 215,
+  "language": "fr",
+  "title": "Tendre Père",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tendre Père, j'aime te contempler.",
+        "Tendre Père, j'aime te contempler.",
+        "Je t'offre ma vie, je chante ta gloire.",
+        "Tendre Père, j'aime te contempler."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fils de Dieu, j'aime exalter ton nom.",
+        "Fils de Dieu, j'aime exalter ton nom.",
+        "Tu m'aimes, tu m'aides, tu combles ma vie.",
+        "Fils de Dieu, j'aime exalter ton nom."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Saint-Esprit, tu éclaires ma vie.",
+        "Saint-Esprit, tu éclaires ma vie.",
+        "Tu diriges mes pas, tu restes près de moi.",
+        "Saint-Esprit, tu éclaires ma vie."
+      ],
+      "number": 3
+    }
+  ]
+}

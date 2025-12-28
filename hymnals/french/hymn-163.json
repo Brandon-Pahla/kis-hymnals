@@ -1,0 +1,55 @@
+{
+  "number": 163,
+  "language": "fr",
+  "title": "Grand Dieu, nous te bénissons",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Grand Dieu, nous te bénissons,",
+        "Nous célébrons tes louanges ;",
+        "Éternel, nous t'exaltons",
+        "De concert avec les anges,",
+        "Et prosternés devant toi,",
+        "Nous t'adorons, ô grand Roi !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Saint, saint, saint est l'Éternel,",
+        "Le Seigneur, Dieu des armées !",
+        "Son pouvoir est immortel ;",
+        "Ses œuvres partout semées",
+        "Font éclater sa grandeur,",
+        "Sa majesté, sa splendeur."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sauve ton peuple, Seigneur,",
+        "Et bénis ton héritage !",
+        "Que ta gloire et ta splendeur",
+        "Soient à jamais son partage !",
+        "Conduis-le par ton amour",
+        "Jusqu'au céleste séjour."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gloire soit au Saint-Esprit !",
+        "Gloire soit à Dieu le Père !",
+        "Gloire soit à Jésus-Christ",
+        "Notre Sauveur, notre Frère !",
+        "Son immense charité",
+        "Dure pour l’éternité."
+      ],
+      "number": 4
+    }
+  ]
+}

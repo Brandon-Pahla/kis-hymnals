@@ -1,0 +1,47 @@
+{
+  "number": 171,
+  "language": "tn",
+  "title": "171 Moleti Wa Kwa Sione",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Moleti Wa Kwa Sione, Bolela, Keng Bosigong?",
+        "Naledi ya bosa e kae? A re tla bona moso?",
+        "A O bona sedi je le phatsimang?",
+        "A O bona sedi je le phatsimang?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Bolelele, A Tshupo Re Di Fetile Tsotlhe?",
+        "A re gaufi le ngonti, A re ka bona naga?",
+        "A ruri legodimo le gaufi?",
+        "A ruri legodimo le gaufi?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ruri Letsatsi Etla, Re Theleng Losalaba;",
+        "Bonang naledi ya bosa, E phatsima loaping.",
+        "Baitshepi thekololo e gaufi.",
+        "Baitshepi thekololo e gaufi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E Re Fitlhetse Sesupo, Mme, Fatshe Le Gaufi;",
+        "Re akofela kwa pele, ’tsibogo le gaufi;",
+        "Lo tsholetseng mantswe boitumelong.",
+        "Lo tsholetseng mantswe boitumelong."
+      ],
+      "number": 4
+    }
+  ]
+}

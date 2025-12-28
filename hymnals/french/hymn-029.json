@@ -1,0 +1,56 @@
+{
+  "number": 29,
+  "language": "fr",
+  "title": "Aujourd’hui, le roi...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Aujourd’hui le roi des cieux, au milieu de la nuit,",
+        "Voulut naître chez nous de la Vierge Marie",
+        "Pour sauver le genre humain, l’arracher au péché,",
+        "Ramener au Seigneur ses enfants égarés."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Noël! Noël! Noël! Noël!",
+        "Jésus est né! Emmanuel!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En ces lieux, durant la nuit, demeuraient des bergers",
+        "Qui gardaient leurs troupeaux dans les champs de Judée.",
+        "Tout à coup un messager apparut dans les cieux",
+        "Et la gloire de Dieu resplendit autour d’eux."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "L’ange dit : Ne craignez pas, soyez tous dans la joie,",
+        "Un Sauveur vous est né, c’est le Christ votre roi.",
+        "Près d’ici vous trouverez un enfant nouveau né,",
+        "Dans l’étable couché, d’un lange emmailloté."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aussitôt s’emplit le ciel de lumière et de chants,",
+        "D’une armée d’anges blancs louant Dieu et disant :",
+        "Gloire à Dieu dans les hauteurs et sur terre la paix",
+        "Pour les humains sur qui Dieu répand ses bienfaits!"
+      ],
+      "number": 5
+    }
+  ]
+}

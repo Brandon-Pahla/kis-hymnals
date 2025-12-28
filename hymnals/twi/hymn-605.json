@@ -1,0 +1,37 @@
+{
+  "number": 605,
+  "language": "tw",
+  "title": "Me Kra, Yɛ Ahweyie!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me kra, yɛ ahweyie!",
+        "'Tamfo mpemdu sɔre,",
+        "Bɔne ahorow hyɛ wo so",
+        "Retwe wo fi ɔs'ro."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O wɛn, ko na bɔ mpae!",
+        "Nnyae ɔko no mu da;",
+        "Si wo bo yɛ no fof'ro daa,",
+        "Na srɛ mmoa fi ɔs'ro."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nnwen sɛ nkonim aba,",
+        "Mfa w'akode ngu hɔ;",
+        "W'adwuma kɛse no rensa,",
+        "Gye sɛ woanya 'henkyɛw."
+      ],
+      "number": 3
+    }
+  ]
+}

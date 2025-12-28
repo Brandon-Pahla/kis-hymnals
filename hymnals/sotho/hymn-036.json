@@ -1,0 +1,37 @@
+{
+  "number": 36,
+  "language": "st",
+  "title": "36 Ke Talima Uena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke talimme Uena, Konyana ’Golgotha;",
+        "’Moloki, Utloa kea rapela,",
+        "U ntlose melatong; Ho tloha kajeno,",
+        "Ke be oa Hao."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eka mohau oa hao, O ka ’matlafatsa;",
+        "Ke U rate, Joalokaha ’nchoetse,",
+        "A lerato la ka, Le se ke la fetoha,",
+        "Le phele."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tseleng ea lefifi, Le bofumanehing;",
+        "U ntsamaise, U tlose lefifi;",
+        "Hlakola meokho, U se nteselle,",
+        "Ka u tlohela."
+      ],
+      "number": 3
+    }
+  ]
+}

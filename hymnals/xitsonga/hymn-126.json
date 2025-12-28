@@ -1,0 +1,27 @@
+{
+  "number": 126,
+  "language": "ts",
+  "title": "126. NDZI NA RISIMU RONGHASI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I HAVE A SONG I LOVE O SING",
+        "1. Ndzi Na Risimu Ronghasi, Ra Nkutsulo Wanga;",
+        "I Ra Muponisi Yesu, La Ndzi Kutsuleke.",
+        "CHORUS",
+        "Ra Ku Kutsuriwa (Soprano)",
+        "Ra Ku Kutsuriwa, Ra Ku Kutsuriwa Mpfhuka Ndzi Kutsuriwa; Ndzi Ta Dzunisa Yena.",
+        "Ra Ku Kutsuriwa (Soprano)",
+        "Ra Ku Kutsuriwa, Ra Ku Kutsuriwa, Ndzi Ta Dzunisa Muponisi.",
+        "2. Yesu U Ndzi Wisa Mbilu, Mukutsuri Wanga;",
+        "Ndzi Endla Ku Rhandza Kakwe, Mukutsuri Wanga.",
+        "3. Yesu Muyimeri Wanga, Mukutsuri Wanga",
+        "Nkanankano Na Ku Chava; U Swi Herisile.",
+        "4. Ndzi Lunghiseriwe Kaya, HI Ye Mukutsuri;",
+        "Kaya Leri Nga Heriki, Na Ye Mukutsuri."
+      ],
+      "number": 1
+    }
+  ]
+}

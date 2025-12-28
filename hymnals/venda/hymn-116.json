@@ -1,0 +1,55 @@
+{
+  "number": 116,
+  "language": "ve",
+  "title": "116. A Huna Tshi Re Tsha Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. U ofha ha vhatendi, a hu na Yesu kha vho.",
+        "Vho fashwa nga zwikwekwe, a hu na Yesu kha vho,",
+        "Vhona u munangoni, U khou omba-omba;",
+        "Thetshelesa u vule a wane-vho vhudzulo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tshifhinga tshi a fhela, Murena ha shumelwi;",
+        "Nga Maanda e na fhiwa, ni mu shumela lini?",
+        "Tshivhi a ni tshi koni, a ni wani vhaxeli,",
+        "Mutodi wa zwa shango, ha nga shumeli Yesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mutodi wa lupfumo, ha funi zwa Murena;",
+        "U dzima zwithu zwothe, ha nei na Murena,",
+        "Lupfumo na zwa shangoni ndi zwone zwe na funa;",
+        "Ni funa zwi re zwanu, a ni shumeli Yesu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndi mutokola fhedzi, mitshelo naa i ngafhi?",
+        "Hu vhonala matari, a huna na mitshelo,",
+        "A i wanali mbeu, a no ngo shuma tshithu,",
+        "A ni nga do takala, ni tshi ya ha Murena."
+      ],
+      "number": 5
+    }
+  ]
+}

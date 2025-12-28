@@ -1,0 +1,47 @@
+{
+  "number": 299,
+  "language": "tw",
+  "title": "Fa F'ri Yɛn Sɛnea Yɛde F'ri",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Fa f'ri yɛn sɛnea yɛde f'ri,",
+        "'Yi ne mpae a Woky'rɛe;",
+        "Wo nko na Wobɛma yɛn dom",
+        "De adi nsɛm yi so."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo dom bɛyɛ dɛn ahyira",
+        "Komá a ennim faf'ri,",
+        "Ͻdwen bɔne ho na enyi",
+        "Ne yaw mfi ne mu no?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "W'asɛnnua yi nokware a",
+        "Yenhu no yie no ky'rɛ:",
+        "'Ká a afof'ro de yɛn no sua;",
+        "'Ká a yɛde Wo no so."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Wura, hoh'ro yɛn mu nyinaa,",
+        "Na yi nitan hɔ kōraa;",
+        "Wo mmɔb'rɔhun' ka yɛn bom a,",
+        "Yɛn bra 'ky'rɛ W'asomdwoe."
+      ],
+      "number": 4
+    }
+  ]
+}

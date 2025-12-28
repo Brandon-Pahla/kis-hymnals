@@ -1,0 +1,68 @@
+{
+  "number": 56,
+  "language": "tum",
+  "title": " 56 Ndayinga yinga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 56 Ndayinga yinga",
+        "I'VE WANDERED FAR AWAY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ndayinga-yinga mucharu,",
+        "Fumu nkhuwera,",
+        "Ndendanga m'nthowa za chisi,",
+        "Fumu nkhuwera."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nkhuwera, nkhuwera,",
+        "Enya nkhuwera,",
+        "Mndipokerere Dada,",
+        "Fumu nkhuwera."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ndamara vyaka vinandi,",
+        "Fumu nkhuwera,",
+        "Ndareka majuvyo ghane,",
+        "Fumu nkhuwera."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Vyalema na zakwananga,",
+        "Fumu nkhuwera,",
+        "Ndapulika mazgu ghinu,",
+        "Fumu nkhuwera."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Mtima wane ukunweka,",
+        "Fumu nkhuwera,",
+        "Mundisavye m'ndopa zinu,",
+        "Fumu nkhuwera."
+      ],
+      "number": 5
+    }
+  ]
+}

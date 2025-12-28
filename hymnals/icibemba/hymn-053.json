@@ -1,0 +1,31 @@
+{
+  "number": 53,
+  "language": "bem",
+  "title": "53 - MUPASHI WAMUSHILO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOLY SPIRIT, FAITHFUL GUIDE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mupashi Wamushilo, Mwikale mupepi pe;",
+        "Munjikata 'kuboko, Ine mu matololo;",
+        "Ndesekela ukumfwa Kwitwa kwa kutemwikwa",
+        "CHORUS:",
+        "Mutepeta, Munkonka ku mwesu ukutusha",
+        "2. Icibusa ca cine, Twacetekela Imwe;",
+        "Mwituleka kufilwa, No kuluba mu mfifi;",
+        "Fipupu fyaluluma, Imitima yanaka,",
+        "3. Mungafwa ine kuno, Ukuposa ububi;",
+        "Nshilefwaya fimbi 'yo, Kano kutota Imwe;",
+        "Mwe Cibusa ca cine, Lintu fyonse fikapwa"
+      ],
+      "number": 2
+    }
+  ]
+}

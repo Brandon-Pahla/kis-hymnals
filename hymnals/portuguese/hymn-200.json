@@ -1,0 +1,56 @@
+{
+  "number": 200,
+  "language": "pt",
+  "title": "Tens Vida em Olhar",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Tens Vida em Olhar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tens vida em olhar para a cruz de amor;",
+        "Disse Jesus: \"Olhai pra Mim.\"",
+        "Ouro e bens perdem seu valor",
+        "Na glória que vem dessa cruz, oh, sim."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Num olhar tens vida, sim,",
+        "Num olhar à cruz de amor;",
+        "Bênçãos há e salvação,",
+        "Num olhar ao Salvador."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amável sorriso em Seu rosto vi",
+        "Quando eu olhei a rude cruz;",
+        "Tudo mudou ao prostrar-me ali,",
+        "Poder inundou-me e celeste luz."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Olhando pra cruz sempre confiarei",
+        "Em Seu poder, em Seu amor.",
+        "Nunca vencido do mal serei,",
+        "Pois tenho comigo meu Salvador."
+      ],
+      "number": 5
+    }
+  ]
+}

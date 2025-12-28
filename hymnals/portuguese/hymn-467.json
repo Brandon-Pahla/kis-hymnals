@@ -1,0 +1,56 @@
+{
+  "number": 467,
+  "language": "pt",
+  "title": "Ouço o Clamor do Bom Pastor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ouço o Clamor do Bom Pastor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ouço o clamor do bom Pastor,",
+        "Pelo deserto assolador,",
+        "Seus cordeirinhos a chamar,",
+        "Mui desejoso de os salvar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "\"Vai buscar, vai buscar",
+        "Esses Meus cordeirinhos, já!",
+        "Vai buscar, vai buscar,",
+        "Para que os possa abençoar.\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh!, quem não quer auxílio dar,",
+        "Seus cordeirinhos abrigar,",
+        "E encaminhá-los a Jesus,",
+        "Fonte de vida, amor e luz?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pelo deserto a padecer,",
+        "Pelas estradas a morrer,",
+        "Seus cordeirinhos vai buscar,",
+        "Para que os possa abençoar."
+      ],
+      "number": 5
+    }
+  ]
+}

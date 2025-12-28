@@ -1,0 +1,42 @@
+{
+  "number": 319,
+  "language": "guz",
+  "title": "319 Mogambi One",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mogambi one, ninkobake,'Bonene nobwao,Tinyeb'egutwa y'amagwa,Ndae goika Kalwari."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tinyeba Gethesemane,Tinyeb'emechando yao;Tinyeb'obwanchani bwao,Ndae goika Kalwari."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nyoroki'embera Kwaraire,Buna beumetie;'Malaika bakarenda,Ekero kwaraire."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nainche bun'ere Mariamu,Nchiche n'ekeegwa;Nyorokie oboina bwasie,Ndae goika kalwari."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Omonene nimbogorie,'Mosalaba rioka;Nsange emechando yaye,Kwambogoreirie onsi."
+      ],
+      "number": 5
+    }
+  ]
+}

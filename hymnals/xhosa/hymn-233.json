@@ -1,0 +1,44 @@
+{
+  "number": 233,
+  "language": "xh",
+  "title": "233 Balisa Indaba Endala",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Balis’ indab’ endala Ngezasezulwini,",
+        "Ngozuko lukaYesu, Njengothando lwaKhe.",
+        "Balisa ngokulula Njengakwabancinci,",
+        "Kuba sendidiniwe Andinaluncedo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Balis’ indab’ endala, Balis’ indab’ endala;",
+        "NgoYesu nobukhosi, Kwanothando lwaKhe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Balisa ngokuzola Ngelizwe lembeko;",
+        "Khumbula ndingumoni, ’Yesu wandifela;",
+        "Yiphindaphinde njalo, Iz’ indonwabise;",
+        "Ngexesha lenkathazo, Undithuthuzele."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phinda indab’ endala Xa undoyikela",
+        "Kubuhle behlabathi, Nokushiy’ indlela;",
+        "Xa nditsalwa zizono, Nditshon’ ebubini,",
+        "Yithi ngokucengayo, \"’Yes’ ukukhulule.\""
+      ],
+      "number": 3
+    }
+  ]
+}

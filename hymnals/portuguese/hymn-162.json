@@ -1,0 +1,56 @@
+{
+  "number": 162,
+  "language": "pt",
+  "title": "Que diz a Bíblia?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Que diz a Bíblia?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Que diz a Bíblia, livro sagrado?\"",
+        "Para o fiel, eis a questão!",
+        "Ensinamentos de homens são falhos;",
+        "Que diz de Deus o livro, então?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "\"Que diz a Bíblia?\" Poucos dirão;",
+        "\"Que diz a Bíblia?\"",
+        "Cumpre saber Seus mandamentos, guardem-nos todos,",
+        "Breve Jesus iremos ver."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Poucos ponderam estes ensinos;",
+        "Querem fugir de a lei guardar;",
+        "Outros pretendem, quanto ao descanso,",
+        "Ter o poder de o revogar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ao vir o Mestre, há de saudar-vos,",
+        "Vós que pisais a Sua lei?",
+        "Há de Ele achar-vos justificados?",
+        "Ó, meditai e respondei!"
+      ],
+      "number": 5
+    }
+  ]
+}

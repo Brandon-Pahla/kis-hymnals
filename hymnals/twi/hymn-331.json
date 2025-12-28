@@ -1,0 +1,49 @@
+{
+  "number": 331,
+  "language": "tw",
+  "title": "O Yesu Mahyɛ Wo Bɔ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O Yesu mahyɛ Wo bɔ",
+        "Sɛ mɛsom Wo daa daa,",
+        "Twiw bɛn me bere nyinaam',",
+        "Me Wura, m'Adamfo;",
+        "Merensuro ɔko no,",
+        "Sɛ Wowɔ m'afa a",
+        "Meremman mfi kwan no so,",
+        "Na Woyɛm' Kannifo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma minhu sɛ Wobɛn me,",
+        "Wiase yi bɛn me de;",
+        "Nso b'ribi gyegye m'ani;",
+        "Mete nnaadaa nnyigyei.",
+        "M'atamfo bɛn me dodo,",
+        "Wɔatwa me ho ahyia",
+        "Nso, Yesu, twiw bɛn me yie,",
+        "Gye me kra fi bɔnem'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, Yesu, Woahyɛ wɔn a",
+        "Wodi W'akyi bɔ sɛ,",
+        "W'anuonyam mu nea Wowɔ,",
+        "Wo nkoa nso bɛba hɔ.",
+        "Na Yesu, mahyɛ Wo bɔ",
+        "Sɛ mɛsom Wo daa daa,",
+        "O, ma me dom nni W'akyi",
+        "Me Wura, m'Adamfo."
+      ],
+      "number": 3
+    }
+  ]
+}

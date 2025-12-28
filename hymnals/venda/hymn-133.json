@@ -1,0 +1,42 @@
+{
+  "number": 133,
+  "language": "ve",
+  "title": "133. Ndi Tshimbila Na Mudzimu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:554",
+        "AH:284"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi tshimbila na Mudzimu, ndi fane-vho na Henoxe;",
+        "U nkokodze-vho nga Tshanda, uri ndi vhuye ndilani;",
+        "Musi ndi tshi vho do neta, kha ndi kokodzwe nga Iwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi nga si kone ndi ndothe, zwa ralo ndi do balelwa;",
+        "Zwikhukhuliso ndi zwinzhi, na maswina a tshi ntanga,",
+        "Ho dala zwikhukhuliso, nthange phanda ndi tshimbile."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Musi ndo awela kha ’we, zwa shangoni a s tshithu;",
+        "Ndi tshimbila ndo talifha, ndi do hwala tshifhambano,",
+        "Ndi de ndi vhone Tsioni, Ida u tshimbile na nne."
+      ],
+      "number": 4
+    }
+  ]
+}

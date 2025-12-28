@@ -1,0 +1,47 @@
+{
+  "number": 64,
+  "language": "st",
+  "title": "64 Bolella Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U khathetse, pelo e bohloko, bolella Jesu, bolella Jesu;",
+        "U soabile thabong tsee fetileng, bolella Jesu fe’la."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bolella Jesu, bolella Jesu, ke motsoalle oa ’nete,",
+        "Ha ’teng motsoalle kapa moena, bolella Jesu fe’la."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na u sitoa ho thiba meokho, bolella Jesu, bolella Jesu",
+        "Na u na le libe tsee patiloeng, bolella Jesu fe’la."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na u ts’aba masoabi a leng teng, bolella Jesu, bolella Jesu;",
+        "U chesehela ho tseba tse tlang, bolella Jesu fe’la."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U khathatsoa ke ho ts’oha lefu, bolella Jesu bolella Jesu,",
+        "Na u lakatsa ’muso oa Kreste, bolella Jesu fe’la."
+      ],
+      "number": 5
+    }
+  ]
+}

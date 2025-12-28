@@ -1,0 +1,37 @@
+{
+  "number": 379,
+  "language": "tw",
+  "title": "Yɛde 'Bofra Yi MaW'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛde 'bofra yi maW'",
+        "Yɛn dɔ akyɛde pa;",
+        "Ma yɛnky'rɛ no anammɔntu",
+        "Wɔ Wo s'ro 'kwanky'rɛ mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, hy'ra Wo mmofra ny'naa",
+        "Na B'rč a wobenyin no,",
+        "Wɔahu sɛ wɔbɛdɔ W'akwan",
+        "Afa ayɛ wɔn de."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛde yɛn ho ma Wo,",
+        "Ma Wo Honhom mmɛhyɛ",
+        "Yɛn koma ne yɛn 'fie mu ma,",
+        "Na yɛayɛ W'apɛde."
+      ],
+      "number": 3
+    }
+  ]
+}

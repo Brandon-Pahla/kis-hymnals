@@ -1,0 +1,55 @@
+{
+  "number": 284,
+  "language": "tum",
+  "title": " 284 Mazuwa Ghakuruta",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 284 Mazuwa Ghakuruta",
+        "C.S. 486 WHILE THE DAYS AR"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E GOING BY  1.",
+        "Kuli wanthu wavitima mazuwa ghakuruta,",
+        "Kuli wanthu wakuvuka mazuwa ghakuruta,",
+        "Nga tawasanguluska palwendo lwa kuchanya,",
+        "Viweme tichitenge mazuwa ghakuruta."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mazu wa gharuta mazuwa gharuta,",
+        "Viweme tichitenge mazu wa ghakuruta"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Tileke kukhala waka mazuwa ghakuruta,",
+        "Tiwe wakUsanguluka mazuwa ghakuruta,",
+        "Charu chazula wofi vitima na masozi,",
+        "Mumovwire munyinu mazuwa ghakuruta."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Kutemwa kwatigumanya mazuwa ghakuruta,",
+        "Wanji wakhala kunyuma mazuwa ghakuruta,",
+        "Kweni mbuto tasewa zimere posepose,",
+        "Mitima yisangwenge mazuwa ghakuruta."
+      ],
+      "number": 4
+    }
+  ]
+}

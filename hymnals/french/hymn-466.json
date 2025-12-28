@@ -1,0 +1,31 @@
+{
+  "number": 466,
+  "language": "fr",
+  "title": "Ô mon Sauveur, seul guide",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ô mon Sauveur, seul guide en qui j'espère,",
+        "Protège-moi, je n'ai d'autre secours.",
+        "Pendant la nuit, que ta clarté m'éclaire",
+        "Et garde-moi sans cesse en ton amour.",
+        "Divin rocher, que tes eaux salutaires",
+        "Coulent vers moi tout au long de mes jours."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De ton Esprit, que la grande sagesse",
+        "Garde mon cœur de jamais murmurer !",
+        "Ô mon pays, terre de la promesse,",
+        "Mon cœur ému de loin t'a salué.",
+        "Dans les accents d'une sainte allégresse,",
+        "Ton nom, Seigneur, soit à jamais loué !"
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "number": 152,
+  "language": "fr",
+  "title": "Bénis-nous, Dieu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bénis-nous, Dieu, notre Roi,",
+        "Apprends-nous à te louer,",
+        "À te chanter.",
+        "Père si merveilleux, pour nous victorieux,",
+        "Nous nous tournons vers toi, ô notre Roi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bénis-nous, Seigneur Jésus,",
+        "Descendu pour nous des cieux,",
+        "Agneau de Dieu.",
+        "Toi, notre frère, notre lumière,",
+        "Par toi vient le salut, Seigneur Jésus."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bénis-nous, ô Saint-Esprit,",
+        "Messager de vérité,",
+        "Viens nous aider.",
+        "Toi qui es tout puissant, donne-nous maintenant",
+        "Ta sagesse infinie, ô Saint-Esprit."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "À toi Seigneur Dieu d’amour,",
+        "Père, Fils et Saint-Esprit,",
+        "Soit aujourd’hui",
+        "Toute la gloire. Notre victoire",
+        "Est de t’aimer toujours, Seigneur d’amour !"
+      ],
+      "number": 4
+    }
+  ]
+}

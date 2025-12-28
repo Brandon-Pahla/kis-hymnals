@@ -1,0 +1,38 @@
+{
+  "number": 50,
+  "language": "xh",
+  "title": "50 Kuya Kube Kuyole",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kukh’ ilizwe elihle mpela, Sesibon’ ukukhanya kwalo;",
+        "U-Bawo wethu ukhona le, Uyasakhela izindlu ke."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Khona le . . . Phambili . . . Sobuthan’ ezweni elihle;",
+        "Khona le . . . Phambili . . . Sobuthan’ ezweni elihle."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Siya kuvuma kolonxweme Ingoma ze-Nkosi yaKhona;",
+        "Asoze sibone lusizi, Kwelozwe lilelokuphumla."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ku-Bawo wethu ophezulu Saku hlokomisa ngodumo;",
+        "Ngenxa yeso sipho sothando, Nezibusiso ezaKhona."
+      ],
+      "number": 3
+    }
+  ]
+}

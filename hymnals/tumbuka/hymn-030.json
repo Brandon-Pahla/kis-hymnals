@@ -1,0 +1,60 @@
+{
+  "number": 30,
+  "language": "tum",
+  "title": " 30 Zuwa Likunjira Mwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 30 Zuwa Likunjira Mwe",
+        "DAY IS DYING IN THE WEST"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Zuwa likunjira 'mwe Fumu yitipumuzge;",
+        "Lindizgani m'kuromba nyali zikugolera na kuwala."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain:",
+        "Mtuwa, mtuwa, Fumu ya mipingo;",
+        "Vya m'chanya na vyapasi vikumutamikani Mwankhongono."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mwene umoyo ndimwe mwazu.a pose pose;",
+        "Mtiwunganye tawinu m'lukutu lwinu sono lwa mutende."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Usange mfwiri wiza mukutifukatira;",
+        "M'uchizi winu Fumu, mitima yithu yikwere kwa imwe."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Para tafwa pacharu, ntha tikuwona kanthu;",
+        "Fumu mkutemwa kwinu mzakatiwuskeso pa mlenjí wura."
+      ],
+      "number": 6
+    }
+  ]
+}

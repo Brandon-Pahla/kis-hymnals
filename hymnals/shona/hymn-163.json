@@ -1,0 +1,63 @@
+{
+  "number": 163,
+  "language": "sn",
+  "title": "163 Ndiripano Nditumei",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Inzwa Jesu odaidza",
+        "Ndiani osewenza",
+        "Minda yese yatoibva",
+        "Ndiyani achakohwa",
+        "Tenzi anodaidzira",
+        "Achazokupa tuso",
+        "Ndiani achapindura",
+        "Ndiripano nditumei"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana usingabiri nyanza",
+        "Kana kushumaira",
+        "Shumaira vahedheni",
+        "Vakakutenderedza",
+        "Kana usiri ngirosi",
+        "Kana usiri Pauro",
+        "Taura rudo rwaJesu",
+        "Uti akatifira"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana usiri murindi",
+        "Parusvingo rweZioni",
+        "Uchinongedza kudenga",
+        "Kuno vapa upenyu",
+        "Neminamato nezvipo",
+        "Woita kuda kwake",
+        "Ungafanane naAroni",
+        "Kubatsira M’porofiti"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Apo mweya iri kufa",
+        "Tenzi achidaidza",
+        "Usazoti neunyope",
+        "Handikwanisi basa",
+        "Ita basa ra’nokupa",
+        "Farira basa rake",
+        "Kasika kumupindura",
+        "Ndiripano nditumei"
+      ],
+      "number": 4
+    }
+  ]
+}

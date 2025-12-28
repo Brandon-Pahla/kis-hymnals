@@ -1,0 +1,57 @@
+{
+  "number": 309,
+  "language": "tum",
+  "title": " 309 Nkhwenda Nayo Yesu Fumu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 309 Nkhwenda Nayo Yesu Fumu",
+        "I'm Walking Everyday With Jesus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nkhuyenda nayo Yesu Fumu,",
+        "nkhukondwa madazi ghose,",
+        "Nkhusanga chipulikano chake,",
+        "nkhukwaniskika nayo swi!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nkhuyenda nayo Yesu Fumu,",
+        "nkhukhurmba wandiongozge,",
+        "Pakudemerera pa Mponoski",
+        "ntha nditayikenge chara."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nkhuyenda nayo Yesu Fumu,",
+        "ndichite khumbiro lake,",
+        "Wakapangana kundiwovwira,",
+        "wati wakwaniske vyose."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nkhuyenda nayo Yesu Fumu,",
+        "ndazomerezga kwananga,",
+        "Pamoza tendenge nadi kose",
+        "mu chitemwano Chake swi!"
+      ],
+      "number": 4
+    }
+  ]
+}

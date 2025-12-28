@@ -1,0 +1,42 @@
+{
+  "number": 234,
+  "language": "luo",
+  "title": "234 Yesu Obiro Ka Kendo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu obiro ka kendo, Yesu ma notho Kalwari;Obiro omo jo moyie, Mondo gidhi polo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Obiro, obiro, Birone koro ochiegini;Ee, obiro; ee, obiro; obiro machiegini."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Waneno tim mang`eny e piny Mapuonjowa wach birone;Chieng`no obiro mana ru Ma wanadhi polo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndalo mang`eny to lweny nitie; To pinje ok noyudi kuwe;Nyaka Jawarwa wir` e piny, Mond` oterwa polo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Eka e piny maber, manyien, Wanabedi ma nyaka chieng`;Ok wanachak waketh kendo, To wanamor pile."
+      ],
+      "number": 5
+    }
+  ]
+}

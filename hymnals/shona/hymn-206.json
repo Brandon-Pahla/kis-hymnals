@@ -1,0 +1,37 @@
+{
+  "number": 206,
+  "language": "sn",
+  "title": "206 Ndapa Upenyu Hwangu Kwemuri",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ini ndakufira, Nda’paradza ropa",
+        "Kuti utengiwe, Upiwe upenyu",
+        "Ini ndakakufirazve, Iwe wandipenyi?",
+        "Ini ndakakufirazve, Iwe wandipenyi?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndakasiya umba, Yababa yembiri",
+        "Ndakauya pasi, redima nenhamo",
+        "Ndakazvisiira iwe, Wakandisiirenyi?",
+        "Ndakazvisiira iwe, Wakandisiirenyi?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndakatambudzika, zvinorwadza kwazvo",
+        "Pamusana pako, kuti ununurwe?",
+        "Ndakazvitakurira’we, Wanditakurirei?",
+        "Ndakazvitakurira’we, Wanditakurirei?"
+      ],
+      "number": 3
+    }
+  ]
+}

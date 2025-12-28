@@ -1,0 +1,21 @@
+{
+  "number": 93,
+  "language": "ts",
+  "title": "93. SIKU LERA KU WISA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O DAY OF REST AND GLADNESS",
+        "1. Siku Lera Ku Wisa I Siku Ra Ntsako, Ro Ri Susa Mapfalo Ni Ku Xaniseka,",
+        "Ka Wena Muponisi Ha Ku Khinsamela, Dzunisani Hinkwenu Hosi Ya Matilo.",
+        "2. U Khokholo Ra Hina Wa Hi Sirhelela,",
+        "U Fana Na Wo Ntanga Xikarhi Ka Milambu, U Xihlovo Xa Mati, Kona Emananga,",
+        "U Mfungho Lowa Nkoka Ndlelen Yo Ya Kaya.",
+        "3. Siku Ra Ku Tsundzuka Rirhandzu Ra Hosi, I Siku Ro Hleketa No Languta Henhla,",
+        "Ni Ku KUma Tintswalo Hi Siku Ro Wisa, Hi Lava Ku Ya Wisa Kwale Kaya Tilwen."
+      ],
+      "number": 1
+    }
+  ]
+}

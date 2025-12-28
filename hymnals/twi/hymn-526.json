@@ -1,0 +1,36 @@
+{
+  "number": 526,
+  "language": "tw",
+  "title": "Nyame Somaa Ne Ba Yesu Ma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame somaa Ne Ba Yesu ma",
+        "ɔba bɛdɔe, saa nyarewa;",
+        "ɔba bewu de tɔɔ me faf'ri,",
+        "Damoa hun' no ky'rɛ sɛ m'Ayenkwa no tč  ase."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "ɔtč ase nti, minsuro ɔkyena,",
+        "ɔtč ase nti, suro ny'naa kɔ,",
+        "'Fisɛ minim sɛ daakye wɔ No;",
+        "Na ɔtč ase nti 'nidaso wɔ ɔbra mu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fɛ a ɛyɛ sɛ wokųra 'kokoaa,",
+        "Na wohu dɛw a ɔde ma;",
+        "Nea ɛkyɛn so ne 'nidaso yi,",
+        "'Kokoaa no nsųro naa bɔne bi 'fisɛ ɔtč ase."
+      ],
+      "number": 2
+    }
+  ]
+}

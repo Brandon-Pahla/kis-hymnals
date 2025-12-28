@@ -1,0 +1,37 @@
+{
+  "number": 656,
+  "language": "tw",
+  "title": "O ɔdɔ a Ͻb'ro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O ɔdɔ a ɛb'ro nipa adwen so",
+        "Yɛkoto W'agua 'nim brɛoo wɔ mpaebom",
+        "Sɛ wɔn a Woreka wɔn abom daa yi",
+        "Benya ɔdɔ a etim hɔ daa daa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O nkwa Dɛɛfo, yɛ wɔn 'nidaso nyinaa,",
+        "Ma wɔn dɔ ne gyidi a ase tim,",
+        "Boasetɔ anidaso ne animia",
+        "Sɛ 'bofra 'w'rɛhyem ɔ ensuro yaw ne wu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma wɔn dɛw a ɛpam fam awerɛhow,",
+        "Ne 'somdwoe wɔ fam ha ap'rep're mu",
+        "Fa, 'kyena a yennim ka wɔn ɛnnɛ ho",
+        "Nea epue wɔ daa ɔdɔ ne nkwa so."
+      ],
+      "number": 3
+    }
+  ]
+}

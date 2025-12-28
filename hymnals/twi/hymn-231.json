@@ -1,0 +1,63 @@
+{
+  "number": 231,
+  "language": "tw",
+  "title": "Nɔhyira Ne ɔhen' a",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nɔhyira ne ɔhen' a",
+        "ɔba Nyame din mu;",
+        "Ma apon ny'naa mmue mma No,",
+        "Na koma nyɛ saa'ra;",
+        "Wanhyɛ 'henni atade",
+        "Amma no kɛseyɛm'",
+        "Mmom ɔbaa sɛ ohianiɔ",
+        "'Yi ky'rɛ N'ahobrɛase."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nɔhyira ne ɔhen' a",
+        "ɔba Nyame din mu,",
+        "Wɔn a wotie nokwarem,",
+        "Te Ne nne yie ampa;",
+        "'Hantanfo a wɔmpɛ sɛ",
+        "Wotie Kristo a ɔyɛ",
+        "Bɔhyɛ ne 'Patafo no,",
+        "Hu wɔn ny'naa nso mmɔbɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nɔhyira ne ɔhen' a",
+        "ɔba Nyame din mu,",
+        "ɔno na Oyi Nyame",
+        "Kyerɛ 'hobrɛasefo.",
+        "Tumi ne 'nuonyam wɔ No,",
+        "Nneɛma ny'naa wɔ Ne nsam",
+        "Mmere ne nnipa ny'naa nso,",
+        "Kosi sɛ b're bɛsa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nɔhyira ne ɔhen' a",
+        "ɔba Nyame din mu;",
+        "Wɔn a wɔso nnesoa no,",
+        "Wonya 'dom ne home!",
+        "ɔdwo, ɔbrɛ ne hō ase",
+        "Ne kɔndua yɛ hare,",
+        "ɔbɛboa ama yɛasoa,",
+        "Na yɛanya 'hofadi.\","
+      ],
+      "number": 4
+    }
+  ]
+}

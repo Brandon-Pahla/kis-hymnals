@@ -1,0 +1,58 @@
+{
+  "number": 271,
+  "language": "fr",
+  "title": "Si vous saviez",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Si vous saviez quel Sauveur je possède !",
+        "Il est l'ami, le plus tendre de tous :",
+        "Pour moi devant le Père il intercède :",
+        "Oh! je voudrais qu'il fût aussi pour vous!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Mon Sauveur vous aime,",
+        "Ah! cherchez en lui",
+        "Votre ami suprême,",
+        "Votre seul appui!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si vous saviez la paix douce et profonde",
+        "Que mon Sauveur, en mon âme apporta",
+        "Pour cette paix, que peut donner le monde?",
+        "Elle jaillit pour vous de Golgotha."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si vous saviez quelle douce espérance",
+        "Le Dieu de paix fait rayonner des cieux!",
+        "Combien sa voix sait calmer la souffrance",
+        "Et son regard rendre le coeur joyeux!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quand vous saurez combien Jésus vous aime,",
+        "Quand vous saurez combien son joug est doux,",
+        "Ne gardez pas ce trésor pour vous-même,",
+        "Mais proclamez ce qu'il a fait pour vous!"
+      ],
+      "number": 5
+    }
+  ]
+}

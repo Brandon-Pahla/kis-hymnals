@@ -1,0 +1,46 @@
+{
+  "number": 54,
+  "language": "xh",
+  "title": "54 Intliziyo Ehlambulukileyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Into endiyinqwenela Kwezindlela zomgxobhozo,",
+        "Nezilingo zinditshisa, Kukuhlanjwa, kukuhlanjwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, ndihlambe ngaphakathi, Nangomlilo ndiyavuma;",
+        "Nangantoni na andali, Isono masife mpela."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa ndibona ukukhanya Ndiya gcoba emoyeni;",
+        "Ndifun’ intliziyo entsha, Kumnandi kum, kumnandi kum."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndithand’ ukudel’ okubi, Ndinomthwalo, sendifile;",
+        "Ubuhle bam buphina-ke? Ndingcolile, ndingcolile."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ukuba ke lentliziyo Ingaze ikulandele,",
+        "Ndenze ndibe ngophilayo, Ndibe ngcwele, ndibe ngcwele."
+      ],
+      "number": 4
+    }
+  ]
+}

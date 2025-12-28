@@ -1,0 +1,48 @@
+{
+  "number": 162,
+  "language": "ve",
+  "title": "162. Ndi Tshimbidzwa Nga Mutshidzi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:516",
+        "AH:296"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi tshimbidzwa nga Mutshidzi, ndi kha di lila mini?",
+        "Ndi do vhilaela mini, ndi Ene o nthengaho,",
+        "U dzula a tshi mphumudza, nga lutendo ndi wawe,",
+        "Naho hu tshi nga da mini, Yesu ndi Muphulusi.",
+        "Naho hu tshi nga da mini, Yesu ndi Muphulusi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi tshimbidzwa nga Mutshidzi, ndila i a leluwa,",
+        "Nga tshilidzi ndi a kunda, nga tshinkwa tsha vhutshilo,",
+        "Arali nne ndo no neta, ndi na dora muyani,",
+        "nne ndi vhona phanda hanga, tshisima tsha vhutshilo.",
+        "nne ndi vhona phanda hanga, tshisima tsha vhutshilo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi tshimbidzwa nga Mutshidzi, wa lufuno lungafha,",
+        "Ndi do wana vhuawelo, henengei tadulu,",
+        "Ndo wana vhutshilo vhuswa, ndi dzhene kha lupenyo,",
+        "Luimbo lwanga lwa gundo, Yesu u nthange phanda.",
+        "Luimbo lwanga lwa gundo, Yesu u nthange phanda."
+      ],
+      "number": 4
+    }
+  ]
+}

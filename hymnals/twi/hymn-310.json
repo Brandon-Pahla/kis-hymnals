@@ -1,0 +1,36 @@
+{
+  "number": 310,
+  "language": "tw",
+  "title": "Metwiw Abɛn Yesu Nkyɛn Yie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Metwiw abɛn Yesu nkyɛn yie,",
+        "Na matra N'anim hɔ daa;",
+        "Atra Ne nkyɛn dwoodwoo komm."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Metwiw abɛn Yesu nkyɛn yie,",
+        "Meremfa hwee nkame No;",
+        "ɔpɛ sɛ ɔyɛ domfo nti,",
+        "Metwiw abɛn Ne nkyɛn yie."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Metwiw abɛn Yesu nkyɛn yie,",
+        "ɔmmoam' ma minni nokwar';",
+        "Mɛda Ne papayɛ adi,",
+        "Mɛyɛ Ne pɛ ɔdɛw so."
+      ],
+      "number": 3
+    }
+  ]
+}

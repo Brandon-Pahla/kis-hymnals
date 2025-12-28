@@ -1,0 +1,57 @@
+{
+  "number": 152,
+  "language": "tum",
+  "title": " 152 Myowoye Nane, Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 152 Myowoye Nane, Yesu",
+        "SPEAK TO MY SOUL"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "M'yowoye nane, Yesu mazgu gha mutende,",
+        "Mndiphwepwerezge kuti \"uli wekha chara,\"",
+        "Jurani mtima wane ndimpulikireni,",
+        "Mzule mu mtima wane, kuti ndikondwenge."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mndiphwepwerezge, Fumu mu uchizi winu,",
+        "Uti utonde nadi utisutukenge\"",
+        "M'yowoye nane, Fumu dazi liri lose,",
+        "Ndim pulikeni m'kuti, \"uli wekha chara."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Yesu m'yowoye mazgu kwa tawana winu,",
+        "Kumlindizgani Imwe mutisambizgenge,",
+        "Kuti timpani Imwe ma umoyo ghithu,",
+        "Ufumu winu wize tizakam'woneni."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mukalongora kale makhumbiro ghinu,",
+        "Vdimanye mlimo wane ndichite vya Imwe,",
+        "Ndim thuwuskeni Imwe ku mitundu yose,",
+        "Ndichite khur linu kwa madazi ghose."
+      ],
+      "number": 4
+    }
+  ]
+}

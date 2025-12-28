@@ -1,0 +1,47 @@
+{
+  "number": 139,
+  "language": "xh",
+  "title": "139 Ndimfumene u-Mhlobo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, ndimfumene u-Mhlobo! Wandithanda ndingamaz’;",
+        "Ngothando wanditsala mna, Wandibophela kuye.",
+        "Yathi nalentliziyo yam Wakwa yiqamangela,",
+        "Ngoko-ke ndingowakhe mna Kuse ephakadeni."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, ndimfumene u-Mhlobo! Nguy’ owandifelayo;",
+        "Wandenzel’ isipho sobom, Ngabo ubomi bakhe.",
+        "Izinto zam asizo zam, Zezakhe ongum-Niki;",
+        "Mandla, bomi, konke okwam, Zizezakhe nanini."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, ndimfumene u-Mhlobo! Onk’ amandla ngawakhe;",
+        "Nakulo oluhambo lwam, Wondisa ezulwini.",
+        "Ndibon’ ubuqaqawuli, Bundinika amandla;",
+        "Ngoku xa ndise dabini, Ndizakuthi ndiphumle."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, ndimfumene u-Mhlobo! O’bubele nenceba,",
+        "Um-Khokeli osilumko, Um-Khusel’ onamandla.",
+        "Kowandithanda kakuhle, Ndingahlulwa yhintoni?",
+        "Bubomi-na, sihogo-na? Ngu-notshe; ndingowakhe."
+      ],
+      "number": 4
+    }
+  ]
+}

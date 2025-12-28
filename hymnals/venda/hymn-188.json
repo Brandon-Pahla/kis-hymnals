@@ -1,0 +1,50 @@
+{
+  "number": 188,
+  "language": "ve",
+  "title": "188. Ndi Mutshinyi Muhulu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:295",
+        "AH:188"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi mutshinyi muhulu,",
+        "Ndo felwa nga Murena,",
+        "Uri ndi tshile tshothe,",
+        "Sa davhi li murini,",
+        "Ndi wawe Yesu wanga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Lufuno lwa Murena,",
+        "Ndi luhulu nga Maanda,",
+        "Lwo tsa fhasi sa lwanzhe,",
+        "Lu hone a lu fheli,",
+        "Lufuno lwe lwa angwana,",
+        "Ndo vha ndi sa lu funi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi mutshinyi muhulu,",
+        "Kristo u zwothe kha nne,",
+        "U divha zwi ndinaho,",
+        "Zwothe u thusa khazwo,",
+        "Na kha yothe milingo,",
+        "U tsireledza rothe."
+      ],
+      "number": 4
+    }
+  ]
+}

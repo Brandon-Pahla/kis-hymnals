@@ -1,0 +1,46 @@
+{
+  "number": 294,
+  "language": "xh",
+  "title": "294 Ndambathise Ngobomi BaKhe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Khangel’ uYes’ ongenasono, Bawo ndiphe ubomi baKhe;",
+        "Mna ndinezono nentlupheko; Ndambathise ngobomi baKhe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndambes’ ubomi obunyulu, Ndigqume ngobungcwele baKhe;",
+        "Mna ndinezono nentlupheko, Ndambethise ngobomi baKhe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mabi amanxeba esono, Ndoyik’ amabala abomvu;",
+        "Yesu ndambes’ ubomi baKho, Mandingagwetywa nangumthetho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mandivuye xa ndixolelwa, Yes’ undipha ingubo yaKhe;",
+        "Ndiyayamkela, ndilahl’ okwam, Ndiyavuya ndambethe weNa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndihlangulwe kukufa kwaKhe, Ndigwetyelwe, ngobomi baKhe;",
+        "Ndingcwaliswe ngelizwi laKhe, Ndozukiswa kubuye kwaKhe."
+      ],
+      "number": 4
+    }
+  ]
+}

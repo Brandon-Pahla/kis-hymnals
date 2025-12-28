@@ -1,0 +1,57 @@
+{
+  "number": 712,
+  "language": "tw",
+  "title": "N17 Sweet the time",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "B're no yε dε boro so!",
+        "B're a 'hotefo hyiam no.",
+        "B're a wɔdwen 'Gyenwa ho,",
+        "Na wohyiam to Ne ho dwom."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yεto daa ɔdɔ ho dwom,",
+        "Dɔ a εkaa Agya no;",
+        "ɔhwεε wiase mmusu no,",
+        "Dɔɔ wiase de Ne Ba kyεe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yεto 'Ba no dɔ dwom:",
+        "ɔdan' N'ahenni gyaa s´ro,",
+        "Faa yεn su sii yεn ananm´",
+        "N'Obewui maa yεn nyinaa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yεto Honhom dɔ ho dwom;",
+        "ɔne yεn dii ap'rep're",
+        "Maa yaw ne suro kaa yεn,",
+        "Ma yεbεn Agyenkwa no."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B're no bεyε dε mm'roso,",
+        "B're a 'hotefo hyiam s'ro",
+        "Wɔbεdwen Yesu hò ara,",
+        "Wɔbεto Ne ho dwom daa."
+      ],
+      "number": 5
+    }
+  ]
+}

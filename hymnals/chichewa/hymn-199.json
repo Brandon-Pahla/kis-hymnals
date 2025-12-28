@@ -1,0 +1,53 @@
+{
+  "number": 199,
+  "language": "ny",
+  "title": "199 - Ulemu Kwa Mulungu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TO GOD BE THE GLORY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ulemu kwa Mlungu, Ambuye wathu,",
+        "Akonda, napatsa ’fe Mwana Wake;",
+        "Napatsatu moyo kuombola ’fe,",
+        "Pa khomo la moyo natsegulatu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tamani Mbuyeyo, Dziko limvere ’Ye;",
+        "Tamani Mbuyeyo, Anthu akondwetu;",
+        "Idzani kwa ’Tate mwa Mwana Wake,",
+        "Mpatseni ulemu anakonda ’fe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Anapulumutsa ndi mwazi Wake",
+        "Amene akhulupirira mwa ’Ye.",
+        "Ngakhale wochimwa koposa ndithu,",
+        "Adzakhululukidwa mwa Yesuyo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Anatiphunzitsa zopambanazo,",
+        "Tikondwa mwa Yesu, Ambuye wathu;",
+        "Komabe ’dzazizwa kopambanadi,",
+        "Pamene atenga ’fe, kumwambako."
+      ],
+      "number": 4
+    }
+  ]
+}

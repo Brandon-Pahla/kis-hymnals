@@ -1,0 +1,63 @@
+{
+  "number": 285,
+  "language": "fr",
+  "title": "C'est Jésus, quand...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "C'est Jésus, quand je chancelle,",
+        "Seul en mon chemin,",
+        "Qui vient prendre ma main frêle",
+        "Dans sa forte main.",
+        "Il me tient la main,",
+        "Il me tient la main,",
+        "Oui, je suis quand je chancelle",
+        "Tenu par sa main."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il connaît bien ma faiblesse,",
+        "Mon indignité;",
+        "Mais il me bénit sans cesse,",
+        "Grande est sa bonté.",
+        "Grande est sa bonté,",
+        "Grande est sa bonté,",
+        "Il supplée à ma faiblesse;",
+        "Grande est sa bonté."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "J'ai dans ma misère extrême,",
+        "Les yeux sur Jésus.",
+        "Je suis assuré qu'il m'aime :",
+        "Que faut-il de plus?",
+        "Les yeux sur Jésus,",
+        "Les yeux sur Jésus :",
+        "Gloire à son amour suprême!",
+        "Que faut-il de plus?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ton sang, sur la croix bénie,",
+        "A coulé pour moi,",
+        "Et je ne me glorifie",
+        "Qu'en toi, divin Roi!",
+        "Oui, ce n'est qu'en toi,",
+        "Oui, ce n'est qu'en toi,",
+        "Que j'ai le salut, la vie,",
+        "Ô Jésus, mon Roi!"
+      ],
+      "number": 4
+    }
+  ]
+}

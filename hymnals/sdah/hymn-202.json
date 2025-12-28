@@ -1,0 +1,35 @@
+{
+  "number": 202,
+  "language": "en-sdah",
+  "title": "202 Hail Him the King of Glory",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tell it to every kindred and nation, Tell it far and near; Earth's darkest night will fade with the dawning, Jesus will soon appear."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain : Hail Him the King of glory, Once the Lamb for sinners slain; Tell, tell the wondrous story, 'Jesus comes to reign.'"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nations again in strife and commotion, Warnings by the way; Signs in the heavens, unerring omens, Herald the glorious day."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Children of God look up with rejoicing; Shout and sing His praise; Blessed are they who, waiting and watching, Look for the dawning rays."
+      ],
+      "number": 4
+    }
+  ]
+}

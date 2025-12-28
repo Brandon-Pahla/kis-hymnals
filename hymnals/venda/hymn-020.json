@@ -1,0 +1,47 @@
+{
+  "number": 20,
+  "language": "ve",
+  "title": "20 Vuwa Muya Wanga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:611",
+        "AH:323"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Vuwa khuthalela Yesu, shuma iya phanda;",
+        "Vha ralo-vho makoleni, khuthalela khare."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ili ipfi ndi la Yesu, li vhidzelelaho;",
+        "Ndi a nea malamba, kha vho khuthalaho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi vhanzhi vhare dzithanzi, Vha U tanzilela;",
+        "Litsha dzindila dza fhano, Lilala tadulu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ri do dzheniswa nga Yesu, Wa dzothe dzitshakha;",
+        "Ri do vhea phanda hawe, malamba ashu-vho"
+      ],
+      "number": 5
+    }
+  ]
+}

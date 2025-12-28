@@ -1,0 +1,42 @@
+{
+  "number": 169,
+  "language": "guz",
+  "title": "169 Nosiboke Korwa As' Ebibe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nosiboke korwa as'ebibe?'Manyinga nare ne chinguruNobibue ebib' ore nabio?Amanyinga ye chinguru."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne chinguru chia ogokumia;'Manyinga y'eng'ondiNe chinguru chia ogokumia;As' amanyinga y'eng'ondi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nosiboke korwa ogochaya?'Manyinga nare ne chinguru'Nchw' osibigwe aria Kalwari;Amanyinga' Aye chinguru."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. N'ocheneke na koraba mono?'Manyinga nare ne chinguruEbimoa bi'ebibe bisire,Amanying' Aye chinguru."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. N'omokorer' Omogambi Yeso?'Manyinga nare ne chinguruKera rituk' aye n'omotogie?Amanying' Aye chinguru."
+      ],
+      "number": 5
+    }
+  ]
+}

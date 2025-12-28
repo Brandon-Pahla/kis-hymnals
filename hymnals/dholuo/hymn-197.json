@@ -1,0 +1,35 @@
+{
+  "number": 197,
+  "language": "luo",
+  "title": "197 Owadwa Kik Iluor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Owadwa kik iluor, Bedi gi chir pile;Nyasaye none masicheni, Ong`eyo hoyoi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kata ka chunyi lit, Ka gigi kethore;Kik chunyi ol, kik chunyi a, Nyasaye nomii kuwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Otieno to norum, Chieng` mar dimbruok nobi;Masicheni duto nolal Ka Ruoth ofwenyore."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Gen hera mar Ruodhi, Onge motamo En;Bedi pile e luetene, Noriti nyaka chieng`."
+      ],
+      "number": 4
+    }
+  ]
+}

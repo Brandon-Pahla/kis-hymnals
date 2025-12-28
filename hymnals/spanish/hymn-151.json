@@ -1,0 +1,44 @@
+{
+  "number": 151,
+  "language": "es",
+  "title": "Por eso lo amo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Por eso lo amo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "El que me amó vino una vez",
+        "a nuestro mundo a padecer;",
+        "sobre la cruz me rescató",
+        "y su amistad me demostró."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Por eso lo amo, por eso lo",
+        "espero,",
+        "por eso me entrego a mi Señor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "El que me amó vendrá otra vez;",
+        "todos los ojos lo han de ver,",
+        "todas las voces se alzarán",
+        "y a Jesús aclamarán."
+      ],
+      "number": 4
+    }
+  ]
+}

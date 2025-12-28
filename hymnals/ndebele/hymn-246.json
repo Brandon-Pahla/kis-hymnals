@@ -1,0 +1,55 @@
+{
+  "number": 246,
+  "language": "nd",
+  "title": "246 Phons’ Izwana NgoJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Phons’ izwana ngoJesu-uMhlobo impela.",
+        "Vus’ inhliziyo zethu, Ngekwenzele kona."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phons’ izwana ngoJesu, Ngendlela losisiza;",
+        "Izwana nje ngoJesu, NgaYe ufakaze."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phons’ izwana ngoJesu-Lok’us’xolelwe.",
+        "Zama ngowAkhe umsa Ufik’ ekhaya le!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phons’ izwana ngoJesu-Njalo wena usho;",
+        "Ngiyamthand’ uMsindisi, Owangifelayo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phons’ izwana ngoJesu-Kusekhon’ ithuba;",
+        "Ngokuthula uthi, du! Uyavuna ombi."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phons’ izwana ngoJesu-Ithemba nxa lifa;",
+        "Sukuma kubunhlungu Umethembe Yena."
+      ],
+      "number": 6
+    }
+  ]
+}

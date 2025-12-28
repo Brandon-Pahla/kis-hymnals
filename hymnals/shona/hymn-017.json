@@ -1,0 +1,40 @@
+{
+  "number": 17,
+  "language": "sn",
+  "title": "17 Rudo Runotifadza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Rudo runotifadza, Runonatsa nzira",
+        "Runoita titeerere, Nekuva nemutsa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mwari rudo, Tirivana vake, Mwari rudo",
+        "Tifanane na’Ye. Rudo runotifadza, Runonatsa",
+        "nzira, Runoita titeerere, Nekuva nemutsa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pasi rine urombo, Kurwara nekufa;",
+        "Ngerudo tinobatsira, Vamwe kudawira"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Apo basa rapera, Tatorwa kum’soro,",
+        "Ngoma yedu tichaimba, NdiJesu nge-rudo"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 98,
+  "language": "pt",
+  "title": "Por Que me Amou Assim?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Por Que me Amou Assim?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morte cruel padeceu meu Jesus;",
+        "Por que me amou assim?",
+        "Eu merecera sofrer nessa cruz;",
+        "Por que me amou assim?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Por que me amou assim?",
+        "Por que me amou assim?",
+        "Por que sofreu meu Jesus por mim?",
+        "Por que me amou assim?!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Foi meu pecado que 0 crucificou;",
+        "Por que me amou assim?",
+        "Para salvar-me, que dor suportou!",
+        "Por que me amou assim?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! que agonia, que grande aflição!",
+        "Por que me amou assim?",
+        "Hei de aceitar tão imenso perdão!",
+        "Por que me amou assim?"
+      ],
+      "number": 5
+    }
+  ]
+}

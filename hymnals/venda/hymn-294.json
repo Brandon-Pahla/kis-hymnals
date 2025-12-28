@@ -1,0 +1,55 @@
+{
+  "number": 294,
+  "language": "ve",
+  "title": "294. U Nnyambadza Vhutshilo Hawe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:412",
+        "AH:198"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Sedza kha Yesu, Ha na zwivhi, khotsi mmphe vhutshilo hawe,",
+        "Hanga vhutshilo ho tshinyala, Nnyambadze hawe, ndi tshenese."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nnyambadze nga vhutshilo hawe, Ndi tshenese",
+        "Vhutshilo hanga, vhuvhi ha khombo vhu tanzwiwe,",
+        "Vhu tshene vhu nge sa Mahada"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Zwilonda zwa zwivhi zwo hula, zwo tswukesa ndi a zwi ofha,",
+        "Nda ambadzwa nga Iwe Yesu, Ndo tsireledzwa kha mulayo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi tamesa khangwelo yawe, Yesu u di mpha nguvho tshena,",
+        "Ndi tanganedza iyo mpho, Ndi takalela vhudi hau."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndo pfumelwa nga lufu lwawe, Ndo luga nga vhutshilo hawe,",
+        "Ndo vha Mukhethwa nga u pfavho, A tshi vhuya ndi do penyiswa."
+      ],
+      "number": 5
+    }
+  ]
+}

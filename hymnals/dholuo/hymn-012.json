@@ -1,0 +1,35 @@
+{
+  "number": 12,
+  "language": "luo",
+  "title": "12 Ji Duto Mondo Wer Wendni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ji duto mondo wer wendni,Denduru nying Yesu Ruodhwa!Nyisuru duong` Nyasaye Ruodhwa,Denduru nying Yesu Ruodhwa!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Denduru nyinge, denduru nyinge,Nying Ruodhwa obedi gi pak.Denduru nyinge, denduru nyinge,Denduru nyinge Yesu Ruodhwa!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Otieko luorowa duto;Denduru nying Yesu Ruodhwa!Oketho teko mar Satan,Denduru nying Yesu Ruodhwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Oruako Jo malokrene;Denduru nying Yesu Ruodhwa!Rembe oluoko jo moyie;Denduru nying Yesu Ruodhwa!"
+      ],
+      "number": 4
+    }
+  ]
+}

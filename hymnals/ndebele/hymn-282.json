@@ -1,0 +1,37 @@
+{
+  "number": 282,
+  "language": "nd",
+  "title": "282 Inguzhu Zilishumi Lenkulungwane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Zwan’ amazwi walalele; Ehlatshelelwa phezulu",
+        "U Jesu uyabusa le, Liyathaba izulu",
+        "Ehlez’ esihlalweni, Wobusa emhlabeni",
+        "Aleluya! Aleluya! Aleluya! Amen"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Busa Nkosi yamakhosi, Busa kube phakade",
+        "Abakho bangehlukani, Lab’ osuba lobile",
+        "Benenjabulo yAkho, Besindisiwe njalo",
+        "Aleluya! Aleluya! Aleluya! Amen"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phangis’ ubuye, Msindisi Usuku lwAkho luze",
+        "Nxase kuhlatshwa umkhosi, Umhlaba uyadlula",
+        "Sizohlabelela sithi, Dumo, dum’ eNkosini",
+        "Aleluya! Aleluya! Aleluya! Amen"
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "number": 154,
+  "language": "ts",
+  "title": "154. MURINDZI WA LE SIYONI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WATCHMAN, TELL ME",
+        "1. Murindzi Wa Le Siyoni, Ndzi Byele Hi Ta Mixo, Xana Ku Na Swikombiso, Swa Ku Voninga Ndlela;",
+        "Vatsendeleki Pfukani, Dyambu Ri Lava Ku Xa, Ambalani To Tinguvu, Tinguvu Ta Wo Nkhuvu.",
+        "2. Murindzi U Nga Languta, Ku Khanya Loku Taka, Swikombiso Misaveni, Swa Siku Leri Taka;",
+        "Mhalamhala Ya Xikwembu, Yi Ta Pfuxa Hinkwavo, Vahlawuriwa Va Hosi, Va Ta Va Va Nga Ha Fi.",
+        "3. Murindzi Ri Amukele, Lembe Ra Yo Savata, Hosi Hi Leyi Xikaka, Hi Huwa Ya Tintsumi;",
+        "Ndzi Vona Vatsendzeleki, Va Ri Hase Kanana, Hosi Yesu U Ta Fika, A Vangama Bya Dyambu.",
+        "4. Murindzi U Nga Languta, Vukosi Bya Le Henhla, Bya Yo Hosi Ya Ku Rhula, Matiko Ni Matiko;",
+        "Tintshaveni Ta Tintshava, Kuna Ku Vonakala, Na Wo Mati Layo Tenga, Na Swiluva Swo Xonga.",
+        "5. Murindzi U Nga Languta, Yi Tshinele Minkarhi, Ya Misava Ya Mihandzu, Ni Swiluva Swo Xonga;",
+        "Swo Fana Na Le Eden, Ntangeni Wo Saseka, Na Swo Chaya Swa Risuna, Ku Yimbiwa Tinsimu."
+      ],
+      "number": 1
+    }
+  ]
+}

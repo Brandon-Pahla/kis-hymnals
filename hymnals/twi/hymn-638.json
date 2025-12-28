@@ -1,0 +1,49 @@
+{
+  "number": 638,
+  "language": "tw",
+  "title": "Nyansafo De Wɔn Nimdeɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyansafo de wɔn nimdeɛ",
+        "Adefo, wɔn sika,",
+        "'Binom de wɔn kɛseyɛ",
+        "Ebi nso wɔn 'hoɔden;",
+        "Yɛn nso de yɛn 'gyapade,",
+        "Rebɛma ɔhen' no,",
+        "Yenni sika ne nimdeɛɔ",
+        "Dɛn na yɛde bɛba?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛde koma bɛdɔ No,",
+        "Na yɛato N'ayeyi;",
+        "Akra nkumaa de ɔdwo",
+        "Bɛnantew N'akwan so.",
+        "'Yinom bɛyɛ 'gyapadč a",
+        "Yɛde ma ɔhen' no,",
+        "'Yi ne 'kyɛde a 'bofra",
+        "Biara betum' ama."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛbɛyɛ nnwuma nkumaā a",
+        "Yɛyɛ da biara no,",
+        "Yɛbɛsɔ N'ani wɔ fie,",
+        "'Suabea ne agodim';",
+        "'Yinom yɛ 'gyapade pā a",
+        "Yɛde brɛ ɔhen' no.",
+        "'Kyɛde bi nkwati 'yinom,",
+        "Nso mmofra de bɛba."
+      ],
+      "number": 3
+    }
+  ]
+}

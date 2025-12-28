@@ -1,0 +1,63 @@
+{
+  "number": 444,
+  "language": "fr",
+  "title": "Comme un fleuve immense",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Comme un fleuve immense",
+        "Est la paix de Dieu.",
+        "Parfaite elle avance,",
+        "Vainqueur en tout lieu;",
+        "Parfaite elle augmente",
+        "Constamment son cours;",
+        "Parfaite sa pente",
+        "S'abaisse toujours."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sous ta main meurtrie,",
+        "Se brise, ô mon Roi !",
+        "Toute arme ennemie",
+        "Faite contre moi !",
+        "Rien ne peut me nuire",
+        "Ni troubler mon cœur,",
+        "Tu veux me conduire,",
+        "Tu seras vainqueur."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu traces ma voie :",
+        "J'y marche avec foi;",
+        "L'épreuve et la joie",
+        "Me viennent de toi !",
+        "Cadran de nos vies,",
+        "Marque, chaque jour,",
+        "Les heures bénies",
+        "Du Soleil d'amour !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Océan de gloire,",
+        "Paix de mon Sauveur !",
+        "Gage de victoire !",
+        "Trésor de bonheur !",
+        "Ta grâce infinie,",
+        "Coulant nuit et jour,",
+        "Inonde ma vie",
+        "De vagues d'amour !"
+      ],
+      "number": 4
+    }
+  ]
+}

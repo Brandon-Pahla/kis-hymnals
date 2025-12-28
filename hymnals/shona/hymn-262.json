@@ -1,0 +1,57 @@
+{
+  "number": 262,
+  "language": "sn",
+  "title": "262 Kristu Kana Baraba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndoiteyi naJesu, Ari mberi kwangu?",
+        "Anemhinzwa pam’soro, Ane nguwo tsvuku"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvino uyu m’bvunzo, Chinyi mupinduro?",
+        "Ndomurovera Jesu, Ndirege Baraba"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndoregera gororo, Munhu anozvida",
+        "Kanakutizve Jesu, Uyo acharambwa?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mubvunzo’yu mukuru, Ndopindura sei?",
+        "Mutsa unorindira, Uchiri kubvunda!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndozomira seyiko, Kana ndide pasi?",
+        "Kana nemwi maKristu, Murimuzviedzo"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvino uyu mubvunzo, Chinyi mupinduro?",
+        "Ndorovera Baraba, Ndiregere Jesu",
+        "Ndonorovera Baraba Ndichirega Jesu",
+        "Ndonorovera Baraba Ndichirega Jesu"
+      ],
+      "number": 6
+    }
+  ]
+}

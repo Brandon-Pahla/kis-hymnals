@@ -1,0 +1,45 @@
+{
+  "number": 284,
+  "language": "nd",
+  "title": "284 Edlula Amalanga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bakhon’ abane sizungu, Edlula amalanga",
+        "Bakon’ abahluphekayo, Edlula amalanga",
+        "Sibo moyizela-ke Ngendlela yethu yonke",
+        "Okuhle! singakwenza, Edlula amalanga"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Edlula, edlula, edlula, edlula",
+        "Oku hle! Singekwenza Edlula amalanga"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mabu ngabikh’ ubuvila, Edlula amalanga",
+        "Ubuso abukhanye, nge! Edlula amalanga",
+        "Izwi linezinhlupho, Kukhona ukukhala",
+        "Siza yen’ owileyo, Edlula amalanga"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zonk’ izibopho zothanda, Edlula amalanga",
+        "Siya zishiya emuva, Edlula amalanga",
+        "Kodwa imbewu enhle, Esiyihlanyelayo",
+        "Iyo sijabulisa, Edlula amalanga"
+      ],
+      "number": 4
+    }
+  ]
+}

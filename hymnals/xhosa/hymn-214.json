@@ -1,0 +1,51 @@
+{
+  "number": 214,
+  "language": "xh",
+  "title": "214 Undikhathalele Na U-Yesu?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Undikhathalele n’ uYesu, Xa ndityumk’ intliziyo;",
+        "’Mithwal’ inzima, ’Maxhal’ esinda;",
+        "Nendlel’ ihamb’ ibanzima?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ew’ uYes’ uyakhathala, Uyakhathazeka nam;",
+        "Xa ndiphel’ amandla ndingalali,",
+        "U-Yes’ uyakhathala."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Undikhathalele n’ uYesu X’ indlela yam imnyama;",
+        "Kumnyam’ emini, Nasebusuku,",
+        "Angabakufuphi na kum?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Undikhathalele n’ uYesu Xa ndilwa nezilingo;",
+        "Ebuhlungwini, Elusizini,",
+        "Ndizele nazinyembezi?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Undikhathalele n’ uYesu Xa ndifikelwe kukufa;",
+        "Uthin’ uYesu Xa ndihlupheka;",
+        "Angaba uyakhathala?"
+      ],
+      "number": 4
+    }
+  ]
+}

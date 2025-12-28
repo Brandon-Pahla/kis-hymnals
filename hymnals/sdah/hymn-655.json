@@ -1,0 +1,35 @@
+{
+  "number": 655,
+  "language": "en-sdah",
+  "title": "655 Happy the Home",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Happy the home when God is there, And love fills every breast; When one their wish, and one their prayer And one their heavenly rest."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Happy the home where Jesus' name Is sweet to every ear; Where children early lisp His fame, And parents hold Him dear."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Happy the home where prayer is heard, And praise is wont to rise; Where parents love the Sacred Word And all its wisdom prize."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Lord, let us in our homes agree This blessed peace to gain; Unite our hearts in love to Thee, And love to all will reign."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": 200,
+  "language": "guz",
+  "title": "200 'Nsa Ngiya Y'ogosaba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Nsa ngiya y'ogosaba,'Mioyo koyanchire';Twach' ase YesoOmotoria Mosani;Togocha n'okwegena,Ere natorende;Riogo as' omorosu,O mbuya kobao."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ensa engiya,Nsa y'ogosaba,Riogo as'Omorosu,O mbuya kobao."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. .'Nsa ngiya y'ogosaba,'Motoria kar' ang'e;As' amabera abaigw'abana baye;Atotebia tomoe,Ogwechanda gwaito;Riogo as' omorosu,O mbuya kobao."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. .'Nsa ngiya y'ogosaba,Ker' abatemirwe';Bakoretera Yes'obororo bwabo;N'enkoro y'amabera,narusie mochando;Riogo as' omorosu,O mbuya kobao."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. As' Ensa y'ogosaba,Twegenir' as'are;Ebisio toganetie natobinyore;Ase oboikerenu,Tosirie mechando;Riogo as' omorosu,O mbuya kobao."
+      ],
+      "number": 5
+    }
+  ]
+}

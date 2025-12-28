@@ -1,0 +1,42 @@
+{
+  "number": 305,
+  "language": "guz",
+  "title": "305 Bwanchani Mbori Bun'obwa Yeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Bwanchani mbori bun'obwaYeso, Botakoremerwa;Goika toso'ase riichori'Omoremb'o Nyasae."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bwanchani bwa Yeso,Botakorengeka;Iran'as'obwanchani omosiru,Yes'ogosoroire."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Riso ndiri buna eria Yeso,Rikorora are;'Motayayi takoru'as'oborabu,Kogosira."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Riogi ndiri buna eria Yeso,Eriansu risera;Bun'eriogi riensok' ekwongora,'Kero Ki'omorakera."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Nkoro teri buna eya Yeso,Eichir'obwanchani;Mbori boror'enkorekoigwa,Er'atamanyeti."
+      ],
+      "number": 5
+    }
+  ]
+}

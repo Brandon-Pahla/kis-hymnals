@@ -1,0 +1,54 @@
+{
+  "number": 27,
+  "language": "st",
+  "title": "27 Re Tsose Hape",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Re ea u boka Molimo ka Mora,",
+        "Ka Jesu Ea shoeleng ’me A tsohile."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Alleluya Khalalello Alleluya Amen,",
+        "Alleluya Khalalelo, Re tsose hape."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re ea U boka Molimo ka moea,",
+        "Leseli le re bonts’itse ’Moloki."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khalalello ho Konyana ’hlabiloeng,",
+        "Ee e jereng libe tsohle tsa rona."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khalalelo ho Molim O mohau,",
+        "Eo A re rekileng, A ba re tsamaisa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re tsose hape re tlatse lerato,",
+        "Re tsosoe le ka mollo oa leholimo."
+      ],
+      "number": 5
+    }
+  ]
+}

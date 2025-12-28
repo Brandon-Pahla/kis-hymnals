@@ -1,0 +1,42 @@
+{
+  "number": 342,
+  "language": "guz",
+  "title": "342 Omochie Omuya zayoni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Mochi'omuya nore aria ng'umbu,'Makweri taiyo nonya mbororo,Yeso Tata ng'ir'aria ZayoniAs'agiy'omogoko botambeAs'agiy'omogoko botambe,"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Mochi'omuya, (Zayoni)Zayoni n'omochie bw'abachenu;(Zayoni)Tomenye o, (Tomenye)Tobe n'omogok'omonge mono,Yeso Tata ng'ir'aria ZayoniYeso tata ng'ir'aria Zayoni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Abarameny'omochi'o Zayoni,Mbaria babegete 'yanga ndabuYeso ner'orab'omobaso' obo,Botuko mbokoba o naende,Botuko mbokoba o naende."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nkarigereri'omochi'o zayoni,Nkaba n'okogania 'nso'aroro;Yes'ombwat' okoboko OnyimokieErio nsoe omoch' O ZayoniErio nsoe omochi o Zayoni"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yeso mbwate, (koboko)'Koboko nso'omochi'o Zayoni;(Zayoni)Nyimokie nche (Nyimokie)Ng'ikarans'okoboko kwaoYeso Tata ng'ir'aria (Zayoni x2)Yeso Tata ng'ir'aria Zayoni."
+      ],
+      "number": 5
+    }
+  ]
+}

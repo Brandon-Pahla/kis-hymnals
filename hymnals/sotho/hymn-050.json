@@ -1,0 +1,39 @@
+{
+  "number": 50,
+  "language": "st",
+  "title": "50 Lefats’e Le Letle-Letle",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Fats’e le teng le letle-letle, Tumelong le bonoa hojana,",
+        "Ntate O re lebeletse teng, O re lokisetsa litulo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Monateng kapele, re se re tla kopana bohle",
+        "Monateng kapele, re se re tla kopana bohe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re tla rorisa botle bola,Ka lipina tse nyakallatsang,",
+        "Ha re ka ke ra hlokofala, eseng ka baka la phomolo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ho Ntate oa rona holimo, re tla isa pina tsa Pako,",
+        "Ka neo ea hae ea lerato, le matlotlo a khalalelo."
+      ],
+      "number": 4
+    }
+  ]
+}

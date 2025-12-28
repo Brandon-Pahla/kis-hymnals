@@ -1,0 +1,37 @@
+{
+  "number": 226,
+  "language": "st",
+  "title": "226 U Batlile U Lumela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U batlile ho ba tumelong,",
+        "Le ho inkela Eena Kreste,",
+        "Eka motho o re tloha moea tloha,",
+        "Ke tla u bitsa ka nako e ’ngoe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U batlile ho ba tumelong,",
+        "Tlo hona joale se furalle,",
+        "Jesu Oa u mema, mangeloi a teng,",
+        "O oa rapelloa a ke u tle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kotulo e se e fetile,",
+        "Ts’enyeho e teng qetellong, se letho,",
+        "Ho batla feela ha ho thuse letho,",
+        "Sello se bohloko ha u lahliloe."
+      ],
+      "number": 3
+    }
+  ]
+}

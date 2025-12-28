@@ -1,0 +1,39 @@
+{
+  "number": 80,
+  "language": "sw",
+  "title": "80 - Tupe Moto wa Uhai",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Tupe moto wa uhai, uliowaka zamani,",
+        "Uliowaongoza juu, wazee watakatifu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Wapi roho iliyokaa, moyoni mwa Ibrahimu?",
+        "Kadhalika ndugu Paulo, aliwezeshwa na moto."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Kwani neema haina, nguvu siku hizi sawa,",
+        "Kama wakati wa Musa, Ayubu na wa Eliya?"
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Zamani za kale Bwana, kumbuka na kwa rehema,",
+        "Zihuishe roho zetu, kwa Roho Mtakatifu."
+      ]
+    }
+  ]
+}

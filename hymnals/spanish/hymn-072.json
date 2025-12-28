@@ -1,0 +1,55 @@
+{
+  "number": 72,
+  "language": "es",
+  "title": "Fue un milagro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Fue un milagro"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mi Padre omnipotente es;",
+        "negarlo no podré.",
+        "Dios de milagros y poder,",
+        "doquier lo puedo ver."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Fue un milagro que los astros ordenó,",
+        "y este mundo en su sitio instaló.",
+        "Mas cuando me salvó y me redimió",
+        "fue el mayor milagro de su amor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si bien su gloria aquí mostró,",
+        "me cuesta comprender",
+        "las maravillas de su amor,",
+        "su trono y su poder."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La Biblia me revela hoy",
+        "que todo lo creó;",
+        "las aves y la bella flor",
+        "proclaman su amor."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "number": 424,
+  "language": "fr",
+  "title": "Ô toi, mon allégresse",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ô toi, mon allégresse,",
+        "Aimable et doux Sauveur,",
+        "Dans les jours de tristesse,",
+        "Tu consoles mon cœur."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "C'est toi seul que je chante,",
+        "Jésus, mon Rédempteur.",
+        "Oh ! que d'amour je sente",
+        "Pour toi vibrer mon cœur !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Toi qui devins mon frère,",
+        "Sublime Roi des rois,",
+        "Quel autre sur la terre",
+        "Est comparable à toi ?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dans les plus sombres heures,",
+        "Quand mon ciel devient noir,",
+        "Ô Jésus, tu demeures",
+        "Pour moi le seul espoir."
+      ],
+      "number": 4
+    }
+  ]
+}

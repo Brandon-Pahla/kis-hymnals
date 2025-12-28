@@ -1,0 +1,47 @@
+{
+  "number": 166,
+  "language": "tw",
+  "title": "W'ra Kristo Asɔre Nnɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "W'ra Kristo asɔre nnɛ, Haleluya!",
+        "Nnipa ne abɔfo nka: Haleluya!",
+        "Momma mō anigye nkɔ s'ro, Haleluya!",
+        "S'ro nto 'sase nnye so, Haleluya!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn 'nuonyam Hen tč ase bio, Haleluya!",
+        "Owu, wo nwowɔe wɔ he? Haleluya!",
+        "Owui de gyee yɛn kra nkwa, Haleluya!",
+        "Asaman nkonim wɔ he? Haleluya!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wawie dɔ nkwagye 'dwuma, Haleluya!",
+        "Wako ɔko adi nim, Haleluya!",
+        "Owu dii nkogu N'anim, Haleluya!",
+        "Kristo abue s'ro apon', Haleluya!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yenam Kristo 'nammɔn so, Haleluya!",
+        "Yedi yɛn Sahen' akyi, Haleluya!",
+        "Yɛasɔre te sɛ ɔno, Haleluya!",
+        "'Sɛnnua ne s'ro yɛ yɛn de, Haleluya!"
+      ],
+      "number": 4
+    }
+  ]
+}

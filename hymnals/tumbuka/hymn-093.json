@@ -1,0 +1,55 @@
+{
+  "number": 93,
+  "language": "tum",
+  "title": " 93 Mungaluwanga Sabata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 93 Mungaluwanga Sabata",
+        "DON'T FORGET THE SABBATH"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mungaluwanga Sabata la Yehova,",
+        "Ndi zuwa lakuzirwa la kuruska ghose,",
+        "Zuwa la kupumula, la chisangulusko,",
+        "Kuwala kwake kukufumira kuchanya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tikondwenge pakwiza zuwa La Sabata,",
+        "Tikondwenge pakwiza zuwa La Sabata."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Sunganinge 'mwe Sabata mu mchindike,",
+        "yo yekha wakati, \"Ine ndine nthowa,",
+        "Para tikumrondezga, muponoski withu,",
+        "Wati watipe maji gha moyo wandanda."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Tim'chindike Fumu pa zuwa lituwa,",
+        "Yesu wakutitemwa, ndiyo m'bwezi withu,",
+        "Mponoski wa uchizi, nakutemwa kose,",
+        "Mukapangana kuti mkhalenge nase swi!"
+      ],
+      "number": 4
+    }
+  ]
+}

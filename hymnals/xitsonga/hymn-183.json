@@ -1,0 +1,23 @@
+{
+  "number": 183,
+  "language": "ts",
+  "title": "183. XITSHEMBISO KA VO VAPFUMERI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SWEET PROMISE IS GIVEN TO ALL",
+        "1. Xitshembhiso Ka Vo Vapfumeri, ‘Vonani Ndza Vuya Ku Teka Vanga’;",
+        "Tiyiselani Hambi Swi Tika, Mi Nga Khudzeheri, Langutelani.",
+        "CHORUS",
+        "‘Tiyiselani’ Mi Tshembhisiwe, Ku Nyikiwa Wo Mfumo Wa N’wina;",
+        "Hari, Vuhosi Swi Mi Rindzele, Mi Nga Lahli Ntshembho, Ndza Vuya Sweswi.",
+        "2. Hi Ta Khongela, Hi Nga Rhuteli, U Ta Fika Bya Khamba Na Vusiku;",
+        "Siku Ro Vuya, A Ri Tiveki; Rona Ri Kusuhi, Tiyiselani.",
+        "3. Ntshembho Wa Hina Ematsalweni, Yesu U Ta Vuya Ku Kwetsimeni;",
+        "Wu Na Ntiyiso Wo Hetiseka, Ndzi Ta Vuya Sweswi, Tiyiselani."
+      ],
+      "number": 1
+    }
+  ]
+}

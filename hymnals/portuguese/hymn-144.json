@@ -1,0 +1,57 @@
+{
+  "number": 144,
+  "language": "pt",
+  "title": "O Romper da Alva",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### O Romper da Alva"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Stá perto o dia de Cristo vir,",
+        "Eu ouço proclamar.",
+        "A alva já não tardará,",
+        "Eis que vem muito próximo o alvorar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Já não pode a alva demorar.",
+        "Já não pode a alva demorar.",
+        "A noite está a fugir,",
+        "O dia a entreluzir;",
+        "Já não pode a alva demorar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sinais preditos, da Lua e Sol,",
+        "Em terra, céu e mar,",
+        "Proclamam o breve arrebol,",
+        "Sim, da vinda de Cristo o aproximar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "É vinda a hora de despertar,",
+        "Deixando o orgulho vil.",
+        "Fazendo sempre a luz brilhar,",
+        "Conduzindo os perdidos ao redil."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 283,
+  "language": "fr",
+  "title": "Le Seigneur est pour toujours",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Le Seigneur est, pour toujours,",
+        "Mon rocher et mon bonheur,",
+        "Et sera Dieu à jamais",
+        "Par son grand amour."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Son sang a été versé",
+        "Sur mon cœur, si sale et noir,",
+        "Et il m'a rendu si pur :",
+        "Oh ! quelle joie !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Saint-Esprit, viens sur nous tous,",
+        "Pour nous préparer au ciel",
+        "Où nous verrons la Lumière.",
+        "Seigneur, viens bientôt !"
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 105,
+  "language": "st",
+  "title": "105  O Na Le Ho Lokolla.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        ".U hoeletse ka matla eona tokoloho eo,",
+        "Ho lokolla bona ba nang le hlompho;",
+        "Mollong ho lahleloe bona ba sitiloeng,",
+        "Jesu O tla lokolla ba tlang ho Eena"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O tseba ho u lokolla,",
+        "O na le pholoso,",
+        "Uena he ngoana oeso,",
+        "U mo lumele"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na a ka lokolla—U bolela ’nete?",
+        "Na a teng le matla ao a ka nthusang?",
+        "Mpolelle ka Kreste Ea thakhisitsoeng,",
+        "Na a ka ntokolla le ho Satane?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na a ka lokolla! U tiee u be matla,",
+        "U se ke ua ts’aba its’ooarelle ka Jesu;",
+        "U se ke ua ts’aba its’oarlle ka Jesu,",
+        "Leleka pelaelo ema ho Eena."
+      ],
+      "number": 3
+    }
+  ]
+}

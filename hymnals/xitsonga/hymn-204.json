@@ -1,0 +1,30 @@
+{
+  "number": 204,
+  "language": "ts",
+  "title": "204. TIKWENI RA MATIKO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WELCOME! WONDERER, WELCOME!",
+        "1. Tikwen Ra Matiko,",
+        "U Yeke Kona; Ndza Ku Vitana, “N’wananga Vuya!”",
+        "CHORUS",
+        "Mutsendzeleki Tana, Vuya Kaya; U Ta Amukeriwa, Vuya Kaya.",
+        "2. Tikwen Ra Ndlala Evuswetini; Vuya Malwandlen,",
+        "“N’wananga Vuya!”",
+        "3. Siya Madzolonga, Nhlomulo, Ntseno; Ku Vabya Moyen,",
+        "“N’wananga Vuya!”",
+        "4. Nyangwa Yi Pfuriwe,",
+        "Hi Nsovo Vuya; Wa Ha Rhambiwa, “N’wananga Vuya!”",
+        "5. U Tsandzekile,",
+        "Swi Ringanile; U Rivalelwe “N’wananga Vuya!”",
+        "6. Swakudya Hi Leswi,",
+        "Tana U Ta Dya; Swa Hi Ringana, “N’wananga Vuya!”",
+        "7. U Le Vuswetini, Maxangu Ntsena; Ndza Kamukela,",
+        "“N’wananga Vuya!”"
+      ],
+      "number": 1
+    }
+  ]
+}

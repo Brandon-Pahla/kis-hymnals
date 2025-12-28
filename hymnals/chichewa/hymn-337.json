@@ -1,0 +1,53 @@
+{
+  "number": 337,
+  "language": "ny",
+  "title": "337 - Pamene Ndizaukanso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHEN I SHALL AWAKE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Pamene ndidzaukanso tsikulo, Komwe kulibe mdima konse bi.",
+        "Ee! Ulemerero ’dzawaliramo, Ndidzakwanitsidwatu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndidzakwanitsidwatu, Ndidzakwanitsidwatu",
+        "Pamene ndidzaukanso tsikulo, Ndidzakwanitsidwatu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Pamene ndidzamuona Iyeyo, Nandilandira mokondweratu,",
+        "Pakumva cisomo ca Ambuyeyo, Ndidzakwanitsidwatu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Poklomana nawo okondedwawo Omwe mwa imfa nandisiya ’ne,",
+        "Pomwepo ineyo ndidzamtama ’Ye, Ndidzakwanitsidwatu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndidzamuona Yesu posacedwatu, Iye amene nandifera ’ne",
+        "Ndidzamuyimbira kosalekadi, Ndidzakwanitsidwatu"
+      ],
+      "number": 5
+    }
+  ]
+}

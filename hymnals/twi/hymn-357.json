@@ -1,0 +1,40 @@
+{
+  "number": 357,
+  "language": "tw",
+  "title": "Bɛyɛ 'Dwuma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bɛyɛ 'dwuma,",
+        "Hena gyina hɔ kwa 'twa dwuma nom,",
+        "B're a awi rehim 'fa baabiara?",
+        "Owura no se N'akoa biara sɛ,",
+        "\\\"Kɔ 'dwuma nnɛ\\\"."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bɛyɛ 'dwuma,",
+        "Gye s'ro frɛ a 'bɔfo ntum' no so;",
+        "Fa 'sɛmpa dɛw no ma mmofra, mpanyin;",
+        "Hwɛ w'adagye yie, b're retwam",
+        "hyewhyew 'Nadwo rebɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bɛyɛ 'dwuma,",
+        "ɔhome b're nni hɔ kosi 'witɔe,",
+        "B're a sunsuma bɛyɛ atenten",
+        "Ama towia de anigye ateam",
+        "Sɛ: Mo ne yɔ!"
+      ],
+      "number": 3
+    }
+  ]
+}

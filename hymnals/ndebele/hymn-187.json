@@ -1,0 +1,37 @@
+{
+  "number": 187,
+  "language": "nd",
+  "title": "187 Yokwehlukana Ingoma Yethu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Msindisi, futhi si hlabelela,",
+        "Ingoma yethu yokwehlukana;",
+        "Si bheke ukubusiswa nguWe,",
+        "Izwi lokuthula ma si phiwe"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Size si goduke nokuthula;",
+        "Nanxa si vuka, nanxa si lala;",
+        "Lind’ im’lomo nenhliziyo zethu,",
+        "Nxa se si zophuma kuyo lendlu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si ph’ukuthula ekuphileni,",
+        "U si duduze ekukhaleni,",
+        "Lapho o thi kithi, ku phelile!",
+        "Nkosi, si bize size si phum’le"
+      ],
+      "number": 3
+    }
+  ]
+}

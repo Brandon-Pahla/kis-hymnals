@@ -1,0 +1,56 @@
+{
+  "number": 769,
+  "language": "tw",
+  "title": "NG19 Oyame Yεda Woase",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Onyame yεda W’ase,",
+        "Woama mfenhyia pii ato yεn;",
+        "Ghana S.D.A. Asafo,",
+        "Momma yεn nyinaa mmɔ ‘se."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Haleluya, mommɔ se,",
+        "Ose ye, aye aye.",
+        "Haleluya, Mommɔ se,",
+        "Akwanhwεfo mommɔ se"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Onyame yeyi W’ayε,",
+        "Woama ‘somwoe pii aka yεn.",
+        "W’asafo anya nkɔso pii,",
+        "Ama Wo mma ‘di nkonim."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Onyame yεbεsom Wo,",
+        "Wotumi abɔ yεn ho ban.",
+        "Yεbεhim nkonimdi frankaa,",
+        "Wɔ sika mpoano hɔ bi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Onyame yεretwεn Wo,",
+        "Fa W’anuonyam kata yεn so",
+        "Fa Wo honhom no hyε yεn den,",
+        "Kosi sε Kristo bepue."
+      ],
+      "number": 4
+    }
+  ]
+}

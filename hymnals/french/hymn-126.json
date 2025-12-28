@@ -1,0 +1,37 @@
+{
+  "number": 126,
+  "language": "fr",
+  "title": "Bénissons Dieu, notre roi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bénissons Dieu, notre roi, le puissant roi de gloire !",
+        "De ses bienfaits incessants, célébrons la mémoire !",
+        "Et qu’en tous lieux, sur la terre et dans les cieux,",
+        "Montent nos chants de victoire !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bénissons Dieu, notre roi, qui toujours fait justice,",
+        "À l’orgueilleux redoutable, au plus humble propice !",
+        "Riche en bonté, pour ses enfants révoltés",
+        "Son amour est sans limite."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bénissons Dieu, notre roi, célébrons ses louanges !",
+        "Car il demeure à jamais quand tout passe et tout change.",
+        "Il nous entend : adressons-lui notre chant,",
+        "Unis aux chœurs de ses anges !"
+      ],
+      "number": 3
+    }
+  ]
+}

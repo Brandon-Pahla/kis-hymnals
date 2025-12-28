@@ -1,0 +1,47 @@
+{
+  "number": 334,
+  "language": "xh",
+  "title": "334 Yiva Nkosi Ye-Sabatha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yiva, Nkosi ye-Sabatha, Ngale mini yaKho,",
+        "Yiva ukucela kwethu Kuyo lendlu yaKho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sidumisa, sibulela, Umsebenzi waKho;",
+        "Ufanele indumiso Yabathengwa baKho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I-Sabatha zangaphantsi, Sisathanda zona;",
+        "Noko leyo yaphezulu, Sinqwenela yona."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngoko phulaphula, Nkosi, Ukucela kwethu;",
+        "Uzilungisele yona Intliziyo zethu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sibe ngabakukhonzayo, apha emhlabeni;",
+        "Siputhum’ uyolo lwayo, apho ezulwini."
+      ],
+      "number": 5
+    }
+  ]
+}

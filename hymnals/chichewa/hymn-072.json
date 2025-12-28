@@ -1,0 +1,28 @@
+{
+  "number": 72,
+  "language": "ny",
+  "title": "72 - Tidzaima Bwanji Pa Chiweruzo?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE JUDGMENT HAS SET"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Chiweruziro ndithu chayambidwa, Mabukhu atsegulidwa;",
+        "Ndipo ntchito iri yonseyo M’lungu adzaweruza.",
+        "CHORUS:",
+        "Kodi ife tidzatani Pa tsiku lalikululo?",
+        "Kodi tidzafika kwa Iye machimo atatsukidwa?",
+        "2. Ayamba kuweruza akufa, Msanga aweruza a moyo,",
+        "Mwa zolembedwa m’mabukhu, Adzaweruza onsewo.",
+        "3. Kodi tidzatani pa nthawiyo, Povumbulutsidwa machimo!",
+        "Podzaweruzidwa mlandu, Kodi tidzaloledwatu?"
+      ]
+    }
+  ]
+}

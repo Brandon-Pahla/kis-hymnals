@@ -1,0 +1,47 @@
+{
+  "number": 176,
+  "language": "en",
+  "title": "176 Blessed Hope.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "There is a blessed hope,",
+        "More precious and more bright;",
+        "Than all the joy-less mockery,",
+        "The world esteems delight."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "There is a lovely star,",
+        "That lights the darkest gloom,",
+        "And sheds a peaceful radiance o’re,",
+        "The prospects of the tomb."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "There is a cheering voice,",
+        "That lifts the soul above;",
+        "Dispels the painful, anxious doubt,",
+        "And whispers, “God is love.”"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "That voice from Calvary’s height,",
+        "Proclaims the soul forgiv’n;",
+        "That star is revelation’s light,",
+        "That hope, the of heav’n."
+      ],
+      "number": 4
+    }
+  ]
+}

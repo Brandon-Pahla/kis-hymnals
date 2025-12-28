@@ -1,0 +1,46 @@
+{
+  "number": 285,
+  "language": "ve",
+  "title": "285. Hu Na Fhethu Ha U Awela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:495",
+        "AH:252"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Hu na vhuawelo vhunzhi, tsini na Mudzimu;",
+        "Tshivhi a tshi nga do dina tsini na Mudzimu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu Mutshidzi washu, O bva ha Mudzimu;",
+        "Ri tike phanda hau, mbiluni ya Mudzimu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Phumudzo i difhesaho, tsini na Mudzimu;",
+        "Hu re na Mutshidzi washu, tsini na Mudzimu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi fhethu ha mbofholowo, tshi ni na Mudzimu;",
+        "Dakaloni na mulalo tsini na Mudzimu."
+      ],
+      "number": 4
+    }
+  ]
+}

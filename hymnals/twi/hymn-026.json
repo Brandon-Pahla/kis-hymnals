@@ -1,0 +1,49 @@
+{
+  "number": 26,
+  "language": "tw",
+  "title": "Monkamfo Aw'rade, S'rofo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Monkamfo Aw'rade, s'rofo;",
+        "Munyi N'ayɛ, s'ro 'bɔfo.",
+        "'Wia ne 'sram nnė 'h'rusi N'anim,",
+        "Munyi N'ayɛ, hann ns'romma,",
+        "Munyi N'ayɛ na Wakasa;",
+        "Nsase horow tie Ne nne;",
+        "Wahyɛ mmara a engu da",
+        "Ama wɔn akwankyerɛ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Munyi N'ayɛ N'anuonyam nti,",
+        "Ne bɔhyɛ nni huammɔ da;",
+        "N'ahotefo yɛ nkonim'fo;",
+        "Bɔne ne wu rennyina,",
+        "Munyi yɛn Gyefo no ayɛ!",
+        "S'rofo nky'rɛ Ne mmaninyɛ;",
+        "S'ro, 'sase ne abɔde ny'naa;",
+        "Momma Ne din so kɛse."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔsom, 'nidi, 'nuonyam,nhyira,",
+        "W'ra, 'yi ne yɛn akyɛde;",
+        "Mmofra ne mpanyin yi W'ayɛ",
+        "To anigye nnwom ky'rɛ Wo;",
+        "S'ro 'hotefo ny'naa kamfo Wo;",
+        "Yɛde yɛn nne bɛtom bi;",
+        "Sɛnea 'bɔfo som W'anim no,",
+        "Yɛn nso beyi W'ayɛ ha."
+      ],
+      "number": 3
+    }
+  ]
+}

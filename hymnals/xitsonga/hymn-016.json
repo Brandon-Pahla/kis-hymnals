@@ -1,0 +1,23 @@
+{
+  "number": 16,
+  "language": "ts",
+  "title": "16. NDZI HLAMBILE MANDLA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I WASHED MY HANDS",
+        "1.Ndzi Hlambile Mandla, Ya Basile Swinene;",
+        "Ndzima Nyika Yesu, Kuva Switirho Swakwe.",
+        "CHORUS",
+        "Milenge Yanga, Ti Voneleni;",
+        "Ndzi Yiseni Hinkwaswo; Ku Nga Na Yesu.",
+        "2. Ndzi Byele Tindleve, Ku Yingisa Swinene,",
+        "Eka Leswinene; Hinkwaswo Swa Mavoko.",
+        "3. Ndzi Langutisile, Swiendlo Swa Mavoko;",
+        "Kuma Susa Khombyen, Hi Ku Rhandza Ka Yesu."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "number": 324,
+  "language": "fr",
+  "title": "nD'un ferme pas",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "D'un ferme pas je veux monter",
+        "Jusqu'au sommet de mon sentier;",
+        "Je t'en supplie, ô Dieu de paix,",
+        "Fais-moi gravir tes hauts sommets."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Élève-moi vers les hauteurs",
+        "De ton pays, divin Sauveur,",
+        "Du ciel dévoile les attraits,",
+        "Fais-moi gravir tes hauts sommets."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je veux partir, mon cœur est las",
+        "De tant d'horreur, de tant d'effroi !",
+        "Que l'on préfère les marais,",
+        "Je rêve, ô Dieu, des hauts sommets."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je n'aime plus vivre ici-bas,",
+        "Satan détruit ma paix, ma joie;",
+        "J'entends, ravi, des sons parfaits :",
+        "Les chants heureux des hauts sommets."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je veux fouler le sol béni,",
+        "Entrer, Seigneur, dans ton pays;",
+        "Jouir, sans fin, de tes bienfaits,",
+        "Conduis-moi vers tes hauts sommets."
+      ],
+      "number": 5
+    }
+  ]
+}

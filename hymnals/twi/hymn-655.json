@@ -1,0 +1,47 @@
+{
+  "number": 655,
+  "language": "tw",
+  "title": "Fie a Nyame Wom Wɔ 'Nigye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Fie a Nyame wom wɔ 'nigye,",
+        "Na dɔ ahyɛ hɔ ma,",
+        "B're a wɔn pɛ, wɔn mpaebɔ ne",
+        "Wɔn s'ro home yɛ k'ro."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fie a Yesu din yɛ dɛ wom',",
+        "Wɔ anigye kɛse,",
+        "Nea mmofra bɔ Ne din daa na",
+        "Awofo di No ni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fie a mpaebɔ ne 'yeyi wom',",
+        "Wɔ anigye kɛse,",
+        "Nea awofo dɔ Kyerɛwsɛm",
+        "Ne 'mu nyansa ny'naa no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, ma yɛn ntease yɛn fie na",
+        "Yɛanya saa 'somdwoe yi;",
+        "Ka yɛn koma bom Wo dɔ mu,",
+        "Na yɛadɔ nnipa ny'naa."
+      ],
+      "number": 4
+    }
+  ]
+}

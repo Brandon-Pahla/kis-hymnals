@@ -1,0 +1,45 @@
+{
+  "number": 322,
+  "language": "tum",
+  "title": " 322 Mazgu Ngakuyuyuka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 322 Mazgu Ngakuyuyuka",
+        "Words Are Things Of Little Cost"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mazgu ngakuyuyuka, Tikukamba luwiro,",
+        "Ndipo tikughaluwa kweni pakweruzgika,",
+        "Ghamtiwira kaboni pacheruzgo kuchanya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ise tikuyowoya mwambula kupwerera,",
+        "Mazgu ghakujikuzga ghakubisa kwananga,",
+        "Na mazgu ghakukwiya kusunjizga wanyithu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Fumu mutipe ise nkhongono kulindizga,",
+        "Mtirongozgenge Fumu tingananganga m'mazgu,",
+        "Tizakamwimbirani sumu kumtamikani."
+      ],
+      "number": 4
+    }
+  ]
+}

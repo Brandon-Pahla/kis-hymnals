@@ -1,0 +1,25 @@
+{
+  "number": 65,
+  "language": "ts",
+  "title": "65. SWINENE KU TSHEMBA YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TIS SO SWEET TO TRUST IN JESUS",
+        "1. Swinene Ku Tshemba Yesu, Na Ku Rhandza Ka Yena,",
+        "Na Switshembiso Swa Yena, Loko A Hi Lerisa.",
+        "CHORUS",
+        "Yesu Yesu Ndza N’wi Tshemba, A Nga Hluri Hi Nchumu, Yesu Yesu Wo Kwetsima,",
+        "I Ntsako Ku N’wi Tshemba.",
+        "2. Swa Saseka Ku N’wi Tshemba, Ku Tshemba Ngati Yakwe,",
+        "Ntsena Loko Hi Pfumela, Wa Kota Ku Hi Hlantswa.",
+        "3. Swa Nandziha Ku N’wi Tshemba, Ku Suka Vudyohweni,",
+        "Ku Amukela Ka Yesu, Vutomi Na Ku Rhula.",
+        "4. Ndzi Tsakile Ku N’wi Tshemba, Yesu I Nakulorhi,",
+        "Ndza Swi Tiva Una Mina, Hi Masiku Hinkwawo."
+      ],
+      "number": 1
+    }
+  ]
+}

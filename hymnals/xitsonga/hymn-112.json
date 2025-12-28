@@ -1,0 +1,22 @@
+{
+  "number": 112,
+  "language": "ts",
+  "title": "112. KU NA VUTOMI EXIHAMBANWENI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LIFE IN A LOOK",
+        "1. Kuna Vutomi Exihambanweni Yesu U Ri Ndzi Langute;",
+        "Swa Yo Misava I Swa Hava, Vutomi Byi Kumeka Ka Yesu.",
+        "CHORUS",
+        "Languta, Xihambanwen, U Ta Kuma Vutomi; Byi Nyikiwa Hi Yesu, Ka Loya Byi Lavaka.",
+        "2. Siku Ndzi Nga Langutisa Yesu, Yesu U Swi Tsakerile;",
+        "Hambi Miringo Yi Nga Fika, Ndzi Kuma Ntamu Xihambanwen.",
+        "3. Ndzi Ta Xi Languta Hi Masiku, Ndzi Hlayisa Xitshembiso;",
+        "La Tshembaka Ntamu Wa Yesu, A Nge Hluriwi Hi Ye Muringi."
+      ],
+      "number": 1
+    }
+  ]
+}

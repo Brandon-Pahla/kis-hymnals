@@ -1,0 +1,54 @@
+{
+  "number": 190,
+  "language": "ve",
+  "title": "190. Dzina la Vhudi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Dzhiani dzina la Yesu, ndi nwana wa matungu,",
+        "Ndi lone la u fhumudza, dzhia tshimbila nalo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dzina li funwaho, fulufhelo la shango,",
+        "Dzina li funwaho, fulufhelo la shango."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. li dzhie lini na lini, tshone tshitangu tshau,",
+        "Musi milingo i tshi da, mu vhidzelele Yesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Dzina la vhudi la Yesu, li takadza muyani,",
+        "Musi ri tshi tanganedzwa, ri do imba dzingosha."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ri tshi gwadamela Yesu, fhasi ha nayo dzawe,",
+        "Kha Murena wa marena, ro dzula misi yothe."
+      ],
+      "number": 5
+    }
+  ]
+}

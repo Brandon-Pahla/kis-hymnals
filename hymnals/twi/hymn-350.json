@@ -1,0 +1,47 @@
+{
+  "number": 350,
+  "language": "tw",
+  "title": "Nɔhyira Ne Hamá a",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nɔhyira ne hamá a",
+        "Ͻka yɛn bom Kristom;",
+        "Ma adasa ayɔnkofa",
+        "Yɛ sɛ ɔs'ro de no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yehwie yɛn mpaebɔ gu",
+        "Agya 'henguan' anim;",
+        "Yɛn suro, yɛn anidaso,",
+        "Ne yɛn aw'rɛkyekye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yegyam yɛn ho, yɛn ho,",
+        "Yɛsoa yɛn ho nnesoa;",
+        "Yɛtaa kyi aw'rɛhow nusu",
+        "De gyam yɛn ho, yɛn ho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ yedi ntetemų a,",
+        "Ͻyɛ yɛn mu yaw sɛ;",
+        "Nanso yɛwɔ anidaso",
+        "Sɛ yebehyia mu bio."
+      ],
+      "number": 4
+    }
+  ]
+}

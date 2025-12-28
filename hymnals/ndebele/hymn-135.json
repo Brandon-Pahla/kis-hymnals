@@ -1,0 +1,47 @@
+{
+  "number": 135,
+  "language": "nd",
+  "title": "135 Ngi Kutanda Ngcono Nkosi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi kuthanda ngcono, Nkosi, Kunomhlaba wonke;",
+        "Loku ungiph’ ukuthula Kungechithwe lutho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akukashiwo kwenele, Ngothand’ olunjeya!",
+        "Akukashiwo kwenele, Ngegazi leliya!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngiyazi useduzane Kunawo lomhlaba.",
+        "Kuhl’ ukucabanga, naWe, Kunay’iph’ ingoma."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wen’ ungijabulisise Ma ngi thab’ impela.",
+        "Ngaphandle kothando lwAkho Mina ngi yadana."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Msindisi wam’ oligugu, Ng’oba njani kuWe!",
+        "Uma lendlela iyinhle; Nxa ngi hamba naWe!"
+      ],
+      "number": 5
+    }
+  ]
+}

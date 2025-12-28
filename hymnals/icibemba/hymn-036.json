@@ -1,0 +1,29 @@
+{
+  "number": 36,
+  "language": "bem",
+  "title": "36 - NDEMUMONA IMWE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "MY FAITH LOOKS UP TO THEE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndemumona Imwe, Muli pa Kalfali,",
+        "Mwana Lesa; Mumfwe shiwi lyandi. Mufumye ifibi,",
+        "Ndefwaya pe na pe. Kuba wenu.",
+        "2. Peleni cikuku, Mukosho ‘mutima,",
+        "Ukubomba; Pantu mwamfwilile, Ndefwaya kutemwa,",
+        "No kubomba 'lelo Ne nshiku pe.",
+        "3. Lintu ndi mu calo, Yafula macusho,",
+        "Mulensunga; Mfifi 'be kasuba, Mufumye bulanda,",
+        "Lelo ne nshiku pe, Ni 'ne wenu"
+      ],
+      "number": 2
+    }
+  ]
+}

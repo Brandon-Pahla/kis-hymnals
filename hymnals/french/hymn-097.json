@@ -1,0 +1,49 @@
+{
+  "number": 97,
+  "language": "fr",
+  "title": "La trompette a retenti",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "La trompette a retenti",
+        "Écoutez, écoutez,",
+        "Du ciel résonne ce cri :",
+        "Le Seigneur revient!",
+        "Oh! Toi qui sommeilles",
+        "Écoutez, écoutez,",
+        "Viens et te réveille:",
+        "Le Seigneur revient!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Entendez-vous le clairon?",
+        "Écoutez, écoutez,",
+        "L'Épouse en connaît le son :",
+        "Jésus vient bientôt!",
+        "Et, dans l'allégresse,",
+        "Écoutez, écoutez,",
+        "Son coeur dit sans cesse :",
+        "Jésus vient bientôt!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La trompette retentit",
+        "Écoutez, écoutez,",
+        "Levez-vous, il est minuit,",
+        "Voici, l'Époux vient!",
+        "Au banquet de fête,",
+        "Écoutez, écoutez,",
+        "Que chacun s'apprête :",
+        "Voici, l'Époux vient!"
+      ],
+      "number": 3
+    }
+  ]
+}

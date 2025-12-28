@@ -1,0 +1,63 @@
+{
+  "number": 484,
+  "language": "fr",
+  "title": "Saint envoyé du Père",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Saint envoyé du Père,",
+        "Comment te recevoir,",
+        "Désiré de la terre,",
+        "Son salut, son espoir?",
+        "Dans mon âme ravie",
+        "Viens resplendir, Seigneur,",
+        "Et faire de ma vie",
+        "Un hymne à ton honneur."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "J'étais sans espérance,",
+        "Le ciel m'était fermé !",
+        "J'errais dans la souffrance",
+        "De remords consumé;",
+        "Mais dans ma sombre voie",
+        "Tu m'apparais, Seigneur !",
+        "Une ineffable joie",
+        "Succède à ma douleur."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "C'est ta seule tendresse",
+        "Qui dirige tes pas",
+        "Vers l'âme pécheresse",
+        "Qui gémit ici-bas.",
+        "Touché de sa misère,",
+        "Tu viens et dans ce jour",
+        "Tu quittes pour la terre",
+        "Ton glorieux séjour."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bannis l'inquiétude,",
+        "Pauvre cœur désolé !",
+        "Dans sa sollicitude,",
+        "Jésus t'a consolé.",
+        "Tu ne peux rien toi-même;",
+        "Remets ton avenir",
+        "À ce Sauveur qui t'aime",
+        "Et qui veut te bénir."
+      ],
+      "number": 4
+    }
+  ]
+}

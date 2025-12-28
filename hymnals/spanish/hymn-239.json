@@ -1,0 +1,65 @@
+{
+  "number": 239,
+  "language": "es",
+  "title": "De Dios vagaba lejos yo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### De Dios vagaba lejos yo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De Dios vagaba lejos yo,",
+        "vuelvo hoy a ti;",
+        "por sendas donde el mal reinó,",
+        "vuelvo hoy a ti."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Ya no más, oh Señor,",
+        "voy errando así;",
+        "a los brazos de tu amor,",
+        "Cristo, vuelvo, oh sí."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cansado de pecar estoy,",
+        "vuelvo hoy a ti;",
+        "en ti espero desde hoy,",
+        "vuelvo hoy a ti."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Confío solo en esto yo,",
+        "vuelvo hoy a ti:",
+        "en que Jesús por mí murió;",
+        "vuelvo hoy a ti."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Limpiarme puedes, yo lo sé,",
+        "vuelvo hoy a ti;",
+        "pues, en tu sangre lávame,",
+        "vuelvo hoy a ti."
+      ],
+      "number": 6
+    }
+  ]
+}

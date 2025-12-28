@@ -1,0 +1,24 @@
+{
+  "number": 20,
+  "language": "es",
+  "title": "A Dios, el Padre celestial",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A Dios, el Padre celestial"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Dios, el Padre celestial;",
+        "al Hijo, nuestro Redentor;",
+        "al eternal Consolador,",
+        "unidos, todos alabad. Amén."
+      ],
+      "number": 2
+    }
+  ]
+}

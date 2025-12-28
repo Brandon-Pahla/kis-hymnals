@@ -1,0 +1,57 @@
+{
+  "number": 263,
+  "language": "sn",
+  "title": "263 Unzai Zvegumi Zvese Mudura",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Inzva manzvi ematsamba ekare, Unzai zvegumi zvese mudura",
+        "Iva nechitsidzo chisingaperi, Chitsidzo chakecho Mwari"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unzai zvegumi zvose m’dura",
+        "Mundiedze, ati Jehova",
+        "Ndinomupa zvikomborero",
+        "Hauna nzvimbo yekuzvigashira"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unoda kuziva simba remudzimu, Unzai zvegumi zvese mudura",
+        "Nekunzwana naye nguva nenguva, Kukupa zvikomborero"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chinyi chapatsana nemwi naMwari? Unzai zvegumi zvese mudura",
+        "Zviunzei munzira inodikanwa, Adurire zvikomborero"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvipire mwoyo kuna Tenzi Mambo, Wopa zvegumi zvese mudura",
+        "Simbirira kune zvitsidzo zvake, Umupe nemwoyo wose"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngaanzvikwe maungira erwiyo, Tichiunza zvegumi mudura",
+        "Nerufaro Halelujah toimba, Totenda zvikomborero"
+      ],
+      "number": 6
+    }
+  ]
+}

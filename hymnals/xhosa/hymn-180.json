@@ -1,0 +1,38 @@
+{
+  "number": 180,
+  "language": "xh",
+  "title": "180 I-Yure Asiyazi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nge-yur’ esingayaz’ i-Nkosi yovela, Oko sikuxelelwa yimiqondiso,",
+        "Ukufika kwaKhe liding’ elimnandi, I-yure asiyaz’."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Uyeza, masibe silungile; Uyeza, haleluya! Haleluya!",
+        "Uyeza namafu ozuko luka-Yise,--I-yure asiya."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Izilumko zosindiso zinokhanyo, Nants’ inyaniso encwadini engcwele,",
+        "Zonk’ iziprofetho zalath’ isiphelo,--I-yure asiyaz’."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Solinda sineziban’ ezivuthayo, Sosebenza ide ibuye i-Nkosi,",
+        "Socula sikhangela imiqondiso.--I-yure asiyaz’."
+      ],
+      "number": 3
+    }
+  ]
+}

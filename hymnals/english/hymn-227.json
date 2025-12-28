@@ -1,0 +1,48 @@
+{
+  "number": 227,
+  "language": "en",
+  "title": "227 At The Cross.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Alas! And did my Saviour bleed,",
+        "And did my Sovereign die?",
+        "Would he devote that sacred head,",
+        "For such a worm as I?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "At the cross, at the cross,",
+        "where I first saw the light,",
+        "And the burden of my heart",
+        "rolled away (rolled away)",
+        "It was there by faith I received my sight,",
+        "And now I am happy all the way."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Was it for deeds that I have done,",
+        "He groaned upon the tree?",
+        "Amazing pity, grace unknown,",
+        "And love beyond degree!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "But drops of grief can ne’er repay,",
+        "The debt of love I owe;",
+        "Here, Lord, I give myself away,",
+        "‘Tis all that I can do!"
+      ],
+      "number": 3
+    }
+  ]
+}

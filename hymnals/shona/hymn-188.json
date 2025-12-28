@@ -1,0 +1,34 @@
+{
+  "number": 188,
+  "language": "sn",
+  "title": "188 Kana Ndirimutadzi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kana ndiri mutadzi, Jesu wakandifira,",
+        "Wakafa kuti ini ndichagara kudenga.",
+        "Senhawani pamuti, ndinopona naJesu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A, rudo-rwo rwaJesu, runopinda pamsoro.",
+        "Runodzama senyanza, runogara narini.",
+        "Rudo rwakandi-ona apo ndiri-kusada."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana ndirimutadzi, ndirikumuda Jesu,",
+        "Kuda kwangu aziwa, zve neurombo hwangu.",
+        "Ne-upenyu ne-mwoyo Jesu anochengeta."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 754,
+  "language": "tw",
+  "title": "NG4 Soε Me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kanaan kwan so fa yε den,",
+        "Akwanside pii wɔ mu;",
+        "Adesoa biara ma ‘hok'rε,",
+        "Enti soεm' adesoa yi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Soε me Agyenkwa soε me",
+        "(Bɔne adsoam' yε d'ru)",
+        "Bɔne adesoa bi so me",
+        "Mεyε dεn mafa kwan yi so."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Honam nnwuma mu yε d'ru,",
+        "‘Hoɔyaa, ‘bufu ne ɔtan;",
+        "Nea ‘ka ho nyinaa ara so me,",
+        "Dom me soεm' adesua yi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Werεhosεm bi nto ‘yi,",
+        "Wobεka sε Wonni me;",
+        "‘Fisε me nnwuma wɔ nnipa anim,",
+        "Na metɔ sin honhom mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Menni kwati kwan biara a,",
+        "Mede bεba Wo nkyεn hɔ;",
+        "Gye sε mefa kwan hiaa yi so,",
+        "Nanso gye sε Wodom me."
+      ],
+      "number": 4
+    }
+  ]
+}

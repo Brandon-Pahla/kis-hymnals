@@ -1,0 +1,46 @@
+{
+  "number": 118,
+  "language": "tn",
+  "title": "118 Jeso O Duetse",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Utlwa Mmoloki A Re, \"Ga O Thata;",
+        "Itisa rapela, Bona tsotlhe go Nna.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jeso O duetse, Nna ke molato;",
+        "’Be ne se nngaparetse; O tlhatswitse sotlhe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena, Ke Bona Nonofo Ya Gago,",
+        "Ka tlhatswa lepero, Ya ntlafatsa pelo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka Ke Sa Tshwanela, Tshegofatsong Ya Go,",
+        "Ke tla tlhatswa kobo Mading a khal’fari."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa K’ema Teroneng, Ke Itekanetse,",
+        "Ke tla rola morwalo, Otlhe naong tsa ga Jeso."
+      ],
+      "number": 4
+    }
+  ]
+}

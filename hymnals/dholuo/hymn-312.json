@@ -1,0 +1,35 @@
+{
+  "number": 312,
+  "language": "luo",
+  "title": "312 Chungo E Singo Mar Nyasaye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Chungo e singonomar Ruodhwa Yesu,Tienge duto mond`owinj pak mare;Anakogi kaweroduong` mar polo,Kachungo e singomar Nyasaye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chungo (Chungo e singono,chungo e singono) chungo,Chungo e singonomar Yesu Jawarwa;Chungo (Chungo e singono,chungo e singono) chungo,Achungo e singonomar Nyasaye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Chungo e singonoma ok nyal rem ngang`,Ka yembe mag kiawakod luoro kudho;To gi wach Nyasayeok nyal podho,Kachungo e singonomar Nyasaye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Chungo e singonoanyalo neno,Puodhruok mogik karemanotim ni an;Chungo ka an thuolonikech Ruoth;Kachungo e singomar Nyasaye."
+      ],
+      "number": 4
+    }
+  ]
+}

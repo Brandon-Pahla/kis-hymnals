@@ -1,0 +1,23 @@
+{
+  "number": 107,
+  "language": "ts",
+  "title": "107. NDZI BYELE HUNGU RA YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TELL ME THE STORY OF JESUS",
+        "1. Ndzi Byele Hungu Ra Yesu,Tsala Mbilwin Yanga, Hungu Ro Saseka Ngopfu,Ku Tlurisa Hinkwawo;",
+        "Tintsumi Ti Yimbelela, Ti Amukela Hosi,",
+        "A Ku Dzuniwe Xikwembu, Ku Rhula Misaveni.",
+        "CHORUS",
+        "Ndzi Byele Hungu Ra Yesu, Tsala Mbilwini Yanga; Hungu Ro Saseka Ngopfu, Ku Tlurisa Hinkwawo.",
+        "2. A Titsona Ni Swakudya, A Tshamile Mananga, Hikokwalaho Ka Mina, Na Swidyoho Swa Mina,",
+        "Yesu A Hlula Miringo, Maxangu Ni Nhlomulo, A Sola Hi Lavo Tala, A Pfumala Na Kaya.",
+        "3. Ndzi Byele Hi Xihambano, La Vambiweke Kona, A Va Ni Gome Rikulu, Na Ta Sirha Ra Yena;",
+        "Rirhandzu Leri Ronghasi, A Ri Ndzi Funengete, Ri Tshama Ri Ndzi Tsundzuxa, Ku Kutsuriwa Kanga."
+      ],
+      "number": 1
+    }
+  ]
+}

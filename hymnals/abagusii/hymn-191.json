@@ -1,0 +1,35 @@
+{
+  "number": 191,
+  "language": "guz",
+  "title": "191 Monen' Omorisia",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Monen' Omorisia tinkoremerwa;Antimoki'as'obonyansi obobese;Ondair' ensemo amach' amaya;Nigo akong'irania na komboria."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ning'et' ase rigoko ri' amakweri;Aye nomorendi, tindi n'obwoba;Nondisie n'enyimbo buya kegima;Tinkoba n'obobe, Kor' amo nainche."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nondageri' ekero nden' emechando;Ninyore ebisio ebinge mono;Nong'ak' amaguta omotwe one;Tinkoboria kende biaisanire."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Buya n'amabera kwabing'eire;Bimbwatie botambe erio nkorore;Mbwati' encher' abakoro baetete;Goik' ens' engiya, bogambi bwao."
+      ],
+      "number": 4
+    }
+  ]
+}

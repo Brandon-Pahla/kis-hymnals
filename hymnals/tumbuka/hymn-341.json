@@ -1,0 +1,56 @@
+{
+  "number": 341,
+  "language": "tum",
+  "title": " 341 Charu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 341 Charu",
+        "CM 1991"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mphumphu yikulinda m'charu cha mutende",
+        "Malo uko wak'khala Yesu.",
+        "Nyifwa ntha yiliko. nam'tika pauli?",
+        "Vyalema na masuzgo m'charu,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndamfika pauli? M'charu cha mutende",
+        "Uko wanth wakufwaso chara! (nadi)",
+        "Ndamfika pauli? Mcharu cha mutende."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mphumphu yikulinda m'charu cha mutende",
+        "Malo Yesu wandinozgera,",
+        "Awo wakhumbako waleke uheni,",
+        "Kuti nawoso wakatikeko."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nyengo mwe yamala; Palije nkhayiko",
+        "Yesu wafikenge luwiro,",
+        "Mbamwawi awo wakulisunga dango",
+        "Wam'khala na Yesu myirayira."
+      ],
+      "number": 4
+    }
+  ]
+}

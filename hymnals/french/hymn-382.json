@@ -1,0 +1,63 @@
+{
+  "number": 382,
+  "language": "fr",
+  "title": "Lève-toi, vaillante armée",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lève-toi, vaillante armée,",
+        "Pour les combats du Seigneur;",
+        "C'est ton Dieu qui t'a formée,",
+        "C'est lui seul qui rend vainqueur.",
+        "Vous, soldats, prenez l'armure,",
+        "Préparez-vous en ce jour.",
+        "Dieu lui-même vous assure",
+        "La victoire de l'amour."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Allez révéler au monde",
+        "L'amour de Dieu tout-puissant;",
+        "Dans l'obscurité profonde",
+        "Annoncez le jour naissant.",
+        "Aux peuples sans espérance",
+        "Dites: « Jésus est venu,",
+        "Apportant la délivrance",
+        "Au cœur coupable et perdu ! »"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sur le plus lointain rivage,",
+        "Portez l'éternelle croix;",
+        "Avec un nouveau courage,",
+        "Élevez partout la voix.",
+        "Consolez dans leur misère",
+        "Ceux qui souffrent en tous lieux;",
+        "En Dieu montrez-leur un Père,",
+        "Vers lui dirigez leurs yeux."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Heureux ceux qui, pour leur Maître,",
+        "Auront voulu tout souffrir !",
+        "Le grand jour fera connaître",
+        "L'honneur qui les doit couvrir.",
+        "Dans l'immortelle victoire",
+        "De Jésus, le Roi des rois,",
+        "Ils auront part à sa gloire,",
+        "Ayant eu part à sa croix."
+      ],
+      "number": 4
+    }
+  ]
+}

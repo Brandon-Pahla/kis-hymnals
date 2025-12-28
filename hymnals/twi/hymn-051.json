@@ -1,0 +1,61 @@
+{
+  "number": 51,
+  "language": "tw",
+  "title": "Ade Resa Wɔ Atɔe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ade resa wɔ atɔe,",
+        "ɔhome fi s'ro reba;",
+        "Twɛn na som, b're a 'nadwo",
+        "Akanea repuepue wim",
+        "Mmaa nyinaa yi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kronkron, kronkron, kronkron",
+        "Otweaduampɔn!",
+        "Woahyɛ s'ro ne 'sase ma",
+        "S'ro ne fam reyi W'ayɛ,",
+        "ɔs'ros'roni!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkwa Wura, soro ase",
+        "Nyinaa yɛ W'ankasa fi.",
+        "Boa yɛn a yɛhwehwɛ Wo",
+        "Ano kɔ Wo nguankuw mu,",
+        "'Fisɛ Wobɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B're a esum red'ru yi,",
+        "Fa yɛn hyɛ Wo dɔ kokom;",
+        "Yɛn koma nam W'anuonyam",
+        "Nkatanim nsoromma so,",
+        "Foro ɔs'ro."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B're a 'dekyee ne 'nadwo",
+        "Twam fi yɛn ani so no,",
+        "Abɔfo Wura, ma yɛn",
+        "Ani nhu daa anɔpa",
+        "Na 'sum to ntwa."
+      ],
+      "number": 4
+    }
+  ]
+}

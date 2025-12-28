@@ -1,0 +1,62 @@
+{
+  "number": 209,
+  "language": "es",
+  "title": "La Biblia nos habla de Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### La Biblia nos habla de Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La Biblia nos habla de Cristo",
+        "y de su muerte en la cruz.",
+        "Su santa Palabra ha dicho",
+        "que él pronto vuelve en luz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¿Te hallas listo a encontrar al",
+        "Señor?",
+        "¿Lo haces todo con fe, con amor?",
+        "¿Has peleado por fe la batalla del",
+        "bien?",
+        "¿Pueden otros a Cristo en ti ver?",
+        "¿Eres fiel por doquiera que vas?",
+        "¿Puedes tú contemplarlo en su faz",
+        "y triunfante decir:",
+        "\"Este es mi Dios\"?",
+        "¿Puedes tú encontrar al Señor?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No anheles el bien de esta vida,",
+        "pues ella se pasará.",
+        "Entrégate a él sin medida,",
+        "que hoy llamando está."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No dejes que pase más tiempo",
+        "sin entregarte a Jesús.",
+        "Alístate, pues el Maestro",
+        "muy pronto vuelve en luz."
+      ],
+      "number": 5
+    }
+  ]
+}

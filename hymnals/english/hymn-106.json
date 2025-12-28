@@ -1,0 +1,47 @@
+{
+  "number": 106,
+  "language": "en",
+  "title": "106 Build On The Rock.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "We’ll build on the Rock, the ling Rock,",
+        "On Jesus, the Rock of Ages;",
+        "So shall we abide the fearful shock,",
+        "When loud the tempest rages."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "We’ll build……………… on the Rock,",
+        "We’ll build………on the Rock;",
+        "(We’ll build on the Rock, on the solid Rock) (We’ll build on the Rock, on the solid Rock )",
+        "We’ll build on the Rock, on the solid Rock,",
+        "On Christ, the mighty Rock."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Some build on the sinking sands of life,",
+        "On visions of earthly treasure;",
+        "Some build on the waves of sin and strife,",
+        "Of fame, and worldly pleasure."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O build on the Rock, for ever sure,",
+        "The firm and the true foundation;",
+        "Its hope is the hope which shall endure,",
+        "The hope of salvation."
+      ],
+      "number": 3
+    }
+  ]
+}

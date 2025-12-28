@@ -1,0 +1,37 @@
+{
+  "number": 531,
+  "language": "es",
+  "title": "La familia de Dios",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### La familia de Dios"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Qué feliz! ¡Qué feliz! La familia de",
+        "Dios.",
+        "Todos somos hermanos en el Señor.",
+        "Grandes y chicos, no importa el color,",
+        "somos una familia, familia de Dios."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Soy feliz porque estoy en la iglesia",
+        "de Dios!",
+        "Me limpió con su sangre mi",
+        "Salvador.",
+        "Cristo nos guía al hogar celestial;",
+        "somos una familia, familia de Dios."
+      ],
+      "number": 3
+    }
+  ]
+}

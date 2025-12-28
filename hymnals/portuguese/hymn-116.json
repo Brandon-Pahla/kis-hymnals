@@ -1,0 +1,56 @@
+{
+  "number": 116,
+  "language": "pt",
+  "title": "De um Nome Eu Sei",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### De um Nome Eu Sei"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De um nome eu sei, o nome de um Rei,",
+        "Trazido por anjos mil.",
+        "Nos céus de Belém, cantaram, do além,",
+        "O nome de amor gentil."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "O nome é Jesus, o Filho da luz,",
+        "O nosso Salvador.",
+        "O nome santo e doce é Jesus,",
+        "O nosso Salvador."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De um nome eu sei, o nome de um Rei",
+        "Que a morte sofreu na cruz.",
+        "O mundo salvou, da morte o livrou,",
+        "E os homens a Deus conduz."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De um nome eu sei, o nome de um Rei",
+        "Que em breve regressará.",
+        "E quando voltar às glórias do lar,",
+        "Consigo levar-me-á."
+      ],
+      "number": 5
+    }
+  ]
+}

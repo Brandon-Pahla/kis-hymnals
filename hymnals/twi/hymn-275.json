@@ -1,0 +1,47 @@
+{
+  "number": 275,
+  "language": "tw",
+  "title": "O Hann Nyame",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O hann Nyame, W'asɛm yɛ kaneá a ɛhy'rɛn,",
+        "Epue fa yɛn 'sase sum kwan yi so,",
+        "Ͻky'rɛ Wo dom, yi Wo nhyehyɛe no adi,",
+        "Na ɛky'rɛ yɛn nan kwan kɔ 'dekyee pa m'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Efi tete, y'ani f'rae yɛn boapayɛm',",
+        "Yɛtee atua, nso Wohwehwɛɛ yɛn bio;",
+        "Wokasa faa Wo nk'rɔfo 'diyifo mu",
+        "Maa wɔde ahop're ky'rɛw W'asɛm no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Efi tete ny'naa, W'asɛm no da so hy'rɛn",
+        "Ma nnebɔn'yɛfo hu Wo do nyinaa;",
+        "Na akra a wɔhwehwɛ W'ayaresa,",
+        "Hu W'ahummɔb'rɔ wɔ 'Gyenkwan' anim."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wode Wo frɛ nsɛm rema wiase nyinaa",
+        "Nsase, aman ne, mmusuakuw nyinaa,",
+        "Na tɛkrɛma nyinaa 'ra bɛka abom",
+        "Ayi W'ayɛ akamfo W'akyɛde n'."
+      ],
+      "number": 4
+    }
+  ]
+}

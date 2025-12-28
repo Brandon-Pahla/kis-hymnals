@@ -1,0 +1,55 @@
+{
+  "number": 55,
+  "language": "es",
+  "title": "Grande, Señor es tu misericordia",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Grande, Señor es tu misericordia"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Grande, Señor, es tu misericordia;",
+        "nunca termina, ni cambia jamás.",
+        "Tu compasión y bondad no se agotan;",
+        "tal como has sido, por siempre serás."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Tú eres fiel, Señor, eternamente fiel;",
+        "cada mañana renuevas tu amor.",
+        "Nada me falta, pues todo provees,",
+        "¡grande, Señor, es tu fidelidad!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "El firmamento, el sol y la luna,",
+        "las estaciones con su esplendor;",
+        "todos demuestran tu misericordia,",
+        "y testifican de tu gran amor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tú me perdonas, me das paz y gozo;",
+        "con tu presencia me guías aquí.",
+        "Fuerza, esperanza y más bendiciones",
+        "siempre derramas, Señor, sobre mí."
+      ],
+      "number": 5
+    }
+  ]
+}

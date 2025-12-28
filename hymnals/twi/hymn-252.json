@@ -1,0 +1,57 @@
+{
+  "number": 252,
+  "language": "tw",
+  "title": "Mommra Mma Yɛnto Nnwom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mommra mma yɛnto nnwom mu dwom,",
+        "Nea abɔfo dii kan toe no;",
+        "'Nidi a ɛwɔ Kristo nko,",
+        "'Guammaá a wokum No no fata'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Owui de Ne mogya tɔɔ yɛn,",
+        "De tew yɛn ho fii bɔne ho;",
+        "Wayɛ yɛn ahen' ne 'sɔfo,",
+        "'Guammaá a wokum No no fata'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nea Ohuu amane dua so,",
+        "Na ɔde Ne nkwa tɔɔ yɛn kra;",
+        "Nhyira ne anuonyam nka No,",
+        "'Guammaá a wokum No no fata'."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nea ɔte N'Agya 'hengua so,",
+        "S'ro ne fam tumi ny'naa ka sɛ,",
+        "'Nidi, tumidi ny'naa wɔ No,",
+        "'Guammaá a wokum No no fata'."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B'rč a yɛte ase kosi 'wum,",
+        "B'rč a yɛne No bedi hen s'ro,",
+        "Nnwom mu dwom a yɛbɛto ni:",
+        "'Guammaá a wokum No no fata'."
+      ],
+      "number": 5
+    }
+  ]
+}

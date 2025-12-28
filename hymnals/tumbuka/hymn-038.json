@@ -1,0 +1,57 @@
+{
+  "number": 38,
+  "language": "tum",
+  "title": " 38 Koreskani Mwa Chiuta",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 38 Koreskani Mwa Chiuta",
+        "FIRMLY STAND FOR GOD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Koreskani mwa Chiuta withu,",
+        "nanga charu chazuravisuzgo.",
+        "Khristu ndi jarawe lakukhora,",
+        "ndipo na la nkhongono."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tikoreske kwima pa jarawe Lira,",
+        "jalawe ndiyo Khristu;",
+        "Tizizipizge kuti tikafike,",
+        "ku chizumbe cha Chiuta."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Koreskani na mutima wose,",
+        "Inya mu chipulikano chinu;",
+        "Khristu ndi jarawe lakukhora,",
+        "wakutonda kwananga."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Koreskani unenesko wake,",
+        "umovwiraninge kwakuruska;",
+        "Khristu jarawe la chipumulo,",
+        "para suzgo lamara."
+      ],
+      "number": 4
+    }
+  ]
+}

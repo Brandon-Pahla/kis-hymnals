@@ -1,0 +1,59 @@
+{
+  "number": 522,
+  "language": "es",
+  "title": "Suenen las palabras",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Suenen las palabras"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Suenen las palabras del buen",
+        "Salvador:",
+        "\"¡Oh!, traedme el diezmo al",
+        "granero\".",
+        "Aclamad a Cristo Dueño y Creador,",
+        "dadle lo mejor primero."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "\"Oh, traedme el diezmo al granero,",
+        "probadme hoy\", dice Jehová;",
+        "quien sobre tierras y dinero,",
+        "bendiciones abundantes pondrá."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo nuevamente vuelve a decir:",
+        "\"Con el diezmo y liberal ofrenda,",
+        "muchos el mensaje hoy podrán oír",
+        "y hallarán la santa senda\"."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3- Dad a Dios mejor y más completo",
+        "don:",
+        "vuestra vida entera y vuestra",
+        "hacienda.",
+        "Entregad a Cristo hoy el corazón,",
+        "que es la más preciosa ofrenda."
+      ],
+      "number": 5
+    }
+  ]
+}

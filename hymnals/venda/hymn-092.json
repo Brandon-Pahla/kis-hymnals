@@ -1,0 +1,52 @@
+{
+  "number": 92,
+  "language": "ve",
+  "title": "92 Ni Songo I Hangwa Savhatha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:388",
+        "AH:380"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.Ni songo i hangwa Savhatha ya Mudzimu,",
+        "Ndi yone yo khethwaho kha maduvha othe;",
+        "Ro fanele u awela mishumoni yashu-vho,",
+        "Yesu a tshi ri sika, o sila Savhatha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "li takaleleni-ha duvha la Savhatha,",
+        "li takaleleni-ha duvha la Savhatha."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Vhulunga Savhatha, hulisani Mudzimu,",
+        "O ri sumbedza ná¸’la ya u ya tadulu;",
+        "Ro fanela u tevhedza, Mutshidzi washu Yesu,",
+        "U ri neamadi a vhutshilo ha-vhudi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri do di U renda, nga duvha lo khethwaho,",
+        "Iwe khonani yashu Yesu a funwaho,",
+        "Murena Yesu u na lufuno lu mangadzaho,",
+        "Na fulufhelo lau li a ri takadza."
+      ],
+      "number": 4
+    }
+  ]
+}

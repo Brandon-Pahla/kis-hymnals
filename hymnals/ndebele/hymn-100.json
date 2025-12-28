@@ -1,0 +1,37 @@
+{
+  "number": 100,
+  "language": "nd",
+  "title": "100 Yeka Isihlobo Sethu uJesu!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yek’ is’hlobo seth’ uJesu! Othwal’ izono zethu,",
+        "Kuhl’ ukusa konke kuYe Ngako ukukhuleka.",
+        "Si yalahla ukuthula, Ngokungamnaki kwethu;",
+        "Ngoba a sikusanga-ke; Konke kuY’ uJehova."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si nenhlupo nezilingo, Kanye nenkathazo na?",
+        "Si ngahlala ngesibindi; Konke si kuse kuYe.",
+        "Sothola ngaph’ isihlobo Esinjengo Jesu na?",
+        "U sithanda esizwela; Nxa si khuleka kuYe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si yasindwa imithwalo, Sehlulwa zihlupho na?",
+        "uJesu yisiphephelo, Nxa si khuleka kuYe.",
+        "Nom’ iz’hlobo zi kudela; Khuleka eNkosini,",
+        "Yokugon’ ikududuze Ezingalweni zaYo."
+      ],
+      "number": 3
+    }
+  ]
+}

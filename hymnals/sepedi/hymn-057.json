@@ -1,0 +1,57 @@
+{
+  "number": 57,
+  "language": "nso",
+  "title": " 57 EO A KWAG",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 57 EO A KWAG",
+        "AH 179 CH 571",
+        "WHOSOEVER HEARETH"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mang le mang, Yo a kwago a goelele;",
+        "Mantšu a tšegofatšo, 'Faseng lohle;",
+        "A boleleng gohle mo go leng batho;",
+        "Le ge e le mang a tle;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Le ge e le mang, Le ge e le mang;",
+        "A botšeng bohle baleng mo lefaseng;",
+        "Tate wa ba bitša 'O re batle gae',",
+        "'Le ge e le mang a tle';"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le ge e le mang ya tlang se diege,",
+        "Monyako o sa butšwe o ka tsena;",
+        "Jeso ke nnete, Tsela e phedišang;",
+        "'Le ge e le mang a tle';"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Lege e le mang, Tshepišo e ntshe;",
+        "'Le ge e le mang' A duleleruri;",
+        "'Le ge e le mang, 'Phelo bosafeleng",
+        "'Le ge e le mang a tle';"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "number": 138,
+  "language": "nd",
+  "title": "138 Ukuzehlukanisela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Thath’ ukuphila kwami",
+        "Kulungiselw’ okwAkho;",
+        "Thatha izandla zami",
+        "Zenze intando yAkho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngihlanz’ egazini leWundlu (kweleNdlu)",
+        "Ngihlanzisiswe eMthonjeni (eMthonjeni)",
+        "Nkosi, ngamkele,",
+        "Konke kube kuWe",
+        "Kuze kube phakade."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thata inyawo zami",
+        "Zi gijimel’ okwAkho;",
+        "Thath’ enginak’ okwami",
+        "Ngi ngagodli nalutho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thatha umlomo wami",
+        "U gcwale amazw’ Akho;",
+        "Thath’ enginak’ okwami",
+        "Ngi ngagodli nalutho."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thath’ imzuzwana yami",
+        "Ma yi dumise njalo;",
+        "Thatha ingqondo yami",
+        "I qondise okwAkho."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thatha intando yami",
+        "Yona ibe nge yAkho;",
+        "Thath’ inhliziyo yami",
+        "Ibe ‘siHlalo sAkho."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thatha umxhwele wami",
+        "Nanku umcebo wawo;",
+        "Thath’ ubumina bami",
+        "Nanini bungo bAkho."
+      ],
+      "number": 7
+    }
+  ]
+}

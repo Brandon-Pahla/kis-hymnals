@@ -1,0 +1,47 @@
+{
+  "number": 357,
+  "language": "fr",
+  "title": "Oh! viens Seigneur",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Oh ! viens Seigneur, ne tarde pas,",
+        "Viens dissiper l'obscurité",
+        "Où nous devons toujours marcher,",
+        "Remplis nos yeux de ton éclat."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Brillant soleil, très pur matin,",
+        "Nous aimerions te contempler,",
+        "Nous réjouir de ta beauté,",
+        "Oh ! lève-toi sur nos chemins."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous n'abordons jamais au port,",
+        "Tous nos pas sombrent dans le soir.",
+        "Rends-nous la joie, rends-nous l'espoir,",
+        "Délivre-nous de notre mort."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Parais enfin et nous vivrons,",
+        "Nous n'aurons plus aucune peur,",
+        "En joie tu changeras nos pleurs,",
+        "Et pour toujours nous chanterons."
+      ],
+      "number": 4
+    }
+  ]
+}

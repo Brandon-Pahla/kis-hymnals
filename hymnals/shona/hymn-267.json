@@ -1,0 +1,55 @@
+{
+  "number": 267,
+  "language": "sn",
+  "title": "267 Kusha Mbewu Dzemutsa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngati-ungeyi maranzi,Akaraswa munzira",
+        "Ngati chengeteyi mbeu, Ngatiraseyi hundi",
+        "Tiwane zororo redu, Tikomborerwe nhasi",
+        "Nemwoyo wekutivira,Bvisa mhinzwa munzira"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kusha mbewu dzemutsa, Kusha mbewu dzemutsa",
+        "Kusha mbewu dzemutsa, Tokohwa gare gare"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hatina hanya nerwiyo, Dakara rwazopera",
+        "Hatifariri maruva, Dakara azopera",
+        "Hationiba kunaka, Kwedenga muzhizha",
+        "Kana kuri patsanisa, Kunere muchirimo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dai tichiziva, Kuti mwana angatonhorwa",
+        "Kuti asina kufuka, Zvisingatinetsiba",
+        "Mwana angaona here, Kuti takazarirwa",
+        "Kuti tingazarirwa here, Neminembo yeminwe"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Minwe iyo yatonhora, Inoti tondedzazve",
+        "Nemabasa akaipa, Emunzira yekare",
+        "Inotitondedza seyi, Nezvakaipa zvedu",
+        "Tisazo kushe mhinzwaka, Asi maruva kwazvo"
+      ],
+      "number": 5
+    }
+  ]
+}

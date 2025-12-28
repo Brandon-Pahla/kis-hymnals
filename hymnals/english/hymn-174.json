@@ -1,0 +1,57 @@
+{
+  "number": 174,
+  "language": "en",
+  "title": "174 O For A Faith",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O for a faith that will not shrink,",
+        "Tho’ pressed by many a foe;",
+        "That will not tremble on the brink,",
+        "Of poverty or woe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "That will not murmur or complain,",
+        "Beneath the chast’ning rod;",
+        "But in the hour of grief or pain,",
+        "Can lean upon its God."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A faith that shines more bright and clear,",
+        "When rage without;",
+        "Then when in danger knows no fear,",
+        "In darkness feels no doubt."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "That bears unmoved the world’s dread frown,",
+        "Nor heeds its scornful smile;",
+        "That sins wild ocean cannot drown,",
+        "Nor its soft arts beguile."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lord, give me such a faith as this,",
+        "And then what’er may come;",
+        "I’ll taste e’en here the hallowed bliss,",
+        "Of eternal home."
+      ],
+      "number": 5
+    }
+  ]
+}

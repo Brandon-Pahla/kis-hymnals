@@ -1,0 +1,63 @@
+{
+  "number": 46,
+  "language": "fr",
+  "title": "Comment te reconnaître",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Comment te reconnaître,",
+        "Comment te recevoir,",
+        "Toi qui seul est le Maître",
+        "Mais que nul ne peut voir?",
+        "Seigneur qui fit le monde,",
+        "Tu vins un jour vers nous,",
+        "Tu guides notre histoire",
+        "Vers ton règne sans fin."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu fus un enfant pauvre",
+        "Naissant à Bethléhem,",
+        "Tu fus un roi sans gloire",
+        "Devant Jérusalem.",
+        "Nos yeux sont ouverts dans la nuit",
+        "Guettant ton arrivée;",
+        "Nos chants seront des branches",
+        "De tant de joie chargées."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu donnes pour le monde",
+        "Un avenir si beau;",
+        "Et ta promesse fonde",
+        "L’espoir d’un renouveau.",
+        "Dans la vie de tout homme,",
+        "Tu es le compagnon,",
+        "Et la joie la plus vive",
+        "Demeure dans ton nom."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous tous pour te connaître",
+        "Et pour te saluer,",
+        "Nous gardons ta promesse,",
+        "Chantons ta royauté.",
+        "Elle est cachée en ton amour,",
+        "Nos noms sont tous écrits",
+        "Au cœur de l’Évangile",
+        "Où parle ton Esprit."
+      ],
+      "number": 4
+    }
+  ]
+}

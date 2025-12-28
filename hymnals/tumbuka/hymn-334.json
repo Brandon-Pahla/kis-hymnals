@@ -1,0 +1,49 @@
+{
+  "number": 334,
+  "language": "tum",
+  "title": " 334 Apo Ine Nkhusuzgika",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 334 Apo Ine Nkhusuzgika",
+        "When The Storms Of Life"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Apo ine nkhusuzgika na zakwananga zane,",
+        "Nditirute kwa Chiuta wati wandovwirenge."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Watindipokererenge Lyó ndiyo Dada wa ine,",
+        "Wakatuma Mwana Wake kwizakafwira ine"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Usange wazengezgani ntha wakutemwa ine,",
+        "Ndigomezge mwa Chiuta lyo ntha wandikane."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Ndine myeni m'charu ichi ine kwithu nkhuchanya,",
+        "Apo Yesu wizirenge ndizamuruta nayo."
+      ],
+      "number": 4
+    }
+  ]
+}

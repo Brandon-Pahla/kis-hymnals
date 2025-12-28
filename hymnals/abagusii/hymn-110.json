@@ -1,0 +1,35 @@
+{
+  "number": 110,
+  "language": "guz",
+  "title": "110 Krist' Omorai Oito",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Krist' Omorai oito kogend' esegi,Titogokung'ia, karatorangerie:Natotamanya okogania kwaye;Ntobwati' enchera yonsi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bosio bosio! Yes' ochikire;Bosio bosio! Ense y'omwando;Bosio bosio! Tiga totere,Natobue na Yes' Omogambi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Bendera yait' eramboke botambe,'S'ebibe biegachete mbitugutwe,Krist' Omorai oit' Obuire ense,Tobwati' e'nchera yonsi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Segi nendoro ko tekoira geka,Nobobui tosoe omoganda;Totere ogotera kw' obobui,Gatorabwati' enchera."
+      ],
+      "number": 4
+    }
+  ]
+}

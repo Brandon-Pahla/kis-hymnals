@@ -1,0 +1,45 @@
+{
+  "number": 206,
+  "language": "ve",
+  "title": "206. Ndo Kumedza Vhutshilo Ndi Tshi Itela Iwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:281",
+        "AH:178"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. No nea vhutshilo, nga malofha anga,",
+        "Uri u tshidzwe-vho, U vuswe tshaloni,",
+        "Ndi di-kumedzela iwe, Iwe wo mpha mini?",
+        "Ndi di-kumedzela iwe, Iwe wo mpha mini?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nndu ya tshedza yo tingwa nga vhurena,",
+        "Ndi i sia nda teka-teka swiswini,",
+        "Ndo i nala nda u thusa, Iwe u ri mini?",
+        "Ndo i nala nda u thusa, Iwe u ri mini?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndo vhaisalela iwe lu sa buleiho,",
+        "Nda shengela ndi tshi u bvisa khomboni,",
+        "Ndo kondolela ndi tshi itela iwe, iwe?",
+        "Ndo kondolela ndi tshi itela iwe, iwe?"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 483,
+  "language": "es",
+  "title": "Cuando al cielo lleguemos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cuando al cielo lleguemos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Todos juntos de Jesús cantemos,",
+        "su misericordia y su bondad.",
+        "En mansiones celestiales",
+        "nos prepara un bello hogar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Cuando al cielo lleguemos,",
+        "¡día alegre, bendito aquel será!",
+        "Cuando a Dios veamos,",
+        "¡Victoria! vamos a cantar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mientras juntos peregrinamos,",
+        "nubes oscurecerán el sol.",
+        "Pero cuando el viaje acabe,",
+        "no habrá sombras ni dolor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Adelante, el premio nos espera:",
+        "contemplar a nuestro Salvador,",
+        "ingresar por los portales,",
+        "y en las calles de oro andar."
+      ],
+      "number": 5
+    }
+  ]
+}

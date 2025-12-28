@@ -1,0 +1,48 @@
+{
+  "number": 579,
+  "language": "tw",
+  "title": "ɔdɔ Ma Yɛn Ho Tɔ Yɛn",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ɔdɔ ma yɛn ho tɔ yɛn,",
+        "ɔdɔ siesie akwan;",
+        "Ͻboa yɛn ma yɛyɛ adɔe",
+        "Ma afof'ro nso daa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nyame n'dɔ, yɛyɛ Ne mmofra nso,",
+        "Nyame n'dɔ, yɛbɛsɛ N'ara;",
+        "ɔdɔ ma yɛn hɔ tɔ yɛn,",
+        "ɔdɔ siesie akwan;",
+        "Ͻboa yɛn ma yɛyɛ adɔe",
+        "Ma afof'ro nso daa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yaw, yare, owu bɔne",
+        "Ahyɛ wiase yi ma;",
+        "Yede dɔ koma bɔ mmɔden",
+        "Na yɛanya akra bi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na sɛ nkwa nna yi nya twam'",
+        "N'ɔfrɛ yɛn kɔ s'ro a,",
+        "Yɛn dwom a yɛbɛto daa ne",
+        "Yesu ne Ne dɔ no."
+      ],
+      "number": 3
+    }
+  ]
+}

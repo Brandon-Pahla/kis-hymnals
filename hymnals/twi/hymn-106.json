@@ -1,0 +1,47 @@
+{
+  "number": 106,
+  "language": "tw",
+  "title": "Munyi Yɛn Nyankopɔn Ayɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Munyi yɛn Nyankopɔn ayɛ;",
+        "N'akwan yɛ adɔe ne nokwar',",
+        "Nyame na 'nwanwade wɔ No,",
+        "Monka N'adɔe mo nnwonto mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Monkamfo aw'ra mu Wura;",
+        "Monhyɛ ahen mu Hen' 'nuonyam;",
+        "N'adɔe no bɛtra hɔ daapem",
+        "B'rč a 'w'ra ne ahen' nni hɔ bio."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔde tumi somaa ne Ba",
+        "Sɛ ɔmmɛgye yɛn mfi sum mu;",
+        "Nyame na 'nwanwade wɔ No,",
+        "Monka N'adɔe mo nnwonto mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔky'rɛ yɛn 'nammɔn kwan fam ha,",
+        "De yɛn kɔ N'agua no anim;",
+        "N'adɔe no bɛtra hɔ daapem",
+        "B'rč a wiase yi nni hɔ bio no."
+      ],
+      "number": 4
+    }
+  ]
+}

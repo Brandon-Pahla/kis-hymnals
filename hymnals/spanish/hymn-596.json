@@ -1,0 +1,55 @@
+{
+  "number": 596,
+  "language": "es",
+  "title": "Edificamos familias",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Edificamos familias"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "El hogar es lugar donde encontramos",
+        "un refugio de paz y aceptación.",
+        "Aunque no compartamos opiniones,",
+        "nos reunimos allí pues hay amor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Edificamos familias,",
+        "necesitamos del Señor.",
+        "Él es el único que puede",
+        "llenar nuestras vidas con amor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Compartimos sonrisas y alegría,",
+        "nuestros sueños se vuelven realidad.",
+        "Las palabras de aprecio nunca faltan",
+        "si Jesús es el centro del hogar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu iglesia, Señor, es la familia",
+        "que nos une, alienta y da valor.",
+        "De distintas naciones y colores,",
+        "pero todos con una misma fe."
+      ],
+      "number": 5
+    }
+  ]
+}

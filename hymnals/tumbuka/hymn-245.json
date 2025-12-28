@@ -1,0 +1,69 @@
+{
+  "number": 245,
+  "language": "tum",
+  "title": " 245 Palije Zina Nga Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 245 Palije Zina Nga Yesu",
+        "C.H. 517 THERES NO OTHER NAME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Palije zina nga Yesu ndilo pera ndiweme",
+        "Ndakukondweska wangelo na tawakhristu wuwo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Zina (zina), zina (zina)",
+        "paLije zina nga Yesu,",
+        "Zina (zina), zina (zina)",
+        "paLje zina nga Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Palije zina nga Yesu para ndina chitima;",
+        "Palije zina nga Yesu para ndina chimwemwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nkhugomezga ndakum'wona pakwiza m'uchindami,",
+        "Wam'ndipokerera mchanya mtima wane wamkondwa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Mkhumbo lake nditewete m'munda wake wa mpheska,",
+        "\"Mwe nkhuweme lyo pera wanditumbike m'vyose."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "M'khumbo lake 'sange ndafwa thupi lane lagona,",
+        "Mwe nkhuweme lyo pera ndiyo ndimugomezge."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "number": 61,
+  "language": "tn",
+  "title": "61 Bogolo Ka Jeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bogolo Ka Jeso K’itse,",
+        "Bogolo ke bontshe tshwaro;",
+        "Ke bone poloko ya Gwe,",
+        "Lorato lwa O ntshwetseng.",
+        "CHORUS :",
+        "Bogolo ka Jeso, Bogolo ka Jeso,",
+        "Ke bone poloko ya ’Gwe;",
+        "Lorato lwa Yo O ntshwetseng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bogolo Jeso K’ithute,",
+        "Ke itse go rata ga ’Gwe;",
+        "Ke rutwe ke mo’a Modimo,",
+        "O mpontshe dilo tsa Jeso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bogolo Fokong Ja Jeso,",
+        "Ke bue le Morena wa me,",
+        "Ke utlwe lentswe ja Gagwe,",
+        "Le nna’a polelo tsa nnete."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka Setulo Sa Bogosi,",
+        "Khumo kgalalelong ya ’gwe;",
+        "Bogolo ka ’gosi jwa ’Gwe,",
+        "Le ka go tla ga Morena."
+      ],
+      "number": 4
+    }
+  ]
+}

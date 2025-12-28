@@ -1,0 +1,47 @@
+{
+  "number": 761,
+  "language": "tw",
+  "title": "NG11 Sesa Me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sesa me, Agya'e, sesa me' o,",
+        "Sesa me' o, sesa me' o,",
+        "Sesa me, Agya'e, sesa me' o",
+        "Sesa me'o, sesa me'o;",
+        "Bubu me koma bɔne yi",
+        "Sesa me, Agya' e sesa me' o,",
+        "Maba W'anim nnε, sesa me,",
+        "Me W'ra e, sesa me'o,",
+        "Sesa me Agya'e sesa me' o,",
+        "Ma me din foforo.",
+        "Maba W'anim nnε, sesa me,",
+        "Me W'ra'e, sesa me' o",
+        "Sesa me Agya'e sesa me' o,",
+        "Fa me bɔne kyε me'o."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sakra me, Agya'e, sakra me' o,",
+        "Sakra me' o, sakra me' o,",
+        "Sakra me, Agya'e, sakra me' o",
+        "Sakra me'o, sakra me'o;",
+        "Bubu me koma bɔne yi",
+        "Sakra me, Agya' e sakra me' o,",
+        "Maba W'anim nnε, sakra me,",
+        "Me W'ra e, sakra me'o,",
+        "Sakra me Agya'e sakra me' o,",
+        "Ma me din foforo.",
+        "Maba W'anim nnε, sakra me,",
+        "Me W'ra'e, sakra me' o",
+        "Sakra me Agya'e sakra me' o,",
+        "Fa me bɔne kyε me'o."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": 233,
+  "language": "tw",
+  "title": "Kristō a W'anuonyam Hy'rɛm Wim",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kristō a W'anuonyam hy'rɛn wim,",
+        "Kristo, nokware ne hann,",
+        "Sɔre, Wo trenee awia,",
+        "Di 'nadwo sum so nkonim;",
+        "S'ro 'dekyee hann, twiw bɛn me,",
+        "'Dekyee ns'roma bram' komam'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nɔpa a Wunni mu no",
+        "Yɛ sum ne awerɛhow;",
+        "'Nigye bi nni da no mu,",
+        "Gye sɛ mihuW' mmɔb'rɔhun'",
+        "Sɛ ɛbɛhyerɛn me mu",
+        "De dɛw aba me komam'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bra na bɛsra me kra yi,",
+        "Hyɛn' bɔn' ne 'w'rɛhow sum nom';",
+        "Hyɛ me ma, Wo soro hann;",
+        "Pam m'akyinnye no nyinaa;",
+        "Yi Wo ho adi ky'rɛ me,",
+        "Ma ɛnhy'rɛn nkosi da no."
+      ],
+      "number": 3
+    }
+  ]
+}

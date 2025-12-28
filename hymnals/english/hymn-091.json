@@ -1,0 +1,58 @@
+{
+  "number": 91,
+  "language": "en",
+  "title": "91 Watch, For The Time Is Short.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Watch, for the time is short;",
+        "Watch while ‘tis called today;",
+        "Watch lest the world prevail;",
+        "Watch, Christian, watch and pray;",
+        "Watch, for the flesh is weak;",
+        "Watch, for the foe is strong;",
+        "Watch lest the Bridegroom come;",
+        "Watch, though he tarry long"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O watch and pray, O watch and pray;",
+        "O watch in the darkness,",
+        "and watch is the day;",
+        "Christian, watch and pray."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chase slumber from thine eyes,",
+        "Chase doubting from thy breast;",
+        "Thine is the promised prize,",
+        "Of heaven’s eternal rest;",
+        "Watch, Christian, watch and pray;",
+        "Thy Saviour watched for thee,",
+        "Till from his brow there poured,",
+        "Great drops of agony."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Take Jesus for thy trust;",
+        "Watch while the foe is near;",
+        "Gird well the armor on;",
+        "Watch till thy Lord appear,",
+        "Now when thy sun is up,",
+        "Make thou no more delay,",
+        "In this accepted time, Watch,",
+        "Christian, watch and pray."
+      ],
+      "number": 3
+    }
+  ]
+}

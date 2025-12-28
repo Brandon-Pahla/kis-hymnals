@@ -1,0 +1,35 @@
+{
+  "number": 120,
+  "language": "guz",
+  "title": "120 Tibweb' Esabato",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tibweb' EsabatoMonen' asesenirieErituko rigiya,Goetania onsiRiret' ogotimoka,Nomogoko bori'Masari' ay' agoika,Nobuya bwa Igoro."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ika Ang'e, ika ang'Esabat' enyansu;Ika ang'e, ika ang'Esabat' enyansu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Yerend' Esabato,mosasime reroEre oyotebete;\"Nche ninch' enchera\"Gatoramotunyane,Omotoria oitoNatonyoinsie mono,Amach' Obogima."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Rituk' omogoko,Renda chinsa chiayeTotere ase Yeso,'Mosani Omuya;Omogweni' Omwanchwa,'Muya bw'Ogokumia!Omenye naintwe bori,chinkoro botambe."
+      ],
+      "number": 4
+    }
+  ]
+}

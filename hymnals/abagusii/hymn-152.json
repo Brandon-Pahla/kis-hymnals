@@ -1,0 +1,35 @@
+{
+  "number": 152,
+  "language": "guz",
+  "title": "152 Yeso Ngoet' Are",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yeso ngoet' are, Yeso ngoet' are,'Meuko nchwo monyor' amaiso;Yeso bwanchire nabagwenie inwe,'Maiso ain' aramokie, morore;Inchwo Yeso aba' okorora."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yeso ngoet' are, Yeso ngoet' are,'Nchw' ebirem' as' omogweni'o bonsiManying' agaiteka abatorie,Naigw' okorangeria gw' ekeremaBono ngoet' are ase bonsi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yeso ngoet' are, Yeso ngoet' are,'Nchw' abataka namoigotigweNabarae inwe, nabaragerie,Yes' obachikire moigote'Nchwo Igor' as' ebiage bichire."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Yeso ngoet' are, Yeso ngoet' are,Inw' abamochi, moche asareTwabasoroire, mwanche rero iga,Moche bwango GakorangeriaInchw' abamochi, nomwanche Yeso."
+      ],
+      "number": 4
+    }
+  ]
+}

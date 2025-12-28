@@ -1,0 +1,42 @@
+{
+  "number": 22,
+  "language": "guz",
+  "title": "22 Tong'etani' Omotori' One",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tong'etani' Omotori' one,'Gwa kangosaba;Gokorangeria abande,Takong'etania."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yeso, Yeso,'Gwa kangosaba;Gokorangeria abande,Takong'etania."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'S'ekerogo ki'amabera,Ntimokereo;Ntung'ame as' oboitongo,Nkonye nyegene."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nsemereti' Obuya bwao;Nkoror' Obosio;Ngweni' omoy'osaregete,Ntori' as' obuya."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Naye ore omoremia,Kobua bionsi;Kai ar'oyomoreng'aine,Nse nonyaigoro."
+      ],
+      "number": 5
+    }
+  ]
+}

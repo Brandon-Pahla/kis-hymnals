@@ -1,0 +1,65 @@
+{
+  "number": 40,
+  "language": "sn",
+  "title": "40 Kusimbira Nekuteerera",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Apo tinofamba muinzwi raBaba",
+        "Imbiranyi toona m’nzira",
+        "Kuti tinomuda, nesu anogara",
+        "Nevese vanomuteerera"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuteerera, Ndiyo basi nzira,",
+        "Kufara kuna Jesu, Basi kuteerera"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hakuna urombo hunotitambudza,",
+        "Asi Jesu anohudzinga,",
+        "Kana kupokana, masodzi nekutya",
+        "Hazvigari nekusimbira"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hakuna mutoro, hakuna urombo,",
+        "Asi anotidzokesera,",
+        "Hakuna kushaya, kana kutambudzwa,",
+        "Tinowana nekusimbira"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asi hatione kufara kwerudo,",
+        "Dakara zvese tinomupa,",
+        "Ngekuti anopa kufara nerudo,",
+        "Kuna ivo vanosimbira"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndizvo pamwe tese tinogara naYe,",
+        "Kana kufamba naYe m’nzira,",
+        "Isu tichaita mazwi ake ese,",
+        "Kuteerera nekusimbira"
+      ],
+      "number": 6
+    }
+  ]
+}

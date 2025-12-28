@@ -1,0 +1,40 @@
+{
+  "number": 123,
+  "language": "st",
+  "title": "123 Lebitso Le Halalelang.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lebitso le letle hohle, Monate pelong ea ka,",
+        "Le ne le neoe ke Ntate, Mora’ Hae ea ratoang."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Bitso le halalelang, bitso le halalelang,",
+        "Le tsoang molomong oa Ntate holimo.",
+        "Le tlisoa ke mangeloi, bosiu bo khutsitseng,",
+        "E leng lebitso la Jesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le tlisa ho hotle ho ’na Ke lona pina ea ka,",
+        "Ke rorisa bitso la Hae, Ke le phete hape-hape."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ekare nka ’na ka bina Topollo ena ea Hae,",
+        "Lona ke tla le rorisa Lebitso la Hae Jesu."
+      ],
+      "number": 3
+    }
+  ]
+}

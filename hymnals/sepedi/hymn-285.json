@@ -1,0 +1,57 @@
+{
+  "number": 285,
+  "language": "nso",
+  "title": " 285  FELO LE GONA LA GOIKHUTŠA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 285  FELO LE GONA LA GOIKHUTŠA",
+        "АН 252 CH 681",
+        "THERE IS A PLACE OF QUIET REST"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Felo le ntshe la goikhutša,",
+        "Go yena Modimo,",
+        "Moo sebe se sa tshwenyego,",
+        "Go yena Modimo,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Jeso Morekolodi,",
+        "E 'a tswang go Tate,",
+        "Re sware re letile,",
+        "Kgauswi le Modimo;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Felo le ntshe la khomotšo,",
+        "Kgauswi le Modimo,",
+        "Moo re kopanang le Jeso,",
+        "Kgausi le Modimo;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Felo le ntshe tokologong,",
+        "Kgauswi le Modimo,",
+        "Felo la thabo le khutšo,",
+        "Go Yena Modimo;"
+      ],
+      "number": 5
+    }
+  ]
+}

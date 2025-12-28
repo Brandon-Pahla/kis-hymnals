@@ -1,0 +1,37 @@
+{
+  "number": 206,
+  "language": "st",
+  "title": "206 Uena U Entseng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke u shoetse Uena Ka tla ts’olla mali",
+        "Hore O bolokoe O tsositsoe lefung,",
+        "Ka itella Uena! Uena U mphile eng?",
+        "Ka itella Uena! Uena U mphile eng?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tlung ea Ntate ’seling, Khalalelo ea ka,",
+        "Li setse lefifing, Batho ba timetseng;",
+        "Ke li sietse Uena u nts’ietseng na",
+        "Ke li sietse Uena, Uena U ts’ietseng?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke hlokofaletse uena, Ho feta puo",
+        "Bohlokong bo boholo, Ho u nts’a lebitleng;",
+        "Ke u jaretse tsohle, U njaretse eng na?",
+        "Ke u jaretse tsohle, Uena U njaretse eng?"
+      ],
+      "number": 3
+    }
+  ]
+}

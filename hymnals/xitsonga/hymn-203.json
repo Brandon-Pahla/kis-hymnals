@@ -1,0 +1,24 @@
+{
+  "number": 203,
+  "language": "ts",
+  "title": "203. HANGALASA HUNGU KA HINKWAVO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, SPREAD THE TIDINGS ROUND",
+        "1. Hangalasa Hungu Ka Hinkwawo La Misaveni, Ka Hinkwavo Vanhu, Timbilu Hinkwato,",
+        "Ti Tikeriwaka, Bana Huwa Tsaka, Mukhongoteri Werhu, Hiloyi Wa Fika.",
+        "CHORUS",
+        "Mukhongoteri Werhu U Kona Sweswi, U Huma Ka Xikwembu Kwale Tilweni, Byelani Vanhu Hinkwavo, Mukhongoteri Werhu U Fikile.",
+        "2. Bya Hundza Vusiku, Mixo Se Wa Fika, Ku Hela Swirilo Na Tona Tinyimpi,",
+        "Ku Fana Na Dyambu Ri Tlhavaka Vuxeni, Yesu U Ta Fika.",
+        "3. Rirhandzu Ro Xonga, Leri Kwetsimaka, Ri Hlamuseriwa Njhani Eka Vanhu,",
+        "Hi Tintswalo Takwe, Mina Wa Mudyohi, Ndzi Ta Basisiwa.",
+        "4. Handzulani Tilo, Hi Wo Ngulumelo, Yimbani Rirhandzu, Ri Nga Heriki,",
+        "Ku Kondza Va Kwetsimi, Henhla Tilweni, Va Hlamula Na Vo."
+      ],
+      "number": 1
+    }
+  ]
+}

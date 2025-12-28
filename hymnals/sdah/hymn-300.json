@@ -1,0 +1,28 @@
+{
+  "number": 300,
+  "language": "en-sdah",
+  "title": "300 Rock of Ages",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Rock of Ages, cleft for me, Let me hide myself in Thee; Let the water and the blood, From Thy riven side which flowed, Be of sin the double cure Cleanse me from its guilt and power."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Not the labours of my hands Can fulfil Thy law's demands; Could my zeal no respite know Could my tears forever flow, All for sin could not atone-Thou must save, and Thou alone."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. When my pilgrimage I close; Victor o'er the last of foes, When I soar to worlds unknown And behold Thee on Thy throne, Rock of Ages, cleft for me, Let me hide myself in Thee."
+      ],
+      "number": 3
+    }
+  ]
+}

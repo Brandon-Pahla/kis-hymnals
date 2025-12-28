@@ -1,0 +1,47 @@
+{
+  "number": 577,
+  "language": "tw",
+  "title": "Yesu Koma Mu Hɔ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu koma mu hɔ, ɔdɔ wɔ hɔ maw'",
+        "ɔdɔ a ɛyɛ kronn, Na ɛyɛ knkwar';",
+        "Dɛn nti na wo nko nam Hwehwɛ yɔnko yi,",
+        "B'rč anika pii wɔ Yesu komam' hɔ?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu adwen mu no Osusu wo ho;",
+        "Ͻhyerɛn sɛ owia; Yɛ dɛw sɛ bosu;",
+        "Dɛn nti na Wusuro Na wodwennwen saa?",
+        "B'rč a Yesu dwen wɔn a Watɔ wɔn ho yi?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu afuw mu hɔ 'Dwuma wɔ hɔ maw'",
+        "Adwumā a abɔfo Pre sɛ wɔbɛyɛ;",
+        "Dɛn nti na w'ani haw, B'rč a 'dwuma wɔ hɔ",
+        "Na Yesu rehwehwɛ 'Paafo N'afuwm' yi?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu soro fie hɔ Trabea wɔ hɔ maw';",
+        "'Nuonyam ne dɛw wɔ hɔ, 'Somdwoe nso sɔ hɔ,",
+        "Dɛn nti na wonam sɛ ɔkobɔfo yi,",
+        "B'rč a Yesu fie hɔ Wɔ trabea ma wo?"
+      ],
+      "number": 4
+    }
+  ]
+}

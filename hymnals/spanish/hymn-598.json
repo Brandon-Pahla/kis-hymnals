@@ -1,0 +1,53 @@
+{
+  "number": 598,
+  "language": "es",
+  "title": "Cristo, yo te seguiré",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cristo, yo te seguiré"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo, yo te seguiré;",
+        "óigote llamándome;",
+        "vengo a ti con fe y amor,",
+        "y a tu mansión, Señor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Yo te seguiré, yo te seguiré,",
+        "yo te seguiré, bendito Salvador."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mis ojuelos no verán;",
+        "mis piecitos errarán;",
+        "débil me hallo en el vaivén;",
+        "mas tú eres mi sostén."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando solo y triste estoy",
+        "siempre a ti, Jesús, yo voy;",
+        "y ¡qué gozo es para mí,",
+        "seguirte siempre a ti!"
+      ],
+      "number": 5
+    }
+  ]
+}

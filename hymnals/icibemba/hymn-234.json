@@ -1,0 +1,31 @@
+{
+  "number": 234,
+  "language": "bem",
+  "title": "234 - YESU LUBUTO LWA CALO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "JESUS THE LIGHT OF THE WORLD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bangeli baleimba, Yesu, Lubuto lwesu,",
+        "Lulumbi kuli Yesu, E lubuto lwa calo.",
+        "CHORUS:",
+        "Twakulaenda, mulubuto. seni uko luse lulebeka:",
+        "Lubeka kasuba nobushiku, Yesu lubuto lwesu.",
+        "2. Angeni mwemitundu, Yesu lubuto lwesu,",
+        "Imbeni naba ngeli, E lubuto lwa calo.",
+        "3. Kristu tumucindike, Elubuto lwa calo,",
+        "Ni-Mfumwi yape-nape, E lubuto lwacalo",
+        "4. A-cindikwe Mwanangwa, E lubuto Iwa calo,",
+        "E-bulu-ngami bwesu, E lubuto Iwa calo."
+      ],
+      "number": 2
+    }
+  ]
+}

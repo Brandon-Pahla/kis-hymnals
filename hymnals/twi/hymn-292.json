@@ -1,0 +1,63 @@
+{
+  "number": 292,
+  "language": "tw",
+  "title": "Yesu Maba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mifi nkoasom mu, yaw ne sum mu,",
+        "Yesu maba, Yesu maba;",
+        "W'ahofadim', hann ne ahotɔm',",
+        "Yesu, maba Wo nkyɛn.",
+        "Mifi yarem' ba W'ahoɔden mu,",
+        "Mifi ohiam' ba W'ahonya mu;",
+        "Mifi me bɔnem' maba Wo nkyɛn,",
+        "Yesu, maba Wo nkyɛn."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mifi yera ne aniwu mu,",
+        "Yesu maba, Yesu maba;",
+        "W'asɛnnua ho anuonyam no mu,",
+        "Yesu, maba Wo nkyɛn.",
+        "Mifi ha yaw mu ba W'ahotɔm',",
+        "Mifi ahum mu ba Wo nkyɛn dwoo.",
+        "Ahohiam ba anigye nnwom mu,",
+        "Yesu, maba Wo nkyɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mifi ɔbrɛ ne ahantan mu,",
+        "Yesu maba, Yesu maba;",
+        "Merebɛtra Wo pɛ pa no mu,",
+        "Yesu, maba Wo nkyɛn.",
+        "Mifi me mu ba Wo dɔ no mu,",
+        "Mifi 'basamtum' ba s'ro 'nigyem'.",
+        "Mitu ba s'ro te sɛ 'b'rɔnoma,",
+        "Yesu, maba Wo nkyɛn."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mifi damoam', ehu ne surom',",
+        "Yesu maba, Yesu maba;",
+        "Wo fie anigye ne hann no mu,",
+        "Yesu, maba Wo nkyɛn;",
+        "Mifi ɔsɛe a enni kabeam',",
+        "Na maba W'asomdwoe ban no mu;",
+        "Mɛhwɛ W'anuonyam anim no daa,",
+        "Yesu, maba Wo nkyɛn."
+      ],
+      "number": 4
+    }
+  ]
+}

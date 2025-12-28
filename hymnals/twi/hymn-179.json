@@ -1,0 +1,57 @@
+{
+  "number": 179,
+  "language": "tw",
+  "title": "Nkwagye Dɔ Anwanwasɛm No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nkwagye dɔ anwanwasɛm no",
+        "B'ro yɛn adwen ny'naa so;",
+        "Nyame Ba no fi s'ro behwiee",
+        "Ne mogya maa nnipa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔde Ne nkwa ne b'ribiara",
+        "Maa sɛ afɔr' kronkron;",
+        "ɔnom k'ruwa nwenwen ano,",
+        "Nnipa nti na Owui."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔde Ne mogya di ma yɛn",
+        "Wɔ N'Agya anim hɔ;",
+        "Ne dɔ da so di ma wɔn a",
+        "Wɔhwehwɛ dom aguan'."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Onim yɛn mmerɛwyɛ nyinaa",
+        "'Fisɛ Wasoa yɛn haw;",
+        "Yɛn Sɔfo Panyin faa haw mu,",
+        "Obetum' agye yɛn."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne dɔ ntumi nnya ɔpene,",
+        "Gye sɛ 'nuonyam mu no,",
+        "Ohu 'gyidifō a Obewu",
+        "Maa wonyaa nkwa no."
+      ],
+      "number": 5
+    }
+  ]
+}

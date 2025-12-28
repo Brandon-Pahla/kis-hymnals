@@ -1,0 +1,46 @@
+{
+  "number": 41,
+  "language": "xh",
+  "title": "41 U-Thixo Makabe Nani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U-Thixo maze abe nani, Aniqondise ngendlela,",
+        "Anibiyele ngothango, U-Thixo maze abe nani."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Side si . . . hlangane, Ngaphambi kuka-Yesu;",
+        "Side si . . . hlangane u-Thixo maze abe nani."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U-Thixo maze abe nani, Anilondoloze kuhle,",
+        "Anondle nonke ngokudla, U-Thixo maze abe nani."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U-Thixo maze abe nani, Xa nise zinkathazweni,",
+        "Aniwole ngezo ngalo, U-Thixo maze abe nani."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U-Thixo maze abe nani, Anithwalise ngothando,",
+        "Agxothe ukufa kuni, U-Thixo maze abe nani."
+      ],
+      "number": 4
+    }
+  ]
+}

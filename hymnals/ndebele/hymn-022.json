@@ -1,0 +1,71 @@
+{
+  "number": 22,
+  "language": "nd",
+  "title": "22 Nami Futhi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Vuma, vuma ‘Nkosi yami, U be ukulunga kwam’;",
+        "Themba ma u hlale nami, U phas’ imizamo yam’."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Nkosi yam’, ‘Nkosi yam’,",
+        "U phas’ imizamo yam’"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma u ngizwe, ‘Nkosi yami, U ng’enzel’ umusa nam’.",
+        "Sength’ ukuhamba kwami, U ngangiqondisa nam’"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Nkosi yam’, ‘Nkosi yam’,",
+        "U ngangiqondisa nam’"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sekukade ngi ng’umoni, Kade ngi ngakuboni",
+        "Kwanga ngi ngaphiw’ ubomi, Xolela lesi ‘soni"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Nkosi yam’, ‘Nkosi yam’,",
+        "Xolela lesi soni"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mninimandl’ osezulwini, Ngi kiph’ ezinsizini",
+        "Ngi sindise ekoneni, Ngithembel’ eNkosini."
+      ],
+      "number": 7
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "‘Nkosi yam’, ‘Nkosi yam’,",
+        "Ngithembel’ eNkosini"
+      ],
+      "number": 8
+    }
+  ]
+}

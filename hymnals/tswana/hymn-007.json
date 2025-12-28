@@ -1,0 +1,38 @@
+{
+  "number": 7,
+  "language": "tn",
+  "title": "7 Mogang O Tlang",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mogang O Tlang, Mogang O Tlang, Go Dira Majwana,",
+        "A Gagwe a a tlhokegang, Baratwi ba ’Gwe"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jaka naledi mosong, Serwalong sa Gagwe",
+        "Batla phatsima bontleng, Serwalong sa ’Gwe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Tla Phutha, O Tla Phutha, Majwana A Gagwe",
+        "Baitshepi botlhe marang, Baratwi ba ’Gwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le Banyana, E Banyana Ba Ba Ratang Jeso,",
+        "Ke majwana a tlhokegang Baratwi ba ’Gwe."
+      ],
+      "number": 3
+    }
+  ]
+}

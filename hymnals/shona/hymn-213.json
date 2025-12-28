@@ -1,0 +1,55 @@
+{
+  "number": 213,
+  "language": "sn",
+  "title": "213 Rwiyo Rwangu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu M’nunuri wangu",
+        "Muri rwiyo rwangu",
+        "M’ponesi munyaradzi",
+        "Mumatambudziko"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu m’mununuri wangu, muri rwiyo rwangu",
+        "Handina imwe hama inopinda imwi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muri chishangu changu",
+        "Muupenyu hwese",
+        "Kana ndava mudima",
+        "Apo ndinochema"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi ndomusimbira",
+        "Shamwari yeidi",
+        "Ndinomuda kupinda",
+        "Vanhu vese pasi"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muri rufaro rwangu",
+        "Mupasi redima",
+        "Ndofara nemwi kwazvo",
+        "Mudangaro renyu"
+      ],
+      "number": 5
+    }
+  ]
+}

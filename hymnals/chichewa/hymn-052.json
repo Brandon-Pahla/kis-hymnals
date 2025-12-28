@@ -1,0 +1,44 @@
+{
+  "number": 52,
+  "language": "ny",
+  "title": "52 - Kasupe Wa Madalitso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "COME, THOU FOUNT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Idzani ndi madalitso, Mtima wanga uyimbe;",
+        "Nsisi zanu zisaleke, Kuti tiyamike ’Nu,",
+        "Phunzitseni kumvera ’Nu, Kuti ndikudziweni,",
+        "Pamene chiyembekezo Chidzaza mtima wanga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndinutu thandizo langa, Mwandifikitsa pano,",
+        "Ndipo mwa chifundo chanu Ndikafika kwathuko.",
+        "Anandifuna Yesuyo, Posochera mtalimo;",
+        "Anakhetsa mwazi wake Kundiombola ine."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. M’ndipatse chisomo chanu, Pakuti ndichisowa!",
+        "Mundikokere kwa Inu Ndi chikondi chanucho.",
+        "Sindifuna kusochera, Kukusiyani Inu,",
+        "Tengani Mtima wangawu; Ukhale wanu konse"
+      ],
+      "number": 4
+    }
+  ]
+}

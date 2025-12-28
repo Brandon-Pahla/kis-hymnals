@@ -1,0 +1,46 @@
+{
+  "number": 366,
+  "language": "tw",
+  "title": "Apaafo a Wɔboaboaa Nnɔbae Pa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Apaafo a wɔboaboaa nnɔbae pa",
+        "Ano fi bɔne mfuw mu no wɔ he?",
+        "Wɔde nokwar' nkrantɛ di dwuma no,",
+        "Na hom'gye nnim kosi sɛ wobewie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Apaafo wɔ he? Hena bɛba",
+        "Abɛka otwa anuonyam no ahwɛ?",
+        "Hena bɛboa yɛn ama yɛatwa",
+        "Nnɔbae pa afi bɔne mfuw mu?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mfuw no nyinaa ahoa wɔ baabiara;",
+        "Wiasč ayɛ krado retwɛn otwa no;",
+        "Adwuma no so, apaafo no sua,",
+        "Otwan' anyɛ ntɛm a akra bɛy'ra."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Momfa mo nkrantɛ mmra, mo nnipa mma,",
+        "Na mommoaboa awi pa no ano;",
+        "Monyɛ 'dwuma kosi 'twa W'ra no mmae,",
+        "Na mo ne No akyɛ Ne twa ho dɛw."
+      ],
+      "number": 3
+    }
+  ]
+}

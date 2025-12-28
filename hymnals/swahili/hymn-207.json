@@ -1,0 +1,30 @@
+{
+  "number": 207,
+  "language": "sw",
+  "title": "207 Nani Ayafanya Maua",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Nani ayafanya maua, maua,",
+        "Nani ayafanya, Mungu juu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Nani apambaye machweo, machweo,",
+        "Nani ayapamba, ni Mungu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Nani afanya theluji, theluji,"
+      ]
+    }
+  ]
+}

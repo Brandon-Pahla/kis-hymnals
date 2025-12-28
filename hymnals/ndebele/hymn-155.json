@@ -1,0 +1,59 @@
+{
+  "number": 155,
+  "language": "nd",
+  "title": "155  Ngoya Lapho Uthi Mangiye Khona",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kungebe phezulu kwentaba",
+        "Nom’ olwandl’ ol’ gubhayo",
+        "Kungebe phambili empini",
+        "iNkosi i yongi dinga",
+        "Ngezw’ elincane ngi bizelwe",
+        "Nalapho ngi ngaziyo",
+        "Ngathi, Nkosi ngi bambe ngesandla",
+        "Ngoya lapho u sho khona"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngoya lapho u sho khona Nkosi",
+        "Entabeni nasolwandle",
+        "Ngosho lok’ okuthandayo",
+        "Nkosi Ngiyoba izinto zonke"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kumbe, nank’ amazwi ka Jesu",
+        "Ath’ a ngi washo namhla",
+        "Ngabe ku khon’ osekhoneni",
+        "Umduki ofunwayo",
+        "O, Nkosi, uma u ngi hola",
+        "Nom’ indlela imnyama",
+        "Ngosho ngi thi ku lungile konke",
+        "Ngokusho okuthandayo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ku khon’ eny’ indawo epansi",
+        "Emfundeni zomhlaba",
+        "Lapho ngi ngasebenza khona",
+        "Ngenzel’ ongifeleyo",
+        "Ngethembele konke kuYena",
+        "Ngi yaz’ u yangithanda",
+        "Ngolalela ngenhliziyo yonke",
+        "Ngibe nje okuthandayo"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 6,
+  "language": "guz",
+  "title": "6 Tata Twagochera",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tata twagocheire, Intwe twaremeirwe;Nay'obotamero, Twasoroire.'Nse'ger'omosunte, Eker'otario;Kab'Omoremi'oito, Tat'o'bonsi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tata twagocheire, totoombia'Gw'ogosaba gwaito ntw'abareu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Totorie Korw'as' ababisa n'obobe;Nay'obotimok'as' okogania.'Se chitang'utang'u n'obwor'otoremie;'Se chinguru chiao otokong'ie."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Toe 'buya bwao tob'abao bori;Tami'amagor'aito korw'ebibe.Twasoroire torae goika tobue;Tomeny'amo nay'eng'umbu engiya."
+      ],
+      "number": 4
+    }
+  ]
+}

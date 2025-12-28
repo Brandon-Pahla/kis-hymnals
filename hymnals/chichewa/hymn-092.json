@@ -1,0 +1,51 @@
+{
+  "number": 92,
+  "language": "ny",
+  "title": "92 - Msaiwale Tsiku La Mbuye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "DON’T FORGET THE SABBATH"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Msaiwale tsiku la Mbuye wathuyo.",
+        "Ndi tsiku lopambana masiku enawo;",
+        "Ndi tsiku lakupuma ndi la chimwemwecho,",
+        "Kuwala kwake kuli kochoka mmwambamo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tikondwera kudza kwa Sabata lakelo.",
+        "Tikondwera kudza kwa Sabata lakelo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Sunga tsiku lake lopatulikalo,",
+        "Pembedza mwini njira yakunka mmwambamo;",
+        "Tikamtsatira Iye pa dziko linotu,",
+        "Adzatipatsa madzi a moyo wakewo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Timyimbira Yesu pa tsiku lonseli,",
+        "Ambuye ali Bwenzi la ana onsewo.",
+        "Wokoma mtima ndinu, Mukhale nafetu,",
+        "Munalonjeza kuti mudzadza m’mtimamu."
+      ],
+      "number": 4
+    }
+  ]
+}

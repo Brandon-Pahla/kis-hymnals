@@ -1,0 +1,46 @@
+{
+  "number": 426,
+  "language": "tw",
+  "title": "Mehu ɔhen' No, Nea 'Bɔfo To Dwom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mehu ɔhen' no, nea 'bɔfo to dwom;",
+        "Menu ɔhen' no da bi,",
+        "'Sase pa no so, sika mpoano hɔ,",
+        "Na me ne No atra daa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mehu ɔhen' no N'anuonyam mu,",
+        "Na mato ayeyi dwom daa daa;",
+        "Kalbre so hɔ na Yesu wu maa me;",
+        "Mehu ɔhen' no ba bi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nnwonto 'sase a 'nuonyam dɔm wɔ so,",
+        "Nea anadwo nni hɔ no,",
+        "Me ne me W'ra no bedi ahen' daa",
+        "'Nuonyam hann 'sase no so."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mehu ɔhen' no de m'aboade ny'naa",
+        "Ama na mahwɛ N'anim;",
+        "Me dwom bɛyɛ senea ɔde Ne dom",
+        "Agye me akōra me no."
+      ],
+      "number": 3
+    }
+  ]
+}

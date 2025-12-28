@@ -1,0 +1,55 @@
+{
+  "number": 251,
+  "language": "ve",
+  "title": "251. U Lila Na Matodzi A Zwi Ntshidzi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. U lila na Matodzi zwi kundwa u ntshidza,",
+        "Zwi nga si tuse nyofho, zwi nga si tanzwe zwivhi.",
+        "Zwi nga si do nthusa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu o shengedzwa a mpfela tshifhambanoni,",
+        "Nda wana mbofholowo, nda tshidzwa nga Ene."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mishumo mivhuya, i yothe a i tshidzi,",
+        "Ngelekanyo mbuya dzi nga si mvusuludze,Mishumo a i nthusi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. U lenga a hu thusi, ndi fela zwivhini,",
+        "Ndi pfa ipfi la tshilidzi, nda lenga ndo fa,U lenga a hu thusi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Lutendo lu a tshidza, ndi tshidzwa nga Ene,",
+        "Ndi Mu fulufhele, ndi shavhele ha Ene,Lutendo lu a tshidza."
+      ],
+      "number": 5
+    }
+  ]
+}

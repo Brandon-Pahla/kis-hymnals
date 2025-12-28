@@ -1,0 +1,46 @@
+{
+  "number": 116,
+  "language": "tw",
+  "title": "Wɔwoo No Agya No Dɔ Mu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔwoo No Agya no dɔ mu",
+        "Ansa na ɔbɔɔ wiase;",
+        "ɔne Alfa ne Omega;",
+        "Mɔfiase ne awiei no.",
+        "Nneemá a ɛwɔ hɔ, nea atwam,",
+        "Ne nea daakye yebehu",
+        "Daapem ne daapem nyinaa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔs'rofo nyinaa monsom No,",
+        "Abɔfo nto N'ayeyi;",
+        "Tumi nyinaa nkoto N'anim,",
+        "Momma yɛn Nyame Hen' so",
+        "Ͻnsɛ sɛ tɛkrɛma yɛ komm.",
+        "Ͻnne nyinaa mmom nto dwom",
+        "Daapem ne daapem nyinaa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kristo, Wo ne Agya Nyame,",
+        "Ne Wo, Honhom Kronkron no",
+        "Yɛde nnwonto, ne aseda,",
+        "Ne yɛn ayeyi ma Mo;",
+        "'Nidi, 'nuonyam ne ahenni",
+        "Ne nkonimdi yɛ Mo de",
+        "Daapem ne daapem nyinaa."
+      ],
+      "number": 3
+    }
+  ]
+}

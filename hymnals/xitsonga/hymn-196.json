@@ -1,0 +1,25 @@
+{
+  "number": 196,
+  "language": "ts",
+  "title": "196. XANA U RHANDZA KU HLULA NALA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE’S POWER IN THE BLOOD",
+        "1. Xana U Rhandza Ku Hlula Nala, Ntamu Wu Kona Engatini,",
+        "U Lava Ku Hlula Na Vudyoho, Ntamu Wu Kona Engatini.",
+        "CHORUS",
+        "Wu Kona Ntamu Engatini, Ngatini Ya Yesu,",
+        "Wu Kona Ntamu Engatini, Ngatini Ya Hosi Yesu.",
+        "2. U Rhandza Na Ku Titsongahata, Ntamu Wu Kona Engatini,",
+        "No Tengisiwa Eka Manyala, Ntamu Wu Kona Engatini.",
+        "3. Xana U Rhandza Ku Basisiwa, Ntamu Wu Kona Engatini,",
+        "No Suka Swivati Swa Vudyoho, Ntamu Wu Kona Engatini.",
+        "4. U Rhandza Ku Yi Tirhela Hosi? Ntamu Wu Kona Engatini,",
+        "Hambi Kona Ku Gandzela Hosi, Ntamu Wu Kona Ngatini."
+      ],
+      "number": 1
+    }
+  ]
+}

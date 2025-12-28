@@ -1,0 +1,42 @@
+{
+  "number": 72,
+  "language": "tn",
+  "title": "72 Katlholo E Beilwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Katlholo E Beilwe, Kwalo Di Butswe;",
+        "Re tla ema jang tsatsing jeo,",
+        "Mogang tsotlhe Modimo, Moatlhodi,",
+        "O lekanyang tshiamong?",
+        "Chorus :",
+        "Re tla ema jang tsatsing jeo?",
+        "Re tla ema jang tsatsing jeo?",
+        "A re tla fitlhelwa re tlhaela?",
+        "Kana dibe di tlhatswitswe?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tiro E Simolola Mo Go Baswi,",
+        "Go latela ba ba tshelang;",
+        "Katlholo ya ’Gwe e tla ema",
+        "Dikwalong tsa Modimo,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Tla Ema Jang Go Tlhotlhomisiwa,",
+        "’Be tsa rona di senolwa,",
+        "Go atlhotswe gotlhe kgotleng eo,",
+        "Go se boipiletso?"
+      ],
+      "number": 3
+    }
+  ]
+}

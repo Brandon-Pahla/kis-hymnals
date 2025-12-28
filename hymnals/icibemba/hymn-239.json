@@ -1,0 +1,34 @@
+{
+  "number": 239,
+  "language": "bem",
+  "title": "239 - BUSHE WANAKA?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ART THOU WEARY?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bushe iwe naunaka, naupelelwa?",
+        "Yesu ati, Isa kuno 'sotushe.",
+        "2. Bushe nakwate tilaso 'kuti mwishibe?",
+        "Ee mu mbafu namu mimwe ne nkasa.",
+        "3. Bushe afwele citebo pa mutwe wakwe?",
+        "Ee citebo alifwele ca myunga.",
+        "4. Nga nakonka namusanga akampela nshi?",
+        "Amalanda no kucula fikapwa.",
+        "5. Nga namukonka mupepi cinshi akampela?",
+        "Ubulanda nokucula fikapwa.",
+        "6. Nga namulomba ukumbula, engankana?",
+        "Tetyakane; mulu, calo tipite.",
+        "7. Kusango kukonka kulya bushe ampale?",
+        "Bakasesema bashila bati Ee."
+      ],
+      "number": 2
+    }
+  ]
+}

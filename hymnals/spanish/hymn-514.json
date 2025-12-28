@@ -1,0 +1,72 @@
+{
+  "number": 514,
+  "language": "es",
+  "title": "¡Despertad, despertad, oh cristianos!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Despertad, despertad, oh cristianos!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Despertad, despertad, oh",
+        "cristianos!",
+        "Vuestro sueño funesto dejad;",
+        "que el cruel enemigo os acecha,",
+        "y cautivos os quiere llevar.",
+        "¡Despertad!, las tinieblas pasaron;",
+        "de la noche no sois hijos ya,",
+        "mas lo sois de la luz y del día,",
+        "y tenéis el deber de luchar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Despertad, preparad vuestras",
+        "armas,",
+        "vuestros lomos ceñid de verdad,",
+        "y calzad vuestros pies, aprestados",
+        "con el grato evangelio de paz.",
+        "Basta ya de profundas tinieblas,",
+        "basta ya de pereza mortal;",
+        "¡revestid, revestid vuestro pecho",
+        "con la cota de fe y caridad!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La gloriosa armadura de Cristo",
+        "acudid con valor a tomar,",
+        "confiando en que el dardo enemigo",
+        "impotente se ha de quebrar.",
+        "¡Oh cristianos, antorchas del mundo!,",
+        "de esperanza el yelmo tomad,",
+        "levantad de la fe el escudo,",
+        "y sin miedo corred a luchar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No temáis, pues de Dios revestidos,",
+        "¿qué enemigo venceros podrá,",
+        "si tomáis por espada la Biblia,",
+        "la Palabra del Dios de verdad?",
+        "En la cruz hallaréis la bandera,",
+        "en Jesús hallaréis Capitán;",
+        "en el cielo obtendréis la corona:",
+        "¡A luchar! ¡A luchar! ¡A luchar!"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "number": 590,
+  "language": "pt",
+  "title": "Adoração a Ti, Senhor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Adoração a Ti, Senhor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Queremos dar, em oração",
+        "Adoração a Ti Senhor.",
+        "Aceita, pois, a gratidão:",
+        "Demonstração do nosso amor.",
+        "Amém."
+      ],
+      "number": 2
+    }
+  ]
+}

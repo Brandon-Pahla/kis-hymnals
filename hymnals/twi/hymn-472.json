@@ -1,0 +1,58 @@
+{
+  "number": 472,
+  "language": "tw",
+  "title": "Etɔ Dá a Mete Dwom Bi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Etɔ dá a mete dwom bi,",
+        "Nea obi ntee bi da,",
+        "Sɛ ɛnam s'ro apon mu",
+        "Resian ba 'sase so;",
+        "Ͻte sɛ abɔfo nne",
+        "Anigye ne ɔdom',",
+        "Ͻhyɛ dwonto kɛse ma",
+        "Twa s'ro 'hengua ho hyia."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, ɔsoro dwom dɛdɛ",
+        "A wɔte fi nohoa,",
+        "ɔsoro ne fie dwom a",
+        "Efi Nyamč apon mu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻde asomdwoe tene",
+        "Fa me kra mu bɔkɔɔ,",
+        "Sɛ Onyankopɔn nhyira",
+        "Ma 'sase so haw gyae,",
+        "Ͻkorɔn sen m'frama,",
+        "As'rɔkye ne po nne;",
+        "Na ɛde anuonyam dwom",
+        "Hyɛ ɔsoro fie ma."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dwom yi ba me so daa daa",
+        "Sɛ dae mu ade bi,",
+        "Ͻba te sɛ ɔsoro",
+        "Mframa ne asuten;",
+        "ɔdɛw hyɛ me koma ma",
+        "Sɛ b're bi bɛba a",
+        "Me ne abɔfo bɛto",
+        "ɔs'ro ne fie dwom no."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": 202,
+  "language": "ve",
+  "title": "202. Yesu Mutshidzi Nndededze (Nkhwale)",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:551",
+        "AH:297"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu Mutshidzi nkhwale kha vhutshilo ha khombo;",
+        "Magabelo na matombo zwi a ntshenusa.",
+        "Tshisumba-ndila tshi bva kha iwe, Yesu nkhwale."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Sa mme a tshi fhumudza nwana,",
+        "U fhumudza lwanzhe;",
+        "Na magabelo a a U pfa u tshi ri: ’Tshete.’",
+        "Muvhuso u mangadzaho lwanzhe, Yesu nkhwale."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Khunzikhunzini hu na mubvumo u ofhisaho:",
+        "U tsini na mulalo, Ndi di-tika nga Iwe,",
+        "Ndi pfe U tshi ri: ’U si ofhe ndi do u bvisa.’"
+      ],
+      "number": 4
+    }
+  ]
+}

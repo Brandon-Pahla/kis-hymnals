@@ -1,0 +1,55 @@
+{
+  "number": 232,
+  "language": "nd",
+  "title": "232 Ngeze Ngakushiya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A ngi ngeze ngakushiya;",
+        "A ngi yi kukudela,",
+        "Ngi zakukuhola wena ,",
+        "Ngohlala ngi kugcina,",
+        "U ngemqenike okubi ,",
+        "Ngi hloniph’ ungesabi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa u sekuhluphekeni ,",
+        "Hlal’ ekukhulekeni ,",
+        "Mina ngi zokududuza ,",
+        "Ngi zokukhanyisela,",
+        "Ezilingweni ngendlela,",
+        "Ngi zokukhanyisela"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa kuwe ku kuhle konke",
+        "U hanqwe kukhanye nge!",
+        "U hlalake wenamile,",
+        "U nento zi lungile",
+        "Ngi zakuba nawe Mina",
+        "Ngi kwendulele wena"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lapha u senhluphekweni,",
+        "Khon’ ezinkathazweni,",
+        "Uma wen’ u qinisela ,",
+        "Ngi zokulondoloza,",
+        "Uthando lwami lu nawe,",
+        "Phezulu oqondiswe"
+      ],
+      "number": 4
+    }
+  ]
+}

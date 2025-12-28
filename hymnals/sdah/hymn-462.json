@@ -1,0 +1,35 @@
+{
+  "number": 462,
+  "language": "en-sdah",
+  "title": "462 Blessed Assurance, Jesus Is Mine",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Blessed assurance, Jesus is mine! O, what a foretaste of glory divine! Heir of salvation, purchase of God, Born of His Spirit, washed in His blood."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain : This is my story, this is my song, Praising my Saviour all the day long; This is my story, this is my song, Praising my Saviour all the day long."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Perfect submission, perfect delight, Visions of rapture now burst on my sight. Angels descending bring from above Echoes of mercy, whispers of love."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Perfect submission, all is at rest, I in my Saviour am happy and blest, Watching and waiting, looking above, Filled with His goodness, lost in His love."
+      ],
+      "number": 4
+    }
+  ]
+}

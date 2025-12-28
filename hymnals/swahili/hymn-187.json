@@ -1,0 +1,39 @@
+{
+  "number": 187,
+  "language": "sw",
+  "title": "187 - Kufariki Naye Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Kufariki naye Yesu, usingizi wenye heri,",
+        "Raha isiyofujika, kwa majonzi na adui."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Kufariki naye Yesu, lo ya kubwaga simanzi",
+        "Na kulala na amani, hata Bwana awatuze."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Kufariki naye Yesu, heri watakaoamshwa,",
+        "Wataona siku ile, utukufu wake Bwana."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Kufariki naye Yesu, wataamka aitapo,",
+        "Watapasua kaburi, na kutoka watukufu."
+      ]
+    }
+  ]
+}

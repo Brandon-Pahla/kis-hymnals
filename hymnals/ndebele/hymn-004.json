@@ -1,0 +1,47 @@
+{
+  "number": 4,
+  "language": "nd",
+  "title": "4 U Yeza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Imnand’ indab’ endlebeniyesihambi, Esazulakudenekhaya!",
+        "Ku seduzeabuyengodum’ uMhlengi; Masiny’ uMbus’ u fike."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U yeza, u yeza, masinyane, U yez’ emhlabenilapha;",
+        "Izihambizonazifumanise IkhayaloMsindisi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bonke labo abakade ba ngcwatshwayo, Ba zovuka ekupheleni.",
+        "Ye nabasolwandle olujulileyo; Ukuphila bokufumana."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwelisha ilizwe si zohlanganiswa; Si hub’ ingoma yobukhosi",
+        "Nabavela eNyakatho ba zokuza, Ba khonz’ iNkosi yamakhosi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Haleluya, amen! Haleluya futhi; Ngokwethembeka sobakhona.",
+        "Lindani, thembani, kube isikhathi; Umqhele sesowufumana."
+      ],
+      "number": 5
+    }
+  ]
+}

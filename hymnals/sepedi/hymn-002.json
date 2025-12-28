@@ -1,0 +1,68 @@
+{
+  "number": 2,
+  "language": "nso",
+  "title": " 2 KGOŠI E ETLA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 2 KGOŠI E ETLA",
+        "AH 414 CH 546",
+        "THE COMING KING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kgoši e tlang e monyakong,",
+        "Yeo e rwelego 'fapano;",
+        "Bjale o tla go bakgethwa,",
+        "Go ba iša gae;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Di tšhupo tša go tla ga 'Gwe,",
+        "Di diragala ka pele;",
+        "Re tlo bona ka pejana,",
+        "'Phelo bosafeleng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušulošo",
+        "Monyakong…………..",
+        "Monyakong,……………..",
+        "Kgoši šetše fihlile",
+        "E etla eng e etla",
+        "šetše e le monyakong."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hlokomelang ba lefaseng,",
+        "Meleko ga e fele;",
+        "Go tlo fihla Mophološi;",
+        "Molahletši a hwe."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gona faseng le leswa,",
+        "Re tlo phela re le baswa;",
+        "Bao ba hwago ba se sa hwa,",
+        "Ka mo go sa feleng"
+      ],
+      "number": 6
+    }
+  ]
+}

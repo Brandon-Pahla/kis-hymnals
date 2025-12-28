@@ -1,0 +1,42 @@
+{
+  "number": 116,
+  "language": "guz",
+  "title": "116 Abanchete Nyasaye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Abanchete Nyasae,Moche nomogokoTer'ogotera okuya,Ter'ogotera okuyaAse ekerogo,Ase ekerogo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Togende Zayoni,Omochi' omuya ZayoniTotire gochia Zayoni,'Mochi' omuya o Nyasae."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. BatamomanyetiNyasae mbatera,Bana b'Erwoti ya igoro,'Bana b'Erwoti ya 'goroBoroki' Omogoko,Boroki 'Omogoko."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Rimisu rigiyarirw' ase ZayoniTotaraika igoro,As' ebitii bia IgoroGotara chincherachiria chiedhaabu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Matera abuche,'Mariga asire,Bana b'Erwoti ens' eria,Ens'eria ya Imanueli!Gochia chinse chinde,chingiya chia Igoro."
+      ],
+      "number": 5
+    }
+  ]
+}

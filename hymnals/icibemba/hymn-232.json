@@ -1,0 +1,32 @@
+{
+  "number": 232,
+  "language": "bem",
+  "title": "232 - NSHAKAKUSHE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I WILL NEVER LEAVE THEE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nshakakushe nkaba nobe, Nshakabale nkutamfya;",
+        "Nkalakwensha, nkakusunga. Pamulandu wa luse;",
+        "Wi latina, wilatina, We konke shiwi lyandi",
+        "2. Nge fipupu fyakushinga. Ulenjita mwipepo;",
+        "Nakula kufukatila, Nokusungwa kwa cine;",
+        "Mumesho nakula kwafwa, Nkabushe nshila yobe.",
+        "3. Ngo lwelele lwabutisha, Na'po ‘li palebeka;",
+        "Kusekela ngo mumana, Wamona 'ti fyawama;",
+        "Nakulaba na iwe pe, Nkasungo kwenda kobe.",
+        "4. Ilyo mweo wabipisha, Mwaba nokutwishika;",
+        "Matunko nga yafulisha, Ndetuma ulubuto;",
+        "No luunga lwakutemwa, muli ne ukacimfya"
+      ],
+      "number": 2
+    }
+  ]
+}

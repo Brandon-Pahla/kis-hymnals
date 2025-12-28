@@ -1,0 +1,41 @@
+{
+  "number": 22,
+  "language": "tn",
+  "title": "22 Morena Ke Utlwa Masego",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Morena Ke Utlwa Masego A O Ntse O A Nesa;",
+        "A kgorisa ba nyorilweng, A ke a nnele le nna,",
+        "REFRAIN:",
+        "E le nna, e le nna, A ke a nnele le nna"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rara Yo O Pelonomi, Se Mphete Nna Moleofi;",
+        "Mme lefa O ka Wa mpheta Se fete le masego."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Ke Ntse Ke Letse Sebeng? Mme Ke Go Hutsafatsa?",
+        "Ke ntse ke le wa lefatshe? Intshwarele mpoloka:"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se Mphete Mo’a O Boitshepo, O Ka Bontsha Difofu;",
+        "Supa neo ya ga Jeso Bua kagiso go nna."
+      ],
+      "number": 4
+    }
+  ]
+}

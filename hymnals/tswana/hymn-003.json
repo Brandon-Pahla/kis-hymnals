@@ -1,0 +1,46 @@
+{
+  "number": 3,
+  "language": "tn",
+  "title": "3 Fa ’Fatlhogo Di Lebana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Fa ’Fatlhogo Di Lebana, Le Kreste Go Tla Nna Jang",
+        "Boitumelo fa ke mmona, Jeso Kreste yo’ ntshwetseng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke tla mmona re lebanye, kwa moseja godimo,",
+        "Ke tla Mmona re lebanye, Kgalalelong ya Gagwe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka Lefitshwana Kea Mmona Go Le Losire Gare;",
+        "Me go tla tsatsi ja sego, Ja kgalalelo ya ’Gwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Boitumelo Mo Go Ene, Botlhoko Bo Fedile;",
+        "Tsela di siamesitswe Lefifi le fedile."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Fatlhogo Di Tla Lebana Go Bona Le Go Itse;",
+        "’Fatlhogo di tla lebana Le Jeso Yo o nthatang."
+      ],
+      "number": 4
+    }
+  ]
+}

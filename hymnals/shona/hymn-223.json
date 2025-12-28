@@ -1,0 +1,55 @@
+{
+  "number": 223,
+  "language": "sn",
+  "title": "223 Ndanzwa Tenzi Wandidana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndanzwa Tenzi wandidana, Neinzwi rakanyorwa;",
+        "Aya manzwi ndinoanzwa, Uya Undi-tewe-re ini."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinotora muchinjiko, Ndichimuteera Tenzi;",
+        "Kwese ndinomutevera, Ndinofamba, naye Munzira."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana nzira inedima, Makumbo angu anete,",
+        "Asi mwoyo unofara, Ndichimutevera minzira."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu munditungamire, Mundipe rujeko rwenyu,",
+        "Mundishingise netsitsi, Ndichimutevera munzira."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mugwenga nditungamire, Ndipe mana yekudenga,",
+        "Ndinomuda nguva dzese, Ndichimutevera munzira."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndipinzei mumwoyo menyu, Ndigumbatirenyi Tenzi,",
+        "Netsitsi ndisimudzeyi, Ndichikutevera munzira."
+      ],
+      "number": 6
+    }
+  ]
+}

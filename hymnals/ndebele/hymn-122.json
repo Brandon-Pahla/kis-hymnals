@@ -1,0 +1,42 @@
+{
+  "number": 122,
+  "language": "nd",
+  "title": "122 Eduze Futhi Eduze",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Eduz’ eduze Nkosi, kuWe Ngidonsele Jes’ othandekayo",
+        "Ngigon’ u ngisondeze kuWe Ngicashise, Nqaba yokuphumla",
+        "Ngicashise, Nqaba yokuphumla"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eduz’ eduze anginanto Engumnikelo kuJes’ iNkosi",
+        "Nans’ inhliziy’ ephendukayo Ma ngi gezwe egazini lAkho",
+        "Ma ngi gezwe egazini lAkho"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eduz’ eduze Jesu ngithathe Ngi del’ isono nobubi baso",
+        "Ukuzigabisa kususwe Ngi ph’uJesu obethelw’ emthini"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eduz’ eduze ngi saphila Liz’ ithemba lami lime kuWe",
+        "Emnyaken’ engenakuphela Ng’sondel’ eduze Msindisi wami",
+        "Ng’sondel’ eduze Msindisi wami"
+      ],
+      "number": 4
+    }
+  ]
+}

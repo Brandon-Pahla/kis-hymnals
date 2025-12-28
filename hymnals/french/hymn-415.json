@@ -1,0 +1,41 @@
+{
+  "number": 415,
+  "language": "fr",
+  "title": "Qu'il est formidable d'aimer",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Qu'il est formidable d'aimer, qu'il est formidable !",
+        "Qu'il est formidable d'aimer, qu'il est formidable",
+        "De tout donner pour aimer !",
+        "Quand on n'a que ses mains à tendre ou à donner,",
+        "Quand on n'a que ses yeux pour rire ou pour pleurer,",
+        "Quand on n'a que sa voix pour crier, chanter,",
+        "Quand on n'a que sa vie et qu'on veut la donner :"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quand on n'a que sa peine à dire ou à cacher,",
+        "Quand on n'a que ses joies à taire ou à partager,",
+        "Quand on n'a que ses rêves à faire voyager,",
+        "Quand on n'a que sa vie et qu'on veut la donner :"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Qu'il est formidable d'aimer, qu'il est formidable !",
+        "Qu'il est formidable d'aimer, qu'il est formidable",
+        "De tout donner pour aimer !"
+      ],
+      "number": 3
+    }
+  ]
+}

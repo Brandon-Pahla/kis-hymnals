@@ -1,0 +1,47 @@
+{
+  "number": 28,
+  "language": "sn",
+  "title": "28 Iwanyi nenguva Yekuponeswa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Iwanyi nenguva Yekuponeswa,",
+        "Taura naTenzi, Munozogutswa,",
+        "Ngeizwi’ro rake Uzadze moyo,",
+        "Tsvaka kuna Iye Chikomborero"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iwanyi nenguva Yekuponeswa,",
+        "Iwanyi nenguva naJesu ega,",
+        "Nekumunangisa, Mufane na’Ye,",
+        "Vese vachaona Jesu kunewe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iwanyi nenguva Yekuponeswa,",
+        "Musaenda mberi, asi teverai,",
+        "Jesu Muponesi, Anotungamira,",
+        "Ndizvo muBhaibheri, Munosimbira"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iwanyi nenguva Yekuponeswa,",
+        "Zvese’zvo zvifungo Zvamunoita,",
+        "Zvinotungamirwa NdiJesu Kristu,",
+        "Zve munogadzirwa Humambo hwedu"
+      ],
+      "number": 4
+    }
+  ]
+}

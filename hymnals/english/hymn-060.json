@@ -1,0 +1,39 @@
+{
+  "number": 60,
+  "language": "en",
+  "title": "60 Jesus, Thou Joy Of Loving Hearts.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus, thou joy of loving hearts! Thou fount of life! Thou light of men",
+        "From the best bliss that earth imparts, We turn unfill’d to thee again."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "We taste thee, O thou Living Bread, And long to feast upon thee still;",
+        "We drink of thee, the Fountain-head, And thirst our souls from thee to fill."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Our restless spirits yearn for thee, Where’er our changeful lot is cast,",
+        "Glad, when thy gracious smile we see, Blest, when our faith can hold thee fast."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Jesus, ever with us stay; Make all our moments calm and bright;",
+        "Chase the dark night of sin away, Shed o’er the world thy holy light."
+      ],
+      "number": 4
+    }
+  ]
+}

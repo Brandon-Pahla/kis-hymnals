@@ -1,0 +1,31 @@
+{
+  "number": 227,
+  "language": "bem",
+  "title": "227 - PALUPANDA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "AT THE CROSS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mupu-sushi andu-bwile no mulopa wakwe;",
+        "Acu-lile pali ine kuti nsange mweo.",
+        "CHORUS:",
+        "Palya pa lupanda namwene-lubuto;",
+        "Cisendo ca mutima casendwa .....",
+        "Mu busu-mi-no napelwa menso,",
+        "No-mba nakulasekela pe",
+        "2. Bu-she bwali bu-bi bwandi eco aculile?",
+        "Awe kwali ukutemwa Uko nshinga landa.",
+        "3. Na-ngu ndile teti mpwishe imisha nakwata;",
+        "Ta-kuli co ninga-cita Kano kuipela"
+      ],
+      "number": 2
+    }
+  ]
+}

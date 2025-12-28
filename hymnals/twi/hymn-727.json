@@ -1,0 +1,47 @@
+{
+  "number": 727,
+  "language": "tw",
+  "title": "N32 Awake, O Lord",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyan, O Awurade, sε tete hɔ'",
+        "Sian, O Honhon, W'ahoɔden ne tumim';",
+        "Yenni W' nti yεn koma ayε nwini,",
+        "Na y'adwen nhu kwan yie nkɔ hann no ho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akyinnye adɔɔso, na ma ennyae!",
+        "Suro wɔ yεn mu, na dwudwo ano!",
+        "Dan yεn mu ap'rep're no asomdwee!",
+        "Nsakrae rekɔ so: má εnyε nsakrae pa!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ɔnyɔ nyansa tit'riw na ehia yεn,",
+        "Ewom nyansá a Woahy'ra so bo yε den:",
+        "Ɛyε ɔpε ne tum' a wɔde dɔ;",
+        "Ne hù a adwen' behu sε Nyame bεn."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma yεnyε sεnea yεn din no te pε;",
+        "Ma mpae nyε mpae, na yeyi mfi komam;",
+        "Gye yεn fi nkontompo nsam, Aw'rade,",
+        "Na ma yεn nsεm ne nneyεe nso nkɔ pε."
+      ],
+      "number": 4
+    }
+  ]
+}

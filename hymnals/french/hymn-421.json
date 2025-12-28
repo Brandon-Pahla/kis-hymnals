@@ -1,0 +1,55 @@
+{
+  "number": 421,
+  "language": "fr",
+  "title": "Quand j'étais seul",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Quand j'étais seul, rejeté, qu'as-tu fait, qu'as-tu fait ?",
+        "Quand j'étais seul, rejeté, qu'as-tu fait ?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Peu m'importe ton nom, ta religion, ta couleur : je suis là."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "J'avais soif et j'avais faim, qu'as-tu fait, qu'as-tu fait ?",
+        "J'avais soif et j'avais faim, qu'as-tu fait ?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "J'avais froid sans un foyer, qu'as-tu fait, qu'as-tu fait ?",
+        "J'avais froid sans un foyer, qu'as-tu fait ?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quand j'étais si malade, qu'as-tu fait, qu'as-tu fait ?",
+        "Quand j'étais si malade, qu'as-tu fait ?"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tout au long de ton chemin, je suis là, je suis là.",
+        "Tout au long de ton chemin, je suis là."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 118,
+  "language": "ve",
+  "title": "118. Yesu O Rengulula Zwothe.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:184",
+        "AH:119"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi pfa Yesu u ri, ’A una na Maanda;",
+        "Linda nga thabelo, ndi do u nea zwothe.’"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu Mutshidzi, ndi a livhuwa,",
+        "O rengulula zwothe, vhuvhi hanga hothe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Murena ndi vhonesa, Maanda kha iwe,",
+        "A tanzwe mapele, na mbilu ya tombo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi muvhi muhulu, ndi lila tshilidzi,",
+        "Ndi do tanzwa nguvho, malofhani awe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndi ima phanda hau, ndo no vha mukhethwa,",
+        "Ndo vhea Maanda anga, phanda ha Iwe-vho."
+      ],
+      "number": 5
+    }
+  ]
+}

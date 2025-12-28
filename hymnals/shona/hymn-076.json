@@ -1,0 +1,55 @@
+{
+  "number": 76,
+  "language": "sn",
+  "title": "76 Kuponesa Varikufa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ponesa vese’wo varege kufa",
+        "Muvabvise muzvavo zvitema",
+        "Chemera vatadzi, nekuvaudza",
+        "Kuti Jesu anovaponesa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ponesa vese’wo, Varikufa’yo",
+        "Jesu ane mutsa, Kuponesa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana vamuramba, Arikumira",
+        "Amirira vese kugashira",
+        "Muvatete ivo, teta ne mutsa",
+        "Asunungure vanodawira"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mukati mwe mwoyo yevanhu vese",
+        "Zviri zvifungo’zvo zvakaigwa",
+        "Itanyi ngerudo, dirira tsitsi",
+        "Zvichamera kuva zvakanaka"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ponesa vese’vo vanhu vaJesu",
+        "Tenzi anopa simba rebasa",
+        "Kuvadzokesera kunzira duku",
+        "Kuti muponesi wavafira"
+      ],
+      "number": 5
+    }
+  ]
+}

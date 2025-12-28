@@ -1,0 +1,48 @@
+{
+  "number": 452,
+  "language": "fr",
+  "title": "Habiter sous l'abri...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Habiter sous l'abri du Très-Haut",
+        "C'est jouir de tout ce qui est beau,",
+        "Découvrir avec joie des lieux délicieux",
+        "Et chanter ses exploits merveilleux."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Dieu pourvoit au retour des feux brillants du jour,",
+        "Car la crainte du Seigneur assure le bonheur.",
+        "Dieu pourvoit au retour des feux brillants du jour.",
+        "Il protège et rend le cœur joyeux."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Habiter au sommet de Sion,",
+        "C'est échapper à la tentation,",
+        "Au malheur, au chagrin et à la douleur,",
+        "Car il est mon rocher, mon Sauveur."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Reposer à l'ombre du Seigneur",
+        "C'est goûter à l'éternel bonheur,",
+        "Profiter de l'abri du Dieu protecteur,",
+        "Dans un ciel toujours garni de fleurs."
+      ],
+      "number": 4
+    }
+  ]
+}

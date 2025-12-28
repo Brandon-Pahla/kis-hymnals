@@ -1,0 +1,43 @@
+{
+  "number": 314,
+  "language": "fr",
+  "title": "Pardonne, ô Dieu...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Pardonne, ô Dieu, les vains tourments",
+        "De nos cœurs agités.",
+        "Rends-nous plus droits, plus confiants.",
+        "Que par nos cœurs purifiés,",
+        "Tu sois mieux honoré,",
+        "Tu sois mieux honoré."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Comme autrefois, au bord des flots",
+        "Tes premiers serviteurs,",
+        "A ton appel fais qu'aussitôt",
+        "Nous nous levions vaillants de cœur,",
+        "Pour te suivre, ô Seigneur,",
+        "Pour te suivre, ô Seigneur."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Repos du lac galiléen",
+        "Et de ses doux sommets,",
+        "Où Jésus, priant pour les siens,",
+        "Rayonnait de l'éclat divin,",
+        "De l'amour, de la paix !",
+        "De l'amour, de la paix !"
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "number": 172,
+  "language": "es",
+  "title": "Promesa dulce",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Promesa dulce"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Promesa dulce: \"Yo vendré,",
+        "y a los que sufren salvaré\".",
+        "Responde mi alma: \"Presto ven;",
+        "ansioso esperaré\"."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Ven, Señor, mi Redentor!",
+        "¡Ven, Señor, mi Redentor!",
+        "Responde mi alma: \"Presto ven,",
+        "Señor, mi Redentor!\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Los santos vuelven a vivir,",
+        "al cielo todos subirán;",
+        "y en tierra atado años mil",
+        "ha de quedar Satán."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Desciende entonces la ciudad,",
+        "los malos levantados son",
+        "a oír el fallo de su Juez:",
+        "\"Eterna perdición\"."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "El nuevo Edén florecerá",
+        "en hermosura celestial;",
+        "jamás la muerte turbará",
+        "la playa inmortal."
+      ],
+      "number": 6
+    }
+  ]
+}

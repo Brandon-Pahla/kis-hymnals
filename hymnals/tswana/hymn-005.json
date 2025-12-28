@@ -1,0 +1,47 @@
+{
+  "number": 5,
+  "language": "tn",
+  "title": "5 A Go Kgakala?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A Go Kgakala Gae? Ka Botsa Molebedi Mme A Re:",
+        "Fifi je lentsho le ile, Go se’ go tla moso,",
+        "Hong se lele, mme akofa, Tsholofelong ya lesedi,",
+        "O bo o fitlhe bogosing, Tsatsing le sa khutleng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka Botsa Mo Motlhabaning, E, Ke Kopelo Ya Gagwe",
+        "\"Ke tla lwa ka pelokgale, Phenyo e gaufi,",
+        "Hong se lele, mm’itshokele Yone ntwa o wetse tiro,",
+        "Ka r’itse tuelo e teng, Re setse re fentse\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka Botsa ’Fatshe, Letsatsi, Tsotlhe Tsa Araba Tsa Re:",
+        "\"Nako e se’ e fetile, Bosakhutleng gaufi,",
+        "Hong se lele, ka tlhagiso, Ditshupo di ya bonala",
+        "Lobopo lo letile go Lela ga lonaka.\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga Go Kgakala Kwa Gae, Ke Kgomotso Ya Moeti,",
+        "E e tsileng le phodiso, e tlosa ’keledi,",
+        "Hong se lele re tla kopana boikhutsong jwa gale,",
+        "Re le kwa boitumelong Legaeng ja Rara."
+      ],
+      "number": 4
+    }
+  ]
+}

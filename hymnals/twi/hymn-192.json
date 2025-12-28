@@ -1,0 +1,50 @@
+{
+  "number": 192,
+  "language": "tw",
+  "title": "O, S'ro Guanhwɛfo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, s'ro Guanhwɛfo, minim, Wowɔ me;",
+        "Me nti ne 'nadwo hwehwɛ no.",
+        "Wiase yɛ nwini, na Wo nkyɛn yɛ hyew,",
+        "Me Hwɛfo, medi W'akyi;",
+        "Wo kanea fɛfɛ no hyerɛn me kwan so,",
+        "Fi W'anuonyam hann mu kɔ",
+        "W'adekyee pam';",
+        "Didibea horow, ne sare bonhwam,",
+        "Me Hwɛfo, medi W'akyi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, s'ro Guanhwɛfo, minim, Wowɔ me;",
+        "Me nti na Wo koma bui no.",
+        "Mede suro hwɛ Wo dom ne Wo mm'rá a",
+        "Ͻda adi Kalbre no.",
+        "A, nkwa a wɔde too hɔ de gyee me kra!",
+        "A, koma a ebu de gyee bɔn'yɛfo!",
+        "Wiase yɛ 'dehw're, W'asɛnnua no nti,",
+        "Me Hwɛfo, medi W'akyi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, s'ro Guanhwɛfo, minim, Wowɔ me,",
+        "Metee Wo nne sɛ, 'Di M'akyi'.",
+        "Wo nkrasɛm no hyerɛn me kwan so nnɛ;",
+        "'Yi nč Adiyi Honhom no;",
+        "Wo nnwan ho dɔ no yɛ me nwanwa mm'roso.",
+        "Sɛnea Wosi de wɔn kɔ nsu dwoo ho no;",
+        "Poma ne abaa, nguankuw, Nyame k'ro,",
+        "Me Hwɛfo, medi W'akyi."
+      ],
+      "number": 3
+    }
+  ]
+}

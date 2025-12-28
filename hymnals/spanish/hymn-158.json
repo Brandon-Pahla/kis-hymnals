@@ -1,0 +1,70 @@
+{
+  "number": 158,
+  "language": "es",
+  "title": "Amanece ya la mañana de oro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Amanece ya la mañana de oro"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amanece ya la mañana de oro,",
+        "pronto el Rey vendrá;",
+        "y su pueblo a la mansión del",
+        "cielo",
+        "Cristo llevará."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Amanece ya la mañana de oro",
+        "tras la noche terrenal,",
+        "cuando surgirá del sepulcro",
+        "abierto",
+        "vida inmortal."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En aquel gran día los separados",
+        "se encontrarán,",
+        "y las lágrimas de los afligidos",
+        "se enjugarán."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Con sus ángeles de esplendente",
+        "aspecto",
+        "Cristo, el Juez, vendrá,",
+        "a llevar su iglesia a donde en",
+        "gloria siempre morará."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando llegue a todos el",
+        "evangelio",
+        "anunciando el fin,",
+        "cesará el tardar del Esposo",
+        "entonces,",
+        "sonará el clarín."
+      ],
+      "number": 6
+    }
+  ]
+}

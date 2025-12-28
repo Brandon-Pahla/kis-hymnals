@@ -1,0 +1,46 @@
+{
+  "number": 191,
+  "language": "en",
+  "title": "191 Blessed Assurance.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Blessed assurance, Jesus is mine!",
+        "O, what a fore-taste of glory divine!",
+        "Heir of salvation purchase of God,",
+        "Born of his spirit, washed in his blood."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "This is my story, this is my song,",
+        "Praising my Saviour all the day long;",
+        "This is my story, this is my song,",
+        "Praising my Saviour all the day long."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Perfect submission, perfect delight,",
+        "Visions of rapture now burst on my sight,",
+        "Angels descending bring from above,",
+        "Echoes of mercy, whispers of love."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Perfect submission, all is at rest,",
+        "I in my Saviour am happy and blest,",
+        "Watching and waiting, looking above,",
+        "Filled with his goodness, lost in his love."
+      ],
+      "number": 3
+    }
+  ]
+}

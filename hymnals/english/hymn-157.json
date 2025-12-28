@@ -1,0 +1,46 @@
+{
+  "number": 157,
+  "language": "en",
+  "title": "157 Harvest Time.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "He that goeth forth with weeping,",
+        "Bearing precious seed in love;",
+        "Never tiring, never sleeping,",
+        "Findeth mercy from above."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lo, the scene of verdure bright’ning!",
+        "See the rising grain appear;",
+        "Look! The waving fields are whit’ning,",
+        "For the harvest time is near."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Soft descend the dews of heaven,",
+        "Bright the rays celestial shine;",
+        "Precious fruits will thus be given,",
+        "Through and influence all divine."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sow thy seed, be never weary,",
+        "Let no fears thy soul annoy;",
+        "Be the prospect ne’er so dreary,",
+        "Thou shalt reap the fruits of day."
+      ],
+      "number": 3
+    }
+  ]
+}

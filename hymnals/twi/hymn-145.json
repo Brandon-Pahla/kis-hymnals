@@ -1,0 +1,63 @@
+{
+  "number": 145,
+  "language": "tw",
+  "title": "Aseda Ne Nkamfo Nnwom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Aseda ne nkamfo nnwom",
+        "Na yɛde maW', W'ra Yesu;",
+        "Nsoromma yii W'awo ky'rɛɛ",
+        "'Nyansafo wɔ aky'riky'ri;",
+        "Woyɛ Dawid aseni",
+        "A wɔwoo Wo Betlehem;",
+        "Yɛto nnwom nyinaaa ma Wo,",
+        "Nyame a Woadan nipa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Woyii Wo ky'rɛɛ Yordan mu,",
+        "D'yifo, Sɔfo, Hen' kɛse;",
+        "Kana 'yefor'hyia ase,",
+        "Wo Nyameyɛ daa adi.",
+        "Wo soro tumi mu no,",
+        "Womaa nsu no danee nsa;",
+        "Yɛto nnwom nyinaa ma Wo,",
+        "Nyame a Woadan nipa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wuyii Wo tumi adi",
+        "Maa mmubuafo sɔr' nantee;",
+        "Wode tumi kɛse koe",
+        "Dii ɔbonsam so nkonim;",
+        "Wonam Wo dom kɛse so",
+        "Maa mmusu danne nhvira;",
+        "Yɛto nnwom nyinaa ma Wo,",
+        "Nyame a Wodan nipa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dom yɛn ma yenhu Wo, W'ra,",
+        "Wɔ W'Asɛm kronkron no mu;",
+        "Ma yensua nhu Wo kwan no,",
+        "Na yɛn ho ntew nyɛ kronkron,",
+        "Na yɛatumi asom Wo",
+        "Sɛ 'nyansafo baasa no;",
+        "Ma yenyi Wo ayɛ daa,",
+        "Nyame a Woadan nipa."
+      ],
+      "number": 4
+    }
+  ]
+}

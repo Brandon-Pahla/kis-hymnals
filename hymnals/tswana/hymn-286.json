@@ -1,0 +1,38 @@
+{
+  "number": 286,
+  "language": "tn",
+  "title": "286 K’eletsa Jang Tsatsi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "K’eletsa Jang Tsatsi Jele Barekolodwi Ba",
+        "Tlang b’apere bosweu, Sion, gaeng ja boitumelo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O nkisa teng nkisa teng Thabeng Sion",
+        "O nkisa motseng wa lorato Kwa go ntseng baitshepi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ntla Utlwa Dialeluja Tse Tswang Boidiiding,",
+        "Ke le moweng wa legodimo, Ntla opela nabo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuang! Moso O Gaufi, Moeng Wa O Eletsa",
+        "O phimola keledi tsotlhe, Phenyo lobopo."
+      ],
+      "number": 3
+    }
+  ]
+}

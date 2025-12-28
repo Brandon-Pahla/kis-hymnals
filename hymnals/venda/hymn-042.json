@@ -1,0 +1,47 @@
+{
+  "number": 42,
+  "language": "ve",
+  "title": "42 Ri Tshi tangana Na Vhahashu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.Ri tshi tangana na vhahashu, hu vha na dakalo,",
+        "Zwi ro pfisa vhutungu, musi ri tshi vho fhambana."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. tadulu a hu fhambanwi, a vha onesani,",
+        "Ndi kha shango la dakalo, a hu nga fhambanwi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri do takala ri tshi vhona, vhahashu henefho,",
+        "Fhedzi ri vho lilela, ilo shango la dakalo"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Maipfi a no ’Salani.’ Ha tsha do ambiwa,",
+        "Hu do imbiwa nyimbo, dza vhakhethwa nga dakalo."
+      ],
+      "number": 5
+    }
+  ]
+}

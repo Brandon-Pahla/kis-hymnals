@@ -1,0 +1,59 @@
+{
+  "number": 383,
+  "language": "fr",
+  "title": "Nous servirons l'Éternel",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nous servirons l'Éternel,",
+        "Le Dieu qui créa le ciel,",
+        "Nous chanterons de tout cœur sa grandeur",
+        "Car il est notre Seigneur.",
+        "Nous servirons l'Éternel,",
+        "Nous voulons toujours lui être fidèles,",
+        "Nous servirons l'Éternel."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous marcherons par la foi",
+        "Avec confiance et joie,",
+        "Les yeux fixés sur notre Rédempteur",
+        "Nous serons plus que vainqueurs.",
+        "Nous marcherons par la foi,",
+        "Suivant les pas de Jésus, Roi des rois,",
+        "Nous marcherons par la foi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous chanterons tes bontés,",
+        "Ô Dieu de l'éternité,",
+        "À tout humain nous dirons tes merveilles :",
+        "Tes œuvres sont sans pareilles.",
+        "Nous chanterons tes bontés,",
+        "La vie et tout ce que tu as donné,",
+        "Nous chanterons tes bontés."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nous hâterons ton retour,",
+        "Jésus, notre Dieu d'amour,",
+        "Par ton Esprit tu conduis tes enfants",
+        "Pour te servir constamment.",
+        "Nous hâterons ton retour,",
+        "Nous voulons vivre avec toi pour toujours,",
+        "Nous hâterons ton retour."
+      ],
+      "number": 4
+    }
+  ]
+}

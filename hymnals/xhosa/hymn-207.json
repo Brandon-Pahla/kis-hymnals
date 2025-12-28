@@ -1,0 +1,39 @@
+{
+  "number": 207,
+  "language": "xh",
+  "title": "207 Ndabon’ Othile Emthini",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndabon’ othile emthini Encwin’ enegazi,",
+        "Wandijonga kalusizi, Ndasondela kuYe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndokhumbul’ amehlo aKhe, Ndide ndiyokufa;",
+        "kwathetha ukufa kwaKhe Yena engathethi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amehlo aKhe athi kum, \"Uxolelwe konke!\"",
+        "\"Uthengiwe ngegazi lam, Ndifa uz’ uphile.\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndibon’ isono sisibi Ngoko kufa kwaKhe;",
+        "Inkulu inceba yaKhe Etywin’ uxolelo."
+      ],
+      "number": 4
+    }
+  ]
+}

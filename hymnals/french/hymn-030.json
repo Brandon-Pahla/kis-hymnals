@@ -1,0 +1,46 @@
+{
+  "number": 30,
+  "language": "fr",
+  "title": "Devant ta crèche",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Devant ta crèche, tu me vois,",
+        "Penché sur ton visage.",
+        "Tout ce que j’ai, je le dois,",
+        "Je veux t’en faire hommage,",
+        "Prends-moi tout entier, prends mon cœur,",
+        "À toi, Jésus, divin Sauveur,",
+        "J’appartiens sans partage."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Perdu dans l’ombre de la mort,",
+        "Je pleurais de détresse;",
+        "Mais ton amour change mon sort,",
+        "Dissipe ma tristesse.",
+        "Tu viens pour m’attacher à toi,",
+        "Et dès ce jour tu mets en moi",
+        "Ta joie et ta richesse."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus, jette un regard sur moi!",
+        "Accorde-moi la grâce",
+        "De vivre et de mourir en toi,",
+        "De contempler ta face.",
+        "Choisi mon cœur pour ton séjour;",
+        "Qu’il t’appartienne et, chaque jour,",
+        "Reviens y prendre place."
+      ],
+      "number": 3
+    }
+  ]
+}

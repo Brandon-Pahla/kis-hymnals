@@ -1,0 +1,35 @@
+{
+  "number": 119,
+  "language": "luo",
+  "title": "119 Sabato Mari, Ruoth",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Sabato mari, Ruoth, Jogi ruako gi mor;Kwarito winjo wach mari Chunywa mondo paki."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Wamor kuom ndaloni Ma isewalo, Ruoth; Wanaheri,Wanadendi, In Ruodh polo malo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Jogi maler, gwedhgi! Bed kodwa kwalemo;Ruoth, miwa mor kuom yueyoni, Kwarito chieng` maler."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Kidich piny korumo, Kwadar a thurwa ka;Miwa dir kodi nyaka chieng` E dalani maler."
+      ],
+      "number": 4
+    }
+  ]
+}

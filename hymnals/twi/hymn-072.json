@@ -1,0 +1,38 @@
+{
+  "number": 72,
+  "language": "tw",
+  "title": "A Nadwo Nsoromma Bɔfo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Anadwo nsoromma Bɔfo,",
+        "Wo a Woyɛ adasa Hann,",
+        "Kristo, yɛn nyinaa Agyenkwa,",
+        "Yɛsrɛ W', yɛfrɛ Wo a, tie yɛn."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, Wo din kɛse no na",
+        "Nɔkotodwe nyinaa koto;",
+        "Soro nneɛma nyinaa wɔ Wo,",
+        "Fam nneɛma nso yɛ Wo de, 'W'ra."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Agya Nyame, ɔba Nyame,",
+        "Honhom Nyame, Baasak'ro no,",
+        "'Nidi, ne tumi ne 'nuonyam",
+        "Nka Mo mmeresaten nyinaa.",
+        "Amen."
+      ],
+      "number": 3
+    }
+  ]
+}

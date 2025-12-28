@@ -1,0 +1,24 @@
+{
+  "number": 177,
+  "language": "ts",
+  "title": "177. MUTINI WO KWETSIMA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "IN THE LAND OF FADELESS DAY",
+        "1. Mutini Wo Kwetsima, Dyambu A Ri Peli;",
+        "A Wu Nge Herisiwi, A Ku Na Vusiku.",
+        "CHORUS",
+        "Hosi Yi Ta Herisa, Mihloti, Rifu, Nchavo; Malembe Ama Hlayiwi, A Ku Na Vusiku.",
+        "2. Tinyangwa Ta Perele, Ti Kumeka Kona,",
+        "Tindlela Le Ta Nsuku, A Ku Na Vusiku.",
+        "3. A Ku Pfariwi Nyangwa, Mutini Wo Xonga;",
+        "Ni Nambu Wa Vutomi, Wu Khuluka Kona.",
+        "4. Dyambu A Ri Na Nkoka, Mutini Wo Xonga;",
+        "Yesu I Rivoningo, A Ku Na Vusiku"
+      ],
+      "number": 1
+    }
+  ]
+}

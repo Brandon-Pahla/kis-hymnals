@@ -1,0 +1,55 @@
+{
+  "number": 13,
+  "language": "sn",
+  "title": "13 Kuchena Kwazvo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O Jesu ndinoda kurapwa kwazvo",
+        "Ndinoda imwi mugare mumoyo",
+        "Bvisa zvakaipa, dzinga mhandu’yo",
+        "Mundisambe ndichachena kwazvo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndichachena, ndichene kwazvo",
+        "Mundisambidze, ndichachena kwazvo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Jesu, kudenga nangisa pasi",
+        "Mundibatsire ndinopira zvese",
+        "Ndinozvipa ini zvese ndinazvo",
+        "Mundisambidze, ndichachena kwazvo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu, ndikukumbire nekupfava",
+        "Pamakumbo ako, Tenzi ndamira",
+        "Ndachena ngeropa nge kudawira",
+        "Mundisambidze ndichachena kwazvo"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu, ndarindira nekutiwira",
+        "Uyo mundipinze nemoyo mutsva",
+        "Haurambe vese vakutsvaka’vo",
+        "Mundisambidze, ndichachena kwazvo"
+      ],
+      "number": 5
+    }
+  ]
+}

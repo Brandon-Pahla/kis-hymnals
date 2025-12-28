@@ -1,0 +1,47 @@
+{
+  "number": 84,
+  "language": "tw",
+  "title": "Nyankopɔn Tweaduampɔn",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyankopɔn Tweaduampɔn! ɔhen' a ahum",
+        "Di W'anim na aprannaa yɛ W'afoa;",
+        "Ky'rɛ W'ahummɔb'rɔ s'ro, nea Wudi hen' hɔ,",
+        "Ma yɛn 'somdwoe, O, 'W'ra mmɔb'rɔhun'fo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyankopɔn mmɔb'rɔhunfo! 'sase apo",
+        "Wo mm'ra kronkron, atiatia W'asɛm so;",
+        "Mma W'abufuw a ɛyɛ hu no nnsɔre;",
+        "Ma yɛn 'somdwoe, O, 'W'ra mmɔb'rɔhunfo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyankopɔn treneeni! 'nipa apo Wo;",
+        "Nanso W'asɛm tim hɔ kosi daapem;",
+        "Atorɔ ne mfomso ntumi ne Wo ntra;",
+        "Hy'ra 'treneeni, O, 'W'ra mmɔb'rɔhun'fo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Enti yɛde aseda som bɛbɛ Wo,",
+        "Sɛ Woagye yɛn afi mmusu nyinaam';",
+        "Yɛbɛto dwom fi mpoano 'kosi mpoano,",
+        "Wo na tumi ne 'nuonyam wɔ Wo, 'W'ra."
+      ],
+      "number": 4
+    }
+  ]
+}

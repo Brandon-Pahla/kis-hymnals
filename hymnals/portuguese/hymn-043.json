@@ -1,0 +1,44 @@
+{
+  "number": 43,
+  "language": "pt",
+  "title": "Soou em Meio à Noite Azul",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Soou em Meio à Noite Azul"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Soou em meio à noite azul, um hino divinal;",
+        "Jamais com tal beleza assim, ouviu algum mortal.",
+        "Do Céu ao mundo, graça e paz! Excelso dom gentil!",
+        "Dos anjos essa doce voz encheu o céu anil."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Enquanto os anjos inda estão cantando, com prazer,",
+        "Louvor por todo o céu sem fim ao mais sublime Ser,",
+        "Então, suave e meiga voz, descendo como um véu,",
+        "Cantou que já nasceu Jesus e uniu a Terra ao Céu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! quem nos dera sempre ouvir as vozes divinais!",
+        "Sentir a paz do Céu de luz, país dos imortais!",
+        "Louvar a Cristo, o Rei dos reis, com anjos em canção!",
+        "No lar possamos nós também cantar a salvação!"
+      ],
+      "number": 4
+    }
+  ]
+}

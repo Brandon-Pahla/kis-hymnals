@@ -1,0 +1,67 @@
+{
+  "number": 192,
+  "language": "tum",
+  "title": " 192 Pamphinjika Mtaski Wakafwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 192 Pamphinjika Mtaski Wakafwa",
+        "C.S. 300 GLORY TO HIS NAME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Pa mphinjika mtaski wakafwa,",
+        "Apo nkhalira nakwananga,",
+        "Ndopa zake zikandisuka,",
+        "Mtamike Zina."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mtamike zina, mtamike zina;",
+        "Ndopa zake zikandisuka,",
+        "Mtamike zina."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ndaponoskeka ku uheni,",
+        "Yesu wakukhala mwa ine,",
+        "Nkhamusangira pa mphinjika,",
+        "Mtamike zina."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Ndiyo chisimi chakuthaska,",
+        "Ndakondwa kuti ndasambamo;",
+        "Yesu mtaski wakundisunga,",
+        "Mtamike zina."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Mwize ku chisimi chiweme",
+        "Muwe mumalundi gha Fumu;",
+        "Mjibizge m 'maji mutozgeke",
+        "Mtamike zina."
+      ],
+      "number": 5
+    }
+  ]
+}

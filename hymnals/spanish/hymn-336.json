@@ -1,0 +1,70 @@
+{
+  "number": 336,
+  "language": "es",
+  "title": "Del bello país he leído",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Del bello país he leído"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Del bello país he leído,",
+        "y su hermosa ciudad capital,",
+        "cuyas calles gloriosas son de oro,",
+        "y de jaspe es su muro eternal;",
+        "por el río las aguas de vida",
+        "fluyen con perennal claridad;",
+        "mas en cuanto a toda su gloria",
+        "no se ha dicho aún la mitad."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "No se ha dicho aún la mitad;",
+        "no se ha dicho aún la mitad;",
+        "de la Santa Ciudad tan gloriosa,",
+        "no se ha dicho aún la mitad."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leí de aquellas mansiones",
+        "que el Maestro fue a preparar,",
+        "do los santos que aquí fueron",
+        "fieles",
+        "van por siempre jamás a gozar;",
+        "no habrá muerte, dolor, ni",
+        "pecado,",
+        "sino reina la inmortalidad;",
+        "mas en cuanto a su excelsa",
+        "grandeza",
+        "no se ha dicho aún la mitad."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leí de Jesús el benigno,",
+        "que al más vil pecador limpiará;",
+        "cómo paz y perdón le confiere",
+        "al que humilde buscándolos va.",
+        "He leído que él nos protege,",
+        "que se apiada de nuestra orfandad;",
+        "mas de tanta bondad pregonada",
+        "no se ha dicho aún la mitad."
+      ],
+      "number": 5
+    }
+  ]
+}

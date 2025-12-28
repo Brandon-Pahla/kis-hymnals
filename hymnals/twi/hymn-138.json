@@ -1,0 +1,40 @@
+{
+  "number": 138,
+  "language": "tw",
+  "title": "Sɔre, Hwɛfo, Na Di Akyi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ns'romma bi wɔapuei bųronya 'nɔpa,",
+        "Sɔre, hwɛfo, na dė akyi.",
+        "Ͻbɛkɔ nea wɔawo Agyenkwa no,",
+        "Sɔre, hwɛfo, na dė akyi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Gya wo nguan ne wo nguammaa,",
+        "Sɔre, hwɛfo, na dė akyi.",
+        "Gya wo nguanb're ne nguanten,",
+        "Sɔre, hwɛfo, na dė akyi.",
+        "Dė akyi, di akyi,",
+        "Sɔre, hwɛfo, na dė akyi.",
+        "Di Betlehem ns'romma n'akyi,",
+        "Sɔre, hwɛfo, na dė akyi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ woretie bɔfo no nsɛm no a,",
+        "Sɔre, hwɛfo, na dė akyi.",
+        "Wo w'rɛ befi wo nguankuw no koraa,",
+        "Sɔre, hwɛfo, na dė akyi."
+      ],
+      "number": 2
+    }
+  ]
+}

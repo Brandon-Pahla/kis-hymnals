@@ -1,0 +1,57 @@
+{
+  "number": 67,
+  "language": "ny",
+  "title": "67 - Idzani Nonsenu Okonda Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "COME, WE THAT LOVE THE LORD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Idzani nonsenu, Okonda Yesuyo,",
+        "Tiyimbe nyimbo yabwino, Tiyimbe nyimbo yabwino",
+        "Ku mpando wakewo, Ku mpando wakewo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tiyende (tu) pamodzi, Tilikupita kumwamba;",
+        "Akhristu tilikupita (pita), ku Ziyoni wabwinoyo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ngakhale enawo Aleke kwimbako,",
+        "Akhristu ’fe tidzayimba, Akhristu ’fe tidzayimba",
+        "Kumlemekeza ’Ye, Kumlemekeza ’Ye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Akhristu tonsefe, Tikondwe mdzikoli,",
+        "Koposa anthu enawo, Koposa anthu enawo,",
+        "Tisanafikeko, Tisanafikeko."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tiyimbe mokondwa, Misozi iume;",
+        "Poyenda kunka kwathuko, Poyenda kunka kwathuko,",
+        "Kwa Mlungu wathuyo, Kwa Mlungu wathuyo."
+      ],
+      "number": 5
+    }
+  ]
+}

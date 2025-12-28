@@ -1,0 +1,39 @@
+{
+  "number": 83,
+  "language": "st",
+  "title": "83 Ho Lehlohonolo Lebitso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mphe maleme a sekete, Ho rorisoe ’bitso la Hae;",
+        "Khalalelo ea Molimo, Ho rorisoe ’bitso la Hae."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lehlohonolo, lehlohonolo; Le teng lebitsong la Jesu;",
+        "Lehlohonolo, lehlohonolo, Le teng lebitsong la Jesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu ke ea re ts’elisang, Ho bokoe ’bitso la Jesu,",
+        "Ke pina ho moetsalibe; Ho bokoe ’bitso la Jesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O roba matla a sebe, Ho bokoe ’bitso la Jesu,",
+        "Re itlhatsoa maling a Hae; Ho bokoe ’bitso la Jesu."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "number": 223,
+  "language": "ts",
+  "title": "223. WA VITANA MUPONISI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "FOLLOW ALL THE WAY",
+        "1. Wa Vitana Muponisi, Ku Landzela Ndlela Yakwe,",
+        "Endleleni Ndzi Twa Rito, Tana Ka Mina Hi Masiku.",
+        "CHORUS",
+        "Ndzi Ta Rhwala Xihambano, Muponisi Ndzi N’wi Landza, Ndzi Ta N’wi Landza Hinkwako, Loko Yesu A Ndzi Letela.",
+        "2. Hambi Ku Te Mphu Ndleleni, Na Milenge Yi Karhele,",
+        "Mbilu Yona Yi Ta Tsaka, Ku Landzela Yesu Hinkwako.",
+        "3. Yesu U Le Kusuhani, Matilweni Ka Vangama,",
+        "U Ta Ndzi Nyika Matimba, Loko Ndzi N’wi Landzela Yesu.",
+        "4. Loko Ndzi Wela Hi Khombo, U Ndzi Nyiketa Swakudya, Ndzi Ponise Swidyohweni,",
+        "Ndzi Ta Ku Landzela Hinkwako.",
+        "5. Ndzi Hlayise Embilwini, U Ndzi Twela Vusiwana,",
+        "U Ndzi Khoma Hi Mavoko, Ndzi Ta Ku Landzela Hinkwako."
+      ],
+      "number": 1
+    }
+  ]
+}

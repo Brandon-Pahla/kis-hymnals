@@ -1,0 +1,38 @@
+{
+  "number": 35,
+  "language": "xh",
+  "title": "35 Yayama Ezingalweni Zaphakade",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hai ubudlelane buka-Yesu, O sayamis’ ezingalweni;",
+        "Intsikelelo zona zinkulu Xa ndayame kuy’ engalweni."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tshe . . . la, Tshe . . . la, Usinde ekusabeni;",
+        "Tshe . . . la, Tshe . . . la, Yayama kuy’ ezingalweni."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, kumnandi ukuba ngumhambi, Ndayam’ engalweni yaKhe;",
+        "Indlela iya khanya kumhambi Xa ase zingalweni zaKhe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndingoyika-na? Ndingoyika-ni? Sendinokuthuthuzeleka;",
+        "Naxa ndibanjiswe ekulingweni, Ndayama engalweni yaKhe."
+      ],
+      "number": 3
+    }
+  ]
+}

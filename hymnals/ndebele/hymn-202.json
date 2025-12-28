@@ -1,0 +1,34 @@
+{
+  "number": 202,
+  "language": "nd",
+  "title": "202 Qhuba Mina",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi Jesu ngiqhube Phakathi kwamalingo,",
+        "Aduma yonk’ indawo Wena Dwala ngifihle,",
+        "Is’qondiso esAkho Nkosi Jesu, ngiqhube."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Njengengan’ ithuliswa Ungathulis’ ulwandle.",
+        "Amanz’ ayalalela Uma uthi, Thulani!",
+        "Wena, Mbusi wolwandle Nkosi Jesu, ngiqhube"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa ngondela ogwini Namaza egubhuza,",
+        "Esitha ukuphumula Nxa ngincik’ es’fubeni",
+        "Mangizwe uthi kimi, Ungesabi qhubeka"
+      ],
+      "number": 3
+    }
+  ]
+}

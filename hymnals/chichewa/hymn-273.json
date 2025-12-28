@@ -1,0 +1,33 @@
+{
+  "number": 273,
+  "language": "ny",
+  "title": "273 - Tsamira Pa Manja A Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LEAN ON HIS ARMS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Tsamira pa manja a Yesu, Akuthangate athagata;",
+        "Ukamkhulupira ndithu, Adzakusangalatsa.",
+        "CHORUS (Sop. & Tenor):",
+        "Tsamiratu m’cikondi cace; Tsamiratu, yesa cifundo;",
+        "Tsamiratu, yang’ana m’Mwamba, Tsamira Mpulumutsi.",
+        "(Bass & Alto):",
+        "Tsamiratu Iye, m’cikondi cace, Tsamira Iye, yesa cifuno;",
+        "Tsamiratu Iyel, yang’ana m’Mwamba, Tsamira Mpulumutsi.",
+        "2. Tsamira pa manja a Yesu, ’Dzauza njira adzauza;",
+        "Ingotsala mokondwera, pomvera mau ace.",
+        "3. Tsamira pa manja a Yesu, ’Dzakusamala, kusamala!",
+        "Katundu wolemeretsa Mpereke kwa Ambuye.",
+        "4. Tsamira pa manja a Yesu, Msiyire zonse, zonsezodi!",
+        "Mtima wace ngwacikondi, Maso ace sasinza."
+      ]
+    }
+  ]
+}

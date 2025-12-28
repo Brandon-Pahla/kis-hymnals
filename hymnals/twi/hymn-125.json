@@ -1,0 +1,47 @@
+{
+  "number": 125,
+  "language": "tw",
+  "title": "Wiase Nni Dɛw",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wiase nni dɛw, Aw'radč aba",
+        "Ma 'sase nnye ne Hen';",
+        "Ma koma biara nhwɛ No kwan,",
+        "S'ro ne 'sase nto dwom."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Sase nni dɛw, 'Gyenkwa di hen';",
+        "Ma nnipa mma nto dwom",
+        "B're a mfuw, nsuy'ri ne mmepɔ",
+        "De 'nigye dwom gye so."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma bɔne ne 'w'rɛhow to ntwa,",
+        "Na nsɔe mfi 'sase so;",
+        "ɔreba 'ma nhyirá abu so,",
+        "Nea nnome wɔ biara."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔde nokwar' ne dom di hen',",
+        "Ná aman nyinaa behu",
+        "Ne trenee no mu anuonyam,",
+        "Ne N'anwanwa dɔ no."
+      ],
+      "number": 4
+    }
+  ]
+}

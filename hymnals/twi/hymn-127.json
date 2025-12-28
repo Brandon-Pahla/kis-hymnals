@@ -1,0 +1,35 @@
+{
+  "number": 127,
+  "language": "tw",
+  "title": "Kokoaa Kronkron, 'Hobrɛasefo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kokoaa Kronkron, 'hobrɛasefo,",
+        "Ne mpa yɛ mmoa 'didibea;",
+        "'Nantwi resu a wonnim sɛ",
+        "'Bofra Kristo yɛ 'W'rade;",
+        "Nnomaa retu, 'bɔfo to dwom",
+        "'Dwonto gyigye, wɔte nsɛmpa,",
+        "'Bofra Kristo yɛ 'W'rade",
+        "'Bofra Kristo yɛ 'W'rade."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na nguan reda brč a nguanhwɛfo",
+        "Rewɛn kosi 'dekyee no;",
+        "Wohuu 'nuonyam, tee asɛm no,",
+        "Asɛmpa no nkrasɛm no;",
+        "Wodii 'h'rusė, 'w'rɛhow bi nnim,",
+        "Wɔtoo 'yeyi dwom maa 'de kyee;",
+        "Wɔwoo 'bofra Kristo maa w'.",
+        "Wɔwoo 'bofra Kristo maa w'."
+      ],
+      "number": 2
+    }
+  ]
+}

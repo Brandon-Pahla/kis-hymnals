@@ -1,0 +1,73 @@
+{
+  "number": 77,
+  "language": "nd",
+  "title": "77 Ngi Thanda Ukulanda Indaba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I mnandi, O! i mnandi,",
+        "Indaba yezulu,",
+        "Nayo yothando lwAkhe,",
+        "Ku mnandi ukuyisho;",
+        "I nomusa nothando,",
+        "Yona yeqiniso,",
+        "I suthis’ ukufisa,",
+        "Yodwa nje kuphela."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ku mnand’ ukuyilanda;",
+        "Ngohuba naphezulu,",
+        "NgoJesu nobukosi,",
+        "Nothando nomusa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I mnandi O! i mnandi,",
+        "Iyamangalisa,",
+        "I dlula namaphupho,",
+        "Indaba yothando;",
+        "Ku mnand’ ukuyilanda,",
+        "Yangisiza mina,",
+        "Ngako ngi yayilanda,",
+        "Indaba yothando."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I mnandi O! i mnandi,",
+        "Ngi yiphinda njalo,",
+        "Nangokuphindwa kwayo,",
+        "Bu yand’ ubumnandi;",
+        "Ku mnand’ ukuxoxela,",
+        "Abangayaziyo,",
+        "Lendaba yensindiso,",
+        "Ekuyo iM’bhalo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I mnandi O! i mnandi,",
+        "Kakhulu kithina,",
+        "Ngi yilambele nami,",
+        "Ngenhliziyo yami,",
+        "Ngohuba ezulwini,",
+        "Yon’ ingoma entsha,",
+        "Indaba yon’ endala,",
+        "Indaba yakade."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 56,
+  "language": "tw",
+  "title": "Nyame, Dā a Wode Mae No Asa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame, dā a Wode mae no asa,",
+        "Sum nam Wo tumi so reba;",
+        "Yɛtoo yɛn anɔpa dwom maa Wo,",
+        "W'ayeyi tew yɛn home ho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛda W'ase sɛ W'asafo nnae",
+        "B're a 'sase rebɛn hann yi;",
+        "ɔhwɛ ne ho yie wiase nyinaam',",
+        "ɔnhome awia ne 'nadwo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asase ne supɔw biara so,",
+        "Adekyee ma da fof'ro ba;",
+        "Mpaebɔ nne renyɛ komm da biara;",
+        "Na 'yeyi nso to rentwa Da."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Wura, ma ɛnyɛ sa, W'ahenni",
+        "Rengu sɛ asase so de,",
+        "Na ebegyina na anyin' daa,",
+        "Kosi sɛ Wo de ny'naa bebom."
+      ],
+      "number": 4
+    }
+  ]
+}

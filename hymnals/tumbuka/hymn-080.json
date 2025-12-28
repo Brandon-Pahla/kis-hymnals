@@ -1,0 +1,68 @@
+{
+  "number": 80,
+  "language": "tum",
+  "title": " 80 Ku Mulimo Wa Fumu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 80 Ku Mulimo Wa Fumu",
+        "TO THE WORK"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ku mulimo wa Fumu, tiri walimi,",
+        "Tilondezge umo wali kwenda Yesu,",
+        "Na fundo yake titikhomeskekenge",
+        "Tilime na mphavu mlimo withu wose."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Limani, Limani,",
+        "Limani, Limani,",
+        "Timtemwe, sekuru,",
+        "tiLime wasuke wize."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ku mulimo wake m'waryeske wanjala,",
+        "Wanyota muwamweske maji gha moyo,",
+        "Mu mphinjika ndimo titiluskirenge,",
+        "Tipharazge kuti \"Mphonokwa nja wose."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Ku mulimo wose akukhumbikwako,",
+        "Ufumu wachisi na masovyo ngwachi,",
+        "Zina la Chiuta tilikuzgikenge,",
+        "Wimbenge \"Chiponosko ncha wali yose!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Ku mulimo wake munkhongono zake,",
+        "Kuli vyakukondweska walimi wOse,",
+        "Para tamukhala mkaya la watuwa,",
+        "Nakuchemerezga, \"Mphonokwa nja wose"
+      ],
+      "number": 5
+    }
+  ]
+}

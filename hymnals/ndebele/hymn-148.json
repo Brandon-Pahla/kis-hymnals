@@ -1,0 +1,38 @@
+{
+  "number": 148,
+  "language": "nd",
+  "title": "148 Nakuphi NoJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nakuphi noJesu ngi ngahamba nje Noma ku kuphi kulomhlaba wonke;Ngaphandle kwAkhe a ngi nakuthaba Laph’ uJesu ekhona a ngesabi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nakuphi noJesu ngi ngahamba nje.",
+        "Nakuphi ukwesaba a ngi kwazi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa ngi kuphi noJesu a ngi ngedwa Nxa ngi delwa ngabany’ u khona Yena;",
+        "Noma ezongiholela ehlane, Nxa uJesu ekhona ku lungile."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa ngi kuphi noJesu ngi ngalala Nxa ithunzi lokufa li sondela;",
+        "Noko ngi yobuya ngi vuke mina Ngi y’ezulwini ekhaya kuJesu."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 171,
+  "language": "ny",
+  "title": "171 - Kunja Kuli Kucha Kodi?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHAT OF THE NIGHT?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kunja kuli kucha kodi? Mlonda, tandiuza ’ne.",
+        "Kodi nthanda yatuluka? Kodi kunja kwachatu?",
+        "Ukuona kodi kuti kwachadi?",
+        "Ukuona kodi kuti kwachadi?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tifunsitse za ulendo, Kodi ulikuthadi?",
+        "Tayandikatu ku doko, Kodi tingaoneko?",
+        "Tingaone dziko la kumwambako?",
+        "Tingaone dziko la kumwambako?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tifuuletu kolimba, Kunja kuli kuchatu;",
+        "Nthanda ili kutuluka, Iwoneka mwambamo.",
+        "Kondwerani, tayandika kwathuko;",
+        "Kondwerani, tayandika kwathuko."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tili nao mau ake, Otitsogolera ’fe.",
+        "Tithamangetu dzolimba, Kuti tikafikeko.",
+        "Fuulani mokondwera m’mtimamo.",
+        "Fuulani mokondwera m’mtimamo."
+      ],
+      "number": 5
+    }
+  ]
+}

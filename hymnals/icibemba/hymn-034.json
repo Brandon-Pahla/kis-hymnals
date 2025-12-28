@@ -1,0 +1,30 @@
+{
+  "number": 34,
+  "language": "bem",
+  "title": "34 - LINTU MWEO WANDI WAENDA BWINO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHEN PEACE LIKE A RIVER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Lintu mweo wandi waenda bwino, Nangu malanda yafula;",
+        "Muli fyonse 'fi mwalinsambilisha ukuti, Cawama mutima.",
+        "CHORUS:",
+        "Cawama .... Mutima .... Cawama mutima wandi pe.",
+        "2. Nangu Ciwa alencusha kuno pe, Ubulayo bulengafwa,",
+        "Yesu aleshiba kunaka kwandi, Afwile kumpela amaka",
+        "3. Nasekela nomba kwishiba ici, Ububi nangu bwafula;",
+        "Asendele nomba tebwandi iyo, Lulumbi lulumbi ku Mfumu.",
+        "4. Mwe Katula wandi mwendeshe kwisa Lintu tukamona fyonse,",
+        "Penga likalila apo akesa, Cawama mutima wandi pe."
+      ],
+      "number": 2
+    }
+  ]
+}

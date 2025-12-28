@@ -1,0 +1,39 @@
+{
+  "number": 193,
+  "language": "sn",
+  "title": "193 Nzira Yake Newe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Unoda kuraramira Jesu vohere? Ungafamba naye here panzira?",
+        "Ungamupe here yese mitoro yako? Bvumira kuda kwake."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Masmb’ Ake angakupindura, Ropa rake rino sunungura,",
+        "Ropa rake rinokuchenura; Mwoyo, nekuzokusunungura."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unoda kusunungurwa na Jesu here? Unoda runyararo rwake here?",
+        "Unoda kuponiswa usazo putsike? Bvumira kuda kwake."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unoda zororo muvushe hwake here? Ungedza simba rakevo here?",
+        "Ungamushandira nemwoyo wese here? Bvumira kuda kwake."
+      ],
+      "number": 4
+    }
+  ]
+}

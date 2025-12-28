@@ -1,0 +1,43 @@
+{
+  "number": 58,
+  "language": "sn",
+  "title": "58 Tenzi Wevamambo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kudzanyi zita raJesu, Dzese ngerosi’dzo",
+        "Unzanyi chiremba chake, tenzi wevamambo",
+        "Unzanyi chiremba chake, Tenzi wevamambo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rudzi ruduku rwaMwari, Mune rusimbiro",
+        "Mutendenyi Muponesi, Tenzi wevamambo",
+        "Mutendenyi Muponesi, Tenzi wevamambo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndudzi dzese’dzo nevanhu vari pasi pano",
+        "Kudzanyi’vo Tenzi Jesu, Tenzi wevamambo",
+        "Kudzanyi’vo Tenzi Jesu, Tenzi wevamambo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinodisa kumukudza nengerosi idzo",
+        "Murwiyo’wo rwekukudza, Tenzi wevwmambo",
+        "Murwiyo’wo rwekukudza, Tenzi wevamambo"
+      ],
+      "number": 4
+    }
+  ]
+}

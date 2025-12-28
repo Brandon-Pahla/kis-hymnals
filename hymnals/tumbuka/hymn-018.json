@@ -1,0 +1,48 @@
+{
+  "number": 18,
+  "language": "tum",
+  "title": " 18 Jisungilire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 18 Jisungilire",
+        "MY SOUL, BE ON THY GUARD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Jisungilire 'we,",
+        "Warwani mbanandi",
+        "Wakwendendeka mu charu,",
+        "Kukukora iwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Koreska nkhondo 'yi,",
+        "Nadi njinonono,",
+        "Romba kwa Chiuta,",
+        "Ndiyo yekha wangovwira."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Leka kugongowa,",
+        "Uchite mulimo,",
+        "Palije kupumula 'mwe,",
+        "Mpaka Yesu wize."
+      ],
+      "number": 4
+    }
+  ]
+}

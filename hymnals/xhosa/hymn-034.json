@@ -1,0 +1,45 @@
+{
+  "number": 34,
+  "language": "xh",
+  "title": "34 Kuhle Emoyeni Wam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Xa uxolo lunje-ngomlamb’ omkhulu, Xa ndinosiz’ olukhulu;",
+        "Use undifundisile ukuthi, Kuhle ke, kuhle ke Moya wam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kuhle ke. . . . Moya wam. . . . Kuhle ke, kuhle ke moya wam."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa u-Satana endikhathazayo, Ndiya kunqaba kaloku",
+        "Ngokuthi u-Yesu undincedile, Waphalaz’ igazi laKhe ngam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ingcamang’ entle yileyo yokuba Zonke iziphosiso zam",
+        "Uzibethelele emnqamlezweni; Yibonge i-Nkosi moya wam."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi phangisisa usuku lwaKho, Amafu aza kusongwa;",
+        "Yehl’ i-Nkosi ixilongo lakhala, Njalo ke kuhle ke moya wam."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 278,
+  "language": "sn",
+  "title": "278 Nzira Yenyu Basi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nzira yenyu basi, Kana inedima!",
+        "Ndibate ruoko, Ndipangidze nzira",
+        "Handingasarudzi, handinga giniba",
+        "Asi ndisarudzire, Kuti ndifambe nemwi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Umambo ndehwenyu, nenzira ndeyenyu",
+        "Musim’ ndoraswa, Baba m’kombe wangu",
+        "Zadza nerufaro, sezvamunoda imwi",
+        "Ndisarudzireyi sekuona kwenyu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndisarudzireyi, shamwari nezvese",
+        "Ndisarudzire hama, nhamo neupfumi",
+        "Ndisasarudzeba, zvikuru nezvese",
+        "Iva simba rangu, muchengeti wangu"
+      ],
+      "number": 3
+    }
+  ]
+}

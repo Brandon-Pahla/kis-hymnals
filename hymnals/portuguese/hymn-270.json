@@ -1,0 +1,44 @@
+{
+  "number": 270,
+  "language": "pt",
+  "title": "A Fé em Deus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A Fé em Deus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A fé em Deus contém poder",
+        "Que faz tombar muralha.",
+        "É força que nos faz vencer",
+        "Do mal a atroz batalha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A fé em Deus já fez heróis",
+        "Em tempos maus da história.",
+        "Brilharam, sim, e como sóis",
+        "Serão na eterna glória."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vivendo, assim, com fé em Deus,",
+        "Iremos ver a alva.",
+        "Tenhamos fé nos braços Seus,",
+        "Pois só Jesus nos salva."
+      ],
+      "number": 4
+    }
+  ]
+}

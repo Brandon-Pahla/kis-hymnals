@@ -1,0 +1,52 @@
+{
+  "number": 261,
+  "language": "ve",
+  "title": "261. Govha lavhudi la Edeni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:429"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Govha lavhudi la Eden",
+        "Mudifho vhukuma",
+        "Vha mbilu dzo netesaho",
+        "Vha wana dzawelo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Govha lavhudi la Eden, haya ha vhakhethwa.",
+        "Ndi vhukati ha mathupho-vho, ndi lora dzawelo lau."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kha mbilu dza vha lilaho",
+        "Hu vhonala tshedza",
+        "Hu imbelela vharunwa",
+        "Vha pfala nga kule."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Haya ha Mutshidzi wanga",
+        "Hu pfala luimbo",
+        "Vho rengwaho nga malofha;",
+        "Vha tshi imba luswa."
+      ],
+      "number": 4
+    }
+  ]
+}

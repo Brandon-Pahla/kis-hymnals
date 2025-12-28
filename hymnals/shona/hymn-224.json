@@ -1,0 +1,40 @@
+{
+  "number": 224,
+  "language": "sn",
+  "title": "224 Maranzi Anopenya Emutsa Wababa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Maranzi emutsa wababa, Anobva kumba yake,",
+        "Asi otichengetesa, mwenje mupasi rino."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rega mwenje yeny’-ipenye, ipenyere munyanza!",
+        "Zvimwe pan’-anyura m’nyanza",
+        "Uyo mungaponese"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pasi razara nedima, mananda otinhira;",
+        "Vazhinji vakarindira, kuona mwenje yedu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pfutisanyi mwenje hama! vamwe varimudima,",
+        "Varikuyedza mudima, Kusvika kumagumo."
+      ],
+      "number": 4
+    }
+  ]
+}

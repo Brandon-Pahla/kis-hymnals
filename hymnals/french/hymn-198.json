@@ -1,0 +1,47 @@
+{
+  "number": 198,
+  "language": "fr",
+  "title": "Je viens, Seigneur, au soir",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Je viens, Seigneur, au soir d'une journée",
+        "Qu'en ton amour tu m'as encor donnée,",
+        "Je viens chercher le regard de ta face,",
+        "Ta paix, ta grâce."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De tes bienfaits tu couronnes ma vie,",
+        "Et dans ce jour ma coupe en fut remplie;",
+        "J'adore, ô Dieu, ta bonté paternelle,",
+        "Ta main fidèle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mais trop souvent encore je t'offense",
+        "Prolonge, ô Dieu, ta longue patience.",
+        "Vois, ton enfant à tes pieds s'humilie :",
+        "Pardonne, oublie!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Et quand viendra pour moi la nuit dernière,",
+        "Quand finira ma terrestre carrière,",
+        "Que je m'endorme en paix, dans ta lumière.",
+        "Ô divin Père."
+      ],
+      "number": 4
+    }
+  ]
+}

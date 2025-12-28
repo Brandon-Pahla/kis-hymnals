@@ -1,0 +1,38 @@
+{
+  "number": 147,
+  "language": "xh",
+  "title": "147 Nditsalele Kufuphi Nawe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nditsalele kuwe Bawo wam, Mandiwolwe nguWe;",
+        "Undisongel’ ezingalweni, Ndifun’ ukuphumla."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kufuphi nawe, Nkosi, Nditsale ndize kuwe;",
+        "Nditsale wena ndize kuwe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nditsalele kuWe, Msindisi, Sobe ndikushiye;",
+        "Mandiziv’ iingalo zaKho kum, Sobe ndihilize."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nditsale, Moya oyiNgcwele, Mandifane naWe;",
+        "Ndihlambulule, ndingcwalise, Ndide ndibe ngcwele."
+      ],
+      "number": 3
+    }
+  ]
+}

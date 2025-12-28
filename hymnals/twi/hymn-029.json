@@ -1,0 +1,59 @@
+{
+  "number": 29,
+  "language": "tw",
+  "title": "Monto 'Yeyi Dwom Mma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Monto 'yeyi dwom mma s'ro hen',",
+        "Abɔde ny'naa Nyame no,",
+        "Nyame Tumfo, ɔdɔ Nyame,",
+        "Yɛn nkwagye Nyankopɔn no;",
+        "ɔma me kra ayaresa,",
+        "Na Odum akyinnye biara;",
+        "Ayeyi ny'naa nka Nyame!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nea Nyame tumi ayɛ no,",
+        "N'ahummɔb'rɔ bɔ ho ban;",
+        "Anɔpab're anaa 'nwumm're",
+        "ɔntɔ' nko na ɔnna da;",
+        "Ne tumi ahemman no mu,",
+        "B'ribiara tene nā ɛyɛ pɛ:",
+        "Ayeyi ny'naa nka Nyame!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Awurade nni aky'riky'ri;",
+        "Yɛn awerɛhow ny'naa mu,",
+        "ɔne yɛn mprempren Boafo pa,",
+        "Yɛn asomdwoe ne nhyira.",
+        "Sɛnea 'baatan yɛ ne mma no,",
+        "ɔhwɛ kuw a Wapaw wɔn no;",
+        "Ayeyi ny'naa nka Nyame."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Afei m'anigye kwan mu no,",
+        "Mɛto Wo ayeyi nnwom",
+        "Na nnipa ate nnaase a",
+        "Mede me nne rema W' yi;",
+        "Me koma bɔ 'se 'W'rade mu,",
+        "Me kra ne nipadua no ny'naa!",
+        "Ayeyi ny'naa nka Nyame!"
+      ],
+      "number": 4
+    }
+  ]
+}

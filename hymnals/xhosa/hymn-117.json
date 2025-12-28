@@ -1,0 +1,46 @@
+{
+  "number": 117,
+  "language": "xh",
+  "title": "117 Nkosi, Ndiyeza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiv’ ilizwi laKho, Nkosi libiza mna;",
+        "’Ze ndihlanjululw’ egazin’, Livel’ e-Kalvari."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndiyeza, Nkosi! Kuwe ngokunje!",
+        "Ndihlambe egazini, Livel’ eKalvari."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Noko ndingcolile, undinik’ amandla;",
+        "Undihlamba ndibe msulwa, Ndize ndibe nyulu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Yes’ undibizela kolona luthando,",
+        "Kwithemba nokuxolisa, Komhlaba nezulu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nal’ ucamagusho! Naku ukuthengwa!",
+        "Nas’ isipho u-Krist’ I-Nkos’, ’Bulungisa bethu."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "number": 85,
+  "language": "ny",
+  "title": "85 - Ndiyimba Mphamvu Ya Mulungu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I SING THE MIGHTY POWER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndiyimba mphamvu ya Mlungu, wolenga mapiri,",
+        "Yemwe anapanga zinyanja ndi mlengalenga;",
+        "Ndiyimba nzeru imene inapanga dzuwa;",
+        "Mwezi uwala usiku, ndi nyenyezi zomwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndiyimba ubwino wake, Wakupatsa kudya;",
+        "Analenga zonse ndi mau, nayamikira.",
+        "Mbuye munazikhazika mozizwitsa ndithu!",
+        "Zinthu za m’dziko lapansi ndi zam’mbwamba zomwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mbeu ndi maluwa omwe, zidziwitsa Inu;",
+        "Mitambo yonse ndi namondwe, zimvera Inu.",
+        "Za moyo zonse zimasamalidwa ndi Inu,",
+        "Tilibe kothawira’ko, koma kwanu kokha."
+      ],
+      "number": 4
+    }
+  ]
+}

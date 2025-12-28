@@ -1,0 +1,49 @@
+{
+  "number": 310,
+  "language": "fr",
+  "title": "Ô Jésus, je t'aime",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Jésus, je t'aime,",
+        "Car tu m'as sauvé,",
+        "En t'offrant toi-même.",
+        "Ton sang m'a lavé !",
+        "Sur la croix bénie,",
+        "Pour moi, tu mourus.",
+        "Ta mort est ma vie,",
+        "Je t'aime, ô Jésus !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qu'ici-bas je t'aime,",
+        "Jusque dans la mort,",
+        "À l'heure suprême",
+        "Du dernier effort,",
+        "Ma voix expirante",
+        "Ne s'entendra plus,",
+        "Sachez que je chante :",
+        "Je t'aime, ô Jésus !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je verrai ta face,",
+        "Quel ravissement !",
+        "Je louerai ta grâce",
+        "Éternellement,",
+        "Et dirai sans cesse",
+        "Avec les élus",
+        "L'hymne d'allégresse :",
+        "Je t'aime, ô Jésus !"
+      ],
+      "number": 3
+    }
+  ]
+}

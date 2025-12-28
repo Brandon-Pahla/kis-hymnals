@@ -1,0 +1,54 @@
+{
+  "number": 1,
+  "language": "ve",
+  "title": "1 Tholi Lidza Phalaphala",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:386",
+        "AH:350"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tholi lidza phalaphala, vhathu kha vha kaidzwe;",
+        "Vhane vha pfa mafhungo, vha rembuluwe vha tshile."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "tholi lidza phalaphala, lidza i tou pfala;",
+        "Mudzimu U a u ruma, uri vha tshile vhothe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Lidza i pfiwe nga vhothe, u ime na kha thavha,",
+        "Vhidzelela na kha malwanzhe, mafhungo a vhutshilo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kha i pfale dzindevheni, dza kha vha re swiswini;",
+        "I ri zwothe zwo lugiswa, khotsi o ri lindela."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Vhudza vhane vha lemelwa, vhane vha lila Yesu;",
+        "Murena u khou vhidza, Ida zwino u tshile."
+      ],
+      "number": 5
+    }
+  ]
+}

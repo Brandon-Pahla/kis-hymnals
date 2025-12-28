@@ -1,0 +1,47 @@
+{
+  "number": 171,
+  "language": "xh",
+  "title": "171 Kuyinina Ngobusuku?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wena mlindi wase-Ziyon’; Kuyini nobusuku?",
+        "Liya phuma-na ikhwezi? Iya vela-n’ intsasa?",
+        "Phaya kude Kukhazimla imitha?",
+        "Phaya kude Kukhazimla imitha?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, sixelele imphau Esidlulayo kuzo;",
+        "Sisondel’ ezibukweni, Sel’ ibonakala-na?",
+        "Yinene-na, busondel’ ubukumkan’?",
+        "Yinene-na, busondel’ ubukumkan’?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nak’ ukukhanya kusiza! Masitsho thina sonke;",
+        "Sibon’ ikhwezi liphuma, Lilihle likhazimla!",
+        "Hi, bangcwele, Niya khululwa nina;",
+        "Hi, bangcwele, Niya khululwa nina."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sinawo umalathiso, Lomhlaba ukufuphi;",
+        "Phambili masikhauleze, sibe sezibukweni;",
+        "Mazwi ethu masiwaphakamise,",
+        "Sidumise ukunandipha kwethu."
+      ],
+      "number": 4
+    }
+  ]
+}

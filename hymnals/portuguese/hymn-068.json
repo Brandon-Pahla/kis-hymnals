@@ -1,0 +1,44 @@
+{
+  "number": 68,
+  "language": "pt",
+  "title": "Quando no Calvário",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Quando no Calvário"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quando no Calvário, contemplo o Salvador",
+        "Em grande agonia por mim vil pecador,",
+        "Sinto-me cativo, e meu coração",
+        "Queda-se humilhado ante o excelso dom."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vendo aquelas gotas rútilas a rolar",
+        "Das feridas feitas a fim de me salvar,",
+        "Possa eu tal cena nunca esquecer,",
+        "Mesmo em meio às lutas, quase a perecer."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Pai, Me abandonaste?\" Cristo então bradou.",
+        "Coração partido, a vida entregou;",
+        "Mas o Filho amado não morreu em vão,",
+        "Pois, Seu sacrifício deu-nos salvação."
+      ],
+      "number": 4
+    }
+  ]
+}

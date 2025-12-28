@@ -1,0 +1,58 @@
+{
+  "number": 228,
+  "language": "ve",
+  "title": "228. Mu Rendeni! Mu Rendeni!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:249",
+        "AH:140"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mu rendeni ndi Yesu Mutshidzi washu,",
+        "Imbani nga ha lufuno lwawe;",
+        "Mu losheni inwi vharunwa vhakhethwa,",
+        "Hulisani dzina lawe likhethwa;",
+        "Sa mulisa u linda vhana vhawe,",
+        "U vha kuvhatedza nga maduvha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mu rendeni bulani vhuhulu hawe,",
+        "Mu rendeni nga nyimbo dzavhudi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mu rendeni ndi Yesu Mutshidzi washu,",
+        "O thuphwa a fela zwivhi zwashu;",
+        "Ndi tombo lashu ri do tshidzwa nga Ene,",
+        "Mu rendeni ndi Yesu Muvhambwa;",
+        "Mu khodeni, o hwala zwivhi zwashu,",
+        "Lufuno lwawe ndi luhulusa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mu rendeni ndi Yesu Mutshidzi washu,",
+        "Vha tadulu imbani Hosana;",
+        "Yesu u do vhusa nga hu sa fheliho,",
+        "Hulisani a re khosi yashu;",
+        "U a vhuya nga gundo lifhasini,",
+        "U na Maanda na vhurena hothe."
+      ],
+      "number": 4
+    }
+  ]
+}

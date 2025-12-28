@@ -1,0 +1,56 @@
+{
+  "number": 197,
+  "language": "tn",
+  "title": "197 Ga Go Kake Ga Nna Mogogoro O O Lefifi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ga Go Kake Ga Nna Mogogoro",
+        "O o lefifi fa Jeso A tla;",
+        "Fa Jeso A tla go phuthela kwa",
+        "Gae baratwi ba Gagwe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Go phuthela baratwi",
+        "Ba Gagwe kwa legayeng,",
+        "Ga nko go nna fifi fa Jeso A tla,",
+        "Go phuthela ba ’Gwe gae."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga Go Kake Ga Nna Bofutsana",
+        "Ka lobaka lo Jeso O tla tlang;",
+        "Moso wa kgalalelo fa A tla",
+        "Go iphuthela baratwi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga Go Kake Ga Nna Le Selelo",
+        "Ka lobaka lo Jeso O tla tlang;",
+        "Thobo e sego fa Jeso A tla",
+        "Go iphuthela baratwi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go Tla Opelelwa Tumediso",
+        "Ka lobaka lo Jeso O tla tlang;",
+        "Kopano e ntle fa Jeso A tla",
+        "Go iphuthela baratwi."
+      ],
+      "number": 4
+    }
+  ]
+}

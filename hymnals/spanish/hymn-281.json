@@ -1,0 +1,44 @@
+{
+  "number": 281,
+  "language": "es",
+  "title": "He decidido seguir a Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### He decidido seguir a Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "He decidido seguir a Cristo,",
+        "he decidido seguir a Cristo,",
+        "he decidido seguir a Cristo.",
+        "No vuelvo atrás, no vuelvo atrás."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si otros vuelven, yo sigo a Cristo,",
+        "si otros vuelven, yo sigo a Cristo,",
+        "si otros vuelven, yo sigo a Cristo.",
+        "No vuelvo atrás, no vuelvo atrás."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La cruz delante y el mundo atrás,",
+        "la cruz delante y el mundo atrás,",
+        "la cruz delante y el mundo atrás.",
+        "No vuelvo atrás, no vuelvo atrás."
+      ],
+      "number": 4
+    }
+  ]
+}

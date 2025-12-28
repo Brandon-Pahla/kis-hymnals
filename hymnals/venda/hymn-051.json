@@ -1,0 +1,62 @@
+{
+  "number": 51,
+  "language": "ve",
+  "title": "51 Ri Lovhedze Nga Huswa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:258",
+        "AH:155"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ri lovhedze-ha nga Maanda au,",
+        "Ri vuse nga lufuno, ri sendedze."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ri rabele khotsi ri a humbela,",
+        "Ri lovhedze nga muya, na lufuno."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. A ro ngo fanela, ri na tshika,",
+        "Khotsi, ri tanzwe-ha kha vhuvhi hothe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Muya wau Yesu nga u de ngeno,",
+        "Ri a U humbela, ima tsini-ha."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nthetshelese, ngeo tadulu,",
+        "nne ndi a U funa, ndo takala."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Ri renda khotsi, ri a U renda,",
+        "Ngwana yo thavhiwaho, Amen, Amen."
+      ],
+      "number": 6
+    }
+  ]
+}

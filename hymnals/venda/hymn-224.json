@@ -1,0 +1,46 @@
+{
+  "number": 224,
+  "language": "ve",
+  "title": "224. denzhe Kha li Duge",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:356"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tshilidzi tsha khotsi-ashu, tshi penya nduni yawe,",
+        "rine ro laiwa uri ri vhonetshele vhanwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Fungani madenzhe anu, Hu vhonetshelwe tshothe,",
+        "A e swiswini dindini, A wane-vho u tshidzwa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Swiswi lo diswa nga tshivhi, ho dala dzitshengelo,",
+        "Ndi kale ro lavhelesa, u vhona tshedza tshawe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Fungani luvhone lwanu, munwe are swiswini,",
+        "Lindela u vhone tshedza, na u swika hayani."
+      ],
+      "number": 4
+    }
+  ]
+}

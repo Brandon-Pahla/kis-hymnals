@@ -1,0 +1,60 @@
+{
+  "number": 149,
+  "language": "tum",
+  "title": " 149 Enda M'ungweru wa Fumu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 149 Enda M'ungweru wa Fumu",
+        "WALK IN THE LIGHT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Endam'ungweru wa Fumu,",
+        "Wakukurongozga,",
+        "Mzimu Mtuwa watumika,",
+        "Kuchimbizga chisi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Enda m'ungweru,",
+        "(Enda m ungweru wakutowa wa Fumu),",
+        "Enda mungweru,",
+        "(Enda m'ungweru wakutowa wa Fumu),",
+        "Enda m'ungweru,",
+        "(Enda mungweru wakutowa wa Fumu),",
+        "Mu ungweru wa Chiuta."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Enda m'ungweru wa mazgu,",
+        "Gha Chiuta mwene,",
+        "Mbungweru kwa wose awo,",
+        "wakumugomezga."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Enda mungweru wa Fumu,",
+        "Nanga kuwe chisi,",
+        "Chisi chizamkuchimbira,",
+        "Pakwiza kwa Fumu."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "number": 330,
+  "language": "guz",
+  "title": "330 Borabu Ndae",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Borabu ndae as' omoichano,Ndae rioka,Obotuko, ng'arende korwa nka,Ndae rioka,Ndend' amagoro;Timboreti korora egeka,Kogoro okomo kong'isane."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tinanarete iga, gosaba ng'a,Ay'ondaeNigo nanchete gochor' ayane,Bono ndae.Ngancha omogoko ko inde omwoba,Nkaenena,Toinyor' ayaetire."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Chinguru chiao chiansesenirie,Nchindae riokaAs'amanani nas' emerindo,Goika bokieKobwakire 'Malaika bagoka,'Banyanchete ko bansireirie ake."
+      ],
+      "number": 3
+    }
+  ]
+}

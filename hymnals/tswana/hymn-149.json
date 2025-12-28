@@ -1,0 +1,50 @@
+{
+  "number": 149,
+  "language": "tn",
+  "title": "149 Tsama’a Seding Ja Morena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tsama’a ’Seding Ja Morena, Je Le Tla Go Gogang,",
+        "Mo’a ’Gwe o tswang legodimong, O ka tlosa fifi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tsama’a ’seding, tsama’a ’seding,",
+        "Tsama’a ’seding, Tsama’a ’seding ja Modimo",
+        "-T. &amp; B. Tsama’a leseding je lentle ja Modimo,",
+        "Tsama’a leseding je lentle ja Modimo",
+        "Tsama’a leseding je lentle ja Modimo,",
+        "Tsama’a ’seding ja Modimo"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsama’a ’Seding Ja Efangele Fokong Ja Modimo,",
+        "’Sedi je le gogang bokaung, Batho ba Morena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsama’a ’Seding Lefa Lefifi Le Le Tseleng Ya’go,",
+        "Le tla tshaba lesedi ja Tsatsi ja Modimo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsama’a ’Seding Mme O Tla Itse Rato Lwa Modimo;",
+        "Botsalano mo lefatshing, Legodimong bontle."
+      ],
+      "number": 4
+    }
+  ]
+}

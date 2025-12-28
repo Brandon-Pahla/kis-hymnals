@@ -1,0 +1,55 @@
+{
+  "number": 111,
+  "language": "sn",
+  "title": "111 Hakuna Mumwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hakuna hama kupinda Jesu, Hakuna, neimwe!",
+        "Hakuna umwe kurapa vese, Hakuna, neumwe!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anoziva nanhamo Jesu, Anotungamira tese,",
+        "Hakuna umwe kupinda Jesu, Hakuna!neumwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hakuna umwe mukuruzveba, Hakuna ne-umwe!",
+        "Asi Anozviita muduku, Hakuna neumwe!>"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hakuna nguva asipo Iye, Hakuna neimwe:",
+        "Kana usiku rudo ruripo, Hakuna neimwe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hakuna umwe akamborambwa, Hakuna neimwe! neumwe!",
+        "Kana munyangadzi ha’murambi, Hakuna!neumwe!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hakuna chipo chikuruzveba, Hakuna nechimwe!",
+        "Hangatinyimi musha kudenga, Hakuna neumwe!"
+      ],
+      "number": 6
+    }
+  ]
+}

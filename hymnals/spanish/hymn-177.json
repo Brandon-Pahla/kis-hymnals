@@ -1,0 +1,55 @@
+{
+  "number": 177,
+  "language": "es",
+  "title": "Los tres mensajes angélicos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ved al ángel que proclama buenas",
+        "nuevas por doquier.",
+        "Con potente voz anuncia: respetad",
+        "y honrad a Dios,",
+        "pues la hora de su juicio ya llegó;",
+        "y adorad al que hizo cielo, tierra y mar."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Otro ángel sigue presto pregonando",
+        "en alta voz:",
+        "Ha caído Babilonia pues al mundo",
+        "engañó.",
+        "Pueblo mío, apartaos de su error;",
+        "pues así sus plagas no os tocarán."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "El tercer mensaje llega con",
+        "solemne admonición:",
+        "El que adore a la bestia o reciba su",
+        "señal,",
+        "el castigo ha de recibir al fin,",
+        "pues la gracia no podrá cubrirlo más."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aquí están los que esperan con",
+        "paciencia a Jesús.",
+        "Los que guardan sin reservas del",
+        "Señor la Ley de amor.",
+        "Por la fe en Cristo ellos vivirán",
+        "y gozosos en el cielo entrarán."
+      ],
+      "number": 4
+    }
+  ]
+}

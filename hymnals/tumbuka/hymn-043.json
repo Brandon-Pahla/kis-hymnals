@@ -1,0 +1,59 @@
+{
+  "number": 43,
+  "language": "tum",
+  "title": " 43 Awo Wafwira Mwa Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 43 Awo Wafwira Mwa Yesu",
+        "ASLEEP IN JESUSI"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Awo wafwira mwa Yesu,",
+        "wam'kuwuka mu chimwemwe",
+        "Wapumule mu mutende,",
+        "kwamburaso mtimbanizgi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Awo wafwira mwa Yesu,",
+        "wambura wofi na nyifwa.",
+        "MbamwaWi wakugomezga",
+        "m nkhongono za mtaski wawo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Awo wafwira mwa Yesu,",
+        "wamkukhala mu mutende,",
+        "Vitima vyose kulije",
+        "pakwiza ye wazam'wuka."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Awo wafwira mwa Yesu,",
+        "mbata wamkuyipulika,",
+        "Wamkuwuka mu malaro,",
+        "kuruta na Fumu yawo."
+      ],
+      "number": 5
+    }
+  ]
+}

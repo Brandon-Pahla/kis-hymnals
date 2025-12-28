@@ -1,0 +1,39 @@
+{
+  "number": 206,
+  "language": "fr",
+  "title": "C’est vers toi...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "C’est vers toi que je me tourne,",
+        "Je veux marcher dans tes voies;",
+        "J'élève mes mains pour te rencontrer,",
+        "Mon cœur désire chanter",
+        "Pour bénir et célébrer ton saint nom,",
+        "Car tu es fidèle et bon.",
+        "Seigneur, ô Seigneur,",
+        "Je veux te donner,",
+        "Seigneur, ô Seigneur,",
+        "Ma vie à jamais."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mes yeux contemplent ta gloire,",
+        "Ta vie ranime ma foi,",
+        "Ta paix et ta joie inondent mon cœur,",
+        "Toi seul fais tout mon bonheur.",
+        "Je veux proclamer que tu es celui",
+        "Qui chaque jour nous bénit.",
+        "Seigneur, ô Seigneur,",
+        "Je veux partager,",
+        "Seigneur, ô Seigneur,",
+        "Ton éternité."
+      ],
+      "number": 2
+    }
+  ]
+}

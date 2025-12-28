@@ -1,0 +1,51 @@
+{
+  "number": 167,
+  "language": "tn",
+  "title": "167 A Motheo O Thata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A Motheo O Thata Jang, Baitshepi,",
+        "Morena A lo theetseng",
+        "Fokung ja Gwe, O ka lo ra’a eng gape ka A rile,",
+        "Ke bomang ba ba tshabetseng Mmoloking,",
+        "Ke bomang ba ba tshabetseng Mmoloking?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Fa Ke Go Bitsa Go Ralala Boteng\"",
+        "Ga nko O tlalelwa ke bohutsana;",
+        "Gonne ke tla go gomotsa letshwenyong,",
+        "Ke go itshepise patikegong ya go",
+        "Ke go itshepise patikegong ya go"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Fa Tseleng Ya Gago Go Le Diteko,",
+        "Ke tshwaro ya me e tla go tshegetsang;",
+        "Molelo ga nko o go tlhokofatsa,",
+        "Ke tla ntlafatsa gouda ya gago,",
+        "Ke tla ntlafatsa gouda ya gago.\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yo O Ikaegileng Mo Go Jeso,",
+        "Ga nke ke mo latlhela babeng bag we;",
+        "Lefa molete o ka tshikinyega,",
+        "Ga Nkake nnyaa ga Nkanke Ka mo latlha",
+        "Ga Nkake nnya ga Nkanke Ka mo latlha."
+      ],
+      "number": 4
+    }
+  ]
+}

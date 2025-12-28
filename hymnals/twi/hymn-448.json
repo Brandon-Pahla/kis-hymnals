@@ -1,0 +1,44 @@
+{
+  "number": 448,
+  "language": "tw",
+  "title": "B're Bɛn Na Mehu Yesu Ne No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "B're bɛn na mehu Yesu ne No adi hen' s'ro,",
+        "Na mate t'robɛnto nne anɔpa no?",
+        "Mɛnom daa dɔ nsu afi asubɔnten no mu,",
+        "Na mate t'robɛnto nee anɔpa no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Monteam, 'nuonyam! Efisɛ mɛf'ro akɔ s'ro",
+        "B'rč a mete t'robɛnto nee anɔpa no."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hyɛ 'sɛmpa akode, gyidi, 'nidaso ne dɔ,",
+        "Na woate t'robɛnto nee anɔpa no;",
+        "Na sɛ 'ko no kɔ awiei a, ɔde w'akɔ s'ro,",
+        "Na woate t'robɛnto nee anɔpa no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn aso bɛte ɔs'ro dɔm dwonto anigyem,",
+        "Na yɛate t'robɛnto nee anɔpa no;",
+        "Yɛn tɛkrɛma bɛto yɛn daa Hen' no anuonyam,",
+        "Na yɛate t'robɛnto nee anɔpa no."
+      ],
+      "number": 3
+    }
+  ]
+}

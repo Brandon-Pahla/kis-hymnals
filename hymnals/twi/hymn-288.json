@@ -1,0 +1,62 @@
+{
+  "number": 288,
+  "language": "tw",
+  "title": "M'igu So Rekɔ Kalbre",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "M'igu so rekɔ Kalbre,",
+        "Wo ne me bɛkɔ anaa,",
+        "Wɔ n'akɔneaba nyinaam?",
+        "Di Kannifon' akyi ɛ;",
+        "Di Kannifo no akyi,",
+        "Di Kannifo no akyi,",
+        "Worekɔ na woreba,",
+        "Di Kannifo no akyi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ Mehyɛ nsɔe ahenkyɛw,",
+        "Na 'sraafo bɔ Me hwe a",
+        "Metumi ayɛ ɔhen?",
+        "ɔdɔ bɛma mmuae no ny'naa;",
+        "Mudi Kannifon' akyė a,",
+        "Mudi Kannifon' akyė a,",
+        "ɔdɔ bɛma mmuae no ny'naa,",
+        "Mudi Kannifon' akyė a."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B're a Menam kwan so yi,",
+        "Mɛma 'desoa d'rud'ru so;",
+        "Mɛsoa asɛnnua amaw'.",
+        "Wubesua ne soa saa'ra.",
+        "Wudi Kannifon 'akyė a,",
+        "Wudi Kannifon 'akyė a,",
+        "Wubesua ne soa saa'ra,",
+        "Wudi Kannifon 'akyė a."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Merekɔtrɛw M'abasam'",
+        "De adu nsase ny'naa so.",
+        "So Metumi ayɛ ɔhen?",
+        "ɔdɔ di ade ny'naa so;",
+        "Wudi Kannifon 'akyė a,",
+        "ɔdɔ di ade ny'naa so,",
+        "Wudi Kannifon 'akyė a."
+      ],
+      "number": 4
+    }
+  ]
+}

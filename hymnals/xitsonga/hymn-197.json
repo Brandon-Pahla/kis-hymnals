@@ -1,0 +1,25 @@
+{
+  "number": 197,
+  "language": "ts",
+  "title": "197. NKOVA WA XINYAMI WU TA HELA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE’LL BE NO DARK VALLEY",
+        "1. Nkova Wa Xinyami Wu Ta Hela, Loko Hosi Yesu A Ta Vuya,",
+        "Ndzuti Wa Rifu Wu Ta Lahleka, Loko A Teka Vakwe.",
+        "CHORUS",
+        "A Teka Varhandziwa (Vakwe) A Va Yisa Ekaya",
+        "Nkova Wa Munyama Wu Ta Hela, Loko Yesu A Vuya.",
+        "2. Nhlomulo, Maxangu Swi Ta Hela, Loko Hosi Yesu A Ta Fika,",
+        "Miringo Swiphiqo Swi Ta Hela, Loko A Teka Vakwe.",
+        "3. Hi Ta Sula Mihloti Mahlweni, Loko Hosi Yesu A Ta Fika,",
+        "Na Swirilo Swi ta Herisiwa, Loko A Teka Vakwe.",
+        "4. Hi Ta Yimbelela No Dzunisa, Loko Hosi Yesu A Ta Fika,",
+        "Hi Ta Khana Tani Hi Marhole, Yesu A Teka Vakwe."
+      ],
+      "number": 1
+    }
+  ]
+}

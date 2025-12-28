@@ -1,0 +1,61 @@
+{
+  "number": 230,
+  "language": "nso",
+  "title": " 230 KE NNA TSELA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 230 KE NNA TSELA",
+        "CS 10",
+        "I AM THE WAY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bjalo ka nku e timetšego,",
+        "Bohle ba lahlegile,",
+        "Bophelong, khutšong, lešakeng,",
+        "Ke tlo bona bjang tsela?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Ke nna tsel'a nnete,",
+        "Le bophelo,",
+        "Ga go yo a tlago go",
+        "Tate ge e se ka Nna,",
+        "Ke nna tsela,",
+        "Bophelo le nnete,",
+        "Ga go yo a tlago go",
+        "Tate ge e se ka Nna;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke lahletšwa ke pelaelo,",
+        "Nna nka ya go Modimo",
+        "Bontši bore mono le mola,",
+        "Ke tsebe bjang nnete;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go Kreste, tela, bophelo,",
+        "Ka nnete ke etla,",
+        "O tlo negogela go Tate,",
+        "Legaeng la bosafelego;"
+      ],
+      "number": 5
+    }
+  ]
+}

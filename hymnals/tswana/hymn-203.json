@@ -1,0 +1,66 @@
+{
+  "number": 203,
+  "language": "tn",
+  "title": "203 Lo Gaseng Mafoko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lo Gaseng Mafoko, Gotlhe Gotlhe Bathung,",
+        "Gotlhe kwa ba leng teng, Ba le bafutsaneng;",
+        "Botlhe Bakresete Ba bolele tumo",
+        "Mogomots’O tsile."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mogomotsi O teng, Mogomotsi O teng,",
+        "Moya O’ Boitshepo, Tsholofetso’a Rara;",
+        "Lo gaseng mafoko, Gotlhe gotlhe bathung",
+        "Mogomotsi o teng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Sigo Bo Fetile, Moso O Fitlhile;",
+        "O sentse poifo, Le tshakgalo’a phefo,",
+        "Fa tsatsi ja gouda le tlhaba dithabeng;",
+        "Mogomotsi o fa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bonang Kgosi Jeso O Na Le Phodiso,",
+        "Ya ba ba gapilweng, O tla le kgololo,",
+        "Mme go tswa kopelo, Ya phenyo go botlhe,",
+        "Mogomotsi o teng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rato Lo ’Boitshepo, Loleme Lo Lwa Me,",
+        "Lo ka bolela jang, Ka ga tshegofatso,",
+        "Ka nna moleofi Ke tla tshwana Nae,",
+        "Mogomotsi o teng."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lo Opeleng Thata. Lo Tsholetseng Mantswe,",
+        "Baitshepi godimo, Ba tla lo fetola,",
+        "Mantsweng a lorato, Kopelo e sa sweng;",
+        "Mogomotsi o teng."
+      ],
+      "number": 5
+    }
+  ]
+}

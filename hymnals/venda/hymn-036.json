@@ -1,0 +1,42 @@
+{
+  "number": 36,
+  "language": "ve",
+  "title": "36 Lutendo Lwanga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:517",
+        "AH:204"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi sedza kha Iwe, Ngwana ya Khalivari, U mukhethwa,",
+        "’Pfa thabelo yanga, thutha zwivhi zwanga,",
+        "U bva namusi kha ndi vhe Wau"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kha ndi newe Maanda, na u kondelela, Nga RaMaanda,",
+        "Kha ndi u tende-ha, nga ho fhelelaho,",
+        "Ngauri Iwe wo no di mpfela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kha vhutungu hothe, ndo no swifhalelwa, U nkokodze,",
+        "Pandelai swiswi, mphulute mitodzi,",
+        "Uri ndi si pambuwe ndilani."
+      ],
+      "number": 4
+    }
+  ]
+}

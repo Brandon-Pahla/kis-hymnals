@@ -1,0 +1,54 @@
+{
+  "number": 273,
+  "language": "tn",
+  "title": "273 Ikaega Mabogong A Jeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ikaega Mabogong A Jeso, O Tla Go Thusa Tla Go Thusa;",
+        "Fa O ikanya rato lwa ’Gwe O go tlatsa pako."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "S.&amp;T.",
+        "Ikaega mabogong a Gagwe,",
+        "Mo ikanye; tsa’a tshwaro ya’Gwe;",
+        "Ikaega, leba gae godimo,",
+        "Mobogong a Mmoloki.",
+        "A.&amp;B.",
+        "Ikaega mabogong a ’Gwe Mo ikanye;",
+        "Ikaega mabogong, tsa’a Tshwaro ya ’Gwe,",
+        "Ikanya mme O lebe legaeng godimo,",
+        "Mabogong a Mmoloki."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ikaega Mabogong E Jeso, O Tla Phatsemisa Tsel’a’go;",
+        "Mo latele fela boipelong, Utlwa ntswe ja Gagwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ikaega Mabogong A Jeso, Lere Tlalelo Tsotlhe Tsa ’Go:",
+        "Morwalo o o bekete O Lere go Morena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ikaega Mabogong A Jeso, Foo I Lese Tsotlhe Go Ene",
+        "O tletse lorato mo pelong, G’a Ifale matlho."
+      ],
+      "number": 4
+    }
+  ]
+}

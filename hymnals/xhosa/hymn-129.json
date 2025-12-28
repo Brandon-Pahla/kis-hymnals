@@ -1,0 +1,44 @@
+{
+  "number": 129,
+  "language": "xh",
+  "title": "129 Yiza Yesu Usithamsanqele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wena Yes’ udinge Abo bambalwa",
+        "Bathe bahlangana, Nawe wobaKho;",
+        "Sikholwa li-Lizwi, Siya thandaza;",
+        "Yiz’ uthamsanqele, Nkosi zityhile."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu thamsanqela, nanku silapha;",
+        "Yesu thamsanqela, yiba kufuphi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngawo amaxesha Awadlulayo",
+        "Wamana unathi, Solok’ unathi;",
+        "Yiza O Msindisi, Usibabale;",
+        "Sive usamkele Ekuthandazen’."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hlab’ amazwi ethu Akudumise;",
+        "Sive xa sicela Sijonge kuWe;",
+        "Qinisa ukholo Khanyis’ ithemba;",
+        "Lube nyul’ uthando, Nendlel’ icace."
+      ],
+      "number": 3
+    }
+  ]
+}

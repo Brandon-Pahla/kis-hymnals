@@ -1,0 +1,47 @@
+{
+  "number": 29,
+  "language": "en",
+  "title": "29 Abide With Me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Abide with me! Fast falls the even-tide;",
+        "The darkness deepens; Lord with me abide!",
+        "When other helpers fail and comforts flee,",
+        "Help of the helpless, O, abide with me."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Swift to its close ebbs out life’s little day;",
+        "Earth’s joys grow dim; its glories pass away;",
+        "Change and decay in all around I see;",
+        "O thou who changest not, abide with me"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Not a brief glance I ask nor passing word,",
+        "But as thou dwell`st with thy disciples, Lord,",
+        "Familiar, condensing, patient, at no cost,",
+        "Come, not to so-journ, but abide with me."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I need thy presence ev`ry passing hour;",
+        "What but thy grace can foil the tempter’s pow`r:",
+        "Who, like thyself, my guide and stay can be?",
+        "Thro` cloud and sunshine, Lord, abide with me."
+      ],
+      "number": 4
+    }
+  ]
+}

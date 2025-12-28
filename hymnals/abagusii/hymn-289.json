@@ -1,0 +1,35 @@
+{
+  "number": 289,
+  "language": "guz",
+  "title": "289 Nagokire Ng'a Tat'ore Igoro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nagokire ng'a Tat'ore Igoro,'Teb'obwanchani bway'as'ebuku;'Makumi'amange narorire ime,Kobu'onsi Yeso nanyanchete."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nagokire Yes'Anyanchete,Nanyanchete, nanyanchete;Nagokire Yes'Anyanchete,Nanyanchete mono."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nonya nkomweb'erio natayaya,'Nyanchete rioka nonya ngosira;Nimotamer'er'oyonyanchete,Gankoinyora bun'er'ankwerete."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Onye kore gotera ndatere,'Kero namororir'Omotoria;Nakw'oko goika kare na kare,\"N'ogokumia ki Yes'Anyanchete."
+      ],
+      "number": 4
+    }
+  ]
+}

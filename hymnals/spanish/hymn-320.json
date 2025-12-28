@@ -1,0 +1,55 @@
+{
+  "number": 320,
+  "language": "es",
+  "title": "Jamás se dice \"adiós\" allá",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Jamás se dice \"adiós\" allá"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuan grato es con amigos vernos",
+        "en tiempo tan veloz;",
+        "mas siempre llega el día triste",
+        "en que se dice \"adiós\"."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Jamás se dice \"adiós\" allá,",
+        "jamás se dice \"adiós\";",
+        "en el país de gozo y paz",
+        "jamás se dice \"adiós\"."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuán dulce es el consuelo dado",
+        "por ellos al partir:",
+        "que cuando venga Cristo en gloria,",
+        "nos hemos de reunir."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "jamás habrá una despedida,",
+        "tan dolorosa aquí;",
+        "mas grata unión y paz eterna",
+        "se gozarán allí."
+      ],
+      "number": 5
+    }
+  ]
+}

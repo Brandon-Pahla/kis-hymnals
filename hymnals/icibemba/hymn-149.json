@@ -1,0 +1,31 @@
+{
+  "number": 149,
+  "language": "bem",
+  "title": "149 - ENDA MU LUBUTO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WALK IN THE LIGHT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. E-nda mu lubuto wape-lwa lukutungulule,",
+        "'Mupa-shi kufuma ku mulu, Winga fumye mfifi",
+        "CHORUS:",
+        "E-nda mu lubuto, E-nda mu lubuto,",
+        "E-nda mu lubuto, Mu lubuto ulwa Mfumu.",
+        "2. Enda mu lubuto lwe landwe, shiwi lya kwa Lesa,",
+        "Lula batungulula bonse, 'Ba cine 'ba Mfumu.",
+        "3. Na-ngu mwabe mfifi ‘mo leya, Enda mu lubuto,",
+        "Mfifi ‘letina ulubuto, Ku kwisa kwa Mfumu.",
+        "4. E-nda mu lubuto ulwakwe, Elyo 'kamutemwa.",
+        "Kumu-temwa pano pa ca-lo, Cikacila kulya"
+      ],
+      "number": 2
+    }
+  ]
+}

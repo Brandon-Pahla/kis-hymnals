@@ -1,0 +1,47 @@
+{
+  "number": 31,
+  "language": "ve",
+  "title": "31 U duvha la Muya Wanga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:502",
+        "AH:035"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. U duvha la muya wanga, Ú tsini swiswi a liho.",
+        "Hu sa de swiswi la dzumba tshifhatuwo Tshau Yesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Musi ndi tshi vho edela, Mato anga a tshi bonya,",
+        "Ndi awela ndo takala, ndi na ’We Murena wanga."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Matsheloni, madekwana, dzula na nne U ndededze,",
+        "Musi vhusiku ho swika, Ú sin a nne thi nga tshili."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndi tshi vuwa mphathutshedze, ndi sathu thoma-vho lwendo,",
+        "Uri nga lufuno lwau, ndi ye henengei tadulu."
+      ],
+      "number": 5
+    }
+  ]
+}

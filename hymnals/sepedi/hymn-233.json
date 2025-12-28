@@ -1,0 +1,69 @@
+{
+  "number": 233,
+  "language": "nso",
+  "title": " 233  MPOTŠE TABA YA KGALE-KGALE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 233  MPOTŠE TABA YA KGALE-KGALE",
+        "AH 80 CH 524",
+        "TELL ME THE OLD OLD STORY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A ke le mpotšeng ditaba",
+        "Tšeo di sa tsejwego,",
+        "Ka Jeso kgalalelong,",
+        "Ka Jeso leratong,",
+        "Le mpotšeng ga botse,",
+        "Bjalo ka ngwana,",
+        "Ke'a fokola ke lapile,",
+        "Ke mo manyaming;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Le ke le mpotše taba,",
+        "Le ke le mpotše taba,",
+        "Le ke le mpotše taba,",
+        "Ka Jeso leratong;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le mpotše ka bonolo,",
+        "Le ka kwešišo,",
+        "Thekolllo e makatšago,",
+        "Phodišong ya sebe,",
+        "E bušeletše gantši,",
+        "Ke se e lebale,",
+        "Bjalo ka phoka e",
+        "Fela mosegare;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le mpotše yona ge",
+        "Le tšhaba gore,",
+        "Nka forwa ke lefase,",
+        "Menateng ya lona,",
+        "Ge botse bja lefase",
+        "Bo feta mahlong a ka,",
+        "Mpotše taba ya kgale,",
+        "Ka lerato la Jeso;"
+      ],
+      "number": 5
+    }
+  ]
+}

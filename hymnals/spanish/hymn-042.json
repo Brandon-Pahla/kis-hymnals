@@ -1,0 +1,25 @@
+{
+  "number": 42,
+  "language": "es",
+  "title": "Queda, Señor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Queda, Señor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Queda, Señor, en este corazón;",
+        "dame tu paz y lléname de amor;",
+        "que tu influencia permanezca en mí;",
+        "viva por siempre con tu bendición.",
+        "Amén."
+      ],
+      "number": 2
+    }
+  ]
+}

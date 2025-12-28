@@ -1,0 +1,47 @@
+{
+  "number": 252,
+  "language": "sn",
+  "title": "252 Mweya Yatambudzwa Uyai",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Uya mweya yatambudzwa, Tenzi anemutsa,",
+        "Muchazopiwa zororo, Mukamusimbira"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Musimbire, musimbire, M’simbire zvino",
+        "Ane rudo ane rudo, Unoponeswa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu aparadza ropa, Kuti komborera",
+        "Chipinda zvino muropa, Kuti ucheneswe"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hunde Jesu ndiyo nzira, Idi nezororo,",
+        "Daira zvino kwaari, Unokomborerwa"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uya muchita choyera, Ugashire mutsa",
+        "Ugare munyika iyo, Izere rufaro"
+      ],
+      "number": 5
+    }
+  ]
+}

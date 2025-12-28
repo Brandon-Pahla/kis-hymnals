@@ -1,0 +1,56 @@
+{
+  "number": 90,
+  "language": "pt",
+  "title": "A Voz de Jesus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A Voz de Jesus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu ouvi mui doce a falar-me co'amor;",
+        "A divina voz de Jesus:",
+        "\"Ô querido filho. sou teu Salvador",
+        "Deixa as trevas, vem para a luz.\"",
+        "Desprezei o mundo e a Jesus me entreguei,",
+        "Dei-Lhe todo o meu coraçăo.",
+        "Só entăo a paz celestial desfrutei;",
+        "NEle eu encontrei salvaçăo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hoje Sua voz com ternura me diz:",
+        "\"Alcançaste pleno perdăo.",
+        "Dize a todos que Eu te tornei mui feliz,",
+        "E que ao mundo dou salvaçăo.\"",
+        "Consagrado a Ele desejo anunciar",
+        "Seu incomparável amor.",
+        "Pela Sua graça está pronto a aceitar,",
+        "Até o mais vil pecador"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenho a mais ditosa esperança de ouvir",
+        "Sua linda voz musical,",
+        "Salvo já na glória do eterno porvir,",
+        "Lá na pátria celestial.",
+        "Para o eterno lar, afinal, partirei;",
+        "Este mundo năo me seduz.",
+        "Com os santos anjos ali viverei,",
+        "Sempre ouvindo a voz de Jesus."
+      ],
+      "number": 4
+    }
+  ]
+}

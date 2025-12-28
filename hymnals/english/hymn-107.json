@@ -1,0 +1,58 @@
+{
+  "number": 107,
+  "language": "en",
+  "title": "107 Tell Me The Story Of Jesus.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tell me the story of Jesus,",
+        "Write on my heart every word,",
+        "Tell me the story most precious,",
+        "Sweetest that ever was heard;",
+        "Tell how the angels, in chorus,",
+        "Sang as they welcomed His birth,",
+        "Glory to God in the highest,",
+        "Peace and good tidings to earth."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tell me the story of Jesus,",
+        "Write on my heart every word,",
+        "Tell me the story most precious,",
+        "Sweetest that ever was told."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fasting alone in the desert,",
+        "Tell of the days that He passed,",
+        "How for our sins He was tempted,",
+        "Yet was triumphant at last;",
+        "Tell of the years of his labor,",
+        "Tell of the sorrow He bore,",
+        "He was despised and afflicted,",
+        "Homeless, rejected, rejected and poor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tell of the cross where they nailed Him,",
+        "Writhing in anguish and pain;",
+        "Tell of the grave where they laid Him,",
+        "Tell how He liveth again,",
+        "Love in that story so tender,",
+        "Clearer than ever I see;",
+        "Stay, let me weep while you whisper,",
+        "Love paid the ransom for me."
+      ],
+      "number": 3
+    }
+  ]
+}

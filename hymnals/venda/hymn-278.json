@@ -1,0 +1,45 @@
+{
+  "number": 278,
+  "language": "ve",
+  "title": "278. Murena Ntsumbedze Ndila",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Murena ntsumbedze ndila swiswini,",
+        "’Tsumbedze ndila i re mbuya Murena;",
+        "A thi nangi, nnyise hune wa funa,",
+        "Mudzimu, ’nangele ndila yo lugaho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Muvhuso ndi Wau, ntsumbedze ndila,",
+        "Ine ya ya ha Iwe, ndi sa do xela;",
+        "U fare vhutshilo hanga, vhu si lovhe,",
+        "Vhona ndila nkhethele zwi tshidzaho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nnangele vhutshilo, kana vhulwadze,",
+        "’Nangele tshedza, vhushai na lupfumo;",
+        "Ndi si nange zwihulu kana zwituku,",
+        "U tshimbidze vhutali hanga na zwothe."
+      ],
+      "number": 4
+    }
+  ]
+}

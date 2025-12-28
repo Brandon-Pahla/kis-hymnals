@@ -1,0 +1,43 @@
+{
+  "number": 87,
+  "language": "tw",
+  "title": "Nyamč a ɔkasaa Mfiase No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyamč a ɔkasaa mfiase no",
+        "De yɛɛ nkoko ne 'botan,",
+        "Maa nkwa fii ase yɛɛ 'dwuma,",
+        "Wiase ha ne s'ro ns'romma;",
+        "Nea ɔhyɛ ma wiase tie No,",
+        "ɔno ne yɛn nnyinaso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyamč a ɔkasa faa nnipa",
+        "Ne aman 'bakɔsɛm ho,",
+        "Na ɔky'rɛ N'at'rimpɔ nnɛ no,",
+        "Nam Ne Ba no so kasa:",
+        "Nea ɔhyɛ ma wiase tie No,",
+        "ɔkasa ma ɛyɛ hɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyamč a N'asɛm dane 'nipa ɔ",
+        "Kristo yɛ somfo ne 'W'ra ɔ",
+        "ɔfrɛ yɛn kɔ som asetram;",
+        "Kanyan koma ne ɔpɛ;",
+        "Nea ɔhwehwɛ nnipa setie n',",
+        "ɔno na N'asɛm di mu."
+      ],
+      "number": 3
+    }
+  ]
+}

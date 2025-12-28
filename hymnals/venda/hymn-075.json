@@ -1,0 +1,46 @@
+{
+  "number": 75,
+  "language": "ve",
+  "title": "75 Ndi Pfa Ipfi la Mulisa Thavhani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:361",
+        "AH:347"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi pfa ipfi la Mulisa, Kule shangoni la swiswi,",
+        "li vhidza dzinngu dza Yesu, Dzi re kule na tshitumba."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dzi nzheniseni-ha, dzi nzheniseni ha Yesu,",
+        "Dzi nzheniseni-ha, dzi nzheniseni ha Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi nnyi a no do tshimbila, A yo toda vho xelaho?",
+        "Vha do tevhelwa nga nnyi, Uri vha de vha sa do fa?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. I pfani u lila havho, Vhe thavhani dzo lapfaho,",
+        "Ndi Yesu Mutshidzi washu, U ri vhuisa dzinngu."
+      ],
+      "number": 4
+    }
+  ]
+}

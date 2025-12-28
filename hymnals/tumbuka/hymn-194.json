@@ -1,0 +1,67 @@
+{
+  "number": 194,
+  "language": "tum",
+  "title": " 194 Mukunozga Mu Nyumba Pakutemwana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 194 Mukunozga Mu Nyumba Pakutemwana",
+        "LOVE AT HOME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mukunozga mu nyumba pakutemwana,",
+        "Mazgu ghose nkhutemwa pakutemwana.",
+        "Mutende na chimango viwakhalilirenge,",
+        "Wawenge wakucha swi!l pakutemwana."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Chitemwa mu nyumba,",
+        "wa ienge akucha swi",
+        "Pakutemwana."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mnyumba muli chimwemwe pakutemwana,",
+        "Thinkho, bina mulije pakutemwana.",
+        "Maluwa ghakuzota charu chose nkhutemwa,",
+        "Umoyo ngwakusangwa pakutemwana."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Wakuchanya wakucha pakutemwana,",
+        "Wam charu mbakuchaso pakutemwana.",
+        "Vyakutizingirizga vikuphara chitemwa,",
+        "Chiuta ngwakuchaso pakutemwana."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "A Yesu ndiwe winu nditi nditemwe,",
+        "Mukandifwira ine nditi nditemwe,",
+        "pumule mu mtende kwambulaso kwenjerwa,",
+        "Mu lusungu lwa imwe nditi nditemwe."
+      ],
+      "number": 5
+    }
+  ]
+}

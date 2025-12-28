@@ -1,0 +1,46 @@
+{
+  "number": 32,
+  "language": "st",
+  "title": "32 Sets’abelo Tsatsing La Sefefo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Morena Fika la rona, le ’ts’abelo teng sefefong;",
+        "Re boloke teng likotsing, le letsatsing la sefefo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lefika leo le leng matla, Moriti O teng mochesong;",
+        "Motsamaisi Oa rona, sets’abelo teng sefefong."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu moriti oa rona, Sets’abelo teng sefefong",
+        "Ha ho ts’abo le’a sera, sets’belo teng sefefong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moroallo leha o ka tla, Sets’abelo teng sefefong;",
+        "Re ipata ho Molimo, Sets’abelo teng sefefong."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lefika lee le ratehang, Sets’abelo teng sefefong",
+        "Eena mothusi Oa rona, Sets’abelo teng sefefong."
+      ],
+      "number": 4
+    }
+  ]
+}

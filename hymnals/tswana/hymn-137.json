@@ -1,0 +1,56 @@
+{
+  "number": 137,
+  "language": "tn",
+  "title": "137 Tsa’a Lefatshe Mme Nnee Jeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tsa’a Lefatshe, Mme Nnee Jeso,",
+        "Tsa jone, boithamako;",
+        "Mme lorato lwa Gagwe ke",
+        "Lo lo se nang bokhutlo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Bogolo jwa tshegofatso;",
+        "Ao bogolo jwa rato;",
+        "Botlalo jwa thekololo,",
+        "’Tshelo jo bo sa khutleng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsa’a Lefatshe, Mme Nnee Jeso,",
+        "Kgomotso moyeng wa me;",
+        "Ke na le Mmoloki wa me",
+        "Ke tla opela gotlhe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsa’a Lefatshe Mme Nnee Jeso,",
+        "Mma ke bone A nyenya,",
+        "Foo loetong lwa me lotlhe,",
+        "Sedi le tla ntlhabela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsa’a Lefatshe, Mme Nnee Jeso,",
+        "Ke tla ikanya mokgoro,",
+        "Go tsamae mo phepafalong,",
+        "Ke bone Morena’me."
+      ],
+      "number": 4
+    }
+  ]
+}

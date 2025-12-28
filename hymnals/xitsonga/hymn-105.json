@@ -1,0 +1,23 @@
+{
+  "number": 105,
+  "language": "ts",
+  "title": "105. WA KUTSULA YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ABLE TO DELIVER",
+        "1. Wa Kutsula Yesu, N’wi Twakarise, Ina Wa Kutsula La Pfumelaka; Tiven Ra Ndzilo Leri Lovisaka,",
+        "U Ta N’wi Kutsula La Pfumelaka.",
+        "CHORUS",
+        "Wa Kutsula, Wa Ponisa Pfumela, Makwerhu Pfumela U Kutsuriwa.",
+        "2. Xana Swi Tiyile Wa Kutsula Ke? Ya Kona Matimba Yo Ndzi Kutsula;",
+        "Xana Swi Tiyile? Kreste Muferi,",
+        "A Nga Ndzi Kutsula Ntlhan’win Wa Nala?",
+        "3. Wa Kutsula Yesu Lava Tsaneke, Wa Va Tirhela Ke, Va Ta Pona Ke?",
+        "U Nga Chavi Nala Tiya Ka Yesu, U Nga Kanakani Yima U Tiya."
+      ],
+      "number": 1
+    }
+  ]
+}

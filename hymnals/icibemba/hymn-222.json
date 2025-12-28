@@ -1,0 +1,35 @@
+{
+  "number": 222,
+  "language": "bem",
+  "title": "222 - MUMABOKO Y AKWA YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SAFE THE ARMS OF JESUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nindamwa bwino mwandi mumaboko yakwe;",
+        "Na mukutemwa kwakwe nakulatusha mo,",
+        "Bangeli baleimba ciunda ndeumfwa",
+        "Mu mabala yasuma kwishilya Iya bemba-.",
+        "CHORUS:",
+        "Njikale muli Yesu mumaboko yakwe;",
+        "Na mukutemwa kwakwe nakulatushamo.",
+        "2. Nindamwa bwino mwandi teti nsakamane;",
+        "Kufuma kumatunko, Teti mbe no bubi",
+        "Mpokololwe ku bubi pamo na ku mwenso,",
+        "Matunko ya nono nokulila konse.",
+        "3. Yesu e cubo candi, wene amfwilile,",
+        "Pa libwe lya kaele, ndecetekela pe",
+        "Nakulalolela, ukusuka buce",
+        "Nsuke nkamumone pa cabu ca Golide."
+      ],
+      "number": 2
+    }
+  ]
+}

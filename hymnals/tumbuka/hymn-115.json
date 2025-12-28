@@ -1,0 +1,70 @@
+{
+  "number": 115,
+  "language": "tum",
+  "title": " 115 Ng'anga Yikuru",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 115 Ng'anga Yikuru",
+        "THE GREAT PHYSICIAN"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ng'anga yikuru ndi Yesu,",
+        "ndiyo wana lusungu,",
+        "Kupembuzga wavitima,",
+        "mpulike mazgu ghake."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain:",
+        "Zina Lake ndiweme,",
+        "Zina Lakutowa 'mwe,",
+        "Zina La kukondweska,",
+        "Yesu, inya, Yesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nchindi kwa mwanamberere,",
+        "nkhugomezga mwa Yesu,",
+        "Nkhutemwa mponoski Yesu,",
+        "nkhutemwa zina lake."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Zina lake ndilo pera,",
+        "likuchimbizga wofi,",
+        "Nkhutemwa kulipulika,",
+        "zina la Yesu m'weme."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Pakwiza na mphumphu yane,",
+        "mphumphu ya uchindami,",
+        "Tamkukhala pamo nayo,",
+        "kudumba chiponosko."
+      ],
+      "number": 6
+    }
+  ]
+}

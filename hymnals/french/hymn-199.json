@@ -1,0 +1,57 @@
+{
+  "number": 199,
+  "language": "fr",
+  "title": "À l’horizon, le jour s’éloigne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "À l'horizon le jour s'éloigne,",
+        "L’obscurité descend sur nous.",
+        "Comme au matin, nos mains se joignent,",
+        "Et nous te louons à genoux."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seigneur, tandis que notre terre,",
+        "Poursuit sa course dans les cieux,",
+        "Toujours l’église, à ta lumière,",
+        "Est vigilante en quelques lieux."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Puisqu'à chaque heure avec l’aurore,",
+        "Le soleil luit sur un sommet,",
+        "La voix qui prie et qui t’adore,",
+        "Seigneur, ne se taira jamais."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quand je repose, d'autres veillent,",
+        "A l’occident sous ta clarté,",
+        "Et chantant bien haut tes merveilles,",
+        "Ne cessent pas de t’exalter."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jamais le soleil ne se couche,",
+        "Sur ton royaume, ô Dieu puissant,",
+        "Il faut qu’un jour, toutes les bouches",
+        "Chantent ta gloire, en saints accents."
+      ],
+      "number": 5
+    }
+  ]
+}

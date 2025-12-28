@@ -1,0 +1,51 @@
+{
+  "number": 319,
+  "language": "tw",
+  "title": "Mepɛ Sɛ Meyɛ Kristoni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mepɛ sɛ meyɛ Kristoni",
+        "Me komam', me komam';",
+        "Mepɛ sɛ meyɛ Kristoni",
+        "Me komam', Me komam', Me komam',",
+        "Mepɛ sɛ meyɛ Kristoni Me komam'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, mepɛ sɛ meyɛ dɔfo",
+        "Me komam', me komam',",
+        "'W'ra, mepɛ sɛ meyɛ dɔfo",
+        "Me komam', Me komam', Me komam',",
+        "'W'ra, mepɛ sɛ meyɛ dɔfo Me komam'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, mepɛ sɛ meyɛ Kronkron",
+        "Me komam', me komam',",
+        "'W'ra, mepɛ sɛ meyɛ Kronkron",
+        "Me komam', Me komam', Me komam',",
+        "'W'ra, mepɛ sɛ meyɛ Kronkron Me komam'."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, mepɛ sɛ mesɛ Yesu",
+        "Me komam', me komam',",
+        "'W'ra, mepɛ sɛ mesɛ Yesu",
+        "Me komam', Me komam', Me komam',",
+        "'W'ra, mepɛ sɛ mesɛ Yesu Me komam'."
+      ],
+      "number": 4
+    }
+  ]
+}

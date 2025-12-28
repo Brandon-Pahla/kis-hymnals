@@ -1,0 +1,54 @@
+{
+  "number": 13,
+  "language": "st",
+  "title": "13 Ke Soeufale Joaloka Lehloa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Morena ke batla ho ba ea phethehang;",
+        "Morena ’na ke batla ho phetheha;",
+        "Ke batla U be ho ’na mehleng eohle,",
+        "U thuhe melimo, U lihe sera;"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke, soeufale joaloka lehloa.",
+        "Ntlhatsoe ke soeufale joaloka lehloa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena Jesu, bona U le troneng;",
+        "U nthuse ke etse le ka boitelo,",
+        "Kea inehela, le hoo ke ho tsebang;",
+        "Ntlhatsoe ke soeufale joaloka lehloa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu, ke bopa ka boikokobetso;",
+        "Ke le maotong a neng a thakhisoe,",
+        "Tumelo e mponts’a mali a ntlhatsoang;",
+        "Ntlhatsoe ke soeufale joaloka lehloa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena, ke lebetse ka mamello;",
+        "Tlo U bope pelo e ncha ka ho ’na;",
+        "Ha u ka ke ua hanela ba u batlang",
+        "Ntlhatsoe ke soeufale joaloka lehloa."
+      ],
+      "number": 4
+    }
+  ]
+}

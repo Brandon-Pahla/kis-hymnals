@@ -1,0 +1,47 @@
+{
+  "number": 102,
+  "language": "nd",
+  "title": "102 Mvulele Angene",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ku kon’ umhamb’ emnyango; Mvulele (Vulel’ uJesu)",
+        "Kade selok’ ekhona, Mvulele (Vulel’ uJesu)",
+        "Mvulel’ angaze make, Vulela oiNgcwele",
+        "‘Jes’ uMntwana weNkosi, Mvulele (Vulel’ uJesu)"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vul’ inhliziyo yakho, Mvulele (Vulel’ uJesu)",
+        "Ma wephuz’ uzomuka, Mvulele (Vulel’ uJesu)",
+        "Vulela isihlobo, solwel’ uMoya wakho",
+        "U yoba nawe njalo, Mvulele (Vulel’ uJesu)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yizwa ma esancenga, Mvulele(Vulel’ uJesu)",
+        "Manje mukhethe Yena, Mvulele (Vulel’ uJesu)",
+        "U semi ngas’ emnyango, Wobuyis’ injabulo",
+        "Womudumisa Yena, Mvulele(Vulel’ uJesu)"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yamkel’ Owaphezulu, Mvulele(Vulel’ uJesu)",
+        "Wokwenzela idili, Mvulele (Vulel’ uJesu)",
+        "Wothi, uthethelelwe, Ku citwe okwomhlaba",
+        "Wokuyis’ ezulwini, Mvulele (Vulel’ uJesu)"
+      ],
+      "number": 4
+    }
+  ]
+}

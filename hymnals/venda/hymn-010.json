@@ -1,0 +1,54 @@
+{
+  "number": 10,
+  "language": "ve",
+  "title": "10 Ri tangana Mulamboni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:432",
+        "AH:430"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ri tangana mulamboni, hu na tshedza tshavhudi;",
+        "Madi awo ndi avhudi, a bva kha khulunoni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ri tangana mulamboni, kha wavhudi kha wavhudi tshothe",
+        "Ro tangana na vhakhethwa, khulunoni ya Mudzimu"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tsini na uyo mulambo, ri do lumelisana;",
+        "Ri tshi renda Mudzimu, ro di takala nga misi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mulamboni u penyaho, hu rulwaho mihwalo;",
+        "Ro no tshidzwa nga tshilidzi, ra tanganedza khare"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mulamboni u penyaho, mathupho o no fhela;",
+        "Mbilu dzashu dzo takala, nga vhulenda vhuhulu."
+      ],
+      "number": 5
+    }
+  ]
+}

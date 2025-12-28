@@ -1,0 +1,28 @@
+{
+  "number": 232,
+  "language": "guz",
+  "title": "232 Nay' Enchera",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nay'enchera togotanierakorw' amakweri;Noyokorigia Tat'amorigie goeta as'ore."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nay'ekeene ng'anayao eru' obongaini;Naye okoru' obonga'ininagochen' enkoro."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nay' Encher', Ekeene,'bogima many' enchera;Torend' ekeene naki'omogoko botambe."
+      ],
+      "number": 3
+    }
+  ]
+}

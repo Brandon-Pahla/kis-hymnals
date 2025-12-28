@@ -1,0 +1,38 @@
+{
+  "number": 54,
+  "language": "es",
+  "title": "Tan bueno es Dios",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Tan bueno es Dios"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tan bueno es Dios, tan bueno es Dios,",
+        "tan bueno es Dios, bueno para mí."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo es real, Cristo es real,",
+        "Cristo es real, es real en mí."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pronto él vendrá, pronto él vendrá,",
+        "pronto él vendrá, él vendrá por mí."
+      ],
+      "number": 4
+    }
+  ]
+}

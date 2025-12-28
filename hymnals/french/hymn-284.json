@@ -1,0 +1,77 @@
+{
+  "number": 284,
+  "language": "fr",
+  "title": "Tu es toute ma vie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tu es toute ma vie,",
+        "Jésus, Sauveur aimé.",
+        "En toi je me confie,",
+        "Car tu m'as racheté."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu es le don suprême",
+        "Que le Père nous fit.",
+        "Au ciel ta bonté même",
+        "Nous guide et nous conduit."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si tu vis en mon âme,",
+        "Toi ma part et mon lot,",
+        "Tu ranimes la flamme",
+        "Et me mets en repos."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu soignes mes blessures",
+        "Avec l'huile et le vin,",
+        "Et ta parole sûre",
+        "Me rend toujours serein."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu es la manne sainte",
+        "Qui nourrit au désert.",
+        "Tu réponds à ma plainte",
+        "Et tu me mets au vert."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu es la source pure,",
+        "L’eau qui rafraîchit.",
+        "Tu laves ma souillure,",
+        "Ton amour me guérit."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que désirer encore ?",
+        "En toi tout m’est donné.",
+        "Jusqu’à la grande aurore",
+        "Sur toi je peux compter."
+      ],
+      "number": 7
+    }
+  ]
+}

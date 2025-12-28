@@ -1,0 +1,35 @@
+{
+  "number": 302,
+  "language": "luo",
+  "title": "302 Yesu `biro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu `biro, Yesu `biro,ni mond` ochok joge;Joge duto, joge duto,moseyie nyinge."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kaka sulwe me polomineno gotieno,Ginibed gi Yesue polo maler."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Enochokgi, enochokgi,Nyithinde malong`o;Jo mabeyo, jo mabeyo,moseyie nyinge."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Wan nyithinde, wan nyithinde,mohero Jawargi;Enoomwa, enoomwa,wanadag kode."
+      ],
+      "number": 4
+    }
+  ]
+}

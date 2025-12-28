@@ -1,0 +1,30 @@
+{
+  "number": 318,
+  "language": "ny",
+  "title": "318 - Tsiku La Sabata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOLY SABBATH DAY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Tsiku la Sabatalo, Mlungu nalipatula;",
+        "Atalenga zonsezo, Mbuye napumulanso.",
+        "CHORUS:",
+        "Tsiku la Sabatalo, Mlungu nalidalitsa;",
+        "Kukumbutsa ife za mphamvu ya kulengayo.",
+        "2. Musafune za dziko, Ndi zokondweretsa",
+        "Kuli zopambanadi M’dziko la kumwambako.",
+        "3. Pakuyamba tsikulo, Loweruka madzulo",
+        "Tisonkhane tonsefe, Kuyimbira Mbuyeyo.",
+        "4. Tipemphere nsisizo, Ndi gonjetso lacelo,",
+        "Kuti athangate, ’fe Kulisunga tsikulo."
+      ]
+    }
+  ]
+}

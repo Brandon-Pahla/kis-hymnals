@@ -1,0 +1,53 @@
+{
+  "number": 17,
+  "language": "tum",
+  "title": " 17 Chitemwa Chikutikondweska",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 17 Chitemwa Chikutikondweska",
+        "TIS LOVE THAT MAKES US HAPPY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Tikondwenge m'chitemwa ndilo dango lake,",
+        "Likutisambizga tose, kutemwa wanyithu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Chiuta wakutemwa tose,",
+        "tose tii wana wake,",
+        "Tikondwenge m'chitemwa,",
+        "ndilo dango Lake,",
+        "Likutisambizga tose",
+        "kutemwa wanyithu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mcharu muli vitima, nyifwa na matenda,",
+        "Mwakutemwa tiyezgenge kovwira wanyithu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Pakwiza Fumu Yesu, m'uchindami wake,",
+        "Tamkwimba kura kuchanya, vya chitemwa chake."
+      ],
+      "number": 4
+    }
+  ]
+}

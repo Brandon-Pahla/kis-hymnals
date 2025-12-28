@@ -1,0 +1,77 @@
+{
+  "number": 171,
+  "language": "es",
+  "title": "¿Has oído el mensaje?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¿Has oído el mensaje?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Has oído el mensa je del regreso del",
+        "Señor?",
+        "La trompeta a medianoche sonará;",
+        "a sus fieles todos llamará sin olvidarte",
+        "a ti,",
+        "si con Cristo te alistas a vivir."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Él viene, él viene, mirad;",
+        "cercano, cercano él está.",
+        "Las perlinas puertas ya",
+        "ábrense de par en par",
+        "y los salvos entrarán en el Edén;",
+        "y sus voces jubilosas con los ángeles",
+        "se oirán,",
+        "pues allí habitaremos con Jesús."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A los cielos subiremos con los ángeles",
+        "de luz;",
+        "los amados separados se unirán",
+        "con nosotros para siempre; nunca se",
+        "apartarán,",
+        "pues allí habitaremos con Jesús."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Andaremos por los mundos do el",
+        "pecado no entró;",
+        "del amor les hablaremos de Jesús,",
+        "que a buscarnos vino para darnos",
+        "vida eternal,",
+        "pues allí habitaremos con Jesús."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pasarán los siglos uno tras el otro sin",
+        "cesar,",
+        "y el vigor perenne no se perderá",
+        "de esa juventud eterna, primavera",
+        "sin menguar,",
+        "pues allí habitaremos con Jesús."
+      ],
+      "number": 6
+    }
+  ]
+}

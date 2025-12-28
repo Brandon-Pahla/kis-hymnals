@@ -1,0 +1,68 @@
+{
+  "number": 54,
+  "language": "tum",
+  "title": " 54 Chinthu Chimo Nkhusowerwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 54 Chinthu Chimo Nkhusowerwa",
+        "ONE THING I FOR THE LORD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Chinthu chimo nkhusowerwa,",
+        "Ine ndabira m' mathipa,",
+        "Na maji panji na moto,",
+        "mundisavye, mundisavye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mundisavyenge mu mtima,",
+        "na maji panji na moto,",
+        "Mundisavyenge mu mtima,",
+        "fumyani uheni wose."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mundijure maso ghane,",
+        "ndimchindikani 'mwe Fumu,",
+        "Nozgani muzimu wane,",
+        "wurawiske Imwe pera."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Kweni mutima wutuwa,",
+        "uti uruskenge vyose,",
+        "Chifukwa nkhwa imwe pera,",
+        "ndingawona vya kuchanya."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Nkhutondeka kujitozga,",
+        "kwananga kwane nkhukuru,",
+        "Nkhwiza kwinu Fumu yane,",
+        "ndatondeka mundovwire."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "number": 204,
+  "language": "tum",
+  "title": " 204 Mcharu Cha Wayeni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 204 Mcharu Cha Wayeni",
+        "WELCOME! WANDERER, WELCOME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mcharu cha wayeni uko waluta,",
+        "Upulike ntchemo Mwana wanne."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Iza wakuzge wa werera kwinu,",
+        "Wazge viera kutaLi wera kwinu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mucharu chanjala chakuzindula,",
+        "Wize kukukondwa Mwana wane."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Uleke viwawa soka limare,",
+        "Wavuka mu mtima Mwana wane."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Chijalo ntchamwazi uchali wane,",
+        "Nkaukutemwa nadi Mwana wane."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "Wazgewa kutali wanjiririra,",
+        "Wagowokereka Mwana wane."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "6.",
+        "Gome lanozgeka ntha uluwike,",
+        "Za, urye, pumula, Mwana wane."
+      ],
+      "number": 7
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "7.",
+        "Ulije chikaya ndiwe chitchwapi,",
+        "Ine nkhukutemwa mwana wane."
+      ],
+      "number": 8
+    }
+  ]
+}

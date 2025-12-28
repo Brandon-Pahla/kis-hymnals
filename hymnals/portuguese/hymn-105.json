@@ -1,0 +1,56 @@
+{
+  "number": 105,
+  "language": "pt",
+  "title": "A Terna Voz do Salvador",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A Terna Voz do Salvador"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A terna voz do Salvador",
+        "Com graça nos convida,",
+        "Chamando-nos em Seu amor,",
+        "Querendo dar-nos vida."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Nunca dos homens se ouvirá,",
+        "Mesmo no Céu de amor e luz,",
+        "Com tanto ardor mais doce som,",
+        "Que o nome de Jesus!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Do cálice da amarga dor,",
+        "Não foi Jesus poupado,",
+        "A fim de dar ao pecador",
+        "Perdão do seu pecado."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por essa grande salvação,",
+        "Rendei louvor ardente!",
+        "É digna de celebração,",
+        "Agora e eternamente!"
+      ],
+      "number": 5
+    }
+  ]
+}

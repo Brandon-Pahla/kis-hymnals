@@ -1,0 +1,44 @@
+{
+  "number": 100,
+  "language": "pt",
+  "title": "Há um Amigo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Há um Amigo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Há um amigo que sabe dos ais que da alma se văo,",
+        "E no momento oportuno os torna em suave cançăo.",
+        "Há um amigo que sabe tuas tristezas e dor;",
+        "Ele deseja mostrar-te o Seu inefável amor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Há um amigo que sabe que o mal anda sempre ao redor;",
+        "Sente também suas dores; das quedas te ergue co'amor.",
+        "Quando estás fraco e abatido, muito distante a vagar,",
+        "Há um amigo que aguarda do pródigo filho voltar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Há um amigo que te ama, se forte, se fraco tu estás.",
+        "Nunca abandona um Seu filho nas măos do inimigo voraz.",
+        "De Sua vista, distante, nunca tu estás, meu irmăo.",
+        "Qual é Seu nome, perguntas? - Jesus, que nos dá salvaçăo!"
+      ],
+      "number": 4
+    }
+  ]
+}

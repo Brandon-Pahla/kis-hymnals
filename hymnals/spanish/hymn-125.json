@@ -1,0 +1,44 @@
+{
+  "number": 125,
+  "language": "es",
+  "title": "Infinito amor de Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Infinito amor de Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Infinito amor de Cristo,",
+        "me conmueve más y más.",
+        "Su profundidad y altura",
+        "no comprenderé jamás."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Infinita es su clemencia,",
+        "se complace en perdonar.",
+        "Su misericordia quiere",
+        "mis pecados expiar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Infinita es su ternura,",
+        "¿cómo puede tanto amar?",
+        "Su bondad siempre procura",
+        "al perdido rescatar."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 269,
+  "language": "st",
+  "title": "269 ’Moloki Ea Makatsang.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "’Moloki ea makatsang ke Jesu, Morena oa ka ’Moloki,",
+        "O pata moe’a ka farung lefikeng, Linokeng tsa nyakallo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O pata moe’a ka farung, lefikeng, Le sireletsang lefelleng;",
+        "O pata phelo ba ka leratong, O mpata ka seatla sa Hae.(bis)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Moloki ea makatsang ke Jesu, O tlosa moroalo oa ka.",
+        "O nts’oare ha nka ke ka sisinyeha, O mpha matla ka mehla"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O hlohonolofatsa nako tsohle, ’Me O li tlatsa bo-Eena.",
+        "Ke binela Molimo limakatso, Ka Molopolli oa ka."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mohla ke tsohang phats’imong ea Hae, Ho Mo khahlanyetsa",
+        "marung,",
+        "Poloko ea Hae, lerato la Hae, Ke li bine le mats’oele."
+      ],
+      "number": 4
+    }
+  ]
+}

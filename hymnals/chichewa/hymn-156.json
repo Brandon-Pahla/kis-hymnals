@@ -1,0 +1,53 @@
+{
+  "number": 156,
+  "language": "ny",
+  "title": "156 - Mau Akukwiya Leka ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ANGRY WORDS! OH, LET THEM NEVER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mau akukwiya leka,",
+        "Musanene konsetu;",
+        "Muwameze mau onse",
+        "Asanadetse m’lomowo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kondananitu, Ati Ambuye,",
+        "Ana mverani malamulowo;",
+        "Kondananitu, Ati Ambuye,",
+        "Ana mverani lamulo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Chikonditu ndi choyera,",
+        "Ndi chibwenzi chomwenso,",
+        "Musachiononge konse",
+        "Ndi mau akukwiyawo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Maubwenzi amasweka,",
+        "Ndi mabanja omwenso;",
+        "Ka’mba mau a kukwiya",
+        "Olankhulidwa mwa nsontho."
+      ],
+      "number": 4
+    }
+  ]
+}

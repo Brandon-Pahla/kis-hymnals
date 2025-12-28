@@ -1,0 +1,51 @@
+{
+  "number": 161,
+  "language": "fr",
+  "title": "Donnons tous gloire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Donnons tous gloire au Seigneur",
+        "Et proclamons son saint nom,",
+        "Son salut, ses merveilles,",
+        "Son pardon et sa paix.",
+        "Chantons un cantique nouveau."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cieux, résonnez de bonheur,",
+        "Applaudissez le Seigneur !",
+        "Sa bonté, sa justice,",
+        "Son amour éternel",
+        "Demeurent sans fin pour les siens."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qu'en des accents glorieux",
+        "Tous nous disions notre joie,",
+        "Et qu’au son des cymbales,",
+        "De la lyre et du cor",
+        "Nous rendions honneur au grand Roi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mer et montagnes, dansez",
+        "Et bondissez devant Dieu,",
+        "Car il juge les peuples",
+        "En parfaite équité.",
+        "Louons le Seigneur qui revient."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 187,
+  "language": "es",
+  "title": "Aunque anochezca",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Aunque anochezca"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aunque anochezca, vendrá la aurora",
+        "de un nuevo día primaveral.",
+        "Se irán las penas, y Cristo en gloria",
+        "a sus mansiones nos llevará."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando amanezca, no habrá más",
+        "sombras;",
+        "no habrá temores, ni tempestad.",
+        "En ese día, que no demora,",
+        "la dicha eterna siempre será."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando amanezca, Cristo amoroso,",
+        "con mano amiga nos llevará",
+        "por las riberas de aquel hermoso",
+        "y transparente mar de cristal."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando amanezca, nos juntaremos",
+        "con redimidos de toda edad.",
+        "No habrá más llanto, ni \"adiós\" diremos",
+        "en el eterno, feliz hogar."
+      ],
+      "number": 5
+    }
+  ]
+}

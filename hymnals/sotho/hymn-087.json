@@ -1,0 +1,38 @@
+{
+  "number": 87,
+  "language": "st",
+  "title": "87 Ntate Re Tla Ho Uena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ntate re tla ho Uena, Ke Uena thuso, U re sireletse, rea u ts’epa;",
+        "Fats’e lea nts’ofala ha Uena U le sieo; E ba mots’elisi Natat’a",
+        "rona."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ntate re tla ho ’Uena, Se re lahle; Re tla re fokola, U re utloe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re pholosoe bobeng, ba meleko eohle, U be mots’elisi, tseleng ena;",
+        "Rona rea ts’aba, Uena re khothatse, Ka ’tsoho le matla, re pholose."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re nehe mohau, Bea ’tsoho la Hau, Tlosa maoto a rona sebeng sohle,",
+        "U re tataise, mats’oenyehong ’ohle, Re tle re lule le Uena khanyeng."
+      ],
+      "number": 3
+    }
+  ]
+}

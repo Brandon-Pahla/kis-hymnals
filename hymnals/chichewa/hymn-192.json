@@ -1,0 +1,62 @@
+{
+  "number": 192,
+  "language": "ny",
+  "title": "192 - Pa Mtanda Pomwe Naferapo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "GLORY TO HIS NAME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Pa mtanda pomwe naferapo,",
+        "Pomwe ndalira ndi tchimolo,",
+        "Anandipaka ndi mwaziwo,",
+        "Tama dzinalo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tama dzinalo, Tama dzinalo,",
+        "Anandipaka ndi mwaziwo,",
+        "Tama dzinalo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nandiwombola m’zoipazo,",
+        "Yesu akhala mu mtimanga,",
+        "Nandilandira pa mtandapo,",
+        "Tama dzinalo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndiye Kasupe Woyerayo!",
+        "Ndikondwa kuti ndasambamo,",
+        "Yesu watsukadi inenso,",
+        "Tama dzinalo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Idza kwa Yesu kasupeyo,",
+        "Igwa pa mapazi akewo,",
+        "Sambamo lero uyeretu,",
+        "Tama dzinalo."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": 511,
+  "language": "en-sdah",
+  "title": "511 I Know Whom I Have Believed",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. I know not why God's wondrous grace To me He hath made known, Nor why, unworthy, Christ in love Redeemed me for His own."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain : But I know whom I have believed, And am persuaded that He is able To keep that which I've committed Unto Him against that day."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. I know not how this saving faith To me He did impart, Nor how believing in His word Wrought peace within my heart."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. I know not how the spirit moves, Convincing men of sin, Revealing Jesus through the word, Creating faith in Him."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. I know not when my Lord may come, At night or noonday fair, Nor if I walk the vale with Him, Or meet Him in the air."
+      ],
+      "number": 5
+    }
+  ]
+}

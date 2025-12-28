@@ -1,0 +1,37 @@
+{
+  "number": 367,
+  "language": "fr",
+  "title": "Seigneur Jésus, ta grâce",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Seigneur Jésus, ta grâce est pour nous précieuse,",
+        "Qui remplit ici-bas le cœur des rachetés.",
+        "Rassemblée en ce lieu ton Église est heureuse.",
+        "C'est toi qui nous unis dans la fraternité."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qu'il est doux, en suivant le sentier de la vie,",
+        "Loin des vains bruits du monde et de ses faux attraits,",
+        "De trouver des amis dont l'âme est enrichie",
+        "De ces biens éternels qui seuls donnent la paix !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Resserre nos liens, ô toi qui nous rassemble;",
+        "Garde-nous de tes dons le trésor précieux.",
+        "Ici-bas, ô Jésus, nous les goûtons ensemble,",
+        "Pour les connaître un jour, plus parfaits dans les cieux."
+      ],
+      "number": 3
+    }
+  ]
+}

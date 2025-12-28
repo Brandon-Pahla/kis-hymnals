@@ -1,0 +1,45 @@
+{
+  "number": 296,
+  "language": "en",
+  "title": "296 Lead Me, Saviour.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Saviour, lead me lest I stray,",
+        "Gently lead me all the way;",
+        "I am safe when by thy side,",
+        "I would in thy love abide."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lead me, lead me, Saviour, lead me, lest I stray;",
+        "Gently down the stream of time,",
+        "Lead me Saviour, all the way."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thou the refuge of my soul,",
+        "When life’s stormy billows roll;",
+        "I am safe when thou art nigh,",
+        "All my hopes on thee rely."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Saviour, lead me till at last,",
+        "When the storm of life is past;",
+        "I shall reach the land of day,",
+        "Where all tears are wiped away."
+      ],
+      "number": 3
+    }
+  ]
+}

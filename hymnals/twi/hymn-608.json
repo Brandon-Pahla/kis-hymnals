@@ -1,0 +1,58 @@
+{
+  "number": 608,
+  "language": "tw",
+  "title": "Mo, Kristo Nsraafo a Mowɔ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mo, Kristo nsraafo a mowɔ",
+        "Hann mmepɔ so, monsɔr';",
+        "Momfa 'nimia nko ansa na",
+        "'Sum akata ewim.",
+        "Momma yɛnka yɛn 'hoɔden mmom'",
+        "Ne tamfon' nko dennen;",
+        "Yenim sɛ gyidi ne tum' a",
+        "Edi wiase so nim."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Gyidi ne tumi no,",
+        "Gyidi ne tumi no,",
+        "O, anuonyam tumi a",
+        "Edi wiase so nim."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yehu tamfon' baabiara sɛ",
+        "Wahyɛ n'akotade;",
+        "Mumfi 'nihaw ntamadan mu",
+        "Nnantew nkɔ akono.",
+        "Monhyɛ nkwagye dadekyɛw na",
+        "Nokwar' nkyeky're mo ho;",
+        "'Sase bɛwosow yɛn nan'se",
+        "Na yɛn nteam agyigye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nea odi tamfon' so nim no",
+        "Benya' tade fitaa.",
+        "Obɛte sɛ wɔabɔ ne din",
+        "S'ro abɔfo anim.",
+        "Afei yɛde ɔdɔ koma",
+        "Befi hann mmepɔn' so",
+        "Ako adi esum no so,",
+        "Wɔ Yesu din no mu."
+      ],
+      "number": 3
+    }
+  ]
+}

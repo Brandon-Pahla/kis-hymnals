@@ -1,0 +1,74 @@
+{
+  "number": 238,
+  "language": "tum",
+  "title": " 238 Wakunjira Pa Vipata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 238 Wakunjira Pa Vipata",
+        "C.S. 890 SWEEPING THROUGH THE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "GATES  1.",
+        "Awo mbanjani kusirya kura,",
+        "Waporota m'masuzgo gha nyifwa,",
+        "Wakumwimbira Yesu wasamba m'ndopa zake."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wakunjira m'vipata vya YerusaLem,",
+        "Wasamba m'ndopa (mundopa) zake,",
+        "Wakunjira m'vipata vya YerusaLem,",
+        "Wasamba m'ndopa zake."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Awa ndiwo muwaniche wawo,",
+        "Wakamusanga Yesu luwiro,",
+        "walonda mu uchizi wasamba m'ndopa zake."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Awa ndiwo wafuma m'masoka,",
+        "Mwa Yesu wasanga kupumula,",
+        "Mtende wawo mwa Yesu wasamba m'ndopa zake."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Awa ndiwo mkulimbana kwawo,",
+        "Wakima nji! pakati pa moto,",
+        "Yesu wakuti, \"zani\" Isamba m'ndopa zake."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "Mbakufwasa pa sirya la nyanja,",
+        "Uheni, nyifwa vyose vyamala,",
+        "Mbakukondwa kwandanda wasamba m'ndopa zake"
+      ],
+      "number": 6
+    }
+  ]
+}

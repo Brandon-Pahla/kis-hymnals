@@ -1,0 +1,42 @@
+{
+  "number": 168,
+  "language": "guz",
+  "title": "168 Bionsi Namoeire Yeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bionsi namoeire Yeso,'Moyo bwonsi narure;Mwanche amatuko onsi,Meny'asare botambe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bionsi as'ore,Bionsi as'ore,Bionsi as'ore,'Motoria, Narure bono."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Bionsi namoeire Yeso,Natung'amir' as'ore,Nyetig' emegoko y'ense,Yeso ng'ire as'ore."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Bionsi namoeire Yeso,Nimb' oyoo botambe;Tiga nyigwe ay'Omoika,Manye Aye noyone."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Bionsi namoeire Yeso,Bono namororire,'Mogoko bw'ogotorigwa,Ntogie Erieta riao."
+      ],
+      "number": 5
+    }
+  ]
+}

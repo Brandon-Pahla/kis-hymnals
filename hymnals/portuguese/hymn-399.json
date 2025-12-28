@@ -1,0 +1,66 @@
+{
+  "number": 399,
+  "language": "pt",
+  "title": "Salva-me Também",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Salva-me Também"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Salvador benigno, atende,",
+        "Oh, não vás além!",
+        "Outros tens abençoado,",
+        "Salva-me também."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Cristo! Cristo!",
+        "Oh, não vás além,",
+        "Outros tens abençoado,",
+        "Salva-me também."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aos Teus pés estou prostrado,",
+        "Venho em contrição;",
+        "Peço-Te que me consoles",
+        "Este coração."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Em virtude do Teu sangue,",
+        "Busco Teu favor;",
+        "Que minh'alma atribulada",
+        "Tenha o Teu amor."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "És a Fonte de conforto",
+        "De onde a vida vem;",
+        "Dá-me alívio mesmo agora,",
+        "E perdão também."
+      ],
+      "number": 6
+    }
+  ]
+}

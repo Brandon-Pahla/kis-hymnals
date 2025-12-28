@@ -1,0 +1,37 @@
+{
+  "number": 9,
+  "language": "fr",
+  "title": "Sur tes promesses",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sur tes promesses, Dieu d’amour,",
+        "En paix se reposent les tiens",
+        "En ta puissance est leur secours.",
+        "Ta grâce est leur constant soutien."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu nous as tout donné, Seigneur,",
+        "La délivrance et le pardon,",
+        "La joie, la paix, le vrai bonheur,",
+        "Notre âme exalte ton grand nom."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Seigneur, fais-nous mesurer",
+        "De ton amour l’immensité,",
+        "Et qu’à jamais, sans nous lasser,",
+        "Nos coeurs célèbres ta bonté."
+      ],
+      "number": 3
+    }
+  ]
+}

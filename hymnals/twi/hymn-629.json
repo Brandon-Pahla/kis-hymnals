@@ -1,0 +1,57 @@
+{
+  "number": 629,
+  "language": "tw",
+  "title": "O'nigye Akwantufo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O 'nigye akwantufo",
+        "Momfa Yesu yɔnko;",
+        "Monnantew nkɔ Yesu a",
+        "ɔyɛ mo Ti no nkyɛn!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nigye ne mo sɛ mosom",
+        "Afof'ro sɛ Yesu;",
+        "'Nigye ne mo sɛ mudi",
+        "Mmuada nso sɛ Yesu!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɔhwɛ pii na ɛto mo,",
+        "Muhyia 'w'rɛhowdi ne",
+        "Nnyigye pii a owu nko",
+        "Na etum' siw ano."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻyɛ Ne nhene pa a",
+        "Ͻsom bo ɔs'ro no;",
+        "Ͻnyɛ hwee sɛ atwer' a",
+        "Efi fam kɔ s'ro no."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O 'nigye akwantufo,",
+        "Monhwɛ s'ro, faako a",
+        "Saa 'hohia ketewa yi",
+        "Ma mo nkonimbo no."
+      ],
+      "number": 5
+    }
+  ]
+}

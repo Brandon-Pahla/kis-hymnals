@@ -1,0 +1,54 @@
+{
+  "number": 24,
+  "language": "tn",
+  "title": "24 Wena Kea Go Batla",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wena Kea Go Batla, Jeso Yo Bolokang;",
+        "Lentswe ke ja Gago, Je le gomotsang."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "E Wena kea Go batla Ka dinako tsotlhe.",
+        "Ntshegofatsa Mmoloki, Ke tla go Wena."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wena Kea Go Batla, Nna Gaufi Le Nna;",
+        "Thaelo kea di fenya, Fa O le gaufi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wena Kea Go Batla, Thabong Le Botlhokung;",
+        "Tla jana mme O nne, Botshelo lefela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wena Kea Go Batla, Nthute Thato Ya ’Go;",
+        "Diragatsa go nna Tsholofetso ya ’Go"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wena Kea Go Batla, Wena Yo Boitshepo;",
+        "Ao ntira wa Gago Morw’a Modimo."
+      ],
+      "number": 5
+    }
+  ]
+}

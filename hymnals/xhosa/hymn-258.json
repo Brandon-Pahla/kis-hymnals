@@ -1,0 +1,37 @@
+{
+  "number": 258,
+  "language": "xh",
+  "title": "258 Lunye Ukholo Nomthetho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lunye ukholo nomthetho;",
+        "Hay’ iinkolo ezininzi;",
+        "Lumi phezu kwezwi laKhe,",
+        "Lubonakala ngezenzo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, Nkosi umthetho waKho",
+        "Siwaphule, Sixolele;",
+        "Lo mthetho ugqibelele",
+        "Siwu hlambela ngezono."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xolela ukona kwethu,",
+        "Usus’ amabal’ amabi;",
+        "Sincede ngenxa kaYesu,",
+        "Sigcine umthetho waKho."
+      ],
+      "number": 3
+    }
+  ]
+}

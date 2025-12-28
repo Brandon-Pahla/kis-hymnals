@@ -1,0 +1,57 @@
+{
+  "number": 362,
+  "language": "tw",
+  "title": "Ma 'Sɛnnuan' So",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kristo mummedi Sahen’ akyi",
+        "Yɛn nkonimdi Hen’, Kristo",
+        "Nyame Ba."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ma 'sɛnnuan'so, ka Kristo dɔ no ky'rɛ",
+        "Kosi sɛ wiase ny'naa bɛsɔr' Ne din.",
+        "Kristofo mummedi Sahen' akyi",
+        "Yɛn nkonimdi Hen', Kristo, Nyame Ba."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Saa nkonim frankaa no di wɔn anim",
+        "Ma Nyankopɔn dɔm ka bom nkonimdim'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Sɛnnuan' ho nsraafo a wɔawo wɔn fof'ro,",
+        "Wɔ Nea Owui nsɔano wɔn moma so."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'rá a wɔmaa Wo so 'nuonyam dua no so,",
+        "Wo bɔhyɛ no nti twe yɛn bra Wo nkyɛn."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Saa na yɛn nkonim dwom no bɛyɛ daa:",
+        "'Yeyi nka Nea wɔbɔɔ no 'sɛnnuam no."
+      ],
+      "number": 5
+    }
+  ]
+}

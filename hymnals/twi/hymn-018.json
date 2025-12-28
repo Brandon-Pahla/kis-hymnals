@@ -1,0 +1,67 @@
+{
+  "number": 18,
+  "language": "tw",
+  "title": "O, 'Nɔpa Ns'romma a Wohy'rɛn",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, 'nɔpa ns'romma a Wohy'rɛn",
+        "Wɔ Nyame nokwar' ne hann mu!",
+        "Wode mmɔborɔhun' hy'rɛn!",
+        "Yakob aseni, Dawid Ba,",
+        "Yɛn Awurade, Woaka yɛn",
+        "Koma sɛ yɛnsom Wō ara!",
+        "ɔdwo, Kronkron! tumi 'nuonyam,",
+        "Nkonim wɔ Wo, Woma nhyira",
+        "Wo na tumi ny'naa wɔ Wo nsam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "W'ra, sɛ Wode dɔ hwɛ yɛn a,",
+        "Ahotɔ fi Nyamč anim s'ro",
+        "Sian ba yɛn so ntɛm ara.",
+        "W'Asɛm, Honhom, honam, mogya,",
+        "De s'ro aduan dwudwo yɛn kra.",
+        "Wone yɛn agyapade!",
+        "W'ahummɔbr'ɔ mmɛkanyan yɛn;",
+        "O twi bɛn yɛn! Yɛn ky'rɛky'rɛfo,",
+        "S'ro dɔ nam Wo sō aba yɛn so."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Agya Tumfo, Wo Ba no mu",
+        "Wodɔɔ yɛn b're a 'sase yi,",
+        "Wonnya ntoo ne fapem no!",
+        "Wo Ba no de dɔ apɔn yɛn",
+        "Sɛ yɛntra Ne mu ha ne s'ro:",
+        "'Yi ne Wo nkwagye kɛse n'",
+        "Haleluya! ɔteasefo",
+        "Kristo no ama yɛn daa nkwa,",
+        "Na ɔrenni yɛn huammɔ da."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O ma nsanku mma wɔn nne so!",
+        "Na dwom nkyerɛ yɛn ah'rusi,",
+        "B'rč a yɛn nne gyigye wom no,",
+        "'Fisɛ Kristo ka yɛn ho daa,",
+        "Ͻnnɛ, ɔkyena, da biara!",
+        "Ne dɔ no to rentwa da.",
+        "Monto dwom den, ahosɛpɛm',",
+        "Ahurusi! Monka 'sɛm no!",
+        "Anuonyam Hen' no yɛ kɛse."
+      ],
+      "number": 4
+    }
+  ]
+}

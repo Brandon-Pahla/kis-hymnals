@@ -1,0 +1,32 @@
+{
+  "number": 260,
+  "language": "ny",
+  "title": "260 - Dambo La Byula",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "VALE OF BEULAH"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndipitira kunsi kwa dambo la cipululu,",
+        "Liri dambo lokongola lochedwa la Byula",
+        "Koma ndapezanso monse momera maluwa,",
+        "Mpulumutsi mwini wace ayenda ndi ine.",
+        "2. Palibe mthunzi wotsiriza panjira panga,",
+        "Kuunika kwa ulemerero kuwalitsa;",
+        "Am’mwamba andiyimbira nyimbo zokongola,",
+        "Apokolezana bwino kundicingamira.",
+        "3. Ndiri kunka ndi nsangala ku mzinda wowala,",
+        "Nsangalazo ziwalitsa njira tsiku ntsiku;",
+        "Ndasendeza zipata za mzinda wakuwala",
+        "Khwalalalo lindifitsa mzinda wa cikondi."
+      ],
+      "number": 2
+    }
+  ]
+}

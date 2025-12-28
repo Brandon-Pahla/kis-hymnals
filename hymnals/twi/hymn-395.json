@@ -1,0 +1,47 @@
+{
+  "number": 395,
+  "language": "tw",
+  "title": "Sɛnea Nnomaa Guan Awɔ Ne Wim a",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnea nnomaa guan awɔ ne wim a",
+        "Ayɛ tumm kɔ wɔn ahotɔ fie no,",
+        "Sa'ra na me kra hwehwɛ W'anim dom,",
+        "Nya ɔhome ne asomdwoe Wo mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yegyaw yɛn haw mu ko ny'naa W'asɔr'fie,",
+        "Yɛnkae huammmɔdi, nusu, ne yaw bio,",
+        "Yɛnam 'nidaso nnwom ne mpaebɔ mu",
+        "Na yɛsɔre te Wo Honhom no nka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hy'ra wɔn a 'nadwo yi wɔwɔ yaw mu;",
+        "Wɔn a wɔso nnesoa, wɔatɔ beraw",
+        "Ma W'aw'rɛkyekye nka w'rɛhowdifo,",
+        "Na boa wɔn a 'hiade hyɛ wɔn so no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Homeda dɛw, bɛhyɛ koma ny'naa ma;",
+        "Na ma asomdwoe pa ntra yɛn afim;",
+        "Ma 'yeyi nnwom nhyɛ koma biara ma",
+        "Na wɔmfa wɔn ho nhyɛ Nyame dɔ mu."
+      ],
+      "number": 4
+    }
+  ]
+}

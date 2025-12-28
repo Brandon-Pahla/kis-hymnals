@@ -1,0 +1,54 @@
+{
+  "number": 13,
+  "language": "tn",
+  "title": "13 Morena Ke Batla Go Itekanela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Morena Ke Batla Go Itekanela;",
+        "Ke batla O nne, go nna ka bosaeng kae;",
+        "O thube disetwa, mme O ntshe baba;",
+        "Janong ntlhatswa ke tla gaisa kapoko."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "E, ke gaise yone kapoko",
+        "Janong ntlhatswa ke tla gaisa kapoko."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena Jeso Leba Kwano Tlase,",
+        "Mme nthusa ke dire tshupelo tota",
+        "Kea ineela, le gotlhe ke go itseng",
+        "Janong ntlhatswa ke tla gaisa kapoko."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena Jeso Ke Rapelela Se;",
+        "Ke eme dinaong tsa ’Go tse bapotsweng,",
+        "Tumelo e mpontsha madi a ntlhatswang;",
+        "Janong ntlhatswa ke tla gaisa kapoko."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena Ke Letile Ke Itshokile;",
+        "Tla O bope pelo e ntsha teng ga me;",
+        "Ga O ise O gane ba ’Go batlang,",
+        "Janong ntlhatswa ke tla gaisa kapoko."
+      ],
+      "number": 4
+    }
+  ]
+}

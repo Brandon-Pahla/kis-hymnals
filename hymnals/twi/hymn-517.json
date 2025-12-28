@@ -1,0 +1,44 @@
+{
+  "number": 517,
+  "language": "tw",
+  "title": "Mede Gyidi Hwe Wo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mede gyidi hwɛ Wo,",
+        "Kalbre so 'Guammaa no",
+        "'Gyenkwa Kronkron,",
+        "Tie me me mpaebɔ mu,",
+        "Yi m'afodi ny'naa hɔ;",
+        "Efi nnɛ ma menyɛ Wo de koraa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma Wo dom mfa 'hoɔden",
+        "Mmrɛ me koma brɛfo:",
+        "Ma me nnamyɛ;",
+        "Woawu ama me nti,",
+        "Ma Wo ho dɔ no nyɛ",
+        "Kronn ne pintinn sɛ gyā a Ͻte ase."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Menam 'bra sum mu na",
+        "'W'rɛhow twa me ho hyiā a",
+        "Yɛm' kwanky'rɛfo;",
+        "Ma sum nnan adekyee,",
+        "Popa 'w'rɛhow nusu",
+        "Na mma mimmfi Wo nkyɛn",
+        "Nkɔfom kwan da."
+      ],
+      "number": 3
+    }
+  ]
+}

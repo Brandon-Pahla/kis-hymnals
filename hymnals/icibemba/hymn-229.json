@@ -1,0 +1,28 @@
+{
+  "number": 229,
+  "language": "bem",
+  "title": "229 - NANI ALl KU MFUMU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHO IS ON THE LORD’S SIDE?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. N'ani uwasala Imfumu,",
+        "Bubi no busu-ma salapo.",
+        "CHORUS:",
+        "Sa-la, le-lo, Busuma no bubi salapo.",
+        "2. Abengi nabasalo bubi,",
+        "Ta ili inshila isuma.",
+        "3. Isa ku lubali lwa Mfumu,",
+        "Pantu e kuli shuko lyobe."
+      ],
+      "number": 2
+    }
+  ]
+}

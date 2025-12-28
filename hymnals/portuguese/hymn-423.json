@@ -1,0 +1,44 @@
+{
+  "number": 423,
+  "language": "pt",
+  "title": "Música Celeste",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Música Celeste"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que música celete vem das vagas do mar;",
+        "Comove minha'lma qual santa canção;",
+        "São as vozes de anjos soando no ar,",
+        "A mim estão cantando celeste saudação."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Do Jordão nas lindas praias, me detenho a orar,",
+        "E com fervente prece estendo a mão;",
+        "Ó, envia os Teus anjos, amável Jesus!",
+        "E deixa-me cantar, sim, a santa canção."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Em forte borrasca que infunde pavor,",
+        "Não tenho temor se Jesus me guiar,",
+        "Pois a santa melodia envolveu-me de amor;",
+        "Junto ao coro dos anjos desejo cantar."
+      ],
+      "number": 4
+    }
+  ]
+}

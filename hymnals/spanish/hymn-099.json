@@ -1,0 +1,56 @@
+{
+  "number": 99,
+  "language": "es",
+  "title": "Jamás podrá alguien separarnos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Jamás podrá alguien separarnos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jamás podrá alguien separarnos",
+        "de Cristo nuestro Redentor",
+        "ni cosa alguna arrebatarnos",
+        "el gozo de su tierno amor:",
+        "ni luchas, pruebas o dolores,",
+        "ni amenazas o aflicción;",
+        "ni aun este mundo y sus honores,",
+        "su pompa, gloria y tentación."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Con furia loca lo azotaron,",
+        "y así humillaron al Señor,",
+        "y sin piedad atravesaron",
+        "las manos de mi Salvador.",
+        "A esos pies que caminaron",
+        "para sanar y bendecir,",
+        "horribles clavos traspasaron,",
+        "la suerte humana al compartir."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qué horror que por mi vil pecado",
+        "el Salvador así sufrió,",
+        "que por mis culpas fue azotado",
+        "y burlas crueles recibió.",
+        "¿Ingratos hemos de alejarnos",
+        "de Aquel que tanto nos amó,",
+        "y con anhelo de salvarnos",
+        "su propia vida entregó?"
+      ],
+      "number": 4
+    }
+  ]
+}

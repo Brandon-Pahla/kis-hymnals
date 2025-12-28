@@ -1,0 +1,46 @@
+{
+  "number": 144,
+  "language": "tn",
+  "title": "144 Ke Mo Tseleng Ya Godimo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Mo Tseleng Ya Godimo, Ka Metlha Ke Ya Tlhatloga;",
+        "Ke rapela ke ya gone, \"Morena ntlhoma godimo.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Morena ntsholetsa ke eme, Ka tumelo legodimong,",
+        "Godimo go gaisa fano, Morena ntlhoma godimo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga Ke Na Keletso Go Nna Ngongoregong Le Poifong,",
+        "Lefa bangwe ba go rata, Ke rapelela godimo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Senka Go Nna ’Godimong, Lefa Satane A Mphula;",
+        "Ka tumelo ke utlwile, Kopelo ya baitshepi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Senka Go Ya ’Godimong, Ke Bone Teng Kgalalelo;",
+        "Ke rapelela ’godimo, Morena nkisa ’godimong."
+      ],
+      "number": 4
+    }
+  ]
+}

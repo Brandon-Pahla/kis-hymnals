@@ -1,0 +1,29 @@
+{
+  "number": 138,
+  "language": "ts",
+  "title": "138. BYI TENGISE VUTOMI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TAKE MY LIFE AND LET IT BE",
+        "1. Byi Tengise Vutomi, Bya Mina Eka Wena;",
+        "Mavoko A Ya Tirhi, Swa Ku Rhandza Ka Wena.",
+        "CHORUS",
+        "Ndzi Hlantswe Ngatin, Ya Yesu (Muponisi) Ndzi Basise Ndzi Va Wo, Tenga (Va Wo Tenga);",
+        "Ndzi Nyikela Vutomi Eka Wena Hi La Ku Nga Heriki.",
+        "2. Na Milenge Ya Mina, Yi Khanela Ka Wena;",
+        "Na Rito Ro Dzunisa, Wena Ntsena Xikwembu.",
+        "3. Nomu Tala Mahungu, Lamanene Ya Hosi;",
+        "Silivhere Na Nsuku, Hinkwaswo I Swa Yena.",
+        "4. Ku Dzuniseni Wena, Teka Nkarhi Wa Mina;",
+        "Na Vutlharhi Bya Mina, A Byi Tirhele Wena.",
+        "5. Na Ku Rhandza Ka Mina, Ku Lawula Hi Wena; Teka Mbilu Ya Mina,",
+        "Xiluvelo Xa Wena",
+        "6. Teka Rirhandzu Ranga, Ku Va Rifuwo Raku;",
+        "Mina Ndza Tinyiketa, Ku Va Wa Wena Ntsena."
+      ],
+      "number": 1
+    }
+  ]
+}

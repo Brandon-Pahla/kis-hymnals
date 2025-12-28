@@ -1,0 +1,28 @@
+{
+  "number": 242,
+  "language": "luo",
+  "title": "242 Mor Ni Jopiny",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mor ni jopiny Ruoth noduogi!Piny mond` oruak Ruodhe,To ji losne chunygi chutho;Polo gi piny pake,polo gi piny pake,Polo gi piny pako Ruodhwa.(Polo gi piny pake)."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mor ni jopiny Ruoth enolo!Ji mondo gidende;Pinje, nembe, gode, pewe,Dwoko gi dwol mamor,Dwoko gi dwol mamor,Dwoko gi dwol mamor chutho.(Dwoko gi dwol mamor)."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Obiro loyo piny gi kuwe,To ogend piny nong`e,Duong`ne madier gi loch mokuwe,Gi herane maduong`,Gi herane maduong`,Gi herano maduong` mar Ruoth.(Gi herane maduong`)."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "number": 315,
+  "language": "guz",
+  "title": "315 Yeso Atotebia Tomoreke",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yeso atotebia tomoreke,Bun'etay' ekomoreka botuko;Ense nomosunte 'Gotorabeagw'as'ore Nainch'ase nde."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yeso atotebia tomoreke,Arore obororabu tiborima;Korwa igor' arora,'Gatorabe agw'as'oreNainch'asende."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yeso atotebia tomoreke,'Mosunt' Oetananire ens'engima;'Bibe nobororo, 'Gatorabeagw'as'ore Nainch'asende."
+      ],
+      "number": 3
+    }
+  ]
+}

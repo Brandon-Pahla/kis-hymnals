@@ -1,0 +1,55 @@
+{
+  "number": 268,
+  "language": "ve",
+  "title": "268. Khosi, dumbu Ndi lihulu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:205"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Khosi, dumbu ndi lihulu, na muya u bvumaho!",
+        "Na lutombo lwo swifhala, A hu tshe na vhushavhelo,",
+        "Vhona zwino ri a lovha, u edelela’ni?",
+        "Tshifhinga tshothe hu a ofhisa, fhasi fhasi lwanzheni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Muya, madumbu, mpfeni-ha ni ri tshete,",
+        "Na madumbu othe a lwanzhe! Mademoni, vhathu, na zwothe-zwothe,",
+        "Madi a nga si do kumba gungwa le Murena a edela khalo,",
+        "Zwothe zwi do pfa ipfi langa, zwe’tshete, zwe’tshete.",
+        "Zwothe zwi do pfa ipfi langa, zwa ri tshete."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Khosi ndi lila muyani, ndi khotha nga u lila!",
+        "Hu re ngomu mbiluni yanga, vuwa ndi a rabela,",
+        "Mbilu yo tsikwa nga zwivhi, zwi lwaho na muya;",
+        "Ndia fa-wee, ndia a fa Murena, tavhanya u nthuse."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Khosi nyofho dzo no fhela nge madumbu a dzika!",
+        "duvha li vhonetshela dzivha, zwi vho nga ndi tadulu,",
+        "U songo lenga u songo ntsia ndi ndothe,",
+        "Ndi do da nda wana vhuawelo havhudi nda takala."
+      ],
+      "number": 4
+    }
+  ]
+}

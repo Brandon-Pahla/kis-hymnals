@@ -1,0 +1,28 @@
+{
+  "number": 7,
+  "language": "ny",
+  "title": "7 - Yesu Adza Kuwerenga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHEN HE COMETH"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1 Yesu adza kuwerenga Ana ’Ke abwino,",
+        "Ngale zake zowalitsa, Okondedwawo.",
+        "CHORUS:",
+        "Ana omwe angonga Nyenyezi za mmwamba,",
+        "Nadza naye mokondwa, Onyezima nye.",
+        "2 Yesu adzasonkhanitsa Oyera mu mtima,",
+        "Ana ake onyezima, Okondedwawo.",
+        "3 Ana, inde, ana ake Ndi nyenyezi zake;",
+        "Adzakhala owalitsa, Okondedwawo."
+      ]
+    }
+  ]
+}

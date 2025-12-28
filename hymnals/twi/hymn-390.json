@@ -1,0 +1,57 @@
+{
+  "number": 390,
+  "language": "tw",
+  "title": "'W'ra YɛdɔW' Homeda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra yɛdɔW' Homeda,",
+        "Som Wo sɛnea Wopɛ;",
+        "O ma saa b're yi nyɛ 'somdwoe,",
+        "Na to yɛn gyidi mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "W'abɔfo de 'nigye",
+        "Hwɛɛ W'adebɔ too dwom.",
+        "Nnɛ yɛn nso ma yɛn koma so",
+        "De ayeyi ma Wo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nnaase nka Wo dɔ a",
+        "Ͻyɛɛ da yi kronkron,",
+        "Sɛnky'rɛnnč a ɛma 'biara hu",
+        "Sɛ Wo na yɛdan Wo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔbɔadeɛ 'Hhenkɛse,",
+        "Fa Wo gye dom pa no",
+        "Yɛ yɛn koma fofro tew ho,",
+        "Na ma yenhu W'anim."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na yɛne 'hotefo",
+        "Hyia Sion bepɔ sō a,",
+        "Yɛato Homeda dwom 'nigyem",
+        "Mfesanten nyinaa mu."
+      ],
+      "number": 5
+    }
+  ]
+}

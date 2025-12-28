@@ -1,0 +1,47 @@
+{
+  "number": 1,
+  "language": "sn",
+  "title": "1 Ridza Tsuri",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ridza tsuri yevangeri, Murindi wanyewera;",
+        "Avo vanonzwa masoko, Vapinduke, vapone."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ridzanyi, murindi, ridza, Pasi pese ridzisa;",
+        "Mwari arikuti, Ridza Vasungwi vaponeswa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ridza pamakomo ese Mapomo nemikana;",
+        "Nepanyanza ridzanyizve, Soko rekuponeswa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ridzanyizve pamagwanza, Nenzvimbo dzine dima;",
+        "Taura zvakagadzirwa, Baba atidayidza."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ridza kune vakaneta, Vanoda kuponeswa;",
+        "Muponesi wadayidza, Mwese munodikanwa."
+      ],
+      "number": 5
+    }
+  ]
+}

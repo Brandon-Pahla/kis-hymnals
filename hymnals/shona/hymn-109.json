@@ -1,0 +1,39 @@
+{
+  "number": 109,
+  "language": "sn",
+  "title": "109 Wayerwa Unoreruka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Apo m’tongi otiyera, Kana takafanira",
+        "Tichamira sendarama, Kana senhando here?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tichazoyerwa nem’temo Tichareruka",
+        "Tichazoyerwa naTenzi Tichareruka"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tonzwa mazwi erufa-ro: \"Waita zvakanaka!\"",
+        "Kana mazwi anotyisa; \"Hauna kukwanira?\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngatinzwe mweya mutsvene Apo tichada mutsa,",
+        "Kana tanonoka Mwa-ri, Anounza magumo?"
+      ],
+      "number": 4
+    }
+  ]
+}

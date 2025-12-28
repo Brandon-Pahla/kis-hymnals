@@ -1,0 +1,30 @@
+{
+  "number": 147,
+  "language": "bem",
+  "title": "147 - MPALAMIKWE MUPEPI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "DRAW ME CLOSER TO THEE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tata mumpalamike, Ndefwaya mfukatilwe ;",
+        "Mbe fye mu maboko yenu, Kuti nsange kutusha.",
+        "CHORUS:",
+        "Mpa-lamikwe mupepi,",
+        "Mpa-lamikwe kuli Imwe,",
+        "Mpa-lamine pepi na 'Mwe",
+        "2. Mupusushi 'ne mbe pepi, Nimfuma kuli Iwe,,",
+        "Ng’ufwe naumfukatila, Ndi mu maboko yenu.",
+        "3. Mupashi mpalamikile Kuti mbe fye na Iwe,",
+        "Mbutisheni umutima, Munsambe mbute tutu."
+      ],
+      "number": 2
+    }
+  ]
+}

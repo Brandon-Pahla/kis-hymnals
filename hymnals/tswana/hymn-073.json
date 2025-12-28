@@ -1,0 +1,68 @@
+{
+  "number": 73,
+  "language": "tn",
+  "title": "73 Re Bileditswe Dijo Kgosing",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Re Bileditswe Dijo Kgosing,",
+        "Go nna, gongwe bathung ba Gagwe;",
+        "Go tla nna jang tsala go rona Fa Kgosi e tsena?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mogang Kgosi e tsenang, Fa Kgosi e tsena,",
+        "Go tla nna jang mo go rona Fa Kgosi e tsena?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dirwalo Mo Tlhogong Ya Gagwe,",
+        "Kgalalelong Yo swetseng batho;",
+        "Foo re tla bona pono e ntle, Fa Kgosi e tsena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nakong Eo Go Tla Bonadiwa",
+        "Dilo tse di fitlhetsweng botlhe;",
+        "Re tla itsanye dipopego, Fa Kgosi e tsena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Tla Leba Botlhe Boipelong",
+        "Ba b’ apesitsweng tsa lenyalo;",
+        "Bontle fa re ka ema tekong, Fa Kgosi e tsena."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kgaogano E E Sa Khutleng,",
+        "Botlhoko go ba ba timetseng,",
+        "Poitshego nakong ya botlhoko, Fa Kreste A tsena."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena Re Nee Tshegofatso,",
+        "Gore ka bongwe re Go lete,",
+        "Gore re tle re se Go boife Mogang O tsenang."
+      ],
+      "number": 6
+    }
+  ]
+}

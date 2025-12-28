@@ -1,0 +1,37 @@
+{
+  "number": 130,
+  "language": "sw",
+  "title": "130 - Yesu Kwetu ni Rafiki",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Yesu kwetu ni rafiki, wambiwa haja pia,",
+        "Tukiomba kwa Babaye, maombi asikia,",
+        "Lakini twajikosesha, twajitweka vibaya,",
+        "Kama tulimwomba Mungu, dua alisikia."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Una dhiki na maonjo? unamashaka pia?",
+        "Haifai kufa moyo, dua atasikia,",
+        "Hakuna mwingine mwema, wa kutuhurumia,",
+        "Atujua tu dhaifu, maombi asikia."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Je hunayo hata nguvu, huwezi kwendelea,",
+        "Ujapodharauliwa, njaporushwa pia,",
+        "Watu wakikudharau, wapendao dunia,",
+        "Hukwambata mikononi, dua atasikia."
+      ]
+    }
+  ]
+}

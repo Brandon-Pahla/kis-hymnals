@@ -1,0 +1,44 @@
+{
+  "number": 89,
+  "language": "st",
+  "title": "89 Lebelang Le Rapele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lebela nako ha eo,U lebele kajeno,",
+        "Lebela u se hlolehe,Rapela Mokreste;",
+        "Lebela nama ea tseta,’me sera ke see matla,",
+        "U lebele monyali,Leha a ka lieha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lebela u rapele,Lebela rapela,rapela;",
+        "Lebela lefifing le mots’ehare Mokreste lebela."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U leleke le boroko, Tlosa le pelaelo;",
+        "U ts’episitsoe moputso, phomolong holimo,",
+        "Lebela ’me u rapele, Eena ’Moloki oa hao,",
+        "O u utloetse bohloko, A ba a rotha mali."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U ts’epe Jesu fela, U hlokomele sera;",
+        "U nke lihlomo tsa hao, lebela morena;",
+        "Letsatsi ha le chabile, U se ke ua lieha,",
+        "Hona nakong eona eo, U lebele mokreste."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 472,
+  "language": "fr",
+  "title": "Tiens dans ta main",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tiens dans ta main, ta main puissante et forte,",
+        "Ton faible enfant qui seul ne peut marcher.",
+        "Vers toi, Seigneur, tout mon désir se porte,",
+        "Sur mon chemin garde-moi de broncher !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tiens dans ta main tous les jours de ma vie,",
+        "Qu'ils soient des jours de peine ou de bonheur;",
+        "Que de t'aimer soit toute mon envie,",
+        "Que je sois à toi, Jésus mon Sauveur !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tiens dans ta main mon cœur plein de faiblesse,",
+        "Sans ton secours je ne puis faire un pas.",
+        "Écoute-moi, regarde ma tristesse,",
+        "Viens, secours-moi, ne m'abandonne pas !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tiens dans ta main ma main parfois tremblante,",
+        "Quand vient l'épreuve et ses jours de douleur.",
+        "Donne à ma foi, souvent si chancelante,",
+        "Plus de douceur, de paix et de ferveur !"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tiens dans ta main mon âme toute entière;",
+        "Révèle-moi, Jésus, tout ton amour;",
+        "Sois mon rocher, mon ancre, ma lumière,",
+        "Mon Roi, mon Maître, ô Jésus, chaque jour !"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 74,
+  "language": "guz",
+  "title": "74 Inchwo Abegeni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Inchwo abegeni abamwabuire,'Nchwo Bethelehemu 'nw'ababui,Ror'Omogambi O'goro Oiboirwe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inchwo tomosasime,Inchwo tomosasime,'Nchwo tomosasime Omonene."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ter'amalaika, tera n'omogoko,Ter'abanto bonsi bare igoro,'Bonene bwonsi ase Nyasae igoro."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Togochengere kwaiboirw' emambi'engiya,Yeso oegw' obonene bwonsi,'Ng'ana ya Tat' oboirw' as' omobere."
+      ],
+      "number": 4
+    }
+  ]
+}

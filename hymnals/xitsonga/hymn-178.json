@@ -1,0 +1,25 @@
+{
+  "number": 178,
+  "language": "ts",
+  "title": "178. KU NGA VA MIXWEN",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "IT MAY BE AT MORN",
+        "1. Ku Nga Va Mixwen, Loko Dyambu Ri Tlhava,",
+        "Masana Mahlongola Xona Xinyami; Yesu A Fika Hi Ku Kwetsima Kakwe, Ku Ta Amukela Vakwe.",
+        "CHORUS",
+        "Yesu U Ta Fika Rini, Hi Ta Khana Hi Cina; Yesu Wa Ta Aleluya,",
+        "Aleluya Amen, Aleluya Amen!",
+        "2. Ku Nga Va Nhlekanhi, Kumbe Namadyambu,",
+        "Kumbe Xinyamini Xikarhi Ka Vusiku; Swi Ta Baleka Hi Ku Kwetsima Kakwe, Loko A Ta Teka Vakwe.",
+        "3. Loko Vahlawuriwa Va Yimbelela, A Ri Karhi A Xika Hi Wo Mapapa;",
+        "Exikandzen Lexi Teleke Tintswalo, Loko A Ta Teka Vakwe.",
+        "4. Ntsako Wukulu, Na Ku Hela Ka Rifu, Mavabyi, Gome, Nchavo Kumbe Swirilo;",
+        "Hi Ta Tekeriwa Mapapen Ka Yena Loko A Ta Teka Vakwe."
+      ],
+      "number": 1
+    }
+  ]
+}

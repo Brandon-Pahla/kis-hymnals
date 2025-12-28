@@ -1,0 +1,47 @@
+{
+  "number": 256,
+  "language": "tw",
+  "title": "Nyame Asomfo, Momma Mo W'ra So",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame asomfo, momma mo W'ra so,",
+        "Na monka Ne din nwanwa no nkyerɛ;",
+        "Na mommɔ Yesu nkonim din no ho 'se;",
+        "N'ahenni yɛ 'nuonyam, Odė ade ny'naa so."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame di hen' s'ro, ɔyɛ Otumfo;",
+        "Nanso ɔbɛn yɛn, yɛte Ne nka ha;",
+        "Asafo kɛsen' bɛto Ne nkonim dwom,",
+        "Aka sɛ nkwagye fi Yesu yɛn Hen' no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkwagye wɔ Nyamč a ɔte 'hengua so;",
+        "Ma obiara nteam nhvɛ 'Ba no 'nuonyam;",
+        "Soro abɔfo ka Yesu ayeyi,",
+        "Wobutu Oguammaa no anim som No."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Momma yɛnsom No mfa Ne de mma No,",
+        "'Nuonyam, tumi ne nyansa ny'naa wɔ No;",
+        "Momma yɛne 'bɔfo mfa 'nidi mma No,",
+        "Nna N'ase daa wɔ Ne dɔ kɛse no ho."
+      ],
+      "number": 4
+    }
+  ]
+}

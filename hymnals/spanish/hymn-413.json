@@ -1,0 +1,55 @@
+{
+  "number": 413,
+  "language": "es",
+  "title": "Si la carga es pesada",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Si la carga es pesada"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si la carga es pesada,",
+        "mirad a Dios;",
+        "si vuestra alma está cansada,",
+        "mirad a Dios."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Levantad la vista al cielo,",
+        "mirad a Dios;",
+        "si vuestra alma está cansada,",
+        "mirad a Dios."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "El deber os llama, hermanos,",
+        "mirad a Dios;",
+        "pues dejad placeres vanos,",
+        "mirad a Dios."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando el mal parece fuerte,",
+        "mirad a Dios;",
+        "si os espanta aún la muerte,",
+        "mirad a Dios."
+      ],
+      "number": 5
+    }
+  ]
+}

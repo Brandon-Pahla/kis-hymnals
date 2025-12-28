@@ -1,0 +1,56 @@
+{
+  "number": 427,
+  "language": "pt",
+  "title": "Mais Perto Quero Estar",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Mais Perto Quero Estar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mais perto quero estar,",
+        "Meu Deus, de Ti,",
+        "Inda que seja a dor",
+        "Que me una a Ti."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Eis meu constante orar:",
+        "Mais perto quero estar,",
+        "Mais perto quero estar,",
+        "Meu Deus, de Ti."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Andando triste aqui,",
+        "Na solidão,",
+        "Paz e descanso a mim",
+        "Teus braços dão."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Minh'alma cantará",
+        "A Ti, Senhor,",
+        "Cheia de gratidão,",
+        "Por Teu amor."
+      ],
+      "number": 5
+    }
+  ]
+}

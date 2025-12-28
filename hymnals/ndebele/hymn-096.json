@@ -1,0 +1,37 @@
+{
+  "number": 96,
+  "language": "nd",
+  "title": "96 Thokozel’ Ilanga Loluphumula",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Si thokozel’ ilanga",
+        "Esinikiw’ ezweni;",
+        "Si yalibingelela",
+        "Li vela ezulwini."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Usuku loku phumula",
+        "Im’zuzu yal’imnandi;",
+        "I pholis’ ukukhala",
+        "Uz’ u qedw’ umsebenzi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ilang’ eliligugu",
+        "Lokuthobel’ inkonzo;",
+        "Li vus’ is’phukuphuku",
+        "Lehlis’ izibusiso."
+      ],
+      "number": 3
+    }
+  ]
+}

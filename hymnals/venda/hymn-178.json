@@ -1,0 +1,62 @@
+{
+  "number": 178,
+  "language": "ve",
+  "title": "178. Kristo U A Vhuya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:207",
+        "AH:402"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Hu nga di vha nga matshelonitsheloni,",
+        "musi tshedza tsha duvha tshi tshi bvelela,",
+        "Hone Yesu u do vhuya nga lupenyo, U da u dzhia vhawe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Murena U do swika lini uri ri takale,",
+        "Ri tshi do ri o vhuya,",
+        "Haleluya Amen, Haleluya Amen."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nga masiari kana nga madekwana,",
+        "mathina na nga vhukati ha vhusiku,",
+        "Musi vhugala hawe vhu tshi vho penya,",
+        "A tshi do dzhia vhawe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Vharunwa vha do imbelela Hosana,",
+        "Na vhakhethwa vha do tangwa nga dzimvumi,",
+        "Yesu u do da e na lupenyo lwawe,",
+        "u tanganedza vhawe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ri do takala ngauri ri nga si fe,",
+        "Hu si na lufu, vhutungu na u ofha,",
+        "Ri do takulelwa ntha tshikhalani,",
+        "a tshi do dzhia vhawe."
+      ],
+      "number": 5
+    }
+  ]
+}

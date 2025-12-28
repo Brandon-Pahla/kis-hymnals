@@ -1,0 +1,49 @@
+{
+  "number": 185,
+  "language": "sn",
+  "title": "185 Kuva Ikoyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tinotaura nenyika",
+        "Yakanaka inopenya",
+        "Nyika iyo yakanaka",
+        "Zvofadza sei kuwayo",
+        "Nenzira dzine ndarama",
+        "Nemadziro anopenya",
+        "Kunoshamisa, zvofadza sei",
+        "Kwayo naTenzi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hakuna zvitema uko",
+        "Neurombo nekuedzwa",
+        "Iko kusina zviedzo",
+        "Zvofadza seyi kuwayo",
+        "Tino taura nerudo",
+        "Nenhumbi dzinopfekwayo",
+        "Sangano dzwene ririko",
+        "Zvofadza senyi kuwayo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nomukati mezviedzo",
+        "Ndogadzirira kudenga",
+        "Ndichazozviziva ini",
+        "Ndozonzwa senyi kuwayo",
+        "Tichafamba muminda’yo",
+        "Munembiri yakanaka",
+        "Newatswene nengirosi",
+        "NaJesu achazowayo"
+      ],
+      "number": 3
+    }
+  ]
+}

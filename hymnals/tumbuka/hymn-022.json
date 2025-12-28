@@ -1,0 +1,66 @@
+{
+  "number": 22,
+  "language": "tum",
+  "title": " 22 Naneso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 22 Naneso",
+        "LORD, I HEAR"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Fumu ndapulika mkuchitira",
+        "wanji viweme,",
+        "Wanandi mkuwatumbika",
+        "naneso m'nditumbike."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Naneso, Naneso",
+        "M'nditumbikeso nane"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Dada m'ngandizerezganga,",
+        "Nda muheni nga ndine,",
+        "Nkhwenerera nyifwa nadi,",
+        "Mndichitire lusungu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nkhafwasa m'maubendezi,",
+        "Imwe nkham pepulani",
+        "Ndatemweska vya mucharu,",
+        "Fumu m'ndigowokere."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Mzimu mreke kuzerezga,",
+        "M'ndijure maso ghane,",
+        "Mkupa mphavu wanthu wanji,",
+        "nane m'ndipe nkhongono."
+      ],
+      "number": 5
+    }
+  ]
+}

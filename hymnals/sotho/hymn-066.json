@@ -1,0 +1,40 @@
+{
+  "number": 66,
+  "language": "st",
+  "title": "66 Le Monate Letsatsi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Le monate letsatsi la ho ikhethela Mong a ka;",
+        "A pelo ee nyakaletseng, e bolele thabo ena."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Monate tsatsi lee Jesu a ntlhatsoitseng sebeng;",
+        "O nthutile ho rapela le ho phela ka nyakallo.",
+        "Le letle tsatsi lee Jesu a ntlhatsoitseng sebeng."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ho felile ho phethiloe, ke oa Morena Ke oa ka,",
+        "O na mpitse ka latela ka thabela pitso eo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U phomole pelo ea ka, nahana ka lintho tsena;",
+        "U se tlohe ho Morena, Eena ea ruileng molemo"
+      ],
+      "number": 4
+    }
+  ]
+}

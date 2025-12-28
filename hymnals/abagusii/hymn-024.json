@@ -1,0 +1,42 @@
+{
+  "number": 24,
+  "language": "guz",
+  "title": "24 O Yes' Omobori' One",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. O Yes' Omobori' one,'Mogok' ogotera,'Motori' omosasoko,'Kero nchandegete."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Yes' Omobori' one,Ninkobake aye,Mosani onde tari,Bw' amatuko onsi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nay'ore okoremia,As' emiaka yonsi,Mosunte korantube,'Marig' agotonya!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ninkwegen' Omotoria,Mosani Omorai,Naki aye nomuya,Kobua bonsi pi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nintere nomogoko,Kond' ense y'ebibe,Nintere n'omogoko,Bisieri bia Igoro."
+      ],
+      "number": 5
+    }
+  ]
+}

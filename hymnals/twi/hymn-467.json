@@ -1,0 +1,67 @@
+{
+  "number": 467,
+  "language": "tw",
+  "title": "Nɔkaw So! Ma Yɛnto Ho Dwom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nɔkwa so! ma yɛnto ho dwom,",
+        "sɛnea 'sɛ sɛ yɛtumiɔ",
+        "Adan, ahyɛn, nkuro, nnipa,",
+        "akuraase, mfuw, wuram,",
+        "Nɔkwa so, wɔde ama kwa;",
+        "Nɔkwa yɛ dɛ na eye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nɔkwa so! nea 'bɛsi biara,",
+        "Awɔm', owiam, 'nigyem', yawm'",
+        "ɔbrɛ, wrɛhow, anaa huammɔ",
+        "'Manehun' a mintum' nky'rɛ",
+        "Nɔkwa so, sɛ obi dɔ me",
+        "Na ɔsɔ me nsa frɛ mč a."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔdɔ so! adɔfo dɔ no,",
+        "Nɔsɛm brɛoo, ɔdɔ 'niwa;",
+        "ɔdɔ a ɛhwɛ mpa no a",
+        "Kokoaa dɔfo bi da so;",
+        "ɔdɔ a babunyɛ twam a,",
+        "Ͻnsa na enwu da no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔdɔ yɛ ɔma ne ɔgyɛɔ",
+        "Wɔ 'damfo ne 'damfo ntam;",
+        "ɔdɔ gye, na ɛde pirá a",
+        "Nitan de ba nyinaa kyɛ;",
+        "Ͻyɛ asetram kwan pa bi",
+        "A yɛsɔm' kosi awiei."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame so! ɔdɔɔ yɛn Kristom,",
+        "Bere a yɛantumi no,",
+        "Nea edii yaw nyaa 'nidaso,",
+        "Bere a 'suafo dwanee;",
+        "ɔdɔ a edi 'wu so daa.",
+        "Kamfo saa 'dɔ Nipa no."
+      ],
+      "number": 5
+    }
+  ]
+}

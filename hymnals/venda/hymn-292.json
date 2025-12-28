@@ -1,0 +1,52 @@
+{
+  "number": 292,
+  "language": "ve",
+  "title": "292. Zwanda Zwivhili",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:462"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Zwanda zwivhili shumela Yesu,",
+        "Lulimi lu rende Ene,",
+        "ndevhe dzanga dzi do mu pfa,",
+        "Ipfi lituku imbelela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Murena ri a da, Ri tshi kha di vha vhatuku;",
+        "Murena ri a da, U guda zwau."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Milenzhe yanga i ndilani yau,",
+        "I ya khoroni tadulu;",
+        "Mato vhalani Bivhili,",
+        "I bulaho lufuno lwawe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi nekedza Yesu mbilu yanga,",
+        "Nda mu kumedza na muya;",
+        "Vhutshilo vhuthihi kha Ene,",
+        "Na nne-vho o no nngwana."
+      ],
+      "number": 4
+    }
+  ]
+}

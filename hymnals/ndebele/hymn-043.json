@@ -1,0 +1,47 @@
+{
+  "number": 43,
+  "language": "nd",
+  "title": "43 Lele KuJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U lele kuJesu yena,",
+        "Lapha ku ngakhalwa khona;",
+        "U thol’ ubuthongo yena,",
+        "Angevuswe kubo yena."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U lele kuJesu kahle,",
+        "U lele njal’ elindile;",
+        "Yen’ ekholwa ebhekile,",
+        "Lelo themba elingcwele."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U lele kuJesu – thula!",
+        "U zolala ngokuphumla;",
+        "U namandla uMsindisi,",
+        "Ukumvus’ ekupheleni"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U lele kuJes’ iNkosi,",
+        "U yovuswa ng’uMsindisi;",
+        "Ka salesabi iliba,",
+        "uMphilisi wolivula"
+      ],
+      "number": 4
+    }
+  ]
+}

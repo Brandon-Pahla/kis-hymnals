@@ -1,0 +1,66 @@
+{
+  "number": 137,
+  "language": "tw",
+  "title": "Yɛn Apuei Ahemfo Baasa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn apuei ahemfo baasa,",
+        "Kura 'kyɛde fi aky'riky'ri;",
+        "Yɛatra mfu, nsu, sare, mmepɔ,",
+        "Di ns'romma bi akyi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O 'nadwo ns'romma nwanwafo,",
+        "Nea 'kura 'dehye 'hoɔfɛ,",
+        "Wudi yɛn anim kɔ atɔe",
+        "Gyaw yɛn kɔ Wo hann pa ho."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔawo Hen' Betlehem sar' so,",
+        "MerebɛhyɛN' sika 'henkyɛw;",
+        "ɔbɛyɛ ɔhen' afebɔɔ",
+        "Adi yɛn nyinaa so."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mede aduhuam rebɛma,",
+        "Aduhuam wɔ ɔs'roni no;",
+        "Nnipa bɔ mpae to ayeyi,",
+        "Som ɔs'ro Nyankopɔn."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "K'rɔbɔ yɛ me de, ne hua ky'rɛ",
+        "Aw'rɛhowdi a ɛreba:",
+        "'W'rɛhow, yaw, mogyatu, owu,",
+        "ɔda ɔbodan mu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Monhwɛ sɛ Wasɔr' 'nuonyam mu,",
+        "ɔhen', Nyame, afɔrebɔ;",
+        "Haleluya, Haleluya",
+        "Gyigye fam ha ne s'ro!"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "number": 198,
+  "language": "xh",
+  "title": "198 Oyena Mhlobo Ngu-Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Oyena mhlobo ngu-Yesu-lo Wakufikelwa ngamaxhala,",
+        "Wophilis’ intliziyo, Ababale ngamandla;",
+        "O, ngu-Yesu oyena mhlobo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "NguYesu oyena mhlobo, NguYesu oyena mhlobo,",
+        "Wokunceda ungawi, Wokuva x’ ubizayo;",
+        "O, ngu-Yesu oyena umhlobo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndimfumen’ umhlobo ku-Yesu! Undizele nentuthuzelo;",
+        "Ndibambelele kuYe Andikoyika bubi;",
+        "O, ngu-Yesu oyena mhlobo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Noxa ndidlul’ ezintsizini, Ndibethwa ngamaza e-Jordan,",
+        "Andize ndirhox’ umva, Ekho-nje u-Msindisi;",
+        "O, ngu-Yesu oyena mhlobo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa siya kugoduka sonke, Sikunye nabahambi tanci,",
+        "Sothi siselunxwemen’ Sidume naphakade,",
+        "O, ngu-Yesu oyena mhlobo."
+      ],
+      "number": 4
+    }
+  ]
+}

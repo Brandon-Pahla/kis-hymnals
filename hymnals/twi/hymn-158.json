@@ -1,0 +1,57 @@
+{
+  "number": 158,
+  "language": "tw",
+  "title": "Wowɔ Hɔ B'rč a Wɔbɔɔ Me W'ra",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wowɔ hɔ b'rč a wɔbɔɔ me W'ra 'sɛnnuam'?",
+        "Wowɔ hɔ b'rč a wɔbɔɔ me W'ra 'sɛnnuam'?",
+        "O! Ͻtɔ b're bi a ɛma me ho popopopo.",
+        "Wowɔ hɔ, b'rč a wɔbɔɔ me W'ra 'sɛnnuam'?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wowɔ hɔ b'rč a wɔde No fam dua ho?",
+        "Wowɔ hɔ b'rč a wɔde No fam dua ho?",
+        "O! Ͻtɔ b're bi a ɛma me ho popopopo.",
+        "Wowɔ hɔ b'rč a wɔde No fam dua ho?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wowɔ hɔ b'rč a wɔbɔɔ Ne mfe mu no?",
+        "Wowɔ hɔ b'rč a wɔbɔɔ Ne mfe mu no?",
+        "O! Ͻtɔ b're bi a ɛma me ho popopopo.",
+        "Wowɔ hɔ b'rč a wɔbɔɔ Ne mfe mu no?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wowɔ hɔ b'rč a owia gyaee ne hy'rɛn no?",
+        "Wowɔ hɔ b'rč a owia gyaee ne hy'rɛn no?",
+        "O! Ͻtɔ b're bi a ɛma me ho popopopo.",
+        "Wowɔ hɔ b'rč a owia gyaee ne hy'rɛn no?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wowɔ hɔ b'rč a wɔde No too damoa m'?",
+        "Wowɔ hɔ b'rč a wɔde No too damoa m'?",
+        "O! Ͻtɔ b're bi a ɛma me ho popopopo.",
+        "Wowɔ hɔ b'rč a wɔde No too damoa m'?"
+      ],
+      "number": 5
+    }
+  ]
+}

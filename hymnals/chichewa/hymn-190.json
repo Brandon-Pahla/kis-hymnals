@@ -1,0 +1,63 @@
+{
+  "number": 190,
+  "language": "ny",
+  "title": "190 - Konda Dzina La Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "PRECIOUS NAME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Konda dzinalo la Yesu,",
+        "Mwana wosauka ’we,",
+        "Ndilo lothandiza anthu,",
+        "Khala nalo ponse phee."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dzina la Yesuyo,",
+        "Lokondwetsa onsewo.",
+        "Mwambamo, ponsepo,",
+        "Litonthoza m’mtimamo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Konda dzinalo la Yesu,",
+        "M’moyo mwanu monsemo;",
+        "Mmene muli kuyesedwa,",
+        "Tchula dzina lakelo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Dzina ili ndi lokoma,",
+        "La Mombolo wathuyo,",
+        "Polandira ife mmwamba",
+        "Tidzakondwererako."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mbuye Yesu timtamanda,",
+        "Ndi zinyimbo zathuzo;",
+        "Mfumu ya mafumu onse,",
+        "Yesu timayesadi."
+      ],
+      "number": 5
+    }
+  ]
+}

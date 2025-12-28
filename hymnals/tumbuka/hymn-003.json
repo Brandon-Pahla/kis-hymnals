@@ -1,0 +1,68 @@
+{
+  "number": 3,
+  "language": "tum",
+  "title": " 3 Maso Na Maso Na Khristu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 3 Maso Na Maso Na Khristu",
+        "FACE TO FACE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Maso na maso na Khristu;",
+        "ndamkwima uli ine?",
+        "Pakuwonana na Yesu,",
+        "Uyo wakandifwira."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndamkuwonana na Yesu,",
+        "kuseri kwa mitambo;",
+        "Ndamkuwona mtaski wane,",
+        "mu uchindami wake"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Sono nkhumwoneska chara,",
+        "mkazimuzimu pera Zuwa",
+        "lira ndakumwona,",
+        "mu uchindami wake."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Pakumara suzgo lose,",
+        "nthenda na nyifwa wuwo;",
+        "Pakunozgeka kwa charu;",
+        "ndamkuhenera nadi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Pa zuwa la vitumbiko,",
+        "ndamkumuwona Yesu;",
+        "Muponoski wane uyo,",
+        "wakanditemwa ine."
+      ],
+      "number": 5
+    }
+  ]
+}

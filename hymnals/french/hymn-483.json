@@ -1,0 +1,58 @@
+{
+  "number": 483,
+  "language": "fr",
+  "title": "Quand le vol de la tempête",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Quand le vol de la tempête",
+        "Viens assombrir ton ciel bleu,",
+        "Au lieu de baisser la tête,",
+        "Compte les bienfaits de Dieu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Compte les bienfaits de Dieu,",
+        "Mets-les tous devant tes yeux,",
+        "Tu verras, en adorant,",
+        "Combien le nombre en est grand."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quand sur la route glissante",
+        "Tu chancèles sous la croix,",
+        "Pense à cette main puissante",
+        "Qui t'a béni tant de fois."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si tu perds dans le voyage",
+        "Plus d'un cher et doux trésor,",
+        "Pense au divin héritage",
+        "Qui là-haut te reste encor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bénis donc, bénis sans cesse",
+        "Ce Père qui chaque jour",
+        "Répand sur toi la richesse",
+        "De son merveilleux amour."
+      ],
+      "number": 5
+    }
+  ]
+}

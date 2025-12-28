@@ -1,0 +1,47 @@
+{
+  "number": 267,
+  "language": "tw",
+  "title": "ɔs'ro Honhom Tie Yɛn Mpaebɔ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ɔs'ro Honhom tie yɛn mpaebɔ,",
+        "Yɛ yɛn komam' Wo fie;",
+        "Fa Wo dom tumi nyinaa sian,",
+        "Bra, Honhom Kronkron bra!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bra sɛ hann: bɛda yɛn bɔne",
+        "Ne yɛn mmusu adi;",
+        "Na kyerɛ yɛn nɔkwa kwan a",
+        "Treneefo fa so no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bra sɛ 'bu'b'ru, bae Wo ntabanm',",
+        "Wo dɔ 'somdwoe ntaban,",
+        "Na ma W'asafo yi nyɛ nhy'ra,",
+        "Sɛnea ɛwɔ s'ro no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Honhom Kronkron tie yɛn mpaebɔ,",
+        "Yɛ saa wiase'I Wo fie;",
+        "Fa Wo dom tumi nyinaa sian,",
+        "Bra, Honhom kronkron bra!"
+      ],
+      "number": 4
+    }
+  ]
+}

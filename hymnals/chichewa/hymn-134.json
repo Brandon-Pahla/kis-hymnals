@@ -1,0 +1,53 @@
+{
+  "number": 134,
+  "language": "ny",
+  "title": "134 - Ndi Mtima Wanga Wonse",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WONDERFUL LOVE OF JESUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi mtima wanga wonsewo,",
+        "Ndikweza mau kwanuko,",
+        "Ndiyimbe bwanji chikondi",
+        "Chozizwitsa cha Yesu Mbuye?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Chikonditu chozizwacho,",
+        "Chikondi cha Yesuyo;",
+        "Chikonditu chozizwacho,",
+        "Chikondi cha Yesuyo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Chipatsa ’ne mtenderewo,",
+        "Chiunikira m’njirayo,",
+        "Chichotsa vuto chikondi",
+        "Chozizwitsa cha Yesu Mbuye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Chiyembekezo changacho",
+        "Chonditulutsa m’machimo;",
+        "Pakufa ndi’imba chikondi",
+        "Chozizwitsa cha Yesu Mbuye."
+      ],
+      "number": 4
+    }
+  ]
+}

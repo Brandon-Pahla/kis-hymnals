@@ -1,0 +1,56 @@
+{
+  "number": 211,
+  "language": "sn",
+  "title": "211 Madonhwe Ezvikomborero",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "\"Zvouya zvikomborero\",",
+        "Ndicho chitsidzo chake",
+        "Kuchazotumirwa mutsa",
+        "Kuna M’ponesi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvikomborero zvikomborero zvedu",
+        "(Zvikomborero zvedu)",
+        "Unotidonhera mutsa, Toda zvikomborero"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Zvouya zvikomborero\",",
+        "Zvinotimutsira zve",
+        "Pamakomo nemikana,",
+        "Sekunaya kwemvura"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvouya zvikomborero",
+        "Titumirenyi Tenzi",
+        "Tipenyizve mweya mutsva",
+        "Kudzanyi inzwi renyu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvouya zvikomborero",
+        "Dayi zvauya nhasi",
+        "Kuna Mwari Tinobvuma",
+        "Jesu tisambe zvino!"
+      ],
+      "number": 5
+    }
+  ]
+}

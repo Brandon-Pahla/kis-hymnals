@@ -1,0 +1,45 @@
+{
+  "number": 103,
+  "language": "ny",
+  "title": "103 - Anadza Kwa Yesu Mkuru Wina",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "YE MUST BE BORN AGAIN"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Anadza kwa Yesu mkuru wina, Kufunsa za njira ya chipulumutso;",
+        "Nayankha momveka Ambuyathuyo, Mukabadwensotu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mukabadwensotu, mukabadwensotu;",
+        "Indetu ndinenadi kwa inuyo, Mukabadwensotu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nonsenu mverani mau ake Amene Ambuye nanena Kwa ‘ye,",
+        "Msanyozetu mau a uthengawu, Mukabadwensotu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mufuna kulowa mmwamba kodi? Kuyimba pamodzi ndi odalawo?",
+        "Mukafuna moyo wa nthawi zonse, Mukabadwensotu."
+      ],
+      "number": 4
+    }
+  ]
+}

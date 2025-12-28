@@ -1,0 +1,44 @@
+{
+  "number": 281,
+  "language": "xh",
+  "title": "281 Kwavela Inkwenkwezi Ebusuku",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kwavel’ inkwenkwez’ ebusuku,",
+        "Yakhanya ngokukhany’ okuhle;",
+        "Imitha yaKhokel’ izazi,",
+        "Zafik’ apho k’zelw’ iNkosi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Isakhanya le nkwenkwezi Kumathafa nakwinduli;",
+        "Isakhanya le nkwenkwezi Kumathafa nakwinduli."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zazi ngelizwi lenyaniso,",
+        "Lalilixesha lenkwenkwezi;",
+        "Zalandela oko kukhanya;",
+        "Inkwenkwezi yoMsindisi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nathi solandel’ ukukhanya,",
+        "\" ’Kukhanya kwe\" Okwaxelwa;",
+        "Solandela sifik’ ekhaya,",
+        "’De siphumle ezulwini."
+      ],
+      "number": 3
+    }
+  ]
+}

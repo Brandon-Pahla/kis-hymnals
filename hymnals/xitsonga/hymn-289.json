@@ -1,0 +1,28 @@
+{
+  "number": 289,
+  "language": "ts",
+  "title": "289. NDZI LE XIRILWEN",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TAKE ME AS I AM",
+        "1. Yesu, Ndzi Le Xirilweni, Ndzi Pfune Hosi Ndzi Nga Fi;",
+        "Ndzi He Vutomi Bya Wena, Yesu Ndzamukele.",
+        "CHORUS",
+        "Ndzi Amukele (Yesu), XInin’weni Xanga (Yesu); Ndzi He Vutomi Bya Wena, Yesu Ndzamukele.",
+        "2. Ndzi Tsanile Hi Milandzu, Ndzi Kutsule Hi Ngati Yaku;",
+        "Ndzi Tinyiketa Ka Wena, Yesu Ndzamukele.",
+        "3. Ndzi Tengisi Vutomi, Mina Ndzi Muonhi Ntsena;",
+        "Ndzi Ponise Vitwen Raku, Yesu Ndzamukele.",
+        "4. Ndzi Korhama Xiluvelwen, Na Ku Khinsamela Wena,",
+        "Hetisa Ntirho Wa Wena, Yesu Ndzi Ponise.",
+        "5. Loko U Lava Ndzi Tirha, Ntirho Wa Wena Namuntlha;",
+        "Pfula Mehleketo Yanga, U Ndzi Tlharihisa.",
+        "6. Loko Ntirho Wu Herile, Ndzi Hlurile Enyimpini;",
+        "Xirilo Xanfa Xi Ta Va: “Yesu Ndzamukele”"
+      ],
+      "number": 1
+    }
+  ]
+}

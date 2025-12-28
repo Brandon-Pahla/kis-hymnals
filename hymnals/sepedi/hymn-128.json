@@ -1,0 +1,65 @@
+{
+  "number": 128,
+  "language": "nso",
+  "title": " 128 NAKO E BOTSE YA THAPELO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 128 NAKO E BOTSE YA THAPELO",
+        "CH 324 AH 265",
+        "BLESSED HOUR OF PRAYER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke nako ya thapelo, A re 'ikokobetšeng,",
+        "Re phuthegetše Jeso, M'phološi mogwera,",
+        "Ge re tla ka tumelo, O 'a re šireletša,",
+        "O khutšiša molapi, Go monate go ba ntshe;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Nako 'a thapelo, Nako e botse bjang,",
+        "E khutšiša molapi, Go monate go ba ntshe;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke nako ya thapelo, Ge Jeso 'atamela,",
+        "Ka kutlwelo bohloko, Go bana ba Gagwe,",
+        "Ge a re re lahlele, Merwalo go Yena,",
+        "O khutšiša molapi, Go monate go ba ntshe;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke nako ya thapelo, Ge go le ba lekwang,",
+        "Ba tliša maswabi, A bona Moreneng,",
+        "Ka kutlwelo bohloko, O a tloša ohle,",
+        "O khutšiša molapi, Go monate go ba ntshe;"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke nako ya thapelo, Re ya mo dumela",
+        "Gore ka nnete re tlo, Humana mašoto,",
+        "Re tho lokollwa gohle, Ge re mo tshepile,",
+        "O khutšiša molapi, Go monate go ba ntshe;"
+      ],
+      "number": 6
+    }
+  ]
+}

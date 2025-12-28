@@ -1,0 +1,46 @@
+{
+  "number": 38,
+  "language": "pt",
+  "title": "Encanto Sem Igual",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Encanto Sem Igual"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Há encantos no sol pela tarde,",
+        "Encantos no lindo arrebol;",
+        "Mas encanto de encantos será pra mim,",
+        "Ter-me Deus amado assim."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Há encanto sem igual, encanto sem igual,",
+        "Em ter Deus me amado assim;",
+        "Há encanto sem igual, encanto sem igual,",
+        "Em ter Deus amor por mim."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Há encantos no céu, numa estrela,",
+        "Nos vales e campos em flor;",
+        "Mas encanto de encantos será pra mim,",
+        "Esse amor de Deus, sem fim."
+      ],
+      "number": 4
+    }
+  ]
+}

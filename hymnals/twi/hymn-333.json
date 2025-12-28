@@ -1,0 +1,47 @@
+{
+  "number": 333,
+  "language": "tw",
+  "title": "'Suboni No Nteam Wɔ Yordan",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Suboni no nteam wɔ Yordan",
+        "Ky'rɛ sɛ Aw'rade no abɛn;",
+        "Sɔre na tie 'fisɛ ɔde",
+        "'Hen' mu Hen' ho 'nigyesɛm nam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma 'kra ny'naa ho ntew mfi bɔnem';",
+        "Na Nyame kwan ntene wɔ yɛn mu;",
+        "Momma yɛnsiesie yɛn komam'",
+        "Na Kristo mmra mmɛhyɛne mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, yɛteam sɛ Woyɛ 'Gyenkwa,",
+        "Yɛn guankɔbea ne akyɛde;",
+        "Wo dom nni hɔ a yɛte sɛ nhw'ren",
+        "A ewie sa na ɛporɔ."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tene Wo nsa, sa yɛn yare;",
+        "Ma yɛn so na yɛanhwe fam bio;",
+        "O, ma W'anim nhy'rɛn wɔ yɛn so",
+        "Na fa s'ro dɔ hyɛ wiase ma."
+      ],
+      "number": 4
+    }
+  ]
+}

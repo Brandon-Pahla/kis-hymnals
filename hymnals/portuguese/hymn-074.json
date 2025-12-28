@@ -1,0 +1,68 @@
+{
+  "number": 74,
+  "language": "pt",
+  "title": "Sempre vencendo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Sempre vencendo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sempre vencendo, mui vitorioso,",
+        "Cristo Jesus, o Senhor!",
+        "Chefe bendito, Chefe glorioso,",
+        "Em tudo é vencedor.",
+        "Ei-Lo supremo, guiando",
+        "Com Seu poder e valor!",
+        "Todos avante, ó crentes,",
+        "Todos seguindo ao Senhor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Năo é dos fortes a vitória,",
+        "Nem dos que correm melhor",
+        "Mas dos fiéis e sinceros,",
+        "Como nos diz o Senhor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sempre vencendo, mui vitorioso,",
+        "Cristo Jesus, o Senhor!",
+        "Eis Suas hostes inumeráveis,",
+        "Seu refulgente esplendor!",
+        "Cristo, que é nosso Monarca,",
+        "É Salvador, Deus e Pai;",
+        "Sempre nos ama, nos guarda,",
+        "Sempre conosco Ele vai."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sempre vencendo, mui vitorioso,",
+        "Cristo Jesus, o Senhor!",
+        "Reis e monarcas, príncipes fortes",
+        "Buscam também Seu favor.",
+        "Humildemente Te peço",
+        "Oue me permitas lutar,",
+        "Só ao Teu lado, seguro,",
+        "'Té minha vida findar."
+      ],
+      "number": 5
+    }
+  ]
+}

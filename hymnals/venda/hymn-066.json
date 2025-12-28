@@ -1,0 +1,53 @@
+{
+  "number": 66,
+  "language": "ve",
+  "title": "66 duvha la Dakalo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:262"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Duvha lone, la u khetha,",
+        "Iwe Mudzimu Mukhethwa,",
+        "Ndi zwavhudi, mbilu yanga,",
+        "I tshi funa na mafhungo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lo naka, duvha le, Yesu a ntanzwa zwivhini,",
+        "O mpfunza u rabela, na u tshila ndo takala,",
+        "Lo naka duvha le Yesu a ntanzwa zwivhini."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Zwo no fhela, zwo no fhela,",
+        "Ndi wa Yesu, Ene wanga,",
+        "O mphulusa, nda tevhela,",
+        "Nga uho u tshidzwa hanga."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mbilu yanga, I awele,",
+        "I humbule izwi zwithu,",
+        "I songo vhuya ya tuwa,",
+        "Murenani misi yothe"
+      ],
+      "number": 4
+    }
+  ]
+}

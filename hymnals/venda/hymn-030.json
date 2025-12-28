@@ -1,0 +1,54 @@
+{
+  "number": 30,
+  "language": "ve",
+  "title": "30 duvha li Kovhela Vhukovhela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:051",
+        "AH:041"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. duvha li a kovhela, zwino hu da swiswi,",
+        "Lindani nga thabelo, musi swiswi lo no tibedza shango."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U Mukhethwa-khethwa, O! Jehova!",
+        "Vha tadulu na fhasi, nga vha Mu rende Ene RaMaanda."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi Mune wa vhutshilo, a dzulaho tadulu,",
+        "’da U ri kuvhatedze, ri ye muvhusoni Wau u daho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Swiswi zwino lo no da, ri humbela tshilidzi,",
+        "naledzi dzi fukedza tshifhatuwo Tshau, ro u tulutshelwa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Musi ri sa tsha vhona, ho sala lone swiswi,",
+        "Murena wa vharunwa, tshedza Tshau tshi pandela swiswi lothe."
+      ],
+      "number": 5
+    }
+  ]
+}

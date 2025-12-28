@@ -1,0 +1,56 @@
+{
+  "number": 30,
+  "language": "sn",
+  "title": "30 Zuva Ririkudoka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Zuva riri kudoka,",
+        "Pasi rinozorora,",
+        "Namata nekutenda,",
+        "Usiku hunouya"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yera, Yera, Yera, Tenzi Mwari,",
+        "Denga rese nepasi,Zvese zvazara ndimwi,",
+        "Tenzi Mwari"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi weupenyu’wo,",
+        "We zvese pasi pano,",
+        "Mutiunganidze’su,",
+        "Mumaoko’wo enyu, Muri pedyo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Apo dima rasviba,",
+        "Werudo tichengete,",
+        "Moyo yedu ikwire,",
+        "Pamberi penyenyedzi, Apo muri"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti apo nguva’yo,",
+        "Inopera pasi’ko,",
+        "Tenzi matibvumira,",
+        "Tichapinda kumusha, Wekudenga"
+      ],
+      "number": 5
+    }
+  ]
+}

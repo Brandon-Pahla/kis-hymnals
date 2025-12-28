@@ -1,0 +1,57 @@
+{
+  "number": 275,
+  "language": "tn",
+  "title": "275 \\\"Bosakhutleng Kae\\\"",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "\\\"Bosakhutleng! Kae?\\\" Bo Fofa Loaping;",
+        "Modumong tidimalong, ntse bo gone:",
+        "Potso e masisi- \\\"Bosakhutleng! Kae?\\\"",
+        "Potso e masisi- \\\"Bosakhutleng! Kae?\\\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\\\"Bosakhutleng! Kae?\\\" Ao Bosakhutleng! Kae ?",
+        "Polokong kgalalelong kana tshenyegong?",
+        "Gongwe bobeding jo- \\\"Bosakhutleng! Kae?",
+        "Gongwe bobeding jo- \\\"Bosakhutleng! Kae?\\\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\\\"Bosakhutleng! Kae?\\\" O Ka Rua Jang",
+        "Tsa lefatshe jeno le tlhokolomogo",
+        "O’ s’O tlhomanise- \\\"Bosakhutleng! Kae?\\\"",
+        "O’ s’O tlhomanise-\\\"Bosakhutleng! Kae?\\\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\\\"Bosakhutleng! Kae?\\\" Tsala Tlhokomela;",
+        "Modimo O tloga O dira katlholo;",
+        "Tsatsing je ja gago \"Bosakhutleng! Kae?\"",
+        "Tsatsing je ja gago \"Bosakhutleng! Kae?\\\""
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\\\"Bosakhutleng! Kae?\\\" Ao, Bosakhutleng Kae?",
+        "Tsala, se robale, se ye le lefatshe,",
+        "Araba potso e-\\\"Bosakhutleng! Kae?\\\"",
+        "Araba potso e-\\\"Bosakhutleng! Kae?\\\""
+      ],
+      "number": 5
+    }
+  ]
+}

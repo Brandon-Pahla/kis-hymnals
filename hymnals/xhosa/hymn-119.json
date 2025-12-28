@@ -1,0 +1,46 @@
+{
+  "number": 119,
+  "language": "xh",
+  "title": "119 Iliza Elihlambululayo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nal’ iliza elibomvu, Linzulu, libanzi;",
+        "U-Yes’ onokusindisa, Walath’ enxebeni."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nang’ umsinga wokuhlamba, Ngoku ndiya hlanjululwa!",
+        "May’ bongw’ i-Nkos’ ndihlanjiwe, Ngenene undihlambile."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndibon’ ukudalw’ okutsha, Ndiv’ izwi legazi;",
+        "Lithetha--kuf’ ukungcola, Kutshon’ egazini."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndihamba ekukhanyeni, Ngaphezu kwesono;",
+        "’Ngubo zam zenziwe mhlophe Ngu-Kristu i-Nkosi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Simanga solu babalo, Lwenziwe ngegazi,",
+        "Ngu-Yesu yedw’ owaziyo, U-Yes’ obethelwe."
+      ],
+      "number": 4
+    }
+  ]
+}

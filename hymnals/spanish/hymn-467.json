@@ -1,0 +1,69 @@
+{
+  "number": 467,
+  "language": "es",
+  "title": "¡Siempre el Salvador conmigo!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Siempre el Salvador conmigo!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Siempre el Salvador",
+        "conmigo!",
+        "Nada soy sin su poder.",
+        "Su presencia necesito:",
+        "voy, sin él, a perecer."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Me guiará mi Salvador;",
+        "hoy en él yo confiaré.",
+        "Con amor donde él me lleve",
+        "sus pisadas seguiré."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Siempre el Salvador",
+        "conmigo!",
+        "Puédeme la fe faltar.",
+        "Sus palabras me consuelan;",
+        "cual él nadie puede hablar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Siempre el Salvador",
+        "conmigo!",
+        "Ilumíneme su faz",
+        "en la calma, en la tormenta,",
+        "en la lucha y en la paz."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Siempre el Salvador",
+        "conmigo!",
+        "Sus consejos me guiarán",
+        "hasta que esté en la orilla",
+        "anhelada del Jordán."
+      ],
+      "number": 6
+    }
+  ]
+}

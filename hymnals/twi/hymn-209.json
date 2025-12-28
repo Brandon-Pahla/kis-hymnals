@@ -1,0 +1,49 @@
+{
+  "number": 209,
+  "language": "tw",
+  "title": "Anuonyam Da No Reba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Anuonyam da no reba,",
+        "Na dɔn no reba ntɛm;",
+        "Ne hann fɛfɛ no rebɛn,",
+        "Ͻhyerɛn sen owia;",
+        "ɔs'ro mununkum mu na",
+        "Agyenkwa no bepue,",
+        "Abɛboaboa N'aponfo",
+        "Ano de wɔn akɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Hotefo nkonimdifo",
+        "Behyia wɔn Aw'rade,",
+        "Na 'nuonyam asase no",
+        "Bɛyɛ wɔn akatua;",
+        "Nyame a Odi hen' no",
+        "Bɛpopa nusu ny'naa;",
+        "Esum bi rentra hɔ bio",
+        "Ͻbɛyɛ daa 'dekyee."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kristoni, nyan fi nna mu,",
+        "Ma wo dɔ nyɛ kase;",
+        "Wɛn bɔ mpae di nokware,",
+        "T'robɛnto no bebom;",
+        "Bɔn'yɛfo, tie kɔkɔbɔ 'I,",
+        "Guan kɔ Kristo nkyɛn ntɛm;",
+        "Na nhyira anɔpa no",
+        "Woakohyia No wɔ wim."
+      ],
+      "number": 3
+    }
+  ]
+}

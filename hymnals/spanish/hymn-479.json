@@ -1,0 +1,36 @@
+{
+  "number": 479,
+  "language": "es",
+  "title": "De la mano, Señor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### De la mano, Señor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De la mano, Señor, guíame cual pastor,",
+        "pues cansado me siento del mal;",
+        "en la noche sin luz, ven a mí, buen",
+        "Jesús,",
+        "guíame al hogar celestial."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando vague sin paz, sé Jesús mi",
+        "solaz;",
+        "y al sentir que mi vida se va,",
+        "oye tú mi clamor, y sostenme Señor;",
+        "guíame al hogar celestial."
+      ],
+      "number": 3
+    }
+  ]
+}

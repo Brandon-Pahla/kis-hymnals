@@ -1,0 +1,47 @@
+{
+  "number": 321,
+  "language": "tw",
+  "title": "Yesu Medo Wo, Minim Sɛ Wowɔ Me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu medɔ Wo, minim sɛ Wowɔ me;",
+        "Migyaa bɔnem' anigye nyinaa ma Wo;",
+        "ɔgyefo ne domfo, Woyɛ m'Agyenkwa;",
+        "Me dɔfo Yesu, medɔ Wo nnɛ sen daa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Medɔ Wo efisɛ Wudii kan dɔɔ me,",
+        "Tɔɔ me fafiri wɔ Kalbre dua no so;",
+        "Medɔ Wo sɛ Wosoaa nsɔekyɛw Wo ti so;",
+        "Me dɔfo Yesu, medɔ Wo nnɛ sen daa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mɛdɔ Wo nkwa mu, mɛdɔW' kosi 'wu mu,",
+        "Meyi Wo ayɛ me nkwa nna nyinaa mu;",
+        "Sɛ 'wu bosu gu me so a mɛka sɛ;",
+        "Me dɔfo Yesu, medɔ Wo nnɛ sen daa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anųonyam aban ne daa 'hosɛpɛw mu,",
+        "Meyi W' ayɛ daa s'ro man hyɛnhyɛn no mu;",
+        "Mɛhyɛ 'henkyɛw hyɛnhyɛn no ato dwom sɛ;",
+        "Me dɔfo Yesu, medɔ Wo nnɛ sen daa."
+      ],
+      "number": 4
+    }
+  ]
+}

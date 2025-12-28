@@ -1,0 +1,22 @@
+{
+  "number": 17,
+  "language": "ts",
+  "title": "17. HINA HI NA WO NTSAKO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TIS LOVE THAT MAKES US HAPPY",
+        "1. Hina Hina Wo Ntsako, Ntsako Wa Rirhandzu;",
+        "Hi Rona Leri Fumaka, Vutomi Bya Hina.",
+        "CHORUS",
+        "I Yesu Hosi Ya Rirhandzu, Ka Yesu Hi Kuma Ntsako, Hina Hina Wo Ntsako, Ntsako Wa Rirhandzu, Hi Rona Leri Fumaka, Vutomi Bya Hina.",
+        "2.Kambe Yona Misava, Yi Tele Makhombo,",
+        "Hi Ta Twarisa Rirhandzu, Marito Ya Hosi",
+        "3.Yesu U Na Vutomi Nala Wa Lovisa,",
+        "Ndzita N’wi Dzunisa Yesu, Minkarhi Hinkwayo."
+      ],
+      "number": 1
+    }
+  ]
+}

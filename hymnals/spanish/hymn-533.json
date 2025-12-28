@@ -1,0 +1,27 @@
+{
+  "number": 533,
+  "language": "es",
+  "title": "Cuán bueno y agradable",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cuán bueno y agradable"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Cuán bueno y agradable,",
+        "ver a hermanos juntos!",
+        "¡Cuán bueno y agradable,",
+        "ver a hermanos juntos!",
+        "Siempre unidos,",
+        "todos en armonía,",
+        "los hermanos en fraternal unión."
+      ],
+      "number": 2
+    }
+  ]
+}

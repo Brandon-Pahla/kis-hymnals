@@ -1,0 +1,27 @@
+{
+  "number": 154,
+  "language": "fr",
+  "title": "Magnifique est le Seigneur",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Magnifique est le Seigneur,",
+        "Car il s’est tourné vers moi.",
+        "Sa louange est en mon cœur :",
+        "Alléluia, alléluia !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que puissance, gloire, honneur",
+        "Soient à Dieu en qui je crois ;",
+        "Il est mon libérateur,",
+        "Alléluia, alléluia !"
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "number": 570,
+  "language": "es",
+  "title": "Voluntario del Señor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Voluntario del Señor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Voluntario del Señor,",
+        "listo a servir,",
+        "a llevar el evangelio",
+        "do me toque ir."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Voluntad, voluntad,",
+        "Cristo me pidió.",
+        "Voluntad, voluntad,",
+        "eso ofrezco yo;",
+        "para Cristo quiero ser",
+        "fiel trabajador,",
+        "misionero voluntario",
+        "para el Salvador."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En su viña quiero obrar",
+        "y ocupado estar,",
+        "mientras intercede Cristo",
+        "presto a salvar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando venga el Señor,",
+        "él me premiará,",
+        "y su tierna voz: \"Bien hecho",
+        "siervo fiel\", dirá."
+      ],
+      "number": 5
+    }
+  ]
+}

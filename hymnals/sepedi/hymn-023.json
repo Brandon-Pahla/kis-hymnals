@@ -1,0 +1,67 @@
+{
+  "number": 23,
+  "language": "nso",
+  "title": " 23 NTLATŠE GONA BJALE.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 23 NTLATŠE GONA BJALE",
+        "AH 152 CH 212",
+        "HOVER O'ER ME, HOLY SPIRIT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moya o mokgethwa,",
+        "Hlatšwa pelo e tshogilego,",
+        "Ntlatše ka bogona bja Gago,",
+        "Etla o ntlatše gona bjale,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "O ntlatše bjale hle,",
+        "Jeso tla o ntlatše bjale,",
+        "Ntlatše ka bogona bja Gago,",
+        "Etla o ntlatše gona bjale;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moya o bonolo o ka ntlata,",
+        "Ga ke tsebe bjang,",
+        "Gomme ke hloka wena ka kudu,",
+        "Tla o ntlatše bjale;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tletše bofokodi,",
+        "Maotong a makgethwa,",
+        "Moya o Segofaditšwe,",
+        "Ntlatše lerato gona bjale,"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nhlatšwe, nkhomotše,",
+        "mphološe, O hlatšwe pelo ya ka,",
+        "O a homotša, O a phološa,",
+        "O a ntlatša le bjale;"
+      ],
+      "number": 6
+    }
+  ]
+}

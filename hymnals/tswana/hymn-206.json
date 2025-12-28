@@ -1,0 +1,37 @@
+{
+  "number": 206,
+  "language": "tn",
+  "title": "206 Ke Go Swetse Wena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Go Swetse Wena, Ka Tsholola Madi,",
+        "Gore O bolokwe, O rudis’we losong,",
+        "Ka go ineela botshelo, Wena O mphile eng?",
+        "Ka go ineela botshelo, Wena O mphile eng?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tlung Ya Rara Seding, Kgalalelo Ya Me,",
+        "Di saletse fifi, Batho ba timetseng;",
+        "Ke di tlogeletse wena, O ntlogeletse eng?",
+        "Ke di tlogeletse wena, O ntlogeletse eng?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka Bogela Wena, Go Gaisa Puo,",
+        "Mo kutlong botlhoko, Go go ntsha mo phupung,",
+        "Ke go belegetse tsotlhe, O mpelegetse eng?",
+        "Ke go belegetse tsotlhe, O mpelegetse eng?"
+      ],
+      "number": 3
+    }
+  ]
+}

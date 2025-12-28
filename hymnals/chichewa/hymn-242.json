@@ -1,0 +1,28 @@
+{
+  "number": 242,
+  "language": "ny",
+  "title": "242 - Codala Cikondi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BLEST BE THE TIE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Codala cikondi, Cotiyanjanitsa!",
+        "Ciyanjano ca akristu, Cifana ca mwamba.",
+        "2. Pa mpando, wa Mlungu, Wathu tipemphera;",
+        "Tisowa cinthu cimodzi, Cotisangalatsa.",
+        "3. Timathandizana, Akatundu athu;",
+        "Timalirirana tonse, M’zobvuta zathuzo.",
+        "4. Tikalekanatu, Timanva cisoni;",
+        "Tiyembekezerebetu, Kudzakomananso."
+      ],
+      "number": 2
+    }
+  ]
+}

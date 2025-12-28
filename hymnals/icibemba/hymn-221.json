@@ -1,0 +1,29 @@
+{
+  "number": 221,
+  "language": "bem",
+  "title": "221 - GALILE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "GALILEE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kalelila ... Koni kakwe ... Icungulo ... Icapalwa ...",
+        "Cilelanga ... Bumushilo .... Ndefuluka ... Ku Galile ...",
+        "CHORUS:",
+        "O Galile, Waliwama, uko Yesu Atemenwe,",
+        "O Galile. Waliwama, Imba ulwimbo kuli 'ne.",
+        "2. Mu mukonko ... wa maluba .. Emo fyuni ... Fimbe nyimbo ...",
+        "Ulucelo ... Fileimba ... Kulumbanya ... O Galile ...",
+        "3. Lyombelenga ... shiwi lyakwe ... , Fyaendele ... Pa cimana ...",
+        "Ndefwaisha ... Ukwishiba ... Kumukonka ... Ku Galile ..."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 298,
+  "language": "sn",
+  "title": "298 Handichina Nechangu, Zvese Ngezvenyu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Inguva inorwadza, Zvakadini yeurombo",
+        "Apo ndati kuna Jesu, Zvese zvese ndezvangu",
+        "Hapana nechenyuba, Zvese zvese ndezvangu",
+        "Apo ndati kuna Jesu, Hapana nechenyuba"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asi’ ye akandiwana, Ndakam’vona pamuti",
+        "Nemwoyo wangu ukati, Zvino zvimwe ndezvangu",
+        "Nezvimwevo ndezvako, Zvino zvimwe ndezvangu",
+        "Nemwoyo wangu ukati, Nezvimwe ndezvako"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Misi yose mutsa wake, Unondibatsira, wondipfavisa",
+        "Ndichiti zvangu zvova zvishoma, Zvako zvova zvizhinji",
+        "Zvangu zvava zvishoma, Wondipfavisa ndichiti",
+        "Zvako zvava zvizhinji"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rudo rwenyu rwakakwira, Nekudzama kupinda",
+        "Nyanza nedenga zvino-ka, Handichina nechangu",
+        "Zvese zvazova zvenyu, Handichina nechangu",
+        "Zvese zvazova zvenyu, Tenzi rudo rwakurira"
+      ],
+      "number": 4
+    }
+  ]
+}

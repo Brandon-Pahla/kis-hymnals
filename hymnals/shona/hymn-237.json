@@ -1,0 +1,41 @@
+{
+  "number": 237,
+  "language": "sn",
+  "title": "237 Simukiranyi Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Simukiranyi Jesu, Warwi wem’chinjiko",
+        "Musimudze mureza, Musingaurasi",
+        "Mukunde nekukunda, Achitungamira",
+        "Mhandu dzese dzitize, Kristu iye Tenzi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Simukirayi Jesu, Wadainzwa uya",
+        "Pindayi mukukana, Nemusi wembiri",
+        "Warume m’musandiire, Kukana nemhandu",
+        "Singayi mudambudzo, Murwise nesimba"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Simukirayi Jesu, Vimba simba rakeHondo ichakukunda, UsazvisimbireChipfekayi vhangeri, Namata urindeWodanwa kudambudzo, Usazoshayikwe"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Simukirayi Jesu, Hondo ichaperaKune mhere yehondo, TichazokuriraKune achakurira, Opiwa chirembaAchatonga naMambo, Nekusingaperi"
+      ],
+      "number": 4
+    }
+  ]
+}

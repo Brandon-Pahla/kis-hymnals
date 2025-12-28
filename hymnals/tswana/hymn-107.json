@@ -1,0 +1,44 @@
+{
+  "number": 107,
+  "language": "tn",
+  "title": "107 Mpolelelang Kaga Jeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mpolelelang Kaga Jeso, Kwalang Mo Pelong Ya Me,",
+        "Lo mpolelele mafoko A Monate g’utluwa.",
+        "Mpolelelang ka ba’ngele, B’opelela go tsalwa,",
+        "Kgalalelo go Modimo, kagiso mo lefatshing."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mpolelelang kaga Jeso Kwalang mo pelong ya me.",
+        "Lo mpolelele mafoko A monate g’utluwa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Ila Dijo Mo Nageng, Bolela Malatsi Ao,",
+        "A raelelwa be tsa rona, Mme A fenya bofelong.",
+        "Bolela ngwaga tsa tiro, Bolela bofutsana,",
+        "A nyadiwa a bogis’wa, A sena gae A ganwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bolela Mokgoro Wa Gwe, Botlhokung Le Ditlhabing,",
+        "Bolela ka phupu ya Gwe; Kafa O tshelang gape,",
+        "Lorato lo lo bonolo, Ke lo bona sentle-ntle;",
+        "Mma ke lele fa O seba, Lorato lo ntueletse."
+      ],
+      "number": 3
+    }
+  ]
+}

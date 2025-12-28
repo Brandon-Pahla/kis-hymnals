@@ -1,0 +1,46 @@
+{
+  "number": 112,
+  "language": "en",
+  "title": "112 Life In A Look.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "There’s life in a look at the sacred cross,",
+        "Jesus has said, “Look unto me;”",
+        "Earth with its riches is only dross,",
+        "Bright treasures beyond in the cross I see."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "In a look…. there’s life for thee,",
+        "In a look…… at Calvary,",
+        "Blessed thought,…… salvation free,",
+        "By a look…… at Calvary."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "When first to the Saviour I raised my eyes,",
+        "Sweet was the smile that fell on me;",
+        "Oft as the clouds of temptation rise,",
+        "A look at the cross still my strength shall be."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I’ll look to the cross ev’ry day and hour,",
+        "Trusting the promise God has given;",
+        "None ever fall neath the tempter’s power,",
+        "Who trust and obey in the strength of Heaven."
+      ],
+      "number": 3
+    }
+  ]
+}

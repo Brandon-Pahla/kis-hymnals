@@ -1,0 +1,47 @@
+{
+  "number": 186,
+  "language": "sn",
+  "title": "186 Ishe Taungana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi taungana",
+        "Muno mumba yenyu",
+        "Uyanyowo zwotapinda",
+        "Mumba yenyu tswene"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iyo mwoyo yedu",
+        "Inokuchemera",
+        "Nawo mweya wedu uyu",
+        "Unokuchemera"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kukudza kwenyu",
+        "Baba tinokunzwa",
+        "Kuzarurwa inzwi renyu",
+        "Nemwi timunzweyi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mutigadzirire",
+        "Isu vanhu venyu",
+        "Kana tichifa tidzoke",
+        "Muvu iro renyu"
+      ],
+      "number": 4
+    }
+  ]
+}

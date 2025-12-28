@@ -1,0 +1,54 @@
+{
+  "number": 245,
+  "language": "st",
+  "title": "245 Ha Ho Lebitso Le Leng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ho teng lebitso le leng le ts’oanang e la Jesu,",
+        "Ke thabo ea mangeloi le mokreste lefats’eng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Bitso. . . le letle. . . haho teng le ekang lona,",
+        "Bitso. . . le letle . . . haho teng le ekang lona."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ho teng le kang la Jesu ha pelo e soabile,",
+        "Ha ho teng le kang la Jesu ha pelo e thabile."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke na le ts’epo ho ’Mona, mohlang a hlaha khanyeng,",
+        "Ke Mo shebe ka ts’epo A nkhotsofatse le moeeng"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O batla hore ke etse, kamehla ts’imong ea Hae,",
+        "Ho hotle joale ha Jesu A ntlhohonolofatsa"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha A rata hore lefu le ame ’mele oo shoang;",
+        "Ho hotle joale ha Jesu, E le Eena ts’epo."
+      ],
+      "number": 5
+    }
+  ]
+}

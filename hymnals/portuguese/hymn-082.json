@@ -1,0 +1,56 @@
+{
+  "number": 82,
+  "language": "pt",
+  "title": "Aleluia, Glória a Cristo!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Aleluia, Glória a Cristo!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aleluia! Glória a Cristo!",
+        "Glória ao Rei e Vencedor!",
+        "Aleluia! Exaltemos",
+        "Seu poder e grande amor!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Honras demos ao fiel Senhor,",
+        "Glorioso Deus, capaz.",
+        "Cristo deu na cruz a vida;",
+        "Glória ao príncipe da paz!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, cantemos co'alegria,",
+        "Pois do Céu desceu Jesus!",
+        "Aleluia! Adoremos,",
+        "Com fervor, ao Rei da luz!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Toda graça vem do alto",
+        "Pra salvar o pecador!",
+        "Aleluia! Glória a Cristo!",
+        "Glória ao Rei e Salvador!"
+      ],
+      "number": 5
+    }
+  ]
+}

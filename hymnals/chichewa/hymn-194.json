@@ -1,0 +1,61 @@
+{
+  "number": 194,
+  "language": "ny",
+  "title": "194 - Pakakhala Chikondi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LOVE AT HOME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Pakakhala chikondi, Banja likondwa;",
+        "Pakakhala chimwemwe, Banja likondwa.",
+        "Mtendere ukhalitsa, Masiku awo onse;",
+        "Akhala mu mtendere, Akakondana."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Chikondi m’banjamo;",
+        "Akhala mu mtendere, Akakondana."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. M’nyumba muli chimwemwe, Akakondana;",
+        "Mulibenso madano, Akakondana.",
+        "Ana onse akondwa, Namveranso makolo;",
+        "Moyo wao ukondwa, Akakondana."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mulungu akondwera, Akakondana;",
+        "Dziko lonse likoma, Akakondana.",
+        "Zonse zowazingazo, Zimawakondweretsa;",
+        "Mulungu akondwera, Akakondana."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Yesu mndilandire ’ne, Ndidzakondadi;",
+        "Munandifera ine, Ndidzakondadi.",
+        "Ndidzapumula ndithu, Wopanda nkhawa konse;",
+        "Mwa chifundo chanucho, Ndidzakondwadi."
+      ],
+      "number": 5
+    }
+  ]
+}

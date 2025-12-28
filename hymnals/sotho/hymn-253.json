@@ -1,0 +1,31 @@
+{
+  "number": 253,
+  "language": "st",
+  "title": "253 O Bitsa Likonyana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Molisa oa Iseraele, O eme oa bitsa,",
+        "Utloang o bitsa konyana, me oa li sikara."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O re: \\\"Le ba le seng ba tle, Le se ba thibele,",
+        "Hobane Moren’o tletse le ho ba pholosa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena re ba tlisitse, Bana ka teboho!",
+        "Ke ka thabo re leng ba Hao, Le bona ke ba Hau"
+      ],
+      "number": 3
+    }
+  ]
+}

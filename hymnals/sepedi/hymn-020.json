@@ -1,0 +1,56 @@
+{
+  "number": 20,
+  "language": "nso",
+  "title": " 20 TSOGA KGOTHALA ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 20 TSOGA KGOTHALA",
+        "AH 323 CH 355",
+        "AWAKE, MY SOUL"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsoga kgothala moy",
+        "'a ka O ko tšwele pele;",
+        "Ba sebotša legodimong;",
+        "Mphapahlogo ruri."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke 'ntšu la ya Legodimong,",
+        "Leo le go bitšago",
+        "Le ne moputso wa Gagwe,",
+        "Go eo a kgothetseng,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leru la ba go hlatsetsang,",
+        "Le go bokanetse,",
+        "Lebala ka te fetileng,",
+        "Kodumela pele."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mophološi ke mothomi,",
+        "wa lebelo lekhwi,",
+        "Re tlo bea naong tša 'Gwe,",
+        "Meputso ya rena;"
+      ],
+      "number": 5
+    }
+  ]
+}

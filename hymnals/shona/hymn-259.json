@@ -1,0 +1,55 @@
+{
+  "number": 259,
+  "language": "sn",
+  "title": "259 Tichasangana Mhiri Kwe Rwizi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tichasangana parwizi, Uko kusina bopoto?",
+        "Kune kupenya narini, Nerufaro rwemweya"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tichazosangana, mhiriyo kweuru rwizi",
+        "Uko kusina dambudzo, Tosanganayo here?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tosangana pachitsuwa, Apo mhepo yazopera",
+        "Tosangana nerufaro, Pamahombekombeyo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tozosangana kumusha, Kwazara nekupenya",
+        "Kwakavakwa nematombo, Nezvinokosha"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tozosangana naTenzi, Apo achauya pano?",
+        "Tingazive rudo rwake, Nekuzogara naye"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tichazosangana, mhiriyo kweuru rwizi",
+        "Uko kusina dambudzo, Tosanganayo here?"
+      ],
+      "number": 6
+    }
+  ]
+}

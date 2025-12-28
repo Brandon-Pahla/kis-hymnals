@@ -1,0 +1,46 @@
+{
+  "number": 1,
+  "language": "xh",
+  "title": "1 Vuthelani Ixilongo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mlindi, vuthel’ ixilongo, Banike isiyalo;",
+        "Lowo uvayo indaba, Angaguquk’ aphile."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mlindi, khalis’ ixilongo, Likhalise kakhulu;",
+        "u-Thixo uthi, \"khalisa\"! Banga philiswa bonke."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Likhalise entabeni, Kuyo yonke indawo;",
+        "Base lwandle mememzani, Indaba yokuphila."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Limemeze endleleni, Endaweni emnyama;",
+        "Nitsho \"Zinto zilungile, uBaw’ usilindile.\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xelela abasindwayo, Abanwenel’ uYesu;",
+        "Isimemo so-Msindisi Sithi, \"Yizani kumi.\""
+      ],
+      "number": 4
+    }
+  ]
+}

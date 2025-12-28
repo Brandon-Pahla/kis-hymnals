@@ -1,0 +1,57 @@
+{
+  "number": 179,
+  "language": "sn",
+  "title": "179 Hona Mukwambo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Warindira here m’kwambo ouya ouya",
+        "Warindira here m’kwambo ouya ouya",
+        "Ona ouya Ona ouya",
+        "Pfeka urindire m’kwambo o’ya"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ona mukwambo ouya, ouya",
+        "Ona mukwambo ouya, ouya",
+        "Ona ouya, Ona ouya!",
+        "Pfeka urinde mukwambo o’ya"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mwenje yenyu ngaipfute ouya, ouya",
+        "Mwenje yenyu ngaipfute ouya, ouyA",
+        "Ona anouya nekukasika",
+        "O mweya rinda m’kwambo ouya"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tese tichazondo muchingamidza, ouya",
+        "Tese tichazondo muchingamidza, ouya",
+        "Idi ouya, idi ouya",
+        "Tinozomuchingamidza ouya"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tichaimba Hareruya ouya",
+        "Tichaimba Hareruya ouya",
+        "Ona ouya, Ona ouya",
+        "Imba Hareruya m’kwambo o’ya"
+      ],
+      "number": 5
+    }
+  ]
+}

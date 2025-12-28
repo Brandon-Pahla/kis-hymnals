@@ -1,0 +1,55 @@
+{
+  "number": 212,
+  "language": "tw",
+  "title": "B're Adu Sɛ Awurade Ba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mete sɛ nk'rɔfo ka;",
+        "ɔs'ro ns'romma han no redum",
+        "Ͻyɛ adekyee na ɛrepue."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O ɛyɛ adekyee na ɛrepue!",
+        "O ɛyɛ adekyee na ɛrepue!",
+        "'Desae rekɔ awiei, 'dekyee afi ase;",
+        "O ɛyɛ adekyee na ɛrepue!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnky'rɛnne a aba 'wia ne 'sram,",
+        "'Sase ne po ne s'ro",
+        "Bɔ no daw'ru ky'rɛ adasa,",
+        "Sɛ Owura no mmae no abɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B're aso sɛ ɔtwɛn asafon'",
+        "To n'ahantan gu na",
+        "Ͻsiesie ne ho fa kanea",
+        "De hwehwɛ 'dekyee a ɛrepue."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka wo ho na pue kɔ mmɔnten so",
+        "Ne akwantempɔn mu,",
+        "Se mmubuafo ne 'nif'raefo",
+        "Sɛ wɔnyɛ krado mma 'dekyee no."
+      ],
+      "number": 4
+    }
+  ]
+}

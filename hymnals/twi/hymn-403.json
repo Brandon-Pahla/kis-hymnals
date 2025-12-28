@@ -1,0 +1,45 @@
+{
+  "number": 403,
+  "language": "tw",
+  "title": "Momma Yɛmmom Nkoto",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Momma yɛmmom nkoto",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mmubu 'bodoo,",
+        "Momma yɛmmom nkoto",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mmubu 'bodoo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sɛ mibu nkotodwe",
+        "De m'anim ky'rɛ owipuei a,",
+        "Aw'rade, hu me mmɔbɔ."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Momma yɛmmom nkoto",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nnom bobesa,",
+        "Momma yɛmmom nkoto",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nnom bobesa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Momma yɛmmom nkoto",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nyi Nyamč ayɛ,",
+        "Momma yɛmmom nkoto",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nyi Nyamč ayɛ."
+      ],
+      "number": 3
+    }
+  ]
+}

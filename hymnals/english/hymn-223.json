@@ -1,0 +1,66 @@
+{
+  "number": 223,
+  "language": "en",
+  "title": "223 Follow All The Way.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I can hear my Saviour calling,",
+        "In the tend’rest accents calling;",
+        "On my ear these words are falling,",
+        "Come and follow, daily follow me."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "I will take my cross and follow,",
+        "My dear Saviour I will follow;",
+        "Where he leads I will follow,",
+        "I’ll go with him, with him all the way."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Though the way be dark and dreary,",
+        "Though my feet be worn and weary;",
+        "Yet my heart keeps bright and cheery,",
+        "As I follow, follow all the way."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus, ever go before me,",
+        "Shining heaven’s sunlight o’er me,",
+        "And when weak, by grace restore me,",
+        "As I follow, follow all the way."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Through the valley safely lead me,",
+        "Heav’nly manna daily feed me;",
+        "Every hour, dear Lord, I need thee,",
+        "As I follow, follow all the way."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "In thy heart’s affection hold me,",
+        "In thy arms of love enfold me;",
+        "And with thine own grace uphold me,",
+        "As I follow, follow all the way."
+      ],
+      "number": 5
+    }
+  ]
+}

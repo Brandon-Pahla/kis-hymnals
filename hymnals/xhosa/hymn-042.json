@@ -1,0 +1,38 @@
+{
+  "number": 42,
+  "language": "xh",
+  "title": "42 Asisoze Sahlukane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Xa sihlangana nezihlobo Kukho ukuvuya;",
+        "Kusinik’ usizi kakhulu Xa se zizakumka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Akwahlukwana phezulu, Babonana njalo;",
+        "Kulo mhlaba mhle wovuyo ’Soze kwahlukwane."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Siya kuvuya xa sibona Abakuthi apha;",
+        "Koko sisa khalela lona Izwe lokuvuya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amazwi athi \"Sala kuhle\" Akathethwa khona;",
+        "Koko ingoma ezingcwele Ziya vunywa khona."
+      ],
+      "number": 3
+    }
+  ]
+}

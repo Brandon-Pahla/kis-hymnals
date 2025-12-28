@@ -1,0 +1,37 @@
+{
+  "number": 187,
+  "language": "en",
+  "title": "187 Our Parting Hymn.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Saviour, again to thy dear name we raise,",
+        "With one accord our parting hymn of praise;",
+        "We stand to bless thee ere our worship cease,",
+        "Thee, lowly kneeling, wait thy word of peace."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Grant us thy peace upon our homeward way;",
+        "With thee began, with thee shall end the day;",
+        "Guard thou the lips from sin, the heart from shame,",
+        "That in this house have called upon thy name."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Grant us thy peace thro’-out our early life,",
+        "Our balm in sorrow, and our stay in strife,",
+        "Then when thy voice shall bid our conflict cease,",
+        "Call us, O Lord, to thine eternal peace."
+      ],
+      "number": 3
+    }
+  ]
+}

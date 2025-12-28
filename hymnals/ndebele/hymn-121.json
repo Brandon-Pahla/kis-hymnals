@@ -1,0 +1,47 @@
+{
+  "number": 121,
+  "language": "nd",
+  "title": "121 Ngocula Ngothando",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngocula ngaY’ uJesu Ngothando wangithanda",
+        "Washiya lon’ izulu Wafa eKalvari"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngocula ngaY’ uJesu, Ngi cule ngi mukhethe",
+        "Wafa ngi ze ngi phile, Ngocula ngob’eng’thanda"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phambi ko-ba ngi khale uJesu wang’ khalela",
+        "Phambi ko-bang’ thandaze uJesu wang’ nxusela"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lunzul’ uthando lwAkhe Umhlaba u ngel’ qonde",
+        "Nezono zam’ ezimbi Zenziwe zabamhlophe"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akukho kim’ okuhle, uJesu wangithanda",
+        "Jehova ngamukele Ngi size ngi ku thande"
+      ],
+      "number": 5
+    }
+  ]
+}

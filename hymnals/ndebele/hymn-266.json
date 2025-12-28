@@ -1,0 +1,47 @@
+{
+  "number": 266,
+  "language": "nd",
+  "title": "266 Ngokulandela Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngokulandela Jesu",
+        "Ngizwa usangibiza",
+        "Ngokwethemba ngiyeza",
+        "Ngiy’ ekhaya ‘khulu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngokulandela",
+        "Ngokulandela",
+        "Ngokulandela",
+        "Noba ungisaphi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amehlo angaduka",
+        "Nenyawo zishelele",
+        "Ngingahle ngikhathale",
+        "Wena unamandla"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Usizi luyisitha",
+        "Izono zivimbile",
+        "Is’bindi siqinile",
+        "Ngilandela Wena"
+      ],
+      "number": 4
+    }
+  ]
+}

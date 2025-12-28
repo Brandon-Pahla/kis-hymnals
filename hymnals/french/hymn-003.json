@@ -1,0 +1,40 @@
+{
+  "number": 3,
+  "language": "fr",
+  "title": "Il est tant de beautés",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Il est tant de beautés en ce monde,",
+        "Merveilles qui s'offrent à moi!",
+        "Mais je sais, mon Seigneur, que rien n'égalera",
+        "Le grand amour qui me vient de toi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Rien ne me séparera,",
+        "Mon Seigneur et mon Roi,",
+        "De l'amour que tu as pour moi.",
+        "Rien ne me séparera,",
+        "Mon Seigneur et mon Roi,",
+        "De l'amour que tu as pour moi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ni la mort, ni la vie, ni les ombres,",
+        "Non rien ne t'éloigne de moi.",
+        "Ton amour généreux qui me suit pas à pas",
+        "Me libère et me montre la voie."
+      ],
+      "number": 3
+    }
+  ]
+}

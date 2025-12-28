@@ -1,0 +1,39 @@
+{
+  "number": 94,
+  "language": "tn",
+  "title": "94 Ke Sekole Sa Sabata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Sekole Sa Sabata: Se Se Ntle Bogolo,",
+        "Pelo ya me ya itumela, Gaeng ja Sabata."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sabata... (montle) Yo sego;....(Montle)...",
+        "Sabata... (montle) Yo sego;....(Montle)...",
+        "Pelo ya me ya itumela, Gaeng ja Sabata."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Fano Ke Simolotseng, Go Bona Botshelo;",
+        "Fano ka senka se sentle, Ke gae ja Sabata."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fano Jeso Ka Lorato, A Mpiletsa Go Tla,",
+        "Mme ke Mo itlhaolele, Gaeng je ja Sabata."
+      ],
+      "number": 3
+    }
+  ]
+}

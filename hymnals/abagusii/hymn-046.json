@@ -1,0 +1,35 @@
+{
+  "number": 46,
+  "language": "guz",
+  "title": "46 Nkoro Nere N'Omogoko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nkoro nere n'omogoko;Gankomotogi' OmoneneNing' orabotogie rende;Obwanchani 'obo bw' ogokumia?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Obwanchani bw'ogokumiaBw'ogokumia bwa YesoObwanchani, bw'ogokumiaBw'ogokumia bwa Yeso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nere okong'a' mogoko;Omorembe Oborabu'Riogo 'nguru ase enkoro;Obwanchani' obobw' ogokumia."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Onyigwe gankorangeria;Onyimokie, 'kero nkogwa'S'obogima, nas'ogokwa;N'obwanchani 'obo bw' ogokumia."
+      ],
+      "number": 4
+    }
+  ]
+}

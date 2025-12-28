@@ -1,0 +1,53 @@
+{
+  "number": 16,
+  "language": "es",
+  "title": "A nuestro Padre Dios",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A nuestro Padre Dios"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A nuestro Padre Dios",
+        "alcemos nuestra voz.",
+        "¡Gloria a él!",
+        "Tal fue su amor que dio",
+        "al Hijo que murió,",
+        "en quien confío yo.",
+        "¡Gloria a él!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A nuestro Salvador",
+        "demos con fe loor.",
+        "¡Gloria a él!",
+        "Su sangre derramó;",
+        "con ella me lavó;",
+        "y el cielo me abrió.",
+        "¡Gloria a él!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Espíritu de Dios,",
+        "elevo a ti mi voz.",
+        "¡Gloria a ti!",
+        "Con celestial fulgor",
+        "me muestras el amor",
+        "de Cristo, mi Señor.",
+        "¡Gloria a ti!"
+      ],
+      "number": 4
+    }
+  ]
+}

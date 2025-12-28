@@ -1,0 +1,35 @@
+{
+  "number": 8,
+  "language": "bem",
+  "title": "8 - APO IPENGA LYA MFUMU LIKAPELELEKESHA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHEN THE TRUMPET"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Apo ipenga lya Mfumu likapelelekesha,",
+        "Apo bukaca no lubuto tutu;",
+        "Apo abasalwa bakaya longana pe shilya,",
+        "Apwe penga likalila nkabako",
+        "CHORUS:",
+        "Apwe pe 'nga likeli-la, Apwe pe-nga likali-la,",
+        "Apwe pe-nga likali-la, Apwe penga likalila nkabako",
+        "2. Muli ilya nshita lintu basuma bakabuka",
+        "Lintu basuma bonse bakabuka;",
+        "Apo abasalwa bakaya longana pe shilya,",
+        "Apwe penga likalila nkabako.",
+        "3. Aleni tulebombela Shikulwifwe nshiku pe,",
+        "Tulelanda ifya kutemwa kwakwe;",
+        "Elyo lintu imilimo yesu yonse ikapwa,",
+        "Apwe penga likalila nkabako"
+      ],
+      "number": 2
+    }
+  ]
+}

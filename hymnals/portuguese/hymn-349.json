@@ -1,0 +1,56 @@
+{
+  "number": 349,
+  "language": "pt",
+  "title": "Consolação",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Consolação"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que consolação tem meu coração,",
+        "Descansando no poder de Deus!",
+        "Sigo com prazer neste meu viver,",
+        "Descansando no poder de Deus."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Descansando",
+        "Nos eternos braços do meu Deus,",
+        "Vou seguro",
+        "Descansando no poder de Deus."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sempre avante vou, bem markdowne estou,",
+        "Descansando no poder de Deus.",
+        "Sinto a grande paz que me satisfaz,",
+        "Descansando no poder de Deus."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lutas hei de ter, mas hei de vencer,",
+        "Descansando no poder de Deus.",
+        "Não terei temor, onde quer que for,",
+        "Descansando no poder de Deus."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "number": 93,
+  "language": "ny",
+  "title": "93 - Sabata Nla Kupuma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O DAY OF REST AND GLADNESS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Sabata nla kupuma, Ndi la chimwemwecho,",
+        "Ndi tsiku lotonthoza, Lokometsetsatu;",
+        "Akulu ndi ang’ono, Tigwade tonsefe,",
+        "Tiyimbe kwa Woyera Wa nthawi zonsezo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Sabata lili ngati Chotchinjiriza ’fe,",
+        "Ndi monga ngati munda Wotupa mdambomo;",
+        "Litsitsimutsa m’yoyo Ya akutopawo,",
+        "Popuma pa Sabata Tiona mwambamo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi tsiku lakusinkha, Ndi la chikondicho,",
+        "Lakuyanjana nazo Za mwambamwambamo;",
+        "Tipeze zakukoma Zoposa zinazo,",
+        "Tifuna kupumula Kosatha mwambamo."
+      ],
+      "number": 4
+    }
+  ]
+}

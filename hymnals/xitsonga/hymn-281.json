@@ -1,0 +1,22 @@
+{
+  "number": 281,
+  "language": "ts",
+  "title": "281. KU VANGAMA KA YO NYELETI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A BEAUTIFUL STAR",
+        "1. Ku Vangama Ka Yo Nyeleti, Handzula Nguvu Ya Vusiku;",
+        "Ku Kombeta Tintlharhi Tshama, La Yesu A Tswariweke.",
+        "CHORUS",
+        "Tintshaveni, Magoveni, Vangama Wena Nyeleti; Vonakarisa Namuntlha, Vukulu Bya Nsovo.",
+        "2. Ntiyiso Wa Rito Ra Hosi, Wu Ti Byerile To Tintlharhi, Hi Ta Nyelelti Ya Vurhonga,",
+        "Ya Loya A Tswariweke.",
+        "3. Ya Voninga Tanihi Khale, Rivoningo Ra Le Misaven;",
+        "Hi Ta Fika Kaya Tilweni, Loko Hi Ri Sala Ndzhaku."
+      ],
+      "number": 1
+    }
+  ]
+}

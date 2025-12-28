@@ -1,0 +1,64 @@
+{
+  "number": 272,
+  "language": "ve",
+  "title": "272. Posa Ludzi Lwa Vhutshilo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:349"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Posa ludzi-vhutshilo swiswini",
+        "Hune munwe a toda u tshidzwa",
+        "O! Murathu u do vha e nnyi-ha?",
+        "U funa u vhavhalela vhanwe-vho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Posa ludzi lu re lwa vhutshilo",
+        "Posa ludzi vhutshilo",
+        "Hu na a tuwelaho kulesa",
+        "Posa ludzi a tshile."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Posa ludzi lwa vhutshilo zwino",
+        "U lengelani, litsha vhukata",
+        "tavhanya u a mbwandamela zwino",
+        "Shavhai-ha nga gungwa la vhutshilo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Posa ludzi, vha bvise kha khombo",
+        "Vha nuvhelaho hu sa yi muthu.",
+        "Milingo na mikosi ya khombo",
+        "Zwi do kumba vha re swiswini vhothe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tshifhinga tsha u tshidzwa tsho fhira",
+        "Hu si kale vha do swika haya",
+        "tavhanya khonani u si lenge",
+        "Posa ludzi vha tshile namusi."
+      ],
+      "number": 5
+    }
+  ]
+}

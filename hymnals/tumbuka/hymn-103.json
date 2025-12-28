@@ -1,0 +1,56 @@
+{
+  "number": 103,
+  "language": "tum",
+  "title": " 103 Ukababikeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 103 Ukababikeso",
+        "YE MUST BE BORN AGAIN"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mlara yunji wakiza kwa Yesu,",
+        "Kufumba za nthowa ya chiponosko,",
+        "Fumu yithu yikam zgora pakweru,",
+        "Ukababikeso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ukababikeso, ukababikeso,",
+        "Inya nadi nkhukuphaLira iwe,",
+        "Ukababikeso."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mose mpulike mazgu gha Fumu,",
+        "Agho iyo yikayowoya nayo,",
+        "Mazgu agha ghangawanga pawaka,",
+        "Ukababikeso."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Kasi wamunjira kura kuchanya?",
+        "Kukimba pamo na wakuwombokwa?",
+        "Kuhara umoyo wam' yirayıra,",
+        "Ukababikeso."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "number": 203,
+  "language": "tum",
+  "title": " 203 Tandazgani Mazgu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 203 Tandazgani Mazgu",
+        "THE COMFORTER HAS COME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Tandazgani mazgu uko kuli munthu,",
+        "Wamtima uheni ndiposo masuzgo,",
+        "Mkhristu wali yose wapharazge kuti,",
+        "Msanguruski wiza."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Msanguruski wiza, Msanguruski wiza,",
+        "Mzimu wakuchanya phangano La Fumu,",
+        "Tandazgani mazgu uko kuLi munthu,",
+        "Msanguruski wiza."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Usiku waruta mulenji wafika,",
+        "Kuchimbizga wofi na kutengera 'mwe,",
+        "Ndipo pa mapiri zuwa likukwera,",
+        "Msanguruski wiza."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Themba la nkhongono la mathemba ghose,",
+        "Likutiwombola m'mauzima ghithu,",
+        "Ntheura tikwimba sumu zakupinga,",
+        "Msanguruski wiza."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Ndingayowoyachi za chitemwa Chinu,",
+        "Ku wanthu wa m'charu za uchizi winu,",
+        "Ine ndamuheni ndime m'malo mwinu,",
+        "Msanguruski wiza."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "Timbe tikowere m'chanya muzomere,",
+        "Watuwa kuchanya wa m'charu wazgore,",
+        "Kwimba za chitemwa musumu yandanda,",
+        "Msanguruski wiza."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 221,
+  "language": "tw",
+  "title": "Di Dɛw, 'W'rade Yɛ Hen'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Di dɛw, 'W'rade yɛ Hen'!",
+        "Kamfo wo Hen' W'rade;",
+        "Da No ase, to dwom,",
+        "Na di ah'rusi daa:",
+        "Ma wo koma ne wo nne so!",
+        "Di dɛw, meka bio sɛ, di dɛw!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Gyenkwa Yesu di Hen'",
+        "Nokwar' ne dɔ Nyame;",
+        "ɔpaa yɛn bɔn' wiei no,",
+        "ɔkɔfaa N'agua no:",
+        "Ma wo koma ne wo nne so!",
+        "Di dɛw, meka bio sɛ, di dɛw!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "N'ahenni rengu da,",
+        "Odi hen' fam ne s'ro';",
+        "Owu ne asaman",
+        "Safoa wɔ Yesu nsam;",
+        "Ma wo koma ne wo nne so!",
+        "Di dɛw, meka bio sɛ, di dɛw!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Di dɛw 'nidaso mu,",
+        "Yɛn W'ra temmufo no",
+        "Bɛba 'bɛfa Ne nkoa",
+        "Akɔ wɔn daapem fie:",
+        "Ma wo koma ne wo nne so!",
+        "Di dɛw, meka bio sɛ, di dɛw!"
+      ],
+      "number": 4
+    }
+  ]
+}

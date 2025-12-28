@@ -1,0 +1,57 @@
+{
+  "number": 80,
+  "language": "en",
+  "title": "80 To The Work!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "To the work! To the work! We are servants of God,",
+        "Let us follow the path that our Master has trod;",
+        "With the word of his counsel our strength to renew,",
+        "Let us do with our might what our hands find to do"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Toiling on…… toiling on…….. toiling on",
+        "(Toiling on) (Toiling on)(Toiling on)",
+        "Toiling on……. Let us hope…….. Let us watch",
+        "(Toiling on) (And trust) (And pray)",
+        "And labor till the Master comes."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "To the work! To the work! Let the hungry be fed,",
+        "To the Fountain of Life let the weary be led;",
+        "In the cross and its banner, our glory shall be,",
+        "While we herald the tidings, ”Salvation is free.”"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "To the work! To the work! There is labor for all,",
+        "For the kingdom of darkness and error shall fall;",
+        "And the name of Jehovah exalted shall be,",
+        "In the loud swelling chorus, “Salvation is free.”"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "To the work! To the work! Preaching on to the end,",
+        "For the harvest will come, And the reapers descend;",
+        "And the home of the ransomed dwelling will be,",
+        "And our chorus forever, “Salvation is free.”"
+      ],
+      "number": 4
+    }
+  ]
+}

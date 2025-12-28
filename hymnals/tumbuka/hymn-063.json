@@ -1,0 +1,76 @@
+{
+  "number": 63,
+  "language": "tum",
+  "title": " 63 Nchichi Chinganditozga?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 63 Nchichi Chinganditozga?",
+        "WHAT CAN WASH AWAY MY SIN?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nchichi chinganditozga?",
+        "Ndi ndopa za Fumu Yesu,",
+        "Nchichi chingandichizga?",
+        "Ndi ndopa za Fumu Yesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "M'ndimba ya ndopa zo za mwana mberere,",
+        "Ntha nkhumanya m'nyake kweni ndopa zake Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nkhukhumba kusukika mu",
+        "ndopa za Yesu pera, Nditigowokereke",
+        "mu ndopa za Yesu pera."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Vyose vikuperera,",
+        "kweni ndopa zake Yesu,",
+        "Ntchito zane n'zichoko",
+        "kweni ndopa zake Yesu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Sono nditigomezge Yesu",
+        "yekha m' ndopa zake,",
+        "Viweme vyane vyose ndi",
+        "ndopa za Fumu Yesu."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "Pakurumba ndimbenge,",
+        "ndopa zake Fumu Yesu,",
+        "Nkhuwonga Fumu yane",
+        "chifukwa cha ndopa zake."
+      ],
+      "number": 6
+    }
+  ]
+}

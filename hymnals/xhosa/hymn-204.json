@@ -1,0 +1,70 @@
+{
+  "number": 204,
+  "language": "xh",
+  "title": "204 Buya Nyana Wam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "\"Kwizwe labahambi, Aph’ uyekhona,",
+        "Yiva izwi lisithi, ’Nyana wam’.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "\"Buya ke nyana wam Buyel’ ekhaya,",
+        "Ububhadule kude, Yiz’ ekhaya.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Kwilizwe lendlala, Kufa notyhafo,",
+        "Yiza eluthandweni, Nyana wam.\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Shiya konk’ ukulwa, Kubulaleka,",
+        "Usizi nentlungu, O, Nyana wam.\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Umnyang’ uvuliwe, Wena ungowam,",
+        "Ndisakulindele, O, Nyana wam.\""
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Ubhadule kude, Usahamba na?",
+        "Buya woxolelwa, O, Nyana wam.\""
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Yiza esidlweni, Akulityelwe,",
+        "Wokonwab’ uphumle, O, Nyana wam.\""
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Ushiywe zihlobo, Akunabani,",
+        "Mna ndisakuthanda, O, Nyana wam.\""
+      ],
+      "number": 7
+    }
+  ]
+}

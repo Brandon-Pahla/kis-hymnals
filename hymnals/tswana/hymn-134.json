@@ -1,0 +1,39 @@
+{
+  "number": 134,
+  "language": "tn",
+  "title": "134 Boipelong Legodimong",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Boipelong Legodimong, Ke Tsholeletsa ’Ntswe Ja Me;",
+        "Mang yo o ka opelang pako Ya lorato lwa ga Jeso?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Rato lo lo gakgamatsang; Ke ’rato lwa ga Jeso;",
+        "Rato lo lo gakgamatsang; Ke ’rato lwa ga Jeso."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Boipelo Le Kagiso, Tidimalo Le Lesedi,",
+        "Ke phodiso, le nonotsho, Lorato lo lo gakgamatsang."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Boitshwarelo Jwa Me, Ke Thuso Ya Me Fa Ke Wa;",
+        "Tshelong, losong, tsa me tsotlhe, Ke rato lo lo",
+        "gakgamatsang."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "number": 215,
+  "language": "sn",
+  "title": "215 Rinda Wakatiwira",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Musha unosimbirwayo",
+        "Umo musina urombo",
+        "Hunde, wakakomborerwa",
+        "Tozorora tese umo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rinda, rinda wakatiwira,",
+        "(rindira)",
+        "Rinda, rinda wakatiwira,",
+        "(rindira)",
+        "Rinda, rinda usingashori",
+        "(Rindira) (rindira) (usashore)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti mutoro warema",
+        "Uyo wapiwa namwari",
+        "Musha uyo unodisa",
+        "Rinda, rinda usashore"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti nzira inemhinzwa",
+        "Funga akayitakura",
+        "Kuti mwoyo watambudzwa,",
+        "NaIye wakatambudzwa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ramba wakatsungirira",
+        "Usarege kunamata",
+        "Kuzorora kwaswedera",
+        "Rinda, rinda usashore"
+      ],
+      "number": 5
+    }
+  ]
+}

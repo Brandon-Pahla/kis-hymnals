@@ -1,0 +1,54 @@
+{
+  "number": 314,
+  "language": "xh",
+  "title": "314 Ukholo Luloyiso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nijikelwe kukhanya nje, Vukani ma-Kristu,",
+        "Nilwe ngexesha lemini, Kungekabi mnyama;",
+        "Masifunze ngamandl’ onke, Silubinz’ utshaba;",
+        "Soyise, ngokholo, siyaz’ Loyis’ ihlabathi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Luyoyis’ ukholo; Luloyiso lozuko, Loyis’ ihlabathi.",
+        "Luyoyis’ ukholo!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Intshinga yaKhe luthando, Ikrele li-Lizwi,",
+        "Sisendlelen’ yabangcwele, Sihamba siduma;",
+        "Sihamba njenge-saqhwithi, Sitshayel’ umhlaba;",
+        "Ukhol’ abeyisa ngalo, Lulikhaka lethu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sibon’ utshaba macala Luphahle indlela;",
+        "Kushiyeni ukonwaba, Nibe sekulweni;",
+        "Thwalan’ isigcina-ntloko, Bhinqan’ inyaniso,",
+        "Nyathelani ningoyiki Nitsholoz’ udumo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lowo weyisa utshaba, Wotsho ngezimhlophe;",
+        "Woyiqonda lonto yena, Livunywe igama;",
+        "Az’ ahlale ekukhanyeni’, Evutha luthando;",
+        "Siya kulugxoth’ utshaba Ngegama le-Mvana."
+      ],
+      "number": 4
+    }
+  ]
+}

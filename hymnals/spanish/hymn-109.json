@@ -1,0 +1,70 @@
+{
+  "number": 109,
+  "language": "es",
+  "title": "Un buen amigo tengo yo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Un buen amigo tengo yo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Un buen amigo tengo yo,",
+        "su amor salvó mi vida;",
+        "y por su muerte gozo hoy",
+        "tal gracia inmerecida.",
+        "Y con el lazo de este amor,",
+        "que nunca se ha cortado,",
+        "seguro puedo siempre andar,",
+        "a él estoy ligado."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Un buen amigo tengo yo,",
+        "el ser me dio al crearme,",
+        "y a sí mismo se entregó",
+        "a fin de rescatarme.",
+        "Pues, cuanto tengo es todo de él,",
+        "él mismo me lo ha dado;",
+        "mi vida, fuerza y corazón,",
+        "a él le he entregado."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Un buen amigo tengo yo,",
+        "el Todopoderoso,",
+        "que quiere al fin llevarme a mí",
+        "a su hogar glorioso.",
+        "Para animar mi vida aquí,",
+        "me deja ver su gloria,",
+        "y con la ayuda que me da",
+        "yo gano la victoria."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Un buen amigo tengo yo,",
+        "tan fiel y tan amante;",
+        "mi sabio consejero es,",
+        "mi protector constante.",
+        "De quien al mundo tanto amó,",
+        "jamás podrá apartarme",
+        "ni el mundo, ni la muerte,",
+        "pues soy suyo para siempre."
+      ],
+      "number": 5
+    }
+  ]
+}

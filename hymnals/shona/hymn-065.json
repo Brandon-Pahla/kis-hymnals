@@ -1,0 +1,57 @@
+{
+  "number": 65,
+  "language": "sn",
+  "title": "65 Kunonaka Kuda Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kunonaka kuda Jesu",
+        "Kumudaira kwazvo",
+        "Kuzorora pachitsidzo",
+        "Ngekuti wakadaro"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu, Jesu, ndasimbira,",
+        "Ndakabatsirwa naYe",
+        "Jesu, Jesu anondipa,",
+        "Mwoyo kusimbirazve"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O! kunaka kuda Jesu",
+        "Ndachena neropa’ro",
+        "Ndapona ngekudaira",
+        "Kuna Muponesi’vo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hunde, zvakanaka kwazvo",
+        "Kusimbira kwaJesu",
+        "Kugashira kuna Iye",
+        "Rufaro neupenyu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinofara ndakadzidza",
+        "Kusimbira kunemwi",
+        "Ndinoziva ndichagara",
+        "Pamwe nemwi narini"
+      ],
+      "number": 5
+    }
+  ]
+}

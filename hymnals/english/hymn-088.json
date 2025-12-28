@@ -1,0 +1,55 @@
+{
+  "number": 88,
+  "language": "en",
+  "title": "88 Pass Me Not, O Gentle Saviour.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Pass me not, O gentle Saviour,",
+        "Hear my humble cry;",
+        "While on others Thou art calling,",
+        "Do not pass me by."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Saviour, Saviour, hear my humble cry,",
+        "While on others Thou art calling,",
+        "Do not pass me by."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Let me at the throne of mercy,",
+        "Find a sweet relief;",
+        "Kneeling there in deep contrition,",
+        "Help my unbelief."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Trusting only in Thy merit,",
+        "Would I seek Thy face;",
+        "Heal my wounded, broken spirit,",
+        "Save me by Thy grace."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thou the Spring of all my comfort,",
+        "More than life to me;",
+        "Whom have on earth beside thee!",
+        "Whom in heaven but Thee?"
+      ],
+      "number": 4
+    }
+  ]
+}

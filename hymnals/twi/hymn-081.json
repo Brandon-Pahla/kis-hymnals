@@ -1,0 +1,49 @@
+{
+  "number": 81,
+  "language": "tw",
+  "title": "Sɛ Mede 'Bɔfo Tɛkrɛma Kasa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ mede 'bɔfo tɛkrɛma kasa,",
+        "Mewɔ adiyi 'kyɛde,",
+        "Mikųra nimdeɛ a ahinta safoa,",
+        "Me gyidi tutu mmepɔ,",
+        "Na minni dɔ a, mensɛ hwee;",
+        "Minni dɔ a ɛyɛ kwa;",
+        "'Wura, Wode Wo nkwa som afof 'ro:",
+        "Kyerɛ me eyi ase."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Dɔ wɔ boasetɔ, ennim ahoɔyaw,",
+        "Ͻmpene bɔneyɛ so,",
+        "N'ani nnye atɛn a ɛntene ho,",
+        "Ͻpɛ sɛ nokwar' di nim.",
+        "'Dɔ abodwoky'rɛ nni awiei,",
+        "Etum' hyia sɔhwɛ biara.",
+        "'Wura, Wode Wo nkwa som afof 'ro:",
+        "Wo dom nnim a Mɛhwč ase."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nimdeɛ a ahinta, 'nisoadehun',",
+        "Ne adiyi to betwa:",
+        "Gyidi, 'nidaso ne 'dɔ tim hɔ daa,",
+        "Na ɔdɔ ne 'mu kɛse.",
+        "Sɛ minni dɔ a mensɛ hwee,",
+        "Minni dɔ a ɛyɛ kwa;",
+        "'Wura, Wode Wo nkwa som afof 'ro:",
+        "Kyerɛ me eyi ase."
+      ],
+      "number": 3
+    }
+  ]
+}

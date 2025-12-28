@@ -1,0 +1,60 @@
+{
+  "number": 296,
+  "language": "fr",
+  "title": "Le Seigneur m'aime",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Le Seigneur m'aime,",
+        "bonheur suprême,",
+        "le Seigneur m'aime,",
+        "il est amour !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Je redirai toujours :",
+        "le Seigneur m'aime,",
+        "le Seigneur m'aime,",
+        "il est amour !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le poids immense de mon offense,",
+        "le poids immense tomba sur lui."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En sacrifice à la justice,",
+        "en sacrifice il vint s'offrir."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il purifie toute ma vie,",
+        "il purifie avec son sang."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "À toi la gloire et la victoire,",
+        "à toi la gloire, Agneau de Dieu."
+      ],
+      "number": 6
+    }
+  ]
+}

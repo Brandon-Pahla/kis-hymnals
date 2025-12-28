@@ -1,0 +1,39 @@
+{
+  "number": 81,
+  "language": "sw",
+  "title": "81 - Siku Sita Zimepita",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Siku sita zimepita, Sabato tena karudi,",
+        "Shangilie roho yangu, itukuze kwa busara."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Msifuni awapaye, pumziko tamu wachovu,",
+        "Kwake roho yatulizwa, kupita siku nyingine."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Moyo wetu ufurahi, na kutoa shukurani,",
+        "Ujalizwe raha ile, yasiyopitika kamwe."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Raha hiyo ya rohoni, ni amana ya pumziko,",
+        "Ambalo limewekwa juu, kikomo cha masumbuko."
+      ]
+    }
+  ]
+}

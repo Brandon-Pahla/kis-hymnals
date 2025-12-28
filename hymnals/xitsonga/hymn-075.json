@@ -1,0 +1,23 @@
+{
+  "number": 75,
+  "language": "ts",
+  "title": "75. NDZI TWA RITO RA MURISI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HARK! ‘TIS THE SHEPHERED’S VOICE",
+        "1. Ndzi Twa Rito Ra Murisi, Leri Humaka Mananga, Ri Vitanaka Tinyimpfu,",
+        "Leti Sukeke Ntlhambini.",
+        "CHORUS",
+        "Vuyisani Tinyimpfu, Ti Humesen Vudyohwen",
+        "Vuyisan Ti Nyimpfu, Ti Vuyisen Ka Yesu.",
+        "2. I Man La Nga Ta Ya Pfuna, Ku Kuma leto Lahleka,",
+        "Ku Ti Vuyisa Ntlhambini, Ti Ta Ku Hlayisekeni?",
+        "3. Twana Ta Rila Mananga, Etitshaven To Leha,",
+        "Yingisa Rito Ra Hosi, Fambani Mi Ya Ti Teka."
+      ],
+      "number": 1
+    }
+  ]
+}

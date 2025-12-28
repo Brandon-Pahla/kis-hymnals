@@ -1,0 +1,29 @@
+{
+  "number": 38,
+  "language": "bem",
+  "title": "38 - MWE BAKWA LESA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "FIRMLY STAND FOR GOD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mwe bakwa Lesa koseni nomba, Nangu amachushyo yafulishya,",
+        "Ali libwe amupela maka, Lintu Ciwa apalama.",
+        "CHORUS:",
+        "Kaleni pa Libwe, kaleni pa Libwe, Yesu Klistu e Libwe.",
+        "\"Nga twansho bubi ci-ne tukekala, Mubufumu bwa Katula.",
+        "2. Koseni mu cine cakwa Lesa. Koseni bucetekelo bwenu;",
+        "Ali Libwe amupelo bwansho, Pali bubi pa calo.",
+        "3. Konkeni cine akafwa imwe, Nangu yalinda nshita itali;",
+        "Cine cikamupela mutende, Mu macusho ya mweo."
+      ],
+      "number": 2
+    }
+  ]
+}

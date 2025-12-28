@@ -1,0 +1,47 @@
+{
+  "number": 65,
+  "language": "st",
+  "title": "65 Ho Hotle Ho Ts’epa Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ho hotle ho ts’epa Jesu, Ho utloa lentsoe la Hae;",
+        "Le ho boloka ts’episo, Ho rialo Morena."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu, Jesu, ke ea mo ts’epa, Ke Mo lekile hohle;",
+        "Jesu, Jesu, ea molemo, ruri ke ts’epa Uena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ho monate ho mo ts’epa, Ho ts’epa mali a Hae;",
+        "Ka tumelo ho ntlhoekisa, maling a Hae a matle."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E ho hotle ho mo ts’epa, Ho tela libe tsohle;",
+        "Ho Jesu ho ikukela, Bophelo thabo khotso."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke thabetse ho mo ts’epa, Ho tela libe tsohe,",
+        "’Me kea tseba O na le ’na, O tla ba le ’na hohle."
+      ],
+      "number": 5
+    }
+  ]
+}

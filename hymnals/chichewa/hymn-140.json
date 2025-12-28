@@ -1,0 +1,44 @@
+{
+  "number": 140,
+  "language": "ny",
+  "title": "140 - Mau A Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE VOICE OF JESUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndinamva Yesu akuti, Idza udzapume;",
+        "Wolema’we ndi zoipa, Tsamira pa Ine.",
+        "Ndinadza kwa Yesu momwe Ndinali wolema;",
+        "Mwa Iye ndinapumula, Nandikondweretsa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndinamva Yesu akuti, Ndipatsa kolere",
+        "Madzi a moyo wosatha, Idza udzamwetu",
+        "Ndinadza kwa Yesu ndi ’mwa Mu mtsinje wamoyo;",
+        "Ndipo ndinatsitsimuka, Ndikhala mwa Iye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndinamva Yesu akuti, Ndine kuunika;",
+        "Yang’anitsitsa kwa ine, Ndipo udzakondwa.",
+        "Ndinayang’ana kwa Yesu, Mwa Iye ndiwala;",
+        "Ndidzayendabe m’ku’nika, Mpaka kumwambako."
+      ],
+      "number": 4
+    }
+  ]
+}

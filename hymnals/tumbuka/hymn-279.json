@@ -1,0 +1,71 @@
+{
+  "number": 279,
+  "language": "tum",
+  "title": " 279 Zani Kuno Kwa Ine",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 279 Zani Kuno Kwa Ine",
+        "COME UNTO ME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "'Mwe! mtima wa chitima na maso gha mdima,",
+        "Mungamanya kukondwa mwa Yesu Mponoski."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Zani kwa ine imwe mose,",
+        "Mwakuzotofyeka muzakapumuLe.",
+        "Yegha gori Lane sambira,",
+        "Ndiri wakufwasa mu mtima",
+        "MwizampumuLa m'myoyo yinu(B/T/A):",
+        "Zani, 'mwe zani kuno,",
+        "izani mwakuzotofyeka",
+        "ALto:",
+        "Mwakuzotofyeka muzakapumuLe,",
+        "(B/T):",
+        "Zani mwakuzotofyeka mzakapumuLe,",
+        "(A/TIB):",
+        "Lani, yeghani gori, Izani, sambirani,",
+        "(T/B): NfiLi wakufwasa mimtima",
+        "mwizam pumuLa m'myoyo yinu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Chimwemwe cha mu charu ntha chikutikwana,",
+        "Chitemwa chik'kondweska chitemwa cha Yesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mwe uchizi wakuruska wa Yesu Khristu,",
+        "Uzamkugowokera wakung'anamuka."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Mutende nga ndi onga, chitemwa na sumu,",
+        "Na goriwori lipusu viri mwa Yesu."
+      ],
+      "number": 5
+    }
+  ]
+}

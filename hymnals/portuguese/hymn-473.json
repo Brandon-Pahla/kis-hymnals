@@ -1,0 +1,56 @@
+{
+  "number": 473,
+  "language": "pt",
+  "title": "Maravilhoso És, Meu Mestre",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Maravilhoso És, Meu Mestre"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Maravilhoso és, meu Mestre!",
+        "Qual Tu não há ninguém.",
+        "Maravilhoso és, meu Mestre!",
+        "És para mim supremo bem.",
+        "Maravilhoso és, meu Mestre!",
+        "Tenho-Te imenso amor.",
+        "Nobre entre os nobres Tu és,",
+        "Meu Rei e Salvador."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Maravilhoso és, meu Mestre!",
+        "Amigo mui leal,",
+        "Maravilhoso és, meu Mestre!",
+        "Teu grande amor é sempre igual.",
+        "Maravilhoso és, meu Mestre!",
+        "Teu eu desejo ser,",
+        "Para servir-Te agora",
+        "E sempre, até morrer."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Maravilhoso és, meu Mestre!",
+        "Sei que irás voltar.",
+        "Maravilhoso és, meu Mestre!",
+        "Tenho prazer em Te esperar.",
+        "Maravilhoso és, meu Mestre!",
+        "A Ti fiel serei,",
+        "E lá no lar eterno",
+        "Teu nome exaltarei."
+      ],
+      "number": 4
+    }
+  ]
+}

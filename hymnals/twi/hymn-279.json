@@ -1,0 +1,56 @@
+{
+  "number": 279,
+  "language": "tw",
+  "title": "Wo De Twer' No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bra, kra a bɔne hyɛ wo so,",
+        "'W'rade wɔ mmɔb'rɔhun'",
+        "Na ɔbɛma Woanya home,",
+        "Sɛ wotwer' N'asɛm a."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wo de twer' No, wo de twer' No,",
+        "Wo de twer' No nnɛ;",
+        "ɔbɛgyew' nkwa, ɔbɛgyew' nkwa,",
+        "ɔbɛgyew' nkwa nnɛ."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu hwiee Ne mogya dehye",
+        "De yɛɛ nhyira maa wo;",
+        "Bɛtɔ mogyaburā a ɛhoa",
+        "Sɛ suky'rɛma no mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu ne nokwar' ne kwan a",
+        "Ͻde wo kɔ homem;",
+        "Gye No di, nɔtwentwɛn koraa",
+        "Na wobehyira wo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bra, bɛka kuw kronkron yi ho,",
+        "Na kɔ anuonyam mu;",
+        "Kɔtra 'sase kronkron no so,",
+        "Nea daa anigye wɔ."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "number": 285,
+  "language": "bem",
+  "title": "285 - KU CIFULO CATALALA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE IS A PLACE OF QUIET REST"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ku cifulo catalala, Mupepi na Lesa,",
+        "Ububi tabukowesha, Mupepi na Lesa.",
+        "CHORUS:",
+        "O Yesu Mupusushi, Atumwa na Lesa;",
+        "Twikate fwe balinda, Mupepi na Lesa.",
+        "2. Ku cifulo icansansa, Mupepi na Lesa,",
+        "Eko tukumanye Mfumu, Mupepi na Lesa.",
+        "3. Ku cifulo ca kutusha, Mupepi na Lesa,",
+        "Kwabe nsansa no mutende, Mupepi na Lesa."
+      ],
+      "number": 2
+    }
+  ]
+}

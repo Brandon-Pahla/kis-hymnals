@@ -1,0 +1,54 @@
+{
+  "number": 503,
+  "language": "es",
+  "title": "Oh Dios, que deseas la vida",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Oh Dios, que deseas la vida"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh Dios, que deseas la vida y el bien",
+        "de todos tus hijos mortales;",
+        "Señor, fortalece a los que están",
+        "luchando con la muerte cruel."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Haz fuertes sus manos y su corazón",
+        "en contra de la enfermedad;",
+        "que puedan bregar por el bienestar",
+        "de toda la humanidad."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Al sanar al enfermo y calmar el dolor,",
+        "impartan, Señor, tu amor;",
+        "prediquen tu gracia y tu poder,",
+        "que brinda salud eternal."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Concédeles sabiduría y valor,",
+        "revélales tu voluntad.",
+        "Que al consagrar sus vidas a ti,",
+        "compartan tu gozo al servir."
+      ],
+      "number": 5
+    }
+  ]
+}

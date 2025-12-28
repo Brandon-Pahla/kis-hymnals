@@ -1,0 +1,58 @@
+{
+  "number": 312,
+  "language": "tum",
+  "title": " 312 Tachemeka Ise",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 312 Tachemeka Ise",
+        "Called To Be Baptised"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Tachemeka ise ku muronga Yordano,",
+        "Ise tapulika nadi mazgu m'mapopa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ise tiza kuzakabapatizika,",
+        "Kuti tisukike ku zakwananga zithu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Tapulika ntchemo ya kutemwa kwa Fumu,",
+        "Ng'anamuka mtima Yesu watizengeso"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Yesu wakunena, uyo wagomezgenge",
+        "Nakuba'tizíka wizamukuthaskika."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Tikuwonga nadi uchizi wake Yesu,",
+        "Watifumiskako ku chisi cha uheni."
+      ],
+      "number": 5
+    }
+  ]
+}

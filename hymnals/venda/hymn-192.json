@@ -1,0 +1,55 @@
+{
+  "number": 192,
+  "language": "ve",
+  "title": "192. Thendo Dzinani lawe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. fa Yesu kha tshifhambano, Ndo humbula u tanzwa zwivhi,",
+        "Ndo tanzwa mbilu nga malofha, Thendo kha Yesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Thendo kha Yesu, thendo kha Yesu,",
+        "Ndo tanzwa mbilu nga malofha,",
+        "Thendo kha Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. U tshidzwa hanga ho mangadza, Zwo naka Yesu e na nne-vho;",
+        "O ntsedzisisa tshifhambano, Thendo kha Yesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. O! Tshisima tshi ri tshidzaho, Ndi a takala ndi nga ngomu;",
+        "U mbulunga nda vha wavhudi, Thendo kha Yesu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Idani kha itshi tshisima, dinekedzeni kha Murena;",
+        "namusi Idani ni tshidzwe, Thendo kha Yesu."
+      ],
+      "number": 5
+    }
+  ]
+}

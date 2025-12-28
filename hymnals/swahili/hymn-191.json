@@ -1,0 +1,31 @@
+{
+  "number": 191,
+  "language": "sw",
+  "title": "191 - Mkate wa Mbingu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Mkate wa mbingu mega kwetu, ulivyotoa kwa thenashara,",
+        "Katika kitabu twakuona, Moyo unatweta kukutana."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Neno la ukweli libariki, tusikie mwito wa upole,",
+        "Vizuizi vyote vitakoma, tena tutapata uungwana."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Uzima na nguvu utanena, nakimbilia kukufuata,",
+        "Lakini mnyonge ndiye mimi: naye mshindaji ndiye wewe!"
+      ]
+    }
+  ]
+}

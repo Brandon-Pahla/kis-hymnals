@@ -1,0 +1,37 @@
+{
+  "number": 255,
+  "language": "tn",
+  "title": "255 Ke Ya Go Tlhoka Jeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Ya Go Tlhoga Jeso, Ka Ke Bofutsaneng;",
+        "Moeti le mojaki ’Ke na tsa lefatshe.",
+        "Ke tlhoka rato lwa ’Go, Go nkgomotsa tseleng,",
+        "Go nkgoga pelaelong, Go nna thata ya me."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Tlhoka Pelo’a Jeso Go Utlwa Tlalelo,",
+        "Go bolela teko’a me, Go nthusa botlhokung.",
+        "Ke tlhoka Mo’a Boitshepo Go nthusta gore k’eng",
+        "Go mpontsha ka ga Jes’u, Go ntshupetsa Kwana."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Ya Go Tlhoka Jeso, Mme Ke Tla Go Bona,",
+        "O le mo kgalalelong, teroneng jwa Gago,",
+        "Teng le b’o ba rekileng, Ke tla itumela",
+        "G’opela pako tsa ’Go, leba Morena, Amen."
+      ],
+      "number": 3
+    }
+  ]
+}

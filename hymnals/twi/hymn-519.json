@@ -1,0 +1,47 @@
+{
+  "number": 519,
+  "language": "tw",
+  "title": "To Wo Sųro Gu Mframam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "To wo sųro gu mframam;",
+        "Nya 'nidaso, mmɔ hu;",
+        "Nyame hu wo haw ne nusu,",
+        "ɔbɛma wo ti so."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa w'aw'rɛhow ma No,",
+        "Fa w'akwan hyɛ Ne nsa,",
+        "Ne nokware ne Ne banbɔ;",
+        "S'ro ne 'sase W'ra no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa wo w'rɛ hyɛ Nyamem',",
+        "Fa dwumadei kwan so;",
+        "Nantew N'ahoɔden mu gyidim'",
+        "Na w'adwumā adi mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gyaw mu ma Ne tumi,",
+        "Sɛ ɔmpaw nni so mma w';",
+        "Na woahu Ne kwan nokwarem'",
+        "Ne basam yɛ den pii."
+      ],
+      "number": 4
+    }
+  ]
+}

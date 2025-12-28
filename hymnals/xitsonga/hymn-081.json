@@ -1,0 +1,21 @@
+{
+  "number": 81,
+  "language": "ts",
+  "title": "81. TIRHA VUSIKU BYA TA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WORK, FOR THE NIGHT IS COMING",
+        "1. Tirha Vusiku Bya Ta, Tirha Na Nimixo,",
+        "Ka Ha Ri Na Xiverha, Na Swo Swiluva;",
+        "Dyambu Ri Nga Si Tlhava, Hambi Se Ri Hisa, Tirha Ntirho Wu Hela, Ri Nga Si Pela.",
+        "2. Tirha Vusiku Bya Ta, Tirha Nanhlikani,",
+        "Tirha Swi Vonakala, Ku Wisa Ka Ta; Nyiketa Nkarhi Waku, Ka Swo Vuyerisa, Tirha Ntirho Wu Hela, Ri Nga Si Pela.",
+        "3. Tirha Vusiku Bya Ta, Na Loko Ri Rhenga,",
+        "Ka Ha Tlhave Miseve, Wa Ta Munyama; Tirha Ri Ko Ri Pela, Munyama Wu Nghena, Tirha Ntirho Wu Hela, Ri Nga Si Pela"
+      ],
+      "number": 1
+    }
+  ]
+}

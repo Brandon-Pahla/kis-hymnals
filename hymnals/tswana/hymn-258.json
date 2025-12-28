@@ -1,0 +1,31 @@
+{
+  "number": 258,
+  "language": "tn",
+  "title": "258 Molao’ Batla Tumelo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Molao ’Batla Tumelo E Le Nngwe E E Tshedileng;",
+        "E e reng Modimo Oa re : Ditiro tse di tshedileng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena Re Itshwarele Molao Wa’go’ Tlhapaditswe",
+        "One ka o itshekile Ga re o tlhaloganye fa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Itshwarela Thopo’a Tempela, Tlosa Boitshepololo,",
+        "Re thuse ka ntlha Morwao, Go tshegetsa mola’wa ’Go."
+      ],
+      "number": 3
+    }
+  ]
+}

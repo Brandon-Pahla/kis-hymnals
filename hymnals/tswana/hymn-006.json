@@ -1,0 +1,54 @@
+{
+  "number": 6,
+  "language": "tn",
+  "title": "6 Lebelelang Baitshepi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lebelelang Baitshepi: Thoromo Ya Legodimo;",
+        "Pone tsa lona di tuke, Iketle’letseng Morena,"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Bona o etla, Morena, E o etla mo kgalalelong,",
+        "O tla go busa ka phenyo, E, o etla Jeso O etla."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bonang Tsholofetso Ya ’Gwe, Dibe Tse Di Itshwaretsweng,",
+        "Kobo tse ’ntle le dirwalo, Lo boleleng thekololo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dipuso Di Ya Nyerega, Utlwang Modumo Wa Koloi;",
+        "Bolelang ka tshegofatso, ’Naka lo sa ntse lo lela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Merafe E Ya Senyega, Go Tla Bogosi Jwa Kreste",
+        "Lefatshe le mo bofelong, Kuang baitshepi o e tla."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Baleofi Tlang Loa Bidiwa, Jeso Wa Lo Rapelela,",
+        "Akofang go ise gotwe, Tshwaro, nako di fedile."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "number": 306,
+  "language": "fr",
+  "title": "La voix du Seigneur...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "La voix du Seigneur m'appelle :",
+        "« Prends ta croix et viens, suis-moi. »",
+        "Je réponds  : « Sauveur fidèle,",
+        "Me voici, je suis à toi. »"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Jusqu'au bout je veux te suivre,",
+        "Dans les bons, les mauvais jours,",
+        "À toi pour mourir et vivre,",
+        "À toi, Jésus, pour toujours."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mais le chemin du Calvaire",
+        "Est étroit et périlleux.",
+        "C'est un chemin solitaire,",
+        "Difficile et ténébreux."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le Seigneur nous encourage",
+        "À le suivre par la foi",
+        "Et toujours donne en partage",
+        "Son pardon, sa paix, sa joie."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jésus donne grâce et gloire",
+        "Pour le suivre pas à pas.",
+        "Avec lui, joie et victoire,",
+        "Paix et bonheur ici-bas !"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "number": 73,
+  "language": "fr",
+  "title": "Christ est ressuscité",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Christ est ressuscité,",
+        "Qu'en des chants joyeux",
+        "Son triomphe en tous lieux",
+        "Soit exalté!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "À toi la gloire et l'honneur,",
+        "Ô Sauveur, ô puissant Rédempteur!",
+        "De la tombe tu sortis vainqueur,",
+        "Prince de vie et Prince de paix.",
+        "Gloire à toi, gloire à toi,",
+        "Gloire à toi, gloire à jamais!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Christ est ressuscité,",
+        "Cherche en lui toujours,",
+        "Ô peuple racheté,",
+        "Force et secours!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Christ est ressuscité,",
+        "Par lui, nous vivrons",
+        "Et dans l'éternité",
+        "Nous régnerons."
+      ],
+      "number": 4
+    }
+  ]
+}

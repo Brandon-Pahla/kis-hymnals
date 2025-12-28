@@ -1,0 +1,64 @@
+{
+  "number": 231,
+  "language": "ve",
+  "title": "231. Tendani Yesu A Dzhene Mbiliuni Yanu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndo neta nga muhwalo wa zwivhi, dadzani mbilu nga Yesu.",
+        "Ni tshi tama vhutshilo vhuswa, Vulani mbilu a mbo dzhena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U tima-tima ho fhela, Ni songo mu tala,",
+        "Munango kha u bvulwe, Yesu a dzhene mbiluni.",
+        "U tima-tima ho fhela, A thi tsha mu lata,",
+        "Ndo no vula munango, Dzhena-ha Yesu mbiluni."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ni tshi funa u vha mukhethwa-vho, Vulani Yesu a dzhene,",
+        "Zwisima zwa u tamba zwi tsini, Tendani Yesu a dzhene."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Hu na mathupho a sa konei, Yesu kha dzhene mbiluni,",
+        "Zwi todaho phathutshedzo, Zwi konwa nga Yesu e mbiluni."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Khonani dzi tshi u shandukela, Yesu kha dzhene mbiluni,",
+        "Vhona uri Yesu ndi munzani, Mu tendelei a dzhene."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. U tshi imbelela na vhakhethwa, Dzhenisa Yesu mbiluni,",
+        "Musi u nduni dzi na mulalo, Dzhenisa Yesu mbiluni."
+      ],
+      "number": 6
+    }
+  ]
+}

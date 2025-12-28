@@ -1,0 +1,55 @@
+{
+  "number": 27,
+  "language": "sn",
+  "title": "27 Mutimutse Zve",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tinokukudza, Imwi Mwari wedu,",
+        "NdiJesu wakauya kufira isu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hareruya, Kudza Mwari, Hareruya, Amen,",
+        "Hareruya, Kudza Mwari, Mutimutsezve"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tinokukudza, Imwi Mwari wedu,",
+        "Wakatipa rujeko, ndi’ye Mudzimu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mbiri, kukudza, kweNyenye yaMwari,",
+        "Wakatiponesa mune zvitadzozve"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mbiri, rukudzo, kunemwi wemutsa,",
+        "Wakatitsvaka nokutitungamira"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mutimutsezve, ngerudo izare,",
+        "Moyo yese ipfutwe ngemoto m’tsvene"
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 211,
+  "language": "nd",
+  "title": "211 Zi Yeza Izibusiso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Zi yeza izibusiso Yiso isithembiso,",
+        "Ku ya kuvela umusa Nothando KuMsindisi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Izibusiso, Izibusiso zethu,",
+        "U yasiwela umusa, Si cela iz’busiso"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ziyeza izibusiso, Sothol’ imvuselelo,",
+        "Phezu kwentaba Ni yezwa Izulu se liyana"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zi yeza izibusiso Mazize kithi,",
+        "Nkosi Gcwalisa izethembiso Nkosi, u si qinise"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zi yeza izibusiso Size si vum’ izono,",
+        "Ku hle zi ze khona lapha Si hlanze Jesu namhla."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 118,
+  "language": "guz",
+  "title": "118 Emeremo Yaerire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Emeremo yaerire,Esabato yachakire;Esasoki' enkoro yane,Rirende n'amasikani."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Motogie obaeire,Abarosu 'gotimoka'Mioyo yabo etimoka;kobua amatuk' ande."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Omoiranerie mbuya,Buna rimisu rigiyaTonyore omotimoko,onde tari orayomanye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Mogoko bw' enkoro ime,Nokogach' ogotimoka;Ogacheire ekanisa,Omoerio bw'emechando."
+      ],
+      "number": 4
+    }
+  ]
+}

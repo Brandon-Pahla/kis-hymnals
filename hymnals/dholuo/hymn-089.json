@@ -1,0 +1,35 @@
+{
+  "number": 89,
+  "language": "luo",
+  "title": "89 En Madhiyo Tich Gi Chandruok",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. En madhiyo tich gi chandruok,Ka oting`o koth hera,Ok ojogi kata nindo,Nikech ng`wono mar Nyasaye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Neuru cham man e puothe,Ka gidongo maber ngang`;Neuru puothe two koro,Nikech keyo chiegini."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Muya mar Nyasaye, lor kuomwa,Rieny maler machalo chieng`,Ni mondo wanyag olembeGi teko mar Nyarombo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kik iol kuom chuoyo kodhi,Kik ibed gi luoro ngang`;Bedi janeno madieri,Iniyud mor kuom Ruodhi."
+      ],
+      "number": 4
+    }
+  ]
+}

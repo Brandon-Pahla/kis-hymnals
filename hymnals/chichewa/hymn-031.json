@@ -1,0 +1,36 @@
+{
+  "number": 31,
+  "language": "ny",
+  "title": "31 - Mombolo Wanga, Dzuwatu.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SUN OF MY SOUL"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mombolo wanga, dzuwatu,",
+        "La mtima wanga ndinudi,",
+        "Palibe mdima ngatitu",
+        "Mukawalira inedi.",
+        "2. Muchotse zonse zoti bii,",
+        "Zobisa nkhope yanuyo;",
+        "Mudzadzetu mtimangawo,",
+        "Ndi kuunika kwanuko.",
+        "3. Madzulo ano mkhaletu,",
+        "Pafupi ndine Yesudi",
+        "Ndisanagone tuloto,",
+        "Ndilingalira Inudi.",
+        "4. Kapena wina leroli,",
+        "Wasocherera m’njirayi,",
+        "Ya Inu, Mbuye, mbwezetu,",
+        "Mumpulumutse iyedi."
+      ],
+      "number": 2
+    }
+  ]
+}

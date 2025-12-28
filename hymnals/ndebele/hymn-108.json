@@ -1,0 +1,47 @@
+{
+  "number": 108,
+  "language": "nd",
+  "title": "108 Ngothando, Ngessa U Yabiza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "uJes’ onguMalusi, U yakubizela;",
+        "Phakath’ esibayeni, Ku khona indawo.",
+        "Woza ku senamhlanje,",
+        "Khona u semusha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngothand’ uJesu u yasibiza:",
+        "\"Mhambike, Mhambike, woza kimi.\"",
+        "U yangibekezelela Wena,",
+        "Jesu, Malusi wami."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "uJes’ onguMalusi, Wakufela wena;",
+        "U yakubiza manje; \"Mhambi woza kimi\"",
+        "Ngaphandle ku yingozi, Woza, uyabizwa,",
+        "Ngena esibayeni, Sona seqiniso."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngena u ngalibali, Ku khon’ izimpisi;",
+        "Ezinokulimaza, Ezidukileyo.",
+        "uJes’ onguMalusi, U yakubizake",
+        "Ngena esibayeni, Sona seqiniso."
+      ],
+      "number": 4
+    }
+  ]
+}

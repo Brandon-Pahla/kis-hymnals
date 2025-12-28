@@ -1,0 +1,45 @@
+{
+  "number": 94,
+  "language": "xh",
+  "title": "94 Isikolo Se-Sabatha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Isikolo se-Sabatha,",
+        "Siya thandeka kum;",
+        "Intliziyo iya vuya",
+        "Ngomhla we-Sabatha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sabatha . . . emnandi . . .",
+        "Sabatha . . . emnandi . . .",
+        "Intliziyo iya vuya",
+        "Ngomhla we-Sabatha."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Apha ndaqala ndabona",
+        "Indlela yempilo;Apha ndacinga okuhle,",
+        "Ndazuza ikhaya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wayemi khona u-Yesu,",
+        "Wandibiza yena,",
+        "Ukuba ndimkhethe Yena",
+        "Ne-Sabatha yaKhe."
+      ],
+      "number": 3
+    }
+  ]
+}

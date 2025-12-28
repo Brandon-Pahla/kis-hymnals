@@ -1,0 +1,26 @@
+{
+  "number": 258,
+  "language": "ny",
+  "title": "258 - Chikhulupiriro Cimodzi Ca Moyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ONE LIVING FAITH"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Lamulo la Mulunguli, Sicinthu copanda pace;",
+        "Ndi lokhalitsa myayadi, Simau cabe, ndi moyo.",
+        "2. Lamulo lanu loyera, Mutikhulukirefe,",
+        "Langwiro mwa ilo lokha, Akunja sangalione.",
+        "3. Khululukirani anu, Kwa zolakwa zao zonse,",
+        "Mithithandize kusunga Malamulowo angwiro."
+      ],
+      "number": 2
+    }
+  ]
+}

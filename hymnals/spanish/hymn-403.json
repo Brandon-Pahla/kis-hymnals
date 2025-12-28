@@ -1,0 +1,58 @@
+{
+  "number": 403,
+  "language": "es",
+  "title": "Cuando en la lucha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cuando en la lucha"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando en la lucha me falte poder,",
+        "alguien sabrá, alguien sabrá.",
+        "¿Quién a mis ayes fin puede",
+        "poner?",
+        "Alguien sabrá: es Cristo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Alguien sabrá, alguien sabrá;",
+        "cuando me oprima y me tiente",
+        "Satán,",
+        "Cristo me guardará siempre;",
+        "alguien sabrá, es Cristo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Olas de pruebas no las temeré;",
+        "alguien sabrá, alguien sabrá;",
+        "pues cuando mi alma en las",
+        "sombras esté,",
+        "alguien sabrá: es Cristo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Débil, herido, abrumado del mal,",
+        "alguien sabrá, alguien sabrá;",
+        "miro con ansia al hogar celestial;",
+        "alguien sabrá: es Cristo"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 195,
+  "language": "xh",
+  "title": "195 Au, Elo-Dangatye!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Idangaty’ elivuthayo Likhanyisel’ abangcwele;",
+        "Besingisa ezulwini, Libanik’ ukomelela."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi uphina la Moya Watywina u-Abram ngawo?",
+        "Wamchanayo nay’ uPaulos, Wavuthiswa yinkuthalo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uphi uMoy’ oyiNgcwele, Otyhila uthando lwaKho?",
+        "Wakhanyisel’ u-Isaya, Wamkhokela uDavide."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aphin’ amandl’ obabalo, Won’ amthwalay’ u-Elija?",
+        "KuMoses abengezela, Amnik’ uJob’ unyamelo?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khumbula Nkos’ kumandulo; Hlaziy’ umsebenzi waKho.",
+        "Sikubonga ngentliziyo, Siph’ uMoya oyiNgcwele."
+      ],
+      "number": 5
+    }
+  ]
+}

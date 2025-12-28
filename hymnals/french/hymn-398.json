@@ -1,0 +1,27 @@
+{
+  "number": 398,
+  "language": "fr",
+  "title": "Seigneur Jésus, par ton Esprit",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Seigneur Jésus, par ton Esprit,",
+        "Viens nous apprendre à partager !",
+        "Tu es le pain, tu es la vie,",
+        "De toi j'ai faim, par toi je prie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seigneur Jésus, par ton Esprit,",
+        "Viens nous apprendre à t'adorer !",
+        "Tu es le pain, tu es la vie,",
+        "De toi j'ai faim, par toi je prie."
+      ],
+      "number": 2
+    }
+  ]
+}

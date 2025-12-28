@@ -1,0 +1,52 @@
+{
+  "number": 150,
+  "language": "fr",
+  "title": "Vers toi monte...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Vers toi monte notre hommage,",
+        "Fils de Dieu, puissant Sauveur,",
+        "Qui demeures d'âge en âge",
+        "Le refuge du pécheur."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Loué soit ton amour,",
+        "Loués soient à jamais",
+        "Ton nom, Jésus,",
+        "Ta gloire et tes bienfaits,",
+        "Loué soit ton amour,",
+        "Loués soient à jamais",
+        "Ton nom, ta gloire",
+        "Et tes bienfaits !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Par ta divine Parole",
+        "Tu nous guides, nous instruis,",
+        "Et, par l'Esprit qui console,",
+        "Sûrement tu nous conduis."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bientôt, glorieuse attente !",
+        "Tu combleras tous nos vœux :",
+        "Sur la nue étincelante,",
+        "Tu viendras à nous des cieux"
+      ],
+      "number": 4
+    }
+  ]
+}

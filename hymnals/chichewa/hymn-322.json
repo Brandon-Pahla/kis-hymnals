@@ -1,0 +1,29 @@
+{
+  "number": 322,
+  "language": "ny",
+  "title": "322 - Mau Ngonyozekatu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WORDS ARE THINGS OF LITTLE COST"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mau ngonyozekatu, Anenedwa msanganso;",
+        "Timaiwaladi, Komabe pa mlanuwo",
+        "Adzatinenezafe, Poweruza Mlunguyo.",
+        "2. Ife timalankhula, Mosaganiziratu,",
+        "Mau akunyadawo, Ndi obisa chimolo,",
+        "Mau akukwiyanso, Ndi onena enawao.",
+        "3. Mbuye tipatsenife, Mphamvu yodikirayo,",
+        "Mtisogoze, Mbuye’Nu, Tisacimwe m’mauwo,",
+        "Mmwamba tidzaimbetu, Nyimbo zoyamika’Nu"
+      ],
+      "number": 2
+    }
+  ]
+}

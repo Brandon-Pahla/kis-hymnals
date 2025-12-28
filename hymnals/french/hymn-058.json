@@ -1,0 +1,48 @@
+{
+  "number": 58,
+  "language": "fr",
+  "title": "En Jésus j’ai placé...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "En Jésus j’ai placé ma confiance,",
+        "Nul ami n’est meilleur que lui;",
+        "Il a mis dans mon cœur l’espérance",
+        "Que je veux chanter aujourd’hui."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Attaché à la croix pour moi,",
+        "Attaché à la croix pour moi,",
+        "Il a pris mon péché, il m’a délivré,",
+        "Attaché à la croix pour moi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dans les cris, les clameurs, la violence",
+        "Rugissant autour de la croix,",
+        "Son regard vient me dire en silence",
+        "Tout l’amour du Seigneur pour moi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aujourd’hui quand on nie l’existence",
+        "De mon Dieu, à cause des guerres,",
+        "Je ne peux expliquer la souffrance",
+        "Mais je dis son propre calvaire."
+      ],
+      "number": 4
+    }
+  ]
+}

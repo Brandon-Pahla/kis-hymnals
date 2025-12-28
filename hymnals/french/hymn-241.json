@@ -1,0 +1,55 @@
+{
+  "number": 241,
+  "language": "fr",
+  "title": "Ton jour, Seigneur",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ton jour, Seigneur,",
+        "Parle à mon coeur,",
+        "De paix et de lumière.",
+        "Bénis ce jour",
+        "Où ton amour",
+        "M'appelle à la prière."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dieu tout-puissant,",
+        "Dieu bienfaisant,",
+        "J'ai besoin de ta grâce.",
+        "Éclaire-moi,",
+        "Soutiens ma foi.",
+        "Je viens chercher ta face."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ta vérité,",
+        "Ta charité",
+        "Brillent dans ta Parole.",
+        "Seule elle instruit,",
+        "Guide et conduit",
+        "Notre âme et la console."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "J'entends ta voix,",
+        "Tes saintes lois",
+        "Ne sont pas difficiles.",
+        "Viens les graver,",
+        "Les conserver",
+        "Dans des âmes dociles."
+      ],
+      "number": 4
+    }
+  ]
+}

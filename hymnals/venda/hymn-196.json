@@ -1,0 +1,54 @@
+{
+  "number": 196,
+  "language": "ve",
+  "title": "196. Maanda Malofhani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:294",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. U a tenda u tanzwiwa vhuvhi? Nga Maanda a re malofhani;",
+        "U a funa u kunda vhuvhi naa? Hu na Maanda malofhani."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hu na Maanda a mangadzaho; Malofhani! A Ngwana!",
+        "Hu na Maanda a mangadzaho; Malofhani! a Murena!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. U a funa u litsha vivho naa? Nga Maanda a re malofhani;",
+        "U do bviswa zwothe zwivhi zwau, Hu na Maanda malofhani."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. U funa u tshena sa Mahada? Nga Maanda a re malofhani;",
+        "’Da u tambe tshisima ndi Yesu, Hu na Maanda malofhani."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. U a funa u shumela Yesu? Nga Maanda a re malofhani;",
+        "U a livhuwa maduvha othe, Hu na Maanda malofhani."
+      ],
+      "number": 5
+    }
+  ]
+}

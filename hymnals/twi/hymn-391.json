@@ -1,0 +1,47 @@
+{
+  "number": 391,
+  "language": "tw",
+  "title": "A Kwaaba, ɔhome Da",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Akwaaba, ɔhome da,",
+        "Wɔde kyɛɛ adasa kwa;",
+        "Megyew' ɔdwo koma yim'",
+        "Sɛ hann a efi s'ro hy'rɛn."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔdɛw ne ɔhome da,",
+        "Wo mmere resen brɛoo yi;",
+        "Dwudwo yɛn haw ne mmusu,",
+        "Kosi sɛ yɛn b'rɛ bɛsa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Da Kronkron, wo bo yɛ den,",
+        "Ayeyi ne mpaebɔ da;",
+        "Dá a ɛky'rɛ nkwasea nyansa,",
+        "Wo nhy'ra dɔɔso dɛn ara!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akwaaba, ɔhome da,",
+        "ɔs'ro tumi kawo ho;",
+        "Nhyira nka wo mm're kronkron,",
+        "Mma me komá a ɛretwɛn."
+      ],
+      "number": 4
+    }
+  ]
+}

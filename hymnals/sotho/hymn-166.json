@@ -1,0 +1,55 @@
+{
+  "number": 166,
+  "language": "st",
+  "title": "166 Lefika La Mengoaha.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lefika La mengoaha,",
+        "Le taboletsoeng ’na,",
+        "Ke ipata ho uena,",
+        "Mali a tsoang maqebeng,",
+        "Ka ’ona ke re ntlhatsoe,",
+        "Ke be motle ke loke."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hase ka matla a ka,",
+        "Nka phethang molao,",
+        "Masene le likhapha,",
+        "Be se ke ke sa tlosoa,",
+        "Ha e se uena feela,",
+        "Ea tsebang ho pholosa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke khorametse uena,",
+        "Ha ho letho le nthusang,",
+        "Ke tla feela ho uena;",
+        "Ho apesoa ka mohau",
+        "Sefapanong u ntlhatsoe,",
+        "Uena ’Moloki oa ka!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qetellong ea leeto,",
+        "Sera ha se qhaliloe,",
+        "Ha ke haola hohle;",
+        "Mafats’eng a holimo,",
+        "Ho u bona teroneng,",
+        "Ke bolokoe ho uena!"
+      ],
+      "number": 4
+    }
+  ]
+}

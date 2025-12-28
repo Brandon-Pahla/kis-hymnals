@@ -1,0 +1,46 @@
+{
+  "number": 127,
+  "language": "st",
+  "title": "127 O’a Nthata.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Molimo O bona thaha e’oa,",
+        "Oa e hlokomela;",
+        "Ha A rata linonyana,",
+        "Kea tseba Oa nthata."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O khabisa le likhahla,",
+        "O li nea monko;",
+        "’Me ha A rata litlama,",
+        "Kea tseba Oa nthata."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O khabisa le likhahla,",
+        "O li nea monko;",
+        "’Me ha A rata litlama,",
+        "Kea tseba Oa nthata."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Molimo O li bopile,",
+        "Tsohle le tse kholo;",
+        "Ha A na ho li lebala,",
+        "Kea tseba O’a nthata."
+      ],
+      "number": 3
+    }
+  ]
+}

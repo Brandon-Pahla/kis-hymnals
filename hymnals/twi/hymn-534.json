@@ -1,0 +1,66 @@
+{
+  "number": 534,
+  "language": "tw",
+  "title": "So Wo Sɛkyɛ Begy'na ɔbra 'S'rɔkyɛm'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "So wo sɛkyɛ begy'na ɔbra 's'rɔkyɛm'",
+        "B're a mununkum de haw ba no?",
+        "'S'rɛkye sɔre na hyɛn no wosow a",
+        "Wo sɛkyɛ betum' agy'na pintinn?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yɛwo sɛkyɛ a ɛhwɛ yɛn kra",
+        "B're a ɔbra sorɔkyɛ rebɔ;",
+        "Ekyɛky're Botantim kɛse no,",
+        "Atintim Agyenkwa no dɔ no mu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ atim yie a, ensuro ahum,",
+        "'Fisɛ 'Gyenkwa no nsa kura mu;",
+        "Nea ɛka Ne koma ne wo bom no",
+        "Bɛmaw' s'ro 'hoɔden de adi nim."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ebegy'na pintinn na ennim suro,",
+        "B're a hyɛn no rebɛn 'sase no;",
+        "Sɛ ahum tu na mframa bɔ mpo a",
+        "Po 'bufuw ntum' nkata hyɛn no so."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ebegy'na pintinn owu nsuy'ri mu,",
+        "B'rč a awɔw mma yentum' nhome mpo;",
+        "Sɛ 's'rɔkye sɔrč a ɛrenni huammɔ",
+        "B'rč a 'nidaso wɔ ntwamutam nom'."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ adekyee hann nom yɛn ani hu",
+        "Abopa pon ne gy'nabea hyɛnn nō a",
+        "Yebetim yɛn sɛkyɛ s'ro mpoano hɔ,",
+        "'Fisɛ 'hum no to atwa koraa."
+      ],
+      "number": 5
+    }
+  ]
+}

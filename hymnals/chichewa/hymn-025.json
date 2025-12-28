@@ -1,0 +1,53 @@
+{
+  "number": 25,
+  "language": "ny",
+  "title": "25 - Ndipereka Zonse",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ALL TO JESUS I SURRENDER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndipereka zonse kwa Yesu, Zonse mwa ufulu;",
+        "Ndidzamkonda Iye koposa, Tsiku lili lonse."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndiperekatu, zonse kwa Yesu;",
+        "Zonse kwanu ndipereka dalitsenitu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndipereka zonse kwa Yesu, Pa mapazi ake;",
+        "Zadziko ndazikana zonse, Nditengeni Yesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndipereka zonse kwa Yesu, Ndikhale wanutu,",
+        "Ndimve Mzimu wanu ndidziwe, Kuti ndinu wanga."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndipereka zonse kwa Yesu, Wandipatsa mphamvu.",
+        "Ndikondwera chipulumutso! Nditama dzinalo!"
+      ],
+      "number": 5
+    }
+  ]
+}

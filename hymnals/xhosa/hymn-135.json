@@ -1,0 +1,46 @@
+{
+  "number": 135,
+  "language": "xh",
+  "title": "135 Ndikuthanda Ngakumbi, Nkosi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndikuthanda ngakumbi, Nkos’, Nakumgcobo wonke;",
+        "Kuba undfinik’ uxolo Olunge bulawe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Akukaxelwa qingatha (qingatha), Ngothand’ olunjalo;",
+        "Alikaxelwa qingatha, (qingatha), Lindihlamb’ igazi (igazi)."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyaz’ usondele wena Kunomhlaba wonke;",
+        "Kumnand’ ukucinga ngawe Kunengoma zonke."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uvuyis’ intliziyo yam; Ndogcoba ke ngoko;",
+        "Ngaphandle kothando lwaKho Ndise lusizini."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Msindisi onexabiso! Xa wena ukhoyo,",
+        "Luz’ ugcobo longamele Sihamba sinawe."
+      ],
+      "number": 4
+    }
+  ]
+}

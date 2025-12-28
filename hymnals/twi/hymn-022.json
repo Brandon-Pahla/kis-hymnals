@@ -1,0 +1,51 @@
+{
+  "number": 22,
+  "language": "tw",
+  "title": "Nyame Ne Yɛm Dwom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame ne yɛn dwom, na obiara a",
+        "Oyi N'ayɛ nya 'hoɔden ne home.",
+        "Wɔn a wɔde dɛw yi Nyame ayɛ;",
+        "San de nyansa a yɛhwere ma yɛn,",
+        "San de nyansa a yɛhwere ma yɛn."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame ne yɛn dwom, Yesu bɛgye yɛn:",
+        "Yɛde yɛn ho ma Wo, yɛn nkamfo mu.",
+        "Yɛn nyinaa ka bom, to dwom foforo.",
+        "Yesu di y'anim kɔ s'ro hann no mu,",
+        "Yesu di y'anim kɔ s'ro hann no mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Yi ne dwom a 'haw bi ntumi nhyɛ so,",
+        "Nyame ayeyifo pow abufuw;",
+        "ɔdɔ ne ehu dwom sononko a,",
+        "Nyame de siesie asase hunu,",
+        "Nyame de siesie asase hunu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame ne yɛn kommyɛ b'rč a yɛnto dwom;",
+        "Aw'rɛhow ma yentumi nto dwom a,",
+        "Yɛde gyidi yɛ setie kommyɛ mu,",
+        "Kosi sɛ yɛn 'yeyi nne bɛsɔr' bio,",
+        "Kosi sɛ yɛn 'yeyi nne bɛsɔr' bio."
+      ],
+      "number": 4
+    }
+  ]
+}

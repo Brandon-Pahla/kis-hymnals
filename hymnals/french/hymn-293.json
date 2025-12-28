@@ -1,0 +1,58 @@
+{
+  "number": 293,
+  "language": "fr",
+  "title": "Je ne sais pourquoi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Je ne sais pourquoi, dans sa grâce,",
+        "Jésus m'a tant aimé,",
+        "Pourquoi par son sang il efface",
+        "Ma dette, mon péché."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Mais je sais qu'en lui j'ai la vie,",
+        "Il m'a sauvé dans son amour;",
+        "Et gardé par sa main meurtrie,",
+        "J'attends l'heure de son retour."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je ne sais comment la lumière",
+        "Éclaire tout mon cœur,",
+        "Comment je compris ma misère",
+        "Et reçus mon Sauveur !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je ne sais quelle est la mesure",
+        "De joie et de douleur",
+        "Que pour moi, faible créature,",
+        "Réserve mon Sauveur."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je ne sais quand de la victoire",
+        "L'heure enfin sonnera,",
+        "Quand l'Agneau, l'Époux, dans sa gloire",
+        "Avec lui me prendra."
+      ],
+      "number": 5
+    }
+  ]
+}

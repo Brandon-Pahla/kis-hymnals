@@ -1,0 +1,37 @@
+{
+  "number": 445,
+  "language": "tw",
+  "title": "Meyɛ 'Hɔhɔ Wɔ Ha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Meyɛ 'hɔho wɔ ha, S'ro ne me fie;",
+        "'Sase so yɛ w'rɛhow, S'ro ne me fie;",
+        "Mmusu ne aw'rɛhow Atwa me ho ahyia,",
+        "ɔs'ro ne m'Agya fie, S'ro ne me fie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ 's'rɔkye bɔ me mpō a, S'ro ne me fie;",
+        "M'akwantu ha yɛ tia, S'ro ne me fie;",
+        "ɔbra yim' aw'rɛhow Renkyɛ na atwam kɔ,",
+        "Aky'ri no medu fie, S'ro ne me fie."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M'Agyenkwa no nkyɛn hɔ, S'ro ne me fie;",
+        "ɔbɛhyɛm' anounyam, S'ro ne me fie;",
+        "Wɔn a wɔahy'ra wɔn a Medɔ wɔn no bɛkɔ;",
+        "'Hɔ na menya home, S'ro ne me fie."
+      ],
+      "number": 3
+    }
+  ]
+}

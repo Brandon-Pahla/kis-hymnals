@@ -1,0 +1,55 @@
+{
+  "number": 146,
+  "language": "ve",
+  "title": "146. Vhutshilo Hau Vhu Vhe Kha nne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:316",
+        "AH:247"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tshila nga ngomu hanga, Yesu mune wanga,",
+        "Ndi Iwe u neaho kha khumbelo dzanga.",
+        "Tshila nga ngomu hanga, kha zwithu zwothe-vho,",
+        "Uri hu vhonwe Iwe, vhutshiloni hanga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Thembele i tanzwiwe, khazwo zwothe zwivhi,",
+        "U de u vhonetshele, hu vhonale tshedza.",
+        "Shangoni hu vhonale, u shanduka huswa,",
+        "Uri vhathannga vhau, vha tanzwiwe nga ’we."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mirado yothe yanga nga i rende Iwe,",
+        "Nga ivhe i tendaho u shumisa nga¡’we.",
+        "Nga i ime yo khwatha, na kha zwi kondaho,",
+        "I u shumele hothe, i sa vhilaeli."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Kaidza u khuthadze, pfano i vhe hone,",
+        "Ndi ime ndi kha Iwe, ndi u shumele-vho.",
+        "Tshila nga ngomu hanga, Yesu Mune wanga,",
+        "Ndi ’we a mphindulaho, khumbeloni dzothe."
+      ],
+      "number": 5
+    }
+  ]
+}

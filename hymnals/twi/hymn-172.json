@@ -1,0 +1,47 @@
+{
+  "number": 172,
+  "language": "tw",
+  "title": "ɔko Kɛse N' Aba Awiei",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Haleluya, haleluya, haleluya!",
+        "ɔko kɛse n' aba awiei,",
+        "ɔsahen no adi nkonim,",
+        "Monhyɛ ayeyi dwom ase; Haleluya!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Owu tumi ayɛ bi de,",
+        "Nanso Kristo adi ne so;",
+        "Momfa 'nigye kronkron mmɔ 'se,",
+        "Haleluya!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aw'rɛhow nnansa atwam kɔ,",
+        "Wanyan 'nuonyam mu afi 'wum';",
+        "'Nuonyam nka yɛn Kannifo no,",
+        "Haleluya!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Wura, fa Wo mmaa ntampe no,",
+        "Gye Wo nkoa fi 'wu nwowɔe mu;",
+        "Na yɛatrá ase ato dwom, Haleluya!",
+        "Haleluya, haleluya, haleluya!"
+      ],
+      "number": 4
+    }
+  ]
+}

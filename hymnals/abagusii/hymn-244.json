@@ -1,0 +1,42 @@
+{
+  "number": 244,
+  "language": "guz",
+  "title": "244 Toiroka Ababisa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Toiroka ababisa,Nyasae nakorende;Ins'ase chimbaba chiaye,Nyasae nakorende."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyasae nakorende,'Kero gionsi nchera chionsi,Igo nakorende,Nyasae nakorende(nakorende)"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kero ki' amatuk'amabe,Nyasae nakorende;Nony' as' obororo bwonsi,Nyasae nakorende."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nako' okogania kwao,Nyasae nakorende;Takwang' ogosaba kwao,Nyasae nakorende."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. As' amatemw' ande onsi,Nyasae nakorende;'Morosu eegek' asare,Nyasae nakorende."
+      ],
+      "number": 5
+    }
+  ]
+}

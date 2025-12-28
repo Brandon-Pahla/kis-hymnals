@@ -1,0 +1,43 @@
+{
+  "number": 232,
+  "language": "xh",
+  "title": "232 Andisoze Ndikushiye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Andisoze ndikushiye Ndingekhe ndikulahle;",
+        "Ndokusiza ndikugcine, Ngenxa yegama lami;",
+        "Ungoyiki bubi wena, Yamkela icebo lam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa sivuthuz’ isaqhwithi, Biza mna ngomthandazo;",
+        "Ndokusongel’ ezingalwen’, Ndikwaluse ngenceba;",
+        "Wakulingwa, wakulingwa, Ndokugecel’ indlela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xeshikweni kukhazimla, Ungqongwe zint’ ezintle,",
+        "Ngathi kubalek’ umlambo, Konke kukholekile,",
+        "Ndoba nawe, ndoba nawe, Ndokubek’ endleleni."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wakutshon’ elusizini, Ukwanentandabuzo,",
+        "Utshone ezinkungwini, Ndokukhanyisela mna,",
+        "Ize indwe yothando lwam Ndiyiphakamisele."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 37,
+  "language": "ve",
+  "title": "37 Tsini Na Mudzimu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:473",
+        "AH:312"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tsini na Mudzimu, tsini-tsini, na musi ndo hwala tshifhambano,",
+        "Luimbo lwanga lu do vha holuno-vho, Tsini na Mudzimu, tsini-tsini."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Na musi ndi tshi nga sa mueni, naho ndo siamela kha tombo,",
+        "Fhedzi ndoro dzanga ndi dzine dza do ri, ndi tsini Mudzimu, tsini-tsini."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kha i penye ndila lwendoni lwanga, zwothe zwe nda fhiwa ndi tshilidzi,",
+        "Vharunwa tadulu vha do di mbona-vho, ndi tsini Mudzimu, tsini-tsini."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Zwi dinaho zwothe zwi tshi ndela, matunguni othe ndi na Iwe,",
+        "Huno kha mathupho ndi vho do ri nne, Ndi tsini Mudzimu, tsini-tsini."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Ndi tshi vho do fhufha nga dziphapha, nda fhira nwedzini na duvhani,",
+        "Luimbo lwanga-vho lu do vha ulu-vho, ndi tsini Mudzimu, tsini-tsini."
+      ],
+      "number": 6
+    }
+  ]
+}

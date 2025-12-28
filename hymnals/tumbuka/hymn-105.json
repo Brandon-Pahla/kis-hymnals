@@ -1,0 +1,57 @@
+{
+  "number": 105,
+  "language": "tum",
+  "title": " 105 Yesu Ndi Mponoski",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 105 Yesu Ndi Mponoski",
+        "ABLE TO DELIVER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Yesu ndi m'womboli, pharazga kose,",
+        "Yesu ndi m'womboli kwa wakup'lika,",
+        "Wangatiwombola m' ng'anjo ya moto,",
+        "Yesu ndi m'womboli zanga kwa lyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu ndi m 'womboLi,",
+        "wa charu chose,",
+        "Para mwagomezga",
+        "mu mazgu ghake."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Yesu ndi m'womboli ka mbunenesko?",
+        "Ka wana nkhongono kundiponoska?",
+        "Mundiphalire 'mwe Khristu ndi mtaski,",
+        "Wangandisutula magoliwoli."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Yesu ndi m'womboli, khwima mtima 'we,",
+        "Ugwirenge ntchito ya Muponoski,",
+        "Ungopanga m'rwani, m'limire Yesu,",
+        "Ungachedwanga 'we, vwala zikhole."
+      ],
+      "number": 4
+    }
+  ]
+}

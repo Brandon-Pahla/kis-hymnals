@@ -1,0 +1,55 @@
+{
+  "number": 115,
+  "language": "sn",
+  "title": "115 Murapi Mukuru",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Murapi m’kuru uripo we mutsa, ndiye Jesu.",
+        "Anofarisa warombo, Inzwai izvi raJesu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zita Rake ritendzwe, Zita rake rikudzwe",
+        "Zita Rake riimbwe; Jesu hunde Jesu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Zwitadzo zwa sunungurwa\" Inzwai izwi raJesu.",
+        "Fambanyi naYe kudenga, Tigere’ko naJesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mbiri kuNyenye yaMwari, Ndinodawira Jesu,",
+        "Ndinodisa zita iri raMuponesi Jesu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zwimwe ndatadza ndinoda Kunzwa zita ra Jesu,",
+        "Mwoyo wangu wanyaradzwa Ngezita’ro ra Jesu."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Apo iye achauya nembiri ne upenyu,",
+        "Tichafara kutaura ruponeso rwaJesu."
+      ],
+      "number": 6
+    }
+  ]
+}

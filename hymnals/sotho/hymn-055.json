@@ -1,0 +1,54 @@
+{
+  "number": 55,
+  "language": "st",
+  "title": "55 Na U Hlapile Maling",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Na u tsoa ho Jesu ho ea hlapisoa,",
+        "U hlapile maling ’Konyana;",
+        "Na u ts’epile Eena kajeno na?",
+        "U hlapile maling ’Konyana."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U hlapile maling,... malilng a hlapisang le moea?",
+        "Na aparo tsa hao li ntle li ea benya? U hlapile maling a",
+        "Konyana."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na u tsamaea le Eena ’Moloki?",
+        "U hlapile maling’Konyana?",
+        "Na u phomola ho ea thakhisitsoeng?",
+        "U hlapile maling ’Konyana?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha monyali a ’tla u tla ba motle?",
+        "U hlapile maling ’Konyana?",
+        "U itukeisetsa ho aha ’seling?",
+        "Le ho hlapa maling ’Konyana."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lahla aparo tse tletseng lits’ila,",
+        "’Me u hlape maling a ’Konyana<brHo teng mohloli o hlatsoang le moea,",
+        "Tlo u hlape maling a ’Konyana."
+      ],
+      "number": 4
+    }
+  ]
+}

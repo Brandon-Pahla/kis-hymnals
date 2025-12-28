@@ -1,0 +1,49 @@
+{
+  "number": 360,
+  "language": "tw",
+  "title": "Wofi Apuei Mmepɔm'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wofi apuei mmepɔm' Nam kwan so reba,",
+        "Wofi wɔn nyansam' ba N'ahobrɛase fie;",
+        "Wɔde ahofama Fi aky'rik'ri ba;",
+        "Wɔn akwantu mu no,",
+        "&nbsp;&nbsp;&nbsp;&nbsp;Ns'romma ky'rɛɛ wɔn kwan."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha na wɔn W'ra 'Gyenkwa A ɔdwo no da;",
+        "Hann nwanwa a ɛmaa Wɔn akwanky'rɛ no,",
+        "Bɛhyerɛn nnɛ ama Aky'riky'ri aman.",
+        "B'rč a ns'romma kwanky'rɛfo",
+        "&nbsp;&nbsp;&nbsp;&nbsp;De wɔn kɔ fie no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa 'kwantofo bra mu, Wɔn a wɔafom kwan.",
+        "Fa Wo hann twa wɔn ho Na kyerɛ wɔn kwan;",
+        "Wɔn a wonnim Wo da, Wɔn a wɔamane,",
+        "Fa ns'romma kwanky'rɛfo Di wɔn anim bra."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kosi sɛ man biara, 'Kɛsč anaa kumaa,",
+        "Bɛba Wo frankaá ase, Yesu di w'akyi,",
+        "Wɔ 'ky'riky'ri mmepɔ a Ͻkɔ s'ro fie no,",
+        "Nea bɔne ne 'w'rɛhow Remma hɔ bio no."
+      ],
+      "number": 4
+    }
+  ]
+}

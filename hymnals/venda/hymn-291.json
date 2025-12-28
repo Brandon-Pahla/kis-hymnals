@@ -1,0 +1,54 @@
+{
+  "number": 291,
+  "language": "ve",
+  "title": "291. Zwo Fanela Ngwana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:246",
+        "AH:145"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Zwo fanelaho Ngwana",
+        "Ndi u rendwa nga misi",
+        "Zwo fanelaho Ngwana",
+        "Ye ya fa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Renda haleluya,",
+        "Thendo haleluya",
+        "Renda haleluya",
+        "Murena"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Muvhuso wau u de",
+        "U do fhelisa zwivhi",
+        "disa muvhuso wau",
+        "Mukhethwa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nga ri mu shumele-vho",
+        "Nga lufuno ri rende",
+        "Ri tshi swika Tsioni",
+        "Ri vhone"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 53,
+  "language": "st",
+  "title": "53 Moea O Halalelang",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Moea O Halalelang, eba haufi le mokreste,",
+        "Re hule ka seatla, re baeti mo lefeelleng;",
+        "Ba khathetseng ba nyakalla, Ha ba utloa lentsoe lee;",
+        "Le sebang, “tlo molahlehi, Ntatele ke tla u isa hae.”"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U motsoalle ea ts’epehang, U haufi ho re thusa.",
+        "U se ke ua re sia, ts’abong le hona lefifing;",
+        "Ha ho le litsietsi, lipelo li tepella,",
+        "U sebe, “Tlo molahlehi, Ntatele ke tla u isa hae.”"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha mosebetsi O fetile, ke emetse ho lokolloa;",
+        "Re maketse re sa tsebe! Ha mabitso a ngoliloe,",
+        "Re ts’ela moroallong, Ho kopa mali a Jesu,",
+        "U sebe “Tlo molahlehi, Ntatele ke tla u hula."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 137,
+  "language": "es",
+  "title": "De Jesús el nombre invoca",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### De Jesús el nombre invoca"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De Jesús el nombre invoca,",
+        "heredero del dolor,",
+        "dulce hará tu amarga copa",
+        "con el néctar de su amor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Suave luz, manantial",
+        "de esperanza, fe y amor;",
+        "sumo bien celestial",
+        "es Jesús, el Salvador."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De Jesús el nombre estima,",
+        "que te sirva de broquel;",
+        "alma débil, combatida,",
+        "hallarás asilo en él."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De Jesús el nombre ensalza,",
+        "cuyo sin igual poder",
+        "del sepulcro nos levanta,",
+        "renovando nuestro ser."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 45,
+  "language": "tn",
+  "title": "45 Mpha Bibela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mpha Bibela Lesedi Ja Boipelo,",
+        "Go gomotsa motimedi phefong;",
+        "Ga go sefefo se se ka le fitlhang,",
+        "Gonne Jes’ o tsile go boloka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mpha Bibela thomo e boitshepo,",
+        "Lesedi ja Gago le tla nkgoga.",
+        "Tao, tsholofetso lorato mmogo,",
+        "Go bo go tswe tsatsi le sa khutleng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mpha Bibela Fa Ke Lo Mo Tlalelong",
+        "Fa boleo bo ntlatsa poifo;",
+        "Mpha mafoko a builweng ke Jeso,",
+        "Tsholetsa lobone lwa tumelo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mpha Bibela, Mme Mponesetsa Tsela,",
+        "Nthuta kotsi ya dipuso tseno;",
+        "Bone lole lwa poloko lo tuke,",
+        "Lo bonese tsela ya kagiso."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mpha Bibela Lobone Lwa Botshelo,",
+        "Lo tsholetse phupung e e butsweng",
+        "Mpontsa lesedi ja kwa legodimong,",
+        "Mpontsha kgalalelo kwa Jordane"
+      ],
+      "number": 4
+    }
+  ]
+}

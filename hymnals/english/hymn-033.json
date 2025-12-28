@@ -1,0 +1,56 @@
+{
+  "number": 33,
+  "language": "en",
+  "title": "33 He Leadeth Me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "He leadeth me !O blessed tho`t!",
+        "O words with heav`nly comfort fraught!",
+        "Whate`er I do, wherever I be,",
+        "still `tis God’s hand that leadeth me"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "He leadeth me, he leadeth me,",
+        "By his own hand he leadeth me:",
+        "His faithful fol`wer i would be,",
+        "For by his hand he leadeth me."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sometimes `mid scenes of deepest gloom,",
+        "sometimes where Eden`s bowers bloom",
+        "By waters still, o`er troubled sea,-",
+        "still `tis his hand that leadeth me"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lord I would clasp thy hand in mine,",
+        "nor ever murmur or repine,",
+        "Content whatever lot I see,",
+        "since `tis my God that leadeth me."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "And when my task on earth is done,",
+        "when by thy grace the victory`s won,",
+        "E`en death`s cold wave I will not flee,",
+        "since God thro` Jordan leadeth me."
+      ],
+      "number": 4
+    }
+  ]
+}

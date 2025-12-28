@@ -1,0 +1,41 @@
+{
+  "number": 227,
+  "language": "sn",
+  "title": "227 Pamuchinjiko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Muponesi mambo wangu, wandifira ini;",
+        "Akafira munhu, akaita seni here?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pamuchinjikondakaona kupenya,",
+        "Apo m’toro wemwoyo wabviswa (wabviswa)",
+        "Ndipo ndakazowamba kuona,",
+        "Zvino ndinozofara kwazvo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pam’sana pangu, Akaturikwa pamuti here?",
+        "Tsitsi, ngoni nerudo, Zvinoshamisa kwazvo!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Urombo hahukwanisi, K’ripa mhosva yangu;",
+        "Tenzi ndizvipira, Ndizvo-chete ndingaite!"
+      ],
+      "number": 4
+    }
+  ]
+}

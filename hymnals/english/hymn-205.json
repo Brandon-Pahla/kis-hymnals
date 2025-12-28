@@ -1,0 +1,37 @@
+{
+  "number": 205,
+  "language": "en",
+  "title": "205 While Jesus Whispers",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "While Jesus whispers to you, Come sinner come!",
+        "While we are praying for you, Come sinner come!",
+        "Now is the time to own him, Come sinner come!",
+        "Now is the time to know him, Come sinner come!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Are you too heavy laden? Come sinner come!",
+        "Jesus will hear your burden, Come sinner come!",
+        "Jesus will not deceive you, Come sinner come!",
+        "Jesus can now redeem you, Come sinner come!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O hear his tender pleading, Come sinner come!",
+        "Come and receive the blessing, Come sinner come!",
+        "While Jesus whispers to you, Come sinner come!",
+        "While we are praying for you, Come sinner come!"
+      ],
+      "number": 3
+    }
+  ]
+}

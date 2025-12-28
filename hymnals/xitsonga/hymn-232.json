@@ -1,0 +1,26 @@
+{
+  "number": 232,
+  "language": "ts",
+  "title": "232. A NDZI KU SUKELI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I WILL NEVER LEAVE THEE",
+        "1. A Ndzi Ku Sukeli, Hambi Ku Ri Ku Ku Tshika, Hi Nsovo Wa Vito Ra Mina,",
+        "Teka Switshundzuxo Swanga, Na Loko U Dyohile.",
+        "2. Loko Vutomi Byi Tika, Khongela Vito Ranga,",
+        "Mina Ndzi Ta Ku Tiyisa, Xikarhi Ka Miringu, Hi Nsovo Wanga,",
+        "Ndlela Ya Wena Yi Ta Vevuka.",
+        "3. Loko Ku Ta Vangama Ehenhla Na Le Ka Wena,",
+        "Vutomi Byi Nandziha,",
+        "U Nga Khana Hi Wo Ntsako, Ndzi Ta Va Na Wena,",
+        "Ndzi Ku Hlayisa Endleleni.",
+        "4. U Nga Tsana Moyeni, U Funengela Munyama,",
+        "Mihloti Yi Hohloka, Na Mbilu Yi Tshovekile,",
+        "Ndzi Ta Ku Thova Timbanga, Ndzi Ta Ku Londzovota."
+      ],
+      "number": 1
+    }
+  ]
+}

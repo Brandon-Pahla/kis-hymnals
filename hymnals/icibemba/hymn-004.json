@@ -1,0 +1,31 @@
+{
+  "number": 4,
+  "language": "bem",
+  "title": "4 - ILANDWE LYAWAMA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HE’S COMING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ilandwe lyawama twaumfwa nomba, Lintu tuleluba mu mpanga;",
+        "Yesu Kristu akesa kuno bwangu Ukututwala ku bufumu.",
+        "CHORUS:",
+        "Akesa, a-ke-sa bwangu nomba, Akabwela ukuteka,",
+        "Na'basambi bakwe baya ku mulu Lintu akabwela kuteka.",
+        "2. Nshishi shakale i 'sha- 'ba-su-ma, shikafumya abantu bakwe,",
+        "Na'bo bonse basendama tulo twamfwa Bakaba pa calo kabili.",
+        "3. Tatwakalekane lintu twafika uko, Tukatote Mfumu Yesu;",
+        "Kutali na mupepi baka-longana ukuya pamo kuli Yesu",
+        "4. Haleluya amen! Haleluya amen! Basuma bapalamikwa;",
+        "Teyanisheni pepeni mwe bantu bakwe, Mukafwala ifitebo"
+      ],
+      "number": 2
+    }
+  ]
+}

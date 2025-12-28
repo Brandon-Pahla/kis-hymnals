@@ -1,0 +1,47 @@
+{
+  "number": 86,
+  "language": "tn",
+  "title": "86 Obamelang Kgosi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Obamelang Kgosi Ya Godimo,",
+        "Lo opelele rato lwa Gagwe;",
+        "Ke thebe ya rona le Mofemedi",
+        "Yo’ apereng kgalalelo le pako."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bolelang Thata Le Tshwaro Ya ’Gwe,",
+        "Yo’ apereng lesedi, loapi;",
+        "Kara tsa bogale jwa ’Gwe, ke maru,",
+        "Tsela ya ’Gwe e lefifi sefefong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pabalelo Ya Gago E Tona",
+        "E ka bolelwa e mang? E phatsima",
+        "Leseding, Dithabeng le mo mabaleng,",
+        "Mme e botshe mo monyong, le mo puleng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bana Ba Lorole Ba Ba Bokoa,",
+        "Re ikanya Wena, O ya kgona;",
+        "Tshwaro ya Gago ke ya bosakhutleng;",
+        "Mmopi Oa rona le Morekolodi."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 15,
+  "language": "tn",
+  "title": "15 E Jeso O A Nthata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "E, Jeso O A Nthata, Go Bolelwa Mo Kwalong",
+        "Banyana ke ba Gagwe, Ba bokoa mme O thata."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jeso Oa nthata, E, O a nthata,",
+        "Jeso Oa nthata, Ke utlwa Lokwalong"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E, Jeso O A Nthata, Mme O Ile A Ntshwela;",
+        "Mme O tla ntlhatswa dibe, Banyana ba ’Gwe ba tle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E, Jeso O A Nthata, Fa Ke Le Bohutsaneng;",
+        "O tswa kwa legodimong Go tla nteba kwa ke teng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E, Jeso O A Nthata, O Tla Tsamaya Le Nna",
+        "E, mme fa ke Mo rata O tla nkisa godimo."
+      ],
+      "number": 4
+    }
+  ]
+}

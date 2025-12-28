@@ -1,0 +1,40 @@
+{
+  "number": 577,
+  "language": "pt",
+  "title": "Santo És, Senhor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Santo És, Senhor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Santo, santo, santo, santo és, Senhor.",
+        "Santo, santo, santo, Deus e Criador."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Terra e céus formaste para o Teu louvor.",
+        "Santo, santo, santo, sumo benfeitor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Teu, Senhor, é o reino, Teu é o poder,",
+        "Tua é a glória, para sempre, amém!"
+      ],
+      "number": 4
+    }
+  ]
+}

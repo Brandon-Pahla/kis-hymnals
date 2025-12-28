@@ -1,0 +1,35 @@
+{
+  "number": 403,
+  "language": "en-sdah",
+  "title": "403 Let Us Break Bread Together",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Let us break bread together on our knees; Let us break bread together on our knees."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain : When I fall on my knees, With my face to the risen Son, O Lord, have mercy on me."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Let us drink wine together on our knees; Let us drink wine together on our knees."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Let us praise God together on our knees; Let us praise God together on our knees."
+      ],
+      "number": 4
+    }
+  ]
+}

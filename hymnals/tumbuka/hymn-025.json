@@ -1,0 +1,67 @@
+{
+  "number": 25,
+  "language": "tum",
+  "title": " 25 Nkhupereka Vyonse Kwa Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 25 Nkhupereka Vyonse Kwa Yesu",
+        "ALL TO JESUS I SURRENDER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nkhupereka vyose kwa Yesu,",
+        "vyose mwa wanangwa,",
+        "Nditi ndimtemwe",
+        "Fumu Yesu pa mazuwa ghose."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nkhuvipereka vyose kwa Yesu;",
+        "Nkhupereka kwinu,",
+        "Yesu munditumbike."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nkhupereka vyose kwa Yesu",
+        "pa malundi ghake",
+        "Vya mcharu ndavireka vyose,",
+        "nditorani Fumu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nkhupereka vyose kwa Yesu,",
+        "ndiwe winu Dada,",
+        "Mzimu winu wandisambizge",
+        "kuti muli wane."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Nkhupereka vyose kwa Yesu,",
+        "mundipe nkhongono",
+        "Nkhusangwa nadi m'chiponosko,",
+        "ndithuwuske imwe."
+      ],
+      "number": 5
+    }
+  ]
+}

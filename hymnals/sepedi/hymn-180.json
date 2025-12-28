@@ -1,0 +1,57 @@
+{
+  "number": 180,
+  "language": "nso",
+  "title": " 180  GA RE TSEBE NAKO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 180  GA RE TSEBE NAKO",
+        "АН 400 CH 540",
+        "WE KNOW NOT THE HOUR"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gare tsebe nako ye Moren'a tlago,",
+        "Mme ditšhupo di šupa gore o kgauswi;",
+        "Ge a bowa ke tšhepiso yeo e thabišago,",
+        "Ga re tsebe nako;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "O tlo tla... A re emeng re loke,",
+        "O tlo tla... haleluya, haleluya,",
+        "O tla ka maru kgalalelong ya Tate,",
+        "Ga re tsebe nako,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lesedi le gona go boa ba nyakago poloko,",
+        "Nnete e gona pukung ya kutullo ya Jeso ,",
+        "Le boporofeta bo šupa nako yela,",
+        "Ga re tsebe nako;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re tlo rapela re tšhubile mabone,",
+        "Re lete mošomong Morena a be a tle,",
+        "Re opele lethabong re hlokometše",
+        "Ditšhupo, Ga re tsebe nako;"
+      ],
+      "number": 5
+    }
+  ]
+}

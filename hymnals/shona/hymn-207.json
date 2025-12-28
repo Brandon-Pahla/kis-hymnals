@@ -1,0 +1,47 @@
+{
+  "number": 207,
+  "language": "sn",
+  "title": "207 Aunza Ruregerero Rwangu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndakamuona pamuti,",
+        "M’kurwadzwa neropa",
+        "Akanditarisa ini",
+        "Ndakamira petyo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ini handizokanganwi",
+        "Kutarisa kwake",
+        "Kwakati afira ini",
+        "Iye anyerere"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A’tarisazwe akati,",
+        "Ndok’regerera",
+        "Ropa rapararira’we,",
+        "Ndafa kut’upone"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rufo rwenyu rwapangidza",
+        "Kuipa kwangu",
+        "Kuwandikai kwe tsitsi,",
+        "Dzinosunungura"
+      ],
+      "number": 4
+    }
+  ]
+}

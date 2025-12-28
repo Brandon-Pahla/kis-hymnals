@@ -1,0 +1,57 @@
+{
+  "number": 174,
+  "language": "sn",
+  "title": "174 Kufadza Kukuru",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Runofadza rusimbiro,",
+        "Tichitambudzika",
+        "Runotipa simba m’nzira dzedu",
+        "dzenhamozve, dzenhamozve"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Runonongedza kuzororo",
+        "Kuchatonga Jesu",
+        "Kwatichaona vadiwa, Tisingapatsani",
+        "Kwatichaona vadiwa, Tisingapatsani"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyika isisna chitema,",
+        "Hina zviyedzo",
+        "Kune rufaro narini kusina kutsamwa",
+        "Kune rufaro narini kusina kutsamwa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyika isina masodzi,",
+        "Isinazve rufu",
+        "Vanopinda iyo nyika vovasengirosi",
+        "Vanopinda iyo nyika vovasengirosi"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kasika nguva kupera,",
+        "Timuone Tenzi",
+        "Timuone sezvo muri, Tisvike kumusha",
+        "Timuone sezvo muri, Tisvike kumusha"
+      ],
+      "number": 5
+    }
+  ]
+}

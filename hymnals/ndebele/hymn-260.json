@@ -1,0 +1,57 @@
+{
+  "number": 260,
+  "language": "nd",
+  "title": "260  Ngiyadlula Es’godini",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngiyadlul’ es’godini",
+        "Okuthiwa sisodwa",
+        "Kimina yiso isigodi",
+        "Sika Bhewula",
+        "Kodwa ngifumana kukhon’",
+        "Imbali ngendlela",
+        "UMsindisi useduze kwami",
+        "Yonk’ indlela"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sigodi sase Bhewula, uligugu kimi",
+        "goba ngibona khashana izwe elilodwa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akuna thunzi elenza",
+        "Mnyama endleleni",
+        "Ngob’ imisebe yobukhos’",
+        "Iyayi khanyisa",
+        "Kusahutshwa kamnandi",
+        "Ezulwini laphaya",
+        "Kuqhamuk’ iphimb’",
+        "Es’godini ingethabise"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngihamba ngithokozel’",
+        "Ukukhanya komuzi",
+        "Nsuku zonke ngijabule",
+        "Kukhanye kakhulu",
+        "S’god’ esihle sas’ Edeni",
+        "Umnandi emini",
+        "Enhliziyweni yokhathele",
+        "Ngamanz’ apholile"
+      ],
+      "number": 4
+    }
+  ]
+}

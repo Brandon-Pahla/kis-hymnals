@@ -1,0 +1,49 @@
+{
+  "number": 136,
+  "language": "tw",
+  "title": "Kristofo, Munni Dɛw",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kristofo, munni dɛw,",
+        "Momfa koma ne nne",
+        "Nyɛ aso na muntie yɛn;",
+        "Wɔawo Yesu Kristo nnɛ;",
+        "Nantwi ne af'rum som No;",
+        "ɔda mmoa 'didibea seesei,",
+        "Wɔawo Kristo nnɛ!",
+        "Wɔawo Kristo nnɛ!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kristofo, munni dɛw,",
+        "Momfa koma ne nne",
+        "Nnɛ mote daa 'nigyesɛm;",
+        "Enti na wɔwoo Kristo!",
+        "Wabue s'ro pon ama yɛn;",
+        "Na Wahyira yan afebɔɔ",
+        "Nti na wɔwoo No!",
+        "Nti na wɔwoo No!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kristofo, munni dɛw,",
+        "Momfa koma ne nne;",
+        "Ͻnsɛ sɛ musųro damoa;",
+        "Yesu Kristo bɛgyee nkwa,",
+        "ɔfrɛ mo nnipa nyinaa",
+        "Kɔ Ne daa ahenni no mu;",
+        "Kristo bɛgyee nkwa!",
+        "Kristo bɛgyee nkwa!"
+      ],
+      "number": 3
+    }
+  ]
+}

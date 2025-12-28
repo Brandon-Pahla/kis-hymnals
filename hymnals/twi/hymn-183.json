@@ -1,0 +1,46 @@
+{
+  "number": 183,
+  "language": "tw",
+  "title": "Mɛto Yesu Dɔ Ho Dwom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mɛto Yesu dɔ ho dwom,",
+        "Nea Odii kan dɔɔ me no;",
+        "Ogyaa 'man fɛfɛ wɔ s'ro",
+        "Ba bewui wɔ Kalbre so."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mɛto Yesu dɔ ho dwom,",
+        "Me kra bɛto daa 'yeyi;",
+        "Owui sɛnea menya nkwa,",
+        "Mɛto Ne dɔ ho dwom daa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "S'ro dɔ a emu dɔ pii!",
+        "Fam ne s'ro ntumi nkyerɛ",
+        "Sɛ bɔne te sɛ me de,",
+        "Bɛhoa te sɛ suky'rɛma."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Papa bi nni hɔ a mayɛ,",
+        "Ͻyɛɛ dɛn n'ɔdɔɔ me saa?",
+        "'W'ra, mede me koma maW',",
+        "Ma mentumi nky'rɛ me dɔ."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 56,
+  "language": "nd",
+  "title": "56  Nkosi, Ngi Yeza Ekhaya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi zulile kude, Nkosi,",
+        "Se ngi yabuya",
+        "Ngi dinwe yizono zami",
+        "Nkosi, ngi yeza"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yeza ekhaya, Se ngi khathele",
+        "Vul’ ingalo zothando, Nkosi ng’amkele"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kade ngi cita im’nyaka, Se ngi yabuya;",
+        "Manje, se ngi yaphenduka Nkosi, ngi yeza ."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi dinwe ukulahleka, Se ngi yabuya;",
+        "Ngi themba ilizwi lAkho, Nkos, ngi yeza."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi ncenga ngokukwethemba, Se ngi yabuya;",
+        "uJesu wafela mina, Nkosi ngi yeza."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi, hlanzisisa mina, Se ngi yabuya;",
+        "Ma ngi bemhlope njengeqhwa, Nkosi, ngi yeza."
+      ],
+      "number": 6
+    }
+  ]
+}

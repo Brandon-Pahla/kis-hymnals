@@ -1,0 +1,45 @@
+{
+  "number": 125,
+  "language": "sn",
+  "title": "125 Kujeka Mumwoyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kune kupenya mugomo, nekupenya munyanza,",
+        "Nemaranzi anogara Munzwimbo dzakanaka,",
+        "Mukati memwoyo wangu mazadzwa nekujeka,",
+        "Apo pana Muponesi pano jekesa kwese."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O! kupenya kwakanaka kupenyera mu mwoyo,",
+        "Jesu ano bvisa nhamo anopenya mumwoyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndosiya kusuwa kwangu Senguwadzo dzekare;",
+        "Ndifukidze nekutenda mundipenyikutenda.",
+        "Kumusha wembiri uyo makandigadzirira;",
+        "Mwoyo wangu unotenda ne mweya unobvuma."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muponesi manditenga ndawawenyu narini;",
+        "Ngayipfute mwenje yese ipfutire iye Tenzi.",
+        "Kumusha wembiri uyo makandigadzirira;",
+        "Mwoyo wangu uno tenda nemweya unobvuma."
+      ],
+      "number": 4
+    }
+  ]
+}

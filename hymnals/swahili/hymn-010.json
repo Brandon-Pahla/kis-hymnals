@@ -1,0 +1,37 @@
+{
+  "number": 10,
+  "language": "sw",
+  "title": "10 - Kristo wa Neema Yote",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Kristo wa neema yote, imbisha moyo wangu,",
+        "Mifulizo ya baraka, inaamsha shangwe kuu,",
+        "Unifunze nikupende, nikuandame kote,",
+        "Moyo wangu ukajae, furaha na tumai."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Namshukuru sana Bwana, aniwezesha huku.",
+        "Salama aniongoza, hata kule nyumbani,",
+        "Yesu alinitafuta, njiani mbali kwake,",
+        "Akatoa damu yake, nipone hatarini."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Kweli mimi mwiwa mkubwa, wa neema daima",
+        "Wema wako unifunge, zaidi kwako Bwana,",
+        "Ili nisivutwe tena, kukuacha ee Mponya,",
+        "Nitwalie moyo wangu, uwe wako kamili."
+      ]
+    }
+  ]
+}

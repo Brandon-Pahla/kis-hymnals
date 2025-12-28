@@ -1,0 +1,56 @@
+{
+  "number": 755,
+  "language": "tw",
+  "title": "NG5 Gya Me Kwan Dwoo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me b're so' a ma me nkεda komm,",
+        "Na mentwεm Wo bɔ hyε no;",
+        "Sε m'abrabɔ nyinaa to twa a",
+        "Aw'rade, gya me kwan dwoo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Gya me kwan dwoo, gya me kwan dwoo,",
+        "Me b'rε so a gya me kwan",
+        "Yi me f'ri yaredahɔ   mu",
+        "B'rε so' a ma me nkɔda komm."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me b'rε so' a ma menkɔda komm",
+        "Nyame' aWonim m'awieeε,",
+        "Wo nko na Wonim me nkwa nna",
+        "‘Fisε me kwan hyε Wo nsa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M'awoda yε bɔne ma me,",
+        "Ayε sum ne aw'rεho,",
+        "Wiase asetena afon' me,",
+        "Nanso me hwε Wo ara."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ɔbrεguo deε, ma εmpare me,",
+        "Kora me anidaso mu,",
+        "Adekyeeε fεfε no mu",
+        "Nyan me W'anuonyam mu bi."
+      ],
+      "number": 4
+    }
+  ]
+}

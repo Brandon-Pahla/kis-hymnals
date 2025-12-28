@@ -1,0 +1,47 @@
+{
+  "number": 174,
+  "language": "tw",
+  "title": "Yɛn 'Nidaso Ns'romma Bepue!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn 'nidaso Ns'romma bepue",
+        "T'robɛnto nne team sɛ Wabɛn;",
+        "'Hotefo ny'naa mommɔ No 'se,",
+        "Sɛnea 'nokwafo gye No fa!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "S'ro abɔfo ma wɔn nne so:",
+        "Wɔhyɛ 'nuonyam W'ra no 'henkyɛw;",
+        "Ofura ɔsoro tumi,",
+        "ɔhy'rɛn N'anuonyam kɛse mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Damoa so buebue ma akra",
+        "A wɔadeda wɔ dɔte mu,",
+        "Nyan wɔ nipadua fɛfɛ mu",
+        "Kohyia Agyenkwa no wɔ wim."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔde N'anuonyam agua sian",
+        "Bɛfa 'henni no sɛ Ne de;",
+        "Ahotefo bɔ 'se to dwom,",
+        "Kamfo wɔn Hen' nkonimdifo."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": 95,
+  "language": "guz",
+  "title": "95 Bugia Engoma Y' Enchili",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bugia engoma y' enchili,Ker' omont' akurerwe;Oyokoigwa Ring'ana,Aonchok' abe moyo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bugi' engoma Omwegeni,Yebugi' ense n'enyancha;Nyasae ochikireker'omosibwa asiborwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yebugie chinsinyo chionsi,'Se abasibwa bare;Teba \"Bionsi ng'ang'e bire,Tata obarangeirie.\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yebugi' ebitunwa igoro,Ase chiroro chionsi;Chindiba chiiranerie,'Mogok' ogotoreka."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Yebugie 'S'abarosire'Ganetie batimoke;Omotori' obachikire,\"Mbuya moche as'ende.\""
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "number": 99,
+  "language": "ts",
+  "title": "99. NDZI LANGUTA XIHAMBANWEN",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHEN I SURVEY THE WONDEROUS",
+        "1. Ndzi Languta Xihambanwen, Laha Ku Feleke Hosi,",
+        "Rifuwo Ranga I Swa Hava, A Ri Ndzi Pfuni Hi Nchumu.",
+        "2. Vonan Nhloko Na Mavoko, Nhlomulo Na Ro Rirhandzu,",
+        "Xihlamariso Xa Hosi, Yi Teke Ndhawu Ya Mina.",
+        "3. A Ndzi Fanele Hi Rifu, Kambe U Ndzi Kutsurile,",
+        "A Ndzi Na Ku Tikurisa, U Ndzi Fele Xihambanwen.",
+        "4. Hambi Ndzi Nga Fuwa Ndzhaka, Ya Yo Misava Hinkwayo,",
+        "Rirhandzu Leri Ronghasi, Funengeta Vutomi Byanga."
+      ],
+      "number": 1
+    }
+  ]
+}

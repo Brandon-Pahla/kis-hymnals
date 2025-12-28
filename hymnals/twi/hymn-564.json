@@ -1,0 +1,35 @@
+{
+  "number": 564,
+  "language": "tw",
+  "title": "Owipuei Ne Owitɔe Ne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Owipuei ne owitɔe ne",
+        "Nea ɛwɔ ntam nyinaa,",
+        "Nea ɛyɛ dɛw ne nea ɛyɛ",
+        "Ad'ru wɔ hɔ nyinaa;",
+        "Yɔnkofa ne 'ko mu 'ɔomdwoe",
+        "Ne hann wɔ sum nna mu,",
+        "Dwumadi ne nkwan' 'hoɔden ho",
+        "Yɛto yɛn 'yeyi dwom."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nanso yɛp're kɔ anim tra",
+        "Saa 'kyɛde pa yi ny'naa",
+        "Nya 'pene a enni kabea",
+        "Wɔ Wo ne Wo dɔ mu;",
+        "O, 'W'rade Dɔfo a Wo mu",
+        "Yenya nna mu dɛw ny'naa;",
+        "Dɛn na ɛbɛyɛ b'rč a yɛde",
+        "'Nigye behu W'anim?"
+      ],
+      "number": 2
+    }
+  ]
+}

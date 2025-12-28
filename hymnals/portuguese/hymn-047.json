@@ -1,0 +1,44 @@
+{
+  "number": 47,
+  "language": "pt",
+  "title": "Belém, Bendita És",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Belém, Bendita És"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Belém, bendita és entre as cidades de Judá;",
+        "Enquanto assim tu dormes, oh! que bênção Deus te dá!",
+        "Embora obscura, brilha em ti a eterna luz,",
+        "A luz das esperanças que os mortais a Deus conduz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Em ti já é nascido o Messias Redentor;",
+        "No Céu os santos anjos cantam glórias, dão louvor.",
+        "Ó vós, estrelas d'alva, a nova anunciai;",
+        "A Deus erguei hosanas, e a nós a paz cantai!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó, vem, Senhor e Mestre que nasceste em Belém;",
+        "Visita-nos e nasce em nosso coração também.",
+        "A voz dos anjos soa, a paz a proclamar.",
+        "Jesus, agora mesmo vem, sim, vem em nós morar."
+      ],
+      "number": 4
+    }
+  ]
+}

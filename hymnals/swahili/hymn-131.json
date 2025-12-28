@@ -1,0 +1,59 @@
+{
+  "number": 131,
+  "language": "sw",
+  "title": "131 - Namtegemea Mungu",
+  "stanzas": [
+    {
+      "type": "chorus",
+      "lines": [
+        "1",
+        "Namtegemea Mungu niwapo, humo barani na baharini,",
+        "Yeye wa mbinguni anilinda, Baba wa mbinguni anilinda.",
+        "CHORUS:",
+        "Namwamini, Mungu anitunza (anitunza)",
+        "Milimani (milimani) au baharini (baharini), baharini",
+        "Moyo wangu (moyo wangu) aulinda (aulinda),",
+        "Baba wa mbinguni anilinda.",
+        "2",
+        "La waridi alinawirisha, na huyo tai juu angani,",
+        "Nami kweli ananilinda, Baba wa mbinguni anilinda.",
+        "3",
+        "Tunduni mwa simba namwamini, kwenye vita ama gerezani,",
+        "Motoni na furikoni, Baba wa mbinguni anilinda.",
+        "4",
+        "Bondeni mwa giza na upweke, mchunga wangu yu anilinda,",
+        "Kwa upole aniongoza, Baba wa mbinguni anilinda."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Kwa mahitaji ya kesho, sina ombi,",
+        "Unilinde nisitende dhambi leo,",
+        "Nisiseme neno baya, Mkombozi,",
+        "Nisifikiri uovu, leo hivi."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Ningefanya kazi sawa, na kuomba,",
+        "Ningekuwa mtu mwema, kila saa,",
+        "Mapenzi yako nifanye, na kutii,",
+        "Nitoe mwili dhabibu, leo hivi."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Kama leo ningekufa, kwa ghafula,",
+        "Nitegemee ahadi, zako Bwana,",
+        "Kwa mahitaji ya kesho, sina ombi,",
+        "Uniongoze nishike, leo hivi."
+      ]
+    }
+  ]
+}

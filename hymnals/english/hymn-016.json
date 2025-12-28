@@ -1,0 +1,38 @@
+{
+  "number": 16,
+  "language": "en",
+  "title": "16 I Washed My Hands",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I washed my hands this morning, O very clean and white,",
+        "And lent them both to Jesus, To work for him till night."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Little feet be careful, Where you take me to,",
+        "Anything for Jesus Only let me do."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I told my ears to listen Quite closely all day thro`,",
+        "For any act of kindness, Such little hands can do."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "My eyes are set to watch them,About their work or play,",
+        "To keep them out of mischief, For Jesus` sake all day."
+      ],
+      "number": 3
+    }
+  ]
+}

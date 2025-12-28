@@ -1,0 +1,35 @@
+{
+  "number": 289,
+  "language": "bem",
+  "title": "289 - MUMBULE FYO NDI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TAKE ME AS I AM"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu ni 'Mwe ndelilila, Nga tamwangafwe nalafwa;",
+        "Leteni ubupu-susho, Mumbule nge fyo ndi.",
+        "CHORUS:",
+        "Mumbule- fyo ndi, Mumbule- fyo ndi,",
+        "Leteni ubupu-susho, Mumbule nge fyo ndi.",
+        "2. Nshikwete ma-ka ndi mubi, Lelo ni'Mwe mwamfwilile;",
+        "Mumpange ngefyo mu-fwaya, Mumbule ngc fyo ndi",
+        "3. Teti njiteyani-shishe, Pantu ndi muntu wabipa;",
+        "Mwi Shina lyenu mpusuke, Mumbule nge fyo ndi.",
+        "4. Nafukama ku ci-puna, Moneni nawa pa nkasa;",
+        "Mulimo wenu u-suma, Mumbule nge fyo ndi",
+        "5. Mulefwayo kuu-mombe, Mbutisheni umutima:",
+        "Beni muli ine-mombe, Mumbule nge fyo ndi.",
+        "6. Ilyo mulimo u-kapwa, Ubulwi bwapwa nacimfya:",
+        "Ukwita kwandi ku-kaba-Mumbule nge fyo ndi."
+      ],
+      "number": 2
+    }
+  ]
+}

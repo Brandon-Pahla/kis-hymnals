@@ -1,0 +1,53 @@
+{
+  "number": 167,
+  "language": "pt",
+  "title": "Vem a Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Vem a Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem a Cristo, vem agora,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Vem, ó, vem, pecador!",
+        "Vem, vem, confiantemente,",
+        "A Jesus, o Senhor!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo pode, sim, salvar-te,"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ele almeja perdoar-te,"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tua entrega não rejeita,"
+      ],
+      "number": 6
+    }
+  ]
+}

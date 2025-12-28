@@ -1,0 +1,55 @@
+{
+  "number": 241,
+  "language": "ve",
+  "title": "241. Shango la Beula",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:433"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndo swika shangoni liswa, lupfumo lwalo ndi lwanga;",
+        "Afho tshedzani tsha vhudi, vhusiku a vhu ho hone."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Shango la ngei Kanana, nda ima kha thavha yalo;",
+        "Nda sedza zwa seli halo, afho hu re na nndu yanga;",
+        "Ndi do vhona-vho tadulu, haya ha lini na lini."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yesu u tshimbila na nne, Ri tshimbila ri tshi amba;",
+        "O mpfara nga tshanda tshawe, U khou nyisa-vho tadulu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Hu na munukho wa-vhudi, u bvaho kha iyo miri;",
+        "Hu na maluvha avhudi. Hu na madi a vhutshilo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nyimbo dza ngei tadulu, dzi pfala ndevheni dzanga;",
+        "Vharunwa vha imbelela nyimbo dzau renda khotsi."
+      ],
+      "number": 5
+    }
+  ]
+}

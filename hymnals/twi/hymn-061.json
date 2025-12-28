@@ -1,0 +1,63 @@
+{
+  "number": 61,
+  "language": "tw",
+  "title": "Nyame Wɔ Ha!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame wɔ ha! B're a Ne mma",
+        "Hyiam nkamfo ne mpaebɔm' yi,",
+        "Anka ma yenhu no kɛse",
+        "Nea yɛn ny'naa kyɛ wɔ Kristom.",
+        "Ͻha, ne wiase baabiara,",
+        "Yɛn nimdeɛ ahorow ny'naa",
+        "Twɛn sɛ Honhom no bɛhyɛne",
+        "Adwen ne komā a abuem'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nsohyɛde bɛkae yɛn wɔ ha,",
+        "Adom a yehia daa ny'naa;",
+        "Ͻha na 'sɛnkapon wɔ;",
+        "Asɛm no di kan wɔ ha.",
+        "Ͻha na nokwar' 'sɛnka mu.",
+        "Kommyɛ ne ɔkasa mu,",
+        "Fof'royɛ ne nsakrae mu no,",
+        "Honhom no bā obiara nkyɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn mmofra nya 'nika wɔ ha,",
+        "'Hwɛfo no nguankuw no mu;",
+        "B'rč a yedi paanoo nom nsa no,",
+        "Kristo kɔ so hwɛ yɛn so.",
+        "Ͻha, 'Somfo no asomfo",
+        "Fi ɔsom mu hwehwɛ nea",
+        "Ͻky'rɛ wɔ daa 'setram',",
+        "Sɛnea wɔgye di ampa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asafo ne ahemman W'ra,",
+        "Nsakrae ne 'kyinnye b're yi,",
+        "Yɛ yɛn 'sɛmpan' ho nokwafo,",
+        "Ma yɛnnaW' botae adi.",
+        "Ͻha, 'nnɛ 'hofama som yim',",
+        "Nea yɛma, nea yenya ny'naa,",
+        "Yɛn a yɛtč ase Wo mu yi,",
+        "Yɛkamfo Wo, yɛgye di!"
+      ],
+      "number": 4
+    }
+  ]
+}

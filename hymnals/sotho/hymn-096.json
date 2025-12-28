@@ -1,0 +1,31 @@
+{
+  "number": 96,
+  "language": "st",
+  "title": "96 Tla Ka Pula",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tlo ka pula letsatsi, La phomolo lefats’eng;",
+        "O tle sefubeng sena, Leseli la holimo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Letsatsi la ho Khutsa, Li’a feta nako tsa Hao;",
+        "Pholiso bofutsaneng, Re qete mosebetsi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Letsatsi la bohlokoa, Le pako le thapelo;",
+        "Ke le ka hlalefisang, La hlohonolofatso."
+      ],
+      "number": 3
+    }
+  ]
+}

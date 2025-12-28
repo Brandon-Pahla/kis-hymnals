@@ -1,0 +1,47 @@
+{
+  "number": 17,
+  "language": "sw",
+  "title": "17 - Si Mimi, Kristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Si mimi, Kristo astahili sifa,",
+        "Si mimi, Kristo ajulikane,",
+        "Si mimi, Kristo katika maneno,",
+        "Si mimi, Kristo kwa kila tendo."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Si mimi, Kristo kuponya huzuni,",
+        "Kristo pekee, kufuta machozi,",
+        "Si mimi, Kristo kubeba mzigo,",
+        "Si mimi, Kristo kutoa hofu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Kristo pekee, pasipo kujisifu,",
+        "Kristo pekee, na nisizungumze,",
+        "Kristo pekee, na hakuna kiburi,",
+        "Kristo pekee, sifa yangu ife."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Kristo pekee, mahitaji atoe,",
+        "Si mimi, Kristo, kisima changu,",
+        "Kristo pekee, kwa mwili na kwa moyo,",
+        "Si mimi, Kristo, hata milele."
+      ]
+    }
+  ]
+}

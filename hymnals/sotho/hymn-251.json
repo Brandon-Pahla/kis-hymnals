@@ -1,0 +1,50 @@
+{
+  "number": 251,
+  "language": "st",
+  "title": "251 Lillo Li Ke Ke Tsa Mpholosa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lillo ha li mpoloke, sita le likeleli,",
+        "Ha li’alafe matsoalo, Ha li ntlhatsoe le libe,",
+        "Lillo ha li mpoloke."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesu o na ntelela, A nchoela sefapanong,",
+        "Jesu O tla ntokolla, Ebe oa mpoloka."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ts’ebetso ha e boloke, Liketso tse hloekileng,",
+        "Khopolo ’e halalelang, Ke ke ea ntokafatsa,",
+        "Ts’ebetso ha e boloke!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tebello ha e mpoloke, Ke timela molatong",
+        "Ke utloa ntsoe la mohau. Ha ke leta kea shoa,",
+        "Tebello ha e mpoloke."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tumelo ea boloka. Ke ts’epe Mor’a Hao,",
+        "Ts’epe ts’ebetso ea Hae, Ke ts’abele ho Eena,",
+        "Tumelo ea boloka."
+      ],
+      "number": 4
+    }
+  ]
+}

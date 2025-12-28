@@ -1,0 +1,60 @@
+{
+  "number": 221,
+  "language": "en",
+  "title": "221 Memories Of Galilee.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Each cooing dove (each cooing dove)",
+        "and sighing bough (and sighing bough),",
+        "That makes the eve (that makes the eve)",
+        "so blest to me (so blest to me)",
+        "Has something far (has something far)",
+        "diviner now (diviner now)",
+        "It bears me back (it bears me back)",
+        "to Galilee (to Galilee)."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chrous",
+        "O Galilee, sweet Galilee,",
+        "Where Jesus loved so much to be;",
+        "O Galilee, blue Galilee,",
+        "Come sing again to me."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Each flow’ry glen (each flow’ry glen)",
+        "and mossy dwell (and mossy dwell),",
+        "Where happy birds (where happy birds)",
+        "in song agree (in song agree)",
+        "Through sunny morn (through sunny morn)",
+        "the praises tell (the praises tell)",
+        "Of sights and sounds (of sights and sounds)",
+        "in Galilee (in Galilee)."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "And when I read (and when I read)",
+        "the thrilling lore (the thrilling lore),",
+        "Of him who walked (of him who walked)",
+        "upon the sea (upon the sea),",
+        "I long, oh, how (I long, oh, how)",
+        "I long once more (I long once more),",
+        "To follow him (to follow him)",
+        "in Galilee (in Galilee)."
+      ],
+      "number": 4
+    }
+  ]
+}

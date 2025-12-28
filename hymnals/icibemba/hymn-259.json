@@ -1,0 +1,31 @@
+{
+  "number": 259,
+  "language": "bem",
+  "title": "259 - BUSHE TUKAYA KUMANA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SHALL WE MEET?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bushe tukaya kumana nga amacusho yapwa",
+        "Kukaba ukusekela, Malanda takwakabe.",
+        "CHORUS:",
+        "Tukaya - Kumana, Kwishilya ilya ci-mana;",
+        "Nga twaku-mana kwishilya, Pa cabu caku mulu.",
+        "2. Tukaku-mana pa cabu ngo lwendo lwesu lwapwa-;",
+        "Tukemi-nike cibwato, Pa cabu ca ku mulu.",
+        "3. Tukaku-mana mu mushi, 'Mo maya-nda yabeka-;",
+        "Fibumba ifyabekesha, Uwakulwa no Mwine.",
+        "4. Tukaku-mana na Kristu, 'Ly' akesa-senda bakwe",
+        "Tukeshi-bo luse lwakwe, Tukeka-la na Wene."
+      ],
+      "number": 2
+    }
+  ]
+}

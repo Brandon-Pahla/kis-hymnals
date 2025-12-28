@@ -1,0 +1,51 @@
+{
+  "number": 214,
+  "language": "st",
+  "title": "214 Na Jesu Oa Hlokomela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Na Jesu oa ntlhokomela ha ke hlorela pina;",
+        "Ke le bothateng le tsietsing,",
+        "Ke se ke khathetse tseleng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kea tseba Oa hlokomela, ho ama pelo ea Hae;",
+        "Linakong tse thata ke ea tseba,",
+        "O nts’a ntlhokomela."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na Jesu O hlokomela ha tsela e ’lefifi;",
+        "Ha letsatsi le likela, bosiu,",
+        "Na O tla lula haufi;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na Jesu O ntsa hlokomela, meleko e ntlhahela;",
+        "Pelo e bohloko ke sa khaotse",
+        "Ke lla bosiu kaofela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na Jesu Oa hlokomela ha ke tlohela baratuoa,",
+        "Pelo ee ea ka e batla ho shoa;",
+        "Na ho Eena ke lefeela."
+      ],
+      "number": 4
+    }
+  ]
+}

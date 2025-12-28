@@ -1,0 +1,55 @@
+{
+  "number": 240,
+  "language": "xh",
+  "title": "240 Bona UMsindisi Emnyango",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bon’ uMsindisi emnyango; Kad’ emile enkqonkqoza;",
+        "Nank’ emile ekucenga, Mvulele ngumhlobo waKho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uthi zithengele kuYe Igolide kwanengubo,",
+        "Nentambiso yokubona Ususe sonke isono."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phulaphula ekucenga, Uthi khetha unethuba;",
+        "Unokona, kad’ umkile, Zondelela uguquke."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U-Yesu uza kuyeka, Sekuphela ukumela;",
+        "Onesono kwanongcwele Bazakuhlala njalo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U-Yesu umi ngaphandle, Uceng’ intliziyo yaKho;",
+        "Uthi mvulele angene; Vulel’ uYesu angene."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ewe, ngenisa umhambi, Phambi kwaKhe uyophumla;",
+        "Wodla nawe, wena naYe, Uhlale uzel’ uvuyo."
+      ],
+      "number": 6
+    }
+  ]
+}

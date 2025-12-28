@@ -1,0 +1,46 @@
+{
+  "number": 150,
+  "language": "pt",
+  "title": "Não Desistir",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Não Desistir"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dias há, bem sei, em que triste te sentes,",
+        "Sem ter esperança e prazer,",
+        "Mas existe Alguém que promete ajudar-te.",
+        "E forças à alma trazer."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Não desistir! Cristo vem logo!",
+        "Breve a aurora há de raiar!",
+        "Não desistir! Cristo vem logo!",
+        "Não desistir! Ele virá!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Este mundo, eu sei, já não vai muito longe,",
+        "E o mal vai breve findar.",
+        "Minha fé em Deus, sim, está bem firmada:",
+        "Jesus logo vai regressar."
+      ],
+      "number": 4
+    }
+  ]
+}

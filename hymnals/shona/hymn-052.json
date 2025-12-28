@@ -1,0 +1,49 @@
+{
+  "number": 52,
+  "language": "sn",
+  "title": "52 Uyai Mweya wakachena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Uyai Mweya wakachena,",
+        "Mundikomborerenyi",
+        "Kuti mwoyo wangu ucha",
+        "Kukudza nguva dzose",
+        "Ndidzidzisenyi kukuda",
+        "Kuziva zvakanaka",
+        "Zvechikariro chembiri",
+        "Chinondipa kufara"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndauya kunemwi",
+        "Tenzi Munozondibatsira",
+        "Ndinosimbira kunemwi",
+        "Mundiswitse kumusha",
+        "Jesu wakandi tsvakisa",
+        "Ndanga ndiri mufambi",
+        "Mudambudzo wandibvisa",
+        "Nge ropa rake iri"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndagashira mutsa wenyu",
+        "Ndinomuitirenyi?",
+        "Ndipenyi kunaka kwenyu",
+        "Ndosungirwa kunemwi",
+        "Nguva dzese ndarasika",
+        "Kubva munzira yenyu",
+        "Ndiri pano hangu",
+        "Baba Batisa mwoyo wangu"
+      ],
+      "number": 3
+    }
+  ]
+}

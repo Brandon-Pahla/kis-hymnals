@@ -1,0 +1,63 @@
+{
+  "number": 135,
+  "language": "tw",
+  "title": "O Kųro Ketewa Betlehem",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O kųro ketewa Betlehem,",
+        "Kųro a woda hɔ dinn!",
+        "B're a woda wo baabi komm",
+        "Na ns'romma twam kɔ no;",
+        "Na wo sum mmɔnten so hɔ",
+        "Daa hann no hyerɛn hɔ;",
+        "Mɔfe nyinaa mu 'nidaso,",
+        "Ahyia wo mu 'nadwo' i."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Maria awo Yesu Kristo,",
+        "Na s'ro dɔm nyinaa 'hyiam;",
+        "B're a nnipa mma ada no",
+        "Abɔfo de dɔ wɛn.",
+        "Anɔpa ns'romma mommom",
+        "Nkā awo kronkron no nky'rɛ!",
+        "Monto 'yeyi nnwom mma Nyame,",
+        "Na 'somdwoe nka nnipa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔde anwanwa 'kyɛdɛ yi",
+        "Maa Yɛn wɔ kommyɛ mu!",
+        "Nyame de Ne soro nhyira",
+        "'Bɛhyɛ nnipa komam;",
+        "Aso ante Ne mmae no,",
+        "Nanso bɔne wiase' i,",
+        "Ne&aacute; akra brɛfo bɛgye No no,",
+        "Kristo bɛhyɛn wɔn mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Betlehem Akokoa kronkron,",
+        "YɛsrɛW' sian bra yɛn nkyɛn;",
+        "Pam yɛn mu bɔne na hyɛn mu,",
+        "Ma wɔnwoW' yɛn mu nnɛ.",
+        "Yɛte Bųronya 'bɔfo sɛ",
+        "Wɔreka 'nigyesɛm;",
+        "O bra na bɛtra yɛn nkyɛn ha,",
+        "Yɛn W'ra Immanuel."
+      ],
+      "number": 4
+    }
+  ]
+}

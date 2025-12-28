@@ -1,0 +1,55 @@
+{
+  "number": 225,
+  "language": "sn",
+  "title": "225 Mira Se Gamba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "MuKristu muka! Tenzi akutuma;",
+        "Nenhowo nemu-nondo mumaoko,",
+        "Enda, sangana nemuedzi shinga,",
+        "Mira segamba, utarise mhandu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iwa gamba, Iwa gamba, Iwa gamba,",
+        "Utarise mhandu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana mungozi, chenjera ngwarira,",
+        "Usadzokere, Hakuna chishangu;",
+        "Wakani wedima, Ungawakunde,",
+        "Mira segamba, utarise mhandu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Basa raTenzi dziwira nesimba;",
+        "Rinda udise, urwe kumagumo;",
+        "Kwa anokutuma, enda kasika,",
+        "Mira segamba utarise mhandu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Enda usatye, tenzi ari petyo,",
+        "Anopa tsitsi, nekukunyaradza;",
+        "Rudo rwake sekarwizi mugwenga;",
+        "Mira segamba, utarise mhandu."
+      ],
+      "number": 5
+    }
+  ]
+}

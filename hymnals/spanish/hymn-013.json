@@ -1,0 +1,54 @@
+{
+  "number": 13,
+  "language": "es",
+  "title": "Al Dios invisible",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Al Dios invisible"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Al Dios invisible, al Rey inmortal,",
+        "que habita en la altura y en la santidad;",
+        "Anciano de dias, Señor sin igual,",
+        "Rendimos honores con sinceridad."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sin prisa, ni pausa, constante y leal,",
+        "gobiernas el mundo con solicitud;",
+        "Tú muestras a todos justicia imparcial;",
+        "Abundas en gracia, amor y virtud."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De cada ser vivo Tú eres autor;",
+        "sustentas la vida de todo mortal.",
+        "Nosotros morimos, cual flor al calor;",
+        "Mas tú permaneces por siempre inmortal."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Señor, te rodea infinito fulgor;",
+        "los ángeles cubren su rostro ante ti.",
+        "Nosotros con gran reverencia y fervor,",
+        "te damos sincera alabanza aquí."
+      ],
+      "number": 5
+    }
+  ]
+}

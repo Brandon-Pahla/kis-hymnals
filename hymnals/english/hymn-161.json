@@ -1,0 +1,42 @@
+{
+  "number": 161,
+  "language": "en",
+  "title": "161 My Lord And I.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I have a Friend so precious,",
+        "So very dear to me;",
+        "He loves me with such tender love,",
+        "He loves so faithfully;",
+        "I could not live apart from Him,",
+        "I love to feel Him nigh;",
+        "And so we dwell together,",
+        "My God and I."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I tell Him all my sorrows,",
+        "I tell Him all my joys;",
+        "I tell Him all that pleases me,",
+        "I tell Him what annoys;",
+        "He tells me what I ought to do,",
+        "He tells me how to try;",
+        "And so we talk together,",
+        "My Lord and I."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "He knows that I am longing,Some weary soul to win; And so He bids me go and speak,The loving word for Him; He bids me tell His wondrous love, And why He came to die; And so we work together, my Lord and I."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 158,
+  "language": "sw",
+  "title": "158 - U mwendo Gani Nyumbani?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "U mwendo gani nyumbani? Mlinzi akanijibu,",
+        "“Usiku sasa waisha, macheo karibu,”",
+        "Usihuzunike tena, bali ulemee mwendo,",
+        "Hata ushike ufalme, kule mwangani juu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Na tena niliuliza, nchi yote ikajibu,",
+        "“Sasa mwendo watimika, milele karibu,”",
+        "Usihuzunike tena, ishara kuu zasonga,",
+        "Na viumbe vyangojea, sauti ya Bwana."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Nikamwuliza shujaa, ndivyo kanitia moyo,",
+        "“Shikilia mapigano, kitambo yaisha,”",
+        "Usihuzunike tena, kazi ifanywe kwa moyo;",
+        "Tumeahidiwa tunu tuishapo shinda."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Siyo mbali na nyumbani, fikara tamu njiani,",
+        "yatupoza roho nayo, yafuta machozi,",
+        "Usihuzunike tena, kitambo tutakutana,",
+        "Wenye furaha kamili, nyumbani mwa Baba."
+      ]
+    }
+  ]
+}

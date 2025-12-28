@@ -1,0 +1,43 @@
+{
+  "number": 551,
+  "language": "tw",
+  "title": "Yesu, 'Gyenkwa, Ky'rɛ Me Kwan",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, 'Gyenkwa, ky'rɛ me kwan",
+        "ɔbra po 's'rɔkye no ɔo;",
+        "'S'rɔkyč a minnim wɔ m'anim,",
+        "Abo huhu ahintaw;",
+        "Po so kwanky'rɛde fi Wo,",
+        "Yesu, 'Gyenkwa, ky'rɛ me kwan."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ ɛna deda ne ba no,",
+        "Saa na Woma po yɛ dinn;",
+        "Po bagyabagya tie Wo,",
+        "B're a Woka sɛ, \\\"Yɛ komm!\\\"",
+        "Po so Hene nwanwafo,",
+        "Yesu, 'Gyenkwa, ky'rɛ me kwan."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ merebɛn mpoano hɔ",
+        "Na 's'rɔkye huhu no bɔ",
+        "Me ne home no ntam a,",
+        "Meda Wo koko mu no",
+        "Ma mente sɛ Woka sɛ:",
+        "\\\"Nɔsuro Medew' betwa.\\\""
+      ],
+      "number": 3
+    }
+  ]
+}

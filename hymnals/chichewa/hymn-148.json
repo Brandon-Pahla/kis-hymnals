@@ -1,0 +1,51 @@
+{
+  "number": 148,
+  "language": "ny",
+  "title": "148 - Ponse Ponse Naye Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ANYWHERE WITH JESUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ponse ponse naye Yesu ndzapita,",
+        "Ponse ponse anditsogolera ’ne.",
+        "Pakapanda Iye sindikondwai,",
+        "Ponse ponse naye sindiopatu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ponsepo, ponsepo, sindiopai,",
+        "Ponse ponse naye ndidzapitapo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ponse ponse Yesu ali ndi ine,",
+        "Nkana ena andisiye m’dzikoli.",
+        "Nkana njira yanga ili yoopsa,",
+        "Ponse ponse ndimyamika Yesuyo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ponsepo ndi Yesu ndidzagonatu,",
+        "Mmene mdima undiphimba ineyo.",
+        "Ndziwa kuti ndidzauka tsikulo.",
+        "Ponsepo ndi Yesu ndiko kwathuko."
+      ],
+      "number": 4
+    }
+  ]
+}

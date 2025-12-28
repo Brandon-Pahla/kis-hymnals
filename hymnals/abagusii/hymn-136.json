@@ -1,0 +1,35 @@
+{
+  "number": 136,
+  "language": "guz",
+  "title": "136 'Megondo Yamire Mono",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Megondo yamire mono,'Ndagera yarabire,Ande onsi yarabire,'Magoko n'ebirubo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Monene tom' abagesiigw' ekerero giaitoBasangererie rigesa,Emeremo eere."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Bagende kero bogokia,Na mobaso bagende,Goika erioba rigwe,Basangererie onsi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Abamwatomirwe Retaokwama kwain' okuya,Mogoroba so' asareN'omogok' omonene."
+      ],
+      "number": 4
+    }
+  ]
+}

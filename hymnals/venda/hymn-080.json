@@ -1,0 +1,64 @@
+{
+  "number": 80,
+  "language": "ve",
+  "title": "80 Shumani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Shumani inwi vhalanda vha Yehova,",
+        "Ri tevhele ndila ya Murena washu;",
+        "Ri do wana-vho Maanda nga fhungo lawe,",
+        "Ri ite nga Maanda kha mushumo wawe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Shumani Khwathani,",
+        "Shumani Khwathani,",
+        "Lindani no khwatha,",
+        "Murena u a da zwino."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Shumani-ha, vha re na ndala ni vha fhe,",
+        "Vhadiseni tshisimani tsha vhutshilo,",
+        "Ri tshi renda tshone tshifhambano tshawe,",
+        "Ra mbo ri ’Ro wana u tshidzwa nga fhedzi.’"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Shumani nothe mushumo ndi muhulu;",
+        "Ngauri muvhuso wa swiswi u do wa,",
+        "Na dzina la Yehova li do divhiwa;",
+        "Vha do ri ’Ro wana u tshidzwa nga fhedzi.’"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Shumani Murena a vhuye a swike,",
+        "U do rumela vharunwa vha u kana;",
+        "Ri do dzula na vhakhethwa ri hayani,",
+        "Ra imba ’Ro wana u tshidzwa nga fhedzi.’"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "number": 250,
+  "language": "fr",
+  "title": "Que la grâce de Dieu...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Que la grâce de Dieu soit sur toi",
+        "Pour t'aider à marcher dans ses voies.",
+        "Reçois tout son pardon et sa bénédiction.",
+        "Va en paix, dans la joie, dans l'amour."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que le Maître te garde toujours",
+        "Dans l'attente de son grand retour.",
+        "Mets ta main dans sa main",
+        "Tout le long du chemin.",
+        "Va en paix, dans la joie, dans l'amour."
+      ],
+      "number": 2
+    }
+  ]
+}

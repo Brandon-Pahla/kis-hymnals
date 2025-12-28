@@ -1,0 +1,24 @@
+{
+  "number": 25,
+  "language": "es",
+  "title": "Siento la presencia del Señor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Siento la presencia del Señor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Siento la presencia del Señor que está aquí,",
+        "su poder y su gracia, su amor.",
+        "Puedo ver en cada rostro su belleza irradiar.",
+        "Siento la presencia del Señor que está aquí."
+      ],
+      "number": 2
+    }
+  ]
+}

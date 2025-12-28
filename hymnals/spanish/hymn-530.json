@@ -1,0 +1,46 @@
+{
+  "number": 530,
+  "language": "es",
+  "title": "Somos un pequeño pueblo muy feliz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Somos un pequeño pueblo muy feliz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Somos un pequeño pueblo muy",
+        "feliz,",
+        "somos un pequeño pueblo muy",
+        "feliz.",
+        "Cristo es nuestro Salvador",
+        "y muy pronto volverá.",
+        "Somos un pequeño pueblo muy",
+        "feliz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hay señales del regreso de Jesús,",
+        "pues hay guerras, hay temor y",
+        "ansiedad;",
+        "pestes y hambre por doquier,",
+        "y aumenta la maldad;",
+        "pronto Cristo nos traerá liberación.",
+        "3. Poco falta para el día del Señor,",
+        "late nuestro corazón con emoción.",
+        "Pronto vamos a elevar",
+        "la mirada para ver",
+        "a Jesús viniendo en gloria y",
+        "majestad."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "number": 67,
+  "language": "sw",
+  "title": "67 - Kesha Roho Yangu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Kesha roho yangu, adui maelfu",
+        "Hujaribu kuangusha, kuvuta dhambini."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Ukeshe uombe, ili usishindwe,",
+        "Fanya vita kila siku, omba msaada."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Kushinda ni bado, ulinde silaha,",
+        "Usiache kupigana, hata una taji."
+      ]
+    }
+  ]
+}

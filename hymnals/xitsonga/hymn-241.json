@@ -1,0 +1,24 @@
+{
+  "number": 241,
+  "language": "ts",
+  "title": "241. TIKO RA NTSWAMBA, VULOMBE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE IS A LAND CORN AND WINE",
+        "1. Tiko Ra Ntswamba, Vulombe, Ndzi Ta Tsaka Eka Rona, Ku Tshama Ku Vonakala,",
+        "Na Vusiku A Byi Kona.",
+        "CHORUS",
+        "Tiko Lero Ra Ku Rhula, Ndzi Navela Ku Ya Kona, Ku Ya Vona Tiyindlu Ni Lwandle Leswi Khatisaka, Ri Ta va Kaya Ra Mina Hilaha Ku Nga Heriki.",
+        "2. Hi Ta Bula Swo Tsakisa, Na Muponisi Wa Hina,",
+        "U Ta Ndzi Komba Vumburhi, Bya Tiko Lero Saseka.",
+        "3. Ku Nandziha Ka Nun’hwelo, Ku Suka Eswihlahleni,",
+        "Swiluva A Swi Nge Vuni, Swi Nwa Mati Ya Vutomi.",
+        "4. Mpfumawulo Wo Nandziha, Wu Twakala Emoyeni,",
+        "Vakwetsimi Va Tlangela, Ku Ponisiwa Ka Vona."
+      ],
+      "number": 1
+    }
+  ]
+}

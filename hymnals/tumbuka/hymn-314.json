@@ -1,0 +1,65 @@
+{
+  "number": 314,
+  "language": "tum",
+  "title": " 314 Imwe Mwawanyamata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 314 Imwe Mwawanyamata",
+        "What Can The Youth Do?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Imwe mwa wanyamata namweso wasungwana",
+        "Mkuti, tingachitachi tichali waniche,",
+        "Pakuvwira ufumu wa Yesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Wasambizgeni wanthu wapharazgireninge,",
+        "wakukhala m'uheni mu chisi cham'charu,",
+        "Wanjire mu ufumu wa Yesu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Tawaniche ndise 'mwe vinjeru ntha n'vinandi,",
+        "Kuti tingasambizga tichitenge uli?",
+        "Pakovwira ufumu wa Yesu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Imwe mose mwanyane t'ghanaghane makora,",
+        "Tiyowoye, tizike, tip'likire Fumu,",
+        "Pakovwira ufumu wa Yesu."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "Pakovwira 'nyinafwe pakutemwa wanyithu,",
+        "Pakuleka uheni kukhala makora,",
+        "Tikovwira ufumu wa Yesu.314"
+      ],
+      "number": 6
+    }
+  ]
+}

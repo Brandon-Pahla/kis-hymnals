@@ -1,0 +1,43 @@
+{
+  "number": 336,
+  "language": "xh",
+  "title": "336 Akwaba Sendivuma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Akwaba sendivuma nangale ntliziyo yam,",
+        "Ukwahlukana nayo inkohlakalo yam le;",
+        "Ndisuke ndiye kuye OnguY’ uMsindisi wam!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akwaba ndinokuva Usizi emoyeni,",
+        "Olona lusingisa Kwa seluguqukweni,",
+        "Luhamba ngalondlela Iphela emgcobeni!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akwaba ndinokolo Luquba umxhelo wam,",
+        "Ndibambelele kuye Ofele ityala lam;",
+        "Ndihlale ndithembela Kuye uMhlawuleli wam!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akwaba ndinamandla Avela e-Nkosini,",
+        "Ndikwale okomhlaba, Ndibheke ezulwini!",
+        "Ndivuselele, Thixo, Ndiphume ebubini."
+      ],
+      "number": 4
+    }
+  ]
+}

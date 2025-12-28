@@ -1,0 +1,63 @@
+{
+  "number": 196,
+  "language": "ny",
+  "title": "196 - Ufuna Kuomboledwa Kodi?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE IS POWER IN THE BLOOD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ufuna kuwomboledwa kodi?",
+        "Ilipo mphamvu m’mwazi Wake;",
+        "Ufuna kugonjetsa zoipa?",
+        "Muli mphamvu m’mwazi Wake."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Muli mphamvu (m’mwazi) yozizwitsatu,",
+        "M’mwazi wa Yesuyo;",
+        "Muli mphamvu (m’mwazi) yozizwitsatu,",
+        "M’mwazi wa Mwana wa Nkhosa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ufuna kuleka kunyadako?",
+        "Ilipo mphamvu m’mwazi Wake;",
+        "Idzatu pa mtanda nutsukidwe,",
+        "Muli mphamvu m’mwazi Wake."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ufuna kuyera kopambana?",
+        "Ilipo mphamvu m’mwazi Wake;",
+        "Zoipa zonse adzayeretsa,",
+        "Muli mphamvu m’mwazi Wake."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ufuna kugwira ntchito Yake?",
+        "Ilipo mphamvu m’mwazi Wake;",
+        "Ufuna kumuyimbira Iye?",
+        "Muli mphamvu m’mwazi Wake."
+      ],
+      "number": 5
+    }
+  ]
+}

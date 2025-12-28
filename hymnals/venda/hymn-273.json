@@ -1,0 +1,61 @@
+{
+  "number": 273,
+  "language": "ve",
+  "title": "273. di-tike Nga Zwanda Zwawe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. di-tike nga zwanda zwa Yesu;",
+        "U do ni thusa zwihulwane.",
+        "Fulufhela lufuno lwawe,",
+        "U twe u kha nyimbo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Di-tike nga zwanda zwa Yesu, Fulufhela tshilidzi tshawe",
+        "(Di-tike, Di ti-ke nga zwanda zwa Yesu, Fulufhela tshone tshilidzi tshawe)",
+        "Di-tike wo sedza tadulu zwandani zwa Mutshidzi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Di-tike nga zwanda zwa Yesu; A no do u vulela ndila.",
+        "Wa do kona u mu tevhela,",
+        "Wo pfa ipfi lawe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Di-tike nga zwanda zwa Yesu;",
+        "U vhudze vhanwe vha no funa.",
+        "Muhwalo une wa lemela.",
+        "U thudzele khae."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Di-tike nga zwanda zwa Yesu; d",
+        "isa zwothe, zwothe kha Yesu.",
+        "Mbilu yawe i na tshilidzi, U vhona zwihulu."
+      ],
+      "number": 5
+    }
+  ]
+}

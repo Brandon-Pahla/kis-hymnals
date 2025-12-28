@@ -1,0 +1,67 @@
+{
+  "number": 262,
+  "language": "tum",
+  "title": " 262 Khristu Panji Baraba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 262 Khristu Panji Baraba",
+        "CHRIST OR BARABBAS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ndichitechi na Yesu wimilira apa?",
+        "Vyakuvwara viswesi, wamvwarika minga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sono ndifumbepo m'ngandizgora wuLi?",
+        "Ndimpayike Fumu Yesu ndim Leke Baraba?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ndisutule m'nkhungu munthu muheni nadi,",
+        "Panji Mponoski Yesu, mkusankhapo njani?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Fumbo ili ndakofya nadi mwawanyane,",
+        "Wezi ulipo sono, ukulindilira."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Ndizgore uli sono nkhutemwa vya charu,",
+        "Ndimupayike Yesu, Baraba wachire."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "Panyengo iyi sono tatimbanizgika,",
+        "Iwe mkhristu wimapo mkati mu visuzgo."
+      ],
+      "number": 6
+    }
+  ]
+}

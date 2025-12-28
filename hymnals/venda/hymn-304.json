@@ -1,0 +1,33 @@
+{
+  "number": 304,
+  "language": "ve",
+  "title": "304. Yesu O Lwelaho Vhathu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu o lwelaho vhathu, O kunda Sathane.",
+        "O iswa phanda ha marena, na phanda ha Pilato",
+        "O landulwa nga Vhayuda, Lushaka lwa hawe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Vhasadzi vha mu tevhela vha tshi mu lilela.",
+        "Ene a mbo amba navho a ri: ’Ni si ndilele.’",
+        "dilileleni inwi vhane na vhana vhanu-vho’."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. ’Pfani Yesu tshifhambanoni, U tavha mukosi.",
+        "U ri Khotsi vha farele, A vha divhi tshithu.U ri Khotsi vha farele, A vha divhi tshithu."
+      ],
+      "number": 3
+    }
+  ]
+}

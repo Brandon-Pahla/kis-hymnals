@@ -1,0 +1,40 @@
+{
+  "number": 12,
+  "language": "bem",
+  "title": "12 - EKWALl KAFUKAUKA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE IS A FOUNTAIN"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ekwali kafukauka,",
+        "Mulopa wa Yesu;",
+        "Na babi basambilwe 'ko",
+        "Bale buta tutu",
+        "2. Mupupu asekelela",
+        "Kumona Katula;",
+        "Na ine nga ndi pamo fye",
+        "Nasambilwe uko.",
+        "3. Mwe Katula umulopa",
+        "Tawakapwe iyo,",
+        "Na bantu benu bonse fye",
+        "Ba pusushiwa 'ko.",
+        "4. Mubusumino namona",
+        "Mulopa wa Yesu;",
+        "Nomba ukutemwa kwakwe",
+        "Ndefwaya nshimike.",
+        "5. Lintu Katula akesa",
+        "Kunsenda ku mwakwe;",
+        "Nkalaimba ulwimbo 'lu",
+        "Pa luse lwakwe pe"
+      ],
+      "number": 2
+    }
+  ]
+}

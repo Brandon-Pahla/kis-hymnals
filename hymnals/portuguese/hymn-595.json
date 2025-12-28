@@ -1,0 +1,25 @@
+{
+  "number": 595,
+  "language": "pt",
+  "title": "Ao Meu coração",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ao Meu coração"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem, ó Jesus! Vem, ó Jesus!",
+        "Ao meu coração, Jesus, vem!",
+        "Vem hoje, vem;",
+        "Vem pra ficar,",
+        "Em meu coração, ó Cristo!"
+      ],
+      "number": 2
+    }
+  ]
+}

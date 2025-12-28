@@ -1,0 +1,55 @@
+{
+  "number": 240,
+  "language": "st",
+  "title": "240 Monyakong",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke eo Jesu monyako! O kokota ka bonolo,",
+        "Ke motsotso A letile, U se ke oa mo soabisa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O re u reke ho Eena gauda le liaparo,",
+        "U phekole mahlo a hao, u hlobole libe tsa hao."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A k’u utloe lentsoe la Hae. O nea boikhethelo,",
+        "Uena U moetsalibe ke teng ha u sa fetohe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O se a qeta ts’ebetso ha A sa re rapella,",
+        "Ea lits’ila a be ea motle a a na ntlafale."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U mo tlohele a kene, u tla fumana phomolo,",
+        "Ka kopano e monate a tle a lalle le Eena."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mo kenye u mo amohele u tla phomola pela’ Hae.",
+        "U thabe le Eena, ’moho u je le Eena hammoho"
+      ],
+      "number": 6
+    }
+  ]
+}

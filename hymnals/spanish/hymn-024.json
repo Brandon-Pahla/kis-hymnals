@@ -1,0 +1,44 @@
+{
+  "number": 24,
+  "language": "es",
+  "title": "Imploramos tu presencia",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Imploramos tu presencia"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Imploramos tu presencia,",
+        "Santo Espíritu de Dios;",
+        "nos avive tu influencia,",
+        "fe y amor auméntanos."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Da a las mentes luz divina",
+        "y tu gracia al corazón.",
+        "Nuestro pecho a Dios inclina",
+        "en sincera devoción."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que del Dios bendito tenga",
+        "nuestro culto aceptación,",
+        "y que sobre todos venga",
+        "en raudales bendición."
+      ],
+      "number": 4
+    }
+  ]
+}

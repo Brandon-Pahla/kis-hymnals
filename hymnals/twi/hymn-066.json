@@ -1,0 +1,47 @@
+{
+  "number": 66,
+  "language": "tw",
+  "title": "Nyame Ne Wo Ntra",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame ne wo ntra, yebehyiam bio;",
+        "N'afotu nky'rɛw' kwan mma wo so,",
+        "ɔmmaw' banbɔ Ne nguankuw mu:",
+        "Nyame ne wo ntra, yebehyiam bio."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame ne wo ntra, yebehyiam bio,",
+        "ɔmfaw' nsie Ne ntaban ase,",
+        "ɔmma wo mana da biara,",
+        "Nyame ne wo ntra yebehyiam bio."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame ne wo ntra, yebehyiam bio,",
+        "ɔbram' haw twa wo ho hyia a,",
+        "ɔmfa Ne basa nwowaw wo:",
+        "Nyame ne wo ntra yebehyiam bio."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame ne wo ntra, yebehyiam bio,",
+        "Onhim ɔdɔ frankaa wo so",
+        "Nyi owu 's'rɔkye mfi w'anim;",
+        "Nyame ne wo ntra, yebehyiam bio."
+      ],
+      "number": 4
+    }
+  ]
+}

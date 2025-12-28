@@ -1,0 +1,22 @@
+{
+  "number": 340,
+  "language": "ny",
+  "title": "340 - Taya Zobvuta Zako",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ROLL YOUR BURDENS AWAY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Taya zobvuta zako, Taya zobvuta zako",
+        "Ambuye adzacotsa zonsezo, Taya zobvuta zako."
+      ],
+      "number": 2
+    }
+  ]
+}

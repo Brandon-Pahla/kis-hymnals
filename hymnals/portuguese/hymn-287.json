@@ -1,0 +1,44 @@
+{
+  "number": 287,
+  "language": "pt",
+  "title": "Minha Entrega",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Minha Entrega"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo, bom Mestre, eis meu querer:",
+        "Tua vontade sempre cumprir;",
+        "Faze-me forte para vencer",
+        "Duras fraquezas que possam vir."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo, bom Mestre, eis meu querer:",
+        "Mais santidade sempre buscar;",
+        "Faze-me firme, dá-me poder",
+        "Para a verdade nunca deixar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo, bom Mestre, eis meu querer:",
+        "Todas as minhas faltas vencer;",
+        "Faze-me rijo para lutar,",
+        "Para a vitória sempre ganhar."
+      ],
+      "number": 4
+    }
+  ]
+}

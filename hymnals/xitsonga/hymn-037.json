@@ -1,0 +1,24 @@
+{
+  "number": 37,
+  "language": "ts",
+  "title": "37. KUSUHI NA WENA, HOSI YANGA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NEARER, MY GOD TO THEE",
+        "1. Kusuhi Na Wena, Hosi Yanga Hambi Nhlomulweni, Ne Maxangwini",
+        "Ndzi Ta Yimbelela, Kusuhi Na Hosi Kusuhi Na Wena, Hosi Yanga.",
+        "2. Ndzi Mutsendzeleki, Ri Perile",
+        "Ku Phume Hinkwaswo, Ndzi Twa Gome Milorhweni Yanga, Ndzi Ta Tshinelela Kusuhi Na Wena, Ndzi Ta Rhula.",
+        "3. Ndzi Pfulele Ndlela, Yo Ya Tilwen, La U Ndzi Rhumaka, Hi Tintswalo",
+        "Tintsumi Ta Vita, Ti Ri Ndzi Tiyisa, Kusuhi Na Wena, Ndzi Ta Hlula.",
+        "4. Ndzi Lava Ku Khensa Nsovo Waku, Maxangwin Yanga, Rendzwen Ranga",
+        "Na Kwele eBethele, Loko Ndzi Etlerile Kusuhi Na Wena, Ndzi Ta Tsaka.",
+        "5. Loko Ndzi Tlakuka, Empfhukeni, N’weti Na Ro Dyambu, Ndzi Swi Siya",
+        "Ndzi Ta Yimbelela, Kusuhi Na Hosi, Kusuhi Na Wena, Ndzi Ta Wisa"
+      ],
+      "number": 1
+    }
+  ]
+}

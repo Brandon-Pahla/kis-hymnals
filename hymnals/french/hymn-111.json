@@ -1,0 +1,48 @@
+{
+  "number": 111,
+  "language": "fr",
+  "title": "Brûle, brûle",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Brûle, brûle, flamme ardente,",
+        "Flamme ardente dans mon coeur!",
+        "Brûle et comble mon attente",
+        "De lumière et de chaleur."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Brûle encore, purifie,",
+        "Saint-Esprit qui vis en moi!",
+        "Vois, ma volonté se plie",
+        "À la tienne, par la foi!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Brûle, brûle, flamme claire,",
+        "Flamme claire, feu divin!",
+        "Mon désir est de te plaire,",
+        "D’accomplir tout ton dessein."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Brûle, brûle, flamme sainte,",
+        "Flamme sainte, feu d’en haut!",
+        "Ton amour pur, sans contrainte,",
+        "Me donne un amour nouveau."
+      ],
+      "number": 4
+    }
+  ]
+}

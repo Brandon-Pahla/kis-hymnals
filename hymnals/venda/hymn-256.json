@@ -1,0 +1,55 @@
+{
+  "number": 256,
+  "language": "ve",
+  "title": "256. Mudzimu, Wo Vha U Thuso Yashu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:103",
+        "AH:58"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mudzimu, Wo vha U thuso, U do di ri thusa,",
+        "U dzhavhelo madumbuni, Haya hashu ndiawe!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tsini ha khulunoni yau ri do awela;",
+        "Tshanda tshau ndi tshihulu, Tshia ri pilela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. U vha U hone dzithavha dzi saathu u sikwa,",
+        "U a tshila, U dzula U hone misi yothe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tshigidi tsha minwaha tshi nga duvha kha Iwe,",
+        "Zwi pfana na mutsho u re mupfufhi nga Maanda."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Khotsi, U thuso tsha kale, Ro u fulufhela,",
+        "Ri thuse ri kha di tshila, U vhe haya hashu."
+      ],
+      "number": 6
+    }
+  ]
+}

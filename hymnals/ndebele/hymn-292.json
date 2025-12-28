@@ -1,0 +1,47 @@
+{
+  "number": 292,
+  "language": "nd",
+  "title": "292 Izandlana Ezimbili",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "UJesu-ke ngi zoMsebenzela",
+        "Ngolimi-ke ngizoMbonga;",
+        "Indletshana zam’ zizokuzwa,",
+        "Ngizohlabelela ngezwi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi, siyeza-ke,",
+        "Nxa sise ngabantwana nje",
+        "Nkosi, siyeza-ke",
+        "Sifunde ngaWe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngizohamba endleleni yAkhe,",
+        "Eya ezulwini lAkhe;",
+        "Amehlwana azakufunda,",
+        "Zika Jesu izindaba."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngizopha uJesu inhliziyo",
+        "Awusindis’ umphefumlo;",
+        "Inhlalwana yam’ ngi Mphe yona,",
+        "Okwami ngokwAkhe kona."
+      ],
+      "number": 4
+    }
+  ]
+}

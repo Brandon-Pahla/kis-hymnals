@@ -1,0 +1,54 @@
+{
+  "number": 21,
+  "language": "st",
+  "title": "21 Ke’a Tla Sefapanong",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke ea tla sefapanong, Bofumeng le bofofung;",
+        "Tsohle ke ea li lahla, Ke tla bona poloko."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke ts’epile Morena, Konyana ea Golgotha;",
+        "Ke inama fapanong, Mpoloke Jesu joale."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pelo ea u llela, sebe se ntse se mpusa;",
+        "Jesu O bua ho ’na O re: “Ke tla u hlatsoa.”"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke U fa tsohle tsa ka, Metsoalle le maruo;",
+        "Moea ’mele ke tsa Hao, Tsohle ka ho sa feleng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke ts’epa lits’episo, Joale ke utloa mali;",
+        "Ke namaletse fats’e, Ke Mapotsoe le Jesu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu O ntlatsa moeeng, ’me ke ea phethehileng;",
+        "Hohle ke phethehileng; Ho tumisoe Konyana."
+      ],
+      "number": 5
+    }
+  ]
+}

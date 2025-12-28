@@ -1,0 +1,46 @@
+{
+  "number": 338,
+  "language": "tw",
+  "title": "Wɔagyem'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔagye me nkwa! Anigyesɛm ni!",
+        "'Guammaa no mogya agye me;",
+        "N'ahummɔbɔ kɛse agye me,",
+        "Na mayɛ Ne ba afebɔɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wɔagyem', Wɔagyem'",
+        "'Guammaa no mogya agye me",
+        "Wɔagye me nkwa! Anigyesɛm ni!",
+        "Na mayɛ Ne ba afebɔɔ."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Medwen me hyirafo Gyefo ho.",
+        "Medwen Ne ho da mu nyinaa,",
+        "Meto dwom 'fisɛ mintum' nyɛ komm;",
+        "Ne dɔ ne me dwom nnyinaso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Minim sɛ mehu Wɔ N'ahoɔfɛm'",
+        "'Hen' a m'ani gye Ne mm'ra ho;",
+        "ɔnam ɔdɔ so wɛn m'anammɔn,",
+        "Na ɔma me nnwom anadwo."
+      ],
+      "number": 3
+    }
+  ]
+}

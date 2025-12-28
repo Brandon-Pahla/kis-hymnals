@@ -1,0 +1,56 @@
+{
+  "number": 64,
+  "language": "en",
+  "title": "64 Tell It To Jesus.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Are you weary, are you heavy hearted?",
+        "Tell it to Jesus, tell it to Jesus;",
+        "Are you grieving over joys departed?",
+        "Tell it to Jesus alone."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tell it to Jesus, tell it to Jesus,",
+        "He is a friend that’s well known",
+        "You’ve no other such a friend or brother,",
+        "Tell it to Jesus alone."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Do the tears flow down your cheeks unbidden?",
+        "(Tell it to Jesus) (Tell it to Jesus)",
+        "Have you sins that to the world are hidden?",
+        "Tell it Jesus alone."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Do you fear the gath’ring clouds of sorrow?",
+        "(Tell it Jesus) (Tell it Jesus)",
+        "Are you anxious what shall be tomorrow?",
+        "Tell it to Jesus alone"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Are you troubled at the tho’t of dying?",
+        "Tell it to Jesus, tell it to Jesus;",
+        "For Christ’s coming kingdom are you sighing?",
+        "Tell it to Jesus alone."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 397,
+  "language": "es",
+  "title": "Oh buen Señor, velada está",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Oh buen Señor, velada está"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh buen Señor, velada está",
+        "tu santa forma aquí,",
+        "pues el pecado, oh Jehová,",
+        "te esconde hoy de mí."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aunque no te distingo hoy,",
+        "sé que conmigo estás;",
+        "y si en afán o lucha estoy,",
+        "tu auxilio me darás."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Como un sueño nocturnal,",
+        "dorada ensoñación,",
+        "es tu presencia sin igual",
+        "la más feliz visión."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu forma puedo percibir",
+        "en alas de la fe;",
+        "con tu influencia en mi vivir,",
+        "confiado andaré."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "number": 294,
+  "language": "sn",
+  "title": "294 Fukidzwa Neupenyu Hwake",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nangisa Jesu, Hana chitema;Upenyu hwake, hwapiwe’ni",
+        "Upenyu hwangu nechitema, Hwafukwa nehwake kuchena"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndofukidzwa neupenyu hwake",
+        "Ndozoziva upenyu hwese",
+        "Upenyu hwangu hwechitema",
+        "Hwafukwa nehwake huchena"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvironda zvechitema zvadzama, Zvakatsvuka, Mweya unotya",
+        "O kufukidzwa nemwi Jesu, Ndosunungurwa nemutemo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndoda kuziva rusununguro! Jesu ondipa nguwo chena",
+        "Ndaigashira, yangu ndarasa, Ndinopfeka upenyu hwenyu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndadzorerwa nerufo rwangu, Ndaruramiswa nemwi Tenzi",
+        "Ndaereswa neinzwi renyu, Ndozogashira mbiri yenyu"
+      ],
+      "number": 5
+    }
+  ]
+}

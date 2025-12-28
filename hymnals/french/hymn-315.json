@@ -1,0 +1,57 @@
+{
+  "number": 315,
+  "language": "fr",
+  "title": "Père, je viens à toi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Père, je viens à toi,",
+        "Je t'implore avec foi.",
+        "Seigneur, exauce-moi, dans ton amour.",
+        "Qu'il est triste mon sort",
+        "Sans ton aide, ô Dieu fort !",
+        "Sois mon seul réconfort,",
+        "Jour après jour."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Père, à toi j'ai recours",
+        "Dès le matin.",
+        "Dans la tienne, oh ! toujours,",
+        "Garde ma main !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Soulage tous mes maux,",
+        "Allège mes fardeaux",
+        "Et sois mon seul repos dans le malheur.",
+        "Mon pas est chancelant;",
+        "Que ton bras tout-puissant",
+        "Donne à ton faible enfant",
+        "Force et vigueur."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De ton sceau marque-moi.",
+        "Par ta grâce, ô mon roi !",
+        "Que je marche avec toi jusqu'à la mort !",
+        "Conduis-moi par la main",
+        "Tout le long du chemin",
+        "Et que j’arrive enfin",
+        "Au divin port !"
+      ],
+      "number": 4
+    }
+  ]
+}

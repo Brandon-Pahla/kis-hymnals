@@ -1,0 +1,67 @@
+{
+  "number": 455,
+  "language": "tw",
+  "title": "Daa Dɔ a Ͻso Nte Da No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Daa Dɔ a ɛso nte da no,",
+        "Ͻsen kwa da biara;",
+        "Wɔkyɛ no daa, nso ɛso nte",
+        "Po a ɛnwe da no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yerentumi nkɔ s'ro nkɔfa",
+        "'W'ra Kristo mma fam ha;",
+        "Yɛbreɛ kwa hwehwe No 'bun mu",
+        "Fisɛ 'bun ntum' nkōra No"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nanso ɔwɔ 'dwo ne tema",
+        "ɔyɛ mprempren boafo;",
+        "Gyidi wɔ Ne Ngo bepɔ so",
+        "Dɔ wɔ Ne Galilee."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "N'atade mu yaresa no",
+        "Bɛn yɛn yare mpa no;",
+        "Yɛde yɛn nsa ka No mpo a,",
+        "Yenya ayaresa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mpae a edi kan fa Ne so,",
+        "Yɛn mmɔfrab'rem' de no;",
+        "Wɔn a wɔda wu mpa so mpo",
+        "De Ne din dɔ wu mu."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, yɛn nyinaa Awurade",
+        "Din biarā a yɛwɔ no,",
+        "Efi Wo hɔ, yɛte Wo frɛ;",
+        "Yɛhwɛ W'bra bɔ yɛn de."
+      ],
+      "number": 6
+    }
+  ]
+}

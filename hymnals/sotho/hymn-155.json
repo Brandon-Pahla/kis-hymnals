@@ -1,0 +1,44 @@
+{
+  "number": 155,
+  "language": "st",
+  "title": "155 Ke Tla Ea Mo O Ratang.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "E ka ba holimo lithabeng kapa honaleoatleng;",
+        "Kapa e seng pele le noeng, Morena O tla ntlhoka,",
+        "’Me leha A ka mpiletsa moo, litseleng se sa tsejoeng.",
+        "Ke araba Morena oa ka, ke tla ea moo U ratang."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke tla ea moo u ratang Morena, Thabeng, thoeng, leoatleng,",
+        "Ke tla bua thato ea Hao Morena, ke be seo U se ratang."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kapa ho teng mantsoe ao, Moena, A ka A phetang,",
+        "Kapa joale tseleng ea sebe, ho teng ea lahlehileng,",
+        "’Moloki ha ka ntsamaisa, tseleng ena lefifi",
+        "Ke tla bua ka thomo ea Hao, le eona thato ea ’Hao"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ruri tulo e teng thoko, kotulong ea lefats’e,",
+        "Moo nka ba le ho sebetsa teng, ke sebeletse Jesu.",
+        "Tsohle ke li bea ho Uena, kea tseba U ea nthata.",
+        "’Me ke tla etsa thato ea Hao, ke be se U se ratang."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "number": 370,
+  "language": "tum",
+  "title": " 370 Para Zuwa Lifinyi Liza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 370 Para Zuwa Lifinyi Liza"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Para zuwa liífinyi liza,",
+        "ndakofya na mpomo yikuru",
+        "wangelo na watuwa wose",
+        "kupoma na kululutira."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wamkuti ku awo waLi ku woko La maryero,",
+        "Zaninge, zaninge muhare",
+        "ciharo ca ndanda."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mafuko ghose pano pasi",
+        "ghamko-ngana pantazi pake kupokera",
+        "vyakuwenera ivyo vikuwa lindirira."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Awo wakuzomera Fumu wamkuca",
+        "pamoza na kopa Kweni mazgu gha",
+        "Fumu yawo ghamkucimbizga kopa kwawo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Okwe mwe! Kunozga comene",
+        "kupu-lika mazgu gha Fumu",
+        "Pa kuwacema wantu wake;",
+        "zaninge, zaninge njrani."
+      ],
+      "number": 5
+    }
+  ]
+}

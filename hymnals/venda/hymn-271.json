@@ -1,0 +1,48 @@
+{
+  "number": 271,
+  "language": "ve",
+  "title": "271. Nangwe Zwivhi Zwanu Zwo Tswuka Sa Muridili",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nangwe zwivhi zwo tswuka; Zwi do nga sa Mahada.",
+        "Naho zwivhi zwo tswuka; Zwi do nga sa Mahada.",
+        "Nangwe zwi mu-(nangwe zwi mu-) ridili; Zwi do di tshena.",
+        "Zwivhi zwanu zwitswuku, Zwivhi zwitswuku-tswuku.",
+        "Zwi do nga sa Mahada, Zwi do nga sa Mahada."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ipfani ipfi li ri: Vhuyela kha Mudzimu!",
+        "Ni kha di kwengweledzwa, Vhuyani ha Mudzimu!",
+        "A no khathutshela (A no khathu-), A na lufuno.",
+        "Ipfani ipfi li ri, Ipfani ipfi li ri;",
+        "Vhuyela kha Mudzimu, Vhuyela kha Mudzimu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. U do ni tanzwa zwivhi, Ha tsha do zwi humbula",
+        "U do ni tanzwa zwivhi, Ha tsha do zwi humbula",
+        "’Sedzani-ha (Sedzani-ha) kha nne, U ralo Khotsi.",
+        "U do ni tanzwa zwivhi, U do ni tanzwa zwivhi.",
+        "Ha tsha do zwi humbula, Ha tsha do zwi humbula."
+      ],
+      "number": 4
+    }
+  ]
+}

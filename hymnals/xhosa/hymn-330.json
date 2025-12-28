@@ -1,0 +1,47 @@
+{
+  "number": 330,
+  "language": "xh",
+  "title": "330 Uyeza U-Mgwebi Omkhulu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Uyeza! Uyeza! U-Mgwebi omkhulu, Abantu bobona i-Nkosi yezulu;",
+        "Babeye kuvuswa kwa semangcwabeni, Babonakaliswe kwa sekukhanyeni."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Izinto esizibonayo zotshiswa, Amawa nentaba zonyibilikiswa,",
+        "Ilanga locinywa, inyanga yophela, Aboni abakuba nakuzimela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U-Mgwebi wofika nomkhosi omkhulu, Umkhosi wezakh’ izithunywa zezulu;",
+        "Amehlo o-Mgwebi omkhulu obona izinto zasese, izinto zokona."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aboni boba nelikhulu ivuso, Bongcangcazelela obakhe ubuso;",
+        "Abangalungile botshatyalaliswa, Kwa sesihogweni somlilo botshiswa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yekani izono, noyike, nilunge; Liveni ilizwi le-Nkosi, nikhunge;",
+        "Zithandazeleni, nifun’ izibele; Lixesha kaloku, yizan’ anamkele."
+      ],
+      "number": 5
+    }
+  ]
+}

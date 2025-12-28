@@ -1,0 +1,52 @@
+{
+  "number": 174,
+  "language": "xh",
+  "title": "174 Liyavuyisa!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hayi, ukuvuyisa kwalo, Ithemba loyolo!",
+        "Lisiphakamisa thina Koluhambo lwethu.",
+        "Lisiphakamisa thina Koluhambo lwethu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lalath’ izwe lokuphumla Elab’ abangcwele;",
+        "Apho sobon’ abathandwa Sibe nabo njalo.",
+        "Apho sobon’ abathandwa Sibe nabo njalo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Elozwe linge nasono, Kungekho sihendo;",
+        "Elo soloko limnandi, Linge nanto imbi.",
+        "Elo soloko limnandi, Linge nanto imbi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kulo elo lizwe lihle Akukho nyembezi;",
+        "Kunge nakungen’ ukufa, Boba njenge-ngelos’.",
+        "Kunge nakungen’ ukufa, Boba njenge-ngelos’."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khauleza, xesha, khauleza, Msindisi, fika bo!",
+        "Singa singabona wena, Sibe kwelo khaya.",
+        "Singa singabona wena, Sibe kwelo khaya."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 99,
+  "language": "ve",
+  "title": "99 Ndi Tshi Sedza Tshifhambano",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:154",
+        "AH:089"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.Ndi tshi sedza tshifhambano",
+        "Ho felaho Yesu wanga",
+        "Lupfumo na u dihudza hanga",
+        "Zwothe ndi lifhedzi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ri vhona kha zwanda zwawe",
+        "Na milenzhe ndi ntho fhedzi",
+        "O phulelwa zwivhi zwashu",
+        "Mipfa yo vha khare"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. nne ndo vha ndo no xelesa",
+        "Nda wana-vho u hangwelwa",
+        "A thi koni u dikhoda",
+        "Ndi khoda Murena."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Naho nne ndi na lupfumo",
+        "Zwi nga si kone u nthusa",
+        "Nga hei mpho ya lufuno",
+        "Ndi mu fha vhutshilo."
+      ],
+      "number": 5
+    }
+  ]
+}

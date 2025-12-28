@@ -1,0 +1,44 @@
+{
+  "number": 74,
+  "language": "rw",
+  "title": " 74 Biba Mu Gitondo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 74 Biba Mu Gitondo",
+        "**1**",
+        "Biba mu gitondo,",
+        "Imbuto z'ineza!",
+        "Jy'ubiba ku manywa n'ikigoroba!",
+        "Rindira ko zera!",
+        "Hazaz'usarura,",
+        "Tuzishima cyane,",
+        "Dutund'imiba.",
+        "**Gusubiramo:**",
+        "Dutund'imiba,",
+        "Dutund'imiba.",
+        "Tuzishima cyane,",
+        "Dutund'imiba.",
+        "**2**",
+        "Bib'izuba riva!",
+        "Biba mu gitundwe!",
+        "Ntugatiny'ibihu,",
+        "N'imbeho nyinshi!",
+        "Maz'umusaruro,",
+        "N'imirim'ishize,",
+        "Tuzishima cyane,",
+        "Dutund'imiba.",
+        "**3**",
+        "Tugende turira,",
+        "Tubibir'Umwami,",
+        "Niba tubabazwa N'abazimira,",
+        "Ubwo tuzahozwa,",
+        "Tuzakizwa nawe.",
+        "Tuzishima cyane,",
+        "Dutund'imiba."
+      ],
+      "number": 1
+    }
+  ]
+}

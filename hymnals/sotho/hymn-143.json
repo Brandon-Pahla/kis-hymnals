@@ -1,0 +1,43 @@
+{
+  "number": 143,
+  "language": "st",
+  "title": "143 Re Qhalanye Morena.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Re qhalanye Morena,",
+        "U re tlatse ka khotso;",
+        "Re ruoe lerato la Hao,",
+        "Re lokolloe ka mohau;",
+        "Re nchafatsoe, re nchafatsoe,",
+        "Re tsamaea lefeeleng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ho isoe teboho, khanya,",
+        "Evangeli ea thabo;",
+        "Litholoana tsa poloko,",
+        "Li ate ka lipelong,",
+        "Oa ts’epeha, Oa ts’epeha",
+        "Re fumanoe moo ’neteng."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha re sa ntse re phelile;",
+        "Re ineele Morena,",
+        "Re titimeng re sa tenoe;",
+        "Re na le eona ts’epo,",
+        "Re e bone khalalelo;",
+        "Eona ea leholimo"
+      ],
+      "number": 3
+    }
+  ]
+}

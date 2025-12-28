@@ -1,0 +1,56 @@
+{
+  "number": 255,
+  "language": "pt",
+  "title": "Oh! Eu Não Sei, Senhor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Oh! Eu Não Sei, Senhor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! eu não sei, Senhor, porque Tu quererás",
+        "Que tanto eu sofra aqui pesares e aflição.",
+        "Oh! eu não sei, Senhor, porque Tu quererás",
+        "Que eu sofra perdas se outra foi minha oração!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Mas isto eu sei: nunca eu Te deixarei,",
+        "Tu sabes, Pai, melhor, na provação maior;",
+        "E sei também: se eu confiar em Ti,",
+        "Breve as trevas passam e oh! quão claro aqui!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! eu não sei, Senhor, porque Tu quererás,",
+        "Que eu ande neste vale escuro e tão hostil!",
+        "Oh! eu não sei, Senhor, porque Tu quererás",
+        "Que venham nuvens negras no meu céu de anil!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! eu não sei, Senhor, porque Tu quererás",
+        "Que venham sobre mim tão duras tentações!",
+        "Oh! eu não sei, Senhor, porque Tu quererás",
+        "Que eu sofra assim, na vida, amargas provações!"
+      ],
+      "number": 5
+    }
+  ]
+}

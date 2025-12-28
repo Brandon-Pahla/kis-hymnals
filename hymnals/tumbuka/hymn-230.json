@@ -1,0 +1,38 @@
+{
+  "number": 230,
+  "language": "tum",
+  "title": " 230 Ndine Nthowa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 230 Ndine Nthowa",
+        "IAM THE WAY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1.",
+        "Nga mberere zakuzgewa zakumbininika.",
+        "Zaleka umoyo, mtende, nthowa yandisowa?",
+        "S/A",
+        "Naine nthowa, nenesko, ghumi;",
+        "Ungafika kwa Dada mwa ine pera.",
+        "Naine nthowa, 'nenesko ghumi;",
+        "Ungafika kwa Dada mwa ine pera.",
+        "One nthowa, ndine nthowa,",
+        "ndine nthowa nenesko ghum,",
+        "B/T",
+        "Ndine nthowa, ndine nthowa,",
+        "ndine nthowa nenesko ghumi;",
+        "Ungafika kwa Dada mwa ine pera.  2.",
+        "Kwenjerwa kwan'timbani Chiuta nkhum'khumba",
+        "Vyakuyowoya n'vinandi ndingakora vichi?  3.",
+        "Kwa Yesu nthowa 'nenesko na moyo niwelele",
+        "Wanundifiska Dada kumalo yandanda."
+      ]
+    }
+  ]
+}

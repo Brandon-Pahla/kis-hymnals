@@ -1,0 +1,44 @@
+{
+  "number": 588,
+  "language": "es",
+  "title": "Ven, alma que lloras",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ven, alma que lloras"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ven, alma que lloras, ven al Salvador;",
+        "en tus tristes horas dile tu dolor.",
+        "Sí, dile tu duelo; ven tal como estás;",
+        "habla sin recelo, y no llores más."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Penas y tristezas, dilas al Señor;",
+        "crueles desventuras, lágrimas y error;",
+        "en su tierno seno tú descansarás;",
+        "ven, Cristo es bueno, y no llores más."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Guía al extraviado, muéstrale tu luz.",
+        "Lleva al angustiado al manso Jesús.",
+        "La bendita nueva de celeste paz",
+        "al triste, pues, lleva, y no llores más."
+      ],
+      "number": 4
+    }
+  ]
+}

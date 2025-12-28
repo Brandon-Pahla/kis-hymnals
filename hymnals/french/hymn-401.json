@@ -1,0 +1,40 @@
+{
+  "number": 401,
+  "language": "fr",
+  "title": "Rompons ensemble...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Rompons ensemble le pain à genoux,",
+        "Rompons ensemble le pain à genoux.",
+        "Quand je tombe à genoux,",
+        "Le regard tourné vers le ciel,",
+        "Ô Dieu, prends pitié de moi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Buvons ensemble le vin à genoux;",
+        "Buvons ensemble le vin à genoux.",
+        "Quand je tombe à genoux,",
+        "Le regard tourné vers le ciel,",
+        "Ô Dieu, prends pitié de moi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Louons ensemble le Père à genoux,",
+        "Louons ensemble le Père à genoux,",
+        "Quand je tombe à genoux,",
+        "Le regard tourné vers le ciel,",
+        "Ô Dieu, prends pitié de moi."
+      ],
+      "number": 3
+    }
+  ]
+}

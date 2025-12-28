@@ -1,0 +1,46 @@
+{
+  "number": 160,
+  "language": "st",
+  "title": "160 Ke Boloketsoe Jesu.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke bolokeloe Jesu, Ka matla ’Molimo;",
+        "Ke tsehetsoe lefats’eng, Likhatong tsa Jesu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke bolokeloe Jesu, Ke oele maotonga Hae;",
+        "Ha ke lakatse, letho, letho, E ba tsohle-tsohle."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke bolokeloe Jesu, Ke etse thato ’Hae;",
+        "Ke thabele Moreneng, Mosebetsing oa Hae."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke bolokeloe Jesu, Khaohanong ea lefats’e;",
+        "Ee ikokobelitse, Ka pelo e hloekileng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke bolokeloeJesu, Ke be oa Hae hohle;",
+        "E be ka ho sa feleng, Ke be oa Hae feela."
+      ],
+      "number": 4
+    }
+  ]
+}

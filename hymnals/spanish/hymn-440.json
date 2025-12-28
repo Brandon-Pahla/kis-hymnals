@@ -1,0 +1,54 @@
+{
+  "number": 440,
+  "language": "es",
+  "title": "Quiero, Jesús, contigo andar",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Quiero, Jesús, contigo andar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quiero, Jesús, contigo andar,",
+        "y en tu servicio trabajar;",
+        "dime el secreto de saber",
+        "llevar mis cargas con placer."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Haz que mi lengua sepa hablar",
+        "solo el lenguaje del amor,",
+        "y al extraviado pueda guiar",
+        "hasta el redil de mi Pastor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenme a tu lado, enséñame",
+        "a ser paciente, noble y fiel;",
+        "que en tus pisadas pueda andar,",
+        "y al abatido consolar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dame del cielo aquella fe",
+        "que en la tormenta ve la luz.",
+        "Colme mi alma tu bondad,",
+        "y viva siempre con tu paz."
+      ],
+      "number": 5
+    }
+  ]
+}

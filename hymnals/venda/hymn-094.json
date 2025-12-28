@@ -1,0 +1,54 @@
+{
+  "number": 94,
+  "language": "ve",
+  "title": "94 Ndi Tshikolo Tsha Savhatha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.Ndi tshikolo tsha Savhatha,",
+        "Tshi takadza mbilu",
+        "Mbilu yanga i elelwa,",
+        "duvha la Savhatha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Savhatha, ya-vhudi,",
+        "Savhatha, ya-vhudi",
+        "Mbilu yanga i elelwa,",
+        "duvha la Savhatha."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Afha ndo thoma u vhona,",
+        "Ndila ya vhutshilo",
+        "Huno nda sedza zwa-vhudi,",
+        "Nda wana hayani."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yesu a mbo ima hone,",
+        "A mbidza na nne-vho",
+        "Uri ndi de ndi mu khethe,",
+        "Na Savhatha yawe."
+      ],
+      "number": 4
+    }
+  ]
+}

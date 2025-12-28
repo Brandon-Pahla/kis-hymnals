@@ -1,0 +1,63 @@
+{
+  "number": 73,
+  "language": "st",
+  "title": "73 Ha Morena A Kena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Re memetsoe moketeng oa Hae, Ho lula le batho ba Hae teng;",
+        "Ho tla ba joang ho uena le ’na Krese ha ’kena?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha Morena a kena, Ha Morena a kena,",
+        "Ho tla ba joang uena le ’na Kreste ha ’kena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Meqhaka bakeng sa meutloa, Khalalellong ea shoetseng batho,",
+        "Pono ee ntle joang pel’a rona Kreste ha ’kena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nakong eo ho tla bonesoa, Lintho tse li patetsoeng bohle;",
+        "Re tla tsebana libopeho, Kreste ha ’kena."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mahlo a Hae a tla talima, Bohle ba apereng tse ts’oeu;",
+        "Botle ha re ka ema tekong; Kreste ha ’kena."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khao-hano e ke keng ea fela Bohloko ho ba lahlehileng;",
+        "Ho ts’abeha joang nakong eo Ha Kreste a kena."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena re fe ’hlohonolo, E mong le e mong a lebele;",
+        "Hore re se ke ra u ts’aba, Mohlang U kenang."
+      ],
+      "number": 7
+    }
+  ]
+}

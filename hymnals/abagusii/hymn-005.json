@@ -1,0 +1,35 @@
+{
+  "number": 5,
+  "language": "guz",
+  "title": "5 'Ba Igoro Mosasim' Omogambi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Aba Igoro sasim' Omogambi,Tera Obwanchani bw'ogokumia;Enguba Embingwa nere botambe.Y'oichire n'obuya n'ogotogigwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ter'obobui n'obuya bwaye,Ere bwenisetie Oborabu;'Ndamwamu yaye yareta rirumbe,Nabuet'obotindi bwemerindo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Borendi bwao mbogokwaneka,Bwarosi'embeo bwarabi'omobaso;Bwaika korw'ebitunwa gochi'omweya,Bwatoerer'ase rime n'embura."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ntw'ab'eriroba ntor'abareu,Twagosemeri'aye n'omobui;'Maber'ao y'obworor'a botambe,'Motongi, Omoboria, n'Omosani'oito."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "number": 289,
+  "language": "tn",
+  "title": "289 Jeso Morena O Nthuse",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso Morena O Nthuse, Gonne Fa O Seyo K’a Swa",
+        "Atametsa polok’a ’Go, O ntsee jaaka ke ntse."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ntsa’a jaaka ke ntse, Ntsa’a jaaka ke ntse.",
+        "Atametsa polok’a ’Go, O ntse jaaka ke ntse",
+        "T.&amp; B.",
+        "Ntsaya, ntsa’a jaaka ke ntse, Ntsaya, ntsa’a jaaka ke ntse",
+        "Ntsaya, ntsa’a jaaka ke ntse, Ntsaya, ntsa’a jaaka ke ntse"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Ke Na Thuso Ke Molato, Madia ’Go A Nthologetse",
+        "O ka ntira jaak’ O rata, Mme ntsee jaaka ke ntse"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga Go Se Nka Se Baakanyang, K’itshenyetsa Tse",
+        "gaisang;",
+        "Mpoloka ka ’ina ja ’Go, O ntsee jaaka ke ntse."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "K’obama Fa Pele Ga ’Go, Mpona Mmoloki Naong Tsa ’Go;",
+        "Simol’la wetsa tir’a Go, O ntsee jaaka ke ntse"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa O Na Le Tiro Ya Me, Ntlatsa Safatsa Pelo’a Me;",
+        "Dira mo go nna le ka nna, O ntsee jaaka ke ntse"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bofelong Tir’e Fedile, Go Lolwe, Phenyo E Bonywe,",
+        "Ke tla nna ke goa fela, O ntsee jaaka ke ntse"
+      ],
+      "number": 6
+    }
+  ]
+}

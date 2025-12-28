@@ -1,0 +1,44 @@
+{
+  "number": 1,
+  "language": "pt",
+  "title": "Ó Deus de Amor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ó Deus de Amor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó Deus de amor, vimos nós Te adorar.",
+        "Vós, ó nações, rendei louvor!",
+        "És Tu, Senhor, o poderoso Vencedor;",
+        "És Criador e Rei sem par."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por Teu poder nos criaste, Senhor ,",
+        "Deste-nos vida e perfeição;",
+        "E ao desviar-nos de Teu plano de amor,",
+        "Veio, em Jesus, a salvação."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Teu é o poder e o louvor, nosso Deus;",
+        "Teu, nosso amor, fervor também.",
+        "Qual rocha firme a verdade ficará ,",
+        "Deus eternal, Senhor. Amém."
+      ],
+      "number": 4
+    }
+  ]
+}

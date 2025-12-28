@@ -1,0 +1,42 @@
+{
+  "number": 266,
+  "language": "guz",
+  "title": "266 As' Ens' Eyio Engiya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. As' ens' eyio engiya,Nor' omochi' omuya;Orabeo botambe,N'omosunte toiyo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Totinyigw' amariga,Obororo bosireMbari kobara engaki,'Mosunte toiyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Bisieri bie chilulu,As' omochi' omuya;Chinchera chi'edhahabu,N'omosunte toiyo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Bisieri bitasiekwe,Gochi 'omochi' omuya;Mach' obogim' asoka,N'omosunte toiyo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tibaganeti isase,As'omochi' omuya;Ng'ondi ner' omobaso,N'omosunte toiyo."
+      ],
+      "number": 5
+    }
+  ]
+}

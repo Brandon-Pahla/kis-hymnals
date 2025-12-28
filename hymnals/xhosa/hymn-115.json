@@ -1,0 +1,54 @@
+{
+  "number": 115,
+  "language": "xh",
+  "title": "115 Igqira Elikhulu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U-Gqir’ omkhul’ ukufuphi, u-Yes’ onovelwano;",
+        "Evus’ intliziy’ ewayo, Yiv’ izwi lika-Yesu!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Intsholo ye-serafim, Gam’ elona limnandi,",
+        "Ngom’ eyona imnandi, Yes’ osikelelwe!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zonk’ izono zixolelwe, Yiv’ izwi lika-Yesu;",
+        "Yiy’ ezulwin’ unoxolo, Uthweswe isithsaba."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lonke uzuko kwi-Mvana! NdiyaKholwa ku-Yesu;",
+        "Eligama ndilithanda, Igama lika-Yesu!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ligxotha lonk’ ivuso lam; Akukho gama limbi;",
+        "Luyolo kumphefumlo wam, Igama lika-Yesu!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nangex’ eza nesithsaba, -esobomi nozuko;",
+        "Sothi-ke sihlale naYe, Sibalis’ ukhululo."
+      ],
+      "number": 5
+    }
+  ]
+}

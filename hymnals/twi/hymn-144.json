@@ -1,0 +1,48 @@
+{
+  "number": 144,
+  "language": "tw",
+  "title": "O Monto Betlehem Ho Dwom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O monto Betlehem ho dwom",
+        "Mfa nguanhwɛfo no ne",
+        "Nkrasɛm dɛdɛ a 'bɔfo no",
+        "De mae wɔ wim no ho;",
+        "Hann a epuee Betlehem no,",
+        "Ahyɛ wiase ma nnɛ;",
+        "Yesu awo ne fam 'somdwoe",
+        "Na 'bɔfo to ho dwom."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O monto Nasaret ho dwom,",
+        "Monto dwom mfa nhwiren huamhuam",
+        "Ne 'Bofra kronn no ho;",
+        "Nasaret nhwiren betumi",
+        "Anyin koma biaram'.",
+        "Ne din a ɛsom bo no trɛw",
+        "Wɔ mframa biara mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O monto Kalbre nso ho dwom,",
+        "N'anuonyam ne 'w'rɛhow,",
+        "Ne Nea ɔsɛn dua no so a",
+        "ɔsoaa yɛn bɔn' No ho;",
+        "'Fisɛ Nea Owui Kalbre no",
+        "Anyan afi wu mu;",
+        "Na Kristo a s'ro som No no,",
+        "Wɔ tum' sɛ ɔgye nkwa."
+      ],
+      "number": 3
+    }
+  ]
+}

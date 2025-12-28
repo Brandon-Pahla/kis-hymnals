@@ -1,0 +1,54 @@
+{
+  "number": 117,
+  "language": "ve",
+  "title": "117. Ndi A da Murena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi pfa Ipfi lau, Yesu u tshi mmbidza;",
+        "U ri ndi de ndi tanzwiwe, nga malofha au."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndi a da Yesu, kha Iwe zwino;",
+        "Ndi tambe malofhani, a bvaho Khalivari."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nangwe ndi mutshinyi, ndi a u humbela;",
+        "U ntanzwe hothe vhutshinyi, ndi itwe mukhethwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yesu u khou mmbidza, nga lufuno lwawe;",
+        "Uri ndi de kha vhuhosi, ha ngei tadulu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Yesu ndi Mutshidzi, o nthengulula-vho;",
+        "Nga malofha a mutengo, ngei Tshifhambanoni."
+      ],
+      "number": 5
+    }
+  ]
+}

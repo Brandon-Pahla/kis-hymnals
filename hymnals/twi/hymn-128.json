@@ -1,0 +1,35 @@
+{
+  "number": 128,
+  "language": "tw",
+  "title": "Pue, Wo ɔsoro Hann Fɛfɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Pue, Wo ɔsoro hann fɛfɛ,",
+        "Na fa adekyee brɛ yɛn;",
+        "O mo nguanhwɛfo, munnsuro;",
+        "Muntie abɔfo nkrasɛm;",
+        "Saa Akokoa ketewa yi",
+        "Bɛyɛ yɛn 'hotoso ne dɛw",
+        "ɔbɛsɛe Satan tumi,",
+        "Ama yɛn daa asomdwoe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pue, Wo ɔsoro hann fɛfɛ,",
+        "Na fa yɛn nkwagye brɛ yɛn;",
+        "Tumfo Nyame aba fam ha;",
+        "ɔne yɛn anidaso;",
+        "ɔbae wɔ nipa tebea muɔ",
+        "Yɛn Nyankopɔn Immanuel,",
+        "Anadwo sum to atwa,",
+        "Wayɛ bɔn'yɛfo yɔnko."
+      ],
+      "number": 2
+    }
+  ]
+}

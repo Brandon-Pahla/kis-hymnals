@@ -1,0 +1,43 @@
+{
+  "number": 281,
+  "language": "fr",
+  "title": "Mon rocher",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mon rocher, je cherche en toi",
+        "Un refuge pour ma foi;",
+        "Que ton sang, jadis versé",
+        "Sur la croix pour mon péché",
+        "Soit ma source de pardon,",
+        "Ma parfaite protection."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nulle épreuve, nul effort",
+        "Ne me sauve de la mort.",
+        "Que mon zèle soit total,",
+        "Mon courage sans égal.",
+        "Mon espoir, c'est toi, Jésus.",
+        "En toi seul est mon salut."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quand enfin viendra le jour",
+        "Où dans ton divin séjour,",
+        "Sur le trône, je verrai",
+        "Ton pouvoir, ta majesté,",
+        "Mon rocher, tu resteras",
+        "Un refuge pour ma foi."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "number": 190,
+  "language": "en",
+  "title": "190 Precious Name.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Take the name of Jesus with you,",
+        "Child of sorrow and of woe;",
+        "It will joy and comfort give you,",
+        "Take it, then, where’er you go."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Precious name, .. .. O how sweet!",
+        "(Precious name) (O how sweet)",
+        "Hope of earth and joy of heav’n;",
+        "Precious name, O how sweet!",
+        "(Precious name) (O how sweet)",
+        "Hope of earth and joy of heav’n."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Take the name of Jesus ever,",
+        "As a shield from every snare;",
+        "If temptations ‘round you gather,",
+        "Breathe that holy name in prayer."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O the precious name of Jesus!",
+        "How it thrills our souls with joy,",
+        "When his loving arms receive us,",
+        "And his songs our tongues employ!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "At the name of Jesus bowing,",
+        "Falling prostrate at his feet,",
+        "King of kings in heav’n we’ll crown him,",
+        "When our journey is complete."
+      ],
+      "number": 4
+    }
+  ]
+}

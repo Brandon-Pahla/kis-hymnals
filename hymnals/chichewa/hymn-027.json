@@ -1,0 +1,61 @@
+{
+  "number": 27,
+  "language": "ny",
+  "title": "27 - M’titsitsimutse",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WE PRAISE THEE, O GOD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tiyamika’Nu Mulungu wokonda,",
+        "Chifukwa cha Yesu Mwana wanuyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Haleluya, tidzamtama, Haleluya, Amen;",
+        "Haleluya timpembedza, Mulungu wathu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tiyamikira, Mulungu wamphamvu;",
+        "Chifukwa cha Mzimu wanu Woyera."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tiyamikira, Mwana wa Nkhosayo,",
+        "Yemwe anafera zoipa zathu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tiyamika’Nu, Mlungu wa chisomo,",
+        "Munatigula ndi mwazi wanuwo."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5 M’titsitsimutse, Ndi chikondi chanu,",
+        "M’tiyatse ndi moto wa Mzimu wanu."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "number": 1,
+  "language": "en-sdah",
+  "title": "1 Praise To The Lord",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Praise to the Lord the Almighty The King of Creation O my soul praise Him For He is thy health and salvation All ye who hear Now to His temple draw near Join ye in glad adoration"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Praise to the Lord, Who o'er all things so wondrously reigneth,Shieldeth thee under His wings, yea, so gently sustaineth!Hast thou not seen how thy desires e'er have been Granted in what He ordaineth?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Praise to the Lord, Who doth prosper thy work, And defend thee;Surely His goodness, And mercy here daily attend thee.Ponder anew what the Almighty can do, If with His love He befriend thee."
+      ],
+      "number": 3
+    }
+  ]
+}

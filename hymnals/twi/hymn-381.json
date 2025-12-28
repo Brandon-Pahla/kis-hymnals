@@ -1,0 +1,56 @@
+{
+  "number": 381,
+  "language": "tw",
+  "title": "Homeda Yɛ Da Kronkron",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Homeda yɛ da kronkron,",
+        "A yɛn Wura ahy'ra so;",
+        "ɔs'ro Nyame na ɔyɛe",
+        "De sii hɔ sɛ b're kronkron."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yiw, ɔhome da kronkron,",
+        "A yɛn Nyame ahy'ra so;",
+        "Ͻbɛyɛ yɛn sɛnky'rɛne,",
+        "Mmeresanten nyinaa mu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nɔhwehwɛ wiase 'nigye",
+        "Ne ne bɔne akɔnnɔ;",
+        "Nnepa bi wɔ hɔ ma wo,",
+        "Wɔ asu no agya hɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B'rč a Homeda no rebɛn,",
+        "Fiada 'nwumm're 'witɔe no;",
+        "Kristofo nhyia wɔn afim',",
+        "Nto dwom mmɔ mpae Yesu mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mummisa No ɔgye dom",
+        "Ne mm'rikatun' mu nkonim;",
+        "Na ɔmfa Ne tum' mmoa yɛn,",
+        "Ma yɛnyɛ kronn b're biara."
+      ],
+      "number": 4
+    }
+  ]
+}

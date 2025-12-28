@@ -1,0 +1,35 @@
+{
+  "number": 168,
+  "language": "tw",
+  "title": "So ɔsoro Nkanea agye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "So ɔsoro nkanea agye",
+        "Yɛn W'ra a Wasɔre,",
+        "Faako a ns'romma akuakuw",
+        "'Boaboa wɔn ano no?",
+        "So owia a ɛhy'rɛn tumi",
+        "Ky'rɛ N'anammɔn wɔ 'wim,",
+        "Nea ɔyɛ abɔde ny'naa W'ra",
+        "Ne b're sodifo no?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔsoro a ɛde No sie,",
+        "Nnim 'ky'riky'ri nnim mmɛnee;",
+        "Kanea ketewa to ne hann",
+        "Sɛ 'wim nsoromma bi.",
+        "Na nea Ne nk'rɔfo dɔfo hyia",
+        "Ky'rɛ s'ro akyɛde no,",
+        "Na Ogyina wɔn ntam wɔ hɔ,",
+        "Na s'ro hann hyerɛn hɔ."
+      ],
+      "number": 2
+    }
+  ]
+}

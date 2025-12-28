@@ -1,0 +1,47 @@
+{
+  "number": 270,
+  "language": "tn",
+  "title": "270 Morekolodi A Ise Re Salang Sentle",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Morekolodi A Ise A Re Salang Sentle,",
+        "A re tlogelela Mogomotsi go nna."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Tla Go R’itumedisa, Moyeng Yo ’Ithatisang,",
+        "Fa a ka bona pelo e E mo ratang."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Utlwa Lentswe Ja Gagwe, Ke Je Le Bonolo,",
+        "Le tlosa phoso mme le gomotsa pelo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Molemo O Re Nang Nao, Phenyo Re E Bonang,",
+        "Le kgopolo e boitshepo ke tsa Gagwe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M’wa O Boitsheko Le Tshwaro Nna Pelo Tlhomogi,",
+        "Baakanya pelo tsa rona Jaaka Wena."
+      ],
+      "number": 5
+    }
+  ]
+}

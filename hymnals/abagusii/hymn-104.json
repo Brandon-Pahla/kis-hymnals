@@ -1,0 +1,35 @@
+{
+  "number": 104,
+  "language": "guz",
+  "title": "104 Toagach' Egetare Ke Moyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Toagach' Egetare Ke moyo,Yes' Egetare kiemiaka;Toremererie okogoswa,Omwaga gokogusa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Natoagache As' egetareToagach' egetar' egekong'u'Se Krist' Egetare."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Bande baagach' amaroba,Korora kw'enibo y'enseAband' emerindo y'ebibe,'Megok' ogotogigwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Agach' egetar' ekeene,'Boroso botasareke;'Gosemeria kare na kare,Ogotoreka gwaito."
+      ],
+      "number": 4
+    }
+  ]
+}

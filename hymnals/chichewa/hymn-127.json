@@ -1,0 +1,45 @@
+{
+  "number": 127,
+  "language": "ny",
+  "title": "127 - Mulungu Asamalabe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HE LOVES ME, TOO"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mulungu asamalabe Mbalame zonsezo;",
+        "Ngatitu azikondadi, Akonda inenso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Andikonda, andikonda, Akonda inenso;",
+        "Akonda zinthu zonsezo, Akonda inenso."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Maluwa mthengo monsemo Apanga Mbuyeyo;",
+        "Ngatitu awakondadi, Akonda inenso."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mulungu, mlengi wathuyo Apanga zonsezo;",
+        "Samaiwala ana ’ke, Akonda onsewo."
+      ],
+      "number": 4
+    }
+  ]
+}

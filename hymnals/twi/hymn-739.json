@@ -1,0 +1,33 @@
+{
+  "number": 739,
+  "language": "tw",
+  "title": "N44 Fishers of Men",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mεma moayε nnipa yifo,",
+        "Nnipa yifo, nnipa yifo,",
+        "Mεma moayε nnipa yifo,",
+        "Sε mudi M'akyia.",
+        "Sε mudi M'akyia!",
+        "Mεma moayε nnipa yifo,",
+        "Sε mudi M'akyia."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mεma moayε ‘sεmpakafo,",
+        "‘Sεmpakafo, ‘sεmpakafo,",
+        "Mεma moayε ‘sεmpakafo,",
+        "Sε mudi M'akyia.",
+        "Sε mudi M'akyia!",
+        "Mεma moayε sεmpakafo,",
+        "Sε mudi M'akyia."
+      ],
+      "number": 2
+    }
+  ]
+}

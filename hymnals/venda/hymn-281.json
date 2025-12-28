@@ -1,0 +1,54 @@
+{
+  "number": 281,
+  "language": "ve",
+  "title": "281. naledzi Yo Nakaho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ho vhonwa naledzi vhusiku,",
+        "Yo penyiswaho nga Mudzimu",
+        "Yo ranga phanda vha vhutali,",
+        "Vha livhiswa kha Mutshidzi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "I khou penya, I khou penya;",
+        "Naledzi thavhani khethwa;",
+        "Vhu khou penya, Vhu khou penya,",
+        "Vhutshidzi ha Murena washu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Manwalo o vha vhudza ngoho",
+        "Ya naledzi i penyesaho",
+        "Vha tevhela tshedza tshihulu",
+        "Tsha Yesu naledzi mutsho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri tevhela tshedza tsha kale",
+        "Itsho tshedza tsho ambiwaho",
+        "Ri do tshi tevhela tadulu",
+        "Ra da ha Muvhofhololi."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 152,
+  "language": "st",
+  "title": "152 Bua Moeen Oa Ka.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bolela le ’na Jesu, bua ka bonolo;",
+        "U sebe ka lerato, hoba ha u nots’i,",
+        "U bule pelo ea ka, ho utloa ’ntsoe la Hau;",
+        "U ntlatse ka lithoko, ke thabe ho Uena."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U bue ke ho seba, seba ka lerato;",
+        "U tla ’ne u be mohloli, hoba ha u ’nots’i;",
+        "Bua le ’na Morena, bua ka bonolo,",
+        "Joale ke utloe u seba, hoba ha U ’nots’i."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bua le bana ba Hao, ba hulele tseleng;",
+        "Ba tlatse ka nyakallo, ba rute thapelo,",
+        "Ba ke ba u nehele bophelo ba bona,",
+        "Akofisa borena, re bone Morena"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bua joaloka khale, ha u its’enotse;",
+        "Ke tsebe ho nts’oanelang, ke phethe taelo,",
+        "U nkise khalalelong, nthuse ho ’rorisa;",
+        "Ke etse ka ho thaba, ke U nee hlompho"
+      ],
+      "number": 3
+    }
+  ]
+}

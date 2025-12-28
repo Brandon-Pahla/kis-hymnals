@@ -1,0 +1,28 @@
+{
+  "number": 33,
+  "language": "guz",
+  "title": "33 Tata Tosibore Bono",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tata tosibore bono,N'ogwanchera okuyaToe omogoko oo,Torusie ebibe piToe gwancha, Toe gwanchaGatokogend' ens' eye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Twagokire rero mono,As' amang'ana ao;Togwanch' ogochika kwao,Natogoke botambeNatoteme natotemeKogotokonya aye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Gatokogenda ens'eye,mbuya togokorereGatogotunya enchera,Totokona tatigaObe ang'e, obe ang'eGoika Oirane."
+      ],
+      "number": 3
+    }
+  ]
+}

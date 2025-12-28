@@ -1,0 +1,44 @@
+{
+  "number": 146,
+  "language": "es",
+  "title": "Ni en la tierra",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ni en la tierra"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ni en la tierra ni en el cielo",
+        "nombre hay como el de Jesús;",
+        "sobre todo siempre reina,",
+        "él es solo eterna luz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Es Jesús mi gran sustento,",
+        "Pan divino y celestial;",
+        "de mis dichas y mi gozo,",
+        "es el rico manantial."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Infinita es su ternura.",
+        "¿Quién la puede agotar?",
+        "Con los ángeles, hoy quiero",
+        "su grandeza pregonar."
+      ],
+      "number": 4
+    }
+  ]
+}

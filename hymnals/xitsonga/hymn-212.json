@@ -1,0 +1,24 @@
+{
+  "number": 212,
+  "language": "ts",
+  "title": "212. KU NGHENA MBILWINI YANGA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE COMES TO MY HEART ONE SWEET STRAIN",
+        "1. Ku Nghena Mbilwini Yanga (Yanga), Ntsako Lowo Hlamarisa (Risa);",
+        "Ndza Dzunisa Kambe Na Kambe, Nyiko Yo Huma Kakwe.",
+        "CHORUS",
+        "Ku Rhula Nyiko, Yo Huma Tilweni; I Ya Rirhandzu Ra Yesu, Ya Hlamarisa.",
+        "2. Ku Rhula Ku Ta Na Yesu (Yesu), U Fe Matshan’weni Yanga (Yanga);",
+        "Mhamba Leyi Kutsulaka, Vutomi Byi Nga Herik’.",
+        "3. Loko Ndzi N’wi Amukela (Kela), Leswaku I Hosi Yanga (Yanga);",
+        "U Ndzi Nyike Rifuwo, Ndzamukele Ku Rhula.",
+        "4. Hosini Ku Tshama Ku Rhula (Rhula), Ndzi Ta Namarhela Yena (Yena)",
+        "A Ndzi Naveri Swin’wana, Handle Ka Ko Ku Rhula."
+      ],
+      "number": 1
+    }
+  ]
+}

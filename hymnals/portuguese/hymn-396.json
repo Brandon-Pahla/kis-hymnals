@@ -1,0 +1,62 @@
+{
+  "number": 396,
+  "language": "pt",
+  "title": "Ouve-nos, Pastor Divino",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ouve-nos, Pastor Divino"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ouve-nos, Pastor divino, neste santo e bom lugar;",
+        "Teu rebanho congregado, vimos juntos Te adorar.",
+        "Cristo amado, Cristo amado,",
+        "Vem Teu povo abençoar;",
+        "Cristo amado, Cristo amado,",
+        "Vem Teu povo abençoar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aos perdidos no pecado, seu perigo faz sentir.",
+        "Chama os pobres enganados, faze-os Tua voz ouvir.",
+        "Aos enfermos, aos enfermos",
+        "Vem depressa acudir;",
+        "Aos enfermos, aos enfermos",
+        "Vem depressa acudir."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Traze o pobre desgarrado ao Teu bom redil, Senhor.",
+        "Toma o tenro cordeirinho em Teu braço protetor.",
+        "Dá-lhe abrigo, dá-lhe abrigo",
+        "Em Teu santo e doce amor;",
+        "Dá-lhe abrigo, dá-lhe",
+        "Em Teu santo e doce amor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó Jesus, escuta o rogo, nossa humilde petição;",
+        "Vem, desperta em Teu rebanho mais sincera devoção.",
+        "Cantaremos, cantaremos",
+        "Tua afável proteção;",
+        "Cantaremos, cantaremos",
+        "Tua afável proteção."
+      ],
+      "number": 5
+    }
+  ]
+}

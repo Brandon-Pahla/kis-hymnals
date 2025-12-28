@@ -1,0 +1,61 @@
+{
+  "number": 339,
+  "language": "fr",
+  "title": "Le saint sabbat...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Le saint sabbat va commencer",
+        "Mon âme pour te reposer,",
+        "Alléluia, alléluia !",
+        "Profite de ce jour béni;",
+        "Notre labeur est accompli"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Alléluia, alléluia !",
+        "Alléluia, alléluia !",
+        "Alléluia !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rendons grâce à Dieu dont l'amour",
+        "A voulu réserver ce jour",
+        "Alléluia, alléluia !",
+        "Pour en faire un repos pour tous.",
+        "Bénissons-le à deux genoux."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que, de nos cœurs reconnaissants,",
+        "Les notes claires de nos chants",
+        "Alléluia, alléluia !",
+        "S’élèvent libres vers les cieux",
+        "En ce saint jour si précieux."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le sabbat est pour tes enfants,",
+        "Il annonce à tous les croyants",
+        "Alléluia, alléluia !",
+        "Que bientôt finiront nos maux",
+        "Et nous goûterons le repos."
+      ],
+      "number": 5
+    }
+  ]
+}

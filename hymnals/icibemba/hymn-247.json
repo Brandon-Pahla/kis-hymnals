@@ -1,0 +1,29 @@
+{
+  "number": 247,
+  "language": "bem",
+  "title": "247 - LISHENI NDIBU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "RING THE BELLS OF HEAVEN"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Lisheni indibu kulyu buseko, Pa muntu wafuma ku bubi;",
+        "Wishi alemukumanya mu nshila, Amusengela walubile.",
+        "CHORUS:",
+        "Lulu-mbi baimba bangeli, Lulu-mbi lisheni amasese:",
+        "Abalubulwa baleimbo lwimbo, Baleimba lwa kulubulwa",
+        "2. Lisheni indibu kuli buseko, Walubile nomba nabwela;",
+        "Apusushiwa kufuma ku bubi, Wene afyalwa cipya cipya.",
+        "3. Lisheni Indibu ku mutebeto, Bangeli baleimbo bwansho;",
+        "Twaleni ilyashi liye kutali, Watemwikwa nafyalwa lelo."
+      ],
+      "number": 2
+    }
+  ]
+}

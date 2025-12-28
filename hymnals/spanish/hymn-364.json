@@ -1,0 +1,32 @@
+{
+  "number": 364,
+  "language": "es",
+  "title": "Jesús da paz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Jesús da paz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesús da paz,",
+        "y derriba cualquier pared",
+        "de división; nos trae paz.",
+        "Jesús da paz,",
+        "y derriba cualquier pared",
+        "de división; nos trae paz.",
+        "A él entrega hoy",
+        "toda tu ansiedad;",
+        "te cuidará, paz te dará.",
+        "A él entrega hoy",
+        "toda tu ansiedad;",
+        "te cuidará, paz te dará."
+      ],
+      "number": 2
+    }
+  ]
+}

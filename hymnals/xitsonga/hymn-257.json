@@ -1,0 +1,20 @@
+{
+  "number": 257,
+  "language": "ts",
+  "title": "257. TIYANI BYA SWINTSHABYANI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "UNSHAKEN AS THE SACRED HILLS",
+        "1. Tiyani Bya Swintshabyani, Mi Tserha Bya Ntshava;",
+        "Moya Wanga Wu Ta Wisa, Vokweni Ra Yesu.",
+        "2. Xisirheleto Ku Hava, Xa Ndhawu Yo Xonga;",
+        "Handle Ka Voko Ra Nsovo, Ku Lwela Va Wena.",
+        "3. Lava Hlayisaka Milawu, Va Ta Ku Namarhela;",
+        "Va Timbilu Letinene, Va Komba Rirhandzu."
+      ],
+      "number": 1
+    }
+  ]
+}

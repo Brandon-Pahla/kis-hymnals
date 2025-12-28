@@ -1,0 +1,22 @@
+{
+  "number": 129,
+  "language": "ts",
+  "title": "129. ENHLANGANWENI WA VANHU VAMBIRHI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "JESUS THOU HAST PROMISED",
+        "1. Enhlanganweni Wa Vanhu Vambirhi, Vitweni Ra Wena, U Ta Va Kona;",
+        "Emikhongelweni, Ne Matsalweni, Yesu Katekisa, U Tshembisile.",
+        "CHORUS",
+        "Tana Katekisa, Vana Va Wena Tshama Ekusuhi, Hi Katekise!",
+        "2. Yesu Hi Hlangene, Nkarhi Wa Khale, Ku Fika Makumu, U Nga Hi Siyi;",
+        "Tana Muponisi, Hi Tsetselele, Sweswi Ha Khongela, Hi Amukele.",
+        "3. Hi Hlantswe Marito, Yo Ku Tlangela, Swikombelo Swerhu, Swi Amukele;",
+        "Hi Nyike Ku Tshemba Na Ripfumelo, HI Nyike Rirhandzu, Hi Voningele."
+      ],
+      "number": 1
+    }
+  ]
+}

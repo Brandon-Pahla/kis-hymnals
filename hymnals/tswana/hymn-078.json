@@ -1,0 +1,52 @@
+{
+  "number": 78,
+  "language": "tn",
+  "title": "78 Senkang Matimela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Senkang Matimela Ka Bonolo,",
+        "Ba ba timetseng kwa dithabeng,",
+        "\"Tlang kwano go Nna,\" ke thomo ya ’Gwe,",
+        "O e bolele gompieno."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "(BASS):",
+        "Lo eng kgakala, kwa dithabeng,",
+        "Busang matimela, timela gape,",
+        "Mo lesakeng ja Morekolodi",
+        "Jeso kwana ya baleofi.",
+        "(BA BANGWE):",
+        "Lo eng kgakala, kgakala dithabeng,",
+        "Busang matimela, timela gape,",
+        "Lesakeng ja Morekolodi wa me",
+        "Jeso yo O tlhabetsweng baleofi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lo Senkeleng Jeso Matimela",
+        "Mewa, dipelo tse ’botlhoko,",
+        "Lo ba gogeng tseleng tsa poloko,",
+        "Lo supe tsela ya botshelo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Ya Gonne Jeso O Mpiditse,",
+        "Ke tla Mo latela ka metlha;",
+        "Ke tla tlamela ba ba nyelelang,",
+        "Ke ba supetsa Jeso tsela."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "number": 81,
+  "language": "bem",
+  "title": "81 - MWE BANTU BAKWA LESA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WORK FOR THE NIGHT IS COMING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mwe bantu bakwa Lesa mwapelwa milimo;",
+        "Bomb ni pa kasuba nelyo cungulo;",
+        "Nomba nshita kubomba kucili lubuto;",
+        "Ubushiku bwaila milimo yapwa,",
+        "2. Mwe bantu bakwa Lesa mwikokola mwise;",
+        "Lesa apele nshita kubomba nomba;",
+        "Lintu milimo yapwa atupa kutusha,",
+        "Lelo ili inshita iya milimo.",
+        "3. Mwe bantu bakwa Lesa nshita yapalama,",
+        "Kuleka imilimo kubapususha;",
+        "Bomba na maka yenu kupwishe milimo",
+        "Pantu bushiku bwisa tamwakabombe."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "number": 22,
+  "language": "es",
+  "title": "Jehová está en su santo templo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Jehová está en su santo templo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jehová está en su santo templo,",
+        "Jehová está en su santo templo;",
+        "seamos reverentes,",
+        "seamos reverentes",
+        "ante el Señor.",
+        "¡Silencio!, ¡silencio!,",
+        "ante el Señor. Amén."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "number": 30,
+  "language": "en",
+  "title": "30 Day Is Dying In The West",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Day is dying in the west;",
+        "Heav`n is touching earth with rest:",
+        "Wait and worship while the night",
+        "Sets her evening lamps alight",
+        "Thro` all the sky"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Holy, holy, holy, Lord of Hosts!",
+        "Heaven and earth are full of Thee!",
+        "Heaven and earth are passing",
+        "Thee, O, Lord most high."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lord of life, beneath the dome",
+        "Of the universe, thy home,",
+        "Gather us, who seek Thy face,",
+        "To the fold of Thy embrace,",
+        "For Thou art nigh"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "While the deep`ning shadows fall,",
+        "Heart of love, enfold us all;",
+        "Thro` the glory and the grace",
+        "Of the stars that veil thy face,",
+        "Our hearts ascend."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "When forever from our sight,",
+        "Pass the stars, the day, the night,",
+        "Lord of angles our eyes",
+        "Let eternal morning rise,",
+        "And shadows end."
+      ],
+      "number": 4
+    }
+  ]
+}

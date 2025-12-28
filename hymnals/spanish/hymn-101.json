@@ -1,0 +1,56 @@
+{
+  "number": 101,
+  "language": "es",
+  "title": "Cabeza sacrosanta",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cabeza sacrosanta"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cabeza sacrosanta, herida en mi",
+        "favor;",
+        "espinas la rodean que aumentan",
+        "su dolor.",
+        "Glorioso amor refleja y dulce",
+        "salvación,",
+        "aun cuando la desprecien, le doy",
+        "mi devoción."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu grande sufrimiento da vida al",
+        "transgresor.",
+        "Mi culpa fue terrible, mas te agobió",
+        "a ti.",
+        "Ante tus pies me rindo, amado",
+        "Salvador,",
+        "pidiendo, arrepentido, me des tu",
+        "gracia hoy."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh!, ¿cómo agradecerte, querido y",
+        "buen Jesús,",
+        "por toda tu angustia, por tu dolor sin",
+        "fin?",
+        "Hazme un fiel hijo tuyo, sostenme,",
+        "mi Señor.",
+        "Que nunca te abandone, precioso",
+        "Redentor."
+      ],
+      "number": 4
+    }
+  ]
+}

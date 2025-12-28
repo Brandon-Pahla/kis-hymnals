@@ -1,0 +1,30 @@
+{
+  "number": 227,
+  "language": "ny",
+  "title": "227 - Pa Mtanda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "AT THE CROSS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Ambuye mwazi nakhetsa, Mfumu yanga nifa,",
+        "Naperekera mutuwo Mbozi ngati ine!",
+        "CHORUS:",
+        "Pa mtanda, pa mtanda ndaona kuwala,",
+        "Colemetsa mtimanga cacoka;",
+        "Mwa cikhulupiriro ndiona,",
+        "Ndikondwera kosaleka.",
+        "2. Anabuula pa mtengo, Ndi zoipa zanga;",
+        "Kuya cisomo citere, Cikondi cakuya!",
+        "3. Nzosatheka kubwezera Cikondi cotere;",
+        "Ndingodzipereka Mbuye, Zokhazo ndicita."
+      ]
+    }
+  ]
+}

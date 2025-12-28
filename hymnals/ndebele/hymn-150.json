@@ -1,0 +1,47 @@
+{
+  "number": 150,
+  "language": "nd",
+  "title": "150 Baphi Abavuni Na?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Baph’ abavuni a bazobutha Inyand’ ezivel’ emasimini?",
+        "Thathan’ amasikel’ eqiniso, Sebenzan’ u z’ uphel’ umsebenzi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Baph’ abavuni? Uph’ ozayo? Ba zosiz’ ukuleth’ ukudl’ ekhaya;",
+        "Uph’ ozosiza ukubutha Inyand’ ezivel’ ensimini?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hamban’ emendweni, ni bafune; A ngakhon’ amabel’ okhuleni.",
+        "Ni fun’ emendweni nemenweni, Ni buthel’ ekhaya ezulwini."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amasim’ a vuthiwe kashana, Izwe se li lindel’ ukuvunwa;",
+        "Abavuni bancane kakhulu! Uma kwephuzwa ku ngonakala."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lethani bantu, amasikeka; Ni buthele ndawony’ amabele,",
+        "Ni sebenz’ iz’ i fike iNkosi; Nothaba naYo ngabalahleki."
+      ],
+      "number": 5
+    }
+  ]
+}

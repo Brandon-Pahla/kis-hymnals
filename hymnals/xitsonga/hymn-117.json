@@ -1,0 +1,25 @@
+{
+  "number": 117,
+  "language": "ts",
+  "title": "117. NDZI TWA RITO RAKU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I HEAR THY WELCOME VOICE",
+        "1. Ndzi Twa Rito Raku, Ri Ndzi Vitanaka;",
+        "Ku Ndzi Hlantswa Engatini, Leyi Halekeke.",
+        "CHORUS",
+        "Ndzi Ta Ka Wena Ndzi Ta Ko Sweswi;",
+        "Ndzi Hlantswe Hi Yo Ngati, Leyi Halakeke.",
+        "2. Ndzi Hava Matimba, A Ndzi Tisi Nchumu;",
+        "Ndzi Tele Ku Basisiwa Swivini Swa Mina.",
+        "3. Yesu Wa Ndzi Vita, U Ta Hi Rirhandzu;",
+        "I Vutomi Na Ku Rhula, Leswi Pfaka Tilweni.",
+        "4. Ndza Khensa Tintswalo, Ta Ku Kutsuriwa;",
+        "Yona Nyiko Ya Xikwembu, Eka Valahleki."
+      ],
+      "number": 1
+    }
+  ]
+}

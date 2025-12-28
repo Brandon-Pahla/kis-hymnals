@@ -1,0 +1,47 @@
+{
+  "number": 147,
+  "language": "sw",
+  "title": "147 - Tawala Ndani Yangu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Tawala ndani yangu, ee Yesu mfalme,",
+        "Uwe kwangu majibu, kwa maswali yangu,",
+        "Uishi ndani yangu, wewe mwongozi,",
+        "Utumishi ni wangu, wako utukufu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Hekalu nimetoa, umelisafisha,",
+        "Sasa fahari yako, imulike ndani,",
+        "Dunia iwe kimya, mwili sasa uwe,",
+        "Mtumwa mtulivu, wa kukutii tu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Viungo vyake mwili, vyote vyakungoja,",
+        "Tayari vikiitwa, kwenda kusimama,",
+        "Bila manung’uniko, au malaumu,",
+        "Au kusumbuliwa, pasipo majuto."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Niwe na utulivu, pasipo haraka,",
+        "Tayari kungojea, maagizo yako,",
+        "Tawala ndani yangu, ee Yesu mfalme,",
+        "Uwe kwangu majibu, kwa maswali yote."
+      ]
+    }
+  ]
+}

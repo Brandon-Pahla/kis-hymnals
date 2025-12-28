@@ -1,0 +1,46 @@
+{
+  "number": 99,
+  "language": "fr",
+  "title": "Les nations marcheront",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Les nations marcheront à la lumière de l’Agneau,",
+        "Les rois de la terre apporteront leur richesse et leur splendeur.",
+        "Les portes de la ville plus jamais ne se fermeront.",
+        "Dans sa gloire Dieu resplendira.",
+        "Il n’y aura plus de nuit",
+        "Car du trône de Dieu et de l’Agneau",
+        "Jaillira un fleuve scintillant semblable à du cristal.",
+        "Sur la place, l’arbre de la vie",
+        "Chaque mois sera chargé de fruits.",
+        "Par ses feuilles tous seront guéris."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Et la malédiction ne sera plus,",
+        "Dans la ville sainte brillera le trône du Seigneur.",
+        "Et voyant leur maître face à face,",
+        "Les élus l’adoreront sans fin.",
+        "Sur leur front sera inscrit son nom."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ils n’auront plus besoin d’aucun flambeau",
+        "Ni de la lumière du soleil, car Dieu luira sur eux",
+        "Et ils règneront de siècles en siècles.",
+        "Ces paroles sont la vérité.",
+        "Dieu a envoyé son messager."
+      ],
+      "number": 3
+    }
+  ]
+}

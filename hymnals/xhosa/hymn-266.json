@@ -1,0 +1,38 @@
+{
+  "number": 266,
+  "language": "xh",
+  "title": "266 Yesu Ndokulandela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu ndokulandela, Ndikuva undibiza.",
+        "Ngothando nokuthemba, Ndoz’ undis’ ekhaya."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndokulandela, Ndokulandela,",
+        "Ndokulandela apho uyaKhona."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Mehlo akangeboni, Iinyawo zilahleke;",
+        "Ndingatyhafa ndidinwe, Wen’ ungamandla am."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nokuba ndinosizi, Ndichaswe nasisono,",
+        "Ngesibindi ndokulwa, Xa ndikulandela."
+      ],
+      "number": 3
+    }
+  ]
+}

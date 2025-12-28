@@ -1,0 +1,63 @@
+{
+  "number": 497,
+  "language": "tw",
+  "title": "Adasamma Agya Dɛɛfo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Adasamma Agya dɛɛfo,",
+        "Yɛn honhom mu yɔnko;",
+        "'S'ro 'W'rade, yɛn koma dɔfo,",
+        "Yɛn mpae f'ro ba Wo nkyɛn;",
+        "Wontwɛn nkosi sɛ yɛbɛsrɛ",
+        "Wo soro akyɛde;",
+        "Yɛn botae, yɛn 'dwuma, yɛn bra,",
+        "Yɛ mpae a Wodɔ pii."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wuhu papa ne bɔne a",
+        "Ahinta koma mu;",
+        "Adwen ne nhyehyɛe biara a",
+        "Epue anaa empue.",
+        "Yi nkakae fi yɛn mpaebɔ mu,",
+        "Yɛn bra nnan mmra Wo nkyɛn",
+        "Kosi sɛ yɛbɛyɛ 'dwuma",
+        "'Kyɛdč a yebisa ho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn mu a Wote ne Wo pɛ",
+        "Ho adwen som yɛn bo;",
+        "Sɛ yɛbɛte Wo nnč a yehia,",
+        "'Dɔ, otie ne kommyɛ.",
+        "Yɛn pɛ renni Wo de no so,",
+        "Mmom ɛbɛmem Wo dem';",
+        "Yɛrensu wɔ s'ro pon akyi,",
+        "Mmom yɛbɛbɔ Wo bra."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wode ɔdɔ hwehwɛ yɛn sen",
+        "Sɛnea yɛhwehwɛ Wo;",
+        "Wo tumi sen fa apon mu",
+        "Te sɛ po as'rɔkye.",
+        "Yɛnhwehwɛ Wo aky'riky'ri bi,",
+        "Anaa sɛnky'rɛnne bi;",
+        "Eye pii sɛ yɛbɔ mɔpae,",
+        "Na yɛyɛ Wo de kōraa."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "number": 32,
+  "language": "ts",
+  "title": "32. HOSI I N’WINI WA HINA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE LORD IS OUR ROCK",
+        "1. Hosi I N’wini Wa Hina Yeso Khokholo Ra Hina,",
+        "U Susa Na Wona Nchavo, Yeso Khokholo Ra Hina.",
+        "CHORUS",
+        "Khokholo Lera Matimba, Xisirhelelo Vudyohwen Mufambisi Ku Ya Ekaya, Yeso Khokholo Ra Hina.",
+        "2. Wa Hi Lwela Eka Nala, Yesu Khokholo Ra Hina, A Ku Na Xo Hi Tshukisa, Yeso Khokholo Ra Hina.",
+        "3. Hambi A Hlundzuka Nala, Yesu Khokholo Ra Hina,",
+        "Hi Kuma Ku Hlayiseka Yesu Khokholo Ra Hina",
+        "4. Yesu Hi Ye Mukutsuri, Yesu Khokholo Ra Hina,",
+        "Hi Wena Mupfuni Werhu, Yesu Khokholo Ra Hina."
+      ],
+      "number": 1
+    }
+  ]
+}

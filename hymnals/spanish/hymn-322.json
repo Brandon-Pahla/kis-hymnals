@@ -1,0 +1,62 @@
+{
+  "number": 322,
+  "language": "es",
+  "title": "Busquemos la patria",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Busquemos la patria"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Busquemos la patria de justos y",
+        "santos,",
+        "do mora la dicha, do reina el amor.",
+        "Dejemos ahora fugaces encantos",
+        "que ciegan y llevan a eterno dolor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hermanos viajeros, felices",
+        "marchemos,",
+        "delicias eternas allí Dios dará;",
+        "pues sobre collados de gloria",
+        "andaremos,",
+        "y herencia esa tierra de todos será."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Deseamos, hermano, en camino",
+        "llevarte.",
+        "Por ti detenidos estamos; ¡oh ven!",
+        "En Cristo confía, que anhela",
+        "salvarte",
+        "y hacerte morar en su célico Edén."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tal vez desconfiado, te estás",
+        "preguntando:",
+        "\"¿Quién puede mi negra conciencia",
+        "limpiar?\"",
+        "Jesús es el único; ven, pues, orando:",
+        "\"Señor, haz que pueda a tu reino",
+        "llegar\"."
+      ],
+      "number": 5
+    }
+  ]
+}

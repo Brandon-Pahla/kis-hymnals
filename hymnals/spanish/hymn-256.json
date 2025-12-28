@@ -1,0 +1,70 @@
+{
+  "number": 256,
+  "language": "es",
+  "title": "Jesús, yo he prometido",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Jesús, yo he prometido"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesús, yo he prometido",
+        "servirte con amor;",
+        "concédeme tu gracia,",
+        "mi amigo y Salvador.",
+        "No temeré la lucha",
+        "si tú a mi lado estás,",
+        "ni perderé el camino",
+        "si tú alumbrando vas."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "El mundo está acechando",
+        "y abunda en tentación,",
+        "sutil es el engaño",
+        "y loca la pasión;",
+        "acércate, Maestro,",
+        "revela tu piedad",
+        "y escuda, fiel, mi alma",
+        "de toda iniquidad."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si ves mi mente errando",
+        "del necio mal en pos,",
+        "concédeme que escuche,",
+        "Señor, tu clara voz.",
+        "Aliéntame en la lucha,",
+        "mi espíritu sostén,",
+        "confórtame si temo,",
+        "impúlsame en el bien."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesús, tú has prometido",
+        "a todo aquel que va",
+        "siguiendo tus pisadas,",
+        "que al cielo llegará.",
+        "Sostenme en el camino,",
+        "y al fin, con dulce amor,",
+        "trasládame a tu gloria,",
+        "mi amigo y Salvador."
+      ],
+      "number": 5
+    }
+  ]
+}

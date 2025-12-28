@@ -1,0 +1,54 @@
+{
+  "number": 21,
+  "language": "xh",
+  "title": "21 Ndiyeza Emnqamlezweni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiza emnqamlezweni, Ndiza ze ndiyimfama;",
+        "Konke kuyilahleko, Kuwe kulusindiso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndithemba wena Nkosi, Mvana yaseKhalvari;",
+        "Ndithob’ emnqamlwezweni, Ndisindise Yena wam."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iyakhal’ intliziyo, Kade ububi bukum;",
+        "U-Yesu thetha nam, \"Ndakukuhlambulula.\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndikunika konk’ okwam, Izihlobo nendyebo,",
+        "Umphefumlo nomzimba, Zonke ngonaphakade."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndithemb’ idinga laKho, Mandive undihlamba;",
+        "Ndiyazithoba kuWe, Ndibethelelwe naWe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kunje uYes’ uyeza; Ndofezekiswa kuYe;",
+        "Ndibe ngophilileyo; Uzuko lolweMvana."
+      ],
+      "number": 5
+    }
+  ]
+}

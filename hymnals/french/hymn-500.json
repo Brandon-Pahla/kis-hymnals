@@ -1,0 +1,49 @@
+{
+  "number": 500,
+  "language": "fr",
+  "title": "Mon cœur se tourne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mon cœur se tourne, ô Dieu, vers toi,",
+        "À ton appel répond ma foi;",
+        "Et près du trône je te dis",
+        "Tout mon espoir, tous mes soucis.",
+        "En temps d'épreuve et de douleur,",
+        "Tu es mon ferme appui, Seigneur,",
+        "Car tous les pièges du malin",
+        "Se brisent dans ta forte main."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Celui qui cherche ton secours",
+        "Revient comblé de ton amour.",
+        "C'est là ta force, ton plaisir :",
+        "Tu veux sans cesse nous bénir.",
+        "Oui, dans ta grâce tu promets",
+        "D'emplir mon âme de ta paix.",
+        "Je crois en toi, ma peur n'est plus,",
+        "Mon doute est vite disparu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je veux répandre autour de moi",
+        "La douce onction de cette joie.",
+        "Bientôt, je sais, mes yeux verront",
+        "Le pur éclat de ta maison.",
+        "Alors j'attends, le cœur soumis,",
+        "De recevoir enfin ce prix,",
+        "De vivre heureux à tout jamais",
+        "Dans tes parvis, dans tes palais."
+      ],
+      "number": 3
+    }
+  ]
+}

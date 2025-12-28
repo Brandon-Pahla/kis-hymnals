@@ -1,0 +1,47 @@
+{
+  "number": 597,
+  "language": "tw",
+  "title": "Mo Awurade Nkoa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mo Awurade nkoa",
+        "'Biara ntwɛn n'adwumam'",
+        "Nhyɛ Ne s'ro asɛm no nso na",
+        "ɔnwɛn pon no ano."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Momma mo 'kanea nhy'rɛn",
+        "Na gyaframa no nsɔ;",
+        "Mommɔ mo abɔso N'anim;",
+        "Mompae Ne mmae no mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Monwɛn, mo W'ra hyɛ mo,",
+        "Yegu so yi, Wabɛn;",
+        "Monhwɛ Ne nsa sɛnky'rɛnne no,",
+        "Na ne ny'naa da adi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akoa pa no ne nea",
+        "Wobehu n' saa kwan so!",
+        "Ne W'ra de 'nigye behu no,",
+        "Ahyɛ no ahenkyɛw."
+      ],
+      "number": 4
+    }
+  ]
+}

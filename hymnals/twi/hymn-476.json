@@ -1,0 +1,46 @@
+{
+  "number": 476,
+  "language": "tw",
+  "title": "Woyi Nnesoa Nyinaa Wɔ Kalbre",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'W'rɛhow ahyɛ b're biara ma,",
+        "Koma nyinaa 'tɔ bčraw;",
+        "Kalbre na woyi nnesoa nyinaa",
+        "Yesu bɛn yie ara."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Woyi nnesoa nyinaa wɔ Kalbre",
+        "Kalbre hɔ, Kalbre hɔ;",
+        "Woyi nnesoa nyinaa wɔ Kalbre,",
+        "Yesu bɛn yie ara."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa wo haw to Yesu so nnɛ,",
+        "Gyaw dwennwen ne suro;",
+        "Kalbre na woyi nnesoa nyinaa",
+        "Yesu bɛn yie ara."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔkra b'rɛfo, 'Gyenkwa no hu",
+        "Yaw ne nusu biara;",
+        "Kalbre na woyi nnesoa nyinaa",
+        "Yesu bɛn yie ara."
+      ],
+      "number": 3
+    }
+  ]
+}

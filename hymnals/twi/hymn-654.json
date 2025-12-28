@@ -1,0 +1,48 @@
+{
+  "number": 654,
+  "language": "tw",
+  "title": "'W'ra, Fa 'Somdwoe, 'Dɔ Ne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, fa 'somdwoe, 'dɔ ne",
+        "&nbsp;&nbsp;&nbsp;'nimtew hy'ra yɛn fie,",
+        "Na ma yɛn ntease ne nokwaredi;",
+        "Ma yemmom nni yɛn W'ra Kristo no akyi,",
+        "Na ma yenhu Ne tumidi mu nhy'ra."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma koma biara nnya Ne dɔ honhom no",
+        "Nhu nokware a ɛma 'hofadi;",
+        "Ma yɛntra k'royɛ mu wɔ saa honhom nom',",
+        "Na yennya banbɔ kɛse Nyame mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Faf'ri yɛn wɔ pɛsɛmenkominya mu",
+        "Yaw a yɛde abrɛ 'dɔfonom ho.",
+        "Kristo, sa piratwa no na ka yɛn bom",
+        "Wɔ Nea Ne pɛ yɛ 'somdwoe ne dɛw nom'."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Agya, afie ne 'dɔfo ho nnaase nti,",
+        "Yebue yɛn koma mu ma nnipa ny'naa.",
+        "Ma yɛn Wo honhom: sɛ yɛbɛdɔ yɛn ho,",
+        "Na yɛanya nkabom wɔ W'asomdwoe mu."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "number": 70,
+  "language": "tn",
+  "title": "70 Fa Jeso A Phutha Merafe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Jeso A Phutha Merafe,",
+        "Pel’a Gagwe go bonala,",
+        "Foo re tla ema jang Katlholong,",
+        "Fa re bid’wa go utluwa?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O tla phutha mabele segotlong,",
+        "Mme mmoko O tla o gasaka;",
+        "Foo re tla ema jang Katlholong,",
+        "Tsatsing legolo ja tsogo?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Re Tla Utlwa Mo Mmoloking,",
+        "Go twe \"O dirile sentle,\"",
+        "Gongwe re roroma ka poifo,",
+        "Re nyelediwe pel’a Gagwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Tla Nyenya Fa A Leba Bana,",
+        "A bona lotshwao lwa Gagwe;",
+        "O ba pesa bontle jwa godimo,",
+        "Ba khubame naong tsa Gagwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Foo A Re Leteng, Mme Re Diseng,",
+        "Dipone di ntse di tuka;",
+        "Fa Monyadi A tsena modirong,",
+        "Re tshwanelwe ke go fofa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dipelo Di Lebile Godimo,",
+        "Re itshoketse lobaka,",
+        "’Eto lwa rona fa lo fedile,",
+        "Re tla ’ramela boitshepong."
+      ],
+      "number": 5
+    }
+  ]
+}

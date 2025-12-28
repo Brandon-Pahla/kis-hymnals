@@ -1,0 +1,37 @@
+{
+  "number": 153,
+  "language": "tn",
+  "title": "153 Morena Ga Ke Rapelele Ka Moso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Morena Ga Ke Rapelele Ka Moso;",
+        "Nthiba selabeng sa sebe Gompieno;",
+        "A ke se bue ’foko ja Ithamako;",
+        "Kana pounama tsa me Gompieno."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nka Dira Ka Tlhoafalo, Ka Rapela;",
+        "Ke nne pelonomi tirong Gompieno",
+        "Nnonotsha k’utlwe go dira Thato ya Go;",
+        "Ke intshe setlhabelo Gompieno."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mme Lefa Botshelo Jwa Me Bo Ka Feta,",
+        "Ao tsholofetso tsa Gago Di ntshegetse.",
+        "Mme tsa ka moso ga ke di Rapelele;",
+        "Ntshegetsa, Nkoga, Morena, Gompieno. Amen."
+      ],
+      "number": 3
+    }
+  ]
+}

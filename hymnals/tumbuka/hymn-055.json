@@ -1,0 +1,67 @@
+{
+  "number": 55,
+  "language": "tum",
+  "title": " 55 Kasi Mwampokerera?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 55 Kasi Mwampokerera?",
+        "HAVE YOU BEEN TO JESUS?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Kasi mwampokerera Yesu Fumu?",
+        "Kasi mwasamba m'ndopa zake?",
+        "Kasi mwagomezga uchizi wake?",
+        "Kasi mwasamba m'ndopa zake?",
+        "Kasi mwasukika mu ndopa za Mwana-mberere?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kasi mutima winu watozgeka?",
+        "Kasi mwasamba mndopa zake?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Kasi mukwenda nayo muponoski?",
+        "Kasi mwasamba m'ndopa zake?",
+        "Kasi m'ngiza kwake kuti m'pumule?",
+        "Kasi mwasamba m'ndopa zake?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Kasi mwanozgeka pakwiza Mtaski?",
+        "Kasi mwasamba m'ndopa zake?",
+        "Kuti mukanjire m'malo ghaweme,",
+        "Kasi mwasamba m'ndopa zake?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Lekani uheni wamzotofyani,",
+        "Kasi mwasamba m'ndopa zake?",
+        "Wati wasukenge kwananga kwinu,",
+        "Kasi mwasamba m'ndopa zake?"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "number": 221,
+  "language": "ts",
+  "title": "221. KU YIMBELELA KA TUVA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "GALILEE",
+        "1. Ku Yimbelela Ka Tuva, Ku Khutaza Emoyeni,",
+        "Ndzi Hleketa Yesu Kreste, Ndzi Tsundzuka Galeliya.",
+        "CHORUS",
+        "Galeliya Ro Saseka,",
+        "A Ku Dzumba Yesu Kona, Galeliya Lero Xonga,",
+        "A Hi Yimbelele Swin’we.",
+        "2. Ya Khuluka Wona Mati, Swinyenyani Swa Dzunisa,",
+        "Swi Tlangela Rona Siku, Hoyo-Hoyo Galeliya.",
+        "3. Ta Yesu Ndzi Ta Ku Byela, Wo Famba Henhla Ka Lwandle,",
+        "Ndzi Navela Nchumu Wun’we, Ku N’wi Landza Galeliya."
+      ],
+      "number": 1
+    }
+  ]
+}

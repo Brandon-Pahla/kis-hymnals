@@ -1,0 +1,37 @@
+{
+  "number": 148,
+  "language": "st",
+  "title": "148 Kae Le Kae Le Jesu.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kae le kae le Jesu nka ea ka ts’epo, Kae le kae moo A ka nkisang lefats’eng;",
+        "Ka ntle ho Eena thabo ke lefeela; Kae le kae Jesu ’a le teng ha ke ts’abe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kae le kae, Kae le kae; Ts’abo e sieo, Ha ke na le Jesu nka ea kae le kae."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hohle ke na le Jesu ha ke ts’abe, Ha metsoalle e ntahla, Eena O teng;",
+        "Leha A ka ntamaisa bothateng, Kae le kae Jesu ke ntlo ea lithoko."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hohle ke na le Jesu nka robala, Ha ke tleloa ke meriti e mets’o,",
+        "Ha nke ke ka ts’oha ho ea tahlehong; Kae le kae le Jesu e tla ba lehae."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "number": 15,
+  "language": "ts",
+  "title": "15. YESU U NDZI RHANDZILE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "JESUS LOVES ME!",
+        "1. Yesu U Ndzi Rhandzile, Ku Vula Yo Bibele;",
+        "Vatsongwana I Vakwe, Yena La Nga Ni Ntamu.",
+        "CHORUS",
+        "Ee! Wa Ndzi Rhandza, Yesu Wa Mina;",
+        "Ee! Wa Ndzi Rhandza, Ku Vula Bibele.",
+        "2. Yesu U Ndzi Rhandzile, Yena La Ndzi Feleke;",
+        "U Ta Ndzi Hlantswa Swivi, A Ndzi Nghenisa Kaya.",
+        "3. Yesu U Ndzi Rhandzile, Eku Vabyeni Kanga;",
+        "Wa Ta A Ndzi Tiyisa, Evulaweni Byanga.",
+        "4. Yesu U Ndzi Rhandzile, Hi Khomisana Ndlela;",
+        "Ina Ndza Ta Ka Yena, Ku Ta Hlantswa Hi Yena."
+      ],
+      "number": 1
+    }
+  ]
+}

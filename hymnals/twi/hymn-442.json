@@ -1,0 +1,56 @@
+{
+  "number": 442,
+  "language": "tw",
+  "title": "Amanneɛ No Yɛ Dɛ Wɔ 'Kwantuni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Amanneɛ no yɛ dɛ wɔ 'kwantuni asom",
+        "B're a wafi fie rekokyin no;",
+        "Ͻrenkyɛ na 'Gyenkwa apue anounyam mu,",
+        "Ahenni no bɛba ntɛm so."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Minim sɛ ɔreba, ɔreba ntɛm so,",
+        "ɔresan aba wiase bio;",
+        "'Kwatufo a wɔabrɛ bɛkɔ 'nuonyam mu,",
+        "B're a 'Gyenkwa bedi hen' no."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akwantufo damoa a afufuw nwura",
+        "Bebuebue sɛ kan de nō ara;",
+        "Na mpempem a wɔadeda wɛ damoa mu no,",
+        "Bɛtra asase yi so bio."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛrenni ntetewmy yɛn 'nigye Eden fie,",
+        "Yɛbɛto ɔgye nnwon dɛdɛ;",
+        "Wɔn a wɔagye wɔn nyinaa fi",
+        "mmeammea bɛba Abɛkoto yɛn soro Hen'."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Haleluya Amen, Haleluya biɔo,",
+        "Yedi nokwar' a yɛbɛkɔ hɔ,",
+        "O monwɛn, nya 'nidaso nni dɛw kosi sɛ",
+        "Yɛbɛhyɛ 'nuonyam 'henkyɛw no."
+      ],
+      "number": 4
+    }
+  ]
+}

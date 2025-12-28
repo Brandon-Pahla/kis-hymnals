@@ -1,0 +1,64 @@
+{
+  "number": 37,
+  "language": "ny",
+  "title": "37 - Ndidze Pafupipa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NEARER MY GOD TO THEE!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndidze pafupipa Mlungu wanga,",
+        "’Ngakhale ndi tsoka Mundibweza,",
+        "Koma ndiyimbabe, Mbuye m’ndikhalitse",
+        "Mbuye m’ndikhalitse, M’fupi Ndinu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ngakhale ku thengo, Ndasochera,",
+        "M’mdima ndigonapo, E pa mwala.",
+        "Koma m’kulotako, Ndiyandikizanso.",
+        "Ndiyandikizanso, M’fupi Ndinu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Pajapo ndipenya Pokwerapo,",
+        "Angelo atsika Kumwambako,",
+        "Ndiwo akodola Kuti ndibwerere,",
+        "Kuti ndibwerere, M’fupi Ndinu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tsono poukanso Wokondwatu,",
+        "Ndipeza pomwepo Pali Mlungu;",
+        "Ndipo masautso Andisendezanso,",
+        "Andisendezanso, M’fupi Ndinu."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Podzabwera Iye N’dzanka naye,",
+        "Dzuwa ndi nyenyezi Zitsalira;",
+        "Pomwe ndiyimbanso, Ndidza pafupipo,",
+        "Ndidza pafupipo, Mlungu wanga."
+      ],
+      "number": 6
+    }
+  ]
+}

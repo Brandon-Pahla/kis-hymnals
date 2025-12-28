@@ -1,0 +1,47 @@
+{
+  "number": 104,
+  "language": "sn",
+  "title": "104 Uya Mununuri Uya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinzwe Tenzi muwe nemutsa neni; Mununuri Uyai",
+        "Mweya wangu unodisa Imwi; Mununuri Uyai"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndapumhuka kure kumakomo; Ndapumhuka kure nemusha,",
+        "Onditorei ndipinzei mudanga Mununuri Uyai"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Handinaba nzwimbo yekurara Mununuri Uyai,",
+        "Nditarisai Ndawane Upenyu: Mununuri Uyai."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nzira yangu inondi tambudza, Mununuri Uyai",
+        "Ndakatarisira rudo rwenyu, Mununuri Uyai."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Musarase kuzwishora kwangu, Mununuri Uyai.",
+        "Mundi nzwe mukunamata kwangu, Mununuri Uyai."
+      ],
+      "number": 5
+    }
+  ]
+}

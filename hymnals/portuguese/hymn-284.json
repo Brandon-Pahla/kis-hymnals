@@ -1,0 +1,56 @@
+{
+  "number": 284,
+  "language": "pt",
+  "title": "Tudo por Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Tudo por Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Teu, ó Senhor bendito,",
+        "sempre desejo ser.",
+        "Livre do mundo iníquo,",
+        "Quero também viver"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Quero viver por Cristo,",
+        "Tudo Lhe dedicar;",
+        "Tudo por Cristo, tudo, tudo",
+        "Quero renunciar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quero servir a Cristo,",
+        "Sempre ao seu lado estar;",
+        "Útil na paz, na luta,",
+        "Por Ele trabalhar"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Queres, pois, aceitar-me",
+        "Tal como sou, Senhor?",
+        "Venho entregar-me agora",
+        "És o meu Redentor."
+      ],
+      "number": 5
+    }
+  ]
+}

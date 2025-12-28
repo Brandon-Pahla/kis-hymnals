@@ -1,0 +1,48 @@
+{
+  "number": 378,
+  "language": "fr",
+  "title": "Annonçons partout",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Annonçons partout le dernier message",
+        "Du Seigneur Jésus revenant des cieux;",
+        "Dans le monde entier, rendons témoignage",
+        "Au roi saint et glorieux."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Annonçons partout la bonne nouvelle :",
+        "Jésus réunit tous ses rachetés;",
+        "Il vient leur donner la vie éternelle.",
+        "Oh ! publions ses bontés."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Annonçons partout le dernier message :",
+        "Le Seigneur Jésus vient sécher nos pleurs,",
+        "Dénouer les liens de notre esclavage,",
+        "Mettre un terme à nos douleurs."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Annonçons partout le dernier message :",
+        "Bientôt nous verrons la sainte cité.",
+        "Gloire à notre Dieu ! Chrétiens, bon courage !",
+        "Car voici l'éternité."
+      ],
+      "number": 4
+    }
+  ]
+}

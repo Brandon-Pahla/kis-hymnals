@@ -1,0 +1,30 @@
+{
+  "number": 66,
+  "language": "bem",
+  "title": "66 - WE KASUBA KATEMWIKWA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O HAPPY DAY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. We kasuba katemwikwa, Lintu nasalile Yesu;",
+        "Nomba umutima wandi, Ukalanda luse lwakwe,",
+        "CHORUS:",
+        "Kasuba kasuba, Lintu Yesu ansambile;",
+        "Ansambilishe 'kupepa, Nokusekela konse pe;",
+        "Kasuba kasuba, Lintu Yesu ansambila.",
+        "2. Nomba umulandu wapwa, ali wandi ine wakwe;",
+        "Atangile ndemukonka, Pantu ali Mupusushi.",
+        "3. We mutima wandi tusha, Pantu wasalile Yesu;",
+        "Wipilibuka kabili, Akakupela fisuma."
+      ],
+      "number": 2
+    }
+  ]
+}

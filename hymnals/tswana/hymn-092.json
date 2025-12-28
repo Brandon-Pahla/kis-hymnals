@@ -1,0 +1,44 @@
+{
+  "number": 92,
+  "language": "tn",
+  "title": "92 O Se Lebale Sabata",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O Se Lebale Sabata Ya Modimo,",
+        "Ke yone e phatsimang, E gaisa otlhe;",
+        "E lere tapologo, E bolela boipelo.",
+        "Kgalalelo ya yone, Bontle jwa godimo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O goroga ka pula ka Metlha Sabata.",
+        "O goroga ka pula ka Metlha Sabata."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Itshepise Sabata Obama Gompieno,",
+        "O reile barutwa, \"Ke Tsel’e Tshedileng;\"",
+        "Mme fa re Mo latela Mmoloki fa tlase,",
+        "O tla re nosa Motswe-di wa bosakhutleng."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tsatsi Je Boitshepo; Nakong Ya Jone E Ntle,",
+        "Re tla leboga Jeso, Tsala ya banyana;",
+        "Mmoloki yo’ lorato, O pelonomi jang,",
+        "Bontle jwa tsholofetso Ya Gago mo pelong."
+      ],
+      "number": 3
+    }
+  ]
+}

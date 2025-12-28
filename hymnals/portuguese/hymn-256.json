@@ -1,0 +1,66 @@
+{
+  "number": 256,
+  "language": "pt",
+  "title": "Ó Salvador, Creio em Ti",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ó Salvador, Creio em Ti"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mestre divino, Jesus, meu Senhor,",
+        "Eu creio em Ti, sim, creio em Ti.",
+        "Força recebo, sustento e vigor;",
+        "Ó Salvador, creio em Ti."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Creio, creio,",
+        "Cristo Jesus, creio em Ti!",
+        "Graça me dás, alegria e vigor;",
+        "Ó Salvador, creio em Ti."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quando me cercam as ondas do mar,",
+        "Eu creio em Ti, sim, creio em Ti.",
+        "Tenho prazer, alegria sem-par;",
+        "Ó Salvador, creio em Ti."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inda que as trevas encubram o céu,",
+        "Eu creio em Ti, sim, creio em Ti.",
+        "Faz-me obediente, constante e fiel;",
+        "Ó Salvador, creio em Ti."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo Jesus, meu Amigo leal,",
+        "Eu creio em Ti, sim, creio em Ti.",
+        "És meu refúgio, defesa real;",
+        "Ó Salvador, creio em Ti."
+      ],
+      "number": 6
+    }
+  ]
+}

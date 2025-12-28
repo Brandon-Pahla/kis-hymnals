@@ -1,0 +1,44 @@
+{
+  "number": 222,
+  "language": "xh",
+  "title": "222 Ndinqaba Kwingalo ZikaYesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kwingalo zikaYesu Ndizimela khona,",
+        "Ndambesw’ uthando lwaKhe, Ndiphumle kamnandi.",
+        "Yiv’ izwe lengelosi, Yiv’ ingom’ emnandi,",
+        "Phakathi kobukhosi, Phesheya kolwandle."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kwingalo zikaYesu, Ndizimela khona,",
+        "Ndambesw’ uthando lwaKhe, Ndiphumle kamnandi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwingalo zikaYesu, Ndilahl’ amaxhala;",
+        "Ndisind’ ezilingweni Nakwisono sonke.",
+        "Ndibaleke usizi, Ndishiy’ uloyiko,",
+        "Zimbalwa izilingo Nenyembezi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu wokuphephela, Yesu wandifela,",
+        "KwiLiwa laphakade, Ndoma ndingasuki;",
+        "Ndoma ndinyamezele Kudlul’ ubusuku,",
+        "Kude kuvel’ intsasa Kolo lwandle luhle."
+      ],
+      "number": 3
+    }
+  ]
+}

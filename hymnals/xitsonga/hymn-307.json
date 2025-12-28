@@ -1,0 +1,24 @@
+{
+  "number": 307,
+  "language": "ts",
+  "title": "307. HI KU TWANANA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Hi Ku Twanana, Hi Ku Twanana, Hi Ku Twanana Hi Tirhela Hosi.",
+        "CHORUS",
+        "Hi Ku Twanana, Hi Ku Twanana, Hi Ku Twanana Hi Tirhela Hosi.",
+        "2. Na Tinyoxi, Hi Ku Twanana,",
+        "Ta Swi Kota Ku Endla Vulombe Bya Tona.",
+        "3. Na Vusokoti, Hi Ku Twanana,",
+        "Bya Swi Kota Ku Endla Tiyindlo Ta Byona.",
+        "4. Na Vapostola, Hi Ku Twanana,",
+        "Va Kotile Ku Fambisa Ntirho Wa Hosi.",
+        "5. Na Hinkweru, Hi Ku Twanana,",
+        "Ha Swi Kota Ku Fambisa Ntirho Wa Hosi."
+      ],
+      "number": 1
+    }
+  ]
+}

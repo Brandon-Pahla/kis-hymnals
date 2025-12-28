@@ -1,0 +1,22 @@
+{
+  "number": 122,
+  "language": "ts",
+  "title": "122. EKUSUHI NA WENA HOSI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NEARER STILL NEARER",
+        "1. Ekusuhi Na Wena Hosi, Ndzi Tshinete Wena Mponisi;",
+        "Ndzi Vukarhe Xifuven Xaku, U Ndzi Hlayisa Eku Wiseni, U Ndzi Hlayisa Eku Wiseni.",
+        "2. Ndzi Hava Nchumu Ku Nyikela, Handle Ka Mbilu Leya Manyala; Ndzi Tengise Hi Ngati Ya Wena,",
+        "Yesu Wena Muponisi Wanga, Ndza Titshineta Ndzi Amukele.",
+        "3. Ndzi Lava Ku Va N’wana Waku, Sweswi Ndzi Hambana Na Vudyoho;",
+        "Ndzi Tshika Vubihi Hinkwabyo, Ndzi Lava Yesu La Vambiweke, Ndzi Lava Yesu La Vambiweke.",
+        "4. Ndzi Ta Ka Wena Ndza Ha Hanya, Ndzi Ko Ndzi Nghena Ku Kwetsimeni;",
+        "Ndzi Tshama Kona Hi Masiku, Ekusuhani Na Wena Hosi, Ekusuhani Na Wena Hosi."
+      ],
+      "number": 1
+    }
+  ]
+}

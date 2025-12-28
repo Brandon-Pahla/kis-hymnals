@@ -1,0 +1,39 @@
+{
+  "number": 147,
+  "language": "nd",
+  "title": "147 Ngi Sondeze KuWe Eduze",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Baba ngi sondeze eduze Ngifun’ u ngi gone.",
+        "Ngi singath’ engalweni zAkho Ngi fun’ ukuphumla."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi sondeze ngothando, Ngi donsele phezulu",
+        "Ngisondeze, Ngidonse ngi ze kuWe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Msindisi ngi sondeze kuWe Ngi ngadedi kuWe;",
+        "Ngothab’ ezingalweni zAkho, Ngithi se kwanele."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi sondeze ngoMoya wAkho Ngi fanane naWe;",
+        "Ng’vuse, ng’lungise, ngi hlanzeke; Ngi ze ngi bemsulwa."
+      ],
+      "number": 4
+    }
+  ]
+}

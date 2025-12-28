@@ -1,0 +1,47 @@
+{
+  "number": 270,
+  "language": "tw",
+  "title": "Abu'b'ru Kronkron a Woresian",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Abu'b'ru Kronkron a Woresian;",
+        "Wo a Wodɔ mu nni hwehwɛbea,",
+        "Woama yɛn anidaso fof'ro.",
+        "Honhom, bɛtra me mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mɔframa Kronkron a Worebɔ,",
+        "Woyɛ aba a Nyame reguo;",
+        "Woyɛ nkwa a Woma yenyinė:",
+        "Honhom, bɛtra me mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Onyame nsu kronn a Woretɔ,",
+        "Woma Nyankopɔn asɛm yɛ huam;",
+        "Woyɛ nne bɔkɔɔ a ɛrefrɛ:",
+        "Honhom, bɛtra me mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ogya Kronkron a ɛredɛre,",
+        "Woyɛ Kristo tum' a ɛreba;",
+        "Wone yɛn anidaso ho mmuae:",
+        "Bɛtra me mu seesei."
+      ],
+      "number": 4
+    }
+  ]
+}

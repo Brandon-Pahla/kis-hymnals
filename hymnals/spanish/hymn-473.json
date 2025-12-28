@@ -1,0 +1,44 @@
+{
+  "number": 473,
+  "language": "es",
+  "title": "Hablame, y hablaré",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Hablame, y hablaré"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, háblame, y hablaré",
+        "cual eco vivo de tu voz.",
+        "Tal como me buscaste tú,",
+        "iré tras quien errante va."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, guíame, y guiaré",
+        "al pie que vacilante va.",
+        "Susténtame, y yo daré",
+        "maná al que hambriento está."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, afírmame, y ayudaré",
+        "a estar en pie en Roca fiel.",
+        "Sostenme, y extenderé",
+        "mi mano a quien va a caer."
+      ],
+      "number": 4
+    }
+  ]
+}

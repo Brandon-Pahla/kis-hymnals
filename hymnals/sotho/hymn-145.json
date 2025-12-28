@@ -1,0 +1,46 @@
+{
+  "number": 145,
+  "language": "st",
+  "title": "145 U Se Ke Ua Itatola.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "’Se ke ua itatola, ts’ebetso e kholo;",
+        "Lokela ho etsa se tsoang ho Molimo,",
+        "Memo ena ea Hae, U ntse u e neoa,",
+        "Amohela, ’me ho molemo ho etsa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tlo hle tlo (joale) ’se ke ua itatola,",
+        "Tlo hle tlo (joale) lokela ts’ebetso;",
+        "’Se ke ua itatola karabo e ka re:",
+        "U khesitse lerato ’musong ha u ee."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Se ke ua itatola, Morena Oa bitsa;",
+        "Ha u ntse u hana, U mo utloe joale,",
+        "Masimo a butsoitse, basebetsi ba kae,",
+        "U nyakallele Moreneng ts’ebetsong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Se ke ua itatola, kotsi e teng tiehong;",
+        "Rato le nyatsitsoeng, ha le na ho khutla,",
+        "Ha mohau o bitsa, ’me o supa tsela,",
+        "Ha Jesu a eme, tlo u tla ts’oareloa."
+      ],
+      "number": 3
+    }
+  ]
+}

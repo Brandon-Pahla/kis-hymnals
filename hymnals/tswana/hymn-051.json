@@ -1,0 +1,49 @@
+{
+  "number": 51,
+  "language": "tn",
+  "title": "51 Re Kolobetse",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Re Kolobetse O Re Nonotshe,",
+        "Ka lorato, Ao Morena Mmoloki."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Re ya Go rapela Morena Jeso,",
+        "Ka ’rato le Moya re kolobetse"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Sa Tshwanela, Re Leswafetse,",
+        "Re tlhapise mo lesweng ja boleo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moya Wa Legodimo Fologa;",
+        "Re lopa masego A tshegofatso"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Reetsang Lentswe Le Duleng Godimo,",
+        "Ja re: O moratwa, O ya nkgatlhisa.",
+        "CHORUS YA BOFELO:",
+        "Re ya Go baka kwana e tlhabilweng,",
+        "Re ya Go tlotla, Amen, amen."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 215,
+  "language": "tw",
+  "title": "ɔhen' No Bɛba, Br a 'Nopa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ɔhen' no bɛba, brč a 'nɔpa",
+        "Hann bepue nkonim mu;",
+        "B'rč a apuei mmepɔ bɛyɛ fɛ",
+        "Na nkwa benyan 'nigyem."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔremma sɛ abofra bio",
+        "Mmɛsoa bɔn' nnesoa nwu;",
+        "Na mmom Obepue 'nuonyam mu",
+        "Te sɛ anɔpawi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na ɛhy'rɛn sen adekyee hann",
+        "Brč a Kristo de nkonim",
+        "Sɔre fii awufo mu tiaa",
+        "Tamfo abufuw no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nea 'hy'rɛn sen 'nuonyam 'dekyee no",
+        "Bepue wɔ nnipa mu;",
+        "Dá a Kristo bɛba 'nuonyam mu n'",
+        "Na yebehu N'anim."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔhen' no bɛba brč a 'nɔpa",
+        "Da hann fɛfɛ bɛba;",
+        "'W'ra Kristo, Wo mma bɔ mpae sɛ:",
+        "Bra ntɛmntɛm, 'hen' mu Hen'."
+      ],
+      "number": 5
+    }
+  ]
+}

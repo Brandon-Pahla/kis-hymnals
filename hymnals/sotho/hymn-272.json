@@ -1,0 +1,56 @@
+{
+  "number": 272,
+  "language": "st",
+  "title": "272 Akhela Mohal’a Bophelo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Akhela mohala oa bophelo.",
+        "Morena o teng eo a ka pholosoang,",
+        "Moena oa e mong, ho tla ea mang,",
+        "Ho akhela mohala moo kotsing?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Akhela thapo, Akhela thapo!",
+        "Metsi a ea le eena hole!",
+        "Akhela thapo, Akhela thapo!",
+        "E mong oa teba joale!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Etsa kapele le ka matl’ohle.",
+        "U luletse eng U liehela eng?",
+        "Bona oa teba! Phakisetsa hle!",
+        "Potlaka ka sekepe, se-sisa!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O lahlele bathong ba mo kotsing!",
+        "Ho ba tetebelang matsoalong;",
+        "Fefo tsa meleko tsa malimabe,",
+        "Li tloha li ba hulela bolibeng!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nako ea pholoso ea feta hle!",
+        "Ba tloha ba nyamella ruri bohle,",
+        "Phakisa, ngoane’so ha ho nako,",
+        "Akhela mohala ba pholohe hle!"
+      ],
+      "number": 4
+    }
+  ]
+}

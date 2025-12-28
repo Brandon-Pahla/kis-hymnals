@@ -1,0 +1,57 @@
+{
+  "number": 108,
+  "language": "tw",
+  "title": "ɔdom Nwanwa! Nne a Ͻgyee",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ɔdom nwanwa! nne a ɛgyee",
+        "'Manehun'fo sɛ me!",
+        "Mey'rae, wɔahu m', ani furae,",
+        "Ͻnnɛ mihu ade."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Dom de sųro hyɛɛ me koma mu'",
+        "'Dom ara tuu sųro no;",
+        "Sɛnea saa 'dom no som me bo",
+        "B're a migye dii no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aw'rade de yie ahyɛm' bɔ",
+        "N'asɛm hyɛm' gyidi de;",
+        "ɔbɛyɛ me kyɛm ne kyɛfa,",
+        "Me nkwa nna nyinaa mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Menam amane ne asian",
+        "Ne haw mu na maba;",
+        "'Dom na ɛde me adu ha",
+        "'Dom de me bedu fie."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ yedi mfe mpem du wɔ hɔ,",
+        "Na yɛhy'rɛn sɛ owiá a",
+        "Yɛwɔ nna pii yi Nyamč ayɛ",
+        "Sɛ b'rč a yɛhyɛɛ ase no."
+      ],
+      "number": 5
+    }
+  ]
+}

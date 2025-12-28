@@ -1,0 +1,83 @@
+{
+  "number": 203,
+  "language": "en",
+  "title": "203 The Comforter Has Come",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, spread the tidings round,",
+        "Where ever man is found,",
+        "Where ever human hearts,",
+        "And human woes abound;",
+        "Let every Christian tongue,",
+        "Proclaim the joyful sound;",
+        "The Comforter has come!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "The Comforter has come,",
+        "The Comforter has come!",
+        "The Holy Ghost form heaven,",
+        "The Father’s promise giv’n;",
+        "O spread the tidings round,",
+        "Where ever man is found,",
+        "The Comforter is come!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "The long, long night is past,",
+        "The morning breaks at last;",
+        "And hushed the dreadful wail,",
+        "And fury of the blast,",
+        "As o’er the golden hills,",
+        "The day advances fast;",
+        "The Comforter has come!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Behold, the King of kings,",
+        "With healing in his wings,",
+        "To every captive soul,",
+        "A full deliverance brings;",
+        "And through the vacant cells,",
+        "The song of triumph rings;",
+        "The Comforter has come!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O boundless Love divine!",
+        "How shall this tongue of mine,",
+        "To wond’ring mortals tell,",
+        "The matchless grace divine,",
+        "That I, a child of sin,",
+        "Should in his image shine!",
+        "The Comforter has come!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sing, till the echoes fly,",
+        "Above the vaulted sky,",
+        "And all the saints above,",
+        "To all below reply,",
+        "In strains of endless love,",
+        "The song that ne’er will die;"
+      ],
+      "number": 5
+    }
+  ]
+}

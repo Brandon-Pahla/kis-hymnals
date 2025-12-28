@@ -1,0 +1,54 @@
+{
+  "number": 64,
+  "language": "ve",
+  "title": "64 Naa Wo Neta?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Naa wo neta mbilu i vhutungu Vhudzai Yesu, vhudzai Yesu,",
+        "Arali U tshi pfa u na thoni, vhudzai Ene Yesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Vhudzai Yesu, vhudzai Yesu, Yesu khonani yau,",
+        "A hu tshe na na inwe khonani, vhudzai Ene Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi ngani u tshi tolou lila, Vhudzai Yesu, vhudzai Yesu,",
+        "U na zwivhi zwi sa divhiwiho? Vhudzai Ene Yesu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mbilu yau i na vhutungu naa? Vhudzai Yesu, vhudzai Yesu,",
+        "Mbilu yau i lilela mini? Vhudzai Ene Yesu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. U kho’ humbula nga ha lufu naa? Vhudzai Yesu, vhudzai Yesu,",
+        "U lilela muvhuso wawe naa? Vhudzai Ene Yesu."
+      ],
+      "number": 5
+    }
+  ]
+}

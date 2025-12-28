@@ -1,0 +1,28 @@
+{
+  "number": 152,
+  "language": "luo",
+  "title": "152 Yesu Okadho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu okadho,Yesu okadho,Un jo mamuofni biuru ire;Yesu noruaku,kendo nochangu,Wengeu noyepi mondo unen;Biuru!Yesu nomiu neno."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yesu okadho,Yesu okadho,Biuru, rang`onde,ni Jathieth ji;Rembe nochwernu,ni mond` owaru,To enowinju kuluonge koro;Yesu okadho,odwaro konyu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yesu okadho,Yesu okadho,Un jo moketho,biuru ire;Tinde wasayu;yieuru koro;Biuru piyo ka pod oluongu;Un jo moketho,yieuru Yesu."
+      ],
+      "number": 3
+    }
+  ]
+}

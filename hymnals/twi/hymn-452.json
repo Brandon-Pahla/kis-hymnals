@@ -1,0 +1,38 @@
+{
+  "number": 452,
+  "language": "tw",
+  "title": "ɔs'ro Dwom Bɛn Na Egyigye Po So Yi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ɔs'ro dwon bɛn na egyigye po so yi;",
+        "Dwon dɛdɛ bi a ɛkanyan atenka,",
+        "Ͻyɛ 'bɔfo nne a ɛnam mframa mu brɛoo,",
+        "Wɔreto dwon yi ama me akwaaba."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Migyina Yordan agya agyen m'ani,",
+        "Mede anigyina atene me nsa;",
+        "Soma abɔfodɔm, 'W'ra Yesu, mesrɛ Wo!",
+        "Ma menka wɔn ho nto bi na fa me kɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ewon sum nɛ nsu no so, na 's'rɔkye bɔ,",
+        "Nanso Yesu pene a mɛfa mu dwoo;",
+        "Efisɛ ɔs'ro dwom no afa me dommum,",
+        "Ͻsɛ sɛ mefra mu bi na ma menkɔ.",
+        "\""
+      ],
+      "number": 3
+    }
+  ]
+}

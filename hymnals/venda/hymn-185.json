@@ -1,0 +1,45 @@
+{
+  "number": 185,
+  "language": "ve",
+  "title": "185. U Vha Hone",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:434",
+        "AH:422"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ri imba nga shango lavhudi, shango li takadzaho,",
+        "Ri renda vhukhethwa halo, na vhudzulo ho nakaho,",
+        "Na dzindila dza musuku, na mitsheto i penyaho,",
+        "li a mangadza vhukuma, li a takadza ngangoho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Hafho a hu tshe tshivhi na vhutungu a hu tshe na,",
+        "Afho milingo a iho, hu na dakalo lihulu,",
+        "Zwiambaro ndi zwikhethwa, hu na lufuno luhulu,",
+        "Khatsho tshivhidzo tsha tanzhe, hu do takadza nga Maanda."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. U lugele litadulu, nne ndi do di phina hone,",
+        "Ri do ya shangoni helo, ri na vhuhosi vhuhulu,",
+        "Na vharunwa vhakhethwa, na Yesu nga Ene mune,",
+        "Ri do di vha navho tshothe, misi yothe ngei tadulu."
+      ],
+      "number": 4
+    }
+  ]
+}

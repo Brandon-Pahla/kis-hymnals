@@ -1,0 +1,35 @@
+{
+  "number": 314,
+  "language": "ny",
+  "title": "314 - Anyamata Inu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHAT CAN THE YOUTH DO?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Anyamata inutu, Atsikana inunso,",
+        "Muti, Tingavcitenji, Ang’ono ndifetu,",
+        "Kuthandiza ufumu Wa Yesu?",
+        "2. Aphunzitse anthuwo, Awalalikiredi,",
+        "Akukhala moipa Mu mdima wakunja,",
+        "Alowetu m’ufumu Wa Yesu.",
+        "3. E! ang’ono ndifetu, Nzeru sizimafika,",
+        "Kuti tingaphunzitse, Titani tonse ’fe",
+        "Kuthandiza ufumu wa Yesu?",
+        "4. Inu nonse, anzanga, Tingoganiza bwino,",
+        "Tinganene mofatsa, Timverenso, Mbuye,",
+        "Kuthandiza ufumu Wa Yesu.",
+        "5. Pothandiza amathu, Pakwakonda anzathu,",
+        "Pakusiya zoipa, Pkhaladi bwino,",
+        "Tithandiza ufumu Wa Yesu."
+      ],
+      "number": 2
+    }
+  ]
+}

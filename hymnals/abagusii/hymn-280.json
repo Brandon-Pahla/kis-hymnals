@@ -1,0 +1,35 @@
+{
+  "number": 280,
+  "language": "guz",
+  "title": "280 Toumerane N'Abasani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Toumerane n'abasanias'ens 'engaki egoeta,Twaichana korengereriang'a, goika totigane."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ntogotigana Igorotitogotigana.Ens'engiya y'omogoko,titogotigana."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Twasemeirie 'ker'emeremoy 'ens 'ekoera,Ntomeny'amo n'abasanibaito twatiganete."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mang'ana y'ogotiganatakab'as'enk'eri' enyia,Toter'amatera y'omogokokare na kare."
+      ],
+      "number": 4
+    }
+  ]
+}

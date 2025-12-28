@@ -1,0 +1,63 @@
+{
+  "number": 437,
+  "language": "fr",
+  "title": "Abandonne ta vie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Abandonne ta vie",
+        "Tes craintes et tes vœux,",
+        "À la grâce infinie",
+        "Du souverain des cieux.",
+        "Lui qui trace la route",
+        "Aux mondes comme aux vents,",
+        "Guidera sans nul doute",
+        "Les pas de ses enfants."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il voit dans sa tendresse,",
+        "Ainsi qu'un Père aimant,",
+        "Ce qui guérit ou blesse",
+        "Le cœur de son enfant;",
+        "Et sa toute-puissance",
+        "Transforme en ta faveur",
+        "Le deuil en délivrance,",
+        "La tristesse en bonheur."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Espère, âme chargée !",
+        "Espère et ne crains pas !",
+        "Car la route est tracée",
+        "Devant tes faibles pas.",
+        "Ton Dieu viendra lui-même",
+        "Te prendre par la main,",
+        "Et sa grâce suprême",
+        "Changera tout en bien."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sans trop d'impatience,",
+        "Attends le jour marqué,",
+        "Le jour de délivrance",
+        "Que Dieu t'a préparé.",
+        "Alors, plus de tristesse,",
+        "De deuil, d'obscurité;",
+        "Tu verras l'allégresse,",
+        "Le repos, la clarté."
+      ],
+      "number": 4
+    }
+  ]
+}

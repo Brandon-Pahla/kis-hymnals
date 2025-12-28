@@ -1,0 +1,48 @@
+{
+  "number": 61,
+  "language": "fr",
+  "title": "Loin d’ici, tout en haut",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Loin d’ici, tout en haut est plantée une croix,",
+        "Instrument de torture et d’effroi ;",
+        "Et pourtant, savez-vous ? Elle est chère à mon cœur :",
+        "Jésus y souffrit pour moi, pécheur."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Je reçois par Jésus le pardon.",
+        "Mon Sauveur a payé ma rançon.",
+        "Je veux donc me saisir par la foi",
+        "Du salut obtenu à la croix."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si ce bois méprisé me fascine aussi fort,",
+        "C’est que Christ, le Sauveur, y est mort.",
+        "Il a quitté son trône et la gloire du ciel",
+        "Pour porter un salut éternel."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je veux être fidèle au martyr de la croix,",
+        "Témoigner par ma vie et ma voix.",
+        "Aux pauvres de ses mains mon nom il a gravé,",
+        "Par son sang versé je suis sauvé."
+      ],
+      "number": 4
+    }
+  ]
+}

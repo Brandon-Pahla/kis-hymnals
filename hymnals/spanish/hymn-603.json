@@ -1,0 +1,55 @@
+{
+  "number": 603,
+  "language": "es",
+  "title": "Yo temprano busco a Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Yo temprano busco a Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yo temprano busco a Cristo,",
+        "cada día aprendo de él;",
+        "por la senda angosta sigo",
+        "sus pisadas, firme y fiel."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Cristo me ama; Cristo me ama;",
+        "Cristo me ama, esto sé:",
+        "él murió para salvarme;",
+        "yo, ferviente, le amaré."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dondequiera que él me mande,",
+        "yo con gozo presto voy;",
+        "sé su voluntad divina",
+        "aunque niño tierno soy."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A la puerta Cristo aguarda:",
+        "él me quiere libertar;",
+        "yo, confiando en su promesa,",
+        "hoy invítole a entrar."
+      ],
+      "number": 5
+    }
+  ]
+}

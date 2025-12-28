@@ -1,0 +1,65 @@
+{
+  "number": 190,
+  "language": "es",
+  "title": "Santo Espíritu de Cristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Santo Espíritu de Cristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo Espíritu de Cristo,",
+        "mora en este corazón,",
+        "lléname de tu presencia,",
+        "cólmame de bendición."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Cólmame! ¡Cólmame!",
+        "¡Ven ahora y cólmame!",
+        "¡Cólmame de tu presencia!",
+        "¡Ven, oh ven y cólmame!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo Espíritu, lo puedes,",
+        "aunque cómo, no lo sé;",
+        "mas si tú mis ruegos oyes,",
+        "sé que puro yo seré."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Débil soy, flaqueza todo,",
+        "mas me postro a tus pies,",
+        "para que tu amor eterno,",
+        "fuerte, puro y fiel me des."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lávame, bendice y salva",
+        "cuerpo, alma, espíritu;",
+        "ya me salvas, me consuelas,",
+        "de bondad me colmas tú."
+      ],
+      "number": 6
+    }
+  ]
+}

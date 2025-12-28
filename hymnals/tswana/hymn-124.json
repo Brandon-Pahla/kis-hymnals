@@ -1,0 +1,47 @@
+{
+  "number": 124,
+  "language": "tn",
+  "title": "124 E Seng Nna, Kreste",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "E Seng Nna, Kreste A Ratwe A Tlotlwe;",
+        "A gole a bonwe A itsiwe;",
+        "E seng nna, ke Kreste, tebong le tirong,",
+        "Kreste kakanyong, le lefokung."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E Seng Nna, Ke Kreste Yo O Gomotsang,",
+        "Ke le bofutsaneng le selelong.",
+        "Kreste go tsholetsa morwalo o o",
+        "Bokete, go didimatsa poifo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kreste Fela E Seng Boithamako,",
+        "Kreste fela e seng ditshameko;",
+        "Kreste fela e seng go ikgodisa,",
+        "Kreste fela go se fitlhelwe nna."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E Seng Nna Ke Kreste O Nayang Tsotlhe,",
+        "Kreste nonofo le tshelo jwa me;",
+        "Kreste fela mmeleng, botshelong, moyeng,",
+        "Kreste fela le ka bosakhutleng."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "number": 291,
+  "language": "tn",
+  "title": "291 E Ya Tshwanela Kwana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "E Ya Tshwanela Kwana, E Ya Tshwanela Kwana;",
+        "Ea tshwanela Kwana, e Tlhabilweng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tlotlo haleluya! Mmakeng haleluja!",
+        "Tlotlo haleluya! Go Kwana."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Gosi Jwa ’Go A Bo Tle! Nyeletsa Thata’ Sebe;",
+        "Lere boikhutso jwa ’Go, Moitshepi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re M’ikutlwe Ka Metlha, Re Mo Rate, Re Mmake,",
+        "Gore re bone kwana kwa Sione."
+      ],
+      "number": 3
+    }
+  ]
+}

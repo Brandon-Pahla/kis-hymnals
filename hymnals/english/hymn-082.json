@@ -1,0 +1,47 @@
+{
+  "number": 82,
+  "language": "en",
+  "title": "82 Lord, In The Morning.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lord, in the morning Thou shalt hear",
+        "my voice ascending high;",
+        "To Thee will I direct my prayer,",
+        "To Thee lift up mine eye?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Up to hills where Christ is gone,",
+        "To plead for all His saints;",
+        "Presenting at His Father’s throne,",
+        "Our songs and our complaints."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O may Thy Spirit guide my feet,",
+        "In ways of righteousness;",
+        "Make every path of duty straight,",
+        "And plain before my face."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "The man that love and fear Thy name,",
+        "Shall see their hopes fulfilled;",
+        "The mighty God will compass them,",
+        "With favour as a shield."
+      ],
+      "number": 4
+    }
+  ]
+}

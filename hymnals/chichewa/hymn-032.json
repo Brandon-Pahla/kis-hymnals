@@ -1,0 +1,30 @@
+{
+  "number": 32,
+  "language": "ny",
+  "title": "32 - Ndiye Pothawira Pathu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE LORD’S OUR ROCK"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Mbuye ali thanthwe lathu, Ndiye pothawira pathu;",
+        "Atipulumutsa m’zonse, Ndiye pothawira pathu.",
+        "CHORUS:",
+        "Ndiyetu thanthwe lilomba, Ndi mthuzi nthawi yotentha;",
+        "Mtsogozi wa aulendo, Ndiye pothawira pathu.",
+        "2. Pa nthawi ya usikuwo, Ndiye pothawira pathu;",
+        "Palibe wotiopsa’fe, Ndiye pothawira pathu.",
+        "3. Nkana chigumula chidze, Ndiye pothawira pathu;",
+        "Mwa Mlungu tipeza bwino, Ndiye pothawira pathu.",
+        "4. Inu thanthwe lokondedwa, Ndinu pothawira pathu;",
+        "Khalani mthangati wathu, Ndinu pothawira pathu."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "number": 259,
+  "language": "nd",
+  "title": "259 Siyakuhlangana Yini",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Siyakuhlangana yini?",
+        "Lapho kungathi cwaka?",
+        "Lapho kukhanya nanini",
+        "Kakh’ onokuhlupheka"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sohlangana yini? Phesheya kwawo umfula?",
+        "Sowu wel’umfula yini? Sibe la kuthi cwaka?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sobonan’ ezibukweni?",
+        "Sekuphelil’ uhambo?",
+        "Sikhany’ ekuphumuleni?",
+        "Kul’izulu nesango?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sohlangan’ emzini lena?",
+        "Laku khon’ im’bhoshongo",
+        "Nezindonga ziyakhanya?",
+        "Sazakhelwa ngob’ nono"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sohlangana noMsindisi",
+        "Ezolanda abAkhe",
+        "Nomusa wAkhe siwazi",
+        "Size sibuse naYe"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Siya kuhlangana; Siya kuwu wela umfula",
+        "Siya kuwu wela umfula. Sibe la kuthi cwaka?"
+      ],
+      "number": 6
+    }
+  ]
+}

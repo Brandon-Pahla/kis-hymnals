@@ -1,0 +1,38 @@
+{
+  "number": 112,
+  "language": "xh",
+  "title": "112 Ubom Ngokukhangela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kukh’ ubom ukubhek’ emnqamlezwen’ Yesu uthe, \"bhekani Kum\";",
+        "Luthuth’ ubutyebi bomhlaba, Ndibon’ indyebo emnqamlezweni."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Khangela ube nobom, Khangel’ emnqamlezweni;",
+        "Ngcing’ engcwel’, lusindiso, Khangel’ emnqamlezweni."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngomhl’ endabona ngaw’ um-Sindisi, Wancum’ akundikhangela;",
+        "Kuthi ndakuwelwa kuhendwa, Ndibhek’ emnqamlezweni ndisinde."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndohlala ndikhangel’ umnqamlezo, Ndithemb’ idingal’ka-Thixo;",
+        "Um-hendi ’zange amoyise Lowo uthemb’ amandla ezulu."
+      ],
+      "number": 3
+    }
+  ]
+}

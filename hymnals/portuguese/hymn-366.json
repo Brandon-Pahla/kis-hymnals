@@ -1,0 +1,56 @@
+{
+  "number": 366,
+  "language": "pt",
+  "title": "O Anjo do Senhor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### O Anjo do Senhor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O anjo do Senhor se acampa",
+        "Ao redor dos que O temem;",
+        "Ele os guarda dia e noite,",
+        "Sem cessar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Ó nuvem luzente, nuvem de glória,",
+        "Guia, guia-nos ao Céu!",
+        "O nuvem luzente, nuvem de glória,",
+        "Guia, guia-nos ao Céu!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quando em temores e perigos,",
+        "O Senhor nos tem guardado;",
+        "Sob as Suas santas asas,",
+        "Temos paz."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Em Tua direção confiamos,",
+        "Através deste deserto,",
+        "Té à Canaã chegarmos,",
+        "Lá no Céu."
+      ],
+      "number": 5
+    }
+  ]
+}

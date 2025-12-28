@@ -1,0 +1,39 @@
+{
+  "number": 35,
+  "language": "nd",
+  "title": "35 Yeka Ubudlelwano",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yek’ubudlelwano bu ka Jesu!, Oseyamise’ ezingalweni",
+        "Izibusiso zona zi nkulu, Nxa weyama kuY’ engalweni"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ya ... ma, ya ... ma U sinde ekwesabeni",
+        "Ya ... ma, ya ... ma Eyama kuY’ezingalweni"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, ku mnandi, ukuba ngumhambi, Mangeyam’ engalweni y’Akhe",
+        "Indlela i yakhanya kumhambi, Nxas’ eyam’ engalweni yAkhe"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi ngesabani? Ngi ngesabani?, Se ngi nokuthula okuhle",
+        "Nanxa ngi fika ekulingweni, Ngoyama engalweni yAkhe"
+      ],
+      "number": 4
+    }
+  ]
+}

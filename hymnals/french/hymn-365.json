@@ -1,0 +1,35 @@
+{
+  "number": 365,
+  "language": "fr",
+  "title": "Ô Jésus, tu nous appelles",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Jésus tu nous appelles",
+        "À former un même corps;",
+        "Unis-nous, Seigneur fidèle,",
+        "À ta vie et à ta mort.",
+        "Détruis ce qui nous divise,",
+        "Mets en nous ta vérité,",
+        "Et qu'à jamais ton Église",
+        "Demeure dans l'unité."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ô toi qui scellas toi-même",
+        "Notre unité par ton sang,",
+        "Apprends-nous comment on aime",
+        "D'un amour toujours vivant.",
+        "Et le monde pourra croire,",
+        "Pour sa joie et son salut,",
+        "Que son espoir et sa gloire",
+        "Sont en toi, Seigneur Jésus."
+      ],
+      "number": 2
+    }
+  ]
+}

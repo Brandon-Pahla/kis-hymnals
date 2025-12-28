@@ -1,0 +1,38 @@
+{
+  "number": 184,
+  "language": "sn",
+  "title": "184 Rufaro Mupasi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Farai Tenzi owuya! Mugashire mwese",
+        "Mugadzirirenyi nzwimbo",
+        "Mwese mumukudze",
+        "Mwese mumukudze",
+        "Mukudze, mwese mukudze"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Farai Tenzi otonga, Mukudzenyi vanhu",
+        "Apo minda nematombo",
+        "Zvichikudza mambo",
+        "Zvichikudza mamboZvichikudza kudza mambo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Achazotonga nemutsa, Ndidzi dzioneswe",
+        "Mdir’ ekururama Kwake",
+        "Rudo rwoshamisa, Rudo rwoshamisa",
+        "Rwoshamisa rudo Rwake"
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "number": 101,
+  "language": "bem",
+  "title": "101 - YESU WA CIKUKU ALEKWTA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "JESUS IS CALLING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu wa cikuku alekwita, Alekwita, Alekwita,",
+        "Cinshi 'we wingafumino kwali, No kuye ciyeyeye?",
+        "CHORUS:",
+        "A ... lekwita, A ... lekwita,",
+        "Wa-cikuku, Wa luse Yesu alekwita.",
+        "2. We wanaka Yesu alekwita, Alekwita iso tushe;",
+        "Isa ne cisendo cobe 'kwali, Ena tet' akutamfye",
+        "3. 'Sa kuli Yesu alekulinda, 'Lekulinda, 'lekulinda,",
+        "Leta ububi pa nkasa shakwe, Endesha walacelwa.",
+        "4. Yesu 'lepapata Umfwe shiwi, Mumfwe lelo, mumfwe lelo;",
+        "Abasumina pe shina lyakwe, Mwandi bakasekela."
+      ],
+      "number": 2
+    }
+  ]
+}

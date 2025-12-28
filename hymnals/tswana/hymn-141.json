@@ -1,0 +1,38 @@
+{
+  "number": 141,
+  "language": "tn",
+  "title": "141 Ke Ka Nna Wa Gago",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Ka Nna Wa Gago Mmoloki; O Nthute, O Nthute;",
+        "Nka dira thato’a ’Go Morena, O thuse janong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wa Gago (Jeso), Wa Gago (Jeso) E ke ikano ya me.",
+        "Wa Gago (Jeso), Wa Gago (Jeso) Morena gone janong."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Tsa Lefatshe Tsotlhe Ke Eng O Se Teng, O Se Teng?",
+        "Ke tla di tlogelela Wena, O khumo ya me."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Ke Fulara Tsa Lefatshe, Tla Gaufi, Tla Gaufi;",
+        "Go Wena ke fitlhela tsotlhe, Kgomotso ya me."
+      ],
+      "number": 3
+    }
+  ]
+}

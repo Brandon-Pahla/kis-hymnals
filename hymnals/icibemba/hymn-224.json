@@ -1,0 +1,29 @@
+{
+  "number": 224,
+  "language": "bem",
+  "title": "224 - NYALI SHIBENGESHIME",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LET THE LOWER LIGHT BE BURNING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Uluse lwakwa Shikulu, Lulabeka nshiku pe;",
+        "Atupa kasunge nyali pa cabu ca cimana.",
+        "CHORUS:",
+        "Inyali shibengeshime, Bashimone pe bimbi,",
+        "Ku balecula mu fibi, Ukuti bapusuke.",
+        "2. Ububi bwafishe calo, Na mabimbi yaima;",
+        "Bambi bali mu cimana, Balefwayo lubuto.",
+        "3. Ashe nyali we munyina, tupusushe balefwa;",
+        "Kuti bafike ku cabu, Mumfifi bengaluba."
+      ],
+      "number": 2
+    }
+  ]
+}

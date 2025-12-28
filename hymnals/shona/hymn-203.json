@@ -1,0 +1,67 @@
+{
+  "number": 203,
+  "language": "sn",
+  "title": "203 Munyaradzi Awuya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Paradza soko, kune munhu wese",
+        "Kana kuneawo, wakasungwa mwoyo",
+        "Ndimi dzewatendi, ngadzidaidzire",
+        "Munyaradz’ awuya"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Munyaradz’ awuya, Munyaradz’ awuya",
+        "Mudzimu mutswene, chitsidzo chababa",
+        "Paradzira soko kune munhu wese",
+        "Munyaradz’ awuya"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Usiku hwapera, zuva rinobuda",
+        "Ronyaradza mhere, nekutya kwewese",
+        "Muma komo ese zuva rakasika",
+        "Munyaradz’ wauya"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mambo wewa mambo,Murapi mukuru",
+        "Ipa rusununguko wabatwa wese",
+        "Nemumatirongo, rwiyo ngarwunzwikwe",
+        "Munyaradz’ awuya"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rudo runoyera, handingakwanisi",
+        "Kuti nditaure, tsitsi dzinoyera",
+        "Ini munyaradzi, ndiwe nekupenya",
+        "Munyaradz’ awuya!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rega maungira, akwire kudenga",
+        "Watswene wedenga, wachipindurawo",
+        "Mukuimba rudo rwake rusingafii",
+        "Munyaradz’ awuya"
+      ],
+      "number": 6
+    }
+  ]
+}

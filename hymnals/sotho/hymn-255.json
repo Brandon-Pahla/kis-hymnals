@@ -1,0 +1,37 @@
+{
+  "number": 255,
+  "language": "st",
+  "title": "255 Jesu Kea U Hloka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kea U hloka Jesu, Ke le mofutsana,",
+        "Moeti motsamai, Ha ke na tsa Lefats’e.",
+        "Ke hloka rato la Hau, Ho nkhothatsa tseleng,",
+        "Tiisa mehato ea ka, Ho ba matla a ka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke hloka pelo’a Jesu, Ho ba e le hloko.",
+        "Bolela teko ea ka; Ho nthusa bohlokong,",
+        "Ke hloka mosa’ Hau Ho ba thuso ea ka,",
+        "Ho mponts’a tsa Jesu, ’’Supa le Konyana."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kea U hloka Jesu, ’Me ke tla U bona,",
+        "U le mo khalalelong, U lutse teroneng,",
+        "Ke na le balopolloa, Ke tle ke thabele,",
+        "Ho bina thoko tsa Hau, Ho sheba Morena."
+      ],
+      "number": 3
+    }
+  ]
+}

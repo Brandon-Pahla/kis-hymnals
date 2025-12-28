@@ -1,0 +1,55 @@
+{
+  "number": 697,
+  "language": "tw",
+  "title": "N2 My Heart and Voice",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mede koma na nne",
+        "Ka ‘Gyenkwa ‘yeyi ky'rε-",
+        "Ma obiara nka N'ayeyi;",
+        "Wiase nyinaa Wura,",
+        "N'asεm mu tumi so",
+        "Na wɔnam bɔɔ wiase nyinaa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ɔfaa akoa tebea",
+        "Na nipadua mu na",
+        "Ɔsoaa yεn mmusu kɔɔ Kalbre:",
+        "Ɔyεε afɔr'bɔde,",
+        "Hwiee Ne mogya kronkron",
+        "Gu de gyee bɔne mu nnomum."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ankyε ɔsɔre dii",
+        "N'atanfo so nkonim,",
+        "De wɔn guu mpokyerε mu na",
+        "Odw'riw wɔn ahenni,",
+        "Maa wɔgye too mu sε:",
+        "“Kristo di ade nyinaa so”"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "N'ahenni reba ntεm,",
+        "Ne trenee bεda adi",
+        "‘Sase so sεnea εyε s'ro;",
+        "Nea oguan toa Kristo,",
+        "Benya Ne nkyεn ɔgye,",
+        "Na wahu Ne nkwagye nyinaa."
+      ],
+      "number": 4
+    }
+  ]
+}

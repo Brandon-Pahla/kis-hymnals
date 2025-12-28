@@ -1,0 +1,42 @@
+{
+  "number": 258,
+  "language": "tum",
+  "title": " 258 Dango La Chiuta Ili",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 258 Dango La Chiuta Ili",
+        "ONE LIVING FAITH"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Dango la Chiuta ili 'mwe ndakuzirwa nkhanira,",
+        "Ndakukhala myirayira ndi mazguso gha umoyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Dango linu 'mwe nadituwa mutigowokere ise",
+        "Ndituwa mwa ilo lene wanji ntha wangaliwona."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mugowokerenge winu ku uheni wawo wose",
+        "Mutovwirenge kusunga marango ghinu ghatuwa"
+      ],
+      "number": 4
+    }
+  ]
+}

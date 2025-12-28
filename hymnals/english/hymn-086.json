@@ -1,0 +1,47 @@
+{
+  "number": 86,
+  "language": "en",
+  "title": "86 O Worship The King!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O worship the King, all glorious above,",
+        "And grate-fully sing his wonderful love;",
+        "Our Shield and Defender the Ancient of Days,",
+        "Pavillion’d in splendor, and girded with praise."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O tell of his might and sing of his grace,",
+        "Whose robe is the light, whose canopy space;",
+        "His chariots of wrath the deep thunder clouds form,",
+        "And dark is the path on the wings of the storm."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thy bountiful care, what tongue can recite,",
+        "It breathes in the air, it shines in the light;",
+        "It streams from the hills, it descends to the plain,",
+        "And sweetly distills in the dew and the rain."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Frail children of dust, and feeble as frail,",
+        "In thee do we trust, nor find thee to fail;",
+        "Thy mercies, how tender! How firm to the end!",
+        "Our Master, Defender, Redeemer, and Friend."
+      ],
+      "number": 4
+    }
+  ]
+}

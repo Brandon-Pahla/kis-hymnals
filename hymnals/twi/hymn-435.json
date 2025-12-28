@@ -1,0 +1,46 @@
+{
+  "number": 435,
+  "language": "tw",
+  "title": "'Nuonyam Amam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ me brɛ ne me sɔhwɛ nyinaa twam'",
+        "Na mikodu mpoano fɛfɛ no so;",
+        "Na mebɛn Nyame a mesom No a,",
+        "Anuonyam bɛyɛ me de afebɔɔ"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ͻbɛyɛ anuonyam amam'",
+        "'Nuonyam amam, 'nuonyam amam;",
+        "B're a Ne dom nti mɛhwɛ N'anim no,",
+        "Ͻbɛyɛ anuonyam, 'nounyam amam!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Enam Ne dom akyɛde kɛse nti,",
+        "Wɔasiesie trabea ama me soro,",
+        "Sɛ memkɔ hɔ na memkɔhwɛ N'anim,",
+        "Anuonyam bɛyɛ me de afebɔɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɔnkonom a madɔ wɔn bɛha hɔ,",
+        "ɔdɛw betwɛ me ho ahyia sɛ nsu;",
+        "Na m,'Agyenkwa bɛs'rew akyerɛ me,",
+        "Anuonyam bɛyɛ me de afebɔɔ."
+      ],
+      "number": 3
+    }
+  ]
+}

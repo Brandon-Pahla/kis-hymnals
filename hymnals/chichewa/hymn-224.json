@@ -1,0 +1,28 @@
+{
+  "number": 224,
+  "language": "ny",
+  "title": "224 - Nyali Yanu Iwalire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LET THE LOWER LIGHTS BE BURNING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Tate wathu wa Kumwamba, ’Natipatsa nyali’Ce,",
+        "Koma atiuza ife, Tiwalitse enawo.",
+        "CHORUS:",
+        "Nyali yanu iwalire, Kusonyeza njirayo",
+        "Kwa ocimwa ndi ofo’ka, Njira yonka m’Mwambamo.",
+        "2. Kuli mdima m’dziko lino, Ndi namondwe wa bvuto,",
+        "Obvutika alindira Nyali yotsogozayo.",
+        "3. Konza nyali yako msanga, Pena wobvutikayo",
+        "Atayidwa mu mdima, Akapanda nyaliyo."
+      ]
+    }
+  ]
+}

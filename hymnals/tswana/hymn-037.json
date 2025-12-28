@@ -1,0 +1,47 @@
+{
+  "number": 37,
+  "language": "tn",
+  "title": "37 Gaufi Le Modimo Wame",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Gaufi Le Modimo Wame, Gaufi:",
+        "Le e le mokgoro O ntsholetsang:",
+        "Ke tla nna k’opela, Gaufi le Modimo,",
+        "Gaufi le Modimo wame, gaufi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Le Motimedi, Go Se ’Sedi,",
+        "Lefifi, le mpipa, Ke sama ’ntswe",
+        "Le mo ’torong tsa me, Ke tla nna gaufi,",
+        "Gaufi le Modimo wame, gaufi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Go Nne Le Tsela E Tlhatlogang,",
+        "Gotlhe mo’ nthometseng, Go neilwe tshwarong;",
+        "Ba’ngele ba mpitsa Gore ke ye gaufi,",
+        "Gaufi le Modimo wame, gaufi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Foo Mogopolong Wa Me Ka Pako,",
+        "Ke tswa bohutsaneng, K’age Bethela",
+        "Ke tla nna k’opela, Gaufi le Modimo,",
+        "Gaufi le Modimo wame, gaufi."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "number": 88,
+  "language": "es",
+  "title": "Oh, aldehuela de Belén",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Oh, aldehuela de Belén"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, aldehuela de Belén, afortunada tú,",
+        "pues en tus campos brilla hoy la sempiterna luz.",
+        "El hijo tan deseado con santa expectación,",
+        "el anunciado Salvador, en ti, Belén, nació."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Calladamente Dios nos da su incomparable don;",
+        "así también impartirá sus bendiciones hoy.",
+        "Ningún oído, acaso, perciba su venir;",
+        "mas el de humilde corazón lo habrá de recibir."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, santo Niño de Belén, desciende con tu paz;",
+        "en nuestras almas nace hoy, limpiando todo mal.",
+        "Los ángeles del cielo te anuncian al nacer:",
+        "¡Ven con nosotros a morar, oh Cristo, Emanuel!"
+      ],
+      "number": 4
+    }
+  ]
+}

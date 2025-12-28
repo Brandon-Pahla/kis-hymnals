@@ -1,0 +1,25 @@
+{
+  "number": 356,
+  "language": "tum",
+  "title": " 356 Fumu Yiri Mu Nyumba Yake",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 356 Fumu Yiri Mu Nyumba Yake",
+        "The Lord Is In His Holy Temple"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fumu yiri munyumba yake mu tempile lake tituwa,",
+        "Charu chikhale chete chikhale chete pa maso pake",
+        "Chikhale mwachete kwa Fumu.",
+        "Amen."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "number": 265,
+  "language": "tn",
+  "title": "265 Dikagiso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dikagiso; Fatshing Je Ja Sebe;",
+        "Madi a Jeso a re kagiso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dikagiso; Matsapeng A Tiro;",
+        "Go direla Jeso tapologo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dikagiso; Gar’a Mafutsana;",
+        "Fubeng sa Jeso ke mo kgomotsong."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dikagiso; Baratwi’kgakala;",
+        "Go Jeso re bolokilwe rotlhe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dikagiso; Tse Di Sa Itsiweng;",
+        "Jeso re’ itse O mo teroneng."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dikagiso; Loso Lo Re Sira;",
+        "Mme Jeso O nyeleditse loso."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go Lekanye; Ntwa E E Tla Ema,",
+        "Jeso O re biletsa godimong."
+      ],
+      "number": 7
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "number": 93,
+  "language": "en-sdah",
+  "title": "93 All Things Bright and Beautiful",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. All things bright and beautiful, All creatures great and small, All things wise and wonderful, The Lord god made them all."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain : All things bright and beautiful, All creatures great and small, All things wise and wonderful, The Lord god made them all."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Each little flower that opens, Each little bird that sings; He made their glowing colours, He made their tiny wings."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. The purple headed mountain, The rivers running by, The sunset, and the morning That brightens up the sky,"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. The cold wind in the winter, The pleasant summer sun, The ripe fruits in the garden, He made them everyone."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. He gave us eyes to see them, and lips that we might tell How great is God Almighty, Who has made all things well."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 55,
+  "language": "xh",
+  "title": "55 Uhlanjiwe-na Egazini?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ukhe waya ku-Yesu wahlanjiswa? Uhlambile ngegazi laKhe?",
+        "Uya luthemba-na ufefe lwaKhe? Uhlambile ngegazi laKhe?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Uhlambil’ . . . uhlambil’ . . . Uhlambile ngegazi laKhe?",
+        "Intliziyo yaKho ke imhlophe-na? Uhlambile ngegazi laKhe?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uya hamba nay’ u-Msindis’ u-Yesu? Uhlambile ngegazi laKhe?",
+        "Uphumla imihla yonke ku-Kristu? Uhlambile ngegazi laKhe?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa u-Myen’ ebuya woba mhlophe ke? Uhlambile ngegazi lakhe?",
+        "Nezindlu zaKhona uzilindele? Uhlambile ngegazi laKhe?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lahla ingubo edyojwe zizono, Au! Hlamba ngegazi le-Mvana;",
+        "Ukho umthombo oqukuqelayo, Au! Hlamba ngegazi le-Mvana."
+      ],
+      "number": 4
+    }
+  ]
+}

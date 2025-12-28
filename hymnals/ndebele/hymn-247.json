@@ -1,0 +1,47 @@
+{
+  "number": 247,
+  "language": "nd",
+  "title": "247 Shay’ Insimbi Namuhla Injabulo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Shay’ insimbi! Namhla injabulo.",
+        "Ngomuntu obuy’ enkangala,",
+        "Nang’ uyis’ emhlangabeza ngendlela,",
+        "Was’ emanga, okhatheleyo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngcwele! Ngcwele! Kush’ iz’ngelosi:",
+        "Ngcwele! Ngcwele! Kusho ugubhu.",
+        "Yimpi enjengo lwandle lugubhuza,",
+        "Lwandis ingoma eligugu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Shay’ insimbi! Namhla yinjabulo.",
+        "Ngoba umzuli ubuyile;",
+        "Inhliziyo ison’ isishiyile,",
+        "Ingumntwana ozelweyo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Shay’ insimbi! Mema idili namhla",
+        "Ngokunqoba ziyacul’ iz’ingelosi;",
+        "Xox’ indab’ emnandi njenge zinyosi",
+        "Ngob’ umuntu uzelwe busha."
+      ],
+      "number": 4
+    }
+  ]
+}

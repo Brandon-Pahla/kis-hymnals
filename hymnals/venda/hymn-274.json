@@ -1,0 +1,73 @@
+{
+  "number": 274,
+  "language": "ve",
+  "title": "274. Ndi Na Mutshidzi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:284",
+        "AH:174"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi na Mutshidzi, u ri ida khae",
+        "Mutshidzi wa lufuno, u fhira shaka",
+        "Zwizwo u nndida nga vhulenda-vho",
+        "Mutshidzi a re wanga, ndi wanu na inwi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndi khou rabelela iwe",
+        "Ndi kha di rabela nga misi",
+        "Ndi itela nothe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi na khotsi, we nne a nnea,",
+        "Fulufhelo la u tshidzwa, na mashudu",
+        "U mmbidza u ri ndi de tadulu;",
+        "Fhedzi u ri ndi de na inwi henefho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi na nguvho, ndi ya vhudi tshena",
+        "Ndi lindela zwi mangadzaho zwi do da",
+        "Ndi do zwi wana, zwi penya sa denzhe",
+        "Khonani ndi tama, ni tshi zwi wana-vho."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Wo wanwa nga Yesu, vhudza vhanwe",
+        "Uri Mutshidzi wanga ndi wa lufuno",
+        "Na inwi zwino ndi mutshidzi wanu-vho",
+        "Disendedzeni tsini hawe nothe."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Rabela zwi diswe vhurenani",
+        "Thabelo i do fhindulwa nga Mutshidzi",
+        "Thabelo ine yanga sa khumbelo",
+        "I do fhindulwa, iwe u mu humbele."
+      ],
+      "number": 6
+    }
+  ]
+}

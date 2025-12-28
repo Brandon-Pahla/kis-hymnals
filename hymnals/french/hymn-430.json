@@ -1,0 +1,35 @@
+{
+  "number": 430,
+  "language": "fr",
+  "title": "De toi vient la vie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "De toi vient la vie qui te glorifie,",
+        "Oui, nous te louons, Créateur, Roi des cieux.",
+        "Car tu nous façonnes, nous guides,",
+        "Nous donnes la paix, l'assurance pour vivre joyeux.",
+        "Et sous ta bannière, voyant la lumière,",
+        "Le soir nous suivons ta colonne de feu,",
+        "Jusqu'à ce que vienne la fin de nos peines,",
+        "Que tu réalises nos rêves, nos vœux."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fidèle à sa place, tournant dans l'espace,",
+        "L'étoile proclame ta loi, ton amour.",
+        "Les monts et les plaines, les belles fontaines,",
+        "La mer et l'abîme t'exaltent toujours.",
+        "Nos voix font de même : ta grâce suprême,",
+        "Tes dons, tes bienfaits nous chantons tour à tour.",
+        "Au chœur des archanges, bientôt les louanges",
+        "De tout l'univers s'uniront chaque jour."
+      ],
+      "number": 2
+    }
+  ]
+}

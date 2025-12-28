@@ -1,0 +1,57 @@
+{
+  "number": 312,
+  "language": "fr",
+  "title": "Je m'approche de toi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Je m'approche de toi,",
+        "je m'approche de toi,",
+        "Source de vie, source de vie,",
+        "Mon Sauveur, bénis-moi !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fais silence en mon cœur,",
+        "fais silence en mon cœur,",
+        "Viens et me parle, viens et me parle,",
+        "Ô mon divin Sauveur !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rends-moi conforme à toi,",
+        "rends-moi conforme à toi,",
+        "Divin modèle, divin modèle,",
+        "Mets ton image en moi !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rends-moi bouillant, Seigneur,",
+        "rends-moi bouillant, Seigneur,",
+        "Pour ton service, pour ton service,",
+        "Que je parte en vainqueur !"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Et quand tu reviendras,",
+        "et quand tu reviendras,",
+        "Dans ton royaume, dans ton royaume,",
+        "Tu nous accueilleras !"
+      ],
+      "number": 5
+    }
+  ]
+}

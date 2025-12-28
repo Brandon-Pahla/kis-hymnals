@@ -1,0 +1,68 @@
+{
+  "number": 45,
+  "language": "tum",
+  "title": " 45 Ndipani Baibo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 45 Ndipani Baibo",
+        "GIVE ME THE BIBLE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ndipani Baibo ndilo nyali yane,",
+        "Kuti yindirongozgenge m'nthowa,",
+        "Palije chisi chingandijalira,",
+        "Yesu yekha ndiyo mtaski wane."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndipani Baibo ndilo nyali yane;",
+        "Mazgu ghake gha Fumu Chiuta,",
+        "Ndilo phangano la chitemwa chake;",
+        "Nyall m nthowa yakuya kuchanya."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ndipani Baibo pakuzingiziwa,",
+        "Pakusuzgika mu mtima wane Ndipani",
+        "mazgu ghaweme gha Yesu;",
+        "Mazgu ghake ghakusanguruska."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Ndipani Baibo ndilo nkhulidoka;",
+        "Nyali yakuwala m'nthowa yane;",
+        "Likuvumbura ma uheni ghane",
+        "Kundendeska m'nthowa ya ulunji."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Ndipani Baibo ndilo nyali yane,",
+        "Yam'kundiwuska mkati m'malaro;",
+        "Gomezgo la wose wakutengera,",
+        "Nyali m'nthowa yakuya kuchanya."
+      ],
+      "number": 5
+    }
+  ]
+}

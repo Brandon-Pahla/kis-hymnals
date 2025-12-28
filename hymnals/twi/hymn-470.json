@@ -1,0 +1,57 @@
+{
+  "number": 470,
+  "language": "tw",
+  "title": "Owia Hann Wɔ Me Komam' Nnɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Owia hann wɔ me komam' nnɛ;",
+        "Ͻhyerɛn 'nuonyam mu",
+        "Kyɛn 'wia a ɛhyerɛn wɔ wim,",
+        "'Fisɛ Yesu nem' hann."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Owia hann bi (wɔ me mu)",
+        "Nhyira hann bi (wɔ me mu)",
+        "B're a 'somdwoe mm're pa retwam kɔ",
+        "Sɛ Yesu serew ky'rɛ me a",
+        "Owia hann bi hy'rɛn me mu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dwom bi wɔ me koma mu nnɛ,",
+        "Meto ky'rɛ me Hen' no;",
+        "Yesu retie na ɔte nnwom",
+        "A mintumi nto mpo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Hotɔ b're wɔ me kommam' nnɛ,",
+        "'Fisɛ 'W'rade  bɛn a,",
+        "'Somdwo bu'b'ru to dwom memu,",
+        "Na ɔdom nhwiren pue."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anigye wɔ me komam' nnɛ,",
+        "Ne 'nidaso ne dɔ;",
+        "Nhyirā a ɔde ma me seesei,",
+        "Ne s'ro 'nigyɛ no nti."
+      ],
+      "number": 4
+    }
+  ]
+}

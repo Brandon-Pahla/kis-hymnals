@@ -1,0 +1,46 @@
+{
+  "number": 222,
+  "language": "tw",
+  "title": "Tie Sɛ Nsanku Ne Nne Mpem Du",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tie sɛ nsanku ne nne mpem du",
+        "To ayeyi nnwom wɔ s'ro;",
+        "Yesu di hen', s'rofo di dɛw,",
+        "ɔdɔ Nyame no di hen';",
+        "Hwɛ, ɔte 'hengua so s'ro;",
+        "Yesu nko di wiase so;",
+        "Haleluya! haleluya! haleluya! Amen!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anuonyam Hene, di hen' daa,",
+        "W'ahenkyɛw no wɔ hɔ daa;",
+        "B'ribiara ntumi nte wɔn a",
+        "Woagye wɔn ne Wo dɔ ntam;",
+        "Wɔn a Wode dom gyee wɔn",
+        "Sɛ sɛ wobehu W'anim:",
+        "Haleluya! haleluya! haleluya! Amen!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Agyenkwa, ma Wo mmae nyɛ ntɛm,",
+        "Ma W'anuonyam da no mm'ra;",
+        "B'rč a wɔbɛte nteam nwanwa no,",
+        "S'ro ne asase betwam:",
+        "Na yɛde sika nsanku",
+        "Bɛto: 'Nuonyam nka yɛn Hen'.",
+        "Haleluya! haleluya! haleluya! Amen!"
+      ],
+      "number": 3
+    }
+  ]
+}

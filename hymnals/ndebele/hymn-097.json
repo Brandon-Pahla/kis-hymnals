@@ -1,0 +1,47 @@
+{
+  "number": 97,
+  "language": "nd",
+  "title": "97 Si Zwile",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Si zwile into enhle, uJes’ uMsindisi;",
+        "Ye! u yasisindisa, uJes’ uMsindisi,",
+        "Yazais’ izizwe zonke, Ngaphesheya kolwandle;",
+        "iNkos’ i yasithuma, NgoJes’ uMsindisi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dumisa, dumisani uJes’ uMsindisi;",
+        "Zixoxele izoni, NgoJes’ uMsindisi,",
+        "Hlabel’ ezinqhingini, Sabela nawe lwandle;",
+        "Ngaleyondaba enhle, ke Jes’ uMsindisi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hlaba kakhul’ umkhosi, ngoJes’ uMsindisi;",
+        "Nokufa nangempilo, ka Jes’ uMsindisi,",
+        "Wusho nasemnyameni, Nxa wondel’ isihawu;",
+        "Wolinqoba ithuna, NgoJes’ uMsindisi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phonsa emoyen’ izwi, NgoJes’ uMsindisi;",
+        "Thabani nonke zizwe, NgoJes’ uMsindisi,",
+        "Memeza usindiso, ebintabeni zonke;",
+        "Ingoma yokunqoba, Ka Jes’ uMsindisi."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "number": 308,
+  "language": "ts",
+  "title": "308. HINKWERHU HI NAVELA TILO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Hinkwerhu Hi Navela Tilo, Hinkwerhu Hi Navela Tilo, Hinkwerhu Hi Navela Tilo, Hi Navela Tilo.",
+        "2. Vamanana Va Navela Tilo, Vamanana Va Navela Tilo Vamanana Va Navela Tilo, Va Navela Tilo.",
+        "3. Vatatana Va Navela Tilo, Vatatana Va Navela Tilo, Vatatana Va Navela Tilo, Va Navela Tilo.",
+        "4. Na Vanhwana Va Navela Tilo, Na Vanhwana Va Navela Tilo, Na Vanhwana Va Navela Tilo, Va Navela Tilo.",
+        "5. Na Majaha Ma Navela Tilo, Na Majaha Ma Navela Tilo, Na Majaha Ma Navela Tilo, Ma Navela Tilo."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 118,
+  "language": "en",
+  "title": "118 Jesus Paid It All.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I hear the Saviour say,",
+        "“Thy strength indeed is small;",
+        "Child of weakness, watch and pray,",
+        "Find in me thine all in all.”"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jesus paid it all, All to him I owe;",
+        "Sin had left a crimson stain;",
+        "He washed it white as snow."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lord, now indeed I find,",
+        "Thy power, and thine alone;",
+        "Can change the leper’s spots,",
+        "And melt the heart of stone."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Since nothing good have I,",
+        "Whereby thy grace to claim;",
+        "I’ll wash my garments white,",
+        "In the blood of Calvary’s Lamb."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "And when before the throne,",
+        "I stand in him complete;",
+        "I’ll lay trophies down,",
+        "All down at Jesus’ feet."
+      ],
+      "number": 4
+    }
+  ]
+}

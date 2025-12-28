@@ -1,0 +1,60 @@
+{
+  "number": 720,
+  "language": "tw",
+  "title": "N25 Weeping Will Not",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nusu rennye me nkwa",
+        "Me nusu sen dεn ara-a",
+        "Entumi ntu me suro,",
+        "Entumi nyi me bɔne",
+        "Nusu rennye me nkwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu sui, n'Owui maa me;",
+        "Yesu brεe wɔ dua no so;",
+        "Yesu rema mahome;",
+        "No nko n' ɔbεgye me"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me nnwuma rennye me,",
+        "Nnwuma pá  a miyumi yε",
+        "M'adwempa ne me nkate'",
+        "Rentumi nsakra me kra;",
+        "Me nnwuma rennye me."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ɔtwentwεn rennye me,",
+        "Mabrε, midi fɔ, may'ra,",
+        "Mete ahummɔb'rɔ nne;",
+        "Metwεn a, εnde mewu;",
+        "Ɔtwentwεn rennye me."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kristom' gyidi gye me;",
+        "Metwere Wo Ba sufo,",
+        "Metwere N'adwuma no;",
+        "‘W'ra, boa ma menkɛ Ne nsam':",
+        "Kristom' gyidi gye me."
+      ],
+      "number": 4
+    }
+  ]
+}

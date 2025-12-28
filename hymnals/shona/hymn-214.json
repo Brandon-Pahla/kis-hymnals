@@ -1,0 +1,57 @@
+{
+  "number": 214,
+  "language": "sn",
+  "title": "214 Jesu Ane Hanya Here",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu anehanya here",
+        "Mwoyo wangu woda rwiyo",
+        "Apo ndakuremerwa ndasuwa",
+        "Nenzira yokunetesa?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hunde, ane hanya neni,",
+        "Anzwa urombo hwangu",
+        "Apo misi yareba usiku hworebesa",
+        "Tenzi aneni"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu ane hanya here",
+        "Apo nzira ine dima?",
+        "Apo zuva radoka, hwa’siku",
+        "Anozova petyo here"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu ane hanya ndotadza",
+        "Kumirira zviyedzo?",
+        "Handina zororo mudambudzo",
+        "Kana ndichichema seyi?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu ane hanya apondoti",
+        "Vadiwa sarayi?",
+        "Mwoyo worwadza nekutsemuka",
+        "Ichi chiro here kwa’ri"
+      ],
+      "number": 5
+    }
+  ]
+}

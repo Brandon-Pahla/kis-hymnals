@@ -1,0 +1,35 @@
+{
+  "number": 204,
+  "language": "tw",
+  "title": "Bra, Yesu a Yɛatwɛn Wō Abrɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bra, Yesu a yɛatwɛn wō abrɛ,",
+        "Wobɛmaa yɛn faw'hodi;",
+        "Gye yɛn fi bɔne sųro mu,",
+        "Ma yennya home Wo mu;",
+        "Israel 'hoɔden ne w'rɛkyekye,",
+        "Wone wiase 'nidaso;",
+        "ɔman biara Ahwehwɛde",
+        "Koma biara Anigye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔwoo Wo sɛ Wo man Gyefo,",
+        "Wɔwoo Wo sɛ ɔhene,",
+        "Sɛnea Wubedi yɛn mu Hen'",
+        "Ma Wo dom 'henni no mmra;",
+        "Fa Wo daa Honhom no so bra",
+        "Bedi yɛn koma mu Hen';",
+        "Fa Wo trenee no ma yɛn so",
+        "Kɔ W'anuonyam 'hengua so."
+      ],
+      "number": 2
+    }
+  ]
+}

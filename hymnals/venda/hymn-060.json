@@ -1,0 +1,65 @@
+{
+  "number": 60,
+  "language": "ve",
+  "title": "60 Yesu Iwe Dakalo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:242",
+        "AH:128"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu dakalo la mbilu,",
+        "Iwe tshisima na tshedza,",
+        "Ro furalela madzanga,",
+        "Ra vho shavhela kha Iwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ngoho yau i sa shanduki,",
+        "U tshidza vha u vhidzaho,",
+        "Wo luga kha vharabeli,",
+        "U zwothe kha vha re vhau."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yesu zwiliwa zwashu,",
+        "Ri do dzula ri tshi zwi la,",
+        "Ri nwa kha Iwe tshisima,",
+        "Ra fhedza dora nga Iwe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mbilu dzo u tulutshelwa,",
+        "Hothe hu ne ra tshimbila,",
+        "Ri di takadzwa nga Iwe,",
+        "Lutendo lwashu lwa khwatha."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Murena dzula na rine,",
+        "U ri fhe mulalo tshothe,",
+        "Pandela swiswi la tshivhi,",
+        "tavhisa tshedza shangoni."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "number": 221,
+  "language": "tum",
+  "title": " 221 Ndapulika Nkhunda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 221 Ndapulika Nkhunda",
+        "C.S. 247 MEMORIES OF GALILEE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ndapulika nkhunda k'lira na minthavi ya makuni",
+        "Vikuphala uChiuta kukumbuska Galileya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "GaLiLeya wakutowa, Uko Yesu waka wiako,",
+        "GaLiLeya wakuzirwa, Iza uzakandimbire."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mumadamb muli ndere na tuyuni tukwimbira",
+        "Na mulenji kutamika mwakufwasa m'Galileya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nkhawazgamo mimazgu ghinu vya wakwenda mwe panyanja.",
+        "Nkhukhumba 'mwe kwakuruska kumondezga m Galeya"
+      ],
+      "number": 4
+    }
+  ]
+}

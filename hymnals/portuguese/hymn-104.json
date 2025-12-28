@@ -1,0 +1,66 @@
+{
+  "number": 104,
+  "language": "pt",
+  "title": "Jesus, Teu Nome Satisfaz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Jesus, Teu Nome Satisfaz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus, Teu nome satisfaz;",
+        "Por toda a Terra espalha paz;",
+        "Prazer infindo e vida traz,",
+        "Jesus, Senhor amado!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Cristo, nome de valor!",
+        "Cristo, forte Redentor!",
+        "Cristo, sumo e bom Pastor,",
+        "Louvar-Te-ei pra sempre!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Com Teu poder, é Salvador,",
+        "Ao coração tão sofredor",
+        "Concedes forças e vigor,",
+        "Jesus, Senhor amado!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se fraco estou, em tentação,",
+        "Poder me vem de Tua mão",
+        "Se busco a Ti em oração,",
+        "Jesus, senhor amado!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus, Teu nome é sem igual,",
+        "Tão meigo e bom, gentil, leal!",
+        "És meu Pastor celestial,",
+        "Jesus, Senhor amado!"
+      ],
+      "number": 6
+    }
+  ]
+}

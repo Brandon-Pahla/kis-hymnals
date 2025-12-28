@@ -1,0 +1,49 @@
+{
+  "number": 23,
+  "language": "tw",
+  "title": "Ahurusi Dɔn Rewosow",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ahurusi dɔn rewosow,",
+        "Mo mmepɔ nyi 'W'radč ayɛ!",
+        "Yɛn koma sɔre sɛ nnomaa,",
+        "Mo mmepɔ nyi 'W'radč ayɛ!",
+        "Yɛn ahurusi bere no",
+        "Twe adɔfo nyinaa ba;",
+        "Yɛde yɛn nne dɛdɛ to dwom:",
+        "Mo mmepɔ nyi Wradč ayɛ!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn fi yɛ dɛ sen' baabiara;",
+        "Nea mmepɔ yi 'W'radč ayɛ!",
+        "Na yɛn dadwen ny'naa tu yera,",
+        "Nea mmepɔ yi 'W'radč ayɛ!",
+        "Yenim sɛ Kristo yɛn Nua no",
+        "De hama kyeky're yɛn bom;",
+        "Ne na Maria na ɔwoo No,",
+        "Nea mmepɔ yi 'W'radč ayɛ!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Afč aso, yɛn ntade fitaa,",
+        "Mo mmepɔ nyi 'W'radč ayɛ!",
+        "Yɛde asomdwoe kyea yɛn ho,",
+        "Mo mmepɔ nyi 'W'radč ayɛ!",
+        "Yen ny'naa kyɛ Onyame yieyɛ;",
+        "Yedidi gyae akodi,",
+        "Yen bukyia ny'naa ma 'sɛky'rɛnne,",
+        "Mo mmepɔ nyi 'W'radč ayɛ!"
+      ],
+      "number": 3
+    }
+  ]
+}

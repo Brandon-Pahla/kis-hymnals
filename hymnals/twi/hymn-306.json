@@ -1,0 +1,47 @@
+{
+  "number": 306,
+  "language": "tw",
+  "title": "Twe Me Bɛn Yie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Meyɛ Wo de Nyame, mate Wo nne,",
+        "Ͻkaa Wo dɔ kyerɛɛ me;",
+        "Na mepɛ sɛ mesɔre gyidi mu",
+        "Na mitwiw pini Wo nkyɛn."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Twe me bɛn yie, Hyirafo Nyame,",
+        "Twe me bɛn W'asɛnnua no;",
+        "Twe me bɛn, twe me bɛn,",
+        "Hyirafo Nyame",
+        "Twe me bɛn Wo mfem mogya n'."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Wura, yi me si hɔ nnɛ ma Wo som,",
+        "Wo dom mu tumi no nti;",
+        "Ma me kra mfa anidaso nhwɛ s'ro,",
+        "Na me pɛ mmem Wo de mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "W'ahengua anim dɔnhwerew biako",
+        "Yɛ anigye kɛse nko,",
+        "B're a mpaebom me ne Wo, me Nyame",
+        "Di nkɔmmɔ sɛ adamfo!"
+      ],
+      "number": 3
+    }
+  ]
+}

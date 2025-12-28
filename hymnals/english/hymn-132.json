@@ -1,0 +1,56 @@
+{
+  "number": 132,
+  "language": "en",
+  "title": "132 Near The Cross.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus, keep near the cross,",
+        "There a precious fountain;",
+        "Free to all, a healing stream,",
+        "Flows from Calvary’s mountain"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "In the Cross, in the cross,",
+        "Be my glory ever;",
+        "Till my rapture’d soul shall find,",
+        "Rest beyond the river."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Near the cross, a trembling soul,",
+        "Love and mercy found me;",
+        "There the bright and Morning Star,",
+        "Sheds its beams around me."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Near the cross! O Lamb of God,",
+        "Bring its scenes before me;",
+        "Help me walk from day to day,",
+        "With its shadows o’er me"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Near the cross I’ll watch and wait,",
+        "Hoping, trusting ever;",
+        "Till I reach the golden strand,",
+        "Just beyond the river."
+      ],
+      "number": 4
+    }
+  ]
+}

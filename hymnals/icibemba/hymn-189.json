@@ -1,0 +1,40 @@
+{
+  "number": 189,
+  "language": "bem",
+  "title": "189 - TATUKWETE NG'ANDA KUNO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NO ABIDING CITY HERE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tatukwete ng'anda kuno,",
+        "Tulefwaye, calo cilya;",
+        "Tatukwete ubulanda,",
+        "Icalo cesu e cilya,",
+        "Icalo cesu e cilya.",
+        "2. Tatukwete ng'anda kuno,",
+        "Calo cesu cileisa;",
+        "Ni Zion, Mfumu ilya,",
+        "Yabengeshima bwino pe,",
+        "Yabengeshima bwino pe",
+        "3. Mwe calo candi cawama.",
+        "Basuma batusha cilya;",
+        "Nga nimgaba na mapindo,",
+        "Ine nkaya no kutusha,",
+        "Ine nkaya no kutusha.",
+        "4. Talala mutima wandi,",
+        "Inshita yakwe isuma;",
+        "Ndecita bufwayo bwake,",
+        "Akampele cifulo 'ko,",
+        "Akampele cifulo 'ko,"
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 141,
+  "language": "sw",
+  "title": "141 - Chini ya Msalaba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Chini ya msalaba, nataka simama,",
+        "Ndio mwamba safarini, wa kivuli chema,",
+        "Ni kweli kwa roho yangu, ni tuo kamili,",
+        "Tatua mzigo wangu, wakati wa hari."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Hapa ni pema sana, ni ngome kamili,",
+        "Hapa yameonekana, mapenzi ya kweli,",
+        "Kama alivyoonyeshwa, Yakobo zamani,",
+        "Msalaba umekuwa, ngazi ya mbinguni."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Na Yesu Msalabani, walimkemea,",
+        "Alikufa niokoke, niliyepotea,",
+        "Naona ajabu sana, ya mambo mawili,",
+        "Jinsi alivyonipenda, nisiyestahili."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Atakayeonana na, Yesu mbinguni,",
+        "Njia yake aanzapo, ni Msalabani;",
+        "Wokovu upo hapa tu, mwingine hapana,",
+        "Kisha kuna furaha kuu, pamoja na Bwana."
+      ]
+    }
+  ]
+}

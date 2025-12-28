@@ -1,0 +1,65 @@
+{
+  "number": 599,
+  "language": "es",
+  "title": "En este bello día",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### En este bello día"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En este bello día",
+        "de gozo, amor y luz,",
+        "cantamos alabanzas",
+        "a nuestro Rey, Jesús."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Cantad, cantad,",
+        "a Cristo dad loor;",
+        "cantad, cantad",
+        "la gloria del Señor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesús amó a los niños",
+        "estando aún aquí,",
+        "y ahora en los cielos",
+        "los ama siempre así."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La historia de su vida",
+        "nos gusta escuchar;",
+        "su amor y mansedumbre",
+        "queremos imitar."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh! Salvador bendito,",
+        "rogamos hoy a ti",
+        "nos guardes del maligno",
+        "en nuestra senda aquí."
+      ],
+      "number": 6
+    }
+  ]
+}

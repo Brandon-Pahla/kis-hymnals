@@ -1,0 +1,47 @@
+{
+  "number": 323,
+  "language": "tw",
+  "title": "Anka Manya Komá a Bɔn' Nnim",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Anka manya komá a bɔn nnim",
+        "Ayi me Nyamč ayɛ!",
+        "Koma a ɛte mogyan' a",
+        "Wuhwie maa me no nka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Hobrɛase ne ɔdwo koma,",
+        "Me Gyefo pa 'hengua;",
+        "Nea Kristo nko na ɔkasa",
+        "Na Odi mu hen' no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Koma a wɔayɛ no fof'ro",
+        "Na s'ro dɔ ahyɛ ma;",
+        "Ͻtene, yɛ kronn ne papa",
+        "Te sɛ Wo de no, 'W'ra."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, ma me Wo su pa no bi",
+        "Fi ɔs'ro bra ntɛm so;",
+        "Ky'rɛw Wo din fof'ro me komam',",
+        "Wo Dɔ din fof'ro no."
+      ],
+      "number": 4
+    }
+  ]
+}

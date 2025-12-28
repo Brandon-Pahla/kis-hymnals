@@ -1,0 +1,54 @@
+{
+  "number": 159,
+  "language": "ve",
+  "title": "159. Ndi A U toda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:221"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi a u toda Mutshidzi, nne ndi bofu ndi muvhi,",
+        "Mpfare nga tshanda tsha vhuthu, Maanda a bva kha Iwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Zwifhinga zwothe Yesu, Ndi a U funa tshothe,",
+        "Nga zwifhinga zwothe, Mutshidzi u mbulunge."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. U nyambadze nga vhulenda, Ndo ambara zwa tshikha,",
+        "Ndi vhone vhushai hanga, ndi humbele-vho Maanda."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Dzhavhelo langa ndi Iwe, nne-vho a thi na tshithu,",
+        "Mpfare nne ndi sa pambuwe, Iwe vhutshilo hanga."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Naho swiswi li tshi dzhena, Dakalo na vhushai,",
+        "nne ndi di-tika nga Iwe, Iwe Mutshidzi wanga."
+      ],
+      "number": 5
+    }
+  ]
+}

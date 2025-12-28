@@ -1,0 +1,57 @@
+{
+  "number": 42,
+  "language": "tum",
+  "title": " 42 Ntha Tamlekanaso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 42 Ntha Tamlekanaso",
+        "WITH FRIENDS ON EARTH"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Tikuwa na wabwezi withu,",
+        "m'charu chithu chino,",
+        "Mwaluwiro tikulekana",
+        "nawo mwa vitima."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ntha tamlekana kuchanya",
+        "ntha tamlekanaso;",
+        "M'charu chira chakutowa,",
+        "ntha tamlekanaso."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Tikuwa na chigomezgo,",
+        "para wanyithu wafwa,",
+        "Kuti pakumara charu ichi,",
+        "tamkuwa nawo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Kulije kulekana,",
+        "m'charu chira cha kuchanya,",
+        "Tamkwimba sumu za chimwemwe,",
+        "kwa muyirayira"
+      ],
+      "number": 4
+    }
+  ]
+}

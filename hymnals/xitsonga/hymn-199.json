@@ -1,0 +1,23 @@
+{
+  "number": 199,
+  "language": "ts",
+  "title": "199. DZUNISANI XIKWEMBU, TATA WA HINA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TO GOD BE THE GLORY",
+        "1. Dzunisani Xikwembu, Tata Wa Hina, Xi Nyike Misava N’wana Wa Xona,",
+        "La Feleke Swidyoho Swa Hikwerhu, A Hi Pfulela Nyangwa Ya Vutomi.",
+        "CHORUS",
+        "Dzunisani, Dzunisan, Hinkwako Misaven, Dzunisan, Dzunisan, Tsakani Matiko, Tanani Ka Hosi, Hi Yesu N’wana,",
+        "Hi Dzunisa Hosi, Mintirhwen Yakwe.",
+        "2. Hi Kutsuriwile Hi Ngati Ya Yesu, Xitshembhiso Ka Lava Pfumelaka,",
+        "U Nga Va Mudyohi, Pfumela Ntsena, Wa Rivaleriwa Nkarhi Wolowo.",
+        "3. U Endle Singita A Hi Dyondzisa,",
+        "I Ntsako Wu Kulu Ka Yesu N’wana, Swi Ta Va Swinene No Hlamarisa, Loko Hi Ta Famba Na Yesu Kaya."
+      ],
+      "number": 1
+    }
+  ]
+}

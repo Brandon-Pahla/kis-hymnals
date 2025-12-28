@@ -1,0 +1,32 @@
+{
+  "number": 205,
+  "language": "bem",
+  "title": "205 - ILYO YESU ALEKWITA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHILE JESUS WHISPERS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. I-lyo Yesu alekwita, I-sa- mubi,",
+        "Tu-le-kupa-pati-la, I -sa- mubi.",
+        "No-mba nshita isu-ma, l-sa- mubi,",
+        "No-mba nshita yakwi-sa, l-sa mubi",
+        "2. U-le-pita cafi-na, l-sa- mubi,",
+        "Ye-su 'kase-nda co-be, l-sa- mubi,",
+        "Ilyo Yes' a-kute-mwa, I -sa- mubi,",
+        "E-u-katu-la i-we, l-sa- mubi",
+        "3. U-mfwa ishi-wi lya-kwe, l-sa- mubi,",
+        "I-so poke mapa-lo, I-sa- mubi",
+        "l-lyo Yesu a-lekwi-ta, I-sa- mubi,",
+        "Tu-le kupa-pati-la, I-sa- mubi."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 626,
+  "language": "tw",
+  "title": "Momma Yɛnto Anigye Dwom Wo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Momma yɛnto anigye dwom wɔ kwan no so,",
+        "Ͻrenkyɛ koraa na yɛadu fie,",
+        "Efisɛ adesae bɛdan daa adekyee;",
+        "Ͻrenkyɛ koraa na yɛadu fie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ͻrenkyɛ koraa, ɛrenkyɛ koraa",
+        "Yebetwa 'sorɔkye no; Yɛbɛsan ahyiam",
+        "B're a 'humtu yi betwam;",
+        "Ͻrenkyɛ koraa na yɛadu fie."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛbɛyɛ 'dwuma biara a yɛn nsa besom',",
+        "Ͻrenkyɛ koraa na yɛadu fie,",
+        "Nyame dom bɛma yɛn ahoɔden fof'ro daa;",
+        "Ͻrenkyɛ koraa na yɛadu fie."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yebesiesie 'kwan ama 'kwantufo brɛfo,",
+        "Ͻrenkyɛ koraa na yɛadu fie;",
+        "Koma a dɔ wom ny'naa mfa dɛw nhyɛ wiase ma!",
+        "Ͻrenkyɛ koraa na yɛadu fie."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Home wɔ aky'ri nohoa, dadwen bi nni hɔ,",
+        "Ͻrenkyɛ koraa na yɛadu fie,",
+        "Obi renkyi nusu saa kuro hyɛhyɛn nom'",
+        "Ͻrenkyɛ koraa na yɛadu fie."
+      ],
+      "number": 4
+    }
+  ]
+}

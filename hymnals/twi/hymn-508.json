@@ -1,0 +1,44 @@
+{
+  "number": 508,
+  "language": "tw",
+  "title": "Me Ne Yesu Bɛkɔ Baabiara",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me ne Yesu bɛkɔ baabiara dwoodwoo,",
+        "Baabiara a Obedi n'anim fam ha;",
+        "'Nigye nni baabi sɛ ɔnka me ho a,",
+        "Yesu ke me ho a minsųro baabiara."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Baabiara! Baabiara! Merensuro da;",
+        "Me ne Yesu bɛkɔ baabiara dwoodwoo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me ne Yesu nam a menyɛ ankonam",
+        "Nnamfo ny'naa dim' huammɔ a, ɔwɔ me ara;",
+        "Sɛ ɔde me fa akwanfo so mpo a,",
+        "Nea Yesu wɔ biara yɛ ayeyi fie."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu ka me ho a metumi ada,",
+        "Sɛ esum kabii nya twa me ho hyia a",
+        "Minim sɛ mɛsɔre a merenkyin bio.",
+        "Nea me ne Yesu wɔ yɛ anigye fie."
+      ],
+      "number": 3
+    }
+  ]
+}

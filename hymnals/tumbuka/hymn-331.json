@@ -1,0 +1,67 @@
+{
+  "number": 331,
+  "language": "tum",
+  "title": " 331 Tumikani Fumu M'mtima",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 331 Tumikani Fumu M'mtima",
+        "Praise The Lord Oh My Soul"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Tamikani Fumu m'mtima wakandifwira pa charu,",
+        "Wakasisita kwananga nakuvwala soni zane."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "WakandiwomboLa ine pakuthiska ndopa zake,",
+        "Timuchindikenge Lyo watiLipirira mLandu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nkhazgewa nadi kutali nakumkana lyo Yesu,",
+        "Kweni sono nkhumwimbira wakandiwombola ine."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Sono nkhusekera nadi pakudodoliska Yesu,",
+        "Wakuzirika na nyifwa kuwombola moyo wane."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Milimo yane njawaka na uweme mtima wane,",
+        "Wali kundizgola ine mrunji nam'weme ndi Yesu."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "Sono namwe zani kuno mwomboli winu ndi Yesu,",
+        "Wakuthaska iwo wose wakumugomezga lyo."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 722,
+  "language": "tw",
+  "title": "N27 Count Your Blessings",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sε ɔbra asorɔkye de wo rekɔ",
+        "Wo bo tu, dwen sε ne nyinaa ayera~a",
+        "Kan wo nhyira pii no, bobɔ din nk'ro nk'ro.",
+        "Na nea Nyame ayε bεyε wo nwanwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kan wo nhyira, bobɔ din nk'ro nk'ro;",
+        "Kan wo nhyira hwε nea Nyame ayε",
+        "Kan wo nhyira pii no, bobɔ din nk'ro nk'ro,",
+        "Kan wo nhyira pii no, hwε nea Nyame ayε."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sε wohwε binom asase ne sika~a",
+        "Kae sε Kristo ahyεw' ahonya ho bɔ;",
+        "Kan wo nhyira pii no, sika ntumi ntε",
+        "Wo soro akatua ne wo s'ro fie no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Enti wo ko no yε kεse~oo, ketewa~oo,",
+        "Mma wo bo nntu, Nyame hwε ne nyinaa so,",
+        "Kan wo nhyira pii no, abɔfo bεhwεw',",
+        "Akyekye wo werε w'akwantu yi mu."
+      ],
+      "number": 3
+    }
+  ]
+}

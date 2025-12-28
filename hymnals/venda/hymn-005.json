@@ -1,0 +1,55 @@
+{
+  "number": 5,
+  "language": "ve",
+  "title": "5 Hayani Hu Tshe Kule?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:439",
+        "AH:414"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Hu tshee kule naa hayani? Ndi vhudzisa Mune wanga,",
+        "A ri ’vhusiku ho fhela, hu da madautsha",
+        "Zwino u songo tsha lila, kondelela ,da ri tuwe,",
+        "Ro swika zwino tshedzani, tshe tshi sa fheliho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nda vhudzisa nduna ya andwa, khei phindulo ya hone,",
+        "\"Ndi do lwa nda kondelela, nga pfumo la tshedza;",
+        "Zwino u songo tsha lila, I ya hone nga vhulenda,",
+        "Mukovhe u do u wana, musi wo no kunda.’"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndo sedzisa kha zwifhinga, zwi sumba uri ri tsini",
+        "\"Na u vhuya ha Murena, hu do fhela shango;",
+        "Zwino u songo tsha lila, dzitsumbedzo dzi ya anda,",
+        "Dzi ri vhudza uri Yesu, u tsini-tsini ha.\""
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Hayani a hu tshe kule, ndi muhumbulo wavhudi",
+        "\"Mutshimbili kondelela, fhumula zwililo;",
+        "Zwino u songo tsha lila, ngauri ri do tangana,",
+        "Dzitshengelo dzo no fhela, hayani tadulu.’"
+      ],
+      "number": 5
+    }
+  ]
+}

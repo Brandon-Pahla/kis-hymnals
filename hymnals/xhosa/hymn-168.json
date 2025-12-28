@@ -1,0 +1,39 @@
+{
+  "number": 168,
+  "language": "xh",
+  "title": "168 U-Yehova Ngu-Malusi Wam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U-Yehova nguye u-Malusi wam, Ndidla emarhiweni aluhlaza,",
+        "Yen’ uyawuseza umphefumlo wam, Undibuyisela kuye ngenceba."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Naxa ndihamb’ ethunzini lokufa, Wena undigcina andoyiki nto;",
+        "Iya ndikhusela intonga yaKho, Ndinom-Thuthuzeli andoyiki ngoz’."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Undowabisa ndise mbandezelwen’, Indebe yam iphuphuma uvuyo;",
+        "Uyithambisa nge-ol’ intloko yam; O, ndingaba ndisaswele ntonina?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thixo wam, inceba nesisa zaKho, Mazindikhaphele phezulu kuwe;",
+        "Ndihambe nam ngendlela yabadala, Ndisinge kobo bukumkani baKho."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "number": 430,
+  "language": "es",
+  "title": "Solo no estoy",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Solo no estoy"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Solo no estoy, pues Cristo me",
+        "acompaña",
+        "por todas partes donde quiera voy.",
+        "Mi corazón se alegra con su gracia;",
+        "a cuantos quieran él les da su amor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Solo no estoy, Jesús está a mi lado;",
+        "en él hallé amigo sin igual.",
+        "De tal amigo apoyo y guía tengo;",
+        "solo no estoy, Jesús conmigo está."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Solo no estoy, incluso en la",
+        "tormenta,",
+        "cuando me acosan vientos de",
+        "aflicción.",
+        "Seguro estoy pues sé que va",
+        "conmigo",
+        "y en sus brazos él me llevará."
+      ],
+      "number": 4
+    }
+  ]
+}

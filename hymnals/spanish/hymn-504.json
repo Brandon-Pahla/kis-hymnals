@@ -1,0 +1,64 @@
+{
+  "number": 504,
+  "language": "es",
+  "title": "Señor de todos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Señor de todos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Señor de todos, dame amor",
+        "por gentes de cualquier nación;",
+        "y que en todos pueda ver",
+        "a un hermano en ti, Señor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Derriba el muro divisor",
+        "entre tus hijos, mi Señor;",
+        "que a mi vecino pueda ayudar",
+        "y que nos una tu amor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Perdóname si acaso erré",
+        "con acto vil o insensatez;",
+        "comprenda yo que cada traspié",
+        "te crucifica otra vez."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hazme valiente para hablar",
+        "y defender del opresor;",
+        "y si yo mismo víctima soy,",
+        "ayúdame a perdonar."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lléname con tu pleno amor,",
+        "colme tu Espíritu mi ser.",
+        "Que en cuanto toque con mi labor,",
+        "tu toque el mundo pueda ver."
+      ],
+      "number": 6
+    }
+  ]
+}

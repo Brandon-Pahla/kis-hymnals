@@ -1,0 +1,62 @@
+{
+  "number": 68,
+  "language": "ve",
+  "title": "68 Ndo Vhofhololwa Nga Malofha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:338",
+        "AH:195"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndo vhofhololwa nga malofha, ndo vhofhololwa nga Yesu,",
+        "Ndo vhofhololwa nga tshilidzi, ndi khae nga hu sa fheli."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tshidzwa, Tshidzwa, tshidzwa nga Yesu Murena,",
+        "Tshidzwa... tshidzwa, Ndi wawe nga hu sa fheli."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. nne nga malofha ndo tanzwiwa, Hu na dakalo kha nne-vho,",
+        "Tshila tshedza tshawe tshi kha nne, Ngauri ndo wanwa ngae"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nda humbula Mutshidzi wanga, Nda mu elelwa nga misi,",
+        "Nda imbelela thi fhumuli, Nda renda lufuno lwawe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndi do mu vhona kha vhuhosi, Khosi I ri takadzaho,",
+        "Lufuno lwawe lu a ndinda, Lu’nea tshedza swiswini"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Khare yanga yo no ndindela, ngei haya ha tadulu,",
+        "Tsini na vhakhethwa vhawe-vho, Ndi do vha nae tadulu."
+      ],
+      "number": 6
+    }
+  ]
+}

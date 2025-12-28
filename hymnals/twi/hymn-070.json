@@ -1,0 +1,37 @@
+{
+  "number": 70,
+  "language": "tw",
+  "title": "Yi Agya N' Ayɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yi Agya n' ayɛ, Ne dɔ ayamye nti,",
+        "ɔde tema hwɛ Ne mma bɔn'yɛfo so,",
+        "Abɔfo, munyi No ayɛ wɔ soro;",
+        "Yi Yehowá ayɛ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yi 'Gyenkwa ayɛ, N'ahummɔborɔ so,",
+        "ɔde dom hwɛ Ne mma a Wapaw wɔn so.",
+        "Mm'rante, mmabaawa, mo mpanin ne mmofra,",
+        "Yi 'Gyenkwa ayɛ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yi Honhom n'ayɛ, Israel Kyigy'nafo no",
+        "Nea wɔde No mae sɛ ɔmmɛhy'ra yɛn no,",
+        "Yi Agya, ɔba, Honhom Kronkron n'ayɛ.",
+        "Yi Baasa n'ayɛ."
+      ],
+      "number": 3
+    }
+  ]
+}

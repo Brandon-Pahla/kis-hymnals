@@ -1,0 +1,47 @@
+{
+  "number": 397,
+  "language": "tw",
+  "title": "A Bans'ro Na Yɛn Wura Siesie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Abans'ro na yɛn Wura siesie",
+        "Maa N'adɔfo kosi awiei;",
+        "N'asuafo da so hyia hɔ de kae",
+        "Wɔn 'Damfo a Wasɔre no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Adidi n' akyi no ɔhoho'roo",
+        "Wɔn nan ho sɛ 'som kronkronne;",
+        "Yɛn 'nigye wie pɛyɛ wɔ Ne mu",
+        "Sɛ yɛnkɔsom sɛ ɔyɛe no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu de 'kyɛde maa Ne de sɛ",
+        "Wɔnkyɛ Ne honam ne mogya;",
+        "Nnesoa biará a ɛbrɛ yɛn asen'",
+        "ɔnam 'sɛnnuan' so ma yɛn so."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻnso hɔ ara; yɛtetem' 'somdwoem',",
+        "ɔdɔ yɛn ma no boro so;",
+        "Dan biará a ɛwɔ y'Agya fie no,",
+        "ɔbɛtra hɔ sɛ Ofiew'ra."
+      ],
+      "number": 4
+    }
+  ]
+}

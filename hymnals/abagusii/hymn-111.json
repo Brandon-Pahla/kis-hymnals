@@ -1,0 +1,42 @@
+{
+  "number": 111,
+  "language": "guz",
+  "title": "111 Twagosabire Chinguru",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Twagosabire chinguru,Chiria chiare riria kareChiagerete bakerua pi,Bakabua emechando."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ng'ai Omoika oria ore,'Koret' Abramu oyoo?'Kanyete Paul' enkoro,'Kaba na nguru chia Igoro."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Omoik' oria orandetie,'Bwanchani chinchera chiao'Karabi' amarik' a Isaya,N'amatera a Daudi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Buya bwao mbori nguru,'Bun' ekero kia ElijaMus' akaror' obonene,Ayub' akaremereria?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Inyor' amatuko aria,Keror' emeremo yaoGatwakoeire chinkoro,Toiterere omoik' oo."
+      ],
+      "number": 5
+    }
+  ]
+}

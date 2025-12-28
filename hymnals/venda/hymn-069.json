@@ -1,0 +1,46 @@
+{
+  "number": 69,
+  "language": "ve",
+  "title": "69 Ri do Awela Madini A Vhutshilo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ri do awela madini, a bvaho tshisimani,",
+        "Afho Yesu o lindela, ri do mu vhona hone."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ri do awela mulamboni, ri do mu vhona henefho,",
+        "Ri awela mulamboni, madini a vhutshilo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ro no neta nga u tshimbila, ri do di awela,",
+        "Hu na muungo wa madi, ri do tamba henefho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Idani kha Ene Yesu, a no do ni fha Maanda,",
+        "Ndi Ene madi a vhutshilo, inwa u pfeledze."
+      ],
+      "number": 4
+    }
+  ]
+}

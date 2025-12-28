@@ -1,0 +1,32 @@
+{
+  "number": 187,
+  "language": "bem",
+  "title": "187 - ULWIMBO LWESU ULWAKULEKANA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "OUR PARTING HYMN"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mu-pusushi wesu, tuleimba,",
+        "Ulwimbo ulu lwakulekana;",
+        "I’ule fwaisha kupalwa nemwe,",
+        "Shiwi lya mutende tupeleni.",
+        "2. Tupenyu mutende lyo tuleya,",
+        "Lyo twashibuka 'lyo twasendama;",
+        "Milomo yesu isoso bubi,",
+        "IIyo tuli mu ng'anda yenwi yi.",
+        "3. Tusungeni lyo tuli pa calo,",
+        "Muma cusho na mumesho yonse;",
+        "Ilya macusho yonse yakapwa!",
+        "Mfumu twiteni twise tutushe."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 110,
+  "language": "ve",
+  "title": "110. Mashudu Vha Itaho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ipfa maipfi a Mutshidzi, Ndi maipfi a vhutshilo.",
+        "Ipfa, U humbule zwe Yesu a ri: ’Mashudu kha vha no zwi ita"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mashudu vhothe vha thetshelesaho milayo ya Mudzimu.",
+        "Mashudu ndi a vhane vha pfa milayo yawe, shudu nandi!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. U pfa milayo na mafulufhedziso ndi mahandana,",
+        "Arali ri sa zwi tevheli zwothe, ’Mashudu kha vha no zwi ita.’"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nga dakalo vha do dzheniswa mudini wa mulalovho,",
+        "Vha do dzula vhe vhakhethwa vha bvumo, vha la mitshelo ya vhutshilo."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "number": 592,
+  "language": "es",
+  "title": "Si Dios está, ¡feliz hogar!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Si Dios está, ¡feliz hogar!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si Dios está, ¡feliz hogar!",
+        "Su gran amor nos da.",
+        "Un solo anhelo allí habrá:",
+        "la dicha celestial."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si Cristo está, ¡feliz hogar!",
+        "Los niños cantarán",
+        "y los adultos hablarán",
+        "del Nombre sin igual."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pido, Señor, tu bendición",
+        "sobre mi humilde hogar,",
+        "para que reine tu amor",
+        "hasta la eternidad."
+      ],
+      "number": 4
+    }
+  ]
+}

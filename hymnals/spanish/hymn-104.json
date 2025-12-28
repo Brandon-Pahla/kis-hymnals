@@ -1,0 +1,51 @@
+{
+  "number": 104,
+  "language": "es",
+  "title": "La tumba le encerró",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### La tumba le encerró"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La tumba le encerró. ¡Cristo bendito!",
+        "El alba allí esperó Cristo el Señor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Cristo la tumba venció;",
+        "y con gran poder resucitó;",
+        "ha vencido a la muerte y el dolor;",
+        "vive para siempre nuestro Salvador.",
+        "¡Gloria a Dios! ¡Gloria a Dios!",
+        "El Señor resucitó."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De guardas escapó. ¡Cristo bendito!",
+        "El sello destruyó Cristo el Señor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La muerte dominó. ¡Cristo bendito!",
+        "Y su poder venció Cristo el Señor."
+      ],
+      "number": 5
+    }
+  ]
+}

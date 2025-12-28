@@ -1,0 +1,31 @@
+{
+  "number": 2,
+  "language": "bem",
+  "title": "2 - IMFUMU ILI FYE MUPEPI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE COMING KING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mfumu ili fye mupepi, Asendele bubi bwesu;",
+        "Nomba abantu basuma Akesa kusenda.",
+        "CHORUS:",
+        "Mupepi ... mupepi ... mupepi 'ye nomba mupepi",
+        "Akesa, akesa ili nomba mupepi.",
+        "2. Malangililo yatweba Yesu nomba ‘li mupepi;",
+        "Bwangu tukamona fyonse Fya cilambu cesu.",
+        "3. Mwitontonkanya fyabipa Fikaleka muno calo;",
+        "Katula wesu akesa 'Konaula fyonse.",
+        "4. Elyo mu calo icipya Tukekala inshiku pe,",
+        "Pantu Lesa 'katupela Mweo wa pe na pe."
+      ],
+      "number": 2
+    }
+  ]
+}

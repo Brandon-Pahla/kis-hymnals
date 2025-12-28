@@ -1,0 +1,22 @@
+{
+  "number": 51,
+  "language": "ts",
+  "title": "51. HI KHUVULE HI VUNTSHWA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BAPTIZE US ANEW",
+        "1. Hi Khuvulw Hi Vuntshwa Namuntlha, Hi Pfuxelele Hi Ntamu Wa Nsovo.",
+        "CHORUS",
+        "Ha Ku Kombela Wena Hosi Yesu, Hi Moya Na Ro Rirhandzu Hi Khuvule.",
+        "2. Hi Tele Swivi Hi Rila Ntsena,",
+        "Hi Hlantswe U Hi Basisa Swidyohwen.",
+        "3. Xika Ka Hina Moya Wa Tilo, Minkateko Ya Wena A Yi Xike.",
+        "4. Twanani Rito Ro Huma Tilwen, ‘U Murhandziwa La Ndzi Tsakisaka’",
+        "Ha Ku Dzunisa We U Hi Feleke, Hi Khinsamela Wena Amen Ka Hosi."
+      ],
+      "number": 1
+    }
+  ]
+}

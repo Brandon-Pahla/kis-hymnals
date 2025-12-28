@@ -1,0 +1,29 @@
+{
+  "number": 127,
+  "language": "bem",
+  "title": "127 - ALINTEMWA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HE LOVES ME TOO"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Lesa amona ifyuni, Ena ‘lafitemwa;",
+        "Nga alitemwa ifyuni, Alintemwa ine.",
+        "CHORUS:",
+        "Alintemwa Alintemwa, Alintemwa ine:",
+        "Pantu alitemwa fyonse, Alintemwa ine.",
+        "2. Lesa abyala maluba, Ilyena Lisuma;",
+        "Nga alitemwa tuluba, Alintemwa ine.",
+        "3. Lesa apangile ifyuni, Fintu fyonse kuno;",
+        "Takalabe kana kakwe, Alitemwa bonse."
+      ],
+      "number": 2
+    }
+  ]
+}

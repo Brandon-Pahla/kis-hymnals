@@ -1,0 +1,35 @@
+{
+  "number": 5,
+  "language": "luo",
+  "title": "5 To Pakuru Ruoth",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. To pakuru Ruoth me polo malo;Weruru maber: ohero adier;En lwanda mageno, Makonyo duto;Mosiko mochwere, mipako chutho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. To paruru piny, en hono maduong`,Gi nam, kodi yien, gi gode kod lum;Wawuoro ngang` rieko maloso kama;wapako Nyasachwa manyisowa ma."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Gik moko me piny onyisowa ma,Nyasachwa oduong`, oler adiera;Oherowa duto gotieno gokinyi;Omiyowa ngima, orito mang`won."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Jo malaika gipako mamor,Jatelo maduong` mohero jopiny;To wan jo mireso wadende maber,Wapaki adiera kama nyaka chieng`."
+      ],
+      "number": 4
+    }
+  ]
+}

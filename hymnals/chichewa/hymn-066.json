@@ -1,0 +1,54 @@
+{
+  "number": 66,
+  "language": "ny",
+  "title": "66 - Poyambapo Ndakondwadi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O HAPPY DAY!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Poyambapo ndakondwadi, Ntapeza Inu Mbuyetu,",
+        "Ndiyimba nyimbo yomweyi, Kukondwa sindikhala du."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kalelo! Kalelo! Wandisambitsa mmtimamo;",
+        "Wandiweruza lomwelo, Kupemba ndi kukondwako.",
+        "Kalelo! Kalelo! Wandisambitsa mmtimamo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndamuza ndimakhalatu Ku nyumba kwake komweko;",
+        "Mnyamata wake ndinetu, Ndampatsa Mtima wonsewo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Omwewo mapanganowo, Sitilekana ifetu.",
+        "Ndamvera ine mauwo, Wandiloleza m’mtimamo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndampatsa mtima wonsewo, Kupuma mwa Ambuyeyo:",
+        "Ndikhala, osamlekai, Kuthawa ndi kumsiya ’Ye."
+      ],
+      "number": 5
+    }
+  ]
+}

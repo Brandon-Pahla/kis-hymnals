@@ -1,0 +1,57 @@
+{
+  "number": 74,
+  "language": "nso",
+  "title": " 74 RE RWELE DINGATA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 74 RE RWELE DINGATA",
+        "AH 363 CH 621",
+        "SOWING IN THE MORNING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re bjala ka mehla, Peu ya go loka,",
+        "Mosong, mosegare, le mantšiboa,",
+        "Šetše re emetše, Nako ya go buna,",
+        "Re tlo thaba ge re wele dingata;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Re rwele ngata, Re rwele ngata,",
+        "Re tlo thaba ge re rwele dingata,",
+        "Re rwele ngata, re rwele ngata,",
+        "Re tlo thaba ge re rwele dingata;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re bjala letšatšing, Re bjala moriting,",
+        "Ga re tšhabe le phoka, ya marega,",
+        "Šetše re tlo fetša, Modiro wa rena,",
+        "Re tlo thaba ge re wele dingata;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re bjalela Morena, Le ka megokgo,",
+        "Le ge ka dinako, Re mahlomoleng,",
+        "Ge dillo difedile, Re tlo mmona,",
+        "Re tlo thaba ge re rwele dingata;"
+      ],
+      "number": 5
+    }
+  ]
+}

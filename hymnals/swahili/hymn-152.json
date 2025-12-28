@@ -1,0 +1,57 @@
+{
+  "number": 152,
+  "language": "sw",
+  "title": "152 - Karibu na Wewe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Karibu na wewe, Mungu wangu,",
+        "Karibu zaidi, Bwana wangu,",
+        "Siku zote niwe, karibu na wewe,",
+        "Karibu zaidi, Mungu wangu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Mimi nasafiri, duniani,",
+        "Pa kupumzika, sipaoni,",
+        "Nilalapo niwe, karibu na wewe,",
+        "Karibu zaidi, Mungu wangu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Yote unipayo, yanivuta,",
+        "Pa kukaribia nitapata,",
+        "Na nielekezwe, karibu na wewe,",
+        "Karibu zaidi, Mungu wangu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Na kwa nguvu, zangu nikusifu,",
+        "Mwamba uwe, maji ya wokovu,",
+        "Mashakani niwe, karibu na wewe,",
+        "Karibu zaidi, Mungu wangu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "Na nyumbani juu, Baba yangu,",
+        "Nikinyakuliwa, toka huko,",
+        "Kwa furaha niwe, pamoja na wewe,",
+        "Karibu zaidi, Mungu wangu."
+      ]
+    }
+  ]
+}

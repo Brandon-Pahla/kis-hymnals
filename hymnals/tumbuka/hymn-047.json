@@ -1,0 +1,68 @@
+{
+  "number": 47,
+  "language": "tum",
+  "title": " 47 Ndamirira Pa Yordano",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 47 Ndamirira Pa Yordano",
+        "ON JORDAN'S STORMY BANKS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ndamirira pa Yordano",
+        "Na kulawisiska,",
+        "Ku Kenani wakutowa",
+        "uko ndamkukhala."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tamkupumula m'charu chiweme (chiweme)",
+        "Para tambukira kusirya,",
+        "Tamkwimba sumu ya Mozesi,",
+        "Na kukhala na Yesu m'yirayira."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "M'madambo ghasani kura,",
+        "ungweru ngwandanda,",
+        "Khristu ndiyo wakuwusa,",
+        "kuchimbizga mdima."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Ndamkufikako pa uli,",
+        "nkhatumbikike swi,",
+        "Na kuwonaso Wadada,",
+        "nkhapumule kura?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Umoyo wane wamkondwa",
+        "kufumamo m'charu,",
+        "Nanga mayigha ghapome",
+        "ntha ndopenge kanthu."
+      ],
+      "number": 5
+    }
+  ]
+}

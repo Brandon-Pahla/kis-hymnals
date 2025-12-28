@@ -1,0 +1,49 @@
+{
+  "number": 88,
+  "language": "tw",
+  "title": "Mɛto Nyame Tumi Ho Dwom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mɛto Nyame tumi ho dwom,",
+        "Nea Ama mmepɔ pue,",
+        "Nea ɔde po kɛse trɛw hɔ",
+        "Na ɔyɛɛ soro no;",
+        "Mɛto nyansá a ɛma owia",
+        "Di 'dekyee so n' ho dwom;",
+        "W'ahyɛde ma ɔsram hyerɛn,",
+        "Na ns'romma nyinaa tie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mɛto 'W'rade yieyɛ ho dwom,",
+        "Nea ɔmaa 'sasč aduan;",
+        "ɔde N'asɛm ná ɛbɔɔ ade,",
+        "Na ɔkaa sɛ ɛyɛ.",
+        "W'ra, sɛnea W'anwanwade te",
+        "Nea m'ani ky'rɛ biara!",
+        "Sɛ mehwɛ 'sasč a menam so",
+        "Anaasɛ ntremu no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fam ha dua anaa nhw'ren biara",
+        "Yi W'anuonyam kyerɛ;",
+        "Mununkum ne as'rɔkye nam",
+        "W'ahyɛde so sɔre.",
+        "Abɔde a wɔn nkwa fi Wo",
+        "Nya banbɔ fi Wo nsam;",
+        "Nea yebeguan akɔ biara,",
+        "Onyankopɔn wɔ hɔ."
+      ],
+      "number": 3
+    }
+  ]
+}

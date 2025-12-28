@@ -1,0 +1,43 @@
+{
+  "number": 300,
+  "language": "tw",
+  "title": "Tete Bo a Medan Wo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tete Bo a medan Wo,",
+        "Ma mimmehinta Wo mu;",
+        "Ma nsu no ne mogya a,",
+        "Efii W'ak'rum senee no,",
+        "Nɔsa me bɔne nyinaa,",
+        "Na gye me fi ne tumim'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me nsa ano adwuma",
+        "Rentumi nyɛ W'ahyɛde;",
+        "Sɛ me mmɔden ano ngow,",
+        "Na me nusu sen dɛn a,",
+        "Ͻrenso bɔne ka tua,",
+        "Wo nkutoo na Wogye nkwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ m'akwantu yi to twa,",
+        "Na midi tamfo so nim,",
+        "Na mef'ro ba ɔsoro,",
+        "Behu Wo W'ahengua sō a,",
+        "Tete bo a medan Wo,",
+        "Ma mimmehinta Wo mu."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "number": 280,
+  "language": "ts",
+  "title": "280. TINSIMU TO NANDZIHA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "OUR KING",
+        "1. Tinsimu To Nandziha, Hi Siku Ra Ntsako;",
+        "To Dzuna Mukutsuri, Vutomi Ni Ndlela.",
+        "CHORUS",
+        "Yimban. . . .Risim. . . .Ra Muponisi (Yesu)",
+        "Khensan. . . .Nsovo. . . .Wa Yena Hosi.",
+        "2. U Tile Misaveni, U Rhandzile Vana;",
+        "Sweswi U Le Tilweni, Wa Ha Va Rhandzile.",
+        "3. Hi Rhandza Ku Dzunisa, Ku Yingisa Hungu;",
+        "Ra Le Egaleliya, Ra Ye Muhanyisi.",
+        "4. Khensani, Muponisi, Khinsamelan Yena;",
+        "Leswaku A Hi Pfuna, Ku Hanyeka Yena."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 297,
+  "language": "fr",
+  "title": "L'immense grâce...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "L'immense grâce de Jésus,",
+        "Sublime don de Dieu,",
+        "M'a retrouvé, pécheur perdu,",
+        "J'étais si malheureux."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "C'est par sa grâce que mon cœur",
+        "Connaît enfin la paix;",
+        "Ô jour béni, quand le Seigneur",
+        "Paya tous mes forfaits."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Combien de pièges, de dangers,",
+        "Ralentissent mes pas,",
+        "Mais, dans sa grâce; il vient m'aider,",
+        "Il me prend dans ses bras."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 136,
+  "language": "sn",
+  "title": "136 Ndotondera Kalvari",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndomutewera kweseko",
+        "Ndadzidza kumusimbira",
+        "Ndotondera kundifira",
+        "Pam’chinjiko we Kalvari"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu anditungamira, M’rwendo rwese",
+        "Nguva dzese, Ari shamwari yeidi",
+        "Ndinotondera Kalvari"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndofarira m’temo wake",
+        "Ndoda anditungamire",
+        "Rudo rwake rwakanaka",
+        "Rwayerera paKalvari"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinofamba ndisingatyi",
+        "Ndofara naKristu petyo",
+        "Ndosimbira ndichaona",
+        "Shamwari ye paKalvari"
+      ],
+      "number": 4
+    }
+  ]
+}

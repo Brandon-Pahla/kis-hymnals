@@ -1,0 +1,60 @@
+{
+  "number": 73,
+  "language": "tw",
+  "title": "Kronkron, Kronkron, Kronkron",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kronkron, kronkron, kronkron,",
+        "Onyame Tumfo,",
+        "Anɔpahema mu",
+        "Wobɛte yɛn nne daa;",
+        "Kronkron, kronkron, kronkron,",
+        "ɔdomfo ne Tumfo,",
+        "Nyame Baasak'ro a wɔahyira Wo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kronkron, kronkron, kronkron,",
+        "Abɔfo som Wo,",
+        "Wɔde wɔn ahenkyɛw",
+        "gu ahwehwɛ po ho;",
+        "Mɔpempem ne pedu",
+        "som Wo wɔ ase ha;",
+        "Wo a Wowɔɔ hɔ na Wowɔ hɔ daa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kronkron, kronkron, kronkron,",
+        "Sɛ sum de Wo sie,",
+        "Na bɔn'yɛfo ani nhu",
+        "W'anuonyam no a,",
+        "Wo nkutoo ne Kronkron,",
+        "Na obi nka Wo ho,",
+        "Woyɛ pɛ wɔ dɔ,",
+        "tum' ne 'hotew mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kronkron, kronkron, kronkron,",
+        "Onyame Tumfo,",
+        "Wo nnwuma beyi",
+        "Wo din ayɛ fam ne s'ro",
+        "Kronkron, kronkron, kronkron,",
+        "ɔdomfo ne Tumfo",
+        "Nyame Baasak'ro a wɔahyira Wo."
+      ],
+      "number": 4
+    }
+  ]
+}

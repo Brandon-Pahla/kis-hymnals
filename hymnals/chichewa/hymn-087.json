@@ -1,0 +1,51 @@
+{
+  "number": 87,
+  "language": "ny",
+  "title": "87 - Tate Tikudza Kwa Inu.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "FATHER, WE COME TO THEE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tate tikudzatu, Kwa inu, Mbuyathu,",
+        "Ngaka yolimbayo, Tipempha ’fe;",
+        "Dziko ndi la mdima Mmene mulibe ’Nu,",
+        "Mtisangalatse ’fe, Tate wathu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tate tibweratu kwa Inuko,",
+        "’Mvani popempha ’fe, Tate wathu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mtipulumutse ’fe Kwa mdani wathuyo,",
+        "Mutithangate ’fe Mu vutoli;",
+        "Ndife ofo’katu, Limbikitsani ’fe,",
+        "Ndi mphamvu yanuyo, Tate wathu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tipempha nsisizo Kuti tikhaletu",
+        "Mu njira yanuyo, Tate wathu.",
+        "Mtsitsogolere ’fe Mpaka mudzabwera,",
+        "Ndipo tidzapuma kwa inuko."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "number": 628,
+  "language": "tw",
+  "title": "Yakob Akwantu Mu Da K'ro Bi B're a",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yakob akwantu mu da k'ro bi b're a",
+        "ɔde 'bo yɛɛ sumii daa so 'nadwo no,",
+        "Ohuu atw're tenten bi adehu mu,",
+        "Sɛ ne nan si fam na ne ti wɔ ewim."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Haleluya nka Yesu a Owuu duan' so,",
+        "Sɛ Wama mmɔb'rɔhun 'atwer' so ama me;",
+        "Sɛ Wama mmɔb'rɔhun 'atwer' so ama me;"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mo a mopɛ nyinaa, mommra mma yɛmf'ro,",
+        "Na Yakob abɔfo da so bɔ ho ban;",
+        "Monkae sɛ gyidim' 'nammɔn biarā a yetu n',",
+        "Odiyifo bi adi kan afa so."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ yɛdu homebea hɔ a yɛbɛte",
+        "'Nigyesɛm sɛ, \\\"mommra ha, mō a wɔahy'ra mo,",
+        "Hann nsase ni, na 'nigye afie nso ni,\\\"",
+        "O, hena remf'ro atwer' a ɛte sɛɛ?"
+      ],
+      "number": 3
+    }
+  ]
+}

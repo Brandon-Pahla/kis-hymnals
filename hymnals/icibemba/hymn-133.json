@@ -1,0 +1,29 @@
+{
+  "number": 133,
+  "language": "bem",
+  "title": "133 - MUNSUMINISHE NYENDE NEMWE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O LET ME WALK"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Munsuminishe nyende nemwe, Pamo nga Enoki wakale.",
+        "Njikate ku maboko yenu, Mu nsuminishe nande nemwe,",
+        "Nangwi nshila nshileimona, Katula 'ne nyende nemwe.",
+        "2. Teti njesho kwenda neka, Makumbi yafisha kumulu,",
+        "Masanso nayo yafula, Ama cusho, nayo bwingi,",
+        "Cimana naco capunga, Shikulu 'ne nyende nemwe.",
+        "3. Mbike amaboko palimwe Ndekakulwa ndesekela,",
+        "Inkoseshe namu nshila, Pakusenda ulupanda,",
+        "Ku Zion nsuke mfike katula 'ne nyende nemwe."
+      ],
+      "number": 2
+    }
+  ]
+}

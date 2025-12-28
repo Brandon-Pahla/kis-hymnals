@@ -1,0 +1,56 @@
+{
+  "number": 595,
+  "language": "tw",
+  "title": "Momma Kanea Biara Nhyerɛn",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Momma kanea biara nhyerɛn,",
+        "'Sum kabii dɔn no rebɛn'",
+        "Wiase 'nadwo sum kabii a",
+        "Edi 'W'ra no mmae n'anim."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ͻnde, me nuanom, munsiesie",
+        "Mo akanea nyamesurom';",
+        "Owura no mmae no rebɛn,",
+        "Momma kanea biāra nhy'rɛn."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mpempem kɔ so totɔ nko na",
+        "Wɔpow nkrasɛm kɛsen' de;",
+        "Yɛde yɛn gyidi no besi",
+        "Ne mmae ho bɔhyɛ no so."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "N'asɛm ne nokwar', ky'rɛ yɛn kwan,",
+        "Yɛrentumi mfom kwan da;",
+        "Mmusu twa yɛn ho hyia mpo a",
+        "Yɛn de, wɔrennyaw yɛn da."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Momfa nnwuma pa mfra gyidi,",
+        "Mfa mmoa wiasefo nyinaa;",
+        "B're a gyidi kyeky're yɛn no,",
+        "Setie de nhyira pii ba."
+      ],
+      "number": 4
+    }
+  ]
+}

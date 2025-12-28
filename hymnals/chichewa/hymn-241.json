@@ -1,0 +1,31 @@
+{
+  "number": 241,
+  "language": "ny",
+  "title": "241 - Dziko Labwino",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BEULAH LAND"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Ndapeza dziko lokoma, Ndi zinthu zonse ndi zanga;",
+        "Zokometsetsa konseko, Usiku wandicokera.",
+        "CHORUS:",
+        "O, dzikolo, lokomalo, Pa phiri lokometsalo,",
+        "Ndipenyetsetsa ku Nyanja, Manyumba andikonzera,",
+        "Ndiyang’anitsa dzikolo, Komwe ndidzakhalitsako.",
+        "2. Ndiyenda ndi Mpulumutsi, Andikondwera m’njiramo;",
+        "Anditsogolera bwino, Kumwamba ndikafikeko.",
+        "3. Mphepo zinunkhira bwino, Za mitengo ya dzikolo,",
+        "Maluwa nao safota, Mitsinje simaumako.",
+        "4. Mphepo za kumadzulozo, Ndi nyimbo kumwambako,",
+        "Angelo onyezimira Ayimba za mphamvu zace."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "number": 175,
+  "language": "ve",
+  "title": "175. Mutshidzi A Fanaho Na Mulisa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:545",
+        "AH:294"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ri a funa u ri a vhe Mulisa washu",
+        "Ri ise pfuloni yavhudi, ri fhatele danga;",
+        "Yesu washu, Yesu washu, Wo ri renga ngangoho",
+        "Yesu washu, Yesu washu, Wo ri renga ngangoho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ri vhau khonani yashu Ri vhulunge ndilani;",
+        "Ri tsireledze zwivhini, Ri tode ri tshi xela.",
+        "Yesu washu, Yesu washu, Ipfa thabelo dzashu,",
+        "Yesu washu, Yesu washu, Ipfa thabelo dzashu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Wo ri u do ri tanganedza, rine ri zwisiwana;",
+        "U ri vhofholola nga tshilidzi na khathuthelo,",
+        "Yesu washu, Yesu washu, Ri a da-vho kha Iwe",
+        "Yesu washu, Yesu washu, Ri a da-vho kha Iwe."
+      ],
+      "number": 4
+    }
+  ]
+}

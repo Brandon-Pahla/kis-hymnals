@@ -1,0 +1,47 @@
+{
+  "number": 62,
+  "language": "en",
+  "title": "62 My Jesus I Love Thee",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "My Jesus, I love thee, I know thou art mine;",
+        "For thee all the follies of sin I resign;",
+        "My gracious Redeemer, my Saviour art thou,",
+        "If ever I loved thee, my Jesus ‘tis now."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I love thee because thou hast first loved me;",
+        "And purchased my pardon on Calvary’s tree;",
+        "I Love thee for wearing the thorns on thy brow;",
+        "If ever I loved thee, my Jesus, ‘tis now."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I’ll love thee in life, and I’ll love thee in death;",
+        "I’ll praise thee as long as thou lendest me breath;",
+        "And say when the death-dew lies cold on my bro",
+        "If ever I loved thee, my Jesus ‘tis now."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "In mansions of glory and endless delight;",
+        "I’ll ever adore thee in heaven so bright;",
+        "And sing with the glittering crown on my brow;",
+        "If ever I loved thee, my Jesus ‘tis now."
+      ],
+      "number": 4
+    }
+  ]
+}

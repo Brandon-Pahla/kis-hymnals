@@ -1,0 +1,38 @@
+{
+  "number": 151,
+  "language": "xh",
+  "title": "151 Zobakho-na Inkwenkwezi?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Namhlanje ndicinga ngelo lizwe lihle, Ndoba kul’ ukutshona kwalo;",
+        "Ndize ndime ngakuye um-Sindisi wam, Isithsaba sam sokhazimla?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kodwa son’ isitsaba sam sokhazimla, Xa ilanga liya kutshona?",
+        "Ndakuvuka kwaKhon’ ekugqibeleni, Sokhanya-na isithsaba sam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndithi ndisebenza ndibe ndithandaza, Ndibambisa imiphefumlo,",
+        "Ukuz’ isithsaba sam sibengezele, Ngexa lokumdumisa Yena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndakuvuya ndakubon’ ubuso bakhe, Ndakumnika isivuno sam;",
+        "Kuza kuyole xa ndikumzi wovuyo, Sikazimla isithsaba sam."
+      ],
+      "number": 3
+    }
+  ]
+}

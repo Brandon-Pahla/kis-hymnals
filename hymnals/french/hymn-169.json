@@ -1,0 +1,67 @@
+{
+  "number": 169,
+  "language": "fr",
+  "title": "Loué sois-tu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Loué sois-tu pour ta lumière,",
+        "Tout son éclat vient de ton nom.",
+        "Tu nous arraches des ténèbres",
+        "Par la richesse du pardon."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "La paix nous vient des mains du Fils.",
+        "Attachés à la croix du Christ,",
+        "Dans sa promesse nous marchons."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Loué sois-tu pour ton visage,",
+        "Dieu que nul œil n'a jamais vu.",
+        "Car nous adorons ton image",
+        "Dans le mystère de Jésus."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tout dans les cieux et sur la terre,",
+        "Tout ce qui peut être nommé,",
+        "Tout ce qui vit, soupire, espère,",
+        "Par sa parole fut créé."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ta royauté lui est remise,",
+        "Lui premier-né d'entre les morts,",
+        "Tu l'as donné à ton Église.",
+        "Il est la tête de son corps."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il tient de toi la plénitude",
+        "Et tu as tout réconcilié ;",
+        "C'est dans sa mort que naît la vie.",
+        "Gloire à Jésus crucifié !"
+      ],
+      "number": 6
+    }
+  ]
+}

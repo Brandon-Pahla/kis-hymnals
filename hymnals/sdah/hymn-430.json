@@ -1,0 +1,35 @@
+{
+  "number": 430,
+  "language": "en-sdah",
+  "title": "430 Joy By And By",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. O there'll be joy when the work is done, Joy when the reapers gather home, Bringing the sheaves at set of sun To the New Jerusalem."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain : Joy, joy, there'll be joy by and by, Joy, joy, where the joys never die; Joy, joy; for the day draweth nigh When the workers gather home."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Sweet are the songs that we hope to sing, Grateful the thanks our hearts shall bring, Praising forever Christ our King In the New Jerusalem."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Pure are the joys that awaitus there Many the golden mansions fair; Jesus Himself doth them prepare, In the New Jerusalem."
+      ],
+      "number": 4
+    }
+  ]
+}

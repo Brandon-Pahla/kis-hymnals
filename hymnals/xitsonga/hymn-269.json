@@ -1,0 +1,25 @@
+{
+  "number": 269,
+  "language": "ts",
+  "title": "269. YESU MUPONISI WO HLAMARISA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A WONDERFUL SAVIOUR IS JESUS MY LORD",
+        "1. Yesu Muponisi Wo Hlamarisa, Yesu Wa Ndzi Hlamarisa;",
+        "CHORUS",
+        "U Tumbeta Moya Wanga Ribyeni, Emilambyeni Ya Ntsako.",
+        "U Tumbeta Moya Wanga Ribyeni, Endzhutini Lowunene;",
+        "U Vukarha Na Vutomi Bya Mina, Hi Rirhandzu leronghasi (Bis)",
+        "2. Yesu Muponisi Wo Hlamarisa, U Ndzi Rhula Ndzwalo Wanga;",
+        "Wa Ndzi Tlakusa Hi Voko Ra Yena, Ku Ndzi Nyika Wo Matimba.",
+        "3. U Ndzi Tata Hi Minkateko Yakwe, A Ndzi Ambexa Vuyena;",
+        "Ndzi Yimbelela Hosi Hi Ntsako, Mukutsuri Lowonghasi.",
+        "4. Ndzi Ta Famba Ndzi Ya N’wi Hlanganisa, Ndzi Ambexiwe Ta Yena;",
+        "Ye Muhetiseki, Muhlamarisi, Ndzi Yimba Na Byo Vunyingi."
+      ],
+      "number": 1
+    }
+  ]
+}

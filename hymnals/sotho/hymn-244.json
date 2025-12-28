@@ -1,0 +1,71 @@
+{
+  "number": 244,
+  "language": "st",
+  "title": "244 Tlong Ho Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tlong ho Jesu, Tlong ho Jesu; Tlong ho Jesu joale,",
+        "Joale tlong ho Jesu,Tlong ho Jesu joale."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oa boloka, oa boloka, Oa boloka joale;",
+        "Joale a ka etsa, A ka etsa joale."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A ka etsa, A ka etsa, A ka etsa joale;",
+        "Joale a ka etsa, A ka etsa joale."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bitsa Eena, Bitsa Eena Bitsa Eena joale",
+        "Joale bitsa Eena, Bitsa Eena joale"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bitsa Eena, Bitsa Eena Bitsa Eena joale",
+        "Joale bitsa Eena, Bitsa Eena joale."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O letile, O letile, O letile joale;",
+        "Joale O letile, O letile joale."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U mo ts’epe, U mo ts’epe U mo ts’epe joale;",
+        "Joale u mo ts’epe, u mo ts’epe joale."
+      ],
+      "number": 7
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hlohonolo, Hlohonolo, Hlohonolo joale;",
+        "Joale Hlohonolo, hlohonolo joale."
+      ],
+      "number": 8
+    }
+  ]
+}

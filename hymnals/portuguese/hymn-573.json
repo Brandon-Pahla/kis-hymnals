@@ -1,0 +1,26 @@
+{
+  "number": 573,
+  "language": "pt",
+  "title": "O Senhor Está em Seu Templo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### O Senhor Está em Seu Templo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Senhor está em Seu santo templo,",
+        "O Senhor está em Seu santo templo;",
+        "O Céu, o mar e a Terra,",
+        "E vós guardai silêncio perante Deus;",
+        "Silêncio, silêncio perante Deus.",
+        "Amém."
+      ],
+      "number": 2
+    }
+  ]
+}

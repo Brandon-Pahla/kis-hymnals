@@ -1,0 +1,58 @@
+{
+  "number": 557,
+  "language": "es",
+  "title": "¿Qué estás haciendo por Cristo?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¿Qué estás haciendo por Cristo?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Qué estás haciendo por Cristo",
+        "mientras vida él te da?",
+        "¿Sembrando estás su Palabra",
+        "o te hallas durmiendo quizá?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¿Qué estás haciendo hoy para",
+        "Cristo?",
+        "¿Qué estás haciendo? ¿Hoy",
+        "esperarás?",
+        "¿Qué estás haciendo hoy para",
+        "Cristo?",
+        "Te dio su gracia; tú ¿qué le darás?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Qué estás haciendo por Cristo,",
+        "tu gran Rey y Señor?",
+        "¿Cuidas el alma afligida",
+        "con gracia, ternura y amor?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Qué estás haciendo por Cristo?",
+        "Pronto anochecerá.",
+        "Ven sin tardar y trabaja,",
+        "pues Cristo muy pronto vendrá."
+      ],
+      "number": 5
+    }
+  ]
+}

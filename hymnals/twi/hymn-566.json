@@ -1,0 +1,47 @@
+{
+  "number": 566,
+  "language": "tw",
+  "title": "Yɛda W'asč Agya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛda W'asč Agya,",
+        "Hann no a ɛhy'rɛn daa ny'naa ne",
+        "Wim fɛfɛ a Wode ma te sɛ",
+        "Wo soro hɔ nti, Yɛda W'asč Agya."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛda W'asč Agya,",
+        "Akanea a ɛhy'rɛn kwan so,",
+        "Nnipa nimdeɛ a wɔde hwehwɛ",
+        "W'adebɔ mu nti, Yɛda W'asč Agya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛda W'asč Agya,",
+        "Nnamfo a wɔma yɛn 'nigye,",
+        "W'ahyɛsɛm sɛ yɛmfrɛ afof'ro",
+        "Sɛ yɛn nuanom nti, Yɛda W'asč Agya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛda W'asč Agya,",
+        "Wo dɔ wɔ Yesu mu nnɛ yi,",
+        "Ne yɛn 'kyena 'nidaso wɔ",
+        "Dɛw ne 'w'rɛhowm' nti Yɛda W'asč Agya."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 292,
+  "language": "es",
+  "title": "Por fe en Cristo, el Redentor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Por fe en Cristo, el Redentor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por fe en Cristo, el Redentor,",
+        "se salva hoy el pecador;",
+        "aunque sin merecer perdón,",
+        "recibe plena salvación."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Oh, gracia excelsa del amor,",
+        "que Dios perdone al pecador!",
+        "Si quiere presto confesar",
+        "sus culpas, y en Jesús confiar,",
+        "encontrará la salvación,",
+        "pues él obró la redención."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La vida antigua ya pasó",
+        "y todo en nuevo se tornó,",
+        "y aunque nada tenga aquí,",
+        "herencia eterna tiene allí."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aquí cual peregrino es;",
+        "mansión allá tendrá después,",
+        "arriba en gloria con Jesús,",
+        "quien redimiole en la cruz."
+      ],
+      "number": 5
+    }
+  ]
+}

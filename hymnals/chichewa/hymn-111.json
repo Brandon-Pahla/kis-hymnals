@@ -1,0 +1,61 @@
+{
+  "number": 111,
+  "language": "ny",
+  "title": "111. - Bwenzi Palibe Lofana Naye",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NO, NOT ONE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bwenzi palibe loposa Yesu, palibe, palibe",
+        "Wina palibe wochiza nthenda, palibe, palibe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu adziwa zovuta zo, Atitsogoza konseko;",
+        "Bwenzi palibe lofana naye; Palibe, palibe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Bwenzi palibe lofana naye, palibe, palibe",
+        "Iye ngofatsa koposa onse, palibe, palibe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nthawi palibe amatisiya, palibe, palibe",
+        "Akondweretsa mu mdima monse, palibe, palibe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Iye samasiya munthu wake, palibe, palibe",
+        "Pena kukana wolapa konse, palibe, palibe."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Mphatso palibe yofana Yesu, palibe, palibe",
+        "Iye satimana malo m’mwamba? Palibe, palibe."
+      ],
+      "number": 6
+    }
+  ]
+}

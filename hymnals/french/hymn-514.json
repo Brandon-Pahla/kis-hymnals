@@ -1,0 +1,37 @@
+{
+  "number": 514,
+  "language": "fr",
+  "title": "Ô Jésus, j'ai besoin de toi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Jésus, j'ai besoin de toi,",
+        "Ô Jésus, j'ai besoin de toi.",
+        "Quand je suis lassé du voyage,",
+        "Ô Jésus, viens, conduis mes pas."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dans mes luttes soutiens ma foi,",
+        "Dans mes luttes soutiens ma foi.",
+        "Quand sur moi descend la nuit sombre",
+        "Ô Jésus, viens, protège-moi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dans ma peine révèle-toi,",
+        "Dans ma peine révèle-toi.",
+        "Quand mon cœur attend ta présence,",
+        "Ô Jésus, viens, demeure en moi."
+      ],
+      "number": 3
+    }
+  ]
+}

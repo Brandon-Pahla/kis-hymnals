@@ -1,0 +1,47 @@
+{
+  "number": 186,
+  "language": "nd",
+  "title": "186 Nkosi, Si Hlangene",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi, si hlangene,",
+        "Kuyo indlu yAkho;",
+        "Woza naWe sesi ngene",
+        "Ebusweni bAkho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inhliziyo yethu",
+        "Iyakugulela;",
+        "Nawo umphefum’lo wethu,",
+        "U yakukhalela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ukunxusa kwaAkho,",
+        "Baba, ma si kuzwe;",
+        "Nxa kuphenywa izwi lAkho",
+        "NaWe ma si kuzwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma u si lungise",
+        "Thina bantu bAkho;",
+        "Nxa si bhubha, si buyele",
+        "Othulini lwAkho."
+      ],
+      "number": 4
+    }
+  ]
+}

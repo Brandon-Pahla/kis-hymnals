@@ -1,0 +1,35 @@
+{
+  "number": 226,
+  "language": "guz",
+  "title": "226 Nkonyeget' Ase Yeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nkonyeget' ase Yeso,'S' egekuba kiaye,Gakonyoroki' ogwancha,Nintimok' omoyo.'Gw' eriogi ri'amalaika,Banterera buyaBitii bi' obonene,'Nyancha y'ekerore."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkonyeget' ase Yeso,'S' egekuba kiaye,Gakonyoroki' ogwancha,Nintimok' omoyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nkonyeget' ase Yeso,Korwa ogwechanda,Korw' amatemwa y'ense,'Bibe mbikombua.Tinkoba n'obororo,'Bwoba, tang'utang'u;Amatemwa make Igo,'Mariga make igo!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yeso, obotamero,Yeso onkwereire,Nimbek' ogosemia,'S' Egetare ki' Emiaka;Nganye ntari korosa,Nd' obotuko boere;Goika ndore emambia,'Gonkiera igoro."
+      ],
+      "number": 4
+    }
+  ]
+}

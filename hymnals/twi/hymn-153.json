@@ -1,0 +1,37 @@
+{
+  "number": 153,
+  "language": "tw",
+  "title": "Somdwoe Hen', Di Me Pɛ So",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Somdwoe Hen', di me pɛ so,",
+        "Ma koma brɛfo nyɛ komm;",
+        "Ma 'kyinnye ne suro nnyae,",
+        "Na ma me honhom 'somdwoe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wode Wo mogya tɔɔ me,",
+        "Buee Nyame nkyɛn kwan maa me;",
+        "Mesrɛ 'somdwoe, 'somdwoe a",
+        "Ͻma me Wo yɛ k'ro."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo pɛ nyɛ hɔ, 'nyɛ me pɛ,",
+        "Ma Wo pɛ ne me mmom;",
+        "Yi 'kyinnye fi me komam,",
+        "Ma me W'asomdwoe pa no."
+      ],
+      "number": 3
+    }
+  ]
+}

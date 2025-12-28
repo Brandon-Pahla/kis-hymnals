@@ -1,0 +1,46 @@
+{
+  "number": 290,
+  "language": "tw",
+  "title": "Twa W'ani Kɔkwɛ Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Okra, haw ne 'w'rɛhow ahyɛw' ma?",
+        "Wunhu hann wɔ sum yi akyi?",
+        "Wohwɛ 'Gyenkwa a, wubenya hann",
+        "Ne daa nkwa a wɔde kyɛ kwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Twa w'ani kɔhwɛ Yesu,",
+        "Hwɛ N'anim nwanwa no pɔtee;",
+        "Na 'sase so nneɛma bɛy'ra wɔn fɛ,",
+        "Wɔ N'anuonyam ne Ne dom hann nom'."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ofii owu mu kɔɔ daa nkwa mu,",
+        "Yebedi N'akyi akɔ hɔ;",
+        "Bɔne rentum' mfa yɛn nnommum bio,",
+        "'Fisɛ yɛsen nkonimdifo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "N'asɛm ne Ne bɔhyɛ ntumi ntwam;",
+        "Gye No di n'ebesi wo yie:",
+        "Kɔ wiase a 'kra gu so rewu,",
+        "Ka Ne nkwagye ho asɛm ky'rɛ."
+      ],
+      "number": 3
+    }
+  ]
+}

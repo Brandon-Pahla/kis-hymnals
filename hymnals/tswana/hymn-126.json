@@ -1,0 +1,46 @@
+{
+  "number": 126,
+  "language": "tn",
+  "title": "126 Ke Na Le Kopelo K’e Ratang",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Na Le Kopelo K’e Ratang, Ka Ke Rekolotswe;",
+        "Ya Mmoloki wa me Kgosi, Ka ke rekolotswe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ka ke rekolotswe, Ka ke rekolotswe Ke tla ipelafatsa;",
+        "Ka ke rekolotswe, Ke ipelafatsa Mmoloking."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Na Le Krest’ O Ntekaneng, Ka Ke Rekolotswe;",
+        "Thato ya ’Gwe ke e dire, Ka ke rekolotswe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Na Le Mosupi Tota, Ka Ke Rekolotswe;",
+        "Yo O tlosang pelaelo, Ka ke rekolotswe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Baakanyeditswe Legae, Ka Ke Rekolotswe;",
+        "Ke tla nna ka bosakhutleng, Ka ke rekoloswe."
+      ],
+      "number": 4
+    }
+  ]
+}

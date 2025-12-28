@@ -1,0 +1,44 @@
+{
+  "number": 107,
+  "language": "st",
+  "title": "107 Mpolelle Pale ea Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        ".Mpolelle pale ea Jesu e ngole pelong ea ka;",
+        "Mpolelle ea bohlokoa e fetang tsohle tse ling,",
+        "Mpolelle ha mangeloi, a bina tsoalo ea Hae;",
+        "Khanya e be ho Molimo, khotso bathong kaofela."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mpolellle pale ea Jesu, U e ngole le pelong;",
+        "U mpolelle ea bohlokoa, ee monate ho feta."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A ila lijo lefeelleng, bolela ts’iu tseo;",
+        "Tekong ea libe tsa rona, O na hlole qetellong;",
+        "Bolela ts’ebetso ea Hae, le bothata ba Hae;",
+        "O n’a telloa A hlorisoa A se na hae A hloka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bolela ha A thakhisoa, A utloisoa bohloko,",
+        "Bolela ka bitla la Hae bolela tsoho ea Hae,",
+        "Pale ea rato le letle, lee bonahalang hantle;",
+        "A nke ke lle ha u seba, rato la pholoso ea ka"
+      ],
+      "number": 3
+    }
+  ]
+}

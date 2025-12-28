@@ -1,0 +1,31 @@
+{
+  "number": 41,
+  "language": "bem",
+  "title": "41 - LESA 'BE NEMWE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "GOD BE WITH YOU!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Lesa'be nemwe tukumane; Amutungulula bwino,",
+        "Amufimba no luse lwakwe; Lesa 'be nemwe tukumane.",
+        "CHORUS:",
+        "Lintu twakumana, bonse fye kuli Yesu;",
+        "Lintu twakumana, Lesa 'be nemwe tukumane.",
+        "2. Lesa 'be nemwe tukumane, Amufimba na mapindo,",
+        "Amwikushisha na mana; Lesa 'be nemwe tukumane",
+        "3. Lesa 'be nemwe tukumane, Lintu muli mumacusho,",
+        "Alemukumba nshiku pe, Lesa 'be nemwe tukumane.",
+        "4. Lesa 'be nemwe tukumane, Amwisusha no kutemwa,",
+        "A-lesha imfwa kuli mwe, Lesa 'be nemwe tukumane."
+      ],
+      "number": 2
+    }
+  ]
+}

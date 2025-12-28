@@ -1,0 +1,47 @@
+{
+  "number": 50,
+  "language": "tw",
+  "title": "Wo Ne Me Ntra",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wo ne me ntra, onwini redwo ntɛm,",
+        "Esum red'ru, 'Wura, Wo ne me ntra;",
+        "Sɛ boafo sa, na 'w'rɛkyekye tu kɔ a,",
+        "Mmɔb'rɔfo boafo, O, Wo ne me ntra."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nɔkwa da ketewa yi retwam ntɛm,",
+        "Ha dɛw resa, n'anuonyam retwam kɔ,",
+        "Nsakrae ne p'rɔe na mihu baabiara;",
+        "O, Wo a Wonsakra, Wo ne me ntra."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mihia Wo wɔ dɔnhwere biara mu,",
+        "Wo dom na etum' di bonsam so nim,",
+        "Hena n' ɔbɛyɛ me wɛmfo sɛ Wo,",
+        "Munumkum ne awiam', Wo ne me ntra."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ Woka me ho a minsuro dɔm, nwene,",
+        "Haw mu nyɛ d'ru, na nusu nyɛ",
+        "'Wu nwowɔe, asaman nkonim wɔ he?",
+        "Mɛkɔ so adi nim, Wo ne me ntra."
+      ],
+      "number": 4
+    }
+  ]
+}

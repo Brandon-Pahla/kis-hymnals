@@ -1,0 +1,29 @@
+{
+  "number": 42,
+  "language": "bem",
+  "title": "42 - KULI BAMUNYINANE KUNO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WITH FRIENDS ON EARTH"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kuli bamunyinane kuno tulesekelela,",
+        "Lelo bulanda bwaisa kulekana libili.",
+        "CHORUS:",
+        "Tatwakalekane uko ku calo ca Lesa,",
+        "Mu calo ico cawama tatwakalekane.",
+        "2. Icintu cimo tusekesha lintu tulekana,",
+        "Kuti tatwakalekane ku calo ca kwa Lesa.",
+        "3. Mashiwi yakulekana tayakabe ko kulya,",
+        "Lelo nyimbo sha buseko tukemba mu mulu pe."
+      ],
+      "number": 2
+    }
+  ]
+}

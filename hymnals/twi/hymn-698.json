@@ -1,0 +1,55 @@
+{
+  "number": 698,
+  "language": "tw",
+  "title": "N3 All Things Praise Thee",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ade nyinaa yi W'ayε;",
+        "S'ro, asase, po ne wim,",
+        "Woyεε wɔn maa W'anuonyam,",
+        "Wɔkyerε Wo kεseyε",
+        "Ka sε obiara nsom Wo;",
+        "Ma yεn nso yenyi W'ayε."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ade nyinaa yi W'ayε;",
+        "Sum to hann nnwom anadwo;",
+        "Ade nyinaa yi W'ayε,",
+        "Hann  to Wo tumi ho dwom;",
+        "B're ne beae reyi W'ayε,",
+        "Ma yεn nso yenyi W'ayε."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ade nyinaa yi W'ayε",
+        "N-su bosu, nyankontɔn,",
+        "O-wi-a ne munumkum;",
+        "‘Suten, ahum, ahoh'ru",
+        "Ne awɔw hyε W'anuonyam;",
+        "Ma yεn nso nhyε W'anuonyam."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ade nyinaa yi W'ayε;",
+        "Ɔbɔadeε, Asεm tumfo,",
+        "Awɔ-mmaa-nyinaa Honhom,",
+        "Yεkoto Wo nan ase,",
+        "Ma yεn koma so ma Wo;",
+        "Ma yεn nso yenyi W'ayε."
+      ],
+      "number": 4
+    }
+  ]
+}

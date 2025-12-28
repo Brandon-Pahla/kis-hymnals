@@ -1,0 +1,46 @@
+{
+  "number": 201,
+  "language": "tw",
+  "title": "Kristo Reba! Ma Abɔde",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kristo reba! ma abɔde",
+        "Nnyae su ne apinisi;",
+        "Ma anuonyam nsɛm no mma yɛn",
+        "Anidaso, nhyɛ yɛn den;",
+        "Kristo reba, Kristo reba!",
+        "Bra, Wo hy'rafo 'Somdwoe Hen'!",
+        "Bra, Wo hy'rafo 'Somdwoe Hen'!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asase bɛka Wo yaw ne",
+        "W'asɛnnua no ho asɛm;",
+        "Sɛ Wupue rebedi Hen asɛm;",
+        "Wobehu W'anuonyam no;",
+        "Kristo reba, Kristo reba!",
+        "Koma biara nto dwom no.",
+        "Koma biara nto dwom no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nidaso pa da y'anim yi,",
+        "Mommma nsanku nnnyae bɔ da;",
+        "Ma Ne tumi mmae no ho nnwom",
+        "Mfi tɛkrɛma nyinaa so;",
+        "Kristo reba, Kristo reba!",
+        "Aw'rade Yesu, bra ntɛm!",
+        "Aw'rade Yesu, bra ntɛm!\","
+      ],
+      "number": 3
+    }
+  ]
+}

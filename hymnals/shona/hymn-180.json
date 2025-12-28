@@ -1,0 +1,47 @@
+{
+  "number": 180,
+  "language": "sn",
+  "title": "180 Hatizivi Nguva",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hat’zivi nguva Iyo Tenzi anouya",
+        "Zvioneso zvekuuya zvotaura",
+        "Apo ouya tozofara zvikuru",
+        "Hatizivi nguva"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Owuya... ngatirinde titende",
+        "Owuya... Hariruya! Hariruya!",
+        "Owuya nembiri yababa mumakore",
+        "Hatizivi nguva"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wane kupenya wanoda ruponeso",
+        "Kune idi muzvinyorwa zvake",
+        "Zvioniso zvinoti achauya zve",
+        "Hatizivi nguva"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngatirindire nemwenje inopfuta",
+        "Tozo sebenza dakara Tenzi auye",
+        "Toimba nekufarira uyo musi",
+        "Hatizivi nguva"
+      ],
+      "number": 4
+    }
+  ]
+}

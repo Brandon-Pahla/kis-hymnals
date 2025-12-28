@@ -1,0 +1,28 @@
+{
+  "number": 1,
+  "language": "guz",
+  "title": "1 'Mochenu Omochenu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Mochenu Omochenu or' Omonguru,Ekero bogokia tokobake Aye;'Mochenu 'Monyamabera bw'echinguru,Nay'omogambi kare na kare."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'Mochenu malaika bagosasima,Babek' egutw'as'enyancha y'ekerore;'Megand' emeganda bakogosasima,Naye oreo kare na kare."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3'Mochenu nony'omosunt'ogontuba,Nonya titokoror'obonene bwao;Nay'or' omochenu kobua bonsi,'S'obwanchani, 'nguru n'obochenu."
+      ],
+      "number": 3
+    }
+  ]
+}

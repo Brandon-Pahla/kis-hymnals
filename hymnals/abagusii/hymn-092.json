@@ -1,0 +1,35 @@
+{
+  "number": 92,
+  "language": "guz",
+  "title": "92 Nkorandi'ore Ring'ana Ri'obonda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nkorandi' ore ring'ana ri'obonda'Yominto ko ribaga rire?Nkorandi' ore ring'ana ri'obonda'Yominto k'omobaso ore?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rigesa bono ng'ang'e rire ('ng'e rire);Meremo y'abagesi eere (kegima)Rigesa riao naki rirabe;'Monene kagosangereri' abanto."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nkorandi' ore ring'ana ri'obonda,'Botuko botoererete?Nkorandi' ore ring'ana ri'obonda,Rigesa rigiya richenu?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nkorandi' ore ring'ana ri'obonda,'Ncher' eyi' abanto baraigwe?Nosangererie rigesa rigiya,Inchwo obwatane n'abande."
+      ],
+      "number": 4
+    }
+  ]
+}

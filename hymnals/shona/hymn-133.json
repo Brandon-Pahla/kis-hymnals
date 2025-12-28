@@ -1,0 +1,43 @@
+{
+  "number": 133,
+  "language": "sn",
+  "title": "133 Kufamba NaMwari",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O bvumai ndifambe nemwi",
+        "Sezvakaita Inoki",
+        "Mubate ruwoko rwangu",
+        "Nditaurirane nemwi",
+        "Kana nzira yoshayikwa",
+        "Ndibvumei ndifambe nemwi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Handingambo fambi ndega",
+        "Dutu ririkuvuvuta",
+        "Mirawu yakateiwa",
+        "Wawengi wanondi yedza",
+        "Ese aya matambudzo",
+        "Tenzi bvumai ndifambe nemi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti mandipa zororo",
+        "Zvepasi zvinova nhando",
+        "Ndozofamba neku-shinga",
+        "Ndotakura muchinjiko",
+        "Dakara ndione Zioni",
+        "Tenzi bvumai ndifambe nemi"
+      ],
+      "number": 3
+    }
+  ]
+}

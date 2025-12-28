@@ -1,0 +1,53 @@
+{
+  "number": 194,
+  "language": "xh",
+  "title": "194 Uthando Ekhaya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bubuhle jikelele, Ngothand’ ekhaya;",
+        "Iba zizand’ ezihle, Ngothand’ ekhaya.",
+        "Luxolo nobuninzi, Kuncuma macal’ onke;",
+        "Lihamba kuhl’ ixesha, Kumzi wothando."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ngothando ekhaya, Xesha lihamba kuhle, Kumzi wothando."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kunje na kwixhobongo Elinothando;",
+        "Awuz’ ubekh’ umona, Kwa nentiyano;",
+        "Sinyathela ko-tamtam, Umhlaba ngumyez’ omhle,",
+        "Ubenza butsha ubom kumzi wothando."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Izulu liya wubuk’ Umzi wothando,",
+        "Kunye nomhlaba nawo, Umzi wothando.",
+        "Nomfula utsholoza, Luhlaz’ oluhl’ izulu;",
+        "Nophezul’ ewubuka Umzi wothando."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, ndenze owaKho, Lobakh’ uthando;",
+        "Ndibang’ idini laKho, Lobakh’ uthando.",
+        "Ndisind’ ezingozini, Sendibalek’ isono,",
+        "Ngenxa yenceba yaKho, Lobakh’ uthando."
+      ],
+      "number": 4
+    }
+  ]
+}

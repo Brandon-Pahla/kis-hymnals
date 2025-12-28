@@ -1,0 +1,28 @@
+{
+  "number": 64,
+  "language": "guz",
+  "title": "64 Ko ndabe Amo Na Yeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ko ndabe amo na Yeso,Nyigw' Amang'ana' Amaya!Aase agiya ndabe,Mbe aroro botambe!Kondabe amo na Yeso,Ning'inyore botambe;Bwanchani bwaye n'obuya,Bwankonyire kegima."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kondabe amo na Yeso,Ase ndasesenigwe;'Bibe biane motigere,Anyare gontimokiaKondabe amo na Yeso,Ninyare komosaba,Ere nang' Obuya bwaye,Na kondemia botambe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Onsesenie, Omotoria,Kondabe amo n'AyeNyoroki' obwanchani Bwao,Ndore obosio bwao'Monene ngwekane Yeso,Omochenu bun' EreKondabe amo na Yeso,Nere obuya bwane."
+      ],
+      "number": 3
+    }
+  ]
+}

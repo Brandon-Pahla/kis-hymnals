@@ -1,0 +1,36 @@
+{
+  "number": 20,
+  "language": "bem",
+  "title": "20 - SHIBUKA MUTIMA WANDI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "AWAKE MY SOUL"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Shibuka mutima wandi,",
+        "Wikokola nomba;",
+        "Lintu ukabomba kuno",
+        "Kafwikwa citebo.",
+        "2. Shiwi lyakwa Lesa wenu",
+        "Lyamwita ku mulu;",
+        "Akamupela cilambu",
+        "Nge milimo yapwa.",
+        "3. Makumbi yabunte pe fye,",
+        "Bamumona kuno;",
+        "Laba ifintu panuma,",
+        "Endesha pa ntanshi.",
+        "4. Mwe Katula Watemwikwa",
+        "Mwatutungulula;",
+        "Lintu twafwikwa ubwansho",
+        "Tukamilumbanya."
+      ],
+      "number": 2
+    }
+  ]
+}

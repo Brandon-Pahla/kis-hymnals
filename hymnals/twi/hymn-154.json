@@ -1,0 +1,47 @@
+{
+  "number": 154,
+  "language": "tw",
+  "title": "Sɛ Mehwɛ Asɛnnua Nwanwá a",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ mehwɛ asɛnnua nwanwá a",
+        "Anuonyam Hene wuu ho nō a,",
+        "M'ahode no mimmu no hwee",
+        "Meto m'ahantan nyinaa gu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻmpare sɛ mɛhoa me ho,",
+        "Gye Kristo me Nyame wu ho;",
+        "Ahuhudč a egyigye me",
+        "Migyaa mu, Ne mogya no nti."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hwɛ Ne ti, Ne nsa ne N'anan,",
+        "Yaw ne ɔdɔ abom rehwie;",
+        "Saa dɔ ne yaw yi nhyiae pɛn,",
+        "N'abot'ri no yɛ nsɔe nko de."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ wiase nyinaa wɔ me mpō a",
+        "Ͻyɛ m' ade ketewaa bi;",
+        "Anwanwa dɔ, Onyame dɔ,",
+        "Regye me kra, me nkwa, nyinaa."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "number": 123,
+  "language": "bem",
+  "title": "123 - INSHINA LYA MUSHILO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE HOLIEST NAME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ishina ilya temwikwa Pa-calo na mu mulu;",
+        "Lyapelwe na Lesa Tata, U-mwana watemwikwa.",
+        "CHORUS:",
+        "Lyena Iya mushilo 'Shina lya kwa Yesu,",
+        "Ilyapelwe na Tata pa calo,",
+        "Lyaletelwe na bangeli ubushiku,",
+        "'Shina lya kwa Yesu Mfumu.",
+        "2. Lisansa-musho mutima, E-lwimbo 'ne ndeimba,",
+        "Nasumi-ne Shina lyakwe, Na-kula-lisosa pe.",
+        "3. Mutima wakulaimba U-kute-mwa kwa Mfumu;",
+        "Nakula-lilumbanya pe, I-shina lya kwa Yesu."
+      ],
+      "number": 2
+    }
+  ]
+}

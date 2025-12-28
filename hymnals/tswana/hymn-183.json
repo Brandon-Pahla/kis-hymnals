@@ -1,0 +1,46 @@
+{
+  "number": 183,
+  "language": "tn",
+  "title": "183 Tsholofetso Go Ba Ba Dumelang",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tsholofetso Go Ba Ba Dumelang,-",
+        "\"Ke tloga ke tla go itsholela ba me,",
+        "O tshware thata, Phatsa di kgolo;",
+        "Mme O se robale; lebela leta.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "\"O tshware thata\" ke tsholofetso,-",
+        "\"Bogosi bo tla bused’wa lona\"",
+        "\"Tsenang boipelong jwa Me, nnang le Nna;",
+        "Go teng ’rwalo tse ’ntle; lo tshwareng thata.\""
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Tla \" Leta Thapelong\" Mo Seding,",
+        "Otla go bangwe jaaka \"godu ’sigong,\"",
+        "R’itse O gaufi, ga r’itse nako,",
+        "Jaaka selemo tshupo ya tlhabula."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E, E Ke Tsholofelo Ya Rona,",
+        "Ponalo ya Morena rona Jeso",
+        "Go tsotlhe, ke e e kwa godimo",
+        "\"Ke tla kabonako, O tshware thata.\""
+      ],
+      "number": 3
+    }
+  ]
+}

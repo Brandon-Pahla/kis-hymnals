@@ -1,0 +1,54 @@
+{
+  "number": 128,
+  "language": "st",
+  "title": "128 Nako E Ntle Ea Thapelo.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke nako ea thapelo, a re ikokobetseng,",
+        "Re atamela Jesu Motsoalle ’rona;",
+        "Re lumela ho Eena ke khato ea rona,",
+        "Ke pheko mokhathaleng, ho monate ho ba teng"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nako ’a thapelo, nako e ntle joang;",
+        "Ke pheko mokhathaleng, ho monate ho ba teng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke nako ea thapelo ha Jesu ’atamela,",
+        "Ka kutloelo-- bohloko ho bana ba Hae;",
+        "Ha A re re lahlele meroalo ho Eena,",
+        "Ke pheko mokhathaleng, ho monate ho ba teng."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke nako ea thapelo ha ho le ba lekoang,",
+        "Ba tlisa masoabi a bona ’Moloking,",
+        "Ka kutloelo—bohloko, Oa tlosa ohle,",
+        "Ke pheko mokhathaleng, ho monate ho ba teng,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke nako ea thapelo, ha re mo lumela;",
+        "Ka ’nete re le ba hlohonolofetseng,",
+        "Re tla lokolloa hohle ha re mo ts’epile",
+        "Ke pheko mokhathaleng, ho monate ho ba teng."
+      ],
+      "number": 4
+    }
+  ]
+}

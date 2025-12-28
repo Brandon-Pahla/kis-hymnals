@@ -1,0 +1,38 @@
+{
+  "number": 75,
+  "language": "xh",
+  "title": "75 Baziseni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiv’ ilizwi lo-Malusi, Kude entlango emnyama,",
+        "Libiz’ izimvu ze-Nkosi Ezikude nesibaya."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Zingeniseni-ke Zingeniseni ku-Yesu;",
+        "Zingeniseni-ke, Zingeniseni ku-Ye"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngubani ozakuhamba Ukufuna abaduki?",
+        "Ngubani owobalanda Beze apha banga bhubhi?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yivan’ ukukhala kwabo Ezintabeni ezinde;",
+        "U-Yes’ u-Msindisi waKho Uthi \"Buyisa izimvu.\""
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "number": 233,
+  "language": "nd",
+  "title": "233 Ngi Tshel’ Indab’ Endala-ndala",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi tshel’ indab’ endala Yokwanga phezulu",
+        "Ka Jesu nobukhosi Ka Jesu nothando,",
+        "Ngi tshel’ indaba kahle Njengasenganeni",
+        "Ngokuba ngikhathele Ngi ngongcolileyo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi tshel’ indab’ endala; Ngi tshel’ indab’ endala",
+        "Ngi tshel’ indab’ endala, Ka Jesu nothando"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi tshel’ indab’ unense Ibe ngaphakathi,",
+        "Leyo eyokuhlenga Yelapha isono",
+        "Yiphinda-phinde njalo Ngi shesha ngikholwe ,",
+        "Njengamazol’ okusa Amuka emini."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi tshel’ indaba leyo Uma wethusiwe;",
+        "Inkazimlo yomhlaba Inzima kakhulu.",
+        "Laph’ ubuhle bomhlaba Bu qhamuka kimi,",
+        "Ngi tshel’ indab’ endala Yempilo ngoJesu."
+      ],
+      "number": 4
+    }
+  ]
+}

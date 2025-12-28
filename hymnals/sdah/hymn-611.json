@@ -1,0 +1,35 @@
+{
+  "number": 611,
+  "language": "en-sdah",
+  "title": "611 Awake, My Soul",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Awake, my soul! stretch every nerve And press with vigour on; A heavenly race demands thy zeal, And an immortal crown."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. ‘Tis God's all animating voice That calls thee from on high; ‘Tis he whose hand presents the prize To thine aspiring eye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. A cloud of witnesses around Hold thee in full survey; Forget the steps already trod, And onward urge thy way."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Blest Saviour, introduced by Thee, Our race have we begun And, crowned with victory, at Thy feet We'll lay our trophies down."
+      ],
+      "number": 4
+    }
+  ]
+}

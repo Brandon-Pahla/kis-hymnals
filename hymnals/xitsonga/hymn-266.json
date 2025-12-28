@@ -1,0 +1,23 @@
+{
+  "number": 266,
+  "language": "ts",
+  "title": "266. YESU, NDZI TA LANDZELA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "JESUS, I WILL FOLLOW THEE",
+        "1. Yesu, Ndzi Ta Landzela, Wa Ndzi Vitana Wena;",
+        "Ndzi Ta Hi Ntsako, Yesu, Ndzi Yise Kaya.",
+        "CHORUS",
+        "Ndzi Ta Landzela, Ndzi Sala Ndzhaku; Laha U Yaka,",
+        "Ndzi Ta Ku Landzela.",
+        "2. Mahlo Ya Nga Ndzi Xisa, Nenge Wu Nga Ndzi Lahla; Ndzi Tsana Na Ku Karhala,",
+        "U Ntamu Wanga.",
+        "3. Vusweti Na Nhlomulo, Vudyoho Byi Karhata;",
+        "Ndzi Ta Tiya Eka Wena, Ndzi Landzelea."
+      ],
+      "number": 1
+    }
+  ]
+}

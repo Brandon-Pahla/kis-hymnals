@@ -1,0 +1,38 @@
+{
+  "number": 256,
+  "language": "sn",
+  "title": "256 Mwari Mubatsiri",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mwari mubatsiri wedu, Nesimbiro yedu",
+        "Bako redu munhamodzo, Musha une mbiri"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mubvutero reumambo, Ndoona zororo",
+        "Handingatyi nechiroba, Kuti ndii nemwi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kare musati masika, Makomo, nepasi",
+        "Imwi makange mavapo, Moveko narini"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kwamuri churu, Chemakore chinofananaNeusiku humwe,Kana mangwanani mamwe"
+      ],
+      "number": 4
+    }
+  ]
+}

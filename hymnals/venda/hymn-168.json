@@ -1,0 +1,55 @@
+{
+  "number": 168,
+  "language": "ve",
+  "title": "168. Yehova Ndi Ene Mulisa Wanga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:546",
+        "AH:295"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yehova ndi Ene Mulisa wanga",
+        "nne u ndadza mafuloni avhudi",
+        "Ene u netulusa muya wanga",
+        "A mbuedzedza nga tshilidzi tshawe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi tshi tshimbila dunzini la lufu",
+        "Iwe u na nne athi nga ofhi tshithu.",
+        "Lubada lwau lu a ntsireledza",
+        "Ndi na mufhumudzi a thi nga ofhi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. U mpha zwiliwa phanda ha maswina",
+        "Tshinwelo tshanga tsho dala u dala",
+        "U ndolisa thoho yanga mapfura",
+        "Zwino ndi nga vha ndi tshi ofha nnyi?"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. U luga hau na tshilidzi tshau",
+        "Zwi mpheletshedze ndi swike tadulu.",
+        "Ndi tshimbile ndilani ya vha kale.",
+        "Na nne ndi swike muvhusoni wau."
+      ],
+      "number": 5
+    }
+  ]
+}

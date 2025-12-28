@@ -1,0 +1,67 @@
+{
+  "number": 263,
+  "language": "nd",
+  "title": "263 Zwan’ Amazw’ Es’bhalo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Zwan’ amazwi eS’bhalo kwas’ endulo",
+        "Ngenisani konke okweshumi",
+        "Nivuseleke-ngcwele nanini",
+        "Nithembe son’ is’busiso"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngenisani konke okweshumi",
+        "Ithi iNkosi Ningihlole",
+        "Nginehlisele is’busiso",
+        "Kuswelek’ indawo yok’samukela"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kambe nifun’ amandl’ oMoy’ ongcwele?",
+        "Ngenisani konke okweshumi",
+        "Nihlale nizwana naYe kamnandi",
+        "An’busise ngokungcwele"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuvimbeni phakathi kweni naYe?",
+        "Ngenisani konke okweshumi",
+        "Nikulethe njengo kushiw’ izwi",
+        "Wonibusisa kwenele"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phakamisa iNkosi ngenhliziyo",
+        "Nje ngokub’ uletha okweshumi",
+        "Ubambelele esithembisweni",
+        "Senhliziy’ ethambileyo"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hlabelela kwenyukele phezulu",
+        "Sewulethe konk’ okweshumi",
+        "Sithi, Haleluya, sis’ enkonzweni",
+        "Sine s’busis’ esikhulu"
+      ],
+      "number": 6
+    }
+  ]
+}

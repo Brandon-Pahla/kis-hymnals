@@ -1,0 +1,23 @@
+{
+  "number": 217,
+  "language": "ts",
+  "title": "217. U NDZI KUTSULE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SAVIOUR THY DYING LOVE",
+        "1. U Ndzi Kutsule, Hi Nsovo Waku, Ndzi Nge Tumbeti Nchumu Ka Wena;",
+        "Hi Rirhandzu Ndza Titsongahata Mina, Ndzi Nyikela Mbilu Eka Wena",
+        "2. Ndzi Ta Ka Wena Ku Tsaneni Kanga, Yesu Muferi Ndzi Tsetselele;",
+        "Ndzi Pfune Ku Rhwala Xihambano Xanga, Loko Ndzi Khongela No Dzunisa.",
+        "3. Mbilu Yo Tshembha I Xikombelo, Siku Na Siku Ndza Tinyikela;",
+        "Ntirhweni Wa Nsovo, Rirhandzu Ra Wena,",
+        "Lava Lahlekeke Vamukele.",
+        "4. Vutomi, Swirilo, Na Tinyiko, Swi Le Ka Wena Ku Ndzi Tiyisa;",
+        "Loko Ndzi Ku Vona Ndzi Ta Nerisiwa, Hi Masiku Ku Ta Ka Wena."
+      ],
+      "number": 1
+    }
+  ]
+}

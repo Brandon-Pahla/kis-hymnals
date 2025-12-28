@@ -1,0 +1,56 @@
+{
+  "number": 118,
+  "language": "pt",
+  "title": "Jesus, o Bom Amigo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Jesus, o Bom Amigo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus, o bom Amigo,",
+        "O nosso grande Deus,",
+        "Prepara-nos agora",
+        "Moradas lá nos Céus."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "No lar feliz e eterno,",
+        "De paz, amor e luz,",
+        "Morar também iremos,",
+        "Com nosso bom Jesus."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus, o bom Amigo,",
+        "O nosso Benfeitor,",
+        "Concede a nós, Seus filhos,",
+        "Maravilhoso amor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus, o bom Amigo,",
+        "O nosso excelso Rei,",
+        "Nos deu fiel promessa:",
+        "\"Em breve voltarei.\""
+      ],
+      "number": 5
+    }
+  ]
+}

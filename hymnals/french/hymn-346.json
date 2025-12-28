@@ -1,0 +1,48 @@
+{
+  "number": 346,
+  "language": "fr",
+  "title": "Ils ont marché...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ils ont marché au pas des siècles",
+        "Vers un pays de joie,",
+        "Ils ont marché vers la lumière",
+        "Pour habiter la joie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Écoute, écoute, surtout ne fais pas de bruit,",
+        "On marche sur la route, on marche dans la nuit.",
+        "Écoute, écoute, les pas du Seigneur vers toi :",
+        "Il marche sur ta route, il marche près de toi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ils ont laissé leurs cris de guerre",
+        "Pour des chansons de paix,",
+        "Ils ont laissé leur bout de terre",
+        "Pour habiter la paix."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ils sont venus les mains ouvertes",
+        "Pour accueillir l'amour,",
+        "Ils sont venus chercher des frères",
+        "Pour habiter l'amour."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 48,
+  "language": "sn",
+  "title": "48 Tichafara",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tichafara basa rapera,",
+        "Tounganidzwa kumusha,",
+        "Apo taunza misumbu,",
+        "KuJerusarema idzva"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rufaro, Rufaro idi,",
+        "Rufaro rusingaperi,",
+        "Rufaro runouya musi,",
+        "Toungana kumusha"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Toimba nziyo dzakanaka,",
+        "Nemoyo yedu yotenda,",
+        "Kristu Mambo, tomukudza",
+        "KuJerusarema idzva"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rufaro runotirindira,",
+        "Nedzimba zhinji dzavakwa,",
+        "Jesu Iye wagadzira,",
+        "KuJerusarema idzva"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 62,
+  "language": "tw",
+  "title": "Sɛnea Wo Trabea Yɛ Fɛ Fa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnea Wo trabea yɛ fɛ fa,",
+        "Asafo Aw'rade!",
+        "Na Wo dom ntamadan no mu,",
+        "Sɛnea 'hɔ yɛ dɛ fa!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me kra brɛfo ani gyina,",
+        "Sɛ 'behu W'abangua;",
+        "Me koma ne me honam team",
+        "Ky'rɛ W', Nyame Teasefo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hwɛ sɛnea apatuprɛ nya",
+        "Ofie gye n'ahome;",
+        "Na asomfrakatakyi nso",
+        "Nya p'rebu ma ne ho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "W'afɔrebukyia no mu mpo,",
+        "ɔbɛto ne nma hɔ;",
+        "Wo, asafo 'Wrade Tumfo,",
+        "Me Hen' me Nyame."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nhy'ra ne wɔn a wɔte Wo fie,",
+        "Woyi Wo ayɛ daa.",
+        "Nhy'ra ne nea n'ahoɔden ne Wo,",
+        "W'akwan wɔ ne komam."
+      ],
+      "number": 5
+    }
+  ]
+}

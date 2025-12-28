@@ -1,0 +1,57 @@
+{
+  "number": 265,
+  "language": "st",
+  "title": "265 Khotso! Khotso!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Khotso, khotso, fats’eng le la sebe, Mali a Jesu a re fa khotso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khotso, khotso, khathatsong ea tsela, ts’ebelets’a Jesu ke;phomolo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khotso, khotso, ha u ferekane, Sefubeng sa Jesu ke phomolong."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khotso, khotso, baratuoa ba ile, Ho Jesu re bolokiloe bohle."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khotso, khotso, lefu le re sirang, Empa Jes’O felisitse lefu."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khotso, khotso, tse tlang li e rothong, Jesu rea tseba O;",
+        "teroneng."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ho lekane, ntoa e se tla fela, Jesu O re bitsetsa holimo."
+      ],
+      "number": 7
+    }
+  ]
+}

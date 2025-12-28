@@ -1,0 +1,45 @@
+{
+  "number": 83,
+  "language": "ny",
+  "title": "83 - Anthu Ambiri Ayimba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O FOR A THOUSAND TONGUES"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Anthu ambiri ayimba, Lodala dzina la Mbuye!",
+        "Ulemelero kwa Mlungu, Lodala dzina la Mbuye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dzina lodala, dzina lodala, dzina la Ambuye Yesu.",
+        "Dzina lodala, dzina lodala, dzina la Ambuye Yesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Dzinali lichotsa mantha, Lodala dzina la Mbuye!",
+        "Lili nyimbo ya ochimwa, Lodala dzina la Mbuye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Athyola mphamvu ya tchimo, Lodala dzina la Mbuye!",
+        "Mwazi wake utitsuka, Lodala dzina la Mbuye."
+      ],
+      "number": 4
+    }
+  ]
+}

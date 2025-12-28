@@ -1,0 +1,35 @@
+{
+  "number": 261,
+  "language": "luo",
+  "title": "261 Dalawa Man Malo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Waluwo yorno mar msalaba,kwadhiyo e polo;Ok nwaluor maricho mogundho,ka Wuonwa ritowa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dala wa man malo e polo,(Dalawa dalawa dala man malo e polo);Waluwo yorno mar msalabanyaka piny mar hera."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Waluwo yorno mar msalaba;Yesu osetelo;Wanawuothi e ndach jatendwa,nyaka dhowath mar kuwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Waluwo yorno mar msalaba,kata yo rach nade;Luet Jawarwa notelnwa mabernyaka wachop ire."
+      ],
+      "number": 4
+    }
+  ]
+}

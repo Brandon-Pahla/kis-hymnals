@@ -1,0 +1,46 @@
+{
+  "number": 15,
+  "language": "xh",
+  "title": "15 U-Yesu Uyandithanda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U-Yes’ uya ndithanda, Itshilo iBhayibhile",
+        "Abantwana ngabaKhe, Ngamandla abo yena."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ewe, u-Yesu uya ndithanda.",
+        "Uya ndithanda, Itsho I-Bhayibhile."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U-Yes’ uya ndithanda, Yena wandifelayo;",
+        "Ukuvula phezulu, Okuhlamba izono."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U-Yes’ uya ndithanda, Naxa ndigula apha;",
+        "Xa ndise lusizini u-Yesu uyand’ onga."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U-Yes’ uya ndithanda, Ukuba ndiyamthanda,",
+        "Kumsinya ukufika, Aze andithathe mna."
+      ],
+      "number": 4
+    }
+  ]
+}

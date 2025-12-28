@@ -1,0 +1,39 @@
+{
+  "number": 335,
+  "language": "xh",
+  "title": "335 Bawo Ngobubele BaKho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bawo, ngobubele baKho, Bona umphefumlo wam;",
+        "Ndiyalila phambi kwaKho, Susa zonk’ izono zam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndikho ebusweni baKho, ’Zungalahli izwi lam;",
+        "Ndiphe uxolelo lwaKho, Susa zonk’ izono zam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi yam, andikaneli, Yiva ukubiza kwam;",
+        "Wen’ ungendibandezeli; Susa zonk’ izono zam."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi, Bawo, ndingcolile, Hlanza intliziyo yam;",
+        "Ngezizono ndidanile, Susa zonk’ izono zam."
+      ],
+      "number": 4
+    }
+  ]
+}

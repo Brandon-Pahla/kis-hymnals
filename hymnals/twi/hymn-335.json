@@ -1,0 +1,56 @@
+{
+  "number": 335,
+  "language": "tw",
+  "title": "Kristo Apata 'Ma Bɔne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kristo apata 'ma bɔne,",
+        "Gyefo nwanwani bɛn ni!",
+        "Watua bɔne ka agye yɛn;",
+        "Gyefo nwanwani bɛn ni!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "ɔgyefo nwanwani bɛn ne",
+        "Yesu, me Yesu!",
+        "ɔgyefo nwanwani bɛn ne",
+        "Yesu, me W'ra!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Miyi N'ayɛ, Ne mogya nti,",
+        "Gyefo nwanwani bɛn ni!",
+        "Esiesie me ne Nyame ntam,",
+        "Gyefo nwanwani bɛn ni!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔne me nam kwan nyinaa so,",
+        "Gyefo nwanwani bɛn ni!",
+        "ɔma meyɛ nokwar'difo,",
+        "Gyefo nwanwani bɛn ni!."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔma me nkonimdi tumi,",
+        "Gyefo nwanwani bɛn ni!",
+        "Ma midi nkonim b're ny'naa mu;",
+        "Gyefo nwanwani bɛn ni!"
+      ],
+      "number": 4
+    }
+  ]
+}

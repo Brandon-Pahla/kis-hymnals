@@ -1,0 +1,57 @@
+{
+  "number": 231,
+  "language": "es",
+  "title": "Todo en el altar",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Todo en el altar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Anhelaste la paz y crecer en la fe?",
+        "¿bendiciones de Cristo obtener?",
+        "Todo esto tendrás cuando rindas tu ser",
+        "por completo a Jesús en su altar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¿Entregaste tu vida entera a Dios?",
+        "¿Le diste tu fiel corazón?",
+        "Él te bendecirá y te hará descansar,",
+        "y su paz te dará una canción."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si caminas con Dios en la luz de verdad,",
+        "tendrás paz y poder al andar.",
+        "Vivirás, pues, feliz; gozarás libertad;",
+        "si tu vida está en el altar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Quién podrá de su amor la",
+        "grandeza contar?",
+        "¡Cuán feliz con tu Dios estarás!",
+        "Pues te llama el Pastor con su voz",
+        "celestial,",
+        "pon tu vida entera en su altar."
+      ],
+      "number": 5
+    }
+  ]
+}

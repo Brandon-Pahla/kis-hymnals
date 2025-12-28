@@ -1,0 +1,47 @@
+{
+  "number": 60,
+  "language": "xh",
+  "title": "60 Mgcobo Wentliziyo Ezinothando",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu mthandi wentliziyo, Wena ungumthombo wobom;",
+        "Kunazo zonke izinto, Siyakukhalela thina."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, ngenyaniso yaKho, Usindisa thina boni;",
+        "Xa sifuna wena, Nkosi, Usinika ukuphumla."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, usiSonka sethu, Sinike siphile ngaSo;",
+        "Siyasela emthonjeni Ukuze saneliseke."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, sazalw’ ezonweni, Sasibanjwe ekufeni;",
+        "Sikholwa ngamandla aKho Ukusisindisa ngawo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, wena wasifela, Wathatha ubuntu bethu;",
+        "Gxotha kuthi ubumnyama, ’Ze kuhlale ukukhanya."
+      ],
+      "number": 5
+    }
+  ]
+}

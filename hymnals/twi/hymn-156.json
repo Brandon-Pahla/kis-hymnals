@@ -1,0 +1,49 @@
+{
+  "number": 156,
+  "language": "tw",
+  "title": "Nea Wop'raa Ne Ti Kronn No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nea wop'raa Ne ti kronn no,",
+        "'W'rɛhow ne yaw hyɛɛN' so;",
+        "Na fɛwdifo no de nsɔe",
+        "Yɛɛ abt'ri maa No;",
+        "O ti kronkron, dɛn 'nuonyam",
+        "Ne nhy'ra na ɛnyɛW' de!",
+        "Ewom sɛ wɔapo Wo de,",
+        "Mede 'nigye gye Wo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra, 'manne a Wuhui no,",
+        "Wuhu maa bɔn'yɛfo;",
+        "Mm'rato yi ny'naa yɛ me de,",
+        "Nanso Wuhuu yaw no;",
+        "'Gyenkwa, mehweW' nan ase;",
+        "Me na yaw yi sɛ me;",
+        "Fa W'ahummɔb'rɔ hwɛ me,",
+        "Na fa Wo dom ma me."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔkasa bɛn na memfa",
+        "Nna W'ase, me Dɔfo,",
+        "Wɔ W'awerɛhow wu yi,",
+        "Ne yaw a ennė awiei?",
+        "O fa me yɛ Wo de daa,",
+        "Na sɛ metɔ bahá a;",
+        "Aw'rade, mma me w'rɛ mmfi",
+        "Sɛ mɛdɔ wo daa daa."
+      ],
+      "number": 3
+    }
+  ]
+}

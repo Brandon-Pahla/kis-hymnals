@@ -1,0 +1,76 @@
+{
+  "number": 758,
+  "language": "tw",
+  "title": "NG8 Onipa Tiafo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dεn na Menyε wo onipa?",
+        "Mmoadoma mpo Mehwε wɔnso,",
+        "Anka wo a Mebɔɔ wo Me nsε so,",
+        "Dεn nti na biribi hia wo?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Onipa tiafo, woabɔ Me so ko;",
+        "Onipa, Menyε wo dεn?",
+        "Nyame na ɔse, wo de",
+        "Gye Me di, Onipa kae Me ε"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dεn na Menka nky'rε dasani,",
+        "Mebεε wo, na Mesan gyee wo;",
+        "Womma eyi mpo nsom wo bo,",
+        "Nanso wotan wo Bɔfoε"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wiase yi nni wɔ wo ne Me,",
+        "Ɔdɔ nti na Mebɔɔ wo;",
+        "Meremma no sε Oguamma bio,",
+        "Mεba no anibere so."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Metoo asase yi fapem,",
+        "Onipa, na wowɔ he?",
+        "Mebɔɔ nnua ne nsuo  no",
+        "Na woyε dɔte mu dɔte."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mabrε wo dodo, onipa",
+        "Medi wo ho abooboo",
+        "Meka no Me koma mu sε,",
+        "Manu Me ho sε Mebɔɔ wo."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nanso Medɔ wo onipa,",
+        "Wo wuo nyε Me fε;",
+        "Wotie Me nne a Mεgye wo,",
+        "Mεyε wo awaawaatuu."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "number": 444,
+  "language": "tw",
+  "title": "Meyɛ 'Hɔho Ne ɔkwantuni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Meyɛ 'hɔho ne ɔkwantuni",
+        "Metumi atwɛn anadwo biako pɛ;",
+        "Mma munnsiw me kwan, 'fisɛ merekɔ",
+        "Faako a nsuten sen' mm'resanten ny'naa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Meyɛ 'hɔho ne ɔkwantuni,",
+        "Metumi atwɛn anadwo biako pɛ."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻhɔ na 'nuonyam hy'rɛn b're biara;",
+        "O me koma yi, me koma yi wɔ hɔ,",
+        "ɔman a ayɛ sum ne 'w'rɛhow yi,",
+        "Me nko mamante akyɛ na mabrɛ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻhɔ ne kųro a merekɔ so n',",
+        "Me Gyefo no, me Gyefo no ne ne hann;",
+        "'W'rɛhowdi anaa 'pinisi nni hɔ,",
+        "Nusu nni hɔ na owu nso nni hɔ."
+      ],
+      "number": 3
+    }
+  ]
+}

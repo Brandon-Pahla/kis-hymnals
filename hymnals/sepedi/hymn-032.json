@@ -1,0 +1,67 @@
+{
+  "number": 32,
+  "language": "nso",
+  "title": " 32 MORENA SWIKA LA RENA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 32 MORENA SWIKA LA RENA",
+        "AH 211 CS 505",
+        "THE LORD'S OUR ROCK"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena 'swika la rena,",
+        "Ke sebo sa botshabelo;",
+        "Seširo le morithi,",
+        "Ke sebo sa botshabelo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušulošo",
+        "Leswika………..Le nang le maatla,",
+        "Morithi …..ge go fiša,",
+        "Ketapele………..Ya rena,",
+        "Ke sebo sa botshabelo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seširo le sephemelo,",
+        "Ke sebo sa botshabelo;",
+        "Ga re tshoge gare tshabe,",
+        "Ke sebo sa botshabelo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dikgogola le ge ditla,",
+        "Ke sebo sa botshabelo;",
+        "Re humana hlokomelo,",
+        "Go sebo sa botshabelo."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leswika la botshabelo,",
+        "Ke sebo sa botshabelo;",
+        "Dula kgauswi hle mothusi,",
+        "O sebo sa botshabelo."
+      ],
+      "number": 6
+    }
+  ]
+}

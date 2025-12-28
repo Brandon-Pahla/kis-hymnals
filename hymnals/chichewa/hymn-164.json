@@ -1,0 +1,44 @@
+{
+  "number": 164,
+  "language": "ny",
+  "title": "164 - Pa Mapazi Ake Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "AT THE FEET OF JESUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Pa mapazi ake Yesu, Ndimva mau akewo!",
+        "Ee, pafupi ndi Ambuye, N’khale nthawi zonsezo;",
+        "Pa mapazi ake Yesu, Ndiyang’ana m’mbuyomo,",
+        "Ee, chikondi chake chonse, Chakopadi mtimanga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Pa mapazi ake Yesu, Malo opambanawo;",
+        "Ndisiyepo tchimo langa, Ndi kupeza mpumulo;",
+        "Pa mapazi ake Yesu, Ndimalira mtimanga,",
+        "Pomwe ndimapeza nsisi, Tsiku lili lonselo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Inu Yesu mndidalitse, Ndigwadira Inuyo;",
+        "Muyang’anetu pa ine, Nane ndikuoneni;",
+        "Ndikhaletu nawo mtima, Monga Yesu Mbuyeyo,",
+        "Ndionetseretu Yesu, Chilungamo changacho."
+      ],
+      "number": 4
+    }
+  ]
+}

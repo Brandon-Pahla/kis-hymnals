@@ -1,0 +1,31 @@
+{
+  "number": 305,
+  "language": "bem",
+  "title": "305 - BUSHE NDI MUSHILIKALE?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A SOLDIER OF THE CROSS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Bushe ndi mushilikale, Kakonka wa Mpanga?",
+        "Bushe nkatina munshila no kuba ne nsoni?",
+        "CHORUS:",
+        "Ishina, ilya wama, Wene amfwilile,",
+        "Mucikuku nkapokela icitebo candi.",
+        "2. Bushe nje mumulu mulya, Mushili macusho,",
+        "Ilyo bambi balecula mu fimana monse",
+        "3. Bushe balwani balipo? Bushe nkalwe nabo?",
+        "Bushe calo ni cibusa cinsukile m‘mulu",
+        "4. Kulwa kwandi kwiba kwa fye, Unkoseshe Mfumu,",
+        "Nkashipikisha macusho mu mashiwi yenu."
+      ],
+      "number": 2
+    }
+  ]
+}

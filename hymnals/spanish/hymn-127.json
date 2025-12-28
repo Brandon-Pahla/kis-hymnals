@@ -1,0 +1,47 @@
+{
+  "number": 127,
+  "language": "es",
+  "title": "Cristo, nombre dulce",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cristo, nombre dulce"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo, nombre dulce para mí;",
+        "Cristo, escuchas siempre mi",
+        "oración.",
+        "Oh, Cristo, tú me levantas si caí;",
+        "es muy dulce tu nombre, mi",
+        "Jesús."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo, alabarte es mi placer,",
+        "Cristo, primero y último eres tú.",
+        "Oh, Cristo, por mí moriste en la",
+        "cruz;",
+        "es muy dulce tu nombre, mi Jesús."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo, eres Rey que volverá;",
+        "Cristo, necesitamos tu amor.",
+        "Oh, Cristo, a ti cantamos con fervor;",
+        "es muy dulce tu nombre, mi Jesús."
+      ],
+      "number": 4
+    }
+  ]
+}

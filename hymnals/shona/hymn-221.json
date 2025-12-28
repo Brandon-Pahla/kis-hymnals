@@ -1,0 +1,46 @@
+{
+  "number": 221,
+  "language": "sn",
+  "title": "221 Garire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kana njiva-ichirira-Zvotipa chiko-mborero",
+        "(Kananjiva) (ichirira) (zvotipachi) (komborero)",
+        "Zvinondifu-ngidzamusha-wakanaka we Garire",
+        "(zvindindifu) (ngidzamusha) (wakanaka) (weGarire)"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chrous",
+        "O Garire rakanaka iroJesu ayidisa,",
+        "O Garire rakanaka Uya undi imbirezve"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mukana-unemaruva-Kune shiri-dzinoimba",
+        "(Mumukana) (wemaruva) (kuneshiri) (dzinoimba)",
+        "Dzichikudza Mwari wadzo, Petyo nairo Garire",
+        "(Dzichikudza) (Mwari wadzo) (Petyo petyo) (neGarire)"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana ndichi-verengazve-Naiyewa-kandifira",
+        "(ndoverenga) (ndoverenga) (naiyeyo) (vakandifira)",
+        "Ndinodisa kutewera Akange ari Garire",
+        "(Ndinodisa) kuwera (akangea) (rigarire)"
+      ],
+      "number": 4
+    }
+  ]
+}

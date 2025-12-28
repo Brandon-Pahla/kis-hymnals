@@ -1,0 +1,47 @@
+{
+  "number": 221,
+  "language": "fr",
+  "title": "Seigneur, à ton regard...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Seigneur, à ton regard de flamme",
+        "Rien n'est couvert, rien n'est caché ;",
+        "Qu'il pénètre au fond de notre âme,",
+        "Et qu'il juge en nous le péché, qu'il juge le péché !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sonde nos cœurs et nos pensées,",
+        "Nos plus intimes souvenirs,",
+        "Nos œuvres présentes, passées;",
+        "Sonde nos plus secrets désirs, nos plus secrets désirs."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qu'à la lumière tout paraisse",
+        "Pour que tout soit purifié,",
+        "Et qu'en nous ton Esprit ne laisse",
+        "Rien qui ne soit sanctifié, vraiment sanctifié."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alors, brûlants d'un nouveau zèle,",
+        "Seigneur, nous pourrons t'obéir.",
+        "Oh ! que la vie est grande et belle",
+        "Pour ceux qui veulent te servir, qui veulent te servir !"
+      ],
+      "number": 4
+    }
+  ]
+}

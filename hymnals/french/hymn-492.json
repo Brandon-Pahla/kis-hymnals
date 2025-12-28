@@ -1,0 +1,40 @@
+{
+  "number": 492,
+  "language": "fr",
+  "title": "Seigneur, attire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Seigneur, attire mon cœur à toi;",
+        "Je te désire tout près de moi.",
+        "Ma délivrance, dans le danger,",
+        "C'est ta présence, divin Berger,",
+        "C'est ta présence, divin Berger."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quand je contemple, près de ta croix,",
+        "Ton grand exemple, Jésus, mon Roi.",
+        "Ah! je n'aspire qu'à tout donner,",
+        "Tant je désire te ressembler,",
+        "Tant je désire te ressembler."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Prompt, je m'élance pour t'obéir,",
+        "Prompt, je m'avance pour te servir",
+        "Mais, sous ton aile, loin du péché,",
+        "Sauveur fidèle, tiens-moi caché,",
+        "Sauveur fidèle, tiens-moi caché."
+      ],
+      "number": 3
+    }
+  ]
+}

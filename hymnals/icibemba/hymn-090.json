@@ -1,0 +1,36 @@
+{
+  "number": 90,
+  "language": "bem",
+  "title": "90 - UMBI UMULUNGU WAPWA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ANOTHER SIX DAYS’ WORK"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Umbi umulungu wapwa;",
+        "Isabata lyafikila;",
+        "Buli bushiku busuma,",
+        "Bwakucila nshiku shonse.",
+        "2. Mwise toteni Yehofa",
+        "Amupela ukutemwa;",
+        "Cimonwa capelwa ifwe,",
+        "Pali Sabata kucila.",
+        "3. Tuletontonkanya lelo,",
+        "Kuli Katula wapalwa;",
+        "Akatupela kwanga pe,",
+        "Na kuli bonse bam'temwa.",
+        "4. Tondolo wa kwa Yehofa,",
+        "Atupela pano calo;",
+        "Lelo lintu fyonse fyapwa,",
+        "Tukatusha ku mwakwe pe."
+      ],
+      "number": 2
+    }
+  ]
+}

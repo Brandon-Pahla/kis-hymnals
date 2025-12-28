@@ -1,0 +1,71 @@
+{
+  "number": 404,
+  "language": "es",
+  "title": "A cualquiera parte",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A cualquiera parte"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A cualquiera parte sin temor iré",
+        "si Jesús dirige mi inseguro pie.",
+        "Sin su compañía todo es pavor,",
+        "mas si él me guía no tendré temor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Con Jesús por doquier,",
+        "sin temor iré;",
+        "si Jesús me guía,",
+        "nada temeré."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Con Jesús por guía adondequiera",
+        "voy.",
+        "Caminando en pos de él seguro",
+        "estoy.",
+        "Y aunque padre y madre puédenme",
+        "faltar,",
+        "Jesucristo nunca me abandonará."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dondequiera pueda estar, en tierra y",
+        "mar,",
+        "quiero ser su fiel testigo sin cesar.",
+        "Y si por desierto mi camino va,",
+        "un seguro albergue mi Jesús será."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dondequiera afrontaré la noche",
+        "atroz,",
+        "porque siempre oigo su benigna",
+        "voz;",
+        "Él de día y noche a mi lado está;",
+        "y en plena gloria me despertará."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "number": 277,
+  "language": "es",
+  "title": "Amarte más",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Amarte más"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amarte más, Jesús, anhelo hoy;",
+        "oye mi humilde voz, pues tuyo",
+        "soy."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Esta es mi oración: Quiero amarte",
+        "más;",
+        "amarte más, amarte más."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Del mundo el placer, antes",
+        "busqué;",
+        "mas por amor a ti, todo dejé."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En medio del dolor refinador,",
+        "más cerca iré de ti, mi Salvador."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Y mientras viva aquí te serviré;",
+        "pues, por la eternidad, te amaré."
+      ],
+      "number": 6
+    }
+  ]
+}

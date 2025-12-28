@@ -1,0 +1,46 @@
+{
+  "number": 47,
+  "language": "xh",
+  "title": "47 Indonga ze-Jordane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyakuma e-Jordane, nangaphesheya le,",
+        "Ndiphos’ iliso lam khona, Kwilizwe le-Kanan."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sakuphumla ezweni elihle, Elizweni eliluhlaza;",
+        "Sihlabela ingoma ka-Yesu apho Sihlale no-yesu njalo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Emathafeni amahle, akhanya kuphela;",
+        "U-Yesu ilanga lethu, Ugxoth’ ubusuku."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndoya ninina phezulu Ndisikeleleke,",
+        "Apho ndobona u-Bawo Ndiphuml’ embusweni?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iya vuya intliziyo Kuba ndiya hamba;",
+        "Naxa ndirhanqiwe ke mna ngesibindi ndoya."
+      ],
+      "number": 4
+    }
+  ]
+}

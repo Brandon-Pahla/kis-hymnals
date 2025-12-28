@@ -1,0 +1,34 @@
+{
+  "number": 254,
+  "language": "tn",
+  "title": "254 Lo Bakeng Jehofa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lo Bakeng Jehofa, Mmakeng Kgotleng Tsa ’Gwe,",
+        "Lo Mo tlotleng. ’Godimong godimo,",
+        "Tumisang lorato, Tshwaro ya ’Gwe e ka that’a ’Gwe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Janong Terompeta E Tumise Phenyo,",
+        "Tumo ya ’Gwe. Teng go nne hareba;",
+        "Tse di dumang sentle, Tumisang kopelong ’Ina ja ’Gwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Lo Mmaka Pakong, Tumisang Ka Tlhale,",
+        "Tse monate! O naya botshelo;",
+        "Mo’a mongwe le mongwe, tumise Ene; Bakang Jehofa."
+      ],
+      "number": 3
+    }
+  ]
+}

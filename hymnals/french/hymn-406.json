@@ -1,0 +1,37 @@
+{
+  "number": 406,
+  "language": "fr",
+  "title": "Dieu, ton amour",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dieu, ton amour est source intarissable",
+        "De vrai bonheur pour qui s'attache à toi;",
+        "Fais à chacun ce don impérissable,",
+        "Qu'ils soient unis d'un même élan de foi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Dieu vivant, conduis en assurance",
+        "Ces cœurs fidèles, tiens-les dans ta main;",
+        "L'âme confiante, riche d'espérance,",
+        "Qu'ils te soumettent chaque lendemain."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "D'un cœur joyeux, qu'ils suivent ta lumière,",
+        "Doux et sereins, qu'ils vivent dans ta paix;",
+        "Dès maintenant, et pour la vie entière,",
+        "Scelle leurs vœux dans un amour parfait."
+      ],
+      "number": 3
+    }
+  ]
+}

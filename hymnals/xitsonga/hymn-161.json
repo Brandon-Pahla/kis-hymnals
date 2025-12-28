@@ -1,0 +1,28 @@
+{
+  "number": 161,
+  "language": "ts",
+  "title": "161. NAKULORHI WA MINA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I HAVE A FRIEND SO PRECIPOUS",
+        "1. Nakulorhi Wa Mina, Wo Rhandzeka Ngopfu,",
+        "Wa Ndzi Rhandza Hi Rirhandzu, Rirhandzu Ro Tiya;",
+        "Ndzi Nge Tshami Kule Na Ye, U Ta Va Kusuhi,",
+        "Mina Na Yona Hosi, Ha Vumbirhi.",
+        "2. Na Loko Ndzi Karhele, Ntamu Wu Herile,",
+        "Ndzi Seketela Ka Yena, Nakulorhi Wanga;",
+        "Ndzi Famba Ku Vonakalen, Ka Hosi Ya Mina,",
+        "Mina Na Yona Hosi, Ha Vumbirhi.",
+        "3. Ndzi N’wi Byela Maxangu, Na Ntsako Wa Mina,",
+        "Na Leswi Ndzi Tsakisaka Na Leswo Karhata;",
+        "Mina Na Ye Nakulorhi, Ha Kanerisana, Mina Na Yona Hosi, Ha Vumbirhi",
+        "4. Wa Switiva Leswaku, Ndzi Rhandza Ku Vula,",
+        "Vhangeli Ka Vanhu Vakwe, Yena Wa Ndzi Pfuna; Kutani Hi Tirha Swin’we, Ritweni Ra Yena,",
+        "Mina Na Yona Hosi, Ha Vumbirhi."
+      ],
+      "number": 1
+    }
+  ]
+}

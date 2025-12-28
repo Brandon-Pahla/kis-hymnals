@@ -1,0 +1,54 @@
+{
+  "number": 317,
+  "language": "es",
+  "title": "En el hogar do nunca habrá",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### En el hogar do nunca habrá"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En el hogar do nunca habrá",
+        "tristeza, muerte ni dolor,",
+        "eterno gozo existirá,",
+        "es la promesa del Señor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Velad y esperad al Salvador;",
+        "muy pronto vendrá el Redentor.",
+        "¡Velad y orad! Vendrá el Salvador."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si vuestra senda angosta es,",
+        "¡seguid!, no os desaniméis;",
+        "felicidad habrá después",
+        "en el hogar donde estaréis."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Es tiempo de ir a trabajar",
+        "y dar las nuevas de salud",
+        "de Aquel que a todos ha de dar",
+        "hogar de eterna juventud."
+      ],
+      "number": 5
+    }
+  ]
+}

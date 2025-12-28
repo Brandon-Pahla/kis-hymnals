@@ -1,0 +1,22 @@
+{
+  "number": 224,
+  "language": "ts",
+  "title": "224. NSOVO WA HOSI VONINGA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BRIGHTLY BEAMS OUR FSTHER’S MERCY",
+        "1. Nsovo Wa Hosi Voninga, Wu Huma E-Tilweni,",
+        "U HI Nyiketile Ntirho, Wo Voninga Misava.",
+        "CHORUS",
+        "Pfurhisani Timboningo, Voningani, Makorhwen, Wo Hela Ntamu Elwandle, Leswaku A Ta Pona.",
+        "2. I Munyama Wa Vudyoho, Ku HUnga Na Xidzedze,",
+        "Khale Hi Rindzele Ntsena, Timboni Hlalukweni.",
+        "3. Pfurhisani Timboningo, Ku Nga Va Na Vatluti, Lava Lavaka Hlaluko,",
+        "Munyamen Wa Vusiku."
+      ],
+      "number": 1
+    }
+  ]
+}

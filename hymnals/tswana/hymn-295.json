@@ -1,0 +1,46 @@
+{
+  "number": 295,
+  "language": "tn",
+  "title": "295 Lo Utlwatseng Ntwa<",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lo Utlwatseng Ntwa, Mmaba O Gaufi;",
+        "Banera lo e tsholetseng",
+        "Lotlhe tlhomelang, Mme lo tlhomameng.",
+        "Lo ikanyeng mo fokung ja ’Gwe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lo lweleng banera batlhabani,",
+        "Etle’tsegang, bolelang gotlhe.",
+        "Tswelang pele lo goeng Hosana,",
+        "K’rest’O laola Baikanyegi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Re Tsweleleng Re Yeng Kwa Mmabeng,",
+        "Re itse fa re tla fenya.",
+        "Banera a e phatsime seding,",
+        "Re lwa tshiamong Re tla fenya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wena Modimo Utlwa Re Bitsa,",
+        "Re thuse rotlhe ka tshwaro;",
+        "Ntwa e fedile, Phenyo e bonywe,",
+        "Re rwale k’rona ’Gosing jwa ’Gwe."
+      ],
+      "number": 3
+    }
+  ]
+}

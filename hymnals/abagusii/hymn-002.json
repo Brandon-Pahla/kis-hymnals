@@ -1,0 +1,49 @@
+{
+  "number": 2,
+  "language": "guz",
+  "title": "2 Tobake Nyasae",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tobake Nyasae, As'Omwan' Omwanchwa,Ase Yes'okwete bon'ore Igoro."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Haleluya tokobake, Haleluy'abe bo;Haleluya tokobake, toboki emioyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tobake Nyasae, As'omoik Omuya;Otworokirie Yeso Omotoria."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Gotogigw'ase, 'Manw'eria yakwete;Kabogorl' ebibe na gotosibia."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Atogigw'ere Nyasae bw'obuya;Oy'otogorire na gotoraa."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Toboki'emioyo, toichori' Obwanchani;Morero lgoro okune chinkoro."
+      ],
+      "number": 6
+    }
+  ]
+}

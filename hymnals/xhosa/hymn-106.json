@@ -1,0 +1,46 @@
+{
+  "number": 106,
+  "language": "xh",
+  "title": "106 Yakha Phezu Kwe-Liwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Phezu kwe-Liwa sakha khona,",
+        "Yesu Liwa Laphakade;",
+        "Sothi ngoko singoyiki nto,",
+        "Ngexa lokuvuthuza."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Phezu . . . kwe-Liwa; Phezu . . . kwe-Liwa;",
+        "(Phezu kwe-Liwa; kwelilukhuni; Phezu kwe-Liwa; kwelilukhuni)",
+        "Phezu kwe-Liwa; Kwelilukhuni,",
+        "KuYes’ onamandla."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bambi bakhel’ entlabathini,",
+        "Bejonge ebutyebini;",
+        "Bambi bakhel’ embambanweni,",
+        "Yodumo lweziyolo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yakhel’ e-Liweni lenene,",
+        "Lisiseko siqinile;",
+        "’Thamba laso lelaphakade,",
+        "Lokusindiswa kwethu."
+      ],
+      "number": 3
+    }
+  ]
+}

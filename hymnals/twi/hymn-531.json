@@ -1,0 +1,45 @@
+{
+  "number": 531,
+  "language": "tw",
+  "title": "Yebesi Dan ɔbotan No So",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yebesi dan ɔbotan no so,",
+        "Yesu, Tete Botan no so;",
+        "Ͻno na yebetum' agyina,",
+        "B're a 's'rɔkye bɛbo no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yebesi yɛn dan, ɔbotan no so,",
+        "Yebesi yɛn dan, Botantim no so,",
+        "Kristo, Botantim no."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ebinom si dan wɔ anwea so,",
+        "Fam ha 'gyapadč adehun' mu;",
+        "Binom si dan bɔn'ne ap'rep'rem'",
+        "Din ne wiase anigyem'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si wo dan daa Botantim no so,",
+        "Nokware fapem pintinn no;",
+        "Emu 'nidaso begyina daa",
+        "Yɛn nkwagye ho 'nidaso n'."
+      ],
+      "number": 3
+    }
+  ]
+}

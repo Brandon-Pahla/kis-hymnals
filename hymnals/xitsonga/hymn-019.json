@@ -1,0 +1,20 @@
+{
+  "number": 19,
+  "language": "ts",
+  "title": "19. TIYISA MOYA WANGA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "MY SOUL BE ON YOUR GUARD",
+        "1. Tiyisa Moya Wanga; Valala Vatele;",
+        "Mavandla Ya Vudoho; Ya Wena Ku Ndzi Wisa.",
+        "2. Rirhandzu Hi Xi Khongelo; Nyimpi Yita Hela;",
+        "Rhamba Xona Xikwembu; Nyimpini Hi Masiku.",
+        "3. Loko U Nga Si Hlula; Hloma Wo Matlharhi,",
+        "Nyimpfi Yo Yi Ta Hela; U Ta Kuma Yo Harhi."
+      ],
+      "number": 1
+    }
+  ]
+}

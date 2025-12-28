@@ -1,0 +1,56 @@
+{
+  "number": 310,
+  "language": "pt",
+  "title": "O Mestre Chama",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### O Mestre Chama"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Já os campos da seara",
+        "Têm o trigo a madurar!",
+        "O Senhor procura obreiros,",
+        "Eis que O ouço a me chamar!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Eis que O ouço a me chamar,",
+        "Eis que O ouço a me chamar!",
+        "O Senhor procura obreiros,",
+        "Eis que O ouço a me chamar!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo, amigo dos perdidos,",
+        "Esta ovelha quis buscar.",
+        "Hoje, aos outros quer que eu busque,",
+        "Eis que O ouço a me chamar!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu me entrego ao Seu serviço,",
+        "Sigo aonde me mandar.",
+        "São mui poucos os obreiros,",
+        "Eis que O ouço a me chamar!"
+      ],
+      "number": 5
+    }
+  ]
+}

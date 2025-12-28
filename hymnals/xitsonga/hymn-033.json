@@ -1,0 +1,24 @@
+{
+  "number": 33,
+  "language": "ts",
+  "title": "33. NDZI FAMBISE WENA HOSI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HE LEADETH ME",
+        "1. Ndzi Fambise Wena Hosi, Ndzi Kongome Kaya Tilweni,",
+        "Ndzi Nga Endla Yini Xana, Hosi Yesu Ndzi Fambise.",
+        "CHORUS",
+        "Ndzi Fambise N’wini Wanga, Hosi Yesu Ndzi Fambise, Ndzi Nyiketa Mbilu Yanga, Ina Hosi Ndzi Fambise.",
+        "2. Hi Minkarhi Ya Makhombo, Na Minkarhi Ya Maxangu,",
+        "Susa Na Wona Mapfalo, Hosi Yesu Ndzi Fambise.",
+        "3. Ndzi Lava Ku Ku Landzela, Ndzi Tirhwexa Xihambano,",
+        "Hambi Ku Fika Maxangu, Ndzi Na Hosi A Ndzi Chavi.",
+        "4. Loko Ntirho Wanga Kwala, Wu Tava Va Ndzi Wu Hetile,",
+        "Loko Yi Herile Nyimpi, Wena Hosi Ndzi Wisise."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "number": 278,
+  "language": "ts",
+  "title": "278. NDLELEN YAKU HOSI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NOT MY WAY",
+        "1. Ndleleni Yaku Hosi, Ku Nga Ri Ya Mina, Ndzi Fambise Hosi, Hambi Yo Va Njhani,",
+        "Ndzi Nge Yi Hlawuli, Hlawula Xikwembu, U Ndzi Hlawulela, Mina Ndza Landzela.",
+        "2. I Mfumo Wa Wena, Ndzi Lavaka Wona, Ndlela Yo Ya Kona, A Yi Ve Ya Wena,",
+        "Ndzi Nga Ta Lahleka, Loko Yi Va Yimbe, Na Xinwelo Xanga, Xi Hlawule Hosi,",
+        "3. Hlawula Vanghana, Ku Vabta No Hanya, Vusweti, Rifumo, Swi Ndzi Fanelaka, A Ndzi Nge Hlawuli Xikulu, Xitsongo,",
+        "U Vutlhari Byanga, Na Matimba Yanga."
+      ],
+      "number": 1
+    }
+  ]
+}

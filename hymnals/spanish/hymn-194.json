@@ -1,0 +1,55 @@
+{
+  "number": 194,
+  "language": "es",
+  "title": "Vive en mí",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Vive en mí"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vive, Santo Espíritu,",
+        "en este pobre ser;",
+        "y que tu fuego celestial",
+        "transforme mi existir."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Vive en mí, vive en mí,",
+        "Santo y fiel Consolador.",
+        "Limpia del mal mi corazón;",
+        "llénalo siempre de tu amor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Habla, Santo Espíritu,",
+        "háblame con poder;",
+        "y al escuchar tu dulce voz,",
+        "consagre a ti mi ser."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo, Santo Espíritu,",
+        "lléname de fervor,",
+        "para servirte con amor,",
+        "y sea yo vencedor."
+      ],
+      "number": 5
+    }
+  ]
+}

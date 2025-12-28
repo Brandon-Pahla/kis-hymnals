@@ -1,0 +1,22 @@
+{
+  "number": 125,
+  "language": "ts",
+  "title": "125. YA TLHAVILE EGANGENI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE IS SUNLIGHT ON THE HILLTOP",
+        "1. Ya Tlhavile Egangeni Na Le Lwandle Masana, Miseve Yi Tlhave Emadyelweni Ya Rihlaza;",
+        "Mina Ndzi Na Rivoningo Ra Ntamu Embilwini, Ri Huma Ka Muponisi La Tshameke Ka Mina.",
+        "CHORUS",
+        "Masana Lama Xongeke, Masana Embilwini; Yesu U Susa Gome Hi Masana Mbilwini.",
+        "2. Ntshurini Ndzi Siya Gome Bya Nguvu Leya Khale, Ndzi Ta Ambexiwa Ntsako Ndzi Tala Ku Vonga;",
+        "Kona Kaya Ro Kwetsima Hi Nsovo Wa Ndzi Nyika, Tlhandluka Mbilu Ya Mina, Moya Wanga Landzela.",
+        "3. Yesu U Ndzi Kutsurile, Se Ndzi Wa Yena Ntsena, Rivoningo Ra Rirhandzu A Ri Ku Kwetsimise;",
+        "Kaya Leri Kwetsimaka, U Ndzi Nyike Nsovo, Tlhandluka Mbilu Ya Mina, Moya Wanga Landzela."
+      ],
+      "number": 1
+    }
+  ]
+}

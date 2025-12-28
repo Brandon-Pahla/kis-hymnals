@@ -1,0 +1,54 @@
+{
+  "number": 252,
+  "language": "ve",
+  "title": "252. Fulufhela Ene",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Vhaita zwivhi Idani, Yesu u na vhuthu,",
+        "U ni thadula nga ngoho, mu fulufhedzeni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Fulufhedzani Ene Yesu, Pika Ene,",
+        "Ene-ha u do ni tshidza, na vhofholowa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. A tshi shulula malofha, Ho da phathutshedzo,",
+        "tambani-ha malofhani, A do ni tshenisa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ee, Yesu ndi ene ndila, Iyaho hayani,",
+        "Ni do ponyoka vhuvhini, Ni tshi mu tevhela."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. dani kha hetshi tshigwada, Ni ye vhugalani,",
+        "Ni yo dzula dakaloni, Nga hu sa fheliho."
+      ],
+      "number": 5
+    }
+  ]
+}

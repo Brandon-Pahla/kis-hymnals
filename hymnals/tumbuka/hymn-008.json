@@ -1,0 +1,66 @@
+{
+  "number": 8,
+  "language": "tum",
+  "title": " 8 Pakuchema Fumu Yane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 8 Pakuchema Fumu Yane",
+        "WHEN THE TRUMPET"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Pakuchema Fumu yane, pakumara kwa charu,",
+        "Pakwiza zuwa lira lakuwara.",
+        "Para watuwa wose wakukumana na Yesu,",
+        "Ndamkusangwa nayo kwa myirayira."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Pakuchema Fumu yane ('mwe Fumu),",
+        "Pakuchema Fumu yane (mwe Fumu),",
+        "Pakuchema Fumu yane,",
+        "Ndamkusangwa nayo kwa myirayira."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "wakufwira mwa Yesu pakufuma mu malaro,",
+        "Tamkumana nawo pa nyengo iyi.",
+        "Pakuwuka kwa watuwa kukumana na Yesu,",
+        "Ndamsekelera nayo myirayira."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Tikoreske kumlimira mlimo mpaka ku nyifwa,",
+        "Tipharazge m'charu chose cha pasi,",
+        "Pakumalizga milimo na umoyo wa m'charu,",
+        "Taya m'mwemwetera pakukumana."
+      ],
+      "number": 4
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Pakuchema Fumu yithu ('mwe Fumu)",
+        "Pakuchema Fumu yithu ('mwe Fumu)",
+        "Pakuchema Fumu yithu,",
+        "Tamkusangwa nayo kwa myirayira."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "number": 238,
+  "language": "fr",
+  "title": "Parle-moi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Parle-moi, parle-moi : c'est là ma prière.",
+        "Je t'écoute, ô Père,",
+        "Prêt à t'obéir, prêt à t'obéir."
+      ],
+      "number": 1
+    }
+  ]
+}

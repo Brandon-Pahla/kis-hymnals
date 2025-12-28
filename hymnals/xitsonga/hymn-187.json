@@ -1,0 +1,20 @@
+{
+  "number": 187,
+  "language": "ts",
+  "title": "187. HI TA EKA WENA MUPONISI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "OUR PARTING HYMN",
+        "1. Hi Ta Eka Wena Muponisi, Hi Ro Risimu Ra Ku Lelana;",
+        "Hi Katekisiwile Hi Wena, Hi Nyikete Rito Ra Ku Rhula.",
+        "2.Hi Nyike Ku Rhula Emakaya, Hi Wisa No Pfukela Ka Wena;",
+        "Hi Sirhelele Eka Vudyoho, Hi Vitaniwa Hi Vito Raku.",
+        "3.Hi Nyike Ku Rhula Misaveni, Hi Sirhelele Emaxangwini;",
+        "Heta Dzolonga Hi Rito Raku, U Hi Amukela Ku Rhuleni."
+      ],
+      "number": 1
+    }
+  ]
+}

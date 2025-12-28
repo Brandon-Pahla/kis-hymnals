@@ -1,0 +1,24 @@
+{
+  "number": 106,
+  "language": "ts",
+  "title": "106. HI TA AKA HENHLA KA RIBYE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WE’LL BUILD ON THE ROCK",
+        "1. Hi Ta Aka Henhla Ka Ribye, Ra Yesu Leri Hanyaka;",
+        "Ha Tiya Ka Swo Chavisa, Hambi Bubutsu Ri Fika.",
+        "CHORUS",
+        "Hi Aka Ribyeni",
+        "Hi Aka Kona Henhla Ka Ribye; {Hi Aka Ribyeni;",
+        "Hi Aka Kona Henhla Ka Ribye; Hi Aka Ribyen Leri Tiyeke, Ku Nga Yesu Kreste.",
+        "2. Van’wana Va Aka Saveni, Va Rhandza Swa Yo Misava;",
+        "Van’wani Va Titsakisa, Va Duma Evudyohweni.",
+        "3. Ina Aka Henhla Ka Wona, Masungulo Layo Tiya;",
+        "Tshemba Leri Nga Heriki, Ku Kutsuriwa Ka Hina."
+      ],
+      "number": 1
+    }
+  ]
+}

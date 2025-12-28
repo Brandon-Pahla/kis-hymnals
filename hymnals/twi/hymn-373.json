@@ -1,0 +1,46 @@
+{
+  "number": 373,
+  "language": "tw",
+  "title": "Kɔhwehwɛ Wɔn Yiw",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kɔhwehwɛ wɔn, yiw, wɔn a wɔayera,",
+        "Wɔn a wɔafom kwan mmepɔ so no;",
+        "\\\"Mommra Me nkyɛn\\\"; eyi ne Ne nkrasɛm,",
+        "Ka Owura no nsɛmpa yi nnɛ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kɔ aky'rik'ri mmepɔ atifi",
+        "Fa akwantofo san bra fie.",
+        "Fa wɔn bra me Gyefo no nguankuwm'",
+        "Guammaá a wɔkum No maa bɔne."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kɔhwehwɛ wɔn, na kyerɛ wɔn Yesu,",
+        "Mm'rɛwyɛfo ne komam yawdifo;",
+        "Di wɔn anim kɔ nkwagye akwan so,",
+        "Na kyerɛ wɔn kwan kɔ daa nkwa mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Saa na mɛkɔ mmɔb'rɔhunu soma,",
+        "B're a midi Kristo akyi daa,",
+        "Rekyekye abrɛfo w'rɛ ma wɔn so,",
+        "Ky'rɛ 'kwantofo kwan kɔ Yesu nkyɛn."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "number": 1,
+  "language": "ny",
+  "title": "1 - Omba Lipenga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WATCHMAN, BLOW THE GOSPEL TRUMPET"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1 Mlonda lalika uthenga, Chenjeza anthu onse,",
+        "Iye wakumva adzetu, Nakhale nawo moyo.",
+        "CHORUS:",
+        "Omba Lipenga mlonda’we, Anthu onse amvetu,",
+        "Lalika atero Mlungu! Onse amasulidwe.",
+        "2 Lalika m’mapiri monse, M’nkhalango ndi m’madambo;",
+        "Lalikiranso mzinyanja, Ndi nyimbo yokondwera.",
+        "3 Lalikira ponse ponse, kumene kuli mdima;",
+        "Amve kuti zonse zapsa, Atate alindira.",
+        "4 Lalikira kwa othodwa, Akufuna mpumulo;",
+        "Yesu ali kuitana, Idzani kwa inetu."
+      ]
+    }
+  ]
+}

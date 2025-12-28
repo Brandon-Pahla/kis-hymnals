@@ -1,0 +1,54 @@
+{
+  "number": 166,
+  "language": "en",
+  "title": "166 Rock Of Ages.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Rock of ages cleft for me!",
+        "Let me hide myself in thee;",
+        "Let the water and the blood,",
+        "From thy riven side that flowed,",
+        "Be of sin the double cure,",
+        "Save me from its guilt and power."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Not the labor of my hands,",
+        "Can fulfill thy law’s demands;",
+        "Could my zeal no respite know, Could my tears forever flow,",
+        "All for sin could not atone;",
+        "Thou must save and thou alone."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nothing in my hand I bring,",
+        "Simply to thy cross I cling;",
+        "Naked, come to thee for dress,",
+        "Helpless, look to thee for grace;",
+        "Foul, I to the Fountain fly,",
+        "Wash me, Saviour, or I die."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "While I draw this fleeting breath,",
+        "When mine eyes shall close in death;",
+        "When I soar to worlds unknown,",
+        "See thee on thy Judgment throne,",
+        "Rock of ages cleft for me,",
+        "Let me hide myself in thee."
+      ],
+      "number": 4
+    }
+  ]
+}

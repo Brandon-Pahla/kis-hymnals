@@ -1,0 +1,43 @@
+{
+  "number": 318,
+  "language": "fr",
+  "title": "Un chrétien, je voudrais être",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Un chrétien, je voudrais être, de tout mon cœur, de tout mon cœur.",
+        "Un chrétien, je voudrais être, de tout mon cœur, de tout mon cœur, de tout mon cœur,",
+        "Un chrétien, je voudrais être, de tout mon cœur."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Plus aimant, je voudrais être, de tout mon cœur, de tout mon cœur.",
+        "Plus aimant, je voudrais être, de tout mon cœur, de tout mon cœur, de tout mon cœur,",
+        "Plus aimant, je voudrais être, de tout mon cœur."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pur et saint, je voudrais être, de tout mon cœur, de tout mon cœur.",
+        "Pur et saint, je voudrais être, de tout mon cœur, de tout mon cœur, de tout mon cœur,",
+        "Pur et saint, je voudrais être, de tout mon cœur."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tel Jésus, je voudrais être, de tout mon cœur, de tout mon cœur.",
+        "Tel Jésus, je voudrais être, de tout mon cœur, de tout mon cœur, de tout mon cœur,",
+        "Tel Jésus, je voudrais être, de tout mon cœur."
+      ],
+      "number": 4
+    }
+  ]
+}

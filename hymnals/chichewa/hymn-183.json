@@ -1,0 +1,53 @@
+{
+  "number": 183,
+  "language": "ny",
+  "title": "183 - Analonjeza Ambuye Wathu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOLD FAST TILL I COME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Analonjeza Ambuye wathu,",
+        "Ndibweranso msanga kulandira ’nu.",
+        "Gwiritsanitu choonadicho,",
+        "Msagonenso tulo, dikiranitu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Gwiritsanitu choonadicho,",
+        "Apatsa inu ufumu wake,",
+        "Lowani nonse m’chimwemwe changa;",
+        "Korona alinda, gwiritsanibe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tidikiratu ndi nyali zathu,",
+        "Adzadzanso monga usiku mbala.",
+        "Timadziwanso wayandikadi,",
+        "Komatu za tsiku sitidziwai."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Chiyembekezo cha mau ake,",
+        "Kubwera kwa Yesu, Ambuye wathu.",
+        "Ndi lonjezano lopambanadi,",
+        "Abweradi msanga, gwiritsanibe."
+      ],
+      "number": 4
+    }
+  ]
+}

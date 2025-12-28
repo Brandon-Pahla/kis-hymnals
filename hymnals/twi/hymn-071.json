@@ -1,0 +1,59 @@
+{
+  "number": 71,
+  "language": "tw",
+  "title": "Bra, ɔhene Tumfo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bra, ɔhene Tumfo,",
+        "Boa ma yɛnto W' ho dwom",
+        "Mfa nyi W'ayɛ!",
+        "Agya 'nuonyamfo pa,",
+        "Nkonimdifo kɛse,",
+        "Bedi yɛn so hene,",
+        "Wō a Wo nnā akyɛ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bra, Asɛm a wɔwoo W'",
+        "Ma Wo nkrantɛ no so,",
+        "Tie yɛn mpaebɔ;",
+        "Bra behy'ra Wo nk'rɔfo;",
+        "Ma W'asɛm nni nkonim;",
+        "Hwie kronkronyɛ Honhom",
+        "No gu yɛn so!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bra, 'Kyidifo kronkron,",
+        "Di W'adanse kronkron,",
+        "Saa 'nigye b're' I:",
+        "Wo a Woyɛ Tumfo,",
+        "Di koma biara so,",
+        "Na ntwe W' ho mfi yɛ ho,",
+        "Tumi Honhom."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wō a Woyɛ Baasak'ro,",
+        "Daa ayeyi nka Wo",
+        "Nnasanten ny'naa:",
+        "Ma yenhu W' tumidi",
+        "Wɔ anuonyam mu na",
+        "Enkosi daapem mu,",
+        "Yɛnnɔ W' nsom Wo!"
+      ],
+      "number": 4
+    }
+  ]
+}

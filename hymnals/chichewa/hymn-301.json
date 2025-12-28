@@ -1,0 +1,32 @@
+{
+  "number": 301,
+  "language": "ny",
+  "title": "301 - Ambuye Ali Pafupi Kudza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "’TIS ALOMOST TIME FOR THE LORD TO COME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Ambuye ali pafupi kudza, Ndikumvaconcodi,",
+        "Ndiponso nyenyezi zikuzima, Tsopano ndi mbanda kucatu",
+        "CHORUS:",
+        "Ee! Tsopano ndi mbanda kucatu!",
+        "Ee! Tsopano ndi mbanda kuca ndithu!",
+        "Usiku wathadi! Usana wadzanso.",
+        "Ee! Tsopano ndi mbanda kucatu!",
+        "2. Zizindikiro za mlengalenga Zilalikiradi;",
+        "Ndi za pa dziko zinena kuti Ambuye wayandikira",
+        "3. Ndi nthawi yoti kunyada kuthu Mu mpingo wonsewo;",
+        "Ukhale wofulumira ntchito, Ukhale woyang’aniratu",
+        "4. Pitani msanga kukalalika Kwa osaukawo;",
+        "Ndi kwa omveka a dziko lino; Onsewo afulumirenso."
+      ]
+    }
+  ]
+}

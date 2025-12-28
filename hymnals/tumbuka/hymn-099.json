@@ -1,0 +1,59 @@
+{
+  "number": 99,
+  "language": "tum",
+  "title": " 99 Pakulawiska Mphinjika",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 99 Pakulawiska Mphinjika",
+        "WHEN I SURVEY THE WONDROUS CROSS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Pakulawiska mphinjika,",
+        "apo yikafwira Fumu,",
+        "Chandulo chose nkhuwavye,",
+        "nkhujinyumwa nda muheni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Wonani mutu, mawoko,",
+        "malundi na m'mbambo wuwo,",
+        "Enya pakawavye m nyake,",
+        "wakundivwalira minga."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nanga uli ndiri mheni,",
+        "wali kundipokerera,",
+        "Ndingajitemwanga ndekha,",
+        "ndithuwuskenge mphinjika."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Nanga ndipereke vyuma,",
+        "mucharu chose cha pasi,",
+        "Ntha vingakwana kuthaska,",
+        "ndipereke mtima wane."
+      ],
+      "number": 5
+    }
+  ]
+}

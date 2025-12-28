@@ -1,0 +1,55 @@
+{
+  "number": 316,
+  "language": "es",
+  "title": "Hay un mundo feliz más allá",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Hay un mundo feliz más allá"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hay un mundo feliz más allá,",
+        "donde ángeles cantan en luz",
+        "tributando eterno loor",
+        "al invicto, glorioso Jesús."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "En el mundo feliz",
+        "reinaremos con nuestro Señor,",
+        "en el mundo feliz",
+        "reinaremos con nuestro Señor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cantaremos con gozo a Jesús,",
+        "al Cordero que nos rescató,",
+        "que con sangre vertida en la cruz",
+        "los pecados del mundo quitó."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Para siempre en el mundo feliz",
+        "con los santos daremos honor",
+        "al invicto, glorioso Jesús,",
+        "a Jesús, nuestro Rey y Señor."
+      ],
+      "number": 5
+    }
+  ]
+}

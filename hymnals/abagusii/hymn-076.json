@@ -1,0 +1,35 @@
+{
+  "number": 76,
+  "language": "guz",
+  "title": "76 Kobusura Mambia",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kobusura mambia,'mbusuro chingiya,Kobusura mobaso, mogorobaToganye rigesa n'ogosangereria,Natochenge tokoreta rigesa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Reta rigesa, Reta rigesa;Natochenge tokoreta rigesaReta rigesa, Reta rigesa;Natochenge tokoreta rigesa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Twabusur' ensakia nonya n'ekiriri,Titobugwa n'obokendu n'omwagaMbwango eraere emeremo yonsi,Natochenge tokoreta rigesa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Busurera Yeso Ase amariga,Nase emechando n'omoichanoEro gekoera natoire bwoye,Natochenge tokoreta rigesa."
+      ],
+      "number": 4
+    }
+  ]
+}

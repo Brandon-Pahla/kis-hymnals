@@ -1,0 +1,47 @@
+{
+  "number": 7,
+  "language": "sw",
+  "title": "7 - Mungu Msaada Wetu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Mungu Msaada wetu, tangu miaka yote,",
+        "Ndiwe tumaini letu, la zamani zote."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Kivuli cha kiti chako, ndiyo ngome yetu,",
+        "Watosha mkono wako, ni ulinzi wetu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Kwanza havijakuwako, nchi na milima,",
+        "Ndiwe Mungu, chini yako twakaa salama."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Na miaka elfu ni kama, siku moja kwako;",
+        "Utatulinda daima, tu raia wako."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "Bwana Msaada wetu tangu miaka yote,",
+        "Mlinzi wetu na ngome, daima, milele."
+      ]
+    }
+  ]
+}

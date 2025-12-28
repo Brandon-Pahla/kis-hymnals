@@ -1,0 +1,56 @@
+{
+  "number": 104,
+  "language": "tn",
+  "title": "104 O Nkutlwe Selelo Ntshegofatse",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O Nkutlwe Selelo Ntshegofatse,",
+        "Tla Mogolodi, tla;",
+        "Ke obame mme kea Go eletsa,",
+        "Tla Mogolodi tla."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke timetse kgakala kwa majeng,",
+        "Ke ntse kgakala le legae,",
+        "O ntsee janong O ntlise lesakeng,",
+        "Tla Mogolodi tla."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga Ke Na Botshabelo Bosigong,",
+        "Tla Mogolodi, tla;",
+        "Tebo ya ’Go e ka mpha botshelo,",
+        "Tla Mogolodi, tla."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tseleng Ke Nosi Mme Ke Lapile,",
+        "Tla Mogolodi, tla;",
+        "Matlho a me a leba go Wena,",
+        "Tla Mogolodi, tla."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga O Ketla O Nyatsa Phegelo,",
+        "Tla Mogolodi, tla;",
+        "Ntheetsa thapelong, nkutlwa telong,",
+        "Tla Mogolodi, tla."
+      ],
+      "number": 4
+    }
+  ]
+}

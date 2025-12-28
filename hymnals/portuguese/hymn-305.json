@@ -1,0 +1,56 @@
+{
+  "number": 305,
+  "language": "pt",
+  "title": "O Teu Querer",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### O Teu Querer"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Imploro a Ti o Teu poder,",
+        "Senhor Jesus, meu Salvador!",
+        "Que eu cumpra aqui, em meu viver,",
+        "O Teu querer, e com fervor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Que eu cumpra só o Teu querer,",
+        "Disposto, assim, a obedecer;",
+        "Que eu siga aonde me guiar",
+        "O Teu querer, o Teu mandar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ao sobrevir tribulação,",
+        "Se aflito estou, opresso em dor,",
+        "Refúgio vou buscar, então,",
+        "No Teu querer, ó Salvador."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E lá no Céu, quando eu chegar,",
+        "E meu Jesus então eu vir,",
+        "Exclamarei sem hesitar.",
+        "\"O Teu querer eu vou cumprir.\""
+      ],
+      "number": 5
+    }
+  ]
+}

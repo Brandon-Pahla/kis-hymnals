@@ -1,0 +1,50 @@
+{
+  "number": 212,
+  "language": "tn",
+  "title": "212 Kagiso E E Monate? Neo Ya Modimo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Go Tsena Mo Pelong Ya Me, (Ya Me)",
+        "Boitumelo le boikhutso, (khutso),",
+        "Ke e opela gape gape, Kagiso ya Modimo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kagiso neo e tswang kwa godimo,",
+        "Kgakgamatso ya kagiso, Kagiso ya Modimo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka Jeso Kagiso E Teng, (E Teng),",
+        "Molato wa me O duetse’ (duetse),",
+        "Ga go motheo o sele, Wa neo ya lorato."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Sena Go Rwesa Jeso, (Jeso),",
+        "Ke bonye kagiso pelong, (pelong),",
+        "Khumo ya sego go Ene, Kagiso e monate."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go Jeso Kagisong Ke Ntse, (Ke Ntse),",
+        "Ka ke ntse ke le gaufi, (gaufi),",
+        "Ke bona kagiso fela, Lorato lwa Modimo."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 278,
+  "language": "xh",
+  "title": "278 Ndikhethele Indlela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndikhokele, Nkosi, Nox’ indlel’ imnyama;",
+        "Mandihambe naWe Ndiqondiswe nguWe.",
+        "Mandingakheth’ okwam, Andikwaz’ okuhle.",
+        "Ndikhethele, Bawo, Ndibesendleleni."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndilangazelela Obo bukumkani,",
+        "Mandibon’ indlela Eya khona apho.",
+        "Gcina ubomi bam, Undinike okwam,",
+        "Okuhle nokubi, Kukuthanda kwaKho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kheth’ abalingane, Ukufa nempilo,",
+        "’Butyebi nendlala, Ndikhethele wena.",
+        "Mandingakhethi mna, Kokuhle nokubi",
+        "Wen’ unguMkhokeli, ’Bulumko naMandla."
+      ],
+      "number": 3
+    }
+  ]
+}

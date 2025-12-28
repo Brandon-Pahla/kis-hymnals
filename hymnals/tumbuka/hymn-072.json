@@ -1,0 +1,57 @@
+{
+  "number": 72,
+  "language": "tum",
+  "title": " 72 Cheruzgo Chamba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 72 Cheruzgo Chamba",
+        "THEJUDGEMENT HAS SET"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Cheruzgo chamba kale kuchanya,",
+        "na mabuku ghakujulika,",
+        "Ndipo Fumu yamkweruzga",
+        "milimo yose tikuchita."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kasi tamkwima wuLi'se,",
+        "pazuwa Lira Lakofya?",
+        "Kasi tamfika kwa iyo,",
+        "zakwananga nzakusukika?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Wamba kale kweruzga wakuíwa,",
+        "luwiro weruzge wamoyo,",
+        "Kupenjerezga m'mabuku,",
+        "ivyo munthu wakachitanga."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Tamkwima uli panyengo yira,",
+        "yakuvumbukwa kwa milimo?",
+        "Pakweruzga mlandu withu,",
+        "kasi nadi tayamkupona?"
+      ],
+      "number": 4
+    }
+  ]
+}

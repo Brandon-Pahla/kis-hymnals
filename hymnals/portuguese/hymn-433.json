@@ -1,0 +1,56 @@
+{
+  "number": 433,
+  "language": "pt",
+  "title": "O Triunfo do Messias",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### O Triunfo do Messias"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus é rejeitado, o mundo não O quer,",
+        "Recusa com orgulho seu Rei reconhecer;",
+        "Mas, eis que vem glorioso do Seu celeste lar,",
+        "Para logo com poder aqui reinar!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Logo vem o dia eterno da Sua exaltação!",
+        "Vem, sim, para o livramento de toda a criação.",
+        "Oh! que canto de vitória então há de soar,",
+        "Quando Cristo triunfante aqui reinar!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Sol ao meio dia não tem o resplendor",
+        "Qual há de ter a Igreja na vinda do Senhor;",
+        "Porque do Esposo a glória, a noiva há de ostentar,",
+        "Quando Cristo triunfante aqui reinar!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Já temos privilégio de pela fé prever",
+        "A divina herança que vamos receber",
+        "A dor e o sofrimento jamais terão lugar,",
+        "Quando Cristo triunfante aqui reinar!"
+      ],
+      "number": 5
+    }
+  ]
+}

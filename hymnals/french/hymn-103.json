@@ -1,0 +1,51 @@
+{
+  "number": 103,
+  "language": "fr",
+  "title": "Vois par avance",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Vois, par avance le grand jour,",
+        "Qui nous rassemblera,",
+        "Quand, dans la gloire et dans l’amour,",
+        "Tout homme adorera,",
+        "Tout homme adorera."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vois, ces milliers d’adorateurs,",
+        "Fidèles ici bas;",
+        "De la Parole du Seigneur",
+        "Chacun d’eux témoigna,",
+        "Chacun d’eux témoigna."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Écoute leurs hymnes éternel,",
+        "Ce bruit de grandes eaux;",
+        "Leur voix joyeuse emplit le ciel :",
+        "« Louange au Dieu très-haut",
+        "Louange au Dieu très-haut! »"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sa grâce attire tous les cœurs,",
+        "À l’éternel salut;",
+        "Nous chanterons à son honneur",
+        "Le grand nom de Jésus",
+        "Le grand nom de Jésus."
+      ],
+      "number": 4
+    }
+  ]
+}

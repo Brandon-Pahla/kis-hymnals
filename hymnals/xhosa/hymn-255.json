@@ -1,0 +1,37 @@
+{
+  "number": 255,
+  "language": "xh",
+  "title": "255 Ndifuna Wena Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndifuna wena Yesu Kuba ndilihlwempu;",
+        "Ndingobhadulayo Andinant’ emhlabeni;",
+        "Ndifuna wena Yesu Ndikhaph’ endleleni;",
+        "Ndikhokele, Nkosi, Ndiphe amandla aKho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndifuna yen’ uYesu Andikhathalele,",
+        "Ndimxelel’ izilingo zam Nenkathazo zam.",
+        "Ndifun’ uMoy’ oNgcwele Az’ andifundise,",
+        "Ndifundiswe ngoYesu Ndibone iMvana."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, Yesu oligugu Kufuph’ ukubona,",
+        "Ndihlal’ etronen’ yaKho Ndirhanqwe nguMnyama.",
+        "Ndiyakonwaba apha nabathengiweyo,",
+        "Ndicule ndingaphezi Phambi kweNkosi yam."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "number": 223,
+  "language": "ve",
+  "title": "223. Ndi Mu Tevhela Ndilani yothe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndi a pfa Mutshidzi wanga,",
+        "A tshi mmbidza nda tevhela,",
+        "Ipfi li pfala ndevheni,",
+        "’Tevhela nne maduvha othe’."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndi do hwala tshifhambano,",
+        "Mutshidzi nda mu tevhela.",
+        "Hune a do nnyisa hone,",
+        "Ndila yothe ndi do tevhela."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Musi ndila i na swiswi,",
+        "Na milenzhe yo no neta,",
+        "Mbilu yanga i takala,",
+        "Ndila yothe ndi tshi tevhela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yesu a tshi nthanga phanda,",
+        "Ndi tshedza ndilani yanga.",
+        "Ndi do wana Maanda maswa,",
+        "Ndila yothe ndi tshi tevhela."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. U nndededza magovhani,",
+        "U mpha zwiliwa zwavhudi,",
+        "U nndededza dzikhomboni,",
+        "Ndila yothe ndi tshi tevhela."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Murena ndededze tshothe,",
+        "O tshi mpha tshilidzi tshau.",
+        "Murena u nkuvhatedze,",
+        "Ndila yothe ndi u tevhele."
+      ],
+      "number": 6
+    }
+  ]
+}

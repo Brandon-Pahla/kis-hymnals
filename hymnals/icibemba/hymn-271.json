@@ -1,0 +1,35 @@
+{
+  "number": 271,
+  "language": "bem",
+  "title": "271 - NANGU FYE SHAKASHIKA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THOUGH YOUR SINS BE AS SCARLET"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nangu fye sha-kashika shikabuta nge mpemba,",
+        "Nangu fye sha-kashika shikabuta nge mpemba",
+        "Nangu shaka., shiki-sha Shikabutisha;",
+        "Nangu fye sha-kashika, Nangu fye sha-kashika,",
+        "Shikabuta nge mpemba, Shikabuta nge mpemba",
+        "2. lshiwi li-lekwita. Bwelela kuli Yesu,",
+        "Ishiwi li-lekwita, Bwelela kuli Yesu;",
+        "Alikwati sho lu-se no kute-mwisha:",
+        "Ishiwi li-lekwita, Ishiwi li-lekwita,",
+        "Bwelela kuli Lesa, Bwelela kuli Lesa",
+        "3. 'Kakwele-la-ububi. Takabwibukisheko,",
+        "'Kakwele-la-ububi, Takabwibukisheko;",
+        "Lolesheni .. kul i - 'ne, Asosa Lesa,",
+        "'Kakwele-la-ububi . kakwele-la-ububi;",
+        "Takabwi-bukisheko, Takabwi bukisheko"
+      ],
+      "number": 2
+    }
+  ]
+}

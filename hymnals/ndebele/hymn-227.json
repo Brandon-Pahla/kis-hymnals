@@ -1,0 +1,40 @@
+{
+  "number": 227,
+  "language": "nd",
+  "title": "227 Esiphambanweni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "UMsindisi wangophela, Yaf’ iNkosi yami;",
+        "Wazidela, wangifela, Ngi sindiswe nami."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Esiphambanweni, ngabon’ ukukhanya,",
+        "Umthwalo wehliziyo wacasha (wacasha)",
+        "Kwaku lapho ngakholwa ngabona ,",
+        "Manje ngi yathaba impela!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngenxa yem’sebenzi yami, Yek’ uthando lomsa! Walenga Yena emthini, Ku yamangalisa!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Usizi kaluhlawuli Elami icala;",
+        "’Nkosi, nguWe inhlawulo ‘Ngi yazinikela!"
+      ],
+      "number": 4
+    }
+  ]
+}

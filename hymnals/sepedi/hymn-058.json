@@ -1,0 +1,64 @@
+{
+  "number": 58,
+  "language": "nso",
+  "title": " 58 BOHLE TUMIŠANG MATLA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 58 BOHLE TUMIŠANG MATLA",
+        "AH 126/127 CH 156",
+        "ALL HAIL THE POWER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tumišang maatla",
+        "'Jeso Mangeloi a iname;",
+        "Tlišang mphapahlog",
+        "'a bogoši le rwešeng Morena;",
+        "Tlišang mphapahlog",
+        "'a bogoši le rwešeng Morena;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lena ba le kgethilwego",
+        "le le mašalela;",
+        "Mo hlompheng ya le phološang",
+        "le rwešeng Morena;",
+        "Mo hlompheng ya le pholosang",
+        "le rwešeng Morena;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Di tšo tšohle le ditšhaba",
+        "mo lefaseng lekhwi;",
+        "Bohle a ba mo hlomphe",
+        "ba rwešeng Morena",
+        "Bohle a ba mo hlomphe",
+        "ba rwešeng Morena;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E ke rena le bakgethwa",
+        "re ka inama;",
+        "Re opele go safeleng",
+        "re rweše Morena;",
+        "Re opele go safeleng",
+        "re rweseng Morena;"
+      ],
+      "number": 5
+    }
+  ]
+}

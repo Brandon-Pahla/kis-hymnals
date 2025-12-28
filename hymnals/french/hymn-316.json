@@ -1,0 +1,58 @@
+{
+  "number": 316,
+  "language": "fr",
+  "title": "Qu'il fait bon à ton service",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Qu'il fait bon à ton service,",
+        "Jésus, mon Sauveur !",
+        "Qu'il m'est doux, en sacrifice,",
+        "De t'offrir mon cœur!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Prends, ô Jésus, prends ma vie,",
+        "Elle est toute à toi !",
+        "Et, dans ta grâce infinie,",
+        "Du mal sauve-moi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pour me posséder toi-même,",
+        "Tu m'as racheté;",
+        "Fais que désormais je n'aime",
+        "Que ta volonté."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Comme l'ange au vol rapide,",
+        "Je veux te servir;",
+        "Je veux te suivre, ô mon guide !",
+        "Toujours t'obéir."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Travaux, luttes et souffrances,",
+        "Que craindrais-je encor’ ?",
+        "En Christ est mon espérance,",
+        "Au ciel mon trésor."
+      ],
+      "number": 5
+    }
+  ]
+}

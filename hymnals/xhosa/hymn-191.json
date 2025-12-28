@@ -1,0 +1,38 @@
+{
+  "number": 191,
+  "language": "xh",
+  "title": "191 Ngqiniseko Enoyolo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hayi ukuyola, Yesu ngowam! Ndinqonyelwa uzuko lwezulu!",
+        "Ndiyindlalifa yosindiso Ndizelwe ngay’ u-Moya waKhe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Le Yimbali yam, nengoma yam, Ndikudumisa, Msindisi wam;",
+        "Le Yimbali yam, nengoma yam, Ndikudumisa, Msindisi wam."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndizinikela ndonke kuye, Ndinemibon’ endivuyisayo.",
+        "Ingelosi ziza nenceba, Zindiphakela kolothando."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndizinikela ’zendiphumle, Ndonwabe kuye u-Msindisi wam,",
+        "Ndize ndikhangele phezulu, Ndizaliswe luthando lwakhe."
+      ],
+      "number": 3
+    }
+  ]
+}

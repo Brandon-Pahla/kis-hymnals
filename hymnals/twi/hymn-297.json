@@ -1,0 +1,63 @@
+{
+  "number": 297,
+  "language": "tw",
+  "title": "Nyankopɔn Hu Me Mmɔbɔ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyankopɔn hu me mmɔbɔ,",
+        "Migyaw m'adesrɛ ma Wo;",
+        "W'ahummɔb'rɔ dɔɔso nti,",
+        "Popa me mm'rato seesei;",
+        "Guare me na tew me ho;",
+        "Hoh'ro me bɔne nyinaa.",
+        "Guare me na tew me ho;",
+        "Hoh'ro me bɔne nyinaa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔawo me wɔ bɔne mu,",
+        "Wohwehwɛ nokwar' me mu;",
+        "Wo nkutoo ne m'Agyenkwa,",
+        "Fa Wo nyansa hyɛ me mu;",
+        "Na fa Wo dom yɛ me kronn,",
+        "Hoa me sene suky'rɛmma.",
+        "Na fa Wo dom yɛ me kronn,",
+        "Hoa me sene suky'rɛmma."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sesa me koma 'Domfo,",
+        "Ma me nokware honhom;",
+        "Nto me mfi Wo nkyɛn, Wura,",
+        "Ma Wo honhom ntra me mu;",
+        "Mam' Wo nkwagye ho 'nigye",
+        "Na hyɛ me koma no den.",
+        "Mam' Wo nkwagye ho 'nigye,",
+        "Na hyɛ me koma no den."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nnebɔn'yɛfo besua me,",
+        "Na wɔaba Wo Nyame nkyɛn;",
+        "'Gyenkwa, yi me bɔne ny'naa,",
+        "Na mato Wo dɔ ho dwom;",
+        "Ka m'anofafa, Wura,",
+        "Na meyi Wo ayɛ daa.",
+        "Ka m'anofafa, Wura,",
+        "Na meyi Wo ayɛ daa."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "number": 580,
+  "language": "pt",
+  "title": "Invocação",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Invocação"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tua santa presença rogamos-Te, ó Senhor;",
+        "Manda-nos Teu Espírito;",
+        "Dá-nos Teu santo poder.",
+        "Queremos dar-Te graças, queremos Teu perdão;",
+        "Queremos cantar louvores a Ti,",
+        "Por Teu infinito amor."
+      ],
+      "number": 2
+    }
+  ]
+}

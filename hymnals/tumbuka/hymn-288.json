@@ -1,0 +1,55 @@
+{
+  "number": 288,
+  "language": "tum",
+  "title": " 288 Wakiza Kwa Mponoski",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 288 Wakiza Kwa Mponoski",
+        "C.H. 658 THEY BROUGHT THEIR GIFTS TO JESUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Wakiza kwa Mponoski kupa vyawanangwa,",
+        "Na mtima wa chitemwa wakavipereka.",
+        "Ntchito ziweme nadi kovwira wakavu,",
+        "Vyose wakapereka vikazirwa nadi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mupani vyawanangwa Yesu wakondwenge,",
+        "Mumupe mtima winu pa maLundi ghake."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Pakati pa wakupa pakimaso mkavu,",
+        "Wakawona wanyake wakuperekapo,",
+        "Nayoso wakanweka kupereka kanthu,",
+        "Kwani wakasowerwa wakiza wa msuma."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Wakalira kwa Fumu \"Ndivwe wakutemwa,",
+        "Mutole mntima wane ndamuheni ine.\"",
+        "Yesu wakamuzgora, \"nawe waperelka,",
+        "Icho we wandipa charuska wanyako.\""
+      ],
+      "number": 4
+    }
+  ]
+}

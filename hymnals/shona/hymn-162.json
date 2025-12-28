@@ -1,0 +1,48 @@
+{
+  "number": 162,
+  "language": "sn",
+  "title": "162 Nzira Yese",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu unotungamira",
+        "Chinyi chandingatsvaka",
+        "Ndingashora mutsa wake",
+        "Achinditungamira",
+        "Ndinorunyararo rwake",
+        "Nokugara kwaari",
+        "Ndinoziva kuti Iye Jesu anobatsira",
+        "Ndinoziva kuti Iye Jesu anobatsira"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu anotungamira",
+        "Munzira dzangu dzose",
+        "Achindipa tsitsi dzake",
+        "Achindipa wupenyu",
+        "Kana nzira ichirema,",
+        "Kana ndava nenyota",
+        "Kune tsime rine mvura, Riri paDombo iri",
+        "Kune tsime rine mvura, Riri paDombo iri"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu anotungamira",
+        "O rudo rwake rwese",
+        "Ndichapiwa kuzorora",
+        "Mumba maBaba vangu",
+        "Kana ndoenda kudenga kwatisingavori",
+        "Urwu ndirwo rwiyo rwangu Jesu atungamira",
+        "Urwu ndirwo rwiyo rwangu Jesu atungamira"
+      ],
+      "number": 3
+    }
+  ]
+}

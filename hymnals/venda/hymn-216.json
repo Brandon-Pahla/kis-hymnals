@@ -1,0 +1,54 @@
+{
+  "number": 216,
+  "language": "ve",
+  "title": "216. A Thi Ndothe Na Khathihi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. A thi ndothe ngauri Yesu u hone;",
+        "Ndi takadzwa nga Ene, ndi divha E hone.",
+        "Thi nga tshuwi, Yesu khonani E tsini,",
+        "Ha nga do shanduka u swikela vhufheloni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "A thi ndothe nandi! A thi ndothe!",
+        "(Hai! A thi ndothe, Hai! A thi ndothe)",
+        "A nga si do nnditsha ndi ndothe.",
+        "Thi sali ndi ndothe, Na kathihi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. U wa? Ndi nga si we, ndi zwandani zwawe.",
+        "Ndi tou difhelwa nga u netuluwa tshothe,",
+        "Nangwe ndi si tshithu ndo tikwa nga Ene,",
+        "Tshanda tsha Yesu tshi na thuso khulu kha nne."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndo lindela u pfa zwine wa zwi funa.",
+        "Nda mangala nda ri, Murena U si hangwe.",
+        "Zwothe zwine wa zwi amba zwi a difha,",
+        "Iwe tshisima tshi re na mudifho muhulu."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 66,
+  "language": "xh",
+  "title": "66 Usuku Oluhle",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Suk’ oluhle lokukhetha Wena Thixo, U-Msindisi;",
+        "Kumnandi intliziyo yam, ivuyele ezo ndaba."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Awu! Luhle usuku, Wandihlamb’ izon’ uYesu;",
+        "Wandibiza, sendivile, Ndinovuyo, ndigcobile,",
+        "Awu! Luhle usuku, Wandihlamb’ izon’ uYesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuphelile, kuphelile, NdingoweNkos’ yona yeyam.",
+        "Indirhola ndilandele, Nal’ ubizo olungcwele."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mayiphumle intliziyo, Icamange ngezi zinto;",
+        "Ingaz’ imke eNkosini, Ezaliswe kukulunga"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Izifungo endinazo Zohlaziywa onk’ amaxa;",
+        "Kude kuphele imihla Yokuphila emhlabeni."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa ebuya uMsindisi Ezok’thabath’ abangcwele,",
+        "Ndakulawula neNkosi yam, Kwelo khaya laphezulu."
+      ],
+      "number": 5
+    }
+  ]
+}

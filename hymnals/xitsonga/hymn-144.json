@@ -1,0 +1,23 @@
+{
+  "number": 144,
+  "language": "ts",
+  "title": "144. NDLELA YANGA YA TLAKUKA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I’M PRESSING ON THE UPWARD WAY",
+        "1. Ndlela Yanga Ya Tlakuka, Hi Masiku Ndza Tlhandluka;",
+        "No Tshama Xikhongelweni, Hosi Yanga Ndzi Tiyise.",
+        "CHORUS",
+        "Ndzi Tlakuse, Ndzi Yimise, Hi Tintswalo Taku Hosi; Xivandleni Xa Le Henhla, Hosi Ndzi Veke Ka Xona.",
+        "2. Misava A Yina Nchumu, Lexi Nga Wisaka Mbilu;",
+        "Van’wana Va Yi Rilela, Kambe Swa Yona Swa Hundza.",
+        "3. Ndzi Navela Ku Va Kule, Na Miringu Ya Sathana; Ndzi Navela Ku Yingisa, Tinsimu Ta Vakwetsimi.",
+        "4. Ndzi Lava Ku Fikelela, Xivandla Lexo Kwetsima;",
+        "Kambe Xikhongelo Xanga, Hosi Ndzi Nyike Ku Hlula."
+      ],
+      "number": 1
+    }
+  ]
+}

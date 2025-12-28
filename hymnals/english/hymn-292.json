@@ -1,0 +1,46 @@
+{
+  "number": 292,
+  "language": "en",
+  "title": "292 Two Little Hands.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I’ve two little hands to work for Jesus",
+        "One little tongue his praise to tell,",
+        "Two little ears to hear his counsel,",
+        "One little voice a song to swell."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lord, we come, Lord, we come,",
+        "In our childhood’s early morning,",
+        "Lord, we come, Lord, we come,",
+        "Come to learn of thee."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I’ve two little feet to tread the pathway,",
+        "Up to the heavenly courts above;",
+        "Two little eyes to read the Bible,",
+        "Telling of Jesus’ wondrous love."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I’ve one little heart to give to Jesus,",
+        "One little soul for him to save;",
+        "One little life for His dear service,",
+        "One little self that he must have."
+      ],
+      "number": 3
+    }
+  ]
+}

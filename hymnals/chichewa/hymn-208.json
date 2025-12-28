@@ -1,0 +1,32 @@
+{
+  "number": 208,
+  "language": "ny",
+  "title": "208 - Usamanong’ona ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BE SILENT! BE SILENT!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Usamanong’ona M’kacisi muno!",
+        "Udzikhala cete, Kumvetseratu.",
+        "CHORUS:",
+        "Nyang’ma (tu), Nyang’ama (tu),",
+        "Poyenda muno",
+        "Popeza (tu), m’nyumba (tu)",
+        "Ya Mlungu wathu.",
+        "2. Udzikhala cete malo ano",
+        "Cifukwa Ambuye aona iwe.",
+        "3. Udzidzicepetsa popempherapo;",
+        "Cifukwa Ambuye amvera iwe.",
+        "4. Ganiza zabwino za Mlungu wathu,",
+        "Dikira, numvere uthenga wace."
+      ]
+    }
+  ]
+}

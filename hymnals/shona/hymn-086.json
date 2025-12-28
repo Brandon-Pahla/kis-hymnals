@@ -1,0 +1,47 @@
+{
+  "number": 86,
+  "language": "sn",
+  "title": "86 Kudzanyi Mambo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kudzanyi Mambo arikudenga,",
+        "Imbai ngerudo runoshamisa,",
+        "Mudziwiri wedu, atichengeta,",
+        "Agere mumbiri, awirikidzwa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Taura zvake simba nemutsa,",
+        "Kujeka kwake kuriko kwese,",
+        "Tonzwa kutinhira kudenga kwake,",
+        "Zviripo pamsoro, nepamakore"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Munochengeta zviro’zvo zvese,",
+        "Munopa mweya, neupenyuzve,",
+        "Zvipo zvenyu zviri pasi, kudenga, ,",
+        "Muzuva, mudima, m’dowa nem’mvura"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tirivaduku, nevemhukuta,",
+        "O, Baba wedu, tinosimbira ,",
+        "Musiki wezvese, neMuchengeti, ,",
+        "Mununuri wedu, nezveShamwari"
+      ],
+      "number": 4
+    }
+  ]
+}

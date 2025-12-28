@@ -1,0 +1,55 @@
+{
+  "number": 73,
+  "language": "nd",
+  "title": "73 Nxa iNkosi Ingena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Se si menyelwe eMthimbeni, Sindawonye esithebeni;",
+        "Kobanjani kuwe nakimi; iNkos’ i ngena."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa iNkosi ingena, Mfoweth’ u thini;",
+        "Koba njani kuwe nami, iNkos’ i ngena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Awusek’ umqhele wameva, Ngowobukhosi kuY’ ekhanda;",
+        "Yokhazima ekufikeni, iNkos’ i ngena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Njengombani u khazimula, Into zonke zobasobala;",
+        "Lapho soba nak’ ukwazama, iNkos’ i ngena."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yojabula ukusibona, Igqok’ ezimhlophe zoMthimba;",
+        "Kazi si yophumelela na? iNkos’ i ngena."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si phe Nkosi umusa wAkho, Si size ngesihau sAkho;",
+        "Size si ngabi nakwesala, iNkos’ i ngena."
+      ],
+      "number": 6
+    }
+  ]
+}

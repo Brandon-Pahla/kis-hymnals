@@ -1,0 +1,25 @@
+{
+  "number": 34,
+  "language": "ts",
+  "title": "34. LOKO NDZI NGA FAMBA EKU RHULENI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHEN PEACE LIKE A RIVER",
+        "1. Loko Ndzi Nga Famba Eku Rhuleni, Na Kona Emakhombyeni,",
+        "Hosi Ndzi Dyondzise Ku Vula Ndzi Ku ‘Hi Swona Rhula Moya Wanga’",
+        "CHORUS",
+        "Hi Swona, Emoyen,",
+        "Hi Swona Rhula Moya Wanga.",
+        "2. Hambi Nala A Nga Ta A Ndzi Ringa, Yesu I Mulweri Wanga,",
+        "Hikuva U Tive Ku Tsana Kanga, Hi Loko A Ta A Ndzi Fela.",
+        "3. Hambi Na Ro Khombo Ra Swivi Swanga, Swivi Swanga Hi Xitalo,",
+        "Swi Hayekiwe Exihambanweni, A Hi Dzuniseni Xikwembu.",
+        "4. A Ri Hatlise Siku Raku Hosi, Ku Ta Herisa Munyama,",
+        "Loko Mhalamhala Yi Ta Chayiwa, Ndzi He Ku Rhula Moyen Wanga."
+      ],
+      "number": 1
+    }
+  ]
+}

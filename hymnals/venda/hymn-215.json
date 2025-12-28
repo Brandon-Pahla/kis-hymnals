@@ -1,0 +1,55 @@
+{
+  "number": 215,
+  "language": "ve",
+  "title": "215. Lindela U Songo Gungula",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:258"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Haya hu sa shandukiho, Hu si na na zwidinaho;",
+        "Ndi hayani ha mulalo, Ndi ’nyi a sa hu funiho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lindela u songo gungula,",
+        "Lindela u di tukufhadze",
+        "U lindele u songo gungula."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Muhwalo u tshi lemela, Wo u newa nga Murena.",
+        "Fungelela u si nete, Linda a vhuye a swike."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Musi ndila i na mipfa, U sedze kha Ene Yesu,",
+        "Musi mbilu i vhutungu, Zwo di ralo na kha Yesu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nangwe zwi tshi khou vhavha, Wa tou nga a u vhonwi;",
+        "duvha lone li do swika, Linda u songo gungula."
+      ],
+      "number": 5
+    }
+  ]
+}

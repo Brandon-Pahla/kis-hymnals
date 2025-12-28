@@ -1,0 +1,49 @@
+{
+  "number": 39,
+  "language": "fr",
+  "title": "Sur la paille fraîche",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sur la paille fraîche",
+        "Dort l’enfant si beau;",
+        "Une pauvre crèche",
+        "Lui sert de berceau.",
+        "De l’azur céleste,",
+        "L’étoile a souri",
+        "À l’enfant qui reste",
+        "Si tard endormi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Du trône de gloire",
+        "Dans la sombre nuit,",
+        "Pour notre victoire,",
+        "Il est descendu.",
+        "Cher Jésus, je t’aime,",
+        "Oh! Viens dans mon cœur,",
+        "Et veille toi-même",
+        "Sur moi, doux Sauveur."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Près, plus près encore",
+        "De moi, pour toujours,",
+        "Jésus, je t’implore,",
+        "J’attends ton secours.",
+        "Écoute ma prière,",
+        "Tu me l’as promis,",
+        "Et viens pour nous prendre",
+        "Dans ton paradis."
+      ],
+      "number": 3
+    }
+  ]
+}

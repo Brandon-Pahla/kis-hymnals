@@ -1,0 +1,47 @@
+{
+  "number": 217,
+  "language": "sn",
+  "title": "217 Chimwe Kuna Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi rudo rwenyu makandipa",
+        "Tenzi ndisamunyime nechiro",
+        "Nerudo ndim’kudze, ndizadze chitsidzo",
+        "Ndomuunziranyi chipo zvino"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pachigaro chem’tsa mondimirira",
+        "Ndomutarisa murudairo",
+        "Ndibatsire kutakura muchinjiko",
+        "Rwiyo munamato Ndomupanyi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndipenyi mwoyo, Unodairika",
+        "Kuti zuwa rese rizoona",
+        "Mabasa erudo nemamwe emutsa",
+        "M’pumhuki awanwa zvekunemwi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvipozvo ndinazvo, Ndinozviunza",
+        "Kunemwi Tenzi, kana zvidini",
+        "Kana ndamuona, Mweya wangu",
+        "Uchazofara narini, Nemwi Tenzi"
+      ],
+      "number": 4
+    }
+  ]
+}

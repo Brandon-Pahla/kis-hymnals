@@ -1,0 +1,47 @@
+{
+  "number": 29,
+  "language": "st",
+  "title": "29 Lula Le ’Na",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lula le ’na tsatsi le likele, ho ea ntsofala morena lula,",
+        "Ha ho teng bathusi le khothatso thuso ea bahloki lula le ’na."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le bophelo bo feta ka pele, thabo le khanya ea fats’e lena,",
+        "Tsohle li’a feta li’ ea nyamela, uena ea sa feteng lula le ’na."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke kope le lentsoe le fetang, tje ka ha u na le barutuoa",
+        "Khothatso le kutloelo-bohloko, u se ke ua ntahla lula le ’na."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke u batla ka linako tsohle, matla a hao a fenya Satane",
+        "Ke mang ea nkalosang tje ka uena, bohlokong le thabong lula le’na."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha U le teng ke tleloa ke matla, le oona mahlomola ha a teng,",
+        "Ha ke ts’abe lefu le lebitla, ke lihotse ha u lula le’na."
+      ],
+      "number": 5
+    }
+  ]
+}

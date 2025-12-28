@@ -1,0 +1,39 @@
+{
+  "number": 321,
+  "language": "xh",
+  "title": "321 Yesu, Wena Uyindlela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, Wena uyindlela, Soya ngaWe ezulwini;",
+        "Wanga ungasikhokela, Sisindiswe ebubini!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, Wena uyinene, Nawo onk’ amazwi aKho;",
+        "Bonke ubumenemene Bubi ebusweni baKho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, Wena ububomi, Sesinokuphila ngaWe;",
+        "Koba njalo sakungena Ezulwini, sibe naWe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndlela, Nene, Bomi bethu, Sesikubulela sonke;",
+        "Ngazo intliziyo zethu, Sobulela maxa onke."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "number": 33,
+  "language": "pt",
+  "title": "Castelo Forte",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Castelo Forte"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Castelo forte é nosso Deus, refúgio e fortaleza.",
+        "Com Seu poder defende os Seus, e os livra com presteza.",
+        "Com fúria pertinaz, nos segue Satanás,",
+        "Com artimanhas tais e astúcias tão cruéis",
+        "Que iguais não há na Terra."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A nossa força nada faz, estamos, sim, perdidos;",
+        "Mas nosso Deus socorro traz, e somos protegidos.",
+        "Sabeis quem é Jesus, o que venceu na cruz?",
+        "Senhor dos altos Céus, e, sendo o próprio Deus,",
+        "Triunfa na batalha."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se nos quisessem devorar, demônios não contados,",
+        "Não nos iriam assustar, nem somos derrotados.",
+        "O grande acusador dos servos do Senhor,",
+        "Já condenado está; vencido cairá",
+        "Por uma só palavra."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sim, que a palavra vencerá, sabemos com certeza;",
+        "E nada nos assustará, com Cristo por defesa.",
+        "Se temos de deixar parentes, bens e lar,",
+        "Embora a vida vá, por nós Jesus está",
+        "E dar-nos-á Seu reino."
+      ],
+      "number": 5
+    }
+  ]
+}

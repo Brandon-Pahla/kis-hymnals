@@ -1,0 +1,53 @@
+{
+  "number": 65,
+  "language": "ny",
+  "title": "65 - N’kwabwino Kukhulupirira",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "’TIS SO SWEET TO TRUST"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. N’kwabwino kukhulupira, M’mau ake a Yesu;",
+        "Kupuma m’malonjezo’ke, Ndimtama nthawi zonse."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndikhulupirira Yesu, Ndimtama nthawi zonse;",
+        "Yesu ali wa chifundo, Ndimtama nthawi zonse."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. N’kwabwino kukhulupira, Mwazi wake wa Yesu;",
+        "Kungomkhulupira Iye Adzatitsuka ife."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. N’kwabwino kukhulupira, Kuti achotse tchimo;",
+        "Nadzatipatsa’fe moyo, Chimwemwe ndi mtendere."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ndikondwa kumdziwa Iye, Mpulumutsi wangayo;",
+        "N’dziwa adzakhala nane, Mpaka chimaliziro."
+      ],
+      "number": 5
+    }
+  ]
+}

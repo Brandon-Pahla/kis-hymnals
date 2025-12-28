@@ -1,0 +1,44 @@
+{
+  "number": 520,
+  "language": "pt",
+  "title": "A Ceia do Senhor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A Ceia do Senhor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Como irmãos, nos acheguemos ao festim do Salvador;",
+        "Esta é a santa ceia, memorial do eterno amor.",
+        "Os emblemas que hoje temos simbolizam redenção,",
+        "Pois de Deus o sacrifício limpa o mal e traz perdão."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nosso mau e vil pecado, trouxe dor e perdição,",
+        "Mas de Deus o amor profundo nos livrou da escravidão.",
+        "Ao pensarmos que esta ceia lembra a morte de Jesus,",
+        "Vemos, sim, a nossa culpa; morto foi por nós na cruz."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tudo, enfim, de rude e triste, nessa cruz desfeito está;",
+        "Para nós somente existe gozo em Deus, que durará.",
+        "Damos graças e louvores, homenagens ao Senhor;",
+        "Temos fé em Sua vinda, Seu real e eterno amor."
+      ],
+      "number": 4
+    }
+  ]
+}

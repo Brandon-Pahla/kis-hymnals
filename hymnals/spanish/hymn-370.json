@@ -1,0 +1,62 @@
+{
+  "number": 370,
+  "language": "es",
+  "title": "Por la excelsa majestad",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Por la excelsa majestad"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por la excelsa majestad",
+        "de los cielos, tierra y mar;",
+        "por las alas de tu amor",
+        "que nos cubren sin cesar;",
+        "te ofrecemos, oh Señor,",
+        "alabanzas con fervor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por la calma nocturnal,",
+        "por la tibia luz del sol,",
+        "por el amplio cielo azul,",
+        "por el árbol, por la flor;",
+        "te ofrecemos, oh Señor,",
+        "alabanzas con fervor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por los lazos del amor",
+        "que en familia y amistad",
+        "nos acercan hacia ti,",
+        "nuestro Amigo siempre fiel;",
+        "te ofrecemos, oh Señor,",
+        "alabanzas con fervor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por las dádivas sin par",
+        "que en Cristo tú nos das:",
+        "en ios cielos, gozo y luz,",
+        "en la tierra, vida y paz;",
+        "te ofrecemos, oh Señor,",
+        "alabanzas con fervor."
+      ],
+      "number": 5
+    }
+  ]
+}

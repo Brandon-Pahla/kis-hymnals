@@ -1,0 +1,46 @@
+{
+  "number": 23,
+  "language": "st",
+  "title": "23 Ntlatse Joale",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Moea o halalelang, hlatsoa pelo e ts’ohileng;",
+        "Ntlatse ka boteng ba Hao, tlo U ntlatse hona joale."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U ntlatse joale hle, Jesu tlo ntlatse joale;",
+        "Ntlatse ke boteng ba Hao, tlo U ntlatse hona joale."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moea O bonolo O ka ntlatsa, ha ke tsebe joang;",
+        "Me ke ea U hloka haholo, tlo U ntlatse joale."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tletse bofokoli, maotong a halalelang;",
+        "Moea O lehlohonolo, ntlatse ka rato la Hao."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ntlhatsoe, nts’elise, mpholose; U hlatsoe pelo ea ka;",
+        "U ’a ts’elisa oa pholosa, U ntse U ntlatsa joale."
+      ],
+      "number": 4
+    }
+  ]
+}

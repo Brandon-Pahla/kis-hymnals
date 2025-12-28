@@ -1,0 +1,44 @@
+{
+  "number": 308,
+  "language": "xh",
+  "title": "308 Kunikele Onako",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kunikele e-Nkosini ngamandla aKho onke;",
+        "Wona kanye awobutsha Edabini lenyani.",
+        "U-Yesu wenz’ umzekelo, Wayengoyikiswa nto;",
+        "Mkhonze-ke uzithobile, Mnike okona kuhle."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kunikele e-Nkosini Ngamandla aKho onke,",
+        "Wambathiswe ngosindiso Edabini lenyani."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kunikele e-Nkosini Kona okuphambili;",
+        "Uqale ngenkonzo yaKhe, Nikela konke ngoku.",
+        "Yipha ukuze uphiwe; Wena unikw’ u-Yesu;",
+        "Mkhonze unokubulela, Mnike okona kuhle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kunikele e-Nkosini Ngenxa yothando lwaYo;",
+        "Yakufela ikuthenga, yancam’ uzuko lwaYo;",
+        "Yakwenz’ oko ingasoli, Ikuhlangul’ esonwen’;",
+        "Bonga ngentliziyo yonke, Nika okona kuhle."
+      ],
+      "number": 3
+    }
+  ]
+}

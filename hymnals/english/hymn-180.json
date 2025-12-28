@@ -1,0 +1,51 @@
+{
+  "number": 180,
+  "language": "en",
+  "title": "180 We Know Not The Hour.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "We know not the hour of the Master’s appearing,",
+        "Yet signs all foretell that the moment is nearing;",
+        "When he shall return, ‘tis a promise most cheering,",
+        "But we know not the hour."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "He will come. (He will come)",
+        "Let us watch and be ready;",
+        "He will come… (He will come)",
+        "Hallelujah! Hallelujah!",
+        "He will come in the clouds, of his Father’s bright glory;",
+        "But we know not the hour."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "There’s light for the wise who are seeking salvation,",
+        "There’s truth in the Book of Divine revelation",
+        "Each prophecy points to the great consummation,",
+        "But we know not the hour."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "We’ll watch and we’ll pray,",
+        "with our lamps trimmed and burning,",
+        "We’ll work and we’ll wait",
+        "till the Master’s returning,",
+        "We’ll sing and rejoice,",
+        "ev,ry omen discerning,",
+        "But we know not the hour."
+      ],
+      "number": 3
+    }
+  ]
+}

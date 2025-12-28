@@ -1,0 +1,31 @@
+{
+  "number": 110,
+  "language": "st",
+  "title": "110  Ba Lehlohonolo Ba Etsang.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Utloang mantsoe a ’Moloki, Ke mantsoe a bophelo;",
+        "Utloa, hopola Jesu O re “Ba hlohonolo ba etsang”."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ba hlohonolo ba etsang taelo, Ba hlohonolo ba hlohonolo.",
+        "Re lefeela ha re utloa melao le lits’episo;",
+        "Ha re sa phethe hohle—hohle ho lehlohonolo ba etsang."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bona ba tla kena metseng, ba lokolloe le sebeng;",
+        "Ba hlatsoisitsoe ba tsejoa kahohle ba je tholoana tsa bophelo."
+      ],
+      "number": 2
+    }
+  ]
+}

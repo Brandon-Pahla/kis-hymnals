@@ -1,0 +1,53 @@
+{
+  "number": 119,
+  "language": "ny",
+  "title": "119 - Ndiona Mwazi Wakewo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THE CLEANSING WAVE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndiona mwazi wakewo, Kasupe wodzaza;",
+        "Ambuye Yesu, Mp’lumutsi, Aloza balalo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndiona mwazi wakewo, Unditsuka ’ne mtimamo!",
+        "Nditama Mbuye Yesuyo, Ndiyere mtima mwangamo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndibadwa mwa tsopanotu, Za kale zafanso;",
+        "Ndikhala moyo mwa Yesu, Ndasamba m’mwazi ’ke."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndiyenda m’nyali ya mmwamba, Kupewa tchimolo;",
+        "Ambuye Yesu alowa, Mu mtima mwangamo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Chisomo chozizwitsatu Kusamba mwaziwo;",
+        "Ambuye wopachikwayo, Ndimdziwa yekhayo."
+      ],
+      "number": 5
+    }
+  ]
+}

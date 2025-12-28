@@ -1,0 +1,49 @@
+{
+  "number": 255,
+  "language": "tum",
+  "title": " 255 Nkhumukhumbani Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 255 Nkhumukhumbani Yesu",
+        "I NEED THEE, PRECIOUS JESUS",
+        "Arr. by Edward F. Rimbauil"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nkhumukhumbani Yesu ndamukavu ine,",
+        "Muyeni waulendo wamburaso kanthu;",
+        "\"Mwe mundipe chitemwa chakundikondweska,",
+        "Kundirongozga m'nthowa kundipa nkhongono."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nkhukhumba mtima winu uvwire mkwenjerwa,",
+        "Undimanye m'viyezgo uvwire m' vitima;",
+        "Nkhukhumba Mzimu Mtuwa wandisambizgenge,",
+        "Wandirongore Yesu ndi mwanamberere."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nkhumukhumbani Yesu ndizakam'woneni,",
+        "Muli mchiwingavula pa chizumbe chinu;",
+        "Pamoza na watuwa ndamukukondwa swi,",
+        "Kumtamikani imwe kumdodoliskani."
+      ],
+      "number": 4
+    }
+  ]
+}

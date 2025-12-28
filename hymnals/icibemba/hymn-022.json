@@ -1,0 +1,30 @@
+{
+  "number": 22,
+  "language": "bem",
+  "title": "22 - MFUMU NAUMFWA MAPALO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LORD, I HEAR"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mfumu naumfwa mapalo, Mwapela bantu benu;",
+        "Ayaba kubakosesha, Paleni ine nomba.",
+        "CHORUS:",
+        "Paleni na ine, Paleni ine nomba.",
+        "2. Wincila ine Katula nangu ine ndimubi;",
+        "lmwe Lesa mukalamba mumpele luse lwenu",
+        "3. Mpulumushi nacitile shamulengo bulanda;",
+        "Fya calo fyambifya ine, Mumbelele kuli ifi",
+        "4. Mwe Mupashi mwincilila, Nangu ine nanaka:",
+        "Munjebe luse lwa Yesu ukumpela mutende"
+      ],
+      "number": 2
+    }
+  ]
+}

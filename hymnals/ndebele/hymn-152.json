@@ -1,0 +1,48 @@
+{
+  "number": 152,
+  "language": "nd",
+  "title": "152  Khuluma Kimi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Khuluma kimi Jesu, Yisho ngezw’ elihle",
+        "Nyenyeza ngokomusa, Awusele wedwa",
+        "Vul’ inhliziy’ ikuzwe, I lalele izwi",
+        "Yenz’ umoy’ u kubonge, KuWe ngi thabele"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khuluma u nyenyeze ilizwi lothando",
+        "Njalo woba ngumnqobi, u yokhululeka",
+        "Nkosi khuluma njalo, ngezwi lokuthemba",
+        "Ma ngo zwe okushoyo, Awusele wedwa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khuluma kithi njalo, Si bonis’ indlela",
+        "Si gcwalis’ intokozo, Si fund’ umkhuleko",
+        "Kuthi ngokuzidela, Sibe yib’ abAkho",
+        "Sheshis’ umbus’ ozayo, Si wuthokozele"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khuluma njengendulo, lapho bazi Wena",
+        "Ngaz’ umsebenzi wami, Ngenz’ umthetho",
+        "wAkho; Ngenze ngi kudumise, Ngi sh’",
+        "udumo lwAkho; Ngi vume ukuthunywa,",
+        "Ngi hloniphe Wena"
+      ],
+      "number": 4
+    }
+  ]
+}

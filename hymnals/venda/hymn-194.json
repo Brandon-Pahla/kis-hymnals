@@ -1,0 +1,61 @@
+{
+  "number": 194,
+  "language": "ve",
+  "title": "194. Lufuno Hayani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:652",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Hothe ho nakiswa nga pfano hayani,",
+        "Mibvumo yothe ndi ya pfano hayani,",
+        "Mulalo na u dzika zwo dala hothe-hothe,",
+        "Mudifho hayani a u fheli nandi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Lufuno hayani; Mudifho wa hayani u nga si fhele."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ho takalwa tshothe, nga pfano hayani,",
+        "A hu na tsinyuwo, hayani nga pfano,",
+        "Ndila yo tamiwa, hothe-hothe ho nakiswa,",
+        "Zwothe zwa takadza nga pfano hayani."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tadulu vho takala, nga yone pfano,",
+        "Shango lo dala vhudi, pfano hayani,",
+        "Zwisikwa zwi tou khana, litadulu la renda,",
+        "Murena o takala, pfano hayani."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Yesu nnyite wau nga pfano hayani,",
+        "Ndi di-nekedza tshothe, pfano hayani,",
+        "Ndi do tinya khombo, vhuvhi a vhu tsha do nndina;",
+        "Ndo fhatutshedzwa nga lufuno hayani"
+      ],
+      "number": 5
+    }
+  ]
+}

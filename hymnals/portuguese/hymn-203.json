@@ -1,0 +1,56 @@
+{
+  "number": 203,
+  "language": "pt",
+  "title": "Ó Jesus, Habita em Mim",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ó Jesus, Habita em Mim"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Meu pecado regatado",
+        "Foi na cruz, por Teu amor;",
+        "E da morte, triste sorte,",
+        "Me livraste, ó Senhor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Vem, inflama viva chama",
+        "De fervor e fé sem fim!",
+        "Eu Te adoro, sempre imploro:",
+        "Ó Jesus, habita em mim."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se hesitante, vacilante,",
+        "Ouço a voz do tentador,",
+        "Tu me guias, me auxilias",
+        "E me tornas vencedor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Redimida, só tem vida",
+        "A minh'alma em Teu amor.",
+        "Com apreço, reconheço",
+        "Quanto devo a Ti, Senhor!"
+      ],
+      "number": 5
+    }
+  ]
+}

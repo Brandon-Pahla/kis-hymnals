@@ -1,0 +1,56 @@
+{
+  "number": 376,
+  "language": "pt",
+  "title": "Guia-me, Meu Salvador",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Guia-me, Meu Salvador"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Guia-me, meu Salvador!",
+        "Sempre me conduz, Senhor!",
+        "Sim, seguro e forte estou,",
+        "Pois contigo andando vou."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Guia, guia,",
+        "Sempre guia, Salvador!",
+        "Com ternura, com amor,",
+        "Guia-me, meu Redentor!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sob a Tua proteção,",
+        "Firme está meu coração",
+        "Oh, dirige-me, Senhor,",
+        "Neste mundo enganador."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu me guiarás a mim,",
+        "Té chegar da vida o fim;",
+        "E ao voltares, ó Jesus,",
+        "Eu habitarei na luz."
+      ],
+      "number": 5
+    }
+  ]
+}

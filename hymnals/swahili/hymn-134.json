@@ -1,0 +1,39 @@
+{
+  "number": 134,
+  "language": "sw",
+  "title": "134 - Tafuta Daima Utakatifu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Tafuta daima utakatifu, fanya urafiki na watu wote,",
+        "Nena siku zote na Bwana wako, baraka uombe kwa kila jambo."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Tafuta daima utakatifu, uwe peke yako ukimwabudu,",
+        "Ukimwangalia Mwokozi wako, utabadilishwa kama alivyo."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Tafuta daima utakatifu, kiongozi wako awe Yesu tu,",
+        "Katika furaha au huzuni, dumu kumfuata Yesu Mwokozi."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Tafuta daima utakatifu, umtawaze roho moyoni mwako,",
+        "Akikuongoza katika haki, hufanywa tayari kwa kazi yake."
+      ]
+    }
+  ]
+}

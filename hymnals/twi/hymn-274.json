@@ -1,0 +1,63 @@
+{
+  "number": 274,
+  "language": "tw",
+  "title": "A Sɛm a 'Bɛyɛɛ Nipa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Asɛm a 'bɛyɛɛ nipa,",
+        "Nyansa a efi s'ro,",
+        "Nokwar' a ɛnsakra da,",
+        "O, yɛn sum mu kanea;",
+        "Yeyi W'ayɛ wɔ hann a",
+        "Efi W'asɛm mu nti",
+        "Ͻyɛ yɛn nan 'se kanea",
+        "A ɛhy'rɛn fi tete."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asafon' nyaa s'ro 'kyɛde",
+        "Fii ne W'ra pa no hɔ;",
+        "Na ɔda so ma hann no",
+        "Hy'rɛn wɔ wiase nyinaa;",
+        "Ͻyɛ sika 'daka a",
+        "Nokwar' nnwinne gu mu;",
+        "Ͻyɛ ɔs'ro mfoni a",
+        "Eyi Kristo no ky'rɛ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻyɛ frankaa a edi",
+        "Nyame dɔm no anim;",
+        "Ͻhyerɛn te sɛ kanea",
+        "Wɔ esum wiase mu;",
+        "Ͻyɛ hyɛn akwanky'rɛde",
+        "Wɔ ɔbra po yi so,",
+        "Botan ne anweam, ɛky'rɛ",
+        "Kwan ba Wo, Kristo nkyɛn."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Gyenkwa pa ma W'asafo",
+        "Nyɛ sika kanea kronn;",
+        "Nni Wo hann ho adanse,",
+        "Nky'rɛ aman sɛ teten';",
+        "Ky'rɛ kwantofo a wɔay'ra",
+        "Ma wonhu Wo kwan no,",
+        "Kosi sɛ sum betwa mu",
+        "Na wobehu W'anim."
+      ],
+      "number": 4
+    }
+  ]
+}

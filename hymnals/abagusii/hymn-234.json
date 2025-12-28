@@ -1,0 +1,42 @@
+{
+  "number": 234,
+  "language": "guz",
+  "title": "234 Mogambi Ngoch'are Bwango",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Mogambi ngoch'are bwango,'Ri'okweret' abanyabibe,Nache kwoyia abachenu,Abaire Igoro."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngoch'Are, ngoch'Are,Ogocha kwaye ng'ang'e kore;O! Nachiche, O! Nachiche,Nachiche gototoria."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Twaror'ebimanyererio,Bikworoki' ogocha kwaye;Matuko bwango naere,Natogende Igoro."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Amatuk' onsi nesegi,Titori n' ogotimoka;Goik' Omotoria asirie,'Bibe n'amakweri."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ens'eyio ya Igoro nenyia,Toraikaranse botambe;Toboyigwe Ogotakwa,Tomenye botambe."
+      ],
+      "number": 5
+    }
+  ]
+}

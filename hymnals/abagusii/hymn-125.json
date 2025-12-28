@@ -1,0 +1,35 @@
+{
+  "number": 125,
+  "language": "guz",
+  "title": "125 Rituko Riao Richenu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. RituKo riao richenu,Kobua ayande,Titorengereria ense,Tatiga Nyasae."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ribaga ria ogosaba,Tonyare kwaberwa,Tokwane na oboremu,\"Tat' ore Igoro\"."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Mang'ana ay'omorembe,Ere atotebie,Koraa omoonchoki,Aike Igoro."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Bibe biaito biaberwe,Tosibore buya,Ere bwanchete enkoro,Natoe obuya."
+      ],
+      "number": 4
+    }
+  ]
+}

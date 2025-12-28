@@ -1,0 +1,68 @@
+{
+  "number": 144,
+  "language": "tum",
+  "title": " 144 Nkhulutirira Munthazi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 144 Nkhulutirira Munthazi",
+        "HIGHER GROUND"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nkhulutirira munthazi,",
+        "nkhukwera dazi na dazi,",
+        "Nkhukwera uku nkhuromba",
+        "mundifikiske pachanya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mundikwezge ndimiLire",
+        "m'chigomezgo cha kuchanya,",
+        "Pa maLo apo ndafika",
+        "Fumu mndijinthe pachanya."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mutima ntha ukukhumba,",
+        "uko kuli vyakwenjezga,",
+        "Nanga wanji wangawako,",
+        "chirato chane mphachanya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Ndikhalilire pachanya,",
+        "nanga mrwani wangathaza,",
+        "Chigomezg ndiri nacho",
+        "ndamkwimba nawo watuwa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Nkhukhu humbiska nkhafikeko",
+        "kukawona uchindami,",
+        "Ndirombenge nkhafikeko,",
+        "mndirongozgere pachanya."
+      ],
+      "number": 5
+    }
+  ]
+}

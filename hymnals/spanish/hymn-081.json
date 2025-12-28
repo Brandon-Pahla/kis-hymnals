@@ -1,0 +1,50 @@
+{
+  "number": 81,
+  "language": "es",
+  "title": "Noche de paz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Noche de paz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Noche de paz, noche de amor.",
+        "Todo duerme en derredor.",
+        "Entre los astros que esparcen su luz,",
+        "bella anunciando al niñito Jesús,",
+        "brilla la estrella de paz,",
+        "brilla la estrella de paz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Noche de paz, noche de amor.",
+        "Oye humilde, fiel pastor:",
+        "coros celestes proclaman salud,",
+        "gracias y glorias en gran plenitud,",
+        "por nuestro buen Redentor,",
+        "por nuestro buen Redentor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Noche de paz, noche de amor.",
+        "Ved qué bello resplandor",
+        "luce en el rostro del niño Jesús,",
+        "en el pesebre, del mundo la Luz;",
+        "astro de eterno fulgor,",
+        "astro de eterno fulgor."
+      ],
+      "number": 4
+    }
+  ]
+}

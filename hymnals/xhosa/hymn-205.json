@@ -1,0 +1,36 @@
+{
+  "number": 205,
+  "language": "xh",
+  "title": "205 Yiza Moni!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "X’ u-Yesu esabiza, Moni yiza!",
+        "Sisakuthandazela, Moni yiza!",
+        "Lixa lokumamkela, Moni yiza!",
+        "Lixesha lokumazi, Moni yiza!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unomthwalo onzima, Moni yiza!",
+        "U-Yes’ uzakunceda, Moni yiza!",
+        "Ngekhe akukhohlise, Moni yiza!",
+        "Uyakukuhlangula, Moni yiza!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phulaphul’ ekucenga, Moni yiza!",
+        "Yiz’ akusikelele, Moni yiza!",
+        "Esakubiz’ uYesu, Moni yiza!"
+      ],
+      "number": 3
+    }
+  ]
+}

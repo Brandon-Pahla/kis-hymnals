@@ -1,0 +1,62 @@
+{
+  "number": 210,
+  "language": "st",
+  "title": "210 Kreste Ke Pheko Ea Sebe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kreste ke pheko ea libe, ’Moloki ea Makatsang!",
+        "O lokolotse, lefile, ’Moloki ea Makatsang!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "’Moloki ea hlollang! Ke Jesu, Jesu oa ka,",
+        "’Moloki ea Makatsang! Jesu oa ka."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke mo rorisa ka mali, ’Moloki ea Makatsang!",
+        "O Mpoelantse le Molimo, ’Moloki ea Makatsang!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O ntlhoekisitse le pelong, ’Moloki ea Makatsang!",
+        "’Me ke Eena ea e busang, ’Moloki ea Makatsang!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O tsamaea haufi le ’na ’Moloki ea Makatsang!",
+        "’Me O nts’ehetsa ka mehla, ’Moloki ea Makatsang!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O ’neha matla a hlolo, ’Moloki ea Makatsang!",
+        "Le tlholo nakong ea teko, ’Moloki ea Makatsang!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke mo neile pelo ea ka, ’Moloki ea Makatsang!",
+        "Fats’e ha le na kabelo, ’Moloki ea Makatsang!"
+      ],
+      "number": 6
+    }
+  ]
+}

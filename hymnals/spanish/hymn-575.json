@@ -1,0 +1,64 @@
+{
+  "number": 575,
+  "language": "es",
+  "title": "Tocad trompeta ya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Tocad trompeta ya"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tocad trompeta ya,",
+        "alegres en Sion;",
+        "al mundo proclamad",
+        "la eterna redención."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Este es el año de bondad,",
+        "volved a vuestra libertad,",
+        "volved a vuestra libertad."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Cristo predicad;",
+        "decid que ya murió",
+        "y con su potestad",
+        "la muerte destruyó."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vosotros que el favor",
+        "del Cielo despreciáis,",
+        "su gracia gozaréis",
+        "si a Cristo pronto vais."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Llamadles con amor;",
+        "id, ofrecedles paz.",
+        "Es tarde, apresurad;",
+        "que vuelvan a su faz."
+      ],
+      "number": 6
+    }
+  ]
+}

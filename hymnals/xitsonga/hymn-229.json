@@ -1,0 +1,20 @@
+{
+  "number": 229,
+  "language": "ts",
+  "title": "229. I MANI LA HLAWULAKA HOSI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHO’S ON THE LORD’S SODE?",
+        "1. I Mani A Hlawulaka Hosi, Tindlela Timbirhi Hlawula.",
+        "CHORUS",
+        "Hlawula Sweswi, Leswinene Kumbe Vubihi, Hlawula Sweswi, Leswinene Kumbr Vubihi.",
+        "T&B I Man La Nga Hosin, Wena Xana U Yime Kwihi, I Man La Nga Hosin, Wena Xana U Yime Kwihi?",
+        "2. Vunyingi Byi Hlawule Nala, Wena Xana U Yime Kwihi.",
+        "3. Tana Hlawula Muponisi, Hi Yena Ndlela Ya Ntiyiso."
+      ],
+      "number": 1
+    }
+  ]
+}

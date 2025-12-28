@@ -1,0 +1,36 @@
+{
+  "number": 276,
+  "language": "ny",
+  "title": "276 - M’khola Mwa Ng’ombe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "JESUS, MY SAVIOUR, TO BETHELEHEM CAME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. M’kola mwa ng’ombe mu Betlemumo, anabadwa ambuyangawo",
+        "Etu, ndidziwa, natsikirako, Kufuna inetu",
+        "Afuna inetu, afuna inetu.",
+        "Etu, ndizizwa, natsikirako, Afuna inetu.",
+        "2. Popacikidwa pa Kalvarepo, Yesu anandiombolerako,",
+        "Inde, ndidziwa, nakondaneko, Nafera inetu.",
+        "Nafera inetu, Nafera inetu.",
+        "Inde ndizizwa nakondaneko, Nafera inetu.",
+        "3. Mbusa wokoma ndi Mbuyangayo, Nandiitana posocerapo,",
+        "Konse koipa nalondaneko, Kubweza inetu",
+        "Abweza inetu, abweza inetu",
+        "Konse koipa nalondaneko, Abwenza inetu.",
+        "4. Uko kumwamba, Mbuyangayo, Nandikonzera mokhaliramo,",
+        "Tsiku linalo adzabweranso, Kutenga inetu",
+        "Atenga inetu, atenga inetu.",
+        "Tsiku linalo adzabweranso, Kutenga inetu."
+      ],
+      "number": 2
+    }
+  ]
+}

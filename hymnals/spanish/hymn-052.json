@@ -1,0 +1,54 @@
+{
+  "number": 52,
+  "language": "es",
+  "title": "Señor Jesús, el día ya se fue",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Señor Jesús, el día ya se fue"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Señor Jesús, el día ya se fue;",
+        "la noche cierra, oh, conmigo sé;",
+        "al desvalido, por tu compasión",
+        "dale tu amparo y consolación."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Veloz el día nuestro huyendo va,",
+        "su gloria, sus ensueños pasan ya;",
+        "mudanza y muerte veo en redor;",
+        "no mudas tú: conmigo sé, Señor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu gracia en todo el día he menester.",
+        "¿Quién otro puede al tentador vencer?",
+        "¿Qué otro amante guía encontraré?",
+        "En sombra o sol, Señor, conmigo sé."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Que vea al fin en mi postrer visión",
+        "de luz la senda que me lleve a Sión,",
+        "do alegre cantaré al triunfar la fe:",
+        "”Jesús conmigo en vida y muerte fue”."
+      ],
+      "number": 5
+    }
+  ]
+}

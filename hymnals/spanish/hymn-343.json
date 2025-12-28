@@ -1,0 +1,51 @@
+{
+  "number": 343,
+  "language": "es",
+  "title": "Quiero llegar a ser parte del cielo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Quiero llegar a ser parte del cielo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quiero llegar a ser parte del cielo",
+        "y estar preparado aquel día glorioso,",
+        "cantando con los salvados",
+        "y extenderle los brazos a mi Señor.",
+        "Yo quiero estar cuando aparezca en",
+        "las nubes",
+        "y extenderle los brazos a mi Señor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No habrá más muerte ni dolor",
+        "en el hogar celestial;",
+        "Cristo, con su amor, el llanto borrará.",
+        "Cerca está el día del Señor.",
+        "¡Oh! ¡Qué gozo será estar allí!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quiero llegar a ser parte del cielo",
+        "y estar preparado aquel día glorioso,",
+        "cantando con los salvados",
+        "y extenderle los brazos a mi Señor.",
+        "Yo quiero estar cuando aparezca en",
+        "las nubes",
+        "y extenderle los brazos a mi Señor."
+      ],
+      "number": 4
+    }
+  ]
+}

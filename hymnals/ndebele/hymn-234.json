@@ -1,0 +1,47 @@
+{
+  "number": 234,
+  "language": "nd",
+  "title": "234 UJesu Ukukhanya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Zi yacul’ ingelosi Jes’ ukukhanya kwezwe,",
+        "NgoMntwana ozelweyo Jes’ ukukhanya kwezwe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si nokukhanya kon’ okuhle, Woza laph’ umsa okhazimlayo;",
+        "Njalo sizungezwe ukukhanya, Jes’ ukukhanya kwezwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thabani nonke zizwe Jes’ ukukhanya kwezwe",
+        "Hubani namabandla Jes’ ukukhanya kwezwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Makudunyiswe Yena Jes’ ukukhanya kwezwe,",
+        "INkosi yaphakade Jes’ ukukhanya kwezwe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bayethe! k’uY’uMtwana Jes’ ukukhanya kwezwe;",
+        "Bayethe! Sokulunga Jes’ ukukhanya kwezwe."
+      ],
+      "number": 5
+    }
+  ]
+}

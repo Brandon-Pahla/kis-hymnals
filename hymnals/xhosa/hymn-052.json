@@ -1,0 +1,37 @@
+{
+  "number": 52,
+  "language": "xh",
+  "title": "52 Mthombo Wentsikelelo Zonke",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yiza Mthombo wosindiso, Ndikudumisa wena;",
+        "Lo misinga eyenceba Ifanel’ ukubongwa;",
+        "Ndifundis’ ukuhlonela Imfesane yaKho kum;",
+        "Izele intliziyo yam Luthando nemvuyiso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiza kuzifunela mna Ilitye lokuphila;",
+        "Ndithemba isisa saKho Ukufika ekhaya;",
+        "U-Yesu wandingenisa Emhlambini ka-Thixo,",
+        "Wandisindis’ engozini Ngalo igazi laKhe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinetyala elikhulu Ngolo fefe lwaKho kum,",
+        "Vumel’ ukulunga kwaKho Ndibuyiselwe kuWe;",
+        "Kuba ndinezono Nkosi, ndiyaziphosa kuWe;",
+        "Yiyo le intliziyo yam, Beka uphawu lwaKho."
+      ],
+      "number": 3
+    }
+  ]
+}

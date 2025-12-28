@@ -1,0 +1,55 @@
+{
+  "number": 229,
+  "language": "tw",
+  "title": "Mo Ny'naa Mmɔ 'Se Yesu Din Mu!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mo ny'naa mmɔ 'se Yesu din mu!",
+        "Abɔfo nkoto No,",
+        "Na momfa ahenkyɛw no mmra;",
+        "MonhyɛN' ahen' mu Hen';",
+        "Na momfa ahenkyɛw no mmra;",
+        "MonhyɛN' ahen' mu Hen'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Israel abusua a wɔapaw,",
+        "Mo nkae a musua no;",
+        "Mommɔ Nea Wagye mo no 'se,",
+        "MonhyɛN' ahen' mu Hen';",
+        "Mommɔ Nea Wagye mo no 'se,",
+        "MonhyɛN' ahen' mu Hen'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma mmusuakuw ne aman a",
+        "Wɔwɔ asase so",
+        "Mmɔ N'abodin sɛ Otumfo,",
+        "MonhyɛN' ahen' mu Hen';",
+        "Mmɔ N'abodin sɛ Otumfo,",
+        "MonhyɛN' ahen' mu Hen'."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, sɛ yɛne kuw kronkron no",
+        "Bom twa hwe N'anim a,",
+        "Anka yɛbɛto daa dwom no",
+        "AhyɛnN' ahen' mu Hen';",
+        "Anka yɛbɛto daa dwom no",
+        "AhyɛnN' ahen' mu Hen'."
+      ],
+      "number": 4
+    }
+  ]
+}

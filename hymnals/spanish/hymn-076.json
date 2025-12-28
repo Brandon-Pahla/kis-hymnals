@@ -1,0 +1,54 @@
+{
+  "number": 76,
+  "language": "es",
+  "title": "Eterno Dios, mi Creador",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Eterno Dios, mi Creador"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eterno Dios, mi Creador,",
+        "mi amparo en aflicción,",
+        "tu has sido mi Consolador",
+        "en toda ocasión."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mis años a tu vista son",
+        "cual brisas del ayer;",
+        "cual hierba es mi condición,",
+        "perece al tardecer."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mi vida bajo tu ala está",
+        "seguro habitaré;",
+        "tu Espíritu me ayudará",
+        "y en calma andaré."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eterno Dios, mi Redentor,",
+        "confío sólo en ti;",
+        "sé tú mi Guía, oh Señor,",
+        "en mi camino aquí."
+      ],
+      "number": 5
+    }
+  ]
+}

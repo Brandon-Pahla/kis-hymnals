@@ -1,0 +1,44 @@
+{
+  "number": 528,
+  "language": "pt",
+  "title": "Sábado",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Sábado"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Como estão felizes nossos corações!",
+        "Livres de cuidados, lutas e aflições.",
+        "Damos-Te louvores, nosso Criador,",
+        "Neste santo dia, dia do Senhor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Somos atraídos pelo Teu amor,",
+        "Nestas horas santas, cheias de dulçor.",
+        "Este amor nos fala bem ao coração,",
+        "Sobre a eterna graça, nossa redenção."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seja-nos suave para o coração,",
+        "Teu sagrado dia, Tua criação.",
+        "Nossos vis pecados, lança para trás;",
+        "Dá-nos neste dia Tua excelsa paz!"
+      ],
+      "number": 4
+    }
+  ]
+}

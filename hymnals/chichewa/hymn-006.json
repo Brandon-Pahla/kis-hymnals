@@ -1,0 +1,32 @@
+{
+  "number": 6,
+  "language": "ny",
+  "title": "6 - Yesu Akudza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WATCH YE SAINTS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1 Yang’anirani Akristu, Zammwamba zigwedezeka",
+        "Yatsani nyali zanuzo, Kukomana naye Mbuye.",
+        "CHORUS:",
+        "Onani Yesu adza; Akudza mulemerero,",
+        "Adzakhala mfumu yathu, Onani! Ali kudza.",
+        "2 Ona lonjezano lace, Wakhululukira tchimo,",
+        "Mwazi nutsuka minjiro, Nena nthano ya chombolo.",
+        "3 Mafumu anjenjemera, Imva! ali kudza ndithu",
+        "Nena za cisomo chake, M’mene lipenga lilira.",
+        "4 Mitundu yonse idzatha, Khristu wafulumiratu;",
+        "Dziko lili kutha ndithu; Mbuye wathu ali kudza.",
+        "5 Yesu aitana nonse, Akupembedzera inu;",
+        "Kangaza nthawi ikutha, Ungadzatsaletu kunja."
+      ]
+    }
+  ]
+}

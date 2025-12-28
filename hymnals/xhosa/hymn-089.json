@@ -1,0 +1,37 @@
+{
+  "number": 89,
+  "language": "xh",
+  "title": "89 Yure Emnandi Yokuthandaza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kumnandi ukuthandaza, Kundibiz’ elusizini;",
+        "Kundibikela ku-Bawo, Konke oku kuswela kwam;",
+        "Ngamaxesha enkathazo Ndizuza ukupholiswa;",
+        "Andiwole ngamaphiko, Ngomoya wokuthandaza."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kumnandi ukuthandaza, Kundithwalel’ izicelo,",
+        "Aze Othembekileyo andisikelele Yena;",
+        "Uthi mandicinge ngaYe, Mandikholwe lizwi laKhe;",
+        "Uyakundinceda Yena, Ndakulinda ndithandaze."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kumnandi ukuthandaza Ngathi ndiyathuthuzelwa,",
+        "Ndize ndibone ikhaya, Ndiye kulo ndinoxolo;",
+        "Ndakuhamba ndifun’ izwe Elingenaz’ iinkathazo;",
+        "Ndimemeze, ndimemeze, \"Sala kuhle Kuthandaza.\""
+      ],
+      "number": 3
+    }
+  ]
+}

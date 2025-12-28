@@ -1,0 +1,28 @@
+{
+  "number": 398,
+  "language": "tw",
+  "title": "Wɔabubu Wiase Paanoo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔabubu wiase paanoo 'dom mu,",
+        "Wɔahwie ɔkra no nsa 'dom mu;",
+        "Nea wɔnam Ne so de nkwasɛm mae",
+        "Na yɛn bɔne wu Ne wum' no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hwɛ koma a yaw abubu no.",
+        "Hwɛ nusu a bɔn'yɛfo kyi;",
+        "Na ma W'aponto no nyɛ nkaede",
+        "Na yɛn krá amee Wo dom mu.",
+        "&nbsp;&nbsp;&nbsp;&nbsp;Amen."
+      ],
+      "number": 2
+    }
+  ]
+}

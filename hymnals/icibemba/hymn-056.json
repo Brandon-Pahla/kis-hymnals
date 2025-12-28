@@ -1,0 +1,31 @@
+{
+  "number": 56,
+  "language": "bem",
+  "title": "56 - NAENDAWIKE UKUTALI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I’VE WANDERED FAR AWAY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Naendawike kutali, Nomba ndebwela;",
+        "Mpulumushi shafulile, Nomba ndebwela.",
+        "CHORUS:",
+        "Ndebwela ndebwela, Nanako kwenda;",
+        "Mumpokelele mwe Mfumu, Nomba ndebwela.",
+        "2. Nanaka ne mpulumushi, Nomba Ndebwela;",
+        "Kutemwa kobe ndefwaya, Nomba ndebwela",
+        "3. Bucetekelo bweka fye, Nomba ndebwela;",
+        "Yesu amfwilile ine, Nomba ndebwela.",
+        "4. Ndenakila m'lopa wakwe, Nomba Ndebwela;",
+        "Munsambe ndebuta tutu, Nomba ndebwela."
+      ],
+      "number": 2
+    }
+  ]
+}

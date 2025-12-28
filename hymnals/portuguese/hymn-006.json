@@ -1,0 +1,41 @@
+{
+  "number": 6,
+  "language": "pt",
+  "title": "Por Belezas Naturais",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Por Belezas Naturais"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por belezas naturais, pelo azul do lindo céu,",
+        "Por encantos imortais, ó Senhor, ao trono Teu",
+        "Se erguerá, e com fervor, nossa voz em Teu louvor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por amigos e irmăos, pela luz do puro amor,",
+        "Por poderem nossas măos trabalhar em Teu favor,",
+        "Se erguerá, também, Senhor, nossa voz em Teu louvor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por Jesus, o Salvador, que por nós morreu na cruz,",
+        "Pelo Espírito de amor que ŕ verdade nos conduz,",
+        "Se erguerá, também, Senhor, nossa voz em Teu louvor."
+      ],
+      "number": 4
+    }
+  ]
+}

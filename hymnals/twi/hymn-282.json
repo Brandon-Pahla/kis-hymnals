@@ -1,0 +1,55 @@
+{
+  "number": 282,
+  "language": "tw",
+  "title": "Mete Wo Nne Pa a",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mete Wo nne pa a",
+        "Wode frɛ me, Wura,",
+        "Sɛ memmɛtew me ho mogyā a",
+        "Ehwiee Kalbre so nom'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wura! Mereba, mereba Wo nkyɛn!",
+        "Guar' me, tew me ho mogyā a",
+        "Ehwiee Kalbre so nom!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ewom meyɛ mmerɛw,",
+        "Nanso Wohyɛ me den;",
+        "Hohoro me ho fi nyinaa",
+        "Ma me ho ntew koraa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu n'ɔrefrɛ me",
+        "Kɔ gyidi ne ɔdɔm',",
+        "Anidaso ne asomdwoem',",
+        "Ma fam ne s'ro man no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mo nyinaa mommɔ 'se,",
+        "Ne mogya ne dom nti",
+        "Mo ny'naa nkamfo yɛn W'ra Kristo",
+        "Yɛn 'hoɔden ne Trenee."
+      ],
+      "number": 4
+    }
+  ]
+}

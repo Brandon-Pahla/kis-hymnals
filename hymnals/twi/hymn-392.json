@@ -1,0 +1,47 @@
+{
+  "number": 392,
+  "language": "tw",
+  "title": "'Wura, Yɛaba Ha Owitɔe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Wura, yɛaba ha owitɔe",
+        "BɛkotoW' nan ase,",
+        "Som Wo, ɔhen' a ɔbɔɔ ade,",
+        "Dá a Woasɔ ano yi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yegyaa 'sase so nnwuma mu",
+        "Sɛnea W'asɛm ky'rɛ no;",
+        "Yɛhyɛn Wo home kronkron no,",
+        "'W'rade Homeda nom!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dɛw da, wo mm're kronkron te sɛ",
+        "Sika nkɔnsɔnkɔnsɔn",
+        "A efi Eden 'pon ano",
+        "Kyerɛ yɛn fie kwan bio."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B'rč a wɔbɛyɛ 'sase'i fofro",
+        "Asɛe bɔn' ne 'wu no,",
+        "Homeda biara ɔgye mma",
+        "Beyi Nyame ayɛ."
+      ],
+      "number": 4
+    }
+  ]
+}

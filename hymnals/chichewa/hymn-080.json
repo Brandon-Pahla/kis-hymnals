@@ -1,0 +1,61 @@
+{
+  "number": 80,
+  "language": "ny",
+  "title": "80 - Tinke Ife Ku Ntchito Ya Mulungu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TO THE WORK!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tinke ife ku ntchito ya Ambuye;",
+        "Tizitsata mapazi a Mbuye Yesu.",
+        "Mau ake adzapatsa mphamvu yake,",
+        "Ndipo ndi mtima wonse tigwire ntchito."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Gwirani ntchitoyo, Gwirani ntchitoyo,",
+        "Mpakatu Yesuyo, Adzabweranso mdzikoli."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tinke ife ku ntchito ya Mlungu wathu,",
+        "Yakudyetsa, Kumwetsa osowa onse.",
+        "Ndi mbendela ya mtanda tidzayendatu,",
+        "Pakulalika chipulumutso chake."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tinke ife ku ntchito ya Mlungu wathu,",
+        "Ntchito ya kuchenjeza ilipo lero;",
+        "Ndi kwa anthu a mdima a mdziko lino,",
+        "Ndi kukweza Ambuye Ndi Mfumu yathu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tichitebe ntchito za Mlungu wathu,",
+        "Posachedwa Ambuye adzabweranso;",
+        "Ndipo ife tidzanka kumwamba naye,",
+        "Nyimbo zathu zokoma tidzayimbabe."
+      ],
+      "number": 5
+    }
+  ]
+}

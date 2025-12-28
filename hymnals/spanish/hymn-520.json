@@ -1,0 +1,57 @@
+{
+  "number": 520,
+  "language": "es",
+  "title": "¡Adelante! manda el Señor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Adelante! manda el Señor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo, nuestro Jefe, nos lleva a la lid;",
+        "nunca perderemos si él nos dice: Id.",
+        "Aun su justa causa se suele ignorar,",
+        "mas yo fiel lo he de seguir."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Adelante! Manda el Señor.",
+        "¡Adelante! Vamos sin temor.",
+        "¡Adelante! Canta ya la grey;",
+        "la victoria es cierta con el Rey."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nuestro estandarte luce por doquier;",
+        "con poder y gloria siempre se ha de",
+        "ver.",
+        "Cristo nuestro Jefe al mundo ya",
+        "venció",
+        "y yo fiel lo he de seguir."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La furiosa lucha larga no será,",
+        "y a los vencedores nos congregará,",
+        "donde entonaremos cántico triunfal;",
+        "fieles lo hemos de seguir."
+      ],
+      "number": 5
+    }
+  ]
+}

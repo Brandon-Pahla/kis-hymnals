@@ -1,0 +1,35 @@
+{
+  "number": 141,
+  "language": "bem",
+  "title": "141 - NABO WENU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHOLLY THINE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ine mbe wenu Mupusushi,",
+        "Mfundisha we Mfumu;",
+        "Ine ncite kufwaya kwenu,",
+        "Ngafweni Mfumu",
+        "CHORUS:",
+        "Mbe wenu (Mfumu). Mbe wenu (Mfumu).",
+        "Uku kulaya kwandi Mbe wenu (Mfumu).",
+        "Mbe wenu (Mfumu),",
+        "Wenu nomba mwe Mfumu.",
+        "2. Cuma ca calo cili cafye, Ukwabu-la Imwe;",
+        "Pe shina Lyenu ndefisula, Mwe cuma candi.",
+        "3. Naposa fyoonse fya mu calo,",
+        "Mpalame ku Mfumu",
+        "Nasansamuke lyo mulipo",
+        "Mbe wenu Mfumu"
+      ],
+      "number": 2
+    }
+  ]
+}

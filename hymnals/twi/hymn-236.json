@@ -1,0 +1,47 @@
+{
+  "number": 236,
+  "language": "tw",
+  "title": "Medɔ Wo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Medɔ Wo, medɔ Wo, medɔ Wo me W'ra,",
+        "Medɔ Wo, m'Agyenkwa, medɔ Wo Nyame,",
+        "Medɔ Wo, medɔ Wo, na Wunim no saa;",
+        "Sɛnea medɔ Wo no, me nneyɛe bɛky'rɛ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M'ani gye, m'ani gye, anwanw asɛm ni;",
+        "M'anigye nsa da, migyina bepɔ so;",
+        "Mehwɛ m'agyapade, m'ani gyina hɔ,",
+        "Nea Yesu, abɔfo ne adɔfo wɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Yesu m'Agyenkwa, minyaW' a nhyira,",
+        "Me nkwa ne me nkwagye, me dɛw ne home,",
+        "Wo din yɛ me botae, Wo dɔ yɛ me dwom,",
+        "Wo dom kanyan me koma ne tɛkrɛma."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hena n'ɔsɛ m'Agyenkwa, Salem Hen' no?",
+        "ɔs'rew ky'rɛ me, ɔdɔ me, boa me dwontom'",
+        "Enti meyi No ayɛ wɔ dwonto mu,",
+        "B're a 'nigye nsuten kanyan me honhom."
+      ],
+      "number": 4
+    }
+  ]
+}

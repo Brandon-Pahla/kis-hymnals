@@ -1,0 +1,25 @@
+{
+  "number": 135,
+  "language": "ts",
+  "title": "135. NDZA KU RHANDZA WENA HOSI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I KNOW I LOVE THEE BETTER, LORD",
+        "1. Ndza Ku Rhandza Wena Hosi, Ku Tlula Misava;",
+        "U Ndzi Nyikile Ku Rhula, Loku Nga Heriki.",
+        "CHORUS",
+        "Hungu A Ri Si Vuriwa(Ra Yesu) Rirhandzu Ronghasi;",
+        "Ra Ngati Leyo Basisa (Ya Yesu), A Ri Si Vuriwa (Ka Vanhu).",
+        "2. U Tshama U Ri Kusuhi, Ku Tlurisa Ntshungu;",
+        "Ndzi Hleketa Wena Ntsena, Ku Tlula Tinsimu.",
+        "3. U Ndzi Nyikile Ku Tsaka, Ndzi Tshama Hi Ntsako;",
+        "Xihundla Xi Le Rirhandziwin, Xa Ku Susa Gome.",
+        "4. U Muponisi Wa Mina, Hi Nkarhi Hinkwawo; Na Riendzo Misaveni,",
+        "Ri Khuluka Ntsako."
+      ],
+      "number": 1
+    }
+  ]
+}

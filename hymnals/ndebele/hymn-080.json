@@ -1,0 +1,55 @@
+{
+  "number": 80,
+  "language": "nd",
+  "title": "80 Sebenza!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sebenzani zinceku zika Jehova,",
+        "Ma si landel’ indlela yeNkosi yethu,",
+        "Ngezwi lAkhe si yawathola amandla.",
+        "Masenze ngamandla imsebenzi yethu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sebenzan’... kuthalan’... Sebenzan’... kuthalan’...",
+        "Ni thembe...; ni linde.. Ize i buye iNkosi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sebenzani, ni phe abalanmbileyo,",
+        "Ba donselwe emthojeni wokuphila;",
+        "Indimiso yethu i kus’ is’ phambano",
+        "Si sho; \"Ukuphila okunge nantengo\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sebenzani-ke, u khona umsebenzi,",
+        "Ngokub’ umbuso wobumnyam’ u zokuwa;",
+        "Nebizo lika Jehova lokwaziwa",
+        "Ngokuthi; \"Ukuphila okunge nantengo.\""
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sebenzani ize I fike iNkosi,",
+        "Izingelosi zi zokuz’ ukuvuma;",
+        "Si yakuhlala nabaqotho emzini;",
+        "Si cule; \"Ukuphil’ okunge nantengo.\""
+      ],
+      "number": 5
+    }
+  ]
+}

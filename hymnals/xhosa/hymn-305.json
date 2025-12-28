@@ -1,0 +1,47 @@
+{
+  "number": 305,
+  "language": "xh",
+  "title": "305 Lizalise Idinga LaKho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lizalis’ idinga laKho, Thixo, Nkosi yenyaniso!",
+        "Zonk’ intlanga, zonk’ izizwe Mazizuze usindo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amadolo kwelilizwe Makagobe phambi kwaKho;",
+        "Zide zithi zonk’ ilwimi Ziluxel’ udumo lwaKho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Laula, laula, Nkosi, Yesu! Koza ngawe ukonwaba;",
+        "Ngeziphithiphithi zethu Yonakele imihlaba."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bona izwe lakowethu, Uxolel’ izono zalo;",
+        "Ungathob’ ingqumbo yaKho Luze luf’ usapho lwalo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yala, Nkosi, singadeli Imfundiso zezwi laKho;",
+        "Uze usivuselele Sive inyaniso yaKho."
+      ],
+      "number": 5
+    }
+  ]
+}

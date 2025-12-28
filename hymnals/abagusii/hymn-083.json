@@ -1,0 +1,35 @@
+{
+  "number": 83,
+  "language": "guz",
+  "title": "83  Nimbwate Omosani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nimbwate Omosani,Nimwanchete mono;Nigo anyanchete mono,Anchete kegima;Tinkoba moyo ataiyo,Mbuya kare ang'e,Erio twamenya amo:Ere nainche."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kero kende narosa,Ere namanyete;Kagontebia mweegeke,Nanyor' ogokonywa;Nere okondaa nchera,Tinyara kogochwa;Erio twatara amo,Ere nainche."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nigo nkomworoki' onsi;Omogoko one;Naende obororo bo,Nony' Omoichano;Antebia nkore amaya,Buna nche ndateme.Erio twakwana amo,Ere nainche."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Namanyet' okogania,Morete oyomo;Onchikire ntebie 'bande,Ring'ana rigiya,Ntebe obwanchani bwaye,'Kiageret' agakwa.Twakora emeremo,Ere nainche."
+      ],
+      "number": 4
+    }
+  ]
+}

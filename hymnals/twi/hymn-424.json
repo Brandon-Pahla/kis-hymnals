@@ -1,0 +1,57 @@
+{
+  "number": 424,
+  "language": "tw",
+  "title": "Wo, ɔman a Medɔ Wo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wo, ɔman a medɔ wo, M'aniwa hwɛ wokwan;",
+        "Mehwɛ wo din kronkron nō a, M'aniwa kyi nusu,",
+        "W'anuonyam yɛ sradehuam wɔ me koko mu hɔ;",
+        "Ͻyɛ yar' ano ad'ru, ɔdɔ, nkkwa ne 'home."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, ɔs'ro trabea k'ro pɛ! ɔdɛw Paradise!",
+        "Nea nusu remma hɔ bio, Na s'rew ahye mu ma;",
+        "W'ahoɔfɛ hyɛ nnipa mma Adwen ne koma so,",
+        "Na obi rentumi nky'rɛ Sɛnea wote, Sion."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'hwehwɛbo wɔ w'afasum', 'Habamm'bo hy'rɛn hɔ;",
+        "Bogyanambo, 'kraatebo, Ka bom hy'rɛn wɔ wo mu;",
+        "Wo tete fasu nom' wɔ Aboɔden b'redumbo;",
+        "'Hotefo bɛto w' fasu, Kristo ne tweatibo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Sennua no ne w'ahoɔfɛ; Nea wɔsɛn No no ne",
+        "W'ayeyi, w'ahotefō a Wɔagye wɔn no nhy'rasɛm;",
+        "Tete Botan no so na Wosi w'aban kronkron;",
+        "Nkonimdibo ne sika 'Gyapade yɛ wo de."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, ɔman pa a wɔahy'ra, Nyame aponfo fie!",
+        "O, ɔman pa a wɔahy'ra, Nea koma p're hwɛ kwan!",
+        "Yesu, mmob'rɔhun' mu fa Yɛn bra homebea hɔ,",
+        "Wō a Wo ne Agya ne Honhom no wɔ hɔ daa."
+      ],
+      "number": 5
+    }
+  ]
+}

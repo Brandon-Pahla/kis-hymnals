@@ -1,0 +1,57 @@
+{
+  "number": 710,
+  "language": "tw",
+  "title": "N15 Man Of Sorrows",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yaw Nipa, din nwanwa a",
+        "Wɔde frε Nyame  Ba a",
+        "Ɔbεgyee nnebɔn'yεfo",
+        "Haleluya! ɔgyefo ni!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Animguasem' ahiyim'",
+        "N'Osii m'ananmu dii fɔ;",
+        "Manya faf'ri Ne mogyam',",
+        "Haleluya! ɔgyefo ni!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yedi fɔ, yεn ho wɔ fi;",
+        "Nyame Guammá a Onni dεm;",
+        "Betumi ayε mpata",
+        "Haleluya! ɔgyefo ni!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔsεn' No nti na Owui,",
+        "Na ɔteεε mu sε “Mawui”:",
+        "Wɔama No so ɔsoro;",
+        "Haleluya! ɔgyefo ni!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Anuonyam Hene no ba,",
+        "Bεfa Ne mma kɔ fie a,",
+        "Yεbεto dwom yi bio se:",
+        "Haleluya! ɔgyefo ni!"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "number": 286,
+  "language": "ts",
+  "title": "286. NDZI NAVELA SIKU RERO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BEAR ME ON",
+        "1. Ndzi Navela Siku Rero, Ra Lava Poneke;",
+        "Va Mbele Nguvu Yo Basa, Ekaya Ra Vona.",
+        "CHORUS",
+        "Ndzamukele,",
+        "U Ndzi Yisa Siyon;",
+        "Kona Ekaya Ra Lavo Kwetsima, Kaya Ra Rirhandzu.",
+        "2. Ndzi Ta Twa Tialeluya, Ntshungu Wu Yimbaka;",
+        "Ndzi Ta Tsaka Siku Rero, Na Vakutsuriwa.",
+        "3. Tsakelani Siku Rero, Ro Naveta Vahundzi,",
+        "Swivavi Swa Herisiwa, Hi Kuma Ku Rhula."
+      ],
+      "number": 1
+    }
+  ]
+}

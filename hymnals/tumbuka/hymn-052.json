@@ -1,0 +1,60 @@
+{
+  "number": 52,
+  "language": "tum",
+  "title": " 52 Fumu Zani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 52 Fumu Zani",
+        "COME, THOU FOUNT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Fumu zani mtitumbike,",
+        "mtima wane wimbenge,",
+        "Mtilawiske na uchizi,",
+        "kuti timchindikani,",
+        "Tilondezge imwe pera,",
+        "na mtima wakusangwa,",
+        "Ndipo chigomezgo chane,",
+        "chizure m'mtima wane."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Fumu ndimwe m'vwiri wane,",
+        "mwandifikiska pano,",
+        "Mwalusungu lwinu pera,",
+        "nkhafikeko kuchanya.",
+        "Apo ine nkhatayika,",
+        "Yesu wakandipenja,",
+        "Ndopa zake zikathika",
+        "kundiwombola ine."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Fumu m'ndipe wezi winu,",
+        "ndawakwananga ine,",
+        "Chitemwa chinu nchikulu,",
+        "mundiguzile kwinu,",
+        "Nditolani ndize kwinu,",
+        "Fumu m'ngandilekanga,",
+        "Mtima wane muwunozge,",
+        "uwenge winu lero."
+      ],
+      "number": 4
+    }
+  ]
+}

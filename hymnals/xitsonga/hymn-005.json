@@ -1,0 +1,23 @@
+{
+  "number": 5,
+  "language": "ts",
+  "title": "5. I KULE XANA EKAYA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HOW FAR FROM HOME",
+        "1. I Kule Xana Ekaya? Ndzi Vutisa Ye Murindzi, Aku: Vusiku Bya Hundza,",
+        "Ku Fika Vurhonga. Sweswi U Nga Ha Vileri, Kambe Hatlisa U Famba, U Ta Fika Ku Kwetsimen, Loku Nga Heriki.",
+        "2. Ndzi Vutisa Yona Nhenha, Nhlamulo Yakwe Hi Leyi,",
+        "Ndzi Ta Lwa Ndzi Tiyisela, Hi Fumo Ra Moya, Sweswi U Nga Ha Vileri, Yana Kona Hi Xivindzi, Hakelo U Ta Yi Kuma Loko U Hlurile.",
+        "3. Ndzi Languta Ntumbuluko, Wu Kombisa Hi Ntiyiso,",
+        "Nkarhi Wona Wu Herile, Kusuhi Ekaya.",
+        "Sweswi U Nga Ha Vileri, Swikombiso Se Swa Andza, Ntumbuluko Wu Rindzele, Yona Mhalamhala.",
+        "4. Ekaya Kusuhi Sweswi, Tlangela Wena Muendzi,",
+        "Sula Mihloti Mahlweni, Ya Wena U Tsaka. Sweswi U Nga Ha Vileri, Hi Ta Ya Hlangana Kona. Ku Herile Wo Maxangu, Kwale Etilweni."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 240,
+  "language": "guz",
+  "title": "240 Eira Yarurw' As' Abegenete",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Eira yaruru' as'abagenete,\"Ngocha nde bwangombair' abar'abane;Morende mono goika nachire,Timorara buna abande renda\"."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Morende mono goika nachire,Nimbae ense\" N'eira yaye;\"Soa 'mogoko, namotimoke,Monyore chigutwa,mobwate mono."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Torende mono as'ogosaba,Nacher'abande buna omoibi;Twamanyire nigo are ang'e,Ko titomanyeti rituko renda."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ee! ntore na ogosemeria,Ng'a Yeso Omonene oito nache;Chiira chiaye nechi'ekeene,\"Mbwango ndach' aseigomobwate mono\"."
+      ],
+      "number": 4
+    }
+  ]
+}

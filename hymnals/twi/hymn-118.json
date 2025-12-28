@@ -1,0 +1,58 @@
+{
+  "number": 118,
+  "language": "tw",
+  "title": "Bųronya Da No Abɔfo No",
+  "stanzas": [
+    {
+      "type": "chorus",
+      "lines": [
+        "Bųronya da no abɔfo no",
+        "Ka ky'rɛɛ nguanhwɛfo wɔ sar' so;",
+        "Wɔwɔ sar' so rehwɛ wɔn nguan,",
+        "Awɔb'rem 'nadwo sum bi mu",
+        "Bųronya, bųronya, bųronya, bųronya,",
+        "Wɔawo Israel Hene no."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wɔhwɛɛ soro huu ns'romma bi",
+        "Sɛ ɛhy'rɛn apuei aky'riky'ri,",
+        "Na ɛmaa 'sase hy'rɛn kɛse,",
+        "Ͻtoaa so awia ne 'nadwo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na saa ns'romma no hann mu no,",
+        "Nyansafo baasa fi aky'ri bae,",
+        "Sɛ wɔrebɛhwehwɛ hen' no.",
+        "Na wodii ns'romma no akyi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ns'romma no bɛn 'tifi atɔe fam,",
+        "Ͻhomee wɔ Betlehem so;",
+        "'Hɔ na egyinae prɛko pɛ,",
+        "Faako a na Yesu da no."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyansafo baasa no hyɛn mu,",
+        "Na wɔde 'nidi sɔree No;",
+        "Wɔde 'kyɛde mae N'anim hɔ:",
+        "Sika, korɔbɔ ne 'duhwam."
+      ],
+      "number": 4
+    }
+  ]
+}

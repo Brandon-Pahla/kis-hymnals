@@ -1,0 +1,47 @@
+{
+  "number": 161,
+  "language": "st",
+  "title": "161 Eena Le ’Na.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke na le motsoalle oa bohlokoa, ea ratoang.",
+        "O nthata ka bots’epehi, nke ke ka mo lahla.",
+        "Ke mo rata a be haufi, re tle re tsamae,",
+        "Le ho lula hammoho Eena le ’na."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ke fela ke tennoe, ’nkutloele bohloko;",
+        "Ha A re ke its’etlehe, A thaba ho nthusa,",
+        "O ntsamaisa tseleng e tletseng khalalelo,",
+        "Re qoqa hammoho Eena le ’na."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke mo joetsa ka ts’oabo, le ka eona thabo;",
+        "Le ka tse tla nthabisang, Le ka tse nkhopisang,",
+        "O mpolella ho ts’oanelang,hore ke leke joang;",
+        "Re tla sebetsa ’moho Eena le ’na."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O tseba, ke ea rata, ho sokolla e mong;",
+        "O re ke tsamae ho bua ka Eena bathong,",
+        "Le ka rato le makatsang, la ha A re shoetse.",
+        "’Me re tsamae hammoho Eena le ’na."
+      ],
+      "number": 4
+    }
+  ]
+}

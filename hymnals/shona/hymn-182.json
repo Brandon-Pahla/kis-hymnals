@@ -1,0 +1,55 @@
+{
+  "number": 182,
+  "language": "sn",
+  "title": "182 Zuva Rinopenya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kuyedza kunosvika",
+        "Jesu anouya",
+        "Kuti azotora vana vake",
+        "Vaende kumusha"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Toona musi unopenya, unovheneka usiku",
+        "Aya maranzi anopenya ano wonekwa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rinozaraurwa vhangeri",
+        "Mupasi iri rese",
+        "Haanonoki mukwambo",
+        "Pakurira tsuri"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dzinomuperekedza kwazvo",
+        "Idzo’ngirosi",
+        "Apo anozotora vake",
+        "Kopera urombo"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vakafa vedu vekare",
+        "Tichazovavona",
+        "Masodzi ekuchemerana",
+        "Achazo pukutwa"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "number": 21,
+  "language": "guz",
+  "title": "21 Ngwekane Buna Yeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ngwekane buna Yeso;Amenye ime yane,Ng'ichorie obwanchani,Nindabe omwororo,Ngwekane buna Yeso,kangotara as'ense,Mbe n'omoika oye,'Monene nchwo ase nde."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Gakoigwa chinyoni,Nagochirenda buya,Nanyigwe ekerero,n'ogochandeka kwane;Nanyorokie boronge,Anyabere 'komocha,Nchenek' enkoro yane'Monene nchwo ase nde."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ngwekane buna Yeso;Amatuko onsi pi,Nintimoke as'are,Ninyw' amache amaya;Nimbe n'obuya bwaye,Nyor' obwanchani bwaye,Ninyegene kegima'Monene nchwo ase nde."
+      ],
+      "number": 3
+    }
+  ]
+}

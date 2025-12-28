@@ -1,0 +1,65 @@
+{
+  "number": 610,
+  "language": "es",
+  "title": "Escuchamos tu llamada",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Escuchamos tu llamada"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Escuchamos tu llamada,",
+        "respondemos con placer;",
+        "una lealtad constante,",
+        "nuestro voto debe ser."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "A ti, oh Jesús, damos todo nuestro ser,",
+        "pues la juventud redimiste para ti.",
+        "Con talentos consagrados empeñados en servir,",
+        "la juventud del mundo, de Cristo ha de ser."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dondequiera tú nos guíes,",
+        "vengan pruebas o desdén,",
+        "seguiremos tu llamada;",
+        "solo da la orden: \"Ven\"."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tú nos diste aptitudes,",
+        "que debemos emplear;",
+        "nuestro tiempo todo es tuyo,",
+        "te queremos ayudar."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Danos una gran tarea;",
+        "la esperamos hoy, Señor.",
+        "Con placer la cumpliremos,",
+        "con arrojo y sin temor."
+      ],
+      "number": 6
+    }
+  ]
+}

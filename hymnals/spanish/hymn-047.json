@@ -1,0 +1,54 @@
+{
+  "number": 47,
+  "language": "es",
+  "title": "Por la mañana",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Por la mañana"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por la mañana, ¡oh Señor!,",
+        "elevo a ti mi voz;",
+        "a tu buen nombre doy loor",
+        "con gratitud, mi Dios."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "El sol brillante ya salió,",
+        "camino en su luz;",
+        "del Salvador es símbolo,",
+        "del magno Rey, Jesús."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Los cielos cuentan al que cree",
+        "la gloria del Señor;",
+        "la llama avivan de la fe",
+        "y alientan el amor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En la mañana eterna, pues,",
+        "contigo cuando esté,",
+        "yo del Cordero y de Moisés",
+        "el himno entonaré."
+      ],
+      "number": 5
+    }
+  ]
+}

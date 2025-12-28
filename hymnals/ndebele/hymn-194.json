@@ -1,0 +1,54 @@
+{
+  "number": 194,
+  "language": "nd",
+  "title": "194 Uthando Ekhaya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kuhl’ endaweni zonke, ngothandw’ ekhaya,",
+        "Kuhle umsindo wonke, ngothandw’ ekhaya,",
+        "Ukuthula nenala, kuchume yonk’ indawo,",
+        "Is’khathi asizwakali, kukuhl’ ekhaya."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uthando ekhaya, Is’khathi asizwakali, Ngothandw’ ekhaya"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ku jatshul’ efukwini, ngothandw’ ekhaya,",
+        "Kakukho sicanulo, ngothandw’ ekhaya,",
+        "Indlel’ ihlotshisiwe, yonk’ indawo i yihle,",
+        "Konke ku jabulise, ngothandw’ ekhaya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phezulu ku yathatshwa; Ngothandw’ ekhaya;",
+        "Umhlab’ u gcwel’ ubuhle, Ngothandw’ ekhaya.",
+        "Imfundlan’ ihlokoma,Izulu li cwathile.",
+        "iNkos’ i yathokoza, iNkos’ i yathokoza."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu ng’enze owAkho, ngothandw’ ekhaya",
+        "Ngi zidele njengaWe, ngothandw’ ekhaya",
+        "Ngophepha engozini, Ngi ngakhathazwa bubi",
+        "Ngi busisiwe nguWe, Ngothandw’ ekhaya"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "number": 211,
+  "language": "ny",
+  "title": "211 - Madalitso Ngati Mvula",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE SHALL BE SHOWERS OF BLESSING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. \"Madalitso ngati mbvumbi;’ Pangano la cikondi;",
+        "Nyengo yakupata mphamvu, Yocokera Kumwamba.",
+        "CHORUS:",
+        "Tipempha Inu Mvula ya madalitso;",
+        "Nsisi zitigwre ife, Tipempha madalitso.",
+        "(Alto, Tenor and Bass):",
+        "Mvula tipempha Inu, Mvula ya madalitso,",
+        "Nsisi zitigwre ife, Tipempha madalitso.",
+        "2. \"Madalitso ngati mbumbi; \"Titsitsimutseniso\"",
+        "M’mapiri ndi m’madambonso, Mvula ya citsitsimutso.",
+        "3. \"Madalitso ngati Mbvumbi;\" Tipotsenitu Mbuye;",
+        "Mtitsitsimutse tsopano, Tiope Mau anu.",
+        "4. \"Madalitso ngati mbvumbi;\" Mbumbiwo ugwe lero,",
+        "Tilandireninso Mbuye, Yesu musatitaye."
+      ]
+    }
+  ]
+}

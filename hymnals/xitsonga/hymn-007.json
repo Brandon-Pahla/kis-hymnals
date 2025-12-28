@@ -1,0 +1,23 @@
+{
+  "number": 7,
+  "language": "ts",
+  "title": "7. LOKO KU TA FIKA NKARHI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHEN HE COMETH",
+        "1. Loko Ku Ta Fika Nkarhi, U Ta Teka Vakwe,",
+        "Xuma Xakwe Lexikulu, Varhandzwa Vakwe.",
+        "CHORUS",
+        "Tani Hi Tinyeleti, Ku Vangama Tiharhi;",
+        "Va Kwetsima Swonghasi, Na To Tiharhi.",
+        "2. Wa Va Hlengeleta Swin’we, Malandza Ya Yena,",
+        "Va Ta Hatima Swinene, Varhandzwa Vakwe.",
+        "3. Na Swihlangi Leswintsongo, Swi Rhandza Yesu,",
+        "I Rifuwo Ra Xikwembu, Varhandzwa Vakwe."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "number": 263,
+  "language": "ve",
+  "title": "263. disani Tshafumi tshothe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ipfani manwalo tsha kale a ri: ’Dzhenisani tshafumi vhukuma.’",
+        "Ni dovhe ni vhe vhakhethwa tshothe. Ni di lindela mashudu-vho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "’Dzhenisani tshafumi vhukuma.’ Murena U ri: ’Nndingeni.’",
+        "Ndi do shulula phathutshedzo, Dza kundwa na vhudzulo nga u dala."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Naa ni a funa Maanda a Muya-vho? Dzhenisani-ha tsha fumi tshothe.",
+        "Ni dzule ni tshi pfana na Mudzimu, A ni fhatutshedze ngoho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ni fhandekanywa nga mini na khotsi? ’Dzhenisani-ha tshafumi tshothe.’",
+        "disani-ha nga he ipfi la amba. Ni do fhatutshedzwa ngoho."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Hulisani Yesu nga mbilu yothe, Musi ni tshi kho’disa tsha fumi,",
+        "Ni kwambatele kha fulufhedziso, la mbilu yo no ledaho."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Imbelelani ipfi li ye tadulu, Wo no disa tshafumi tshothe,",
+        "Ri ri: ’Haleluya’ ri vhudzuloni, Ri na phathutshedzo khulu."
+      ],
+      "number": 6
+    }
+  ]
+}

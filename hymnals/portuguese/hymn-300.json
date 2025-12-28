@@ -1,0 +1,54 @@
+{
+  "number": 300,
+  "language": "pt",
+  "title": "Herdeiro do Reino",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Herdeiro do Reino"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó tu herdeiro do reino celeste,",
+        "Por que dormitas tão perto do lar ?",
+        "Presto levanta-te, pões tu as armas;",
+        "Eis que a vitória bem podes ganhar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Grandes potências ordenam suas forças",
+        "Para o combate final se ferir",
+        "Ouve à distância o ruído dos carros!",
+        "Filho do reino não queiras dormir !"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Não te detenham prazeres terrenos,",
+        "Pois bem depressa terão de passar!",
+        "Rompe as cadeias que ao mundo te prendem!",
+        "Vem logo a Cristo, que te há de salvar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nele confia esperando Sua glória;",
+        "Ergue tua fronte, sê digno cristão!",
+        "Já no horizonte refulge a alvorada;",
+        "Filho do reino, prorrompe em canção!"
+      ],
+      "number": 5
+    }
+  ]
+}

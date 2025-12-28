@@ -1,0 +1,57 @@
+{
+  "number": 93,
+  "language": "es",
+  "title": "Hubo Uno que quiso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Hubo Uno que quiso"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hubo Uno que quiso por mí padecer",
+        "y morir, por mi alma salvar;",
+        "el camino cruento a la cruz recorrer,",
+        "para así mis pecados lavar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡En la cruz, en la cruz",
+        "mis pecados clavó!",
+        "¡Cuánto quiso por mí padecer!",
+        "Con angustia a la cruz",
+        "fue el benigno Jesús,",
+        "y en su cuerpo mis culpas llevó."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "El es todo ternura y amor para mí,",
+        "mi alma impura su sangre lavó;",
+        "ya no hay condenación, libre soy, yo lo sé;",
+        "mi pecado en la cruz él clavó."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me atendré al Maestro, jamás dejaré",
+        "el sendero que él mismo trazó,",
+        "y mis labios y mi alma alzarán su canción,",
+        "pues él todas mis culpas quitó."
+      ],
+      "number": 5
+    }
+  ]
+}

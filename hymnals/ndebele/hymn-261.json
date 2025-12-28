@@ -1,0 +1,45 @@
+{
+  "number": 261,
+  "language": "nd",
+  "title": "261 S’godin’ Esihle sas’Edeni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "S’god’ esihle sas’ Edeni",
+        "Umnandi emini",
+        "Enhliziyweni yokhathele",
+        "Ngamanz’ apholile"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "S’god’ esihle sas’Edeni, Khaya labamhlophe",
+        "Kaningi emagagasini, Ngiphupha ngok’phumula"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Enhliziyweni yokhalayo",
+        "Yimin’ ekhanyayo",
+        "Ineculo lengelosi",
+        "Liza nobukhosi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nal’ ikhaya loMsindisi",
+        "Nabo abegazi",
+        "Kuphakamela phezulu",
+        "Ingoma enzulu"
+      ],
+      "number": 4
+    }
+  ]
+}

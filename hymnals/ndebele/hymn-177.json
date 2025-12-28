@@ -1,0 +1,47 @@
+{
+  "number": 177,
+  "language": "nd",
+  "title": "177 Akukho Ubusuku Le!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ezwen’ elingashazwa: Emzin’ okhanyayo;",
+        "Awusoze wa guga, Ubusuk’ abukho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ku yosulw’ inyembezi, Nokufa nezinsini,",
+        "Ayibalwa imnyaka ubusuk’ abukho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amasang’ aligugu; Emzin’ okhanyayo;",
+        "Im’gwaqo yigolide, Ubusuk’ abukho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amasang’ angevalwe: Emzin’ okhanyayo;",
+        "Nempilo a yipheli, Ubusuk’ abukho."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka ba dingi nenyanga: Emzin’ okhanyayo;",
+        "IWundlu li yilanga, Ubusuk’ abukho."
+      ],
+      "number": 5
+    }
+  ]
+}

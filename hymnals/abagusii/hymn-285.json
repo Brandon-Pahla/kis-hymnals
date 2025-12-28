@@ -1,0 +1,35 @@
+{
+  "number": 285,
+  "language": "guz",
+  "title": "285 Egetare Ki' Emiaka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Egetare ki'emiaka,Nyebise im' as' ore;Amache n'amanyinga,Bikorw' omober' oo;Bib' eriog' as'ebibe,Nkonye korwa ebibe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Meremo y'amaboko,Tegonkorera gento;Nonya n'omokia bwonsi,'Mariga naiteka;Ase nde 'bibe mbosa,Naye bwek' orankonye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tindi koreta gento,'Mosalaba ndaimokie;Mbosa nde aye mboyie,Nakorigereire;Ay' ensoko 'bogima,Onsibie tinkwa ense."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Kangokor' orogendo,Mobui bw' ababisa;Ng'iruruke gochi' are,nkoror' As'ekerogo;Egetare ki'emiaka,Nyebise ime as' ore."
+      ],
+      "number": 4
+    }
+  ]
+}

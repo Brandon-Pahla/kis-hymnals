@@ -1,0 +1,27 @@
+{
+  "number": 273,
+  "language": "ts",
+  "title": "273. VA NA MAVOKWENI YA YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LEAN ON HIS ARMS",
+        "1. Van a Mavokweni Ya Yesu U Ta Ku Pfuna, A Ku Pfuna,",
+        "U Tshembha Rirhandzu Ra Yena, U Ta Yimbelela.",
+        "CHORUS",
+        "S&T Va Na Mavokweni Ya Yesu, Tshembha Yena, Tintswalo Takwe,",
+        "Mavokweni Languta Henhla, Mavoko Ya Muponisi.",
+        "A&T Va Na mavokweni Ya Hosi Yesu, Tshembha Yena Na Tintswalo Ta Yena,",
+        "Va Na Emavokweni, Languta Henhla, Mavoko Ya Muponisi.",
+        "2. Va Na Mavokweni Ya Yesu, A Voninga Ndlela Ya Yena,",
+        "Wena U N’wi Landzela Ndlelen, Na Rito Ra Yena.",
+        "3. Va Na Mavokweni Ya Yesu, Tisa Na Mirhwalo Ya Wena,",
+        "Yona Leyi Yo Tika Ngopfu, Khongela Ka Hosi.",
+        "4. Va Na Mavokweni Ya Yesu, N’wi Tshikele Hinkwaswo-nkwaswo,",
+        "U Na Rirhandzu Na Tintswalo, A Nga Khudzeheri."
+      ],
+      "number": 1
+    }
+  ]
+}

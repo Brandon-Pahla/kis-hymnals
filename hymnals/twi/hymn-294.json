@@ -1,0 +1,46 @@
+{
+  "number": 294,
+  "language": "tw",
+  "title": "Tum' Wɔ Mogya Nom'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wonyi wo bɔn' adesoa mma wo?",
+        "Tum' wɔ mogya nom', tumi wom',",
+        "Wopɛ sɛ wudi bɔne so nkonim?",
+        "Anwanwa tum' wɔ mogya nom'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tumi wom, tum', anwanwa tumi",
+        "Wɔ 'Guammaa mogya nom',",
+        "Tumi wom, tum', anwanwa tumi",
+        "Wɔ mogya a ɛsom bo nom'."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wonyi w'akɔnnɔ nč ahantan mma wo?",
+        "Tum' wɔ mogya nom', tumi wom',",
+        "Bra Kalbre nsu no ho bɛtew wo ho,",
+        "Anwanwa tum' wɔ mogya nom'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wobɛsom wo Hene Yesu anaa?",
+        "Tum' wɔ mogya nom', tumi wom',",
+        "Wobɛto N'ayeyi no daa anaa?",
+        "Anwanwa tum' wɔ mogya nom'."
+      ],
+      "number": 3
+    }
+  ]
+}

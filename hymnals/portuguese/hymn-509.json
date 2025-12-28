@@ -1,0 +1,56 @@
+{
+  "number": 509,
+  "language": "pt",
+  "title": "A Escola Sabatina",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A Escola Sabatina"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Em Teu nome começamos",
+        "Esta escola, ó Senhor!",
+        "Com fervor nós Te rogamos",
+        "Sejas o nosso Diretor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Cada sábado nós vimos",
+        "À Tua escola, ó Jesus!",
+        "Vem, ó Mestre, instruir-nos",
+        "No caminho Teu de luz."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Esta escola nos ensina",
+        "Em Tua santa lei viver,",
+        "E nos manda que sejamos",
+        "Sempre fiéis, até morrer."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem, Senhor, vem ensinar-nos",
+        "Teus preceitos bem cumprir.",
+        "Eis, reunidos, esperamos",
+        "Tua presença aqui sentir."
+      ],
+      "number": 5
+    }
+  ]
+}

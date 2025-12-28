@@ -1,0 +1,39 @@
+{
+  "number": 296,
+  "language": "sn",
+  "title": "296 Nditungamire Muponesi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi nditungamire, Munzira yangu yose",
+        "Ndachengetwa, ndinemwi, Ndichagara murudo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi, kuti ndisarasike m’nzira",
+        "Mukuchinja kwenguva, Nditungamire Tenzi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muribako’ro rangu, Cham’pupuri chauya",
+        "Handizotyi ndinemwi, Ndinosimbira imwi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndisvitse kumagumo, Cham’pupuri chapera",
+        "Ndozosvika nyika’yo, Masodzi opukutwa"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "number": 71,
+  "language": "fr",
+  "title": "Alléluia, le grand combat",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Alléluia, alléluia, alléluia!",
+        "Le grand combat est terminé :",
+        "Le Christ Sauveur a triomphé",
+        "Et dans sa gloire il s’est montré.",
+        "Alléluia!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alléluia, alléluia, alléluia!",
+        "Il est vivant, la mort n’est plus;",
+        "Dieu nous délivre par Jésus.",
+        "Il rend la vie à ses élus.",
+        "Alléluia!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alléluia, alléluia, alléluia!",
+        "Gloire au Seigneur ressucité!",
+        "Premier des morts il s’est levé,",
+        "Resplendissant de majesté.",
+        "Alléluia!"
+      ],
+      "number": 3
+    }
+  ]
+}

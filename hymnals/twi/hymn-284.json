@@ -1,0 +1,54 @@
+{
+  "number": 284,
+  "language": "tw",
+  "title": "Wo Nti Merebɔ Mpae",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mewɔ 'Gyenkwa a ɔresrɛ 'nuonyam mu,",
+        "Wiase nnamfo sua de, nso ɔyɛ dɔfo;",
+        "Seesei ɔda so hwɛ me so ara 'dɔ mu,",
+        "O, anka m'Agyenkwa'i yɛ wo gyefo a!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wo nti merebɔ mpae, Wo nti merebɔ mpae,",
+        "Wo nti merebɔ mpae, Merebɔ mpae maw'."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mewɔ Agya bi a Wamam' 'nidaso",
+        "Wɔ daa nkwa ho, ɛyɛ nokwar' ne nhyira.",
+        "Ͻrenkyɛ ɔbɛfiɛ me na mahyia No wim,",
+        "O, anka ɔbɛma me de w' akɔ a!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mewɔ 'tade bi, ɛhoa sɛ suky'rɛmma,",
+        "Mihu sɛ ɛretwɛn wɔ anuonyam mu;",
+        "O sɛ me nsa ka 'tade a ɛhy'rɛn yi a,",
+        "'Damfo pa, m'ani bɛgye sɛ wohyɛ bi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ Yesu gye wo a, ka ky'rɛ afof'ro",
+        "Sɛ w'Agyenkwa pa no yɛ wɔn Agyenkwa;",
+        "Srɛ sɛ wo Gyefo de wɔn bɛkɔ 'nuonyam mu,",
+        "Na wubenya saa mpaebɔ yi ho mmuae pa."
+      ],
+      "number": 4
+    }
+  ]
+}

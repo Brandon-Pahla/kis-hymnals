@@ -1,0 +1,37 @@
+{
+  "number": 96,
+  "language": "en",
+  "title": "96 Welcome, Welcome, Day Of Rest.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Welcome, welcome, day of rest,",
+        "To the world in kindness given;",
+        "Welcome to this humble breast,",
+        "As the beaming light from heaven."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Day of calm and sweet repose,",
+        "Gently now thy moments run;",
+        "Balm to sooth our cares and woes,",
+        "Till our labor here is done."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Holy day that most we prize,",
+        "Day of solemn praise and prayer;",
+        "Day to make the simple wise,",
+        "O, how great thy blessings are!"
+      ],
+      "number": 3
+    }
+  ]
+}

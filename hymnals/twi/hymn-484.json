@@ -1,0 +1,49 @@
+{
+  "number": 484,
+  "language": "tw",
+  "title": "MihiaW', Yesų a Wosom Bo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "MihiaW', Yesų a Wosom bo,",
+        "'Fisɛ meyɛ 'hiani;",
+        "ɔhɔho ne kwantuni,",
+        "Minni hwee wɔ fam ha.",
+        "Mihia W'aw'rɛkyekye dɔ",
+        "Wɔ me kwan so daa na",
+        "Aky'rɛ m'akyinnye nan kwan,",
+        "Na ayɛ m'ahoɔden."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mihia Yesu koma no,",
+        "De ate adwen nka;",
+        "Aka me sɔhwɛ biara",
+        "Ne m'aw'rɛhow aky'rɛ;",
+        "Mihia Honhom Kronkron no",
+        "Ma Waky'rɛ nea meyɛ,",
+        "Aky'rɛ me Yesu nso yie,",
+        "De me akɔ Ne nkyɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "MihiaW', Yesų a Wosom bo,",
+        "Ͻrenkyɛ, mehu Wo",
+        "Sɛ Wote W'agua so na",
+        "W'anounyam 'twa Wo ho;",
+        "Me ne Wo mma a Wode",
+        "Wo mogya atɔ wɔn",
+        "De dɛw bɛto 'yeyi dwom",
+        "Ahwɛ W'anim daa daa."
+      ],
+      "number": 3
+    }
+  ]
+}

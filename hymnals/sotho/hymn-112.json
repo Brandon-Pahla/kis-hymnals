@@ -1,0 +1,38 @@
+{
+  "number": 112,
+  "language": "st",
+  "title": "112 Sefapanong Bophelo Bo Teng.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Moo sefapanong bophelo bo teng, Jesu O n’a re ke shebe,",
+        "Menate ea lefats’e ha se letho hobane tse ntle li pele."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ho bona...bophelo teng...bo botle...sefapanong...",
+        "Poloko...tokoloho...tse bonoang...sefapanong...."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke hona ke sa tsoa bona Jesu, A nthabele hofetisa",
+        "Ha meleko e mphihlela ke fumana matla teng sefapanong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tla talima kamehla eohle ke bolokile ts’episo,",
+        "Ea ts’epileng matla a Jesu A ke ke a hloloa ke moleki."
+      ],
+      "number": 3
+    }
+  ]
+}

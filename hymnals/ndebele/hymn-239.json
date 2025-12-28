@@ -1,0 +1,63 @@
+{
+  "number": 239,
+  "language": "nd",
+  "title": "239 Ukhathele Na?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ukhathele unosizi, Udangele Na?",
+        "Woza kiMi, ush’ uJesu, \"Phumula!\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Amanxeb’ angi donsela eNkosini na?",
+        "Enyaweni kuz’ izandla, Akhona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inomqhele, kamb’ iNkosi Ewukhombayo?",
+        "Yebo, ngowamev’ osizi OkuYo!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa ngimfuna ngimlandela Ngozuzani na?",
+        "Izinsizi nobunzima, Konkana"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa ngibambelela kuYo, Ngotholani na?",
+        "Wophumula ngaphesheya kweJordan"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa ngimnxusa ngize kuYe, Wothula yini?",
+        "Angenqabe ‘ze kudlule Izulu"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa ngizama, ngi Mlandele Ngobusiswa na?",
+        "Bathi, Yebo! Abangcwele Laphaya, Amen"
+      ],
+      "number": 7
+    }
+  ]
+}

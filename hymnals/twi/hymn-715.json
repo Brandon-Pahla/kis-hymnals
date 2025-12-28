@@ -1,0 +1,56 @@
+{
+  "number": 715,
+  "language": "tw",
+  "title": "N20 I am so glad",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "M'ani gye sɔ yɔn soro Agya no",
+        "Ka Ne dɔ ho asɔm Ne nwoma mu;",
+        "Nneɔma a mihu wɔ Ky'rɔ Kronkron mu,",
+        "Nea ɔkyɔn so ne sɔ, Yesu dɔɔ me."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "M'ani gye pii sɔ Yesu dɔ me,",
+        "Yesu dɔ me, Yesu dɔ me,",
+        "M'ani gye pii sɔ Yesu dɔ me,",
+        "Yesu dɔ me, sɔɔ yi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɔ me w'rɔ fi No wɔ ntwɔtwɔdɔ a,",
+        "Nea mekɔ biara ɔda so dɔ me;",
+        "Mesan bɔtɔ Ne dɔ basa no so,",
+        "Bere a mekae sɔ Yesu dɔ me."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Da a mehu Henkɔse' ‘nounyam mu no,",
+        "Sɔ dwom biako mpo na metumi' atoa",
+        "Eyi na ɔbɔyɔ me daa daa dwom",
+        "“O ɔyɔ nwonwa sɔ Yesu dɔ me!”"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu dɔ me, minim sɔ medɔ No:",
+        "Ɔdɔ n'ɔkaa No No ma ɔbɔgyee me;",
+        "Yiw ɔdɔ n'ɔma Owuu dua no so:",
+        "O, minim pefee sɔ Yesu dɔ me."
+      ],
+      "number": 4
+    }
+  ]
+}

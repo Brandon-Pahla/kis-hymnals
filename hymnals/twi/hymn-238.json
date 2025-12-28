@@ -1,0 +1,57 @@
+{
+  "number": 238,
+  "language": "tw",
+  "title": "Yesu Din Yɛ Dɛ Dɛn Ara",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu din Yɛ dɛ dɛn ara",
+        "Wɔ gyidini asom;",
+        "Edwudwo ne yaw sa n'ak'ru",
+        "Na etu ne suro."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻma pirafo ho yɛ den,",
+        "Ͻma koma tɔ yam;",
+        "Ͻyɛ mana a ɛyɛn kra,",
+        "Ͻma brɛfo home."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Din pa, 'botan a meto so,",
+        "Me guankɔbea ne kyɛm,",
+        "ɔdom ahyɛ m'akorade",
+        "A ɛnwe da no ma!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu me Hwɛfo ne Yɔnko",
+        "Me Sɔfo ne Hene;",
+        "Me Wura ne me nkwa, me kwan",
+        "Gye me nsam ayeyi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me komam' mmɔden no mm'rɛw,",
+        "Na m'adwen nso yɛ nyaa;",
+        "Na mihu sɛnea Wote a,",
+        "Meyi W'ayɛ ampa."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 106,
+  "language": "tum",
+  "title": " 106 Tizenge Nyumba Pa Jalawe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 106 Tizenge Nyumba Pa Jalawe",
+        "BUILD ON THE ROCK"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Tizenge nyumba pa jalawe,",
+        "jalawe ndi Fumu Yesu Kuti yileke kubwanduka,",
+        "m'nyengo ya chimphupulu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ttizengenge (titizengenge)",
+        "pa Fumu yithu (pa Fumu yithu),",
+        "Pa Yesu jaLawe Lakukhora,",
+        "Yesu ndi jaLawe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Wanji wakuzenga pa m'chenga,",
+        "pa usambazi wa charu,",
+        "Wanji wakuzenga mkwananga,",
+        "m'vyakukondweska m charu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Zengani pa jalawe, Khristu,",
+        "malufula ghakukhora,",
+        "NGgomezgo cha nyengo zose,",
+        "cha chiponosko chitnu."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "number": 129,
+  "language": "ve",
+  "title": "129. Ida Yesu U Ri Fhatutshedze",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:272"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu Iwe wo ri, ’Hune vhakhethwa",
+        "Vha do kuvhangana, nga dzina langa,",
+        "Ndi do vha henefho, nda fhatutshedza.’",
+        "Ida u ri tanzwe, u fhatutshedze."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu ’da u ri fhatutshedze rothe;",
+        "U ri fhatutshedze, I vha tsini-ha."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yesu wo vha hone kale na kale;",
+        "Ri a di U funa, nga misi yothe,",
+        "Ida-ha Mutshidzi, a re Mukhethwa,",
+        "Ri pfe ri a lila nga thabelo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri imbela Iwe, thendo dzavhudi;",
+        "Ida thabeloni, ri fhatutshedze,",
+        "U ri vhonetshele ndilani yau,",
+        "Khwathisa lutendo, na fulufhelo."
+      ],
+      "number": 4
+    }
+  ]
+}

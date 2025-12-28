@@ -1,0 +1,67 @@
+{
+  "number": 124,
+  "language": "es",
+  "title": "Ama el Pastor sus ovejas",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ama el Pastor sus ovejas"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ama el Pastor sus ovejas",
+        "con un amor paternal;",
+        "ama el Pastor su rebaño",
+        "con un amor sin igual.",
+        "Ama el Pastor a las otras",
+        "que descarriadas están,",
+        "y conmovido las busca",
+        "por dondequiera que van."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Por el desierto errabundas",
+        "las ve sufrir penas mil,",
+        "y en sus brazos las lleva,",
+        "tierno, de vuelta al redil."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ama el Pastor sus corderos;",
+        "ama muy tierno el Pastor",
+        "a los que errantes, heridos,",
+        "se oye gemir de dolor.",
+        "Ved al Pastor conmovido",
+        "por los collados buscar,",
+        "y los corderos en hombros",
+        "vedlo llevando al hogar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Son delicados tus pastos,",
+        "tranquilas tus aguas son;",
+        "henos aquí, ¡oh Maestro!,",
+        "Danos hoy tu bendición.",
+        "Haz que seamos fervientes,",
+        "llénanos de santo amor",
+        "por las ovejas perdidas",
+        "de tu redil, buen Pastor."
+      ],
+      "number": 5
+    }
+  ]
+}

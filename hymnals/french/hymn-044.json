@@ -1,0 +1,53 @@
+{
+  "number": 44,
+  "language": "fr",
+  "title": "Aujourd’hui, Dieu...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Aujourd’hui, Dieu te fait prophète,",
+        "Aujourd’hui tu es son témoin.",
+        "L’Esprit saint sur toi repose,",
+        "Va porter la Bonne Nouvelle,",
+        "Va porter la Bonne Nouvelle!",
+        "Parole pour l’aveugle :",
+        "Dieu guérit les yeux blessés.",
+        "Il donne à tous les peuples de marcher vers sa clarté.",
+        "Par Jésus l’aurore luit, la lumière en nous fleurit."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Parole de confiance :",
+        "Dieu nous aime et nous connaît.",
+        "Quel sourd en sa présence n’entendrait des mots de paix?",
+        "Par Jésus qui nous conduit, le Royaume se construit."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Paroles pour les pauvres :",
+        "Dieu libère nos prisons.",
+        "Sauveur de tous les hommes, il relève nos maisons.",
+        "Par Jésus brisant la nuit, notre Pâque s’accomplit."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Parole pour le monde :",
+        "Dieu prépare son festin.",
+        "Sa table surabonde, accourez sur vos chemins.",
+        "Par Jésus, Soleil de vie, notre terre porte fruit!"
+      ],
+      "number": 4
+    }
+  ]
+}

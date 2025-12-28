@@ -1,0 +1,59 @@
+{
+  "number": 95,
+  "language": "tum",
+  "title": " 95 Chiuta Watisunga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 95 Chiuta Watisunga",
+        "SAFELY THROUGH ANOTHER WEEK"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Chiuta watisunga ku Sabata linyake,",
+        "Tiyeni timchindike m'zuwa la kupumula,",
+        "Tighanaghane vinthu vya m'mazgu gha Chiuta,",
+        "Tighanaghane vinthu vya mmazgu gha Chiuta."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Pakupenja uchizi, kufuma. mzina linu,",
+        "Mwikhe luwiro Fumu, Dada mtigowokere,",
+        "Tipumule mwa Imwe, tikumpenjani Fumu,",
+        "Tipumule mwa Imwe, tikumpenjani Fumu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Pakuchindika Imwe, tisenderere kwinu,",
+        "Imwe mwa wankhongono, na uchindami wose,",
+        "Fumu mutovwirenge, tikarye namwe kwinu,",
+        "Fumu mutovwirenge, tikarye namwe kwinu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Fumu ndimwe chatonda, wa zakwananga zane,",
+        "Kuti ndikarongole, nchito zakukondweska,",
+        "Pa masabata ghose, ndichitenge viweme,",
+        "Pa masabata ghose, ndichitenge viweme."
+      ],
+      "number": 5
+    }
+  ]
+}

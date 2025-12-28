@@ -1,0 +1,46 @@
+{
+  "number": 216,
+  "language": "nd",
+  "title": "216 Wedwa?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wedwa? Angingedwa um’ uJes’ ekhona,",
+        "Ngijatshuliswa nguYe, ngiyazi ukhona",
+        "Zungu? Qha! uJes’ ukhon’ isihlobo sami,",
+        "Kaguquki kuze kube sekupheleni"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qha! Angingedwa, Qha! Angingedwa,",
+        "Khasoze angishiye ngedwa",
+        "Soze ngasala ngedwa, sala ngedwa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngiwe? Ngingewe ngis’ es’fubeni sAkhe,",
+        "Ngenelisiwe ukuphumula phakade Lutho?",
+        "Ngeyame kakhulu nginge lutho",
+        "Yona ingalo kaJesu kim’ inosizo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yini? Ngilindele ngob’ uthi, ngenzani?",
+        "Ngimangale iNkosi ilibele ngani? Mnandi!",
+        "Kumnandi okungena kushiwo",
+        "Isisekelo seNkos’ esinenjabulo"
+      ],
+      "number": 4
+    }
+  ]
+}

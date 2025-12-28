@@ -1,0 +1,39 @@
+{
+  "number": 191,
+  "language": "nd",
+  "title": "191 Isithembiso Esiqinileyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngeqinis’ uJesu ngowami, Yeka ubumnandi baphezulu",
+        "Manje ngi y’indlalifa nami; Egezw’ egazini leWundlu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yathokoza ngalengoma; Ngi yadumisa uMsindisi,",
+        "Kim’ u ligugu yonk’ imihla Ngi dumis’ owam’ uMsindisi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ku phelele ukuthokoza, Ngi yabona okuthabisayo,",
+        "Ingelosi zi ngi lethela, Ukunyenyezake kothando."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Konke kimi ukuphumula, Ngi kuMsindisi ngi yathokoza:",
+        "Ngi mi ngi bheke phezulu le! Ngi gcwele okwAkh’ ukulunga."
+      ],
+      "number": 4
+    }
+  ]
+}

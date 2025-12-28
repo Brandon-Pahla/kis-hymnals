@@ -1,0 +1,54 @@
+{
+  "number": 94,
+  "language": "es",
+  "title": "Sangró mi soberano Dios",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Sangró mi soberano Dios"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sangró mi soberano Dios,",
+        "murió mi Salvador.",
+        "Su vida quiso entregar",
+        "por mí, tan pecador."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Y yo, contrito, al ver su cruz,",
+        "el rostro encubriré;",
+        "con lágrimas de gratitud",
+        "mi alma inundaré."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mas no con llanto pagaré",
+        "la deuda de su amor.",
+        "Mi ser entero yo te doy,",
+        "¡no puedo más, Señor!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh, Salvador, ayúdame;",
+        "que sea fiel a ti;",
+        "y cuando en gloria reines tú,",
+        "acuérdate de mí!"
+      ],
+      "number": 5
+    }
+  ]
+}

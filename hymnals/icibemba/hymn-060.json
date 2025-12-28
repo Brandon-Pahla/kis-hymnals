@@ -1,0 +1,28 @@
+{
+  "number": 60,
+  "language": "bem",
+  "title": "60 - YESU MWE KATULA WESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "JESUS THOU JOY OF LOVING HEARTS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu Mwe Katula wesu, Kafu-ka-u-ka ka mweo;",
+        "Kuli fisuma fya calo-, Tulebwela kuli Imwe.",
+        "2. Tulemusonda Mukate, Lelo-tu-fwa-ya kulisha;",
+        "Tulenwa Imwe Mwe M'longa-, Tulefwaya ukunwa pe.",
+        "3. Myeo yesu yamufwaya, Ise-ni-no-kwikala pe;",
+        "Tulesekela icibi-, Kumona cimwemwe cenu.",
+        "4. Mwe Katula mwituleka, Pale-ni-i-nshita-shesu;",
+        "Fumyeni ububi bwesu-; Paleni lubuto lwenu."
+      ],
+      "number": 2
+    }
+  ]
+}

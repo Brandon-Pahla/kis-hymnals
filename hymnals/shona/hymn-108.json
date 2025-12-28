@@ -1,0 +1,45 @@
+{
+  "number": 108,
+  "language": "sn",
+  "title": "108 Jesu Mufudzi Unodiwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu ari Mufudzi, anokudaidza",
+        "Mukati me-danga’mo kuchine nzvimbo.",
+        "Uya kuchinasi uno apo uchimutsva,",
+        "Pinda muiro danga, danga iro redi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nge rudo Jesu anodaidza, Mfambi zve uya zvino;",
+        "Ari kundirekerera ini, Jesu Mufudzi wangu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu ari Mufudzi, wakafira iwe",
+        "Anodaidza zvino, Mfambi uya kuneni;",
+        "Kunze kune dambuzo, uya unodanwa,",
+        "Pinda muiro danga, danga iro redi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pinda, usanonoke, kunze kune mhumi,",
+        "Dzinozokukuwadza, dzakapanduka kwazvo.",
+        "Jesu ari Mufudzi, anokudaidza,",
+        "Pinda muiro danga, danga iro redi."
+      ],
+      "number": 4
+    }
+  ]
+}

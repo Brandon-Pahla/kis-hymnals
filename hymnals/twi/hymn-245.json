@@ -1,0 +1,56 @@
+{
+  "number": 245,
+  "language": "tw",
+  "title": "Yesu Ho Nsɛm Pii",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mesua Yesu ho nsɛm no pii,",
+        "Mɛka Ne dom no akyerɛ,",
+        "Mehu Ne nkwagye ho nsɛm yie,",
+        "Nea ɔde dɔ wu maa me no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Pii, Yesu ho nsɛm pii,",
+        "Pii, Yesu ho nsɛm pii,",
+        "Mehu Ne nkwagye ho nsɛm yie,",
+        "Nea ɔde dɔ wu maa me no."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma minsua Yesu ho nsɛm bio,",
+        "Minhu Ne pɛ kronkron no bio;",
+        "Nyame Honhom, kyerɛky'rɛfo,",
+        "Yi Kristo ho nsɛm kyerɛ me."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mesua Yesu ho nsɛm ky'rɛw nom',",
+        "Ne me W'ra adi nkitaho;",
+        "Ate Ne nne ky'rɛw biara mu,",
+        "De mu nsɛm no ayɛ me de."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mesua Ne ho nsɛm N'agua so,",
+        "Anuonyam ahonya wɔ No;",
+        "N'ahenni mu trɛw no si pi,",
+        "Asomdwoe Hen' no mmae ho nsɛm."
+      ],
+      "number": 4
+    }
+  ]
+}

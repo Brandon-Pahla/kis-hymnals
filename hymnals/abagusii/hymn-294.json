@@ -1,0 +1,28 @@
+{
+  "number": 294,
+  "language": "guz",
+  "title": "294 Ntwe N'Abana B'Erwoti",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. `Ntwe n'abana b'Erwoti,ya Igoro, ya Igoro'Ntwe n'abana b'Erwoti,Ter'as'orogendo;Yeso omotang'aniAtotebia ntoiroka,'Mobwatie ang'e ang'e,Ter'as'orogendo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Twatara kogenda nka,Nka seito, Nka seito,Twatara kogenda nka,Ter'as' orogendo;Gochi'omochi'otarore,'S'obotuko botari,Yeso ner'Omobaso,Ter'as orogendo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Twarara n'omogoko,'Mogoko, mogoko;Twarara n'omogoko,Ter'as'orogendo.Twatar'as'orogendo,n'echinkoro chinchenu,Goika toyeror'enka.Ter'as'orogendo."
+      ],
+      "number": 3
+    }
+  ]
+}

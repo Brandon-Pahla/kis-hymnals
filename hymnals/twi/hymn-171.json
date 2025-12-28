@@ -1,0 +1,44 @@
+{
+  "number": 171,
+  "language": "tw",
+  "title": "'Nuonyam Yɛ Wo De",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Nuonyam yɛ Wo de, 'Ba nkonimdifo;",
+        "Wo nkonim wɔ 'wu so To rentwā ara da;",
+        "'Bɔfo a wɔn ho hy'rɛn Piaa ɔbo no hɔ,",
+        "De Wo ho ntama guu Nea na Woda hɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "'Nuonyam yɛ Wo de 'Ba nkonimdifo;",
+        "Wo nkonim wɔ 'wu so To rentwā ara da."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hwɛ! Yesu hyia yɛn, Wanyan fi 'wu mu,",
+        "ɔde ɔdɔ kyea yɛn, Pam suro ne sum;",
+        "Ma N'asafo mfa dɛw Nto nkonimdi nnwom:",
+        "'Fisɛ ne W'ra tč ase 'Wu nwowoe ay'ra."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛnnye Wo kyim bio, 'Nuonyam nkwa Hene;",
+        "Wunnim a yɛnsɛ hwee; Boa yɛn ɔko yim'",
+        "Ma yenni nkonim wɔ Wo daa dɔ no mu.",
+        "Fa yɛn twa Yordan dwoo Kɔ Wo s'ro fie hɔ."
+      ],
+      "number": 3
+    }
+  ]
+}

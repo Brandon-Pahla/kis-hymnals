@@ -1,0 +1,38 @@
+{
+  "number": 48,
+  "language": "xh",
+  "title": "48 Kuya Kubakho Uvuyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ekupheleni sakuvuya, Sesibuthana ekhaya,",
+        "Size nezithungu zethu, Emzini omtsha khona."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Kwaku vuywa, kwaku vuywa, Akupheli ukuvuya;",
+        "Gcoba, usuku luyeza, Lokubabutha bonke."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ingoma zaKhona zimnandi; Sakubonga ngentliziyo,",
+        "Sidumis’ i-Nkosi yethu, Emzini omtsha khona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kulindele ukugcoba, Izindlu zininzi khona;",
+        "Zalungiswa ke ngu-Yesu, Emzini omtsha khona."
+      ],
+      "number": 3
+    }
+  ]
+}

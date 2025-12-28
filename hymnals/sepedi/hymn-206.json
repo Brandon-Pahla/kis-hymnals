@@ -1,0 +1,46 @@
+{
+  "number": 206,
+  "language": "nso",
+  "title": " 206  KE NEETŠE BOPHELO BJAKA KA WENA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 206  KE NEETŠE BOPHELO BJAKA KA WENA",
+        "AH 178 CH 230",
+        "I GAVE MY LIFE FOR THEE."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke go hwetše wena, Ka tšholla madi,",
+        "Gore o phologe, O tsošitšwe lehung,",
+        "Ka go abela bophelo, Wena o mphile eng?",
+        "Ka go abela bophelo Wena o mphile eng?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ntlong ya Tate 'seding, Kgalalelo ya ka,",
+        "Di šetše swiswing, Batho ba timetšego,",
+        "Ke di tlogeletše wena, O ntšhadišeditše eng?",
+        "Ke di tlogeletše wena, O ntšhadišeditše eng?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke hlokofaletše wena, Gofeta hlalošo,",
+        "Bohlokong bjo bogolo, Go gontšha lebitleng,",
+        "Ke go belegetše tšohle, O mpelegetše eng?",
+        "Ke go belegetše tšohle, O mpelegetše eng?"
+      ],
+      "number": 4
+    }
+  ]
+}

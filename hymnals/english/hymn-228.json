@@ -1,0 +1,55 @@
+{
+  "number": 228,
+  "language": "en",
+  "title": "228 Praise Him! Praise Him!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Praise Him! Praise Him!",
+        "Jesus, our blessed Redeemer!",
+        "Sing, O earth, His wonderful love proclaim!",
+        "Hail Him! Hail Him!",
+        "Highest arch-angels in glory;",
+        "Strength and honor give to His holy name!",
+        "Like a shepherd, Jesus will guard His children,",
+        "In His arms He carries them all day long;"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Praise Him! Praise Him!",
+        "Tell of His excellent greatness;",
+        "Praise Him! Praise Him ever in joyful song!"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Praise Him! Praise Him! Jesus, our blessed Redeemer!",
+        "For our sins He suffered, and bled and died;",
+        "He our Rock, our hope of eternal salvation,",
+        "Hail Him! Hail Him! Jesus the crucified.",
+        "Sound His praises! Jesus who bore our sorrows,",
+        "Love unbounded, wonderful, deep and strong;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Praise Him! Praise Him!",
+        "Jesus, our blessed Redeemer!",
+        "Heav’nly portals, loud with hosannas ring!",
+        "Jesus, Saviour, reigneth forever and ever;",
+        "Crown Him! Crown Him!",
+        "Prophet, and Priest, and King!",
+        "Christ is coming, over the world victorious,",
+        "Power and glory, unto the Lord belong!"
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "number": 6,
+  "language": "bem",
+  "title": "6 - PEMPULENI IMWE BONSE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WATCH, YE SAINTS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Pempuleni imwe bonse, Nomba macusho yafula;",
+        "Wamisheni nyali shenu, Bwino ku-kwisa kwakwe",
+        "CHORUS:",
+        "Akesa! Yesu akesa! Mululumbi lwacilile;",
+        "Yesu akesa no bwansho, Akesa bwangu nomba",
+        "2. Moneni bulayo bwakwe, 'Kwelela ububi bwenu;",
+        "Sambwa mumulopa wakwe, Mwendeshe mukebe bambi",
+        "3. Pa calo ifintu fyonse fya macusho no kulila;",
+        "Bebeni cikuku cakwe, Ukuti bonse beshibe.",
+        "4. Mwe babi iseni nomba, Yesu amwita no luse;",
+        "Mwendeshe 'nshita yacepa, Mwikokola ukwasuka."
+      ],
+      "number": 2
+    }
+  ]
+}

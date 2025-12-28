@@ -1,0 +1,44 @@
+{
+  "number": 12,
+  "language": "pt",
+  "title": "Vinde, Povo do Senhor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Vinde, Povo do Senhor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vinde povo do Senhor, adorai-O com louvor",
+        "Ao Deus trino exaltai: a Jesus, a Deus, o Pai,",
+        "E ao Espírito de luz que em bondade nos conduz.",
+        "Vinde, povo do Senhor, adorai o Deus de amor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Observemos com fervor este dia do Senhor,",
+        "Pois as bênçãos lá do Céu, aos fiéis as prometeu.",
+        "Atentai à Sua voz com amor falar a nós.",
+        "Vinde, povo do Senhor, exaltai o Criador."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quando a igreja se tornar triunfante, lá no lar,",
+        "Nossas lutas findarão, e virá a redenção.",
+        "Mal e dor ficando atrás, reinará amor e paz.",
+        "Vinde, povo do Senhor, aclamai o Redentor."
+      ],
+      "number": 4
+    }
+  ]
+}

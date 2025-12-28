@@ -1,0 +1,57 @@
+{
+  "number": 266,
+  "language": "tw",
+  "title": "Nyame Honhom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame Honhom! Sian bra me koma mu;",
+        "Gye no fi wiase 'komatu ny'naa mu;",
+        "Bra me mm'rɛwyɛ mu, Wō a Woyɛ tumfo,",
+        "Na ma mennɔ Wo pii sɛnea ɛsɛ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Menhwehwɛ adaeso ne adehu;",
+        "Nyi ade hu nky'rɛ me, meyɛ dɔte;",
+        "Nsoma bɔfo me hɔ, anaa mmue s'ro",
+        "Na mmom yi me kra mu sum no fi hɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wonhyɛɛ yɛn sɛ yɛnnɔ Wo, Nyame Hen'?",
+        "Kra, koma, 'hoɔden ne adwen ny'naa wɔ W'",
+        "Mihu W'asɛnnuá a ɛtwe me koma;",
+        "O, ma menhwehwɛ Wo na menhu Wo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ky'rɛ ma mente nka sɛ Wobɛn me daa,",
+        "Ky'rɛ ma mensoa ɔkra no ap'redie;",
+        "Na ensiw kyinnye ne 'tuatew ano,",
+        "Ky'rɛ ma minya mpae mmuae ho boasetɔ."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ky'rɛ ma mennɔ W' sɛ W'abɔfo dɔ Wo,",
+        "Ma dɔ kronkron nhyɛ me nipadua ma;",
+        "Fa s'ro ab'rɔnoma no bɔm' asu.",
+        "Mam' koma nyɛ bukyia naW' dɔ nyɛ gya n'."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 217,
+  "language": "es",
+  "title": "Bienvenida da Jesús",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Bienvenida da Jesús"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bienvenida da Jesús",
+        "en los brazos de su amor",
+        "al que en busca de la luz",
+        "vague ciego y con temor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Volveremos a cantar:",
+        "\"Él recibe al pecador\".",
+        "Claro hacedlo resonar:",
+        "\"Él recibe al pecador\"."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A sus pies descansarás;",
+        "ejercita en él tu fe;",
+        "de tus males sanarás;",
+        "a Jesús, tu amigo, ve."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Recibirte prometió,",
+        "date prisa en acudir;",
+        "necesitas como yo",
+        "vida que él te hará vivir."
+      ],
+      "number": 5
+    }
+  ]
+}

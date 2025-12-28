@@ -1,0 +1,54 @@
+{
+  "number": 114,
+  "language": "ve",
+  "title": "114. Munango Wo Vulelwa nne",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:177"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Hu na khoro yo vulwaho, yo vulelwa vhatshinyi,",
+        "Wo thoma tshifhambanoni, ndi lufuno lwa Yesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tshilidzi tshi sa fheliho, khoro yo vulelwa nne naa?",
+        "nne naa? nne naa? Yo vulelwa nne naa?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Heyo khoro yo vulelwa, vha funaho vhutshilo,",
+        "Vhothe vhathu na vhatsinda, na magogo a shango."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ibvani kha zwivhi zwothe, zwino hu tshe ho vulwa,",
+        "Khare kheyo i lweleni, ndi tsumbo ya lufuno."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Seli lula lwa mulambo, ro lata zwifhambano,",
+        "Ro newa khare ya tshedza, ri do takadzwa ngayo."
+      ],
+      "number": 5
+    }
+  ]
+}

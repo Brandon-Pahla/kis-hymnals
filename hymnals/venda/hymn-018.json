@@ -1,0 +1,74 @@
+{
+  "number": 18,
+  "language": "ve",
+  "title": "18 Phanda Vhakreste",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:612",
+        "AH:370"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tshivhidzo tsha Yesu mafumo ngeya,",
+        "Ri ye-vho nndwani, ri lwe na swina,",
+        "Nduna ya mmbi, ndi Ene Yesu vho;",
+        "Ndi Muvhusa vhothe, U da na gundo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "I yani-ha phanda,",
+        "Inwi maswole,",
+        "Murena Asuyu,",
+        "A ri lwelaho."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Vhonani vhahashu, Mbilu ya muvhi,",
+        "I a tetemela, i ofha Yesu,",
+        "Ipfi lo ambiwa, ndi la u kunda;",
+        "Kha ri khwathe rothe, imbani nothe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri tshimbile sa ’mbi, inwi vha Yesu,",
+        "Kha ri vha edzise vho no kundaho,",
+        "Ri si balangane, khosi ndi ’thihi.",
+        "Lutendo luthihi lu re kha Yesu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mahosi a shango, a lovha othe,",
+        "Tshivhidzo tsha Yesu tshone a tshi wi,",
+        "Tshi do di mu kunda, Ene sathane;",
+        "Kristo E na rine, ri do ofhani?"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. I da ri tangane, ri vhe vhathihi,",
+        "Sa tshivhidzo tshawe, ri imbe rothe,",
+        "Ri khode Murena maduvha othe,",
+        "Na vharunwa vhothe ri imbe rothe."
+      ],
+      "number": 6
+    }
+  ]
+}

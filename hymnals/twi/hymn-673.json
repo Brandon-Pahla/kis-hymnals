@@ -1,0 +1,29 @@
+{
+  "number": 673,
+  "language": "tw",
+  "title": "Nyame Ne Wo Ntra",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame ne wo ntra, yebehyia mu bio,",
+        "Nyame ne wo ntra na ɔnhwɛ wo so;",
+        "Na Ne nhyira ntra wo koma mu daa",
+        "Nyame ne wo ntra yɛatetem' yi;",
+        "Nyame ne wo ntra."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame ne wo ntra, Omfi s'ro nhwɛ wo,",
+        "Nyame mfa Ne dɔ no mmɔ wo ho ban';",
+        "Na adekyee fof'ro biara mu no,",
+        "Nyame ne wo ntra nkyerɛ wo kwan,",
+        "Nyame ne wo ntra."
+      ],
+      "number": 2
+    }
+  ]
+}

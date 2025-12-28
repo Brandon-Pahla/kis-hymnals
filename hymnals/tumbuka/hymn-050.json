@@ -1,0 +1,57 @@
+{
+  "number": 50,
+  "language": "tum",
+  "title": " 50 Kuli Charu Chiweme",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 50 Kuli Charu Chiweme",
+        "THERE'S A LAND"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Kuli Charu chiweme nadi,",
+        "Uko kuli wadada wane,",
+        "Warutako mponoski kale,",
+        "Ndipo ine nkhupukwa nane."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nkhupukwa kuya'ko,",
+        "Kuti nkhawe na Khristu, Fumu,",
+        "Nkhupukwa kuya'ko,",
+        "Kuti nkhawe na Khristu, Fumu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Vitumbiko vilipo pasi,",
+        "Kweni kura ku Fumu yane,",
+        "Kukuruska viweme vyose,",
+        "Ndipo ine nkhupukwa nane."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nadi kuli chimango kura,",
+        "Nakusangwa pamoza na yo,",
+        "Mukutemwa kwenecho pera,",
+        "Ndipo ine nkhupukwa nane."
+      ],
+      "number": 4
+    }
+  ]
+}

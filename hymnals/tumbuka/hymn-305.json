@@ -1,0 +1,69 @@
+{
+  "number": 305,
+  "language": "tum",
+  "title": " 305 Zuwa Laluta",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 305 Zuwa Laluta",
+        "The Sun Has Set"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Zuwa laluta, zuwa laluta,",
+        "Fumu tigone makora."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mdima wafika, mdima wafika,",
+        "Mtisunge tose makora."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Tizomerezge, tizomerezge,",
+        "Zakwananga zithu zose."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Mtigowokere, mtigowokere,",
+        "Mauheni ghithu ghose."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "Mutigoneke, mutigoneke,",
+        "Mutigoneke mu mtende."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "6.",
+        "Tawana winu, tawana winu,",
+        "Dada withu mkutitemwa."
+      ],
+      "number": 7
+    }
+  ]
+}

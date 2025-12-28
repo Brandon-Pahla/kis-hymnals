@@ -1,0 +1,54 @@
+{
+  "number": 264,
+  "language": "xh",
+  "title": "264 Mini Engcwele YeNkosi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Min’ engcwele yeNkosi, Yin’ intle endalweni,",
+        "Lusuku lwesixhenxe, Olwasikelelwayo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wamkele ke, Wamkele ke, (4 times for Ten. &amp; Bass)",
+        "Siyavuya ngalo mhla, Omkhulu kaYehova."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wagqiba umsebenzi, Waphumla ngeSabatha;",
+        "Wawusikelela ke, Nathi siphumla ngawo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abaninz’ abaphumli, Bagcin’ olokuqala;",
+        "Funda eziBhalweni, Abaxelelwe lo nto."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abatheth’ inyaniso Bath’ umntu wayichitha;",
+        "Ilizwe likaThixo Lona lisemi njalo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndifundile ndabona Umthetho weSabatha,",
+        "Ndaya ndawuthobela; Leyo yeyona ndlela."
+      ],
+      "number": 5
+    }
+  ]
+}

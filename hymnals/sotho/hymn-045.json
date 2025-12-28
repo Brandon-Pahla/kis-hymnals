@@ -1,0 +1,55 @@
+{
+  "number": 45,
+  "language": "st",
+  "title": "45 Mphe Bibele",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mphe Bibele naleli ea ho khanya,",
+        "Ho khothatsa molahlehi fefong;",
+        "Ha ho teng fefo see se ka le patang.",
+        "Hoba Jesu O tlil’lo pholosa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mphe Bibele molaetsa o ts’epehang,",
+        "Leseli la Hao le tla ntsamaisa;",
+        "Molao, ts’episo lerato hammoho,"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mphe Bibele molaetsa O ts’epehang,",
+        "Leseli la Hao le ntsamaise;",
+        "Molao, ts’episo lerato hammoho,",
+        "Ho fihlela bosiu bo nyamela."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mphe Bibele ’me mponesetse tsela,",
+        "Nthute kotsi ea mebuso ena;",
+        "’Bone lane la poloko le tuke,",
+        "Le bonesetse tsela ea khotso."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mphe Bibele lebone la bophelo,",
+        "Le phahamise ’bitleng le butsoeng;",
+        "Mponts’e leseli le tsoang leholimong,",
+        "Mponts’e khalalelo ea Jordane."
+      ],
+      "number": 4
+    }
+  ]
+}

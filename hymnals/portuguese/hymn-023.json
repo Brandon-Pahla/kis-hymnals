@@ -1,0 +1,56 @@
+{
+  "number": 23,
+  "language": "pt",
+  "title": "De Manhã Bem Cedo Busco",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### De Manhã Bem Cedo Busco"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "De manhã bem cedo busco,",
+        "De Jesus, a direção,",
+        "Pra seguir sempre Seus passos,",
+        "No conforto ou na aflição."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Ele me ama, Ele me ama,",
+        "Cristo me ama, bem o sei.",
+        "Tenho a prova no Calvário;",
+        "Para sempre ama-lo-ei."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu, embora pequenino,",
+        "Obedeço ao Seu mandar.",
+        "Sigo a estrada que Ele mostra,",
+        "Sem temer nem hesitar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ele é forte, me protege,",
+        "E me guarda de pecar.",
+        "Se tentado corro a Ele,",
+        "Que me livra sem tardar."
+      ],
+      "number": 5
+    }
+  ]
+}

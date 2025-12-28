@@ -1,0 +1,37 @@
+{
+  "number": 570,
+  "language": "tw",
+  "title": "Nyɛ Me; Kristo Na 'Nuonyam Kɛse Nka No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Nyɛ me; Kristo na 'nuonyam kɛse nka no,",
+        "'Nyɛ me; Kristo mmom na ma wonhu No,",
+        "'Nyɛ me; Kristo wɔ dwumadi biara mu,",
+        "'Nyɛ me; Kristo wɔ nsusui biara mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nyɛ me; Kristo na Obedwudwo 'w'rɛhow,",
+        "'Nyɛ me; Kristo n'ɔbɛpopa nusu,",
+        "'Nyɛ me; Kristo na Obeyi nnesoa hɔ,",
+        "'Nyɛ me; Kristo n'ɔbɛpam sųro nyinaa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kristo nkutoo mu na nsɛnhun bi mfi mma,",
+        "Kristo nkutoo mu na nnyigyei hun mfi;",
+        "Kristo nkutoo mu na 'hohoahoa bi nni,",
+        "Kirsto nkutoo mu na \\\"me\\\" bi nni hɔ."
+      ],
+      "number": 3
+    }
+  ]
+}

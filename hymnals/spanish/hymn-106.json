@@ -1,0 +1,67 @@
+{
+  "number": 106,
+  "language": "es",
+  "title": "Tuya es la gloria",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Tuya es la gloria"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tuya es la gloria,",
+        "Cristo vencedor.",
+        "De la muerte invicto",
+        "eres, oh Señor.",
+        "Ángeles brillantes",
+        "vieron tu esplendor,",
+        "cuando derrotaste",
+        "muerte y dolor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Tuya es la gloria,",
+        "Cristo vencedor.",
+        "De la muerte invicto",
+        "eres, oh Señor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Resucitado,",
+        "Cristo el Salvador,",
+        "con amor invita,",
+        "quita el temor.",
+        "Cante hoy la iglesia",
+        "cántico triunfal;",
+        "Cristo ha vencido",
+        "al bastión mortal."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ya no dudamos,",
+        "Príncipe inmortal:",
+        "solo tú das vida,",
+        "líbranos del mal.",
+        "Danos la victoria",
+        "por tu amor sin par;",
+        "llévanos a salvo",
+        "al eterno hogar."
+      ],
+      "number": 5
+    }
+  ]
+}

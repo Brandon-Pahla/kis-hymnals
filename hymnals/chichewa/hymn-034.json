@@ -1,0 +1,53 @@
+{
+  "number": 34,
+  "language": "ny",
+  "title": "34 - Pokhala Mtendere",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHEN PEACE LIKE A RIVER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Pokhala mtendere mu mtimangamu, Pamene ndisaukanso,",
+        "Pamene mabvuto ndi akurudi, Moyo wangawu ngwabwinotu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Moyowu (Moyowu) uli phee (uli phee).",
+        "Moyo wangawu ngwabwinotu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ngakhale Satana atizunza ’fe, Chiripo chitonthozocho;",
+        "Chifundo cha Kristu anafera ’fe, Kundipatsa ’ne moyo wake."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Uchimo unapachikidwa pomwe, Pa mtanda wa Yesu Mbuye,",
+        "Machimo angawo anatherapo, Mbuye wanga ndiyamika ’Nu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ambuyathu tikhumba tsiku lija, Limene tidzaona ’Nu,",
+        "Lipenga limveke, tidzakondwatu, Pakukomana ndi Yesuyo."
+      ],
+      "number": 5
+    }
+  ]
+}

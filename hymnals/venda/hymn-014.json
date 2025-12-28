@@ -1,0 +1,54 @@
+{
+  "number": 14,
+  "language": "ve",
+  "title": "14 Thetshelesa Mali I tshi Wa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ipfa mali tshi wa, thetshelesa-ha;",
+        "Ndi ya Yesu yothe, i ya kha Ene."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ngwinzhi, ngwinzhi, ngwinzhi, ngwinzhi, ipfa i ya wa!",
+        "Ndi ya Yesu yothe, i ya kha Ene."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ngwinzhi, ngwinzhi, kheyo ndi mutendelo;",
+        "Tshifhiwa tsha Yesu, kha vhana vhawe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Naho ri vhatuku, kha ri bvise-vho;",
+        "U nga vhahulwane, vha nekedzaho."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Naho ri vhashai, ri a mu funa;",
+        "U do di takala, nga u mwemwela."
+      ],
+      "number": 5
+    }
+  ]
+}

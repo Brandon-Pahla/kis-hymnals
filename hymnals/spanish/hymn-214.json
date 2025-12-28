@@ -1,0 +1,56 @@
+{
+  "number": 214,
+  "language": "es",
+  "title": "Mientras Jesús te llama",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Mientras Jesús te llama"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mientras Jesús te llama,",
+        "ven, pecador.",
+        "Mientras por ti oramos,",
+        "ven, pecador.",
+        "Hoy es el día propicio.",
+        "Ven, pecador.",
+        "Hoy puedes conocerle.",
+        "Ven, pecador."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Andas de mal cargado?",
+        "Ven, pecador.",
+        "Hay en Jesús alivio.",
+        "Ven, pecador.",
+        "No quiere engañarte.",
+        "Ven, pecador.",
+        "Hoy quiere rescatarte.",
+        "Ven, pecador."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oye sus tiernos ruegos.",
+        "Ven, pecador.",
+        "Su bendición recibe.",
+        "Ven, pecador.",
+        "Mientras Jesús te llama,",
+        "ven, pecador.",
+        "Mientras por ti oramos,",
+        "ven, pecador."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "number": 126,
+  "language": "sn",
+  "title": "126 Sezwo Ndaponeswa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndine ngoma yandinoda sezwo ndaponeswa;",
+        "Yamununuri naMambo Sezwo ndaponeswa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sezwo-ndaponeswa, Sezwo ndaponeswa",
+        "Ndokudza Muponesi, Sezwo ndaponeswa,",
+        "Ndokudza zita raM’ponesi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndina Kristu Oyerisa sezwo ndaponeswa.",
+        "Rudo rwake ndurudisa sezwo ndaponeswa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndine mbowo yakanaka sezwo ndaponeswa.",
+        "Anodzinga kutya kwese Sezwo ndaponeswa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Andi gadzirira musha sezwo ndaponeswa,",
+        "Kwandicha gara narini sezwo ndaponeswa."
+      ],
+      "number": 5
+    }
+  ]
+}

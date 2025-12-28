@@ -1,0 +1,23 @@
+{
+  "number": 143,
+  "language": "ts",
+  "title": "143. HOSI HA FAMBA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LORD, DISMISS US WITH THY BLESSING",
+        "1. Hosi Ha Famba Hi He Minkateko, U Hi Tata Hi Ntsako;",
+        "Hi Nyike Rirhandzu, Hlula Hi Nsovo, U Hi Pfuxelela Yesu;",
+        "Hi He Matimba Yo Tiyisela, Hi Famba Emananga Ya vutomi.",
+        "2. Ha Khensa No Dzunisa Wena Yesu, Hikwalaho Ka Vhangeli;",
+        "Mihandzu Ya Kona Ku Hlawuriwa, Yi Vonakala Ka Hina;",
+        "A Hi Tshembhekeni NKarhi Hinkwawo, Hi Hanya Entiyisweni Wa Yena.",
+        "3. Loko Masiku Ya Hina Yo Hanya, Ya Andza Emisaveni;",
+        "Hi Nyika Ntsako, Ntshembo Na Matimba, Hi Khana Hi Nga Karhali;",
+        "Ku Kondza Hi Ta Vona Ku kwetsima, Loko Wo Matilo Ya Pfuleka."
+      ],
+      "number": 1
+    }
+  ]
+}

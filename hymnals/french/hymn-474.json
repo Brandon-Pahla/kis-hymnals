@@ -1,0 +1,63 @@
+{
+  "number": 474,
+  "language": "fr",
+  "title": "Trop souvent je murmure",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Trop souvent je murmure",
+        "Quand la route est obscure :",
+        "« Oh ! Ma foi faiblira,",
+        "Oh ! Ma foi faiblira. »",
+        "Et pourtant, la promesse",
+        "Est là pour ma faiblesse :",
+        "« L'Éternel pourvoira,",
+        "L'Éternel pourvoira. »"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si mon impatience",
+        "Demande avec instance",
+        "D'où le secours viendra,",
+        "D'où le secours viendra ?",
+        "Par ta Parole sainte",
+        "Tu réponds à ma plainte :",
+        "« L'Éternel pourvoira,",
+        "L'Éternel pourvoira. »"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je ne veux plus me plaindre,",
+        "Je ne veux plus rien craindre :",
+        "Contre moi qui sera ?",
+        "Contre moi qui sera ?",
+        "En avant ! Et courage,",
+        "Jusqu'au bout du voyage :",
+        "« L'Éternel pourvoira,",
+        "L'Éternel pourvoira. »"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Et la mer mugissante,",
+        "Soudain obéissante,",
+        "Devant moi s'ouvrira,",
+        "Devant moi s'ouvrira.",
+        "Plus le danger menace,",
+        "Plus puissante est la grâce :",
+        "« L'Éternel pourvoira,",
+        "L'Éternel pourvoira. »"
+      ],
+      "number": 4
+    }
+  ]
+}

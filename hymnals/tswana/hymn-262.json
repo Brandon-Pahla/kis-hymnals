@@ -1,0 +1,57 @@
+{
+  "number": 262,
+  "language": "tn",
+  "title": "262 Ke Tla Dirang Ka Jeso?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Tla Dirang Ka Jeso? O Eme Fa Janong,",
+        "A ’pere bofudibu, Le mitlwa mo tlhogong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "E ke potso janong; Karabo’ tla nna eng?",
+        "Ke bapole Kgosi Jeso, Barabas’a tshele?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Golole Legodu, Je Le Ikgodisang?",
+        "Boleo gongwe Mmoloki? A go tla ganwa mang?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Potso E E Masisi, ’Lekanyo Se Eme.",
+        "Boutlwelo-botlhoko, bo sa ntse bo le teng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Setulong Sa Katlholo, O Latlha Lefatshe?",
+        "O ntse O goa thata, O re le bapolwe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga Se Moleofing Fela, Pots’e Tlang Ka Thata;",
+        "E utlweng ba lo balaelang Mo nakong ya teko.",
+        "CHORUS YA BOFELO:",
+        "E ke potso janong; Karabo ’tla nna eng?",
+        "Ke tla bapola Barabas Ke golole Kgosi."
+      ],
+      "number": 5
+    }
+  ]
+}

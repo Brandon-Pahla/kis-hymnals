@@ -1,0 +1,35 @@
+{
+  "number": 303,
+  "language": "nso",
+  "title": " 303 LA SABATHA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 303 LA SABATHA"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lasabatha le hlabile;",
+        "Tšatši le le natefang;",
+        "La Morena le le tlileng,",
+        "Le tše di šegofatšang;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le re batho, Tlang le role,",
+        "Tše boima magetleng,",
+        "Tlang le khutše le phumule,",
+        "Kudumela mo phatleng.",
+        "Amen."
+      ],
+      "number": 3
+    }
+  ]
+}

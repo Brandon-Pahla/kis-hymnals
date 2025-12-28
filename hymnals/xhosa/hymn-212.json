@@ -1,0 +1,47 @@
+{
+  "number": 212,
+  "language": "xh",
+  "title": "212 Kufika Kum Ubumnandi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kufika kum ubumnandi, Ingom’ emnandi yovuyo;",
+        "Ndicula ndiphindaphinde, Ngesipho seNkosi yam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Awu! Uxolo Oluvela phezulu,",
+        "Lona luyamangalisa,",
+        "Sipho sothando lweNkos’."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "NgoKristu kwabakh’ uxolo, Lahlaulwa lonk’ ityala lam;",
+        "Kuphela kweso siseko Isipho seNkosi yam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "X’ uYesu ndimenz’ iNkosi, Intliziy’ izal’ uthando;",
+        "Ndizuza intsikelelo, Uxolo, Sipho seNkos’."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa ndisondela kuYesu, Ndihlale naYe ngoxolo;",
+        "Maxa onke kukh’ uxolo, Sipho sothando lweNkos’."
+      ],
+      "number": 4
+    }
+  ]
+}

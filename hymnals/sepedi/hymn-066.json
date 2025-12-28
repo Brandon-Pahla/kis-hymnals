@@ -1,0 +1,59 @@
+{
+  "number": 66,
+  "language": "nso",
+  "title": " 66 LE MONATE LETŠATŠI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 66 LE MONATE LETŠATŠI",
+        "AH 262 CH 310",
+        "O HAPPY DAY!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le monate letšatši la",
+        "go ikgethela Mophološi,",
+        "A pelo e e thabileng,",
+        "E bolele thabo ya ka;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Monate tšatši le Jeso",
+        "A nhlatswitšeng sebeng,",
+        "O nthutile go rapela le",
+        "Go phela ka lethabo,",
+        "Le botse tšatši le Jeso",
+        "A nhlatswitšeng sebeng;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go fedile go phethilwe,",
+        "Ke wa Morena ke wa ka,",
+        "O mpiditše ka latela,",
+        "Ka thabela pitšo yeo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ikhutše hie pelo ya ka,",
+        "Nagana ka dilo tše khwi,",
+        "O se tloge, go Morena,",
+        "yo' a ruileng tše bohlokwa;"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "number": 26,
+  "language": "es",
+  "title": "Aquí reunidos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Aquí reunidos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aquí reunidos en tu santo nombre",
+        "rogamos nos des tu divino perdón.",
+        "Perdido, afligido se siente el hombre,",
+        "mas gracias, oh Jesús, por la salvación."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Es Cristo Jesús nuestro eterno amparo.",
+        "Ordena y mantiene su reino de amor.",
+        "Nos muestra el camino con célico faro,",
+        "nos guarda y nos protege. ¡Gloria al Señor!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Con voces alegres te glorificamos.",
+        "¡Oh, Cristo, sé tú nuestro gran Protector!",
+        "Contigo en las luchas victorias ganamos.",
+        "¡Tu nombre sea honrado, oh Salvador!"
+      ],
+      "number": 4
+    }
+  ]
+}

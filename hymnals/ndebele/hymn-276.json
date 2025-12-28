@@ -1,0 +1,47 @@
+{
+  "number": 276,
+  "language": "nd",
+  "title": "276 Yen’ UJesu Wez’ Ebhetlehema",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yen’ uJesu wez’ eBetlehema, Wazalelw’ emkhombeni ngosizi",
+        "O, isimanga ngelAkh’ igama Engifuna mina",
+        "Engifu... funa mina O, isimanga ngelAkh’ igama",
+        "Engifuna mina"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yen’uJesu esiphambanweni, Wakhok’ical’ el’khulu ngasinda",
+        "O, isimanga, kwaba kanjani Engifela mina,",
+        "Engifela…fela mina O, isimanga, kwaba kanjani",
+        "Engifela mina"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yen’ uJesu wakuyo indulo, Ngisazula kude nesibaya",
+        "Ngokuthamba wanceng’ inhliziyo Ememeza mina",
+        "Engimemeza... mina... Ngokuthamba wanceng’ inhliziyo",
+        "Ememeza mina"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yen’ uJesu wovela phezulu, Sihl’ is’thembiso semnyak’ edlule",
+        "O, ngoMubona ehla ngamafu Ezolanda mina",
+        "Ezola-landa... mina... O, ngoMubona ehla ngamafu",
+        "Ezolanda mina"
+      ],
+      "number": 4
+    }
+  ]
+}

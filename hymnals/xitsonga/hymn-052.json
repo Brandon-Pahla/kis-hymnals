@@ -1,0 +1,23 @@
+{
+  "number": 52,
+  "language": "ts",
+  "title": "52. XIHLOVO XA MINKATEKO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "COME, THOU FOUNT OF EVERY BLESSING",
+        "1. Xihlovo Xa Minkateko, Ndzi Dyondzise Ku Yimba,",
+        "Swinambyana Swa Tintswalo, Swi Dzuna Hi Tinsimu,",
+        "Ndzi Dyondzise Ku Gandzela, Na Vunene Bya Wena, Tshemba Leri Ro Kwetsima, Tata Mbilu Ya Mina.",
+        "2. Ndzi Aka Khokholo Ranga Hi Ku Pfuna Hi Wena,",
+        "Hi Tintswalo Ndzi Ta Fika, Kwale Kaya Etilwen, Yesu U Ndzi Lava Loko Ndza Ha Ri Ku Lahleken,",
+        "U Ndzi Kutsule Khombyeni Hi Ngati Leya Nkoka",
+        "3. Ndzi Ni Nandzu Lowukulu Etintswalwen Ta Wena,",
+        "Ndzi Bohelele Ka Wena Hi Vunene Bya Wena,",
+        "Ndzi Nga Lahleka Ndzi Suka Malwandleni Ya Wena, Hikwalaho Teka Mbilu Yanga Yesu Yi Funghe."
+      ],
+      "number": 1
+    }
+  ]
+}

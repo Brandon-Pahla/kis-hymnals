@@ -1,0 +1,49 @@
+{
+  "number": 51,
+  "language": "xh",
+  "title": "51 Sibhaptize Ngokutsha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sibhapatize, Ngamandla aKho,",
+        "Ngothando sivuse! Yesu ngokwaKho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Siya thandaza, Nkosi sikucenga!",
+        "Ngothando, Ngo-Moya, sibhapatize."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asifanele, O! sinentsila;",
+        "Nkosi sihlambise kokubi konke."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hobe lezulu, Yihla phezulu!",
+        "Sikucenga ngentsikelelo zaKho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phulaphul’ izwi Lase zulwini-",
+        "Uyathandeka kum, Ndigcobile ke.",
+        "KORAS:",
+        "Siyakudumisa, siyakubonga;",
+        "Mvan’ eyahlatywayo, O, Amen, Amen."
+      ],
+      "number": 4
+    }
+  ]
+}

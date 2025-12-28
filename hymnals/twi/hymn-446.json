@@ -1,0 +1,61 @@
+{
+  "number": 446,
+  "language": "tw",
+  "title": "Hwɛ 'Nuonyam Bi a Ͻrepwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hwɛ 'nuonyam bi a ɛrepue Wɔ yɛn ani so ha!",
+        "Asase ne po ny'naa atwam, Ͻne kan soro no,",
+        "Ͻne kan soro no, Ͻne kan soro no,",
+        "Asase ne po ny'naa atwan Ͻne kan soro no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, ɛbɛyɛ 'nigye, 'nigye, 'nigye,",
+        "O, ɛbɛyɛ 'nigye;",
+        "B're a yɛrentetewm' bio,",
+        "B're a yɛrentetewm' bio wɔ",
+        "Kanaan mpoano hɔ;",
+        "Yɛbɛtra Yesu nan ase,",
+        "B're a yɛrentetewm' bio."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abɔfo no di ah'rusi, Na dɔm no to dwom sɛ,",
+        "Adasamma, monhwɛ mo Hen' A ɔresian nō agua,",
+        "A ɔresian nō agua, A ɔresian nō agua,",
+        "Adasamma, monhwɛ mo Hen' A ɔresian nō agua."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "N'ankasa nsa bɛpopa wɔn Aniwam nusu ny'naa;",
+        "Na yaw, apini, suro ne Wu ankasa betwam,",
+        "Wų ankasa betwam, Wu ankasa betwam;",
+        "Na yaw, apini, suro ne Wu ankasa betwam,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Gyenkwa pa, enkosi da bɛn Na saa dɔn yi bɛteɛn?",
+        "Mm're, tu mm'rika na kɔ ntɛmntem",
+        "Kɔfa da pa no bra,",
+        "Kɔfa da pa no bra, Kɔfa da pa no bra;",
+        "Mm're, tu mm'rika na kɔ ntɛmntem",
+        "Kɔfa da pa no bra."
+      ],
+      "number": 4
+    }
+  ]
+}

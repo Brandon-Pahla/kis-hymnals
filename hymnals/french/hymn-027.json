@@ -1,0 +1,46 @@
+{
+  "number": 27,
+  "language": "fr",
+  "title": "D’un arbre séculaire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "D’un arbre séculaire,",
+        "Du vieux tronc d’Isaï,",
+        "Durant l’hiver austère",
+        "Un frais rameau jaillit;",
+        "Et sur le sol durci,",
+        "Dans la nuit de la terre,",
+        "Une rose a fleuri."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ainsi prend fin l’attente",
+        "Des premiers serviteurs.",
+        "Dieu, par leur voix fervente,",
+        "Promettait un Sauveur.",
+        "Voici, suprême honneur,",
+        "Qu’il naît de sa servante",
+        "La plus humble en son cœur."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pauvre et sans apparence,",
+        "Ô Jésus, notre roi,",
+        "Tu portes nos souffrances",
+        "En mourant sur la croix.",
+        "Heureux celui qui croit!",
+        "Il trouve l’espérance",
+        "Et l’amour dans la foi."
+      ],
+      "number": 3
+    }
+  ]
+}

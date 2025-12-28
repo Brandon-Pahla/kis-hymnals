@@ -1,0 +1,40 @@
+{
+  "number": 10,
+  "language": "tw",
+  "title": "Kristofo Mmom' Nto Dwom",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kristofo mmom' nto dwom, Haleluya, Amen!",
+        "Ayeyi nka Kristo; Haleluya, Amen!",
+        "Ma koma ne nne ny'naa",
+        "Nni dɛw N'agua anim;",
+        "Ayeyi na ɔpɛ, Haleluya, Amen!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Momma mo koma so, Haleluya, Amen!",
+        "Ma 'yeyi nhyɛ s'ro ma, Haleluya, Amen!",
+        "Yɛn yɔnko Kwanky'rɛfo",
+        "Brɛ Ne hō ase ma yɛn;",
+        "Ne dɔ to rentwa da, Haleluya, Amen!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Munyi Kristō ayɛ bio, Haleluya, Amen!",
+        "Nnyigyei no rensa ha, Haleluya, Amen!",
+        "S'ro 'somdwoe mpoano hɔ",
+        "Yɛkamfo Ne yieyɛ;",
+        "Yɛbɛto dwom daa daa, Haleluya, Amen!"
+      ],
+      "number": 3
+    }
+  ]
+}

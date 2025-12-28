@@ -1,0 +1,47 @@
+{
+  "number": 2,
+  "language": "nd",
+  "title": "2 Emnyango Impela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Inkos’ ifikil’ emnyango, Eyathwal’ isiphambano;",
+        "Manjeabalungileyo, Ba zobutwayiYo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Emnyango... Emnyango... Inkosiifikil’ emnyango;",
+        "Iyeza… yon’ iyeza… I sifikileemnyango."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Iz’bonisoyonk’ im’nyaka, Zithi: sewukhonalapha;",
+        "Si zobonamasinyane, Ohleziphakade"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qaphelaniemhlabeni, Inhluphekoazipheli;",
+        "Ku zofikauMsindisi, AfeuMkhohlisi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Khonaezwenielisha, Si zohlalasingabasha;",
+        "Abafayobangabhubhi, Kubenaphakade."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 126,
+  "language": "tw",
+  "title": "Awɔb're No Mfimfin'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Awɔb're no mfimfin', Mframa nwin'nwin' bɔe",
+        "Fam yɛɛ den sɛ dade, Nsu yɛɛ den sɛ bo;",
+        "Sukɔtweaa tɔɔ kɛse, Ͻtɔɔ kɛse gui,",
+        "Awɔb're no mfimfin' Tete b'rem'"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na abɔfo dɔm pii Ahyia mu wɔ hɔ,",
+        "Kerubim, Serafim Hyiaa mu wɔ 'wim hɔ;",
+        "Nanso Ne na no de, N'anigye mu no,",
+        "ɔsɔree Dɔfo no, Few N'ano."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dɛn na memfa mma No, Ohiani sɛ me?",
+        "Sɛ meyɛ guanhwɛfō a 'Nka mɛma 'guammaa;",
+        "Sɛ meyɛ nyansafō a 'Nka meyɛm' fam' de,",
+        "Dɛn na metum' ama? Me Koma."
+      ],
+      "number": 3
+    }
+  ]
+}

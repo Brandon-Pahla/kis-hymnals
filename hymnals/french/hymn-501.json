@@ -1,0 +1,29 @@
+{
+  "number": 501,
+  "language": "fr",
+  "title": "Notre Père",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Notre Père qui es aux cieux,",
+        "Que ton nom soit sanctifié,",
+        "Que ton règne vienne,",
+        "Que ta volonté soit faite",
+        "Sur la terre comme au ciel.",
+        "Donne-nous aujourd'hui",
+        "Notre pain de ce jour.",
+        "Pardonne-nous nos offenses,",
+        "Comme nous pardonnons aussi",
+        "À ceux qui nous ont offensés;",
+        "Et ne nous soumets pas à la tentation,",
+        "Mais délivre-nous du mal,",
+        "Car c'est à toi qu'appartiennent",
+        "Le règne, la puissance et la gloire,",
+        "Pour les siècles des siècles.",
+        "Amen."
+      ],
+      "number": 1
+    }
+  ]
+}

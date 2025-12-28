@@ -1,0 +1,45 @@
+{
+  "number": 277,
+  "language": "ve",
+  "title": "277. Ranga Phanda Tshedza Tshavhudi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:306"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Iwe tshedza ntshimbidze swiswini, nkokodze",
+        "Musi ndi kule ntshimbidze Yesu, nkokodze",
+        "Fara nayo dzanga, thi humbeli",
+        "U vhona zwa kulesa, nndededze."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi a rabela ndi ri, Murena ntshimbidze",
+        "Ndi ri ntsumbedze ndila, u di ranga phanda",
+        "Ndo vha ndi tshi humbula vhutshinyi",
+        "Mihumbulo yo lemelwa, nthuse."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mphathutshedze, u range nga u tshidza, nkokodze,",
+        "Ndi fhire milingoni ya sathane, nkokodze.",
+        "Ndi vhone vharunwa vho takala.",
+        "Zwe nda tulutshelwa kale-kale."
+      ],
+      "number": 4
+    }
+  ]
+}

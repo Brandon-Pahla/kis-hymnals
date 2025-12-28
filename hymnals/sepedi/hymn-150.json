@@ -1,0 +1,67 @@
+{
+  "number": 150,
+  "language": "nso",
+  "title": " 150  BA KAE BABUNI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 150  BA KAE BABUNI",
+        "CH 620 AH 360",
+        "WHERE ARE THE REAPERS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ba kae babuni ba bunago,",
+        "'Ngata di bohlokwa mašemong,",
+        "Tšeang sekele tša nnete le sebete,",
+        "Le se tlog go sešo phuthwe;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Ba kae babuni? Go tlo tla mang",
+        "Go newa kgalalelo ya bona?",
+        "Ke mang ya tlo re thusa go wala",
+        "dingata go tšwa mašemong?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tšwelang mapatlelong le a nyake,",
+        "Mabele a ka ba bjanyeng,",
+        "Nyakang mebileng se feteng selo,",
+        "Phuthelang tšohle gae Godimong;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mašemo a butšwa kgole-kgole,",
+        "Lefase le letile puno,",
+        "Babuni ga ba gona eupša,",
+        "Mošomo ke o mogolo;"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tlang le disekele bana ba batho,",
+        "Mme le kgoboketše bohle,",
+        "Šomang mong-a-puno a be a tle,",
+        "Thabang le yena punong ya 'Gwe;"
+      ],
+      "number": 6
+    }
+  ]
+}

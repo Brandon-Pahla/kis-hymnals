@@ -1,0 +1,46 @@
+{
+  "number": 218,
+  "language": "tw",
+  "title": "Dá a ɔbɛba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dá a ɔbɛba, dá a ɔbɛba",
+        "Abɛkan Ne nnwinne;",
+        "Ne nnwinne a wɔn bo yɛ den",
+        "Na ɔdɔ wɔn no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Hyɛnhyɛn sɛ 'nɔpa ns'romma",
+        "Femfam N'ahenkyɛw ho,",
+        "Wɔbɛhy'rɛn wɔ ahoɔfɛm'",
+        "Ne kyɛw ho nnwinne."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔbɛboaboa Ne nnwinnč ano",
+        "Akɔ N'ahenni mu;",
+        "Ahotefo a wɔhyerɛn",
+        "Na ɔdɔ wɔn no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mmofra nkumaa, mmofra nkumaa",
+        "A wɔdɔ wɔn Gyefo,",
+        "Wɔne nnwinne a wɔsom bo,",
+        "Na ɔdɔ wɔn no."
+      ],
+      "number": 3
+    }
+  ]
+}

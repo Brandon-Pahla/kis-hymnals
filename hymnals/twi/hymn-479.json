@@ -1,0 +1,56 @@
+{
+  "number": 479,
+  "language": "tw",
+  "title": "O Yɛ Komm",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, yɛ komm, O, yɛ komm,",
+        "Nne bi kasa brɛoo;",
+        "Yɛ komm na tie, mā asɛm",
+        "Biara nsom wo bo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tiatia brɛoo (ha) tiatia brɛoo (ha)",
+        "Ow'ra no wɔ ha;",
+        "Tiatia brɛoo (ha) tiatia brɛoo (ha)",
+        "ɔse yɛmmɛn No."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, yɛ komm, O, yɛ komm,",
+        "Ͻha yɛ kronkron;",
+        "Afɔr'muká a ɛka",
+        "ɔdom asɛm no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, yɛ komm, O, yɛ komm,",
+        "Bɔ yɛn mpae no brɛoo;",
+        "Yɛka Eden hwɛ wɔ",
+        "Saa bere yi mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, yɛ komm, O, yɛ komm,",
+        "Kan N'ahummɔb'rɔ;",
+        "O, yɛ komm, O, yɛ komm,",
+        "Na twɛn Aw'rade."
+      ],
+      "number": 4
+    }
+  ]
+}

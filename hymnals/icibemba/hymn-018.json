@@ -1,0 +1,39 @@
+{
+  "number": 18,
+  "language": "bem",
+  "title": "18 - MWE MPUKA YA KRISTU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ONWARD CHRISTIAN SOLDIERS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mwe mpuka ya Kristu mwende ku fita,",
+        "Lupanda lwa Yesu lwamulondola",
+        "Kristu Mfumu yesu aletangila,",
+        "Bulwi na satana alemwanshisha",
+        "CHORUS:",
+        "Mwe mpuka ya Kristu mwende ku fita",
+        "Lupanda lwa Yesu lwamulondola.",
+        "2. Napabwishibisho bwa bwansho bwesu,",
+        "Fita fya kwa ciwa filebutuka;",
+        "Ciwa aletina lintu twaimba,",
+        "Bamunyina besu mwimbe na maka.",
+        "3. Nge bumba lya maka abakwa Lesa,",
+        "Nshila tuleenda iya mushilo;",
+        "Ifwe twende pamo tatwalekane",
+        "Pamo mulu Yesu Intungulushi",
+        "4. Aleni mwe bonse iseni nomba,",
+        "Konke Mfumu Yesu, Lesa Kabumba,",
+        "Imbeni mwe bonse lwimbo lwanseko",
+        "Lulumbi mu cinshi ku Mfumu Kristu."
+      ],
+      "number": 2
+    }
+  ]
+}

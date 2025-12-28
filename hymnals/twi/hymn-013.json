@@ -1,0 +1,49 @@
+{
+  "number": 13,
+  "language": "tw",
+  "title": "Nnwom Foforo Na Monto",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nnwom foforo na monto mma No,",
+        "Nea Wayɛ anwanwade no.",
+        "ɔdɔ di hen' wɔ daa 'nuonyam mu:",
+        "Mommɛkamfo Otumfo no.",
+        "Wama wɔahu Ne nkwagne kɛsɛn',",
+        "N'adofo ny'naa di ho 'h'rusi:",
+        "Wayi Ne daa trenee no adi",
+        "Wɔ amanaman ny'naa anim."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ah'rusi ne 'hosɛpɛ kɛsɛm',",
+        "Ma sanku ne ɛnne biara",
+        "Nto dom a abu so ho 'yeyi,",
+        "Sɛ wiase ny'naa nni ah'rusi.",
+        "Momfa torobɛnto ne sanku",
+        "Nto dwom mma ɔsoro nnyigye.",
+        "Asase ne po mu nneɛma ny'naa",
+        "Monto dwom mma mo Hen' kɛse n'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nsuten ne po a ɛreworo,",
+        "Monhyɛ Aw'rade anuonyam.",
+        "Mmepɔ ne mmotan nso monsɔre,",
+        "Monto dwom nyi Ne din ayɛ.",
+        "Trenee, mudi ne 'nuonyam wɔ No,",
+        "Ayeyi bɛyɛ Ne de daa.",
+        "Yɛn Nyame tene, Nea Ne nokwar'",
+        "De wiase tim hɔ asomdwoe m'."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 207,
+  "language": "ve",
+  "title": "207. Ri tutshela Zwa Shangoni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ri tutshela zwa shangoni,",
+        "Ra vho da kha Iwe,",
+        "Nga nayo dzi tavhanyaho,",
+        "Ri da kha Mutshidzi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mulisa washu wa ndele,",
+        "Ri takadzwa nga ’we,",
+        "Ri gwadama nduni yau,",
+        "Ri tshi u rabela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ro tsireledzwa nga makole,",
+        "Kha bviswe nga Iwe,",
+        "Kha ri di u thetshelesa,",
+        "Kha zwine wa funa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mbilu; pfaho Mudzimu,",
+        "Muhumbulo kwawo,",
+        "Zwothe zwi bva zwi tadulu,",
+        "Hu re na tshilidzi."
+      ],
+      "number": 5
+    }
+  ]
+}

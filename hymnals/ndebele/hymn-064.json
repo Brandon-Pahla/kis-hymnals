@@ -1,0 +1,47 @@
+{
+  "number": 64,
+  "language": "nd",
+  "title": "64 Tshela uJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U duniwe, u dabukile na? Tshela uJesu, tshela uJesu.",
+        "U nosizi olungapholi na? Tshela Yena uJesu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tshela uJesu, tshela uJesu, NguYe uMhlobo wakho;",
+        "Awunaye omunye umhlobo, Tshela uJesu wakho."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zi yathonta izinyembezi na? Tshela uJesu, tshela uJesu.",
+        "U nezono kade zafihlwa na? Tshela Yena uJesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U nosizi enhliziyweni na? Tshela uJesu, tshela uJesu;",
+        "Inhliziyo I phishekile na? Tshela Yena uJesu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U yesab’ ukufa kweliba na? Tshela uJesu, tshela uJesu;",
+        "U khalela uMbuso wAkhe na? Tshela Yena uJesu."
+      ],
+      "number": 5
+    }
+  ]
+}

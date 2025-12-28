@@ -1,0 +1,39 @@
+{
+  "number": 136,
+  "language": "nd",
+  "title": "136 Ngi Khumbula iKhalvari",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Laph’ esho khona ngokuya Ngi fund’ ukumthemba njalo;",
+        "Ngi khumbula ku ngenxa yam’ Ukuze af’ eKhalvari."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "uJesu nguMholi wami, Wo ngi hola yonk’ indlela;",
+        "Ng’ uMholi wami impela Ngi khumbula eKhalvari."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi thand’ umthetho ka Jesu Ngi holwa yisandla sAkhe;",
+        "I mnand’ intando yAkhe kim’ I cwebiswe yi Khalvari."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi ya phambili nges’bindi uKrest’ u seduze kwami;",
+        "Ngi themb’ uJesu ngombona, Isihlobo seKhalvari."
+      ],
+      "number": 4
+    }
+  ]
+}

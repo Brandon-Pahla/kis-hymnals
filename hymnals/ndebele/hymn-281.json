@@ -1,0 +1,39 @@
+{
+  "number": 281,
+  "language": "nd",
+  "title": "281 Kwavela Inkanyezi Eb’suku",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kwavel’ inkanyez’ ebusuku, Yakhanyiswa nguNkulunkulu",
+        "Im’sebe yahola izazi; Zaqondiswa kuMsindisi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kusa khanya, kusa khanya, Inkanyezi ezintabeni!",
+        "Kusa khanya, kusa khanya Insindiso eNkosini"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zazi ngeM’bhalo iqiniso, Lenkanyezi ekhanyisayo;",
+        "Zalindel’ uk’khanya khashana, Oku nguKrestu indonsa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Solandel’ uk’khanya kwendulo, Loko kukhanya okwashiwo;",
+        "Solandela siy’ ezulwini, Sifike ‘kuphumuleni"
+      ],
+      "number": 4
+    }
+  ]
+}

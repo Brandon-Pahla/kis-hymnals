@@ -1,0 +1,56 @@
+{
+  "number": 377,
+  "language": "es",
+  "title": "A los pies de Jesucristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A los pies de Jesucristo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A los pies de Jesucristo,",
+        "¡qué palabras me habla a mí!",
+        "¡Sitio tan feliz, precioso,",
+        "cada día encuentro aquí!",
+        "Contemplando lo pasado,",
+        "vuelvo a ver hoy la visión",
+        "del amor tan puro y santo",
+        "que ganó mi corazón."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A los pies de Jesucristo,",
+        "¡cuánto bien se puede hallar!",
+        "Dejo aquí mi mal, mis penas,",
+        "y hallo grato descansar.",
+        "A los pies de Cristo, humilde,",
+        "lloro y gozo al orar,",
+        "y anhelo gracia diaria",
+        "de su plenitud sacar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh, Señor bendito, dame",
+        "tu divina y santa paz!",
+        "Mira con amor a tu hijo,",
+        "vea yo tu dulce faz.",
+        "Dame el ánimo de Cristo,",
+        "hazme santo, justo y fiel;",
+        "ande yo con Cristo siempre,",
+        "porque mi justicia es él."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "number": 49,
+  "language": "st",
+  "title": "49 Monahano O Monate",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ho tla monahano, ho ’na O monate;",
+        "Ke haufi le hae kajeno ho feta pele."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Haufi hae, lehae la ka;",
+        "Haufi hae kajeno ho feta pele."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Haufi tlung ea Ntate, meahong e mengata.",
+        "Haufi moo Jesu a busang leoatleng le letle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke haufi ho ea hae, Ke role moroalo,",
+        "Sefapano sa khathatso, ke roale moqhaka"
+      ],
+      "number": 3
+    }
+  ]
+}

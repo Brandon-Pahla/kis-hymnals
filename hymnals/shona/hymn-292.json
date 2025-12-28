@@ -1,0 +1,47 @@
+{
+  "number": 292,
+  "language": "sn",
+  "title": "292 Mawoko Maviri",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndichazo musevenzera Jesu",
+        "Ndomutenda nemuromo",
+        "Nzeve dzangu dzichazomunzwa",
+        "Ndomuimbira neinzwi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi tinouya,",
+        "Tinouya tiri vana",
+        "Tenzi tinouya,",
+        "Tidzidze nemi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndichazofamba munzira yake",
+        "Inoenda kudenga’yo",
+        "Maziso kufunda Bhaibheri",
+        "Nerudo rwake Kristu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndine mwoyo wekumupa Jesu",
+        "Mweya umwe aponese",
+        "Upenyu humwe murusando",
+        "Zvese zvangu ngezvakewo"
+      ],
+      "number": 4
+    }
+  ]
+}

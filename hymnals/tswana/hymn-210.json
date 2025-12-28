@@ -1,0 +1,63 @@
+{
+  "number": 210,
+  "language": "tn",
+  "title": "210 Kreste O Letlantse Dibeng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kreste O Letlatse Dibeng, Mmolok’o Gokgamatsang.",
+        "Re rekolotse O duetse, Mmolok’o gakgamatsang."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mmoloki yo’gakgamatsang ke Jeso wa me,",
+        "Mmoloki yo gakgamatsang Jeso wa me."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Mmakela Madi A Ntlhatswang, Mmolok’o",
+        "gakgamatsang",
+        "Yo ntetlantseng le Modimo, Molok’o gakgamatsang."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Ntlhapisitse Mo Pelong, Mmolok’o Gakgamatsang.",
+        "Mme ke Ene yo’e busang; Mmolok’o gakgamatsang."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Tsamaya Gaufi Le Nna, Mmolok’o Gakgamatsang.",
+        "Mme O ntshegetsa ka metlha, Mmolok’o gakgamatsang."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Nnaya Thata Ya Phenyo, Mmolok’o Gakgamatsang.",
+        "Le phenyo nakong ya teko, Mmolok’o gakgamatsang."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Mo Neile Pelo Ya Me, Mmolok’o Gakgamatsang.",
+        "Fatshe ga le na kabelo Mmolok’o gakgamatsang."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "number": 254,
+  "language": "nso",
+  "title": " 254  TUMIŠANG LEINA LA JEHOFA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 254  TUMIŠANG LEINA LA JEHOFA",
+        "CS 260",
+        "PRAISE YE JEHOVA'S NAME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tumišang Jehofa,",
+        "Mo reteng makgotleng,",
+        "Mo hlompheng godimong godimo,",
+        "Tumišang lerato,",
+        "Kgaugelo ya 'Gwe",
+        "E ka ka maatla;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bjale phalafala e tumiše phenyo,",
+        "Tumišong ya 'we go Ile harepa,",
+        "Tšeo di dumago gabotse,",
+        "Tumišang kopelong 'ina la 'Gwe;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ge le mo reta tumišong,",
+        "Tumišang ka hlale,",
+        "Tše botse! O nea bophelo,",
+        "Meoya yohle e tumiše Yena,",
+        "Tumišang Jehofa;"
+      ],
+      "number": 4
+    }
+  ]
+}

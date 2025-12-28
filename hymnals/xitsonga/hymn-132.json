@@ -1,0 +1,25 @@
+{
+  "number": 132,
+  "language": "ts",
+  "title": "132. KONA XIHAMBANWENI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "JESUS, KEEP ME NEAR THE CROSS",
+        "1. Kona Xihambanweni, Ku Khuluka Nambu;",
+        "Wa Mati Yo Hanyisa, Wu pfa Eka Yesu.",
+        "CHORUS",
+        "Exihambanweni, Mina Ndza Dzunisa;",
+        "Ku Kondza Moya Wanga, Wu Kuma Ku Wisa.",
+        "2. Mina La Nga Na Nchavo, Ndzi Kombiwe Nsovo;",
+        "Nyeleti Ya Vurhonga, Yi Ndzi Voningele.",
+        "3. Nyiko Ya Xinyimpfana, Ndzi Tsundzuxe Yona;",
+        "Letela Hi Masiku, U Ndzi Sirhelela.",
+        "4. Ndzi Ta Rindza Hi Ntshembo, Ndzi Langute Kona;",
+        "Ku Kondza Ndzi Fika, Ehase Ka Nambu."
+      ],
+      "number": 1
+    }
+  ]
+}

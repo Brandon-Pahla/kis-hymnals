@@ -1,0 +1,58 @@
+{
+  "number": 243,
+  "language": "ve",
+  "title": "243. Vuwa, Muya Wanga, Vuwa!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Vuwa muya wanga! U fhufhure nyofho,",
+        "Yesu o no fela nne lwa vhutungu,vO dzula o nndindela;",
+        "O dzula o nndindela;",
+        "Ndo nwalwa tshandani tshawe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. U dzula tadulu A tshi nnyambela,",
+        "Lufuno lu tshidzaho, Malofha a vhudi,",
+        "Ro no rengwa nga malofha,",
+        "Ro no rengwa nga malofha,",
+        "A hashaho khulunoni."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi thanu ntho dze A rungwa Khalivari;",
+        "Ntho idzo dzi kho’ nthabelela-vho.",
+        "Dzi ri ndi hangwelwe vhuvhi;",
+        "Dzi ri ndi hangwelwe vhuvhi;",
+        "Wa shanduka a u nga fi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Vhona Mudodzwa A tshi humbela khotsi;",
+        "Khotsi ha nga furaleli Murwa wawe.",
+        "Na Muya U ya Mu thusa;",
+        "Na Muya U ya Mu thusa;",
+        "U ri : Ndi thusa Murena."
+      ],
+      "number": 5
+    }
+  ]
+}

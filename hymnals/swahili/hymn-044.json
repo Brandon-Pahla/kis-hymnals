@@ -1,0 +1,27 @@
+{
+  "number": 44,
+  "language": "sw",
+  "title": "44 - Hakuna Rafiki Kama Yesu",
+  "stanzas": [
+    {
+      "type": "chorus",
+      "lines": [
+        "1",
+        "Hakuna rafiki kama Yesu, hakuna, hakuna,",
+        "Tabibu mwingine wa rohoni, hakuna, hakuna.",
+        "CHORUS:",
+        "Yesu ajua shida zetu, daima ataongoza,",
+        "Hakuna rafiki kama Yesu, hakuna, hakuna,",
+        "2",
+        "Wakati ambapo hapo yeye, hapana, hapana,",
+        "Wala giza kututenga naye, hapana, hapana.",
+        "3",
+        "Aliyesahauliwa naye, hakuna, hakuna,",
+        "Mkosaji asiyempenda, hakuna, hakuna.",
+        "4",
+        "Kipawa kama Mwokozi wetu, hakuna, hakuna,",
+        "Ambaye atanyimwa wokovu, hakuna hakuna."
+      ]
+    }
+  ]
+}

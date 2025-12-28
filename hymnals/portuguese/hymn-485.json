@@ -1,0 +1,50 @@
+{
+  "number": 485,
+  "language": "pt",
+  "title": "Levantai-vos, Jovens",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Levantai-vos, Jovens"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Levantai-vos, jovens crentes, firmes pela cruz!",
+        "Desfraldai o estandarte do Senhor Jesus!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Lealdade, ó jovens crentes,",
+        "A Jesus, Senhor!",
+        "Firmes, sempre, nos preceitos",
+        "Do bom Redentor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vede as hostes inimigas, Cheias de furor;",
+        "Oh, unidos combatamos, sempre, sem temor!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Avançai, com lealdade, firmes em Jesus!",
+        "Seja a Bíblia vosso guia, a celeste luz."
+      ],
+      "number": 5
+    }
+  ]
+}

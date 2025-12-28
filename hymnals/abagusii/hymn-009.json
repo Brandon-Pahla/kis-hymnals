@@ -1,0 +1,35 @@
+{
+  "number": 9,
+  "language": "guz",
+  "title": "9 Omotongi One",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Omotongi one,bionsi pi nebiao;Naye bweka kwabing'eteNay'ogonsesenia,Naye bweka kwabing'eteNay'ogonsesenia."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Egetongwa kiao,Ing'a obogima,Nyasae one ngotogieomoy'ogotogie,Nyasae one ngotogieomoy'ogotogie."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ninki ndakoe kobionsi bir'ebiao,Nkeri keegwa keraisan'obwanchani bwao,Nkeri keegwa keraisan'obwanchani bwao."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Buya bwao bombeke'nguru chia' igoro,Kera ring'ana n'okoganiabib'ebiao pi,Kera ring'ana n'okoganiabib'ebiao pi."
+      ],
+      "number": 4
+    }
+  ]
+}

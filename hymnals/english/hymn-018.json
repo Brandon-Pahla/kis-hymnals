@@ -1,0 +1,66 @@
+{
+  "number": 18,
+  "language": "en",
+  "title": "18 Onward Christian Soldiers",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Onward, Christian soldiers! Marching as to war",
+        "With the cross Jesus Going on before.",
+        "Christ the royal master Leads against the foe",
+        "Forward into battle See his banners go!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Onward Christian soldiers!",
+        "Marching as to war",
+        "With the cross of Jesus",
+        "Going on before."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "At the sign of triumph Satan’s host doth flee,",
+        "On then Christian soldiers, On to victory!",
+        "Hell’s foundations quiver, At the shout of praise,",
+        "Brothers lift your voices, Loud your anthems raise"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Like a mighty army, Moves the church of God;",
+        "Brothers we are trading where the have trod;",
+        "We are not divided, all one body we,",
+        "One in hope and doctrine, One in charity."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Crowns and thorns have perished, Kingdoms ruled and waned,",
+        "But the church of Jesus constant has remained",
+        "Gates of hell can never `Gainst this church prevail;",
+        "We have Christ’s own promise that can never fail."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Onward then, ye people! Join our happy throng",
+        "Blend with our voices In the triumph song;",
+        "Glory, praise and honor Unto Christ the King;",
+        "This thro` countless ages, Men and angels sings."
+      ],
+      "number": 5
+    }
+  ]
+}

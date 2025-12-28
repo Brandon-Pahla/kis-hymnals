@@ -1,0 +1,35 @@
+{
+  "number": 129,
+  "language": "guz",
+  "title": "129 Ika Ang' Omokubio",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ika ang' omokubio,Boitongo ase ense;Kun' enkor' enyororo,N'amasaria Igoro."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Rituko gotimoka,Ngaki yao ngoet' ere;Neriogo 'S' obororo,Goik' emeremo eere"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Erituko richenu,Gotogia na gosaba;Gosemia abororo,'Bisio biao ebinge."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ika ang' omokubio,N'omong'us' Omochenu;Sesenia chinsa chiao,Nkoro yan' eganyete."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "number": 345,
+  "language": "rw",
+  "title": "345 Yesu Araguhamagara!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 344 Nzahimbaza Imana",
+        "**1**",
+        "Yes'arahamagara, Munyabyaha ngwino,",
+        "Ubu turagusabira, Nyamuna ngwino,",
+        "Arakwiteze munyabyaha, Ngwino, Ngwino,",
+        "N'igihe cyo kumumenya, Nyamuna ngwino.",
+        "**2**",
+        "Nib'uremerewe n'ibyaha, Ngwino, Ngwino,",
+        "Yesu aragutur'uwo mutwaro ngwino,",
+        "Yesu n'umunyebambe, Munyabyaha ngwino,",
+        "Niwe wagucunguye, Munyabyaha ngwino.",
+        "**3**",
+        "Umv'ubury'akwinginga, Munyabyaha ngwino,",
+        "Ngwin'araguh'umugisha, Nyamuna ngwino,",
+        "Araguhamagara, Munyabyaha ngwino,",
+        "Ubu turagusabira, Nyamuna ngwino."
+      ],
+      "number": 1
+    }
+  ]
+}

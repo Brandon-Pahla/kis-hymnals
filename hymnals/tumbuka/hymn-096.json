@@ -1,0 +1,59 @@
+{
+  "number": 96,
+  "language": "tum",
+  "title": " 96 Zuwa La Kupumula",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 96 Zuwa La Kupumula",
+        "WELCOME, WELCOME, DAY OF REST"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Zuwa lakupumula,",
+        "lapika ku tawanthu,",
+        "lize mu mtima wane",
+        "ndi nyali ya kuchanya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Zuwa lakukondweska,",
+        "likuruta luwiro,",
+        "Likutisanguruska,",
+        "mpaka ku umaliro."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Ndilo zuwa lituwa,",
+        "ndi zuwa la visopo,",
+        "Zuwa lakupokera",
+        "vitumbiko vya Fumu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Zuwa la kupumula,",
+        "liriso na nkhongono,",
+        "Ungweru winu Fumu,",
+        "wize mu mtima wane."
+      ],
+      "number": 5
+    }
+  ]
+}

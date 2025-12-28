@@ -1,0 +1,55 @@
+{
+  "number": 236,
+  "language": "en",
+  "title": "236 His Loving Kindness.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Awake, my soul, to joyful lays,",
+        "And sing thy great Redeemer’s praise;",
+        "He justly claims a song from me,",
+        "His loving kindness, O how free!",
+        "Loving kindness, loving kindness,",
+        "His loving kindness O how free!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "He saw me ruined in the fall,",
+        "Yet loved me notwithstanding all;",
+        "He saved me from my lost estate,",
+        "His loving kindness O how great!",
+        "Loving kindness, loving kindness,",
+        "His loving kindness O how great!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Though num’rous hosts of mighty foes,",
+        "Though earth and hell my way oppose,",
+        "He safely leads my soul along,",
+        "His loving kindness O how strong!",
+        "Loving kindness, loving kindness,",
+        "His loving kindness O how strong!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "When trouble, like a gloomy cloud,",
+        "Has gathered thick and thundered loud,",
+        "He near my soul has always stood,",
+        "His loving kindness, O how good!",
+        "Loving kindness, loving kindness,",
+        "His loving kindness O how good!"
+      ],
+      "number": 4
+    }
+  ]
+}

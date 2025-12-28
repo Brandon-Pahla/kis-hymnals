@@ -1,0 +1,55 @@
+{
+  "number": 23,
+  "language": "es",
+  "title": "¡Silencio! ¡Silencio!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Silencio! ¡Silencio!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Silencio! ¡Silencio!",
+        "en este lugar;",
+        "¡silencio! silencio",
+        "habéis de guardar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Quedad en silencio",
+        "en este lugar;",
+        "silencio, silencio",
+        "guardad al orar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Silencio! ¡Silencio!",
+        "Es tiempo de orar,",
+        "la gracia divina",
+        "podréis disfrutar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Silencio! ¡Silencio!",
+        "su amor recordad.",
+        "A Dios, pues, postrados,",
+        "honor tributad."
+      ],
+      "number": 5
+    }
+  ]
+}

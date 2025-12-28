@@ -1,0 +1,37 @@
+{
+  "number": 151,
+  "language": "fr",
+  "title": "Chantez l’Éternel",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Chantez l’Éternel, votre Dieu, Alléluia !",
+        "Vous les saints, vivant en ces lieux, Alléluia !",
+        "Et les anges dans les cieux, Alléluia !",
+        "Célébrez ses dons merveilleux ! Alléluia !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Proclamez dans tout l’univers, Alléluia !",
+        "Au ciel et sur la terre entière, Alléluia !",
+        "D’âge en âge, acclamez sa grandeur, Alléluia !",
+        "N’oubliez jamais sa splendeur! Alléluia !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Louez Dieu, tous ses bienheureux, Alléluia !",
+        "Son pardon toujours gracieux, Alléluia !",
+        "Sa compassion et sa charité, Alléluia !",
+        "Se prolongent à perpétuité. Alléluia !"
+      ],
+      "number": 3
+    }
+  ]
+}

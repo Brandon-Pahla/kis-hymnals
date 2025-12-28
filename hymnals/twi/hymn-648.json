@@ -1,0 +1,31 @@
+{
+  "number": 648,
+  "language": "tw",
+  "title": "Me Man, Mede Me Dɔ Som",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me man, mede me dɔ som a ewie mudi na",
+        "Ͻtra asase so nneɛma nyinaa hyɛ wo bɔ;",
+        "'Dɔ a ɛhwehwɛ ntease na egyina sɔhwɛm',",
+        "Nea ɛde n'ade a ɛsom bo bɔ afɔre;",
+        "'Dɔ a entumi nhinhim 'dɔ a enni huammɔ,",
+        "'Dɔ a ɛbɔ afɔre a suro biara nnim."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Man fof'ro bi nso wɔ hɔ ɔ mate ho asɛm,",
+        "Ͻsom bo pii ma wɔn a wonim na wɔdɔ no;",
+        "Yɛrentumi nhu n'asraafo ne Ne Hen' no de,",
+        "N'aban yɛ nokware koma, ɛhoahoa ne ho",
+        "Yawdim', yɛn mu biara bɔ mpae daa ma ne nkɔso,",
+        "Na n'akwan ny'naa yɛ ɔdwo ne asomdwoe nkutoo."
+      ],
+      "number": 2
+    }
+  ]
+}

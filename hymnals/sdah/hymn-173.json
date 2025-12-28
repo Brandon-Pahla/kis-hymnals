@@ -1,0 +1,42 @@
+{
+  "number": 173,
+  "language": "en-sdah",
+  "title": "173 Good Christian Friends, Rejoice!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Good Christian friends, rejoice and sing! Now is the triumph of our King! To all the world glad news we bring:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain : Alleluia! Alleluia! Alleluia!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. The Lord of life is risen for aye; Bring flowers of song to strew His way; Let all mankind rejoice and say:"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Praise we in songs of victory That love, that life which cannot die, And sing with hearts uplifted high:"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Thy name we bless, O risen Lord, And sing today with one accord The life laid down, the life restored:"
+      ],
+      "number": 5
+    }
+  ]
+}

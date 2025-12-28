@@ -1,0 +1,60 @@
+{
+  "number": 84,
+  "language": "en",
+  "title": "84 Praise God!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Praise God! From whom all blessings flow;",
+        "Praise Him, all creatures here below;",
+        "Praise Him above, ye heavenly host;",
+        "Praise Father, Son, and Holy Ghost……",
+        "Amen."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "We are children of a King,",
+        "Heav’nly King, Heav’nly King;",
+        "We are children of a King,",
+        "Singing as we journey;",
+        "Jesus Christ, our guard and guide,",
+        "Bids us, nothing terrified,",
+        "Follow closely at His side,",
+        "Singing as we journey."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "We are traveling to our home,",
+        "Blessed home, Blessed home;",
+        "We are traveling to our home,",
+        "Singing as we journey.",
+        "Tow’d a city out of sight,",
+        "Where will fall no shed of light,",
+        "For our Saviour is its light,",
+        "Singing as we journey."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Full of joy we onward go,",
+        "Heav’nward go, Heav’nward go,",
+        "Full of joy we onward go,",
+        "Singing as we journey;",
+        "Singing all the journey through,",
+        "Singing hearts are brave and true,",
+        "Singing till our home we view,",
+        "Singing as we journey."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "number": 342,
+  "language": "tum",
+  "title": " 342 Mukandipenje Ndamkuwapo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 342 Mukandipenje Ndamkuwapo",
+        "CM 1997"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Para mwakafika kura ku chanya",
+        "Pakumumanya Yesu Para mwatauzga",
+        "wakutemweka Wakwima pa Chizumbe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mukandipenje ndam'kuwapo (ndam'wapo)",
+        "Ndam'wapo (ndam'wapo)",
+        "Mukandipenje ndam'kuwapo (ndam'wapo)",
+        "Nchindi kwa Fumu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Pakwenda na wabwezi kuchanya kuwona",
+        "vyakuzizwiska Kwima nakuwona uchindami",
+        "wakutowa kwakuruska"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Kupulika watuwa kwimba kuchindika mwana",
+        "mberere Wakuwombokwa na vyakwimbira vyawo",
+        "ku m'chindika yesu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Kujikamira Fumu ya mafumu iyo yikakutwira",
+        "Pakuwona chisko cha Mtaski winu wiza",
+        "namwe ku chanya."
+      ],
+      "number": 5
+    }
+  ]
+}

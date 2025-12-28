@@ -1,0 +1,50 @@
+{
+  "number": 273,
+  "language": "st",
+  "title": "273 Its’etlehe Matsohong A Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "It’etlehe matsohong a Jesu, O tla u thusa, O tla u thusa,",
+        "Ha u ts’epa lerato la Hae Oa u tlatsa pako."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "(S.T.)",
+        "Its’etlehe matsohong a Hae, Mo ts’epe hle, nka mohau oa Hae,",
+        "Its’etlehe, sheba holimo, Matsohong a ’Moloki.",
+        "(S.B.)",
+        "Its’etlehe matsohong a Hae, mo ts’epe. Its’etlehe matsohong, Nka mohau.",
+        "Its’etlehe u shebe holimo, Matsohong a ’Moloki."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Its’etlehe matsohong a Jesu, O tla bonesa tsela ea hau;",
+        "Mo sale morao fela thabong. Utloa lentsoe la Hae."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Its’etlehe matsohong a Jesu, Tlisa tsietsi tsohle tsa hau;",
+        "Moroalo o bonalang boima, O tle ho Morena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Its’tlehe matsohong a Jesu, Tlo, u sie tsohle ho Eena;",
+        "O tletse lerato ka pelong, Ha’ fifale mahlo."
+      ],
+      "number": 4
+    }
+  ]
+}

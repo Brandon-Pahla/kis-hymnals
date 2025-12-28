@@ -1,0 +1,47 @@
+{
+  "number": 352,
+  "language": "tw",
+  "title": "'Yi Ne Me Pɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Yi ne Me pɛ, M'ahyɛde ni;",
+        "Sɛ ɔdɔ ntra mo nyinaa mu;",
+        "'Yi ne Me pɛ, monnɔ mo ho,",
+        "Sɛnea Me nso Madɔ mo no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Obi nni ɔdɔ kɛse sei;",
+        "Sɛ owu gye ne nnamfonom;",
+        "Moyɛ Me nnamfonom ampa",
+        "Sɛ mudi nea Mahyɛ mo sō a."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻnyɛ mo, Me na Mepaw mo,",
+        "Sɛ monkɔso aba bebree;",
+        "Mepaw mo sɛ momfa Me so",
+        "Nso abá a ɛbɛtra hɔ daa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nea Mibisa M'Agya biara",
+        "Me din no nti mo nsa bɛka",
+        "'Yi ne Me pɛ, M'ahyɛde ni:",
+        "Sɛ ɔdɔ ntra mo nyinaa mu."
+      ],
+      "number": 4
+    }
+  ]
+}

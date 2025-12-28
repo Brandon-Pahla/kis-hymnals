@@ -1,0 +1,63 @@
+{
+  "number": 265,
+  "language": "xh",
+  "title": "265 Luphi Uxolo?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Luph’ uxolo, Ezweni lesono?",
+        "U-Yes’ unika wena uxolo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Luph’ uxolo, Kumsebenz’ omkhulu?",
+        "Intando kaYes’ inik’ uxolo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Luph’ uxolo, Uzele lusizi?",
+        "Kwingalo zeNkosi Lukh’ uxolo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Luph’ uxolo, ’Zihlobo zikude?",
+        "Sisonke sigciniwe nguYesu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Luph’ uxolo, Singazi ngekamva?",
+        "Siyazi uYesu uyalaula."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Luph’ uxolo, Singqongwe kukufa?",
+        "U-Yes’ ukoyisile ukufa."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Luph’ uxolo, Kophela ukulwa,",
+        "U-Yes’ usinike lonk’ uxolo."
+      ],
+      "number": 7
+    }
+  ]
+}

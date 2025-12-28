@@ -1,0 +1,42 @@
+{
+  "number": 143,
+  "language": "luo",
+  "title": "143 Yesu Oluongowa Koro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu oluongowakoro gi ng`wono,Oluongo in kod an be;Ochungo okoe dhoranga chunywa,Korito in kod an be."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mondo ibi....ibi....Un jo mojony mond` ubi;Yesu oluongowa irekod ng`wono,Jaketh mond` ibi ira."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yesu osayo,marang`o wadeko?Osayo in kod an be;Wadeko nang`okwachako ng`wonone?Ong`wonone kod an be."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndalo okadho,okadho mapiyo,Kadho ni in kod an be;Piny biro rumo,tho chikowa koro,Ochiko in kod an be."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Paruru hera maduong`ma osingo,mosingoni kod an be;Kata waketho,oyie wenwa kethwa,Oyie weni kod an be."
+      ],
+      "number": 5
+    }
+  ]
+}

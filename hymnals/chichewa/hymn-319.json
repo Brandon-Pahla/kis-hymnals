@@ -1,0 +1,33 @@
+{
+  "number": 319,
+  "language": "ny",
+  "title": "319 - Ndidzayimba Za Mulungu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I WILL SING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Ndidzayimba za Mulungu Za Kukonda kwaceko",
+        "Watumiza mwana wavce, Kundifera kalelo",
+        "CHORUS:",
+        "Inde ndidzayimba nyimbo, Ya kukonda kwaceko,",
+        "Ndidzayimba ndi angelo, Akukhala m’mwambamo.",
+        "(Bass, Alto, and Tenor):",
+        "Yimbatu, ndiyimba nyimbo; Kondako, kondako, yimbatu;",
+        "Angelo omwe, Akukala m’mwambamo, E, M’mwambamo.",
+        "2. Ndinacita mphulupulu, Waiwala zonsezo,",
+        "Ndinakhala ndi zoipa, Wazicotsa zonsezo",
+        "3. Wandipatsa moyo wace, Moyo wakuyera mbu,",
+        "Ine ndiri mwana wace, Wandilera inetu.",
+        "4. Ndiyamika Mbuye wanga, Ndidzamlemekezatu,",
+        "Ndipititsa mbiri yace, Ya kukonda kwaceku."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "number": 24,
+  "language": "en",
+  "title": "24 I Need Thee Every Hour",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I need thee every hour, Most gracious Lord;",
+        "No tender voice like Thine can peace afford?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I need Thee, O I need Thee!",
+        "Every hour I need Thee;",
+        "O bless me now, my Saviour!",
+        "I come to Thee."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I need Thee every hour; Stay Thou near by;",
+        "Temptations lose their pow`r, when Thou art nigh."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I need Thee every hour, in joy or pain;",
+        "Come quickly and abide, Or life is vain."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I need Thee every hour, Most Holy One;",
+        "O make me Thine indeed, Thou blessed Son"
+      ],
+      "number": 5
+    }
+  ]
+}

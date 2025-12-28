@@ -1,0 +1,50 @@
+{
+  "number": 266,
+  "language": "fr",
+  "title": "Nous voguons vers...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nous voguons vers un beau rivage",
+        "Que Jésus nous prépara;",
+        "Nous ne craignons aucun naufrage,",
+        "Sa grâce nous conduira."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Viens avec nous, la voile est prête,",
+        "Frère, viens, que rien ne t'arrête.",
+        "Plus d'ouragan, de tempête,",
+        "Au séjour du Dieu d'amour,",
+        "Plus d'ouragan, de tempête,",
+        "Au séjour du Dieu d'amour."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pour notre céleste patrie",
+        "Voici l'heure du départ;",
+        "À venir Jésus te convie;",
+        "Demain il serait trop tard."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Devant nous, de la cité sainte",
+        "Bientôt va s'ouvrir le port;",
+        "De nos coeurs banissant la crainte,",
+        "Chantons tous d'un même accord."
+      ],
+      "number": 4
+    }
+  ]
+}

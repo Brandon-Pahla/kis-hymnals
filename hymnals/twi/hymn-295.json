@@ -1,0 +1,43 @@
+{
+  "number": 295,
+  "language": "tw",
+  "title": "Bɔn'yɛfo Hene Ne Me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bɔn'yɛfo hene ne me,",
+        "Nanso Yesu wu maa me;",
+        "Owui na matra soro,",
+        "Owui na manya daa nkwa;",
+        "Sɛnea baa dan bobe no,",
+        "Mewɔ No na ɔwɔ me."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Yesu dɔ kɛse no,",
+        "Ͻkorɔn sen soro mpo;",
+        "Emu dɔ sen po bun nso,",
+        "Ͻwɔ hɔ mmeresanten,",
+        "Anwanwa dɔ: ehu me",
+        "B're a menhwehwɛɛ No mpo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bɔn'yɛfo hene ne me,",
+        "Nso m'ade ny'naa ne Kristo;",
+        "Onim nea mihia nyinaa,",
+        "M'aw'rɛhow nyinaa wɔ No,",
+        "ɔgye me wiase haw mu,",
+        "ɔma me kra nya nkwa daa."
+      ],
+      "number": 3
+    }
+  ]
+}

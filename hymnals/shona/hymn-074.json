@@ -1,0 +1,47 @@
+{
+  "number": 74,
+  "language": "sn",
+  "title": "74 Kuunza Misumbu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dyara mangwanani, mbeu’dzo dzemutsa",
+        "Dyara masikati, nemumanheru",
+        "Mira kupupura, nguva yekucheka",
+        "Tichafara nekuunza misumbu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unza misumbu, unza misumbu",
+        "Tichafara nekuunza misumbu",
+        "Unza misumbu, unza misumbu",
+        "Tichafara nekuunza misumbu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dyara mukujeka, dyara pane bvute",
+        "Usatye makore, m’basa raJesu",
+        "Basa richapera, minda yichachekwa",
+        "Tichafara nekuunza misumbu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yenda nekuchema, dyara kuna Tenzi",
+        "Kana nekushaya kufadza kwedu",
+        "Kuti taripedza, achachingamidza",
+        "Tichafara nekuunza misumbu"
+      ],
+      "number": 4
+    }
+  ]
+}

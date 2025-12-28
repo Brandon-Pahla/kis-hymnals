@@ -1,0 +1,52 @@
+{
+  "number": 143,
+  "language": "nso",
+  "title": " 143  RE PHATLALATE MORENA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 143  RE PHATLALATE MORENA",
+        "CH 33 AH 22",
+        "LORD DISMISS US"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re phatlalatše Morena,",
+        "O re tlatše Khutšo,",
+        "Re lokollwe ka mogau,",
+        "Re le leratong la Gago,",
+        "Re ete pele 'ganateng,",
+        "O re mpšafatše;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go išwe tebogo, kgalalelo,",
+        "Ka baka la ntšu la 'Go,",
+        "Kenya tša poloko,",
+        "Di dule pelong tša rena,",
+        "Ka mehla re tshepele,",
+        "Nneteng ya Gago;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ge re santše re phedile,",
+        "Re ineele Morena,",
+        "Re kitime re sa lape,",
+        "Re na le tshepo,",
+        "Re e bone kgalalelo,",
+        "Yona ya legodimo;"
+      ],
+      "number": 4
+    }
+  ]
+}

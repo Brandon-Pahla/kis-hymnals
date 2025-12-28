@@ -1,0 +1,42 @@
+{
+  "number": 347,
+  "language": "guz",
+  "title": "347 Yeso Nguru Chiane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yeso nguru chiane,Nko' ogwenchanda kwane;Nkwegen'as'obokanyeku,'Gw'ogosaba kwane."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ing'enkor'engiya,Erio nyeange nche;Tintara chinchera chimbe,Na tingoki'amabe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ing'enkor'endemu,'S'emechando yonsi;'Nyoteneni'Omasalaba,'Nyorende bokong'u."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ing'ogokoiroka,N'eriso eriongo;Gokorigereria Aye,K'ebibe bir'ange."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Ong'e na Omoika,Ore ang'e rioka;'Y'orendet'ekero gionsi,Ase ogosaba."
+      ],
+      "number": 5
+    }
+  ]
+}

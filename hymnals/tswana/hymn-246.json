@@ -1,0 +1,54 @@
+{
+  "number": 246,
+  "language": "tn",
+  "title": "246 Janong Bua Ka Jeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Janong Bua Ka Jeso Tsala E Rategang,",
+        "Re thamise bolela Se O se diretsweng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Fokonyana ka Jeso, Le re thusa tseleng,",
+        "Fokonyana ka Jeso, Pineng le thapelong."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Janong Bua Ka Jeso; Ka O Itshwaretswe.",
+        "Mme O leka ka tshwaro Go ya gae godimong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Janong Bua Ka Jeso; Mokgoro ’A Se Gore,",
+        "Ke rata Mompoloki Ene yo O ntshwetseng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Janong Bua Ka Jeso; O Se Senye Nako;",
+        "Pelung e latlhang tiro Go tla bofutsana."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Janong Bua Ka Jeso; Tumelong E Kgalang,",
+        "Nanoga ’koeng jotlhe, Mme O Mo nee tsotlhe."
+      ],
+      "number": 5
+    }
+  ]
+}

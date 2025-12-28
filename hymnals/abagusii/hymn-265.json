@@ -1,0 +1,35 @@
+{
+  "number": 265,
+  "language": "guz",
+  "title": "265 Ntomeny' As' Amach' Obogima",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ntomeny' as' amach' obogima,Nsok'enchenu engiya;Yes' atoganyet' atorosie,Korosigw' okuya."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ntomeny' as' amach' obogima(Ntomeny' ase amache y'obogima)As' amache y'obogima(As' amache nsoko y'obogima)As' amache y'obogima(As' amache nsoko y'obogima)Ensoko y'obogima."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tokorosa as' orogendo,Mbuya totimoke;Ase amache akwongora,Igo akogokia."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Aye nore n'erang'o gose?Inchwo ase Yeso;Yeso namache y'obogima,Oyanyw' otoreke."
+      ],
+      "number": 4
+    }
+  ]
+}

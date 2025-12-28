@@ -1,0 +1,47 @@
+{
+  "number": 458,
+  "language": "tw",
+  "title": "Ma MemmɔW' Pii Kristo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ma mennɔW' pii Kristo, Ma menɔW' pii,",
+        "Mesrɛ Wō a yɛ aso Tie me mpaebɔ;",
+        "Eyi ne m'adesrɛ, Ma mennɔW' pii Kristo;",
+        "Ma mennɔW' pii, Ma mennɔW' pii."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kan' me kɔn dɔɔ wiase Dɛw ne home,",
+        "Nnɛ mehwehwɛ Wo nko, Ma me neā eye;",
+        "Me mpaebɔ ny'naa na sɛ: Ma mennɔW' pii,",
+        "Kristo; Ma mennɔW' pii, Ma mennɔW' pii."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'rɛhow nyɛ n'adwuma Mma ɔyaw mm'ra;",
+        "W'abɔfo ho yɛ fɛ Wɔn nnwom yɛ dɛ",
+        "Me ne wɔn to dwom sɛ: Ma mennɔW' pii,",
+        "Kristo; Ma mennɔW' pii, Ma mennɔW' pii."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ meda wupa sō a Meyi W'ayɛ,",
+        "Me koman' ntetewmdi su ara ni;",
+        "Yi nso ne me mpaebɔ Ma mennɔW' pii,",
+        "Kristo; Ma mennɔW' pii, Ma mennɔW' pii."
+      ],
+      "number": 4
+    }
+  ]
+}

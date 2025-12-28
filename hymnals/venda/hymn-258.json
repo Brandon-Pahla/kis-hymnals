@@ -1,0 +1,39 @@
+{
+  "number": 258,
+  "language": "ve",
+  "title": "258. Mulayo U Ri Lutendo Ndi Luthihi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mulayo u ri lutendo ndi luthihi lwo khwathaho,",
+        "Ndi lutendo lu tshilaho lwo tikwaho nga mulayo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. O, Murena, ri hangwele, ro pfuka mulayo wau,",
+        "Rine a ri u pfesesi mulayo wau Mukhethwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ri hangwele vhuvhi hashu, u tuse vhutshinyi hashu.",
+        "Ri thuse nga Murwa wau, ri vhulunge-vho mulayo"
+      ],
+      "number": 4
+    }
+  ]
+}

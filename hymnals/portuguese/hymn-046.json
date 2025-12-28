@@ -1,0 +1,56 @@
+{
+  "number": 46,
+  "language": "pt",
+  "title": "Estrela de Luz",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Estrela de Luz"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Estrela de luz um dia brilhou,",
+        "Com raro fulgor, e os magos guiou",
+        "Ao pobre curral da humilde Belém,",
+        "Ao meigo Jesus, a fonte do bem."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Brilhando inda está, brilhando inda está,",
+        "A estrela de luz, de raro fulgor",
+        "Brilhando inda está, brilhando inda está,",
+        "A estrela a indicar o Deus Salvador"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Já por Balaáo, da estrela porvir,",
+        "Ouviram falar, em terra oriental;",
+        "E logo que a vêem, a estão a seguir,",
+        "E vão encontrar Jesus, afinal."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A fim de encontrar e ter salvação,",
+        "Havemos também de a estrela seguir;",
+        "E achando a Jesus, felizes, então,",
+        "Do amor e da paz iremos fruir."
+      ],
+      "number": 5
+    }
+  ]
+}

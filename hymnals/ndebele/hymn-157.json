@@ -1,0 +1,45 @@
+{
+  "number": 157,
+  "language": "nd",
+  "title": "157 Isikathi Sokuvuna",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Lowo ohamba ekhaya",
+        "Efaza inhlwanyelo",
+        "Angalali, enothando",
+        "U yothola umusa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qaphelake wena mlimi!, Amabel’ a semahle",
+        "Ku sondela ukuvama, Amasim’ a vuthiwe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A yehliswa amazolo",
+        "Li khanyiswe nelanga",
+        "Izithelo si zophiwa",
+        "Ngamandla aphezulu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wen’ u ngethuki wesabe",
+        "Hlwanyela u ngadinwa",
+        "Nanxa ku nzima qinisa",
+        "U zobutha ngesihle"
+      ],
+      "number": 4
+    }
+  ]
+}

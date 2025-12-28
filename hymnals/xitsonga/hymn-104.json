@@ -1,0 +1,24 @@
+{
+  "number": 104,
+  "language": "ts",
+  "title": "104. YINGISA HOSI XIRILO XANGA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "COME, GREAT DELIVERER, COME",
+        "1. Yingisa, Hosi, Xirilo Xanga, Tana Mukutsuri,",
+        "Moya Wanga Wa Ku Hisekela, Tana Mukutsuri.",
+        "CHORUS",
+        "Ndzi Lahlekile Ndzi Tsendzeleka, Ndzi Tsendzeleka Emananga; Wena Ndzi Vuyise Ntlhambini, Tana Mukutsuri.",
+        "2. A Ndzi Na Xivandla Xo Etlela, Tana Mukutsuri,",
+        "U Nga Ndzi Fularheli We Hosi, Tana Mukutsuri.",
+        "3. Emisaveni Ku Ni Nxaniseko, Tana Mukutsuri;",
+        "Mahlo Yanga Ya Vona Rirhandzu, Raku Mukutsuri.",
+        "4. Yesu Twana Xikhongelo Xanga, Tana Mukutsuri,",
+        "Amukela Ku Tisola Kanga, Tana Mukutsuri."
+      ],
+      "number": 1
+    }
+  ]
+}

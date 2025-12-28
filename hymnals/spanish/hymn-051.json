@@ -1,0 +1,58 @@
+{
+  "number": 51,
+  "language": "es",
+  "title": "Nuestro sol se pone ya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Nuestro sol se pone ya"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nuestro sol se pone ya,",
+        "todo en calma quedará;",
+        "la plegaria levantad",
+        "que bendiga la bondad",
+        "de nuestro Dios."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Santo, santo, santo, Señor Jehová!",
+        "Cielo y tierra de tu amor",
+        "llenos hoy están, Señor,",
+        "¡loor a ti!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh Señor!, tu protección",
+        "dale ahora al corazón;",
+        "dale aquella dulce paz",
+        "que a los tuyos siempre das",
+        "con plenitud."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Oh Señor!, que al descansar",
+        "pueda en ti seguro estar,",
+        "y mañana, mi deber",
+        "pueda alegre y fiel hacer",
+        "en tu loor."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 7,
+  "language": "ve",
+  "title": "7 Musi A Tshi Vhuya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:218",
+        "AH:449"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Musi a tshi vhuya U do dzhia vhathu vhawe",
+        "Vhathu vhawe vha do penya vhunga sa Ene"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Khare dzi do penya sa naledzi tadulu;",
+        "Vhothe vha do penya sa vhakhethwa vhawe"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. A vha dzhia, A vha dzhia, vha thubwa nga Ene;",
+        "Vho lugaho vha do penya, nga misi yothe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.Na vhana vha re vhatuku, vha funa Murena",
+        "Ndi vhakhethwa vha Yehova, Muvhumbi washu."
+      ],
+      "number": 4
+    }
+  ]
+}

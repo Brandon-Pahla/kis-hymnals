@@ -1,0 +1,55 @@
+{
+  "number": 333,
+  "language": "xh",
+  "title": "333 Ndithembele KuWe Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndithembele kuwe, Yesu, Kuwe kuphela;",
+        "Ndithembele usindiso, Lwesisa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndithembele uxolelo, Luvela kuwe;",
+        "Kwa nofefe kwa nenceba, Ndinike."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndithembele ukuhlanjwa Kobomv’ umfula;",
+        "Ndilindel’ ukungcwaliswa ngegazi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndithembel’ ukukhokelwa Sisandla saKho;",
+        "Lonk’ ixesha kupheliswe Usizi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndithembe amandla aKho angapheliyo;",
+        "Ndize ngalomazwi aKho Ndoyise."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndisathembe wena, Yesu, Uz’ undigcine;",
+        "Ndokuthemba onk’ amaxa, Nkosi yam."
+      ],
+      "number": 6
+    }
+  ]
+}

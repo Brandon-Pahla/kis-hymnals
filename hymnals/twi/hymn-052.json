@@ -1,0 +1,37 @@
+{
+  "number": 52,
+  "language": "tw",
+  "title": "A Fei Ade Resa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Afei ade resa,",
+        "Anadwo abɛn,",
+        "Anwumm're sunsuma",
+        "Nam wim brɛoo reba."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Agya ma ab'rɛfo",
+        "Nnya ɔhome pa,",
+        "Yɛn ani nka ngu so",
+        "Wo nhyira pa mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Dasu pɛn nyinaa mu,",
+        "Ma W'abɔfo ntrɛw",
+        "Wɔn ntaban fitaa mu,",
+        "Nwɛn me me mpa so."
+      ],
+      "number": 3
+    }
+  ]
+}

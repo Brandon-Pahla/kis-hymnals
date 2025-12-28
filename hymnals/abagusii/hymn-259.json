@@ -1,0 +1,42 @@
+{
+  "number": 259,
+  "language": "guz",
+  "title": "259 Ntoumeran' Aria Roche",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ntoumeran' aria roche,'S'Amalaik'amenyete,Morind'omokenonoku,Okorw' ase Nyasae."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Toumerane twensi roche,As' agay'oroch'oruya mono;Toumerane n'abaye bonsi,'S' oroche rwa Nyasae."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. 'S'engegu y'oroche roria,Rw'amache akomesa;Totere na gosasima,Botamb' as' omogoko."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Gator' ang'e goika roche,Totige chigurube;'S' obuya natotorigwe,Aru' eyanga n'egutwa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Bwango ntoik' aria roche,Tokore orogendo;Chinkoro chigoke mono,Totere n'omorembe."
+      ],
+      "number": 5
+    }
+  ]
+}

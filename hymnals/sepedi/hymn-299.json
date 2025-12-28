@@ -1,0 +1,47 @@
+{
+  "number": 299,
+  "language": "nso",
+  "title": " 299  LETHABO KA DINAKO TŠOHLE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 299  LETHABO KA DINAKO TŠOHLE",
+        "CS 284",
+        "ALWAYS CHEERFUL"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngwathele senkgwa sa bophelo,",
+        "Morena bjalo ka ge o ngwatha,",
+        "Dinkgwa pele ga lewatle,",
+        "Ka puku ya nnete,",
+        "Ke 'a go hloka kgoši"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tliša nnete e utullotšwego,",
+        "Bjalo ka ge o dirile Galelia,",
+        "Ga go tahlego dithapo di wele,",
+        "Ke go nea tšohle tša ka;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mantšu a Gago ke moya le bophelo,",
+        "Ke ragogela go kwa,",
+        "Ke a tekateka ke Wena thušo 'a ka,",
+        "Go theetša ntšu la Gago go nea Phenyo;"
+      ],
+      "number": 4
+    }
+  ]
+}

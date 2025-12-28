@@ -1,0 +1,48 @@
+{
+  "number": 204,
+  "language": "sw",
+  "title": "204 Kuwa na Yesu Nyumbani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Kuwa na Yesu nyumbani,",
+        "Furaha nyingi, Furaha nyingi,",
+        "Furaha nyingi.",
+        "Kuwa na Yesu nyumbani,",
+        "Furaha nyingi, Furaha nyingi."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Yesu yu ndani ya Baba,",
+        "Nyumba salama, nyumba salama, nyumba salama,",
+        "Yesu yu ndani ya Baba,",
+        "Nyumba salama, nyumba salama."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Yesu yu ndani ya Mama,",
+        "Nyumba salama, nyumba salama, nyumba salama,",
+        "Yesu yu ndani ya Mama.",
+        "Nyumba salama, nyumba salama."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Yesu ndani ya Watoto,",
+        "Nyumba salama, nyumba salama, nyumba salama,",
+        "Yesu ndani ya Watoto.",
+        "Nyumba salama, nyumba salama."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "number": 346,
+  "language": "tum",
+  "title": " 346 Dazi Lakukondwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 346 Dazi Lakukondwa",
+        "C.M. 2011"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mwe wakuwombokwa wayam'kwimba kula",
+        "Sumu mwakukondwa kuchanya",
+        "Sumu zakunozga kuchindika Fumu,",
+        "Yesu Muponoski wawo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndam'kuchindika Fumu Yesu",
+        "ALL:",
+        "Pa zuwa'Lo Lachimwemwe",
+        "S:",
+        "Mcharu icho kuLije nyifwa",
+        "vyakuwinya vyose (kuchanya)",
+        "T/A/B:",
+        "Mcharu icho kuLije nyifwa",
+        "kuLije inya vyakuwinya vyose."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Sumu zakunozga kuthuwuska Fumu",
+        "Kumwim bira Yesu Mponoski,",
+        "Pakwiza kwa Yesu zuwa la chimwemwe",
+        "uko tamkutwaso chara."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Ndileke Uheni ndisunge marango",
+        "Nkhakhale na Yesu nyengo swi.",
+        "Fumu ndisungeni ndiwe winu nadi",
+        "Mpaka zuwa la chimwemwe."
+      ],
+      "number": 4
+    }
+  ]
+}

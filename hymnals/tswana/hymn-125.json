@@ -1,0 +1,44 @@
+{
+  "number": 125,
+  "language": "tn",
+  "title": "125 Go Letsatsi Kwa Dithabeng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Go Letsatsi Kwa Dithabeng, Go Letsatsi Lewatleng,",
+        "Mme marang a gouda a Robetse kwa botaleng;",
+        "Mme lesedi je legolo, Le tlatsa pelo ya me,",
+        "Gonne O nna teng Mmoloki, Go lesedi kwa O teng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ao a lesedi je le lentle; Ke letsatsi mo pelong.",
+        "Jeso O tlosa maswabi; Ke letsatsi mo pelong."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leroding Ke Sia Maswabi A Malatsi A Fetang,",
+        "Gonne O nthwesa boipelo Mme O ntlatsa ka pako;",
+        "Mme gaeng ja kgalaleo, Jele O le nkgapetseng,",
+        "Ke tlhatlogela ka pelo, Mo’a me o Go latetse."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Intheketse Mmoloki, Gotlhe Ga Me Ga Gago;",
+        "Lobone lwa rato lwa ’Go Lo tuke go Go baka;",
+        "Mme gaeng ja kgakalelo, Jele O le nkgapetseng,",
+        "Ke tlhatlogela ka pelo, Mo’a me o Go latela."
+      ],
+      "number": 3
+    }
+  ]
+}

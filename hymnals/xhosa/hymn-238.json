@@ -1,0 +1,54 @@
+{
+  "number": 238,
+  "language": "xh",
+  "title": "238 Ngobani Abo?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngoban’ abadlula kulo maza, Phesheya kwamangcwaba bathi thu?",
+        "Bath’ uYes’ unamandla, Behlanjiwe yiMvana."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Bangena phakath’ eJerusalem entsha, Behlanjiwe yiMvana;",
+        "Bangena phakath’ eJerusalem entsha, Behlanjiwe yiMvana."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngabo abo ebutsheni babo, Banobulumko bakheth’ uYesu;",
+        "Bazuz’ inceba yaKhe, Behlanjiwe yiMvana."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abo bathi ngexa lobunzima Bazuza ukuphumla kuYesu;",
+        "Noxolo lukaYesu, Behlanjiwe yiMvana."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abo ngabaphatheka kakubi, Bema emlilweni obuhlungu,",
+        "U-Yes’ uthi, \"Nyukani! Nihlanjiwe yiMvana.\""
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Basithele kunxweme loxolo, Akukho kufa, ntlungu nasono;",
+        "Bovuya naphakade, Behlanjiwe yiMvana."
+      ],
+      "number": 5
+    }
+  ]
+}

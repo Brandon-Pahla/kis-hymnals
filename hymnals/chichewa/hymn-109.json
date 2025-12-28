@@ -1,0 +1,45 @@
+{
+  "number": 109,
+  "language": "ny",
+  "title": "109 - Mmene Mbuye Adzayeza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WEIGHED AND WANTING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mmene Mbuye adzayeza, Zinthu za mu mtimamo;",
+        "Koditu tidzapambana, Pena ’dzalepheranso?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mbuye wayeza iwetu, Nuperewera;",
+        "Ndi malamulo akewo, Nuperewera."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Kodi ’dzamva mau ake Wachitadi bwino ’we?",
+        "Pena kumva akunena, Choka iwe wochimwa?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kodi ’dzamva Mzimu wake Nthawi isanathei?",
+        "Pena tizengerezabe, Ndi kuonongekadi?"
+      ],
+      "number": 4
+    }
+  ]
+}

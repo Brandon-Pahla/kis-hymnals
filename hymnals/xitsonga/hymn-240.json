@@ -1,0 +1,26 @@
+{
+  "number": 240,
+  "language": "ts",
+  "title": "240. VONA YESU ENYANGWEN",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BEHOLD THE SAVIOUR AT THE DOOR",
+        "1. Vona Yesu Enyangwen, U Gogondza Hi Vikhatswi,",
+        "U Rindze Nhlamulo Yaku, U Nga Soli, N’wi Pfelele.",
+        "2. Nsuku Swambalo Swo Tenga, Wa Hi xavisela Swona,",
+        "Na Wona Murhi Wa Mahlo, No Hi Mbexa Hi Mfanelo.",
+        "3. Twana Mbhoni Yo Tshembheka, Wena Mu’endli Wa Swivi,",
+        "I Nkarhi Wo Hetelela,",
+        "U Nga Nonon’hwisi Mbilu.",
+        "4. Vuyimeri Byi Ta Hela, Tintswalo Ti Ta Pfariwa, Lowo Lulama Na Mubihi, Nkarhi Wu Ta Va Helela.",
+        "5. Mberha Yi Wele Nhlokweni, Enyangwen Wa Ha Rindzile,",
+        "Pfula Mbilu N’wi Mukele, I Khale A Ku Rindzele.",
+        "6. I Mendzi Lowo Lulama, Ka Yena Ku Rhula Ntsena,",
+        "U Taleriwe Hi Ntsako, U Ta Lalela Na Wena."
+      ],
+      "number": 1
+    }
+  ]
+}

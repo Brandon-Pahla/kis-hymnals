@@ -1,0 +1,55 @@
+{
+  "number": 111,
+  "language": "es",
+  "title": "Como Jesús no hay otro amigo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Como Jesús no hay otro amigo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Como Jesús no hay otro amigo,",
+        "ni uno hay, ni uno hay;",
+        "que lleve nuestro dolor consigo,",
+        "ni uno hay, ni uno hay."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Nuestras luchas conoce todas;",
+        "nos guiará hasta el mismo fin.",
+        "Como Jesús no hay otro amigo;",
+        "ni uno hay, ni uno hay."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No hay amigo tan noble y digno,",
+        "ni uno hay, ni uno hay;",
+        "que es a la vez justo y benigno,",
+        "ni uno hay, ni uno hay."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Hay santo que haya desamparado?",
+        "Ni uno hay, ni uno hay.",
+        "¿O pecador que haya rechazado?",
+        "Ni uno hay, ni uno hay."
+      ],
+      "number": 5
+    }
+  ]
+}

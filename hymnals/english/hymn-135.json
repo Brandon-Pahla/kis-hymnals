@@ -1,0 +1,56 @@
+{
+  "number": 135,
+  "language": "en",
+  "title": "135 I Love Thee Better, Lord.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I know I love thee better,",
+        "Lord, Than any earthly joy;",
+        "For thou hast given me the peace,",
+        "Which nothing can destroy."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "The half has never yet been told, (never told)",
+        "Of love so full and free;",
+        "The half has never yet been told, ……… (never told)",
+        "The blood it cleanseth me. (cleanseth me)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I know that thou art nearer still,",
+        "Than any earthly throng;",
+        "And sweeter is the thought of thee,",
+        "Than any lovely song."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thou hast put gladness in my heart,",
+        "Then may I well be glad;",
+        "Without the secret of thy love,",
+        "I could not but be sad."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Saviour, precious Saviour mine!",
+        "What will thy presence be,",
+        "If such a life of joy can crown,",
+        "Our walk on earth with thee?"
+      ],
+      "number": 4
+    }
+  ]
+}

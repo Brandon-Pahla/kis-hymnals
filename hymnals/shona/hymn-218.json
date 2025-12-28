@@ -1,0 +1,47 @@
+{
+  "number": 218,
+  "language": "sn",
+  "title": "218 Nheyo Imwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sangano rinenheyo, Iri Tenzi Jesu",
+        "Rakasikwazve Nemvura neizwi Rake",
+        "Wadzike kudenga woriita mutsvitsa",
+        "Wakaritenga neropa nekurifira"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Daidza ndudzi dzese, Sangano ngerimwe",
+        "Sungo yeruponeso naTenzi umwezve",
+        "Zita rimwe, tendo rimwe, Kubarwa kumwe",
+        "Rine tariro imwe, rine tsitsi dzese"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana richitambudzwa, Vanhu vachishama",
+        "Kana richiparadzwa, Padombo pariri",
+        "Asi vadairi vachema, Kowarini",
+        "Nekukasika kuchema kuchazopera"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mukati mezviyedzo, Mukati mehondo",
+        "Sangano rorindira, Rugare narini",
+        "Rinozokomboorerwa, Nembiri narini",
+        "Sangano rokurira, rowa nezororo"
+      ],
+      "number": 4
+    }
+  ]
+}

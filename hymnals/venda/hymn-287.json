@@ -1,0 +1,45 @@
+{
+  "number": 287,
+  "language": "ve",
+  "title": "287. Tshifhinga Tsha U Lingwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:491",
+        "AH:277"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tshifhinga tsha u lingwa mphe Maanda",
+        "Ndi si u hanedze, ndi si kheluwe",
+        "Ndi tshi tima-tima, mpfare nge tshanda",
+        "Ntikedze nga lufuno ndi si we."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Zwa lifhasi ndi lifhedzi, asi tame",
+        "Lupfumo lwa zwivhi lu disa khombo",
+        "Ndi humbule vhutungu Getsemane",
+        "Na ha tshifhambano ngei Khalivari."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Musi ndi tshi do delwa nga mathupho",
+        "Na nga matungu fhano lifhasini",
+        "Kha ndi vhone tshanda tshi ntikedzaho",
+        "matunguni ndi londolwe nga Iwe."
+      ],
+      "number": 4
+    }
+  ]
+}

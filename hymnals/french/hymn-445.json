@@ -1,0 +1,60 @@
+{
+  "number": 445,
+  "language": "fr",
+  "title": "Dans le jardin",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dans le jardin où j'aime entrer,",
+        "À l'heure douce de l'aurore,",
+        "Je me rends seul pour rencontrer",
+        "Celui que mon âme adore."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Il marche avec moi,",
+        "Mon Sauveur, mon Roi.",
+        "Il me dit que je suis à Lui;",
+        "Il est mon soutien,",
+        "Il est tout mon bien,",
+        "Mon salut, mon divin appui."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il parle, et dans mon cœur, sa voix",
+        "Fait naître une joie infinie,",
+        "Les oiseaux même, au fond des bois,",
+        "Suspendent leur mélodie."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dans les parterres du jardin,",
+        "Les fleurs humides de rosée",
+        "Offrent aux visiteurs divins,",
+        "Leur corbeille parfumée."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le don que tu cherches, Seigneur,",
+        "Meilleur que les fruits de la terre,",
+        "C'est l'offrande de tout mon cœur;",
+        "Elle seule peut te plaire."
+      ],
+      "number": 5
+    }
+  ]
+}

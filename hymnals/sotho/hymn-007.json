@@ -1,0 +1,38 @@
+{
+  "number": 7,
+  "language": "st",
+  "title": "7 Mahakoe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mohlang A tlang, Mohlang A tlang ho etsa mahakoe;",
+        "E leng a Hae a bohlokoa, baratuoa ba Hae"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tje ka naleli mesong,bona moqhakeng oa Hae;",
+        "Ba tla phatsima botleng, moqhakeng oa Hae."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O tla phutha, O tla phutha, mahakoe a Hae;",
+        "Ba hloekileng le ba khanyang, baratuoa ba Hae."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le bana ba banyenyane, ba ratang Jesu;",
+        "Ke mahakoe a bohlokoa, baratuoa ba Hae."
+      ],
+      "number": 3
+    }
+  ]
+}

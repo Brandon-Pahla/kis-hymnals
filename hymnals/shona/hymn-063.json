@@ -1,0 +1,55 @@
+{
+  "number": 63,
+  "language": "sn",
+  "title": "63 Maropa AJesu Ega",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndoyera senyi mwoyo? Maropa aJesu ega,",
+        "Ndinochena ngenyi’wo? Maropa aJesu ega."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, akanakisa, Anondichenesa",
+        "Basi ndinoziva, Maropa aJesu ega"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinosunungurwa ndi, Maropa aJesu ega.",
+        "Ndinoawona basi, Maropa aJesu ega"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hakuna chimwe chiro, Maropa aJesu ega.",
+        "Kurekera zvitadzo, Maropa aJesu ega."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndorusimbiro rwangu, Maropa aJesu ega.",
+        "Nekururama kwangu, Maropa aJesu ega"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mbiri, Mbiri ndoimba, Maropa aJesu ega.",
+        "Rukudzo ndinounza...Maropa aJesu ega."
+      ],
+      "number": 6
+    }
+  ]
+}

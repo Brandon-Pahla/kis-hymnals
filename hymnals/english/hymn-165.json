@@ -1,0 +1,47 @@
+{
+  "number": 165,
+  "language": "en",
+  "title": "165 I Love Thee.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I love thee, I love thee, I love thee my Lord;",
+        "I love thee my Saviour, I love thee my God.",
+        "I love thee, I love thee, and that thou dost know;",
+        "But how much I love thee, my actions will show."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I’m happy, I’m happy, O, wondrous account!",
+        "My joys are immortal, I stand on the mount!",
+        "I gaze on my treasure and long to be there,",
+        "With Jesus and angels, and kindred so dear."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Jesus, my Saviour, with thee I am blest,",
+        "My life and salvation my joy and my rest,",
+        "Thy love be my story, thy name be my song;",
+        "Thy grace shall inspire both my heart and my Tongue."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, who’s like my Saviour? He’s Salem’s bright King;",
+        "He smiles, and he loves me and helps me sing.",
+        "I’ll praise him with notes loud and clear,",
+        "While rivers of pleasure my spirit do cheer."
+      ],
+      "number": 4
+    }
+  ]
+}

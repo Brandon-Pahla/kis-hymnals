@@ -1,0 +1,55 @@
+{
+  "number": 213,
+  "language": "en",
+  "title": "213 My Song.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O Jesus my Redeemer, Thou art my joy and song,",
+        "My Savouir and my solace,",
+        "When griefs around me throng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O Jesus my Redeemer,",
+        "My song shall be of Thee,",
+        "No other friend so constant,",
+        "No friend so dear to me."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thou art my hope and comfort,",
+        "Through all the weary years.",
+        "When shadows dark surround me,",
+        "When fall the bitter tears."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "I trust in Thee, my Saviour,",
+        "My faithful friend and guide,",
+        "For thou to me art dearer,",
+        "Than all on earth beside."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thou art my soul’s rejoicing,",
+        "While in this world of sin,",
+        "Thou shalt be my rejoicing,",
+        "The heav’nly gates within."
+      ],
+      "number": 4
+    }
+  ]
+}

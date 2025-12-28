@@ -1,0 +1,26 @@
+{
+  "number": 150,
+  "language": "ts",
+  "title": "150. VA KWIHI VATSHOVERI VA NSIMU?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O WHERE ARE THE REAPERS?",
+        "1. Va Kwihi Vatshoveri Va Nsimu? Ku Hlengeleta Ntshovelo Nsin’wini;",
+        "Va Khoma Tihwevo Ta Ntiyiso, Va Kondza Va Heta Ku Tshovela.",
+        "CHORUS",
+        "Va Kwihi Xana Vatshoveri?",
+        "Ku Pfuneta Ntirhweni Wa Ntshovelo; I Vamani Va Nga Ta Pfuna,",
+        "Wu Suka Nsin’wini Ya Vudyoho.",
+        "2. Humani Mi Famba Mi Ya Lava, Nhova Yi Funengetile Koron;",
+        "Va Rhambeni Mi Nga Siyi Munhu, Va Hlengeleteni Ku Ya Tilwen.",
+        "3. Masimu Ya Vupfile Hinkwako, Misava Yi Yimele Ntshovelo;",
+        "Kambe Vatshoveri I Vatsongo, Koroni Yi Ta Dya Hi Ndzeyana.",
+        "4. Tamelani Tihwevo Ta N’wina, Mi Tshovela Masimu Ya Hosi; Ku Kondza Loko Hosi Yi Fika,",
+        "Mi Ta Nghenisiwa Entsakweni."
+      ],
+      "number": 1
+    }
+  ]
+}

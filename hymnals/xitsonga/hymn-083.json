@@ -1,0 +1,23 @@
+{
+  "number": 83,
+  "language": "ts",
+  "title": "83. TINDZIMI TA WO MAGIDI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O FOR A THOUSAND TOGUES",
+        "1. Tindzimi Ta Wo Magidi, Ti Dzunisa Hosi Yesu,",
+        "Na Vukosi Lebyonghasi, Byi Dzunisa Vito Ra Yesu.",
+        "CHORUS",
+        "Ri Na Nkateko Ri Na Nkateko, Vito Ra Yesu Muferi,",
+        "Ri Na Nkateko Ri Na Nkateko, Vito Ra Yesu Muferi.",
+        "2. Yesu Wa Hi Chavelela, A Hi Khenseni Xikwembu,",
+        "Risimu Ra Yona Nsini, Ri Dzuna Vito Ra Hosi.",
+        "3. Ri Herisa Na Vubihi, Dzunani Vito Ra Hosi,",
+        "Ngati Yi Hlantswa Swidyoho, Khensani Vito Ra Yesu."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "number": 30,
+  "language": "pt",
+  "title": "Hora Feliz do Pôr-do-Sol",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Hora Feliz do Pôr-do-Sol"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hora feliz do pôr-do-sol,",
+        "Hora de paz e comunhão,",
+        "Hora de luz celestial,",
+        "Hora de fé e de oração."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bênçãos de paz, de amor e luz,",
+        "Para os fiéis vem dar Senhor.",
+        "Vimos a Ti com gratidão,",
+        "Para cantar em Teu louvor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh! Como é bom aqui sentir",
+        "Teu divinal e eterno amor!",
+        "Dá-nos, ó Deus, o Teu perdão,",
+        "Graça e poder, ó bom Senhor!"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 237,
+  "language": "ve",
+  "title": "237. Ima Imela Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:618",
+        "AH:368"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ima imela Yesu, Lwela tshifhambano,",
+        "Imisa dzina lawe, li si nyadzisiwe.",
+        "Kha gundo na kha gundo, u do ranga phanda,",
+        "Ha kundwa swina tshothe, Khosi a vha Yesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ima imela Yesu, Ipfa phalaphala,",
+        "Iya na ho vhifhaho, nga duvha la gundo,",
+        "Imani vha vhanna, ni lwese na magogo,",
+        "Ni khwathese zwo vhifha, Hu si mele lwatsi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ima imela Yesu, Pika Ene fhedzi.",
+        "Pfumo li si vhe la nama, U songo di pika,",
+        "Ambara fhungo lawe, U twe thabeloni,",
+        "U tshi runwa khomboni U pfale henefho."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Ima imela Yesu, Zwino zwi a fhela,",
+        "namusi ndi mikosi, Matshelo ndi mihuvho,",
+        "Ane a kunda, tshawe ndi khare thohoni,",
+        "Khosi khulu na ene, vha do vhusa tshothe."
+      ],
+      "number": 5
+    }
+  ]
+}

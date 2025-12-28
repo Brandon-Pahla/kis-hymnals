@@ -1,0 +1,56 @@
+{
+  "number": 61,
+  "language": "es",
+  "title": "Santo, Santo, Santo, Dios Omnipotente",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Santo, Santo, Santo, Dios Omnipotente"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo, Santo, Santo;",
+        "Dios Omnipotente;",
+        "canto de mañana",
+        "tu excelsa majestad;",
+        "Santo, Santo, Santo,",
+        "fuerte y clemente,",
+        "Dios sobre todo,",
+        "Rey de eternidad."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo, Santo, Santo;",
+        "ángeles te adoran;",
+        "echan sus Coronas",
+        "del trono en derredor;",
+        "miles y millones",
+        "ante ti se postran;",
+        "tú que eras, y eres,",
+        "y has de ser, Señor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo, Santo, Santo;",
+        "aunque estés velado,",
+        "aunque el ojo humano",
+        "tu faz no pueda ver;",
+        "sólo tú eres santo,",
+        "como tú no hay otro;",
+        "puro es tu amor,",
+        "perfecto es tu poder."
+      ],
+      "number": 4
+    }
+  ]
+}

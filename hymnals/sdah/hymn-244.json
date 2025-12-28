@@ -1,0 +1,28 @@
+{
+  "number": 244,
+  "language": "en-sdah",
+  "title": "244 My Song Shall Be of Jesus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. My song shall be of Jesus, His mercy crowns my days, He fills my cup with blessings? And tunes my heart to praise; My song shall be of Jesus, The precious Lamb of God, Who gave Himself my ransom, And bought me with His blood."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. My song shall be of Jesus, When siting at His feet, I call to mind His goodness And know my joy's complete; My song shall be of Jesus, Whatever ills befall, I'll sing the grace that saves me, And triumphs over all."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. My song shall be of Jesus, While pressing on my way To where my home shines glorious In pure and perfect day. And when my soul shall enter The many mansions fair, A song of praise to Jesus I'll sing forever there."
+      ],
+      "number": 3
+    }
+  ]
+}

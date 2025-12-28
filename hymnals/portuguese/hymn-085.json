@@ -1,0 +1,45 @@
+{
+  "number": 85,
+  "language": "pt",
+  "title": "Lindo És, Meu Mestre",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Lindo És, Meu Mestre"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lindo és, meu Mestre,",
+        "Rei do Céu, da Terra!",
+        "Ó Homem-Deus, Senhor Jesus!",
+        "Teu é o reino, é Tua a honra,",
+        "És minha glória e minha luz."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Flores do campo, como sois tão lindas!",
+        "Sois o fulgor de prados mil!",
+        "Mais belo é Cristo, mais puro e lindo;",
+        "É sempre meigo, bom, gentil."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lua brilhante! Sol, tão resplendente!",
+        "Quão divinal é vossa luz!",
+        "Mas há um brilho mais fulgurante:",
+        "O brilho do Senhor Jesus."
+      ],
+      "number": 4
+    }
+  ]
+}

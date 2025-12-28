@@ -1,0 +1,35 @@
+{
+  "number": 232,
+  "language": "luo",
+  "title": "232 In Wang`yorwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. In wang`yorwa; wabironiKwaringo keth gi tho;Kendo ng`a modwaro wuoroNyak` odware kuomi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. In Adiera; Wachni kendeNyalo miwa rieko;Puonj madieri oa kuomi,In ma Japwodh chunywa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. In ngimawa; lielma notur Ohulo tekoni;Tho kata liel okanonyal Jogo magenoi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. In yo, Adiera, gi Ngima;Puonjwa wang`e yorno;Konywa warit adierano,Miwa ngimani, Ruoth."
+      ],
+      "number": 4
+    }
+  ]
+}

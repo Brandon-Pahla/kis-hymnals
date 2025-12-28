@@ -1,0 +1,47 @@
+{
+  "number": 218,
+  "language": "tn",
+  "title": "218 Motheo Wa Phuthego Ke Jeso Morena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Motheo Wa Phuthego Ke Jeso Morena,",
+        "Ke lobopo lo losa, Ka madi le metse;",
+        "O tsile go e senka Go nna boitshepo,",
+        "Ka madi O rekile A ba A e swela."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ba Ba Tswang Tshikeng Tsotlhe, Botlhe Bangwe Fela,",
+        "Morena mongwe fela, Tumelo, Go tsalwa;",
+        "E itshepisa leina Le le lengwe fela,",
+        "E na le tsholofelo, E mo tshegofatsong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lefa Ka Go E Sotla, Batho Ba E Leba,",
+        "Lefa baba ba thuba Lefika ja yone;",
+        "Baitshepi ka tumelo Ba re, \"Go fitlha leng?\"",
+        "Bosigo jwa go lela E tla nna jwa pako."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tirong Dipitlaganong, Le Dintweng Tsa Yone,",
+        "E letile kagiso Ya ka bosakhutleng;",
+        "Ponong ya kgalalelo, E segofadiwe",
+        "Mme ka phenyo phuthego E tla nna boikhutsong."
+      ],
+      "number": 4
+    }
+  ]
+}

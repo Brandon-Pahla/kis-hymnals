@@ -1,0 +1,35 @@
+{
+  "number": 195,
+  "language": "guz",
+  "title": "195 And'onsi Na Yeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. And'onsi na Yeso nigo ndagende,Karantang'an' and'onsi as'ens'eye;Mogoko tori Monene ataiyo,And'onsi na Yeso tindi nche bweka."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "And'onsi, and'onsi tindi kwoboa,And'onsi na Yeso nigo ndagende."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. And'onsi na Yeso tindi nche bweka,Basani mbantiga Ere noyone;Karanda' ase chinchera chinkong'u,And'onsi nimosasim' Omotoria."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. And'onsi na Yeso ningende ndare,'Mosunte nimoinyore Omonene;Tingosira korwa enchera yaye,And'onsi na Yeso nimenye n'Ere."
+      ],
+      "number": 4
+    }
+  ]
+}

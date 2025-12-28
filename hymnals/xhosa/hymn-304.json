@@ -1,0 +1,61 @@
+{
+  "number": 304,
+  "language": "xh",
+  "title": "304 Ikho Indawo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ikho indawo; Indlu ye-Mvana",
+        "Iyakukhwaza ngokukhazimla.",
+        "Ikho indawo; ngena bo ngena!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yemka imini lemka ilanga,",
+        "Sekumathunzi, selisangana.",
+        "Ikho indawo; ngena bo ngena!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Indlu yomtshato nantsi izala,",
+        "Usavulelwe nguye umyeni.",
+        "Ikho indawo; ngena bo ngena!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Indlu yazala; indlu yovuyo;",
+        "Ngxama khauleza! ayikazali.",
+        "Ikho indawo; ngena bo ngena!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ikho indawo; akukavalwa,",
+        "Lukho uthando; se ukhangelwe.",
+        "Ikho indawo; ngena bo ngena!"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lumka kwavalwa; woba yinina!",
+        "Xa kusithwa, \" ’Ndawo ayikho,\"",
+        "Sekuphelile, sekuvaliwe!"
+      ],
+      "number": 6
+    }
+  ]
+}

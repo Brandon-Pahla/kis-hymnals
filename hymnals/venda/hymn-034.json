@@ -1,0 +1,53 @@
+{
+  "number": 34,
+  "language": "ve",
+  "title": "34 Mulalo U Tshi Nga Mulambo.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:530",
+        "AH:250"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mulalo u nga mulambo muhulu, naho matungu e manzhi,",
+        "Iwe wo mpfunza wa ri: ’Zwo naka, Zwo naka na kha muya wanga’."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Zwo naka...Kha muya...wanga, zwo naka muya wanga"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Musi Sathane a tshi da u nndinga, ha nga zwi koni u nngwana,",
+        "Ngauri Yesu O nthusa A fhaladza, na malofha Awe nga nne."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Arali ndi tshi humbula zwauri, zwothe zwivhi zwe nda ita;",
+        "O zwi ombela-vho tshifhambanoni, muya u livhuwa Murena."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. duvha la vhufhelo nga li tavhanye, Makole a do petiwa;",
+        "A tshi da hu do lila phalaphala, zwo naka na kha muya wanga."
+      ],
+      "number": 5
+    }
+  ]
+}

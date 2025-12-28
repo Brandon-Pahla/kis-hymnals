@@ -1,0 +1,47 @@
+{
+  "number": 176,
+  "language": "nd",
+  "title": "176 Ithemba Elibusisiwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kunethemb’ elihle;",
+        "Li yigugu lona.",
+        "Kalinaki namibhinqo,",
+        "Injabulo yezwe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kukhon’ inkanyezi",
+        "Esus’ ubumnyama;",
+        "U thumele imisebe,",
+        "Yokwahlul’ ithuna."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nal’ izwi lothabo,",
+        "Li yophakamisa,",
+        "Li chith’ ukwesaba konke,",
+        "Li hlebez’ uthando."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Izwi leKhalvari",
+        "Li thi, \"U xolelwe!\"",
+        "Bese ku vel’ ukukhanya,",
+        "Nethemba lezulu."
+      ],
+      "number": 4
+    }
+  ]
+}

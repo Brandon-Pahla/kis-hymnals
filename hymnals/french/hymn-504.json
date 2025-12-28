@@ -1,0 +1,54 @@
+{
+  "number": 504,
+  "language": "fr",
+  "title": "À de nouveaux combats",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "À de nouveaux combats",
+        "Jésus, tu nous appelles,",
+        "Et nous voici fidèles,",
+        "Prêts à suivre tes pas.",
+        "Conduis-nous aux combats :",
+        "Nous sommes tes soldats."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Arme nos bras, arme nos cœurs,",
+        "Et nous serons plus que vainqueurs,",
+        "Et nous serons plus que vainqueurs;",
+        "Arme nos bras, arme nos cœurs."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Arme-nous ô Seigneur !",
+        "De foi, de hardiesse,",
+        "De force, de sagesse,",
+        "D'amour et de ferveur;",
+        "Embrase-nous, Seigneur,",
+        "D'une invincible ardeur."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Luttons, prions, souffrons !",
+        "Nous aurons la victoire;",
+        "La couronne de gloire",
+        "Un jour ceindra nos fronts.",
+        "Luttons, prions, souffrons !",
+        "Bientôt nous règnerons."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "number": 150,
+  "language": "es",
+  "title": "A Cristo doy mi canto",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A Cristo doy mi canto"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Cristo doy mi canto:",
+        "él salva el alma mía,",
+        "me libra del quebranto",
+        "y con amor me guía."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Ensalce pues mi canto",
+        "su sacrosanta historia.",
+        "Es hoy mi anhelo santo",
+        "mirar, Jesús, tu gloria."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jamás dolor ni agravios",
+        "enlutarán mi mente;",
+        "refréscanse mis labios",
+        "con aguas de su fuente."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Su amor me ha bendecido",
+        "y alegra el alma mía;",
+        "su nombre es en mi oído",
+        "dulcísima armonía."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Me gozo en alabarle;",
+        "y cuando deje el suelo,",
+        "por siempre he de exaltarle",
+        "con ángeles del cielo."
+      ],
+      "number": 6
+    }
+  ]
+}

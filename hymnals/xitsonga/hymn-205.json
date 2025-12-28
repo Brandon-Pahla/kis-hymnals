@@ -1,0 +1,20 @@
+{
+  "number": 205,
+  "language": "ts",
+  "title": "205. YESU WA KU VITA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHILE WHISPERS TO YOU",
+        "1. Yesu Wa Ku Vita, We M’endlaswivi, Ha Ku Khongelela Wena Makwerhu,",
+        "Sweswi Hi Wo Nkarhi Wa Ku Makwerhu.",
+        "2.Xana U Na Ndzhwalo Wa Swona Swivi, Yesu Wa Ku Rhwalela Ndzhwalo Waku;",
+        "Ka Yesu U Nga Ka Unga Lahleki Yesu Kunene-nene Wa Ku Kutsula.",
+        "3.Yesu Wa Gongondza Mbilwini Yaku, N’wi Amukele A Ku Katekisa;",
+        "Yesu Wa Ku Vita We M’endlaswivi, Ha Ku Khongelela Wena Makwerhu."
+      ],
+      "number": 1
+    }
+  ]
+}

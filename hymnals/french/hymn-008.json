@@ -1,0 +1,49 @@
+{
+  "number": 8,
+  "language": "fr",
+  "title": "Pour allumer un feu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Pour allumer un feu,",
+        "Il suffit d’une flamme.",
+        "Sa chaleur et son feu",
+        "S’étendent et se propagent.",
+        "L’amour de Dieu est comme un feu",
+        "Quand il est avec toi.",
+        "Par sa chaleur, par sa douceur,",
+        "Tu veux le partager."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quand le printemps est là,",
+        "C’est la vie qui s’éveille,",
+        "Dans les champs, dans les bois,",
+        "Tout commence à renaître.",
+        "L’amour de Dieu est un printemps,",
+        "Quand il est dans ton cœur.",
+        "Par sa fraîcheur, par sa douceur,",
+        "Tu veux le partager."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, je voudrais pour toi",
+        "Partager ce message.",
+        "Partout où tu iras,",
+        "Il sera ton partage.",
+        "Je veux le crier sur les toits,",
+        "Je veux chanter ma joie.",
+        "Le Dieu d’amour est avec moi,",
+        "Je veux le partager."
+      ],
+      "number": 3
+    }
+  ]
+}

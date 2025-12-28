@@ -1,0 +1,59 @@
+{
+  "number": 345,
+  "language": "tum",
+  "title": " 345 Nkhum'manya Uyo Ndam'gomezga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 345 Nkhum'manya Uyo Ndam'gomezga",
+        "C.M.2008"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nkhuzizwa Chiuta kunilongora uchizi,",
+        "Nanga chitchwapi nga ndine wakandiwombola"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nkhum'manya uyo ndamgomezga,",
+        "Ndakhorwa kuti'yo wangatiska",
+        "Kundisunga ine mpaka zuwa La wumaLiro."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nkhuzukuma kuti iyo wakandiponoska",
+        "Kugomezga mazgu ghake kukupa mutende."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Nkhuzukuma Mzimu Mtuwa Kususka kwananga",
+        "Kuvumbula Yesu m'mazgu kuti ndim'gomezge."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Fumu yizenge pa wuli usiku, muhanya",
+        "Kwenda naye mcharu ichi kukumana m'dera."
+      ],
+      "number": 5
+    }
+  ]
+}

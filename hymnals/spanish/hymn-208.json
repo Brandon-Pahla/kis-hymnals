@@ -1,0 +1,62 @@
+{
+  "number": 208,
+  "language": "es",
+  "title": "¡Santa Biblia!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Santa Biblia!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Santa Biblia!, para mí",
+        "eres un tesoro aquí.",
+        "Tú contienes con verdad",
+        "la divina voluntad;",
+        "tú me dices lo que soy,",
+        "de quién vine y a quién voy."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tú reprendes mi dudar;",
+        "tú me exhortas sin cesar.",
+        "Eres faro que a mi pie",
+        "va guiando, por la fe,",
+        "a las fuentes del amor",
+        "del benigno Salvador."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eres la infalible voz",
+        "del Espíritu de Dios,",
+        "que vigor al alma da",
+        "cuando en aflicción está.",
+        "Tú me enseñas a triunfar",
+        "de la muerte y el pecar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Por tu santa letra sé",
+        "que con Cristo reinaré.",
+        "Yo, que tan indigno soy,",
+        "por tu luz al cielo voy.",
+        "¡Santa Biblia!, para mí",
+        "eres un tesoro aquí."
+      ],
+      "number": 5
+    }
+  ]
+}

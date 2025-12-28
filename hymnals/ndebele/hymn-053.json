@@ -1,0 +1,37 @@
+{
+  "number": 53,
+  "language": "nd",
+  "title": "53 Moya oNgcwele, Mholi oThembekayo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wena Moy’ oiNgcwele, Seku kad’ u lindile,",
+        "Ngesandla ma ngi holwe, Mina mhambi ehlane;",
+        "Okhathele a bonge Izwi loduduzayo;",
+        "Nyenyeza, \"Mhambi woza, Ngokuqondis’ ekhaya\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mhlobo Wen’ osizayo, U yathand’ ozamayo,",
+        "U ngasishiyi lapha, Kakhulu si yesaba,",
+        "Nxa izulu liduma, NgakuWe, ngokweyama;",
+        "Nyenyeza, \"Mhambi woza, Ngokuqondis’ ekhaya\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi yethu enkulu, Si qondise phezulu,",
+        "Ngokukhuleka kwethu, Noma amabiz’ ethu;",
+        "A khon’ ezulwini na? Izwi li yaphendula:",
+        "\"Mhambi, mhambi, woza la, Ngokuqondis’ ekhaya\""
+      ],
+      "number": 3
+    }
+  ]
+}

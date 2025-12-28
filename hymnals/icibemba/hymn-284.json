@@ -1,0 +1,35 @@
+{
+  "number": 284,
+  "language": "bem",
+  "title": "284 - ILYO INSHIKU SHILEYA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHILE THE DAYS ARE GOING BY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kulya bantu balecula, Ilyo nshiku shileya;",
+        "Kuli bambi abalefwa, Ilyo nshiku shileya:",
+        "'Fwe tubakoseleshe. Bonse bali mu nshila,",
+        "Tulecite fisuma, Ilyo nshiku shileya.",
+        "CHORUS:",
+        "Shileya (shileya), Shileya (shileya), Shileya (shileya),",
+        "Shileya (shileya), Tulecite fisuma ilyo nshiku shileya",
+        "2. Te nshita iyakwikala, Ilyo nshiku shileya;",
+        "Mpumi yobe ibekeshe, Ilyo nshiku shileya:",
+        "Icalo ca malanda, Macusho no kulila,",
+        "Twafwe bonse balewa, Ilyo nshiku shileya.",
+        "3. Imyando ya kutemwana, Ilyo nshiku shileya,",
+        "Tatuleisakamana, Ilyo nshiku shileya;",
+        "Lelo mbuto shisuma Isho ifwe twabyele,",
+        "Shiletusansamusha. Ilyo nshiku shileya."
+      ],
+      "number": 2
+    }
+  ]
+}

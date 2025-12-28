@@ -1,0 +1,54 @@
+{
+  "number": 23,
+  "language": "ve",
+  "title": "23 Nndadze Zwino Muya Mukhethwa.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:260",
+        "AH:152"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndadze zwino Mutshidzi, nga Muya Wau Mukhethwa,",
+        "Khonani yashu Mufeli, Ida dzhena U dzule."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O Muya, Mukhethwa, ro u lindela rine",
+        "’da kha rine U ri dadze, ’da U dzule kha rine."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi’we U zwi divhaho, U konaho U ndolisa,",
+        "A u shayaho ndi nne, Ida U dzule kha rine"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. A shayaho nungo ndi nne, ndi khotha phanda Hau,",
+        "Ndi Iwe a re na Maanda, ndadze nga Muya Wau."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Fhembeledza mbilu yanga, Yo neta nga mihwalo,",
+        "Mufhembeledzi Mutshidzi, Ida-ha U ndolise."
+      ],
+      "number": 5
+    }
+  ]
+}

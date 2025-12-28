@@ -1,0 +1,35 @@
+{
+  "number": 264,
+  "language": "guz",
+  "title": "264 Nere Ens' Engiya Kobua",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nere ens'engiya kobua,As'okwegena twayerora;Tata nigo atoganyete,Gotoroseria obomenyo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Ns'engiya ---- botambe ------('Ns'engiya bota - botambe)Toumeran'engegu-engiya(botambe)'Ns'engiya ---- botambe ------(Ns'engiya bota---- botambe)Toumeran'engegu engiya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Natotere ari' as'engegu,Amater'amay' abachenu;Ntokoba nobororo rinde,Gose kogania gotimoka."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ase Tat' omuy'ore igoro,Natomobake tomotogie,As'ekeegwa ki'obwanchaniN'ebisio atosesenirie."
+      ],
+      "number": 4
+    }
+  ]
+}

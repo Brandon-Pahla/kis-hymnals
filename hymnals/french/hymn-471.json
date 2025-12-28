@@ -1,0 +1,49 @@
+{
+  "number": 471,
+  "language": "fr",
+  "title": "T'aimer, Jésus, te connaître",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "T'aimer, Jésus, te connaître,",
+        "Se reposer sur ton sein;",
+        "T'avoir pour son roi, son maître,",
+        "Pour son breuvage et son pain;",
+        "Savourer en paix ta grâce;",
+        "De ta mort, puissant Sauveur !",
+        "Goûter la sainte efficace,",
+        "Quelle ineffable douceur !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ô bonheur inexprimable !",
+        "J'ai l'Éternel pour berger;",
+        "Toujours tendre et secourable,",
+        "Son cœur ne saurait changer.",
+        "Dans sa charité suprême,",
+        "Il descendit ici-bas",
+        "Chercher sa brebis qu'il aime,",
+        "Et la prendre dans ses bras."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il donna pour moi sa vie;",
+        "Il me connaît par mon nom;",
+        "À sa table il me convie;",
+        "J'ai ma place en sa maison.",
+        "Il veut bien de ma faiblesse,",
+        "De tous mes maux s'enquérir.",
+        "Qu'il est bon ! il veut sans cesse",
+        "Me pardonner, me guérir."
+      ],
+      "number": 3
+    }
+  ]
+}

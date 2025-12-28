@@ -1,0 +1,57 @@
+{
+  "number": 151,
+  "language": "nso",
+  "title": " 151 NA GO TLO BA LE DINALEDI?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 151 NA GO TLO BA LE DINALEDI?",
+        "АН 355 CH 626",
+        "WILL THERE BE ANY STAR?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke gopola ka fase le botse kudu,",
+        "Ke tlo fihla gona phirimong,",
+        "Ka mogau wa M'phološi, Ke tlo ema,",
+        "A ke tlo rwala dinaledi?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Mphapahlogo o tlo ba le dinaledi,",
+        "Ge letšatši le tlo phirima?",
+        "Ge ke tsoga le bakgethwa ke ya khutšong,",
+        "A ke tlo rwala dinaledi;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka maatl’a Morena ke leke go šoma,",
+        "Go buša matimela gae,",
+        "Ke be le naledi tše di phadimago,",
+        "Ka letšatši la go tumiša;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go tlo ba le thabo ge ke mmona yena,",
+        "Ke bee tše bohlokwa 'naong,",
+        "Go tlo ba monate motseng wa gauta,",
+        "Ge ke wala dinaledi;"
+      ],
+      "number": 5
+    }
+  ]
+}

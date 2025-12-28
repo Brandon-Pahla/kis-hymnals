@@ -1,0 +1,47 @@
+{
+  "number": 324,
+  "language": "tw",
+  "title": "Sɛnea Mete'i Mɛyɛ Wo De",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnea mete'i mɛyɛ Wo de,",
+        "Mmabun Damfo a Wodɔ me;",
+        "Na matew me ho ama Wo:",
+        "Yesu Kristo, maba."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M'anigye anɔpa no mu",
+        "Metuam' bɔhyɛ de me nkwa ama,",
+        "Merentwentwɛn mfa b'ribi nsie,",
+        "Mede me komā aba."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mɛtra Wo hann no mu daa daa,",
+        "Na mayɛ nnwuma pa nkutoo;",
+        "De m'ahoɔden ny'naa asom Wo;",
+        "Enti maba Wo nkyɛn."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Meyɛ 'babun hoɔdenfo yi,",
+        "Mɛyɛ nea metumi biara",
+        "Ama nokwar', trenee, ne Wo:",
+        "Me nkwa Wura, maba."
+      ],
+      "number": 4
+    }
+  ]
+}

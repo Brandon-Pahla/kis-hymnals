@@ -1,0 +1,49 @@
+{
+  "number": 64,
+  "language": "fr",
+  "title": "nMerci pour la croix",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Merci pour la croix, pour le prix payé;",
+        "Car tu t’es donné sans rien retenir.",
+        "Gloire à toi Jésus !",
+        "Gloire à toi Jésus !",
+        "Ils sont pardonnés, nos nombreux péchés,",
+        "Couverts par ton sang, ils sont oubliés.",
+        "Gloire à toi Jésus !",
+        "Gloire à toi Jésus !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "À toi mon amour, tout mon cœur,",
+        "Seigneur, je ne comprendrai jamais pourquoi tu m’aimes.",
+        "Tu es mon bonheur, ma suprême joie,",
+        "Mais voici le plus grand miracle à mes yeux :",
+        "C’est que je fais ta joie."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "C’est pour nous guérir que tu as souffert.",
+        "Tu as pris nos peurs, donné ton amour,",
+        "Gloire à toi Jésus !",
+        "Gloire à toi Jésus !",
+        "Tout est accompli, tu as triomphé;",
+        "Tu peux nous sauver si parfaitement.",
+        "Gloire à toi Jésus !",
+        "Gloire à toi Jésus !",
+        "La lumière se lève dans les ténèbres pour les hommes droits,",
+        "Pour celui qui est miséricordieux, compatissant et juste."
+      ],
+      "number": 3
+    }
+  ]
+}

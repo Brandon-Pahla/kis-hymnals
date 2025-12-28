@@ -1,0 +1,38 @@
+{
+  "number": 38,
+  "language": "xh",
+  "title": "38 Yima E-Dwaleni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Qinisisa ku-Thixo ezweni, Naphakathi kwesiphithiphithi;",
+        "Kuphela kwe-Liw’ elinamandla Ekulweni nesono."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Masim’ e-Dwaleni, Siqin’ e-Dwaleni, Phezu kuka-Kristu yedwa;",
+        "Masinyamezele, Siya kunqaba Nezihlwele etroneni."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qinisela ukulunga nyulu, Ngentliziyo engoyiki lutho;",
+        "Li-Dwala kuphel’ eloyisayo izono zonke apha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Qinisela i-Nyaniso yonke, Kokulungela ke oko konke;",
+        "Li-Dwala kuphel’ elinoxolo Zakudlul’ ezalapha."
+      ],
+      "number": 3
+    }
+  ]
+}

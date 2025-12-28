@@ -1,0 +1,42 @@
+{
+  "number": 87,
+  "language": "guz",
+  "title": "87 O Ng'ai Abagesi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ong'ai abagesi bakogesa,Abant' abegeni korwa ense?'Merem' ekorek' as' ekeene,Onde tatimoka goika eere."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ng'ai abagesi bare bache,Basang' obonen' enka y'erigesa'Ng' oratokonye, kobareta,Bant' abegeni korwa ense."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Gend' as'ebinchera mobarigie,Babe mbange k'abaya mbareoBarigie nchera timotig'onde,Basangererie kogenda 'goro."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Rigesa riarabire And'onsi,'Nse bono neganyete rigesaBagesi mbake, merem'emenge,Abange mbasire rikonyorwa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Bono nchwo n'emeyio mwanyabanto,Mogese embusuro engiyaKor' omoki' Omonene nachiche,Twegokie ner as' enka yaye."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "number": 50,
+  "language": "ve",
+  "title": "50 Hu Na Shango La-vhudi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:428",
+        "AH:432"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Hu na shango la-vhudi-vhudi,",
+        "Ri vho vhona na tshedza tshalo,",
+        "Khotsi-ashu u henengei,",
+        "O ri lugisela vhudzulo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Henengei tadulu ....",
+        "Ri do kuvhangana henengei,",
+        "Henengei tadulu ....",
+        "Ri do kuvhangana henengei."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ri do imbelela dzithendo,",
+        "Nyimbo dza Murena washu-vho",
+        "A hu nga do vha na matungu,",
+        "Khalo shango la u awela."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nga mulandu wa hei mpho,",
+        "Na dziphathutshedzo dza hone,",
+        "Ri do imbelela dzithendo,",
+        "Ha khotsi-ashu wa tadulu."
+      ],
+      "number": 4
+    }
+  ]
+}

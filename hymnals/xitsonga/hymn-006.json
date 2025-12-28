@@ -1,0 +1,26 @@
+{
+  "number": 6,
+  "language": "ts",
+  "title": "6. PFUKANI VAHLAWURIWA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WATCH, YE SAINTS",
+        "1. Pfukani Vahlwawuriwa, Vonan Matimba Ya Tilo, Mi Lumeka To Timboni,",
+        "Mi Rindzile Yona Hosi.",
+        "CHORUS",
+        "Wa Vuya Yesu Kambe, U Ta Fika Na Vukosi; U Ta Fuma Matiko, Wa Vuya Yesu Kambe.",
+        "2. Xitshembiso Xa Yo Hosi, Ku Hi Kutsula Ka Nala;",
+        "Ku Hi Hlantswa Swo Swidyoho, Haxa Hungu Ro Ponisa",
+        "3. Mimfumo Ya Tsekatseka, Ku Na Huwa Ya Makalichi;",
+        "Huwelelani Evhangeli, Loko Ka Ha Ri Na Nkarhi.",
+        "4. Tinxaka Ti Hela Ntamu, Loko Hosi Yi Tshinele,",
+        "Misava Yi Ya Makumu, Huwelelani Hosi Ya Ta.",
+        "5. Vadyohi Nghenani Sweswi, Yesu Hi Ye Muyimeri;",
+        "Ti Nga Hi Hundza Tintswalo, Loko Nyangwa Yi Pfariwa."
+      ],
+      "number": 1
+    }
+  ]
+}

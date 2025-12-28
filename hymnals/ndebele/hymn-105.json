@@ -1,0 +1,39 @@
+{
+  "number": 105,
+  "language": "nd",
+  "title": "105 Onako Ukukhulula",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Memezela ngamandl’ okukhulula Ukukhulula abahloniphayo;",
+        "Emlilweni wokulahlwa kwezoni uJesu u zokhulula ozayo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U nokukhulula U nensindiso;",
+        "Uma, mufowethu, U mkholw’ uJesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A ngakhulula u qinisile na? A khona amandla a ngangisiza?",
+        "Ngi tshele u Krestu owabethelwa A ngangikhulula kuSathani na?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A ngakhulula! Mana isibindi U ngesabi, bambelela kuJesu;",
+        "U ngesabi, bambelela kuJesu Khaul’ ukungabaza, yimi kuYe."
+      ],
+      "number": 4
+    }
+  ]
+}

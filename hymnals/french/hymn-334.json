@@ -1,0 +1,67 @@
+{
+  "number": 334,
+  "language": "fr",
+  "title": "Ta parole, ô Père",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ta parole, ô Père,",
+        "Est la vraie lumière",
+        "Qui conduit nos vies,",
+        "Et nous sanctifie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quand Satan nous guette,",
+        "Ta parole est prête :",
+        "Contre lui se dresse",
+        "Notre forteresse."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Si de noirs nuages",
+        "Forment des orages,",
+        "Cette lampe éclaire",
+        "Notre route entière."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Quelle joie immense,",
+        "Quelle récompense",
+        "Offre ta parole !",
+        "Elle nous console."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Face à la détresse,",
+        "Grande est ta tendresse;",
+        "Ta parole est vie;",
+        "Tu nous fortifies."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seigneur, Dieu fidèle,",
+        "Remplis nous de zèle.",
+        "Viens et nous enseigne.",
+        "Sur ton peuple règne."
+      ],
+      "number": 6
+    }
+  ]
+}

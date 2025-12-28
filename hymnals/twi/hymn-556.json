@@ -1,0 +1,49 @@
+{
+  "number": 556,
+  "language": "tw",
+  "title": "Sɛnea Tete Hotefo No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnea tete hotefo no",
+        "De mmoa ne mfude mu",
+        "Adekan brɛɛ Onyame a",
+        "ɔma nnepa ny'naa no;",
+        "Saa na nnɛ yɛmaW' adekan",
+        "A efi 'sase so,",
+        "Mfuw mu, gua so, ne afie mu;",
+        "Adwen, komam ne nsam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wiase yi frɛ yɛn ma ɔsom",
+        "Ne ɔdɔ ne ɔma;",
+        "Sɛnea yɛde yɛn bra bɛbɔ",
+        "Afɔrč ama Nyame.",
+        "Kristo asafo no frɛ yɛn",
+        "Se yɛbɛmā ayɛ saa:",
+        "Wiase a wɔagye no Kristom,",
+        "'Bra ny'naa ayɛ fof'ro."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Seda ne 'hotoso pa mu,",
+        "Nnɛ yɛde yɛn nnepa",
+        "Ba bɛsom Wo, de Wo dɔ no",
+        "Ma adasamma ny'naa.",
+        "Nyame a Wode Wo ho mae",
+        "Wɔ Wo ba Yesu mu,",
+        "Ky'rɛ sɛnea yɛde yɛn ho ny'naa",
+        "BɛmaW' kosi awiei."
+      ],
+      "number": 3
+    }
+  ]
+}

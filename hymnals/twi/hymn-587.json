@@ -1,0 +1,47 @@
+{
+  "number": 587,
+  "language": "tw",
+  "title": "Kristom Nni Apuei Annà Atɔe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kristom nni apuei anaà atɔe",
+        "'Tifi anaa 'nafo,",
+        "Na mmom 'dɔ ayɔnkofa k'ro",
+        "Wiase afanan ny'naa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ne mu na koma ny'naa benya",
+        "Wɔn nkitadohi pa;",
+        "Ne som ne hama kronkron a",
+        "Ͻka nnipa ny'naa bom."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nuanom 'gyidifo monka mmom",
+        "Sɛnea mote biara;",
+        "Nea ɔsom m'Agya sɛ ba no,",
+        "ɔyɛ me busuani."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Apuei ne atɔe hyia Kristom,",
+        "'Tifi ne 'nafo nso;",
+        "Kristom 'kra ny'naa yɛ k'ro Ne mu,",
+        "Wiase afanan ny'naa."
+      ],
+      "number": 4
+    }
+  ]
+}

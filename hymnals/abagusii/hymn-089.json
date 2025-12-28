@@ -1,0 +1,35 @@
+{
+  "number": 89,
+  "language": "guz",
+  "title": "89 Gosimekr' Amarigo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Gosimeker' amariga,'Mbusur'as' 'obwanchani;Takorosa na korara,Nonyor' obuya bwaye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rigereria ense yonsi,Rigesa ndire ang'e;Ror' endagera yamire,Rigesa ng'ang'e rire."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ngotw' ere korwa Igoro,'Borabu bw'omobaso;Emete yonsi nayame,Ne chinguru chia Nyasae."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Toros' as'ogosimeka.Tobaisa koiroka;Nonyor' emechand' emenge,Nogese n'omochengo."
+      ],
+      "number": 4
+    }
+  ]
+}

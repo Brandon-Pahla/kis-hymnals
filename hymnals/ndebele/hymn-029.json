@@ -1,0 +1,47 @@
+{
+  "number": 29,
+  "language": "nd",
+  "title": "29 Hlala Nami",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ku yeza ukuhlwa, hlala nami, U zuhlale nami, sekuyahlwa",
+        "Lapho abanye sebehluleka, Wena osizayo, hlala nami"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ku shesh’ ukudlula ukuphila, Ubuhle bomhlaba buphi bona?",
+        "Izinto zonke zi yaphenduka, Ongaphendukiyo hlala nami"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yakucela u hlale nami, U ngekho ngohlulwa yizilingo",
+        "U ngezi ‘Nkosi, njengodlulayo, Kodwa ‘Nkosi yami, hlala nami"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Owahlala kade, hlala nami, Ungabongishiya nakancane",
+        "Bekezel’ ububi bami bonke, Yiza-ke u zozakhela kimi"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inhlupheko azinani kimi, Ang’esabi, nxa u khona Wena",
+        "Lu ngaphi u donsi lwakho kufa?, Ngi zokwahlula ngoba u nami"
+      ],
+      "number": 5
+    }
+  ]
+}

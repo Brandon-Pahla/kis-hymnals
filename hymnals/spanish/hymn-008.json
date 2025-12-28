@@ -1,0 +1,65 @@
+{
+  "number": 8,
+  "language": "es",
+  "title": "¡Suenen Dulces Himnos!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Suenen Dulces Himnos!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¡Suenen dulces himnos gratos al Señor",
+        "y óiganse en concierto universal!",
+        "Desde el alto cielo baja el Salvador",
+        "para beneficio del mortal"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Gloria!, ¡gloria sea a nuestro Dios!",
+        "¡Gloria!, sí, cantemos a una voz.",
+        "Y el cantar de gloria que se oyó en Belén,",
+        "Sea nuestro cántico también."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Montes y collados fluyan leche y miel,",
+        "y abundancia esparzan y solaz.",
+        "Gócense los pueblos, gócese Israel,",
+        "que a la tierra viene ya la paz."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Salte, de alegría lleno el corazón,",
+        "la abatida  pobre humanidad;",
+        "Dios se compadece viendo su aflicción",
+        "y le muestra buena voluntad."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vibre en nuestros pechos noble gratitud",
+        "hacia quien nos brinda redención;",
+        "y a Jesús el Cristo, que nos da salud,",
+        "tributemos nuestra adoración"
+      ],
+      "number": 6
+    }
+  ]
+}

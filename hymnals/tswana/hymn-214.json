@@ -1,0 +1,46 @@
+{
+  "number": 214,
+  "language": "tn",
+  "title": "214 A Jeso Wa Tlhokomela?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A Jeso’a Tlhokomela Fa Ke Futsafaletse Kopelo?",
+        "Ke le bothateng, Mo patikegong, Mme ke lapis’wa ke tsela?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "E oa tlhokomela k’itse, O itse futsana jwa me;",
+        "Metlheng ya bothata, Kea itse Mmoloki Wa tlhokomela."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Jeso’a Tlhokomela Fa Tsela Ya Me E Le Lefifi?",
+        "Fa letsatsi le phirima ’sigo, A O nna fa go gaufi?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Jeso’a Tlhokomela Fa Ke Paletswe Ke Thaelo’thata?",
+        "Mo boputsaneng, Ke se na thuso Ke lela bosigo jotlhe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Jeso’a Tlhokomela Fa Ke Re \"Sala Sentle Moratwa,\"",
+        "Pelo’a me e batla go phatloga, A ke lefela? Wa bona?"
+      ],
+      "number": 4
+    }
+  ]
+}

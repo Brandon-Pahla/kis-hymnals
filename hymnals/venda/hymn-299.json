@@ -1,0 +1,55 @@
+{
+  "number": 299,
+  "language": "ve",
+  "title": "299. Dzula Wo Takala Mbilu Yanga",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Dzula wo takala mbilu yanga,",
+        "U si gungule.",
+        "Ngauri Khotsi U di ri vhavhalela nga misi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dzula wo takala tshothe, Ro tangiwa nga tshedza",
+        "Tshavhudi ndilani ya Murena, Kha ri takale tshothe"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ri kungwa nga tshanda tshaWe, tshivhi a tshi ri koni.",
+        "O lindela u ri thusa, Ri songo litsha thuso."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ra litsha u shuma ri pfa zwi tshi ri tungufhadza,",
+        "Ra mbo di swifhalelwa-vho, dakalo la mbo fhela."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Kheli dakalo vhukuma! Ndila yo tshena tshothe,",
+        "Kha ri fune ndayo, ri vhenge vhuvhi, funa vhudi."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": 250,
+  "language": "guz",
+  "title": "250 Otorangeiri' Omogambi Oito",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Otorangeiri' Omogambi oito,Toikarans' as' enyangi yaye;Naki erabe ase tore,Ere kagocha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ere kagocha minto,'Mogambi kagocha,Naki erab' ase tore,Ere kagocha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Nabekerw' obonene bwaye,Egutwa ribaga ri'amagwa;Kororekane ogosikwa,Ere kagocha."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Bun'ekomesa engaki eyio,'Bia bobisi birorekane;Tororekane buna tore,Ere kagocha."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Nagokere abatorigwe,Babegete chianga chi'enyangi;Naki ere buy' as' ababui,Ere kagocha."
+      ],
+      "number": 5
+    }
+  ]
+}

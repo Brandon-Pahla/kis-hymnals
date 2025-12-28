@@ -1,0 +1,22 @@
+{
+  "number": 191,
+  "language": "ts",
+  "title": "191. YESU HI YENA TSHEMBO WANGA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BLESSED ASSURANCE JESUS IS MINE",
+        "1. Yesu Hi Yena Ntshembo Wanga, Xikombiso Xa Nsovo Wa Tilo,",
+        "Ndzi Mudyandzhaka Wa Xikwembu, Ndzi Hlantswiwe Hi Ngati Yakwe.",
+        "CHORUS",
+        "Leri Hi Rona Hungu Ranga, Ndza N’wi Dzunisa Muponisi, Leri Hi Ro Risimu Ranga, Ndza N’wi Dzunisa Muponisi.",
+        "2. Ku Tinyiketa Hi Malwandla, Na Swivono Swi Ta Hetiseka,",
+        "Tintsumi Ti Xika Tilweni, Ti Haxa Nsovo Na Rirhandzu.",
+        "3. Ndzi Ta Tsaka Ka Muponisi, Ndza Tinyiketa, Eku Wiseni,",
+        "Ndzi Langutile Kwale Henhla, Ndzi Tele Ntsako Lowukulu."
+      ],
+      "number": 1
+    }
+  ]
+}

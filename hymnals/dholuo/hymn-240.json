@@ -1,0 +1,35 @@
+{
+  "number": 240,
+  "language": "luo",
+  "title": "240 Singruok Maber Ngang`",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Singruok maber ngang`ni jogo moyie,\"Abiro mapiyomar omo joga;Rituru mabernyaka abiro;Ayulwang` kik teru;timuru kinda.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "\"Rituru maber,nyaka abiro;Namiu pinyruoth;\"Mano singruokne;\"Donji e morna,bed e kom-duong`na,Nasidhnu osimbo;timuru kinda.\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Wamok techewa,waritre galam;Nobi ka jakuoni jo ma ok rite;Ranyisi yangokaka ochiegni,To wakiya ndalo;ber watim kinda."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mano genowamondikie Wachne;Kaka Ruodhwa Yesunobi gi duong`ne;Wachni oriwosingruokne duto;\"Neuru, abiro;timuru kinda.\""
+      ],
+      "number": 4
+    }
+  ]
+}

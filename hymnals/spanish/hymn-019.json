@@ -1,0 +1,50 @@
+{
+  "number": 19,
+  "language": "es",
+  "title": "Padre nuestro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Padre nuestro"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Padre nuestro, Padre nuestro",
+        "te alabamos porque eres",
+        "nuestro Padre.",
+        "Elevamos nuestras mentes",
+        "como signo de tu amor.",
+        "Padre nuestro, Padre nuestro."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesucristo, Jesucristo,",
+        "gracias por tu muerte",
+        "cruenta en el Calvario.",
+        "Elevamos nuestras voces",
+        "como signo de tu amor",
+        "Jesucristo, Jesucristo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Santo Espíritu, Santo Espíritu;",
+        "Llena nuestros corazones",
+        "plenamente.",
+        "Consagramos nuestras vidas",
+        "como signo de amor.",
+        "Santo Espíritu, Santo Espíritu."
+      ],
+      "number": 4
+    }
+  ]
+}

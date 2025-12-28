@@ -1,0 +1,46 @@
+{
+  "number": 121,
+  "language": "tn",
+  "title": "121 Ke Opela Rato Lwa Ga Jeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Opela Rato Lwa Ga Jeso Yo O Nthatang",
+        "O dule magodimong A swa khalefari."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke opela rato lwa Ga Jeso, ke tla mmaka;",
+        "O ntshwetse ke tla tshela; Ke tla opela rato."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pele K’ise Ke Lele, Jeso O La Ntelela;",
+        "Ke ise ke rapele, O la A nthapelela"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Boteng Jwa Lorato; Lefatshe Ga Le Itse",
+        "Gore be tse jaaka tsa Me di ka nna tshweu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ga Ke Na Se Molemo; O Na A Ka Nthata Jang?",
+        "Morena O nkgapile, Nthusa go Go rata."
+      ],
+      "number": 4
+    }
+  ]
+}

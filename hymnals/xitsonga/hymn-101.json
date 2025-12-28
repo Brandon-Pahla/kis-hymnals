@@ -1,0 +1,25 @@
+{
+  "number": 101,
+  "language": "ts",
+  "title": "101. YESU WA VITANA NAMUNTLHA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "JESUS IS TENDERLY CALLING THEE HOME",
+        "1. Yesu Wa Ku Vitana Namuntlha Hi Malwandla, Wa Ku Vita, Hikwala Ka Yini U Ya Kule;",
+        "Ni Rirhandzu Ra Yesu.",
+        "CHORUS",
+        "Wa. . . Ku Vita (Soprano) Wa Ku Vita, Wa Ku Vita Ko. . .na Sweswi, (Soprano) Kona Sweswi Kona Sweswi,",
+        "Wa Ku Vita. . .na, (Soprano) Yesu Wa Vitana, Wa Vitana, Wa Ku Vitana Namuntlha.",
+        "2. Yesu U Vita La Karheleke, Wa Ku Vitana Namuntlha,",
+        "Sweswi N’wi Rhulele Ndzhwalo Waku, A Nge Ku Siyi Wexe.",
+        "3. Sweswi Yesu U Ku Rindzerile, U Nga Hlweri, Tana Sweswi, Na Swidyoho Eka Yesu Tana,",
+        "U Ta Ku Rivalela.",
+        "4. Yesu Wa Khongotela Yingisa, Tana Sweswi, Tana Sweswi,",
+        "Yesu Wa Ti Rhurisa Timbilu, A Ti Tata Hi Ntsako."
+      ],
+      "number": 1
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "number": 191,
+  "language": "es",
+  "title": "La nueva proclamad",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### La nueva proclamad"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La nueva proclamad",
+        "doquier que el hombre esté,",
+        "doquier haya aflicción,",
+        "miserias y dolor;",
+        "cristianos, anunciad",
+        "que el Padre nos envió",
+        "el fiel Consolador."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Al mundo vino ya",
+        "el fiel Consolador",
+        "que Dios nos prometió,",
+        "la prenda de su amor;",
+        "doquier que el hombre esté,",
+        "decid que descendió",
+        "el fiel Consolador."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La noche ya pasó;",
+        "brillando está la luz",
+        "que habrá de disipar",
+        "las sombras del terror;",
+        "es para el pecador",
+        "la aurora celestial",
+        "el fiel Consolador."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Es él quien da salud",
+        "y plena libertad",
+        "a los que encadenó",
+        "el fiero tentador;",
+        "los rotos hierros hoy",
+        "dirán que vino ya",
+        "el fiel Consolador."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mi lengua mueve tú,",
+        "que sepa hablar aquí",
+        "del don que recibí,",
+        "oh grande Dios de amor,",
+        "al renovar en mí",
+        "la imagen celestial",
+        "el fiel Consolador."
+      ],
+      "number": 6
+    }
+  ]
+}

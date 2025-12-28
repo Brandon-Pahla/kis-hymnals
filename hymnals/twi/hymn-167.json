@@ -1,0 +1,49 @@
+{
+  "number": 167,
+  "language": "tw",
+  "title": "Haleluya! To Ma Yesu!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Haleluya! to ma Yesu!",
+        "Tumi ne 'henni wɔ No;",
+        "Haleluya! Nkonim wɔ No,",
+        "Nkonimdi yɛ Ne nko de:",
+        "Tie Sion asomdwoe dwom no,",
+        "Egyigye sɛ aprannaa;",
+        "Yesu de Ne mogya agye",
+        "Yɛn afi aman ny'naa mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Haleluya! Yɛnyɛ nyisiaa,",
+        "Onnyaw yɛn aw'rɛhow mu,",
+        "Haleluya! ɔbɛn yɛn daa;",
+        "Yɛwɔ gyidi, yɛnnyɛ kyim.",
+        "Ewom munumkum gyee No kɔe,",
+        "B're a 'daduanan twaam no;",
+        "So yɛn w'rɛ befi Ne bɔhyɛ:",
+        "'Me ne mo wɔ hɔ daa' no?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Haleluya! Soro aduan'",
+        "Wone yɛn aduan fam ha;",
+        "Haleluya! Nnebɔn'yɛfo",
+        "Guan ba Wo nkyɛn da biara;",
+        "'Dimafo, bɔn'yɛfo Yɔnko,",
+        "Wiase Gyefo, di ma me",
+        "Wɔ nea ahotefo to dwom ɔ",
+        "Ahwehwɛ po no so hɔ."
+      ],
+      "number": 3
+    }
+  ]
+}

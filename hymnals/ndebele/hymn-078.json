@@ -1,0 +1,47 @@
+{
+  "number": 78,
+  "language": "nd",
+  "title": "78 Cingani Abalahlekileyo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Cingani abalahlekileyo,",
+        "Ba nxuseni ngowaYo umsa;",
+        "Ba phen’ amazwi aphilisayo,",
+        "Athi; Wozani kimi namhla."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hambani le! E... zintabeni zonke...",
+        "Nibalethe... a... badukile bonke...m Emhlambi...",
+        "ni wo... Mhlengi, Mhlengi wami... m",
+        "Jesu li Wu...mndlu Wundlu lezoni…"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cingani abalahlekileyo,",
+        "Ba qhubeleni kuY’ uJesu,",
+        "Ba donseni ngendlel’ ebuyayo,",
+        "Yona eya k’uNkulunkulu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lok’ uJesu u se ngi bizile,",
+        "Ngi zolandela ‘mihla yonke;",
+        "Ngi qaphel’ ofayo, nay’ owile,",
+        "Ba qondiswe k’uJesu bonke."
+      ],
+      "number": 4
+    }
+  ]
+}

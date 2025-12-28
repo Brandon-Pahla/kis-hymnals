@@ -1,0 +1,35 @@
+{
+  "number": 61,
+  "language": "luo",
+  "title": "61 Osiep Manade, En Mor Manade",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Osiep manade, en mor manade,Ka iyiengori kuom Ruoth Yesu.En gweth manade, en kuwe manade,Ka iyiengori kuom Ruoth Yesu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yiengri, yiengriKigeno Yesu ma Ruodhi;Yiengri, yiengri, yiengrikuom Yesu ma nyaka chieng`."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Anyalo wuotho e yorno madiny,Ka ayiengora kuom Ruoth Yesu;En yo maber madhiyo kar ngimaKa iyiengori kuom Ruoth Yesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Onge gimoro monego aluorKa ayiengora kuom Ruoth Yesu.Ruoth nobed koda ndalo duto te,Ka ayiengora kuom Ruoth Yesu."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "number": 327,
+  "language": "xh",
+  "title": "327 Ndi’ Ndakuleshesa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndi’ ndakuleshesa lombhali endala Ka-Yesu esesebantwini,",
+        "Ebiz’ abantwana njengathi zimvana, Akwaba ndandikho lomini.",
+        "Akwaba ndaziva izandla entloko, Kwa nokusingathwa ngengalo,",
+        "Nobuso buncuma, esithi ngofefe, Makuze usapho kwa nalo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kusemthandazweni endingasondela, Ndicele ukwabelwa kwa nam;",
+        "Naxa ndimfunile ngenene ngaphantsi, Ndombona ephezulu ngokwam.",
+        "Kulapho alungiselel’ abangcwele, Ndawo yobuhl’ obukhulu;",
+        "Zininzi intsaph’ ezibuthene khona, Zezobukumkani bezulu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuloko intsapho zininzi kakhulu Ezingazivang’ ezindaba;",
+        "Zidungudeliswa, zisebumfameni, Nasebumnyameni bomhlaba. Akwaba zabaz’ ububanzi bekhaya, Nelizw’ elivel’ e-Nkosini,",
+        "Ukuze zivele kumazwe ngamazwe, Zingen’ enyhweben’ ezulwini."
+      ],
+      "number": 3
+    }
+  ]
+}

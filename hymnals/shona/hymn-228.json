@@ -1,0 +1,50 @@
+{
+  "number": 228,
+  "language": "sn",
+  "title": "228 Mukudzenyi Mukudzenyi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mu-ku-dze-nyi! Jesu mununuri wedu!",
+        "Imba nyika nerudoro rwake!",
+        "Mu-ku-dze-nyi Ngirosi huru yembiri;",
+        "Mupe iye simba nerukudzo!",
+        "Jesu mufudzi ne mutungamiriri,",
+        "Ano tungamira nguva dzese."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mu-ku-dze-nyi! Taura ukuru hwake!",
+        "Mu-ku-dze-nyi!’Imba ne rufaro."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mu-ku-dze-nyi! Jesu mununuri wedu!Akatifi-razvitema zvedu;",
+        "Dombo redu, tariro yeruponeso!",
+        "Mu-ku-dze-nyi Jesu, arowerwa ipambiri!",
+        "Akatisunungura,",
+        "Rudo rwake runoshamisa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mu-ku-dze-nyi!, Jesu mununuri wedu!’",
+        "Wekudenga woimba, Hosana!",
+        "Jesu Tenzi,Achazotonga narini;",
+        "Mupe ch’remba, Mupristi naMambo!’",
+        "Kristu ouya achazotonga pasi",
+        "Simba, mbiri zvose ngezva Tenzi."
+      ],
+      "number": 4
+    }
+  ]
+}

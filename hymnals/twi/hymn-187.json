@@ -1,0 +1,56 @@
+{
+  "number": 187,
+  "language": "tw",
+  "title": "Yesu, Nnebɔn'yɛfo Yɔnko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, nnebɔn'yɛfo Yɔnko,",
+        "Yesu, me kra Dɔfo pa;",
+        "Nnamfo pow na 'tamfo haw mč a",
+        "'Gyenkwa no ne me Gyefo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Haleluya! ɔgyefo ni!",
+        "Haleluya! Yɔnko ni!",
+        "ɔgye me, boa me, dɔ me daa",
+        "ɔka me ho kosė awiei."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, mm'rɛwyɛ mu Ahoɔden,",
+        "Ma mimmehinta Ne mu;",
+        "Mehwe ase sɔhwɛ mu a,",
+        "ɔne me nkonimdifo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, aw'rɛhow mu Boafo,",
+        "Sɛ asorɔkye bɔ me,",
+        "Na me koma tɔ baha a,",
+        "ɔkyekye me kra werɛ."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu, mayɛ No me de nnɛ,",
+        "Nea mihia ny'naa wɔ Ne mu;",
+        "ɔde me bɔne akyɛ me,",
+        "ɔwɔ me, na mewɔ No."
+      ],
+      "number": 4
+    }
+  ]
+}

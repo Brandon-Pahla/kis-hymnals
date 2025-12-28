@@ -1,0 +1,37 @@
+{
+  "number": 206,
+  "language": "xh",
+  "title": "206 Wenzeni Wena?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndanikela ngobam Ubom ngenxa yaKho,",
+        "’Kuze wena ube Ngosindisiweyo.",
+        "Ndanikela ubomi bam, Undinike ntoni?",
+        "Ndanikela ubomi bam, Undinike ntoni?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Indlw’ ekhazimlayo KaBaw’ ophezulu,",
+        "Ndayishiya ngenxa Yolo sizi lwaKho.",
+        "Ndakushiya, Ndakushiya Konke ngenxa yaKho;",
+        "Ndakushiya, ngenxa yaKho, Wen’ ushiye ntoni?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndabandezeleka Ngokugqith’ emgceni,",
+        "Ukukhulula Kwisandla sokufa.",
+        "Ndakuthwala, ndakuthwala Konke ngenxa yaKho;",
+        "Ndakuthwala ngenxa yaKho Wen’ uthwala?"
+      ],
+      "number": 3
+    }
+  ]
+}

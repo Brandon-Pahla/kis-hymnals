@@ -1,0 +1,28 @@
+{
+  "number": 210,
+  "language": "ts",
+  "title": "210. I MHAMBA YA XO XIDYOHO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHAT A WONDERFUL SAVIOUR!",
+        "1. I Mhamba Ya Xo Xidyoho, Muponisi Wonghasi;",
+        "Hi Kutsuriwe Hi Nxavo, Hi Yesu Muponisi.",
+        "CHORUS",
+        "U Xi Hlamariso, Wena U Muponisi; U Xihlamariso, Wena Hosi Yanga.",
+        "2. Ngati Yakwe Yo Basisa, Muponisi Wanghasi;",
+        "Wa Hi Hlanganisa Yena, Na Tatana Xikwembu.",
+        "3. U Ndzi Hlantswile Vudyoho A Tengise Na Mbilu;",
+        "Sweswi Hi Yena Mufumi Wa Vutomi Bya Mina.",
+        "4. Eku Hanyeni Ka Mina, U Le Tlhelweni Ranga;",
+        "Masiku Wa Ndzi Tiyisa, Ndleleni Yo Tshembeka.",
+        "5. Ndzi Tshama Ndzi Ri Muhluri, U Ndzi Nyika Matimba;",
+        "Hosi Yesu Muponisi, Ndza Hlula Na Miringo.",
+        "6. Ndzi N’wi Nyiketile Mbilu, Ya Mina Ku Yi Fuma;",
+        "Ndzi Yi Nyike Yesu Ntsena. Hi Yena Muponisi."
+      ],
+      "number": 1
+    }
+  ]
+}

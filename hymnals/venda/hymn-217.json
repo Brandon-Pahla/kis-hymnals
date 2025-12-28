@@ -1,0 +1,55 @@
+{
+  "number": 217,
+  "language": "ve",
+  "title": "217. Tshikumedzwa Tsha Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Lufuno lwa Yesu, Lwe nda do fhiwa lwone!",
+        "Ndi si u dzime tshithu, Murena",
+        "Ndi gwadama khalwo, Ndi ita muano,",
+        "Ndi dinekedza tshothe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi tshilidzi tshau, U a nthabelela-vho,",
+        "Ndi sedza kha Yesu, Nga u tenda,",
+        "Thule tshifhambano, Ndi ambe lufuno.",
+        "Vhutanzi, na thabelo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mphe mbilu ya ngoho, Tshifanyiso tshau,",
+        "U ri u vhonale misi yothe,",
+        "Nyito ya lufuno, Na mbilu tshilidzi",
+        "Zwi nyite, Mulanda wau."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Zwothe zwi re zwanga, Zwe nda fhiwa nga iwe.",
+        "Dakalo, vhutungu, Kha vhutshilo,",
+        "Ndi tshi vhona iwe, Ndi vha kha tshilidzi",
+        "Ndi do u renda tshothe."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 469,
+  "language": "tw",
+  "title": "Ayɔnkofa Ni, S'ro Anigye Ni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ayɔnkofa ni, s'ro anigye ni,",
+        "Bere a metwer' daa basa no;",
+        "Nɔhyira pa ni, 'somdwoe a mewɔ",
+        "Bere a metwer' daa basa no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Metwer' (Yesu) Metwer' (Yesu)",
+        "Mewɔ banbɔ fi haw nyinaam'",
+        "Metwer' (Yesu) Metwer' (Yesu)",
+        "Bere a metwer' daa basa no."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛnea 'kwantu yi mu nante yɛ dɛ",
+        "Bere a metwer' daa basa no;",
+        "Sɛnea 'kwan no mu yɛ hann da biara,",
+        "Bere a metwer' daa basa no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dɛn na ebetumi ayi me hu",
+        "Bere a metwer' daa basa no?",
+        "Mewɔ 'somdwoe pa wɔ m'Aw'rade nkyɛn",
+        "Bere a metwer' daa basa no."
+      ],
+      "number": 3
+    }
+  ]
+}

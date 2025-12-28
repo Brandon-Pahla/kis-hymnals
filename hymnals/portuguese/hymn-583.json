@@ -1,0 +1,26 @@
+{
+  "number": 583,
+  "language": "pt",
+  "title": "Glória a Deus",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Glória a Deus"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Glória ao Pai seja dada,",
+        "Ao Filho e ao Espírito Santo,",
+        "Como era no princípio,",
+        "É hoje e para sempre.",
+        "Glória sem fim!",
+        "Amém, amém!"
+      ],
+      "number": 2
+    }
+  ]
+}

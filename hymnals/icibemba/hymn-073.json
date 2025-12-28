@@ -1,0 +1,35 @@
+{
+  "number": 73,
+  "language": "bem",
+  "title": "73 - TWITWA KU CIMUNO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "CALLED TO THE FEAST"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Twitwa ku cimuno ca Mfumu, Nangu tuli pamo nga bakwe,",
+        "Tukacita nshi munyina Lintu ikesa?",
+        "CHORUS:",
+        "Lintu ikesa mwandi, Lintu ikesa;",
+        "Tukacitanshi munyina Lintu ikesa?",
+        "2. Lintu Yesu Mfumu akesa, Akesa mu Lulumbi lwakwe;",
+        "Tukacitanshi munyina Lintu ikesa?",
+        "3. Fintu fyamunkama fyakale ifi fyonse fikamoneka;",
+        "Mitima yesu kamoneka Lintu ikesa.",
+        "4. Na bonse bafwikwa mushilo Bakamusekelesha cine;",
+        "We munyinane tukaba nshi Lintu ikesa?",
+        "5. Bulanda icibi ku babi, Lintu Mfumu Yesu ikesa;",
+        "Ikesa kubapela bonse, Filambu fyabo.",
+        "6. Mwe Lesa mutupe cikuku, Kuwamishe mitima yesu;",
+        "Elyo tekuti tumutine, Lintu mukesa."
+      ],
+      "number": 2
+    }
+  ]
+}

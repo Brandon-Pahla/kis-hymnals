@@ -1,0 +1,37 @@
+{
+  "number": 85,
+  "language": "xh",
+  "title": "85 Ndivuma Amandla ka-Thixo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Vuma amandla ka-Thixo Adala intaba,",
+        "Nolwandle walwaneka ke, Nesibhakabhaka;",
+        "Ndihlabela ubulumko Obenza ilanga,",
+        "Nenyanga yas’ ebusuku, kunye nenkwenkwezi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hlabela ngofefe kuYe Osipha ukudla;",
+        "Wadala ngelizwi laKhe Konke emhlabeni;",
+        "Sibon’ imimangaliso Macaleni onke,",
+        "Khona apha emhlabeni, Nase zulwini le."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Onke amabali apha Ayangqina ngaYe;",
+        "Amafu nomoya kunye Ahlonel’ uMenzi;",
+        "’Zidalwa ziphila ngaYe, Uya ziphaphela;",
+        "Singabalekela phina? i-Nkosi ikhona."
+      ],
+      "number": 3
+    }
+  ]
+}

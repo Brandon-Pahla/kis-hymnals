@@ -1,0 +1,67 @@
+{
+  "number": 26,
+  "language": "sn",
+  "title": "26 Sezvo Ndiri",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sezvo ndiri, asi Jesu,",
+        "Pam'chinjiko wandifira,",
+        "Nekuti wandidaidza,",
+        "Nyenye yaMwari, ndauya"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sezvo ndiri, handiyedzi,",
+        "Moyo wangu kuchenesa,",
+        "Asi munondiyeresa,",
+        "Nyenye yaMwari, ndauya"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sezvo ndiri, ndatambudzwa,",
+        "Nekutya nekupokana,",
+        "Zvepasi zvinondiyedza,",
+        "Nyenye yaMwari, ndauya"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sezvo ndiri, ndinoshaya,",
+        "Ndine hurombo, hwebofu,",
+        "Asi zvese munondipa,",
+        "Nyenye yaMwari, ndauya"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sezvo ndiri, ndinouya,",
+        "Kuti mundisunungure",
+        "Ngekuti ndinodawira,",
+        "Nyenye yaMwari, ndauya"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sezvo ndiri, rudo rwako,",
+        "Rwandikurira mumoyo,",
+        "Ndiri wako wega zvino,",
+        "Nyenye yaMwari ndauya"
+      ],
+      "number": 6
+    }
+  ]
+}

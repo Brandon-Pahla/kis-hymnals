@@ -1,0 +1,55 @@
+{
+  "number": 102,
+  "language": "ve",
+  "title": "102. Mu Vulele A Dzhene",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.Mueni munangoni, kha dzhene;",
+        "Ndi kale o lindela, kha dzhene",
+        "Mueni A songo huma, kha dzhene ndi Mukhethwa,",
+        "Yesu murwa wa Khotsi, kha dzhene."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Muneye mbilu yau, kha dzhene;",
+        "Nangani Ene zwino, kha dzhene;",
+        "Khoyo e munangoni, Ri do newa dakalo;",
+        "Rendani dzina lawe, kha dzhene."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ipfa a tshi u vhidza, kha dzhene;",
+        "Mutende zwino Yesu, kha dzhene",
+        "A saathu u nala, Yesu u do u tshidza,",
+        "Rabela dzina lawe, kha dzhene."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. U vhidzwa nga Mudzimu, kha dzhene;",
+        "Mutanganedze zwino, kha dzhene",
+        "U do hangwelwa zwivhi, Uya nga hu sa fheli;",
+        "A u isa tadulu, kha dzhene."
+      ],
+      "number": 5
+    }
+  ]
+}

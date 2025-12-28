@@ -1,0 +1,43 @@
+{
+  "number": 180,
+  "language": "fr",
+  "title": "Peuple de Dieu, prépare-toi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Peuple de Dieu, prépare-toi, viens rencontrer ton Dieu.",
+        "Il t’a saisi ainsi qu'un tison arraché du feu.",
+        "Voici, le Seigneur a formé les montagnes,",
+        "Il a créé l'univers.",
+        "Il vient dévoiler à l'homme ses pensées,",
+        "Son nom est Dieu, l'Éternel."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Non par la force, mais par l'Esprit tu viendras à moi.",
+        "Non par puissance, mais par l'Esprit tu te conduiras.",
+        "Parole du Seigneur, Dieu de l'univers, oui",
+        "Tout est par ton Esprit Saint.",
+        "C'est toi seul qui peut renverser les montagnes,",
+        "Tout est par ton Esprit Saint."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chante la fête, chante la joie du pardon divin.",
+        "Et, tous mes torts, efface les donc, prince de la paix.",
+        "Mon Dieu, viens, affermis-moi par ton Saint Esprit,",
+        "Recrée un cœur purifié.",
+        "Seigneur, renouvelle dans ma vie ton souffle,",
+        "Rends-moi la joie du salut."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 125,
+  "language": "bem",
+  "title": "125 - AKASUBA PA LUPILI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE IS SUNLIGHT IN THE HEART"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Akasuba pa lupili. Pamo na pa cimana;",
+        "Ulubuto lwa kasuba, Lulapwa lulaleka,",
+        "Lelo lubuto lwa cine. Lwaisulo mutima;",
+        "Pantu umwikala Yesu, Mulabuta fye lyonse.",
+        "CHORUS:",
+        "Ulubuto ulwawamisha. Lwamu mutima wandi,",
+        "Cimwemwe ica kwa Yesu, Lubuto ku mutima.",
+        "2. Naposa bulanda bwandi. Nge nsalu yabipisha,",
+        "Nabumfwika ubuseko, Mutima wandi wanga;",
+        "Na mu mushi wa lulumbi, Untu anteyanisha,",
+        "Mutima wandi ulanga, Nakulamukonka pe.",
+        "3. Mfumu yandi, walinshita, Na fyonse fyandi fyobe;",
+        "Lubuto ulwa kutemwa, Lubuto pali ine.",
+        "Namu mushi wa lulumbi, Untu anteyanisha;",
+        "Mutima wandi ulanga, Nakulamukonka pe."
+      ],
+      "number": 2
+    }
+  ]
+}

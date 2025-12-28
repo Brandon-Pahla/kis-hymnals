@@ -1,0 +1,52 @@
+{
+  "number": 221,
+  "language": "ve",
+  "title": "221. Tshiivha Tsha Lila Ndi Humbula Galilea",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tshiivha tshi (tshiivha tshi) tshi vho lila (tshi vho lila),",
+        "Ndi mbo di pfa (ndi mbo di pfa) ndo takala (ndo takala);",
+        "Nda humbula (nda humbula) Murena vho (Murena vho),",
+        "Nda humbula (nda humbula) na Galili (na Galili)."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Galilea Mudifhoni! He Yesu A hu funesa;",
+        "Galili li titimaho: Ida ndi pfe nyimbo dzau"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Afho hu na (afho hu na) madi manzhi (madi manzhi),",
+        "Na zwinoni (na zwinoni) zwo livhuha (zwo livhuha);",
+        "Zwsi tshi renda (zwi tshi renda) na nga duvha (na nga duvha),",
+        "Na nga thendo (na ngathendo) dza Galili (dza Galili)."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndi tshi vhala (ndi tshi vhala) hafhu fhala (hafhu fhala)",
+        "Nga O-tshimbi (nga O-tshimbi) laho lwanzhe (laho lwanzhe)",
+        "Ndi mbo di zwi (ndi mbo di zwi) funa tshothe (funa tshothe),",
+        "U Mu tevhe-(U Mu tevhe-) le Galili (le Galili)."
+      ],
+      "number": 4
+    }
+  ]
+}

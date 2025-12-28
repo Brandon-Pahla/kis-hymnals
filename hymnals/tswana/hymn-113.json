@@ -1,0 +1,56 @@
+{
+  "number": 113,
+  "language": "tn",
+  "title": "113 Ka Bonolo Jeso O Ntse A Bitsa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ka Bonolo Jeso O Ntse A Bitsa,",
+        "O bitsa wena le nna;",
+        "O letile mo Mojakong wa pelo,",
+        "Letile wena le nna."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tlang gae, tlang gae,",
+        "Ba lo lapileng tlang gae;",
+        "Ka bonolo Jeso O ntse A bitsa,",
+        "O bitsa, tla molefi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Ka Nnelang Fa Jeso A Rapela,",
+        "A rapelela rona;",
+        "Re ka diegelang g’utlwa tshegofatso,",
+        "Tshegofatso ya rona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nako E Akofile E Ya Feta,",
+        "E feta wena le nna;",
+        "Meruti e tla le sigo jwa loso,",
+        "Di tlela wena le nna."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gopola Ka Rato Lwa Tsholofetso,",
+        "Tsholofetso go rona;",
+        "Lefa re leofile O boitshwarelo,",
+        "Boitshwarelo go rona."
+      ],
+      "number": 4
+    }
+  ]
+}

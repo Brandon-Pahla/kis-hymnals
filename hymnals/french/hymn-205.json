@@ -1,0 +1,17 @@
+{
+  "number": 205,
+  "language": "fr",
+  "title": "Gloire soit au Père",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Gloire soit au Père, gloire au Fils,",
+        "Gloire au Saint-Esprit,",
+        "Aux siècles des siècles,",
+        "Amen !"
+      ],
+      "number": 1
+    }
+  ]
+}

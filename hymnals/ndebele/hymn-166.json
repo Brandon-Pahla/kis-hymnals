@@ -1,0 +1,55 @@
+{
+  "number": 166,
+  "language": "nd",
+  "title": "166 Dwala Laphakade",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Wahleshulelwa mina,",
+        "Dwala eliphakade!",
+        "Ma ngi zifihle kuWe,",
+        "Ngi gezwe egazini",
+        "Ngelashwe sonk’ isono,",
+        "Ngi sinde engozini"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi ngesebenze lutho,",
+        "Lokukujabulisa",
+        "Noma se ngi shiseka,",
+        "Ngi khala, ngi ngathuli!",
+        "Kungehlawule ‘sono",
+        "NguWe osindisayo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A ngi kaphithi lutho,",
+        "Ngi guq’ es’phambanweni;",
+        "Ngi nqunu, ma ngembeswe,",
+        "Ngi bheke umsa wAkho;",
+        "Ngi sondel’ emthonjeni,",
+        "Msindisi ma ngi hlanzwe"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nanxa se ngi layela,",
+        "Se ngi cimeza ngi fa",
+        "Se ngi shon’ emnyameni,",
+        "Ngi lindel’ ukwahlulwa;",
+        "Dwal’ eladatshulwayo,",
+        "Ma ngi zifihle kuWe"
+      ],
+      "number": 4
+    }
+  ]
+}

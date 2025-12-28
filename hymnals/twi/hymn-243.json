@@ -1,0 +1,37 @@
+{
+  "number": 243,
+  "language": "tw",
+  "title": "Anuonyam Ne 'Somdwoe Hen'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Anuonyam ne 'somdwoe Hen' Mɛdɔ Wo daa;",
+        "Na saa dɔ no rensa da, Mɛma Wo so;",
+        "Woayɛ m'abisade no, Woatie me nne,",
+        "Wode dɔ hwɛɛ me nnwuma, Woagye me nkwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mede m'ahoɔden nyinaa Mɛto Wo dwom;",
+        "M'akomam' nnepa nyinaa Mede brɛ Wo;",
+        "Me bɔne buu me fɔ no. Wode kyɛɛ me;",
+        "Ankonam mesu frɛ Wō a Wogye me so."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nnawɔtwe mu da biara, Meyi W'ayɛ.",
+        "Mede me koma nyinaa, Bɛma Wo so,",
+        "Esua na ɛnsom bo sɛ Wobɛtra mu.",
+        "Mmeresanten mpo yɛ tia Ma W'ayeyi.\","
+      ],
+      "number": 3
+    }
+  ]
+}

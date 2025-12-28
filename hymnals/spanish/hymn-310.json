@@ -1,0 +1,55 @@
+{
+  "number": 310,
+  "language": "es",
+  "title": "Cristo, centro de mi vida",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Cristo, centro de mi vida"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo, centro de mi vida,",
+        "Salvador en aflicción;",
+        "nadie viene a ti en vano,",
+        "tu paciencia es sin fin."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Del abismo líbrame,",
+        "a tu lado quiero estar",
+        "y por la eternidad",
+        "alabarte sin cesar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo, Redentor eterno,",
+        "limpia nuestro corazón;",
+        "que podamos perdonarnos,",
+        "las ofensas olvidar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cristo, sobre todo reinas,",
+        "eternal es tu poder.",
+        "Infinita es tu gracia",
+        "para todo pecador."
+      ],
+      "number": 5
+    }
+  ]
+}

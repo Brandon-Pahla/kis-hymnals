@@ -1,0 +1,63 @@
+{
+  "number": 366,
+  "language": "fr",
+  "title": "Qu'elle est pure et belle",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Qu'elle est pure et belle,",
+        "Au matin des ans,",
+        "L'amitié fidèle,",
+        "La fleur du printemps !",
+        "Ô sainte alliance",
+        "Où l'on a pour loi",
+        "La même espérance",
+        "Et la même foi !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Joyeuse auréole,",
+        "Aux jours de bonheur,",
+        "L'amitié console,",
+        "Quand vient la douleur,",
+        "À l'heure où tout semble",
+        "Défaillir en nous,",
+        "Qu'il fait bon ensemble,",
+        "Ployer les genoux !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Celui qui s'avance,",
+        "Tout seul ici-bas",
+        "Reste sans défense,",
+        "Tombe à chaque pas.",
+        "Mais l'orage même",
+        "Rend les vrais amis",
+        "Ô grâce suprême !",
+        "Plus forts, plus unis."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Au cours de la vie,",
+        "Amis, gardons-la,",
+        "L'amitié bénie",
+        "Qui nous gardera.",
+        "Amitié céleste,",
+        "Éclose au printemps,",
+        "Que ta fleur nous reste",
+        "Jusqu'au soir des ans !"
+      ],
+      "number": 4
+    }
+  ]
+}

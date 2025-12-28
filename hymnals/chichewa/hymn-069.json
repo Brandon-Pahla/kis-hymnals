@@ -1,0 +1,30 @@
+{
+  "number": 69,
+  "language": "ny",
+  "title": "69 - Tidzakhalitsa Pa Kasupe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WE’LL TARRY BY THE LIVING WATERS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Tidzakhalitsa pa kasupe, Wa madzi akewo.",
+        "Kumene Yesu adikira, Kupatsa moyowo.",
+        "CHORUS:",
+        "Tidzakhalitsa pa kasupe (wathu),",
+        "’Dzakhalitsa pa kasupe (wathu),",
+        "’Dzakhalitsa pa kasupe (wathu).",
+        "Pali madzi a moyo.",
+        "2. Tikatopatu ndi ulendo, Tidzapumulatu,",
+        "Pa mtsinje wopambana yonse, Wokondwakondwatu.",
+        "3. Idzani nonsenu kwa Khristu, Mudzamwe madziwo,",
+        "Adzatimwetsa kwa ulere, Kasupe wakeyo."
+      ]
+    }
+  ]
+}

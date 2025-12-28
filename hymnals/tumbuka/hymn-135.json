@@ -1,0 +1,66 @@
+{
+  "number": 135,
+  "language": "tum",
+  "title": " 135 Nkhumutemwani Mwe Fum",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 135 Nkhumutemwani Mwe Fum",
+        "I LOVE THEE BETTER, LORD"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nkhumutemwani 'mwe Fumu",
+        "Kwakuruska vyose,",
+        "Chifukwa mwandipa ine",
+        "Mutende 'wo ngwinu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "WandavumbuLe 'mwe vyose (mwe vyose)",
+        "Vya uchizi wake",
+        "WandavumbuLe 'mwe vyose ('mwe vyose).",
+        "Wanditozga ine ('mwe ine)."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mukhale pafupi nane Kwakuruska wose, Nkhum'ghanaghanani imwe,",
+        "Kwakuruska vyose."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mwandikondweska 'mwe Fumu,",
+        "Nkhusekera nadi,",
+        "Kwambura uchizi winu,",
+        "Ntha nditi ndikondwe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "A Fumu mponoski wane,",
+        "Para mkwenda nane,",
+        "Mazuwa ghose pacharu,",
+        "Ndisangwenge nadi."
+      ],
+      "number": 5
+    }
+  ]
+}

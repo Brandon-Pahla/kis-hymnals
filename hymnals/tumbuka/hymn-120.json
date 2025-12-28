@@ -1,0 +1,49 @@
+{
+  "number": 120,
+  "language": "tum",
+  "title": " 120 Wadada Nkhujipereka",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 120 Wadada Nkhujipereka",
+        "I DO BELIEVE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Wadada nkhujipereka wovwiri ndilije,",
+        "Para mwandilegherezga nditi ndirute nkhu?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nkhugomezga nadi sono Yesu mkandifwira,",
+        "Mukathiska ndopa zinu kundithaska ine."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Nkhugomezga mwana winu mrongore nkhongono,",
+        "Makhumbiro ghane ghose mundigowokere."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Mwene chigomezgo ndimwe ndilawiske kwinu,",
+        "M'ndipe chawanangwa ichi muzire ndingafwa."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "number": 129,
+  "language": "sn",
+  "title": "129 Jesu Huya Utikomborere",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu imi mati \"Pakaungana, Wawiri, watatu, munozowapo\"",
+        "Tinomudaira, Tomunamata; Jesu uyai muzotikomborera."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu u-ya uzo tikombo-rere Je-su kombo-rera, Ugare petyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je-su makasangana nesu kare Asi iwa ne-su nekumagumo",
+        "Uya Muponesi, mutipe tsitsi; Tenzi tigashire; tino namata."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ita mazwi edu amuimbire Inzwa zvikumbiro zvedu kunemwi;",
+        "Simbisa rudairo rwedu kunemwi, Chenesai rudo nzira ijeke."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 153,
+  "language": "nso",
+  "title": " 153 LEHONO FELA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 153 LEHONO FELA",
+        "AH 270 CH 604",
+        "O JUST FOR TODAY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena ga ke rapelele ka moso,",
+        "Nthibe molabeng wa sebe lehono,",
+        "A ke se bolele ke sa nagana,",
+        "Bea selebeledi pounameng tša ka,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nka šoma ka pelotshekegi ke rapela,",
+        "Ke tlo ikokobetša lehono,",
+        "Phakiša go mpha maatla ke go hlomphe,",
+        "Ke dumele go ineela gonabjale;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mme le ge bophelo bjaka bo ka feta,",
+        "Ditshepišo tša 'Go di nthekge,",
+        "Mme tša ka moso a ke di rapelele,",
+        "Nthekge, nkgoge, Morena, lehono;"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 647,
+  "language": "tw",
+  "title": "M'aniwa Ahu Aw'rade",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "M'aniwa ahu Aw'rade",
+        "Mmae no ho anuonyam no;",
+        "ɔretiatia nsakyiamoa so",
+        "Nea wɔasie 'bufuw boben';",
+        "Wagyaa Ne nkrantɛ nnamnam no,",
+        "Aprannaa huhu no mu;",
+        "Ne nokwar' nam rekɔ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "'Nuonyam, 'nuonyam, Haleluya!",
+        "'Nuonyam, 'nuonyam, Haleluya!",
+        "'Nuonyam, 'nuonyam, Haleluya!",
+        "Ne nokwar' nam rekɔ."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wahyɛn 'robɛnto a emu",
+        "Nni akyirisan biara;",
+        "ɔresɔne koma ny'naa so,",
+        "N'atemmu agua n' anim;",
+        "O, me kra yɛ ntɛm tie No na",
+        "Me nan nso nni ah'rusi!",
+        "Yɛn Nyame nam rekɔ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sukookoo ahoɔfɛ mu na",
+        "Wɔwoo Kristo pō agya hɔ,",
+        "Na anuonyam a ɛsakra",
+        "Yɛn tebea wɔ Ne kokom;",
+        "Sɛ Ne wu tew nnipa ho no",
+        "Momma yɛn bra nnye nnipa!",
+        "B'rč a Nyame nam rekɔ."
+      ],
+      "number": 3
+    }
+  ]
+}

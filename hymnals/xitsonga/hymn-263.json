@@ -1,0 +1,27 @@
+{
+  "number": 263,
+  "language": "ts",
+  "title": "263. MATSALWA YA KHALE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BRING YE ALL THE TITHES",
+        "1. Matsalwa Ya Khale Ya Yingiseni, Vuyisani Xiphemu Xa Vukhume;",
+        "A Xi Tshamise Xi Hlawulekile, Tshembha Switshembhiso Swakwe.",
+        "CHORUS",
+        "Vuyisan Xiphemu Xa Vukhume, Xikwembu Xi Ri Ndzi Ringeni; Ndzi Ta Mi Nisela Minkateko,",
+        "Mi Ta Pfumala Ndhawu Ya Ku Yi Veka.",
+        "2. Hi Matimba Ya Moya Wo Kwetsima, Vuyisani Xiphemu Xa Vukhume; Tirhisanani Na Yena Hi Masiku,",
+        "Yena A Mi Katekisa.",
+        "3. Xi Kona Lexi Tsemaka Vuxaka, Xikarhi Ka Wena Na Xikwembu;",
+        "Swiletelo Swi Vekiwe Matshalwen, Ku Vuyisa Byo Vukhume.",
+        "4. Sweswi A Hi N’wi Kurisen Timbilwin, Hi Endla Xikwembu Hosi Yerhu;",
+        "Khomelela U Nga Tshiki Switshembiso, Xikwembu Xi Nge Ku Xisi.",
+        "5. Matilo Ya Tlangela Ku Dzunisa, Loko Mi Tlherisile Vukhume;",
+        "Timbilwin Ku Ta Pfuma Aleluya, Loko Hi Hiwa Nkateko"
+      ],
+      "number": 1
+    }
+  ]
+}

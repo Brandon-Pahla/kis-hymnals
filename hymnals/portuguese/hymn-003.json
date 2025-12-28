@@ -1,0 +1,44 @@
+{
+  "number": 3,
+  "language": "pt",
+  "title": "O Deus Eterno Reina",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### O Deus Eterno Reina"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "0 Deus eterno reina no monte de Sião.",
+        "Chegai-vos ante o trono Seu em santa adoração.",
+        "Trazei, humildemente, o vosso coração",
+        "Ao Deus eterno e Rei dos reis, Senhor da redenção."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "0 Deus eterno reina no monte de Sião.",
+        "Os astros na amplidão sem fim, sustenta com a mão.",
+        "A Ele seja a honra, a glória e o poder,",
+        "E ascendam os louvores mil ao mais sublime Ser."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "0 Deus eterno reina no monte de Sião.",
+        "Entrai no santo templo Seu, buscai o Seu perdão.",
+        "Buscando Sua face, a paz encontrareis;",
+        "E reine para sempre, enfim, o eterno Rei dos reis."
+      ],
+      "number": 4
+    }
+  ]
+}

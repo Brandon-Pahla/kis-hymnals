@@ -1,0 +1,47 @@
+{
+  "number": 165,
+  "language": "nd",
+  "title": "165 Ngi Yakuthanda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yakuthanda Wena, Nkosi yami",
+        "Ngi yakuthanda we, Msindisi wami",
+        "Ngi yakuthanda, U yazike, Wena",
+        "Kodw’ izenzo zi zobonakaliswa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngi yathaba, Ngi yathaba kakhulu!",
+        "Ukuthaba kwami okungapheli",
+        "Ngi lindel’ imfuyo yami khonale",
+        "Kanye noJesu nabangcwele bAkhe"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu, kanye naWe ngi busisiwe",
+        "Ukuphumula kwami makwandise",
+        "Lu yingoma yami uthando lwAkho",
+        "Ngi yajabuliswa isisa sAkho"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ng’ubani onje ngoMsindisi wami?",
+        "U moyizela engithanda nami",
+        "Ngi zomdumisa ngezingom’ ezinhle",
+        "Nemifula yomusa i ngehlele"
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "number": 47,
+  "language": "st",
+  "title": "47 Nokeng Ea Jordane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nokeng ea Jordan ke eme, ke lahlela leihlo;",
+        "Kana e ntle ea thabo, moo letlotlo le leng teng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Re tla phomola lefats’eng le letle....(le letle)",
+        "Botaleng mane mose lebopong,",
+        "Re bina pina ea Moshe le Konyana,",
+        "Re be le Jesu hona teng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lithoteng tse hole-hole, moo ho leng ho benya;",
+        "Jesu letsatsi Oa busa, O leleka bosiu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tla finyella neng botleng, ke hlohonolofatsoe;",
+        "Ke tla bona neng Ntate teng, ke lule ’musong oa Hae."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thabo e tletse ka pelong, ha nka ke ka lula;",
+        "Maqhubung a Jordane ke ts’ela ke sa ts’abe."
+      ],
+      "number": 4
+    }
+  ]
+}

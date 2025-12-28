@@ -1,0 +1,38 @@
+{
+  "number": 79,
+  "language": "xh",
+  "title": "79 Ukubizwa Kwa Bavuni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Amasimi alindile, Amhlophe ngamazimba;",
+        "Nakude siwabonile, Nase khaya anjalo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nkosi yokuvuna yiva, NguWe qha onganceda;",
+        "Bathume abokuvuna, Ihlobo liyadlula."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bathume kwasekuseni, Namalanga bangemi;",
+        "Nokuba kuse mnyameni, Mabavun’ entsimini."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wen’ uthunywayo yi-Nkosi Vuna ungaKhohlisi;",
+        "’Moya wakhe ngu-Mphathisi Koyayo ku-Msindisi."
+      ],
+      "number": 3
+    }
+  ]
+}

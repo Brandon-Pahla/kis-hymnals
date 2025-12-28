@@ -1,0 +1,43 @@
+{
+  "number": 202,
+  "language": "sn",
+  "title": "202 Jesu, Mponesi Nditungamire",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi nditungamire,",
+        "Mukati mezviyedzo",
+        "Mananda andi bata,",
+        "Ndimwi dombo ndiwige",
+        "Ndimi mutungamiri,",
+        "Tenzi nditungamire"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Semwana onyaradzwa,",
+        "Munga nyaradze, nyanza;",
+        "Mananda anomudzwa,",
+        "Kana mati nyarara!;",
+        "Imwi Tenzi wenyanza,",
+        "Tenzi nditungamire"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Apo ndasvika nyanza,",
+        "Mananda ondityisa",
+        "Handichinazororo,",
+        "Ndotsamira kunemi",
+        "Ngandinzwe imimoti,",
+        "Ndinokutungamira"
+      ],
+      "number": 3
+    }
+  ]
+}

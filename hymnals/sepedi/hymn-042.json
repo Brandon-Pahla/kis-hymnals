@@ -1,0 +1,57 @@
+{
+  "number": 42,
+  "language": "nso",
+  "title": " 42 LE BAGWERA RE KA SE SA LAELANA.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 42 LE BAGWERA RE KA SE SA LAELANA",
+        "CS 860",
+        "WITH FRIENDS ON EARTH"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ge re kopana le bagwera",
+        "go tlala lethabo;",
+        "Eupša go tla manyami",
+        "ge šetše re tlo kgaogana;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušološo:",
+        "Godimong ga go kgaoganwe,",
+        "Ga go laelanwe;",
+        "Go lona fase le botse,",
+        "Gaeng la bakgethwa;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re thaba kudu ge re bona,",
+        "Bana bešo mokhwi;",
+        "Eupša re sa goletše",
+        "lona fase la lethabo;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mantšu a go re šala botse!",
+        "A se sa bolelwa;",
+        "Eupša dikoša tše dikgethwa",
+        "di tlo go opelwa;"
+      ],
+      "number": 5
+    }
+  ]
+}

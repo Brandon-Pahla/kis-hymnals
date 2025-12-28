@@ -1,0 +1,56 @@
+{
+  "number": 511,
+  "language": "tw",
+  "title": "Minnim Nea 'Nti Nyame Ayi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Minnim nea 'nti Nyame ayi",
+        "Ne dom akyerɛ me,",
+        "Nea 'nti me a memfata yi,",
+        "Kristo de dɔ gyee me."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mmom, minim nea magye No adi,",
+        "Na m'ani da so sɛ ɔbetumi",
+        "De nea mede ahyɛ Ne nsa",
+        "Asie 'kosi da no mu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Minnim nea 'nti a ɔma me",
+        "ɔgye yi ho gyidi,",
+        "Ne nea 'nti N'asɛm nom' gyidi",
+        "De asomdwoe ma me."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Minnim sɛnea Honhom no ba",
+        "Beyi atɛn bɔn' ho,",
+        "Fa 'sɛm no so yi Yesu ky'rɛ",
+        "De Ne mu gyidi ma."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Minnim dɔn a 'Wura bɛba,",
+        "Anadwo annā awia,",
+        "'Naasɛ me ne No bɛnantew",
+        "Anaa mehyia No wim."
+      ],
+      "number": 4
+    }
+  ]
+}

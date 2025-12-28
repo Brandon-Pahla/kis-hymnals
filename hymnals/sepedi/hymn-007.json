@@ -1,0 +1,57 @@
+{
+  "number": 7,
+  "language": "nso",
+  "title": " 7 GE A FIHLA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 7 GE A FIHLA",
+        "AH 449 CH 418",
+        "WHEN HE COMETH"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ge Bets 'a fihlile Yena,",
+        "Go phutha ba Gagwe;",
+        "Ba bohlokwa e le ruri,",
+        "Go ba baratwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pušulošo",
+        "Bjalo ka dinaledi,",
+        "Phadimo mphapahlogong",
+        "Ka botse ba phadime,",
+        "Ba botsefale."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O llo go re phutha bohle,",
+        "Re le ba bohlokwa",
+        "Re tlo kganya ka bosweu,",
+        "Re le baratwa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bananyana ba bannyane,",
+        "Ba rata M'phološi;",
+        "Ba bohlokwa e le ruri,",
+        "Go Jeso M'phološi."
+      ],
+      "number": 5
+    }
+  ]
+}

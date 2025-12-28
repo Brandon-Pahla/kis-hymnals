@@ -1,0 +1,56 @@
+{
+  "number": 537,
+  "language": "tw",
+  "title": "ɔky'rɛ Me Kwan! Anigyesɛm",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ɔky'rɛ me kwan! Anigyesɛm!",
+        "O, nsɛm a soro dɛw wɔ mu!",
+        "Nea meyɛ ne nea mekɔ ny'naa,",
+        "Nyame nsa da so ky'rɛ me kwan."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "ɔky'rɛ me kwan, ɔky'rɛ me kwan,",
+        "N'ankasa nsa n'ɛky'rɛ me kwan;",
+        "Mɛyɛ Ne kyidifo ampa,",
+        "'Fisɛ Nyame nsa ky'rɛ me kwan."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tɔ da bi a, sum kabii mu,",
+        "Tɔ da bi a, Eden nhw'ren mu;",
+        "Nsu tɛm dinn oo, ahum tu oo,",
+        "Ne nsa no da so ky'rɛ me kwan."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Wura mɛsɔ Wo nsa no mu,",
+        "Na merennwiinwii, nni nkɔmmɔ;",
+        "Mɛyɛ komm ade nyinaa mu,",
+        "'Fisɛ Nyame nsa ky'rɛ me kwan."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ miwie me fam' ha 'dwuma,",
+        "Sɛ Wo dom nti midi nkonim",
+        "Owu nsam mpo, merensuro,",
+        "Yordan mu, Nyame ky'rɛ me kwan."
+      ],
+      "number": 4
+    }
+  ]
+}

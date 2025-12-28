@@ -1,0 +1,35 @@
+{
+  "number": 419,
+  "language": "fr",
+  "title": "Voici, je vous dis...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Voici, je vous dis un mystère :",
+        "Nous ne mourrons pas tous,",
+        "Mais tous nous serons transformés,",
+        "Changés en un instant.",
+        "À la dernière trompette,",
+        "La vie aura triomphé,",
+        "Les morts auront ouvert les yeux",
+        "Et nous, nous serons changés."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "La grâce soit rendue à Dieu",
+        "Qui nous fait triompher",
+        "Par notre Seigneur Jésus-Christ",
+        "Qui a vaincu la mort.",
+        "Ainsi, mes bien-aimés frères,",
+        "Soyez fermes, inébranlables,",
+        "Progressez dans l'œuvre de Dieu",
+        "Sachant que rien n'est vain."
+      ],
+      "number": 2
+    }
+  ]
+}

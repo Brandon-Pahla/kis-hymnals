@@ -1,0 +1,39 @@
+{
+  "number": 82,
+  "language": "xh",
+  "title": "82 Kusasa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nkosi ekuseni yiva Ukukucenga kwam;",
+        "KuWe ndiza kuthandaza, Ndokhangela kuWe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phambi koBawo ekhaya Siyathethelelwa,",
+        "U-Yesu uzisa kuYe Izicelo zethu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nditsale ngoMoya waKho, Endleleni yaKho;",
+        "Konke oku kuhamba kwam Kuqondise kuhle."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abathanda wena, Yesu, Baza kukholiswa;",
+        "U-Thixo ngofefe lwaKhe Abagqubuthele."
+      ],
+      "number": 4
+    }
+  ]
+}

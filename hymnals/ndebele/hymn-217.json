@@ -1,0 +1,47 @@
+{
+  "number": 217,
+  "language": "nd",
+  "title": "217 Yebo, Msindisi Wangithanda, Bo’",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yebo, Msindisi wangithanda bo?",
+        "Nkosi manginga kuncishi lutho,",
+        "Ngothando umoya wami uzothoba,",
+        "Ushesh’ ukuthetha into yAkho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uyang’ shwelezel’ esihlalweni,",
+        "Ngehluleka ngibhek’ ezulwini,",
+        "Ngisize Jesu, ngithwale is’phambano,",
+        "Bese ngithandazel’ into yAkho"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngiph’ inhliziyo efana naWe",
+        "Kuze ‘nsuku zonke ngibe naWe",
+        "Ngiqal’ umusebenzi, ngenz’ isenzo somsa",
+        "Ngibuyis’ omunye, into yAkho"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Konke enginako isipho nje!",
+        "Ngentokozo kungo kw’Akho konke,",
+        "Kuth’ uma ngibona Yena ngeneliswe.",
+        "Njalo-na-njalo ngiy’ into yAkho"
+      ],
+      "number": 4
+    }
+  ]
+}

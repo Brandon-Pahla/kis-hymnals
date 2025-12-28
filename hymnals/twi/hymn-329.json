@@ -1,0 +1,56 @@
+{
+  "number": 329,
+  "language": "tw",
+  "title": "Fa Wiase, Na Ma Me Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Fa wiase, na ma me Yesu;",
+        "Emu dɛw ny'naa yɛ 'dehun;",
+        "Yesu dɔ tim hɔ afebɔɔ,",
+        "Ͻte saa mfesanten ny'naam'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O, mmɔb'rɔhun' kɛse bɛn ni!",
+        "O, ɔdɔ mu 'dɔ pa ni!",
+        "O, ɔgye a ewie pɛyɛ;",
+        "Yɛn s'ro daa nkwa ho 'danse."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa wiase, na ma me Yesu;",
+        "Me kra w'rɛkyekyefo pa;",
+        "Brč a m'Agyenkwa hwɛ me so yi,",
+        "'Hum tu mpo a mɛto dwom."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa wiase, na ma me Yesu;",
+        "Ma menhwɛ N'anim s'rew no;",
+        "Na m'akwantu yi ny'naa mu no,",
+        "Ne hann bɛma mas'rew daa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa wiase, na ma me Yesu;",
+        "N'asɛnnua no na mɛtwer',",
+        "Kosi sɛ mede animtew",
+        "Behu m'Aw'rade anim."
+      ],
+      "number": 4
+    }
+  ]
+}

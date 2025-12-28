@@ -1,0 +1,47 @@
+{
+  "number": 132,
+  "language": "nd",
+  "title": "132 Eduze Nesiphambano",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Eduze nes’phambano, Ku noMthomb’ omuhle;",
+        "Amanzi okwelapha, Evela kuJesu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Esiphambanweni, Ngodumisa mina.",
+        "Lapho umoya wami Wophumula khona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eduze nes’phambano, Umsa wangithola;",
+        "Lapho ngakhanyiselwa, Intando ka Jesu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eduze nes’phambano, Ngi hlale neWundlu;",
+        "Ngi size ‘nsuku zonke, Ngi landel’ ithunzi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eduze nes’phambano, Ngothemba ngi linde;",
+        "Ukuze ngi yofika, Phesheya komfula."
+      ],
+      "number": 5
+    }
+  ]
+}

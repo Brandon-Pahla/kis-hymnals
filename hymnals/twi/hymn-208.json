@@ -1,0 +1,46 @@
+{
+  "number": 208,
+  "language": "tw",
+  "title": "Yesu Ba a, Sum Bonhwa Befi Hɔ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu ba a, sum bonhwa befi hɔ,",
+        "Yesu ba a, sum bonhwa befi hɔ;",
+        "Yesu ba a, sum bonhwa befi hɔ,",
+        "Na ɔde ne dč akɔ fie."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Na ɔde Ne dč akɔ fie,",
+        "Na ɔde Ne dč akɔ fie;",
+        "Yesu ba a, sum bonhwa befi hɔ,",
+        "Na ɔde Ne dč akɔ fie."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu ba a, 'w'rɛhow ny'naa to betwa,",
+        "Yesu ba a, 'w'rɛhow ny'naa to betwa;",
+        "Yesu ba a, 'w'rɛhow ny'naa to bwa,",
+        "Na ɔde Ne dč akɔ fie."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yesu ba a yɛbɛto 'kwaaba nnwom,",
+        "Yesu ba a yɛbɛto 'kwaaba nnwom;",
+        "Yesu ba a yɛbɛto 'kwaaba nnwom,",
+        "Na ɔde Ne dč akɔ fie."
+      ],
+      "number": 3
+    }
+  ]
+}

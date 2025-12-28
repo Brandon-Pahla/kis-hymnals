@@ -1,0 +1,51 @@
+{
+  "number": 189,
+  "language": "xh",
+  "title": "189 Akukho Mzi Uhleliyo Apha",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Asinamzi wethu apha,",
+        "Singa bahamb’ emhlabeni;",
+        "Sisezakuvuya thina,",
+        "Sifuna umzi ozayo,",
+        "Sifuna umzi ozayo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asinamzi wethu apha,",
+        "Sifuna lowo uzayo;",
+        "I-Ziyon i-Nkos’ ikuwo,",
+        "Inokukhanya okuhle,",
+        "Inokukhanya okuhle."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Indawo entle yoxolo",
+        "Yokuphumza abahambi;",
+        "Xa bendikwaz’ ukubhabha,",
+        "Ngendiya kuphumla khona,",
+        "Ngendiya kuphumla khona."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke, moya wam, yithi cwaka!",
+        "Ixesha likuy’ uThixo,",
+        "Elona kohanjwa ngalo;",
+        "Wondazisa yena ngalo,",
+        "Wondazisa yena ngalo."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "number": 233,
+  "language": "sn",
+  "title": "233 Ndiudze Nyayayekare",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nd’udze nyaya yekare, Yezviro zvekudenga",
+        "Yekupenya kwaJesu, Nerudo rwaJesu",
+        "Taura nyaya zvinyoro, Semwana muduku",
+        "Zvondiri wakane Ndisisinasimba"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nd’udze nyaya yekare, Nd’udze nyaya yekare",
+        "Nd’udze nyaya yekare, Yerudo rwaJesu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nd’udze nyaya yekare,Neinzwi reidi",
+        "Funga ini mutadzi,Akafirwa naye",
+        "Ndiudze nguva dzese Kuti uchizowa munyaradzi",
+        "Panguva yematambudziko"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nd’udze nyaya yekare, Une zvaunotya",
+        "Pasi risinambiri, Rinondi konjera (womera)",
+        "Hunde nyika yembiri, Iri kuwonekwa",
+        "Nd’udze nyaya yekare! Jesu ochenura"
+      ],
+      "number": 4
+    }
+  ]
+}

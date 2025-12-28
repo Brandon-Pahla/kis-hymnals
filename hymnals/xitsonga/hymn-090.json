@@ -1,0 +1,21 @@
+{
+  "number": 90,
+  "language": "ts",
+  "title": "90. YI HERILE YO MINTIRHO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ANOTHER SIX DAY’S WORK",
+        "1. Yi Herile Yo Mintirho. Savata Se Ya Sungula,",
+        "Hi Tsaka Hinkwerhu Tana, Hi Rona Siku Ro Tiya.",
+        "2. Tanani Hi Ta N’wi Khensa, Hi Ku Wisa Lokunene, Hi Kuma Yo Mikateko, Ya Siku Ro Hlawuleka.",
+        "3. Onge Mehleketo Yerhu,",
+        "Yi Nga Khensa Xo Xikwembu, Hi Ta Wu Kuma Ka Yesu, Moya Lowu Kwetsimaka.",
+        "4. Ku Tsaka Loku Nga Kona, I Ku Tshemba Ni Ku Wisa,",
+        "Swi Nyikiwa Vapfumeri, Hi Laha Ku Nga Heriki."
+      ],
+      "number": 1
+    }
+  ]
+}

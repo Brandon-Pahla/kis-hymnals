@@ -1,0 +1,51 @@
+{
+  "number": 76,
+  "language": "tw",
+  "title": "'Dɔ a Ͻrennyaw Mma Menkɔ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'Dɔ a ɛrennyaw mma menkɔ,",
+        "Mede kra brɛfo' I hyɛ Wo mu;",
+        "Mede me nkwa san hyɛ Wo nsa,",
+        "Na asen afi Wo bun nom'",
+        "Sɛ nkwa a edi mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hann a ɛnam me kwan so daa,",
+        "Medem' kaneā a ɛredum ma W';",
+        "Me koma san nya ne hann no,",
+        "Na ahy'rɛn Wo 'wia hann no mu,",
+        "Ahoɔfɛ kɛse mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Dɛw a ɛde yaw hwehwɛ me,",
+        "Mibue me koma mu ma Wo;",
+        "Mihu nyankontɔ nsutɔ mu,",
+        "Hu sɛ bɔhyɛ no renyɛ kwa; '",
+        "Nɔpa a nusu nnim'."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Sɛnnua a ɛma me ti so",
+        "Merentumi nguan mfi W'anim",
+        "Misie nkwa yi mu 'nuonyam ny'naa,",
+        "Na daakye anyane bio sɛ",
+        "Nkwa a enni awiei."
+      ],
+      "number": 4
+    }
+  ]
+}

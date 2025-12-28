@@ -1,0 +1,57 @@
+{
+  "number": 35,
+  "language": "tw",
+  "title": "Momfa Dwonto Ne Anuonyam",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Momfa dwonto ne anuonyam",
+        "Mma s'ro Aw'rade no;",
+        "ɔtrɛw Ne mununkum mu s'ro,",
+        "Na nsu kata ewim."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔtɔ Ne nhy'ra bosu gu fam,",
+        "De dwudwo asase;",
+        "ɔma wura fu mmepɔ so,",
+        "Ma 'burow nyin bonhwam'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "N'agyina mu na nsakrae ba",
+        "Afe no 'kwantu mu.",
+        "ɔhyɛ owia ma no hintaw,",
+        "Ma awɔbere ba."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔma N'asɛm nan suky'rɛma;",
+        "Ͻma mfude yɛ frɔmm;",
+        "ɔma mframa a 'mu yɛ hyɛw",
+        "Bɔ ma 'susow nsu sen."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mframa ne mununkum nyinaa",
+        "Yɛ setie ma N'asɛm:",
+        "Momfa dwonto ne anuonyam",
+        "Nkamfo 'W'rade Tumfo."
+      ],
+      "number": 5
+    }
+  ]
+}

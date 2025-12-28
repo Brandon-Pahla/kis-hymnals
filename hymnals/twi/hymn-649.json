@@ -1,0 +1,47 @@
+{
+  "number": 649,
+  "language": "tw",
+  "title": "'W'ra Yɛrebɔ Mpae Ma Nnipāā",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'W'ra yɛrebɔ mpae ma nnipā a",
+        "Wɔwɔ baabiara yi;",
+        "O tie yɛn, yɛn asase nti",
+        "'Sase a yɛdɔ no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bɔ yɛn mpoano ho ban na ma",
+        "Yɛn ahye so 'somdwoe;",
+        "Ma yɛn nkuro nnya nkɔso na",
+        "Yɛn nnɔbae nso nnɔɔso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa ɔdɔ kronkron ka yɛn bom",
+        "Nimdeɛ mu ne Wo mu;",
+        "Na ma yɛn nkoko ne abon",
+        "Nto ahofadi nnwom."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aman nyinaa Wura, yɛde",
+        "Yɛn man yi hyɛ Wo nsa;",
+        "Yɛ ne guankɔbea, 'nidaso,",
+        "Ne ne daa daa yɔnko."
+      ],
+      "number": 4
+    }
+  ]
+}

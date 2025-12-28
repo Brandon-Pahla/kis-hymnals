@@ -1,0 +1,31 @@
+{
+  "number": 132,
+  "language": "bem",
+  "title": "132 - MBE PEPI NOLUPANDA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NEAR THE CROSS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mbe pepi no lupanda, Ekafukauka,",
+        "Ukundapwa kwa bonse, Kufuma ku Mfumu.",
+        "CHORUS:",
+        "M’lupanda M‘lupanda, Elulumbi lwandi,",
+        "Kufiko mweo wandi, Ukatushe kulya.",
+        "2. Uluse no kutemwa Pepi no lupanda,",
+        "No lubuto pali'ne, Nalunshinguluka.",
+        "3. Palupanda ndemona Umwana wa mpanga,",
+        "Ungafwa kuba pepi, Pepi fye na Iwe.",
+        "4. Apepi no lupanda nakulalolela,",
+        "Nsuke mfike kwishilya, 'Shilya lya mumana."
+      ],
+      "number": 2
+    }
+  ]
+}

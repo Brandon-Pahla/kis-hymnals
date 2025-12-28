@@ -1,0 +1,41 @@
+{
+  "number": 98,
+  "language": "fr",
+  "title": "Je le verrai",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Je le verrai venant des cieux sur les nuées;",
+        "Je le verrai tout radieux d’éternité;",
+        "Je le verrai bien tel qu’il est.",
+        "Louange et gloire, félicité!",
+        "Et je serai en un clin d’œil tout transformé."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Voir Jésus aujourd’hui,",
+        "Voir Jésus sans détour,",
+        "Voir Jésus dans la nuit comme au grand jour,",
+        "Voir Jésus dans nos vies,",
+        "Quel beau jour!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je le verrai et marcherai selon ses lois;",
+        "Je le verrai puisque sa grâce me reçoit;",
+        "Je le verrai puisque l’amour,",
+        "La foi, l’espoir de son retour",
+        "Remplissent mon cœur aujourd’hui et pour toujours."
+      ],
+      "number": 3
+    }
+  ]
+}

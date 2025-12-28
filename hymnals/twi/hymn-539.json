@@ -1,0 +1,46 @@
+{
+  "number": 539,
+  "language": "tw",
+  "title": "Mɛhwehwɛ 'Gyenkwa Mmabun B'rem'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mɛhwehwɛ 'Gyenkwa mmabun b'rem',",
+        "Mesua Ne ho asɛm daa;",
+        "Medi N'anammɔn no akyi",
+        "Mɛfa kwan hihiaa no so."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "'Fisɛ ɔdɔ me, ɔdɔ me,",
+        "Yesu dɔ me, minim 'yi:",
+        "Yesu dɔ me, Owu gyee me,",
+        "Enti na medɔ No saa."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mɛkɔ Ne soma biara ntɛm,",
+        "Minsua dodo sɛ mɛkɔ;",
+        "Kwan a Odi m'anim kɔ no,",
+        "Minsua sɛ mehu Ne pɛ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ogyina ɔpon no ano",
+        "Nea wɔfa guan fi bɔnem';",
+        "Ne bɔhyɛ nti mɛbɔ pon nom',",
+        "ɔbɛte na Wabue me."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "number": 189,
+  "language": "guz",
+  "title": "189 Naki Yes' Ar'omosani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Naki Yes' ar' Omosani,Koimoki'ebibe biaito!Ngesio ki koa Nyasae,Bionsi as'ogosaba.Morembe ki togosiriaBirukunyo twaimokia,'Kiagera titomoetiNyasa' as'ogosaba."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Gose ntore n'amatemwa?Mochando nore ande?Ntokw' omoyo toirere,Monen' as' ogosabaNtonyor' Omosani omuya,Torasang' obororoYes' omanyir' oboreu,Moe as' ogosaba."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ntor' aboro n'egurube,Gochandwa n'okogania'Motoria nobotamero,Moe as' ogosabaBasani mbagotamire?Motebi' as'ogosabaNakoagat' agokenge,Nonyor' omosasoko."
+      ],
+      "number": 3
+    }
+  ]
+}

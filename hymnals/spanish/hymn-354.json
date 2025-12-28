@@ -1,0 +1,46 @@
+{
+  "number": 354,
+  "language": "es",
+  "title": "Voy caminando",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Voy caminando"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Voy caminando siempre",
+        "markdowno,",
+        "rumbo al cielo con Jesús.",
+        "No tengo miedo, no tengo dudas,",
+        "pues Jesús conmigo está."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuando débil estoy,",
+        "él su mano me da.",
+        "Juntos vamos así,",
+        "su amor cantando."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Voy caminando siempre",
+        "markdowno,",
+        "rumbo al cielo con Jesús.",
+        "No tengo miedo, no tengo dudas,",
+        "pues Jesús conmigo está."
+      ],
+      "number": 4
+    }
+  ]
+}

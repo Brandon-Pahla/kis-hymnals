@@ -1,0 +1,55 @@
+{
+  "number": 179,
+  "language": "fr",
+  "title": "Alléluia! Louange à Dieu!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Alléluia! Louange à Dieu!",
+        "Chrétiens, célébrons en tout lieu",
+        "Son nom et sa puissance!",
+        "Bénissons ce Dieu créateur,",
+        "Chantons son règne et sa grandeur,",
+        "Exaltons sa clémence!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alléluia! Fils éternel!",
+        "Sauveur de l'homme criminel,",
+        "Reçois notre humble hommage!",
+        "Pénétré de ta charité,",
+        "Ton peuple, par toi racheté,",
+        "Te bénit d'âge en âge."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alléluia! Céleste Esprit!",
+        "De notre coeur humble et contrit",
+        "Accepte la prière!",
+        "Qu'en toi seul enfin consacré,",
+        "Il soit à jamais pénétré",
+        "De ta vive lumière."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alléluia! Dieu trois fois saint!",
+        "Que ton grand nom toujours soit craint",
+        "Par tout ce qui respire!",
+        "Règne sur ton peuple à jamais,",
+        "Et que tout l'univers en paix",
+        "Adore ton empire!"
+      ],
+      "number": 4
+    }
+  ]
+}

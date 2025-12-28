@@ -1,0 +1,26 @@
+{
+  "number": 245,
+  "language": "ts",
+  "title": "245. KU HAVA VITO RIN’WANA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "THERE’S NO OTHER NAME LIKE",
+        "1. Ku Hava Vito Rin’wana, Ro Fana Na Ra Yesu,",
+        "I Ntsako Ematilweni, Na Le Ka Vapfumeri.",
+        "CHORUS",
+        "Ri Xongile Vito Leri, Ku Hava Ro Fana Na Ro!",
+        "2. Ku Hava Vito Rin’wana, Ro Eneta Timbilu",
+        "Handle Ka Yesu Ku Hava Ntsako Ku Rhula Moyen.",
+        "3. Ndza Tshemba Ndzi Ta N’wi Vona, Hi Vukwetsimi Byakwe;",
+        "Ndza Tshembha U Ta Ndzi Rhamba, Ndzi Ta Tsaka Swonghasi.",
+        "4. Loko A Rhandza Ndzi Tirha, Ndzi N’wini Hi Masiku;",
+        "Katekisa Yo Mintirho, Marito Yanga Yesu.",
+        "5. Loko A Pfumela Ndzi Fa, A Hi Nchumu Ndzi Wakwe;",
+        "Leswi Yesu A Nga Tshembho, Ndzi Ta Fela Ka Yena."
+      ],
+      "number": 1
+    }
+  ]
+}

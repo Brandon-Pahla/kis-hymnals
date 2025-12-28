@@ -1,0 +1,49 @@
+{
+  "number": 279,
+  "language": "sn",
+  "title": "279 Mwoyo Uneurombo Uyanyi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mwoyo uneurombo, Mazis’ eubofu",
+        "Kuda’ra kunofadza, Jesu ane mwenje"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uyayi o muno remerwa",
+        "Nemitoro’yo ndinomupa zororo",
+        "Torayi jokwe, mudzidze neni nekuti",
+        "Ndakapfava m’mwoyo, Muwane zororo remweya"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rufaro’rwo rwenyika, Harumbotigutsi",
+        "Rudo rune rufaro, Nekuti harufi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kristu anotipa, Kunyaradza kwedenga",
+        "Iwe wasara here? Pinduka upone"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Runyararo nerudo, Rwake zvakadzama",
+        "Jokwe rake inyore, Inyore narini"
+      ],
+      "number": 5
+    }
+  ]
+}

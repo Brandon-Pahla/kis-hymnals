@@ -1,0 +1,25 @@
+{
+  "number": 251,
+  "language": "ts",
+  "title": "251. NDZI NGE PONISIWI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WEEPING WILL NOT SAVE ME",
+        "1. Ndzi Nge Ponisiwi, Hi Ku Rila Mihloti, A Swi Susi Ripfalo,",
+        "A Swi Susi Vudyoho, Ku Rila Mihloti.",
+        "CHORUS",
+        "Yesu U Ndzi Ferile, Leswaki Ndzi Ntshuxeka, U Twisiwe Ku Vava, Matshan’wini Yanga.",
+        "2. Ndzi Nge Ponisiwi, Hi Mintirho Yinene,",
+        "Miehleketo Yo Tenga,",
+        "Yi Nge Ndzi Endli Lontshwa, I Swilo Swa Hava.",
+        "3. Ku Rindza Swi Nge Pfuni, Ndzi Nghene Milandzwini,",
+        "Ndzi Nga Rilela Nsovo, Loko Ndzi Nga Pfumeri, A Ndzi Na Ku Pona.",
+        "4. Ku Pfumela Ka Yesu, Hi Yena Muponisi,",
+        "Ndzi Tshembha Nsovo Wakwe, Hi Ripfumelo Ntsena, U Ta Ndzi Ponisa."
+      ],
+      "number": 1
+    }
+  ]
+}

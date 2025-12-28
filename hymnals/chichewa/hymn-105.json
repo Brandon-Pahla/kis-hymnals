@@ -1,0 +1,51 @@
+{
+  "number": 105,
+  "language": "ny",
+  "title": "105 - Yesu Ap’lumutsa ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ABLE TO DELIVER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu awombola! Nena konseko;",
+        "Yesu awombola yemwe amvatu;",
+        "Yesu awombola m’ng’anjo ya moto;",
+        "Yesu awombola yemwe adzatu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu awombola konsekonseko,",
+        "Mukakhulupira mau akewo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yesu awombola! Ndi zoona ko?",
+        "Kodi kuli mphamvu yop’lumutsa ’ne?",
+        "Tandiuzanitu, Kodi Khristuyo",
+        "Nkutha kumasula nsinga zangazo?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yesu awombola! Limba mtima ’we,",
+        "Gwira ntchito yake, awombola ’we;",
+        "Usaope mdani, gwira Yesuyo,",
+        "Usakaiketu, ima ndithu nji."
+      ],
+      "number": 4
+    }
+  ]
+}

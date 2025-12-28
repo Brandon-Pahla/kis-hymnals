@@ -1,0 +1,66 @@
+{
+  "number": 366,
+  "language": "tum",
+  "title": " 366 Hena Mwana Wa Mberere",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 366 Hena Mwana Wa Mberere"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Hena, Mwana wa Mberere",
+        "Wakuyegha zakwanga zithu zose."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mwana -mberere -watiyeghera",
+        "zakwananga zithu zose."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Wakayegha m'thupi lake",
+        "Wakawura kuzgorako pakumkoma."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Alawiska pa mpinjika",
+        "Umo lyo wakasuzgikira ise."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Apulikizga cilagho",
+        "Umo lyo wakasidikira nadi."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5.",
+        "Ndopa zake ndizo ndimba",
+        "Umo zakwananga zithu zikubira."
+      ],
+      "number": 6
+    }
+  ]
+}

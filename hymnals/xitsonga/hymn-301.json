@@ -1,0 +1,22 @@
+{
+  "number": 301,
+  "language": "ts",
+  "title": "301. KU NGA RI KHALE HOSI YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ku Nga Ri Khale Hosi Yesu Wa Vuya, U Ta Ku Teka Lava N’wi Tirhelaka;",
+        "Va Hlayiseka Na Milawu Ya Yena, Va Ri a Vumbhoni Bya Yena, Na Savata.",
+        "CHORUS",
+        "Hlayisa Milawu (Ya Xikwembu)",
+        "Mi Nga Rivali Na Savata (Ya Xikwembu) Mi Tshembeka Ngopfu (Ka Xikwembu), Yesu U Kusuhi Wa Vuya, Hundzukani.",
+        "2. Loko A Ta U Ta Fika Hi Rihati, Tintsumi Ta Chaya Timhalamhala;",
+        "Ku Va Ku Twakala Rito Ra Xikwembu, Yi Teka Lava Yi Rhandzaka, Hundzukani.",
+        "3. Vafi Lava Hlawuriweke Va Pfuka, Lava Hanyaka Va Ta Hundzuriwa;",
+        "Hi Kona Va Nga Ta Hlangana Na Hosi, Swin’we Va Ya Wisa Etilweni, Hundzukani."
+      ],
+      "number": 1
+    }
+  ]
+}

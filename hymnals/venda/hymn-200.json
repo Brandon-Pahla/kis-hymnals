@@ -1,0 +1,45 @@
+{
+  "number": 200,
+  "language": "ve",
+  "title": "200. Mudzimu Mukhethwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:073",
+        "AH:030"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mudzimu Mukhethwa, Mukona zwothe,",
+        "Matsheloni ra vuwa ri imbelawe,",
+        "Mudzimu Mukhethwa, U na vhuthu hothe;",
+        "U ingamela kha shango lothe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mudzimu Mukhethwa, Vhathu vha losha,",
+        "Vharunwa vhothe vha tshi ima phanda hau,",
+        "Vha u gwadamela vhe zwigidi,",
+        "Ene wa kale, Musikavhathu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mudzimu Mukhethwa, vhugalani hau,",
+        "Wo dzumbama Mato a vhaitazwivhi;",
+        "Vhone vha a kundwa u u lavhelesa,",
+        "Wo tou di szumba nga ndila dzothe."
+      ],
+      "number": 4
+    }
+  ]
+}

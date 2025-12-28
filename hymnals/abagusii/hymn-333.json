@@ -1,0 +1,28 @@
+{
+  "number": 333,
+  "language": "guz",
+  "title": "333 Mobake Nyasae ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mobake Nyasae, Mogambi ore Igoro;Oyore' emiaka yonsi, Omwanchanii;'Monene Yehova, Ense na Igoro;Twaribak'erieta riao, Ribakwe bo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mobake Nyasae, 's'ogochika kwaye;Ndw'as'ense ndigi'Omogoko, As'ar'ere;Ntige bionsi ebiense, 'Bonene, chisemi;Mokor' ere bweka koba, 'Nguba yane."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Omoganda bwensi, Mobake Nyasae;Tata, Omwana n'Omoika, 'Kero gionsi;Motogie Nyasae, Mbwatisi'aba Igoro;'Bonene bwensi n'obwao, N'ebako bo."
+      ],
+      "number": 3
+    }
+  ]
+}

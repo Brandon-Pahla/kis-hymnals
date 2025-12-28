@@ -1,0 +1,59 @@
+{
+  "number": 123,
+  "language": "tum",
+  "title": " 123 Zina Lakuruska M'chanya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 123 Zina Lakuruska M'chanya",
+        "THE HOLIEST NAME"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Zina lakuruska m'chanya",
+        "na pacharu chapasi,",
+        "Ndilo Dada wakamuthya",
+        "mwana wake yumoza."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Zina Litu via mwe (Litu wa)",
+        "zina Lakuzika (kuzika)",
+        "WakaLipharazgaso wangeLo",
+        "Pa usiku wura ('mwe zina)",
+        "zina Liweme 'mwe (mwe zina)",
+        "NdiLo La Yesu Kananda."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Zina lakupa thumbiko",
+        "na chimwemwe mu mtima,",
+        "Nditiphalire wanyake",
+        "za chitemwa cha Fumu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Moyo wane uti wimbe",
+        "za chitemwa cha Fumu,",
+        "Nditi nditamike zina",
+        "lakuruska ghanyake."
+      ],
+      "number": 4
+    }
+  ]
+}

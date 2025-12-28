@@ -1,0 +1,48 @@
+{
+  "number": 101,
+  "language": "tn",
+  "title": "101 Jeso Oa Go Bitsa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso Oa Go Bitsa Ka Bonolo, Kwa Legayeng Gompieno,",
+        "O tlogelang seding ja lorato O ntse O ya kgakala?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O wa bitsa,...gompieno;...Jeso Oa bitsa ka bonolo",
+        "gompieno.",
+        "T. &amp; B. Bitsa, bitsa gompieno; Bitsa, bitsa gompieno;",
+        "Jeso Oa bitsa ka bonolo, ka bonolo gompieno."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso O Bitsa Ba Ba Lapileng, Go Ikhutsa Gompieno,",
+        "Mo leretse morwalo wa gago, Mme o tla segofala."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso O Letile Tla Go Ene, O Letile, Gompieno;",
+        "Tla le be tsa gago O obame, tla mme O se diege."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jeso Oa Rapela O Utlwe, Ntswe Ja Gagwe, Gompieno;",
+        "Ba ba Mo dumelang ba tla ipela, Nanoga O tsamae."
+      ],
+      "number": 4
+    }
+  ]
+}

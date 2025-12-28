@@ -1,0 +1,56 @@
+{
+  "number": 314,
+  "language": "pt",
+  "title": "Guarda, Faz Troar ao Longe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Guarda, Faz Troar ao Longe"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Guarda, faz troar ao longe",
+        "O clarim da redenção!",
+        "Quem ouvir e arrepender-se",
+        "Há de obter o galardão."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Faz vibrar por toda parte,",
+        "Sim, por toda terra e mar,",
+        "A trombeta do evangelho,",
+        "Para o pecador salvar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Toca, pois, por sobre os montes,",
+        "Faz vibrar até o sertão;",
+        "Chama, assim, os pecadores,",
+        "Para herdar a salvação."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Faz soar a alegre nova:",
+        "\"Vinde ao real festim!\"",
+        "Sim, a vós, que estais aflitos,",
+        "Cristo diz: \"Ó, vinde a Mim!\""
+      ],
+      "number": 5
+    }
+  ]
+}

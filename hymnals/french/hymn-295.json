@@ -1,0 +1,36 @@
+{
+  "number": 295,
+  "language": "fr",
+  "title": "Je passerai ma vie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Je passerai ma vie",
+        "À dire à tous mes frères que tu es bon.",
+        "Oui, je passerai ma vie",
+        "À dire à tous mes frères que tu es bon.",
+        "Oh ! donne à mon cœur",
+        "Le rythme de ta joie,",
+        "Ô Seigneur, avec moi !",
+        "Oh ! donne à ma joie",
+        "Le rythme de ton cœur,",
+        "Ô Seigneur !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Donne à ma chanson",
+        "Le rythme de ta vie,",
+        "Ô Seigneur, mon ami !",
+        "Oh ! donne à ma vie",
+        "Le rythme des chansons",
+        "De moissons !"
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": 258,
+  "language": "guz",
+  "title": "258 Natororane Na Yeso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Natororane na Yeso,Obosio as' obosio;Nomochengo rituk' erioKondaror' Omotoria."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Natororan' as'amaiso,aria seito Igoro;Nase obonene bwaye,Nimorore botambe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tinkonyara komomanya,Buna are Ere bori;Korend' ekero arache,Nimorore bun'are."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Biserigwe korw' as'are,'Mariga n' omoichano;Egesiru nakeirane,'Bobisi bomanyeke."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Bosio as'obosi' ekeene!Omogoko nobeo;Nimbe n'omogoko bori,Kondaror' Omotoria."
+      ],
+      "number": 5
+    }
+  ]
+}

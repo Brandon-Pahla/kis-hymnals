@@ -1,0 +1,49 @@
+{
+  "number": 101,
+  "language": "sn",
+  "title": "101 Jesu Arikudaidza Iwe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu arikudaidza iwe udzokere kumushazve,",
+        "Ngenyi Unoda kufamba kure kubva kurudo Rwake?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wa...daidza, Wa...daidza,",
+        "(Arikudaidza nasi Arikudaidza nasi)",
+        "Jesu Arikudaidza iwe namusi",
+        "(Jesu Arikudaidza iwe’daidza iwe namusi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu arikumirira iwe, wakaneta Uzorore,",
+        "Wunza mitoro yese kwaAri, Unozokomborerwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu arikumirira iwe, Uya zvino Uya zvino,",
+        "Uunnze zvese zvitema zvako, Uya usanonoke"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu arikukuteta iwe, Inzwa zvino mazvi Ake,",
+        "Avo vaanonzwa vachafarira, Uyai zvino mwese."
+      ],
+      "number": 5
+    }
+  ]
+}

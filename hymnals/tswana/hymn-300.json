@@ -1,0 +1,56 @@
+{
+  "number": 300,
+  "language": "tn",
+  "title": "300 Gae Ja Mokreste",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Gaeng Ja Mokreste Bontleng, Ke ’Fatshe Ja Boikhutso",
+        "Mmolok’wa me O ile Go dira topo ya me."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Go boikhutso balaping, Go boikhutso balaping,",
+        "Go boikhutso balaping. Boikhutso jwa ’go;",
+        "Moseja ga Jordane, Monateng Edene.",
+        "Kwa setlharing sa botshelo Boikhutsong jwa ’go."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O Mpaakanyetsa Bodulo Bo Nna Ka Bosakhutlheng,",
+        "Gonne k’o bo sa fetogeng Fatshing ja boitshepo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Teng Ga Go Tsene Setlhabi, Ga Go Bofutsana Teng.",
+        "’Garing jole jwa legodimo, Ke tla rwala serwalo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Loso Lo Tla Nyelediwa Lobelela Lo Ntshiwa;",
+        "Opelang barekolodwi Ipeleleng mos’o sang."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Opelang Barua Boswa, Opelang Phenyo Tseleng;",
+        "Lo tla bulelwa Sione, Lo tla bona go tsena."
+      ],
+      "number": 5
+    }
+  ]
+}

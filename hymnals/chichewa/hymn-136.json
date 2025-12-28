@@ -1,0 +1,53 @@
+{
+  "number": 136,
+  "language": "ny",
+  "title": "136 - Akan’tsogoza Ndinkako",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I REMEMBER CALVARY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Akan’tsogoza ndinkako,",
+        "Ndikhulupira Mbuyeyo;",
+        "Ndikumbukira kutitu",
+        "Anandifera pa mtanda."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu anditsogozatu",
+        "Ulendo wanga wonsewo.",
+        "Bwenzi loona ndiyeyo,",
+        "Ndikumbukira Mtandawo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndikonda mau akewo,",
+        "Anditsogoze Mbuyeyo;",
+        "Kufuna kwake ndichite,",
+        "Anandifera pa mtanda."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndzapita osaopai,",
+        "Akhale nane Yesuyo.",
+        "Pa tsiku lina n’dzaona",
+        "Yesu tsamwali wa mtanda."
+      ],
+      "number": 4
+    }
+  ]
+}

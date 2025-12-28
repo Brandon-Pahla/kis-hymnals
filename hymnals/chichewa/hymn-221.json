@@ -1,0 +1,36 @@
+{
+  "number": 221,
+  "language": "ny",
+  "title": "221 - Zokumbutsa Galileya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "MOMORIES OF GALILEE"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1.Ndamva nkhunda..Ndi nthambinso,",
+        "Zimamveka ..Pa madzulo .,",
+        "Zindiuza Umulungu,",
+        "Zinkumbutsa Galileya",
+        "CHORUS:",
+        "Galileya Wokoma’we",
+        "Komwe Yesu ’nakhalitsa,",
+        "Galileya Wakuyawe,",
+        "Idza udzandiyimbire.",
+        "2. Mwa madambo .Muli ndere",
+        "Mbalamenso Ziyimbira",
+        "M’mawamawa Ziyamika",
+        "Mokwanira M’galileya",
+        "3. Nkawerenga .Zozizwazo",
+        "Za woyenda Pa nyanjapo .",
+        "Ndifunadi . Kopambana,",
+        "Kumtsata ’Ye..M’Galileya"
+      ]
+    }
+  ]
+}

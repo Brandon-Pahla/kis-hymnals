@@ -1,0 +1,55 @@
+{
+  "number": 240,
+  "language": "nd",
+  "title": "240 Emnyango",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bhek’ uMsindisi emnyango; Selok’ enqonqotha njalo.",
+        "Kade asilinda Yena, Mvulel’ inhliziyo wena."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uthi zithengele kuYe, Ube nokulunga kwAkhe.",
+        "Agcotshw’ amehlo abone; Usus’ ukungcola kuwe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Izwi lob’fakazi lizwe; Uthi mawuzikhethele.",
+        "Uno kona, usivivi; Khuthazela uphenduke."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "UJesu usezoqeda Ukusincengela thina,",
+        "Masinyane onensila, Uzohlala enensila"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "UJesu umi ngaphandle; Unceng’ inhliziyo kahle.",
+        "Uthi muvulel’ angene, Unga mbambezeli Yena."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yebo, ngenisa umhambi, Phambi kwAkhe wophumula",
+        "Ujabule ni ndawonye; Wodla nawe, nawe naYe"
+      ],
+      "number": 6
+    }
+  ]
+}

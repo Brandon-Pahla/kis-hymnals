@@ -1,0 +1,45 @@
+{
+  "number": 336,
+  "language": "tum",
+  "title": " 336 Usiku Utuwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 336 Usiku Utuwa",
+        "CH. 102 SILENT NIGHT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Usiku utuwa mwana wakababika,",
+        "Kuti wakawe Fumu wakawira m'lukutu,",
+        "Themba la mathemba na wanthu wuwo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mwana wa Chiuta wakunditemwa ine,",
+        "Wakan'tayira chuma wakagona m'uteka,",
+        "Nkhuyiwonga Fumu yane kwanadi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Usiku utuwa ukiza nadi mtende,",
+        "Ise tose tawanthu Chiuta watitole,",
+        "M'chindikeni Dada, Mwana na Mzimu."
+      ],
+      "number": 4
+    }
+  ]
+}

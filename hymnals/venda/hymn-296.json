@@ -1,0 +1,51 @@
+{
+  "number": 296,
+  "language": "ve",
+  "title": "296. Mutshidzi Nndededze",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mutshidzi nndededze, Ndi si xele ndilani;",
+        "Ndi do tinya nga Iwe, Nda dzula ndo takala."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ida, Ida-ha Mutshidzi,",
+        "(Ida u ri) U dededze;",
+        "Tshilidzi tshi dededze,",
+        "(Ida) Nthange phanda hothe, (Idaha)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. U gundo langa hothe, kha dzothe dzikhakhathi;",
+        "Ndi na ’We ndi do tshila,",
+        "Iwe U thikho yanga."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mutshidzi, nthange phanda,",
+        "Ndi tshi shavha mathupho,",
+        "Ndi do swika shangoni,",
+        "li si na na zwililo."
+      ],
+      "number": 4
+    }
+  ]
+}

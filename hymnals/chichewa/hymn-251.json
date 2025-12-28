@@ -1,0 +1,34 @@
+{
+  "number": 251,
+  "language": "ny",
+  "title": "251 - Kulira Sikanthu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WEEPING WILL NOT SAVE US"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "1. Kulira sikanthu  Ngakhale nkhope igwe,",
+        "Singaletse matsoka, Singatsuke machismo ",
+        "Kulira sikanthu.",
+        "CHORUS:",
+        "Yesu nafa pa mtanda, Yesu nandiferatu,",
+        "Yesu andilindira Kundi pulumutsa.",
+        "2. Nchitonso sikanthu  Ngakhale ikometse",
+        "Maganizo oyera, Sangandikonzetsenso ",
+        "Nchitonso sikanthu.",
+        "3. Kudikira sikanthu  Ndigona wotayika",
+        "Ndimva kuitanantu; Kudika ndifa cabe ",
+        "Kudika sikanthu.",
+        "4. Yesu Mpulumutsi Amene nandifera,",
+        "Ndikhulupira Inu, Mundipulumutsenso ",
+        "Mundipulumutsa."
+      ]
+    }
+  ]
+}

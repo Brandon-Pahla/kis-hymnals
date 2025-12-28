@@ -1,0 +1,40 @@
+{
+  "number": 387,
+  "language": "tw",
+  "title": "ɔhome Da, Fa 'Somdwoe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ɔhome da, fa 'somdwoe",
+        "Ne ayaresa brɛ yɛn;",
+        "Ka ɔsoro asɛm ky'rɛ",
+        "Kra a haw 'hyɛ no ma sɛ:",
+        "\\\"Bɛhome, bɛhome!\\\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma fam akɔnnɔ to ntwa,",
+        "Na dum ɔhaw gya nyinaa;",
+        "Ka soro nsɛm ky'rɛ wɔn a",
+        "Wɔafom kwan, so nnesoa sɛ:",
+        "\\\"Bɛhome, bɛhome!\\\""
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Popa 'niwam nusu ny'naa,",
+        "Ma haw ne ehu to ntwa;",
+        "Ade ny'naa reyɛ yie no,",
+        "Ky'rɛ yɛn s'ro nsɛm a ɛse:",
+        "\\\"Bɛhome, bɛhome!\\\""
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "number": 134,
+  "language": "st",
+  "title": "134 Lerato Le Makatsang La Jesu.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Litulong tse phahamileng, Moea oa ka o rorisa,",
+        "Ke mang ea ka bolelang ka lerato leo le makatsang."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Rato lena le makatsang, rato lena la Jesu;",
+        "’Rato lena le makatsang, rato lena la Jesu."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le na le khotso bosiu, le khanya le mo lefifing,",
+        "Ke sehlare se folisang, lona ’rato lena la Jesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke ts’oarelo ts’epo ho ’na ke thuso ho ’na ha ke oa.",
+        "Bophelong le lefung tsohle ke ’rato lena la Jesu."
+      ],
+      "number": 3
+    }
+  ]
+}

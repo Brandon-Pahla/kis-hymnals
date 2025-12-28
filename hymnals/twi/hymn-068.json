@@ -1,0 +1,44 @@
+{
+  "number": 68,
+  "language": "tw",
+  "title": "Yɛde Dɛw Rekɔ Yi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛde dɛw rekɔ yi,",
+        "Momma y'ani nnye.",
+        "Yɛn Kannifō adi nim,",
+        "Tamfo no agu;",
+        "Kristo ne yɛn banbɔ",
+        "Ne yɛn anigye'",
+        "Hena na ɔbɛsɛe",
+        "Yɛn anidaso?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yɛde dɛw rekɔ yi,",
+        "Yɛkɔ anim yi,",
+        "Tie yɛn ayeyi nnwom,",
+        "ɔdɔ Nyankopɔn."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛto ah'rusi nnwom",
+        "Ma Agya Nyame",
+        "Yɛde 'seda koma",
+        "Brɛ 'Gyenkwa Nyame,",
+        "Yɛkoto sɔre No,",
+        "Honhom Nyankopɔn,",
+        "Yɛde dɛw rekɔ yi,",
+        "Nnɛ ne nna nyinaa."
+      ],
+      "number": 2
+    }
+  ]
+}

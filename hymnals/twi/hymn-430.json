@@ -1,0 +1,46 @@
+{
+  "number": 430,
+  "language": "tw",
+  "title": "Odew Beba 'Dwuma No Awiei",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ɔdɛw bɛba 'dwuma no awiei,",
+        "B'rč a 'paafo bɛboa awi no",
+        "Ano owitɔe de akɔ",
+        "Yerusalem Fof'ro nom'"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Dɛw,dɛw,ɛhɔ ny'naa bɛyɛ dɛ'",
+        "Dɛw, dɛw,faako a dɛw nsa da;",
+        "Dɛw, dɛw, da no rekɔ awiei,",
+        "B'rč a 'paafo bɛpɔn 'dwuma"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dwom a yɛbɛto no bɛyɛ dɛ,",
+        "'Seda nnwom befi yɛn komam,",
+        "Akamfo yɛn Hen' Kristo daa",
+        "Yerusalem Fof'ro nom'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔdɛw kronn na ɛretwɛn yɛn hɔ;",
+        "Sika adan pii wɔ hɔ a",
+        "Yesu Ankasā asiesie wɔ",
+        "Yerusalem Fof'ro nom'."
+      ],
+      "number": 3
+    }
+  ]
+}

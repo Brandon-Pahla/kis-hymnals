@@ -1,0 +1,55 @@
+{
+  "number": 15,
+  "language": "tw",
+  "title": "Me Bɔfo Ne Me Hen'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me Bɔfo ne me Hen',",
+        "Nea mewɔ ny'naa fi Wo,",
+        "W'ayamyč a enni kabea nom',",
+        "Na me nhyira ny'naa fi;",
+        "W'ayamyč a enni kabea nom',",
+        "Na me nhyira ny'naa fi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wo nsā ano abɔde,",
+        "Mete ase Wo mu;",
+        "Me Nyankopɔn,",
+        "W'adɔe dɔɔso Boro m'ayeyi so;",
+        "Me Nyankopɔn,",
+        "W'adɔe dɔɔso Boro m'ayeyi so."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wura dɛn na mɛma,",
+        "B'rč a ade ny'naa yɛ W' de?",
+        "Wo dɔ no fata m'aseda,",
+        "Nanso ɛnsɔ ani;",
+        "Wo dɔ no fata m'aseda,",
+        "Nanso ɛnsɔ ani."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O fa s'ro ahoɔden",
+        "Bra bɛkanyan me kra;",
+        "Ma asɛm ne ɔpɛ biara,",
+        "Me nna ny'naa nyɛ Wo de;",
+        "Ma asɛm ne ɔpɛ biara,",
+        "Me nna ny'naa nyɛ Wo de."
+      ],
+      "number": 4
+    }
+  ]
+}

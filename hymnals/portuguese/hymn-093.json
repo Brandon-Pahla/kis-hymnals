@@ -1,0 +1,55 @@
+{
+  "number": 93,
+  "language": "pt",
+  "title": "Precioso é Jesus Para Mim",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Precioso é Jesus Para Mim"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Precioso é Jesus, o meu Rei, Salvador ;",
+        "A Ele somente darei meu louvor.",
+        "É fonte divina de força e vigor ;",
+        "Precioso é Jesus para mim."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Precioso é Jesus para mim,",
+        "Precioso é Jesus para mim.",
+        "É meu Redentor meu fiel Protetor;",
+        "Precioso é Jesus para mim."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus bate à porta do meu coração,",
+        "E espera paciente, quer dar-me o perdão.",
+        "Que Seu sacrifício não seja em vão;",
+        "Precioso é Jesus para mim."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Preciosas promessas eu tenho do Rei;",
+        "Com Ele num lar perenal morarei;",
+        "Num reino de luz Sua face verei;",
+        "Precioso é Jesus para mim."
+      ],
+      "number": 5
+    }
+  ]
+}

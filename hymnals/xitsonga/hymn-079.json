@@ -1,0 +1,19 @@
+{
+  "number": 79,
+  "language": "ts",
+  "title": "79. HINKWAKO-NKWAKO MASIMU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "FAR AND NEAR THE FIELDS ARE TEEMING",
+        "1. Hinkwako-nkwako Masimu Ya Vupfile Swinene; Hi Wo Nkarhi Wa Ntshovelo, Ku Vuyisiwa Kaya.",
+        "CHORUS",
+        "Hosi Rhuma Vatshoveri, Hosi Ha Ku Khongela, Hi Wo Nkarhi Wa Ntshovelo, A Wu Tisiwe Kaya.",
+        "2. Va Rhumele Emixweni, Va Rhumele Na Ndzhenga; Va Rhume Na Ko Namadyambu, Va Tshovela Hinkwako.",
+        "3. N’we Varhumiwa Va Hosi, Rhwalelani Tinyandza; Mi Kongomile Etilweni, Mi Ta Nghena Hi Ntsako."
+      ],
+      "number": 1
+    }
+  ]
+}

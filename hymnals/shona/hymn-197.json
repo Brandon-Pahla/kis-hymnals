@@ -1,0 +1,47 @@
+{
+  "number": 197,
+  "language": "sn",
+  "title": "197 Hakuna Dima Jesu Owuya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Hakuna zve dima Jes’ owuya; Hakuna zve dima Jes’ owuya",
+        "Hakuna zve dima Jes’ owuya, Kuzotora vake’vo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O tora vake kum’sha, O tora vake kum’sha,",
+        "Hakuna zve dima Jes’ owuya Kuzotora vakevo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hakuna kusuwa Jes’ owuya; Hakuna kusuwa Jes’ owuya,",
+        "Hakuna kusuwa Jes’ owuya; Kuzotora vakevo"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hakuna kuchema Jes’ owuya; Hakuna kuchema Jes’ owuya,",
+        "Hakuna kuchema Jes’ owuya; Kuzotora vakevo"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vachaimba rwiyo Jes’ owuya; Dzekuchingamidza Jes’ owuya,",
+        "Vachafara pamwe Jes’ owuya Kuzotora vakevo."
+      ],
+      "number": 5
+    }
+  ]
+}

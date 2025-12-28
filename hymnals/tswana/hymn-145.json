@@ -1,0 +1,46 @@
+{
+  "number": 145,
+  "language": "tn",
+  "title": "145 Se Kope Seipato",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Se Kope Seipato, Go Tiro E Kgolo;",
+        "Leta go diris’wa Kwa Modimo O’isang.",
+        "Taletso ya Gwagwe O ntse O e newa;",
+        "Amogela, mme go Molemo go dira."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Tla, ao, tla (janong); Se kope seipato;",
+        "Tla, ao, tla (janong); Leta go diris’wa.",
+        "Se kope seipato, Karabo e ka re:",
+        "’Sentse rato lwa Me, Ga O ye ’godimong."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se Kope Seipato, Morena Oa Bitsa,",
+        "Ka O ntse O gana, O Mo utlwe janong.",
+        "Masimo masweu, Badiri b’otlana,",
+        "O itumelele Tiro ya Morena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se Kope Seipato, Go Diphatsa Tiego;",
+        "Rato lo nyaditsweng, Lo tla ela ruri.",
+        "Fa tshwaro e bitsa, Mme e supa tsela,",
+        "Fa Jes’ A rapela, Tla O itshwarelwe."
+      ],
+      "number": 3
+    }
+  ]
+}

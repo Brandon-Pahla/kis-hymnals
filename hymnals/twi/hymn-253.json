@@ -1,0 +1,66 @@
+{
+  "number": 253,
+  "language": "tw",
+  "title": "Din Fof'ro Bi Nte Sɛ Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Din fof'ro bi nte sɛ Yesu,",
+        "Ͻne din pa a yenim;",
+        "Ͻyɛ abɔfo dɛw wɔ s'ro,",
+        "Ne Kristoni dɛw wɔ fam."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Din pa, 'yɛ,",
+        "Din fof'ro bi nte sɛ Yesu,",
+        "Din pa, 'yɛ,",
+        "Din fof'ro bi nte sɛ Yesu,"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Din fof'ro bi nte sɛ Yesu,",
+        "Sɛ yawhyɛ koma so a;",
+        "Din fof'ro bi nte sɛ Yesu,",
+        "B'rč a 'nigye wɔ koma mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M'ani da so sɛ mehu No",
+        "B'rč a Obepue 'nuonyam mu;",
+        "ɔbɛma me akwaaba pa,",
+        "'Ma me honhom akanyan."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔpɛ sɛ meyɛ adwuma",
+        "Ne bobet'rom da biará a,",
+        "Ͻnde n'ɛyɛ sɛ Yesu hy'ra",
+        "Nea meyɛ, meka biara."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ ɛyɛ Ne pɛ sɛ owu",
+        "De ne nsa to me so a,",
+        "Ͻnde n'ɛyɛ sɛ Yesu nko",
+        "Ne me wu mu 'nidaso."
+      ],
+      "number": 5
+    }
+  ]
+}

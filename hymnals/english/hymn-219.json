@@ -1,0 +1,46 @@
+{
+  "number": 219,
+  "language": "en",
+  "title": "219 Guide Me, O Thou Great Jehovah.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Guide me, O Thou great Jehovah,",
+        "Pilgrim through this barren land;",
+        "I am weak, but thou art mighty,",
+        "Hold me with Thy powerful hand;",
+        "Bread of Heaven, Bread of Heaven,",
+        "feed me till I want no more,",
+        "Feed me till I want no more."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Open now the crystal fountain,",
+        "Whence the healing streams do flow;",
+        "Let the fiery cloud pillar,",
+        "Lead me all my journey through;",
+        "Strong Deliverer, Strong Deliverer.",
+        "Be Thou still my strength and shield,",
+        "Be Thou still my strength and shield."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "When I tread the verge of Jordan,",
+        "Bid my anxious fears subside;",
+        "Bear me through the swelling current,",
+        "Land me safe on Canaan’s side;",
+        "Songs of praises, Songs of praises,",
+        "I will ever give to Thee,",
+        "I will ever give to Thee."
+      ],
+      "number": 3
+    }
+  ]
+}

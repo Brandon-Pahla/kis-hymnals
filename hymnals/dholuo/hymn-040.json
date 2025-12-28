@@ -1,0 +1,35 @@
+{
+  "number": 40,
+  "language": "luo",
+  "title": "40 Alleluia! Ruoth Nochier",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nonindo ei liel,Yesu Jakonya;Korito chieng` mar chier,Yesu Ruodha."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En to nowuok ae lielKa nobuko loyo tho adier,En mochier kotiekomudho chutho ka,To obet tinende kod Malaika;To nochier, En nochier,Alleluia! Ruoth nochier."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. To ne girito liel,Yesu Jakonya;Kayiem ne girite,Yesu Ruodha."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tho ok noloyo En,Yesu Jakonya;Nogolo twech duto,Yesu Ruodha."
+      ],
+      "number": 4
+    }
+  ]
+}

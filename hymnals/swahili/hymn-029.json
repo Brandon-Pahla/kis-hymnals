@@ -1,0 +1,47 @@
+{
+  "number": 29,
+  "language": "sw",
+  "title": "29 - Yesu Nakupenda",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Yesu nakupenda u mali yangu,",
+        "Anasa za dhambi sitaki kwangu,",
+        "Na Mwokozi aliyeniokoa,",
+        "Sasa nakupenda kuzidi pia."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Moyo umejaa mapenzi tele,",
+        "Kwa vile ulivyonipenda mbele,",
+        "Uhai wako ukanitolea",
+        "Sasa nakupenda kuzidi pia."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Ulipoangikwa msalabani,",
+        "Tusamehewe tulio dhambini,",
+        "Taji ya miiba uliyoivaa,",
+        "Sasa nakupenda kuzidi pia."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Mawanda mazuri na masikani,",
+        "Niyatazamapo huko mbinguni,",
+        "‘Tasema na taji nitakayovaa,",
+        "Sasa nakupenda kuzidi pia."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 51,
+  "language": "sn",
+  "title": "51 Mutibhabhatidzezve",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tibhabhatidze nesimba guru",
+        "Muponesi uyai nerudo rwenyu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tirikukuteta, Mambo Jesuzve",
+        "Kubva muchitema mutisambidze"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tirikuchema, hatifanire",
+        "Kubva muchitema mutisambidze"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Njiva yaMwari, dzikai kunesu",
+        "Mutikomborere ngemutsa wenyu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inzwanyi izwi rabva kudenga",
+        "Uri mudikanwi, unondifadza"
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 10,
+  "language": "en",
+  "title": "10 Shall We Gather At The River",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Shall we gather at the river,",
+        "Where bright angel feet have trod;",
+        "With its crystal tide forever,",
+        "Flowing by the throne of God?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yes, we’ll gather at the river,",
+        "The beautiful, The beautiful river;",
+        "Gather with the saints at the river;",
+        "That flows by the throne of God."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "On the margin of the river,",
+        "Washing up its silver spray;",
+        "We will walk and worship ever,",
+        "All the happy golden day."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ere we reach the shining river;",
+        "Lay we ev’ry burden down;",
+        "Grace our spirits will deliver,",
+        "And provide a robe and crown."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Soon we’ll reach the shining river,",
+        "Soon our pilgrimage will cease;",
+        "Soon our happy hearts will quiver,",
+        "With the melody of peace."
+      ],
+      "number": 4
+    }
+  ]
+}

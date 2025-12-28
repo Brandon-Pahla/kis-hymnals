@@ -1,0 +1,56 @@
+{
+  "number": 515,
+  "language": "tw",
+  "title": "'W'rade Ne Me Hann",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "'W'rade ne me hann, dɛn nti na minsųro?",
+        "ɔbɛn me awia ne anadwo ny'naa;",
+        "ɔne me nkwagye, 'wrɛhow ne bɔne mu,",
+        "Honhom no na ɔmam' nidasosɛm yi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "W'rade ne me hann, me dɛw ne me dwom,",
+        "Odi m'anim awia ne anadwo;",
+        "'W'rade ne me hann, me dɛw ne me dwom,",
+        "Odi m'anim awia ne anadwo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'rade ne me hann, munumkum sɔrč a,",
+        "Gyidi a ɛhwɛ ɔs'ro pɔtee no;",
+        "Faako a Yesu di hen daa 'nuonyam mun',",
+        "Ͻnde dɛn nti nenkɔ so ntra sum."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'rade ne me hann, ne m'ahoɔden nso,",
+        "Minim sɛ medi nkonim Ne tumim',",
+        "ɔde 'hoɔden katam' mm'rɛwyɛ so dom mu,",
+        "ɔsɔ me mu ma me nantew gyidim' daa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'W'rade ne me hann, ne m'ade nyinaa,",
+        "N'anim hɔ de, esum biara nni bɔ;",
+        "ɔyɛ me Gyefo, m'Agyenkwa ne me Hen',",
+        "Me ne 'hotefo ne 'bɔfo yi N'ayɛ."
+      ],
+      "number": 4
+    }
+  ]
+}

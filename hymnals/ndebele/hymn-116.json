@@ -1,0 +1,47 @@
+{
+  "number": 116,
+  "language": "nd",
+  "title": "116 Akukho Lutho Luka Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U gcwele inhlupheko, Kanandawo uJesu?",
+        "U thunjiwe ng’umhlaba Kanandawo uJesu?",
+        "Nangu u mi emnyango Yiloku unqonqotha!",
+        "Yizwa u yakuncenga U nendaw’ uJesu na?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U cita isikhathi, Wenzela uJesu na?",
+        "U yaqeda amandla, Wenzela uJesu na?",
+        "Awuling’ukunqoba, Nokusindis’ abantu;",
+        "Nokubuyis’ umduki Kambe wenzel’ uJesu?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U fun’ imfuyo yezve K’unathuba ngoJesu?",
+        "U zihlalele kahle K’unathuba ngoJesu?",
+        "U zama ukuhlala Nobucebi bomhlaba,",
+        "U thokoza ngeze nje A wunak’ uJesu na?"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U thwele amahlamvu Ka naz’thelo ngoJesu?",
+        "Cha, nas’thung’ esandleni K’unas’thelo ngoJesu?",
+        "Wena u nako konke Kwokwenelis’ uJesu;",
+        "Kepha wojabha nako Msuku efik’ uJesu?"
+      ],
+      "number": 4
+    }
+  ]
+}

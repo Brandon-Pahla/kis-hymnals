@@ -1,0 +1,57 @@
+{
+  "number": 164,
+  "language": "tw",
+  "title": "Koko Bi Wɔ Aky'ri Nohoa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Koko bi wɔ aky'ri nohoa,",
+        "Kųro bi 'fasu akyi;",
+        "'Hɔ na wɔsɛn W'ra dɔfo a",
+        "Owu gyee yɛn nkwa no."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛrentumi nhu ntumi nky'rɛ",
+        "Yaw a Ohui wɔ hɔ;",
+        "Nanso yɛgye di sɛ yɛn nti",
+        "Na Ohuu amane."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Owui sɛ yebenya faf'ri;",
+        "Owui de siesiee yɛn,",
+        "Na awiei no yɛakɔ soro;",
+        "Ne mogya agye yɛn."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ade pa biara nni hɔ a",
+        "Ebetua bɔne ka;",
+        "ɔno nko na Otumi bue",
+        "S'ro pon' ma yɛhyɛn mu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔde dɔ kɛse adɔ yɛn,",
+        "'Sɛ sɛ yɛdɔ No bi,",
+        "Na yɛtwer' Ne gye mogya no,",
+        "Na yɛyɛ N'adwuma."
+      ],
+      "number": 5
+    }
+  ]
+}

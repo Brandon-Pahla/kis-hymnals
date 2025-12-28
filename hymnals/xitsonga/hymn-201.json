@@ -1,0 +1,24 @@
+{
+  "number": 201,
+  "language": "ts",
+  "title": "201. MBILU YANGA A YI CHAVA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HE BROUGHT ME OUT",
+        "1. Mbilu Yanga A Yi Chava Muvumbi, Loko Ndzi Nyuperile Vudyohweni, Ndzi Vitana Hosi Ndziri Ndzopeni, A Va A Ndzi Humesa Hi Tintswalo.",
+        "CHORUS",
+        "U Ndzi Humese E-Ridakeni, A Ndzi Veka Henhla Ka Ribye,",
+        "A Tsala Risimu Ka Mina, Ro Dzunisa Aleluya.",
+        "2. U Ndzi Veke Henhla Ka Rona Ntamba, Ndzi Tiseketela Hi Rona Tano,",
+        "Ndzi Ngaka Ndzi Nga Tlheleri Endzaku, Ndzi Ta Yima Ndzi Ko Ndzi Kuma Harhi.",
+        "3. U Ndzi Nyikile Risimu Lerintshwa, Ndzi Yimbelela Masiku Hinkwawo,",
+        "Mbilu Ya Mina Yi Tele Ku Tsaka, Ndzi Dzunisa Muponisi Wa Mina.",
+        "4. Ndzi Ta Yimba Ta Tintswalo Ta Yesu, Ndzi Ta Byi Dzunisa Vunene Byakwe,",
+        "Ndzi Ta Yimbelela Ta Muponisi, Ku Fika Loko Hosi Yi Tiviwa."
+      ],
+      "number": 1
+    }
+  ]
+}

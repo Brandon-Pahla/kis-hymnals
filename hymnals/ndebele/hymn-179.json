@@ -1,0 +1,53 @@
+{
+  "number": 179,
+  "language": "nd",
+  "title": "179 Bheka uMyeni!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U mlungele uMyeni na? Nxa eza! Nxa eza!",
+        "U mlungele uMyeni na? Nxa eza! Nxa eza!",
+        "Bheka u yeza! Bheka u yeza! Gqok’ u lindele, uMyen’ u yeza!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bheka uMyeni u yeza, u yeza",
+        "Bheka uMyeni u yeza, u yeza",
+        "Bheka u yeza, Bheka u yeza",
+        "Gqok’ u lindele uMyen’, u yeza"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mazivuthe izibani, Nxa sza! Nxa eza!",
+        "Mazivuthe izibani, Nxa sza! Nxa eza!",
+        "U za masinya, U za masinya O, mphefumlo, lindel’ uMyen’ eza!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Somhlangabeza si sonke, Nxa eza! Nxa eza!",
+        "Somhlangabeza si sonke, Nxa eza! Nxa eza!",
+        "U za ngempela, U za ngempela Somhlangabeza uMyeni eza!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sohlabel’ uAleluya, Nxa eza! Nxa eza!",
+        "Sohlabel’ uAleluya, Nxa eza! Nxa eza!",
+        "Nangu u yeza! Nangu u yeza Cul’ uAleluya, uMyen’ eza!"
+      ],
+      "number": 5
+    }
+  ]
+}

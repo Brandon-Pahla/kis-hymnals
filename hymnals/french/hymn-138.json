@@ -1,0 +1,58 @@
+{
+  "number": 138,
+  "language": "fr",
+  "title": "Le Seigneur seul",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Le Seigneur seul est ma lumière,",
+        "Ma délivrance et mon appui.",
+        "Qu’aurais-je à craindre sur la terre",
+        "Puisque ma force est toute en lui ?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Le Seigneur seul est ma lumière,",
+        "Ma délivrance et mon appui.",
+        "Le Seigneur seul est ma lumière,",
+        "Ma délivrance et mon appui."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pour m’assaillir, quand une armée",
+        "Tout autour de moi camperait,",
+        "Mon âme, sans être alarmée,",
+        "En l’Éternel s’assurerait."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Son bras puissant, à ma requête,",
+        "Un prompt secours me prêtera.",
+        "Et dans le fort de la tempête,",
+        "Sur un rocher m’élèvera."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mes yeux verront la délivrance",
+        "Que mon Sauveur m’accordera.",
+        "Aussi mon cœur, plein d’assurance,",
+        "En l’attendant s’affermira."
+      ],
+      "number": 5
+    }
+  ]
+}

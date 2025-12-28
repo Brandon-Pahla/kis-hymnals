@@ -1,0 +1,45 @@
+{
+  "number": 143,
+  "language": "tum",
+  "title": " 143 Fumu Mutendeske Tose",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 143 Fumu Mutendeske Tose",
+        "LORD DISMISS US"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Fumu mutendeske tose na vitumbiko vinu,",
+        "Tose muchitemwa chinu tkondwe taponoskeka,",
+        "Mupamphuske, mtipamphuske pa kwenda m charu ichi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Tikutamika 'mwe Fumu chifukwa cha uthenga,",
+        "Chawanangwa cha chiponosko chinu chiwe nase,",
+        "Tigomezge Imwe Fumu tende mu unenesko."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Umoyo withu 'mwe Fumu tikumupani Imwe,",
+        "Mutikhwimiskenge tose tingavukanga chara,",
+        "Mpaka tizakamwonani mu uchindami winu."
+      ],
+      "number": 4
+    }
+  ]
+}

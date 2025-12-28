@@ -1,0 +1,54 @@
+{
+  "number": 532,
+  "language": "es",
+  "title": "Sagrado es el amor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Sagrado es el amor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sagrado es el amor",
+        "que nos ha unido aquí,",
+        "a los que oímos del Señor",
+        "la voz que llama a sí."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A nuestro buen Jesús",
+        "rogamos con fervor:",
+        "que alúmbrenos la misma luz,",
+        "nos una el mismo amor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nos vamos a separar,",
+        "mas nuestra firme unión",
+        "jamás podrase quebrantar",
+        "por la separación."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nos hemos de encontrar",
+        "en celestial reunión;",
+        "que nadie haya de faltar",
+        "en la eterna Sion."
+      ],
+      "number": 5
+    }
+  ]
+}

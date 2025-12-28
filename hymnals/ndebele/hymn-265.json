@@ -1,0 +1,63 @@
+{
+  "number": 265,
+  "language": "nd",
+  "title": "265 Thul’ Uthi Du!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Thul’ uthi du!, Ezweni lomona",
+        "Kube khona uJesu kuwena"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thul’ uthi du!, Umsebenz’ omkhulu",
+        "Ukwena kahle intando kaJesu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thul’ uthi du! Usizi lukhulu",
+        "Kuyen’ uJesu sino kuthula"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thul’ uthi du!, Iz’hlobo zikude",
+        "Sigcinwe nguJesu siphephile"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thul’ uthi du!, Kusasa asazi",
+        "Kuphela nguJesu oyiNkosi"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thul’ uthi du!, Amathunz’ okufa",
+        "NgoJes’ anqotshwe, sinelifa"
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sekwenele komhlaba kwendlule",
+        "Ezulwini konke kuphelele"
+      ],
+      "number": 7
+    }
+  ]
+}

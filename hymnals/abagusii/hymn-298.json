@@ -1,0 +1,42 @@
+{
+  "number": 298,
+  "language": "guz",
+  "title": "298 Riogi Rie Chibesa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Riogi rie chibesa,'Kero chikogwa;Ker'eyem'as'are,Yes'achiire."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Igwa, Igwa, Igwa,Igwa, Buna chikogwa;Ker'eyem'as'are,Yes'achiire."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Chikogwa Korwa'as'Amaboko' a bana;'Keegw'ase Yeso,korw'as' abana."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Bono tor'abake,Twaret'ebike,'Kero twakinire,Toret'ebinge."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Totari na besa,Tomo' obwanchani,Nabiir'ebi'ebike,As'Omogoko."
+      ],
+      "number": 5
+    }
+  ]
+}

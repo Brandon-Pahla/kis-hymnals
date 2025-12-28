@@ -1,0 +1,47 @@
+{
+  "number": 54,
+  "language": "st",
+  "title": "54 Pelo E Hlatsoehileng",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ntho eo ke e kopang tseleng ea ka e liretse;",
+        "Le meleko e chesang, ntlhatsoisise, ntlhatsoisise."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ntlhatsoe kantle le ka hare ka mollo;",
+        "Leha ho le joang ha ke hane, sebe sona se shoe ruri se"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha u mpha pono e khanyang, kea thaba moeeng oa ka;",
+        "’Me haholo pelo e ncha ho hotle-hotle ho ’na."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E, ha pelo e hoekile ke tla ateloa ke pono",
+        "Bophelong ba hau ho bonoa ho hloekileng, ho hloekileng."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke hana tsel’e liretse le khopolo e lits’ila;",
+        "Leha ke leka ke loana ha kea hloeka, ha kea hloeka."
+      ],
+      "number": 5
+    }
+  ]
+}

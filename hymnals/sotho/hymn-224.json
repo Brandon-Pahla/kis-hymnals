@@ -1,0 +1,38 @@
+{
+  "number": 224,
+  "language": "st",
+  "title": "224 Phatsima Mohau.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Phatsima moau oa ntate, Tlung ea hae ea leseli,",
+        "’Me rona u re laele, Ho hasa seli bathong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Maseli a ke a tuke! A ee hole moo bathong",
+        "Ba ba lelerang lefifing, Ba tle ba bolokehe"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lefifi la sebe le teng, Maqhubu a lumaela,",
+        "Mahlo’a ratang a letile, Seli le moo ho lona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bonesa lebone la hao, E mong ea lahlehileng,",
+        "Ea lekang ho phopholetsa, A talime, a phele."
+      ],
+      "number": 3
+    }
+  ]
+}

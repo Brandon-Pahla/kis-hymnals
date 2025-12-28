@@ -1,0 +1,42 @@
+{
+  "number": 65,
+  "language": "luo",
+  "title": "65 Ruodha, Aheri Maradier",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ruodha, aheri maradier,Moloyo mor mar piny;Nikech imiya kuwe mariMa piny ok nyal ketho."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "To ji mang`eny pok ong`eyo(ong`eyo)Herani modhiero;To ji mang`eny pok ong`enyo(ong`eyo)Rembi moseluoka (oluoka)."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ang`eyo Intie buta,Ruoth, Moloyo ji me piny;Kaparoi ayudo morMoloyona mor piny."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Iketo morni e chunya,Ma piny ok nyal golo;Da ok abed gi herani,Kuyo dipong` chunya."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Kwayudo mor e ngimawaKwawuotho kodi ka,To wanayud mor manadeKwaneni Wang` gi Wang`."
+      ],
+      "number": 5
+    }
+  ]
+}

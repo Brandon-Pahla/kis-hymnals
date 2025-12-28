@@ -1,0 +1,35 @@
+{
+  "number": 101,
+  "language": "luo",
+  "title": "101 Chunguru Matek Kuom Ruoth",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Chunguru matekkuom Ruoth Nyasachwa,Kuneno chandruok,ka temruok biro;En e tekowa,bende ngimawaKa richo dwaro lowa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wachunguru matek,wachunguru matek,Kuom Kristo ma Lwandawa;Ka wadhil e lwenjwa,wanabed gi mor,Kod jogo molworo kom duong`."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Chungi kuom adierkiwuotho e piny,Bed gi chuny malerkod yie motegno;Kwageno Ruodhwa,wanalo chuthoRicho duto manie piny."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Chung` matek, gene,nomiyi loyo;Enoriti pilee piny marach;Kristo Ruoth kendemamiyi yueyoKa chandruokmar piny rumo."
+      ],
+      "number": 4
+    }
+  ]
+}

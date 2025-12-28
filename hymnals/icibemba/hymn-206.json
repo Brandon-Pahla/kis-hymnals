@@ -1,0 +1,32 @@
+{
+  "number": 206,
+  "language": "bem",
+  "title": "206 - CINTU NSHI WANCITILA?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WHAT HAST THOU DONE FOR ME?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nafwi-lile iwe wine, Wala-nciti-la nshi?",
+        "Kuti ulu-buke, Uku-fuma ku mfwa,",
+        "N'ine naku-fwili-le 'we, Wala-nciti-la nshi?",
+        "Nafwi-lile iwe wine, Wala-nciti-la nshi?",
+        "2. Ng'anda yakwa Tata, No lu-lumbi lwandi;",
+        "Nai-shile panshi, Uku-ti ‘ne ncule,",
+        "Fyonse fine nafi-shile, Bushe finshi washa?",
+        "Fyonse fi na-lifi-shile, Bushe finshi washa?",
+        "3. Nali kucu-lile, Ifyo nshinga-landa,",
+        "Uku-cula konse, Kuti upu-suke,",
+        "Naku-sende-le fi fyonse, Finshi wala-senda?",
+        "Naku-sendele fi fyonse, Finshi wala-senda?"
+      ],
+      "number": 2
+    }
+  ]
+}

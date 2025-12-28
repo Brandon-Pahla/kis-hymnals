@@ -1,0 +1,55 @@
+{
+  "number": 22,
+  "language": "sn",
+  "title": "22 Kuneni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndanzwa ngezvikomborero,",
+        "Murikuvapa Tenzi,",
+        "Vamwe varikugashira,",
+        "Madonhwe mundipenyi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuneni, Kuneni,",
+        "Madonhwe mundipenyi"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Musandipfuura Baba,",
+        "Kana ndashata ini,",
+        "Tenzi, musazondisiya,",
+        "Mutsa wenyu ndipenyi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndanga ndiri muchitema,",
+        "Ndine urombo ini",
+        "Moyo wabatwangepasi,",
+        "Mundisunungurenyi"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mudzimu musapfuure,",
+        "Mapofu murapenyi,",
+        "Ita umboyo waJesu,",
+        "Runyararo ndipenyi"
+      ],
+      "number": 5
+    }
+  ]
+}

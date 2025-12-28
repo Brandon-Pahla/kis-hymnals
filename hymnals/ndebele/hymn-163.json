@@ -1,0 +1,63 @@
+{
+  "number": 163,
+  "language": "nd",
+  "title": "163 Ngi Lapha Ngi Thume",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yizwa uJesu ebiza",
+        "Nguban’ ozosebenza?",
+        "Amasimu a vuthiwe",
+        "Nguban’ othwal’ iz’thungu?",
+        "iNkosi i yamemeza",
+        "Nank’ umvuzo wesihle",
+        "Uphi ozokusho athi,",
+        "Ngi la Nkosi ngi thume?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Um’ u ngewele ulwandle",
+        "U y’ekubahedeni",
+        "O yobafica eduze",
+        "Ba hlalelene nawe",
+        "Nob’ u ngesiy’ ingelosi",
+        "Nob’ u ngase Paule",
+        "Woland’ uthando lweNkosi",
+        "Uthi, Yafela bonke"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uma u ngebe uMlindi",
+        "Odongeni lweZion",
+        "U sho indlela yezulu",
+        "Yomusa kubo bonke",
+        "Ngom’thandazo nokuphana",
+        "Wenz’ intando yeNkosi",
+        "U kholeke njengo Aron",
+        "Ephasa umprofethi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa im’pefumlo i’ bhubha",
+        "iNkosi i kubiza",
+        "Yek’ izaba zobuvila",
+        "Uthi, ngi ngenze lutho",
+        "Yenz’ umsebenzi u vume",
+        "U jabulele wona",
+        "Ibiza shesh’ u sabele",
+        "Ngi lapha Nkosi, ng’thume!"
+      ],
+      "number": 4
+    }
+  ]
+}

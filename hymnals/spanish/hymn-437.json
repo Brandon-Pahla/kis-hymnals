@@ -1,0 +1,25 @@
+{
+  "number": 437,
+  "language": "es",
+  "title": "Tu presencia, Padre amado, da consuelo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Tu presencia, Padre amado, da consuelo"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu presencia, Padre amado,",
+        "da consuelo, trae paz.",
+        "Tu presencia, oh Señor,",
+        "da seguridad al alma.",
+        "Tu presencia danos hoy."
+      ],
+      "number": 2
+    }
+  ]
+}

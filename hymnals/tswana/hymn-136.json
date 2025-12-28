@@ -1,0 +1,38 @@
+{
+  "number": 136,
+  "language": "tn",
+  "title": "136 Kwa A Ka Nkisang Ke Tla Ya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kwa A Ka Nkisang Ke Tla Ya, K’ithutile Go M’ikanya,",
+        "Ke gakologelwa gore, O ntlhabetswe Khalefari."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Jeso O tla nkgoga gotlhe, Jeso O tla nkgoga tseleng,",
+        "Ke tsala e boikanyo, Ke gakologelwa Loso."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "K’itumela Taolong Ya ’Gwe, Ke Rata Ene A Nkgoga,",
+        "Monate go rata ga’Gwe, Go itshepisitswe Khal’fari."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke Tsamaya Go Se Poifo, Boitumelong Go Mmoloki,",
+        "Tsholofelong ya go bona Jeso Tsal’a me Khal’fari."
+      ],
+      "number": 3
+    }
+  ]
+}

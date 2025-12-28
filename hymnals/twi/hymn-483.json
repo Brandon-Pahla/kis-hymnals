@@ -1,0 +1,56 @@
+{
+  "number": 483,
+  "language": "tw",
+  "title": "Mihia Wo B're Nyinaa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mihia Wo b're nyinaa",
+        "Domfo Nyame!",
+        "Nne bi nte sɛ Wo dč a",
+        "Ͻma 'somdwoe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mihia Wo, ao, mihia Wo!",
+        "B're nyinaa mihia Wo!",
+        "M'Agyenkwa, hyira me nnɛ,",
+        "Maba Wo hɔ."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mihia Wo b're nyinaa,",
+        "Bɛtra me nkyɛn;",
+        "Sɔhwɛ y'ra ne tumi",
+        "B're a Wobɛn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mihia Wo b're nyinaa,",
+        "Dɛw muɔoo, yaw muɔoo",
+        "Bra ntɛm bɛtra me nkyɛm,",
+        "Na manyɛ kwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mihia Wo b're nyinaa,",
+        "Ky'rɛ me Wo pɛ;",
+        "Ma Wo bɔhyɛ pa no",
+        "Nwie pɛ me mu."
+      ],
+      "number": 4
+    }
+  ]
+}

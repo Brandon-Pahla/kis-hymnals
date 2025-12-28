@@ -1,0 +1,48 @@
+{
+  "number": 227,
+  "language": "ve",
+  "title": "227. Tshifhambanoni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:163",
+        "AH:091"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yesu o bvisa malofha, O fa Mune washu,",
+        "A dilata a tshi mpfela, Ha tshidzwa na nne."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ngei tshifhambanoni nne nda vhona tshedza,",
+        "Nda rulwa muhwalo wa mbilu yanga,",
+        "Henefho nda tenda nda vhona.",
+        "Zwino ndi a takala tshothe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Vhutshinyi hanga ho mu isa tshifhambanoni,",
+        "Ndi vhutungu na lufuno zwi akhamadzaho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Mitodzi ya u lila hanga a i nga nthusi,",
+        "Ndi da ha iwe Murena ndi a di nekedza ."
+      ],
+      "number": 4
+    }
+  ]
+}

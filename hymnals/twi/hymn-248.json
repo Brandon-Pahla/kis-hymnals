@@ -1,0 +1,46 @@
+{
+  "number": 248,
+  "language": "tw",
+  "title": "Sɛnea Medɔ Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Din bi wɔ hɔ a me kɔn dɔ",
+        "Sɛ mɛto ɛho dwom;",
+        "Egyigye  m'asom sɛ sanku,",
+        "Ͻyɛ dɛ sen din ny'naa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Sɛnea medɔ Yesu,",
+        "Sɛnea medɔ Yesu,",
+        "Sɛnea medɔ Yesu,",
+        "Sɛ Odii kan dɔɔ me."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻka Agyenkwa dɔ ky'rɛ me,",
+        "Nea Owu gyee me nkwa;",
+        "Ͻky'rɛ me Ne mogya dehye",
+        "Nea 'pata bɔne no."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ͻky'rɛ me Nea Ne dɔ koma",
+        "Te me mu yaw no nka;",
+        "ɔno na ɔsoa yɛn yaw a",
+        "Obi ntum' nsoa fam ha.\","
+      ],
+      "number": 3
+    }
+  ]
+}

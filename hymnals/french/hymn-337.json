@@ -1,0 +1,49 @@
+{
+  "number": 337,
+  "language": "fr",
+  "title": "La semaine a fui",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "La semaine a fui, Seigneur,",
+        "Du repos le jour a lui.",
+        "Nous venons, remplis d'ardeur,",
+        "Chercher ta face aujourd'hui.",
+        "Ô festin doux et joyeux,",
+        "Avant-goût déjà des cieux !",
+        "Ô festin doux et joyeux,",
+        "Avant-goût déjà des cieux !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rédempteur toujours clément,",
+        "En qui seul est le bonheur,",
+        "Reçois-nous en pardonnant,",
+        "Viens et lave notre cœur.",
+        "Nous voulons, dans ton amour,",
+        "Te louer en ce saint jour.",
+        "Nous voulons, dans ton amour,",
+        "Te louer en ce saint jour."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ta présence dans ces lieux",
+        "À nos cœurs se fait sentir,",
+        "Et ta gloire, ô Dieu des cieux,",
+        "À nos yeux vient resplendir.",
+        "Reste avec nous chaque jour,",
+        "Conduis-nous dans ton amour.",
+        "Reste avec nous chaque jour,",
+        "Conduis-nous dans ton amour."
+      ],
+      "number": 3
+    }
+  ]
+}

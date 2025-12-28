@@ -1,0 +1,76 @@
+{
+  "number": 174,
+  "language": "nso",
+  "title": " 174  GO THABIŠA BJANG?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 174  GO THABIŠA BJANG?",
+        "CH 387",
+        "HOW CHEERING!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tshepišo ya thabiša,",
+        "Ge re šoma mokhwi,",
+        "E re thuša mo lefaseng,",
+        "Le la mahloko,",
+        "(E re nea maatla le",
+        "Tsela ya mogau (kgaugelo));"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E re šupetša khutšo,",
+        "Pušong ya ga Kreste,",
+        "Moo re tlo dulago le baratwa,",
+        "Re sa kgaogane,",
+        "Moo re tlo dulago le baratwa,",
+        "Re sa kgaogane;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Faseng la go loka sebe,",
+        "Diteko ga di tsene,",
+        "Moo lethabo le dulago,",
+        "Go ya ka bosafelego,",
+        "Moo lethabo le dulago,",
+        "Go ya ka bosafelego;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Faseng leo ga go dillo,",
+        "Le lehu ga le gona,",
+        "Gobane bao ba tsenago gona,",
+        "ba bjalo ka mangeloi,",
+        "Gobane bao ba tsenago gona,",
+        "Ba bjalo ka mangeloi;"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phakiša nako,",
+        "Morena phakiša otle,",
+        "Re lakatša go go bona,",
+        "Gomme re ye motseng wa thabo;",
+        "Re lakatša go go bona,",
+        "Gomme re ye motseng wa thabo;"
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 120,
+  "language": "sn",
+  "title": "120 Ndinodayira",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Baba ndouya kwamuri; Hakuna umwezwe!",
+        "Kuti mandisiya ndeda; O ndinoendepi."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndodaira iye zvino, Jesu wandifira,",
+        "Ropa Rake raparara, kuchenesa ini."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mwana wenyu ndom’daira, ndinzwe simba renyu,",
+        "Zvidiso zvangu zvazadzwa, mune ino nguva."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Muvambi verudairo, Ndotarisa imwi,",
+        "Ndogashira chipo chenyu; Ndiponeswe nacho."
+      ],
+      "number": 4
+    }
+  ]
+}

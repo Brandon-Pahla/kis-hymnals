@@ -1,0 +1,65 @@
+{
+  "number": 67,
+  "language": "en",
+  "title": "67 Come We That Love The Lord",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Come, we that love the Lord,",
+        "And let our joys be known,",
+        "Join in a song with sweet accord,",
+        "Join in a song with sweet accord;",
+        "And thus surround the throne,",
+        "And thus surround the throne."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "We’re marching to Zion,",
+        "Beautiful, beautiful Zion;",
+        "We’re marching upward to Zion,",
+        "(heavenly Zion)",
+        "The beautiful city of God."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Let those refuse to sing,",
+        "Who never knew our God,",
+        "But children of the heav’nly King,",
+        "But children of the Heav’nly King",
+        "May speak their joys abroad,",
+        "May speak their joys abroad."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "The hill of Zion yields,",
+        "A thousand sacred sweets,",
+        "Before we reach the heav’nly fields,",
+        "Before we reach the heav’nly fields.",
+        "Or walk the golden streets,",
+        "Or walk the golden streets."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Then let our songs abound,",
+        "And ev’ry tear be dry;",
+        "We’re marching thro’ Immanuel’s ground,",
+        "We’re marching thro’ Immanuel’s ground,",
+        "To fairer worlds on high,",
+        "To fairer worlds on high."
+      ],
+      "number": 4
+    }
+  ]
+}

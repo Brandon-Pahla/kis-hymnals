@@ -1,0 +1,56 @@
+{
+  "number": 512,
+  "language": "tw",
+  "title": "B'rč a Mihia No No, Yesu Bɛn Me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "B'rč a mihia No no, Yesu bɛn me,",
+        "B'rč a mahwč ase anaa misuro;",
+        "ɔpɛ sɛ ɔboa me hyɛ me den",
+        "B'rč a mihia No mm'roso."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "B'rč a mihia No mm'roso,",
+        "B'rč a mihia No mm'roro,",
+        "Yesu bɛn me, ɔkyekye me w'rɛ",
+        "B'rč a mihia No mm'roso."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B'rč a mihia Yesu Nokwafo no,",
+        "ɔmpa me da wɔ  bra kwan yi mu;",
+        "ɔgye m'adesoa, ma me 'nigye,",
+        "B'rč a mihia No mm'roso."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B'rč a mihia Yesu Hoɔdenfo No,",
+        "ɔsoa m'adesoa da mu nyinaa,",
+        "De dwom si m'aw'rɛhow ananmu;",
+        "B'rč a mihia No mm'roso."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "B'rč a mihia No, m'ade nyinaa no,",
+        "ɔgye me so, sɛ mefrɛ No a,",
+        "ɔde dɔ wɛn na manhwe ase",
+        "B'rč a mihia No mm'roso."
+      ],
+      "number": 4
+    }
+  ]
+}

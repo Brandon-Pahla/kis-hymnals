@@ -1,0 +1,20 @@
+{
+  "number": 258,
+  "language": "ts",
+  "title": "258. RIPFUMELO RA XIKWEMBU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ONE LIVING FAITH",
+        "1. Ripfumelo Ra Xikwembu, Ri Yimile Emanwini,",
+        "A Ri Fani Na Man’wana, Ri Dzikile Entiyisweni.",
+        "2. Hi Tsetselele We Hosi, Hi Wu Tlurile Wo Nawu,",
+        "Wona Wu Hetisekile, Na Loko Hi Wu Tlurile.",
+        "3. Tsetselela lavo Biha, Hi Basise Na Swivati,",
+        "Ku Dyoha A Hi Ku Lavi, Pfuna Wena Mukutsuri."
+      ],
+      "number": 1
+    }
+  ]
+}

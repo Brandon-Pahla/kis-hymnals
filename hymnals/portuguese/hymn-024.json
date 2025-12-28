@@ -1,0 +1,44 @@
+{
+  "number": 24,
+  "language": "pt",
+  "title": "Desponta o Sol",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Desponta o Sol"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Desponta o Sol, e eu venho a Ti,",
+        "Senhor dos altos Céus;",
+        "Ouvir-me-ás a voz aqui,",
+        "A voz dos rogos meus?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bem cedo, ó Pai, irás me ouvir,",
+        "Sim, desde o arrebol;",
+        "Com Tua mão me conduzir;",
+        "Até o pôr-do-sol."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E quando enfim voltar Jesus,",
+        "Com glória e resplendor;",
+        "Que eu possa então, brilhando em luz,",
+        "Subir ao lar de amor."
+      ],
+      "number": 4
+    }
+  ]
+}

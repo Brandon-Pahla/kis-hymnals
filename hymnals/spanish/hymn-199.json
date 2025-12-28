@@ -1,0 +1,55 @@
+{
+  "number": 199,
+  "language": "es",
+  "title": "Movidos por tu Espíritu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Movidos por tu Espíritu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Movidos por tu Espíritu, Señor,",
+        "podemos alcanzar consagración,",
+        "lanzarnos a los campos con fervor",
+        "sirviéndote con gozo y devoción."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Muévenos, Señor; muévenos,",
+        "Señor.",
+        "Muévanos tu Espíritu, Señor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "El mundo necesita tu poder,",
+        "vencer al enemigo, conquistar",
+        "el Reino de justicia y conocer",
+        "al que tiene virtud para salvar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tu iglesia está despierta y en pie,",
+        "ungida con tu Espíritu de amor.",
+        "Unidos marcharemos por la fe",
+        "en Cristo nuestro amante",
+        "Redentor."
+      ],
+      "number": 5
+    }
+  ]
+}

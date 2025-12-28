@@ -1,0 +1,79 @@
+{
+  "number": 43,
+  "language": "tw",
+  "title": "Sɛ Anim Rebuebue",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ anim rebuebue,",
+        "Na me koma nyan a,",
+        "'Ayeyi nka Yesu!'",
+        "Adwumam' ne mpaebɔm'",
+        "Mitwi bɛn me Yesu:",
+        "'Ayeyi nka Yesu!'"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ asɔre dɔn bɔ",
+        "Gyigye mmepɔ mu a.",
+        "'Ayeyi nka Yesu!'",
+        "O muntie ne dwom noɔ",
+        "Ͻwoso ɔdɛw mu:",
+        "'Ayeyi nka Yesu! '"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nadwo dane 'dekyee,",
+        "Yefi komam ka sɛ:",
+        "'Avevi nka Yesu!'",
+        "Sum mu 'tumfo suro,",
+        "Sɛ wɔte saa dwom yi:",
+        "'Ayeyi nka Yesu!'"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mo aman'man nyinaa",
+        "'Ayeyi nka Yesu!'",
+        "Munhu mo nkabom ha:",
+        "Ma asase nyinaa,",
+        "Mfa 'h'rusi nto dwom no:",
+        "'Ayeyi nka Yesu!'"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "S'ro daa 'nigye mu no,",
+        "Eyi ne dwom pa no",
+        "'Ayeyi nka Yesu!'",
+        "'Sase ne po ne wim",
+        "Nnye so mfi fam nkɔ s'ro:",
+        "'Ayeyi nka Yesu!'"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nɔkwa yɛ me de yi,",
+        "Me soro dwom ne sɛ",
+        "'Ayeyi nka Yesu!'",
+        "Ma saa daapem dwom yi,",
+        "Nnyigye nnasanten mu;",
+        "'Ayeyi nka Yesu!'"
+      ],
+      "number": 6
+    }
+  ]
+}

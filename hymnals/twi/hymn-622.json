@@ -1,0 +1,35 @@
+{
+  "number": 622,
+  "language": "tw",
+  "title": "Mommra 'Hotefo, Munnsuro 'Dwuma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mommra 'hotefo, munnsuro 'dwuma,",
+        "Momfa dɛw nkɔ mō anim;",
+        "Ewon sɛ ɔkwan no mu yɛ yaw de,",
+        "Mubenya ɔdom pii;",
+        "Yɛwɔ 'W'rade teasefo bi a",
+        "ɔky'rɛ yɛn kwan 'hotoso mu,",
+        "Mo koma de dɛw bɛka sɛ;",
+        "Ne ny'naa ye! Ne ny'naa ye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yebenya hom' a Nyame asiesie,",
+        "B're a ɔbɛfrɛ yɛn;",
+        "Nea obi ntumi mma mmeyi yɛn hu'.",
+        "Obedi yɛn so hen',",
+        "Yɛde 'dwonto bɛhyɛ hɔ ma",
+        "Ayi Nyame yɛn Hen' ayɛ:",
+        "O, yɛbɛto dwom 'nigyem' sɛ:",
+        "Ne ny'naa ye! Ne ny'naa ye!"
+      ],
+      "number": 2
+    }
+  ]
+}

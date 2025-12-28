@@ -1,0 +1,56 @@
+{
+  "number": 179,
+  "language": "tn",
+  "title": "179 A O Iketleleditse Fa Monyadi A Tla?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "A O Iketleleditse Fa Monyadi A Tla?",
+        "A O iketleleditse Fa Monyadi a tla?",
+        "Bonang O e tla; bonang O e tla;",
+        "Aparang gonne Monyadi O e tla."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Bonang Monyadi, O e tla, O e tla;",
+        "Bonang Monyadi, O e tla, O e tla",
+        "Bonang O e tla; bonang O e tla;",
+        "Aparang gonne Monyadi O e tla."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tshubang Pone Tsa Lona. Fa A Tla, Fa A Tla;",
+        "Tshubang pone tsa lona. Fa a tla, fa a tla",
+        "O tla ka bonako; ka bonako;",
+        "Moya leta fa Monyadi a tla"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Tla Go Mo Kgatlhantsha, Fa A Tla Fa A Tla;",
+        "Re tla go Mo kgatlhantsha, Fa A tla fa A tla",
+        "Ruri O e tla; Ruri O e tla’",
+        "Re tla kgatlhantsha Monyadi fa’ tla."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Tla Bina Aleluja Fa A Tla, Fa A Tla;",
+        "Re tla bina aleluja Fa A tla, fa A tla;",
+        "Bonang o tla janong; O tla janong;",
+        "Aleluja Monyadi O e tla."
+      ],
+      "number": 4
+    }
+  ]
+}

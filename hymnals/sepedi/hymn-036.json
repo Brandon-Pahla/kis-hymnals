@@ -1,0 +1,46 @@
+{
+  "number": 36,
+  "language": "nso",
+  "title": " 36 TUMELO YA KA E LEBELETŠE WENA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 36 TUMELO YA KA E LEBELETŠE WENA",
+        "AH 204 CH 246",
+        "MY FAITH LOOKS UP TO THEE."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke lebeletše Wena,",
+        "Konyana' Khalefari, M'phološi,",
+        "O nkwe mo thapelong, O ntloše melato,",
+        "Go toga lehono, Ke be wa Gago,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kgaugelo ya \"Go e mphe maatla,",
+        "E ba tshepo, Gomme bjalo ka",
+        "ge o nkhwetše, A lerato la ka,",
+        "Le se ke la fetoga, Le phele,"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tseleng e leswiswi, Le mathateng,",
+        "O ntshepediše, O tloše leswiswi,",
+        "Phumula megokgo, O se ntlogelele,",
+        "Ka phonyoga;"
+      ],
+      "number": 4
+    }
+  ]
+}

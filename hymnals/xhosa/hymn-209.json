@@ -1,0 +1,39 @@
+{
+  "number": 209,
+  "language": "xh",
+  "title": "209 O! Ukuba Nawe Nkosi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O, ukuhamba nawe Nkos’ Uku Y’ ezulwini,",
+        "Ukukhanya endleleni, Kundisa kwiMvana."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Buya Moya oyiNgcwele, Zisa ukuphumla;",
+        "Mandithiye zonk’ izono Ezasahlulayo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndonwaba ndinawe, Nkosi, Isekh’ inkumbulo,",
+        "Ndisele ndedwa Ilizwe alinakonwaba."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Isithixo sangaphantsi, Endisithandayo,",
+        "Masihambe kuze wena, Ndikunqule wedwa."
+      ],
+      "number": 4
+    }
+  ]
+}

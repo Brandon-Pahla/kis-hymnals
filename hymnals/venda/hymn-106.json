@@ -1,0 +1,46 @@
+{
+  "number": 106,
+  "language": "ve",
+  "title": "106. Ri Fhate Kha Tombo li Tshilaho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:347",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ri fhata kha tombo li tshilaho, Yesu tombo la kale,",
+        "Ndi hone ri tshi do khuda, Mudzinginyo na milingo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ri do fhata-ha, Ri do fhata-ha,",
+        "Ri do fhata kha Kristo tombo lo khwathaho la Maanda"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. vhanwe vha fhata mutavhani, na kha lupfumo lwa shango,",
+        "vhanwe vho di tika zwivhini, kha dakalo la shango."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Fhata kha tombo la u khwatha, kha murango wo khwathaho,",
+        "Ene fulufhelo la kale, la u tshidzwa ha vhathu."
+      ],
+      "number": 4
+    }
+  ]
+}

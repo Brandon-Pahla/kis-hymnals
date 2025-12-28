@@ -1,0 +1,55 @@
+{
+  "number": 128,
+  "language": "nd",
+  "title": "128 Isikhathi Esibusisekile Somkhuleko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Is’khathi somkhuleko, Sithob’ inhliziyo.",
+        "Sisondela kuJesu, uMhlobe wethu;",
+        "Siza sikholwa kuYe, oSihlangu sethu.",
+        "Sithobo sokhathele!, Yeka ubumnandi!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Is’khath’ esihle, Yek’ ubumnandi!",
+        "Sithobo sokhathele!, Yeka ubumnandi!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Is’khathi somkhuleko, Nx’ uJes’ esondela.",
+        "Ngesisa es’thambile, ukuzw’ abAkhe,",
+        "Konke bangakubeki enyaweni zAkhe.",
+        "Sithobo sokhathele!, Yeka ubumnandi!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Is’khathi somkhuleko, Nxa abalingwayo.",
+        "Beletha kuJesu lonk’ usizi lwabo;",
+        "Ngenhliziyw’ enesisa, u sus’ imithwalo.",
+        "Sithobo sokhathele!, Yeka ubumnandi!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ebumnandini lobu, Sithemba kuJesu.",
+        "Sothol’ iz’ busiso esizidingayo;",
+        "Ngokuthemb’ okukhulu singnaki lutho.",
+        "Sithobo sokhathele!, Yeka ubumnandi!"
+      ],
+      "number": 5
+    }
+  ]
+}

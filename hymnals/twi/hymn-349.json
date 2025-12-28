@@ -1,0 +1,65 @@
+{
+  "number": 349,
+  "language": "tw",
+  "title": "Nyame Yɛ 'Dɔ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛahhyiam wɔ Kristo mu,",
+        "yɛn frɛ ne Kristo dɔ,",
+        "Kristo, yɛn dɔ, ka yɛn ho,",
+        "Ne nkyea yɛ nigye;",
+        "Momma yensuro na yɛnnɔ daa Nyame no;",
+        "Mmma yɛnnɔ Kristo wɔ ne",
+        "Nuanom nyinaam’"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        ":",
+        "Nyame yɛ 'dɔ",
+        "ɔwɔ nea nokwar'",
+        "dɔ wɔ biara.",
+        "Yɛahyiam wɔ kristo mu,",
+        "yɛn frɛ ne Kristo dɔ,",
+        "Kristo, yɛn dɔ, ka yɛn ho,",
+        "Ne nkyea yɛ 'nigye;",
+        "Momma yensuro na",
+        "yɛnnɔ daa Nyame no;",
+        "Momma yɛnnɔ Kristo",
+        "wɔ ne Nuanom nyinaam'."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ yɛn Kristofo hyiam",
+        "sɛ nipadua k'ro a,",
+        "Momma yennya honhom k'ro",
+        "nyi mpaapaemu hɔ",
+        "Na yɛmpam abufuw,",
+        "ap'rep're ɔko,",
+        "Kristo, yɛn Nyankopɔn,",
+        "bra bɛtra yɛn mu daa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma yɛne ahy'rafo no",
+        "nnya ɔdɔ mu dɛw",
+        "Brč a yɛbehu W'anim",
+        "'nuonyam mu, O 'Gyenkwa,",
+        "Hy'rɛn yɛn so, abɔde",
+        "nyinaa Hann kronkron no,",
+        "Yɛ yɛn anigye brč a",
+        "nnasanten kamfo Wo."
+      ],
+      "number": 3
+    }
+  ]
+}

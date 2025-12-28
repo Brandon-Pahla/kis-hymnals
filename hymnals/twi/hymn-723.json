@@ -1,0 +1,55 @@
+{
+  "number": 723,
+  "language": "tw",
+  "title": "N28 Hark, Hark, my Soul",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Tie me kra tie, abɔfo nnwom rewosow",
+        "Asase so mfuw so ne mpoano nso!",
+        "Nsεm a wɔde ‘sanku rebε no yε dεw,",
+        "Nkwa fof'ro a bɔne remfram' ho nsεm!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yesu abɔfo, Hann abɔfo",
+        "Reto dwom ma sum mu",
+        "‘Kwantufo ‘kwaaba."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yεkɔ anim, yεte sε wɔreto sε:",
+        "“Mommra ‘kra ‘brεfo, Yesu se mommra”;",
+        "Nnwom no dεw gyigye wɔ sum mu baabiara,",
+        "Asεmpan' ho dwom no de yεn kɔ fie."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Egyigye aky'riky'ri sε anwumm're dɔn;",
+        "Yesu nne gyigye ‘sase ne po so,",
+        "Na akra abrεfo mpempem dan wɔn ho,",
+        "Ba Wo nkyεn, Oguanhwεfo yamyefo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Abɔfo! Monto dwom, na monkɔ so nwεn,",
+        "Monto soro nnwom no bi nkyerε yεn;",
+        "Kosi sε ‘nigye besi su ananmu,",
+        "Na ɔkra sum bεdan adekyee dɔ."
+      ],
+      "number": 4
+    }
+  ]
+}

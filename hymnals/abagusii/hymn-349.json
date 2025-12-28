@@ -1,0 +1,42 @@
+{
+  "number": 349,
+  "language": "guz",
+  "title": "349 Yes'otorangeirie",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yes'Otorangeirie Korwa,'S'egeturi gi'ens'eye;Botambe nkorangeri'are,\"Omokristo ntunyana\"."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Naki aborokigwa baye,Mbaigwet'okorangeria;Bagatig'ebinto bionsi,Babakorer'abande."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Torangeirie totigegosasim'emegwekano;Ateba \"Mokristo nyanchemono kobua ense\"."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'S'amatuko yomogoko.Nonya nay'emechando;Arangeria, \"Omokristo;Nyanche mono kobua\""
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. 'Torangeiri'as'amabera,Tokony'erio tokoigwe;Tokoigwere na kogwancha,Togokorere buya."
+      ],
+      "number": 5
+    }
+  ]
+}

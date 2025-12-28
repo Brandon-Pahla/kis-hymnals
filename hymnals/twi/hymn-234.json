@@ -1,0 +1,47 @@
+{
+  "number": 234,
+  "language": "tw",
+  "title": "Kristo, Wiase Hann, Obi Nka Ne Ho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kristo, wiase Hann, obi nka Ne ho,",
+        "ɔwoo No sum yim' ma ɔbɛyɛɛ yɛn Nua;",
+        "Sɛ yehu No a, na yɛahu Agya no,",
+        "Anuonyam nka Nyame."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kristo, yɛn 'Somdwoe, obi nka Ne ho,",
+        "Obi ntum' nsom No, mmu ne yɔnko 'nimtia;",
+        "Hena ka yɛn bom Agya Nyankopɔn mu?",
+        "Anuonyam nka Nyame!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kristo, wiase Nkwa, obi nka Ne ho,",
+        "Nea wɔtɔnee No, yɛn Nua a wokum No;",
+        "Nea ɔgyee yɛn no ne Agya no di hen',",
+        "Anuonyam nka Nyame!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Nuonyam nka Nyame, obi nka Ne ho,",
+        "'Nuonyam nka Nyame, honhom, 'Ba ne Agya;",
+        "'Nuonyam nka Nyame a ɔdanee 'nipa",
+        "Anuonyam nka Nyame!"
+      ],
+      "number": 4
+    }
+  ]
+}

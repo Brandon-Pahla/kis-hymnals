@@ -1,0 +1,48 @@
+{
+  "number": 268,
+  "language": "tn",
+  "title": "268 Morena Bona Sefefo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Morena Bona Sefefo; Makhubu A A Tlola.",
+        "Godimong go maru a mantsho; Ga go thuso gaufi;",
+        "A ga O bone re ya swa? A O robaletseng?",
+        "Fa nako tsotlhe di theregisa, Bobipo mo botenyeng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Diphefo, makhubu, di tla nkutlwa, He kgaotsang’",
+        "A ke lewatle je le tlolang, A temona, a batho, a eng le eng,",
+        "Ga o kake wa nwela mokoro, Ka mung wa lobopo a le mo",
+        "teng;",
+        "Di tla le utlwa lentswe ja Me ; He kgaotseng, He kgaotsang,",
+        "Di tla le utlwa lentswe ja me, He lo kgaotseng."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena Ke Mo Tlalelong Bofutsaneng Kajeno;",
+        "Ke mo phuduegong ya pelo Ao tsoga O mpoloke,",
+        "Dibe di ntsetse tlalelong Ke fupetse moyeng;",
+        "Mme ke ya swa, ke ya swa, Morena; Akofa mme O laole."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena Poifo E Ile. Gotlhe Go Mo Boikhutsong;",
+        "Tsatsi le phatsema lewatleng, Legodimo le gaufi;",
+        "O nne le nna Mompoloki, Se ntese bojosing;",
+        "Boipelong ke tla fitlha tsibogong, K’ikhutse boitumelong."
+      ],
+      "number": 3
+    }
+  ]
+}

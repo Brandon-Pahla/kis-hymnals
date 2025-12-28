@@ -1,0 +1,47 @@
+{
+  "number": 270,
+  "language": "sn",
+  "title": "270 Mununuri Wedu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mununuri wedu anotioneka tose",
+        "Mutungamiri nemunyaradzi wedu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mweni anotipa mweya, nekunaka kwose",
+        "Kuti aone mwoyo wekuzorora"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Inzvi rake tinorinzwa, mumanheru ose",
+        "Rinonyaradza nekuonesa denga"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvese zvimiro tinazvo nekuriro dzese",
+        "Nepfungwa dzese dzinoyera ndedzake"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Netsitsi dzake dzione, kunyorova kwedu",
+        "Garaivo nesu tifanane nemwi"
+      ],
+      "number": 5
+    }
+  ]
+}

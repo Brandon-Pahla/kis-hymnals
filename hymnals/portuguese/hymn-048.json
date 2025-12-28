@@ -1,0 +1,52 @@
+{
+  "number": 48,
+  "language": "pt",
+  "title": "Ó, Vinde, Adoremos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ó, Vinde, Adoremos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chegai-vos, ó crentes, vinde jubilosos",
+        "Sigamos a estrela do céu de Belém!",
+        "Eis que é nascido Cristo, Rei da glória!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Ó, vinde, adoremos!",
+        "Ó, vinde, adoremos!",
+        "Ó, vinde, adoremos o Rei Salvador!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó coros celestes, plenos de harmonia,",
+        "Uni-vos aos povos, cantai com fervor!",
+        "Ó, dai hosanas, glória nas alturas!"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Com altos louvores, glória a Deus rendemos,",
+        "Por Cristo que ao mundo desceu lá do além!",
+        "Oh! para sempre temos Deus conosco!"
+      ],
+      "number": 5
+    }
+  ]
+}

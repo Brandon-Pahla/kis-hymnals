@@ -1,0 +1,42 @@
+{
+  "number": 50,
+  "language": "luo",
+  "title": "50 Kristo Obedo Misango Mar Golo Richo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Kristo noluoko richona,En Jawar miwuoro ngang`!Ochulo nengo nikech wan,En Jawar miwuoro ngang`!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En Jawar miwuoro ngang`!En Yesu, En Yesu,En Jawar miwuoro ngang`!En Yesu Ruodha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Apake kuom remo maler,En Jawar miwuoro ngang`!Moriwo chunya gi Nyasaye,En Jawar miwuoro ngang`."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ogolo richo e chunya,En Jawar miwuoro ngang`!Koro obedo Ruoth maduong`,En Jawar miwuro ngang`."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Owuotho koda yo duto,En Jawar miwuoro ngang`!Omiya teko mar ritruok,En Jawar miwuoro ngang`!"
+      ],
+      "number": 5
+    }
+  ]
+}

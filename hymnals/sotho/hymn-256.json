@@ -1,0 +1,39 @@
+{
+  "number": 256,
+  "language": "st",
+  "title": "256 Molimo Thuso Ea Rona",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Molimo thuso ea rona, Ts’episo kamehla;",
+        "Ts’ireletso le sefefong, Hae la bosafeleng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moriting oa terone, Ho bahalaleli,",
+        "Tsoho la Hau le lekane, Thebe ea sebele."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lithaba li e so tsoaloe, Fats’e le e so bopjoe,",
+        "Ho tloha bosafeleng, U nts’u le Molimo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sekete sa mengoaha, Eka phirima;",
+        "Se ka ba joaloka meso, Pele ho letsatsi."
+      ],
+      "number": 4
+    }
+  ]
+}

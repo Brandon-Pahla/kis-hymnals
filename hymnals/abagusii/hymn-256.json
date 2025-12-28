@@ -1,0 +1,49 @@
+{
+  "number": 256,
+  "language": "guz",
+  "title": "256 Nyasae Karache Kogambia",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nyasae karache kogambia,Ebisaku bi'ense eye;Gatwarangerigw' ekin' ekio,Nkogamba ki toragambwe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nabobek' obori bwaye kiage,N'omoiruro nayotugute;Naki torab' as' ekin' ekio,Rituko ri' okobokigwa?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Toigwe Yeso ogorotebia,\"Mbuya mon'omosomb' one\";Gose toserigwe kegima,N'abanto ababe bonsi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. 'Gok' eker'aror' abaye,Babwat' ekemanyererio;Babeke chianga chindabu,Batenene ang'e nere."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tosabe rigoro twaganya,chitaya chiaito chiogete,Ker'omonywomi akorangeria,Ntobe ang'e kogenda nka."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Natomenye na gosemeria,'S' okogany' engaki eyioKer' orogendo rwaerire,Toikarans' as' obonene."
+      ],
+      "number": 6
+    }
+  ]
+}

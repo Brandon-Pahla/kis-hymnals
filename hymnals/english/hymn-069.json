@@ -1,0 +1,46 @@
+{
+  "number": 69,
+  "language": "en",
+  "title": "69 We’ll Tarry By The Living Waters.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "We’ll tarry by the living waters,",
+        "The fountain pure and free;",
+        "There Jesus waits to us welcome,",
+        "A welcome sweet ‘twill be."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "We’ll tarry by the living waters,",
+        "Tarry by the living waters.",
+        "Tarry by the living waters",
+        "Tarry by the fount of life."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "When weary with the toilsome journey,",
+        "‘Tis sweet to rest a while;",
+        "Where crystal waters gently murmur,",
+        "And sunny fountains smile."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Then come to Christ, the living water,",
+        "Thy strength will he restore;",
+        "Come, taste the joy of his salvation,",
+        "And drink to thirst no more."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 17,
+  "language": "tw",
+  "title": "Abɔde Ne Soro Wura",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Abɔde ne soro Wura,",
+        "Owia yi W'anuonyam adi:",
+        "Wone abrabɔ nnyinaso,",
+        "Wobɛn koma dɔfo biara."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛn nkwa Awia, Wo nkwa hann no,",
+        "Hy'rɛn ma egyigye yɛn kwan so;",
+        "Yɛn 'nidaso ns'romma, Wo hann",
+        "Kyekye yɛn werɛ dasu mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "W'anim hintaw a sum d'ru yɛn,",
+        "Wo pue yɛ yɛn owigyinae;",
+        "Nyankontɔn, Wo dom sɛnky'rɛnne:",
+        "Ade nyinaa wɔ W', gye bɔne!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fam ne s'ro nkwa nyinaa Wura,",
+        "Wo hann yɛ nokware ne dɔ;",
+        "Wo hann ahengua no anim,",
+        "Yɛnhwehwɛ yɛn ankasa hann."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Wo nokware no dom yɛn,",
+        "Gye koma a ɛhwehwɛ Wo yi.",
+        "Na W'afɔremuka nyinaa",
+        "Nyɛ kronkron sɛ ogyaframa."
+      ],
+      "number": 5
+    }
+  ]
+}

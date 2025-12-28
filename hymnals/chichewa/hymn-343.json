@@ -1,0 +1,22 @@
+{
+  "number": 343,
+  "language": "ny",
+  "title": "343 - Mticitire Cifundo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "LORD, HAVE MERCY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mticitire cifuno, Ambuye,",
+        "Mtithandize kusunga lamulo. Amen"
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 112,
+  "language": "sw",
+  "title": "112 - Wewe umechoka sana?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Wewe umechoka sana? Wataka raha?",
+        "Kwake Yesu utapata msaada."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Alama anazo yeye? Sana makovu,",
+        "Ya mikono na miguu na mbavu."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Naye amevikwa taji, kichwani mwake?",
+        "Taji kweli alivikwa miiba."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 4,
+      "lines": [
+        "Huku nikimfuata, nipate nini?",
+        "Maonjo nje na ndani - amani."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 5,
+      "lines": [
+        "Kwamba namwandama yeye, mwisho ni nini?",
+        "Kurithi furaha naye - milele."
+      ]
+    }
+  ]
+}

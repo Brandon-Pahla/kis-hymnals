@@ -1,0 +1,39 @@
+{
+  "number": 14,
+  "language": "st",
+  "title": "14 Utloang Lipeni Li Ea Oa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Utloang peni lia oa, mamelang li ’oa;",
+        "Tsohle ke tsa Jesu, O tla li nka tsohle."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ts’ere, ts’ere ts’ere, ts’ere, utloang li ea oa,",
+        "Tsohle ke tsa Jesu, O tla li nka tsohle."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ts’ere, ts’ere fela, mo liatlanyaneng,",
+        "Re li neha Jesu, re bana ba Hae."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka ha re le bana, re na le peni; ’e ha re holile, re tla eketsa.",
+        "Le ha li le ’nyane, re ea mo rata; O nka mpho ea rona, A",
+        "bososela."
+      ],
+      "number": 3
+    }
+  ]
+}

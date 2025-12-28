@@ -1,0 +1,57 @@
+{
+  "number": 108,
+  "language": "tum",
+  "title": " 108 Yesu Mliska Muweme",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 108 Yesu Mliska Muweme",
+        "LOVINGLY, TENDERLY CALLING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Yesu mliska muweme, wakumuchemani,",
+        "Munjire mu lukutu, kuti mupumule,",
+        "Zaninge mwawalala, na wawukirano",
+        "Njirani mu lukutu, m'nthowa ya umoyo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wakuchema mu chinthemwa chake,",
+        "Mwawakuzgewa 'mwe mwize kwane,",
+        "MLiska muweme wakuLindizga,",
+        "Yesu muLiska wane."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Yesu mliska muweme, wakafwira ine,",
+        "Na sono wakuchema wakuzgewa wose,",
+        "Mwe kuwalo nkhwakofya, zani wakuchema,",
+        "irani mu lukutu, zaninge mpumule."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Yesu mliska muwe wakuchema mbwenu,",
+        "Mungaziwulikanga, mphumphi zikupyunga,",
+        "IKupenja mberere, zakuzgewa zirye,",
+        "irani mu lukutu, malo ghachan"
+      ],
+      "number": 4
+    }
+  ]
+}

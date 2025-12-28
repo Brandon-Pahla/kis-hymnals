@@ -1,0 +1,44 @@
+{
+  "number": 303,
+  "language": "es",
+  "title": "Sublime gracia",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Sublime gracia"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sublime gracia del Señor,",
+        "de muerte me libró.",
+        "Perdido fui, me rescató;",
+        "fui ciego, me hizo ver."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mi corazón enterneció,",
+        "mis dudas disipó.",
+        "Preciosa fue la hora en que",
+        "rendí mi vida a él."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesús promete darme el bien;",
+        "confío siempre en él.",
+        "Mi protector y guía fiel",
+        "me llevará al hogar."
+      ],
+      "number": 4
+    }
+  ]
+}

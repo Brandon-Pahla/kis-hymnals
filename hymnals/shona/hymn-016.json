@@ -1,0 +1,45 @@
+{
+  "number": 16,
+  "language": "sn",
+  "title": "16 Chengetai Tukumbo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nhasi maoko angu,",
+        "Ndasamba’wo kwazvo",
+        "Ndaapa kuna Jesu,",
+        "Kuita basa’ro"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Chengetai tukumbo, Apo twafamba;",
+        "Zviro’zvo zvaJesu, Basi ndinoda"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nzeve dzangu ndaudza,",
+        "Kuterera kunzwa",
+        "Zvebasa’ro remutsa,",
+        "Zvondingabatsira"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Maziso anangisa,",
+        "Zvemaoko angu",
+        "Arege kunyangadza,",
+        "Pam’sana paJesu"
+      ],
+      "number": 4
+    }
+  ]
+}

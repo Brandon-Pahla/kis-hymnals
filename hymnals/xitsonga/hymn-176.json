@@ -1,0 +1,22 @@
+{
+  "number": 176,
+  "language": "ts",
+  "title": "176. NTSHEMBHO WA NKATEKO",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "BLESSED HOPE",
+        "1. Ntshembho Wa Nkateko, Hi Wona Wa Nkoka;",
+        "Wu Kule Na Swo Biha, Misava Ya Wu Kala.",
+        "2. Nyeleti Yo Rhandzeka, Voninga Munyamen;",
+        "Hi Miseve Yo Rhula, Leswaku Hi Ta Vona.",
+        "3. Rito Ro Tlhavula, Ri Rhurisa Moya;",
+        "Susa Gome, Ku Kanakana, Hi Kombise Rirhandzu.",
+        "4. Ri Huma Golgota, Ra Hi Rivalela;",
+        "Nhlavutelo Ya Yesu, Tshembha, Tshembha Ra Tilo."
+      ],
+      "number": 1
+    }
+  ]
+}

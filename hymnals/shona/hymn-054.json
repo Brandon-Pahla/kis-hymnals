@@ -1,0 +1,57 @@
+{
+  "number": 54,
+  "language": "sn",
+  "title": "54 Mwoyo Wakachena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinoda chimwe’cho chiro",
+        "Kuti Tenzi, anondipa",
+        "Kana ngemvura, ngemwoto",
+        "Ndinochema, ndinochema"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mundisambe … mwoyo wese…",
+        "Kana m’mwoto… mundipise…",
+        "Hazvinenyi zvozvitema…",
+        "Zvinopera…zvinopera"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuti mundipe kuona",
+        "Ngepachena, ndichafara",
+        "Asi kucheneswa m’woyo",
+        "Kwondifadza, kwondifadza"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asi kuti ndacheneswa",
+        "Ndizvo ndingazonzwisisa",
+        "Ndizvozvo zviro’zvo zvenyu",
+        "Tinoona, tinoona"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinosiya zvakaipa",
+        "Nezvifungo zvakashata",
+        "Asi kana ndichiyedza",
+        "Ndakaipa, ndakaipa"
+      ],
+      "number": 5
+    }
+  ]
+}

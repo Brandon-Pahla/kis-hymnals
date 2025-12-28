@@ -1,0 +1,60 @@
+{
+  "number": 509,
+  "language": "es",
+  "title": "¡Firmes! ¡Fuertes!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¡Firmes! ¡Fuertes!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Siervos de Jesús, hombres de",
+        "verdad,",
+        "guardas del deber, somos, sí;",
+        "libres de maldad, ricos en bondad,",
+        "fieles en la lid seremos, sí."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Firmes! ¡Fuertes! Alcen la",
+        "bandera,",
+        "grande, noble emblema del deber.",
+        "¡Prontos! ¡Bravos! Pasen la",
+        "consigna,",
+        "marchen todos, vamos a vencer."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Cuán hermosos son los que sin",
+        "temor,",
+        "listos, al llamar del clarín,",
+        "luchan con valor, sufren sin cesar;",
+        "guardas del deber hasta el fin."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nuestro Capitán es ya vencedor,",
+        "él nos redimió por su cruz.",
+        "Guardas del deber, él nos da",
+        "poder,",
+        "él nos guiará hasta la luz."
+      ],
+      "number": 5
+    }
+  ]
+}

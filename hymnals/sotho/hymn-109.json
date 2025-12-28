@@ -1,0 +1,38 @@
+{
+  "number": 109,
+  "language": "st",
+  "title": "109 Lekantsoe ’Me U Chatsi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mohla moahloli A re, Lekanyetsang bofelo,",
+        "Re tla ba tje ka gauda? Kapa tje ka lefifi.."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "U lekantsoe ke Morena, ’Me u chatsi;",
+        "U sebelitse hantle, Kapa U chatsi?"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A re tla utloa ha ho thoe, “Mohlanka ea khabane;",
+        "U sebelitse hantle, Kapa U chatsi, na?”"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Na re tla mamela moea, ha ntse re kopa mohau,",
+        "Kapa re tla lieha, Ho be ho llaeloe ts’enyo."
+      ],
+      "number": 3
+    }
+  ]
+}

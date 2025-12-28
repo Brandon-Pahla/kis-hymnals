@@ -1,0 +1,49 @@
+{
+  "number": 464,
+  "language": "tw",
+  "title": "Sɛ Mitumi Hu Me Din No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ mitumi hu me din no",
+        "ɔsoro fie hɔ a,",
+        "Megya ehu biara aky'ri",
+        "Mɛpopa me nusu;",
+        "Mɛpopa me nusu,",
+        "Mɛpopa me nusu,",
+        "Megya ehu biara aky'ri,",
+        "Mɛpopa me nusu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ 'sase sɔre tia me kra,",
+        "Wɔto me agyan a,",
+        "Ͻnde mɛs'rew Satan 'bufuw,",
+        "Mehyia wiase munu;",
+        "Mehyia wiase munu;",
+        "Mehyia wiase munu;",
+        "Ͻnde mɛs'rew Satan 'bufuw",
+        "Ahyia wiase muna."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma ɔhaw mmra sɛ nsuyiri,",
+        "Na amanehum' ntɔ!",
+        "Nanso medu me fie 'hotɔm,",
+        "Nyame, m'ade nyinaa;",
+        "Nyame, m'ade nyinaa,",
+        "Nyame, m'ade nyinaa,",
+        "Nanso medu me fie 'hotɔm",
+        "Nyame, m'ade nyinaa;"
+      ],
+      "number": 3
+    }
+  ]
+}

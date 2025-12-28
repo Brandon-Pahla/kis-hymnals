@@ -1,0 +1,68 @@
+{
+  "number": 223,
+  "language": "pt",
+  "title": "Jesus Achou-me",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Jesus Achou-me"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus um dia achou-me",
+        "Mui longe do me lar,",
+        "Perdido já no mundo,",
+        "Sem mais poder voltar.",
+        "Nos braços Seus tomou-me,",
+        "Por Seu amor salvou-me,",
+        "E com dulçor levou-me",
+        "De volta para o lar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "A presença de Jesus",
+        "Dá-me paz, prazer e luz.",
+        "Cada dia cresce, mais se enriquece",
+        "Esta vida com Jesus."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Andamos pelos montes",
+        "Pra minha fé provar.",
+        "Tão densas são as trevas!",
+        "Não posso caminhar!",
+        "Não há nenhum perigo",
+        "Pois Cristo está comigo,",
+        "E este grande Amigo",
+        "Conduz-me para o lar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Passamos pelos vales,",
+        "Quão bom é relembrar!",
+        "Despertam as saudades",
+        "Do meu paterno lar.",
+        "Oh, quão maravilhoso",
+        "Sentir tão alto gozo:",
+        "O Amigo tão precioso",
+        "Levar-me vai ao lar."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 181,
+  "language": "tw",
+  "title": "So Yesu Fa Ho, B're a Koma",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "So Yesu fa ho, b're a koma",
+        "Bɛyɛ d'ru wɔ aw'rɛhow mu?",
+        "B're a nnesoa ne dadwen hyɛ me so,",
+        "Na kwan no ayɛ brɛ nko no?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Yiw, ɔfa ho, minim no saa;",
+        "M'aw'rɛhow ka Ne koma;",
+        "Nna no yɛ ɔbrɛ na 'nadwo yi hu a,",
+        "Minim ɔdwen me ho."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "So Yesu fa ho, b're a sum ne",
+        "S'ro ne hu hyɛ me kwan ma no?",
+        "Sɛ adekyee hann dan 'nadwo sum a,",
+        "Ͻfa Ne ho sɛ ɔbɛn me?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "So Yesu fa ho, b're a me ne",
+        "'Sase so adɔfo di nkra,",
+        "Na me koma di awerɛhow no?",
+        "So ɛfa Ne ho, na Ohu?"
+      ],
+      "number": 3
+    }
+  ]
+}

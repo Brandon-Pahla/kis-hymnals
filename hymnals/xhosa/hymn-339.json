@@ -1,0 +1,47 @@
+{
+  "number": 339,
+  "language": "xh",
+  "title": "339 Sine-Lizwe LikaThixo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sine-Lizwi lika-Thixo, Sinobomi ngalo;",
+        "Siyazaz’ izono zethu, No-Msindisi ngalo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lihambile elolizwi, Lisahamba lona;",
+        "Ezozizwe ezikude Zilindele lona."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ziyoyisw’ intshaba zaKho Ngezwi laKho, Nkosi;",
+        "Wozalisw’ umhlaba wonke Ngezwi laKho, Nkosi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Imilambo yelilizwe Yovuyiswa ngalo;",
+        "Abantwana bezizizwe Botyetyiswa ngalo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zakuphel’ imfazwe zonke Ngezwi laKho, Thixo;",
+        "Kwakulaul’ uxolo lodwa Ngezwi laKho, Thixo."
+      ],
+      "number": 5
+    }
+  ]
+}

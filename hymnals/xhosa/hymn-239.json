@@ -1,0 +1,63 @@
+{
+  "number": 239,
+  "language": "xh",
+  "title": "239 Udiniwe Na?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Udiniwe? Utyhafile? Unosizi na?",
+        "\"Yiza kum,\" utsho uYesu, \"uphumle.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unawo na amanxeba Umkhokeli wam?",
+        "Enyaweni, ezandlen’ ecaleni."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Unaso na isithsaba entloko yaKhe?",
+        "Ew’ unaso isithsaba, Sameva."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndimfumene ndamlandela, Ndozuza ntoni?",
+        "Au! Usizi, ubunzim’ Iinyembezi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa ndibambelela kuYe, Ndozuza ntoni?",
+        "Ndohlala ngokonwaba NaY’ eKhaya."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa ndithi makandamkele, Angala yini?",
+        "Akangekhe kude Kudlule konke."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndimthembile ndamlandela, Ndobusiswa na?",
+        "Abangcwele bathi, \"Ewe, kunjalo!\""
+      ],
+      "number": 7
+    }
+  ]
+}

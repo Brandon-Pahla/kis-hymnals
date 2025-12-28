@@ -1,0 +1,31 @@
+{
+  "number": 25,
+  "language": "bem",
+  "title": "25 - FYONSE NACIMBILA YESU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "ALL TO JESUS I SURRENDER"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Fyonse nacimbila Yesu Fyonse ndemupela fye;",
+        "Nkamutemwa nshiku shonse, No kwikala nankwe pe.",
+        "CHORUS:",
+        "Fyonse nacimba, Fyonse nacimba,",
+        "Kuli lmwe Mupusushi, nacimba fyonse.",
+        "2. Fyonse nacimbila Yesu, Ndefukama ku nkasa:",
+        "Naposa fyonse fya calo, Mbula Yesu mbuleni.",
+        "3. Fyonse nacimbila Yesu, Ncita mbe wamushilo;",
+        "Mupashi mube na ine, Ngumfwe kuti mbe wenu.",
+        "4. Fyonse nacimbila Yesu Nomba ningumfwa Wene;",
+        "Luseko lwa bupususho! Mulumbanyeni bonse."
+      ],
+      "number": 2
+    }
+  ]
+}

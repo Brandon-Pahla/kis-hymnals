@@ -1,0 +1,38 @@
+{
+  "number": 110,
+  "language": "xh",
+  "title": "110 Banethamsanqa Abenzi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Waven’ amazwi om-Sindisi, Amazwi obom ngenene;",
+        "Nqenerha ’kuthandaza, phulaphula, ’Yes’ uthi, \"Thamsanqa kubenzi.\""
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Thamsanqa kwabenz’ intando yaKhe, Banoyolo banoyolo;",
+        "Thamsanqa kwabenz’ intando yaKhe, Bayavuya, Banoyolo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Fumana siv’ amazwi aKhe, Kwa nalomadinga aKhe;",
+        "’Kuweva, koyikwe, kunge sindisi, Luyolo, luyolo kubenzi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngovuyo bongena emzini, Singekh’ isono nosizi;",
+        "Bangcwele, ’zukile ngonaphakade, Benegunya kumthi wobomi."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 518,
+  "language": "tw",
+  "title": "Megyina Kristo, Me Hen' Bɔhyɛ No So",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Megyina Kristo, me Hen' bɔhyɛ no so,",
+        "Ayi No ayɛ akosi nnasanten;",
+        "Mɛteam mato sɛ anuonyam wɔ s'ros'ro;",
+        "Megyina Nyame bɔhyɛ no so."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Gyina, Gyina,",
+        "Megyina Nyame m'Agyenkwa bɔhyɛ no so,",
+        "Gyina, gyina,",
+        "Megyina Onyame bɔhyɛ no so."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Megyina bɔhyɛ a enwu da no no",
+        "Sɛ akyinnye ne suro ahum  tu mpō a",
+        "Menam Nyame nkwasɛm no so bedi nim;",
+        "Megyina Nyame bɔhyɛ no so."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Megyina 'W'rade Kristo bɔhyɛ no so",
+        "ɔde hama akyeky're me ne No daa,",
+        "Mede Honhom nkrante no bedi nim daa,",
+        "Megyina Nyame bɔhyɛ no so."
+      ],
+      "number": 3
+    }
+  ]
+}

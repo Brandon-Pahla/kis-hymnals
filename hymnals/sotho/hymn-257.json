@@ -1,0 +1,31 @@
+{
+  "number": 257,
+  "language": "st",
+  "title": "257 O Tla Ema A Tiile",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "O tla ema a tiile, Joaloka lithaba;",
+        "Aphomole ka lefika, Ea ts’epang Jehova."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ho no se tse ka bolokang, Salema ea motle,",
+        "Ka matsoho a sa feleng, Ho bahalaleli"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Etsa molemo, Morena, Ho ba U ts’epileng,",
+        "Ba ituletseng linneteng, Molaong oa ’nete."
+      ],
+      "number": 3
+    }
+  ]
+}

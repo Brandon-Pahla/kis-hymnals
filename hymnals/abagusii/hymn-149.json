@@ -1,0 +1,42 @@
+{
+  "number": 149,
+  "language": "guz",
+  "title": "149 Geita Giasie Botambe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. 'Geita giasie botambe,Natosoe bisieri,'Masase y'Omosalaba,'Bwanchani bw'Omotoria."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O amabera amange!Egeita ekio giasieInche . . . (inche)nsoe . . . (nsoe)Egeita giasie."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Egeita nigo giasie,Bonsi nabatorigwe;Omoke nomonene bo,Nakera egesaku."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Tokore omokia mono,Egeita kogiasie;Bogoria omosalaba,natonyore egutwa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. 'Kero twambokire ng'umbu,Totig' omosalaba;Natonyore obogima,Na komwancha Igoro."
+      ],
+      "number": 5
+    }
+  ]
+}

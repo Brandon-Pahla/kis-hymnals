@@ -1,0 +1,48 @@
+{
+  "number": 439,
+  "language": "fr",
+  "title": "Chaque instant...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Chaque instant de chaque jour qui passe,",
+        "En toi seul je puis me confier;",
+        "Ô Jésus que jamais rien ne lasse,",
+        "Soutiens-moi, viens me vivifier."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Et ton cœur si patient, si tendre",
+        "Sait pourvoir aux besoins de ma foi;",
+        "À toi seul j'ai appris à m'attendre.",
+        "Car c'est toi qui t'occupes de moi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aide-moi à n'avoir confiance",
+        "Qu'en toi seul, mon maître, mon Seigneur.",
+        "Tu connais toutes mes défaillances;",
+        "Mon salut est seul en ta faveur."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Prends ma main, tiens-moi quand je chancelle;",
+        "Le chemin est sombre et rocailleux.",
+        "Oh ! permets que je te sois fidèle,",
+        "Conduis-moi jusqu'au séjour des cieux."
+      ],
+      "number": 4
+    }
+  ]
+}

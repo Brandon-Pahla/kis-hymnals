@@ -1,0 +1,61 @@
+{
+  "number": 91,
+  "language": "ny",
+  "title": "91 - Linda Ndi Kupemphera",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WATCH, FOR THE TIME IS SHORT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Dikirani lero nthawi ili kutha;",
+        "Mungagwe m’zoipa linda ndi pemphero;",
+        "Thupi ndi lofoka mdaniyo ngwa mphamvu;",
+        "Dikirani nonse Mkwati ali kudza."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Linda pempha, linda pempha;",
+        "Usiku ndi usana dikirani ndi kupemphera."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "(Tenor and Bass):",
+        "Linda pempha, linda pempha;",
+        "Linda pempha, linda pempha;",
+        "Usiku ndi usana dikirani ndi kupemphera."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Dzukani m’sagone musamakaika;",
+        "Mudzalandiratu mpumulo kumwamba;",
+        "Linda ndi pemphero, Mpulumutsi wanu,",
+        "Anasautsidwa chifukwa cha inu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Khulupira Yesu mdani ali pompo",
+        "Vala zida zako mpaka Mbuye adze,",
+        "Musachedwe konse lero ndi labwino,",
+        "Dikirani nonse ndi kupempheranso."
+      ],
+      "number": 5
+    }
+  ]
+}

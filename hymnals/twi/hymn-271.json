@@ -1,0 +1,47 @@
+{
+  "number": 271,
+  "language": "tw",
+  "title": "Bubu Nkwa Bodoo No Ma Me Wura",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Bubu nkwa bodoo no Ma me Wura,",
+        "Sɛnea Wububui wɔ Po no ano;",
+        "W'asɛm Kronkron no mu Mehwehwɛ Wo;",
+        "Me honhom hwehwɛ Wo, O, nkwa Asɛm."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hyira W'asɛm no so Ma me seesei,",
+        "Sɛ Wohy'raa 'bodoo so Galilea no;",
+        "Nkoasom ny'naa to betwa, Mpoky'rɛ bebu;",
+        "Na menya asomdwoe M'ade ny'naa mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Woyɛ nkwa abodoo Ma me Wura,",
+        "W'asɛm Kronkron no na Ͻgye me nkwa;",
+        "Ma me bi nni na me Ne W'atra s'ro,",
+        "Ma me nnɔW' nokwar' no, Na Wone dɔ."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nsɛm a Woka no yɛ Honhom ne nkwa,",
+        "Mepɛ sɛ mitie Wo Nso meyɛ mm'rɛw;",
+        "Wo nkutoo ne me mmoa, Woyɛ me nkwa,",
+        "Mitie W'Asɛm kronn nō a, Midi nkonim."
+      ],
+      "number": 4
+    }
+  ]
+}

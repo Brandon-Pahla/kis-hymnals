@@ -1,0 +1,47 @@
+{
+  "number": 250,
+  "language": "nd",
+  "title": "250 Balekel’ Is’lingo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Balekel’ isilingo, unyamalale;",
+        "Kunqoba kosiza uzuz’ omunye.",
+        "Zam’ uye phambili, yeka ulunya.",
+        "Hlal’ ubhek’ uJesu, woku phephisa!"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hlala ucel’ uJesu,",
+        "Akugcine ngamandla.",
+        "Yen’ uyelekelela;",
+        "Woku phephisa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Shiy’ ukonakala, lahl’ ukwethuka;",
+        "Ungaphaphi ngeze kukaJehova.",
+        "Cabang’ ukhuthale, yiba nomusa.",
+        "Hlal’ ubhek’ uJesu, wokuphephisa!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yena onqobile, uzakuvuzwa",
+        "Sonqoba ngenkolo, noma sisawa",
+        "uMsindisi wethu wosiph’ amandla,",
+        "Hlal’ ubhek’ uJesu, wokuphephisa!"
+      ],
+      "number": 4
+    }
+  ]
+}

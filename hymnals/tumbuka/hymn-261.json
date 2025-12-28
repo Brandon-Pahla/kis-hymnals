@@ -1,0 +1,51 @@
+{
+  "number": 261,
+  "language": "tum",
+  "title": " 261 Dambo Liweme La Eden",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 261 Dambo Liweme La Eden",
+        "BEAUTIFUL VALLEY OF EDEN"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Dambo liweme la Eden' muli mtende mula,",
+        "Ku mitima yakuvuka likupa kuchizga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain:",
+        "Dambo Liweme La Eden' kwawo kwa warunji,",
+        "Usange ndiri mumasuzgo mundipe kupumuLa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Ku mutima wakulira kukwiza ungweru,",
+        "Kwimba sumu za wangelo mu kazimuzimu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Kuli chikaya cha mtaski na wakuthaskika,",
+        "Ku mapiri gha 'chindami kukwimbika sumu."
+      ],
+      "number": 5
+    }
+  ]
+}

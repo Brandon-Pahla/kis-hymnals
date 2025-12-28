@@ -1,0 +1,37 @@
+{
+  "number": 635,
+  "language": "tw",
+  "title": "Nnepa Ny'naa W'ra, Yɛde",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nnepa ny'naa W'ra, yɛde y'akyɛde brɛW'",
+        "Fa yɛ adwuma sɛnea Wo pɛ te;",
+        "Ͻbɛyɛ ɔdɔ nkaede ne bɔhyɛ,",
+        "Sɛ fa yɛn nkwa nyinaa yɛ nea Wopɛ."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛde y'adwen maW' sɛ enhu W'akwan,",
+        "Na nne, nsa, ne 'niwa nyɛ W'adwuma;",
+        "Koma mfa W'ankasa dɔ gya nnɛre,",
+        "Na yɛn ahoɔden ny'naa nhyɛ Wo 'nuonyam."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Agya a 'debɔ ny'naa ky'rɛ W'ayamye,",
+        "Kristō a N'afɔrebɔ nti yɛtč ase,",
+        "Honhom a ɔbra wie mudi Wo mu",
+        "Yɛde yɛn komam' aseda ma Mo."
+      ],
+      "number": 3
+    }
+  ]
+}

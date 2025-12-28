@@ -1,0 +1,76 @@
+{
+  "number": 518,
+  "language": "pt",
+  "title": "A Jesus Seguir Eu Quero",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### A Jesus Seguir Eu Quero"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A Jesus seguir eu quero,",
+        "Seja a sorte, sim, qualquer;",
+        "Onde quer que vá meu Mestre,",
+        "Seguirei, sem mais temer."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Ó Jesus, seguir-Te quero;",
+        "Tu morreste, foi por mim.",
+        "Mesmo que Te neguem todos,",
+        "Eu Te sigo até o fim."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se o caminho for custoso,",
+        "Nele houver escuridão,",
+        "Por ali Tu já passaste,",
+        "E me tomas pela mão."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se encontrar dificuldades,",
+        "E envolver-me a tentação,",
+        "Tu também tentado foste,",
+        "E sofreste provação."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Se Tu queres conduzir-me",
+        "Pela triste solidão,",
+        "Tu andaste no deserto,",
+        "E meus pés seguir-Te-ão."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "E se for Tua vontade",
+        "Que eu transponha o rio Jordão,",
+        "Tu também o atravessaste;",
+        "Seguirei com prontidão."
+      ],
+      "number": 7
+    }
+  ]
+}

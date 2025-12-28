@@ -1,0 +1,45 @@
+{
+  "number": 79,
+  "language": "sn",
+  "title": "79 Kudaidzwa Kwevacheki",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Kure nepatyo’yo minda",
+        "Yazara nemisumbu",
+        "Yaibva yese mubani",
+        "Nezve pachipukutu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Tenzi we kupupura’ko, Mutinzwe tochemera",
+        "Vatumire’vo vabati, Ichiripo zvenguva"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vatumire mangwanani",
+        "Zve nepamasikati",
+        "Vatumire pamanheru",
+        "Kwese kwese vacheki"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Imwi Mwari atumira",
+        "Unganidze nge simba",
+        "Ndizvo basa’ro rapera",
+        "Muchafara kumusha"
+      ],
+      "number": 4
+    }
+  ]
+}

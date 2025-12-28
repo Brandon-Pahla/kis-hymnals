@@ -1,0 +1,48 @@
+{
+  "number": 462,
+  "language": "pt",
+  "title": "Jóias Preciosas",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Jóias Preciosas"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eis que Cristo vem à Terra em busca das jóias,",
+        "Suas jóias mui preciosas de muito valor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Como estrelas na aurora brilhando em glória,",
+        "Na coroa de Cristo pra sempre estarão."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem buscá-las, vai levá-las ao reino celeste,",
+        "Suas jóias resplendentes de muito valor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Os meninos e as meninas que seguem a Cristo,",
+        "São-lhe jóias, ricas jóias, de muito valor."
+      ],
+      "number": 5
+    }
+  ]
+}

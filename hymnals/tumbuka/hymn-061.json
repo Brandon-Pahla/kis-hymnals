@@ -1,0 +1,68 @@
+{
+  "number": 61,
+  "language": "tum",
+  "title": " 61 Ndipulikiske Vya Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 61 Ndipulikiske Vya Yesu",
+        "MORE ABOUT JESUS"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Ndipulikiske vya Yesu,",
+        "na chisungusungu chake,",
+        "Kuwona kutaska kwake,",
+        "apo wakafwira ine,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Vinandi vya Yesu,",
+        "vinandi vya Yesu,",
+        "Kuwona kutaska kwake",
+        "apo wakafwira ine."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ndipulikiske vya Yesu,",
+        "ndichitenge khumbo lake,",
+        "Mzimu Mutuwa mwizeso,",
+        "nakundisambizga vyose."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Vinandi vya Yesu m'mazgu,",
+        "kuwazgamo zuwa lose,",
+        "Kupulika lizgu lake,",
+        "lakutaska moyo wane."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Vinandi vya Yesu m'chanya,",
+        "wali pa chizumbe chake,",
+        "WIzenge ufumu wake,",
+        "ndi Themba la pose pose."
+      ],
+      "number": 5
+    }
+  ]
+}

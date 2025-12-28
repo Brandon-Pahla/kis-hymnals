@@ -1,0 +1,70 @@
+{
+  "number": 73,
+  "language": "ve",
+  "title": "73 Ro Vhidzwa Nga Murena",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:395"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ro vhidzwa nga Murena washu, O ri vhidzela zwiliwani,",
+        "li do vha lihulu dakalo, U dzhena hawe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Murena a tshi dzhena, musi a tshi da,",
+        "Ri do vha ngafhi-ha rothe, A tshi do vhuya."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Khare ya mipfa a i tsheho, Hu na ya vhuhosi thohoni,",
+        "Zwihulu ri do zwi vhona-ha, U dzhena hawe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Zwothe khathihi a tshi penya, Zwi do dzumbululwa sa duvha,",
+        "Zwi do dihwa na nga vhahura, U dzhena hawe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mato awe a do vha vhona, Vho ambaraho dza mutshato,",
+        "Zwo naka ri tshi nga dzhena-vho, U dzhena hawe."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. U fhandekana a hu tsheeho, Vho latwaho vha do tambula,",
+        "li do vha hani ilo duvha? U dzhena hawe."
+      ],
+      "number": 6
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "6. Ri fhe dziphatutshedzo dzau, Ri thuse nga tshilidzi tshau,",
+        "Uri ri si vhe na dzinyofho, U dzhena hawe."
+      ],
+      "number": 7
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "number": 5,
+  "language": "tum",
+  "title": " 5 Nkhutari Uli Kukaya?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 5 Nkhutari Uli Kukaya?",
+        "HOW FAR FROM HOME?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Nkhutari uli kukaya? Nkhafumba mlinda wakati;",
+        "Usiku wamara nadi, nkhumatanda kucha.",
+        "Ungaliranga, wendenge mchipulikano cha Yesu;",
+        "Pakumalizga ulendo wamfika kuchanya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ndafumba mlinda wa Khristu, pakwimba iye wakati:",
+        "Ndirwenge nkhondo yimarenge luwiro nadi,",
+        "Ungaliranga koreska kurwa nkhondo yimarenge;",
+        "Wose awo wamkutonda wampokera njombe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Ndafunba charu, dazi na nyanja vikuphara kuti",
+        "Nyengo yaneng'enera 'mwe, Yesu wakwizaso;",
+        "Ungaliranga vimanyikwiro vyake vyawoneka,",
+        "Chilengiwa chose chikulinda kwiza kwake."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Kwithu nkhufupi 'mwe sono, ndi mazgu ghakusangwiska,",
+        "Ghakufyura masozi gha awo wakulira,",
+        "Ungaliranga tamkukumana ntha tamlekanaso;",
+        "Pakumara suzgo lose m'nyumba ya wadada."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "number": 328,
+  "language": "es",
+  "title": "¿Nos veremos junto al río?",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### ¿Nos veremos junto al río?"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "¿Nos veremos junto al río",
+        "cuyas aguas cristalinas",
+        "fluyen puras, argentinas,",
+        "desde el trono de nuestro Dios?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "¡Oh! sí, nos congregaremos",
+        "en la ribera hermosa del río",
+        "cuyas aguas vivas dimanan",
+        "del trono de nuestro Dios."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En las márgenes del río",
+        "do los serafines van,",
+        "donde hay bellos querubines,",
+        "da la dicha eterna Dios."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Antes de llegar al río,",
+        "nuestras cargas al dejar,",
+        "libres todos quedaremos",
+        "por la gracia del Señor."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Pronto al río llegaremos,",
+        "nuestra peregrinación",
+        "terminando en los acentos",
+        "de la célica canción."
+      ],
+      "number": 6
+    }
+  ]
+}

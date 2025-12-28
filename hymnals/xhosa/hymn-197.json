@@ -1,0 +1,46 @@
+{
+  "number": 197,
+  "language": "xh",
+  "title": "197 Akusayi Kubakho Ntsunguzi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Akusayi kubaKho ntsunguzi Ngexa lokufika kuka-Yesu;",
+        "Akusayi kubaKho ntsunguzi Xa ahlanganis’ abaKhe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Az’ agoduke nabo, Az’ agoduke nabo;",
+        "Akusayi kubaKho ntsunguzi Xa u-Yes’ afikayo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akusayi kubaKho lusizi, Akusobe kubekho mvandedwa,",
+        "Koko koba yintsasa emnandi, Xa u-Yes’ afikayo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akusayi kubaKho nyembezi, Ngexa lokufika kuka-Yesu;",
+        "Koko koba luvuno lozuko, Xa ahlanganis’ abaKhe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kuya kubakh’ ingoma zovuyo, Ngexa lokufika kuka-Yesu;",
+        "Kwa nengoma zokubulisana, Xa ahlanganis’ abaKhe."
+      ],
+      "number": 4
+    }
+  ]
+}

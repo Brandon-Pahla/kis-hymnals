@@ -1,0 +1,47 @@
+{
+  "number": 241,
+  "language": "xh",
+  "title": "241 Ilizwe LaseBheula",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndifikil’ ezwen’ elitsha, Ubutyebi balo bobam;",
+        "Apha kukhanya okuhle, Ubusuku budlulile."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ilizwe laseKanana, Ndiyakuma entabeni,",
+        "Ndithalaze ngaphesheya Apho indlu yam ikhona;",
+        "Ndiyabona ezulwini, Ekhayeni laphakade."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U-Msindisi uhamba na, Siyancokola ndawonye;",
+        "Uyanditsala ngesandla Endis’ emdeni wezulu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kunuka kamnandi khona Yimithana emincinci;",
+        "Iintyatyambo ziyakhula Ngaw’ amanzi okuphila."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ziyafika kumi apha Iingoma zasezulwini;",
+        "Iingelosi zihlabela Iingoma zokusindiswa."
+      ],
+      "number": 4
+    }
+  ]
+}

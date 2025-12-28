@@ -1,0 +1,67 @@
+{
+  "number": 34,
+  "language": "fr",
+  "title": "Mon âme exalte...",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mon âme exalte le grand Dieu,",
+        "Magnifiant sa sainteté.",
+        "Malgré ma grande humilité,",
+        "Il a sur moi jeté les yeux."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Voici, les siècles désormais",
+        "De mon bonheur iront chantant :",
+        "Pour elle, Dieu, le Tout-Puissant",
+        "A mis le comble à ses bienfaits!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Saint est son Nom, de sa bonté",
+        "Au cours des temps on parlera.",
+        "Oui, par la force de son bras,",
+        "Dieu s’est partout manifesté."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "S’il a déçu les orgueilleux,",
+        "Anéanti leurs fiers desseins,",
+        "De l’humble, il a nourri la faim,",
+        "Et relevé le cœur pieux."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Il se souvient du peuple élu,",
+        "Comme il l’avait toujours promis.",
+        "En nous donnant enfin son Fils,",
+        "Dieu vers les siens est descendu."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Louange et gloire au Dieu parfait,",
+        "Gloire à Jésus, Seigneur et Christ,",
+        "Louange et gloire au Saint-Esprit,",
+        "Dès maintenant à tout jamais."
+      ],
+      "number": 6
+    }
+  ]
+}

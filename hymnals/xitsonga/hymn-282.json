@@ -1,0 +1,20 @@
+{
+  "number": 282,
+  "language": "ts",
+  "title": "282. MARITO YA KHUMEGIDI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "TEN THOUSAND HARPS",
+        "1. Marito Ya Khumegidi, Ya Dzunisa Tilweni, Na Tona Timhalamhala, Ti Yimba Aleluya;",
+        "Yesu U Fuma Misava, U Le Xiluvelwen, Hi Rirhandzu Ra Xikwembu, Aleluya Amen.",
+        "2. Hosi Yo Kwetsima Fuma, Masiku Na Masiku, Lava U Va Hlawuleke, Va Nge Suki Ka Wena;",
+        "Va Ta Va Ntsako Waku, Wa Rirhandzu Ra Nsovo, Aleluya Amen, Aleluya Amen.",
+        "3. Yesu Hatlisa Ku Fika, Hi Siku Ro Kwetsima, Ku Ta Teka Vakwetsimi, Misava Yi Ta Hundza;",
+        "Wa Kwetsima, Wa Kwetsima, Hi Ta Dzunisa Hosi, Hi Milomu Na Timbilu, Aleluya Amen."
+      ],
+      "number": 1
+    }
+  ]
+}

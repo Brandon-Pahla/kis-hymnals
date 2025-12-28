@@ -1,0 +1,41 @@
+{
+  "number": 405,
+  "language": "es",
+  "title": "Sé quién es Jesús",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Sé quién es Jesús"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "No tengo duda, sé quién es Jesús;",
+        "ya no me engañará el tentador."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Él es mi Salvador, mi Amigo fiel;",
+        "me guía siempre con su amor.",
+        "Él es mi Salvador, mi Amigo fiel,",
+        "me guía siempre con su amor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Estoy markdowno, pues conmigo está",
+        "a toda hora y en cualquier lugar."
+      ],
+      "number": 4
+    }
+  ]
+}

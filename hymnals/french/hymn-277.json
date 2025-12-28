@@ -1,0 +1,49 @@
+{
+  "number": 277,
+  "language": "fr",
+  "title": "Ô Dieu, relève-nous",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Dieu, relève-nous ! Rends-nous la vie.",
+        "Prête l'oreille, Berger d'Israël.",
+        "Oui, sauve-nous dans ta grâce infinie,",
+        "Tourne vers nous ta face, Emmanuel.",
+        "Ô Dieu, relève-nous, ô Dieu, relève-nous !",
+        "Et que ton Fils à nos yeux se révèle.",
+        "Qu'en nous jaillisse une vie nouvelle,",
+        "Ô Dieu, relève-nous, relève-nous !"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Dieu, réveille-nous ! Que ta lumière",
+        "Vienne chasser la nuit qui nous endort.",
+        "Brise et transforme enfin nos cœurs de pierre",
+        "Relève-nous, Seigneur, d'entre les morts.",
+        "Ô Dieu, réveille-nous, ô Dieu réveille-nous !",
+        "Et que ton Fils à nos yeux se révèle.",
+        "Qu'en nous jaillisse une vie nouvelle,",
+        "Ô Dieu, réveille-nous, réveille-nous !"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ô Dieu, visite-nous ! Viens et pardonne",
+        "La tolérance de nos compromis.",
+        "Que ton Esprit nous remplisse et nous donne",
+        "D'être en ta grâce toujours affermis.",
+        "Ô Dieu, visite-nous, ô Dieu, visite-nous !",
+        "Et que ton Fils à nos yeux se révèle.",
+        "Qu'en nous jaillisse une vie nouvelle,",
+        "Ô Dieu, visite-nous, visite-nous !"
+      ],
+      "number": 3
+    }
+  ]
+}

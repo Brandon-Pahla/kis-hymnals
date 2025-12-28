@@ -1,0 +1,56 @@
+{
+  "number": 139,
+  "language": "pt",
+  "title": "Jesus à Terra Voltará",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Jesus à Terra Voltará"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus à Terra voltará",
+        "Com grande majestade,",
+        "E neste mundo exercerá",
+        "Suprema potestade."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Saudai o Rei celestial,",
+        "Que toma aqui poder real!",
+        "Saudai o Rei em Seu fulgor,",
+        "Jesus, Deus santo e bom Senhor!"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesus dará justiça e paz,",
+        "Feliz fará Seu povo;",
+        "O Seu reinado gozo traz",
+        "Ao mundo feito novo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Os santos Seus lá fruirão",
+        "O Seu amor paterno;",
+        "Os príncipes e reis virão",
+        "Servir ao Rei eterno."
+      ],
+      "number": 5
+    }
+  ]
+}

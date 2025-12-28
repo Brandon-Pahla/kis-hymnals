@@ -1,0 +1,37 @@
+{
+  "number": 100,
+  "language": "st",
+  "title": "100 Jesu Motsoalle",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu Motsoalle ea jereng, Melato le makhopo,",
+        "Ke sebaka se setle joang, Ho Molimo thapelong!",
+        "Ha ngata re itima khotso, ka mokhoa’sa tsoanelang",
+        "Ha re sa ise likopo, ho Molimo thapelong."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A na re na le liteko? A ho teng mats’oenyeho?",
+        "Re se ke ra nyahamisoa, Ho Morena thapelong,",
+        "Re ka bona kae motsoalle Ea utloelang bohloko,",
+        "Jesu o tseba phokolo, Ho Morena thapelong."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha re na le ho imeloa, Ke meroalo ea rona,",
+        "Jesu, ’Moloki, Phemelo, Ho Morena thapelong,",
+        "Ha u nyatsoa ke metsoalle, U bolellle Morena,",
+        "’Me o tla u sireletsa, A be a u ts’elise."
+      ],
+      "number": 3
+    }
+  ]
+}

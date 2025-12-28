@@ -1,0 +1,78 @@
+{
+  "number": 101,
+  "language": "tum",
+  "title": " 101 Yesu Wakuchema",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 101 Yesu Wakuchema",
+        "JESUS IS CALLING"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Yesu wakuchema iwe nadi,",
+        "mhanya uno, mhanya uno,",
+        "Watayikirachi m ball wane,",
+        "wazgeweramo m'thondo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Wakuchema, mhanya uno,",
+        "Yesu wakukuchema",
+        "me mhanya uno."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "T&B:",
+        "Wakuchema mhanya uno,",
+        "wakuchema mhanya uno,",
+        "Yesu wakukuchema we sono,",
+        "kukuchema iwe sono."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Yesu wachema wakuvuka 'we",
+        "mhanya uno, mhanyauno,",
+        "Thula katundu wako pa lyo,",
+        "lyo ntha wakukane."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Yesu wakulindilira iwe",
+        "mhanya uno, mhanya uno,",
+        "Wize nazo zakwananga zako,",
+        "ungaziulikanga."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Yesu Fumu wakuweyerera,",
+        "mhanya uno, mhanya uno,",
+        "Wachipulikano Wizamkondwa,",
+        "pakwiza Fumu Yesu."
+      ],
+      "number": 6
+    }
+  ]
+}

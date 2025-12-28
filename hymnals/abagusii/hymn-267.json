@@ -1,0 +1,35 @@
+{
+  "number": 267,
+  "language": "guz",
+  "title": "267 Ngokor' Emeremo n'Amatemwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ngokor' emeremo n'amatemwa,Nimb'as'engegu ekomekameka;Mb'ang'e n'Omonene ngosasima,Miaka yonsi n'obonen' ase nde."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ig' erabe, obonene,obonene, obonene'S'obuya nimorore obosioNeb' obonene, 'bonen' ase nde."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. As' ekeegwa ki'obuya bwaye,Naeirwe ribaga aria igoro;Kobao ndore obosio bwaye,Miaka yonsi n'obonen' ase nde."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Basani mbabe' aba nanchete,Mogok' omonge ong'etanane;'Manyir' omogoko bw'Omotoria,Miaka yonsi n'obonen' ase nde."
+      ],
+      "number": 4
+    }
+  ]
+}

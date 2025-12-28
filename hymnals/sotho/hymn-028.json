@@ -1,0 +1,47 @@
+{
+  "number": 28,
+  "language": "st",
+  "title": "28 Nako Ho Itlhoekisa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "U ke u nke nako ea ho itlhoekisa,",
+        "Bua le morena Lentsoeng la Hae;",
+        "Etsa setsoalle Thusa ba fokolang,",
+        "Se lebale letho masehong a Hae."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U ke u nke nako ea ho itlhoekisa,",
+        "Lefats’e lea luma, Bua le Jesu;",
+        "Ka ho sheba Jesu, Ts’oana le Eena,",
+        "Metsoalle ea hao E ’mone ho uena."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U ke u nke nako ea ho itlhoekisa,",
+        "A u etelle pele Linthong tsohle;",
+        "Thabong bofutsneng Latela Jesu,",
+        "U shebile Eena Le ho mo ts’epa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "U ke U nke nako ea ho itlhoekisa,",
+        "U ikhutse moeeng A u laele;",
+        "U tsamaisoe mehleng ea lerato",
+        "U tla ts’oanela ts’ebetso holimo."
+      ],
+      "number": 4
+    }
+  ]
+}

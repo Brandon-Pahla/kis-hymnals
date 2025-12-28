@@ -1,0 +1,46 @@
+{
+  "number": 132,
+  "language": "st",
+  "title": "132  Haufi Le Sefapano.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Haufi le sefapano selibeng se setle,",
+        "Metsi a ho phekola a hlahang ho Jesu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Pela sefapano ke ntse ke rorisa,",
+        "Ke teng moo moea oa ka o tla ’no phomole"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Haufi le sefapano mosa o ’no nthole,",
+        "Ke moo ke bonesetsoang lerato la Jesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Haufi le ho Konyana ke batla ho lula,",
+        "Nthuse matsatsi ’ohle ke ’ne ke latele."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke tla lebella haufi ke ts’epe kamehla,",
+        "Ke tle’ be ke eo fihla ka mose ho noka."
+      ],
+      "number": 4
+    }
+  ]
+}

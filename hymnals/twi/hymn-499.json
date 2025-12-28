@@ -1,0 +1,49 @@
+{
+  "number": 499,
+  "language": "tw",
+  "title": "Yɔnko Bɛn N'ɔte Sɛ Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɔnko bɛn n'ɔte sɛ Yesu,",
+        "ɔsoa yɛn bɔne ne yaw;",
+        "Ͻyɛ sɛ yɛde ny'naa",
+        "Kɔ Onyame hɔ mpaebom;",
+        "Ao, yɛtaa sɛe asomdwoe kwa,",
+        "Ao, yedi yaw a enhia;",
+        "Efisɛ yɛmfa ade ny'naa",
+        "Nkɔ Onyame hɔ mpaebom'."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "So yɛmɔ nnyigye ne sɔhwɛ?",
+        "ɔhaw bi wɔ hɔ anna?",
+        "Yɛrempa aba ara da,",
+        "Fa kɔ Nyam hɔ mpaebom;",
+        "Yɛwɔ Yɔnko nokwafo bė a",
+        "Obegyam yɛn yɛn yaw mu;",
+        "Yesu nim yɛn mmerɛwyɛ ny'naa",
+        "Fa kɔ Nyame hɔ mpaebom'."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛayɛ mm'rɛw na yɛ kɔn abu,",
+        "Dadwen ne haw gu yɛn so?",
+        "Agyenkwa ne yɛn guankɔbea,",
+        "Fa kɔ Nyame hɔ mpaebom';",
+        "Wo mfɛfo bu wo animtiā a",
+        "Fa kɔ Nyame hɔ mpaebom',",
+        "Obet'ru wo N'abasa so,",
+        "Wubenya abotɔyam."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 309,
+  "language": "tw",
+  "title": "Migyaw Ne Nyinaam'",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Migyaw ne nyinaam' ma Yesu,",
+        "Mede ne ny'naa No kwa;",
+        "Daa mɛdɔ No, matwere No,",
+        "Atra N'anim hɔ daa daa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Migyaw ne nyinaam',",
+        "Migyaw ne nyinaam';",
+        "Ne nyinaa ma W'",
+        "'Gyenkwa Dɛɛfo",
+        "Migyaw ne nyinaam'."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Migyaw ne nyinaam' ma Yesu,",
+        "Koto komm Ne nan ase;",
+        "Magyaw wiase 'nigye nyinaa,",
+        "Fa me, Yesu, fa me nnɛ."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Migyaw ne nyinaam' ma Yesu,",
+        "'Gyenkwa, ma menyɛ Wo de;",
+        "Ma mente Honhom Kronkron nka,",
+        "Na menyɛ Wo de ampa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Migyaw ne nyinaam' ma Yesu,",
+        "Mete gya kronkron nká afei.",
+        "O nkwagye mu anigye pa!",
+        "'Nuonyam, 'nuonyam nka Ne din!"
+      ],
+      "number": 4
+    }
+  ]
+}

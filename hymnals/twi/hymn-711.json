@@ -1,0 +1,47 @@
+{
+  "number": 711,
+  "language": "tw",
+  "title": "N16 Forever here my",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ha na mεtra ahome daa,",
+        "Mεbεn Wo mfem' mogyan;",
+        "M'anidaso ne m'asεm ni,",
+        "‘Gyenkwa no wu maa me."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "M'Agyenkwa Nyame a Worewu",
+        "Bɔn' ne ‘fodi nsuti,",
+        "Fa Wo mogya pa no guar' me,",
+        "Na ma me ho ntew kronn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Guar' me na fa me yε Wode;",
+        "Guar' me, na Wowε me;",
+        "Guar' me na me nan ho nko-",
+        "Me nsa, me ti, koma."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Fa Wo mpata mogya no kam',",
+        "Kosi sε gyidi ne",
+        "Anidaso bεsow aba,",
+        "Na me kra bεdan dɔ."
+      ],
+      "number": 4
+    }
+  ]
+}

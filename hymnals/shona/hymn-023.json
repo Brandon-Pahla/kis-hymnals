@@ -1,0 +1,55 @@
+{
+  "number": 23,
+  "language": "sn",
+  "title": "23 Ndizadze Zvino",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Uyayi Mudzimu Mutsvene,",
+        "Zadzanyi moyo wangu,",
+        "Uyanyi’wo zvino pano,",
+        "Zadzanyi moyo wangu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uyanyi, zadzanyi, Jesu nemutsa wenyu,",
+        "Uyanyi’wo zvino pano, Zadzanyi moyo wangu"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Munokwanisa kuzadza,",
+        "Moyo wese’wo wangu",
+        "Asi ndinokuda Imwi,",
+        "Kuzadza moyo wangu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndaneta handine simba,",
+        "Ndinopfugama kwenyu",
+        "Mudzimu usingaperi,",
+        "Zadzanyi moyo wangu"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uyanyi mundichenure,",
+        "Nyaradza moyo wangu",
+        "Zvino murikuita’wo,",
+        "Kuzadza moyo wangu"
+      ],
+      "number": 5
+    }
+  ]
+}

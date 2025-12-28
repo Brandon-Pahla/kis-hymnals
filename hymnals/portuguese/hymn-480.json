@@ -1,0 +1,38 @@
+{
+  "number": 480,
+  "language": "pt",
+  "title": "Em Tuas Mãos",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Em Tuas Mãos"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Em Tuas mãos, em Tuas mãos,",
+        "Quero, óDeus, me colocar em Tuas mãos.",
+        "Vem mostrar-me, ó Senhor,",
+        "Teu carinho e Teu amor,",
+        "Meu temores vou depor",
+        "Em Tuas mãos."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Em Tuas mãos, em Tuas mãos,",
+        "Quero, óDeus, me colocar em Tuas mãos.",
+        "Esta é minha oração,",
+        "Ter a vida em Tuas mãos,",
+        "Toma pois meu coração",
+        "Em Tuas mãos."
+      ],
+      "number": 3
+    }
+  ]
+}

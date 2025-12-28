@@ -1,0 +1,47 @@
+{
+  "number": 154,
+  "language": "pt",
+  "title": "Ó, Vem, Espírito de Amor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Ó, Vem, Espírito de Amor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ó, vem, Espírito de amor,",
+        "Poder celestial!",
+        "Inspira-nos com santo ardor",
+        "Do vivo manancial;",
+        "Do vivo manancial."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eleva nosso coração",
+        "Do mundo mau e atroz;",
+        "E ao Teu amor e salvação",
+        "Fiéis sejamos nós;",
+        "Fiéis sejamos nós."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Concede fé à Tua grei,",
+        "E livra-nos do mal.",
+        "A nós ensina Tua lei,",
+        "Doutrina celestial;",
+        "Doutrina celestial."
+      ],
+      "number": 4
+    }
+  ]
+}

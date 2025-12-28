@@ -1,0 +1,42 @@
+{
+  "number": 51,
+  "language": "st",
+  "title": "51 Re Kolobetse",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Re kolobetse ka matla a Hao, Ke lerato, la Morena ’Moloki."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re ea u rapela Morena Jesu, Ka ’rato le moea re kolobetse."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Har’a ts’oanela, re silafetse Re hlatsoe moo ts’ileng ea sebe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moea oa leholimo theoha; Re kopa mohau re tle haufi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mamelang ’ntsoe le tsoang holimo, Le re: U moratuoa Oa nkhahlisa."
+      ],
+      "number": 5
+    }
+  ]
+}

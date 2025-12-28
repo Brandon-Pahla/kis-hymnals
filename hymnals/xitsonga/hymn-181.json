@@ -1,0 +1,25 @@
+{
+  "number": 181,
+  "language": "ts",
+  "title": "181. HAMBI SIKU HI NGA RI TIVI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "WE KNOW NOT THE TIME WHEN HE COMETH",
+        "1. Hambi Siku Hi Nga Ri Tivi, Leri Yesu A Vuyaka,",
+        "Ku Ngava Nkarhi Wa Vusiku Kumbe Ku Ri Nanhlikanhi; U Ri Tshama Hi Rindzile Timboni Ti Nga Timeki, Leswaku Loko A Ta Fika A Kuma Hi N’wi Rindzele.",
+        "CHORUS",
+        "Hi. . .N’wi Rindze. . . . .le, (Hi Ku Rindzele Kunene Yesu)",
+        "No Langute. . . . .la;",
+        "(Hi Langutele Ka Wena Yesu) Hi N’wi Rindze. . . . .le,",
+        "(Hi Ku Rindzele Kunene Yesu) Hi Ku Rindzele Hosi Yesu.",
+        "2. Vonani Tintswalo Ta Yesu Ta Hi Kutsula Vadyohi, Loko A Siyile Matilo Ku Fela Hina Vadyohi;",
+        "Ndza Tshembha Swi Nga N’wi Tsakisa Loko Hi N’wi Amukela, Loko Hi Nga Tilulamisa Hi Tshama Hi N’wi Rindzela.",
+        "3. Hosi Yesu U Mukutsuri, Muponisi Wa Rirhandzu, Ha Kholwa Hi Ta Ku Vona Siku U Nga Ta Vuya Kambe;",
+        "Lava Aleke Ku Pfumela Va Ta Chava Va Tumbela, Nakulorhi La Rhandzekaka, Wa Lava Ku Rindzeleke."
+      ],
+      "number": 1
+    }
+  ]
+}

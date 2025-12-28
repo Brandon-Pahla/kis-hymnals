@@ -1,0 +1,31 @@
+{
+  "number": 10,
+  "language": "fr",
+  "title": "Écoute Israël",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Écoute Israël, le Seigneur est notre Dieu,",
+        "Le Seigneur est un;",
+        "Écoute, Israël, le Seigneur est notre Dieu,",
+        "Le Seigneur est un;",
+        "Écoute, Israël, le Seigneur est notre Dieu,",
+        "Le Seigneur est un."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sh’ma Israël, Adonaï Elohenou,",
+        "Adonaï erhad;",
+        "Sh’ma Israël, Adonaï Elohenou,",
+        "Adonaï erhad;",
+        "Sh’ma Israël, Adonaï Elohenou,",
+        "Adonaï erhad."
+      ],
+      "number": 2
+    }
+  ]
+}

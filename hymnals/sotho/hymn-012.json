@@ -1,0 +1,67 @@
+{
+  "number": 12,
+  "language": "st",
+  "title": "12 Ho Mohloli",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mohloli o teng oa mali, A tsoang ho ’’Moloki;",
+        "Baetsalibe ba kena teng, Ba hlatsuoe libe,",
+        "Ba hlatsuoe libe, Ba hlatsuoe libe,",
+        "Baetsalibe ba kena teng, Ba hlatsuoe libe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lesholu le shoang le’a thaba, Ho bona mohloli;",
+        "Le ’na ha ke le lits’ila, Nka hlapa selibeng,",
+        "Nka hlapa selibeng, Nka hlapa selibeng,",
+        "Le ’na ha ke le lits’ila, Nka hlapa selibeng."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mali a Hao Konyana ’shoang, Ha a na le phokolo;",
+        "Ha bohle ba lopollotsoe, Ba pholosoe sebeng",
+        "Ba pholosoe sebeng, Ba pholosoe sebeng,",
+        "Ha bohle ba lopollotsoe, Ba pholosoe sebeng."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Haesale ke bone tumelo, mohloli o folisang;",
+        "Lerato la Hao le pelong, Ho fihlela ke ’shoa,",
+        "Ho fihlela ke ’shoa, Ho fihlela ke ’shoa,",
+        "Lerato la Hao le pelong, Ho fihlela ke ’shoa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Morena O ntokiselitse, Leha ke sa ts’oanela;",
+        "Theko ea neo ea mali, “Bophelo ba gauda,”",
+        "Bophelo ba gauda, Bophelo ba gauda,",
+        "Theko ea neo ea mali, “Bophelo ba gauda.”"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ho teng pina e monate, Ke rorisa poloko;",
+        "Leleme le kokotletsang, Le nts’itsoe lebitleng.",
+        "Le nts’itsoe lebitleng, Le nts’itsoe lebitleng,",
+        "Leleme le kokotletsang, Le nts’itsoe lebitleng."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "number": 181,
+  "language": "nd",
+  "title": "181 Ekulindeni Nasekuqapheleni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Is’khathi a saziwa sona, Ayobuya ngaso lapha;",
+        "Kumbe kuyakuba ‘ntambama, Kumb’ ebusuku impela:",
+        "Kumb’ ekuthatheni kokusa, Mani qaphele, ni lunge;",
+        "Zi ngabocima izibani, Ma si mlinde, si mqaphele."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Linda qaphela, Linda qaphela,",
+        "Linda qaphela, Si qaphela Wena Nkosi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngomsa wAkhe ngi yakhumbula, Intengo a s’thenge ngaYo.",
+        "Wa shiy’ izindlu zobukhosi, Weza lapha emhlabeni;",
+        "Ngi yazi kuhle eNkosini, Uma thina esifele,",
+        "Izosifumanisa sonke Si lindele, si qaphele."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O! Jesu Wena, Mhlengi wami, U yalaz’ ithemba lami;",
+        "Eliyakubona ngamehlo, Nxa se ngi kuzw’ u ‘thi, Woza.",
+        "Abanye, bona ba ngesaba Nxa u qhamuka, Mahluli,",
+        "Qa, mina ngi thol’ isihlobo Ngi zolinda, ngi qaphele."
+      ],
+      "number": 4
+    }
+  ]
+}

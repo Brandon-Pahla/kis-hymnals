@@ -1,0 +1,57 @@
+{
+  "number": 57,
+  "language": "tum",
+  "title": " 57 Uyo Wakhumba Wize",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 57 Uyo Wakhumba Wize",
+        "WHOSOEVER HEARETH"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Uyo wapulika, mazgu ghake,",
+        "Waphalire wose m'charu chapasi,",
+        "Pharazgani mazgu ku wanthu wose,",
+        "Uyo wakhumba wize"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Uyo wakhumba, uyo wakhumba,",
+        "Pnarazga chimwemwe mphiri",
+        "na m'dambo Wadada wakuchema awo mbawo,",
+        "Uyo wakhumba wize."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Uyo wapulika 'za luwiro,",
+        "Muryango uli mwazi njiranga 'we,",
+        "Yesu ndiyo nthowa na unenesko,",
+        "Uyo wakhumba wize."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Uyo wakupenjapenja m'tende,",
+        "Uyo wakhumbiska wati wakhale,",
+        "Uyo wakhumba umoyo wandanda,",
+        "Uyo wakhumba wize."
+      ],
+      "number": 4
+    }
+  ]
+}

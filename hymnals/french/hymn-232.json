@@ -1,0 +1,63 @@
+{
+  "number": 232,
+  "language": "fr",
+  "title": "À tes pieds, ô divin Maître",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "À tes pieds, ô divin Maître !",
+        "Je me place avec bonheur.",
+        "En t'adorant je veux être",
+        "Ton disciple, ô mon Sauveur !",
+        "Parle! j'ai soif de t'entendre",
+        "Parle! je n'ai qu'un désir :",
+        "Que ta voix puissante et tendre,",
+        "À mon coeur se fasse ouïr."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Faites place , ô voix humaines",
+        "À la voix de mon Sauveur!",
+        "Pensers vains et choses vaines,",
+        "Éloignez-vous de mon coeur !",
+        "Tous les bruits, faites silence !",
+        "Toi, mon Maître, parle-moi !",
+        "Recueillie en ta présence,",
+        "Mon âme n'entend que toi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Parle-moi, témoin fidèle !",
+        "Découvre-moi le trésor",
+        "De ta sagesse éternelle;",
+        "Parle, ô Maitre ! parle encor.",
+        "Ta parole, c'est la vie,",
+        "C'est la lumière et la paix.",
+        "À ton école bénie",
+        "Je veux rester à jamais."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Parle ! et pour que je comprenne",
+        "Ton enseignement divin,",
+        "Dans ta grâce souveraine,",
+        "Instruis-moi par l'Esprit-Saint.",
+        "Parle, et pour que j'obéisse",
+        "À tes ordres aussitôt,",
+        "Forme-moi pour ton service,",
+        "Pour te suivre, saint Agneau !"
+      ],
+      "number": 4
+    }
+  ]
+}

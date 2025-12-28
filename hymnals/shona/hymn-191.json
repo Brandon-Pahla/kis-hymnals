@@ -1,0 +1,39 @@
+{
+  "number": 191,
+  "language": "sn",
+  "title": "191 Chitsidzo Chakakomborerwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu ndewangu Ndofara sei! Ndoraura mbiri Yekudenga;",
+        "Mudyi wenhaka ndakatengwa, Ndasambwa muropa reNyenye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndiyo nyaya-nerwiyo rwangu, Kukudza Tenzi zuva rese,",
+        "Ndiyo nyaya-nerwiyo rwangu, Kukudza Tenzi zuva rese."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinozvipira, nekufara, Zvno ndowona rufaro rwangu.",
+        "Ngirosi dzino-dzika pasi, Dzounza rudo netsitsi zve."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinozvipira, ndozorora; Ndinofara ku-na Muponesi,",
+        "Ndakarindira, Ndamirira, Ndazadzwa ne-ku-naka kwake."
+      ],
+      "number": 4
+    }
+  ]
+}

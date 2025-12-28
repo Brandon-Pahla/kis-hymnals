@@ -1,0 +1,22 @@
+{
+  "number": 235,
+  "language": "ts",
+  "title": "235. KU FIKILE SIKU LERA KU WISA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "AGAIN THE DAY RETURNS",
+        "1. Ku Fikile Siku Lera Ku Wisa, Eku Heleni Ko Tumbuluxa,",
+        "Xa Hi Rhamba Ku Wisa Ha Rona, Hi Ta Kuma Nkateko Na Ku Rhula.",
+        "2. Ri Hlawulekile Rona Siku, Yingisani Ku Rhandza Ka Xona,",
+        "Xi Ta Mi Twa Loko Mi Kombela, Hi Mikhongelo, Tinsimu To Dzunisa.",
+        "3. Hosi Ya Matilo Rhiya Ndleve, Yingisa Vana, Va KOmbe Nsovo,",
+        "Hetisa Ku Tshembhisa Ka Wena, Va Pfuxelele Hi Nsovo Wa Wena.",
+        "4. Hi Veke Ntshembho Ka We Tatana, U Xitlhangu Hi Matimba Yaku,",
+        "Nakulorhi, Muponisi Wanga, Kwetsima Hilaha Ku Nga Heriki."
+      ],
+      "number": 1
+    }
+  ]
+}

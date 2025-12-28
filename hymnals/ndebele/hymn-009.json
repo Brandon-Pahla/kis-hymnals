@@ -1,0 +1,54 @@
+{
+  "number": 9,
+  "language": "nd",
+  "title": "9 UJes’ U Yeza Futhi!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Khalisan’ icilongo kakhulu; uJes’ u yeza futhi;",
+        "Bonke ba bhekisise phezulu uJes’ u yeza futhi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "’Yeza futhi! Yeza futhi! uJes’ u yeza futhi!"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Memezani naseziqongweni, uJes’ u yeza futhi;",
+        "Li za nobukhosi iZinyane, uJes’ u yeza futhi;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hlokomanini lwandle namaza, uJes’ u yeza futhi;",
+        "Qubukani kanjalo zinhlanzi, uJes’ u yeza futhi;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zi yasitshela iziboniso, uJes’ u yeza futhi;",
+        "Nawo umoya u yavunguza, uJes’ u yeza futhi;"
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Izizwe zonke zi thukuthele, uJes’ u yeza futhi;",
+        "Nalo ulwazi futhi lwandile, uJes’ u yeza futhi;"
+      ],
+      "number": 6
+    }
+  ]
+}

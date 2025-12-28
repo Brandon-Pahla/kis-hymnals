@@ -1,0 +1,46 @@
+{
+  "number": 561,
+  "language": "tw",
+  "title": "Yɛdɔw Afuw Na Yegu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛdɔw afuw na yegu aba pa nso wɔ so;",
+        "Nanso Nyame nsa kɛse na egugu so nsu;",
+        "ɔtɔ suky'rɛmmá awɔw b're, ne hyew de mā aba fi",
+        "ɔma mframa ne awia ne nsu a edwudwo."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Nnepa a yɛwɔ ny'naa",
+        "Yenya fi ɔsoro;",
+        "O, monna Aw'rade ase",
+        "Ne dɔ ny'naa ho."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔno nko ne ɔyɛfo ma ade ny'naa ara;",
+        "Osiesie kwankyɛn nhwiren ma nwumm're ns'romma hy'rɛn,",
+        "Ͻpo ne mframa tie No, ɔma nnomaa aduan',",
+        "Yɛn a yɛyɛ Ne mma yi, ɔma yɛn daa aduan."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O, Agya, yɛda W'ase, Wɔ nneɛma pa ny'naa ho;",
+        "Ogu b're ne otwa b're, Yɛn nkwa ne yɛn aduan';",
+        "Gye nea yɛde remaW' yi wo dɔ akyɛde nti;",
+        "Na nea Wohwehwɛ tit'riw, Yɛn aseda koma."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 29,
+  "language": "sn",
+  "title": "29 Garai Neni",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Garai neni usiku hwasvika,",
+        "Tenzi garai neni kune dima,",
+        "Vanditiza vamwe vabatsiri,",
+        "Mubatsiri wedu, garai neni"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Upenyu hwachimbidza kuguma,",
+        "Kufara kwepasi kunopera,",
+        "Zvasakara kwazvo zviro zvese,",
+        "Usingasakari, garai neni"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinomuda Imwi nguva dzese,",
+        "Mutsa unokurira muyedzi",
+        "Mudonzvo wangu, Mutungamiri,",
+        "Mudima, pachena garai neni"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Imwi muripo, handityi mhandu,",
+        "Handine kuremerwa mushungu",
+        "Kufa, guva, kukunda kuripi?",
+        "Ndinokurira ugere neni"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Misa muchinjiko ndotandadza,",
+        "Penya, undinongedze kudenga,",
+        "Kwayedza kwazvo, yabva mimvuri,",
+        "Mupenyu, mukufa, garai neni"
+      ],
+      "number": 5
+    }
+  ]
+}

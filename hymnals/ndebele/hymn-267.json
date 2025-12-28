@@ -1,0 +1,73 @@
+{
+  "number": 267,
+  "language": "nd",
+  "title": "267 Masibuth’ Okhanyayo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Masibuth’ okukhanyayo",
+        "Okusi zungezile",
+        "Sigcin’ ok’qhakazileyo",
+        "Siwa lahle ameva",
+        "Sithol’ okududuzayo",
+        "Is’busiso sanamhla",
+        "Isandla esisusayo",
+        "Singa shiyi ameva"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sitshel’ imbewu yomusa",
+        "Sitshel’ imbewu yomusa",
+        "Sitshel’ imbewu yomusa",
+        "Soyivuna ngomusa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Asiyazisi ingoma",
+        "Ingakacul’ inyoni",
+        "Asinakekel’ umbala",
+        "Zize zimuk’ izimbali",
+        "Asikhathalel’ ihlobo",
+        "Ngisho naka ncanyana",
+        "Engath’ alina njabulo",
+        "Yokwehlis’ umoyana"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uma singazwel’ ingane",
+        "Icindezelw’ emnyango",
+        "Ukuthi ingephunyule",
+        "Singabi namcabango",
+        "Lengane ingasibuka",
+        "Ibhekisis’ ubuso",
+        "Budatshulwe kubambeka",
+        "Njengo kuba kunjalo"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O izandl’ ezibandayo",
+        "Zisi khumbuza njani",
+        "Amazwi asheshisayo",
+        "Asakazw’ endleleni",
+        "Yebo ziyasikhumbuza",
+        "Zibambeke buhlungu",
+        "Singawatshali ameva",
+        "Sovun’ is’vunguvungu"
+      ],
+      "number": 5
+    }
+  ]
+}

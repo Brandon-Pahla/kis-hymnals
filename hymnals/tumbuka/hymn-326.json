@@ -1,0 +1,55 @@
+{
+  "number": 326,
+  "language": "tum",
+  "title": " 326 Mpingo Wa Tawakhristu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 326 Mpingo Wa Tawakhristu",
+        "We're A Little Christian Band"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mpingo wa tawakhristu",
+        "'mwe tikukondwa mwa Fumu,",
+        "Tikuruta kuchanya",
+        "'mwe tikukondwa mwa Fumu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Muponoski mtirongozgenge makora,",
+        "Pakuruta uko kuchanya."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Tikuyenda makora",
+        "'mwe tikukondwa mwa Fumu,",
+        "Tikuthereska mwani",
+        "'mwe tikukondwa mwa Fumu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Sono sono tam'njira",
+        "'mwe tikukondwa mwa Fumu,",
+        "Tamukuwala mphumphu",
+        "'mwe tikukondwa mwa Fumu."
+      ],
+      "number": 4
+    }
+  ]
+}

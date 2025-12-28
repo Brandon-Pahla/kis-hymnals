@@ -1,0 +1,47 @@
+{
+  "number": 137,
+  "language": "nd",
+  "title": "137 Ngi Phe uJesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Thath’ izwe u ngiph’ uJesu Ubuhle balo yize;",
+        "Uthando lweNkosi lumi, Yilo njalo phakade."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yek’ ukudepha komusa, Nobubanzi bothando!",
+        "Yek’ ubuhle bokuhlengwa, ‘Sfungo saphakade."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thath’ izwe u ngiph’ uJesu Isiduduzo sami;",
+        "Ngalusiwe nguMsindisi Ngi yohuba kukubi."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thath’ izwe u ngiph’ uJesu Ngi mbon’ emomotheka;",
+        "Khuthi ohambweni lwami Ngi qinise kukhanya."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thath’ izwe u ngiph’ uJesu Ng’thembel’ es’phambanweni;",
+        "Ngize ngi bone obala Si bhekana noJesu."
+      ],
+      "number": 5
+    }
+  ]
+}

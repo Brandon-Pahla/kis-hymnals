@@ -1,0 +1,24 @@
+{
+  "number": 169,
+  "language": "ts",
+  "title": "169. MUDYANDZHAKA U ETLELELA YINI",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "HEIR OF THE KINGDOM",
+        "1. Mudyandzhaka U Etlelela Yini? Loko U Ri Kusuhi Na Kaya;",
+        "Pfuka, Phaphama U Hloma Matlhari; Hatlisa Nkarhi Wu Ta Ku Siya.",
+        "2. We Mudyandzhaka U Hlwelela Yini? Hakelo Yi Kusuhi Tiyisa;",
+        "Phaphama Hloma Muponisi Wa Ta, N’wi Hlanganise Wa Ta Hi Papa.",
+        "3. Tinxaka Ti Pfukelana Matimba, Ta Rhurhumela Hi Wona Nchavo;",
+        "Twana Mpfumawulo Wa Makalichi, We Mudyandzhaka Hlayisa Nkarhi.",
+        "4. U Nga Tsakeli Swilo Swa Misava, Ntsako Wa Swa Misava Wa Hela;",
+        "Tsema Mapindza Ya Nala Hinkwawo Mudyandzhaka Hambana Na Swona.",
+        "5. Tlakusa Mahlo u Languta Henhla, Langutela Ku Vuya Ka Hosi;",
+        "Ku Vonakala Ku Huma Vuxeni, Mudyandzhaka Yimbelela tsaka"
+      ],
+      "number": 1
+    }
+  ]
+}

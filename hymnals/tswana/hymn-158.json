@@ -1,0 +1,50 @@
+{
+  "number": 158,
+  "language": "tn",
+  "title": "158 Thobo E Kgolo Ya ’Fatshe E Gaufi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Thobo E Kgolo Ya ’Fatshe E Gaufi,",
+        "Morena O bitsa barobi go tla;",
+        "Tlhaka tse di galalelang masimong,",
+        "Di butswetse segotlo mogang A tlang"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "(SOPRANO):",
+        "Akofa tsatsi, Rorang diako.",
+        "Akofa tsatsi, R’ ise gae.",
+        "(BA BANGWE):",
+        "Akofang baengele, tla tsatsi,",
+        "Lo rorele diako segotlong;",
+        "Akofang baengele, tla tsatsi,",
+        "Lereng thobo gae."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moso Ole O Sa Khutleng Boipelong,",
+        "O ntse o atamela ka dingwaga,",
+        "Korong e phatlaladitsweng ke sebe,",
+        "E phuthwe ’tlhabula ’ise lo fete."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Go Gontle Tiro E E Tswang Loratong;",
+        "Molatswana o tswelang kwa godimo,",
+        "Ke lorato lo lo re laleletsang",
+        "Tshimong boineelong bo gakgamatsang"
+      ],
+      "number": 3
+    }
+  ]
+}

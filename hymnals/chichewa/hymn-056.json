@@ -1,0 +1,61 @@
+{
+  "number": 56,
+  "language": "ny",
+  "title": "56 - Ambuye, Ndiri Kudza",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "I’VE WANDERED FAR AWAY"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ndasocherera kutali, Mbuye ndibwera;",
+        "Ndayenda m’njira za mdima; Mbuye ndibwera."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ndidzako! Ndidzako! Ndili kudzako!",
+        "Ndi chifundo cha Mbuye; Ndili kudzako."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndamwaza zaka zambiri, Mbuye ndibwera.",
+        "Ndilapa ndithu machimo, Mbuye ndibwera."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ndatopa nazo zoipa, Mbuye ndibwera.",
+        "Ndimvera mau anuwo, Mbuye ndibwera."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Mtima wanga uwawadi, Mbuye ndibwera,",
+        "Mundichiritsa Mbuy’anga; Mbuye ndibwera."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Ndisowa mwazi wanuwo, Mbuye ndibwera;",
+        "Munditsuke ndiyere mbu, Mbuye ndibwera"
+      ],
+      "number": 6
+    }
+  ]
+}

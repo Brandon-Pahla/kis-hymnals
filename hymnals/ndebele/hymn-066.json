@@ -1,0 +1,47 @@
+{
+  "number": 66,
+  "language": "nd",
+  "title": "66 Suku Oluhle!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Suk’ oluhle! Lokukhetha",
+        "iNkosi yam’ noMsindisi;",
+        "Kuhle inhliziyo yami:",
+        "Ukuyisho leyo ‘ndaba."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yek’ usuk’ oluhle! A ngi hlamb’ izon’ uJesu;",
+        "Wangifundis’ ukulinda;",
+        "Ukuhlala ngi thandaza;",
+        "Yek’ usuk’ oluhle! A ngi hlamb’ izon’ uJesu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ku phelile, ku phelile,",
+        "Ngi ngoweNkos’ I ngeyami;",
+        "Yangihola mina moni,",
+        "Ngathokoza ngi biziwe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Phumula ‘nhliziyo yami,",
+        "Cabanga ngalezi zinto;",
+        "U ngalahli usindiso",
+        "Ezinhluphekweni zami."
+      ],
+      "number": 4
+    }
+  ]
+}

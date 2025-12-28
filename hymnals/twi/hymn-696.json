@@ -1,0 +1,57 @@
+{
+  "number": 696,
+  "language": "tw",
+  "title": "N1 Awake My Soul",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me kra, nyan anigye nnwom mu",
+        "Yi wo Gyefo kɛsen' ayɛ;",
+        "Mede No nnwom ka ampa'ra;",
+        "Ne dɔ ayamye da hɔ kwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ohui sɛ masɛe  asehwem',",
+        "‘Yi nyinaa akyi ɔdɔɔ me;",
+        "Ɔgyee me f'ri yera kwan so;",
+        "Ne dɔ ayamye no so pii."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ atamfo tumfo dɔm pii,",
+        "Wiase ne bonsam tia me a,",
+        "Ɔda so ky'rɛ me kra kwanpa;",
+        "Ne dɔ ayamye no ye pii."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɔ haw adan omununkum,",
+        "Na aprannaa rebobom mpo~a,",
+        "Ogyina me kra nkyɛn daa daa;",
+        "Ne dɔ ayamye no ye pii."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ wiase trenee Hen' no ba,",
+        "Bɛfa N'aponfo kɔ fie a,",
+        "Mɛto dwom, ‘nigye mpoano hɔ;",
+        "Ne dɔ ayamye no ho daa."
+      ],
+      "number": 5
+    }
+  ]
+}

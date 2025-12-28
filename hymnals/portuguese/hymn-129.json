@@ -1,0 +1,56 @@
+{
+  "number": 129,
+  "language": "pt",
+  "title": "Nenhum Vale Escuro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Nenhum Vale Escuro"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nenhum vale escuro de luta e dor",
+        "Nós teremos quando Jesus voltar;",
+        "Não mais sombras, quando Jesus voltar",
+        "Pra dar-nos o galardão,",
+        "Pra dar-nos o galardão,",
+        "Pra dar-nos o galardão;",
+        "Não teremos sombras ao vir Jesus",
+        "Pra dar-nos o galardão."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Oh, que lindo dia, manhã de luz!",
+        "Tudo é alegria ao vir Jesus;",
+        "Tudo é alegria ao vir Jesus",
+        "Com todos os anjos Seus,",
+        "Com todos os anjos Seus,",
+        "Com todos os anjos Seus;",
+        "Tudo é alegria, ao vir Jesus",
+        "Com todos os anjos Seus."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A canção gloriosa de quem venceu,",
+        "Cantaremos quando Jesus voltar;",
+        "Cantaremos quando Jesus voltar,",
+        "Unidos no Seu amor;",
+        "Unidos no Seu amor,",
+        "Unidos no Seu amor;",
+        "Cantaremos quando Jesus voltar,",
+        "Unidos no Seu amor."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "number": 332,
+  "language": "es",
+  "title": "En la tierra adonde iré",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### En la tierra adonde iré"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "En la tierra adonde iré",
+        "muerte y llanto no habrá;",
+        "gozo eterno allí tendré,",
+        "y no hay noche allá."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Dios las penas quitará,",
+        "no habrá muerte ni dolor;",
+        "tiempo no se contará,",
+        "y no hay noche allá."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Puertas bellas se abrirán",
+        "en la Santa Ciudad;",
+        "calles áureas se verán,",
+        "y no hay noche allá."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Para siempre viviré",
+        "en mi amado hogar;",
+        "agua viva beberé,",
+        "y no hay noche allá."
+      ],
+      "number": 5
+    }
+  ]
+}

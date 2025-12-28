@@ -1,0 +1,49 @@
+{
+  "number": 413,
+  "language": "tw",
+  "title": "Nyame Name N'adiyifo So",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame nam N'adiyifo so",
+        "Ada N'asɛm no adi;",
+        "Wɔn ny'naa fi mm'resanten ka sɛ",
+        "Nyame ne trenee W'ra no.",
+        "Wiase basamtu ne haw mun',",
+        "Ne sɛkyɛ kura yɛn mu;",
+        "Nyame yɛ Hen, N'agua tim hɔ",
+        "ɔne mfiase ne awiei."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame nam Kristo Yesu so,",
+        "ɔba noso akasa;",
+        "Okura Agya no 'nuonyam",
+        "Ne Agya no yɛ baako.",
+        "Asɛmɔaɔɛbɛyɛɛɔnipa,",
+        "Tete Kwaframoa Nyame,",
+        "Hann pa a ɛbaa 'sase so",
+        "Beyii Nyame adi ky'rɛe."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame nam Ne Honhom no so",
+        "Kasa ky'rɛ nnipa koma;",
+        "Tete Asɛm no da Nyame",
+        "Nkrasɛm adi sɛ kan no;",
+        "Aman sɔre ne asehwem,",
+        "Gyidi k'ro no gy'na pintinn;",
+        "Nyame yɛ Hen, N'asɛm tim hɔ",
+        "ɔne mfiase ne awiei."
+      ],
+      "number": 3
+    }
+  ]
+}

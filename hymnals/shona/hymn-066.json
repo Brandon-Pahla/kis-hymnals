@@ -1,0 +1,46 @@
+{
+  "number": 66,
+  "language": "sn",
+  "title": "66 Musi Werufaro",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Musi wakanakisisa",
+        "Apo ndakakusarudza",
+        "Mwoyo wangu wafarira",
+        "Mwari wangu naM’ponesi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Musi werufaro, Jesu wandisamba mwoyo",
+        "Wandidzidzisa kurinda, Nekufara kunamata",
+        "Musi werufaro, Jesu wandisamba mwoyo"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rapera’ro, basa guru,",
+        "Ndiri waTenzi, ngewangu",
+        "Andipfuwa, ndatewera",
+        "Ndafara mukudaidzwa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zvino zorora mwoyo’wo",
+        "Funga ngeizvi zviro zvo",
+        "Usapatsane naTenzi",
+        "Ndiye une zviro zvese"
+      ],
+      "number": 4
+    }
+  ]
+}

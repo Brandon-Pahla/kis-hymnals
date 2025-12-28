@@ -1,0 +1,56 @@
+{
+  "number": 269,
+  "language": "ve",
+  "title": "269. Yesu Mutshidzi Wanga A Mangadzaho",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:520",
+        "AH:102"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Mutshidzi a re dzanga, Yesu wanga, Mutshidzi a mangadzaho,",
+        "U dzumba vhutshilo hanga kha tombo, nda vhona madi avhudi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "O dzumba vhutshilo hanga kha tombo, la tsira shango la dora,",
+        "U nkuvhatedza nga lufuno lwawe,",
+        "A dovha nga tshanda tshawe,",
+        "A nkuvhatedza lwavhudi."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mutshidzi a mangadzaho ndi Yesu, U tusa muhwalo wanga,",
+        "U nnyimisa ndi si tsha wa hafhu, A dovha a mpha Maanda."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. U nnyambadza khare ya mashudu, A nndadza nga vhukhethwa,",
+        "Ndi imba nda ri, vhurena kha Ene, Ndi Mutshidzi a re wanga."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Musi ndo no ambadzwa nga lupenyo, nda ya u mu tanganedza,",
+        "U tshidzwa hanga nga lufuno lwawe, ndi do zwi khoda na vhanzhi."
+      ],
+      "number": 5
+    }
+  ]
+}

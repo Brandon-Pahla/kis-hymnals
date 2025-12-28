@@ -1,0 +1,28 @@
+{
+  "number": 359,
+  "language": "es",
+  "title": "Regocijaos siempre",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Regocijaos siempre"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Regocijaos siempre",
+        "en Jesús, nuestro Señor.",
+        "Regocijaos siempre",
+        "en Jesús, nuestro Señor.",
+        "Gozaos, gozaos,",
+        "lo vuelvo a repetir.",
+        "Gozaos, gozaos,",
+        "en Jesús, nuestro Señor."
+      ],
+      "number": 2
+    }
+  ]
+}

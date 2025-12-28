@@ -1,0 +1,58 @@
+{
+  "number": 453,
+  "language": "fr",
+  "title": "Garde-moi près de la croix",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Garde-moi près de la croix,",
+        "Source radieuse",
+        "De vie, de force et de joie,",
+        "De foi précieuse."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Refrain",
+        "Sainte croix, don divin,",
+        "À jamais tu brilles",
+        "Comme l'astre du matin,",
+        "Qui toujours scintille."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ta croix rayonne pour moi,",
+        "Étoile brillante !",
+        "Alors, mon âme en émoi",
+        "S'ouvre à toi, confiante."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Agneau de Dieu sur la croix,",
+        "Dispense la grâce.",
+        "Tu me conduis par la foi",
+        "Tout près de ta face."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Je me tiens près de ta croix,",
+        "Esprit d'espérance,",
+        "Le regard fixé sur toi",
+        "Avec assurance."
+      ],
+      "number": 5
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 269,
+  "language": "xh",
+  "title": "269 UMsindisi Ongumangaliso",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "NdinoMsindisi, uYesu iNkosi, Yena unguMangaliso;",
+        "Ufihl’ umphefumlo wam kwelo Liwa, Apho ndonwaba kakhulu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Undigcina ndiphantsi kwelo Liwa, Lisith’ izwe lembalela;",
+        "Ufihl’ ubomi bam Ngothando lwaKhe, Ndigcinwe sisandla saKhe.",
+        "Ndigcinwe sisandla saKhe."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "NdinoMsindisi, uYesu iNkosi, Ususa imithwalo yam;",
+        "Undibamba ndingashukunyiswa nto, Ndomelezwa yonk’ imihla."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Lonk’ ixesha undiph’ intsikelelo, Ndizaliswe ngobungcwele;",
+        "Ngovuyo ndihlabel’ ingom’ emnandi, \"Udumo ngoMkhululi wam!\""
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Xa ndambathiswe ngokukhanya kwaKhe, Ndimhlangabeza efini,",
+        "Ndovum’ ingoma ngosindiso lwaKhe, Nangothando olukhulu."
+      ],
+      "number": 4
+    }
+  ]
+}

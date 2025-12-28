@@ -1,0 +1,25 @@
+{
+  "number": 360,
+  "language": "tum",
+  "title": " 360 Mtipamphuske Ise",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 360 Mtipamphuske Ise",
+        "Lord, Send A Revival"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mtipamphuske ise,",
+        "Fumu yithu Yesu,",
+        "Mtipamphuske ise,",
+        "muyambire pa ine."
+      ],
+      "number": 2
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "number": 222,
+  "language": "st",
+  "title": "222 Matsohong A Jesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke polokong matsohong, Sefubeng sa Jesu,",
+        "Ts’ireletso leratong, Ke tla phomola hantle,",
+        "Utloa mangeloi a roka, A tlang ho ’na ka pina,",
+        "A tsoa moo khalalelong, Oatleng la jasepa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ke polokong matsohong, Sefubeng sa Jesu,",
+        "Ts’ireletso leratong, Ke tla phomola hantle."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke polokong ho Jesu, Polokong ts’enyehong,",
+        "Melekong ea lefats’e, ’Me ha se nts’e kotsi,",
+        "Topollo masoabing, Topollo moo ts’abong,",
+        "Meleko ha e sa le kae, E le likeleli"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Jesu ts’ireletso’a ka, Jesu O nchoetse ’na,",
+        "Moo lefikeng la mehla, Ke tla ts’epela teng",
+        "A ke lete tiisetsong, Bosiu bo fete,",
+        "Ke be ke bone meso, Libohong la gauda."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 109,
+  "language": "en",
+  "title": "109 Weighed And Wanting",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "When the Judge shall weigh our motives,",
+        "For eternal gain or loss,",
+        "Shall we stand as gold before him,",
+        "Or as vile and worthless dross."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Weighed in the balances of the Lord,",
+        "Weighed, weighed and wanting;",
+        "Weighed by the standard of his word",
+        "Weighed, weighed and wanting."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Shall we hear the glad words spoken,",
+        "“Faithful servant,” and “Well done,”",
+        "Or the dread and awful sentence,",
+        "“Thou art wanting,” sinful one?"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Shall we heed the Spirit’s pleading,",
+        "While for mercy we may call,",
+        "Or delay till God’s handwriting,",
+        "Seals the final doom of all."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "number": 52,
+  "language": "st",
+  "title": "52 Mohloli Oa Mahlohonolo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mohloli oa ’hlohonolo,Tlo U nthute ho bina",
+        "Melatsoana ea mohau e lokela thoriso;",
+        "U nthute ho U khabisa, Ke bonts’e molemo ’hao.",
+        "Ha ts’epo ea khalalelo eona ne mpha fela."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke bea kelello ea ka, Ka thuso ea Hao mona;",
+        "Ke na le ts’epo ho fihla hae ka boitumelo,",
+        "Jesu ’mptlile ke lahlehile, Ke tsoile mo mohlapeng;",
+        "Ho mpoloka le likotsing, A ts’olla mali A Hae."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Hlohonolong ke na le molato ka mehla eohle,",
+        "’Me U ntlame ka marapo, Ke be haufi le Uena;",
+        "Morena ha ke lahleha, Ke tloha ho Molimo;",
+        "U nke pelo ena ea ka, U e tlise ho Uena."
+      ],
+      "number": 3
+    }
+  ]
+}

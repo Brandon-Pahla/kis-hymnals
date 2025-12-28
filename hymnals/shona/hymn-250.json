@@ -1,0 +1,45 @@
+{
+  "number": 250,
+  "language": "sn",
+  "title": "250 Musakundwe Nezviyedzo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Musakundwe nezvi yedzo zvakaipa",
+        "Kukunda kumwe kunokupa simba",
+        "Kana semurume, Kunda ruchiva",
+        "Unangise Jesu, unobatsirwa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kumbira muponesi, kuti akubatsire",
+        "Anoda kubatsira, unozobatsirwa"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Rega shamwari nemanzwi enhando",
+        "Remekedza zita raMwari wako",
+        "Iva nepfungwa kwadzo zve nemutsa",
+        "Unangise Jesu, unobatsirwa"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vakurira vanopiwa chiremba",
+        "Tichazokurira nerudairo",
+        "Tinopiwa simba nam’ponesi",
+        "Unangise Jesu, unobatsirwa"
+      ],
+      "number": 4
+    }
+  ]
+}

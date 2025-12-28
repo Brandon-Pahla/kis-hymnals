@@ -1,0 +1,56 @@
+{
+  "number": 132,
+  "language": "sn",
+  "title": "132 Petyo Ne Muchinjiko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Petyo nemuchinjiko",
+        "Pane tsime kwaro",
+        "Mvura yekurapa",
+        "Yabva kuna Jesu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Petyo, Petyo nem’chinjiko wenyu",
+        "Ndipo panozorora",
+        "Mwoyo wangu wese"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Petyo nemuchinjiko",
+        "Mutsa wandiwana",
+        "Apo ndajekeserwa",
+        "Kupenya kwaJesu"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Petyo nemuchinjiko",
+        "Ndonuona Jesu",
+        "Ndibatsire kufamba",
+        "Mumabvute awo"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Petyo nemuchinjiko",
+        "Ndorinda ndowimba",
+        "Dakara ndizoswika",
+        "Mhiriyo kwerizi"
+      ],
+      "number": 5
+    }
+  ]
+}

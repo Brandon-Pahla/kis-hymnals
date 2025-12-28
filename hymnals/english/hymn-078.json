@@ -1,0 +1,50 @@
+{
+  "number": 78,
+  "language": "en",
+  "title": "78 Seeking The Lost.",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Seeking the lost yes, kindly entreating,",
+        "Wonderers on the mountains astray;",
+        "“Come unto me,” the message repeating,",
+        "Words of the Master speaking today."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Going afar……upon the mountain……….",
+        "(Going afar) (upon the mountain)",
+        "Bringing the wan……d’rers back again…..",
+        "(Bringing the wand’rers, the wand’rers back again.)",
+        "Into the fold… of my Redeemer,…",
+        "(Into the fold of my Redeemer)",
+        "Jesus the Lamb……… For sinners slain.",
+        "(Jesus the Lamb, the Lamb for sinners slain.)"
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Seeking the lost, and pointing to Jesus,",
+        "Soul that are weak and hearts that are sore",
+        "Leading them forth in ways of salvation,",
+        "Showing the path to life evermore."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thus would I go, for Jesus hath called me,",
+        "Him would I follow day unto day;",
+        "Care for the dying, raise up the fallen,",
+        "Pointing the lost to Jesus the way."
+      ],
+      "number": 3
+    }
+  ]
+}

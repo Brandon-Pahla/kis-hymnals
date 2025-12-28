@@ -1,0 +1,54 @@
+{
+  "number": 149,
+  "language": "ve",
+  "title": "149. Tshimbila Tshedzani",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Tshimbila tshedzani tsha Yesu, U vhonetshele,",
+        "Muya une wa bva tadulu, u thutha swiswi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Enda tshedzani, enda tshedzani,",
+        "Tshimbila tshedzani, tshaweMurena."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tshimbidza mafhungo ngoho, ndi ipfi la Yesu,",
+        "Vhonetshela na vha re vhaswa, vha de ha Murena."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Naho hu na swiswi livhi, musi u ndilani,",
+        "Tshedza tshi do u vhonetshela, tsha pandela swiswi."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Tshimbila tshedzani tshawe, nga lufuno lwawe,",
+        "Na zwivhuya zwa vhukonani, ha ngei tadulu."
+      ],
+      "number": 5
+    }
+  ]
+}

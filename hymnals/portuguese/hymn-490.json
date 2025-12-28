@@ -1,0 +1,56 @@
+{
+  "number": 490,
+  "language": "pt",
+  "title": "Caminhando",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Caminhando"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Alegre eu já vou para o lar celestial,",
+        "Caminhando, caminhando;",
+        "Pois não me encanta mais o prazer terrenal;",
+        "Caminhando para aquele lar."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Caminhando, caminhando,",
+        "para a quele lar onde está Jesus.",
+        "Caminhando, caminhando,",
+        "Pela mão divina de Jesus."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eu quero pecadores comigo levar,",
+        "Caminhando, caminhando;",
+        "Que em Cristo possam eles a paz encontrar;",
+        "Caminhando para aquele lar."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Com Cristo, meu Senhor, para sempre estarei,",
+        "Caminhando, caminhando;",
+        "Seu nome eternamente então louvarei;",
+        "Caminhando para aquele lar."
+      ],
+      "number": 5
+    }
+  ]
+}

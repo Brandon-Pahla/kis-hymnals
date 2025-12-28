@@ -1,0 +1,49 @@
+{
+  "number": 104,
+  "language": "tw",
+  "title": "Me Hwɛfo Bɛma M'ahiade",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Me Hwɛfo bɛma m'ahiade,",
+        "Yehowa ne Ne din;",
+        "Ogyaw me kɔ 'didibea frɔmm",
+        "Nsu a ɛho dwo ho.",
+        "ɔde me san ba trenee mu",
+        "Sɛ mefom N'akwan a;",
+        "Ne mmɔb'rɔhun nti, Ogyaw me",
+        "Kɔ nokware kwan so."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ menam 'wu sunsuma mų a",
+        "Woka me ho wɔ hɔ;",
+        "Wo home mu asɛm biako",
+        "Pam me suro nyinaa.",
+        "Wode Wo nsa siesie ɔpon",
+        "Ma me, m'atamfō anim;",
+        "Me nhy'ra k'ruwa yɛ ma bu so,",
+        "Wode ngo fɔ me t'rim."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nnepá a me Nyame asiesie",
+        "Di m'akyi, me nna ny'naa;",
+        "O' ma Wo fie nyɛ me atrae,",
+        "Na minyi W'ayɛ daa.",
+        "Ͻhɔ na menya home pa",
+        "B'rč a 'binom kɔ ba no;",
+        "Merenyɛ ɔhɔho bi bio,",
+        "Na mmom sɛ 'ba wɔ fie."
+      ],
+      "number": 3
+    }
+  ]
+}

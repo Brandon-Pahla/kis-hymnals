@@ -1,0 +1,40 @@
+{
+  "number": 271,
+  "language": "nd",
+  "title": "271 Kom’ Izono Zibomvu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nom’ izono zibomvu, Ziya kuba njengeqhwa",
+        "Nom’ izono zibomvu, Ziya kuba njengeqhwa",
+        "Noma sezi the tebu, Zingaba mhlophe,",
+        "Ezakho ezibomvu, Ezakho ezibomvu",
+        "Ziya kuba njenge qhwa, Ziya kuba njenge qhwa"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Zwan’ izwi el’ ncengayo; Buya kuNkulunkulu!",
+        "Zwan’ izwi el’ ncengayo; Buya kuNkulunkulu!",
+        "Yen’ ohawu kelayo, Nothand’ ol’khulu",
+        "Zwan’ izwi el’ ncengayo, Zwan’ izwi el’ ncengayo",
+        "Buyela kuJehova, Buyela kuJehova"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wosus’ izono zenu, Soze azikhumbule,",
+        "Wosus’ izono zenu, Soze azikhumbule,",
+        "Bhekani ki Mi zizwe; Ush’ uJehova",
+        "Wosus’ izono zenu, Wosus’ izono zenu,",
+        "Soze azikhumbule,Soze azikhumbule"
+      ],
+      "number": 3
+    }
+  ]
+}

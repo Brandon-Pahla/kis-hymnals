@@ -1,0 +1,42 @@
+{
+  "number": 205,
+  "language": "luo",
+  "title": "205 An Ni Mari Ruoth",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. An ni mari, Ruoth,to niluongoa;Isenyisa herani;To adwaro inmond` ibed koda,Mond` ibed koda pile."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bedi (mana) butapile pile, Ruoth,Ni mondo apar thoni;Bedi mana buta pile pile,Ruoth, Ni mond` adok nyathini."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Adwaro mondoati tichni, Ruoth;Adwaro mond` ikonya;Mondo aparindalo duto te,kik agomb mokome piny."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. An amor pileka atiyoni,Ka chunya oheroi;Ka Alamo in,ka iwinjoa,Ka abedo nyathini."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Herani matutok anyal ng`eyo,Nyaka atundi kuno;Mor man e polookadho ng`eyo;Nyaka ayud kuwe kuomi."
+      ],
+      "number": 5
+    }
+  ]
+}

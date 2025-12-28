@@ -1,0 +1,24 @@
+{
+  "number": 46,
+  "language": "ts",
+  "title": "46. ENGETA U YIMBELELA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SING THEM OVER AGAIN",
+        "1. Engeta U Yimbelela, Marito Ya Vutomi;",
+        "I Marito Layonghasi, Marito Ya Hosi, Lama Dyondzisaka, Hi Ta Ripfumelo",
+        "CHORUS",
+        "I Marito Yo Saseka, Layo Hlamarisa,",
+        "I Marito Ya Vutomi, Layo Hlamarisa.",
+        "2. Yeso U Hi Nyike Wona, Marito Ya Vutomi;",
+        "Muendla-swivi Rhiya Ndleve, Yingisa U Hanya, Ya Nyikiwa Ntsena, Ku Hi Yisa Tilweni.",
+        "3. Ya Nyikeni Ka Hinkwavo, Marito Ya Vutomi;",
+        "Ya Tisa Ku Rivalela, Ma Tele Vutomi, Yesu Mukutsuri,",
+        "U Hlantswa Vudyoho."
+      ],
+      "number": 1
+    }
+  ]
+}

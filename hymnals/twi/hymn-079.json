@@ -1,0 +1,57 @@
+{
+  "number": 79,
+  "language": "tw",
+  "title": "Nyame Dɔ Yɛ Den Yɛ Nokwar'!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame dɔ yɛ den yɛ nokwar'!",
+        "Enni awiei, 'yɛ fof 'ro daa;",
+        "Ase yɛ tena, wɔntɔ nso;",
+        "Ͻtra nimdeɛ ne adwen ny'naa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame dɔ yɛ kɛse, 'mu dɔ,",
+        "Emu dɔ tra nipa tan ny'naa;",
+        "Edi mu, wɔ n'ankasa hann;",
+        "Ͻnsakra da, etim hɔ daa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nea ɔbɛsoaa yɛn 'nimguase",
+        "Dua so nom' na yɛkan Wo yie;",
+        "ɔno na Agya n' somaa No,",
+        "Sɛ ɔmmɔ yɛn bra, nwu yɛn wu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛkan Wo tumi a ɛhy'ra",
+        "Gye nkwa n' wɔ damoa sum mu mpo;",
+        "Na owusɔre hann no mu",
+        "Yɛkan W'ahoɔden mayɛ no."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame dɔ, yɛn kyɛm ne boafo",
+        "Wɔ yɛn kwan so mmusu nyinaam;",
+        "Daa dɔ, Wo mu na yɛhome,",
+        "Nya daa korabea ne nhyira."
+      ],
+      "number": 5
+    }
+  ]
+}

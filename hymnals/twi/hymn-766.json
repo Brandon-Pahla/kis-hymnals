@@ -1,0 +1,49 @@
+{
+  "number": 766,
+  "language": "tw",
+  "title": "NG16 Mεyi Me Gyefo Ayε",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mεyi me gyefo ayε, Monnyae me o",
+        "Mma mensεpε me ho, mento",
+        "Dwom nyi Nyame ayε o.",
+        "Mede sanku, nnawuta; mεkanfo No o;",
+        "Menim mea menya wɔ Ne mu, Monnyae me o."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Mεto dwom!, mεto dwom ayi me",
+        "Nyame ayε daa;",
+        "Mεto dwom!, mεto dwom ada me",
+        "Nyame ase daa;",
+        "Menim nea menya wɔ Ne mu,",
+        "Monnyae me o."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mεto me dɔfo ho dwon, monnyae me o;",
+        "Jessus din, mεbɔ ama amansan Ate o.",
+        "Mede sanku, nnawuta; mεkanfo No o;",
+        "Menim nea menya wɔ Ne mu, Monnyae me o."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mεda me Bɔfo ase, monnyae me o",
+        "Mma mensεpε me ho, mento dwom nna",
+        "Nyame ase o. Mede mpaebɔ, abot’rε; mεsom No o;",
+        "Menim nea menya wɔ Ne mu Monnyae me o."
+      ],
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "number": 273,
+  "language": "tw",
+  "title": "Aw'rade Mede W'asɛm No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Aw'rade mede W'asɛm no",
+        "Ayɛ m'agyapade;",
+        "'Hɔ na m'ahoɔden bedi dɛw,",
+        "Na m'adwen agy'na so."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mɛkenkan Wo dɔ 'bakɔsɛm,",
+        "De Wo mm'ra 'si m'anim;",
+        "Mekyinkyin Wo bɔhyɛ no mu,",
+        "Anigye kɛse mu."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nnepa a ewom nni ano,",
+        "'Hɔ na nkwa 'suten pue;",
+        "Nea na wodua daa nkwa aba,",
+        "Na 'nuonyam pa no wɔ."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Aw'rɛhowdifo ahotɔ,",
+        "Ͻdan yɛn w'rɛhow nhy'ra;",
+        "Ͻyɛ 'wu akyi 'nidaso,",
+        "Ne yɛn daapem home."
+      ],
+      "number": 4
+    }
+  ]
+}

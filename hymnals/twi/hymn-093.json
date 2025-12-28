@@ -1,0 +1,57 @@
+{
+  "number": 93,
+  "language": "tw",
+  "title": "Ade a Ͻyɛ Fɛ Ny'naa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ade a ɛyɛ fɛ nyinaa,",
+        "‘Bɔde ‘kɛse, nkumaa,",
+        "Nneɛma a ɛyɛ nwanwa,",
+        "Nyame n' Ͻyɛɛ ne ny’naa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nɔhw'ren biará a emu bue,",
+        "Nnoma a wɔto dwom,",
+        "Cbɔɔ wɔn ahoɔfɛ mu,",
+        "Maa wɔn ntaban nkumaa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Afasebire bepɔ,",
+        "Asu a ɛresen,",
+        "Owitoe ne anɔpa",
+        "A ɛhyerɛn ewim."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Awɔb'rem mframa nwin'nwin',",
+        "Ahuhub'rem owia,",
+        "Nnuaba a ab're turom,",
+        "ɔ'na ɔyɛɛ ne ny'naa."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔmaa yɛn aniwa ne",
+        "Anofafá a yɛde",
+        "Bɛka Nyame, Nea ɔyɛɛ",
+        "'De ny'naa yie n' kɛseyɛ."
+      ],
+      "number": 5
+    }
+  ]
+}

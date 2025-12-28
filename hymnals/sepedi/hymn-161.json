@@ -1,0 +1,72 @@
+{
+  "number": 161,
+  "language": "nso",
+  "title": " 161  MOREN'A KA LENNA",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 161  MOREN'A KA LENNA",
+        "АН 112 CH 532",
+        "MY LORD AND I"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke ne mogwer'a bohlokwa,",
+        "O nthat 'e le ruri,",
+        "O nthata ka bonolo,",
+        "Le ka botshepegi,",
+        "Nka se kgaogane na ye,",
+        "O ratwa le kgauswi,",
+        "Mme re dule mmogo,",
+        "Yena le nna;"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ge ke fela maatla ke,",
+        "Tennwe wa kwešiša,",
+        "O re ke 'thekge ka yena,",
+        "Ke thabela thušo,",
+        "O ntshepetša leseding,",
+        "Phadimong ya tšatši,",
+        "Mme re sepele mmogo,",
+        "Yena le nna;"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ke mmotša ka manyami,",
+        "Le ka 'thabo la ka,",
+        "Le ka tše nthabisago,",
+        "Le tse nkgopišago,",
+        "O mpotša ka tshwanelo,",
+        "Gore ke leke bjang,",
+        "Mme re hlamule mmogo,",
+        "Yena le nna;"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "O tseba ge ke rata,",
+        "Go sokolla mongwe,",
+        "O re ke sepele ke,",
+        "Bolele ntšu la 'Gwe,",
+        "Ka rato la go makatša,",
+        "La ge are hwetše,",
+        "Mme re šome mmogo,",
+        "Yena lenna;"
+      ],
+      "number": 5
+    }
+  ]
+}

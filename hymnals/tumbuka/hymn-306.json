@@ -1,0 +1,51 @@
+{
+  "number": 306,
+  "language": "tum",
+  "title": " 306 Panthanzi Pa Chizumbe",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 306 Panthanzi Pa Chizumbe",
+        "Before Jehova's Awftul Throne"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Panthazi pa chizumbe 'mwe wamitundu wawerame,",
+        "Wamanye Chiuta n' Fumu wangalenga na kunanga."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Mnkhongono zake mwenecho wakatipanga ku dongo,",
+        "Ndipo tose tikazgewa watinjizgaso m'lukutu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Pa vipata tayamkwimba kuchanya tamkwezga mazgu,",
+        "Pasi mvinenero vyose takumutamika lyo."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Dango lake ntcharo nacho chitemwa ntchamyirayira,",
+        "Mazgu ghake nga jalawe apo myaka ntha yam' Wako."
+      ],
+      "number": 5
+    }
+  ]
+}

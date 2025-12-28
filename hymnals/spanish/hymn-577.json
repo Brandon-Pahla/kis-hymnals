@@ -1,0 +1,59 @@
+{
+  "number": 577,
+  "language": "es",
+  "title": "Yo quiero trabajar",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Yo quiero trabajar"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yo quiero trabajar por el Señor,",
+        "creyendo en su Palabra y en su amor;",
+        "quiero, sí, cantar y orar,",
+        "y ocupado siempre estar",
+        "en la viña del Señor."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Trabajar y orar",
+        "en la viña, en la viña del Señor;",
+        "sí, mi anhelo es orar,",
+        "y ocupado siempre estar",
+        "en la viña del Señor."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yo quiero cada día trabajar,",
+        "y esclavos del pecado libertar,",
+        "llevarlos a Jesús,",
+        "nuestro guía, nuestra luz,",
+        "en la viña del Señor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yo quiero ser obrero de valor,",
+        "confiando en el poder del Salvador.",
+        "Quien quiera trabajar",
+        "hallará también lugar",
+        "en la viña del Señor."
+      ],
+      "number": 5
+    }
+  ]
+}

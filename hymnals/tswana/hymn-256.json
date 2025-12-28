@@ -1,0 +1,39 @@
+{
+  "number": 256,
+  "language": "tn",
+  "title": "256 Modimo Thuso Ya Rona",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Modimo Thuso Ya Rona, Tsholofelo Metlheng;",
+        "Tshireletso mo sefefong, Gae ja bosakhutleng."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Moruting Wa Trone Ya ’Go, Baitshepi Ba Gone;",
+        "Tsogo ja ’Go le lekanye, Phemo e tlhomane."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Dithaba Di ’Se Di Tsalwe, Fatshe Le Sa Botswa,",
+        "Go tswa bosasimologeng, O nts’O le Modimo."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Bontsi Jwa ’Ngwaga Go Wena ’Kete Ma’banyane;",
+        "Bo khutshwane jaaka moso, Pele ga letsatsi."
+      ],
+      "number": 4
+    }
+  ]
+}

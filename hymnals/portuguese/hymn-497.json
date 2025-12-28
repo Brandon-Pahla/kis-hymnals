@@ -1,0 +1,50 @@
+{
+  "number": 497,
+  "language": "pt",
+  "title": "Queremos Dar Louvor",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Queremos Dar Louvor"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem nos inspirar",
+        "Vem nos ensinar, Senhor,",
+        "Na luz do Teu Espírito.",
+        "Vem nos animar,",
+        "Vem nos transformar, Senhor,",
+        "Com Teu poder e glória."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Senhor, queremos dar louvor",
+        "Em gratidão a Ti.",
+        "Aceita nosso coração.",
+        "Vem transformar nosso ser."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vem nos ajudar,",
+        "Vem nos consolar, Senhor;",
+        "Que a tua paz esteja em nós.",
+        "Dá-nos Teu poder",
+        "Pra te obedecer e crer",
+        "Em Teu sacrifício"
+      ],
+      "number": 4
+    }
+  ]
+}

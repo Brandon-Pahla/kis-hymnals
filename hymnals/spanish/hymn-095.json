@@ -1,0 +1,65 @@
+{
+  "number": 95,
+  "language": "es",
+  "title": "Un día",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Un día"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Un día que el cielo sus glorias cantaba,",
+        "un día que el mal imperaba más cruel,",
+        "Jesús descendió y al nacer de una virgen",
+        "nos dio por su vida un ejemplo tan fiel."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Coro:",
+        "Vivo, me amaba; muerto, salvome;",
+        "y en el sepulcro mi mal enterró;",
+        "resucitado, él es mi justicia;",
+        "un día él viene, pues lo prometió."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Un día lleváronle al monte Calvario,",
+        "un día enclaváronle sobre una cruz;",
+        "sufriendo dolores y pena de muerte,",
+        "expiando el pecado, salvome Jesús."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Un día la tumba ocultarle no pudo,",
+        "un día el ángel la piedra quitó;",
+        "habiendo Jesús ya a la muerte vencido,",
+        "a estar con su Padre en su trono, ascendió."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Un día vendrá y con voz de arcángel",
+        "un día en su gloria el Señor brillará.",
+        "¡Oh día admirable en que unido su pueblo",
+        "loores a Cristo por siempre dará!"
+      ],
+      "number": 6
+    }
+  ]
+}

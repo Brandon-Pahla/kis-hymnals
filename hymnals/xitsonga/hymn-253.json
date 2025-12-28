@@ -1,0 +1,20 @@
+{
+  "number": 253,
+  "language": "ts",
+  "title": "253. VONA MURISI LONENE",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SEE, ISRAEL’S GENTLE SHEPHERD",
+        "1. Vona Murisi Lonene, Wa Vitana Sweswi,",
+        "Tinyimpfu Leti Tsaneke, Ku Ti Khongotela.",
+        "2. Mi Nga Ti Siveli Ku Ta, Tshikani Ku Sandza,",
+        "Minkateko Ya Nyikiwa, Vo Fanan Na Tona.",
+        "3. Hi Lava Vana Va Wena, Yesu Va Hlayise,",
+        "Hi Tinyiketa Ka Wena, Na Vana Va Hina."
+      ],
+      "number": 1
+    }
+  ]
+}

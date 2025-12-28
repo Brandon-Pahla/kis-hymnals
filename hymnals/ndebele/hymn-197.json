@@ -1,0 +1,57 @@
+{
+  "number": 197,
+  "language": "nd",
+  "title": "197 Akukho Sigodi Esimnyama",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Akukh’ okositha nx’ uJes’ eza;",
+        "Akukh’ okositha nx’ uJes’ eza;",
+        "Akukh’ okositha nx’ uJes’ eza;",
+        "Nxa ezothath’ abAkhe."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nxa ezo thath’ abAkhe,",
+        "Nxa ezo thath’ abAkhe,",
+        "Akukh’ okositha nx’ uJes’ eza",
+        "Ebayisa ekhaya"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kungebekho ‘nsizi nxa’ uJes’ eza;",
+        "Kungebekho ‘nsizi nxa’ uJes’ eza;",
+        "Kungebekho ‘nsizi nxa’ uJes’ eza;",
+        "Nxa ezo thath’ abAkhe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Akuy’ ukulilwa nx’ uJes’ eza;",
+        "Akuy’ ukulilwa nx’ uJes’ eza;",
+        "Akuy’ ukulilwa nx’ uJes’ eza;",
+        "Nxa ezo thath’ abAkhe."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kohlatshelwa mnandi nx’ uJes’ eza;",
+        "Kohlatshelwa mnandi nx’ uJes’ eza;",
+        "Kohlatshelwa mnandi nx’ uJes’ eza;",
+        "Nxa ezo thath’ abAkhe."
+      ],
+      "number": 5
+    }
+  ]
+}

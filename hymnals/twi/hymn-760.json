@@ -1,0 +1,38 @@
+{
+  "number": 760,
+  "language": "tw",
+  "title": "NG10 Medan Wo",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Mede me ho  nyinaa bεma Wo Aw'urade",
+        "Mede me ho nyinaa bεma Wo Agyenkwa' e",
+        "Mede me ho nyinaa bεma Wo Aw'rade",
+        "Medan Wo medan Wo medan Wo' ara."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Nea mεyε nyinaa Wo na WobεyεAma me' o",
+        "Nea mεka nyinaa Wo na Wobεka'Ama me' o",
+        "Mede me ho nyinaa bεma Wo Aw'rade",
+        "Medan Wo, medan Wo,medan Wo' ara."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Gye me, Agya'e, gye me, gye me,",
+        "Gye me na mayera'o Yi me,",
+        "Agya'e yi me f'ri bɔne mu' o Twe me,",
+        "Agya'e, twe me, twe me Bata Wo ho",
+        "Me dan Wo, medan wo, medan Wo' ara."
+      ],
+      "number": 3
+    }
+  ]
+}

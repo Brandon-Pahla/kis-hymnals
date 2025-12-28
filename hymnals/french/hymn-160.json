@@ -1,0 +1,47 @@
+{
+  "number": 160,
+  "language": "fr",
+  "title": "Dieu, en qui notre espoir",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Dieu, en qui notre espoir se fonde,",
+        "Les anges te rendent l’honneur ;",
+        "Maître de la terre et de l’onde,",
+        "Tu es pour nous plein de douceur."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Les rois, les grands de notre monde,",
+        "Devant toi se prosterneront ;",
+        "Et remplis d’une paix profonde",
+        "Tous les peuples te serviront."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Le malheureux criant sa peine,",
+        "Celui dont la vie est brisée,",
+        "Sera délivré de la haine",
+        "Et jouira de tes bontés."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Béni sois-tu, Seigneur de gloire,",
+        "Béni soit ce jour merveilleux",
+        "Où les tiens verront la victoire",
+        "De leur Sauveur venu des cieux."
+      ],
+      "number": 4
+    }
+  ]
+}

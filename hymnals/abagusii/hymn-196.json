@@ -1,0 +1,35 @@
+{
+  "number": 196,
+  "language": "guz",
+  "title": "196 Yeso N'Omosani Omuya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yeso n'Omosani omuya,Ekero okobugwa n'enseNakogwenie omoyo,Nagokoa chinguruYeso n'Omosani omuya."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yeso nomosani omuya(Yes' omosani, Omosani omuya)Yeso nomosani omuya(Yes' ornosani, Omosani omuya)Nagokonye gokogwa,Nakoigwe gokorangeriaNomosani obuete bonsi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Yeso n'Omosani obuete!Andemia na kong' omorembe;Ambwate n'okoboko,Tinkoiroka kende,Yeso n'Omosani omuya."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Nimba nomoichan' omonge,Nonya namakweri nachicha,Tinkoigwa kende,Omotoria ng'ang' areYeso n'Omosani omuya."
+      ],
+      "number": 4
+    }
+  ]
+}

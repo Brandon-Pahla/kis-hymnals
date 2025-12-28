@@ -1,0 +1,44 @@
+{
+  "number": 290,
+  "language": "tn",
+  "title": "290 Boipelong Tirong",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Boipelego Tirong Ya Morena, Re Ya K’atla Tse",
+        "d’ithatisang",
+        "Go dira se re ka se neelwang; Re tla latela thom’a rona"
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Direla Jeso, Ka boipelo, ka boipelo",
+        "Direla Jeso, Tshimong ya ’Gwe lefatshing",
+        "T &amp; B.",
+        "A re direleng Morena, Ka boipelo e, ka boipelo;",
+        "A re direleng Morena, Tshimong ya ’Gwe lefatshing."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Boipelong, Bolela Polelo Ya Rato Lwa ’Gwe Mono",
+        "’fatshing;",
+        "K’reste kgalalelo ya Rara O nna tshego ja Gagwe fela"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Re Isa Batimedi Mmoloking, Baleofi Kwaneng Ya",
+        "Modimo",
+        "Re latela Morena boikobong Tselenge Oe tsamaileng."
+      ],
+      "number": 3
+    }
+  ]
+}

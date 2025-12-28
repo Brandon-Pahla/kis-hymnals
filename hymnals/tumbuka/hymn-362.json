@@ -1,0 +1,57 @@
+{
+  "number": 362,
+  "language": "tum",
+  "title": " 362 SUMU YA MTUNDU WITHU",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 362 SUMU YA MTUNDU WITHU",
+        "THE NATIONAL ANTHEM"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Chiuta mtumbike Malawi",
+        "Mumupe mutende",
+        "Muthereske warwani wose",
+        "Njala, nthenda, sanje.",
+        "Gumanyani mitima yathu",
+        "Chofyo tiwavyeso",
+        "Mtumbike mlongozgi na tose",
+        "Na mama Malawi."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Malawi charu chakutowa",
+        "Nyata na wanangwa",
+        "Nyanja mphepo za mumapiri",
+        "Tawamwabi ndise",
+        "Mmadambo nyata ya vundira",
+        "Nguyi na madambo ghawe me Kutowa Malawi"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Wanangwa muyaya pamoza",
+        "Tizenge Malawi",
+        "Kutemwana mwamphu na nchindi",
+        "Timutewetere",
+        "MnyengO ya nkhondo nesi mtende",
+        "Chikhomo chimoza Mama, dada,",
+        "mwe tijipate Mkukuzga Malawi."
+      ],
+      "number": 4
+    }
+  ]
+}

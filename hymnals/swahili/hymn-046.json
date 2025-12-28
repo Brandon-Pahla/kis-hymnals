@@ -1,0 +1,37 @@
+{
+  "number": 46,
+  "language": "sw",
+  "title": "46 - Miguuni Pake Yesu",
+  "stanzas": [
+    {
+      "type": "verse",
+      "number": 1,
+      "lines": [
+        "Miguuni pake Yesu, maneno yake tamu,",
+        "Pahali palipo heri, niwepo kila siku.",
+        "Miguuni pake Yesu nakumbuka upendo",
+        "Na hisani yake kwangu, vimenivuta moyo."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 2,
+      "lines": [
+        "Miguuni pake Yesu, hapa mahali bora,",
+        "Pa kuweka dhambi zangu, mahali pa pumziko.",
+        "Miguuni pake Yesu, hapa nafanya sala,",
+        "Kwake napewa uwezo, faraja na neema."
+      ]
+    },
+    {
+      "type": "verse",
+      "number": 3,
+      "lines": [
+        "Unibariki Mwokozi, ni miguuni pako,",
+        "Unitazame kwa upendo, nione uso wako.",
+        "Nipe Bwana nia yake, ili ionekane,",
+        "Nimekaa na Mwokozi, aliye haki yangu."
+      ]
+    }
+  ]
+}

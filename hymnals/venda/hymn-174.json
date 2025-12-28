@@ -1,0 +1,60 @@
+{
+  "number": 174,
+  "language": "ve",
+  "title": "174. Zwi Takadza Hani!",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:440",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Ri a li takalela fulufhelo la ngoho.",
+        "li ri takulela ntha musi ri lwendoni",
+        "li ri takulela ntha musi ri lwendoni"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Li a ri sumbedza lone shango la vhakhethwa.",
+        "Hune ra do vhona vhafunwa ra dzula navho.",
+        "Hune ra do vhona vhafunwa ra dzula navho."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kha shango li si na zwivhi mulingo a uho.",
+        "Hu dzulwa nga dakalo li songo vanganywaho",
+        "Hu dzulwa nga dakalo li songo vanganywaho."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Kha helo shango lavhudi a huna mitodzi.",
+        "Lufu a lu nga dzheni, vha do nga sa vharunwa",
+        "Lufu a lu nga dzheni, vha do nga sa vharunwa."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "5. Tavhanya tshifhinga, Mutshidzi tavhanya u da",
+        "Ri tama u vhona Iwe ri dzule hayani",
+        "Ri tama u vhona Iwe ri dzule hayani."
+      ],
+      "number": 6
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "number": 96,
+  "language": "ve",
+  "title": "96 Ida duvha la U Awela",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:391",
+        "AH:383"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.Ro takala namusi, Nga vhuawelo hashu",
+        "Hu a ri takadzesa, Sa u da ha madautsha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ndi duvha la u’ tshete, Na u renda Mudzimu",
+        "Nga lone ri humbula Musiki wa tadulu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. duvha la u awela duvha la u rendiwa",
+        "Ndi duvha la u divha dziphathutshedzo dzawe."
+      ],
+      "number": 4
+    }
+  ]
+}

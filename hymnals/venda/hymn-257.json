@@ -1,0 +1,39 @@
+{
+  "number": 257,
+  "language": "ve",
+  "title": "257. Wo Ima Sa Thavha Khethwa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:160"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Wo ima sa thavha khethwa, Wo khwatha sa thavha,",
+        "Muthu a fulufhela RaMaanda u do kunda."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Mitsheto na dzithavha a zwi koni u thusa,",
+        "Sa hoyo ane zwanda zwawe zwa thusa vhothe."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ita zwivhya, Mudzimu, kha vha no u khoda,",
+        "Vha no nambatela ngoho, Vha pfa mulayo wau."
+      ],
+      "number": 4
+    }
+  ]
+}

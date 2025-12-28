@@ -1,0 +1,47 @@
+{
+  "number": 657,
+  "language": "tw",
+  "title": "Nyame a Wo Din Da Adasa So",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Nyame a Wo din da adasa so;",
+        "Wo a Wo dom apam no tim hɔ daa,",
+        "Ka baanu a wɔtwɛn W'anim yi ho;",
+        "Trɛw 'dɔ a wɔrehyira so no mu."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma wɔn nkabom no nhyira afof'ro;",
+        "Ma wommue wɔn apon mma ahɔho,",
+        "Ma wɔn ntease a ayamye wɔ mu,",
+        "Fa adwen a 'mu da hɔ hyira wɔn."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yi pɛsɛmenkominya fi wɔn mu;",
+        "Fa kasa mu nokwaredi dom wɔn.",
+        "Ma nkabom no nnyina wɔ ap'rep're",
+        "Ne 'sase so ha nsakrae biara mu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "ɔbra akwantu no fa biara mu,",
+        "Ma wɔnkae bɔ a wɔhyɛ no nnɛ yi;",
+        "Ma Wo Honhom nky'rɛ wɔn kwan baabiara,",
+        "Na wɔn dɔ nnyina Kristom' gyidi so."
+      ],
+      "number": 4
+    }
+  ]
+}

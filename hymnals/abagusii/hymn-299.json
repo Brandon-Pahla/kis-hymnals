@@ -1,0 +1,35 @@
+{
+  "number": 299,
+  "language": "guz",
+  "title": "299 Nasibiri'Amaboko",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Nasibiri'amabokobuya bono mambia;Akor'emeremo yaYeso goika boire."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "'Magor'ane renda'se mokong'ira;Mokorere Yesobwek'emeremo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Ninyateg'amat'ane,ntegerere buya;Nyigw'eki amabok'an'aranyare gokora."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Amais'an'arend'amabok'as'emeremo,Tayakor'amabeakore aya yeso."
+      ],
+      "number": 4
+    }
+  ]
+}

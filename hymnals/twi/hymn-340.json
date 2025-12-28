@@ -1,0 +1,63 @@
+{
+  "number": 340,
+  "language": "tw",
+  "title": "Yɛate Nne Dɛdɛ Bi Sɛ",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Yɛate nne dɛdɛ bi sɛ,",
+        "Yesu tumi gye nkwa;",
+        "Trɛw anigyesɛm no mu,",
+        "Yesu tumi gye nkwa.",
+        "Bɔ amanneɛ no mmaa ny'naa",
+        "Foro mmepɔ na twa po,",
+        "Onyame se, kɔ anim,",
+        "Yesu tumi gye nkwa."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma 's'rɔkye mmɔ no brɛoo sɛ",
+        "Yesu tumi gye nkwa;",
+        "Ma bɔnefo nyinaa nte,",
+        "Yesu tumi gye nkwa;",
+        "Ͻpo so nsupɔw monto,",
+        "Na po abodan nnye so,",
+        "'Sase bedi ah'rusi,",
+        "Yesu tumi gye nkwa."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "To bua akosɛm no so,",
+        "Yesu tumi gye nkwa;",
+        "Ne wu ne Ne daa nkwa nti,",
+        "Yesu tumi gye nkwa;",
+        "To no brɛoo wɔ ɔhaw mu",
+        "B're a koma hwehwɛ 'dom",
+        "To di owu so nkonim,",
+        "Yesu tumi gye nkwa."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ma ɛnne nwosow kɛse,",
+        "Yesu tumi gye nkwa:",
+        "Ma aman ani nnye nnɛ,",
+        "Yesu tumi gye nkwa.",
+        "Teɛm ka nkwagye ho asɛm",
+        "Nkoko so ne ntok'ru mu",
+        "Yɛn nkonimdi dwom ne sɛ,",
+        "Yesu tumi gye nkwa."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "number": 36,
+  "language": "sn",
+  "title": "36 Ndinonangisa Kunemwi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ndinokunangisa, nekuzodaira, Muponesi,",
+        "Chinzwai, ndonamata, mubvise zvitema,",
+        "O, mundiregere ndive wenyu"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ngemutsa mundipe moyo ungasimbe, Ndishingise",
+        "Makandifira’wo, zve ndive nerudo,",
+        "Runoyera sezvo moto m'tsvene"
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Kana kune dima, kana ndatambudzwa, Mundibate,",
+        "Dima mungadzinge, pukuta masodzi,",
+        "Musandibvumire ndirasike"
+      ],
+      "number": 3
+    }
+  ]
+}

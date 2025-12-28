@@ -1,0 +1,56 @@
+{
+  "number": 559,
+  "language": "pt",
+  "title": "Feliz Manhã",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Feliz Manhã"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Já cansados seguimos de noite a penar,",
+        "Na jornada da vida cristã,",
+        "Mas será para nós tão brilhante o raiar",
+        "Da gloriosa e feliz manhã."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Findarão as agruras da vida,",
+        "Quando a névoa do mal passar.",
+        "Há de a noite fugir ante o vivo luzir,",
+        "Quando o dia eternal raiar."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Há tão grandes mistérios na trilha a seguir,",
+        "E prenúncios de lutas e dor,",
+        "Mas de nós fugirão quando virmos luzir",
+        "Sua face em real fulgor."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mesmo que nos pareça o caminho sem fim,",
+        "Tendo os olhos a lacrimejar,",
+        "Recompensas gloriosas teremos enfim,",
+        "No bendito e eterno lar."
+      ],
+      "number": 5
+    }
+  ]
+}

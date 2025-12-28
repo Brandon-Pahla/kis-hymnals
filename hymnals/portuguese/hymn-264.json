@@ -1,0 +1,56 @@
+{
+  "number": 264,
+  "language": "pt",
+  "title": "Um Dia Ele Esclarecerá",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Um Dia Ele Esclarecerá"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Não sei por que ao meu redor",
+        "Eu vejo tanto dissabor;",
+        "Não posso ver porque há dor,",
+        "Mas um dia eu saberei."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Côro:",
+        ":",
+        "Um dia o Salvador virá;",
+        "Um dia Ele esclarecerá;",
+        "Então da dor me livrará;",
+        "Um dia hei de compreender."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Não posso o amor aprofundar",
+        "Que o Pai levou Seu Filho a dar,",
+        "Para na cruz me regatar,",
+        "Mas um dia eu saberei."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Não sei por que, em luta e dor,",
+        "Eu, sendo um pobre pecador,",
+        "Jesus me ampara com amor,",
+        "Mas um dia eu saberei."
+      ],
+      "number": 5
+    }
+  ]
+}

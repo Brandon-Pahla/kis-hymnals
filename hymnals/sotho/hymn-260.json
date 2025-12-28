@@ -1,0 +1,44 @@
+{
+  "number": 260,
+  "language": "st",
+  "title": "260 Phula Ea Beula",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Ke feta hona phuleng eo ba reng e bolutu,",
+        "Athe ke fumana tsel’e tletseng lipalesa,",
+        "Ho n’a ke khohloana ea Beula, E ntlehali,",
+        "Hoba ke tsamaea le ’Moloki, Molekane."
+      ],
+      "number": 1
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ao Beula, Ao Beula, Ua hlokeha ho ’na!",
+        "Ao, ke bona fats’e le letle la lits’episo."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ha ho na moriti o ka fifatsang le tsela,",
+        "Hoba, phatsimo ea khalalelo ke ea mehla.",
+        "Meloli e binoang teng ke ba leholimo,",
+        "E utloahala phuleng eo, e nkhatholla pelo."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Eka boikakaso ho ea motseng oa leseli,",
+        "Boikakaso ba ka boa hola, le phatsimo.",
+        "Ke atamela khoro tsa borena holimo,",
+        "Hobane tsel’e nyolohela pusong ea lerato."
+      ],
+      "number": 3
+    }
+  ]
+}

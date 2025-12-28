@@ -1,0 +1,54 @@
+{
+  "number": 234,
+  "language": "ve",
+  "title": "234. Yesu Tshedza Tsha Shango",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "SDAH:",
+        "AH:"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1. Vha a imba vharunwa, Yesu ndi tshedza tshashu,",
+        "Ndi nwana o bebwaho, Yesu ndi tshedza tshashu,"
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Ri na tshedza tshavhudi, i da fhano mutshidzi wa u penyesa,",
+        "Ro tangelwa nga tshone tshedza, Yesu ndi tshedza tshashu-vho."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Takalani nothe mashango, Yesu ndi tshedza,",
+        "Imani na dzikhoro, Yesu ndi tshedza tshashu."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Kha hu rendwe-ha, Ene Yesu ndi tshedza tshashu,",
+        "Imani na dzikhoro, Yesu ndi tshedza tshashu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4. Vho da kha Ene nwana, Yesu ndi tshedza tshashu.",
+        "Vho da-n nga u luga, Yesu ndi tshedza tshashu."
+      ],
+      "number": 5
+    }
+  ]
+}

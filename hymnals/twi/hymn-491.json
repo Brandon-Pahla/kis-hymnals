@@ -1,0 +1,37 @@
+{
+  "number": 491,
+  "language": "tw",
+  "title": "Sɔhwɛ Bere Mu No",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Sɔhwɛ bere mu no, Yesu, srɛ ma me,",
+        "Na manyi Wo amma Manfi Wo nɔkyɛn;",
+        "Wuhu sɛ mehim a, Fa ɔhwɛ frɛ me;",
+        "Ehu anaa 'dom mu, Mma menhwe ase."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ wiase 'huhude, 'Nigye a ɛmfra,",
+        "Ne 'gyapade bɔne Sɔre tia me a,",
+        "Ͻtwe m'adwene si Getsemane yaw",
+        "Anaasɛ ne nsɛso Kalbre 'sɛnnua so."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Sɛ Wo mmɔborɔhun' De ɔhaw brɛ me;",
+        "Anaasɛ yaw to me Wɔ me kwan so a,",
+        "Mma me werɛ mmfi da Sɛ mehu Wo nsa;",
+        "Ma memfa m'ahiade Nɔto Wo so daa."
+      ],
+      "number": 3
+    }
+  ]
+}

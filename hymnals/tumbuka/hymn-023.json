@@ -1,0 +1,68 @@
+{
+  "number": 23,
+  "language": "tum",
+  "title": " 23 Mundifukatire Ine",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 23 Mundifukatire Ine",
+        "HOVER O'ER ME HOLY SPIRIT"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "1.",
+        "Mundifukatire ine,",
+        "Imwe Mzimu Mutuwa,",
+        "Mundisukiske mu mtima,",
+        "inya mwize mha'uno."
+      ],
+      "number": 2
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "Zaninge, zaninge,",
+        "Imwe Mzimu Mutuwa,",
+        "Mundisukiske mu mtima",
+        "ndiie winu ndipera."
+      ]
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2.",
+        "Ine ndirije mahara",
+        "zani mkhalenge nane,",
+        "Nadi nkhusowelwa imwe,",
+        "zani mzure mwa ine."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3.",
+        "Ndirije nkhongono,",
+        "sono nkhujikama kwa imwe;",
+        "Imwe Mzimu Mtuwa",
+        "m'ndizuzge na kutemwa kwinu."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "4.",
+        "Munditumbike a Mzimu,",
+        "sukani mtima wane,",
+        "Ndimwe msanguluski wane,",
+        "zaninge mkhale nane."
+      ],
+      "number": 5
+    }
+  ]
+}

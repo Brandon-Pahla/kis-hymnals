@@ -1,0 +1,49 @@
+{
+  "number": 25,
+  "language": "guz",
+  "title": "25 Naye Obogima Bwane",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Naye obogima bwane,bobuet' obwenseye,Orogendo rwane nseye,'Motoria ntare naye."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mbe naye, mbe naye,mbe naye, mbe nayeOrogendo rwan' enseye,'Motoria ntare naye."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Tari mogoko ngosaba,tindigeti obonene,'Meremo as'emechando,bwanche intare naye."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mbe naye, mbe naye,mbe naye, mbe nayeMeremo as'emechando,bwanche intare naye."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Ntang'ane ime yomosunte,'Nyimokie erio mbue,Omonene nsoe naye'bogima botaere."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Mbe naye, mbe naye,mbe naye mbe naye,Omonene nsoe naye'bogima botaere."
+      ],
+      "number": 6
+    }
+  ]
+}

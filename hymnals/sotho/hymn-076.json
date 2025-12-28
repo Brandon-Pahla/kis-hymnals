@@ -1,0 +1,51 @@
+{
+  "number": 76,
+  "language": "st",
+  "title": "76 Pholosang Balahlehi",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Thusang balahlehi, Le ba baballeng;",
+        "Ba phamoleng sebeng le lebitleng, le lleleng batloli,",
+        "Tsosang ba oeleng; Ba pheteleng ka Jesu ’Moloki."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thusang balahlehi ba hlokomeleng;",
+        "Jesu O mohau Oa boloka."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Leha ba mo nyatsa, O ba emetse;",
+        "O emetse ba ba sokolohang",
+        "Ba lekeng ka matla le ka bonolo O tla ts’oarela ba mo lumelang."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Ka pelong ea motho eo a leng tekong,",
+        "Ho patiloe see seka bolokang;",
+        "Ba angoa ka lerato le ka mosa, ba tla khutlela ba tsohe hape."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Thusang balahlehi, ho le ts’oanetse;",
+        "Morena O tla le nea ketso,",
+        "Tseleng e ts’esane le ka mamello, ba bolelleng ’Moloki O shoele."
+      ],
+      "number": 5
+    }
+  ]
+}

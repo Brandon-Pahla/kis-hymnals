@@ -1,0 +1,50 @@
+{
+  "number": 1,
+  "language": "rn",
+  "title": "  1 Murinzi We Vuza Inzamba",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### 1 Murinzi We Vuza Inzamba"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Murinzi we vuz'inzamba, ubwir'umuntu wese. Ng'uz'umv'iyo nkuru nziza, Yihan'akizw'ivyaha."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Icitabirizo:",
+        "Murinzi we vuz'inzamba, Isamirane hose, Menyesha bos'ubutumwa, Imbohe zibohorwe"
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yivugirize mu mpinga, Mw'ishamba mu kiyaya, N'abo mu kiyaga bose, Bameny'ako gakiza."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yivugirize mu nzira, Mu mwiherero hose, Dat' arabarindiriye, Vyose birateguwe."
+      ],
+      "number": 5
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Uyivugiriz'induhe, ngo na zo zibohorwe, Yes'arabatumir'ati : muze ndabaruhure."
+      ],
+      "number": 6
+    }
+  ]
+}

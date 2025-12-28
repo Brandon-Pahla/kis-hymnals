@@ -1,0 +1,35 @@
+{
+  "number": 318,
+  "language": "luo",
+  "title": "318 Yie Mar Kwerewa",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "1. Yie mar kwerewa pod nitieBang` loyo twech sand kod mach be;Chunywa opong` gi mor chuthoKawawinjo wachni maber."
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Yie mar kwerewa yie maber,Wanasikie nyaka giko."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "2. Twech mar kwerewa e mudhoNe ok oketho yie margi;Dibed maber ni nyithindgiKa gin bende giyie kuome."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "3. Yie mar kwerewa wanaherOsiepe, wasigu bende;Kendo wanalandi gi heraKod weche mang`uon mag ngima."
+      ],
+      "number": 4
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "number": 14,
+  "language": "es",
+  "title": "Engrandecido sea Dios",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "### Engrandecido sea Dios"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Engrandecido sea Dios",
+        "en esta ocasión.",
+        "Alegres, juntos a una voz",
+        "Dad gloria, gloria, gloria",
+        "al Dios eternal."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Durante el día que pasó,",
+        "la mano del Señor",
+        "de muchos males nos salvó:",
+        "dad gloria, gloria, gloria",
+        "al Dios eternal."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Él hasta aquí nos ayudó,",
+        "y siempre proveerá.",
+        "Con gratitud, placer y amor",
+        "dad gloria, gloria, gloria",
+        "al Dios eternal."
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "A otras almas salva, ¡oh Dios!",
+        "Despiértalas, Señor;",
+        "escucha nuestra petición,",
+        "y salva, salva, salva,",
+        "salva al pecador."
+      ],
+      "number": 5
+    }
+  ]
+}

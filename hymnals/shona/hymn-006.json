@@ -1,0 +1,57 @@
+{
+  "number": 6,
+  "language": "sn",
+  "title": "6 Jesu Arikuuya",
+  "stanzas": [
+    {
+      "type": "verse",
+      "lines": [
+        "Rindanyi’mwi vanoyera,",
+        "Zvioneso zvaonekwa",
+        "Mwenje yenyu batidzanyi,",
+        "Munochingamidza Tenzi"
+      ],
+      "number": 1
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wonanyi, anouya;",
+        "Jesu Mambo anouya,",
+        "Anouya kuzotonga,",
+        "Wonanyi, anouya."
+      ],
+      "number": 2
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Wonanyi chitsidzo chake,",
+        "Chekuti musunungurwe",
+        "Nguwo chena nezviremba,",
+        "Kasikanyi kutaura."
+      ],
+      "number": 3
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Atigadzirira nzvimbo,",
+        "Muumambo hwake iyo;",
+        "Tauranyizve zvemutsa,",
+        "Tsuri isati yaridzwa"
+      ],
+      "number": 4
+    },
+    {
+      "type": "verse",
+      "lines": [
+        "Vanyangadzi uyai zvino,",
+        "Kristu anotinunura;",
+        "Kasika ichipo nguva,",
+        "Kristu anoda kuuya."
+      ],
+      "number": 5
+    }
+  ]
+}
