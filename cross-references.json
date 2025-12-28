@@ -4,16 +4,16 @@
   "note": "This file can be populated manually or through community contributions as translations are verified.",
   "crossReferences": [
     {
-      "id": "example-001",
-      "note": "Example entry - replace with actual verified translations",
+      "id": "sweet-by-and-by",
+      "note": "Sweet By And By - Confirmed translations. A well-known hymn about meeting in heaven.",
       "hymns": {
         "english": {
-          "number": 1,
-          "title": "Example Title"
+          "number": 50,
+          "title": "Sweet By And By"
         },
-        "swahili": {
-          "number": 1,
-          "title": "Example Title in Swahili"
+        "sdah": {
+          "number": 428,
+          "title": "Sweet By And By"
         }
       }
     }
